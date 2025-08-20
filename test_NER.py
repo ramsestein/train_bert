@@ -409,8 +409,14 @@ class ModelEvaluator:
         
         test_data = []
         missing_annotations = []
+
+        counter = 0
         
         for txt_file in txt_files:
+            counter += 1
+            if counter > EVALUATION_CONFIG['num_documents'] + 1 :
+                break
+            
             # Construir nombre del archivo de anotaciones correspondiente
             base_name = txt_file.stem  # Sin la extensión
             json_file = self.benchmark_dir / f"{base_name}.json"
@@ -957,7 +963,7 @@ def main():
     """Función principal."""
     # Configuración
     BASE_DIR = "."  # Directorio donde están TC_ictus/ y benchmark/
-    MODELS_DIR = "/content/drive/MyDrive/ner_bert_models"  # Cambiar por tu ruta de modelos
+    MODELS_DIR = "models"  # Cambiar por tu ruta de modelos
     
     # ============================================
     # LISTA DE MODELOS A EVALUAR
