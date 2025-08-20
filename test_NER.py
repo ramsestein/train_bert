@@ -15,6 +15,7 @@ from transformers import (
 )
 from sentence_transformers import SentenceTransformer
 from sklearn.metrics.pairwise import cosine_similarity
+import pandas as pd
 import warnings
 warnings.filterwarnings('ignore')
 
@@ -24,7 +25,7 @@ warnings.filterwarnings('ignore')
 
 # Configuración de evaluación
 EVALUATION_CONFIG = {
-    'num_documents': None,  # None = procesar TODOS los documentos
+    'num_documents': 20,  # Limitado a 20 documentos para prueba rápida
     'batch_size': 10,      # Tamaño de lote para procesamiento
     'use_gpu': True,       # Usar GPU si está disponible
     'semantic_threshold': 0.85,  # Umbral general para sinónimos
@@ -683,6 +684,7 @@ class ModelEvaluator:
                         )
                         self.results[model_subname] = {
                             'metrics': metrics,
+                            'predictions': predictions,  # Guardar predicciones del modelo
                             'timestamp': datetime.now().isoformat(),
                             'model_type': 'llama' if 'llama' in model_name.lower() else 'bert',
                             'test_file': MODEL_TEST_FILES[model_name],
@@ -693,7 +695,9 @@ class ModelEvaluator:
                         # Mostrar resumen
                         self._print_summary(model_subname, metrics)
                         self.save_results()
-                        print(f"  ✓ Resultados guardados en evaluation_results.json")
+                        self.save_summary_csv()
+                        self.save_model_predictions(model_subname, predictions)
+                        print(f"  ✓ Resultados guardados en evaluation_results.json, resumen.csv y predicciones_{model_subname.replace('/', '_')}.json")
                         
                 except Exception as e:
                     print(f"Error evaluando {model_subname}: {str(e)}")
@@ -757,10 +761,14 @@ class ModelEvaluator:
             predictions = []
             batch_size = EVALUATION_CONFIG['batch_size']
             
-            # Procesar TODOS los documentos del test
-            num_docs_to_process = len(test_data)
+            # Limitar número de documentos según configuración
+            if EVALUATION_CONFIG['num_documents'] is not None:
+                num_docs_to_process = min(EVALUATION_CONFIG['num_documents'], len(test_data))
+                test_data = test_data[:num_docs_to_process]
+            else:
+                num_docs_to_process = len(test_data)
             
-            print(f"  Procesando {num_docs_to_process} documentos (ya truncados a 512 tokens)...")
+            print(f"  Procesando {num_docs_to_process} documentos (limitado por config)")
             start_time = time.time()
             
             for i in range(0, num_docs_to_process, batch_size):
@@ -852,11 +860,31 @@ class ModelEvaluator:
     
     def save_results(self, output_file: str = 'evaluation_results.json'):
         """Guarda resultados de evaluación."""
-        output_path = Path(output_file)
+        # Usar ruta absoluta para asegurar guardado correcto
+        if not os.path.isabs(output_file):
+            output_path = Path.cwd() / output_file
+        else:
+            output_path = Path(output_file)
         
-        print(f"\nGuardando resultados en {output_path}")
-        with open(output_path, 'w', encoding='utf-8') as f:
-            json.dump(self.results, f, indent=2, ensure_ascii=False)
+        # Crear directorio si no existe
+        output_path.parent.mkdir(parents=True, exist_ok=True)
+        
+        print(f"\nGuardando resultados en {output_path.absolute()}")
+        
+        try:
+            with open(output_path, 'w', encoding='utf-8') as f:
+                json.dump(self.results, f, indent=2, ensure_ascii=False)
+            print(f"✅ Archivo guardado exitosamente: {output_path.absolute()}")
+        except Exception as e:
+            print(f"❌ Error guardando archivo: {e}")
+            # Intentar guardar en directorio actual como backup
+            backup_path = Path.cwd() / f"backup_{output_file}"
+            try:
+                with open(backup_path, 'w', encoding='utf-8') as f:
+                    json.dump(self.results, f, indent=2, ensure_ascii=False)
+                print(f"✅ Guardado en backup: {backup_path.absolute()}")
+            except Exception as e2:
+                print(f"❌ Error en backup también: {e2}")
         
         # Mostrar resumen final en consola
         print("\n" + "="*70)
@@ -874,6 +902,100 @@ class ModelEvaluator:
                 print(f"  - Mejora: {metrics['semantic']['f1'] - metrics['strict']['f1']:+.3f}")
         
         print("="*70)
+
+    def save_summary_csv(self, output_file: str = 'evaluation_summary.csv'):
+        """Guarda un resumen en CSV para análisis rápido."""
+        
+        # Crear ruta absoluta
+        if not os.path.isabs(output_file):
+            output_path = Path.cwd() / output_file
+        else:
+            output_path = Path(output_file)
+        
+        # Preparar datos para CSV
+        summary_data = []
+        for model_name, result in self.results.items():
+            if 'error' not in result:
+                metrics = result['metrics']['metrics']
+                row = {
+                    'Modelo': model_name,
+                    'F1_Estricto': round(metrics['strict']['f1'], 4),
+                    'Precision_Estricto': round(metrics['strict']['precision'], 4),
+                    'Recall_Estricto': round(metrics['strict']['recall'], 4),
+                    'F1_Semantico': round(metrics['semantic']['f1'], 4),
+                    'Precision_Semantico': round(metrics['semantic']['precision'], 4),
+                    'Recall_Semantico': round(metrics['semantic']['recall'], 4),
+                    'Mejora_Semantica': round(metrics['semantic']['f1'] - metrics['strict']['f1'], 4),
+                    'Entidades_Gold': result['metrics']['summary']['total_entities_gold'],
+                    'Entidades_Predichas': result['metrics']['summary']['total_entities_predicted'],
+                    'Documentos_Evaluados': result['metrics']['summary']['documents_evaluated'],
+                    'Tipo_Modelo': result.get('model_type', 'unknown'),
+                    'Timestamp': result['timestamp']
+                }
+                summary_data.append(row)
+        
+        if summary_data:
+            try:
+                df = pd.DataFrame(summary_data)
+                df = df.sort_values('F1_Semantico', ascending=False)
+                df.to_csv(output_path, index=False, encoding='utf-8')
+                print(f"✅ Resumen CSV guardado: {output_path.absolute()}")
+            except Exception as e:
+                print(f"❌ Error guardando CSV: {e}")
+        else:
+            print("⚠️  No hay datos para guardar en CSV")
+
+    def save_model_predictions(self, model_name: str, predictions: List[Dict], output_dir: str = 'predictions'):
+        """Guarda las predicciones brutas de un modelo específico."""
+        # Crear directorio para predicciones
+        pred_dir = Path.cwd() / output_dir
+        pred_dir.mkdir(exist_ok=True)
+        
+        # Nombre de archivo seguro (reemplazar caracteres problemáticos)
+        safe_model_name = model_name.replace('/', '_').replace('\\', '_').replace(':', '_')
+        pred_file = pred_dir / f"predicciones_{safe_model_name}.json"
+        
+        # Preparar datos con formato más legible
+        output_data = {
+            'model_name': model_name,
+            'timestamp': datetime.now().isoformat(),
+            'total_documents': len(predictions),
+            'predictions': predictions
+        }
+        
+        try:
+            with open(pred_file, 'w', encoding='utf-8') as f:
+                json.dump(output_data, f, indent=2, ensure_ascii=False)
+            print(f"    📄 Predicciones guardadas: {pred_file}")
+        except Exception as e:
+            print(f"    ❌ Error guardando predicciones: {e}")
+
+    def save_all_predictions_combined(self, output_file: str = 'all_predictions.json'):
+        """Guarda todas las predicciones de todos los modelos en un solo archivo."""
+        if not os.path.isabs(output_file):
+            output_path = Path.cwd() / output_file
+        else:
+            output_path = Path(output_file)
+        
+        # Recopilar todas las predicciones
+        all_predictions = {}
+        for model_name, result in self.results.items():
+            if 'predictions' in result:
+                all_predictions[model_name] = {
+                    'timestamp': result['timestamp'],
+                    'model_type': result.get('model_type', 'unknown'),
+                    'base_model': result.get('base_model', model_name),
+                    'predictions': result['predictions']
+                }
+        
+        # Guardar archivo combinado
+        if all_predictions:
+            try:
+                with open(output_path, 'w', encoding='utf-8') as f:
+                    json.dump(all_predictions, f, indent=2, ensure_ascii=False)
+                print(f"✅ Todas las predicciones guardadas: {output_path.absolute()}")
+            except Exception as e:
+                print(f"❌ Error guardando archivo combinado: {e}")
 
 
 def main():
@@ -916,7 +1038,8 @@ def main():
     print(f"Archivo de test: {TEST_FILE}")
     print(f"Directorio de modelos: {MODELS_DIR}")
     print(f"Modelos seleccionados: {len(MODELS_TO_EVALUATE)}")
-    print(f"Documentos a procesar: TODOS (test completo)")
+    docs_msg = f"{EVALUATION_CONFIG['num_documents']}" if EVALUATION_CONFIG['num_documents'] else "TODOS"
+    print(f"Documentos a procesar: {docs_msg}")
     print(f"Usar GPU: {'Sí' if EVALUATION_CONFIG['use_gpu'] and torch.cuda.is_available() else 'No'}")
     print(f"Umbral semántico: {EVALUATION_CONFIG['semantic_threshold']}")
     print("="*70)
@@ -930,15 +1053,20 @@ def main():
     # Evaluar todos los modelos
     evaluator.evaluate_all_models()
     
-    # Guardar resultados
+    # Guardar resultados finales
     evaluator.save_results()
+    evaluator.save_all_predictions_combined()
     
     # Tiempo total
     total_time = time.time() - start_time
     
     print("\n¡Evaluación completada!")
     print(f"Tiempo total: {total_time/60:.1f} minutos")
-    print(f"Resultados guardados en: evaluation_results.json")
+    print(f"Resultados guardados en:")
+    print(f"  - evaluation_results.json (métricas + predicciones)")
+    print(f"  - evaluation_summary.csv (resumen de métricas)")
+    print(f"  - predictions/ (predicciones por modelo)")
+    print(f"  - all_predictions.json (todas las predicciones combinadas)")
 
 
 if __name__ == "__main__":
