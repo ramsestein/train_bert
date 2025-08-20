@@ -32,22 +32,9 @@ EVALUATION_CONFIG = {
     'preferred_model_subdir': None,  # Subdirectorio específico a usar (None para automático)
 }
 
-# Mapeo de modelos a sus archivos de test truncados específicos
-MODEL_TEST_FILES = {
-    "biobert-radiology": "test_real_ictus_512_biobert.jsonl",
-    "biomedical-roberta": "test_real_ictus_512_biomedical_roberta.jsonl",
-    "pubmedbert-ms": "test_real_ictus_512_pubmedbert.jsonl",
-    "roberta-clinical-es": "test_real_ictus_512_roberta_clinical.jsonl",
-    "sapbert-pubmed": "test_real_ictus_512_sapbert.jsonl",
-    "llama3.2-3b-int4": "test_real_ictus_512_llama.jsonl",
-    "llama3.2-3b-int8": "test_real_ictus_512_llama.jsonl",
-    # Modelos con prefijo 'real-'
-    "real-biobert-radiology": "test_syn_ictus_512_biobert.jsonl",
-    "real-biomedical-roberta": "test_syn_ictus_512_biomedical_roberta.jsonl",
-    "real-pubmedbert-ms": "test_syn_ictus_512_pubmedbert.jsonl",
-    "real-roberta-clinical-es": "test_syn_ictus_512_roberta_clinical.jsonl",
-    "real-sapbert-pubmed-real": "test_syn_ictus_512_sapbert.jsonl",
-}
+# Directorios de datos reales
+TC_ICTUS_DIR = "TC_ictus"        # Textos de entrada (.txt)
+BENCHMARK_DIR = "benchmark"      # Anotaciones correctas (.json)
 
 # Umbrales semánticos por tipo de entidad
 SEMANTIC_THRESHOLDS = {
@@ -392,28 +379,75 @@ class NERMetricsCalculator:
 class ModelEvaluator:
     """Evalúa modelos NER sobre el conjunto de test."""
     
-    def __init__(self, test_dir: str, models_dir: str, models_to_evaluate: List[str] = None):
-        self.test_dir = Path(test_dir)  # Directorio donde están los archivos de test
+    def __init__(self, base_dir: str, models_dir: str, models_to_evaluate: List[str] = None):
+        self.base_dir = Path(base_dir)  # Directorio base (donde están TC_ictus y benchmark)
+        self.tc_ictus_dir = self.base_dir / TC_ICTUS_DIR
+        self.benchmark_dir = self.base_dir / BENCHMARK_DIR
         self.models_dir = Path(models_dir)
         self.models_to_evaluate = models_to_evaluate or []
         self.metrics_calculator = NERMetricsCalculator(use_semantic=True)
         self.results = {}
-        self.test_data_cache = {}  # Cache para no recargar archivos idénticos
+        self.test_data_cache = {}  # Cache para no recargar archivos
 
-    def _load_test_data(self, model_name: str, test_file_path: Path) -> List[Dict]:
-        """Carga datos de test para un modelo específico con cache."""
-        # Usar cache si ya cargamos este archivo
-        file_str = str(test_file_path)
-        if file_str in self.test_data_cache:
-            print(f"  Usando datos de test en cache para {test_file_path.name}")
-            return self.test_data_cache[file_str]
+    def _load_test_data(self) -> List[Dict]:
+        """Carga datos de test desde TC_ictus/ y benchmark/."""
+        if self.test_data_cache:
+            print(f"  Usando datos de test en cache ({len(self.test_data_cache)} documentos)")
+            return self.test_data_cache
         
-        print(f"  Cargando archivo de test: {test_file_path.name}")
-        test_data = self._load_jsonl(test_file_path)
+        print(f"  Cargando datos de test desde {TC_ICTUS_DIR}/ y {BENCHMARK_DIR}/")
+        
+        # Verificar que existen los directorios
+        if not self.tc_ictus_dir.exists():
+            raise FileNotFoundError(f"No se encontró directorio: {self.tc_ictus_dir}")
+        if not self.benchmark_dir.exists():
+            raise FileNotFoundError(f"No se encontró directorio: {self.benchmark_dir}")
+        
+        # Obtener archivos .txt del directorio TC_ictus
+        txt_files = sorted(self.tc_ictus_dir.glob("*.txt"))
+        print(f"  Archivos .txt encontrados: {len(txt_files)}")
+        
+        test_data = []
+        missing_annotations = []
+        
+        for txt_file in txt_files:
+            # Construir nombre del archivo de anotaciones correspondiente
+            base_name = txt_file.stem  # Sin la extensión
+            json_file = self.benchmark_dir / f"{base_name}.json"
+            
+            if not json_file.exists():
+                missing_annotations.append(base_name)
+                continue
+            
+            try:
+                # Leer texto
+                with open(txt_file, 'r', encoding='utf-8') as f:
+                    text = f.read().strip()
+                
+                # Leer anotaciones
+                with open(json_file, 'r', encoding='utf-8') as f:
+                    annotations = json.load(f)
+                
+                # Crear estructura esperada
+                test_data.append({
+                    'document_id': annotations['document_id'],
+                    'input': text,  # El texto completo del documento
+                    'entities': annotations['entities']
+                })
+                
+            except Exception as e:
+                print(f"    Error procesando {txt_file.name}: {e}")
+                continue
+        
+        if missing_annotations:
+            print(f"  ⚠️  Archivos sin anotaciones: {len(missing_annotations)}")
+            if len(missing_annotations) <= 5:
+                print(f"    Faltantes: {missing_annotations}")
+        
         print(f"  Documentos de test cargados: {len(test_data)}")
         
         # Guardar en cache
-        self.test_data_cache[file_str] = test_data
+        self.test_data_cache = test_data
         
         return test_data
 
@@ -530,26 +564,6 @@ class ModelEvaluator:
         
         return merged_entities
     
-    def _load_jsonl(self, filepath: str) -> List[Dict]:
-        """Carga archivo JSONL."""
-        data = []
-        with open(filepath, 'r', encoding='utf-8') as f:
-            for line in f:
-                item = json.loads(line.strip())
-                
-                # El formato tiene el document_id y entities dentro del campo 'output'
-                if 'output' in item:
-                    output_data = json.loads(item['output'])
-                    # Crear estructura esperada
-                    data.append({
-                        'input': item['input'],
-                        'document_id': output_data['document_id'],
-                        'entities': output_data['entities']
-                    })
-                else:
-                    # Si ya tiene el formato esperado, usar directamente
-                    data.append(item)
-        return data
     
     def evaluate_all_models(self):
         """Evalúa todos los modelos en el directorio."""
@@ -557,10 +571,16 @@ class ModelEvaluator:
             print("Error: No se especificaron modelos para evaluar")
             return
         
+        # Cargar datos de test una sola vez para todos los modelos
+        try:
+            test_data = self._load_test_data()
+        except Exception as e:
+            print(f"❌ Error cargando datos de test: {e}")
+            return
+        
         print(f"\nModelos a evaluar: {len(self.models_to_evaluate)}")
         for model_name in self.models_to_evaluate:
-            test_file = MODEL_TEST_FILES.get(model_name, "SIN ARCHIVO")
-            print(f"  - {model_name} -> {test_file}")
+            print(f"  - {model_name}")
         print("\nBuscando checkpoints adicionales...")
         checkpoints_added = []
         
@@ -582,54 +602,30 @@ class ModelEvaluator:
                         for checkpoint in checkpoints:
                             if checkpoint.is_dir():
                                 checkpoint_name = f"{model_name}/{checkpoint.name}"
-                            
-                            # Añadir a la lista de evaluación
-                            self.models_to_evaluate.append(checkpoint_name)
-                            
-                            # Heredar el archivo de test del modelo padre
-                            if model_name in MODEL_TEST_FILES:
-                                MODEL_TEST_FILES[checkpoint_name] = MODEL_TEST_FILES[model_name]
-                            
-                            checkpoints_added.append(checkpoint_name)
-                            print(f"      + {checkpoint.name}")
+                                # Añadir a la lista de evaluación
+                                self.models_to_evaluate.append(checkpoint_name)
+                                checkpoints_added.append(checkpoint_name)
+                                print(f"      + {checkpoint.name}")
         
         # Mostrar resumen actualizado
         if checkpoints_added:
             print(f"\n✅ Total de modelos a evaluar (incluyendo checkpoints): {len(self.models_to_evaluate)}")
-            print("\nLista completa actualizada:")
-            for model_name in self.models_to_evaluate:
-                test_file = MODEL_TEST_FILES.get(model_name, "SIN ARCHIVO")
-                if model_name in checkpoints_added:
-                    print(f"  - {model_name} -> {test_file} [CHECKPOINT]")
-                else:
-                    print(f"  - {model_name} -> {test_file}")
         else:
             print("\n❌ No se encontraron checkpoints adicionales")
         
         print("=" * 70)
         
-        # Verificar que existen los directorios y archivos de test
+        # Verificar que existen los directorios de modelos
         missing_models = []
-        missing_test_files = []
         
         for model_name in self.models_to_evaluate:
             model_path = self.models_dir / model_name
             if not model_path.exists():
                 missing_models.append(model_name)
                 print(f"  ⚠️  Modelo no encontrado: {model_path}")
-            
-            # Verificar archivo de test
-            if model_name in MODEL_TEST_FILES:
-                test_file = self.test_dir / MODEL_TEST_FILES[model_name]
-                if not test_file.exists():
-                    missing_test_files.append((model_name, test_file))
-                    print(f"  ⚠️  Archivo de test no encontrado: {test_file}")
-            else:
-                print(f"  ⚠️  No hay mapeo de archivo de test para: {model_name}")
-                missing_test_files.append((model_name, None))
         
-        if missing_models or missing_test_files:
-            print(f"\nAdvertencia: {len(missing_models)} modelos no encontrados, {len(missing_test_files)} archivos de test faltantes")
+        if missing_models:
+            print(f"\nAdvertencia: {len(missing_models)} modelos no encontrados")
             response = input("¿Continuar con los modelos disponibles? (s/n): ")
             if response.lower() != 's':
                 return
@@ -642,39 +638,26 @@ class ModelEvaluator:
                 print(f"\n⚠️  Saltando {model_name}: directorio no existe")
                 continue
             
-            # Obtener archivo de test específico
-            if model_name not in MODEL_TEST_FILES:
-                print(f"\n⚠️  Saltando {model_name}: no hay archivo de test mapeado")
-                continue
-            
-            test_file_path = self.test_dir / MODEL_TEST_FILES[model_name]
-            if not test_file_path.exists():
-                print(f"\n⚠️  Saltando {model_name}: archivo de test no existe")
-                continue
-            
-            # Cargar datos de test para este modelo
-            test_data = self._load_test_data(model_name, test_file_path)
-            
-            # Buscar subdirectorios model-*
+            # Buscar subdirectorios model-* o usar el directorio principal
             model_subdirs = [d for d in model_dir.glob('model*') if d.is_dir()]
             if not model_subdirs:
                 model_subdirs = [model_dir]
             
             # Evaluar cada subdirectorio como un modelo independiente
             for subdir in model_subdirs:
-                model_subname = f"{model_name}/{subdir.name}"
+                model_subname = f"{model_name}/{subdir.name}" if subdir != model_dir else model_name
                 
                 print(f"\n{'='*60}")
                 print(f"Evaluando: {model_subname}")
-                print(f"Archivo de test: {MODEL_TEST_FILES[model_name]}")
+                print(f"Datos de test: {len(test_data)} documentos")
                 print(f"{'='*60}")
                 
                 try:
                     # Determinar tipo de modelo
                     if 'llama' in model_name.lower():
-                        predictions = self._run_llama_model(subdir)
+                        predictions = self._run_llama_model(subdir, test_data)
                     else:
-                        predictions = self._run_bert_model(subdir)
+                        predictions = self._run_bert_model(subdir, test_data)
                     
                     # Calcular métricas
                     if predictions:
@@ -687,9 +670,8 @@ class ModelEvaluator:
                             'predictions': predictions,  # Guardar predicciones del modelo
                             'timestamp': datetime.now().isoformat(),
                             'model_type': 'llama' if 'llama' in model_name.lower() else 'bert',
-                            'test_file': MODEL_TEST_FILES[model_name],
                             'base_model': model_name,
-                            'checkpoint': subdir.name
+                            'checkpoint': subdir.name if subdir != model_dir else 'base'
                         }
                         
                         # Mostrar resumen
@@ -708,25 +690,9 @@ class ModelEvaluator:
                         'timestamp': datetime.now().isoformat()
                     }
 
-    def _run_bert_model(self, model_dir: Path) -> List[Dict]:
+    def _run_bert_model(self, model_dir: Path, test_data: List[Dict]) -> List[Dict]:
         """Ejecuta modelo BERT sobre los datos de test."""
         print(f"  Cargando modelo BERT desde {model_dir}")
-        
-        # Obtener el nombre del modelo desde el path para buscar el archivo de test correcto
-        if 'checkpoint-' in str(model_dir):
-            # Para checkpoints, usar el nombre del modelo padre
-            model_name = model_dir.parent.parent.name if model_dir.name == 'model.safetensors' else model_dir.parent.name
-        elif model_dir.name.startswith('model'):
-            model_name = model_dir.parent.name
-        else:
-            model_name = model_dir.name        
-        # Cargar los datos de test específicos para este modelo
-        if model_name in MODEL_TEST_FILES:
-            test_file_path = self.test_dir / MODEL_TEST_FILES[model_name]
-            test_data = self._load_test_data(model_name, test_file_path)
-        else:
-            print(f"  ⚠️  No hay archivo de test mapeado para {model_name}")
-            return []
         
         all_predictions = []
         
@@ -815,20 +781,9 @@ class ModelEvaluator:
         
         return all_predictions
     
-    def _run_llama_model(self, model_dir: Path) -> List[Dict]:
+    def _run_llama_model(self, model_dir: Path, test_data: List[Dict]) -> List[Dict]:
         """Ejecuta modelo Llama sobre los datos de test."""
         print(f"  Cargando modelo Llama desde {model_dir}")
-        
-        # Obtener el nombre del modelo desde el path
-        model_name = model_dir.name
-        
-        # Cargar los datos de test específicos para este modelo
-        if model_name in MODEL_TEST_FILES:
-            test_file_path = self.test_dir / MODEL_TEST_FILES[model_name]
-            test_data = self._load_test_data(model_name, test_file_path)
-        else:
-            print(f"  ⚠️  No hay archivo de test mapeado para {model_name}")
-            return []
     
         # Por ahora, retornar predicciones vacías
         predictions = []
@@ -1001,8 +956,8 @@ class ModelEvaluator:
 def main():
     """Función principal."""
     # Configuración
-    TEST_FILE = "."
-    MODELS_DIR = r"C:\Users\Ramses\Desktop\IAgen\bert_NER\models"
+    BASE_DIR = "."  # Directorio donde están TC_ictus/ y benchmark/
+    MODELS_DIR = "/content/drive/MyDrive/ner_bert_models"  # Cambiar por tu ruta de modelos
     
     # ============================================
     # LISTA DE MODELOS A EVALUAR
@@ -1010,32 +965,20 @@ def main():
     # Comenta/descomenta los modelos que quieras probar
     
     MODELS_TO_EVALUATE = [
-        # Modelos base
-        "biobert-radiology",
-        "biomedical-roberta", 
-        "pubmedbert-ms",
+        # Modelos BERT entrenados con train_NER.py
+        "pubmedbert-optimized",
         "roberta-clinical-es",
-        "sapbert-pubmed",
-        
-        # Modelos con prefijo 'real-' (descomenta los que quieras probar)
-        "real-biobert-radiology",
-        "real-biomedical-roberta",
-        "real-pubmedbert-ms",
-        "real-roberta-clinical-es",
-        "real-sapbert-pubmed-real",
-        
-        # Modelos Llama (descomenta si quieres probarlos)
-        "llama3.2-3b-int4",
-        "llama3.2-3b-int8",
+        "roberta-biomedical-es", 
+        "biobert-dmis",
+        "sapbert",
     ]
-    
-    # NOTA: Con 1500 documentos y 5 modelos, la evaluación completa puede tomar ~30-60 minutos
-    # Para pruebas rápidas, cambia EVALUATION_CONFIG['num_documents'] a un número menor (ej: 50)
     
     print("="*70)
     print("SISTEMA DE EVALUACIÓN NER MÉDICO")
     print("="*70)
-    print(f"Archivo de test: {TEST_FILE}")
+    print(f"Directorio base: {BASE_DIR}")
+    print(f"Textos de entrada: {TC_ICTUS_DIR}/")
+    print(f"Anotaciones gold: {BENCHMARK_DIR}/")
     print(f"Directorio de modelos: {MODELS_DIR}")
     print(f"Modelos seleccionados: {len(MODELS_TO_EVALUATE)}")
     docs_msg = f"{EVALUATION_CONFIG['num_documents']}" if EVALUATION_CONFIG['num_documents'] else "TODOS"
@@ -1048,7 +991,7 @@ def main():
     start_time = time.time()
     
     # Crear evaluador
-    evaluator = ModelEvaluator(TEST_FILE, MODELS_DIR, MODELS_TO_EVALUATE)
+    evaluator = ModelEvaluator(BASE_DIR, MODELS_DIR, MODELS_TO_EVALUATE)
     
     # Evaluar todos los modelos
     evaluator.evaluate_all_models()
