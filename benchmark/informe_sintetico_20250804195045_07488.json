@@ -1,0 +1,95 @@
+{
+  "document_id": "informe_sintetico_20250804195045_07488",
+  "entities": [
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 1183,
+      "end": 1197
+    },
+    {
+      "text": "arteria cerebral anterior",
+      "type": "ARTERIA",
+      "start": 305,
+      "end": 330
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 1049,
+      "end": 1058
+    },
+    {
+      "text": "A2",
+      "type": "ARTERIA",
+      "start": 1344,
+      "end": 1346
+    },
+    {
+      "text": "izquierdo",
+      "type": "LATERALIDAD",
+      "start": 612,
+      "end": 621
+    },
+    {
+      "text": "sin signos hemorrágicos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1866,
+      "end": 1889
+    },
+    {
+      "text": "aumento del tiempo de tránsito medio (MTT)",
+      "type": "MEDIDA",
+      "start": 922,
+      "end": 964
+    },
+    {
+      "text": "tiempo hasta el pico (TTP)",
+      "type": "MEDIDA",
+      "start": 967,
+      "end": 993
+    },
+    {
+      "text": "reducción del flujo sanguíneo cerebral (CBF)",
+      "type": "MEDIDA",
+      "start": 1064,
+      "end": 1108
+    },
+    {
+      "text": "volumen cerebral sanguíneo (CBV)",
+      "type": "MEDIDA",
+      "start": 1111,
+      "end": 1143
+    },
+    {
+      "text": "extensa en penumbra",
+      "type": "PATOLOGIA",
+      "start": 1781,
+      "end": 1800
+    },
+    {
+      "text": "infarto confirmado",
+      "type": "PATOLOGIA",
+      "start": 1815,
+      "end": 1833
+    },
+    {
+      "text": "TC craneal basal urgente",
+      "type": "TECNICA_IMAGEN",
+      "start": 351,
+      "end": 375
+    },
+    {
+      "text": "perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 378,
+      "end": 396
+    },
+    {
+      "text": "angio-TC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 399,
+      "end": 429
+    }
+  ]
+}

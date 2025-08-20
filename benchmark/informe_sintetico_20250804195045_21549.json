@@ -1,0 +1,83 @@
+{
+  "document_id": "informe_sintetico_20250804195045_21549",
+  "entities": [
+    {
+      "text": "hematoma lobar",
+      "type": "PATOLOGIA",
+      "start": 560,
+      "end": 574
+    },
+    {
+      "text": "lóbulo parietal izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 518,
+      "end": 543
+    },
+    {
+      "text": "3.5 x 2.8 x 3.0 cm",
+      "type": "MEDIDA",
+      "start": 485,
+      "end": 503
+    },
+    {
+      "text": "edema vasogénico",
+      "type": "PATOLOGIA",
+      "start": 587,
+      "end": 603
+    },
+    {
+      "text": "efecto masa",
+      "type": "PATOLOGIA",
+      "start": 625,
+      "end": 636
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 689,
+      "end": 696
+    },
+    {
+      "text": "3 mm",
+      "type": "MEDIDA",
+      "start": 714,
+      "end": 718
+    },
+    {
+      "text": "No se visualizan signos de fractura ósea",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 721,
+      "end": 761
+    },
+    {
+      "text": "No se observan signos de vasoespasmo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1304,
+      "end": 1340
+    },
+    {
+      "text": "Hematoma intracerebral lobar",
+      "type": "PATOLOGIA",
+      "start": 1780,
+      "end": 1808
+    },
+    {
+      "text": "TC craneal simple",
+      "type": "TECNICA_IMAGEN",
+      "start": 289,
+      "end": 306
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 328,
+      "end": 349
+    },
+    {
+      "text": "AngioTC intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 1151,
+      "end": 1171
+    }
+  ]
+}

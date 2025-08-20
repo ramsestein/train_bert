@@ -1,0 +1,137 @@
+{
+  "document_id": "informe_sintetico_20250804195045_01006",
+  "entities": [
+    {
+      "text": "infarto cerebral",
+      "type": "PATOLOGIA",
+      "start": 264,
+      "end": 280
+    },
+    {
+      "text": "watershed",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 289,
+      "end": 298
+    },
+    {
+      "text": "hemorragias agudas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 552,
+      "end": 570
+    },
+    {
+      "text": "hipodensidades corticales y subcorticales",
+      "type": "PATOLOGIA",
+      "start": 606,
+      "end": 647
+    },
+    {
+      "text": "arterias cerebrales medias y anteriores",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 693,
+      "end": 732
+    },
+    {
+      "text": "bilateralmente",
+      "type": "LATERALIDAD",
+      "start": 734,
+      "end": 748
+    },
+    {
+      "text": "hemisferio izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 770,
+      "end": 790
+    },
+    {
+      "text": "ASPECTS 8",
+      "type": "PUNTUACION_CLINICA",
+      "start": 866,
+      "end": 875
+    },
+    {
+      "text": "isquemia severa",
+      "type": "PATOLOGIA",
+      "start": 1273,
+      "end": 1288
+    },
+    {
+      "text": "área de penumbra",
+      "type": "PATOLOGIA",
+      "start": 1319,
+      "end": 1335
+    },
+    {
+      "text": "regiones frontoparietales medias",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1365,
+      "end": 1397
+    },
+    {
+      "text": "sin placas significativas ni estenosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1523,
+      "end": 1561
+    },
+    {
+      "text": "sin estenosis relevante",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1596,
+      "end": 1619
+    },
+    {
+      "text": "sin evidencia de trombosis u oclusiones",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1665,
+      "end": 1704
+    },
+    {
+      "text": "sin estenosis significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1849,
+      "end": 1876
+    },
+    {
+      "text": "infarto watershed bilateral",
+      "type": "PATOLOGIA",
+      "start": 1963,
+      "end": 1990
+    },
+    {
+      "text": "hemisferio izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 770,
+      "end": 790
+    },
+    {
+      "text": "sin signos de hemorragia aguda",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2030,
+      "end": 2060
+    },
+    {
+      "text": "tiempo de tránsito prolongado",
+      "type": "MEDIDA",
+      "start": 2104,
+      "end": 2133
+    },
+    {
+      "text": "afectación hemodinámica",
+      "type": "PATOLOGIA",
+      "start": 2136,
+      "end": 2159
+    },
+    {
+      "text": "sin oclusión arterial establecida",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2160,
+      "end": 2193
+    },
+    {
+      "text": "sin evidencia de oclusiones ni estenosis significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2256,
+      "end": 2311
+    }
+  ]
+}

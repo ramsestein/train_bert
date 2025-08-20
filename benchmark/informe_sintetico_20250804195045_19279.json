@@ -1,0 +1,113 @@
+{
+  "document_id": "informe_sintetico_20250804195045_19279",
+  "entities": [
+    {
+      "text": "isquemia cerebral",
+      "type": "PATOLOGIA",
+      "start": 235,
+      "end": 252
+    },
+    {
+      "text": "infarto isquémico establecido",
+      "type": "PATOLOGIA",
+      "start": 555,
+      "end": 584
+    },
+    {
+      "text": "hemorragia petequial dispersa sin efecto de masa",
+      "type": "PATOLOGIA",
+      "start": 736,
+      "end": 784
+    },
+    {
+      "text": "hemorragias intraparenquimatosas mayores",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 802,
+      "end": 842
+    },
+    {
+      "text": "hemorragia subaracnoidea",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 846,
+      "end": 870
+    },
+    {
+      "text": "ACM izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 947,
+      "end": 960
+    },
+    {
+      "text": "ASPECTS 7",
+      "type": "PUNTUACION_CLINICA",
+      "start": 962,
+      "end": 971
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "ARTERIA",
+      "start": 273,
+      "end": 305
+    },
+    {
+      "text": "Oclusión parcial en segmento M2 de la ACM izquierda",
+      "type": "PATOLOGIA",
+      "start": 1459,
+      "end": 1510
+    },
+    {
+      "text": "ACA y ACP izquierda y bilaterales",
+      "type": "ARTERIA",
+      "start": 1601,
+      "end": 1634
+    },
+    {
+      "text": "sin lesiones significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1661,
+      "end": 1688
+    },
+    {
+      "text": "Transformación hemorrágica petequial tipo HI1",
+      "type": "PATOLOGIA",
+      "start": 1792,
+      "end": 1837
+    },
+    {
+      "text": "territorio de la arteria cerebral media izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 256,
+      "end": 305
+    },
+    {
+      "text": "Oclusión segmentaria en rama M2 de ACM izquierda",
+      "type": "PATOLOGIA",
+      "start": 1916,
+      "end": 1964
+    },
+    {
+      "text": "sin efecto de masa ni complicaciones adicionales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2062,
+      "end": 2110
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 361,
+      "end": 377
+    },
+    {
+      "text": "perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 379,
+      "end": 397
+    },
+    {
+      "text": "angioTC extracraneal e intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 400,
+      "end": 435
+    }
+  ]
+}

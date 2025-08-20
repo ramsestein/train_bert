@@ -1,0 +1,101 @@
+{
+  "document_id": "informe_sintetico_20250804195045_06285",
+  "entities": [
+    {
+      "text": "hematoma intraparenquimatoso",
+      "type": "PATOLOGIA",
+      "start": 549,
+      "end": 577
+    },
+    {
+      "text": "región del putamen derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 581,
+      "end": 607
+    },
+    {
+      "text": "cápsula interna",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 647,
+      "end": 662
+    },
+    {
+      "text": "4.5 cm x 3.8 cm x 3.2 cm",
+      "type": "MEDIDA",
+      "start": 707,
+      "end": 731
+    },
+    {
+      "text": "27 cc",
+      "type": "MEDIDA",
+      "start": 774,
+      "end": 779
+    },
+    {
+      "text": "5 mm",
+      "type": "MEDIDA",
+      "start": 853,
+      "end": 857
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "ARTERIA",
+      "start": 1223,
+      "end": 1253
+    },
+    {
+      "text": "isquemia extensa",
+      "type": "PATOLOGIA",
+      "start": 1294,
+      "end": 1310
+    },
+    {
+      "text": "No se identifican aneurismas ni malformaciones arteriovenosas ni signos de vasoespasmo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1344,
+      "end": 1430
+    },
+    {
+      "text": "Arterias principales permeables sin estenosis significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1432,
+      "end": 1492
+    },
+    {
+      "text": "hipoperfusión focal",
+      "type": "PATOLOGIA",
+      "start": 1692,
+      "end": 1711
+    },
+    {
+      "text": "sin isquemia extensa demostrable",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1722,
+      "end": 1754
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 372,
+      "end": 388
+    },
+    {
+      "text": "estudio de perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 400,
+      "end": 429
+    },
+    {
+      "text": "angioTC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 432,
+      "end": 461
+    },
+    {
+      "text": "Control neuroimagen en 24-48 horas",
+      "type": "TEMPORALIDAD",
+      "start": 1900,
+      "end": 1934
+    }
+  ]
+}

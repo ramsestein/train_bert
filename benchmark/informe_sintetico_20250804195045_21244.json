@@ -1,0 +1,65 @@
+{
+  "document_id": "informe_sintetico_20250804195045_21244",
+  "entities": [
+    {
+      "text": "hematoma subdural agudo",
+      "type": "PATOLOGIA",
+      "start": 564,
+      "end": 587
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 540,
+      "end": 547
+    },
+    {
+      "text": "12 mm",
+      "type": "MEDIDA",
+      "start": 614,
+      "end": 619
+    },
+    {
+      "text": "4 mm",
+      "type": "MEDIDA",
+      "start": 791,
+      "end": 795
+    },
+    {
+      "text": "sin hemorragias intraparenquimatosas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 851,
+      "end": 887
+    },
+    {
+      "text": "sin estenosis ni trombosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1392,
+      "end": 1418
+    },
+    {
+      "text": "prolongado",
+      "type": "TEMPORALIDAD",
+      "start": 1254,
+      "end": 1264
+    },
+    {
+      "text": "TC craneal basal urgente",
+      "type": "TECNICA_IMAGEN",
+      "start": 270,
+      "end": 294
+    },
+    {
+      "text": "angio-TC intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 338,
+      "end": 359
+    },
+    {
+      "text": "estudio de perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 362,
+      "end": 391
+    }
+  ]
+}

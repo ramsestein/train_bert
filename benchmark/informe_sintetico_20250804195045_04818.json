@@ -1,0 +1,65 @@
+{
+  "document_id": "informe_sintetico_20250804195045_04818",
+  "entities": [
+    {
+      "text": "infarto lacunar agudo",
+      "type": "PATOLOGIA",
+      "start": 642,
+      "end": 663
+    },
+    {
+      "text": "región lenticular izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 545,
+      "end": 572
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 799,
+      "end": 809
+    },
+    {
+      "text": "tiempo de tránsito medio (TTP)",
+      "type": "MEDIDA",
+      "start": 997,
+      "end": 1027
+    },
+    {
+      "text": "tiempo de retraso (TD)",
+      "type": "MEDIDA",
+      "start": 1030,
+      "end": 1052
+    },
+    {
+      "text": "región lenticular izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 545,
+      "end": 572
+    },
+    {
+      "text": "ACM, ACA, ACP",
+      "type": "ARTERIA",
+      "start": 1370,
+      "end": 1383
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1666,
+      "end": 1689
+    },
+    {
+      "text": "estenosis significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1417,
+      "end": 1440
+    },
+    {
+      "text": "edema relevante",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1824,
+      "end": 1839
+    }
+  ]
+}

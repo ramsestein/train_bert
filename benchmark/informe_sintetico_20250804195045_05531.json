@@ -1,0 +1,95 @@
+{
+  "document_id": "informe_sintetico_20250804195045_05531",
+  "entities": [
+    {
+      "text": "hipertensivo agudo",
+      "type": "PATOLOGIA",
+      "start": 206,
+      "end": 224
+    },
+    {
+      "text": "leucoencefalopatía posterior reversible",
+      "type": "PATOLOGIA",
+      "start": 279,
+      "end": 318
+    },
+    {
+      "text": "bilaterales",
+      "type": "LATERALIDAD",
+      "start": 551,
+      "end": 562
+    },
+    {
+      "text": "parieto-occipitales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 601,
+      "end": 620
+    },
+    {
+      "text": "cortico-subcorticales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 621,
+      "end": 642
+    },
+    {
+      "text": "sin componente hemorrágico",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 656,
+      "end": 682
+    },
+    {
+      "text": "No se observan signos de infarto establecido",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 684,
+      "end": 728
+    },
+    {
+      "text": "No hay desplazamiento de la línea media",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 847,
+      "end": 886
+    },
+    {
+      "text": "sin evidencia de isquemia irreversible",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1176,
+      "end": 1214
+    },
+    {
+      "text": "sin alteraciones vasculares significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1808,
+      "end": 1850
+    },
+    {
+      "text": "edema vasogénico",
+      "type": "PATOLOGIA",
+      "start": 1159,
+      "end": 1175
+    },
+    {
+      "text": "bilateral",
+      "type": "LATERALIDAD",
+      "start": 551,
+      "end": 560
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 346,
+      "end": 362
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 389,
+      "end": 410
+    },
+    {
+      "text": "angio-TC intra y extracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 413,
+      "end": 442
+    }
+  ]
+}

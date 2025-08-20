@@ -1,0 +1,161 @@
+{
+  "document_id": "informe_sintetico_20250804195045_12579",
+  "entities": [
+    {
+      "text": "hemiparesia derecha",
+      "type": "PATOLOGIA",
+      "start": 207,
+      "end": 226
+    },
+    {
+      "text": "afasia leve",
+      "type": "PATOLOGIA",
+      "start": 229,
+      "end": 240
+    },
+    {
+      "text": "evento isquémico",
+      "type": "PATOLOGIA",
+      "start": 254,
+      "end": 270
+    },
+    {
+      "text": "arteria cerebral media distal izquierda",
+      "type": "ARTERIA",
+      "start": 288,
+      "end": 327
+    },
+    {
+      "text": "hemorragia aguda",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 581,
+      "end": 597
+    },
+    {
+      "text": "sangrado intra o extraaxial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 611,
+      "end": 638
+    },
+    {
+      "text": "ausencia de hipodensidades evidentes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 692,
+      "end": 728
+    },
+    {
+      "text": "ASPECTS 9/10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 764,
+      "end": 776
+    },
+    {
+      "text": "ACM izquierda",
+      "type": "ARTERIA",
+      "start": 749,
+      "end": 762
+    },
+    {
+      "text": "TTP",
+      "type": "MEDIDA",
+      "start": 939,
+      "end": 942
+    },
+    {
+      "text": "CBF",
+      "type": "MEDIDA",
+      "start": 995,
+      "end": 998
+    },
+    {
+      "text": "CBV",
+      "type": "MEDIDA",
+      "start": 1131,
+      "end": 1134
+    },
+    {
+      "text": "penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1169,
+      "end": 1187
+    },
+    {
+      "text": "defectos focales de repleción",
+      "type": "PATOLOGIA",
+      "start": 1236,
+      "end": 1265
+    },
+    {
+      "text": "segmento M2 de la ACM izquierda",
+      "type": "ARTERIA",
+      "start": 1288,
+      "end": 1319
+    },
+    {
+      "text": "oclusión trombótica",
+      "type": "PATOLOGIA",
+      "start": 1336,
+      "end": 1355
+    },
+    {
+      "text": "sin estenosis significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1411,
+      "end": 1439
+    },
+    {
+      "text": "sin alteraciones",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 857,
+      "end": 873
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 1893,
+      "end": 1907
+    },
+    {
+      "text": "territorio distal de la ACM izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1639,
+      "end": 1676
+    },
+    {
+      "text": "M2/M3",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1678,
+      "end": 1683
+    },
+    {
+      "text": "ASPECTS 9",
+      "type": "PUNTUACION_CLINICA",
+      "start": 764,
+      "end": 773
+    },
+    {
+      "text": "isquemia aguda en territorio limitado",
+      "type": "PATOLOGIA",
+      "start": 1893,
+      "end": 1930
+    },
+    {
+      "text": "TC CRANEAL BASAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 365,
+      "end": 381
+    },
+    {
+      "text": "PERFUSIÓN CEREBRAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 384,
+      "end": 402
+    },
+    {
+      "text": "ANGIO TC DE TSA E INTRACRANEAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 405,
+      "end": 435
+    }
+  ]
+}

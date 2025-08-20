@@ -1,0 +1,119 @@
+{
+  "document_id": "informe_sintetico_20250804195045_18009",
+  "entities": [
+    {
+      "text": "infarto cerebral",
+      "type": "PATOLOGIA",
+      "start": 377,
+      "end": 393
+    },
+    {
+      "text": "hipoperfusión",
+      "type": "PATOLOGIA",
+      "start": 398,
+      "end": 411
+    },
+    {
+      "text": "zonas watershed",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 2934,
+      "end": 2949
+    },
+    {
+      "text": "estenosis significativa ipsilateral de arteria carótida interna",
+      "type": "PATOLOGIA",
+      "start": 2954,
+      "end": 3017
+    },
+    {
+      "text": "arteria carótida interna derecha",
+      "type": "ARTERIA",
+      "start": 1678,
+      "end": 1710
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 1703,
+      "end": 1710
+    },
+    {
+      "text": "bilaterales",
+      "type": "LATERALIDAD",
+      "start": 814,
+      "end": 825
+    },
+    {
+      "text": "reducción moderada",
+      "type": "PATOLOGIA",
+      "start": 702,
+      "end": 720
+    },
+    {
+      "text": "tiempos de tránsito",
+      "type": "MEDIDA",
+      "start": 2327,
+      "end": 2346
+    },
+    {
+      "text": "descenso moderado del flujo",
+      "type": "PATOLOGIA",
+      "start": 1303,
+      "end": 1330
+    },
+    {
+      "text": "sin hemorragias asociadas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2192,
+      "end": 2217
+    },
+    {
+      "text": "sin infartos consolidables extensos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2378,
+      "end": 2413
+    },
+    {
+      "text": "sin estenosis significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1769,
+      "end": 1796
+    },
+    {
+      "text": "sin oclusiones",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1914,
+      "end": 1928
+    },
+    {
+      "text": "TC CÓDIGO ICTUS",
+      "type": "TECNICA_IMAGEN",
+      "start": 459,
+      "end": 474
+    },
+    {
+      "text": "TC basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 488,
+      "end": 496
+    },
+    {
+      "text": "perfusión cerebral dinámica",
+      "type": "TECNICA_IMAGEN",
+      "start": 498,
+      "end": 525
+    },
+    {
+      "text": "angio-TC extracraneal e intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 528,
+      "end": 564
+    },
+    {
+      "text": "zona de penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1441,
+      "end": 1467
+    }
+  ]
+}

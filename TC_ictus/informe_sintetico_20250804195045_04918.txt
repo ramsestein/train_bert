@@ -1,0 +1,36 @@
+UO_PACN (Unidad Organizativa Médica): RADIO
+
+PRUEB (Prueba solicitada): TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANG IOTC ARTERIAL INTRACRANEAL)
+
+CLIN (Resumen clínico): Cefalea intensa de inicio súbito, vómitos y crisis convulsiva, con sospecha de trombosis venosa cerebral.
+
+OBSR (Protocolo): Protocolo Código Ictus adaptado con énfasis en evaluación venosa (TC basal + TC perfusión + AngioTC arterial y venosa intracraneal).
+
+RESL (Resultados):  
+TC CRANEAL BASAL:  
+Se identifican áreas de hipodensidad en región parietal izquierda que no respetan territorios arteriales clásicos, con discreto edema adyacente y signos iniciales de efecto de masa leve. No se observa hemorragia intraaxial ni extraaxial. Diferenciación cortico-subcortical alterada en zonas mencionadas. Estructuras de línea media centradas. Sistema ventricular normal en morfología y tamaño.
+
+TC PERFUSIÓN:  
+Disminución del flujo sanguíneo cerebral (CBF) y aumento del tiempo de tránsito medio (MTT) en las regiones parietales y frontales izquierdas, con volumen cerebral (CBV) preservado o ligeramente aumentado, sugestivo de área de penumbra venosa.
+
+ANGIO-TC ARTERIAL:  
+Principales arterias intracraneales permeables sin estenosis ni defectos de repleción.
+
+ANGIO-TC VENOSA:  
+Ausencia de repleción en el seno longitudinal superior distal y seno transverso izquierdo, compatible con trombosis venosa. Se observa además falta de visualización de ramas corticales venosas en el hemisferio izquierdo. Presencia de signos indirectos de hipertensión venosa, como discreto edema parenquimatoso adyacente.
+
+CONCL (Conclusiones):  
+- TC basal sin hemorragia, con edema y alteración de diferenciación cortico-subcortical en regiones parietal y frontal izquierdas, en territorio no arterial.  
+- Perfusión cerebral con patrón compatible con compromiso venoso (descenso de flujo, aumento de MTT y CBV conservado).  
+- Angio-TC venosa muestra ausencia de repleción en seno longitudinal superior y seno transverso izquierdo, confirmando trombosis venosa cerebral.  
+- No se evidencian oclusiones arteriales significativas.
+
+ACTI_ADICI (Actividad adicional): Se recomienda correlacionar con RM cerebral con secuencias venosas para evaluar extensión y posible edema cerebral.
+
+ICON (Estudio): @RADIO_IEC_CV@
+
+X00DIATXT (Texto del diagnóstico ACR): Trombosis venosa cerebral con compromiso del seno longitudinal superior distal y seno transverso izquierdo, con edema parenquimatoso asociado y patrón de perfusión alterado compatible.
+
+EST_T_DES (Descripción): TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANGIOTC ARTERIAL INTRACRANEAL)
+
+ZVASOS_D (Der.): Ausencia de repleción en senos venosos superficiales izquierdos, permeabilidad arterial conservada.

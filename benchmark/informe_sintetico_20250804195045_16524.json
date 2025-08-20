@@ -1,0 +1,107 @@
+{
+  "document_id": "informe_sintetico_20250804195045_16524",
+  "entities": [
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 258,
+      "end": 272
+    },
+    {
+      "text": "arteria cerebral posterior derecha",
+      "type": "ARTERIA",
+      "start": 293,
+      "end": 327
+    },
+    {
+      "text": "izquierdo",
+      "type": "LATERALIDAD",
+      "start": 199,
+      "end": 208
+    },
+    {
+      "text": "aguda",
+      "type": "TEMPORALIDAD",
+      "start": 267,
+      "end": 272
+    },
+    {
+      "text": "ASPECTS 9/10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 823,
+      "end": 835
+    },
+    {
+      "text": "discreta hipodensidad",
+      "type": "PATOLOGIA",
+      "start": 642,
+      "end": 663
+    },
+    {
+      "text": "isquemia aguda precoz",
+      "type": "PATOLOGIA",
+      "start": 800,
+      "end": 821
+    },
+    {
+      "text": "TTP",
+      "type": "TECNICA_IMAGEN",
+      "start": 1080,
+      "end": 1083
+    },
+    {
+      "text": "MTT",
+      "type": "TECNICA_IMAGEN",
+      "start": 1113,
+      "end": 1116
+    },
+    {
+      "text": "región occipital derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 710,
+      "end": 734
+    },
+    {
+      "text": "penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1284,
+      "end": 1302
+    },
+    {
+      "text": "Oclusión segmentaria proximal de arteria cerebral posterior (ACP) derecha",
+      "type": "PATOLOGIA",
+      "start": 1418,
+      "end": 1491
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 320,
+      "end": 327
+    },
+    {
+      "text": "sin estenosis significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1582,
+      "end": 1610
+    },
+    {
+      "text": "sin alteraciones de calibre ni ateromatosis relevante",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1633,
+      "end": 1686
+    },
+    {
+      "text": "No se identifican hemorragias intracraneales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2023,
+      "end": 2067
+    },
+    {
+      "text": "No se identifica área clara de infarto establecido (core)",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1304,
+      "end": 1361
+    }
+  ]
+}

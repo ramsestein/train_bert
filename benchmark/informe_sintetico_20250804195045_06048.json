@@ -1,0 +1,251 @@
+{
+  "document_id": "informe_sintetico_20250804195045_06048",
+  "entities": [
+    {
+      "text": "hemiparesia derecha",
+      "type": "PATOLOGIA",
+      "start": 217,
+      "end": 236
+    },
+    {
+      "text": "afasia motora",
+      "type": "PATOLOGIA",
+      "start": 239,
+      "end": 252
+    },
+    {
+      "text": "dolor cervical intenso",
+      "type": "PATOLOGIA",
+      "start": 278,
+      "end": 300
+    },
+    {
+      "text": "cefalea unilateral",
+      "type": "PATOLOGIA",
+      "start": 303,
+      "end": 321
+    },
+    {
+      "text": "disección arterial carotídea",
+      "type": "PATOLOGIA",
+      "start": 343,
+      "end": 371
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 392,
+      "end": 408
+    },
+    {
+      "text": "TC perfusión cerebral dinámica",
+      "type": "TECNICA_IMAGEN",
+      "start": 424,
+      "end": 454
+    },
+    {
+      "text": "Angio-TC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 457,
+      "end": 487
+    },
+    {
+      "text": "áreas hipodensas",
+      "type": "PATOLOGIA",
+      "start": 575,
+      "end": 591
+    },
+    {
+      "text": "región frontal y parietal izquierdas",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 598,
+      "end": 634
+    },
+    {
+      "text": "territorio superficial de la arteria cerebral media izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 655,
+      "end": 716
+    },
+    {
+      "text": "infarto isquémico subagudo",
+      "type": "PATOLOGIA",
+      "start": 734,
+      "end": 760
+    },
+    {
+      "text": "sangrado intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 778,
+      "end": 799
+    },
+    {
+      "text": "edema significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 803,
+      "end": 822
+    },
+    {
+      "text": "diferenciación cortico-subcortical",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 827,
+      "end": 861
+    },
+    {
+      "text": "aumento del tiempo de tránsito medio",
+      "type": "PATOLOGIA",
+      "start": 927,
+      "end": 963
+    },
+    {
+      "text": "reducción significativa del flujo sanguíneo cerebral",
+      "type": "PATOLOGIA",
+      "start": 966,
+      "end": 1018
+    },
+    {
+      "text": "volumen sanguíneo en el área afectada",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1021,
+      "end": 1058
+    },
+    {
+      "text": "hipoperfusión en territorio de la ACM izquierda",
+      "type": "PATOLOGIA",
+      "start": 1072,
+      "end": 1119
+    },
+    {
+      "text": "irregularidad y estrechamiento segmentario",
+      "type": "PATOLOGIA",
+      "start": 1150,
+      "end": 1192
+    },
+    {
+      "text": "tercio cervical de la arteria carótida interna izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1199,
+      "end": 1255
+    },
+    {
+      "text": "signo de doble luz",
+      "type": "PATOLOGIA",
+      "start": 1261,
+      "end": 1279
+    },
+    {
+      "text": "disección arterial",
+      "type": "PATOLOGIA",
+      "start": 343,
+      "end": 361
+    },
+    {
+      "text": "ausencia de flujo en la porción proximal de una rama M2 izquierda",
+      "type": "PATOLOGIA",
+      "start": 1331,
+      "end": 1396
+    },
+    {
+      "text": "oclusión secundaria a embolia",
+      "type": "PATOLOGIA",
+      "start": 1412,
+      "end": 1441
+    },
+    {
+      "text": "permeabilidad conservada",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1491,
+      "end": 1515
+    },
+    {
+      "text": "signos de estenosis o ateromatosis significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1520,
+      "end": 1568
+    },
+    {
+      "text": "Infarto isquémico en territorio de la arteria cerebral media izquierda",
+      "type": "PATOLOGIA",
+      "start": 1593,
+      "end": 1663
+    },
+    {
+      "text": "hipoperfusión tisular confirmada en estudio de perfusión",
+      "type": "PATOLOGIA",
+      "start": 1668,
+      "end": 1724
+    },
+    {
+      "text": "disección de la arteria carótida interna izquierda",
+      "type": "PATOLOGIA",
+      "start": 1765,
+      "end": 1815
+    },
+    {
+      "text": "estrechamiento segmentario",
+      "type": "PATOLOGIA",
+      "start": 1166,
+      "end": 1192
+    },
+    {
+      "text": "compromiso hemodinámico arterial",
+      "type": "PATOLOGIA",
+      "start": 1845,
+      "end": 1877
+    },
+    {
+      "text": "oclusión secundaria de rama distal",
+      "type": "PATOLOGIA",
+      "start": 1880,
+      "end": 1914
+    },
+    {
+      "text": "No complicaciones hemorrágicas detectadas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1916,
+      "end": 1957
+    },
+    {
+      "text": "Angio-TC en 7-10 días",
+      "type": "TECNICA_IMAGEN",
+      "start": 2046,
+      "end": 2067
+    },
+    {
+      "text": "Infarto isquémico en territorio de ACM izquierda",
+      "type": "PATOLOGIA",
+      "start": 2218,
+      "end": 2266
+    },
+    {
+      "text": "Disección de arteria carótida interna izquierda con estrechamiento segmentario",
+      "type": "PATOLOGIA",
+      "start": 2268,
+      "end": 2346
+    },
+    {
+      "text": "Hipoperfusión tisular con áreas de mismatch",
+      "type": "PATOLOGIA",
+      "start": 2348,
+      "end": 2391
+    },
+    {
+      "text": "Disección arterial de la carótida interna izquierda",
+      "type": "PATOLOGIA",
+      "start": 2505,
+      "end": 2556
+    },
+    {
+      "text": "oclusión segmentaria",
+      "type": "PATOLOGIA",
+      "start": 2561,
+      "end": 2581
+    },
+    {
+      "text": "compromiso secundario del territorio dista de la ACM izquierda",
+      "type": "PATOLOGIA",
+      "start": 2584,
+      "end": 2646
+    }
+  ]
+}

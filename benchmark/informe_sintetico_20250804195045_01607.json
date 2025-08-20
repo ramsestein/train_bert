@@ -1,0 +1,53 @@
+{
+  "document_id": "informe_sintetico_20250804195045_01607",
+  "entities": [
+    {
+      "text": "contusión hemorrágica",
+      "type": "PATOLOGIA",
+      "start": 504,
+      "end": 525
+    },
+    {
+      "text": "lóbulo temporal derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 529,
+      "end": 552
+    },
+    {
+      "text": "12 x 8 mm",
+      "type": "MEDIDA",
+      "start": 570,
+      "end": 579
+    },
+    {
+      "text": "hemorragia subaracnoidea focal",
+      "type": "PATOLOGIA",
+      "start": 651,
+      "end": 681
+    },
+    {
+      "text": "desplazamiento <3 mm",
+      "type": "MEDIDA",
+      "start": 770,
+      "end": 790
+    },
+    {
+      "text": "región temporal derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 961,
+      "end": 984
+    },
+    {
+      "text": "sin signos de estenosis ni oclusión",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1235,
+      "end": 1270
+    },
+    {
+      "text": "sin compromiso vascular agudo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1675,
+      "end": 1704
+    }
+  ]
+}

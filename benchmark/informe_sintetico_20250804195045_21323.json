@@ -1,0 +1,235 @@
+{
+  "document_id": "informe_sintetico_20250804195045_21323",
+  "entities": [
+    {
+      "text": "hemiparesia derecha",
+      "type": "PATOLOGIA",
+      "start": 197,
+      "end": 216
+    },
+    {
+      "text": "afasia",
+      "type": "PATOLOGIA",
+      "start": 219,
+      "end": 225
+    },
+    {
+      "text": "evento isquémico agudo",
+      "type": "PATOLOGIA",
+      "start": 239,
+      "end": 261
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 282,
+      "end": 298
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 324,
+      "end": 345
+    },
+    {
+      "text": "angiografía por TC de arterias intracraneales",
+      "type": "TECNICA_IMAGEN",
+      "start": 348,
+      "end": 393
+    },
+    {
+      "text": "signo de arteria hiperdensa",
+      "type": "PATOLOGIA",
+      "start": 481,
+      "end": 508
+    },
+    {
+      "text": "segmento M1",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 512,
+      "end": 523
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "ARTERIA",
+      "start": 530,
+      "end": 562
+    },
+    {
+      "text": "hipodensidad",
+      "type": "PATOLOGIA",
+      "start": 577,
+      "end": 589
+    },
+    {
+      "text": "núcleo lenticular",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 593,
+      "end": 610
+    },
+    {
+      "text": "región insular izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 613,
+      "end": 637
+    },
+    {
+      "text": "infarto temprano",
+      "type": "PATOLOGIA",
+      "start": 653,
+      "end": 669
+    },
+    {
+      "text": "hemorragias intra o extraaxiales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 714,
+      "end": 746
+    },
+    {
+      "text": "edema masivo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 750,
+      "end": 762
+    },
+    {
+      "text": "disminución significativa del flujo cerebral",
+      "type": "PATOLOGIA",
+      "start": 821,
+      "end": 865
+    },
+    {
+      "text": "reducción del volumen cerebral",
+      "type": "PATOLOGIA",
+      "start": 868,
+      "end": 898
+    },
+    {
+      "text": "territorio irrigado por la ACM izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 902,
+      "end": 942
+    },
+    {
+      "text": "isquemia irreversiblemente afectada",
+      "type": "PATOLOGIA",
+      "start": 967,
+      "end": 1002
+    },
+    {
+      "text": "mismatch relevante",
+      "type": "PATOLOGIA",
+      "start": 1015,
+      "end": 1033
+    },
+    {
+      "text": "zona de penumbra",
+      "type": "PATOLOGIA",
+      "start": 1038,
+      "end": 1054
+    },
+    {
+      "text": "núcleo infartado",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1069,
+      "end": 1085
+    },
+    {
+      "text": "segmento proximal M1 izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1133,
+      "end": 1163
+    },
+    {
+      "text": "Arterias Carótidas Internas",
+      "type": "ARTERIA",
+      "start": 1165,
+      "end": 1192
+    },
+    {
+      "text": "ACPs",
+      "type": "ARTERIA",
+      "start": 1194,
+      "end": 1198
+    },
+    {
+      "text": "ACAs",
+      "type": "ARTERIA",
+      "start": 1201,
+      "end": 1205
+    },
+    {
+      "text": "permeables",
+      "type": "PATOLOGIA",
+      "start": 1206,
+      "end": 1216
+    },
+    {
+      "text": "estenosis importantes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1242,
+      "end": 1263
+    },
+    {
+      "text": "disecciones",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1267,
+      "end": 1278
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 1329,
+      "end": 1343
+    },
+    {
+      "text": "oclusión proximal (M1)",
+      "type": "PATOLOGIA",
+      "start": 1348,
+      "end": 1370
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "ARTERIA",
+      "start": 530,
+      "end": 562
+    },
+    {
+      "text": "ASPECTS 6",
+      "type": "PUNTUACION_CLINICA",
+      "start": 1411,
+      "end": 1420
+    },
+    {
+      "text": "penumbra significativa",
+      "type": "PATOLOGIA",
+      "start": 1454,
+      "end": 1476
+    },
+    {
+      "text": "territorio superficial izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1480,
+      "end": 1512
+    },
+    {
+      "text": "signos de hemorragia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1517,
+      "end": 1537
+    },
+    {
+      "text": "complicaciones adicionales visibles",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1541,
+      "end": 1576
+    },
+    {
+      "text": "valoración para tratamiento endovascular urgente",
+      "type": "PATOLOGIA",
+      "start": 1655,
+      "end": 1703
+    }
+  ],
+  "regenerado": true,
+  "fecha_regeneracion": "2025-08-06T15:52:13.635857"
+}

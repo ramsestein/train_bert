@@ -1,0 +1,101 @@
+{
+  "document_id": "informe_sintetico_20250804195045_12049",
+  "entities": [
+    {
+      "text": "isquémicas agudas",
+      "type": "PATOLOGIA",
+      "start": 792,
+      "end": 809
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 2008,
+      "end": 2022
+    },
+    {
+      "text": "infarto",
+      "type": "PATOLOGIA",
+      "start": 1301,
+      "end": 1308
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "ARTERIA",
+      "start": 1539,
+      "end": 1569
+    },
+    {
+      "text": "arteria cerebral anterior izquierda",
+      "type": "ARTERIA",
+      "start": 1596,
+      "end": 1631
+    },
+    {
+      "text": "arterias cerebrales posteriores bilaterales",
+      "type": "ARTERIA",
+      "start": 1686,
+      "end": 1729
+    },
+    {
+      "text": "bilaterales",
+      "type": "LATERALIDAD",
+      "start": 1718,
+      "end": 1729
+    },
+    {
+      "text": "múltiples",
+      "type": "MEDIDA",
+      "start": 504,
+      "end": 513
+    },
+    {
+      "text": "múltiples",
+      "type": "MEDIDA",
+      "start": 504,
+      "end": 513
+    },
+    {
+      "text": "agudo",
+      "type": "TEMPORALIDAD",
+      "start": 257,
+      "end": 262
+    },
+    {
+      "text": "aguda",
+      "type": "TEMPORALIDAD",
+      "start": 803,
+      "end": 808
+    },
+    {
+      "text": "TC craneal sin contraste",
+      "type": "TECNICA_IMAGEN",
+      "start": 305,
+      "end": 329
+    },
+    {
+      "text": "perfusión cerebral dinámica",
+      "type": "TECNICA_IMAGEN",
+      "start": 331,
+      "end": 358
+    },
+    {
+      "text": "angioTC de troncos supraórticos",
+      "type": "TECNICA_IMAGEN",
+      "start": 360,
+      "end": 391
+    },
+    {
+      "text": "No se observan signos hemorrágicos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 824,
+      "end": 858
+    },
+    {
+      "text": "No evidencia de hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2235,
+      "end": 2274
+    }
+  ]
+}

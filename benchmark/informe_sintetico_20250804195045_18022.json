@@ -1,0 +1,59 @@
+{
+  "document_id": "informe_sintetico_20250804195045_18022",
+  "entities": [
+    {
+      "text": "contusión hemorrágica",
+      "type": "PATOLOGIA",
+      "start": 452,
+      "end": 473
+    },
+    {
+      "text": "región frontotemporal derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 477,
+      "end": 506
+    },
+    {
+      "text": "12 mm",
+      "type": "MEDIDA",
+      "start": 552,
+      "end": 557
+    },
+    {
+      "text": "edema cerebral",
+      "type": "PATOLOGIA",
+      "start": 613,
+      "end": 627
+    },
+    {
+      "text": "moderada",
+      "type": "TEMPORALIDAD",
+      "start": 643,
+      "end": 651
+    },
+    {
+      "text": "No se identifica hemorragia subaracnoidea",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 714,
+      "end": 755
+    },
+    {
+      "text": "No se identifican estenosis ni oclusiones",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1290,
+      "end": 1331
+    },
+    {
+      "text": "Vasos permeables",
+      "type": "PATOLOGIA",
+      "start": 1415,
+      "end": 1431
+    },
+    {
+      "text": "sin signos de disección ni aneurismas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1432,
+      "end": 1469
+    }
+  ]
+}

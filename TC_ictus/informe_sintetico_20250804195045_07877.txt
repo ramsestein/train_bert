@@ -1,0 +1,35 @@
+UO_PACN (Unidad Organizativa Médica): RADIO
+
+PRUEB (Prueba solicitada): TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANG IOTC ARTERIAL INTRACRANEAL)
+
+CLIN (Resumen clínico): Paciente con cefalea intensa súbita y episodios de pérdida de conciencia. Sospecha de microhemorragias múltiples para estudio de causa vascular.
+
+OBSR (Protocolo): TC craneal basal sin contraste + TC perfusión cerebral + angioTC arterial intra y extracraneal con reconstrucción multiplanar.
+
+RESL (Resultados):  
+TC CRANEAL BASAL:  
+Se identifican múltiples focos puntiformes hiperdensos dispersos en sustancia blanca subcortical y profundas de ambos hemisferios, compatibles con microhemorragias. No se observa hemorragia aguda de mayor tamaño, ni hematomas expansivos. Parénquima cerebral sin edema ni signos de infarto agudo. Diferenciación cortico-subcortical conservada. Estructuras de la línea media centradas. Sistema ventricular de tamaño y morfología conservados. Cisternas basales libres. No se aprecian calcificaciones ni lesiones tumorales.
+
+TC PERFUSIÓN:  
+Perfusión cerebral simétrica sin áreas de hipoperfusión o alteraciones hemodinámicas significativas. Mapas de tiempo (TTP, MTT) y flujo (CBF, CBV) dentro de límites normales en todas las regiones analizadas.
+
+ANGIO-TC EXTRA E INTRACRANEAL:  
+Arterias intracraneales y extracraneales permeables, sin signos angiográficos de estenosis relevante ni aneurismas. Se observa ateromatosis leve en segmentos proximales de ambas carótidas internas, sin impacto hemodinámico. Sistema vertebrobasilar sin alteraciones. No se evidencian malformaciones vasculares ni vasculitis.  
+
+CONCL (Conclusiones):  
+- Múltiples microhemorragias puntiformes bilaterales en sustancia blanca y núcleos profundos, compatibles con lesión crónica de pequeño vaso o angiopatía microvascular.  
+- Ausencia de hemorragia intracraneal mayor o infarto cerebral agudo.  
+- Perfusión cerebral sin alteraciones significativas.  
+- Áreas vasculares extracraneales e intracraneales permeables sin estenosis significativa ni malformaciones.  
+
+ACTI_ADICI (Actividad adicional):  
+
+DKTXT (Descripció): TC CEREBRAL BASAL + PERFUSIÓN + ANGIO-TC VASCULAR INTRA/EXTRACRANEAL
+
+ICON (Estudio): @RADIO_
+
+X00DIATXT (Texto del diagnóstico ACR): Múltiples microhemorragias cerebrales puntiformes compatibles con angiopatía de pequeño vaso. Ausencia de hemorragia aguda o infarto. Vasculatura cerebral permeable sin estenosis significativa.
+
+EST_T_DES (Descripción): TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANGIOTC ARTERIAL INTRACRANEAL)
+
+ZVASOS_D (Der.): Se recomienda correlación con estudios de imagen adicionales (RM con secuencias susceptibles) para mejor caracterización de microhemorragias y seguimiento clínico neurológico.

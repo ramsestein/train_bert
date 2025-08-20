@@ -1,0 +1,215 @@
+{
+  "document_id": "informe_sintetico_20250804195045_24052",
+  "entities": [
+    {
+      "text": "infarto cerebral reciente",
+      "type": "PATOLOGIA",
+      "start": 179,
+      "end": 204
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "ARTERIA",
+      "start": 222,
+      "end": 252
+    },
+    {
+      "text": "deterioro neurológico súbito",
+      "type": "PATOLOGIA",
+      "start": 263,
+      "end": 291
+    },
+    {
+      "text": "transformación hemorrágica",
+      "type": "PATOLOGIA",
+      "start": 305,
+      "end": 331
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 352,
+      "end": 368
+    },
+    {
+      "text": "TC de perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 379,
+      "end": 403
+    },
+    {
+      "text": "Angio-TC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 406,
+      "end": 436
+    },
+    {
+      "text": "hipodensidad en territorio superficial y profundo de la ACM derecha",
+      "type": "PATOLOGIA",
+      "start": 491,
+      "end": 558
+    },
+    {
+      "text": "infarto cerebral subagudo",
+      "type": "PATOLOGIA",
+      "start": 574,
+      "end": 599
+    },
+    {
+      "text": "focos hiperdensos puntiformes y lineales",
+      "type": "PATOLOGIA",
+      "start": 636,
+      "end": 676
+    },
+    {
+      "text": "sangrado hemorrágico petequial",
+      "type": "PATOLOGIA",
+      "start": 692,
+      "end": 722
+    },
+    {
+      "text": "transformación hemorrágica tipo PH1",
+      "type": "PATOLOGIA",
+      "start": 739,
+      "end": 774
+    },
+    {
+      "text": "hematomas intraparenquimatosos voluminosos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 793,
+      "end": 835
+    },
+    {
+      "text": "desplazamiento de la línea media",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 839,
+      "end": 871
+    },
+    {
+      "text": "sistema ventricular mantiene morfología y tamaño conservados",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 876,
+      "end": 936
+    },
+    {
+      "text": "Cisternas basales libres",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 938,
+      "end": 962
+    },
+    {
+      "text": "Disminución del volumen cerebral (CBV)",
+      "type": "PATOLOGIA",
+      "start": 981,
+      "end": 1019
+    },
+    {
+      "text": "flujo sanguíneo cerebral (CBF)",
+      "type": "PATOLOGIA",
+      "start": 1022,
+      "end": 1052
+    },
+    {
+      "text": "prolongación del tiempo hasta el pico (TTP)",
+      "type": "PATOLOGIA",
+      "start": 1092,
+      "end": 1135
+    },
+    {
+      "text": "tiempo de tránsito medio (MTT)",
+      "type": "PATOLOGIA",
+      "start": 1138,
+      "end": 1168
+    },
+    {
+      "text": "hipoperfusión irreversible",
+      "type": "PATOLOGIA",
+      "start": 1181,
+      "end": 1207
+    },
+    {
+      "text": "infarto establecido",
+      "type": "PATOLOGIA",
+      "start": 1223,
+      "end": 1242
+    },
+    {
+      "text": "área de penumbra significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1258,
+      "end": 1288
+    },
+    {
+      "text": "Oclusión parcial distal de la arteria cerebral media derecha en segmento M2",
+      "type": "PATOLOGIA",
+      "start": 1316,
+      "end": 1391
+    },
+    {
+      "text": "estenosis significativas en el resto del árbol arterial intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1408,
+      "end": 1476
+    },
+    {
+      "text": "signos de vasoespasmo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1493,
+      "end": 1514
+    },
+    {
+      "text": "aneurismas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1518,
+      "end": 1528
+    },
+    {
+      "text": "Sistema vertebrobasilar permeable y sin alteraciones aparentes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1530,
+      "end": 1592
+    },
+    {
+      "text": "Infarto cerebral establecido en territorio de la ACM derecha",
+      "type": "PATOLOGIA",
+      "start": 1621,
+      "end": 1681
+    },
+    {
+      "text": "Transformación hemorrágica tipo PH1 con focos petequiales hemorrágicos en zona infartada",
+      "type": "PATOLOGIA",
+      "start": 1687,
+      "end": 1775
+    },
+    {
+      "text": "Oclusión parcial distal de ACM derecha en segmento M2",
+      "type": "PATOLOGIA",
+      "start": 1781,
+      "end": 1834
+    },
+    {
+      "text": "desplazamiento significativo de líneas medias",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1844,
+      "end": 1889
+    },
+    {
+      "text": "hematomas voluminosos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1893,
+      "end": 1914
+    },
+    {
+      "text": "Oclusión parcial segmentaria en M2 derecha",
+      "type": "PATOLOGIA",
+      "start": 2305,
+      "end": 2347
+    },
+    {
+      "text": "estenosis de vasos intracraneales restantes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2353,
+      "end": 2396
+    }
+  ]
+}

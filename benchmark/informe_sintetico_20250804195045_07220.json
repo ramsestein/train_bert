@@ -1,0 +1,89 @@
+{
+  "document_id": "informe_sintetico_20250804195045_07220",
+  "entities": [
+    {
+      "text": "infarto cerebral antiguo reciente",
+      "type": "PATOLOGIA",
+      "start": 533,
+      "end": 566
+    },
+    {
+      "text": "extensa hipodensidad en territorio de la arteria cerebral media izquierda",
+      "type": "PATOLOGIA",
+      "start": 444,
+      "end": 517
+    },
+    {
+      "text": "múltiples focos hiperdensos que delimitan transformación hemorrágica grado PH2",
+      "type": "PATOLOGIA",
+      "start": 579,
+      "end": 657
+    },
+    {
+      "text": "hematoma intraparenquimatoso significativo",
+      "type": "PATOLOGIA",
+      "start": 1416,
+      "end": 1458
+    },
+    {
+      "text": "edema cerebral asociado",
+      "type": "PATOLOGIA",
+      "start": 1461,
+      "end": 1484
+    },
+    {
+      "text": "ACM izquierda",
+      "type": "ARTERIA",
+      "start": 1147,
+      "end": 1160
+    },
+    {
+      "text": "ACM izquierda",
+      "type": "ARTERIA",
+      "start": 1147,
+      "end": 1160
+    },
+    {
+      "text": "6 mm",
+      "type": "MEDIDA",
+      "start": 877,
+      "end": 881
+    },
+    {
+      "text": "PH2",
+      "type": "PUNTUACION_CLINICA",
+      "start": 654,
+      "end": 657
+    },
+    {
+      "text": "TC craneal basal en cortes finos sin contraste",
+      "type": "TECNICA_IMAGEN",
+      "start": 265,
+      "end": 311
+    },
+    {
+      "text": "perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 324,
+      "end": 342
+    },
+    {
+      "text": "angiografía TC arterial intracraneal con contraste endovenoso",
+      "type": "TECNICA_IMAGEN",
+      "start": 345,
+      "end": 406
+    },
+    {
+      "text": "No se evidencia sangrado intraventricular",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 883,
+      "end": 924
+    },
+    {
+      "text": "No se detectan aneurismas ni malformaciones arteriovenosas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1225,
+      "end": 1283
+    }
+  ]
+}

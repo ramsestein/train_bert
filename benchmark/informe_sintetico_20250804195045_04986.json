@@ -1,0 +1,155 @@
+{
+  "document_id": "informe_sintetico_20250804195045_04986",
+  "entities": [
+    {
+      "text": "microhemorragias cerebrales",
+      "type": "PATOLOGIA",
+      "start": 300,
+      "end": 327
+    },
+    {
+      "text": "colecciones hemáticas de mayor tamaño",
+      "type": "PATOLOGIA",
+      "start": 750,
+      "end": 787
+    },
+    {
+      "text": "hemorragias agudas extensas",
+      "type": "PATOLOGIA",
+      "start": 791,
+      "end": 818
+    },
+    {
+      "text": "edema cerebral",
+      "type": "PATOLOGIA",
+      "start": 908,
+      "end": 922
+    },
+    {
+      "text": "enfermedad de pequeño vaso",
+      "type": "PATOLOGIA",
+      "start": 1029,
+      "end": 1055
+    },
+    {
+      "text": "microhemorragias cerebrales bilaterales",
+      "type": "PATOLOGIA",
+      "start": 1750,
+      "end": 1789
+    },
+    {
+      "text": "hemorragia intracraneal de mayor volumen",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1867,
+      "end": 1907
+    },
+    {
+      "text": "hemorragia aguda",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1910,
+      "end": 1926
+    },
+    {
+      "text": "isquemia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1327,
+      "end": 1335
+    },
+    {
+      "text": "estenosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1427,
+      "end": 1436
+    },
+    {
+      "text": "malformaciones",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1674,
+      "end": 1688
+    },
+    {
+      "text": "arterial intracraneal",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 446,
+      "end": 467
+    },
+    {
+      "text": "sustancia blanca",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 653,
+      "end": 669
+    },
+    {
+      "text": "ganglios basales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 672,
+      "end": 688
+    },
+    {
+      "text": "bifurcaciones carotídeas",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1592,
+      "end": 1616
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 399,
+      "end": 415
+    },
+    {
+      "text": "AngioTC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 438,
+      "end": 467
+    },
+    {
+      "text": "TTP",
+      "type": "MEDIDA",
+      "start": 1266,
+      "end": 1269
+    },
+    {
+      "text": "CBV",
+      "type": "MEDIDA",
+      "start": 1271,
+      "end": 1274
+    },
+    {
+      "text": "CBF",
+      "type": "MEDIDA",
+      "start": 1277,
+      "end": 1280
+    },
+    {
+      "text": "grado leve",
+      "type": "MEDIDA",
+      "start": 1578,
+      "end": 1588
+    },
+    {
+      "text": "grado moderado a severo",
+      "type": "MEDIDA",
+      "start": 1059,
+      "end": 1082
+    },
+    {
+      "text": "bilateral",
+      "type": "LATERALIDAD",
+      "start": 640,
+      "end": 649
+    },
+    {
+      "text": "sin alteraciones hemodinámicas focales ni globales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1205,
+      "end": 1255
+    },
+    {
+      "text": "sin evidencias de isquemia aguda ni retraso focal significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1309,
+      "end": 1372
+    }
+  ]
+}

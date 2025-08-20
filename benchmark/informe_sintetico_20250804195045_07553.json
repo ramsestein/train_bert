@@ -1,0 +1,203 @@
+{
+  "document_id": "informe_sintetico_20250804195045_07553",
+  "entities": [
+    {
+      "text": "hemiplejía derecha",
+      "type": "PATOLOGIA",
+      "start": 183,
+      "end": 201
+    },
+    {
+      "text": "1 hora",
+      "type": "TEMPORALIDAD",
+      "start": 205,
+      "end": 211
+    },
+    {
+      "text": "ictus cerebral agudo",
+      "type": "PATOLOGIA",
+      "start": 238,
+      "end": 258
+    },
+    {
+      "text": "signo de arteria hiperdensa",
+      "type": "PATOLOGIA",
+      "start": 395,
+      "end": 422
+    },
+    {
+      "text": "segmento proximal M1",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 429,
+      "end": 449
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "ARTERIA",
+      "start": 456,
+      "end": 488
+    },
+    {
+      "text": "territorio lenticulostriado y corona radiada izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 515,
+      "end": 569
+    },
+    {
+      "text": "pérdida parcial de diferenciación córtico-subcortical",
+      "type": "PATOLOGIA",
+      "start": 575,
+      "end": 628
+    },
+    {
+      "text": "ASPECTS 6/10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 630,
+      "end": 642
+    },
+    {
+      "text": "No se identifican signos de hemorragia intra ni extraaxial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 644,
+      "end": 702
+    },
+    {
+      "text": "Líneas medias ligeramente desplazadas hacia la derecha en 3 mm",
+      "type": "PATOLOGIA",
+      "start": 704,
+      "end": 766
+    },
+    {
+      "text": "Sistema ventricular de tamaño normal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 768,
+      "end": 804
+    },
+    {
+      "text": "Cisternas basales libres",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 806,
+      "end": 830
+    },
+    {
+      "text": "Demora prolongada del tiempo de tránsito medio (TTP)",
+      "type": "PATOLOGIA",
+      "start": 849,
+      "end": 901
+    },
+    {
+      "text": "reducción del flujo sanguíneo cerebral (CBF)",
+      "type": "PATOLOGIA",
+      "start": 904,
+      "end": 948
+    },
+    {
+      "text": "territorio dependiente de la ACM izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 955,
+      "end": 997
+    },
+    {
+      "text": "región fronto-parietal",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1030,
+      "end": 1052
+    },
+    {
+      "text": "núcleos profundos",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1059,
+      "end": 1076
+    },
+    {
+      "text": "Volumen cerebral en hipoperfusión (CBV) relativamente preservado en zona periférica",
+      "type": "PATOLOGIA",
+      "start": 1078,
+      "end": 1161
+    },
+    {
+      "text": "tejido potencialmente salvable (penumbra isquémica)",
+      "type": "PATOLOGIA",
+      "start": 1176,
+      "end": 1227
+    },
+    {
+      "text": "Oclusión completa del segmento proximal M1 de la arteria cerebral media izquierda",
+      "type": "PATOLOGIA",
+      "start": 1255,
+      "end": 1336
+    },
+    {
+      "text": "Arterias intracraneales restantes permeables",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1338,
+      "end": 1382
+    },
+    {
+      "text": "No se visualizan signos de estenosis significativas ni placas calcificadas en los troncos supraaórticos evaluados",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1384,
+      "end": 1497
+    },
+    {
+      "text": "Hallazgos compatibles con isquemia aguda por oclusión proximal de la arteria cerebral media izquierda (segmento M1)",
+      "type": "PATOLOGIA",
+      "start": 1524,
+      "end": 1639
+    },
+    {
+      "text": "ASPECTS de 6/10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 1645,
+      "end": 1660
+    },
+    {
+      "text": "presencia de área de penumbra",
+      "type": "PATOLOGIA",
+      "start": 1663,
+      "end": 1692
+    },
+    {
+      "text": "Signo de arteria hiperdensa",
+      "type": "PATOLOGIA",
+      "start": 1694,
+      "end": 1721
+    },
+    {
+      "text": "inicio de edema cerebral con ligero efecto de masa y desplazamiento de estructuras medias",
+      "type": "PATOLOGIA",
+      "start": 1724,
+      "end": 1813
+    },
+    {
+      "text": "Sin evidencia de hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1815,
+      "end": 1855
+    },
+    {
+      "text": "Isquemia aguda territorio arteria cerebral media izquierda por oclusión proximal (M1)",
+      "type": "PATOLOGIA",
+      "start": 1958,
+      "end": 2043
+    },
+    {
+      "text": "Signo de arteria hiperdensa",
+      "type": "PATOLOGIA",
+      "start": 1694,
+      "end": 1721
+    },
+    {
+      "text": "penumbra isquémica identificada en TC de perfusión",
+      "type": "PATOLOGIA",
+      "start": 2075,
+      "end": 2125
+    },
+    {
+      "text": "TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANGIOTC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 2153,
+      "end": 2220
+    }
+  ]
+}

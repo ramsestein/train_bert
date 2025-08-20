@@ -1,0 +1,113 @@
+{
+  "document_id": "informe_sintetico_20250804195045_16641",
+  "entities": [
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 241,
+      "end": 255
+    },
+    {
+      "text": "arteria cerebral posterior derecha",
+      "type": "ARTERIA",
+      "start": 273,
+      "end": 307
+    },
+    {
+      "text": "hemiparesia izquierda",
+      "type": "PATOLOGIA",
+      "start": 197,
+      "end": 218
+    },
+    {
+      "text": "afasia",
+      "type": "PATOLOGIA",
+      "start": 221,
+      "end": 227
+    },
+    {
+      "text": "hipodensidad cortical y subcortical",
+      "type": "PATOLOGIA",
+      "start": 580,
+      "end": 615
+    },
+    {
+      "text": "región occipital derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 619,
+      "end": 643
+    },
+    {
+      "text": "infarto cerebral",
+      "type": "PATOLOGIA",
+      "start": 732,
+      "end": 748
+    },
+    {
+      "text": "ASPECTS 8/10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 750,
+      "end": 762
+    },
+    {
+      "text": "TTP",
+      "type": "MEDIDA",
+      "start": 924,
+      "end": 927
+    },
+    {
+      "text": "CBF",
+      "type": "MEDIDA",
+      "start": 972,
+      "end": 975
+    },
+    {
+      "text": "CBV",
+      "type": "MEDIDA",
+      "start": 1055,
+      "end": 1058
+    },
+    {
+      "text": "penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1120,
+      "end": 1138
+    },
+    {
+      "text": "Oclusión casi completa",
+      "type": "PATOLOGIA",
+      "start": 1217,
+      "end": 1239
+    },
+    {
+      "text": "segmento P2 derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1244,
+      "end": 1263
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1785,
+      "end": 1808
+    },
+    {
+      "text": "No se visualizan hemorragias intra ni extraaxiales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 514,
+      "end": 564
+    },
+    {
+      "text": "sin signos de placas significativas ni calcificaciones prominentes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1422,
+      "end": 1488
+    },
+    {
+      "text": "Sistema vertebrobasilar sin alteraciones",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1490,
+      "end": 1530
+    }
+  ]
+}

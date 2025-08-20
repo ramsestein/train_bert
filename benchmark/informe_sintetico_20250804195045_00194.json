@@ -1,0 +1,155 @@
+{
+  "document_id": "informe_sintetico_20250804195045_00194",
+  "entities": [
+    {
+      "text": "hemorragia cortical multilobular",
+      "type": "PATOLOGIA",
+      "start": 509,
+      "end": 541
+    },
+    {
+      "text": "región occipital y parietal derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 567,
+      "end": 602
+    },
+    {
+      "text": "sustancia blanca subyacente",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 627,
+      "end": 654
+    },
+    {
+      "text": "colecciones hemáticas superficiales",
+      "type": "PATOLOGIA",
+      "start": 665,
+      "end": 700
+    },
+    {
+      "text": "microhemorragias puntiformes",
+      "type": "PATOLOGIA",
+      "start": 713,
+      "end": 741
+    },
+    {
+      "text": "corteza cerebral bilateral",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 745,
+      "end": 771
+    },
+    {
+      "text": "lóbulos occipitales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 790,
+      "end": 809
+    },
+    {
+      "text": "angiopatía amiloide",
+      "type": "PATOLOGIA",
+      "start": 825,
+      "end": 844
+    },
+    {
+      "text": "signos de sangrado intraventricular",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 863,
+      "end": 898
+    },
+    {
+      "text": "hematomas subdurales o epidurales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 902,
+      "end": 935
+    },
+    {
+      "text": "desplazamiento de la línea media hacia la izquierda",
+      "type": "PATOLOGIA",
+      "start": 1039,
+      "end": 1090
+    },
+    {
+      "text": "ASPECTS difícil de valorar",
+      "type": "PUNTUACION_CLINICA",
+      "start": 1092,
+      "end": 1118
+    },
+    {
+      "text": "hipoperfusión circundante a las áreas de hemorragia",
+      "type": "PATOLOGIA",
+      "start": 1250,
+      "end": 1301
+    },
+    {
+      "text": "aumento de tiempo de tránsito medio (MTT)",
+      "type": "MEDIDA",
+      "start": 1307,
+      "end": 1348
+    },
+    {
+      "text": "reducción leve del flujo cerebral (CBF)",
+      "type": "MEDIDA",
+      "start": 1351,
+      "end": 1390
+    },
+    {
+      "text": "Volumen cerebral (CBV) preservado",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1432,
+      "end": 1465
+    },
+    {
+      "text": "área isquémica extensa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1484,
+      "end": 1506
+    },
+    {
+      "text": "lesiones vasculares aneurismáticas o malformaciones arteriovenosas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1555,
+      "end": 1621
+    },
+    {
+      "text": "Arterias cerebrales principales permeables",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1689,
+      "end": 1731
+    },
+    {
+      "text": "signos de oclusión o estenosis crítica",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1736,
+      "end": 1774
+    },
+    {
+      "text": "irregularidad en ramas corticales pequeñas compatibles con vasculopatía",
+      "type": "PATOLOGIA",
+      "start": 1794,
+      "end": 1865
+    },
+    {
+      "text": "múltiples microhemorragias corticales bilaterales",
+      "type": "PATOLOGIA",
+      "start": 1994,
+      "end": 2043
+    },
+    {
+      "text": "malformaciones vasculares ni aneurismas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2061,
+      "end": 2100
+    },
+    {
+      "text": "hipoperfusión secundaria en el entorno del sangrado",
+      "type": "PATOLOGIA",
+      "start": 2115,
+      "end": 2166
+    },
+    {
+      "text": "signos isquémicos relevantes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2180,
+      "end": 2208
+    }
+  ]
+}

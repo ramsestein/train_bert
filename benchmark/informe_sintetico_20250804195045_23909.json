@@ -1,0 +1,101 @@
+{
+  "document_id": "informe_sintetico_20250804195045_23909",
+  "entities": [
+    {
+      "text": "hematoma intracerebral",
+      "type": "PATOLOGIA",
+      "start": 623,
+      "end": 645
+    },
+    {
+      "text": "transformación hemorrágica tipo HI2",
+      "type": "PATOLOGIA",
+      "start": 650,
+      "end": 685
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "ARTERIA",
+      "start": 576,
+      "end": 606
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 599,
+      "end": 606
+    },
+    {
+      "text": "3 mm",
+      "type": "MEDIDA",
+      "start": 1024,
+      "end": 1028
+    },
+    {
+      "text": "marcada",
+      "type": "TEMPORALIDAD",
+      "start": 1141,
+      "end": 1148
+    },
+    {
+      "text": "infarto cerebral",
+      "type": "PATOLOGIA",
+      "start": 242,
+      "end": 258
+    },
+    {
+      "text": "oclusión completa",
+      "type": "PATOLOGIA",
+      "start": 1495,
+      "end": 1512
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "ARTERIA",
+      "start": 576,
+      "end": 606
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 599,
+      "end": 606
+    },
+    {
+      "text": "sin hidrocefalia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1094,
+      "end": 1110
+    },
+    {
+      "text": "monitorización estrecha",
+      "type": "PUNTUACION_CLINICA",
+      "start": 1966,
+      "end": 1989
+    },
+    {
+      "text": "manejo neuroquirúrgico urgente",
+      "type": "PUNTUACION_CLINICA",
+      "start": 1992,
+      "end": 2022
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 353,
+      "end": 369
+    },
+    {
+      "text": "estudio de perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 385,
+      "end": 414
+    },
+    {
+      "text": "angiografía por AngioTC arterial intra y extracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 417,
+      "end": 470
+    }
+  ]
+}

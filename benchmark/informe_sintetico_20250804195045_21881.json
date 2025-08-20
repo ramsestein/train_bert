@@ -1,0 +1,83 @@
+{
+  "document_id": "informe_sintetico_20250804195045_21881",
+  "entities": [
+    {
+      "text": "hematoma subdural agudo",
+      "type": "PATOLOGIA",
+      "start": 482,
+      "end": 505
+    },
+    {
+      "text": "localización frontotemporal derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 509,
+      "end": 544
+    },
+    {
+      "text": "12 mm",
+      "type": "MEDIDA",
+      "start": 567,
+      "end": 572
+    },
+    {
+      "text": "6 mm",
+      "type": "MEDIDA",
+      "start": 682,
+      "end": 686
+    },
+    {
+      "text": "hiperdensidad en la convexidad cerebral",
+      "type": "PATOLOGIA",
+      "start": 699,
+      "end": 738
+    },
+    {
+      "text": "edema vasogénico",
+      "type": "PATOLOGIA",
+      "start": 827,
+      "end": 843
+    },
+    {
+      "text": "No se evidencian hemorragias parenquimatosas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 878,
+      "end": 922
+    },
+    {
+      "text": "No se observan regiones con patrón de penumbra significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1343,
+      "end": 1403
+    },
+    {
+      "text": "sin evidencia de estenosis ni oclusiones",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1509,
+      "end": 1549
+    },
+    {
+      "text": "sin hallazgos patológicos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1934,
+      "end": 1959
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 346,
+      "end": 362
+    },
+    {
+      "text": "TC perfusión",
+      "type": "TECNICA_IMAGEN",
+      "start": 364,
+      "end": 376
+    },
+    {
+      "text": "AngioTC arterial intra y extracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 388,
+      "end": 425
+    }
+  ]
+}

@@ -1,0 +1,167 @@
+{
+  "document_id": "informe_sintetico_20250804195045_14819",
+  "entities": [
+    {
+      "text": "hemiparesia derecha",
+      "type": "PATOLOGIA",
+      "start": 195,
+      "end": 214
+    },
+    {
+      "text": "afasia",
+      "type": "PATOLOGIA",
+      "start": 217,
+      "end": 223
+    },
+    {
+      "text": "disección arterial",
+      "type": "PATOLOGIA",
+      "start": 245,
+      "end": 263
+    },
+    {
+      "text": "infarto cerebral isquémico",
+      "type": "PATOLOGIA",
+      "start": 268,
+      "end": 294
+    },
+    {
+      "text": "pérdida de diferenciación cortico-subcortical",
+      "type": "PATOLOGIA",
+      "start": 536,
+      "end": 581
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 625,
+      "end": 657
+    },
+    {
+      "text": "región frontoparietal",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 668,
+      "end": 689
+    },
+    {
+      "text": "núcleo lenticular",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 702,
+      "end": 719
+    },
+    {
+      "text": "ASPECTS 6/10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 721,
+      "end": 733
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 762,
+      "end": 785
+    },
+    {
+      "text": "efecto masa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 789,
+      "end": 800
+    },
+    {
+      "text": "aumento del Tmax",
+      "type": "PATOLOGIA",
+      "start": 936,
+      "end": 952
+    },
+    {
+      "text": "marcada disminución del CBF",
+      "type": "PATOLOGIA",
+      "start": 987,
+      "end": 1014
+    },
+    {
+      "text": "reducción focalizada del CBV",
+      "type": "PATOLOGIA",
+      "start": 1017,
+      "end": 1045
+    },
+    {
+      "text": "núcleo isquémico establecido",
+      "type": "PATOLOGIA",
+      "start": 1093,
+      "end": 1121
+    },
+    {
+      "text": "mismatch significativo entre área con retraso de Tmax y reducción del CBV",
+      "type": "PATOLOGIA",
+      "start": 1137,
+      "end": 1210
+    },
+    {
+      "text": "irregularidad y engrosamiento de la pared con doble lumen",
+      "type": "PATOLOGIA",
+      "start": 1292,
+      "end": 1349
+    },
+    {
+      "text": "disección en segmento cervical distal de la arteria carótida interna izquierda",
+      "type": "PATOLOGIA",
+      "start": 1363,
+      "end": 1441
+    },
+    {
+      "text": "estenosis >70%",
+      "type": "MEDIDA",
+      "start": 1485,
+      "end": 1499
+    },
+    {
+      "text": "defecto de repleción segmentario en M1 y M2 de ACM izquierda",
+      "type": "PATOLOGIA",
+      "start": 1510,
+      "end": 1570
+    },
+    {
+      "text": "oclusión trombótica secundaria",
+      "type": "PATOLOGIA",
+      "start": 1587,
+      "end": 1617
+    },
+    {
+      "text": "estenosis severa",
+      "type": "PATOLOGIA",
+      "start": 2144,
+      "end": 2160
+    },
+    {
+      "text": "trombosis subsecuente en arteria cerebral media izquierda",
+      "type": "PATOLOGIA",
+      "start": 2163,
+      "end": 2220
+    },
+    {
+      "text": "No hemorragia asociada",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2222,
+      "end": 2244
+    },
+    {
+      "text": "TC de cráneo basal sin contraste",
+      "type": "TECNICA_IMAGEN",
+      "start": 315,
+      "end": 347
+    },
+    {
+      "text": "estudio de perfusión cerebral con mapas de CBV, CBF, TTP y Tmax",
+      "type": "TECNICA_IMAGEN",
+      "start": 349,
+      "end": 412
+    },
+    {
+      "text": "angiografía por angio-TC extra e intracraneal con reconstrucción 3D",
+      "type": "TECNICA_IMAGEN",
+      "start": 414,
+      "end": 481
+    }
+  ]
+}

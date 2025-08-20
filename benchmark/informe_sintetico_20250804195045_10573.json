@@ -1,0 +1,53 @@
+{
+  "document_id": "informe_sintetico_20250804195045_10573",
+  "entities": [
+    {
+      "text": "hematoma lobar de localización parietal derecha",
+      "type": "PATOLOGIA",
+      "start": 439,
+      "end": 486
+    },
+    {
+      "text": "parietal derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 470,
+      "end": 486
+    },
+    {
+      "text": "3,5 x 2,8 cm",
+      "type": "MEDIDA",
+      "start": 507,
+      "end": 519
+    },
+    {
+      "text": "4 mm",
+      "type": "MEDIDA",
+      "start": 690,
+      "end": 694
+    },
+    {
+      "text": "agudo",
+      "type": "TEMPORALIDAD",
+      "start": 905,
+      "end": 910
+    },
+    {
+      "text": "sin hidrocefalia obstructiva",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 829,
+      "end": 857
+    },
+    {
+      "text": "sin signos de vasoespasmo ni estenosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1382,
+      "end": 1420
+    },
+    {
+      "text": "sin evidencias de aneurismas ni malformaciones arteriovenosas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2143,
+      "end": 2204
+    }
+  ]
+}

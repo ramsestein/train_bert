@@ -1,0 +1,95 @@
+{
+  "document_id": "informe_sintetico_20250804195045_04053",
+  "entities": [
+    {
+      "text": "ictus isquémico agudo",
+      "type": "PATOLOGIA",
+      "start": 255,
+      "end": 276
+    },
+    {
+      "text": "isquemia precoz",
+      "type": "PATOLOGIA",
+      "start": 613,
+      "end": 628
+    },
+    {
+      "text": "ASPECTS 9",
+      "type": "PUNTUACION_CLINICA",
+      "start": 630,
+      "end": 639
+    },
+    {
+      "text": "territorio parietal derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 570,
+      "end": 597
+    },
+    {
+      "text": "TTP",
+      "type": "TECNICA_IMAGEN",
+      "start": 774,
+      "end": 777
+    },
+    {
+      "text": "CBF",
+      "type": "TECNICA_IMAGEN",
+      "start": 811,
+      "end": 814
+    },
+    {
+      "text": "CBV",
+      "type": "TECNICA_IMAGEN",
+      "start": 898,
+      "end": 901
+    },
+    {
+      "text": "infarto establecido relevante",
+      "type": "PATOLOGIA",
+      "start": 1026,
+      "end": 1055
+    },
+    {
+      "text": "segmento distal M2 de la arteria cerebral media derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1129,
+      "end": 1184
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "ARTERIA",
+      "start": 1154,
+      "end": 1184
+    },
+    {
+      "text": "ASPECTS 9",
+      "type": "PUNTUACION_CLINICA",
+      "start": 630,
+      "end": 639
+    },
+    {
+      "text": "penumbra significativa",
+      "type": "PATOLOGIA",
+      "start": 1620,
+      "end": 1642
+    },
+    {
+      "text": "No se evidencian hematomas ni hemorragias intra ni extraaxiales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 425,
+      "end": 488
+    },
+    {
+      "text": "No se identifican áreas con disminución marcada de CBV que sugieran infarto establecido relevante",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 958,
+      "end": 1055
+    },
+    {
+      "text": "No complicaciones hemorrágicas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1678,
+      "end": 1708
+    }
+  ]
+}

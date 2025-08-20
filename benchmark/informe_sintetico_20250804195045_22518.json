@@ -1,0 +1,59 @@
+{
+  "document_id": "informe_sintetico_20250804195045_22518",
+  "entities": [
+    {
+      "text": "hematoma subdural agudo",
+      "type": "PATOLOGIA",
+      "start": 590,
+      "end": 613
+    },
+    {
+      "text": "hemisférico derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 523,
+      "end": 542
+    },
+    {
+      "text": "12 mm",
+      "type": "MEDIDA",
+      "start": 652,
+      "end": 657
+    },
+    {
+      "text": "8 mm",
+      "type": "MEDIDA",
+      "start": 774,
+      "end": 778
+    },
+    {
+      "text": "agudo",
+      "type": "TEMPORALIDAD",
+      "start": 608,
+      "end": 613
+    },
+    {
+      "text": "No se evidencian signos de hemorragia intraparenquimatosa ni subaracnoidea adicional",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 973,
+      "end": 1057
+    },
+    {
+      "text": "Arterias cerebrales principales",
+      "type": "ARTERIA",
+      "start": 1310,
+      "end": 1341
+    },
+    {
+      "text": "sin signos de estenosis ni oclusión",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1354,
+      "end": 1389
+    },
+    {
+      "text": "sin signos patológicos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1804,
+      "end": 1826
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "document_id": "informe_sintetico_20250804195045_20637",
+  "entities": [
+    {
+      "text": "ictus isquémico agudo",
+      "type": "PATOLOGIA",
+      "start": 273,
+      "end": 294
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 525,
+      "end": 557
+    },
+    {
+      "text": "ACM",
+      "type": "ARTERIA",
+      "start": 1059,
+      "end": 1062
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 548,
+      "end": 557
+    },
+    {
+      "text": "6 y 7",
+      "type": "MEDIDA",
+      "start": 1347,
+      "end": 1352
+    },
+    {
+      "text": "aguda",
+      "type": "TEMPORALIDAD",
+      "start": 1741,
+      "end": 1746
+    },
+    {
+      "text": "ASPECTS",
+      "type": "PUNTUACION_CLINICA",
+      "start": 1324,
+      "end": 1331
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 315,
+      "end": 331
+    },
+    {
+      "text": "No hay evidencia de hemorragia intra o extraaxial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 745,
+      "end": 794
+    },
+    {
+      "text": "Oclusión completa del segmento proximal M1 de la arteria cerebral media izquierda",
+      "type": "PATOLOGIA",
+      "start": 1389,
+      "end": 1470
+    },
+    {
+      "text": "M1",
+      "type": "ARTERIA",
+      "start": 731,
+      "end": 733
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 548,
+      "end": 557
+    },
+    {
+      "text": "6-7",
+      "type": "MEDIDA",
+      "start": 1880,
+      "end": 1883
+    },
+    {
+      "text": "penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1227,
+      "end": 1245
+    }
+  ]
+}

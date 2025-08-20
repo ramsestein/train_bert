@@ -1,0 +1,101 @@
+{
+  "document_id": "informe_sintetico_20250804195045_07278",
+  "entities": [
+    {
+      "text": "infarto cerebral",
+      "type": "PATOLOGIA",
+      "start": 348,
+      "end": 364
+    },
+    {
+      "text": "infartos",
+      "type": "PATOLOGIA",
+      "start": 763,
+      "end": 771
+    },
+    {
+      "text": "watershed",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 790,
+      "end": 799
+    },
+    {
+      "text": "regiones periventriculares fronto-parietales y occipitales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 688,
+      "end": 746
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 935,
+      "end": 942
+    },
+    {
+      "text": "70%",
+      "type": "MEDIDA",
+      "start": 1655,
+      "end": 1658
+    },
+    {
+      "text": "agudo",
+      "type": "TEMPORALIDAD",
+      "start": 207,
+      "end": 212
+    },
+    {
+      "text": "sin oclusiones ni trombosis evidentes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1766,
+      "end": 1803
+    },
+    {
+      "text": "áreas de isquemia en penumbra",
+      "type": "PATOLOGIA",
+      "start": 2223,
+      "end": 2252
+    },
+    {
+      "text": "estenosis carotídea izquierda significativa",
+      "type": "PATOLOGIA",
+      "start": 2087,
+      "end": 2130
+    },
+    {
+      "text": "arteria carótida interna izquierda",
+      "type": "ARTERIA",
+      "start": 1556,
+      "end": 1590
+    },
+    {
+      "text": "arterias intracraneales",
+      "type": "ARTERIA",
+      "start": 486,
+      "end": 509
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 405,
+      "end": 421
+    },
+    {
+      "text": "angiografía por TC",
+      "type": "TECNICA_IMAGEN",
+      "start": 464,
+      "end": 482
+    },
+    {
+      "text": "TC PERFUSIÓN",
+      "type": "TECNICA_IMAGEN",
+      "start": 1086,
+      "end": 1098
+    },
+    {
+      "text": "TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANG IOTC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 72,
+      "end": 140
+    }
+  ]
+}

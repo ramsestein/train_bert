@@ -1,0 +1,113 @@
+{
+  "document_id": "informe_sintetico_20250804195045_08744",
+  "entities": [
+    {
+      "text": "infarto reciente",
+      "type": "PATOLOGIA",
+      "start": 600,
+      "end": 616
+    },
+    {
+      "text": "transformación hemorrágica tipo HI1",
+      "type": "PATOLOGIA",
+      "start": 694,
+      "end": 729
+    },
+    {
+      "text": "hemorragia intra o extraaxial masiva",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 782,
+      "end": 818
+    },
+    {
+      "text": "región temporoparietal derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 554,
+      "end": 584
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "ARTERIA",
+      "start": 1183,
+      "end": 1213
+    },
+    {
+      "text": "Oclusión parcial distal de rama M2 derecha",
+      "type": "PATOLOGIA",
+      "start": 1466,
+      "end": 1508
+    },
+    {
+      "text": "infarto agudo",
+      "type": "PATOLOGIA",
+      "start": 1698,
+      "end": 1711
+    },
+    {
+      "text": "ACM derecha",
+      "type": "ARTERIA",
+      "start": 1729,
+      "end": 1740
+    },
+    {
+      "text": "hemorragia masiva",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1808,
+      "end": 1825
+    },
+    {
+      "text": "permeables sin estenosis mayor",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1975,
+      "end": 2005
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 352,
+      "end": 368
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 387,
+      "end": 408
+    },
+    {
+      "text": "angiografía por TC de vasos intracraneales y extra craneales",
+      "type": "TECNICA_IMAGEN",
+      "start": 411,
+      "end": 471
+    },
+    {
+      "text": "TTP",
+      "type": "MEDIDA",
+      "start": 1102,
+      "end": 1105
+    },
+    {
+      "text": "CBF",
+      "type": "MEDIDA",
+      "start": 1158,
+      "end": 1161
+    },
+    {
+      "text": "CBV",
+      "type": "MEDIDA",
+      "start": 1278,
+      "end": 1281
+    },
+    {
+      "text": "sin estenosis significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1437,
+      "end": 1464
+    },
+    {
+      "text": "sin evidencia de trombos adicionales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1554,
+      "end": 1590
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "document_id": "informe_sintetico_20250804195045_05706",
+  "entities": [
+    {
+      "text": "infarto cerebral reciente",
+      "type": "PATOLOGIA",
+      "start": 692,
+      "end": 717
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 640,
+      "end": 672
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "ARTERIA",
+      "start": 640,
+      "end": 672
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 663,
+      "end": 672
+    },
+    {
+      "text": "HI1",
+      "type": "PUNTUACION_CLINICA",
+      "start": 880,
+      "end": 883
+    },
+    {
+      "text": "sin desplazamientos significativos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1028,
+      "end": 1062
+    },
+    {
+      "text": "sin evidencia de trombosis proximal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1592,
+      "end": 1627
+    },
+    {
+      "text": "sin alteraciones",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1752,
+      "end": 1768
+    },
+    {
+      "text": "infarto subagudo",
+      "type": "TEMPORALIDAD",
+      "start": 2113,
+      "end": 2129
+    },
+    {
+      "text": "transformación hemorrágica tipo HI1",
+      "type": "PATOLOGIA",
+      "start": 1845,
+      "end": 1880
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "ARTERIA",
+      "start": 640,
+      "end": 672
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 663,
+      "end": 672
+    },
+    {
+      "text": "sin zonas amplias de penumbra crítica",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1434,
+      "end": 1471
+    },
+    {
+      "text": "prolongación focal de los tiempos de tránsito medio (TTP)",
+      "type": "MEDIDA",
+      "start": 1171,
+      "end": 1228
+    },
+    {
+      "text": "tiempo de retraso en la región afectada",
+      "type": "MEDIDA",
+      "start": 1231,
+      "end": 1270
+    }
+  ]
+}

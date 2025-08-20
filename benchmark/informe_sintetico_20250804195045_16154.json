@@ -1,0 +1,283 @@
+{
+  "document_id": "informe_sintetico_20250804195045_16154",
+  "entities": [
+    {
+      "text": "pérdida de conciencia",
+      "type": "PATOLOGIA",
+      "start": 197,
+      "end": 218
+    },
+    {
+      "text": "hemiparesia bilateral",
+      "type": "PATOLOGIA",
+      "start": 221,
+      "end": 242
+    },
+    {
+      "text": "oclusión vascular",
+      "type": "PATOLOGIA",
+      "start": 264,
+      "end": 281
+    },
+    {
+      "text": "territorio vertebrobasilar",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 285,
+      "end": 311
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 352,
+      "end": 368
+    },
+    {
+      "text": "hemorragias intracraneales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 549,
+      "end": 575
+    },
+    {
+      "text": "lesiones expansivas agudas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 579,
+      "end": 605
+    },
+    {
+      "text": "hipodensidad",
+      "type": "PATOLOGIA",
+      "start": 618,
+      "end": 630
+    },
+    {
+      "text": "puente",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 637,
+      "end": 643
+    },
+    {
+      "text": "mesencéfalo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 663,
+      "end": 674
+    },
+    {
+      "text": "edema isquémico",
+      "type": "PATOLOGIA",
+      "start": 690,
+      "end": 705
+    },
+    {
+      "text": "diferenciación córtico-subcortical",
+      "type": "PATOLOGIA",
+      "start": 718,
+      "end": 752
+    },
+    {
+      "text": "territorio vertebrobasilar",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 285,
+      "end": 311
+    },
+    {
+      "text": "morfología y posición normal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 807,
+      "end": 835
+    },
+    {
+      "text": "alteraciones",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 900,
+      "end": 912
+    },
+    {
+      "text": "TC PERFUSIÓN",
+      "type": "TECNICA_IMAGEN",
+      "start": 915,
+      "end": 927
+    },
+    {
+      "text": "marcada reducción del flujo cerebral",
+      "type": "PATOLOGIA",
+      "start": 945,
+      "end": 981
+    },
+    {
+      "text": "CBF",
+      "type": "MEDIDA",
+      "start": 983,
+      "end": 986
+    },
+    {
+      "text": "volumen sanguíneo cerebral",
+      "type": "MEDIDA",
+      "start": 990,
+      "end": 1016
+    },
+    {
+      "text": "territorio irrigado por la arteria basilar",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1029,
+      "end": 1071
+    },
+    {
+      "text": "protuberancia",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1083,
+      "end": 1096
+    },
+    {
+      "text": "mesencéfalo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 663,
+      "end": 674
+    },
+    {
+      "text": "aumento del tiempo de tránsito",
+      "type": "PATOLOGIA",
+      "start": 1116,
+      "end": 1146
+    },
+    {
+      "text": "TTP",
+      "type": "MEDIDA",
+      "start": 1148,
+      "end": 1151
+    },
+    {
+      "text": "tiempo hasta el pico",
+      "type": "PATOLOGIA",
+      "start": 1155,
+      "end": 1175
+    },
+    {
+      "text": "Tmax",
+      "type": "MEDIDA",
+      "start": 1177,
+      "end": 1181
+    },
+    {
+      "text": "área isquémica en evolución",
+      "type": "PATOLOGIA",
+      "start": 1199,
+      "end": 1226
+    },
+    {
+      "text": "penumbra tisular extensa",
+      "type": "PATOLOGIA",
+      "start": 1229,
+      "end": 1253
+    },
+    {
+      "text": "ANGIO-TC EXTRA E INTRACRANEAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 1256,
+      "end": 1285
+    },
+    {
+      "text": "segmento proximal",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1335,
+      "end": 1352
+    },
+    {
+      "text": "tronco basilar",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1365,
+      "end": 1379
+    },
+    {
+      "text": "estenosis significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1417,
+      "end": 1440
+    },
+    {
+      "text": "hallazgos relevantes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1476,
+      "end": 1496
+    },
+    {
+      "text": "signos de trombosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1513,
+      "end": 1532
+    },
+    {
+      "text": "arterias cerebrales anteriores",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1536,
+      "end": 1566
+    },
+    {
+      "text": "origen de los troncos supraórticos",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1601,
+      "end": 1635
+    },
+    {
+      "text": "estenosis significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1417,
+      "end": 1440
+    },
+    {
+      "text": "Oclusión completa proximal de arteria basilar",
+      "type": "PATOLOGIA",
+      "start": 1690,
+      "end": 1735
+    },
+    {
+      "text": "extenso territorio isquémico",
+      "type": "PATOLOGIA",
+      "start": 1740,
+      "end": 1768
+    },
+    {
+      "text": "tronco cerebral",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1772,
+      "end": 1787
+    },
+    {
+      "text": "protuberancia",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1083,
+      "end": 1096
+    },
+    {
+      "text": "mesencéfalo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 663,
+      "end": 674
+    },
+    {
+      "text": "perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 370,
+      "end": 388
+    },
+    {
+      "text": "hemorragias intracraneales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 549,
+      "end": 575
+    },
+    {
+      "text": "valoración urgente por neurología",
+      "type": "PATOLOGIA",
+      "start": 1896,
+      "end": 1929
+    },
+    {
+      "text": "tratamiento de reperfusión endovascular",
+      "type": "PATOLOGIA",
+      "start": 1943,
+      "end": 1982
+    }
+  ],
+  "regenerado": true,
+  "fecha_regeneracion": "2025-08-06T15:38:02.916649"
+}

@@ -1,0 +1,77 @@
+{
+  "document_id": "informe_sintetico_20250804195045_10869",
+  "entities": [
+    {
+      "text": "isquemia",
+      "type": "PATOLOGIA",
+      "start": 224,
+      "end": 232
+    },
+    {
+      "text": "arteria cerebral anterior",
+      "type": "ARTERIA",
+      "start": 250,
+      "end": 275
+    },
+    {
+      "text": "agudo",
+      "type": "TEMPORALIDAD",
+      "start": 194,
+      "end": 199
+    },
+    {
+      "text": "lóbulo frontal derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 595,
+      "end": 617
+    },
+    {
+      "text": "arteria cerebral anterior derecha",
+      "type": "ARTERIA",
+      "start": 664,
+      "end": 697
+    },
+    {
+      "text": "ASPECTS modificado 9",
+      "type": "PUNTUACION_CLINICA",
+      "start": 699,
+      "end": 719
+    },
+    {
+      "text": "isquémica establecida",
+      "type": "PATOLOGIA",
+      "start": 1125,
+      "end": 1146
+    },
+    {
+      "text": "Oclusión parcial",
+      "type": "PATOLOGIA",
+      "start": 1345,
+      "end": 1361
+    },
+    {
+      "text": "segmento A2",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1368,
+      "end": 1379
+    },
+    {
+      "text": "arteria cerebral anterior derecha",
+      "type": "ARTERIA",
+      "start": 664,
+      "end": 697
+    },
+    {
+      "text": "No se identifican hemorragias intracraneales ni masas.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 451,
+      "end": 505
+    },
+    {
+      "text": "No hemorragia intracraneal ni signos de afectación de otros territorios vasculares.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1908,
+      "end": 1991
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+UO_PACN (Unidad Organizativa Médica): RADIO
+
+PRUEB (Prueba solicitada): TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANG IOTC ARTERIAL INTRACRANEAL)
+
+CLIN (Resumen clínico): Paciente con cuadro súbito de hemiparesia derecha y alteración del lenguaje, sospecha clínica de ictus isquémico múltiple.
+
+OBSR (Protocolo): TC craneal basal sin contraste, seguido de perfusión cerebral y AngioTC arterial intracraneal y extracraneal para estudio vascular.
+
+RESL (Resultados):  
+TC CRANEAL BASAL:  
+Presencia de hipodensidades corticales y subcorticales en territorios corticales fronto-parietal izquierdo y temporal derecho, de morfología irregular y no conformes a un solo territorio vascular, sugestivas de infartos isquémicos agudos recientes. No se identifican signos de hemorragia aguda intra o extraaxial. No se hallan masas ni desplazamientos significativos de línea media. Sistema ventricular conservado, sin evidencias de hidrocefalia. Cisternas basales libres.
+
+TC PERFUSIÓN:  
+Mapas de tiempo de tránsito (TTP) y de retraso (MTT) muestran prolongación significativa en múltiples territorios corticales izquierdos y derechos (territorios de arteria cerebral media izquierda y arteria cerebral posterior derecha), con reducción notable del volumen sanguíneo cerebral (CBV) y del flujo sanguíneo cerebral (CBF), hallazgos compatibles con isquemia aguda multi-territorial. Áreas perilesionales con aumento de tiempo de tránsito pero conservadas en CBV sugieren tejido en riesgo (penumbra).
+
+ANGIO-TC INTRACRANEAL Y EXTRACRANEAL:  
+Oclusión completa segmentaria de la arteria cerebral media izquierda proximal (M1) con ausencia de contraste distal. Estenosis severa del 80% en segmento proximal de arteria cerebral posterior derecha. Arterias carotídeas internas sin signos de estenosis significativa. Presencia de placas ateromatosas no calcificadas en ambos segmentos supraclinoideos de ambas ACIs. Circulación colateral moderada a través de comunicantes. Sistema vertebrobasilar permeable sin estenosis significativas.
+
+CONCL (Conclusiones): Isquemia aguda multiterritorial en territorios de arteria cerebral media izquierda y arteria cerebral posterior derecha compatible con trombosis arterial y estenosis severa. No evidencias de hemorragia intracraneal. Se recomienda valoración urgente neurovascular y posible tratamiento endovascular.
+
+ACTI_ADICI (Actividad adicional): Control clínico y seguimiento con resonancia magnética cerebral para evaluar evolución y extensión de lesión isquémica.
+
+DKTXT (Descripció): TC NEURO EMERGENCIA S/CONTRASTE + PERFUSIÓN + ANGIO-TC
+
+ICON (Estudio): @TC-COD-ICTUS@
+
+X00DIATXT (Texto del diagnóstico ACR): Infarto cerebral agudo multiterritorial con oclusión de ACM izquierda y estenosis severa de ACP derecha.
+
+EST_T_DES (Descripción): TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANGIOTC ARTERIAL INTRACRANEAL)
+
+ZVASOS_D (Der.): Informe generado por RADIO, Servicio de Imagen Médica.

@@ -1,0 +1,95 @@
+{
+  "document_id": "informe_sintetico_20250804195045_06680",
+  "entities": [
+    {
+      "text": "hemicuerpo derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 190,
+      "end": 208
+    },
+    {
+      "text": "ictus lacunar",
+      "type": "PATOLOGIA",
+      "start": 222,
+      "end": 235
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 255,
+      "end": 271
+    },
+    {
+      "text": "hemorragia intra o extraaxial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 447,
+      "end": 476
+    },
+    {
+      "text": "hipodensidad focal punteada",
+      "type": "PATOLOGIA",
+      "start": 493,
+      "end": 520
+    },
+    {
+      "text": "6 mm",
+      "type": "MEDIDA",
+      "start": 541,
+      "end": 545
+    },
+    {
+      "text": "cápsula interna izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 570,
+      "end": 595
+    },
+    {
+      "text": "infarto lacunar agudo",
+      "type": "PATOLOGIA",
+      "start": 1007,
+      "end": 1028
+    },
+    {
+      "text": "isquemia extensa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1055,
+      "end": 1071
+    },
+    {
+      "text": "mismatch significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1075,
+      "end": 1097
+    },
+    {
+      "text": "arterias cerebrales media, anterior y posterior",
+      "type": "ARTERIA",
+      "start": 1188,
+      "end": 1235
+    },
+    {
+      "text": "estenosis ni oclusiones",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1254,
+      "end": 1277
+    },
+    {
+      "text": "complicaciones hemorrágicas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1400,
+      "end": 1427
+    },
+    {
+      "text": "isquemia focal",
+      "type": "PATOLOGIA",
+      "start": 1481,
+      "end": 1495
+    },
+    {
+      "text": "signos de estenosis u oclusión",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1562,
+      "end": 1592
+    }
+  ]
+}

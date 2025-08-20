@@ -1,0 +1,25 @@
+UO_PACN (Unidad Organizativa Médica): RADIO
+
+PRUEB (Prueba solicitada): TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANG IOTC ARTERIAL INTRACRANEAL)
+
+CLIN (Resumen clínico): Paciente con inicio súbito de hemiparesia izquierda y disminución del nivel de conciencia. Sospecha de hemorragia cerebral.
+
+OBSR (Protocolo): TC craneal basal urgente con adquisición en fase parenquimatosa, estudio de perfusión cerebral y angio-TC extra e intracraneal.
+
+RESL (Resultados): TC CRANEAL BASAL: Se evidencia hematoma intraparenquimatoso de localización talámica derecha, que mide aproximadamente 25 x 22 x 20 mm (AP x CC x LL), con densidad hiperdensa compatible con sangre en fase aguda. Se observa extensión del hematoma hacia el sistema ventricular, con sangrado intraventricular leve en el asta posterior del ventrículo lateral derecho. Edema vasogénico circundante moderado con efecto de masa local, manifestado por borramiento parcial de los surcos corticales adyacentes, sin desplazamiento significativo de la línea media (desviación menor a 3 mm). No se identifican fracturas óseas. El sistema ventricular se encuentra levemente dilatado, en relación con hidrocefalia incipiente secundaria a obstrucción parcial por sangre intraventricular. Cisternas basales libres.
+
+TC PERFUSIÓN: Se aprecia reducción leve y localizada del volumen sanguíneo cerebral (CBV) y flujo sanguíneo cerebral (CBF) en el territorio talámico derecho, con aumento del tiempo de tránsito (TTP) compatible con efecto local de la hemorragia, sin áreas de isquemia distal evidente.
+
+ANGIO-TC EXTRA E INTRACRANEAL: Arco aórtico y troncos supraórticos sin hallazgos patológicos. No se observan estenosis ni oclusiones. Sistema arterial intracraneal permeable, sin evidencia de malformaciones vasculares ni aneurismas.
+
+CONCL (Conclusiones): Hematoma intraparenquimatoso talámico derecho con extensión intraventricular leve y edema perilesional moderado. Hidrocefalia incipiente secundaria a obstrucción parcial ventricular. No signos de desplazamiento significativo de la línea media ni herniación. Angio-TC sin evidencia de anomalías vasculares.
+
+ACTI_ADICI (Actividad adicional): Se recomienda valoración neuroquirúrgica y monitorización neurológica estricta. Considerar realización de resonancia magnética para evaluación adicional si la evolución clínica lo requiere.
+
+ICON (Estudio): @RADIO_TC_202406@
+
+X00DIATXT (Texto del diagnóstico ACR): Hematoma intraparenquimatoso talámico derecho con extensión ventricular, edema vasogénico y signos iniciales de hidrocefalia obstructiva. Ausencia de anomalías vasculares en angio-TC.
+
+EST_T_DES (Descripción): TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANGIOTC ARTERIAL INTRACRANEAL)
+
+ZVASOS_D (Der.): @ANGIO_TC_202406@

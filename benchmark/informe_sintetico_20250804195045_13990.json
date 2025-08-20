@@ -1,0 +1,113 @@
+{
+  "document_id": "informe_sintetico_20250804195045_13990",
+  "entities": [
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 289,
+      "end": 303
+    },
+    {
+      "text": "territorio vertebrobasilar",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 307,
+      "end": 333
+    },
+    {
+      "text": "prolongación del tiempo de tránsito medio (TTP)",
+      "type": "MEDIDA",
+      "start": 882,
+      "end": 929
+    },
+    {
+      "text": "reducción leve del flujo sanguíneo cerebral (CBF)",
+      "type": "MEDIDA",
+      "start": 932,
+      "end": 981
+    },
+    {
+      "text": "volumen sanguíneo cerebral (CBV)",
+      "type": "MEDIDA",
+      "start": 1117,
+      "end": 1149
+    },
+    {
+      "text": "oclusión parcial",
+      "type": "PATOLOGIA",
+      "start": 1260,
+      "end": 1276
+    },
+    {
+      "text": "segmento distal de la arteria basilar",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1280,
+      "end": 1317
+    },
+    {
+      "text": "arteria basilar",
+      "type": "ARTERIA",
+      "start": 1302,
+      "end": 1317
+    },
+    {
+      "text": "arterias vertebrales",
+      "type": "ARTERIA",
+      "start": 2525,
+      "end": 2545
+    },
+    {
+      "text": "bilateralmente",
+      "type": "LATERALIDAD",
+      "start": 1425,
+      "end": 1439
+    },
+    {
+      "text": "sin estenosis significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1441,
+      "end": 1468
+    },
+    {
+      "text": "sin alteraciones",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1636,
+      "end": 1652
+    },
+    {
+      "text": "No se evidencian hemorragias intracraneales ni edema significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1887,
+      "end": 1953
+    },
+    {
+      "text": "isquemia aguda vertebrobasilar",
+      "type": "PATOLOGIA",
+      "start": 1786,
+      "end": 1816
+    },
+    {
+      "text": "oclusión parcial en segmento distal de la arteria basilar",
+      "type": "PATOLOGIA",
+      "start": 1260,
+      "end": 1317
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 378,
+      "end": 394
+    },
+    {
+      "text": "angiografía TC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 442,
+      "end": 478
+    },
+    {
+      "text": "perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 421,
+      "end": 439
+    }
+  ]
+}

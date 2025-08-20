@@ -1,0 +1,119 @@
+{
+  "document_id": "informe_sintetico_20250804195045_07137",
+  "entities": [
+    {
+      "text": "hemorragia intracraneal",
+      "type": "PATOLOGIA",
+      "start": 460,
+      "end": 483
+    },
+    {
+      "text": "lesiones isquémicas agudas",
+      "type": "PATOLOGIA",
+      "start": 487,
+      "end": 513
+    },
+    {
+      "text": "edema cerebral",
+      "type": "PATOLOGIA",
+      "start": 595,
+      "end": 609
+    },
+    {
+      "text": "masa ocupante de espacio",
+      "type": "PATOLOGIA",
+      "start": 613,
+      "end": 637
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 966,
+      "end": 976
+    },
+    {
+      "text": "hipoperfusión",
+      "type": "PATOLOGIA",
+      "start": 1077,
+      "end": 1090
+    },
+    {
+      "text": "estenosis significativa",
+      "type": "PATOLOGIA",
+      "start": 1251,
+      "end": 1274
+    },
+    {
+      "text": "oclusiones",
+      "type": "PATOLOGIA",
+      "start": 1276,
+      "end": 1286
+    },
+    {
+      "text": "placas ateromatosas de relevancia",
+      "type": "PATOLOGIA",
+      "start": 1289,
+      "end": 1322
+    },
+    {
+      "text": "aneurismas",
+      "type": "PATOLOGIA",
+      "start": 1387,
+      "end": 1397
+    },
+    {
+      "text": "malformaciones vasculares",
+      "type": "PATOLOGIA",
+      "start": 1401,
+      "end": 1426
+    },
+    {
+      "text": "hallazgos agudos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1514,
+      "end": 1530
+    },
+    {
+      "text": "lesiones isquémicas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 487,
+      "end": 506
+    },
+    {
+      "text": "estenosis significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1653,
+      "end": 1677
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 233,
+      "end": 249
+    },
+    {
+      "text": "perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 306,
+      "end": 324
+    },
+    {
+      "text": "angiografía por TC",
+      "type": "TECNICA_IMAGEN",
+      "start": 327,
+      "end": 345
+    },
+    {
+      "text": "troncos supraaórticos",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 349,
+      "end": 370
+    },
+    {
+      "text": "vasos intracraneales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 373,
+      "end": 393
+    }
+  ]
+}

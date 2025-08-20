@@ -1,0 +1,137 @@
+{
+  "document_id": "informe_sintetico_20250804195045_20490",
+  "entities": [
+    {
+      "text": "ictus isquémico",
+      "type": "PATOLOGIA",
+      "start": 241,
+      "end": 256
+    },
+    {
+      "text": "arteria hiperdensa en el segmento proximal M1 de la arteria cerebral media izquierda",
+      "type": "PATOLOGIA",
+      "start": 436,
+      "end": 520
+    },
+    {
+      "text": "trombo intraluminal",
+      "type": "PATOLOGIA",
+      "start": 546,
+      "end": 565
+    },
+    {
+      "text": "edema citotóxico precoz",
+      "type": "PATOLOGIA",
+      "start": 682,
+      "end": 705
+    },
+    {
+      "text": "ASPECTS 6/10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 707,
+      "end": 719
+    },
+    {
+      "text": "No se identifican signos de hemorragia intra o extraaxial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 721,
+      "end": 778
+    },
+    {
+      "text": "retraso significativo en tiempo de tránsito (TTP)",
+      "type": "PATOLOGIA",
+      "start": 958,
+      "end": 1007
+    },
+    {
+      "text": "disminución de flujo cerebral (CBF)",
+      "type": "PATOLOGIA",
+      "start": 1010,
+      "end": 1045
+    },
+    {
+      "text": "reducción del volumen cerebral (CBV)",
+      "type": "PATOLOGIA",
+      "start": 1107,
+      "end": 1143
+    },
+    {
+      "text": "isquemia establecida",
+      "type": "PATOLOGIA",
+      "start": 1203,
+      "end": 1223
+    },
+    {
+      "text": "hipoperfusión circundante",
+      "type": "PATOLOGIA",
+      "start": 1226,
+      "end": 1251
+    },
+    {
+      "text": "Oclusión completa del segmento proximal M1 de la ACM izquierda",
+      "type": "PATOLOGIA",
+      "start": 1277,
+      "end": 1339
+    },
+    {
+      "text": "ASPECTS 6/10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 707,
+      "end": 719
+    },
+    {
+      "text": "No se observan signos de hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1695,
+      "end": 1743
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 1517,
+      "end": 1531
+    },
+    {
+      "text": "territorio de la arteria cerebral media izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1535,
+      "end": 1584
+    },
+    {
+      "text": "oclusión proximal del segmento M1",
+      "type": "PATOLOGIA",
+      "start": 1589,
+      "end": 1622
+    },
+    {
+      "text": "área de penumbra identificada en perfusión",
+      "type": "PATOLOGIA",
+      "start": 2101,
+      "end": 2143
+    },
+    {
+      "text": "TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANG IOTC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 72,
+      "end": 140
+    },
+    {
+      "text": "TC craneal basal urgente + perfusión cerebral dinámica + angiografía TC arterial intracraneal en fase arterial",
+      "type": "TECNICA_IMAGEN",
+      "start": 276,
+      "end": 386
+    },
+    {
+      "text": "TC PERFUSIÓN",
+      "type": "TECNICA_IMAGEN",
+      "start": 931,
+      "end": 943
+    },
+    {
+      "text": "ANGIO-TC INTRACRANEAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 1254,
+      "end": 1275
+    }
+  ]
+}

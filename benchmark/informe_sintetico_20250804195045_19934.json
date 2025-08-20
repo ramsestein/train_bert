@@ -1,0 +1,143 @@
+{
+  "document_id": "informe_sintetico_20250804195045_19934",
+  "entities": [
+    {
+      "text": "isquemia",
+      "type": "PATOLOGIA",
+      "start": 241,
+      "end": 249
+    },
+    {
+      "text": "arteria cerebral anterior",
+      "type": "ARTERIA",
+      "start": 267,
+      "end": 292
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 696,
+      "end": 705
+    },
+    {
+      "text": "hipodensidad",
+      "type": "PATOLOGIA",
+      "start": 591,
+      "end": 603
+    },
+    {
+      "text": "región cortical y subcortical",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 610,
+      "end": 639
+    },
+    {
+      "text": "arteria cerebral anterior izquierda",
+      "type": "ARTERIA",
+      "start": 670,
+      "end": 705
+    },
+    {
+      "text": "lóbulo frontal",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 740,
+      "end": 754
+    },
+    {
+      "text": "cuerpo calloso",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 767,
+      "end": 781
+    },
+    {
+      "text": "ASPECTS modificada para ACA: 8/10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 843,
+      "end": 876
+    },
+    {
+      "text": "aumento del tiempo de tránsito medio (Tmax)",
+      "type": "PATOLOGIA",
+      "start": 959,
+      "end": 1002
+    },
+    {
+      "text": "tiempo de retraso (TTD)",
+      "type": "PATOLOGIA",
+      "start": 1005,
+      "end": 1028
+    },
+    {
+      "text": "arteria cerebral anterior izquierda",
+      "type": "ARTERIA",
+      "start": 670,
+      "end": 705
+    },
+    {
+      "text": "volumen de flujo cerebral (CBF)",
+      "type": "MEDIDA",
+      "start": 1116,
+      "end": 1147
+    },
+    {
+      "text": "volumen sanguíneo cerebral (CBV)",
+      "type": "MEDIDA",
+      "start": 1150,
+      "end": 1182
+    },
+    {
+      "text": "penumbra funcional",
+      "type": "PATOLOGIA",
+      "start": 1260,
+      "end": 1278
+    },
+    {
+      "text": "Oclusión proximal segmentaria",
+      "type": "PATOLOGIA",
+      "start": 1326,
+      "end": 1355
+    },
+    {
+      "text": "arteria cerebral anterior A2 izquierda",
+      "type": "ARTERIA",
+      "start": 1362,
+      "end": 1400
+    },
+    {
+      "text": "No hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1941,
+      "end": 1967
+    },
+    {
+      "text": "territorio vascular de ACA izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1721,
+      "end": 1757
+    },
+    {
+      "text": "hipodensidad cortical y subcortical",
+      "type": "PATOLOGIA",
+      "start": 1774,
+      "end": 1809
+    },
+    {
+      "text": "TC basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 1813,
+      "end": 1821
+    },
+    {
+      "text": "perfusión alterada",
+      "type": "PATOLOGIA",
+      "start": 1824,
+      "end": 1842
+    },
+    {
+      "text": "Oclusión segmentaria en segmento A2 de ACA izquierda",
+      "type": "PATOLOGIA",
+      "start": 1887,
+      "end": 1939
+    }
+  ]
+}

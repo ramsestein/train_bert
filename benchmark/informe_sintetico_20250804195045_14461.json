@@ -1,0 +1,71 @@
+{
+  "document_id": "informe_sintetico_20250804195045_14461",
+  "entities": [
+    {
+      "text": "accidente isquémico",
+      "type": "PATOLOGIA",
+      "start": 216,
+      "end": 235
+    },
+    {
+      "text": "arteria cerebral anterior",
+      "type": "ARTERIA",
+      "start": 253,
+      "end": 278
+    },
+    {
+      "text": "TC craneal basal sin contraste",
+      "type": "TECNICA_IMAGEN",
+      "start": 299,
+      "end": 329
+    },
+    {
+      "text": "perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 353,
+      "end": 371
+    },
+    {
+      "text": "angio-TC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 374,
+      "end": 404
+    },
+    {
+      "text": "No se evidencian signos de hemorragia intracraneal ni hematomas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 469,
+      "end": 532
+    },
+    {
+      "text": "ASPECTS 9",
+      "type": "PUNTUACION_CLINICA",
+      "start": 665,
+      "end": 674
+    },
+    {
+      "text": "territorio irrigado por la arteria cerebral anterior izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 972,
+      "end": 1034
+    },
+    {
+      "text": "isquémica aguda",
+      "type": "PATOLOGIA",
+      "start": 1122,
+      "end": 1137
+    },
+    {
+      "text": "segmento A2 izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1239,
+      "end": 1260
+    },
+    {
+      "text": "No evidencia de hemorragia o daño tisular irreversible en TC basal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1656,
+      "end": 1722
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "document_id": "0000000010000000057963766_cleaned",
+  "entities": [
+    {
+      "text": "Lesión intraaxial parietal izquierda con componente hemorrágico de caracter heterogéneo",
+      "type": "PATOLOGIA",
+      "start": 273,
+      "end": 360
+    },
+    {
+      "text": "parietal izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 291,
+      "end": 309
+    },
+    {
+      "text": "38x25x25 mm",
+      "type": "MEDIDA",
+      "start": 599,
+      "end": 610
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 942,
+      "end": 965
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1073,
+      "end": 1087
+    },
+    {
+      "text": "ANGIO-TC",
+      "type": "TECNICA_IMAGEN",
+      "start": 232,
+      "end": 240
+    },
+    {
+      "text": "ACA, ACM, ACP",
+      "type": "ARTERIA",
+      "start": 1272,
+      "end": 1285
+    },
+    {
+      "text": "Lesión hemorrágica intraaxial parietal izquierda de 28x2 mm",
+      "type": "PATOLOGIA",
+      "start": 1345,
+      "end": 1404
+    },
+    {
+      "text": "28x2 mm",
+      "type": "MEDIDA",
+      "start": 1397,
+      "end": 1404
+    },
+    {
+      "text": "sin hallazgos significativos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1638,
+      "end": 1666
+    }
+  ]
+}

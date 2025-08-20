@@ -1,0 +1,215 @@
+{
+  "document_id": "informe_sintetico_20250804195045_23198",
+  "entities": [
+    {
+      "text": "hemiparesia derecha",
+      "type": "PATOLOGIA",
+      "start": 196,
+      "end": 215
+    },
+    {
+      "text": "afasia",
+      "type": "PATOLOGIA",
+      "start": 218,
+      "end": 224
+    },
+    {
+      "text": "disección arterial carotídea",
+      "type": "PATOLOGIA",
+      "start": 238,
+      "end": 266
+    },
+    {
+      "text": "accidente isquémico cerebral",
+      "type": "PATOLOGIA",
+      "start": 269,
+      "end": 297
+    },
+    {
+      "text": "TC craneal basal urgente",
+      "type": "TECNICA_IMAGEN",
+      "start": 318,
+      "end": 342
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 344,
+      "end": 365
+    },
+    {
+      "text": "Angio-TC arterial intra y extracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 404,
+      "end": 442
+    },
+    {
+      "text": "áreas hipodensas",
+      "type": "PATOLOGIA",
+      "start": 544,
+      "end": 560
+    },
+    {
+      "text": "infarto isquémico reciente",
+      "type": "PATOLOGIA",
+      "start": 643,
+      "end": 669
+    },
+    {
+      "text": "arteria cerebral media (ACM) izquierda",
+      "type": "ARTERIA",
+      "start": 687,
+      "end": 725
+    },
+    {
+      "text": "ASPECTS 7",
+      "type": "PUNTUACION_CLINICA",
+      "start": 727,
+      "end": 736
+    },
+    {
+      "text": "hemorragias intracraneales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 756,
+      "end": 782
+    },
+    {
+      "text": "edema macizo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 786,
+      "end": 798
+    },
+    {
+      "text": "signos de sangrado subaracnoideo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 920,
+      "end": 952
+    },
+    {
+      "text": "hematomas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 956,
+      "end": 965
+    },
+    {
+      "text": "aumento notable en el tiempo de tránsito medio (TTM)",
+      "type": "MEDIDA",
+      "start": 997,
+      "end": 1049
+    },
+    {
+      "text": "tiempo hasta el pico (TTP)",
+      "type": "MEDIDA",
+      "start": 1052,
+      "end": 1078
+    },
+    {
+      "text": "reducción marcada del flujo cerebral (CBF)",
+      "type": "MEDIDA",
+      "start": 1123,
+      "end": 1165
+    },
+    {
+      "text": "volumen cerebral (CBV)",
+      "type": "MEDIDA",
+      "start": 1168,
+      "end": 1190
+    },
+    {
+      "text": "isquemia penumbra",
+      "type": "PATOLOGIA",
+      "start": 1212,
+      "end": 1229
+    },
+    {
+      "text": "estrechamiento irregular y calibre en \"doblez\"",
+      "type": "PATOLOGIA",
+      "start": 1304,
+      "end": 1350
+    },
+    {
+      "text": "arteria carótida interna izquierda",
+      "type": "ARTERIA",
+      "start": 1381,
+      "end": 1415
+    },
+    {
+      "text": "doble luz compatible con disección arterial",
+      "type": "PATOLOGIA",
+      "start": 1421,
+      "end": 1464
+    },
+    {
+      "text": "trombosis completa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1481,
+      "end": 1499
+    },
+    {
+      "text": "estenosis alta de grado severo (>70%)",
+      "type": "MEDIDA",
+      "start": 1533,
+      "end": 1570
+    },
+    {
+      "text": "flujo restringido en el segmento proximal M1 de la ACM",
+      "type": "PATOLOGIA",
+      "start": 1615,
+      "end": 1669
+    },
+    {
+      "text": "sin lesiones significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1709,
+      "end": 1736
+    },
+    {
+      "text": "Infarto isquémico subagudo",
+      "type": "PATOLOGIA",
+      "start": 1763,
+      "end": 1789
+    },
+    {
+      "text": "territorio superficial de arteria cerebral media izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1793,
+      "end": 1851
+    },
+    {
+      "text": "Evidencia radiológica compatible con disección arterial de la arteria carótida interna izquierda",
+      "type": "PATOLOGIA",
+      "start": 1867,
+      "end": 1963
+    },
+    {
+      "text": "estenosis severa",
+      "type": "PATOLOGIA",
+      "start": 1999,
+      "end": 2015
+    },
+    {
+      "text": "Área de penumbra isquémica significativa",
+      "type": "PATOLOGIA",
+      "start": 2019,
+      "end": 2059
+    },
+    {
+      "text": "complicaciones secundarias",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2153,
+      "end": 2179
+    },
+    {
+      "text": "Disección arterial de carótida interna izquierda",
+      "type": "PATOLOGIA",
+      "start": 2450,
+      "end": 2498
+    },
+    {
+      "text": "infarto isquémico en territorio de arteria cerebral media",
+      "type": "PATOLOGIA",
+      "start": 2503,
+      "end": 2560
+    }
+  ]
+}

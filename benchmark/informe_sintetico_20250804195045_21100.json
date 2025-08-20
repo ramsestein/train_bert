@@ -1,0 +1,143 @@
+{
+  "document_id": "informe_sintetico_20250804195045_21100",
+  "entities": [
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 265,
+      "end": 279
+    },
+    {
+      "text": "arteria cerebral posterior derecha",
+      "type": "ARTERIA",
+      "start": 297,
+      "end": 331
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 207,
+      "end": 216
+    },
+    {
+      "text": "leve hipodensidad",
+      "type": "PATOLOGIA",
+      "start": 678,
+      "end": 695
+    },
+    {
+      "text": "edema isquémico temprano",
+      "type": "PATOLOGIA",
+      "start": 740,
+      "end": 764
+    },
+    {
+      "text": "ASPECTS 9",
+      "type": "PUNTUACION_CLINICA",
+      "start": 837,
+      "end": 846
+    },
+    {
+      "text": "reducción del CBF",
+      "type": "PATOLOGIA",
+      "start": 1046,
+      "end": 1063
+    },
+    {
+      "text": "reducción mantenida del CBV",
+      "type": "PATOLOGIA",
+      "start": 1124,
+      "end": 1151
+    },
+    {
+      "text": "penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1216,
+      "end": 1234
+    },
+    {
+      "text": "zona de infarto establecido",
+      "type": "PATOLOGIA",
+      "start": 1250,
+      "end": 1277
+    },
+    {
+      "text": "Oclusión distal de la arteria cerebral posterior derecha",
+      "type": "PATOLOGIA",
+      "start": 1331,
+      "end": 1387
+    },
+    {
+      "text": "segmento P2",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1389,
+      "end": 1400
+    },
+    {
+      "text": "ACM",
+      "type": "ARTERIA",
+      "start": 1487,
+      "end": 1490
+    },
+    {
+      "text": "ACA",
+      "type": "ARTERIA",
+      "start": 1492,
+      "end": 1495
+    },
+    {
+      "text": "ACP",
+      "type": "ARTERIA",
+      "start": 1498,
+      "end": 1501
+    },
+    {
+      "text": "contralateral",
+      "type": "LATERALIDAD",
+      "start": 1502,
+      "end": 1515
+    },
+    {
+      "text": "sin estenosis significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1568,
+      "end": 1596
+    },
+    {
+      "text": "sin infarto establecido",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1879,
+      "end": 1902
+    },
+    {
+      "text": "No evidencia de sangrado asociado",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1926,
+      "end": 1959
+    },
+    {
+      "text": "TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANG IOTC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 72,
+      "end": 140
+    },
+    {
+      "text": "TC craneal basal sin contraste",
+      "type": "TECNICA_IMAGEN",
+      "start": 352,
+      "end": 382
+    },
+    {
+      "text": "perfusión cerebral con mapas de tiempo de tránsito (TTP), volumen cerebral de sangre (CBV) y flujo cerebral de sangre (CBF)",
+      "type": "TECNICA_IMAGEN",
+      "start": 384,
+      "end": 507
+    },
+    {
+      "text": "AngioTC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 519,
+      "end": 548
+    }
+  ]
+}

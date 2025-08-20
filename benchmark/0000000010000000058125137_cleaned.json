@@ -1,0 +1,65 @@
+{
+  "document_id": "0000000010000000058125137_cleaned",
+  "entities": [
+    {
+      "text": "Infart cerebral causat per oclusió o estenosi no especificades d'artèria cerebral no especificada",
+      "type": "PATOLOGIA",
+      "start": 166,
+      "end": 263
+    },
+    {
+      "text": "No se observa hemorragia intra ni extraaxial.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 412,
+      "end": 457
+    },
+    {
+      "text": "Parénquima cerebral sin alteraciones densitométricas agudas.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 458,
+      "end": 518
+    },
+    {
+      "text": "ASPECTS 10.",
+      "type": "PUNTUACION_CLINICA",
+      "start": 566,
+      "end": 577
+    },
+    {
+      "text": "No se observan lesiones isquémicas parenquimatosas subagudas ni otras lesiones isquemicas crónicas.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 578,
+      "end": 677
+    },
+    {
+      "text": "Dominancia vertebral derecha.",
+      "type": "LATERALIDAD",
+      "start": 1183,
+      "end": 1212
+    },
+    {
+      "text": "ACAs, ACMs y ACPs",
+      "type": "ARTERIA",
+      "start": 1272,
+      "end": 1289
+    },
+    {
+      "text": "Ateromatosis del arco aórtico y mínima de ambas bifurcaciones carotídeas, sin estenosis.",
+      "type": "PATOLOGIA",
+      "start": 934,
+      "end": 1022
+    },
+    {
+      "text": "Ateromatosis sin estenosis de los segmentos intraóseos de ambas carótidas internas.",
+      "type": "PATOLOGIA",
+      "start": 1023,
+      "end": 1106
+    },
+    {
+      "text": "Estudio de código ictus sin hallazgos patológicos significativos.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1350,
+      "end": 1415
+    }
+  ]
+}

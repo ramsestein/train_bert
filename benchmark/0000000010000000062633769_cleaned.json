@@ -1,0 +1,119 @@
+{
+  "document_id": "0000000010000000062633769_cleaned",
+  "entities": [
+    {
+      "text": "hemiparesia",
+      "type": "PATOLOGIA",
+      "start": 390,
+      "end": 401
+    },
+    {
+      "text": "No se observa hemorragia intra ni extraaxial.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 533,
+      "end": 578
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 626,
+      "end": 636
+    },
+    {
+      "text": "No se observan lesiones isquémicas parenquimatosas agudas ni subagudas.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 639,
+      "end": 710
+    },
+    {
+      "text": "Estructuras de la línea media centradas.",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 711,
+      "end": 751
+    },
+    {
+      "text": "Sistema ventricular de tamaño y morfología normal.",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 752,
+      "end": 802
+    },
+    {
+      "text": "Cisternas basales libres.",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 803,
+      "end": 828
+    },
+    {
+      "text": "No se observan alteraciones valorables en el TTP, CBV y CBF.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 843,
+      "end": 903
+    },
+    {
+      "text": "Sin discordancia significativa.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 904,
+      "end": 935
+    },
+    {
+      "text": "Principales arterias cerebrales intracraneales permeables (ACAs, ACMs y ACPs).",
+      "type": "ARTERIA",
+      "start": 967,
+      "end": 1045
+    },
+    {
+      "text": "ACP izquierda de origen fetal.",
+      "type": "ARTERIA",
+      "start": 1046,
+      "end": 1076
+    },
+    {
+      "text": "Arco aórtico y segmentos proximales de troncos supraórticos sin ateromatosis ni signos de estenosis.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1077,
+      "end": 1177
+    },
+    {
+      "text": "ACCs y ACIs sin ateromatosis ni signos de estenosis.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1178,
+      "end": 1230
+    },
+    {
+      "text": "Origen de las arterias vertebrales sin ateromatosis ni signos de estenosis.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1231,
+      "end": 1306
+    },
+    {
+      "text": "Sistema vertebrobasilar permeable.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1307,
+      "end": 1341
+    },
+    {
+      "text": "No se observan signos de patología intracraneal aguda.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1365,
+      "end": 1419
+    },
+    {
+      "text": "Mapas de perfusión sin alteraciones.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1420,
+      "end": 1456
+    },
+    {
+      "text": "ASPECTS 10.",
+      "type": "PUNTUACION_CLINICA",
+      "start": 1457,
+      "end": 1468
+    },
+    {
+      "text": "No hay hemorragia aguda intracraneal.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1469,
+      "end": 1506
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "document_id": "informe_sintetico_20250804195045_12021",
+  "entities": [
+    {
+      "text": "infarto lacunar",
+      "type": "PATOLOGIA",
+      "start": 222,
+      "end": 237
+    },
+    {
+      "text": "núcleo lenticular izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 462,
+      "end": 489
+    },
+    {
+      "text": "6 mm",
+      "type": "MEDIDA",
+      "start": 451,
+      "end": 455
+    },
+    {
+      "text": "agudo",
+      "type": "TEMPORALIDAD",
+      "start": 594,
+      "end": 599
+    },
+    {
+      "text": "No se evidencian signos de hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 601,
+      "end": 651
+    },
+    {
+      "text": "sin extensión a la cápsula interna",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 491,
+      "end": 525
+    },
+    {
+      "text": "sin masa o efecto de masa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 527,
+      "end": 552
+    },
+    {
+      "text": "sin evidencia de mismatch significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 998,
+      "end": 1037
+    },
+    {
+      "text": "sin evidencia de trombosis o ateromatosis significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1206,
+      "end": 1261
+    },
+    {
+      "text": "pequeño foco isquémico",
+      "type": "PATOLOGIA",
+      "start": 1391,
+      "end": 1413
+    },
+    {
+      "text": "sin extensión ni signos hemorrágicos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1414,
+      "end": 1450
+    },
+    {
+      "text": "sin área de penumbra significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1582,
+      "end": 1616
+    },
+    {
+      "text": "TC cerebral basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 258,
+      "end": 275
+    },
+    {
+      "text": "perfusión cerebral dinámica",
+      "type": "TECNICA_IMAGEN",
+      "start": 291,
+      "end": 318
+    },
+    {
+      "text": "angioTC arterial intracraneal urgente",
+      "type": "TECNICA_IMAGEN",
+      "start": 321,
+      "end": 358
+    }
+  ]
+}

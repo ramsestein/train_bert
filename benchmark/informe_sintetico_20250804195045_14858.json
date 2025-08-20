@@ -1,0 +1,83 @@
+{
+  "document_id": "informe_sintetico_20250804195045_14858",
+  "entities": [
+    {
+      "text": "isquemia",
+      "type": "PATOLOGIA",
+      "start": 730,
+      "end": 738
+    },
+    {
+      "text": "arteria cerebral posterior derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 298,
+      "end": 332
+    },
+    {
+      "text": "arteria cerebral posterior derecha",
+      "type": "ARTERIA",
+      "start": 298,
+      "end": 332
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 325,
+      "end": 332
+    },
+    {
+      "text": "8/10",
+      "type": "MEDIDA",
+      "start": 778,
+      "end": 782
+    },
+    {
+      "text": "aguda",
+      "type": "TEMPORALIDAD",
+      "start": 1687,
+      "end": 1692
+    },
+    {
+      "text": "ASPECTS ACP 8/10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 1940,
+      "end": 1956
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 377,
+      "end": 393
+    },
+    {
+      "text": "No se observa hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 534,
+      "end": 571
+    },
+    {
+      "text": "segmento P2",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1297,
+      "end": 1308
+    },
+    {
+      "text": "arteria cerebral posterior derecha",
+      "type": "ARTERIA",
+      "start": 298,
+      "end": 332
+    },
+    {
+      "text": "sin signos de estenosis significativa ni placas ateromatosas relevantes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1417,
+      "end": 1488
+    },
+    {
+      "text": "8/10",
+      "type": "MEDIDA",
+      "start": 778,
+      "end": 782
+    }
+  ]
+}

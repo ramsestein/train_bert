@@ -1,0 +1,65 @@
+{
+  "document_id": "informe_sintetico_20250804195045_03405",
+  "entities": [
+    {
+      "text": "hemorragia subaracnoidea focal",
+      "type": "PATOLOGIA",
+      "start": 530,
+      "end": 560
+    },
+    {
+      "text": "cisterna perisilviana derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 485,
+      "end": 514
+    },
+    {
+      "text": "infarto agudo",
+      "type": "PATOLOGIA",
+      "start": 747,
+      "end": 760
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "ARTERIA",
+      "start": 1165,
+      "end": 1195
+    },
+    {
+      "text": "5 mm",
+      "type": "MEDIDA",
+      "start": 1125,
+      "end": 1129
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 507,
+      "end": 514
+    },
+    {
+      "text": "No se identifican hematomas intraparenquimatosos ni hemorragias intraventriculares asociadas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 562,
+      "end": 654
+    },
+    {
+      "text": "No se observan alteraciones significativas en los mapas de tiempo de tránsito, volumen ni flujo cerebral",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 943,
+      "end": 1047
+    },
+    {
+      "text": "No se evidencian signos de vasoespasmo arterial ni disección vascular",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1282,
+      "end": 1351
+    },
+    {
+      "text": "No se evidencian complicaciones hemorrágicas adicionales ni alteraciones isquémicas en el estudio de perfusión",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1600,
+      "end": 1710
+    }
+  ]
+}

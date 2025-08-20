@@ -1,0 +1,47 @@
+{
+  "document_id": "informe_sintetico_20250804195045_13507",
+  "entities": [
+    {
+      "text": "hemorragia aguda",
+      "type": "PATOLOGIA",
+      "start": 446,
+      "end": 462
+    },
+    {
+      "text": "ASPECTS 10/10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 534,
+      "end": 547
+    },
+    {
+      "text": "cambios microangiopáticos crónicos leves",
+      "type": "PATOLOGIA",
+      "start": 834,
+      "end": 874
+    },
+    {
+      "text": "sin áreas de alteración focal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1007,
+      "end": 1036
+    },
+    {
+      "text": "ACIs, ACAs, ACMs, ACPs",
+      "type": "ARTERIA",
+      "start": 1333,
+      "end": 1355
+    },
+    {
+      "text": "sin signos de estenosis ni irregularidades luminales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1358,
+      "end": 1410
+    },
+    {
+      "text": "sin evidencia de isquemia aguda",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1534,
+      "end": 1565
+    }
+  ]
+}

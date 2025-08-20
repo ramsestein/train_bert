@@ -1,0 +1,113 @@
+{
+  "document_id": "informe_sintetico_20250804195045_21503",
+  "entities": [
+    {
+      "text": "hemiparesia derecha",
+      "type": "PATOLOGIA",
+      "start": 196,
+      "end": 215
+    },
+    {
+      "text": "evento isquémico cerebral",
+      "type": "PATOLOGIA",
+      "start": 231,
+      "end": 256
+    },
+    {
+      "text": "arteria cerebral media",
+      "type": "ARTERIA",
+      "start": 274,
+      "end": 296
+    },
+    {
+      "text": "izquierdo",
+      "type": "LATERALIDAD",
+      "start": 671,
+      "end": 680
+    },
+    {
+      "text": "ASPECTS 9/10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 809,
+      "end": 821
+    },
+    {
+      "text": "prolongación del tiempo de tránsito medio (TTP)",
+      "type": "PATOLOGIA",
+      "start": 878,
+      "end": 925
+    },
+    {
+      "text": "tiempo hasta el pico (TTPe)",
+      "type": "PATOLOGIA",
+      "start": 928,
+      "end": 955
+    },
+    {
+      "text": "reducción moderada del flujo sanguíneo cerebral (FSC)",
+      "type": "PATOLOGIA",
+      "start": 969,
+      "end": 1022
+    },
+    {
+      "text": "volumen sanguíneo cerebral (VSC)",
+      "type": "PATOLOGIA",
+      "start": 1028,
+      "end": 1060
+    },
+    {
+      "text": "mismatch significativo",
+      "type": "PATOLOGIA",
+      "start": 1090,
+      "end": 1112
+    },
+    {
+      "text": "oclusión focal en segmento distal de arteria cerebral media izquierda (M2/M3)",
+      "type": "PATOLOGIA",
+      "start": 1196,
+      "end": 1273
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 1256,
+      "end": 1265
+    },
+    {
+      "text": "arterias vertebrales",
+      "type": "ARTERIA",
+      "start": 1305,
+      "end": 1325
+    },
+    {
+      "text": "sin estenosis significativa ni placas de ateroma",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1338,
+      "end": 1386
+    },
+    {
+      "text": "Resto de vasos intracraneales sin alteraciones",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1438,
+      "end": 1484
+    },
+    {
+      "text": "ASPECTS 9/10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 809,
+      "end": 821
+    },
+    {
+      "text": "mismatch significativo en la TC de perfusión",
+      "type": "PATOLOGIA",
+      "start": 1640,
+      "end": 1684
+    },
+    {
+      "text": "signos de hemorragia ni edema cerebral importante",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1746,
+      "end": 1795
+    }
+  ]
+}

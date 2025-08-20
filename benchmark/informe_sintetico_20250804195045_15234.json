@@ -1,0 +1,149 @@
+{
+  "document_id": "informe_sintetico_20250804195045_15234",
+  "entities": [
+    {
+      "text": "ictus isquémico agudo",
+      "type": "PATOLOGIA",
+      "start": 388,
+      "end": 409
+    },
+    {
+      "text": "hemiparesia derecha",
+      "type": "PATOLOGIA",
+      "start": 295,
+      "end": 314
+    },
+    {
+      "text": "deterioro del lenguaje",
+      "type": "PATOLOGIA",
+      "start": 317,
+      "end": 339
+    },
+    {
+      "text": "isquémica precoz",
+      "type": "PATOLOGIA",
+      "start": 866,
+      "end": 882
+    },
+    {
+      "text": "lesión isquémica establecida",
+      "type": "PATOLOGIA",
+      "start": 1372,
+      "end": 1400
+    },
+    {
+      "text": "ACM",
+      "type": "ARTERIA",
+      "start": 1598,
+      "end": 1601
+    },
+    {
+      "text": "arteria cerebral media",
+      "type": "ARTERIA",
+      "start": 1574,
+      "end": 1596
+    },
+    {
+      "text": "PCA",
+      "type": "ARTERIA",
+      "start": 2156,
+      "end": 2159
+    },
+    {
+      "text": "arteria cerebral posterior",
+      "type": "ARTERIA",
+      "start": 1785,
+      "end": 1811
+    },
+    {
+      "text": "ACI",
+      "type": "ARTERIA",
+      "start": 2191,
+      "end": 2194
+    },
+    {
+      "text": "supraclinoidea",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1687,
+      "end": 1701
+    },
+    {
+      "text": "frontal",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1155,
+      "end": 1162
+    },
+    {
+      "text": "temporal",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 744,
+      "end": 752
+    },
+    {
+      "text": "bilaterales",
+      "type": "LATERALIDAD",
+      "start": 1178,
+      "end": 1189
+    },
+    {
+      "text": "izquierdas",
+      "type": "LATERALIDAD",
+      "start": 721,
+      "end": 731
+    },
+    {
+      "text": "ASPECTS 7",
+      "type": "PUNTUACION_CLINICA",
+      "start": 762,
+      "end": 771
+    },
+    {
+      "text": "ASPECTS 7",
+      "type": "PUNTUACION_CLINICA",
+      "start": 762,
+      "end": 771
+    },
+    {
+      "text": "TC",
+      "type": "TECNICA_IMAGEN",
+      "start": 72,
+      "end": 74
+    },
+    {
+      "text": "TC CÓDIGO ICTUS",
+      "type": "TECNICA_IMAGEN",
+      "start": 430,
+      "end": 445
+    },
+    {
+      "text": "TC PERFUSIÓN",
+      "type": "TECNICA_IMAGEN",
+      "start": 981,
+      "end": 993
+    },
+    {
+      "text": "ANGIO-TC EXTRA E INTRACRANEAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 1517,
+      "end": 1546
+    },
+    {
+      "text": "No evidencia de hemorragia intra ni extraaxial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 602,
+      "end": 648
+    },
+    {
+      "text": "No hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2352,
+      "end": 2378
+    },
+    {
+      "text": "No se detectan aneurismas ni malformaciones vasculares",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1987,
+      "end": 2041
+    }
+  ]
+}

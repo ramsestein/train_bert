@@ -1,0 +1,187 @@
+{
+  "document_id": "informe_sintetico_20250804195045_14462",
+  "entities": [
+    {
+      "text": "ictus isquémico",
+      "type": "PATOLOGIA",
+      "start": 238,
+      "end": 253
+    },
+    {
+      "text": "hemiparesia",
+      "type": "PATOLOGIA",
+      "start": 196,
+      "end": 207
+    },
+    {
+      "text": "afasia",
+      "type": "PATOLOGIA",
+      "start": 210,
+      "end": 216
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 492,
+      "end": 522
+    },
+    {
+      "text": "segmento M1",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 524,
+      "end": 535
+    },
+    {
+      "text": "cápsula interna",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 587,
+      "end": 602
+    },
+    {
+      "text": "frontal",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 615,
+      "end": 622
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 492,
+      "end": 522
+    },
+    {
+      "text": "arterias cerebrales anteriores",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1345,
+      "end": 1375
+    },
+    {
+      "text": "sistema vertebrobasilar",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1417,
+      "end": 1440
+    },
+    {
+      "text": "signo de arteria hiperdensa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 450,
+      "end": 477
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 716,
+      "end": 739
+    },
+    {
+      "text": "edema masivo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 743,
+      "end": 755
+    },
+    {
+      "text": "morfología y tamaño normales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 782,
+      "end": 810
+    },
+    {
+      "text": "sin desviación de la línea media",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 812,
+      "end": 844
+    },
+    {
+      "text": "flujo sanguíneo cerebral (CBF)",
+      "type": "PATOLOGIA",
+      "start": 901,
+      "end": 931
+    },
+    {
+      "text": "volumen sanguíneo cerebral (CBV)",
+      "type": "PATOLOGIA",
+      "start": 934,
+      "end": 966
+    },
+    {
+      "text": "tiempo de tránsito medio (MTT)",
+      "type": "PATOLOGIA",
+      "start": 1044,
+      "end": 1074
+    },
+    {
+      "text": "tiempo hasta el pico (TTP)",
+      "type": "PATOLOGIA",
+      "start": 1077,
+      "end": 1103
+    },
+    {
+      "text": "segmento proximal M1",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1226,
+      "end": 1246
+    },
+    {
+      "text": "ausencia de flujo distal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1289,
+      "end": 1313
+    },
+    {
+      "text": "territorio de la arteria cerebral media derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 973,
+      "end": 1020
+    },
+    {
+      "text": "oclusión proximal en segmento M1",
+      "type": "PATOLOGIA",
+      "start": 1650,
+      "end": 1682
+    },
+    {
+      "text": "ASPECTS 6",
+      "type": "PUNTUACION_CLINICA",
+      "start": 1684,
+      "end": 1693
+    },
+    {
+      "text": "tratamiento trombectómico mecánico",
+      "type": "PATOLOGIA",
+      "start": 1803,
+      "end": 1837
+    },
+    {
+      "text": "urgente",
+      "type": "TEMPORALIDAD",
+      "start": 1972,
+      "end": 1979
+    },
+    {
+      "text": "TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANG IOTC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 72,
+      "end": 140
+    },
+    {
+      "text": "TC craneal sin contraste basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 274,
+      "end": 304
+    },
+    {
+      "text": "estudio de perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 317,
+      "end": 346
+    },
+    {
+      "text": "angio-TC arterial intracraneal con contraste",
+      "type": "TECNICA_IMAGEN",
+      "start": 349,
+      "end": 393
+    }
+  ],
+  "regenerado": true,
+  "fecha_regeneracion": "2025-08-06T05:42:29.921337"
+}

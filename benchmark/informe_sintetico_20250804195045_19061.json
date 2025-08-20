@@ -1,0 +1,101 @@
+{
+  "document_id": "informe_sintetico_20250804195045_19061",
+  "entities": [
+    {
+      "text": "hemorragia intraventricular bilateral",
+      "type": "PATOLOGIA",
+      "start": 450,
+      "end": 487
+    },
+    {
+      "text": "ventrículos laterales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 508,
+      "end": 529
+    },
+    {
+      "text": "plexo coroideo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 552,
+      "end": 566
+    },
+    {
+      "text": "III y IV ventrículo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 613,
+      "end": 632
+    },
+    {
+      "text": "hemorragia intraventricular",
+      "type": "PATOLOGIA",
+      "start": 450,
+      "end": 477
+    },
+    {
+      "text": "dilatación ventricular",
+      "type": "PATOLOGIA",
+      "start": 902,
+      "end": 924
+    },
+    {
+      "text": "obstrucción parcial del sistema de drenaje",
+      "type": "PATOLOGIA",
+      "start": 929,
+      "end": 971
+    },
+    {
+      "text": "signos de isquemia ni infarto agudo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 990,
+      "end": 1025
+    },
+    {
+      "text": "Líneas medias respetadas sin desplazamiento significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1052,
+      "end": 1109
+    },
+    {
+      "text": "fracturas óseas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1128,
+      "end": 1143
+    },
+    {
+      "text": "ventrículos laterales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 508,
+      "end": 529
+    },
+    {
+      "text": "sistema ventricular inferior",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1285,
+      "end": 1313
+    },
+    {
+      "text": "signos de isquemia cerebral",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1374,
+      "end": 1401
+    },
+    {
+      "text": "hallazgos angiográficos sugestivos de etiología vascular aneurismática",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1408,
+      "end": 1478
+    },
+    {
+      "text": "TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANG IOTC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 72,
+      "end": 140
+    },
+    {
+      "text": "TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANGIOTC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 1812,
+      "end": 1879
+    }
+  ]
+}

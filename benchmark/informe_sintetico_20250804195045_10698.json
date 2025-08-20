@@ -1,0 +1,71 @@
+{
+  "document_id": "informe_sintetico_20250804195045_10698",
+  "entities": [
+    {
+      "text": "infarto lacunar agudo",
+      "type": "PATOLOGIA",
+      "start": 269,
+      "end": 290
+    },
+    {
+      "text": "región interna de cápsula interna izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 562,
+      "end": 605
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 718,
+      "end": 728
+    },
+    {
+      "text": "tiempo de tránsito medio (MTT)",
+      "type": "MEDIDA",
+      "start": 849,
+      "end": 879
+    },
+    {
+      "text": "tiempo hasta pico (TTP)",
+      "type": "MEDIDA",
+      "start": 882,
+      "end": 905
+    },
+    {
+      "text": "isquémica pequeña y estable",
+      "type": "PATOLOGIA",
+      "start": 1075,
+      "end": 1102
+    },
+    {
+      "text": "arterias cerebrales principales (ACAs, ACMs, ACPs)",
+      "type": "ARTERIA",
+      "start": 1412,
+      "end": 1462
+    },
+    {
+      "text": "cápsula interna izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 580,
+      "end": 605
+    },
+    {
+      "text": "sin estenosis significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1221,
+      "end": 1249
+    },
+    {
+      "text": "sin oclusiones ni estenosis significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1366,
+      "end": 1408
+    },
+    {
+      "text": "sin evidencia de sangrado ni lesión ocupante de espacio",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1592,
+      "end": 1647
+    }
+  ]
+}

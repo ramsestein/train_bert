@@ -1,0 +1,275 @@
+{
+  "document_id": "informe_sintetico_20250804195045_13972",
+  "entities": [
+    {
+      "text": "hemiparesia derecha",
+      "type": "PATOLOGIA",
+      "start": 196,
+      "end": 215
+    },
+    {
+      "text": "afasia",
+      "type": "PATOLOGIA",
+      "start": 218,
+      "end": 224
+    },
+    {
+      "text": "ictus isquémico",
+      "type": "PATOLOGIA",
+      "start": 238,
+      "end": 253
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 435,
+      "end": 458
+    },
+    {
+      "text": "hipodensidad",
+      "type": "PATOLOGIA",
+      "start": 485,
+      "end": 497
+    },
+    {
+      "text": "desdiferenciación corticosubcortical",
+      "type": "PATOLOGIA",
+      "start": 502,
+      "end": 538
+    },
+    {
+      "text": "región insular",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 542,
+      "end": 556
+    },
+    {
+      "text": "núcleo lenticular",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 558,
+      "end": 575
+    },
+    {
+      "text": "opercular izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 578,
+      "end": 597
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 614,
+      "end": 628
+    },
+    {
+      "text": "ASPECTS 6",
+      "type": "PUNTUACION_CLINICA",
+      "start": 630,
+      "end": 639
+    },
+    {
+      "text": "imagen hiperdensa",
+      "type": "PATOLOGIA",
+      "start": 654,
+      "end": 671
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "ARTERIA",
+      "start": 675,
+      "end": 707
+    },
+    {
+      "text": "segmento M1",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 708,
+      "end": 719
+    },
+    {
+      "text": "trombo",
+      "type": "PATOLOGIA",
+      "start": 734,
+      "end": 740
+    },
+    {
+      "text": "Línea media respetada",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 742,
+      "end": 763
+    },
+    {
+      "text": "Sistema ventricular con morfología y tamaño normales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 765,
+      "end": 817
+    },
+    {
+      "text": "Cisternas basales libres",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 819,
+      "end": 843
+    },
+    {
+      "text": "aumento del tiempo de tránsito medio",
+      "type": "PATOLOGIA",
+      "start": 887,
+      "end": 923
+    },
+    {
+      "text": "disminución del flujo cerebral",
+      "type": "PATOLOGIA",
+      "start": 932,
+      "end": 962
+    },
+    {
+      "text": "territorio irrigado por la ACM izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 972,
+      "end": 1012
+    },
+    {
+      "text": "reducción del volumen cerebral",
+      "type": "PATOLOGIA",
+      "start": 1018,
+      "end": 1048
+    },
+    {
+      "text": "penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1098,
+      "end": 1116
+    },
+    {
+      "text": "núcleo isquémico",
+      "type": "PATOLOGIA",
+      "start": 1119,
+      "end": 1135
+    },
+    {
+      "text": "Trombo oclusivo",
+      "type": "PATOLOGIA",
+      "start": 1184,
+      "end": 1199
+    },
+    {
+      "text": "segmento M1 proximal",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1203,
+      "end": 1223
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "ARTERIA",
+      "start": 675,
+      "end": 707
+    },
+    {
+      "text": "ausencia de flujo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1267,
+      "end": 1284
+    },
+    {
+      "text": "Arterias carotídeas internas",
+      "type": "ARTERIA",
+      "start": 1286,
+      "end": 1314
+    },
+    {
+      "text": "ACAs",
+      "type": "ARTERIA",
+      "start": 1316,
+      "end": 1320
+    },
+    {
+      "text": "ACPs",
+      "type": "ARTERIA",
+      "start": 1323,
+      "end": 1327
+    },
+    {
+      "text": "Tronco basilar",
+      "type": "ARTERIA",
+      "start": 1340,
+      "end": 1354
+    },
+    {
+      "text": "arterias vertebrales",
+      "type": "ARTERIA",
+      "start": 1357,
+      "end": 1377
+    },
+    {
+      "text": "estenosis",
+      "type": "PATOLOGIA",
+      "start": 1382,
+      "end": 1391
+    },
+    {
+      "text": "placas significativas",
+      "type": "PATOLOGIA",
+      "start": 1395,
+      "end": 1416
+    },
+    {
+      "text": "signos de disección",
+      "type": "PATOLOGIA",
+      "start": 1433,
+      "end": 1452
+    },
+    {
+      "text": "ateromatosis severa",
+      "type": "PATOLOGIA",
+      "start": 1456,
+      "end": 1475
+    },
+    {
+      "text": "Hematoma intracraneal no evidenciado",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1504,
+      "end": 1540
+    },
+    {
+      "text": "Isquemia aguda en territorio de ACM izquierda",
+      "type": "PATOLOGIA",
+      "start": 1546,
+      "end": 1591
+    },
+    {
+      "text": "ASPECTS 6",
+      "type": "PUNTUACION_CLINICA",
+      "start": 630,
+      "end": 639
+    },
+    {
+      "text": "Trombo hiperdenso",
+      "type": "PATOLOGIA",
+      "start": 1611,
+      "end": 1628
+    },
+    {
+      "text": "oclusión confirmada",
+      "type": "PATOLOGIA",
+      "start": 1631,
+      "end": 1650
+    },
+    {
+      "text": "segmento M1 proximal de ACM izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1654,
+      "end": 1691
+    },
+    {
+      "text": "Perfusión compatible con área de penumbra viable",
+      "type": "PATOLOGIA",
+      "start": 1697,
+      "end": 1745
+    },
+    {
+      "text": "núcleo isquémico",
+      "type": "PATOLOGIA",
+      "start": 1119,
+      "end": 1135
+    }
+  ]
+}

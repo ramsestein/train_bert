@@ -1,0 +1,125 @@
+{
+  "document_id": "informe_sintetico_20250804195045_07737",
+  "entities": [
+    {
+      "text": "ictus isquémico",
+      "type": "PATOLOGIA",
+      "start": 231,
+      "end": 246
+    },
+    {
+      "text": "infartos isquémicos agudos",
+      "type": "PATOLOGIA",
+      "start": 669,
+      "end": 695
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 733,
+      "end": 756
+    },
+    {
+      "text": "edema masivo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 760,
+      "end": 772
+    },
+    {
+      "text": "ASPECTS 6",
+      "type": "PUNTUACION_CLINICA",
+      "start": 852,
+      "end": 861
+    },
+    {
+      "text": "isquemia aguda multiterritorial",
+      "type": "PATOLOGIA",
+      "start": 1235,
+      "end": 1266
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "ARTERIA",
+      "start": 1417,
+      "end": 1447
+    },
+    {
+      "text": "segmento M2",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1451,
+      "end": 1462
+    },
+    {
+      "text": "arteria cerebral anterior izquierda",
+      "type": "ARTERIA",
+      "start": 1518,
+      "end": 1553
+    },
+    {
+      "text": "carótida interna derecha",
+      "type": "ARTERIA",
+      "start": 1595,
+      "end": 1619
+    },
+    {
+      "text": "bifurcación carotídea bilateral",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1711,
+      "end": 1742
+    },
+    {
+      "text": "isquemia aguda multiterritorial",
+      "type": "PATOLOGIA",
+      "start": 1235,
+      "end": 1266
+    },
+    {
+      "text": "ACm derecha",
+      "type": "ARTERIA",
+      "start": 1991,
+      "end": 2002
+    },
+    {
+      "text": "ACA izquierda",
+      "type": "ARTERIA",
+      "start": 2025,
+      "end": 2038
+    },
+    {
+      "text": "carótida interna derecha",
+      "type": "ARTERIA",
+      "start": 1595,
+      "end": 1619
+    },
+    {
+      "text": "signos hemorrágicos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2144,
+      "end": 2163
+    },
+    {
+      "text": "TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANG IOTC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 72,
+      "end": 140
+    },
+    {
+      "text": "TC craneal basal urgente",
+      "type": "TECNICA_IMAGEN",
+      "start": 349,
+      "end": 373
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 376,
+      "end": 397
+    },
+    {
+      "text": "Angio-TC intra y extracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 400,
+      "end": 429
+    }
+  ]
+}

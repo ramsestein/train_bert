@@ -1,0 +1,239 @@
+{
+  "document_id": "informe_sintetico_20250804195045_05853",
+  "entities": [
+    {
+      "text": "hemiparesia derecha",
+      "type": "PATOLOGIA",
+      "start": 196,
+      "end": 215
+    },
+    {
+      "text": "deterioro del nivel de conciencia",
+      "type": "PATOLOGIA",
+      "start": 218,
+      "end": 251
+    },
+    {
+      "text": "infarto cerebral reciente",
+      "type": "PATOLOGIA",
+      "start": 269,
+      "end": 294
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "ARTERIA",
+      "start": 315,
+      "end": 347
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 368,
+      "end": 384
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 400,
+      "end": 421
+    },
+    {
+      "text": "angio-TC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 424,
+      "end": 454
+    },
+    {
+      "text": "área hipodensa",
+      "type": "PATOLOGIA",
+      "start": 516,
+      "end": 530
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "ARTERIA",
+      "start": 315,
+      "end": 347
+    },
+    {
+      "text": "infarto isquémico establecido",
+      "type": "PATOLOGIA",
+      "start": 605,
+      "end": 634
+    },
+    {
+      "text": "foco hiperdenso pequeño y puntual",
+      "type": "PATOLOGIA",
+      "start": 675,
+      "end": 708
+    },
+    {
+      "text": "transformación hemorrágica grado HI1",
+      "type": "PATOLOGIA",
+      "start": 723,
+      "end": 759
+    },
+    {
+      "text": "hemorragias intraparenquimatosas extensas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 768,
+      "end": 809
+    },
+    {
+      "text": "hematomas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 813,
+      "end": 822
+    },
+    {
+      "text": "hemorragias subaracnoideas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 839,
+      "end": 865
+    },
+    {
+      "text": "Diferenciación cortico-subcortical parcialmente perdida",
+      "type": "PATOLOGIA",
+      "start": 889,
+      "end": 944
+    },
+    {
+      "text": "sistema ventricular presenta tamaño y morfología dentro de límites normales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1008,
+      "end": 1083
+    },
+    {
+      "text": "Cisternas basales libres",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1085,
+      "end": 1109
+    },
+    {
+      "text": "Disminución de flujo cerebral (CBF)",
+      "type": "PATOLOGIA",
+      "start": 1126,
+      "end": 1161
+    },
+    {
+      "text": "volumen cerebral (CBV)",
+      "type": "PATOLOGIA",
+      "start": 1164,
+      "end": 1186
+    },
+    {
+      "text": "territorio de la arteria cerebral media izquierda",
+      "type": "ARTERIA",
+      "start": 298,
+      "end": 347
+    },
+    {
+      "text": "aumento leve y focalizado en tiempo de tránsito prolongado (TTP)",
+      "type": "PATOLOGIA",
+      "start": 1245,
+      "end": 1309
+    },
+    {
+      "text": "mismatch significativas",
+      "type": "PATOLOGIA",
+      "start": 1324,
+      "end": 1347
+    },
+    {
+      "text": "Permeabilidad conservada en principales vasos intracraneales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1381,
+      "end": 1441
+    },
+    {
+      "text": "ausencia de defectos bruscos de repleción",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1446,
+      "end": 1487
+    },
+    {
+      "text": "No se identifican estenosis significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1489,
+      "end": 1531
+    },
+    {
+      "text": "trombosis arterial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1535,
+      "end": 1553
+    },
+    {
+      "text": "Ateromatosis calcificada leve",
+      "type": "PATOLOGIA",
+      "start": 1555,
+      "end": 1584
+    },
+    {
+      "text": "segmentos extracraneales de arterias carótidas internas",
+      "type": "ARTERIA",
+      "start": 1588,
+      "end": 1643
+    },
+    {
+      "text": "sin repercusión hemodinámica",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1644,
+      "end": 1672
+    },
+    {
+      "text": "Transformación hemorrágica leve tipo HI1",
+      "type": "PATOLOGIA",
+      "start": 1697,
+      "end": 1737
+    },
+    {
+      "text": "infarto reciente del territorio de la arteria cerebral media izquierda",
+      "type": "PATOLOGIA",
+      "start": 1741,
+      "end": 1811
+    },
+    {
+      "text": "hemorragia intraparenquimatosa extensa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1817,
+      "end": 1855
+    },
+    {
+      "text": "complicaciones hemorrágicas mayores",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1859,
+      "end": 1894
+    },
+    {
+      "text": "ASPECTS 7-8",
+      "type": "PUNTUACION_CLINICA",
+      "start": 1896,
+      "end": 1907
+    },
+    {
+      "text": "área isquémica establecida",
+      "type": "PATOLOGIA",
+      "start": 1967,
+      "end": 1993
+    },
+    {
+      "text": "sin reperfusión significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1996,
+      "end": 2025
+    },
+    {
+      "text": "Vasos intracraneales permeables",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2027,
+      "end": 2058
+    },
+    {
+      "text": "sin signos de oclusión o estenosis relevante",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2059,
+      "end": 2103
+    }
+  ]
+}

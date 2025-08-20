@@ -1,0 +1,239 @@
+{
+  "document_id": "informe_sintetico_20250804195045_20659",
+  "entities": [
+    {
+      "text": "hemiparesia derecha",
+      "type": "PATOLOGIA",
+      "start": 204,
+      "end": 223
+    },
+    {
+      "text": "afasia",
+      "type": "PATOLOGIA",
+      "start": 226,
+      "end": 232
+    },
+    {
+      "text": "evento isquémico",
+      "type": "PATOLOGIA",
+      "start": 254,
+      "end": 270
+    },
+    {
+      "text": "arteria cerebral posterior",
+      "type": "ARTERIA",
+      "start": 288,
+      "end": 314
+    },
+    {
+      "text": "TC CRANEAL BASAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 600,
+      "end": 616
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 648,
+      "end": 671
+    },
+    {
+      "text": "lesiones crónicas relevantes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 675,
+      "end": 703
+    },
+    {
+      "text": "lóbulo occipital izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 773,
+      "end": 799
+    },
+    {
+      "text": "edema vasogénico inicial",
+      "type": "PATOLOGIA",
+      "start": 825,
+      "end": 849
+    },
+    {
+      "text": "línea media",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 879,
+      "end": 890
+    },
+    {
+      "text": "efecto masa",
+      "type": "PATOLOGIA",
+      "start": 904,
+      "end": 915
+    },
+    {
+      "text": "Sistema ventricular",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 917,
+      "end": 936
+    },
+    {
+      "text": "cisternas basales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 939,
+      "end": 956
+    },
+    {
+      "text": "Mapa de flujo cerebral (CBF)",
+      "type": "TECNICA_IMAGEN",
+      "start": 1042,
+      "end": 1070
+    },
+    {
+      "text": "disminución focal",
+      "type": "PATOLOGIA",
+      "start": 1079,
+      "end": 1096
+    },
+    {
+      "text": "territorio vascular de la arteria cerebral posterior izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1100,
+      "end": 1162
+    },
+    {
+      "text": "corte occipital",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1181,
+      "end": 1196
+    },
+    {
+      "text": "región parietal posterior",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1199,
+      "end": 1224
+    },
+    {
+      "text": "Mapa de volumen cerebral (CBV)",
+      "type": "TECNICA_IMAGEN",
+      "start": 1226,
+      "end": 1256
+    },
+    {
+      "text": "Tmax",
+      "type": "MEDIDA",
+      "start": 502,
+      "end": 506
+    },
+    {
+      "text": "prolongación significativa",
+      "type": "PATOLOGIA",
+      "start": 1347,
+      "end": 1373
+    },
+    {
+      "text": "retraso en la perfusión",
+      "type": "PATOLOGIA",
+      "start": 1402,
+      "end": 1425
+    },
+    {
+      "text": "área en riesgo de penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1428,
+      "end": 1464
+    },
+    {
+      "text": "ANGIO-TC EXTRA E INTRACRANEAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 1469,
+      "end": 1498
+    },
+    {
+      "text": "oclusión completa",
+      "type": "PATOLOGIA",
+      "start": 1526,
+      "end": 1543
+    },
+    {
+      "text": "arteria cerebral posterior izquierda",
+      "type": "ARTERIA",
+      "start": 1126,
+      "end": 1162
+    },
+    {
+      "text": "segmento P2",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1593,
+      "end": 1604
+    },
+    {
+      "text": "estenosis significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1629,
+      "end": 1653
+    },
+    {
+      "text": "troncos supraaórticos",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1657,
+      "end": 1678
+    },
+    {
+      "text": "placa ateromatosa significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1731,
+      "end": 1762
+    },
+    {
+      "text": "Sistema vertebrobasilar",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1791,
+      "end": 1814
+    },
+    {
+      "text": "permeable por segmentos proximal y distal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1815,
+      "end": 1856
+    },
+    {
+      "text": "signos de disección arterial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1861,
+      "end": 1889
+    },
+    {
+      "text": "aneurismas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1893,
+      "end": 1903
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 1956,
+      "end": 1970
+    },
+    {
+      "text": "territorio de arteria cerebral posterior izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1974,
+      "end": 2024
+    },
+    {
+      "text": "área de penumbra",
+      "type": "PATOLOGIA",
+      "start": 2030,
+      "end": 2046
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 648,
+      "end": 671
+    },
+    {
+      "text": "compromiso de otros territorios arteriales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2159,
+      "end": 2201
+    }
+  ]
+}

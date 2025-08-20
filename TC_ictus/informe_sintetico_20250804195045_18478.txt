@@ -1,0 +1,33 @@
+UO_PACN (Unidad Organizativa Médica): RADIO
+
+PRUEB (Prueba solicitada): TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANG IOTC ARTERIAL INTRACRANEAL)
+
+CLIN (Resumen clínico): Síntomas sugestivos de isquemia aguda en territorio vertebrobasilar, cuadro de ataxia, mareo y diplopía.
+
+OBSR (Protocolo): Protocolo Código Ictus con adquisición de TC craneal basal sin contraste, estudio de perfusión cerebral dinámica y angiografía TC de vasos extra e intracraneales, incluyendo análisis detallado de circulación posterior.
+
+RESL (Resultados):  
+TC CRANEAL BASAL:  
+No se detectan hemorragias intra ni extraaxiales. Presencia de discreta hipodensidad en la región posterolateral del bulbo raquídeo derecho, sugestiva de inicio de edema isquémico. Se mantiene diferenciación córtico-subcortical en estructuras supratentoriales. No se observan lesiones isquémicas establecidas en hemisferios cerebrales. Estructuras de la línea media en posición normal. Sistema ventricular y cisternas basales sin alteraciones.
+
+TC PERFUSIÓN:  
+Mapas de perfusión muestran incremento del tiempo de tránsito medio (MTT) y tiempo hasta el pico (TTP) en territorio vertebrobasilar, afectando principalmente bulbo raquídeo, protuberancia y cerebelo bilateral, con reducción moderada del flujo cerebral (CBF). Volumen cerebral (CBV) preservado, indicando tejido en penumbra isquémica sin core establecido.
+
+ANGIO-TC EXTRA E INTRACRANEAL:  
+Se evidencia oclusión subtotal del segmento V4 de la arteria vertebral derecha, con opacificación parcial distal. La arteria vertebral izquierda muestra estenosis significativa en segmento V3 proximal. Tronco basilar permeable pero de calibre disminuido. Circulación anterior sin alteraciones significativas. No se observan placas ateromatosas con calcificación importante en arterias cervicales.
+
+CONCL (Conclusiones):  
+- Signos de isquemia en territorio vertebrobasilar con hipodensidad precoz en bulbo raquídeo derecho.  
+- Alteraciones en perfusión compatibles con penumbra isquémica en fosa posterior.  
+- Oclusión subtotal de arteria vertebral derecha en segmento V4 y estenosis significativa en vertebral izquierda.  
+- No evidencia de hemorragia intracraneal.  
+
+ACTI_ADICI (Actividad adicional): Seguimiento clínico y valoración neurológica urgente. Considerar estudio vascular complementario según evolución clínica.
+
+ICON (Estudio): @RAD_VB001@
+
+X00DIATXT (Texto del diagnóstico ACR): Isquemia aguda en territorio vertebrobasilar con oclusión parcial de arteria vertebral derecha y estenosis contralateral, sin hemorragia intracraneal.
+
+EST_T_DES (Descripción): TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANGIOTC ARTERIAL INTRACRANEAL)
+
+ZVASOS_D (Der.): Oclusión parcial en arteria vertebral derecha segmento V4. Estenosis significativa en arteria vertebral izquierda segmento V3 proximal. Sistema basilar permeable.

@@ -1,0 +1,137 @@
+{
+  "document_id": "informe_sintetico_20250804195045_13703",
+  "entities": [
+    {
+      "text": "infarto cerebral agudo",
+      "type": "PATOLOGIA",
+      "start": 539,
+      "end": 561
+    },
+    {
+      "text": "focos hemorrágicos",
+      "type": "PATOLOGIA",
+      "start": 565,
+      "end": 583
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 632,
+      "end": 642
+    },
+    {
+      "text": "cambios crónicos leves",
+      "type": "PATOLOGIA",
+      "start": 776,
+      "end": 798
+    },
+    {
+      "text": "lesiones isquémicas lacunares",
+      "type": "PATOLOGIA",
+      "start": 812,
+      "end": 841
+    },
+    {
+      "text": "sin repercusión aguda",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 882,
+      "end": 903
+    },
+    {
+      "text": "TTP",
+      "type": "MEDIDA",
+      "start": 953,
+      "end": 956
+    },
+    {
+      "text": "CBF",
+      "type": "MEDIDA",
+      "start": 985,
+      "end": 988
+    },
+    {
+      "text": "CBV",
+      "type": "MEDIDA",
+      "start": 1020,
+      "end": 1023
+    },
+    {
+      "text": "sin áreas de mismatch ni perfusión alterada",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1084,
+      "end": 1127
+    },
+    {
+      "text": "ACAs, ACMs, ACPs",
+      "type": "ARTERIA",
+      "start": 1193,
+      "end": 1209
+    },
+    {
+      "text": "sin signos de estenosis ni oclusión",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1224,
+      "end": 1259
+    },
+    {
+      "text": "Sistema vertebrobasilar",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1261,
+      "end": 1284
+    },
+    {
+      "text": "sin estenosis significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1351,
+      "end": 1379
+    },
+    {
+      "text": "sin hallazgos agudos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1479,
+      "end": 1499
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 632,
+      "end": 642
+    },
+    {
+      "text": "sin signos de isquemia o vasoespasmo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1539,
+      "end": 1575
+    },
+    {
+      "text": "Sistema arterial intracraneal y extracraneal",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1577,
+      "end": 1621
+    },
+    {
+      "text": "sin alteraciones significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1634,
+      "end": 1665
+    },
+    {
+      "text": "sin evidencia de infarto agudo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1878,
+      "end": 1908
+    },
+    {
+      "text": "hemorragia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1910,
+      "end": 1920
+    },
+    {
+      "text": "alteración vascular aguda",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1923,
+      "end": 1948
+    }
+  ]
+}

@@ -1,0 +1,173 @@
+{
+  "document_id": "informe_sintetico_20250804195045_01136",
+  "entities": [
+    {
+      "text": "accidente cerebrovascular agudo",
+      "type": "PATOLOGIA",
+      "start": 209,
+      "end": 240
+    },
+    {
+      "text": "hipodensidad",
+      "type": "PATOLOGIA",
+      "start": 448,
+      "end": 460
+    },
+    {
+      "text": "hemorragia intra o extraaxial",
+      "type": "PATOLOGIA",
+      "start": 464,
+      "end": 493
+    },
+    {
+      "text": "sustancia gris y blanca cortical",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 525,
+      "end": 557
+    },
+    {
+      "text": "línea media",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 577,
+      "end": 588
+    },
+    {
+      "text": "Cisternas basales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 674,
+      "end": 691
+    },
+    {
+      "text": "MTT",
+      "type": "TECNICA_IMAGEN",
+      "start": 775,
+      "end": 778
+    },
+    {
+      "text": "CBV",
+      "type": "TECNICA_IMAGEN",
+      "start": 809,
+      "end": 812
+    },
+    {
+      "text": "CBF",
+      "type": "TECNICA_IMAGEN",
+      "start": 842,
+      "end": 845
+    },
+    {
+      "text": "hemisferios cerebrales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 926,
+      "end": 948
+    },
+    {
+      "text": "penumbra",
+      "type": "PATOLOGIA",
+      "start": 963,
+      "end": 971
+    },
+    {
+      "text": "área isquémica",
+      "type": "PATOLOGIA",
+      "start": 975,
+      "end": 989
+    },
+    {
+      "text": "ACAs",
+      "type": "ARTERIA",
+      "start": 1056,
+      "end": 1060
+    },
+    {
+      "text": "ACMs",
+      "type": "ARTERIA",
+      "start": 1062,
+      "end": 1066
+    },
+    {
+      "text": "ACPs",
+      "type": "ARTERIA",
+      "start": 1069,
+      "end": 1073
+    },
+    {
+      "text": "sistema vertebrobasilar",
+      "type": "ARTERIA",
+      "start": 1077,
+      "end": 1100
+    },
+    {
+      "text": "estenosis",
+      "type": "PATOLOGIA",
+      "start": 1118,
+      "end": 1127
+    },
+    {
+      "text": "oclusiones",
+      "type": "PATOLOGIA",
+      "start": 1131,
+      "end": 1141
+    },
+    {
+      "text": "placas ateromatosas significativas",
+      "type": "PATOLOGIA",
+      "start": 1158,
+      "end": 1192
+    },
+    {
+      "text": "signos de disección",
+      "type": "PATOLOGIA",
+      "start": 1196,
+      "end": 1215
+    },
+    {
+      "text": "arco aórtico",
+      "type": "ARTERIA",
+      "start": 1254,
+      "end": 1266
+    },
+    {
+      "text": "estenosis relevantes",
+      "type": "PATOLOGIA",
+      "start": 1271,
+      "end": 1291
+    },
+    {
+      "text": "infarto cerebral agudo",
+      "type": "PATOLOGIA",
+      "start": 1354,
+      "end": 1376
+    },
+    {
+      "text": "hemorragia",
+      "type": "PATOLOGIA",
+      "start": 464,
+      "end": 474
+    },
+    {
+      "text": "hallazgos patológicos",
+      "type": "PATOLOGIA",
+      "start": 1441,
+      "end": 1462
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 1464,
+      "end": 1474
+    },
+    {
+      "text": "Normal CT brain without acute ischemic or hemorrhagic findings",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1700,
+      "end": 1762
+    },
+    {
+      "text": "Normal cerebral perfusion and angiographic study",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1764,
+      "end": 1812
+    }
+  ]
+}

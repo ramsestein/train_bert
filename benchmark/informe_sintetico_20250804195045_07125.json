@@ -1,0 +1,53 @@
+{
+  "document_id": "informe_sintetico_20250804195045_07125",
+  "entities": [
+    {
+      "text": "hematoma lobar frontal izquierdo",
+      "type": "PATOLOGIA",
+      "start": 417,
+      "end": 449
+    },
+    {
+      "text": "4,5 x 3,8 x 3,2 cm",
+      "type": "MEDIDA",
+      "start": 490,
+      "end": 508
+    },
+    {
+      "text": "izquierdo",
+      "type": "LATERALIDAD",
+      "start": 440,
+      "end": 449
+    },
+    {
+      "text": "3 mm",
+      "type": "MEDIDA",
+      "start": 819,
+      "end": 823
+    },
+    {
+      "text": "disminución focal del flujo sanguíneo cerebral",
+      "type": "PATOLOGIA",
+      "start": 1009,
+      "end": 1055
+    },
+    {
+      "text": "sin estenosis ni oclusiones significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1171,
+      "end": 1213
+    },
+    {
+      "text": "sin aneurismas ni malformaciones evidentes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1246,
+      "end": 1288
+    },
+    {
+      "text": "Angiografía por TC normal",
+      "type": "TECNICA_IMAGEN",
+      "start": 1493,
+      "end": 1518
+    }
+  ]
+}

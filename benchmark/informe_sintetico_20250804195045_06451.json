@@ -1,0 +1,65 @@
+{
+  "document_id": "informe_sintetico_20250804195045_06451",
+  "entities": [
+    {
+      "text": "isquemia",
+      "type": "PATOLOGIA",
+      "start": 983,
+      "end": 991
+    },
+    {
+      "text": "hemorragia",
+      "type": "PATOLOGIA",
+      "start": 1753,
+      "end": 1763
+    },
+    {
+      "text": "estenosis",
+      "type": "PATOLOGIA",
+      "start": 1273,
+      "end": 1282
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 1801,
+      "end": 1811
+    },
+    {
+      "text": "cerebral",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 385,
+      "end": 393
+    },
+    {
+      "text": "arterias cerebrales anterior",
+      "type": "ARTERIA",
+      "start": 1201,
+      "end": 1229
+    },
+    {
+      "text": "sin hallazgos patológicos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1516,
+      "end": 1541
+    },
+    {
+      "text": "sin estenosis ni oclusiones identificables",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1269,
+      "end": 1311
+    },
+    {
+      "text": "sin signos de placas ateromatosas significativas ni aneurismas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1367,
+      "end": 1429
+    },
+    {
+      "text": "sin signos de isquemia aguda",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1723,
+      "end": 1751
+    }
+  ]
+}

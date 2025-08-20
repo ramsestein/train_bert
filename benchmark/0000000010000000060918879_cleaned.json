@@ -1,0 +1,107 @@
+{
+  "document_id": "0000000010000000060918879_cleaned",
+  "entities": [
+    {
+      "text": "Infart cerebral causat per oclusió o estenosi no especificades d'artèria cerebral no especificada",
+      "type": "PATOLOGIA",
+      "start": 166,
+      "end": 263
+    },
+    {
+      "text": "No hemorragia intra/extraaxial.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 397,
+      "end": 428
+    },
+    {
+      "text": "No signos de infarto cerebral agudo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 429,
+      "end": 464
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 466,
+      "end": 476
+    },
+    {
+      "text": "Hiperdensidad de unos 3 mm en la bifurcación de la ACM derecha compatible con tromboémbolo.",
+      "type": "PATOLOGIA",
+      "start": 479,
+      "end": 570
+    },
+    {
+      "text": "No signos de leucopatía por enfermedad crónica de pequeño vaso.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 571,
+      "end": 634
+    },
+    {
+      "text": "Alteración de los mapas de perfusión, con TTM y TTP prolongados, flujo disminuido y volumen conservado en el territorio de distribución superficial de la ACM derecha.",
+      "type": "PATOLOGIA",
+      "start": 648,
+      "end": 814
+    },
+    {
+      "text": "Oclusión M1 distal derecha afectando a ambas rams de la bifurcación con recanalización posterior.",
+      "type": "PATOLOGIA",
+      "start": 841,
+      "end": 938
+    },
+    {
+      "text": "Circulación colateral pial en la práctica totalidad del territorio isquémico.",
+      "type": "PATOLOGIA",
+      "start": 939,
+      "end": 1016
+    },
+    {
+      "text": "No oclusión ni estenosis significativas en el resto de arterias intracraneales ni troncos supraaórticos.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1017,
+      "end": 1121
+    },
+    {
+      "text": "Signos de uncartrosis leve.",
+      "type": "PATOLOGIA",
+      "start": 1122,
+      "end": 1149
+    },
+    {
+      "text": "No se observan lesiones hemorrágicas ni aparentes signos de isquemia aguda establecida",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1173,
+      "end": 1259
+    },
+    {
+      "text": "ASPECTS 10/10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 1261,
+      "end": 1274
+    },
+    {
+      "text": "Trombo acabalgado en la bifurcación de la ACM derecha con alteración de los mapas de tiempo pero con volumen y flujo conservados en el territorio de distribución superficial de la ACM (Missmatch significativo).",
+      "type": "PATOLOGIA",
+      "start": 1277,
+      "end": 1487
+    },
+    {
+      "text": "TC cerebro sin contraste",
+      "type": "TECNICA_IMAGEN",
+      "start": 283,
+      "end": 307
+    },
+    {
+      "text": "TC perfusión",
+      "type": "TECNICA_IMAGEN",
+      "start": 309,
+      "end": 321
+    },
+    {
+      "text": "TC de arterias supraaórticas",
+      "type": "TECNICA_IMAGEN",
+      "start": 323,
+      "end": 351
+    }
+  ]
+}

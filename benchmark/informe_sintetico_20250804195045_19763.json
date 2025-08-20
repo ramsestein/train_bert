@@ -1,0 +1,53 @@
+{
+  "document_id": "informe_sintetico_20250804195045_19763",
+  "entities": [
+    {
+      "text": "infarto lacunar agudo",
+      "type": "PATOLOGIA",
+      "start": 603,
+      "end": 624
+    },
+    {
+      "text": "cápsula interna izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 562,
+      "end": 587
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 763,
+      "end": 773
+    },
+    {
+      "text": "isquemia lacunar aguda",
+      "type": "PATOLOGIA",
+      "start": 1078,
+      "end": 1100
+    },
+    {
+      "text": "ACAs, ACMs, ACPs",
+      "type": "ARTERIA",
+      "start": 1188,
+      "end": 1204
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 578,
+      "end": 587
+    },
+    {
+      "text": "sin complicaciones hemorrágicas o edema significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1430,
+      "end": 1483
+    },
+    {
+      "text": "sin hallazgos obstructivos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1514,
+      "end": 1540
+    }
+  ]
+}

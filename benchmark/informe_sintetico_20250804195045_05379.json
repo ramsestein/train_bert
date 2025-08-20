@@ -1,0 +1,47 @@
+{
+  "document_id": "informe_sintetico_20250804195045_05379",
+  "entities": [
+    {
+      "text": "hematoma lobar",
+      "type": "PATOLOGIA",
+      "start": 460,
+      "end": 474
+    },
+    {
+      "text": "región parietal izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 478,
+      "end": 503
+    },
+    {
+      "text": "25 x 20 x 18 mm",
+      "type": "MEDIDA",
+      "start": 524,
+      "end": 539
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 494,
+      "end": 503
+    },
+    {
+      "text": "No hay evidencia de hemorragia intraventricular ni subaracnoidea",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 683,
+      "end": 747
+    },
+    {
+      "text": "sin estenosis ni oclusiones evidentes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1253,
+      "end": 1290
+    },
+    {
+      "text": "sin signos de hipertensión intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1482,
+      "end": 1521
+    }
+  ]
+}

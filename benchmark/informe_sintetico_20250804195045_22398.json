@@ -1,0 +1,125 @@
+{
+  "document_id": "informe_sintetico_20250804195045_22398",
+  "entities": [
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 285,
+      "end": 299
+    },
+    {
+      "text": "territorio vertebrobasilar",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 303,
+      "end": 329
+    },
+    {
+      "text": "Tmax",
+      "type": "MEDIDA",
+      "start": 464,
+      "end": 468
+    },
+    {
+      "text": "MTT",
+      "type": "MEDIDA",
+      "start": 1043,
+      "end": 1046
+    },
+    {
+      "text": "cerebeloso bilateral",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1062,
+      "end": 1082
+    },
+    {
+      "text": "cerebelo hemisférico izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1115,
+      "end": 1145
+    },
+    {
+      "text": "protuberancia",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1148,
+      "end": 1161
+    },
+    {
+      "text": "flujo cerebral sanguíneo (CBF)",
+      "type": "PATOLOGIA",
+      "start": 1194,
+      "end": 1224
+    },
+    {
+      "text": "Volumen cerebral sanguíneo (CBV)",
+      "type": "MEDIDA",
+      "start": 1226,
+      "end": 1258
+    },
+    {
+      "text": "isquémica",
+      "type": "PATOLOGIA",
+      "start": 1333,
+      "end": 1342
+    },
+    {
+      "text": "Oclusión completa",
+      "type": "PATOLOGIA",
+      "start": 1378,
+      "end": 1395
+    },
+    {
+      "text": "segmento distal de la arteria vertebral derecha (V4)",
+      "type": "ARTERIA",
+      "start": 1400,
+      "end": 1452
+    },
+    {
+      "text": "estenosis severa (>90%)",
+      "type": "PATOLOGIA",
+      "start": 1455,
+      "end": 1478
+    },
+    {
+      "text": "segmento proximal de arteria basilar",
+      "type": "ARTERIA",
+      "start": 1493,
+      "end": 1529
+    },
+    {
+      "text": "arterias vertebrales",
+      "type": "ARTERIA",
+      "start": 1543,
+      "end": 1563
+    },
+    {
+      "text": "vasos intracraneales",
+      "type": "ARTERIA",
+      "start": 1578,
+      "end": 1598
+    },
+    {
+      "text": "hemorragia intra o extraaxial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 660,
+      "end": 689
+    },
+    {
+      "text": "lesiones densitométricas hipodensas recientes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 706,
+      "end": 751
+    },
+    {
+      "text": "No se observan aneurismas ni malformaciones vasculares",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1642,
+      "end": 1696
+    },
+    {
+      "text": "No evidencia de hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2131,
+      "end": 2170
+    }
+  ]
+}

@@ -1,0 +1,307 @@
+{
+  "document_id": "informe_sintetico_20250804195045_14296",
+  "entities": [
+    {
+      "text": "cefalea intensa",
+      "type": "PATOLOGIA",
+      "start": 179,
+      "end": 194
+    },
+    {
+      "text": "confusión transitoria",
+      "type": "PATOLOGIA",
+      "start": 227,
+      "end": 248
+    },
+    {
+      "text": "hipertensión arterial",
+      "type": "PATOLOGIA",
+      "start": 266,
+      "end": 287
+    },
+    {
+      "text": "anticoagulación crónica",
+      "type": "PATOLOGIA",
+      "start": 290,
+      "end": 313
+    },
+    {
+      "text": "hematomas intracraneales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 512,
+      "end": 536
+    },
+    {
+      "text": "hemorragias subaracnoideas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 556,
+      "end": 582
+    },
+    {
+      "text": "focos hiperdensos puntiformes",
+      "type": "PATOLOGIA",
+      "start": 618,
+      "end": 647
+    },
+    {
+      "text": "sustancia blanca profunda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 683,
+      "end": 708
+    },
+    {
+      "text": "región ganglio basal",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 711,
+      "end": 731
+    },
+    {
+      "text": "microhemorragias cerebrales",
+      "type": "PATOLOGIA",
+      "start": 764,
+      "end": 791
+    },
+    {
+      "text": "parénquima cerebral",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 796,
+      "end": 815
+    },
+    {
+      "text": "diferenciación cortico-subcortical",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 834,
+      "end": 868
+    },
+    {
+      "text": "focos hipodensos",
+      "type": "PATOLOGIA",
+      "start": 873,
+      "end": 889
+    },
+    {
+      "text": "isquemia reciente",
+      "type": "PATOLOGIA",
+      "start": 904,
+      "end": 921
+    },
+    {
+      "text": "desplazamiento de la línea media",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 930,
+      "end": 962
+    },
+    {
+      "text": "efecto de masa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 966,
+      "end": 980
+    },
+    {
+      "text": "cisternas perimesencefálicas",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1004,
+      "end": 1032
+    },
+    {
+      "text": "morfología y tamaño conservados",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1036,
+      "end": 1067
+    },
+    {
+      "text": "alteraciones hemodinámicas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1118,
+      "end": 1144
+    },
+    {
+      "text": "zonas de hipoperfusión",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1171,
+      "end": 1193
+    },
+    {
+      "text": "aumento del tiempo de tránsito medio",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1197,
+      "end": 1233
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 1247,
+      "end": 1261
+    },
+    {
+      "text": "Angio TC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 397,
+      "end": 427
+    },
+    {
+      "text": "ACAs",
+      "type": "ARTERIA",
+      "start": 1326,
+      "end": 1330
+    },
+    {
+      "text": "ACMs",
+      "type": "ARTERIA",
+      "start": 1332,
+      "end": 1336
+    },
+    {
+      "text": "ACPs",
+      "type": "ARTERIA",
+      "start": 1338,
+      "end": 1342
+    },
+    {
+      "text": "estenosis significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1372,
+      "end": 1395
+    },
+    {
+      "text": "defectos de llenado",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1399,
+      "end": 1418
+    },
+    {
+      "text": "malformaciones vasculares",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1437,
+      "end": 1462
+    },
+    {
+      "text": "aneurismas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1466,
+      "end": 1476
+    },
+    {
+      "text": "alteraciones",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1118,
+      "end": 1130
+    },
+    {
+      "text": "pequeño tamaño",
+      "type": "MEDIDA",
+      "start": 1585,
+      "end": 1599
+    },
+    {
+      "text": "distribución bilateral profunda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1602,
+      "end": 1633
+    },
+    {
+      "text": "angiopatía cerebral microangiopática",
+      "type": "PATOLOGIA",
+      "start": 1651,
+      "end": 1687
+    },
+    {
+      "text": "anticoagulación",
+      "type": "PATOLOGIA",
+      "start": 290,
+      "end": 305
+    },
+    {
+      "text": "enfermedad vascular hipertensiva",
+      "type": "PATOLOGIA",
+      "start": 1734,
+      "end": 1766
+    },
+    {
+      "text": "hemorragia aguda mayor",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1793,
+      "end": 1815
+    },
+    {
+      "text": "isquemia cerebral",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1819,
+      "end": 1836
+    },
+    {
+      "text": "circulación intracraneal",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1841,
+      "end": 1865
+    },
+    {
+      "text": "buena permeabilidad",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1875,
+      "end": 1894
+    },
+    {
+      "text": "estenosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1372,
+      "end": 1381
+    },
+    {
+      "text": "malformaciones",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1437,
+      "end": 1451
+    },
+    {
+      "text": "Control clínico estrecho",
+      "type": "PATOLOGIA",
+      "start": 1975,
+      "end": 1999
+    },
+    {
+      "text": "valoración neurológica",
+      "type": "PATOLOGIA",
+      "start": 2002,
+      "end": 2024
+    },
+    {
+      "text": "monitorización de anticoagulación",
+      "type": "PATOLOGIA",
+      "start": 2030,
+      "end": 2063
+    },
+    {
+      "text": "Microhemorrhages multiple",
+      "type": "PATOLOGIA",
+      "start": 2123,
+      "end": 2148
+    },
+    {
+      "text": "cerebral small vessel disease",
+      "type": "PATOLOGIA",
+      "start": 2166,
+      "end": 2195
+    },
+    {
+      "text": "TC CODIGO ICTUS",
+      "type": "TECNICA_IMAGEN",
+      "start": 72,
+      "end": 87
+    },
+    {
+      "text": "PERFUSION CEREBRAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 89,
+      "end": 107
+    },
+    {
+      "text": "ANGIOTC ARTERIAL INTRACRANEAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 2260,
+      "end": 2289
+    }
+  ],
+  "regenerado": true,
+  "fecha_regeneracion": "2025-08-06T05:41:43.943929"
+}

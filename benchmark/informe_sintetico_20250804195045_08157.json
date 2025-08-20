@@ -1,0 +1,101 @@
+{
+  "document_id": "informe_sintetico_20250804195045_08157",
+  "entities": [
+    {
+      "text": "hipodensidad mal definida",
+      "type": "PATOLOGIA",
+      "start": 399,
+      "end": 424
+    },
+    {
+      "text": "infarto establecido",
+      "type": "PATOLOGIA",
+      "start": 548,
+      "end": 567
+    },
+    {
+      "text": "ASPECTS 6",
+      "type": "PUNTUACION_CLINICA",
+      "start": 569,
+      "end": 578
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "ARTERIA",
+      "start": 445,
+      "end": 477
+    },
+    {
+      "text": "núcleo lenticular",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 490,
+      "end": 507
+    },
+    {
+      "text": "región frontoparietal",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 510,
+      "end": 531
+    },
+    {
+      "text": "3 mm",
+      "type": "MEDIDA",
+      "start": 709,
+      "end": 713
+    },
+    {
+      "text": "flujo cerebral (CBF)",
+      "type": "PATOLOGIA",
+      "start": 905,
+      "end": 925
+    },
+    {
+      "text": "tiempo de tránsito medio (MTT)",
+      "type": "PATOLOGIA",
+      "start": 996,
+      "end": 1026
+    },
+    {
+      "text": "tiempo hasta el pico (TTP)",
+      "type": "PATOLOGIA",
+      "start": 1029,
+      "end": 1055
+    },
+    {
+      "text": "penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1150,
+      "end": 1168
+    },
+    {
+      "text": "segmento cervical proximal",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1264,
+      "end": 1290
+    },
+    {
+      "text": "ausencia de flujo distal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1296,
+      "end": 1320
+    },
+    {
+      "text": "colateralidad compensatoria",
+      "type": "PATOLOGIA",
+      "start": 1333,
+      "end": 1360
+    },
+    {
+      "text": "sin alteraciones",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1507,
+      "end": 1523
+    },
+    {
+      "text": "sin signos de herniación",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1856,
+      "end": 1880
+    }
+  ]
+}

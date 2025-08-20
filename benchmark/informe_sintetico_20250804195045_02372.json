@@ -1,0 +1,77 @@
+{
+  "document_id": "informe_sintetico_20250804195045_02372",
+  "entities": [
+    {
+      "text": "hematoma lobar de localización frontal izquierda",
+      "type": "PATOLOGIA",
+      "start": 514,
+      "end": 562
+    },
+    {
+      "text": "frontal izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 545,
+      "end": 562
+    },
+    {
+      "text": "35 x 28 x 20 mm",
+      "type": "MEDIDA",
+      "start": 589,
+      "end": 604
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 715,
+      "end": 722
+    },
+    {
+      "text": "edema vasogénico moderado",
+      "type": "PATOLOGIA",
+      "start": 824,
+      "end": 849
+    },
+    {
+      "text": "isquémicas agudas",
+      "type": "PATOLOGIA",
+      "start": 877,
+      "end": 894
+    },
+    {
+      "text": "discreto aumento del tiempo de tránsito medio (TTP)",
+      "type": "PATOLOGIA",
+      "start": 932,
+      "end": 983
+    },
+    {
+      "text": "sin hallazgos patológicos relevantes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1369,
+      "end": 1405
+    },
+    {
+      "text": "sin evidencia de malformaciones vasculares ni isquemia cerebral aguda",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1925,
+      "end": 1994
+    },
+    {
+      "text": "TC CRANEAL BASAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 482,
+      "end": 498
+    },
+    {
+      "text": "perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 354,
+      "end": 372
+    },
+    {
+      "text": "angiografía TC arterial extra e intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 375,
+      "end": 419
+    }
+  ]
+}

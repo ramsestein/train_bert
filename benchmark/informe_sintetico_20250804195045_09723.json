@@ -1,0 +1,101 @@
+{
+  "document_id": "informe_sintetico_20250804195045_09723",
+  "entities": [
+    {
+      "text": "infarto isquémico temprano",
+      "type": "PATOLOGIA",
+      "start": 659,
+      "end": 685
+    },
+    {
+      "text": "hemorragias intra o extraaxiales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 702,
+      "end": 734
+    },
+    {
+      "text": "aumento significativo del tiempo de tránsito medio (MTT)",
+      "type": "MEDIDA",
+      "start": 922,
+      "end": 978
+    },
+    {
+      "text": "reducción marcada del flujo cerebral (CBF)",
+      "type": "MEDIDA",
+      "start": 981,
+      "end": 1023
+    },
+    {
+      "text": "preservación parcial del volumen cerebral (CBV)",
+      "type": "MEDIDA",
+      "start": 1079,
+      "end": 1126
+    },
+    {
+      "text": "mismatch significativo entre perfusión y volumen",
+      "type": "PATOLOGIA",
+      "start": 1174,
+      "end": 1222
+    },
+    {
+      "text": "defecto lineal irregular en la luz arterial",
+      "type": "PATOLOGIA",
+      "start": 1357,
+      "end": 1400
+    },
+    {
+      "text": "disección arterial",
+      "type": "PATOLOGIA",
+      "start": 1463,
+      "end": 1481
+    },
+    {
+      "text": "estenosis significativa (>70%)",
+      "type": "PATOLOGIA",
+      "start": 1496,
+      "end": 1526
+    },
+    {
+      "text": "arteria carótida interna izquierda",
+      "type": "ARTERIA",
+      "start": 1305,
+      "end": 1339
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "ARTERIA",
+      "start": 1041,
+      "end": 1073
+    },
+    {
+      "text": "sin estenosis relevantes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1692,
+      "end": 1716
+    },
+    {
+      "text": "estenosis severa",
+      "type": "PATOLOGIA",
+      "start": 2020,
+      "end": 2036
+    },
+    {
+      "text": "compromiso hemodinámico",
+      "type": "PATOLOGIA",
+      "start": 2039,
+      "end": 2062
+    },
+    {
+      "text": "infarto isquémico en territorio ACM izquierda",
+      "type": "PATOLOGIA",
+      "start": 2359,
+      "end": 2404
+    },
+    {
+      "text": "área extensa de penumbra",
+      "type": "PATOLOGIA",
+      "start": 2407,
+      "end": 2431
+    }
+  ]
+}

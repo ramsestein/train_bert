@@ -1,0 +1,95 @@
+{
+  "document_id": "informe_sintetico_20250804195045_01200",
+  "entities": [
+    {
+      "text": "hemorragia subaracnoidea",
+      "type": "PATOLOGIA",
+      "start": 291,
+      "end": 315
+    },
+    {
+      "text": "cisterna Sylvian derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 554,
+      "end": 578
+    },
+    {
+      "text": "7 mm",
+      "type": "MEDIDA",
+      "start": 599,
+      "end": 603
+    },
+    {
+      "text": "hemorragia subaracnoidea focal",
+      "type": "PATOLOGIA",
+      "start": 633,
+      "end": 663
+    },
+    {
+      "text": "No se identifican hematomas intracerebrales ni hemorragia intraventricular",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 665,
+      "end": 739
+    },
+    {
+      "text": "No se observan signos de edema cerebral ni efecto masa asociado",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 743,
+      "end": 806
+    },
+    {
+      "text": "No se detectan alteraciones significativas en los mapas de flujo cerebral, volumen o tiempo de tránsito, sin evidencia de áreas isquémicas en territorio hemisférico",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1020,
+      "end": 1184
+    },
+    {
+      "text": "arterias intracraneales",
+      "type": "ARTERIA",
+      "start": 1258,
+      "end": 1281
+    },
+    {
+      "text": "sin evidencias de aneurismas, malformaciones arteriovenosas ni estenosis significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1294,
+      "end": 1381
+    },
+    {
+      "text": "El círculo arterial de Willis es completo sin alteraciones morfológicas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1385,
+      "end": 1456
+    },
+    {
+      "text": "Hemorragia subaracnoidea focal en la cisterna Sylvian derecha sin hematomas asociados ni compromiso ventricular",
+      "type": "PATOLOGIA",
+      "start": 1485,
+      "end": 1596
+    },
+    {
+      "text": "No evidencia de isquemia cerebral en perfusión ni alteraciones vasculares significativas en angio-TC",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1600,
+      "end": 1700
+    },
+    {
+      "text": "Angio-TC",
+      "type": "TECNICA_IMAGEN",
+      "start": 2206,
+      "end": 2214
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 2188,
+      "end": 2204
+    },
+    {
+      "text": "TC o RM cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 1857,
+      "end": 1873
+    }
+  ]
+}

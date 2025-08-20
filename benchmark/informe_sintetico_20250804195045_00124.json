@@ -1,0 +1,155 @@
+{
+  "document_id": "informe_sintetico_20250804195045_00124",
+  "entities": [
+    {
+      "text": "hipodensas",
+      "type": "PATOLOGIA",
+      "start": 477,
+      "end": 487
+    },
+    {
+      "text": "bilaterales",
+      "type": "LATERALIDAD",
+      "start": 488,
+      "end": 499
+    },
+    {
+      "text": "corticales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 524,
+      "end": 534
+    },
+    {
+      "text": "subcorticales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 537,
+      "end": 550
+    },
+    {
+      "text": "territorios fronterizos supracorticales fronto-parietal y parieto-occipital",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 579,
+      "end": 654
+    },
+    {
+      "text": "hemorragia intraparenquimatosa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 672,
+      "end": 702
+    },
+    {
+      "text": "signos de masa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 706,
+      "end": 720
+    },
+    {
+      "text": "ASPECTS 7/10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 782,
+      "end": 794
+    },
+    {
+      "text": "tiempo de tránsito medio (MTT)",
+      "type": "MEDIDA",
+      "start": 971,
+      "end": 1001
+    },
+    {
+      "text": "tiempo hasta el pico (TTP)",
+      "type": "MEDIDA",
+      "start": 1004,
+      "end": 1030
+    },
+    {
+      "text": "flujo sanguíneo cerebral (CBF)",
+      "type": "MEDIDA",
+      "start": 1097,
+      "end": 1127
+    },
+    {
+      "text": "caída leve del volumen cerebral (CBV)",
+      "type": "MEDIDA",
+      "start": 1130,
+      "end": 1167
+    },
+    {
+      "text": "hipoperfusión tisular",
+      "type": "PATOLOGIA",
+      "start": 1184,
+      "end": 1205
+    },
+    {
+      "text": "arterias carótidas internas",
+      "type": "ARTERIA",
+      "start": 1342,
+      "end": 1369
+    },
+    {
+      "text": "arterias cerebrales anteriores",
+      "type": "ARTERIA",
+      "start": 1371,
+      "end": 1401
+    },
+    {
+      "text": "medias o posteriores",
+      "type": "ARTERIA",
+      "start": 1403,
+      "end": 1423
+    },
+    {
+      "text": "Arco aórtico",
+      "type": "ARTERIA",
+      "start": 1425,
+      "end": 1437
+    },
+    {
+      "text": "infarto por fenómeno watershed",
+      "type": "PATOLOGIA",
+      "start": 1629,
+      "end": 1659
+    },
+    {
+      "text": "territorios corticales fronto-parietal y parieto-occipital",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1663,
+      "end": 1721
+    },
+    {
+      "text": "hipoperfusión secundaria a episodios hipotensivos previos",
+      "type": "PATOLOGIA",
+      "start": 1748,
+      "end": 1805
+    },
+    {
+      "text": "trombosis vascular",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1823,
+      "end": 1841
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1845,
+      "end": 1868
+    },
+    {
+      "text": "hipoperfusión en territorios limítrofes",
+      "type": "PATOLOGIA",
+      "start": 1897,
+      "end": 1936
+    },
+    {
+      "text": "Angio-TC sin hallazgos obstructivos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1938,
+      "end": 1973
+    },
+    {
+      "text": "Infarto isquémico cortical bilateral en zonas watershed secundario a hipoperfusión",
+      "type": "PATOLOGIA",
+      "start": 2069,
+      "end": 2151
+    }
+  ]
+}

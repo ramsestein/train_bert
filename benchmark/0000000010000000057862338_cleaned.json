@@ -1,0 +1,59 @@
+{
+  "document_id": "0000000010000000057862338_cleaned",
+  "entities": [
+    {
+      "text": "lesión nodular intraaxial parietal derecha basalmente densa",
+      "type": "PATOLOGIA",
+      "start": 463,
+      "end": 522
+    },
+    {
+      "text": "1 cm x 0,5 cm",
+      "type": "MEDIDA",
+      "start": 532,
+      "end": 545
+    },
+    {
+      "text": "parietal derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 489,
+      "end": 505
+    },
+    {
+      "text": "M1",
+      "type": "PATOLOGIA",
+      "start": 855,
+      "end": 857
+    },
+    {
+      "text": "arteria carótida interna",
+      "type": "ARTERIA",
+      "start": 1303,
+      "end": 1327
+    },
+    {
+      "text": "ACAs, ACMs y ACPs",
+      "type": "ARTERIA",
+      "start": 1618,
+      "end": 1635
+    },
+    {
+      "text": "sin ateromatosis ni signos de estenosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1213,
+      "end": 1252
+    },
+    {
+      "text": "sin poder descartar M1 ni un origen vascular de la lesión",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 835,
+      "end": 892
+    },
+    {
+      "text": "sin alteraciones densitométricas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 923,
+      "end": 955
+    }
+  ]
+}

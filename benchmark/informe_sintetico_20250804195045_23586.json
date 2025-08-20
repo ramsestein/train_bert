@@ -1,0 +1,83 @@
+{
+  "document_id": "informe_sintetico_20250804195045_23586",
+  "entities": [
+    {
+      "text": "infarto cerebral establecido",
+      "type": "PATOLOGIA",
+      "start": 619,
+      "end": 647
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 571,
+      "end": 603
+    },
+    {
+      "text": "arteria cerebral media",
+      "type": "ARTERIA",
+      "start": 571,
+      "end": 593
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 594,
+      "end": 603
+    },
+    {
+      "text": "30%",
+      "type": "MEDIDA",
+      "start": 838,
+      "end": 841
+    },
+    {
+      "text": "agudo",
+      "type": "TEMPORALIDAD",
+      "start": 226,
+      "end": 231
+    },
+    {
+      "text": "PH2",
+      "type": "PUNTUACION_CLINICA",
+      "start": 765,
+      "end": 768
+    },
+    {
+      "text": "TC craneal simple",
+      "type": "TECNICA_IMAGEN",
+      "start": 398,
+      "end": 415
+    },
+    {
+      "text": "No se observan hemorragias subaracnoideas ni intraventriculares",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1090,
+      "end": 1153
+    },
+    {
+      "text": "Oclusión proximal de la arteria cerebral media izquierda",
+      "type": "PATOLOGIA",
+      "start": 1484,
+      "end": 1540
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "ARTERIA",
+      "start": 571,
+      "end": 603
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 594,
+      "end": 603
+    },
+    {
+      "text": "sin penumbra salvable",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1930,
+      "end": 1951
+    }
+  ]
+}

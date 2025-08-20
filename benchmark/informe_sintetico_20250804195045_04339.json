@@ -1,0 +1,77 @@
+{
+  "document_id": "informe_sintetico_20250804195045_04339",
+  "entities": [
+    {
+      "text": "hematoma subdural agudo",
+      "type": "PATOLOGIA",
+      "start": 552,
+      "end": 575
+    },
+    {
+      "text": "convexidad hemisférica derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 462,
+      "end": 492
+    },
+    {
+      "text": "12 mm",
+      "type": "MEDIDA",
+      "start": 530,
+      "end": 535
+    },
+    {
+      "text": "efecto masa",
+      "type": "PATOLOGIA",
+      "start": 593,
+      "end": 604
+    },
+    {
+      "text": "desplazamiento de la línea media hacia la izquierda",
+      "type": "PATOLOGIA",
+      "start": 662,
+      "end": 713
+    },
+    {
+      "text": "4 mm",
+      "type": "MEDIDA",
+      "start": 733,
+      "end": 737
+    },
+    {
+      "text": "No se visualizan hematomas intraparenquimatosos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 739,
+      "end": 786
+    },
+    {
+      "text": "No se observan malformaciones vasculares ni aneurismas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1451,
+      "end": 1505
+    },
+    {
+      "text": "sin hallazgos patológicos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1829,
+      "end": 1854
+    },
+    {
+      "text": "TC craneal basal de urgencia",
+      "type": "TECNICA_IMAGEN",
+      "start": 272,
+      "end": 300
+    },
+    {
+      "text": "angio-TC intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 303,
+      "end": 324
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 327,
+      "end": 348
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "document_id": "informe_sintetico_20250804195045_20259",
+  "entities": [
+    {
+      "text": "infarto cerebral isquémico",
+      "type": "PATOLOGIA",
+      "start": 249,
+      "end": 275
+    },
+    {
+      "text": "territorio ACM izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 279,
+      "end": 303
+    },
+    {
+      "text": "transformación hemorrágica tipo HI1",
+      "type": "PATOLOGIA",
+      "start": 747,
+      "end": 782
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "ARTERIA",
+      "start": 695,
+      "end": 727
+    },
+    {
+      "text": "ASPECTS 8",
+      "type": "PUNTUACION_CLINICA",
+      "start": 911,
+      "end": 920
+    },
+    {
+      "text": "leucoaraiosis periventricular",
+      "type": "PATOLOGIA",
+      "start": 1111,
+      "end": 1140
+    },
+    {
+      "text": "sin signos de trombosis ni vasoespasmo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1751,
+      "end": 1789
+    },
+    {
+      "text": "sin signos de oclusiones o estenosis relevantes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2073,
+      "end": 2120
+    }
+  ]
+}

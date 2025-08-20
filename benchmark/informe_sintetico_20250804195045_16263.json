@@ -1,0 +1,89 @@
+{
+  "document_id": "informe_sintetico_20250804195045_16263",
+  "entities": [
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 833,
+      "end": 847
+    },
+    {
+      "text": "regiones frontales y parietales izquierdas y derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 679,
+      "end": 731
+    },
+    {
+      "text": "núcleos basales derechos",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 742,
+      "end": 766
+    },
+    {
+      "text": "arterias cerebrales medias",
+      "type": "ARTERIA",
+      "start": 1073,
+      "end": 1099
+    },
+    {
+      "text": "arterias cerebrales posteriores",
+      "type": "ARTERIA",
+      "start": 1580,
+      "end": 1611
+    },
+    {
+      "text": "bilaterales",
+      "type": "LATERALIDAD",
+      "start": 656,
+      "end": 667
+    },
+    {
+      "text": "7",
+      "type": "MEDIDA",
+      "start": 867,
+      "end": 868
+    },
+    {
+      "text": "8",
+      "type": "MEDIDA",
+      "start": 898,
+      "end": 899
+    },
+    {
+      "text": "multifocal",
+      "type": "TEMPORALIDAD",
+      "start": 298,
+      "end": 308
+    },
+    {
+      "text": "ASPECTS",
+      "type": "PUNTUACION_CLINICA",
+      "start": 849,
+      "end": 856
+    },
+    {
+      "text": "TC craneal basal multidetector",
+      "type": "TECNICA_IMAGEN",
+      "start": 329,
+      "end": 359
+    },
+    {
+      "text": "No se identifican colecciones hemorrágicas intra ni extraaxiales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 507,
+      "end": 571
+    },
+    {
+      "text": "No se observan oclusiones completas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1613,
+      "end": 1648
+    },
+    {
+      "text": "Sin evidencia de hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2193,
+      "end": 2233
+    }
+  ]
+}

@@ -1,0 +1,259 @@
+{
+  "document_id": "informe_sintetico_20250804195045_15875",
+  "entities": [
+    {
+      "text": "hemorragia intracerebral",
+      "type": "PATOLOGIA",
+      "start": 222,
+      "end": 246
+    },
+    {
+      "text": "hemorragia intraventricular primaria",
+      "type": "PATOLOGIA",
+      "start": 264,
+      "end": 300
+    },
+    {
+      "text": "imagen hiperdensa",
+      "type": "PATOLOGIA",
+      "start": 491,
+      "end": 508
+    },
+    {
+      "text": "hemorragia intraventricular aguda primaria",
+      "type": "PATOLOGIA",
+      "start": 629,
+      "end": 671
+    },
+    {
+      "text": "ventrículos laterales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 569,
+      "end": 590
+    },
+    {
+      "text": "acueducto de Silvio",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 593,
+      "end": 612
+    },
+    {
+      "text": "ventriculomegálico",
+      "type": "PATOLOGIA",
+      "start": 735,
+      "end": 753
+    },
+    {
+      "text": "hidrocefalia obstructiva",
+      "type": "PATOLOGIA",
+      "start": 788,
+      "end": 812
+    },
+    {
+      "text": "línea media",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 863,
+      "end": 874
+    },
+    {
+      "text": "parénquima cerebral",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 895,
+      "end": 914
+    },
+    {
+      "text": "infarto isquémico",
+      "type": "PATOLOGIA",
+      "start": 987,
+      "end": 1004
+    },
+    {
+      "text": "lesiones ocupantes de espacio",
+      "type": "PATOLOGIA",
+      "start": 1008,
+      "end": 1037
+    },
+    {
+      "text": "Cisternas basales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1039,
+      "end": 1056
+    },
+    {
+      "text": "fracturas óseas",
+      "type": "PATOLOGIA",
+      "start": 1080,
+      "end": 1095
+    },
+    {
+      "text": "colecciones extraaxiales",
+      "type": "PATOLOGIA",
+      "start": 1099,
+      "end": 1123
+    },
+    {
+      "text": "preservación homogénea del flujo cerebral",
+      "type": "PATOLOGIA",
+      "start": 1183,
+      "end": 1224
+    },
+    {
+      "text": "flujo cerebral (CBF)",
+      "type": "PATOLOGIA",
+      "start": 1210,
+      "end": 1230
+    },
+    {
+      "text": "volumen cerebral (CBV)",
+      "type": "PATOLOGIA",
+      "start": 1232,
+      "end": 1254
+    },
+    {
+      "text": "tiempos de tránsito (MTT y TTP)",
+      "type": "PATOLOGIA",
+      "start": 1257,
+      "end": 1288
+    },
+    {
+      "text": "isquemia",
+      "type": "PATOLOGIA",
+      "start": 1343,
+      "end": 1351
+    },
+    {
+      "text": "hipoperfusión",
+      "type": "PATOLOGIA",
+      "start": 1355,
+      "end": 1368
+    },
+    {
+      "text": "malformaciones arteriovenosas",
+      "type": "PATOLOGIA",
+      "start": 1430,
+      "end": 1459
+    },
+    {
+      "text": "aneurismas",
+      "type": "PATOLOGIA",
+      "start": 1461,
+      "end": 1471
+    },
+    {
+      "text": "ruptura vascular",
+      "type": "PATOLOGIA",
+      "start": 1485,
+      "end": 1501
+    },
+    {
+      "text": "arterias cerebrales principales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1507,
+      "end": 1538
+    },
+    {
+      "text": "carótidas internas",
+      "type": "ARTERIA",
+      "start": 1540,
+      "end": 1558
+    },
+    {
+      "text": "cerebrales anteriores",
+      "type": "ARTERIA",
+      "start": 1560,
+      "end": 1581
+    },
+    {
+      "text": "sistema vertebrobasilar",
+      "type": "ARTERIA",
+      "start": 1618,
+      "end": 1641
+    },
+    {
+      "text": "estenosis significativas",
+      "type": "PATOLOGIA",
+      "start": 1664,
+      "end": 1688
+    },
+    {
+      "text": "vasoespasmo",
+      "type": "PATOLOGIA",
+      "start": 1718,
+      "end": 1729
+    },
+    {
+      "text": "trombosis vascular",
+      "type": "PATOLOGIA",
+      "start": 1733,
+      "end": 1751
+    },
+    {
+      "text": "hemorragia intraventricular primaria",
+      "type": "PATOLOGIA",
+      "start": 264,
+      "end": 300
+    },
+    {
+      "text": "hematoma parenquimatoso",
+      "type": "PATOLOGIA",
+      "start": 1920,
+      "end": 1943
+    },
+    {
+      "text": "malformaciones vasculares",
+      "type": "PATOLOGIA",
+      "start": 1955,
+      "end": 1980
+    },
+    {
+      "text": "hidrocefálicas",
+      "type": "PATOLOGIA",
+      "start": 2027,
+      "end": 2041
+    },
+    {
+      "text": "isquemia cerebral aguda",
+      "type": "PATOLOGIA",
+      "start": 2045,
+      "end": 2068
+    },
+    {
+      "text": "resonancia magnética cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 2209,
+      "end": 2238
+    },
+    {
+      "text": "lesiones vasculares ocultas",
+      "type": "PATOLOGIA",
+      "start": 2254,
+      "end": 2281
+    },
+    {
+      "text": "neoplasias asociadas",
+      "type": "PATOLOGIA",
+      "start": 2284,
+      "end": 2304
+    },
+    {
+      "text": "posible hipertensión intracraneal",
+      "type": "PATOLOGIA",
+      "start": 2348,
+      "end": 2381
+    },
+    {
+      "text": "hemorragia intraventricular primaria",
+      "type": "PATOLOGIA",
+      "start": 264,
+      "end": 300
+    },
+    {
+      "text": "sin compromiso parenquimatoso",
+      "type": "PATOLOGIA",
+      "start": 2481,
+      "end": 2510
+    }
+  ],
+  "regenerado": true,
+  "fecha_regeneracion": "2025-08-06T05:43:29.418350"
+}

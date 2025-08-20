@@ -1,0 +1,77 @@
+{
+  "document_id": "informe_sintetico_20250804195045_22503",
+  "entities": [
+    {
+      "text": "infartos lacunares crónicos",
+      "type": "PATOLOGIA",
+      "start": 675,
+      "end": 702
+    },
+    {
+      "text": "región subcortical profunda de los núcleos lenticulares bilaterales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 503,
+      "end": 570
+    },
+    {
+      "text": "arterias cerebrales anteriores",
+      "type": "ARTERIA",
+      "start": 1274,
+      "end": 1304
+    },
+    {
+      "text": "bilaterales",
+      "type": "LATERALIDAD",
+      "start": 559,
+      "end": 570
+    },
+    {
+      "text": "15 mm",
+      "type": "MEDIDA",
+      "start": 652,
+      "end": 657
+    },
+    {
+      "text": "agudos",
+      "type": "TEMPORALIDAD",
+      "start": 750,
+      "end": 756
+    },
+    {
+      "text": "sin estenosis significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1328,
+      "end": 1355
+    },
+    {
+      "text": "sin evidencia de infarto agudo o hemorragia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1649,
+      "end": 1692
+    },
+    {
+      "text": "sin alteraciones funcionales actuales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1806,
+      "end": 1843
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 304,
+      "end": 320
+    },
+    {
+      "text": "TC PERFUSIÓN",
+      "type": "TECNICA_IMAGEN",
+      "start": 981,
+      "end": 993
+    },
+    {
+      "text": "ANGIO-TC INTRACRANEAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 1207,
+      "end": 1228
+    }
+  ]
+}

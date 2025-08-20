@@ -1,0 +1,53 @@
+{
+  "document_id": "informe_sintetico_20250804195045_01241",
+  "entities": [
+    {
+      "text": "infarto lacunar agudo",
+      "type": "PATOLOGIA",
+      "start": 593,
+      "end": 614
+    },
+    {
+      "text": "núcleo lenticular derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 551,
+      "end": 576
+    },
+    {
+      "text": "8 mm",
+      "type": "MEDIDA",
+      "start": 495,
+      "end": 499
+    },
+    {
+      "text": "agudo",
+      "type": "TEMPORALIDAD",
+      "start": 251,
+      "end": 256
+    },
+    {
+      "text": "No se observan signos de hemorragia intraparenquimatosa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 616,
+      "end": 671
+    },
+    {
+      "text": "sin áreas de penumbra significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1158,
+      "end": 1194
+    },
+    {
+      "text": "sin evidencia de oclusiones ni estenosis significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1404,
+      "end": 1459
+    },
+    {
+      "text": "sin evidencia de complicaciones hemorrágicas ni edema asociado",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1674,
+      "end": 1736
+    }
+  ]
+}

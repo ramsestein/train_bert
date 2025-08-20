@@ -1,0 +1,233 @@
+{
+  "document_id": "informe_sintetico_20250804195045_23268",
+  "entities": [
+    {
+      "text": "hemiparesia derecha",
+      "type": "PATOLOGIA",
+      "start": 189,
+      "end": 208
+    },
+    {
+      "text": "subaguda",
+      "type": "TEMPORALIDAD",
+      "start": 222,
+      "end": 230
+    },
+    {
+      "text": "infarto cerebral",
+      "type": "PATOLOGIA",
+      "start": 244,
+      "end": 260
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "ARTERIA",
+      "start": 278,
+      "end": 310
+    },
+    {
+      "text": "TC CRANEAL BASAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 462,
+      "end": 478
+    },
+    {
+      "text": "área hipodensa",
+      "type": "PATOLOGIA",
+      "start": 491,
+      "end": 505
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "ARTERIA",
+      "start": 278,
+      "end": 310
+    },
+    {
+      "text": "infarto cerebral isquémico extenso",
+      "type": "PATOLOGIA",
+      "start": 594,
+      "end": 628
+    },
+    {
+      "text": "focos hiperdensos puntiformes y heterogéneos",
+      "type": "PATOLOGIA",
+      "start": 645,
+      "end": 689
+    },
+    {
+      "text": "transformación hemorrágica tipo PH1",
+      "type": "PATOLOGIA",
+      "start": 740,
+      "end": 775
+    },
+    {
+      "text": "microhemorragias dispersas, menores de 5 mm",
+      "type": "PATOLOGIA",
+      "start": 777,
+      "end": 820
+    },
+    {
+      "text": "hemorragias corticales mayores",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 840,
+      "end": 870
+    },
+    {
+      "text": "hematomas expansivos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 874,
+      "end": 894
+    },
+    {
+      "text": "desplazamientos de línea media",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 911,
+      "end": 941
+    },
+    {
+      "text": "efecto de masa significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 945,
+      "end": 973
+    },
+    {
+      "text": "Sistema ventricular y cisternas basales sin alteraciones relevantes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 975,
+      "end": 1042
+    },
+    {
+      "text": "TC PERFUSIÓN",
+      "type": "TECNICA_IMAGEN",
+      "start": 1113,
+      "end": 1125
+    },
+    {
+      "text": "marcada reducción del flujo cerebral (CBF)",
+      "type": "PATOLOGIA",
+      "start": 1136,
+      "end": 1178
+    },
+    {
+      "text": "volumen cerebral (CBV)",
+      "type": "PATOLOGIA",
+      "start": 1181,
+      "end": 1203
+    },
+    {
+      "text": "territorio afectado",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1207,
+      "end": 1226
+    },
+    {
+      "text": "prolongación del tiempo de tránsito medio (MTT)",
+      "type": "PATOLOGIA",
+      "start": 1232,
+      "end": 1279
+    },
+    {
+      "text": "tiempo hasta el máximo (Tmax)",
+      "type": "PATOLOGIA",
+      "start": 1282,
+      "end": 1311
+    },
+    {
+      "text": "infarto establecido",
+      "type": "PATOLOGIA",
+      "start": 1329,
+      "end": 1348
+    },
+    {
+      "text": "áreas con mismatch protectoras",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1368,
+      "end": 1398
+    },
+    {
+      "text": "ANGIO-TC EXTRA E INTRACRANEAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 1401,
+      "end": 1430
+    },
+    {
+      "text": "Oclusión completa de arteria cerebral media izquierda en segmento M1 proximal",
+      "type": "PATOLOGIA",
+      "start": 1432,
+      "end": 1509
+    },
+    {
+      "text": "Resto de arterias cerebrales intracraneales permeables",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1511,
+      "end": 1565
+    },
+    {
+      "text": "estenosis significativa en troncos supraaórticos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1579,
+      "end": 1627
+    },
+    {
+      "text": "aneurismas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1644,
+      "end": 1654
+    },
+    {
+      "text": "malformaciones vasculares",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1658,
+      "end": 1683
+    },
+    {
+      "text": "Infarto cerebral extenso en territorio de arteria cerebral media izquierda con transformación hemorrágica tipo PH1",
+      "type": "PATOLOGIA",
+      "start": 1708,
+      "end": 1822
+    },
+    {
+      "text": "Oclusión arterial M1 izquierda",
+      "type": "PATOLOGIA",
+      "start": 1865,
+      "end": 1895
+    },
+    {
+      "text": "complicaciones hemorrágicas mayores",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1900,
+      "end": 1935
+    },
+    {
+      "text": "efecto de masa referido",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1939,
+      "end": 1962
+    },
+    {
+      "text": "control clínico y neuroimagen de seguimiento",
+      "type": "PATOLOGIA",
+      "start": 2013,
+      "end": 2057
+    },
+    {
+      "text": "transformación hemorrágica",
+      "type": "PATOLOGIA",
+      "start": 322,
+      "end": 348
+    },
+    {
+      "text": "extensión del infarto",
+      "type": "PATOLOGIA",
+      "start": 2113,
+      "end": 2134
+    },
+    {
+      "text": "Infarto cerebral extenso en territorio ACM izquierda con transformación hemorrágica focos PH1",
+      "type": "PATOLOGIA",
+      "start": 2194,
+      "end": 2287
+    }
+  ]
+}

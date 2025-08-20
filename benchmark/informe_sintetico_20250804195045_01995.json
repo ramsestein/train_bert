@@ -1,0 +1,95 @@
+{
+  "document_id": "informe_sintetico_20250804195045_01995",
+  "entities": [
+    {
+      "text": "ictus isquémico",
+      "type": "PATOLOGIA",
+      "start": 239,
+      "end": 254
+    },
+    {
+      "text": "arteria cerebral media distal",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 272,
+      "end": 301
+    },
+    {
+      "text": "arteria cerebral media",
+      "type": "ARTERIA",
+      "start": 272,
+      "end": 294
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 972,
+      "end": 979
+    },
+    {
+      "text": "ASPECTS 9",
+      "type": "PUNTUACION_CLINICA",
+      "start": 670,
+      "end": 679
+    },
+    {
+      "text": "agudas",
+      "type": "TEMPORALIDAD",
+      "start": 597,
+      "end": 603
+    },
+    {
+      "text": "TTP",
+      "type": "MEDIDA",
+      "start": 860,
+      "end": 863
+    },
+    {
+      "text": "CBF",
+      "type": "MEDIDA",
+      "start": 902,
+      "end": 905
+    },
+    {
+      "text": "M2/M3",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 965,
+      "end": 970
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 972,
+      "end": 979
+    },
+    {
+      "text": "mínimo",
+      "type": "MEDIDA",
+      "start": 1097,
+      "end": 1103
+    },
+    {
+      "text": "sin evidencia clara de infarto establecido",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1105,
+      "end": 1147
+    },
+    {
+      "text": "sin estenosis significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1321,
+      "end": 1349
+    },
+    {
+      "text": "ASPECTS 9",
+      "type": "PUNTUACION_CLINICA",
+      "start": 670,
+      "end": 679
+    },
+    {
+      "text": "potencial beneficio para tratamiento trombolítico/trombectomía",
+      "type": "PATOLOGIA",
+      "start": 1708,
+      "end": 1770
+    }
+  ]
+}

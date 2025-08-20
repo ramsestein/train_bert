@@ -1,0 +1,131 @@
+{
+  "document_id": "informe_sintetico_20250804195045_12472",
+  "entities": [
+    {
+      "text": "infarto",
+      "type": "PATOLOGIA",
+      "start": 286,
+      "end": 293
+    },
+    {
+      "text": "isquémico",
+      "type": "PATOLOGIA",
+      "start": 892,
+      "end": 901
+    },
+    {
+      "text": "bilateral",
+      "type": "LATERALIDAD",
+      "start": 225,
+      "end": 234
+    },
+    {
+      "text": "watershed",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 316,
+      "end": 325
+    },
+    {
+      "text": "frontoparietales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 709,
+      "end": 725
+    },
+    {
+      "text": "infarto isquémico",
+      "type": "PATOLOGIA",
+      "start": 884,
+      "end": 901
+    },
+    {
+      "text": "isquemia",
+      "type": "PATOLOGIA",
+      "start": 1347,
+      "end": 1355
+    },
+    {
+      "text": "TTP",
+      "type": "MEDIDA",
+      "start": 444,
+      "end": 447
+    },
+    {
+      "text": "CBV",
+      "type": "MEDIDA",
+      "start": 449,
+      "end": 452
+    },
+    {
+      "text": "CBF",
+      "type": "MEDIDA",
+      "start": 455,
+      "end": 458
+    },
+    {
+      "text": "isquemia tisular",
+      "type": "PATOLOGIA",
+      "start": 1347,
+      "end": 1363
+    },
+    {
+      "text": "sin anormalidades significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1498,
+      "end": 1530
+    },
+    {
+      "text": "sin estenosis relevantes ni placas de ateroma significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1560,
+      "end": 1620
+    },
+    {
+      "text": "permeables",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1654,
+      "end": 1664
+    },
+    {
+      "text": "no se identifican oclusiones ni estenosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1666,
+      "end": 1707
+    },
+    {
+      "text": "sin alteraciones",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1787,
+      "end": 1803
+    },
+    {
+      "text": "sin áreas extensas de penumbra",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2125,
+      "end": 2155
+    },
+    {
+      "text": "sin evidencia de hemorragia ni oclusión arterial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2440,
+      "end": 2488
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 383,
+      "end": 399
+    },
+    {
+      "text": "estudio de perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 401,
+      "end": 430
+    },
+    {
+      "text": "angio-TC extracraneal e intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 462,
+      "end": 498
+    }
+  ]
+}

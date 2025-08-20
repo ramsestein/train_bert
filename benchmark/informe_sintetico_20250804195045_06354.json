@@ -1,0 +1,83 @@
+{
+  "document_id": "informe_sintetico_20250804195045_06354",
+  "entities": [
+    {
+      "text": "hemiplejia derecha",
+      "type": "PATOLOGIA",
+      "start": 227,
+      "end": 245
+    },
+    {
+      "text": "ictus",
+      "type": "PATOLOGIA",
+      "start": 283,
+      "end": 288
+    },
+    {
+      "text": "Ausencia de hemorragias intracraneales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 537,
+      "end": 575
+    },
+    {
+      "text": "No se evidencian signos de infarto cortical en regiones supratentoriales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 651,
+      "end": 723
+    },
+    {
+      "text": "Área extensa de hipoperfusión marcada en la región del tronco encefálico y cerebelo bilateral",
+      "type": "PATOLOGIA",
+      "start": 758,
+      "end": 851
+    },
+    {
+      "text": "isquemia crítica",
+      "type": "PATOLOGIA",
+      "start": 951,
+      "end": 967
+    },
+    {
+      "text": "Oclusión completa del segmento proximal de la arteria basilar",
+      "type": "PATOLOGIA",
+      "start": 1003,
+      "end": 1064
+    },
+    {
+      "text": "arteria basilar",
+      "type": "ARTERIA",
+      "start": 1049,
+      "end": 1064
+    },
+    {
+      "text": "Arterias vertebrales permeables",
+      "type": "PATOLOGIA",
+      "start": 1066,
+      "end": 1097
+    },
+    {
+      "text": "flujo disminuido en el lado derecho",
+      "type": "LATERALIDAD",
+      "start": 1110,
+      "end": 1145
+    },
+    {
+      "text": "territorio troncoencefálico y cerebeloso",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1361,
+      "end": 1401
+    },
+    {
+      "text": "sin hemorragias intracraneales detectadas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1798,
+      "end": 1839
+    },
+    {
+      "text": "TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANG IOTC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 72,
+      "end": 140
+    }
+  ]
+}

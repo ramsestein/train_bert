@@ -1,0 +1,65 @@
+{
+  "document_id": "informe_sintetico_20250804195045_03668",
+  "entities": [
+    {
+      "text": "infarto isquémico subagudo",
+      "type": "PATOLOGIA",
+      "start": 585,
+      "end": 611
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 536,
+      "end": 568
+    },
+    {
+      "text": "ACM",
+      "type": "ARTERIA",
+      "start": 1440,
+      "end": 1443
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 559,
+      "end": 568
+    },
+    {
+      "text": "2 mm",
+      "type": "MEDIDA",
+      "start": 876,
+      "end": 880
+    },
+    {
+      "text": "subagudo",
+      "type": "TEMPORALIDAD",
+      "start": 603,
+      "end": 611
+    },
+    {
+      "text": "PH1",
+      "type": "PUNTUACION_CLINICA",
+      "start": 739,
+      "end": 742
+    },
+    {
+      "text": "TC CRANEAL BASAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 317,
+      "end": 333
+    },
+    {
+      "text": "No se evidencia efecto de masa relevante",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 785,
+      "end": 825
+    },
+    {
+      "text": "No signos de estenosis severas en otros vasos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1455,
+      "end": 1500
+    }
+  ]
+}

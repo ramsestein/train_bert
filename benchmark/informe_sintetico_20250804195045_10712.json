@@ -1,0 +1,137 @@
+{
+  "document_id": "informe_sintetico_20250804195045_10712",
+  "entities": [
+    {
+      "text": "hemiparesia izquierda",
+      "type": "PATOLOGIA",
+      "start": 204,
+      "end": 225
+    },
+    {
+      "text": "afasia",
+      "type": "PATOLOGIA",
+      "start": 228,
+      "end": 234
+    },
+    {
+      "text": "accidente isquémico agudo",
+      "type": "PATOLOGIA",
+      "start": 248,
+      "end": 273
+    },
+    {
+      "text": "región parieto-occipital derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 596,
+      "end": 628
+    },
+    {
+      "text": "arteria cerebral posterior (ACP) derecha",
+      "type": "ARTERIA",
+      "start": 741,
+      "end": 781
+    },
+    {
+      "text": "ASPECTS 9",
+      "type": "PUNTUACION_CLINICA",
+      "start": 783,
+      "end": 792
+    },
+    {
+      "text": "aumento del tiempo de tránsito medio (Tmax)",
+      "type": "MEDIDA",
+      "start": 952,
+      "end": 995
+    },
+    {
+      "text": "retraso del tiempo hasta el pico (TTP)",
+      "type": "MEDIDA",
+      "start": 998,
+      "end": 1036
+    },
+    {
+      "text": "disminución del flujo cerebral (CBF)",
+      "type": "MEDIDA",
+      "start": 1074,
+      "end": 1110
+    },
+    {
+      "text": "conservación parcial del volumen cerebral (CBV)",
+      "type": "MEDIDA",
+      "start": 1113,
+      "end": 1160
+    },
+    {
+      "text": "ateromatosis moderada",
+      "type": "PATOLOGIA",
+      "start": 1287,
+      "end": 1308
+    },
+    {
+      "text": "estenosis hemodinámicamente significativas",
+      "type": "PATOLOGIA",
+      "start": 1313,
+      "end": 1355
+    },
+    {
+      "text": "Arteria cerebral posterior derecha",
+      "type": "ARTERIA",
+      "start": 1404,
+      "end": 1438
+    },
+    {
+      "text": "calibre disminuido",
+      "type": "PATOLOGIA",
+      "start": 1468,
+      "end": 1486
+    },
+    {
+      "text": "estenosis severa o oclusión parcial",
+      "type": "PATOLOGIA",
+      "start": 1501,
+      "end": 1536
+    },
+    {
+      "text": "Resto de arterias cerebrales intracraneales permeables",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1538,
+      "end": 1592
+    },
+    {
+      "text": "Ausencia de hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1716,
+      "end": 1751
+    },
+    {
+      "text": "área de penumbra isquémica en territorio de ACP derecha",
+      "type": "PATOLOGIA",
+      "start": 1861,
+      "end": 1916
+    },
+    {
+      "text": "Resto de grandes vasos cerebrales permeables",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1995,
+      "end": 2039
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 325,
+      "end": 341
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 344,
+      "end": 365
+    },
+    {
+      "text": "AngioTC de troncos supraórticos e intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 368,
+      "end": 414
+    }
+  ]
+}

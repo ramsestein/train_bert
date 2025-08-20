@@ -1,0 +1,83 @@
+{
+  "document_id": "informe_sintetico_20250804195045_21703",
+  "entities": [
+    {
+      "text": "hematoma intraparenquimatoso",
+      "type": "PATOLOGIA",
+      "start": 530,
+      "end": 558
+    },
+    {
+      "text": "núcleo talámico izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 488,
+      "end": 513
+    },
+    {
+      "text": "3.5 x 3.0 x 3.2 cm",
+      "type": "MEDIDA",
+      "start": 452,
+      "end": 470
+    },
+    {
+      "text": "izquierdo",
+      "type": "LATERALIDAD",
+      "start": 504,
+      "end": 513
+    },
+    {
+      "text": "3 mm",
+      "type": "MEDIDA",
+      "start": 754,
+      "end": 758
+    },
+    {
+      "text": "agudo",
+      "type": "TEMPORALIDAD",
+      "start": 207,
+      "end": 212
+    },
+    {
+      "text": "sin hemorragia intraventricular significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 659,
+      "end": 704
+    },
+    {
+      "text": "sin hidrocefalia obstructiva franca",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 961,
+      "end": 996
+    },
+    {
+      "text": "sin evidencias de isquemia en territorios adyacentes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1302,
+      "end": 1354
+    },
+    {
+      "text": "vasos principales permeables",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1093,
+      "end": 1121
+    },
+    {
+      "text": "Angio-TC intra e intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 284,
+      "end": 313
+    },
+    {
+      "text": "TC craneal simple urgente",
+      "type": "TECNICA_IMAGEN",
+      "start": 256,
+      "end": 281
+    },
+    {
+      "text": "perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 325,
+      "end": 343
+    }
+  ]
+}

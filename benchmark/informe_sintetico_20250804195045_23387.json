@@ -1,0 +1,47 @@
+{
+  "document_id": "informe_sintetico_20250804195045_23387",
+  "entities": [
+    {
+      "text": "edema cerebral difuso",
+      "type": "PATOLOGIA",
+      "start": 519,
+      "end": 540
+    },
+    {
+      "text": "regiones frontales y parietales bilaterales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 556,
+      "end": 599
+    },
+    {
+      "text": "pérdida global de la diferenciación cortico-subcortical",
+      "type": "PATOLOGIA",
+      "start": 459,
+      "end": 514
+    },
+    {
+      "text": "encefalopatía hipóxico-isquémica global",
+      "type": "PATOLOGIA",
+      "start": 1460,
+      "end": 1499
+    },
+    {
+      "text": "sin evidencias de hemorragia o trombosis arterial intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2148,
+      "end": 2210
+    },
+    {
+      "text": "TC Basal + TC Perfusión + AngioTC intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 357,
+      "end": 403
+    },
+    {
+      "text": "Tomografía Computarizada craneal con perfusión cerebral y angiografía por TC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 1943,
+      "end": 2041
+    }
+  ]
+}

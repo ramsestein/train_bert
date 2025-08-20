@@ -1,0 +1,101 @@
+{
+  "document_id": "informe_sintetico_20250804195045_21762",
+  "entities": [
+    {
+      "text": "isquemia",
+      "type": "PATOLOGIA",
+      "start": 921,
+      "end": 929
+    },
+    {
+      "text": "arteria cerebral anterior derecha",
+      "type": "ARTERIA",
+      "start": 357,
+      "end": 390
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 383,
+      "end": 390
+    },
+    {
+      "text": "aguda",
+      "type": "TEMPORALIDAD",
+      "start": 245,
+      "end": 250
+    },
+    {
+      "text": "hipodensidad corticosubcortical",
+      "type": "PATOLOGIA",
+      "start": 686,
+      "end": 717
+    },
+    {
+      "text": "isquemia crítica",
+      "type": "PATOLOGIA",
+      "start": 1267,
+      "end": 1283
+    },
+    {
+      "text": "zona de penumbra",
+      "type": "PATOLOGIA",
+      "start": 1498,
+      "end": 1514
+    },
+    {
+      "text": "trombosis aguda",
+      "type": "PATOLOGIA",
+      "start": 1844,
+      "end": 1859
+    },
+    {
+      "text": "A2-A3",
+      "type": "ARTERIA",
+      "start": 1821,
+      "end": 1826
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2188,
+      "end": 2211
+    },
+    {
+      "text": "prolongación en la región parasagital derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1087,
+      "end": 1132
+    },
+    {
+      "text": "territorio parasagital derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 721,
+      "end": 751
+    },
+    {
+      "text": "región parasagital frontoparietal",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 2112,
+      "end": 2145
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 453,
+      "end": 469
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 471,
+      "end": 492
+    },
+    {
+      "text": "AngioTC arterial intra y extracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 495,
+      "end": 532
+    }
+  ]
+}

@@ -1,0 +1,149 @@
+{
+  "document_id": "informe_sintetico_20250804195045_10757",
+  "entities": [
+    {
+      "text": "infarto",
+      "type": "PATOLOGIA",
+      "start": 298,
+      "end": 305
+    },
+    {
+      "text": "deterioro neurológico progresivo",
+      "type": "PATOLOGIA",
+      "start": 207,
+      "end": 239
+    },
+    {
+      "text": "debilidad braquio-crural bilateral",
+      "type": "PATOLOGIA",
+      "start": 242,
+      "end": 276
+    },
+    {
+      "text": "pérdida de diferenciación cortico-subcortical bilateral",
+      "type": "PATOLOGIA",
+      "start": 547,
+      "end": 602
+    },
+    {
+      "text": "regiones parietales y frontales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 606,
+      "end": 637
+    },
+    {
+      "text": "arterias cerebrales anterior, media y posterior",
+      "type": "ARTERIA",
+      "start": 711,
+      "end": 758
+    },
+    {
+      "text": "ASPECTS 8",
+      "type": "PUNTUACION_CLINICA",
+      "start": 760,
+      "end": 769
+    },
+    {
+      "text": "retraso simétrico y bilateral en las regiones fronto-parietales posteriores",
+      "type": "PATOLOGIA",
+      "start": 913,
+      "end": 988
+    },
+    {
+      "text": "reducción moderada del flujo cerebral (CBF)",
+      "type": "PATOLOGIA",
+      "start": 994,
+      "end": 1037
+    },
+    {
+      "text": "preservación del volumen cerebral (CBV)",
+      "type": "PATOLOGIA",
+      "start": 1040,
+      "end": 1079
+    },
+    {
+      "text": "hipoperfusión en zonas de watershed corticales y subcorticales",
+      "type": "PATOLOGIA",
+      "start": 1103,
+      "end": 1165
+    },
+    {
+      "text": "sin evidencia de territorio de infarto establecida",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1167,
+      "end": 1217
+    },
+    {
+      "text": "ateromatosis calcificada moderada en arterias carótidas comunes bilaterales",
+      "type": "PATOLOGIA",
+      "start": 1319,
+      "end": 1394
+    },
+    {
+      "text": "sin estenosis hemodinámicamente significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1396,
+      "end": 1442
+    },
+    {
+      "text": "Sistema vertebrobasilar sin alteraciones ni estenosis relevantes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1531,
+      "end": 1595
+    },
+    {
+      "text": "No se detectan oclusiones arteriales ni trombos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1597,
+      "end": 1644
+    },
+    {
+      "text": "No se objetiva hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1711,
+      "end": 1749
+    },
+    {
+      "text": "Hipodensidades bilaterales en territorios de frontera (watershed) entre ACA-ACM y ACM-ACP",
+      "type": "PATOLOGIA",
+      "start": 1755,
+      "end": 1844
+    },
+    {
+      "text": "retraso en tiempo y reducción de flujo cerebral compatible con hipoperfusión en áreas watershed",
+      "type": "PATOLOGIA",
+      "start": 1878,
+      "end": 1973
+    },
+    {
+      "text": "sin infarto establecido irreversible",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1975,
+      "end": 2011
+    },
+    {
+      "text": "No se evidencian estenosis arteriales significativas ni oclusiones",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2017,
+      "end": 2083
+    },
+    {
+      "text": "ASPECTS 8",
+      "type": "PUNTUACION_CLINICA",
+      "start": 760,
+      "end": 769
+    },
+    {
+      "text": "Infarto en territorio watershed con hipoperfusión cerebral bilateral sin infarto irreversible",
+      "type": "PATOLOGIA",
+      "start": 2315,
+      "end": 2408
+    },
+    {
+      "text": "TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANGIOTC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 2436,
+      "end": 2503
+    }
+  ]
+}

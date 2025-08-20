@@ -1,0 +1,71 @@
+{
+  "document_id": "informe_sintetico_20250804195045_17058",
+  "entities": [
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 300,
+      "end": 314
+    },
+    {
+      "text": "arteria cerebral anterior",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 689,
+      "end": 714
+    },
+    {
+      "text": "ACA",
+      "type": "ARTERIA",
+      "start": 716,
+      "end": 719
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 721,
+      "end": 730
+    },
+    {
+      "text": "8/10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 906,
+      "end": 910
+    },
+    {
+      "text": "infarto",
+      "type": "PATOLOGIA",
+      "start": 1464,
+      "end": 1471
+    },
+    {
+      "text": "A2",
+      "type": "ARTERIA",
+      "start": 1578,
+      "end": 1580
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 721,
+      "end": 730
+    },
+    {
+      "text": "trombosis arterial aguda",
+      "type": "PATOLOGIA",
+      "start": 2073,
+      "end": 2097
+    },
+    {
+      "text": "No se evidencian signos de hemorragia intracraneal ni hematomas extraaxiales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 539,
+      "end": 615
+    },
+    {
+      "text": "No se identifican hemorragias ni signos de herniación",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2099,
+      "end": 2152
+    }
+  ]
+}

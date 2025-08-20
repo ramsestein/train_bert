@@ -1,0 +1,125 @@
+{
+  "document_id": "informe_sintetico_20250804195045_19259",
+  "entities": [
+    {
+      "text": "patología aguda",
+      "type": "PATOLOGIA",
+      "start": 455,
+      "end": 470
+    },
+    {
+      "text": "ASPECTS",
+      "type": "PUNTUACION_CLINICA",
+      "start": 479,
+      "end": 486
+    },
+    {
+      "text": "10",
+      "type": "MEDIDA",
+      "start": 490,
+      "end": 492
+    },
+    {
+      "text": "infarto reciente",
+      "type": "PATOLOGIA",
+      "start": 534,
+      "end": 550
+    },
+    {
+      "text": "bilateral",
+      "type": "LATERALIDAD",
+      "start": 607,
+      "end": 616
+    },
+    {
+      "text": "atrofia cerebral leve",
+      "type": "PATOLOGIA",
+      "start": 640,
+      "end": 661
+    },
+    {
+      "text": "cambios crónicos",
+      "type": "TEMPORALIDAD",
+      "start": 677,
+      "end": 693
+    },
+    {
+      "text": "edema",
+      "type": "PATOLOGIA",
+      "start": 737,
+      "end": 742
+    },
+    {
+      "text": "morfología y tamaño normales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 779,
+      "end": 807
+    },
+    {
+      "text": "colecciones",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 852,
+      "end": 863
+    },
+    {
+      "text": "hemorragias intra o extraaxiales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 867,
+      "end": 899
+    },
+    {
+      "text": "alteraciones hemodinámicas significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 933,
+      "end": 974
+    },
+    {
+      "text": "permeabilidad y calibre normal de los grandes vasos intracraneales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 993,
+      "end": 1059
+    },
+    {
+      "text": "estenosis ni oclusiones visibles",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1065,
+      "end": 1097
+    },
+    {
+      "text": "signos de calcificación ateromatosa",
+      "type": "PATOLOGIA",
+      "start": 1107,
+      "end": 1142
+    },
+    {
+      "text": "repercusión hemodinámica",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1187,
+      "end": 1211
+    },
+    {
+      "text": "infarto agudo",
+      "type": "PATOLOGIA",
+      "start": 1295,
+      "end": 1308
+    },
+    {
+      "text": "atrofia senil",
+      "type": "PATOLOGIA",
+      "start": 1379,
+      "end": 1392
+    },
+    {
+      "text": "arteriosclerosis incipiente",
+      "type": "PATOLOGIA",
+      "start": 1395,
+      "end": 1422
+    },
+    {
+      "text": "repercusión vascular",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1427,
+      "end": 1447
+    }
+  ]
+}

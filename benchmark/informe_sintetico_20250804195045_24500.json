@@ -1,0 +1,101 @@
+{
+  "document_id": "informe_sintetico_20250804195045_24500",
+  "entities": [
+    {
+      "text": "hemorragia aguda intraventricular",
+      "type": "PATOLOGIA",
+      "start": 502,
+      "end": 535
+    },
+    {
+      "text": "ambos ventrículos laterales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 546,
+      "end": 573
+    },
+    {
+      "text": "tercer y cuarto ventrículo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 578,
+      "end": 604
+    },
+    {
+      "text": "dilatación ventricular",
+      "type": "PATOLOGIA",
+      "start": 882,
+      "end": 904
+    },
+    {
+      "text": "hidrocefalia obstructiva leve",
+      "type": "PATOLOGIA",
+      "start": 919,
+      "end": 948
+    },
+    {
+      "text": "No se identifican fracturas ni hemorragias extraaxiales asociadas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 989,
+      "end": 1054
+    },
+    {
+      "text": "No se evidencian áreas de hipoperfusión cortical ni subcortical significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1243,
+      "end": 1321
+    },
+    {
+      "text": "Volumen cerebral y perfusión conservados en ambos hemisferios",
+      "type": "PATOLOGIA",
+      "start": 1323,
+      "end": 1384
+    },
+    {
+      "text": "No se identifican malformaciones arteriovenosas ni aneurismas evidentes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1410,
+      "end": 1481
+    },
+    {
+      "text": "Arterias cerebrales principales (ACAs, ACMs, ACPs)",
+      "type": "ARTERIA",
+      "start": 1483,
+      "end": 1533
+    },
+    {
+      "text": "sin estenosis ni trombosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1546,
+      "end": 1572
+    },
+    {
+      "text": "Hemorragia intraventricular aguda bilateral",
+      "type": "PATOLOGIA",
+      "start": 1630,
+      "end": 1673
+    },
+    {
+      "text": "signos iniciales de hidrocefalia obstructiva",
+      "type": "PATOLOGIA",
+      "start": 1716,
+      "end": 1760
+    },
+    {
+      "text": "No se visualiza hemorragia parenquimatosa de origen claro",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1762,
+      "end": 1819
+    },
+    {
+      "text": "sin evidencia de isquemia asociada",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1902,
+      "end": 1936
+    },
+    {
+      "text": "TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANGIOTC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 2408,
+      "end": 2475
+    }
+  ]
+}

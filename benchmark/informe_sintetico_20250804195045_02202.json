@@ -1,0 +1,83 @@
+{
+  "document_id": "informe_sintetico_20250804195045_02202",
+  "entities": [
+    {
+      "text": "infarto isquémico reciente",
+      "type": "PATOLOGIA",
+      "start": 586,
+      "end": 612
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 539,
+      "end": 569
+    },
+    {
+      "text": "arteria cerebral media",
+      "type": "ARTERIA",
+      "start": 539,
+      "end": 561
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 562,
+      "end": 569
+    },
+    {
+      "text": "HI2",
+      "type": "PUNTUACION_CLINICA",
+      "start": 760,
+      "end": 763
+    },
+    {
+      "text": "hematomas parenquimatosos pequeños",
+      "type": "PATOLOGIA",
+      "start": 816,
+      "end": 850
+    },
+    {
+      "text": "sin desplazamiento de línea media",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 944,
+      "end": 977
+    },
+    {
+      "text": "No se observan hemorragias en otras localizaciones ni hemorragia subaracnoidea asociada",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 979,
+      "end": 1066
+    },
+    {
+      "text": "isquemia establecida",
+      "type": "PATOLOGIA",
+      "start": 1265,
+      "end": 1285
+    },
+    {
+      "text": "sin estenosis de importancia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1454,
+      "end": 1482
+    },
+    {
+      "text": "transformación hemorrágica tipo HI2",
+      "type": "PATOLOGIA",
+      "start": 728,
+      "end": 763
+    },
+    {
+      "text": "sin efecto de masa significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1680,
+      "end": 1712
+    },
+    {
+      "text": "fase subaguda del evento isquémico hemorrágico",
+      "type": "TEMPORALIDAD",
+      "start": 1787,
+      "end": 1833
+    }
+  ]
+}

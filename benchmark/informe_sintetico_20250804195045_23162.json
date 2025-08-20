@@ -1,0 +1,77 @@
+{
+  "document_id": "informe_sintetico_20250804195045_23162",
+  "entities": [
+    {
+      "text": "hemorragia subaracnoidea",
+      "type": "PATOLOGIA",
+      "start": 276,
+      "end": 300
+    },
+    {
+      "text": "cisternas basales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 575,
+      "end": 592
+    },
+    {
+      "text": "surcos corticales frontales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 594,
+      "end": 621
+    },
+    {
+      "text": "fisuras silvianas bilaterales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 652,
+      "end": 681
+    },
+    {
+      "text": "No se observan hematomas intraparenquimatosos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 683,
+      "end": 728
+    },
+    {
+      "text": "No se identifican signos de lesión isquémica aguda",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 899,
+      "end": 949
+    },
+    {
+      "text": "No se detectan zonas con disminución significativa del flujo cerebral",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1065,
+      "end": 1134
+    },
+    {
+      "text": "aneurisma sacular",
+      "type": "PATOLOGIA",
+      "start": 1228,
+      "end": 1245
+    },
+    {
+      "text": "arteria carótida interna izquierda",
+      "type": "ARTERIA",
+      "start": 1281,
+      "end": 1315
+    },
+    {
+      "text": "diámetro aproximado de 6 mm",
+      "type": "MEDIDA",
+      "start": 1321,
+      "end": 1348
+    },
+    {
+      "text": "sin hematomas intraparenquimatosos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1688,
+      "end": 1722
+    },
+    {
+      "text": "sin evidencia de infarto o vasoespasmo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1888,
+      "end": 1926
+    }
+  ]
+}

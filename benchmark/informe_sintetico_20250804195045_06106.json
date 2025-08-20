@@ -1,0 +1,137 @@
+{
+  "document_id": "informe_sintetico_20250804195045_06106",
+  "entities": [
+    {
+      "text": "hemiparesia derecha",
+      "type": "PATOLOGIA",
+      "start": 217,
+      "end": 236
+    },
+    {
+      "text": "afasia",
+      "type": "PATOLOGIA",
+      "start": 239,
+      "end": 245
+    },
+    {
+      "text": "2 horas",
+      "type": "TEMPORALIDAD",
+      "start": 285,
+      "end": 292
+    },
+    {
+      "text": "evento isquémico",
+      "type": "PATOLOGIA",
+      "start": 314,
+      "end": 330
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "ARTERIA",
+      "start": 348,
+      "end": 380
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 401,
+      "end": 417
+    },
+    {
+      "text": "No se identifican signos de hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 575,
+      "end": 626
+    },
+    {
+      "text": "sin evidencia de márgenes de isquemia establecidos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 696,
+      "end": 746
+    },
+    {
+      "text": "ASPECTS 9/10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 825,
+      "end": 837
+    },
+    {
+      "text": "Disminución del flujo sanguíneo cerebral (CBF)",
+      "type": "PATOLOGIA",
+      "start": 913,
+      "end": 959
+    },
+    {
+      "text": "territorio superficial izquierdo de la arteria cerebral media",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1005,
+      "end": 1066
+    },
+    {
+      "text": "aumento del tiempo de tránsito medio (MTT)",
+      "type": "PATOLOGIA",
+      "start": 1078,
+      "end": 1120
+    },
+    {
+      "text": "retraso en el tiempo hasta el pico (TTP)",
+      "type": "PATOLOGIA",
+      "start": 1123,
+      "end": 1163
+    },
+    {
+      "text": "área en penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1179,
+      "end": 1205
+    },
+    {
+      "text": "caída marcada de CBF y CBV compatible con núcleo isquémico incipiente",
+      "type": "PATOLOGIA",
+      "start": 1224,
+      "end": 1293
+    },
+    {
+      "text": "Oclusión completa de la arteria cerebral media izquierda en su segmento M1 proximal",
+      "type": "PATOLOGIA",
+      "start": 1323,
+      "end": 1406
+    },
+    {
+      "text": "No se evidencian estenosis ni placas ateromatosas significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1408,
+      "end": 1472
+    },
+    {
+      "text": "Arterias vertebrales y basilar permeables",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1514,
+      "end": 1555
+    },
+    {
+      "text": "Isquemia aguda en territorio de la arteria cerebral media izquierda",
+      "type": "PATOLOGIA",
+      "start": 1585,
+      "end": 1652
+    },
+    {
+      "text": "oclusión proximal de segmento M1",
+      "type": "PATOLOGIA",
+      "start": 1657,
+      "end": 1689
+    },
+    {
+      "text": "ASPECTS 9/10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 825,
+      "end": 837
+    },
+    {
+      "text": "No hemorragia intraparenquimatosa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1774,
+      "end": 1807
+    }
+  ]
+}

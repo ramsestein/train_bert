@@ -1,0 +1,89 @@
+{
+  "document_id": "informe_sintetico_20250804195045_17314",
+  "entities": [
+    {
+      "text": "infarto cerebral isquémico agudo",
+      "type": "PATOLOGIA",
+      "start": 194,
+      "end": 226
+    },
+    {
+      "text": "focalidad motora derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 274,
+      "end": 298
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "ARTERIA",
+      "start": 520,
+      "end": 552
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 543,
+      "end": 552
+    },
+    {
+      "text": "30%",
+      "type": "MEDIDA",
+      "start": 693,
+      "end": 696
+    },
+    {
+      "text": "agudo",
+      "type": "TEMPORALIDAD",
+      "start": 221,
+      "end": 226
+    },
+    {
+      "text": "PH2",
+      "type": "PUNTUACION_CLINICA",
+      "start": 636,
+      "end": 639
+    },
+    {
+      "text": "TC craneal basal urgente",
+      "type": "TECNICA_IMAGEN",
+      "start": 319,
+      "end": 343
+    },
+    {
+      "text": "No se observan hemorragias subaracnoideas ni hematomas subdurales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 798,
+      "end": 863
+    },
+    {
+      "text": "Occlusión de segmento proximal de la arteria cerebral media izquierda",
+      "type": "PATOLOGIA",
+      "start": 1264,
+      "end": 1333
+    },
+    {
+      "text": "sin estenosis significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1377,
+      "end": 1405
+    },
+    {
+      "text": "disminuido",
+      "type": "MEDIDA",
+      "start": 1443,
+      "end": 1453
+    },
+    {
+      "text": "Transformación hemorrágica extensa tipo PH2 sobre infarto cerebral agudo en territorio de la arteria cerebral media izquierda",
+      "type": "PATOLOGIA",
+      "start": 1542,
+      "end": 1667
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 543,
+      "end": 552
+    }
+  ]
+}

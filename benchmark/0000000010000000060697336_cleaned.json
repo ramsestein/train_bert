@@ -1,0 +1,149 @@
+{
+  "document_id": "0000000010000000060697336_cleaned",
+  "entities": [
+    {
+      "text": "hemorragia aguda",
+      "type": "PATOLOGIA",
+      "start": 275,
+      "end": 291
+    },
+    {
+      "text": "lesiones isquémicas parenquimatosas subagudas",
+      "type": "PATOLOGIA",
+      "start": 327,
+      "end": 372
+    },
+    {
+      "text": "lesiones isquemicas crónicas",
+      "type": "PATOLOGIA",
+      "start": 382,
+      "end": 410
+    },
+    {
+      "text": "hipodensidad",
+      "type": "PATOLOGIA",
+      "start": 419,
+      "end": 431
+    },
+    {
+      "text": "enfermedad crónica de pequeño vaso",
+      "type": "PATOLOGIA",
+      "start": 541,
+      "end": 575
+    },
+    {
+      "text": "pérdida de volumen encefálico",
+      "type": "PATOLOGIA",
+      "start": 596,
+      "end": 625
+    },
+    {
+      "text": "infarto lacunar agudo",
+      "type": "PATOLOGIA",
+      "start": 962,
+      "end": 983
+    },
+    {
+      "text": "ACAs",
+      "type": "ARTERIA",
+      "start": 1131,
+      "end": 1135
+    },
+    {
+      "text": "ACMs",
+      "type": "ARTERIA",
+      "start": 1137,
+      "end": 1141
+    },
+    {
+      "text": "ACPs",
+      "type": "ARTERIA",
+      "start": 1144,
+      "end": 1148
+    },
+    {
+      "text": "ateromatosis",
+      "type": "PATOLOGIA",
+      "start": 1290,
+      "end": 1302
+    },
+    {
+      "text": "ambas bifurcaciones",
+      "type": "LATERALIDAD",
+      "start": 1394,
+      "end": 1413
+    },
+    {
+      "text": "sin signos de estenosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1151,
+      "end": 1174
+    },
+    {
+      "text": "sin ateromatosis ni signos de estenosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1471,
+      "end": 1510
+    },
+    {
+      "text": "sin alteraciones significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1764,
+      "end": 1795
+    },
+    {
+      "text": "centromesencefálica",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 840,
+      "end": 859
+    },
+    {
+      "text": "mesencéfalo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 449,
+      "end": 460
+    },
+    {
+      "text": "sustancia blanca periventricular y subcortical",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 478,
+      "end": 524
+    },
+    {
+      "text": "sistema ventricular",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 646,
+      "end": 665
+    },
+    {
+      "text": "TC PERFUSIÓN",
+      "type": "TECNICA_IMAGEN",
+      "start": 791,
+      "end": 803
+    },
+    {
+      "text": "ANGIO-TC EXTRA E INTRACRANEAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 1013,
+      "end": 1042
+    },
+    {
+      "text": "TC CRANEAL BASAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 232,
+      "end": 248
+    },
+    {
+      "text": "TC CODIGO ICTUS",
+      "type": "TECNICA_IMAGEN",
+      "start": 72,
+      "end": 87
+    },
+    {
+      "text": "TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANG IOTC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 72,
+      "end": 140
+    }
+  ]
+}

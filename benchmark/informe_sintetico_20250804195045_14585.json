@@ -1,0 +1,143 @@
+{
+  "document_id": "informe_sintetico_20250804195045_14585",
+  "entities": [
+    {
+      "text": "hemorragia aguda",
+      "type": "PATOLOGIA",
+      "start": 405,
+      "end": 421
+    },
+    {
+      "text": "área isquémica reciente",
+      "type": "PATOLOGIA",
+      "start": 425,
+      "end": 448
+    },
+    {
+      "text": "ASPECTS 10/10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 542,
+      "end": 555
+    },
+    {
+      "text": "lesiones expansivas",
+      "type": "PATOLOGIA",
+      "start": 572,
+      "end": 591
+    },
+    {
+      "text": "edema cerebral",
+      "type": "PATOLOGIA",
+      "start": 595,
+      "end": 609
+    },
+    {
+      "text": "cambios crónicos inespecíficos",
+      "type": "PATOLOGIA",
+      "start": 770,
+      "end": 800
+    },
+    {
+      "text": "hipertensión intracraneal",
+      "type": "PATOLOGIA",
+      "start": 723,
+      "end": 748
+    },
+    {
+      "text": "hipoperfusión",
+      "type": "PATOLOGIA",
+      "start": 1022,
+      "end": 1035
+    },
+    {
+      "text": "mismatches significativos",
+      "type": "PATOLOGIA",
+      "start": 1039,
+      "end": 1064
+    },
+    {
+      "text": "estenosis",
+      "type": "PATOLOGIA",
+      "start": 1185,
+      "end": 1194
+    },
+    {
+      "text": "oclusiones",
+      "type": "PATOLOGIA",
+      "start": 1198,
+      "end": 1208
+    },
+    {
+      "text": "aneurismas",
+      "type": "PATOLOGIA",
+      "start": 1227,
+      "end": 1237
+    },
+    {
+      "text": "malformaciones vasculares",
+      "type": "PATOLOGIA",
+      "start": 1241,
+      "end": 1266
+    },
+    {
+      "text": "calcificaciones arteriales mínimas",
+      "type": "PATOLOGIA",
+      "start": 1281,
+      "end": 1315
+    },
+    {
+      "text": "hallazgos agudos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1378,
+      "end": 1394
+    },
+    {
+      "text": "signos radiológicos de ictus",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1399,
+      "end": 1427
+    },
+    {
+      "text": "hemorragia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 405,
+      "end": 415
+    },
+    {
+      "text": "áreas de hipoperfusión",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1473,
+      "end": 1495
+    },
+    {
+      "text": "alteraciones significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1547,
+      "end": 1574
+    },
+    {
+      "text": "relevancia clínica",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1604,
+      "end": 1622
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 247,
+      "end": 263
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 279,
+      "end": 300
+    },
+    {
+      "text": "angio-TC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 303,
+      "end": 333
+    }
+  ]
+}

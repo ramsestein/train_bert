@@ -1,0 +1,161 @@
+{
+  "document_id": "informe_sintetico_20250804195045_03569",
+  "entities": [
+    {
+      "text": "hemiparesia derecha",
+      "type": "PATOLOGIA",
+      "start": 199,
+      "end": 218
+    },
+    {
+      "text": "afasia",
+      "type": "PATOLOGIA",
+      "start": 221,
+      "end": 227
+    },
+    {
+      "text": "ictus isquémico",
+      "type": "PATOLOGIA",
+      "start": 263,
+      "end": 278
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 488,
+      "end": 511
+    },
+    {
+      "text": "efecto de masa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 515,
+      "end": 529
+    },
+    {
+      "text": "infarto establecido",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 599,
+      "end": 618
+    },
+    {
+      "text": "ASPECTS 9",
+      "type": "PUNTUACION_CLINICA",
+      "start": 620,
+      "end": 629
+    },
+    {
+      "text": "edema cerebral significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 635,
+      "end": 663
+    },
+    {
+      "text": "Línea media centrada",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 665,
+      "end": 685
+    },
+    {
+      "text": "prolongación del tiempo de tránsito medio (TTM)",
+      "type": "PATOLOGIA",
+      "start": 802,
+      "end": 849
+    },
+    {
+      "text": "disminución del flujo cerebral (CBF)",
+      "type": "PATOLOGIA",
+      "start": 852,
+      "end": 888
+    },
+    {
+      "text": "territorio cortical distal de la arteria cerebral media izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 892,
+      "end": 957
+    },
+    {
+      "text": "segmentos M2/M3",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 980,
+      "end": 995
+    },
+    {
+      "text": "reducción marcada del volumen cerebral periférico",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1001,
+      "end": 1050
+    },
+    {
+      "text": "CBV preservado",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1052,
+      "end": 1066
+    },
+    {
+      "text": "patrón compatible con penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1069,
+      "end": 1109
+    },
+    {
+      "text": "ausencia de repleción evidente en su trayecto terminal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1224,
+      "end": 1278
+    },
+    {
+      "text": "Resto de arterias intracraneales, incluyendo ACAs y ACPs, permeables sin signos de estenosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1280,
+      "end": 1372
+    },
+    {
+      "text": "arterias carótidas y vertebrales sin estenosis significativas ni placas inestables",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1457,
+      "end": 1539
+    },
+    {
+      "text": "oclusión aguda en segmento distal M2 de la arteria cerebral media izquierda",
+      "type": "PATOLOGIA",
+      "start": 1591,
+      "end": 1666
+    },
+    {
+      "text": "isquemia cortical inicial limitada",
+      "type": "PATOLOGIA",
+      "start": 1676,
+      "end": 1710
+    },
+    {
+      "text": "ASPECTS 9",
+      "type": "PUNTUACION_CLINICA",
+      "start": 620,
+      "end": 629
+    },
+    {
+      "text": "presencia de penumbra isquémica identificada en mapas de perfusión",
+      "type": "PATOLOGIA",
+      "start": 1727,
+      "end": 1793
+    },
+    {
+      "text": "No hemorragia intra o extraaxial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1795,
+      "end": 1827
+    },
+    {
+      "text": "Resto del sistema vascular intracraneal permeable",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1829,
+      "end": 1878
+    },
+    {
+      "text": "TC CODIGO ICTUS (PERFUSIÓN CEREBRAL + ANGIO-TC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 72,
+      "end": 141
+    }
+  ]
+}

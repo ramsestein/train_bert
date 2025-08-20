@@ -1,0 +1,77 @@
+{
+  "document_id": "informe_sintetico_20250804195045_13270",
+  "entities": [
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 251,
+      "end": 265
+    },
+    {
+      "text": "arteria cerebral anterior izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 602,
+      "end": 637
+    },
+    {
+      "text": "arteria cerebral anterior",
+      "type": "ARTERIA",
+      "start": 602,
+      "end": 627
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 628,
+      "end": 637
+    },
+    {
+      "text": "TTP",
+      "type": "MEDIDA",
+      "start": 387,
+      "end": 390
+    },
+    {
+      "text": "CBF",
+      "type": "MEDIDA",
+      "start": 397,
+      "end": 400
+    },
+    {
+      "text": "CBV",
+      "type": "MEDIDA",
+      "start": 392,
+      "end": 395
+    },
+    {
+      "text": "A2",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1399,
+      "end": 1401
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 628,
+      "end": 637
+    },
+    {
+      "text": "sin alteraciones",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 872,
+      "end": 888
+    },
+    {
+      "text": "no evidenciadas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1452,
+      "end": 1467
+    },
+    {
+      "text": "sin signos de estenosis ni oclusión",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1507,
+      "end": 1542
+    }
+  ]
+}

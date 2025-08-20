@@ -1,0 +1,65 @@
+{
+  "document_id": "informe_sintetico_20250804195045_20476",
+  "entities": [
+    {
+      "text": "bilaterales",
+      "type": "LATERALIDAD",
+      "start": 410,
+      "end": 421
+    },
+    {
+      "text": "sustancia blanca occipital y parietal posterior",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 452,
+      "end": 499
+    },
+    {
+      "text": "No se observan hemorragias",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 555,
+      "end": 581
+    },
+    {
+      "text": "No se observan defectos de llenado",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1151,
+      "end": 1185
+    },
+    {
+      "text": "leucoencefalopatía posterior reversible (PRES)",
+      "type": "PATOLOGIA",
+      "start": 1265,
+      "end": 1311
+    },
+    {
+      "text": "edema vasogénico bilateral en regiones occipitales y parietales posteriores",
+      "type": "PATOLOGIA",
+      "start": 1317,
+      "end": 1392
+    },
+    {
+      "text": "sin evidencia de infarto ni hemorragia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1394,
+      "end": 1432
+    },
+    {
+      "text": "TC CRANEAL BASAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 371,
+      "end": 387
+    },
+    {
+      "text": "TC PERFUSIÓN",
+      "type": "TECNICA_IMAGEN",
+      "start": 767,
+      "end": 779
+    },
+    {
+      "text": "angio-TC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 306,
+      "end": 336
+    }
+  ]
+}

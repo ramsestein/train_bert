@@ -1,0 +1,113 @@
+{
+  "document_id": "informe_sintetico_20250804195045_08139",
+  "entities": [
+    {
+      "text": "isquemia vertebrobasilar aguda",
+      "type": "PATOLOGIA",
+      "start": 298,
+      "end": 328
+    },
+    {
+      "text": "isquemia tisular",
+      "type": "PATOLOGIA",
+      "start": 1279,
+      "end": 1295
+    },
+    {
+      "text": "penumbra",
+      "type": "PATOLOGIA",
+      "start": 1308,
+      "end": 1316
+    },
+    {
+      "text": "Oclusión o estenosis severa (>90%) del segmento V4 de arteria vertebral derecha",
+      "type": "PATOLOGIA",
+      "start": 1438,
+      "end": 1517
+    },
+    {
+      "text": "arteria vertebral derecha",
+      "type": "ARTERIA",
+      "start": 1492,
+      "end": 1517
+    },
+    {
+      "text": "arteria basilar",
+      "type": "ARTERIA",
+      "start": 1558,
+      "end": 1573
+    },
+    {
+      "text": "arteria vertebral izquierda",
+      "type": "ARTERIA",
+      "start": 1668,
+      "end": 1695
+    },
+    {
+      "text": "territorio vertebrobasilar",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1004,
+      "end": 1030
+    },
+    {
+      "text": "tronco encefálico",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 675,
+      "end": 692
+    },
+    {
+      "text": "cerebelo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 662,
+      "end": 670
+    },
+    {
+      "text": "bilaterales",
+      "type": "LATERALIDAD",
+      "start": 1158,
+      "end": 1169
+    },
+    {
+      "text": "24-48 horas",
+      "type": "MEDIDA",
+      "start": 2523,
+      "end": 2534
+    },
+    {
+      "text": "aguda",
+      "type": "TEMPORALIDAD",
+      "start": 323,
+      "end": 328
+    },
+    {
+      "text": "No se evidencian hemorragias intra ni extraaxiales.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 490,
+      "end": 541
+    },
+    {
+      "text": "No hay evidencia de hemorragia intracraneal.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2217,
+      "end": 2261
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 349,
+      "end": 365
+    },
+    {
+      "text": "angio-TC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 368,
+      "end": 398
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 401,
+      "end": 422
+    }
+  ]
+}

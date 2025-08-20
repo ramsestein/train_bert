@@ -1,0 +1,77 @@
+{
+  "document_id": "informe_sintetico_20250804195045_00604",
+  "entities": [
+    {
+      "text": "infarto lacunar agudo",
+      "type": "PATOLOGIA",
+      "start": 700,
+      "end": 721
+    },
+    {
+      "text": "núcleo lenticular derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 588,
+      "end": 613
+    },
+    {
+      "text": "8 mm",
+      "type": "MEDIDA",
+      "start": 680,
+      "end": 684
+    },
+    {
+      "text": "agudo",
+      "type": "TEMPORALIDAD",
+      "start": 716,
+      "end": 721
+    },
+    {
+      "text": "TTP",
+      "type": "TECNICA_IMAGEN",
+      "start": 931,
+      "end": 934
+    },
+    {
+      "text": "CBV",
+      "type": "TECNICA_IMAGEN",
+      "start": 981,
+      "end": 984
+    },
+    {
+      "text": "CBF",
+      "type": "TECNICA_IMAGEN",
+      "start": 1073,
+      "end": 1076
+    },
+    {
+      "text": "ACAs, ACMs y ACPs",
+      "type": "ARTERIA",
+      "start": 1232,
+      "end": 1249
+    },
+    {
+      "text": "sin signos de hemorragia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2011,
+      "end": 2035
+    },
+    {
+      "text": "sin estenosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1251,
+      "end": 1264
+    },
+    {
+      "text": "sin signos de hemorragia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2011,
+      "end": 2035
+    },
+    {
+      "text": "sin estenosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1251,
+      "end": 1264
+    }
+  ]
+}

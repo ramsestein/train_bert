@@ -1,0 +1,59 @@
+{
+  "document_id": "informe_sintetico_20250804195045_02059",
+  "entities": [
+    {
+      "text": "infarto lacunar",
+      "type": "PATOLOGIA",
+      "start": 224,
+      "end": 239
+    },
+    {
+      "text": "cápsula interna derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 530,
+      "end": 553
+    },
+    {
+      "text": "15 mm",
+      "type": "MEDIDA",
+      "start": 567,
+      "end": 572
+    },
+    {
+      "text": "agudo",
+      "type": "TEMPORALIDAD",
+      "start": 605,
+      "end": 610
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 1050,
+      "end": 1064
+    },
+    {
+      "text": "núcleo lenticular derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 825,
+      "end": 850
+    },
+    {
+      "text": "arterias cerebrales medias",
+      "type": "ARTERIA",
+      "start": 1319,
+      "end": 1345
+    },
+    {
+      "text": "sin signos de oclusión",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1243,
+      "end": 1265
+    },
+    {
+      "text": "sin estenosis significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1643,
+      "end": 1670
+    }
+  ]
+}

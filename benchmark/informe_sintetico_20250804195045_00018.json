@@ -1,0 +1,113 @@
+{
+  "document_id": "informe_sintetico_20250804195045_00018",
+  "entities": [
+    {
+      "text": "edema venoso",
+      "type": "PATOLOGIA",
+      "start": 551,
+      "end": 563
+    },
+    {
+      "text": "cisterna supraselar",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 586,
+      "end": 605
+    },
+    {
+      "text": "surcos corticales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 628,
+      "end": 645
+    },
+    {
+      "text": "hemisferio izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 652,
+      "end": 672
+    },
+    {
+      "text": "desplazamiento 3 mm",
+      "type": "MEDIDA",
+      "start": 794,
+      "end": 813
+    },
+    {
+      "text": "hipoperfusión secundaria a compromiso venoso",
+      "type": "PATOLOGIA",
+      "start": 1022,
+      "end": 1066
+    },
+    {
+      "text": "seno longitudinal superior distal",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1223,
+      "end": 1256
+    },
+    {
+      "text": "seno transverso izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1259,
+      "end": 1284
+    },
+    {
+      "text": "trombosis venosa cerebral",
+      "type": "PATOLOGIA",
+      "start": 1300,
+      "end": 1325
+    },
+    {
+      "text": "edema vasogénico",
+      "type": "PATOLOGIA",
+      "start": 1555,
+      "end": 1571
+    },
+    {
+      "text": "región frontoparietal izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 869,
+      "end": 900
+    },
+    {
+      "text": "línea media",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 744,
+      "end": 755
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1663,
+      "end": 1686
+    },
+    {
+      "text": "trombos en senos cavernosos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1342,
+      "end": 1369
+    },
+    {
+      "text": "TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANG IOTC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 72,
+      "end": 140
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 318,
+      "end": 334
+    },
+    {
+      "text": "perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 336,
+      "end": 354
+    },
+    {
+      "text": "angio-TC de territorio venoso y arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 357,
+      "end": 410
+    }
+  ]
+}

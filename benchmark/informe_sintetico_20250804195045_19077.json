@@ -1,0 +1,65 @@
+{
+  "document_id": "informe_sintetico_20250804195045_19077",
+  "entities": [
+    {
+      "text": "infarto lacunar agudo",
+      "type": "PATOLOGIA",
+      "start": 569,
+      "end": 590
+    },
+    {
+      "text": "territorio perforante de la arteria lenticuloestriada izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 440,
+      "end": 503
+    },
+    {
+      "text": "arteria lenticuloestriada",
+      "type": "ARTERIA",
+      "start": 468,
+      "end": 493
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 494,
+      "end": 503
+    },
+    {
+      "text": "8 mm",
+      "type": "MEDIDA",
+      "start": 548,
+      "end": 552
+    },
+    {
+      "text": "agudo",
+      "type": "TEMPORALIDAD",
+      "start": 585,
+      "end": 590
+    },
+    {
+      "text": "sin hemorragia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1847,
+      "end": 1861
+    },
+    {
+      "text": "sin estenosis significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1263,
+      "end": 1291
+    },
+    {
+      "text": "sin desplazamiento de la línea media",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 818,
+      "end": 854
+    },
+    {
+      "text": "TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANG IOTC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 72,
+      "end": 140
+    }
+  ]
+}

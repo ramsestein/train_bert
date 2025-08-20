@@ -1,0 +1,119 @@
+{
+  "document_id": "informe_sintetico_20250804195045_24580",
+  "entities": [
+    {
+      "text": "trombo intraluminal",
+      "type": "PATOLOGIA",
+      "start": 585,
+      "end": 604
+    },
+    {
+      "text": "infarto",
+      "type": "PATOLOGIA",
+      "start": 1309,
+      "end": 1316
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 511,
+      "end": 543
+    },
+    {
+      "text": "núcleo lenticular",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 711,
+      "end": 728
+    },
+    {
+      "text": "corona radiada",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 731,
+      "end": 745
+    },
+    {
+      "text": "segmento M1",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 545,
+      "end": 556
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "ARTERIA",
+      "start": 511,
+      "end": 543
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 534,
+      "end": 543
+    },
+    {
+      "text": "ASPECTS 6",
+      "type": "PUNTUACION_CLINICA",
+      "start": 816,
+      "end": 825
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "TEMPORALIDAD",
+      "start": 2004,
+      "end": 2018
+    },
+    {
+      "text": "Oclusión completa",
+      "type": "PATOLOGIA",
+      "start": 1376,
+      "end": 1393
+    },
+    {
+      "text": "Oclusión proximal",
+      "type": "PATOLOGIA",
+      "start": 1730,
+      "end": 1747
+    },
+    {
+      "text": "penumbra isquémica significativa",
+      "type": "PATOLOGIA",
+      "start": 1866,
+      "end": 1898
+    },
+    {
+      "text": "No se evidencian imágenes de sangrado intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 827,
+      "end": 877
+    },
+    {
+      "text": "No signos de hemorragia ni complicaciones adicionales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1926,
+      "end": 1979
+    },
+    {
+      "text": "Sistema ventricular no dilatado",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 933,
+      "end": 964
+    },
+    {
+      "text": "Cisternas basales libres",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 966,
+      "end": 990
+    },
+    {
+      "text": "troncos supraaórticos",
+      "type": "ARTERIA",
+      "start": 1572,
+      "end": 1593
+    },
+    {
+      "text": "sin signos de estenosis crítica o placas ulceradas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1594,
+      "end": 1644
+    }
+  ]
+}

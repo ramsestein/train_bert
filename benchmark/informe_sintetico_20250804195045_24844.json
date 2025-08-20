@@ -1,0 +1,77 @@
+{
+  "document_id": "informe_sintetico_20250804195045_24844",
+  "entities": [
+    {
+      "text": "infarto lacunar agudo",
+      "type": "PATOLOGIA",
+      "start": 1316,
+      "end": 1337
+    },
+    {
+      "text": "cápsula interna izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 751,
+      "end": 776
+    },
+    {
+      "text": "arteria cerebral media",
+      "type": "ARTERIA",
+      "start": 824,
+      "end": 846
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 767,
+      "end": 776
+    },
+    {
+      "text": "7 mm",
+      "type": "MEDIDA",
+      "start": 740,
+      "end": 744
+    },
+    {
+      "text": "agudo",
+      "type": "TEMPORALIDAD",
+      "start": 388,
+      "end": 393
+    },
+    {
+      "text": "No se observan signos de hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 848,
+      "end": 896
+    },
+    {
+      "text": "sin estenosis ni oclusiones de calibre significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1405,
+      "end": 1457
+    },
+    {
+      "text": "sin obstrucciones mayores",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1865,
+      "end": 1890
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 460,
+      "end": 476
+    },
+    {
+      "text": "estudio de perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 492,
+      "end": 521
+    },
+    {
+      "text": "Angio-TC arterial intra y extracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 547,
+      "end": 585
+    }
+  ]
+}

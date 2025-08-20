@@ -1,0 +1,101 @@
+{
+  "document_id": "informe_sintetico_20250804195045_07258",
+  "entities": [
+    {
+      "text": "ictus isquémico",
+      "type": "PATOLOGIA",
+      "start": 223,
+      "end": 238
+    },
+    {
+      "text": "edema citotóxico precoz",
+      "type": "PATOLOGIA",
+      "start": 634,
+      "end": 657
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 1620,
+      "end": 1634
+    },
+    {
+      "text": "infarto incipiente",
+      "type": "PATOLOGIA",
+      "start": 1728,
+      "end": 1746
+    },
+    {
+      "text": "arteria cerebral anterior",
+      "type": "ARTERIA",
+      "start": 915,
+      "end": 940
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 947,
+      "end": 956
+    },
+    {
+      "text": "A2",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1378,
+      "end": 1380
+    },
+    {
+      "text": "marcada reducción",
+      "type": "PATOLOGIA",
+      "start": 874,
+      "end": 891
+    },
+    {
+      "text": "zona de penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1215,
+      "end": 1241
+    },
+    {
+      "text": "sin evidencias de estenosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1391,
+      "end": 1418
+    },
+    {
+      "text": "sin signos de hemorragia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1747,
+      "end": 1771
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 304,
+      "end": 320
+    },
+    {
+      "text": "perfusión cerebral dinámica",
+      "type": "TECNICA_IMAGEN",
+      "start": 336,
+      "end": 363
+    },
+    {
+      "text": "Angio-TC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 366,
+      "end": 396
+    },
+    {
+      "text": "agudo",
+      "type": "TEMPORALIDAD",
+      "start": 180,
+      "end": 185
+    },
+    {
+      "text": "prolongados",
+      "type": "TEMPORALIDAD",
+      "start": 1191,
+      "end": 1202
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "document_id": "informe_sintetico_20250804195045_15123",
+  "entities": [
+    {
+      "text": "accidente isquémico cerebral",
+      "type": "PATOLOGIA",
+      "start": 314,
+      "end": 342
+    },
+    {
+      "text": "isquemia",
+      "type": "PATOLOGIA",
+      "start": 1863,
+      "end": 1871
+    },
+    {
+      "text": "signo de arteria hiperdensa",
+      "type": "PATOLOGIA",
+      "start": 572,
+      "end": 599
+    },
+    {
+      "text": "hemorragias intra ni extraaxiales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 673,
+      "end": 706
+    },
+    {
+      "text": "territorio superficial de la ACM izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 760,
+      "end": 802
+    },
+    {
+      "text": "ASPECTS 6",
+      "type": "PUNTUACION_CLINICA",
+      "start": 804,
+      "end": 813
+    },
+    {
+      "text": "segmento M1 de la arteria cerebral media izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 606,
+      "end": 656
+    },
+    {
+      "text": "Oclusión completa del segmento proximal M1 de la arteria cerebral media izquierda",
+      "type": "PATOLOGIA",
+      "start": 1344,
+      "end": 1425
+    },
+    {
+      "text": "Oclusión aguda",
+      "type": "TEMPORALIDAD",
+      "start": 1790,
+      "end": 1804
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 2044,
+      "end": 2058
+    },
+    {
+      "text": "No se observa hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1979,
+      "end": 2016
+    },
+    {
+      "text": "zona congruente",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1207,
+      "end": 1222
+    },
+    {
+      "text": "territorio superficial de la ACM izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 760,
+      "end": 802
+    },
+    {
+      "text": "sin repercusión hemodinámica",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1735,
+      "end": 1763
+    },
+    {
+      "text": "TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANG IOTC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 72,
+      "end": 140
+    }
+  ]
+}

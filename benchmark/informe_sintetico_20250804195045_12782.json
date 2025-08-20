@@ -1,0 +1,107 @@
+{
+  "document_id": "informe_sintetico_20250804195045_12782",
+  "entities": [
+    {
+      "text": "infarto isquémico subagudo reciente",
+      "type": "PATOLOGIA",
+      "start": 555,
+      "end": 590
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "ARTERIA",
+      "start": 509,
+      "end": 539
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 532,
+      "end": 539
+    },
+    {
+      "text": "múltiples focos hiperdensos puntiformes y en parche",
+      "type": "PATOLOGIA",
+      "start": 622,
+      "end": 673
+    },
+    {
+      "text": "transformación hemorrágica grado PH1",
+      "type": "PATOLOGIA",
+      "start": 747,
+      "end": 783
+    },
+    {
+      "text": "No se evidencia hematoma voluminoso ni efecto masa significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 811,
+      "end": 875
+    },
+    {
+      "text": "No hay evidencia de hemorragia subaracnoidea ni hematomas extraaxiales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 914,
+      "end": 984
+    },
+    {
+      "text": "reducción moderada del volumen cerebral (CBV)",
+      "type": "PATOLOGIA",
+      "start": 1012,
+      "end": 1057
+    },
+    {
+      "text": "flujo sanguíneo cerebral (CBF)",
+      "type": "PATOLOGIA",
+      "start": 1060,
+      "end": 1090
+    },
+    {
+      "text": "incremento del tiempo de tránsito medio (MTT)",
+      "type": "PATOLOGIA",
+      "start": 1117,
+      "end": 1162
+    },
+    {
+      "text": "Oclusión segmentaria proximal de la arteria cerebral media derecha",
+      "type": "PATOLOGIA",
+      "start": 1300,
+      "end": 1366
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 532,
+      "end": 539
+    },
+    {
+      "text": "No se identifican aneurismas ni malformaciones vasculares",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1471,
+      "end": 1528
+    },
+    {
+      "text": "Infarto isquémico en territorio de ACM derecha con transformación hemorrágica grado PH1",
+      "type": "PATOLOGIA",
+      "start": 1555,
+      "end": 1642
+    },
+    {
+      "text": "Oclusión proximal de ACM derecha persistente",
+      "type": "PATOLOGIA",
+      "start": 1707,
+      "end": 1751
+    },
+    {
+      "text": "No se evidencian complicaciones hemorrágicas mayores ni efecto masa relevante",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1755,
+      "end": 1832
+    },
+    {
+      "text": "TC craneal urgente con perfusión cerebral y angio-TC de arterias intra y extracraneales",
+      "type": "TECNICA_IMAGEN",
+      "start": 305,
+      "end": 392
+    }
+  ]
+}

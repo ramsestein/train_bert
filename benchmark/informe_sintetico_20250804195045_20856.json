@@ -1,0 +1,209 @@
+{
+  "document_id": "informe_sintetico_20250804195045_20856",
+  "entities": [
+    {
+      "text": "ictus isquémico",
+      "type": "PATOLOGIA",
+      "start": 209,
+      "end": 224
+    },
+    {
+      "text": "arteria hiperdensa en segmento proximal M1 de arteria cerebral media derecha",
+      "type": "PATOLOGIA",
+      "start": 460,
+      "end": 536
+    },
+    {
+      "text": "trombo oclusivo",
+      "type": "PATOLOGIA",
+      "start": 552,
+      "end": 567
+    },
+    {
+      "text": "Hipodensidad cortical en territorio superficial y profundo de ACM derecha",
+      "type": "PATOLOGIA",
+      "start": 569,
+      "end": 642
+    },
+    {
+      "text": "núcleo lenticular",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 655,
+      "end": 672
+    },
+    {
+      "text": "región opercular",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 675,
+      "end": 691
+    },
+    {
+      "text": "ASPECTS 6",
+      "type": "PUNTUACION_CLINICA",
+      "start": 697,
+      "end": 706
+    },
+    {
+      "text": "hemorragia intra ni extraaxial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 725,
+      "end": 755
+    },
+    {
+      "text": "edema citotóxico avanzado",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 850,
+      "end": 875
+    },
+    {
+      "text": "efecto masa significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 879,
+      "end": 904
+    },
+    {
+      "text": "Línea media centrada",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 906,
+      "end": 926
+    },
+    {
+      "text": "Cisternas basales libres",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 928,
+      "end": 952
+    },
+    {
+      "text": "Sistema ventricular en rango normal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 954,
+      "end": 989
+    },
+    {
+      "text": "disminución del flujo cerebral (CBF)",
+      "type": "PATOLOGIA",
+      "start": 1024,
+      "end": 1060
+    },
+    {
+      "text": "volumen cerebral (CBV)",
+      "type": "PATOLOGIA",
+      "start": 1063,
+      "end": 1085
+    },
+    {
+      "text": "territorio derecho de ACM proximal",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1089,
+      "end": 1123
+    },
+    {
+      "text": "tiempos de tránsito (TTP y MTT)",
+      "type": "PATOLOGIA",
+      "start": 1148,
+      "end": 1179
+    },
+    {
+      "text": "zona de infarto establecido",
+      "type": "PATOLOGIA",
+      "start": 1207,
+      "end": 1234
+    },
+    {
+      "text": "penumbra isquémica periférica",
+      "type": "PATOLOGIA",
+      "start": 1254,
+      "end": 1283
+    },
+    {
+      "text": "reducción de flujo",
+      "type": "PATOLOGIA",
+      "start": 1288,
+      "end": 1306
+    },
+    {
+      "text": "preservación parcial de volumen",
+      "type": "PATOLOGIA",
+      "start": 1312,
+      "end": 1343
+    },
+    {
+      "text": "Oclusión completa del segmento M1 proximal derecho",
+      "type": "PATOLOGIA",
+      "start": 1382,
+      "end": 1432
+    },
+    {
+      "text": "repleción distal en ramas M2 y M3",
+      "type": "PATOLOGIA",
+      "start": 1450,
+      "end": 1483
+    },
+    {
+      "text": "Arterias intracraneales izquierdas permeables sin estenosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1502,
+      "end": 1561
+    },
+    {
+      "text": "Arco aórtico y troncos supraórticos sin estenosis significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1563,
+      "end": 1627
+    },
+    {
+      "text": "Arterias carótidas comunes y bifurcaciones sin placas de ateroma obstructivas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1629,
+      "end": 1706
+    },
+    {
+      "text": "signos de disección o aneurismas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1720,
+      "end": 1752
+    },
+    {
+      "text": "Oclusión aguda del segmento proximal M1 de la arteria cerebral media derecha",
+      "type": "PATOLOGIA",
+      "start": 1779,
+      "end": 1855
+    },
+    {
+      "text": "ASPECTS 6",
+      "type": "PUNTUACION_CLINICA",
+      "start": 697,
+      "end": 706
+    },
+    {
+      "text": "Área de infarto establecido en territorio profundo y superficial derecho",
+      "type": "PATOLOGIA",
+      "start": 1871,
+      "end": 1943
+    },
+    {
+      "text": "extensa penumbra isquémica circundante",
+      "type": "PATOLOGIA",
+      "start": 1949,
+      "end": 1987
+    },
+    {
+      "text": "hemorragia asociada",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1992,
+      "end": 2011
+    },
+    {
+      "text": "isquemia aguda por trombosis arterial",
+      "type": "PATOLOGIA",
+      "start": 2039,
+      "end": 2076
+    },
+    {
+      "text": "valoración urgente para tratamiento endovascular y apoyo neurológico",
+      "type": "PATOLOGIA",
+      "start": 2087,
+      "end": 2155
+    }
+  ]
+}

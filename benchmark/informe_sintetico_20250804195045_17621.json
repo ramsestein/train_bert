@@ -1,0 +1,125 @@
+{
+  "document_id": "informe_sintetico_20250804195045_17621",
+  "entities": [
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 247,
+      "end": 261
+    },
+    {
+      "text": "arteria cerebral posterior",
+      "type": "ARTERIA",
+      "start": 279,
+      "end": 305
+    },
+    {
+      "text": "hemiparesia derecha",
+      "type": "PATOLOGIA",
+      "start": 197,
+      "end": 216
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 612,
+      "end": 621
+    },
+    {
+      "text": "hipodensidad cortical",
+      "type": "PATOLOGIA",
+      "start": 563,
+      "end": 584
+    },
+    {
+      "text": "región occipitotemporal izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 588,
+      "end": 621
+    },
+    {
+      "text": "ASPECTS no aplicable",
+      "type": "PUNTUACION_CLINICA",
+      "start": 727,
+      "end": 747
+    },
+    {
+      "text": "territorio occipital izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 942,
+      "end": 972
+    },
+    {
+      "text": "disminución del flujo cerebral",
+      "type": "PATOLOGIA",
+      "start": 978,
+      "end": 1008
+    },
+    {
+      "text": "aumento del volumen cerebral",
+      "type": "PATOLOGIA",
+      "start": 1017,
+      "end": 1045
+    },
+    {
+      "text": "penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1098,
+      "end": 1116
+    },
+    {
+      "text": "arteria cerebral posterior izquierda",
+      "type": "ARTERIA",
+      "start": 1200,
+      "end": 1236
+    },
+    {
+      "text": "Oclusión segmentaria proximal",
+      "type": "PATOLOGIA",
+      "start": 1304,
+      "end": 1333
+    },
+    {
+      "text": "segmento proximal de la ACP izquierda",
+      "type": "ARTERIA",
+      "start": 1906,
+      "end": 1943
+    },
+    {
+      "text": "No se evidencian hemorragias",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 500,
+      "end": 528
+    },
+    {
+      "text": "No se observan estenosis significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1507,
+      "end": 1546
+    },
+    {
+      "text": "No se evidencian hemorragias ni signos de reperfusión",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1945,
+      "end": 1998
+    },
+    {
+      "text": "TC Basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 368,
+      "end": 376
+    },
+    {
+      "text": "perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 378,
+      "end": 396
+    },
+    {
+      "text": "angiografía TC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 399,
+      "end": 435
+    }
+  ]
+}

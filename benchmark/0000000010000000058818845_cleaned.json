@@ -1,0 +1,89 @@
+{
+  "document_id": "0000000010000000058818845_cleaned",
+  "entities": [
+    {
+      "text": "hemorragia aguda",
+      "type": "PATOLOGIA",
+      "start": 354,
+      "end": 370
+    },
+    {
+      "text": "lesiones isquémicas agudas",
+      "type": "PATOLOGIA",
+      "start": 394,
+      "end": 420
+    },
+    {
+      "text": "ASPECTS 10/10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 422,
+      "end": 435
+    },
+    {
+      "text": "Parénquima cerebral, cerebeloso y tronco del encéfalo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 437,
+      "end": 490
+    },
+    {
+      "text": "Línea media centrada",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 524,
+      "end": 544
+    },
+    {
+      "text": "Sistema ventricular de morfología y tamaño normales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 545,
+      "end": 596
+    },
+    {
+      "text": "Cisternas basales y peritronculares libres",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 598,
+      "end": 640
+    },
+    {
+      "text": "alteraciones significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 495,
+      "end": 522
+    },
+    {
+      "text": "hemorragicas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1054,
+      "end": 1066
+    },
+    {
+      "text": "signos aguda",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1070,
+      "end": 1082
+    },
+    {
+      "text": "isquémia aguda",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1102,
+      "end": 1116
+    },
+    {
+      "text": "ASPECTS 10/10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 422,
+      "end": 435
+    },
+    {
+      "text": "TC perfusión sin aparentes alteraciones",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1134,
+      "end": 1173
+    },
+    {
+      "text": "AngioTC no realizado",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1212,
+      "end": 1232
+    }
+  ]
+}

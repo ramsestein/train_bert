@@ -1,0 +1,185 @@
+{
+  "document_id": "informe_sintetico_20250804195045_20742",
+  "entities": [
+    {
+      "text": "hemorragia aguda",
+      "type": "PATOLOGIA",
+      "start": 522,
+      "end": 538
+    },
+    {
+      "text": "lesiones isquémicas recientes",
+      "type": "PATOLOGIA",
+      "start": 542,
+      "end": 571
+    },
+    {
+      "text": "infarto agudo",
+      "type": "PATOLOGIA",
+      "start": 688,
+      "end": 701
+    },
+    {
+      "text": "atrofia cerebral de tipo crónico",
+      "type": "PATOLOGIA",
+      "start": 868,
+      "end": 900
+    },
+    {
+      "text": "lesiones expansivas",
+      "type": "PATOLOGIA",
+      "start": 944,
+      "end": 963
+    },
+    {
+      "text": "calcificaciones patológicas",
+      "type": "PATOLOGIA",
+      "start": 1043,
+      "end": 1070
+    },
+    {
+      "text": "alteraciones óseas significativas",
+      "type": "PATOLOGIA",
+      "start": 1074,
+      "end": 1107
+    },
+    {
+      "text": "ateromatosis calcificada bilateral leve",
+      "type": "PATOLOGIA",
+      "start": 1542,
+      "end": 1581
+    },
+    {
+      "text": "cambios arterioescleróticos crónicos de bajo grado",
+      "type": "PATOLOGIA",
+      "start": 1821,
+      "end": 1871
+    },
+    {
+      "text": "patología aguda",
+      "type": "PATOLOGIA",
+      "start": 1966,
+      "end": 1981
+    },
+    {
+      "text": "atrofia cerebral",
+      "type": "PATOLOGIA",
+      "start": 868,
+      "end": 884
+    },
+    {
+      "text": "arterioesclerosis calcificada bilateral no significativa",
+      "type": "PATOLOGIA",
+      "start": 2030,
+      "end": 2086
+    },
+    {
+      "text": "isquemia",
+      "type": "PATOLOGIA",
+      "start": 2128,
+      "end": 2136
+    },
+    {
+      "text": "permeabilidad conservada",
+      "type": "PATOLOGIA",
+      "start": 1769,
+      "end": 1793
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 328,
+      "end": 344
+    },
+    {
+      "text": "estudio de perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 346,
+      "end": 375
+    },
+    {
+      "text": "angio TC extracraneal e intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 378,
+      "end": 414
+    },
+    {
+      "text": "mapas de flujo cerebral (CBF)",
+      "type": "TECNICA_IMAGEN",
+      "start": 1127,
+      "end": 1156
+    },
+    {
+      "text": "volumen cerebral (CBV)",
+      "type": "TECNICA_IMAGEN",
+      "start": 1158,
+      "end": 1180
+    },
+    {
+      "text": "tiempo de tránsito (TTP)",
+      "type": "TECNICA_IMAGEN",
+      "start": 1183,
+      "end": 1207
+    },
+    {
+      "text": "arterias cerebrales (ACAs, ACMs, ACPs)",
+      "type": "ARTERIA",
+      "start": 1627,
+      "end": 1665
+    },
+    {
+      "text": "carótidas comunes",
+      "type": "ARTERIA",
+      "start": 1457,
+      "end": 1474
+    },
+    {
+      "text": "bilateral",
+      "type": "LATERALIDAD",
+      "start": 1567,
+      "end": 1576
+    },
+    {
+      "text": "aguda",
+      "type": "TEMPORALIDAD",
+      "start": 533,
+      "end": 538
+    },
+    {
+      "text": "crónico",
+      "type": "TEMPORALIDAD",
+      "start": 893,
+      "end": 900
+    },
+    {
+      "text": "crónicos",
+      "type": "TEMPORALIDAD",
+      "start": 1849,
+      "end": 1857
+    },
+    {
+      "text": "sin estenosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1383,
+      "end": 1396
+    },
+    {
+      "text": "sin signos de isquemia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2114,
+      "end": 2136
+    },
+    {
+      "text": "sin evidencia de patología aguda",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1949,
+      "end": 1981
+    },
+    {
+      "text": "sin irregularidades sugestivas de estenosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1679,
+      "end": 1722
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "document_id": "informe_sintetico_20250804195045_02717",
+  "entities": [
+    {
+      "text": "infart isquèmic recent",
+      "type": "PATOLOGIA",
+      "start": 539,
+      "end": 561
+    },
+    {
+      "text": "microhemorràgia periinfartual",
+      "type": "PATOLOGIA",
+      "start": 577,
+      "end": 606
+    },
+    {
+      "text": "classificació HI1",
+      "type": "PUNTUACION_CLINICA",
+      "start": 680,
+      "end": 697
+    },
+    {
+      "text": "isquèmia subaguda",
+      "type": "TEMPORALIDAD",
+      "start": 1112,
+      "end": 1129
+    },
+    {
+      "text": "artèria cerebral mitjana dreta",
+      "type": "ARTERIA",
+      "start": 492,
+      "end": 522
+    },
+    {
+      "text": "sense estenosi significativa ni presència d’ateromatosi destacable",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1324,
+      "end": 1390
+    },
+    {
+      "text": "territori de l’artèria cerebral mitjana dreta",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 477,
+      "end": 522
+    },
+    {
+      "text": "territori anterior dreta",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 987,
+      "end": 1011
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "document_id": "informe_sintetico_20250804195045_00138",
+  "entities": [
+    {
+      "text": "área hipodensa",
+      "type": "PATOLOGIA",
+      "start": 432,
+      "end": 446
+    },
+    {
+      "text": "arteria cerebral anterior (ACA) izquierda",
+      "type": "ARTERIA",
+      "start": 493,
+      "end": 534
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 525,
+      "end": 534
+    },
+    {
+      "text": "región medial frontal y paracentral",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 568,
+      "end": 603
+    },
+    {
+      "text": "No se identifican signos de hemorragia intra o extraaxial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 665,
+      "end": 722
+    },
+    {
+      "text": "ASPECTS 9/10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 724,
+      "end": 736
+    },
+    {
+      "text": "prolongación del tiempo hasta el pico (TTP)",
+      "type": "PATOLOGIA",
+      "start": 883,
+      "end": 926
+    },
+    {
+      "text": "reducción del flujo cerebral (CBF)",
+      "type": "PATOLOGIA",
+      "start": 929,
+      "end": 963
+    },
+    {
+      "text": "volumen cerebral (CBV) preservado",
+      "type": "PATOLOGIA",
+      "start": 1015,
+      "end": 1048
+    },
+    {
+      "text": "penumbra isquémica sin infarto establecido",
+      "type": "PATOLOGIA",
+      "start": 1073,
+      "end": 1115
+    },
+    {
+      "text": "mismatch significativo compatible con tejido potencialmente salvable",
+      "type": "PATOLOGIA",
+      "start": 1128,
+      "end": 1196
+    },
+    {
+      "text": "Ausencia de flujo en segmento proximal de la arteria cerebral anterior izquierda (A1)",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1322,
+      "end": 1407
+    },
+    {
+      "text": "sugiriendo oclusión aguda",
+      "type": "PATOLOGIA",
+      "start": 1409,
+      "end": 1434
+    },
+    {
+      "text": "arteria cerebral anterior derecha",
+      "type": "ARTERIA",
+      "start": 1441,
+      "end": 1474
+    },
+    {
+      "text": "ACM, ACP",
+      "type": "ARTERIA",
+      "start": 1516,
+      "end": 1524
+    },
+    {
+      "text": "Sistema vertebrobasilar sin alteraciones",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1600,
+      "end": 1640
+    }
+  ]
+}

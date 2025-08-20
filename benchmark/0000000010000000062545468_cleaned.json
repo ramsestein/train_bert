@@ -1,0 +1,113 @@
+{
+  "document_id": "0000000010000000062545468_cleaned",
+  "entities": [
+    {
+      "text": "ictus isquémico",
+      "type": "PATOLOGIA",
+      "start": 148,
+      "end": 163
+    },
+    {
+      "text": "TC CRANEAL BASAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 183,
+      "end": 199
+    },
+    {
+      "text": "TC PERFUSIÓN URGENTES",
+      "type": "TECNICA_IMAGEN",
+      "start": 229,
+      "end": 250
+    },
+    {
+      "text": "8/7/2024",
+      "type": "TEMPORALIDAD",
+      "start": 334,
+      "end": 342
+    },
+    {
+      "text": "5h",
+      "type": "TEMPORALIDAD",
+      "start": 350,
+      "end": 352
+    },
+    {
+      "text": "imágenes hiperdensas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 387,
+      "end": 407
+    },
+    {
+      "text": "transformación hemorrágica",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 421,
+      "end": 447
+    },
+    {
+      "text": "extravasación de contraste endovenoso",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 450,
+      "end": 487
+    },
+    {
+      "text": "área con desdiferenciación cortico-subcortical",
+      "type": "PATOLOGIA",
+      "start": 501,
+      "end": 547
+    },
+    {
+      "text": "región parietotemporal izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 551,
+      "end": 583
+    },
+    {
+      "text": "isquemia establecida",
+      "type": "PATOLOGIA",
+      "start": 636,
+      "end": 656
+    },
+    {
+      "text": "Sistema ventricular de morfología, tamaño y situación conservadas.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 658,
+      "end": 724
+    },
+    {
+      "text": "Estructuras de la línea media centradas.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 725,
+      "end": 765
+    },
+    {
+      "text": "Cisternas basales libres.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 766,
+      "end": 791
+    },
+    {
+      "text": "Resto sin otros cambios significativos al control evolutivo por TC.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 792,
+      "end": 859
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 872,
+      "end": 893
+    },
+    {
+      "text": "ANGIOGRAFIA CEREBRAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 968,
+      "end": 988
+    },
+    {
+      "text": "TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANGIOTC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 1074,
+      "end": 1141
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "document_id": "informe_sintetico_20250804195045_21061",
+  "entities": [
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 280,
+      "end": 294
+    },
+    {
+      "text": "arteria cerebral anterior",
+      "type": "ARTERIA",
+      "start": 312,
+      "end": 337
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 242,
+      "end": 251
+    },
+    {
+      "text": "68 años",
+      "type": "MEDIDA",
+      "start": 188,
+      "end": 195
+    },
+    {
+      "text": "aguda",
+      "type": "TEMPORALIDAD",
+      "start": 289,
+      "end": 294
+    },
+    {
+      "text": "No se evidencia hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 512,
+      "end": 551
+    },
+    {
+      "text": "edema vasogénico incipiente",
+      "type": "PATOLOGIA",
+      "start": 711,
+      "end": 738
+    },
+    {
+      "text": "Tiempo de Tránsito Parcial (TTP)",
+      "type": "MEDIDA",
+      "start": 783,
+      "end": 815
+    },
+    {
+      "text": "Flujo Cerebral (CBF)",
+      "type": "MEDIDA",
+      "start": 832,
+      "end": 852
+    },
+    {
+      "text": "Volumen Cerebral (CBV)",
+      "type": "MEDIDA",
+      "start": 940,
+      "end": 962
+    },
+    {
+      "text": "penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 987,
+      "end": 1005
+    },
+    {
+      "text": "Oclusión segmentaria",
+      "type": "PATOLOGIA",
+      "start": 1040,
+      "end": 1060
+    },
+    {
+      "text": "arteria cerebral anterior derecha",
+      "type": "ARTERIA",
+      "start": 876,
+      "end": 909
+    },
+    {
+      "text": "segmento A2",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1102,
+      "end": 1113
+    },
+    {
+      "text": "sin evidencia de hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1509,
+      "end": 1549
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 358,
+      "end": 374
+    },
+    {
+      "text": "TC PERFUSIÓN",
+      "type": "TECNICA_IMAGEN",
+      "start": 741,
+      "end": 753
+    },
+    {
+      "text": "ANGIO-TC ARTERIAL INTRACRANEAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 1008,
+      "end": 1038
+    }
+  ]
+}

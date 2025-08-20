@@ -1,0 +1,101 @@
+{
+  "document_id": "informe_sintetico_20250804195045_03741",
+  "entities": [
+    {
+      "text": "hemiplejia derecha",
+      "type": "PATOLOGIA",
+      "start": 187,
+      "end": 205
+    },
+    {
+      "text": "afasia",
+      "type": "PATOLOGIA",
+      "start": 208,
+      "end": 214
+    },
+    {
+      "text": "infarto cerebral",
+      "type": "PATOLOGIA",
+      "start": 245,
+      "end": 261
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 282,
+      "end": 314
+    },
+    {
+      "text": "infarto isquémico subagudo",
+      "type": "PATOLOGIA",
+      "start": 699,
+      "end": 725
+    },
+    {
+      "text": "transformación hemorrágica tipo PH2",
+      "type": "PATOLOGIA",
+      "start": 887,
+      "end": 922
+    },
+    {
+      "text": "más del 30%",
+      "type": "MEDIDA",
+      "start": 961,
+      "end": 972
+    },
+    {
+      "text": "desviación de la línea media hacia la derecha de 4 mm",
+      "type": "MEDIDA",
+      "start": 1061,
+      "end": 1114
+    },
+    {
+      "text": "No se observan hemorragias intraventriculares",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1116,
+      "end": 1161
+    },
+    {
+      "text": "oclusión postrombótica en segmento M1 de MCA izquierda",
+      "type": "PATOLOGIA",
+      "start": 1642,
+      "end": 1696
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 282,
+      "end": 314
+    },
+    {
+      "text": "TC CÓDIGO ICTUS",
+      "type": "TECNICA_IMAGEN",
+      "start": 390,
+      "end": 405
+    },
+    {
+      "text": "TC craneal basal sin contraste",
+      "type": "TECNICA_IMAGEN",
+      "start": 418,
+      "end": 448
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 450,
+      "end": 471
+    },
+    {
+      "text": "AngioTC arterial intra y extracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 474,
+      "end": 511
+    },
+    {
+      "text": "edema vasogénico perilesional",
+      "type": "PATOLOGIA",
+      "start": 1005,
+      "end": 1034
+    }
+  ]
+}

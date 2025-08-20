@@ -1,0 +1,89 @@
+{
+  "document_id": "informe_sintetico_20250804195045_04230",
+  "entities": [
+    {
+      "text": "hemorragia intra o extraaxial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 426,
+      "end": 455
+    },
+    {
+      "text": "foco hipodenso subcortical",
+      "type": "PATOLOGIA",
+      "start": 484,
+      "end": 510
+    },
+    {
+      "text": "6 mm",
+      "type": "MEDIDA",
+      "start": 531,
+      "end": 535
+    },
+    {
+      "text": "territorio lenticulostriado derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 540,
+      "end": 575
+    },
+    {
+      "text": "edema significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 643,
+      "end": 662
+    },
+    {
+      "text": "alteración discreta y no significativa",
+      "type": "PATOLOGIA",
+      "start": 1497,
+      "end": 1535
+    },
+    {
+      "text": "ausencia de oclusiones",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1638,
+      "end": 1660
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 1662,
+      "end": 1672
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "ARTERIA",
+      "start": 1228,
+      "end": 1258
+    },
+    {
+      "text": "derecho",
+      "type": "LATERALIDAD",
+      "start": 568,
+      "end": 575
+    },
+    {
+      "text": "agudo",
+      "type": "TEMPORALIDAD",
+      "start": 264,
+      "end": 269
+    },
+    {
+      "text": "TC CRANEAL BASAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 307,
+      "end": 323
+    },
+    {
+      "text": "TC PERFUSIÓN",
+      "type": "TECNICA_IMAGEN",
+      "start": 762,
+      "end": 774
+    },
+    {
+      "text": "ANGIO-TC ARTERIAL INTRACRANEAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 110,
+      "end": 140
+    }
+  ]
+}

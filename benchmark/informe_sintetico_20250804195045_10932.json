@@ -1,0 +1,83 @@
+{
+  "document_id": "informe_sintetico_20250804195045_10932",
+  "entities": [
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 252,
+      "end": 266
+    },
+    {
+      "text": "tronco encefálico",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 657,
+      "end": 674
+    },
+    {
+      "text": "puente",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 709,
+      "end": 715
+    },
+    {
+      "text": "cerebelo medio",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 718,
+      "end": 732
+    },
+    {
+      "text": "penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1138,
+      "end": 1156
+    },
+    {
+      "text": "arteria basilar",
+      "type": "ARTERIA",
+      "start": 1388,
+      "end": 1403
+    },
+    {
+      "text": "arterias cerebelosas posteriores inferiores",
+      "type": "ARTERIA",
+      "start": 1460,
+      "end": 1503
+    },
+    {
+      "text": "Oclusión subtotal",
+      "type": "PATOLOGIA",
+      "start": 1342,
+      "end": 1359
+    },
+    {
+      "text": "bilateral",
+      "type": "LATERALIDAD",
+      "start": 1037,
+      "end": 1046
+    },
+    {
+      "text": "No se evidencian hemorragias intra o extraaxiales ni lesiones ocupantes de espacio.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 525,
+      "end": 608
+    },
+    {
+      "text": "No se aprecian desplazamientos de estructuras de la línea media.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 775,
+      "end": 839
+    },
+    {
+      "text": "No se observan estenosis severas en los troncos supraórticos.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1614,
+      "end": 1675
+    },
+    {
+      "text": "No se detectan hemorragias asociadas ni otros signos de lesión crónica relevantes.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1921,
+      "end": 2003
+    }
+  ]
+}

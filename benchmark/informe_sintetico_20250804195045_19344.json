@@ -1,0 +1,59 @@
+{
+  "document_id": "informe_sintetico_20250804195045_19344",
+  "entities": [
+    {
+      "text": "hematoma lobar hemorrágico",
+      "type": "PATOLOGIA",
+      "start": 432,
+      "end": 458
+    },
+    {
+      "text": "región parietal izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 462,
+      "end": 487
+    },
+    {
+      "text": "3 x 2.5 cm",
+      "type": "MEDIDA",
+      "start": 567,
+      "end": 577
+    },
+    {
+      "text": "3 mm",
+      "type": "MEDIDA",
+      "start": 675,
+      "end": 679
+    },
+    {
+      "text": "No hay evidencia de hemorragia intraventricular",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 698,
+      "end": 745
+    },
+    {
+      "text": "No se detectan áreas de hipoperfusión que sugieran isquemia asociada",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 993,
+      "end": 1061
+    },
+    {
+      "text": "Arteria cerebral media izquierda",
+      "type": "ARTERIA",
+      "start": 1267,
+      "end": 1299
+    },
+    {
+      "text": "sin defectos de repleción ni signos de oclusión",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1311,
+      "end": 1358
+    },
+    {
+      "text": "sin evidencias de oclusión o malformaciones vasculares",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1691,
+      "end": 1745
+    }
+  ]
+}

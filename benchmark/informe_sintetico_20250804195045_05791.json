@@ -1,0 +1,101 @@
+{
+  "document_id": "informe_sintetico_20250804195045_05791",
+  "entities": [
+    {
+      "text": "hemorragia intraparenquimatosa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 389,
+      "end": 419
+    },
+    {
+      "text": "hemorragia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 389,
+      "end": 399
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 509,
+      "end": 523
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 593,
+      "end": 603
+    },
+    {
+      "text": "focos hipodensos periventriculares",
+      "type": "PATOLOGIA",
+      "start": 757,
+      "end": 791
+    },
+    {
+      "text": "crónico",
+      "type": "TEMPORALIDAD",
+      "start": 804,
+      "end": 811
+    },
+    {
+      "text": "TC PERFUSIÓN",
+      "type": "TECNICA_IMAGEN",
+      "start": 838,
+      "end": 850
+    },
+    {
+      "text": "sin áreas de alteración perfusional",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 985,
+      "end": 1020
+    },
+    {
+      "text": "sin signos de estenosis, oclusión",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1143,
+      "end": 1176
+    },
+    {
+      "text": "sin estenosis oclusivas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1475,
+      "end": 1498
+    },
+    {
+      "text": "TC craneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 226,
+      "end": 236
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 593,
+      "end": 603
+    },
+    {
+      "text": "hemorragia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 389,
+      "end": 399
+    },
+    {
+      "text": "isquemia cerebral aguda",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1387,
+      "end": 1410
+    },
+    {
+      "text": "Mapas de perfusión normales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1413,
+      "end": 1440
+    },
+    {
+      "text": "sin alteraciones",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1441,
+      "end": 1457
+    }
+  ]
+}

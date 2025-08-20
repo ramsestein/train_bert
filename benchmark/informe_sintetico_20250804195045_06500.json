@@ -1,0 +1,107 @@
+{
+  "document_id": "informe_sintetico_20250804195045_06500",
+  "entities": [
+    {
+      "text": "isquemia cerebral aguda",
+      "type": "PATOLOGIA",
+      "start": 323,
+      "end": 346
+    },
+    {
+      "text": "infartos agudos",
+      "type": "PATOLOGIA",
+      "start": 650,
+      "end": 665
+    },
+    {
+      "text": "hemorragias",
+      "type": "PATOLOGIA",
+      "start": 668,
+      "end": 679
+    },
+    {
+      "text": "edema cerebral",
+      "type": "PATOLOGIA",
+      "start": 708,
+      "end": 722
+    },
+    {
+      "text": "hidrocefalia",
+      "type": "PATOLOGIA",
+      "start": 1007,
+      "end": 1019
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 1774,
+      "end": 1784
+    },
+    {
+      "text": "sin hallazgos agudos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1666,
+      "end": 1686
+    },
+    {
+      "text": "circulación arterial intracraneal",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1709,
+      "end": 1742
+    },
+    {
+      "text": "parénquima cerebral",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 511,
+      "end": 530
+    },
+    {
+      "text": "arterias cerebrales medias",
+      "type": "ARTERIA",
+      "start": 1361,
+      "end": 1387
+    },
+    {
+      "text": "arterias cerebrales anteriores",
+      "type": "ARTERIA",
+      "start": 1389,
+      "end": 1419
+    },
+    {
+      "text": "arterias basilar",
+      "type": "ARTERIA",
+      "start": 1421,
+      "end": 1437
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 367,
+      "end": 383
+    },
+    {
+      "text": "estudio de perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 385,
+      "end": 414
+    },
+    {
+      "text": "angiografía por TC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 417,
+      "end": 457
+    },
+    {
+      "text": "distribución simétrica de los parámetros de flujo sanguíneo cerebral",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1144,
+      "end": 1212
+    },
+    {
+      "text": "sin zonas de hipoperfusión",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1269,
+      "end": 1295
+    }
+  ]
+}

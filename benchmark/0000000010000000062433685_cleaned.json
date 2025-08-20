@@ -1,0 +1,59 @@
+{
+  "document_id": "0000000010000000062433685_cleaned",
+  "entities": [
+    {
+      "text": "hemorragia aguda",
+      "type": "PATOLOGIA",
+      "start": 311,
+      "end": 327
+    },
+    {
+      "text": "lesiones focales intra o extraaxiales",
+      "type": "PATOLOGIA",
+      "start": 331,
+      "end": 368
+    },
+    {
+      "text": "pérdida de volumen cerebral",
+      "type": "PATOLOGIA",
+      "start": 530,
+      "end": 557
+    },
+    {
+      "text": "enfermedad de pequeño vaso",
+      "type": "PATOLOGIA",
+      "start": 621,
+      "end": 647
+    },
+    {
+      "text": "arteria basilar",
+      "type": "ARTERIA",
+      "start": 1284,
+      "end": 1299
+    },
+    {
+      "text": "ACAs, ACMs y ACPs",
+      "type": "ARTERIA",
+      "start": 1413,
+      "end": 1430
+    },
+    {
+      "text": "48 mm",
+      "type": "MEDIDA",
+      "start": 1119,
+      "end": 1124
+    },
+    {
+      "text": "sin hallazgos patológicos agudos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1517,
+      "end": 1549
+    },
+    {
+      "text": "sin repercusión en los mapas de volumen",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1619,
+      "end": 1658
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "document_id": "informe_sintetico_20250804195045_05766",
+  "entities": [
+    {
+      "text": "accidente isquémico",
+      "type": "PATOLOGIA",
+      "start": 296,
+      "end": 315
+    },
+    {
+      "text": "isquemia",
+      "type": "PATOLOGIA",
+      "start": 1771,
+      "end": 1779
+    },
+    {
+      "text": "edema citotóxico",
+      "type": "PATOLOGIA",
+      "start": 689,
+      "end": 705
+    },
+    {
+      "text": "infarto",
+      "type": "PATOLOGIA",
+      "start": 745,
+      "end": 752
+    },
+    {
+      "text": "arteria basilar",
+      "type": "ARTERIA",
+      "start": 1097,
+      "end": 1112
+    },
+    {
+      "text": "segmento pontino",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1129,
+      "end": 1145
+    },
+    {
+      "text": "mesencefálico",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1148,
+      "end": 1161
+    },
+    {
+      "text": "oclusión trombótica aguda",
+      "type": "PATOLOGIA",
+      "start": 1411,
+      "end": 1436
+    },
+    {
+      "text": "aguda",
+      "type": "TEMPORALIDAD",
+      "start": 1431,
+      "end": 1436
+    },
+    {
+      "text": "prolongación significativa del tiempo de tránsito medio (TTP)",
+      "type": "MEDIDA",
+      "start": 955,
+      "end": 1016
+    },
+    {
+      "text": "reducción del volumen cerebral (CBV)",
+      "type": "MEDIDA",
+      "start": 1019,
+      "end": 1055
+    },
+    {
+      "text": "disminución del flujo cerebral (CBF)",
+      "type": "MEDIDA",
+      "start": 1167,
+      "end": 1203
+    }
+  ]
+}

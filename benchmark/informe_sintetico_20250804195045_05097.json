@@ -1,0 +1,71 @@
+{
+  "document_id": "informe_sintetico_20250804195045_05097",
+  "entities": [
+    {
+      "text": "infarto lacunar agudo",
+      "type": "PATOLOGIA",
+      "start": 543,
+      "end": 564
+    },
+    {
+      "text": "región talámica derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 504,
+      "end": 527
+    },
+    {
+      "text": "8 mm",
+      "type": "MEDIDA",
+      "start": 481,
+      "end": 485
+    },
+    {
+      "text": "agudo",
+      "type": "TEMPORALIDAD",
+      "start": 279,
+      "end": 284
+    },
+    {
+      "text": "No hay evidencia de hemorragia intra o extraaxial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 566,
+      "end": 615
+    },
+    {
+      "text": "sin signos de edema cerebral",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 696,
+      "end": 724
+    },
+    {
+      "text": "sin alteración significativa del volumen sanguíneo cerebral (CBV)",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1050,
+      "end": 1115
+    },
+    {
+      "text": "sin estenosis significativas ni oclusiones",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1223,
+      "end": 1265
+    },
+    {
+      "text": "sin hemorragia asociada",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1911,
+      "end": 1934
+    },
+    {
+      "text": "Vasos intracraneales permeables",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1936,
+      "end": 1967
+    },
+    {
+      "text": "TC Basal craneal urgente + TC perfusión cerebral + AngioTC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 305,
+      "end": 385
+    }
+  ]
+}

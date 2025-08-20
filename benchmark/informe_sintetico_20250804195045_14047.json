@@ -1,0 +1,71 @@
+{
+  "document_id": "informe_sintetico_20250804195045_14047",
+  "entities": [
+    {
+      "text": "hemiparesia bilateral",
+      "type": "PATOLOGIA",
+      "start": 234,
+      "end": 255
+    },
+    {
+      "text": "edema isquémico agudo",
+      "type": "PATOLOGIA",
+      "start": 634,
+      "end": 655
+    },
+    {
+      "text": "hipoperfusión crítica",
+      "type": "PATOLOGIA",
+      "start": 1065,
+      "end": 1086
+    },
+    {
+      "text": "oclusión trombótica",
+      "type": "PATOLOGIA",
+      "start": 1294,
+      "end": 1313
+    },
+    {
+      "text": "arteria basilar proximal",
+      "type": "ARTERIA",
+      "start": 1255,
+      "end": 1279
+    },
+    {
+      "text": "bilateralmente",
+      "type": "LATERALIDAD",
+      "start": 1367,
+      "end": 1381
+    },
+    {
+      "text": "arterias cerebrales anteriores y medias",
+      "type": "ARTERIA",
+      "start": 1389,
+      "end": 1428
+    },
+    {
+      "text": "Oclusión aguda",
+      "type": "TEMPORALIDAD",
+      "start": 1481,
+      "end": 1495
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 324,
+      "end": 340
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 357,
+      "end": 378
+    },
+    {
+      "text": "Angio-TC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 381,
+      "end": 411
+    }
+  ]
+}

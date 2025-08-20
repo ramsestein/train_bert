@@ -1,0 +1,257 @@
+{
+  "document_id": "informe_sintetico_20250804195045_07308",
+  "entities": [
+    {
+      "text": "ictus isquémico",
+      "type": "PATOLOGIA",
+      "start": 297,
+      "end": 312
+    },
+    {
+      "text": "hemiplejia derecha",
+      "type": "PATOLOGIA",
+      "start": 217,
+      "end": 235
+    },
+    {
+      "text": "afasia motora",
+      "type": "PATOLOGIA",
+      "start": 238,
+      "end": 251
+    },
+    {
+      "text": "2 horas",
+      "type": "TEMPORALIDAD",
+      "start": 255,
+      "end": 262
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "ARTERIA",
+      "start": 330,
+      "end": 362
+    },
+    {
+      "text": "hipodensidad",
+      "type": "PATOLOGIA",
+      "start": 563,
+      "end": 575
+    },
+    {
+      "text": "región insular",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 582,
+      "end": 596
+    },
+    {
+      "text": "opercular",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 598,
+      "end": 607
+    },
+    {
+      "text": "núcleo lenticular izquierdos",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 610,
+      "end": 638
+    },
+    {
+      "text": "pérdida parcial de la diferenciación córtico-subcortical",
+      "type": "PATOLOGIA",
+      "start": 643,
+      "end": 699
+    },
+    {
+      "text": "ASPECTS de 6",
+      "type": "PUNTUACION_CLINICA",
+      "start": 708,
+      "end": 720
+    },
+    {
+      "text": "signo de arteria hiperdensa",
+      "type": "PATOLOGIA",
+      "start": 733,
+      "end": 760
+    },
+    {
+      "text": "segmento proximal (M1)",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 767,
+      "end": 789
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "ARTERIA",
+      "start": 330,
+      "end": 362
+    },
+    {
+      "text": "prolongación de los tiempos de tránsito",
+      "type": "PATOLOGIA",
+      "start": 881,
+      "end": 920
+    },
+    {
+      "text": "Tmax y TTP",
+      "type": "MEDIDA",
+      "start": 922,
+      "end": 932
+    },
+    {
+      "text": "región frontoparietal izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 940,
+      "end": 971
+    },
+    {
+      "text": "reducción del flujo sanguíneo cerebral",
+      "type": "PATOLOGIA",
+      "start": 984,
+      "end": 1022
+    },
+    {
+      "text": "CBF",
+      "type": "MEDIDA",
+      "start": 1024,
+      "end": 1027
+    },
+    {
+      "text": "disminución del volumen cerebral",
+      "type": "PATOLOGIA",
+      "start": 1031,
+      "end": 1063
+    },
+    {
+      "text": "CBV",
+      "type": "MEDIDA",
+      "start": 1065,
+      "end": 1068
+    },
+    {
+      "text": "territorio irrigado por la ACM izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1076,
+      "end": 1116
+    },
+    {
+      "text": "área isquémica establecida",
+      "type": "PATOLOGIA",
+      "start": 1131,
+      "end": 1157
+    },
+    {
+      "text": "zona en penumbra",
+      "type": "PATOLOGIA",
+      "start": 1160,
+      "end": 1176
+    },
+    {
+      "text": "discrepancia significativa",
+      "type": "PATOLOGIA",
+      "start": 1181,
+      "end": 1207
+    },
+    {
+      "text": "oclusión completa",
+      "type": "PATOLOGIA",
+      "start": 1252,
+      "end": 1269
+    },
+    {
+      "text": "segmento proximal M1",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1274,
+      "end": 1294
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "ARTERIA",
+      "start": 330,
+      "end": 362
+    },
+    {
+      "text": "sin evidencia de flujo distal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1334,
+      "end": 1363
+    },
+    {
+      "text": "arterias intracraneales",
+      "type": "ARTERIA",
+      "start": 1375,
+      "end": 1398
+    },
+    {
+      "text": "sistema vertebrobasilar",
+      "type": "ARTERIA",
+      "start": 1404,
+      "end": 1427
+    },
+    {
+      "text": "permeables",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1432,
+      "end": 1442
+    },
+    {
+      "text": "oclusión proximal",
+      "type": "PATOLOGIA",
+      "start": 1493,
+      "end": 1510
+    },
+    {
+      "text": "segmento M1",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1515,
+      "end": 1526
+    },
+    {
+      "text": "arteria cerebral media",
+      "type": "ARTERIA",
+      "start": 330,
+      "end": 352
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 353,
+      "end": 362
+    },
+    {
+      "text": "área isquémica establecida",
+      "type": "PATOLOGIA",
+      "start": 1131,
+      "end": 1157
+    },
+    {
+      "text": "extensa zona en penumbra",
+      "type": "PATOLOGIA",
+      "start": 1620,
+      "end": 1644
+    },
+    {
+      "text": "territorio frontoparietal",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1648,
+      "end": 1673
+    },
+    {
+      "text": "signo de arteria hiperdensa",
+      "type": "PATOLOGIA",
+      "start": 733,
+      "end": 760
+    },
+    {
+      "text": "M1",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 786,
+      "end": 788
+    },
+    {
+      "text": "compatible con trombo",
+      "type": "PATOLOGIA",
+      "start": 1709,
+      "end": 1730
+    }
+  ]
+}

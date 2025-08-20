@@ -1,0 +1,161 @@
+{
+  "document_id": "informe_sintetico_20250804195045_17548",
+  "entities": [
+    {
+      "text": "accidente isquémico agudo",
+      "type": "PATOLOGIA",
+      "start": 236,
+      "end": 261
+    },
+    {
+      "text": "arteria cerebral anterior",
+      "type": "ARTERIA",
+      "start": 279,
+      "end": 304
+    },
+    {
+      "text": "TC Basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 331,
+      "end": 339
+    },
+    {
+      "text": "TC Perfusión Cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 341,
+      "end": 362
+    },
+    {
+      "text": "AngioTC de arterias intracraneales y troncos supraaórticos",
+      "type": "TECNICA_IMAGEN",
+      "start": 365,
+      "end": 423
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 483,
+      "end": 506
+    },
+    {
+      "text": "desplazamientos de línea media",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 510,
+      "end": 540
+    },
+    {
+      "text": "hipodensidad sutil en región medial del lóbulo frontal derecho",
+      "type": "PATOLOGIA",
+      "start": 553,
+      "end": 615
+    },
+    {
+      "text": "infarto agudo",
+      "type": "PATOLOGIA",
+      "start": 640,
+      "end": 653
+    },
+    {
+      "text": "territorio de ACA",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 657,
+      "end": 674
+    },
+    {
+      "text": "ASPECTS modificado para ACA 8/10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 739,
+      "end": 771
+    },
+    {
+      "text": "prolongación del tiempo de tránsito medio (MTT)",
+      "type": "PATOLOGIA",
+      "start": 861,
+      "end": 908
+    },
+    {
+      "text": "aumento del tiempo hasta el pico (TTP)",
+      "type": "PATOLOGIA",
+      "start": 911,
+      "end": 949
+    },
+    {
+      "text": "disminución del flujo sanguíneo cerebral (CBF)",
+      "type": "PATOLOGIA",
+      "start": 1005,
+      "end": 1051
+    },
+    {
+      "text": "volumen cerebral (CBV)",
+      "type": "PATOLOGIA",
+      "start": 1054,
+      "end": 1076
+    },
+    {
+      "text": "isquemia en territorio de ACA derecha",
+      "type": "PATOLOGIA",
+      "start": 1105,
+      "end": 1142
+    },
+    {
+      "text": "estenosis aproximada del 80%",
+      "type": "MEDIDA",
+      "start": 1285,
+      "end": 1313
+    },
+    {
+      "text": "segmento proximal de arteria cerebral anterior derecha (A2)",
+      "type": "ARTERIA",
+      "start": 1320,
+      "end": 1379
+    },
+    {
+      "text": "reducción del calibre luminal y flujo distal disminuido",
+      "type": "PATOLOGIA",
+      "start": 1385,
+      "end": 1440
+    },
+    {
+      "text": "sin alteraciones",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 813,
+      "end": 829
+    },
+    {
+      "text": "isquemia aguda en territorio de arteria cerebral anterior derecha",
+      "type": "PATOLOGIA",
+      "start": 1590,
+      "end": 1655
+    },
+    {
+      "text": "hipodensidad cortical y alteraciones perfusionales",
+      "type": "PATOLOGIA",
+      "start": 1672,
+      "end": 1722
+    },
+    {
+      "text": "hemorragia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 483,
+      "end": 493
+    },
+    {
+      "text": "edema masivo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1795,
+      "end": 1807
+    },
+    {
+      "text": "isquemia aguda en territorio de arteria cerebral anterior derecha",
+      "type": "PATOLOGIA",
+      "start": 1590,
+      "end": 1655
+    },
+    {
+      "text": "alteraciones en TC basal, perfusión y angioTC",
+      "type": "PATOLOGIA",
+      "start": 2118,
+      "end": 2163
+    }
+  ]
+}

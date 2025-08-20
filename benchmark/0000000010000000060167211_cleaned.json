@@ -1,0 +1,233 @@
+{
+  "document_id": "0000000010000000060167211_cleaned",
+  "entities": [
+    {
+      "text": "oclusió",
+      "type": "PATOLOGIA",
+      "start": 204,
+      "end": 211
+    },
+    {
+      "text": "estenosi",
+      "type": "PATOLOGIA",
+      "start": 214,
+      "end": 222
+    },
+    {
+      "text": "artèria cerebral",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 242,
+      "end": 258
+    },
+    {
+      "text": "hemorragia intra ni extraaxial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 435,
+      "end": 465
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 514,
+      "end": 524
+    },
+    {
+      "text": "isquemia establecida",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 571,
+      "end": 591
+    },
+    {
+      "text": "Hiperdensidad vascular",
+      "type": "PATOLOGIA",
+      "start": 593,
+      "end": 615
+    },
+    {
+      "text": "ACM izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 963,
+      "end": 976
+    },
+    {
+      "text": "rama M1",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 636,
+      "end": 643
+    },
+    {
+      "text": "trombo",
+      "type": "PATOLOGIA",
+      "start": 670,
+      "end": 676
+    },
+    {
+      "text": "Sistema ventricular",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 729,
+      "end": 748
+    },
+    {
+      "text": "tamaño y morfología normal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 752,
+      "end": 778
+    },
+    {
+      "text": "Cisternas basales libres",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 780,
+      "end": 804
+    },
+    {
+      "text": "Disminución del volumen",
+      "type": "PATOLOGIA",
+      "start": 820,
+      "end": 843
+    },
+    {
+      "text": "mapa CBV",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 847,
+      "end": 855
+    },
+    {
+      "text": "territorio de la ACM",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 859,
+      "end": 879
+    },
+    {
+      "text": "Aumento del tiempo",
+      "type": "PATOLOGIA",
+      "start": 881,
+      "end": 899
+    },
+    {
+      "text": "disminución del flujo",
+      "type": "PATOLOGIA",
+      "start": 902,
+      "end": 923
+    },
+    {
+      "text": "mapas TTP y CBF",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 927,
+      "end": 942
+    },
+    {
+      "text": "ACM izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 963,
+      "end": 976
+    },
+    {
+      "text": "disminución parcial del volumen",
+      "type": "PATOLOGIA",
+      "start": 981,
+      "end": 1012
+    },
+    {
+      "text": "zona anterior de la corona radiada",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1019,
+      "end": 1053
+    },
+    {
+      "text": "temporal lateral",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1056,
+      "end": 1072
+    },
+    {
+      "text": "Defecto brusco de repleción",
+      "type": "PATOLOGIA",
+      "start": 1133,
+      "end": 1160
+    },
+    {
+      "text": "ACM izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 963,
+      "end": 976
+    },
+    {
+      "text": "rama M1",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 636,
+      "end": 643
+    },
+    {
+      "text": "trombo",
+      "type": "PATOLOGIA",
+      "start": 670,
+      "end": 676
+    },
+    {
+      "text": "ACAs, ACMs y ACPs",
+      "type": "ARTERIA",
+      "start": 1263,
+      "end": 1280
+    },
+    {
+      "text": "ACP derecha",
+      "type": "ARTERIA",
+      "start": 1283,
+      "end": 1294
+    },
+    {
+      "text": "segmento P1",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1296,
+      "end": 1307
+    },
+    {
+      "text": "hipoplásica",
+      "type": "PATOLOGIA",
+      "start": 1309,
+      "end": 1320
+    },
+    {
+      "text": "Sistema vertebrobasilar",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1322,
+      "end": 1345
+    },
+    {
+      "text": "permeable",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1251,
+      "end": 1260
+    },
+    {
+      "text": "placas de ateromatosis cálcica",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1374,
+      "end": 1404
+    },
+    {
+      "text": "Defecto de repleción",
+      "type": "PATOLOGIA",
+      "start": 1439,
+      "end": 1459
+    },
+    {
+      "text": "segmento M1 de ACM izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1463,
+      "end": 1491
+    },
+    {
+      "text": "marcado mismatch",
+      "type": "PATOLOGIA",
+      "start": 1496,
+      "end": 1512
+    },
+    {
+      "text": "mapas de perfusión",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1516,
+      "end": 1534
+    }
+  ]
+}

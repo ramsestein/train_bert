@@ -1,0 +1,113 @@
+{
+  "document_id": "informe_sintetico_20250804195045_10522",
+  "entities": [
+    {
+      "text": "hemiparesia izquierda",
+      "type": "PATOLOGIA",
+      "start": 185,
+      "end": 206
+    },
+    {
+      "text": "accidente cerebrovascular isquémico agudo",
+      "type": "PATOLOGIA",
+      "start": 303,
+      "end": 344
+    },
+    {
+      "text": "isquemia incipiente",
+      "type": "PATOLOGIA",
+      "start": 747,
+      "end": 766
+    },
+    {
+      "text": "ASPECTS 9",
+      "type": "PUNTUACION_CLINICA",
+      "start": 663,
+      "end": 672
+    },
+    {
+      "text": "Tmax",
+      "type": "MEDIDA",
+      "start": 910,
+      "end": 914
+    },
+    {
+      "text": "TTP",
+      "type": "MEDIDA",
+      "start": 917,
+      "end": 920
+    },
+    {
+      "text": "flujo cerebral (CBF)",
+      "type": "MEDIDA",
+      "start": 980,
+      "end": 1000
+    },
+    {
+      "text": "volumen cerebral (CBV)",
+      "type": "MEDIDA",
+      "start": 1003,
+      "end": 1025
+    },
+    {
+      "text": "M2/M3",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1155,
+      "end": 1160
+    },
+    {
+      "text": "penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1188,
+      "end": 1206
+    },
+    {
+      "text": "Oclusión segmentaria en rama M2 derecha de la arteria cerebral media",
+      "type": "PATOLOGIA",
+      "start": 1291,
+      "end": 1359
+    },
+    {
+      "text": "arteria cerebral media",
+      "type": "ARTERIA",
+      "start": 1131,
+      "end": 1153
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 951,
+      "end": 958
+    },
+    {
+      "text": "Dominancia vertebral derecha",
+      "type": "LATERALIDAD",
+      "start": 1560,
+      "end": 1588
+    },
+    {
+      "text": "No se observa hemorragia intracraneal ni extraaxial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 522,
+      "end": 573
+    },
+    {
+      "text": "No hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1706,
+      "end": 1732
+    },
+    {
+      "text": "No estenosis significativa en arterias supraórticas ni intracraneales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1980,
+      "end": 2049
+    },
+    {
+      "text": "sin alteraciones",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 849,
+      "end": 865
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "document_id": "informe_sintetico_20250804195045_01486",
+  "entities": [
+    {
+      "text": "infarto lacunar agudo",
+      "type": "PATOLOGIA",
+      "start": 535,
+      "end": 556
+    },
+    {
+      "text": "cápsula interna derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 495,
+      "end": 518
+    },
+    {
+      "text": "6 mm",
+      "type": "MEDIDA",
+      "start": 464,
+      "end": 468
+    },
+    {
+      "text": "ASPECTS 9",
+      "type": "PUNTUACION_CLINICA",
+      "start": 683,
+      "end": 692
+    },
+    {
+      "text": "bilaterales",
+      "type": "LATERALIDAD",
+      "start": 893,
+      "end": 904
+    },
+    {
+      "text": "infarto lacunar agudo",
+      "type": "PATOLOGIA",
+      "start": 535,
+      "end": 556
+    },
+    {
+      "text": "ASPECTS 9",
+      "type": "PUNTUACION_CLINICA",
+      "start": 683,
+      "end": 692
+    },
+    {
+      "text": "sin signos de hemorragia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2129,
+      "end": 2153
+    },
+    {
+      "text": "TC perfusión",
+      "type": "TECNICA_IMAGEN",
+      "start": 295,
+      "end": 307
+    },
+    {
+      "text": "angioTC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 319,
+      "end": 348
+    }
+  ]
+}

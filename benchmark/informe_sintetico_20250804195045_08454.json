@@ -1,0 +1,113 @@
+{
+  "document_id": "informe_sintetico_20250804195045_08454",
+  "entities": [
+    {
+      "text": "infartos corticales tipo watershed",
+      "type": "PATOLOGIA",
+      "start": 937,
+      "end": 971
+    },
+    {
+      "text": "infartos tipo watershed bilaterales",
+      "type": "PATOLOGIA",
+      "start": 1908,
+      "end": 1943
+    },
+    {
+      "text": "hipoperfusión cerebral",
+      "type": "PATOLOGIA",
+      "start": 1985,
+      "end": 2007
+    },
+    {
+      "text": "estenosis significativa (>70%)",
+      "type": "PATOLOGIA",
+      "start": 1558,
+      "end": 1588
+    },
+    {
+      "text": "arteria carótida interna derecha",
+      "type": "ARTERIA",
+      "start": 1619,
+      "end": 1651
+    },
+    {
+      "text": "ACA",
+      "type": "ARTERIA",
+      "start": 815,
+      "end": 818
+    },
+    {
+      "text": "ACM",
+      "type": "ARTERIA",
+      "start": 849,
+      "end": 852
+    },
+    {
+      "text": "ACP",
+      "type": "ARTERIA",
+      "start": 1349,
+      "end": 1352
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 1644,
+      "end": 1651
+    },
+    {
+      "text": "bilateralmente",
+      "type": "LATERALIDAD",
+      "start": 854,
+      "end": 868
+    },
+    {
+      "text": "2 horas",
+      "type": "MEDIDA",
+      "start": 218,
+      "end": 225
+    },
+    {
+      "text": "agudas",
+      "type": "TEMPORALIDAD",
+      "start": 1019,
+      "end": 1025
+    },
+    {
+      "text": "sin oclusiones ni estenosis relevantes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1722,
+      "end": 1760
+    },
+    {
+      "text": "Sin evidencia de hemorragia intracraneal ni otras lesiones agudas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2130,
+      "end": 2195
+    },
+    {
+      "text": "TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANG IOTC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 72,
+      "end": 140
+    },
+    {
+      "text": "TC CRANEAL BASAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 541,
+      "end": 557
+    },
+    {
+      "text": "TC PERFUSIÓN",
+      "type": "TECNICA_IMAGEN",
+      "start": 1149,
+      "end": 1161
+    },
+    {
+      "text": "ANGIO-TC INTRACRANEAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 1522,
+      "end": 1543
+    }
+  ]
+}

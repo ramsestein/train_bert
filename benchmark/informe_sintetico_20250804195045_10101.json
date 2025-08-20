@@ -1,0 +1,233 @@
+{
+  "document_id": "informe_sintetico_20250804195045_10101",
+  "entities": [
+    {
+      "text": "hemiparesia derecha",
+      "type": "PATOLOGIA",
+      "start": 196,
+      "end": 215
+    },
+    {
+      "text": "afasia",
+      "type": "PATOLOGIA",
+      "start": 218,
+      "end": 224
+    },
+    {
+      "text": "accidente cerebrovascular isquémico",
+      "type": "PATOLOGIA",
+      "start": 246,
+      "end": 281
+    },
+    {
+      "text": "hipodensidad temprana",
+      "type": "PATOLOGIA",
+      "start": 475,
+      "end": 496
+    },
+    {
+      "text": "región insular",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 503,
+      "end": 517
+    },
+    {
+      "text": "opercular",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 519,
+      "end": 528
+    },
+    {
+      "text": "corona radiada izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 531,
+      "end": 555
+    },
+    {
+      "text": "pérdida de la diferenciación cortico-subcortical",
+      "type": "PATOLOGIA",
+      "start": 561,
+      "end": 609
+    },
+    {
+      "text": "borramiento de surcos",
+      "type": "PATOLOGIA",
+      "start": 612,
+      "end": 633
+    },
+    {
+      "text": "territorio de la arteria cerebral media (ACM) izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 637,
+      "end": 692
+    },
+    {
+      "text": "signo de arteria hiperdensa",
+      "type": "PATOLOGIA",
+      "start": 708,
+      "end": 735
+    },
+    {
+      "text": "segmento M1 izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 742,
+      "end": 763
+    },
+    {
+      "text": "ASPECTS estimado en 6",
+      "type": "PUNTUACION_CLINICA",
+      "start": 765,
+      "end": 786
+    },
+    {
+      "text": "hemorragias intracraneales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 805,
+      "end": 831
+    },
+    {
+      "text": "efecto de masa significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 835,
+      "end": 863
+    },
+    {
+      "text": "Línea media centrada",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 865,
+      "end": 885
+    },
+    {
+      "text": "Sistema ventricular de morfología y tamaño normales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 887,
+      "end": 938
+    },
+    {
+      "text": "Cisternas basales libres",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 940,
+      "end": 964
+    },
+    {
+      "text": "prolongación del tiempo de tránsito cerebral (TTP)",
+      "type": "PATOLOGIA",
+      "start": 1001,
+      "end": 1051
+    },
+    {
+      "text": "aumento del tiempo hasta el pico (TTP)",
+      "type": "PATOLOGIA",
+      "start": 1054,
+      "end": 1092
+    },
+    {
+      "text": "territorio vascular de ACM izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1096,
+      "end": 1132
+    },
+    {
+      "text": "disminución del flujo cerebral (CBF)",
+      "type": "PATOLOGIA",
+      "start": 1138,
+      "end": 1174
+    },
+    {
+      "text": "volumen cerebral (CBV)",
+      "type": "PATOLOGIA",
+      "start": 1177,
+      "end": 1199
+    },
+    {
+      "text": "isquemia en riesgo (penumbra)",
+      "type": "PATOLOGIA",
+      "start": 1248,
+      "end": 1277
+    },
+    {
+      "text": "reducción marcada de CBF y CBV",
+      "type": "PATOLOGIA",
+      "start": 1296,
+      "end": 1326
+    },
+    {
+      "text": "infarto establecido",
+      "type": "PATOLOGIA",
+      "start": 1342,
+      "end": 1361
+    },
+    {
+      "text": "oclusión en el segmento proximal M1 de la ACM izquierda",
+      "type": "PATOLOGIA",
+      "start": 1409,
+      "end": 1464
+    },
+    {
+      "text": "ausencia de contraste distal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1469,
+      "end": 1497
+    },
+    {
+      "text": "arterias intracraneales principales (ACAs, ACPs)",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1509,
+      "end": 1557
+    },
+    {
+      "text": "sistema vertebrobasilar",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1560,
+      "end": 1583
+    },
+    {
+      "text": "permeables sin estenosis ni placas calcificadas significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1598,
+      "end": 1660
+    },
+    {
+      "text": "isquemia aguda en territorio de ACM izquierda proximal (segmento M1)",
+      "type": "PATOLOGIA",
+      "start": 1713,
+      "end": 1781
+    },
+    {
+      "text": "oclusión confirmada en dicho segmento",
+      "type": "PATOLOGIA",
+      "start": 1787,
+      "end": 1824
+    },
+    {
+      "text": "ASPECTS 6",
+      "type": "PUNTUACION_CLINICA",
+      "start": 1826,
+      "end": 1835
+    },
+    {
+      "text": "área de infarto establecido",
+      "type": "PATOLOGIA",
+      "start": 1837,
+      "end": 1864
+    },
+    {
+      "text": "tejido en riesgo",
+      "type": "PATOLOGIA",
+      "start": 1867,
+      "end": 1883
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1901,
+      "end": 1924
+    },
+    {
+      "text": "efecto de masa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 835,
+      "end": 849
+    }
+  ]
+}

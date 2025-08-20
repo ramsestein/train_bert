@@ -1,0 +1,83 @@
+{
+  "document_id": "informe_sintetico_20250804195045_17891",
+  "entities": [
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 281,
+      "end": 295
+    },
+    {
+      "text": "arteria cerebral anterior",
+      "type": "ARTERIA",
+      "start": 313,
+      "end": 338
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 1215,
+      "end": 1224
+    },
+    {
+      "text": "ASPECTS modificado para territorio ACA 8/10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 926,
+      "end": 969
+    },
+    {
+      "text": "tiempo hasta el pico (TTP)",
+      "type": "PATOLOGIA",
+      "start": 1162,
+      "end": 1188
+    },
+    {
+      "text": "isquemia penumbra",
+      "type": "PATOLOGIA",
+      "start": 1397,
+      "end": 1414
+    },
+    {
+      "text": "estenosis crítica (~90%)",
+      "type": "PATOLOGIA",
+      "start": 1495,
+      "end": 1519
+    },
+    {
+      "text": "arteria cerebral anterior izquierda (A1)",
+      "type": "ARTERIA",
+      "start": 1547,
+      "end": 1587
+    },
+    {
+      "text": "penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 2187,
+      "end": 2205
+    },
+    {
+      "text": "segmento proximal A1",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 2039,
+      "end": 2059
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 449,
+      "end": 465
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 481,
+      "end": 502
+    },
+    {
+      "text": "Angio-TC arterial extra e intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 506,
+      "end": 544
+    }
+  ]
+}

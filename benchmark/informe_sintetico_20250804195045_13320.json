@@ -1,0 +1,179 @@
+{
+  "document_id": "informe_sintetico_20250804195045_13320",
+  "entities": [
+    {
+      "text": "hemiparesia derecha",
+      "type": "PATOLOGIA",
+      "start": 196,
+      "end": 215
+    },
+    {
+      "text": "afasia parcial",
+      "type": "PATOLOGIA",
+      "start": 218,
+      "end": 232
+    },
+    {
+      "text": "accidente isquémico cerebral",
+      "type": "PATOLOGIA",
+      "start": 254,
+      "end": 282
+    },
+    {
+      "text": "arteria cerebral media",
+      "type": "ARTERIA",
+      "start": 300,
+      "end": 322
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 343,
+      "end": 359
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 375,
+      "end": 396
+    },
+    {
+      "text": "Angio-TC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 466,
+      "end": 496
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 590,
+      "end": 613
+    },
+    {
+      "text": "hipodensidad cortical",
+      "type": "PATOLOGIA",
+      "start": 631,
+      "end": 652
+    },
+    {
+      "text": "región opercular y frontoparietal izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 656,
+      "end": 699
+    },
+    {
+      "text": "ASPECTS 9/10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 777,
+      "end": 789
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "ARTERIA",
+      "start": 928,
+      "end": 960
+    },
+    {
+      "text": "segmento M2",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 962,
+      "end": 973
+    },
+    {
+      "text": "tiempo de tránsito medio (TTP)",
+      "type": "MEDIDA",
+      "start": 1003,
+      "end": 1033
+    },
+    {
+      "text": "flujo cerebral (CBF)",
+      "type": "MEDIDA",
+      "start": 1056,
+      "end": 1076
+    },
+    {
+      "text": "volumen cerebral (CBV)",
+      "type": "MEDIDA",
+      "start": 1118,
+      "end": 1140
+    },
+    {
+      "text": "hipoperfusión isquémica",
+      "type": "PATOLOGIA",
+      "start": 1179,
+      "end": 1202
+    },
+    {
+      "text": "Oclusión completa",
+      "type": "PATOLOGIA",
+      "start": 1255,
+      "end": 1272
+    },
+    {
+      "text": "segmento M2 medial izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1277,
+      "end": 1305
+    },
+    {
+      "text": "arterias intracraneales principales",
+      "type": "ARTERIA",
+      "start": 1349,
+      "end": 1384
+    },
+    {
+      "text": "estenosis significativas",
+      "type": "PATOLOGIA",
+      "start": 1422,
+      "end": 1446
+    },
+    {
+      "text": "territorio de arteria cerebral media distal izquierda (M2)",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1548,
+      "end": 1606
+    },
+    {
+      "text": "oclusión vascular confirmada",
+      "type": "PATOLOGIA",
+      "start": 1611,
+      "end": 1639
+    },
+    {
+      "text": "signos de hipoperfusión en fase temprana",
+      "type": "PATOLOGIA",
+      "start": 1642,
+      "end": 1682
+    },
+    {
+      "text": "ASPECTS 9/10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 777,
+      "end": 789
+    },
+    {
+      "text": "hemorragia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 590,
+      "end": 600
+    },
+    {
+      "text": "lesión parenquimatosa establecida",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1728,
+      "end": 1761
+    },
+    {
+      "text": "Oclusión isquémica aguda de arteria cerebral media distal (segmento M2)",
+      "type": "PATOLOGIA",
+      "start": 1870,
+      "end": 1941
+    },
+    {
+      "text": "lesión consolidada",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1985,
+      "end": 2003
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "document_id": "informe_sintetico_20250804195045_19204",
+  "entities": [
+    {
+      "text": "hematoma hemorrágico",
+      "type": "PATOLOGIA",
+      "start": 401,
+      "end": 421
+    },
+    {
+      "text": "región talámica izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 425,
+      "end": 450
+    },
+    {
+      "text": "12 cc",
+      "type": "MEDIDA",
+      "start": 481,
+      "end": 486
+    },
+    {
+      "text": "aguda",
+      "type": "TEMPORALIDAD",
+      "start": 542,
+      "end": 547
+    },
+    {
+      "text": "edema perifocal",
+      "type": "PATOLOGIA",
+      "start": 694,
+      "end": 709
+    },
+    {
+      "text": "sin desviación significativa de la línea media",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 739,
+      "end": 785
+    },
+    {
+      "text": "No se observa hidrocefalia obstructiva",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 787,
+      "end": 825
+    },
+    {
+      "text": "alteración focal con reducción del flujo sanguíneo cerebral",
+      "type": "PATOLOGIA",
+      "start": 864,
+      "end": 923
+    },
+    {
+      "text": "Angio-TC intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 980,
+      "end": 1001
+    },
+    {
+      "text": "sin hallazgos de estenosis ni oclusiones arteriales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1002,
+      "end": 1053
+    },
+    {
+      "text": "Hematoma intraparenquimatoso talámico izquierdo",
+      "type": "PATOLOGIA",
+      "start": 1078,
+      "end": 1125
+    },
+    {
+      "text": "extensión ventricular leve",
+      "type": "PATOLOGIA",
+      "start": 1130,
+      "end": 1156
+    },
+    {
+      "text": "sin efecto de masa significativo ni hidrocefalia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1178,
+      "end": 1226
+    }
+  ]
+}

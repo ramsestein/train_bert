@@ -1,0 +1,107 @@
+{
+  "document_id": "informe_sintetico_20250804195045_08357",
+  "entities": [
+    {
+      "text": "coleccion subdural aguda frontotemporal izquierda",
+      "type": "PATOLOGIA",
+      "start": 497,
+      "end": 546
+    },
+    {
+      "text": "frontal",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 579,
+      "end": 586
+    },
+    {
+      "text": "temporal",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 528,
+      "end": 536
+    },
+    {
+      "text": "12 mm",
+      "type": "MEDIDA",
+      "start": 649,
+      "end": 654
+    },
+    {
+      "text": "hematoma",
+      "type": "PATOLOGIA",
+      "start": 659,
+      "end": 667
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 878,
+      "end": 885
+    },
+    {
+      "text": "5 mm",
+      "type": "MEDIDA",
+      "start": 905,
+      "end": 909
+    },
+    {
+      "text": "infarto agudo",
+      "type": "PATOLOGIA",
+      "start": 998,
+      "end": 1011
+    },
+    {
+      "text": "hemorragia intraparenquimatosa",
+      "type": "PATOLOGIA",
+      "start": 1015,
+      "end": 1045
+    },
+    {
+      "text": "izquierdo",
+      "type": "LATERALIDAD",
+      "start": 1121,
+      "end": 1130
+    },
+    {
+      "text": "permeabilidad",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1184,
+      "end": 1197
+    },
+    {
+      "text": "Sin hallazgos indicativos de alteración significativa del flujo cerebral",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1214,
+      "end": 1286
+    },
+    {
+      "text": "Sin evidencia de infarto cerebral agudo ni hemorragia intraparenquimatosa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1702,
+      "end": 1775
+    },
+    {
+      "text": "arterias cerebrales principales",
+      "type": "ARTERIA",
+      "start": 1422,
+      "end": 1453
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 275,
+      "end": 291
+    },
+    {
+      "text": "TC PERFUSIÓN",
+      "type": "TECNICA_IMAGEN",
+      "start": 1200,
+      "end": 1212
+    },
+    {
+      "text": "ANGIO-TC EXTRA E INTRACRANEAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 1379,
+      "end": 1408
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "document_id": "informe_sintetico_20250804195045_17710",
+  "entities": [
+    {
+      "text": "infarto isquémico",
+      "type": "PATOLOGIA",
+      "start": 612,
+      "end": 629
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 505,
+      "end": 537
+    },
+    {
+      "text": "ACM",
+      "type": "ARTERIA",
+      "start": 1013,
+      "end": 1016
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 528,
+      "end": 537
+    },
+    {
+      "text": "aguda",
+      "type": "TEMPORALIDAD",
+      "start": 638,
+      "end": 643
+    },
+    {
+      "text": "disminución del flujo cerebral (CBF) y volumen cerebral (CBV) reducido",
+      "type": "PATOLOGIA",
+      "start": 1032,
+      "end": 1102
+    },
+    {
+      "text": "disección arterial",
+      "type": "PATOLOGIA",
+      "start": 292,
+      "end": 310
+    },
+    {
+      "text": "arteria carótida interna izquierda",
+      "type": "ARTERIA",
+      "start": 1285,
+      "end": 1319
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 528,
+      "end": 537
+    },
+    {
+      "text": "No se identifican hemorrágias intra ni extraaxiales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 645,
+      "end": 696
+    },
+    {
+      "text": "No se evidencian aneurismas ni malformaciones vasculares",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1568,
+      "end": 1624
+    },
+    {
+      "text": "No se observan complicaciones hemorrágicas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1990,
+      "end": 2032
+    },
+    {
+      "text": "TC Basal + TC Perfusión Cerebral + AngioTC Arterial Intracraneal y Cervical",
+      "type": "TECNICA_IMAGEN",
+      "start": 341,
+      "end": 416
+    },
+    {
+      "text": "TC PERFUSIÓN",
+      "type": "TECNICA_IMAGEN",
+      "start": 887,
+      "end": 899
+    },
+    {
+      "text": "ANGIO-TC ARTERIAL INTRACRANEAL Y CERVICAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 1181,
+      "end": 1222
+    }
+  ]
+}

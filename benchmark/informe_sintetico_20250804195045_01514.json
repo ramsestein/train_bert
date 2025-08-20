@@ -1,0 +1,89 @@
+{
+  "document_id": "informe_sintetico_20250804195045_01514",
+  "entities": [
+    {
+      "text": "infartos isquémicos agudos",
+      "type": "PATOLOGIA",
+      "start": 793,
+      "end": 819
+    },
+    {
+      "text": "lóbulos frontales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 652,
+      "end": 669
+    },
+    {
+      "text": "ASPECTS variable: 6 en hemisferio derecho",
+      "type": "PUNTUACION_CLINICA",
+      "start": 858,
+      "end": 899
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 1325,
+      "end": 1339
+    },
+    {
+      "text": "penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 2039,
+      "end": 2057
+    },
+    {
+      "text": "arteria cerebral posterior izquierda",
+      "type": "ARTERIA",
+      "start": 1541,
+      "end": 1577
+    },
+    {
+      "text": "estenosis significativa (>70%) en el segmento cervical de la arteria carótida interna izquierda",
+      "type": "PATOLOGIA",
+      "start": 1600,
+      "end": 1695
+    },
+    {
+      "text": "carótida interna izquierda",
+      "type": "ARTERIA",
+      "start": 1669,
+      "end": 1695
+    },
+    {
+      "text": "bilateralmente",
+      "type": "LATERALIDAD",
+      "start": 1239,
+      "end": 1253
+    },
+    {
+      "text": "No se identifica hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 929,
+      "end": 969
+    },
+    {
+      "text": "Ausencia de hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2234,
+      "end": 2269
+    },
+    {
+      "text": "TC craneal basal sin contraste inicial",
+      "type": "TECNICA_IMAGEN",
+      "start": 314,
+      "end": 352
+    },
+    {
+      "text": "perfusión cerebral dinámica",
+      "type": "TECNICA_IMAGEN",
+      "start": 365,
+      "end": 392
+    },
+    {
+      "text": "AngioTC arterial intra y extracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 395,
+      "end": 432
+    }
+  ]
+}

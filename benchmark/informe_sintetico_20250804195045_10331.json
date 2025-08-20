@@ -1,0 +1,107 @@
+{
+  "document_id": "informe_sintetico_20250804195045_10331",
+  "entities": [
+    {
+      "text": "isquemia cerebral aguda",
+      "type": "PATOLOGIA",
+      "start": 239,
+      "end": 262
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 488,
+      "end": 511
+    },
+    {
+      "text": "infarto establecido",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 691,
+      "end": 710
+    },
+    {
+      "text": "ACM",
+      "type": "ARTERIA",
+      "start": 755,
+      "end": 758
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 964,
+      "end": 973
+    },
+    {
+      "text": "prolongación del tiempo de tránsito medio (MTT)",
+      "type": "MEDIDA",
+      "start": 787,
+      "end": 834
+    },
+    {
+      "text": "aumento del tiempo hasta el pico (TTP)",
+      "type": "MEDIDA",
+      "start": 837,
+      "end": 875
+    },
+    {
+      "text": "descenso moderado en el flujo cerebral sanguíneo (CBF)",
+      "type": "MEDIDA",
+      "start": 979,
+      "end": 1033
+    },
+    {
+      "text": "mantenimiento parcial del volumen sanguíneo cerebral (CBV)",
+      "type": "MEDIDA",
+      "start": 1036,
+      "end": 1094
+    },
+    {
+      "text": "oclusión trombótica distal",
+      "type": "PATOLOGIA",
+      "start": 1289,
+      "end": 1315
+    },
+    {
+      "text": "ACM",
+      "type": "ARTERIA",
+      "start": 755,
+      "end": 758
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 964,
+      "end": 973
+    },
+    {
+      "text": "ASPECTS 9",
+      "type": "PUNTUACION_CLINICA",
+      "start": 1734,
+      "end": 1743
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 488,
+      "end": 511
+    },
+    {
+      "text": "arteria cerebral media distal (M2/M3)",
+      "type": "ARTERIA",
+      "start": 2079,
+      "end": 2116
+    },
+    {
+      "text": "penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1137,
+      "end": 1155
+    },
+    {
+      "text": "oclusión arterial distal",
+      "type": "PATOLOGIA",
+      "start": 2150,
+      "end": 2174
+    }
+  ]
+}

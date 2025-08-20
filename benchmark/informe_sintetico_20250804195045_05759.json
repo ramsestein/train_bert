@@ -1,0 +1,137 @@
+{
+  "document_id": "informe_sintetico_20250804195045_05759",
+  "entities": [
+    {
+      "text": "ictus isquémico",
+      "type": "PATOLOGIA",
+      "start": 350,
+      "end": 365
+    },
+    {
+      "text": "áreas hipodensas bilaterales",
+      "type": "PATOLOGIA",
+      "start": 574,
+      "end": 602
+    },
+    {
+      "text": "regiones corticales fronto-parietales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 606,
+      "end": 643
+    },
+    {
+      "text": "frontera arterial (watershed)",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 657,
+      "end": 686
+    },
+    {
+      "text": "arterias cerebrales anterior y media",
+      "type": "ARTERIA",
+      "start": 716,
+      "end": 752
+    },
+    {
+      "text": "hemorragia intra o extraaxial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 835,
+      "end": 864
+    },
+    {
+      "text": "retraso bilateral en territorios de watershed fronto-parietales",
+      "type": "PATOLOGIA",
+      "start": 1079,
+      "end": 1142
+    },
+    {
+      "text": "reducción moderada del flujo cerebral (CBF)",
+      "type": "PATOLOGIA",
+      "start": 1147,
+      "end": 1190
+    },
+    {
+      "text": "volumen cerebral (CBV)",
+      "type": "PATOLOGIA",
+      "start": 1193,
+      "end": 1215
+    },
+    {
+      "text": "hipoperfusión",
+      "type": "PATOLOGIA",
+      "start": 1248,
+      "end": 1261
+    },
+    {
+      "text": "estenosis significativa (>70%)",
+      "type": "PATOLOGIA",
+      "start": 1412,
+      "end": 1442
+    },
+    {
+      "text": "arteria carótida interna derecha",
+      "type": "ARTERIA",
+      "start": 1449,
+      "end": 1481
+    },
+    {
+      "text": "arterias cerebrales anterior, media y posterior",
+      "type": "ARTERIA",
+      "start": 1547,
+      "end": 1594
+    },
+    {
+      "text": "hemorragia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 835,
+      "end": 845
+    },
+    {
+      "text": "infarto isquémico",
+      "type": "PATOLOGIA",
+      "start": 1819,
+      "end": 1836
+    },
+    {
+      "text": "hipoperfusión",
+      "type": "PATOLOGIA",
+      "start": 1248,
+      "end": 1261
+    },
+    {
+      "text": "estenosis significativa de arteria carótida interna derecha",
+      "type": "PATOLOGIA",
+      "start": 2386,
+      "end": 2445
+    },
+    {
+      "text": "hemorragia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 835,
+      "end": 845
+    },
+    {
+      "text": "penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1347,
+      "end": 1365
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 386,
+      "end": 402
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 429,
+      "end": 450
+    },
+    {
+      "text": "angioTC arterial intra y extracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 453,
+      "end": 490
+    }
+  ]
+}

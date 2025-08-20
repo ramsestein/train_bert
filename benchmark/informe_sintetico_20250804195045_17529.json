@@ -1,0 +1,77 @@
+{
+  "document_id": "informe_sintetico_20250804195045_17529",
+  "entities": [
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 1415,
+      "end": 1429
+    },
+    {
+      "text": "territorio cortical parietal izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 499,
+      "end": 537
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "ARTERIA",
+      "start": 827,
+      "end": 859
+    },
+    {
+      "text": "izquierdo",
+      "type": "LATERALIDAD",
+      "start": 528,
+      "end": 537
+    },
+    {
+      "text": "ASPECTS 9/10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 573,
+      "end": 585
+    },
+    {
+      "text": "TC Basal + TC Perfusión Cerebral + AngioTC Arterial Intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 277,
+      "end": 341
+    },
+    {
+      "text": "No se observa hemorragia intra ni extraaxial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 384,
+      "end": 428
+    },
+    {
+      "text": "Oclusión trombótica",
+      "type": "PATOLOGIA",
+      "start": 1063,
+      "end": 1082
+    },
+    {
+      "text": "segmento distal de arteria cerebral media izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1086,
+      "end": 1137
+    },
+    {
+      "text": "sin evidencias de estenosis significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1222,
+      "end": 1264
+    },
+    {
+      "text": "sin alteraciones",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1290,
+      "end": 1306
+    },
+    {
+      "text": "sin evidencia de hemorragia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1596,
+      "end": 1623
+    }
+  ]
+}

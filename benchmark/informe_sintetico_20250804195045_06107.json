@@ -1,0 +1,275 @@
+{
+  "document_id": "informe_sintetico_20250804195045_06107",
+  "entities": [
+    {
+      "text": "hemiparesia derecha",
+      "type": "PATOLOGIA",
+      "start": 210,
+      "end": 229
+    },
+    {
+      "text": "afasia motora",
+      "type": "PATOLOGIA",
+      "start": 239,
+      "end": 252
+    },
+    {
+      "text": "2 horas",
+      "type": "TEMPORALIDAD",
+      "start": 288,
+      "end": 295
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 316,
+      "end": 332
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 348,
+      "end": 369
+    },
+    {
+      "text": "Angio-TC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 372,
+      "end": 402
+    },
+    {
+      "text": "signo de arteria hiperdensa",
+      "type": "PATOLOGIA",
+      "start": 468,
+      "end": 495
+    },
+    {
+      "text": "segmento M1",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 502,
+      "end": 513
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "ARTERIA",
+      "start": 520,
+      "end": 552
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 572,
+      "end": 595
+    },
+    {
+      "text": "lesiones expansivas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 599,
+      "end": 618
+    },
+    {
+      "text": "hipodensidades tempranas",
+      "type": "PATOLOGIA",
+      "start": 632,
+      "end": 656
+    },
+    {
+      "text": "territorio superficial izquierdo de la ACM",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 663,
+      "end": 705
+    },
+    {
+      "text": "núcleo caudado",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 717,
+      "end": 731
+    },
+    {
+      "text": "putamen",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 733,
+      "end": 740
+    },
+    {
+      "text": "corteza frontal y parietal adyacente",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 746,
+      "end": 782
+    },
+    {
+      "text": "pérdida moderada de la diferenciación cortico-subcortical",
+      "type": "PATOLOGIA",
+      "start": 788,
+      "end": 845
+    },
+    {
+      "text": "ASPECTS 6/10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 847,
+      "end": 859
+    },
+    {
+      "text": "desplazamientos de la línea media",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 868,
+      "end": 901
+    },
+    {
+      "text": "signos de herniación",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 905,
+      "end": 925
+    },
+    {
+      "text": "reducción del flujo cerebral",
+      "type": "PATOLOGIA",
+      "start": 993,
+      "end": 1021
+    },
+    {
+      "text": "aumento del tiempo de tránsito medio",
+      "type": "PATOLOGIA",
+      "start": 1030,
+      "end": 1066
+    },
+    {
+      "text": "territorio superficial izquierdo de la ACM",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 663,
+      "end": 705
+    },
+    {
+      "text": "preservación relativa del volumen cerebral",
+      "type": "PATOLOGIA",
+      "start": 1127,
+      "end": 1169
+    },
+    {
+      "text": "zona central",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1182,
+      "end": 1194
+    },
+    {
+      "text": "penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1234,
+      "end": 1252
+    },
+    {
+      "text": "Oclusión completa",
+      "type": "PATOLOGIA",
+      "start": 1291,
+      "end": 1308
+    },
+    {
+      "text": "segmento proximal M1",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1313,
+      "end": 1333
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "ARTERIA",
+      "start": 520,
+      "end": 552
+    },
+    {
+      "text": "arterias intracraneales restantes",
+      "type": "ARTERIA",
+      "start": 1378,
+      "end": 1411
+    },
+    {
+      "text": "permeables",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1424,
+      "end": 1434
+    },
+    {
+      "text": "signos de estenosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1439,
+      "end": 1458
+    },
+    {
+      "text": "malformaciones vasculares",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1475,
+      "end": 1500
+    },
+    {
+      "text": "aneurismas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1504,
+      "end": 1514
+    },
+    {
+      "text": "sistema vertebrobasilar",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1519,
+      "end": 1542
+    },
+    {
+      "text": "conservado",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1548,
+      "end": 1558
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 1610,
+      "end": 1624
+    },
+    {
+      "text": "territorio de la ACM izquierda proximal",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1628,
+      "end": 1667
+    },
+    {
+      "text": "ASPECTS 6/10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 847,
+      "end": 859
+    },
+    {
+      "text": "signo de arteria hiperdensa",
+      "type": "PATOLOGIA",
+      "start": 468,
+      "end": 495
+    },
+    {
+      "text": "área significativa de penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1212,
+      "end": 1252
+    },
+    {
+      "text": "tejido potencialmente salvable",
+      "type": "PATOLOGIA",
+      "start": 1828,
+      "end": 1858
+    },
+    {
+      "text": "Oclusión completa",
+      "type": "PATOLOGIA",
+      "start": 1291,
+      "end": 1308
+    },
+    {
+      "text": "segmento M1 de ACM izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1882,
+      "end": 1910
+    },
+    {
+      "text": "complicaciones hemorrágicas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1939,
+      "end": 1966
+    }
+  ]
+}

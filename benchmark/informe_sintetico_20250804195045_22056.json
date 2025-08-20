@@ -1,0 +1,71 @@
+{
+  "document_id": "informe_sintetico_20250804195045_22056",
+  "entities": [
+    {
+      "text": "ictus",
+      "type": "PATOLOGIA",
+      "start": 244,
+      "end": 249
+    },
+    {
+      "text": "arteria cerebral anterior",
+      "type": "ARTERIA",
+      "start": 267,
+      "end": 292
+    },
+    {
+      "text": "arteria cerebral anterior (ACA) izquierda",
+      "type": "ARTERIA",
+      "start": 1144,
+      "end": 1185
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 1176,
+      "end": 1185
+    },
+    {
+      "text": "A2",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1426,
+      "end": 1428
+    },
+    {
+      "text": "prolongación significativa",
+      "type": "MEDIDA",
+      "start": 1007,
+      "end": 1033
+    },
+    {
+      "text": "sin estenosis significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1527,
+      "end": 1555
+    },
+    {
+      "text": "sin alteraciones",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1745,
+      "end": 1761
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 313,
+      "end": 329
+    },
+    {
+      "text": "angiografía por angio-TC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 419,
+      "end": 465
+    },
+    {
+      "text": "estudio de perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 345,
+      "end": 374
+    }
+  ]
+}

@@ -1,0 +1,149 @@
+{
+  "document_id": "informe_sintetico_20250804195045_16244",
+  "entities": [
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 259,
+      "end": 273
+    },
+    {
+      "text": "hipodensidad sutil",
+      "type": "PATOLOGIA",
+      "start": 598,
+      "end": 616
+    },
+    {
+      "text": "lesión isquémica",
+      "type": "PATOLOGIA",
+      "start": 726,
+      "end": 742
+    },
+    {
+      "text": "disminución concomitante del flujo sanguíneo cerebral",
+      "type": "PATOLOGIA",
+      "start": 1248,
+      "end": 1301
+    },
+    {
+      "text": "penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1404,
+      "end": 1422
+    },
+    {
+      "text": "ateromatosis leve",
+      "type": "PATOLOGIA",
+      "start": 1505,
+      "end": 1522
+    },
+    {
+      "text": "Oclusión parcial",
+      "type": "PATOLOGIA",
+      "start": 1621,
+      "end": 1637
+    },
+    {
+      "text": "estenosis significativa proximal",
+      "type": "PATOLOGIA",
+      "start": 1783,
+      "end": 1815
+    },
+    {
+      "text": "tronco basilar",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1166,
+      "end": 1180
+    },
+    {
+      "text": "PICA derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 2206,
+      "end": 2218
+    },
+    {
+      "text": "arteria vertebral derecha",
+      "type": "ARTERIA",
+      "start": 1662,
+      "end": 1687
+    },
+    {
+      "text": "tronco basilar",
+      "type": "ARTERIA",
+      "start": 1166,
+      "end": 1180
+    },
+    {
+      "text": "PICA",
+      "type": "ARTERIA",
+      "start": 1237,
+      "end": 1241
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 1228,
+      "end": 1235
+    },
+    {
+      "text": "izquierdas",
+      "type": "LATERALIDAD",
+      "start": 1912,
+      "end": 1922
+    },
+    {
+      "text": "aproximadamente del 70%",
+      "type": "MEDIDA",
+      "start": 1817,
+      "end": 1840
+    },
+    {
+      "text": "agudo",
+      "type": "TEMPORALIDAD",
+      "start": 2110,
+      "end": 2115
+    },
+    {
+      "text": "No se identifican hemorragias agudas ni lesiones expansivas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 526,
+      "end": 585
+    },
+    {
+      "text": "No hay desplazamiento de estructuras de la línea media ni signos de edema cerebral significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 853,
+      "end": 949
+    },
+    {
+      "text": "Sin estenosis ni oclusiones en las arterias cerebrales anteriores, medias o posteriores",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1935,
+      "end": 2022
+    },
+    {
+      "text": "No se observan signos de disección arterial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2024,
+      "end": 2067
+    },
+    {
+      "text": "TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANG IOTC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 72,
+      "end": 140
+    },
+    {
+      "text": "TC de cráneo basal urgente",
+      "type": "TECNICA_IMAGEN",
+      "start": 324,
+      "end": 350
+    },
+    {
+      "text": "angio-TC de arterias intracraneales y troncos supraórticos",
+      "type": "TECNICA_IMAGEN",
+      "start": 384,
+      "end": 442
+    }
+  ]
+}

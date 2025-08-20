@@ -1,0 +1,137 @@
+{
+  "document_id": "informe_sintetico_20250804195045_24918",
+  "entities": [
+    {
+      "text": "isquemia",
+      "type": "PATOLOGIA",
+      "start": 416,
+      "end": 424
+    },
+    {
+      "text": "hemorragia intra o extraaxial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 698,
+      "end": 727
+    },
+    {
+      "text": "infartos establecidos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 731,
+      "end": 752
+    },
+    {
+      "text": "isquemia",
+      "type": "PATOLOGIA",
+      "start": 416,
+      "end": 424
+    },
+    {
+      "text": "arterias cerebrales anterior y media",
+      "type": "ARTERIA",
+      "start": 1058,
+      "end": 1094
+    },
+    {
+      "text": "izquierdo",
+      "type": "LATERALIDAD",
+      "start": 1109,
+      "end": 1118
+    },
+    {
+      "text": "tiempo de tránsito medio (MTT)",
+      "type": "MEDIDA",
+      "start": 1136,
+      "end": 1166
+    },
+    {
+      "text": "tiempo hasta el pico (TTP)",
+      "type": "MEDIDA",
+      "start": 1169,
+      "end": 1195
+    },
+    {
+      "text": "flujo sanguíneo cerebral (CBF)",
+      "type": "MEDIDA",
+      "start": 1227,
+      "end": 1257
+    },
+    {
+      "text": "volumen cerebral (CBV)",
+      "type": "MEDIDA",
+      "start": 1260,
+      "end": 1282
+    },
+    {
+      "text": "penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1313,
+      "end": 1331
+    },
+    {
+      "text": "estenosis severa (>80%)",
+      "type": "PATOLOGIA",
+      "start": 1358,
+      "end": 1381
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "ARTERIA",
+      "start": 1472,
+      "end": 1504
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 1410,
+      "end": 1419
+    },
+    {
+      "text": "sin trombosis ni aneurismas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1574,
+      "end": 1601
+    },
+    {
+      "text": "infarto cortical establecido",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1713,
+      "end": 1741
+    },
+    {
+      "text": "isquemia",
+      "type": "PATOLOGIA",
+      "start": 416,
+      "end": 424
+    },
+    {
+      "text": "territorios watershed fronto-parietal izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1783,
+      "end": 1830
+    },
+    {
+      "text": "estenosis carotídea significativa",
+      "type": "PATOLOGIA",
+      "start": 1885,
+      "end": 1918
+    },
+    {
+      "text": "estenosis carotídea severa izquierda",
+      "type": "PATOLOGIA",
+      "start": 1969,
+      "end": 2005
+    },
+    {
+      "text": "flujo cerebral",
+      "type": "MEDIDA",
+      "start": 2037,
+      "end": 2051
+    },
+    {
+      "text": "Imagen multiplanar en cortes axial, sagital y coronal con reconstrucción 3D del árbol arterial cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 2328,
+      "end": 2431
+    }
+  ]
+}

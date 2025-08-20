@@ -1,0 +1,251 @@
+{
+  "document_id": "informe_sintetico_20250804195045_01072",
+  "entities": [
+    {
+      "text": "hipodensidad",
+      "type": "PATOLOGIA",
+      "start": 497,
+      "end": 509
+    },
+    {
+      "text": "bilaterales",
+      "type": "LATERALIDAD",
+      "start": 510,
+      "end": 521
+    },
+    {
+      "text": "regiones parietooccipitales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 544,
+      "end": 571
+    },
+    {
+      "text": "zonas temporales posteriores",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 597,
+      "end": 625
+    },
+    {
+      "text": "subcorticales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 628,
+      "end": 641
+    },
+    {
+      "text": "hemorragia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 660,
+      "end": 670
+    },
+    {
+      "text": "efecto masa significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 674,
+      "end": 699
+    },
+    {
+      "text": "desplazamientos de la línea media",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 716,
+      "end": 749
+    },
+    {
+      "text": "sistema ventricular",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 755,
+      "end": 774
+    },
+    {
+      "text": "morfología y tamaño dentro de límites normales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 783,
+      "end": 829
+    },
+    {
+      "text": "Cisternas basales libres",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 831,
+      "end": 855
+    },
+    {
+      "text": "Disminución moderada del volumen sanguíneo cerebral (CBV)",
+      "type": "PATOLOGIA",
+      "start": 873,
+      "end": 930
+    },
+    {
+      "text": "tiempo medio de tránsito (MTT)",
+      "type": "MEDIDA",
+      "start": 971,
+      "end": 1001
+    },
+    {
+      "text": "isquemia franca",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1033,
+      "end": 1048
+    },
+    {
+      "text": "infarto establecido",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1052,
+      "end": 1071
+    },
+    {
+      "text": "perfusión global se mantiene adecuada",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1076,
+      "end": 1113
+    },
+    {
+      "text": "discordancias significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1119,
+      "end": 1147
+    },
+    {
+      "text": "arterias cerebrales",
+      "type": "ARTERIA",
+      "start": 1189,
+      "end": 1208
+    },
+    {
+      "text": "circulaciones anterior y posterior",
+      "type": "ARTERIA",
+      "start": 1225,
+      "end": 1259
+    },
+    {
+      "text": "estenosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1304,
+      "end": 1313
+    },
+    {
+      "text": "oclusión",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1315,
+      "end": 1323
+    },
+    {
+      "text": "vasculitis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1327,
+      "end": 1337
+    },
+    {
+      "text": "aneurismas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1354,
+      "end": 1364
+    },
+    {
+      "text": "malformaciones vasculares",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1368,
+      "end": 1393
+    },
+    {
+      "text": "leucoencefalopatía posterior reversible (PRES)",
+      "type": "PATOLOGIA",
+      "start": 257,
+      "end": 303
+    },
+    {
+      "text": "edema vasogénico bilateral",
+      "type": "PATOLOGIA",
+      "start": 1510,
+      "end": 1536
+    },
+    {
+      "text": "territorios parietooccipitales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1540,
+      "end": 1570
+    },
+    {
+      "text": "signos de infarto",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1576,
+      "end": 1593
+    },
+    {
+      "text": "hemorragia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 660,
+      "end": 670
+    },
+    {
+      "text": "patrón de perfusión",
+      "type": "PATOLOGIA",
+      "start": 1612,
+      "end": 1631
+    },
+    {
+      "text": "alteración hemodinámica",
+      "type": "PATOLOGIA",
+      "start": 1640,
+      "end": 1663
+    },
+    {
+      "text": "compromiso isquémico irreversible",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1668,
+      "end": 1701
+    },
+    {
+      "text": "angiografía TC descarta compromiso vascular obstructivo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1706,
+      "end": 1761
+    },
+    {
+      "text": "Leucoencefalopatía posterior reversible",
+      "type": "PATOLOGIA",
+      "start": 2032,
+      "end": 2071
+    },
+    {
+      "text": "edema vasogénico en territorios parietooccipitales",
+      "type": "PATOLOGIA",
+      "start": 2076,
+      "end": 2126
+    },
+    {
+      "text": "infarto",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1052,
+      "end": 1059
+    },
+    {
+      "text": "hemorragia asociada",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2143,
+      "end": 2162
+    },
+    {
+      "text": "TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANGIOTC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 2190,
+      "end": 2257
+    },
+    {
+      "text": "Estudios vasculares intracraneales normales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2276,
+      "end": 2319
+    },
+    {
+      "text": "estenosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1304,
+      "end": 1313
+    },
+    {
+      "text": "trombosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2351,
+      "end": 2360
+    }
+  ]
+}

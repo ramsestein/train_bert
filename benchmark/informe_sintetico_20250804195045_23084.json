@@ -1,0 +1,101 @@
+{
+  "document_id": "informe_sintetico_20250804195045_23084",
+  "entities": [
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 254,
+      "end": 268
+    },
+    {
+      "text": "tronco encefálico",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 763,
+      "end": 780
+    },
+    {
+      "text": "protuberancia",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 811,
+      "end": 824
+    },
+    {
+      "text": "cerebelo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 995,
+      "end": 1003
+    },
+    {
+      "text": "vertebrobasilar",
+      "type": "ARTERIA",
+      "start": 269,
+      "end": 284
+    },
+    {
+      "text": "arteria vertebral derecha",
+      "type": "ARTERIA",
+      "start": 1336,
+      "end": 1361
+    },
+    {
+      "text": "arteria basilar",
+      "type": "ARTERIA",
+      "start": 1388,
+      "end": 1403
+    },
+    {
+      "text": "70%",
+      "type": "MEDIDA",
+      "start": 1305,
+      "end": 1308
+    },
+    {
+      "text": "disminución",
+      "type": "PATOLOGIA",
+      "start": 1056,
+      "end": 1067
+    },
+    {
+      "text": "sin estenosis significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1646,
+      "end": 1674
+    },
+    {
+      "text": "agudo",
+      "type": "TEMPORALIDAD",
+      "start": 186,
+      "end": 191
+    },
+    {
+      "text": "hipoperfusión",
+      "type": "PATOLOGIA",
+      "start": 1159,
+      "end": 1172
+    },
+    {
+      "text": "signos de penumbra extensa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1193,
+      "end": 1219
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 305,
+      "end": 321
+    },
+    {
+      "text": "TC perfusión",
+      "type": "TECNICA_IMAGEN",
+      "start": 332,
+      "end": 344
+    },
+    {
+      "text": "angio-TC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 396,
+      "end": 426
+    }
+  ]
+}

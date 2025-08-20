@@ -1,0 +1,113 @@
+{
+  "document_id": "informe_sintetico_20250804195045_01290",
+  "entities": [
+    {
+      "text": "hemiparesia derecha",
+      "type": "PATOLOGIA",
+      "start": 189,
+      "end": 208
+    },
+    {
+      "text": "ictus lacunar",
+      "type": "PATOLOGIA",
+      "start": 239,
+      "end": 252
+    },
+    {
+      "text": "hipodensidad",
+      "type": "PATOLOGIA",
+      "start": 413,
+      "end": 425
+    },
+    {
+      "text": "infarto lacunar agudo",
+      "type": "PATOLOGIA",
+      "start": 564,
+      "end": 585
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 467,
+      "end": 476
+    },
+    {
+      "text": "ASPECTS 9",
+      "type": "PUNTUACION_CLINICA",
+      "start": 704,
+      "end": 713
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 1001,
+      "end": 1015
+    },
+    {
+      "text": "ateromatosis arterial leve",
+      "type": "PATOLOGIA",
+      "start": 1236,
+      "end": 1262
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 467,
+      "end": 476
+    },
+    {
+      "text": "sin evidencia de sangrado",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1434,
+      "end": 1459
+    },
+    {
+      "text": "permeables",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1211,
+      "end": 1221
+    },
+    {
+      "text": "infarto lacunar agudo",
+      "type": "PATOLOGIA",
+      "start": 564,
+      "end": 585
+    },
+    {
+      "text": "sin complicaciones hemorrágicas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1864,
+      "end": 1895
+    },
+    {
+      "text": "permeables",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1211,
+      "end": 1221
+    },
+    {
+      "text": "TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANGIOTC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 1955,
+      "end": 2022
+    },
+    {
+      "text": "TC craneal basal urgente",
+      "type": "TECNICA_IMAGEN",
+      "start": 273,
+      "end": 297
+    },
+    {
+      "text": "perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 300,
+      "end": 318
+    },
+    {
+      "text": "angioTC intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 321,
+      "end": 341
+    }
+  ]
+}

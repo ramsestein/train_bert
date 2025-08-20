@@ -1,0 +1,29 @@
+UO_PACN (Unidad Organizativa Médica): RADIO
+
+PRUEB (Prueba solicitada): TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANG IOTC ARTERIAL INTRACRANEAL)
+
+CLIN (Resumen clínico): Mujer 38 años con cefalea intensa de inicio súbito y focalidad hemisférica izquierda, sospecha clínica de trombosis venosa cerebral.
+
+OBSR (Protocolo): Protocolo código ictus con TC craneal basal, estudio de perfusión cerebral y angiografía venosa y arterial intracraneal.
+
+RESL (Resultados): TC CRANEAL BASAL:  
+No se evidencian hemorragias intra ni extraaxiales. Se observa leve aumento de densidad lineal en el seno transverso y sigmoideo derecho, sugestivo de trombosis venosa. La diferenciación cortico-subcortical está conservada. No se identifican áreas de infarto agudo en el parénquima cerebral. Estructuras de la línea media centradas. Sistema ventricular normal en tamaño y morfología. Cisternas basales libres.  
+
+TC PERFUSIÓN:  
+Se observa retraso del tiempo máximo (Tmax) y aumento del tiempo de tránsito en el territorio correspondiente al seno transverso derecho, con reducción discreta del flujo sanguíneo cerebral (CBF) en regiones adyacentes, sin disminución significativa del volumen cerebral (CBV).  
+
+ANGIO-TC ARTERIAL Y VENOSA INTRACRANEAL:  
+Ausencia de flujo venoso en el seno transverso y sigmoideo derechos, con defecto de repleción compatible con trombosis venosa. Arterias cerebrales permeables sin estenosis significativas. No se identifican aneurismas ni malformaciones vasculares.  
+
+CONCL (Conclusiones):  
+Hallazgos compatibles con trombosis venosa cerebral en seno transverso y sigmoideo derechos. No complicaciones hemorrágicas asociadas ni infarto cerebral agudo visible en la actualidad. Se recomienda correlación clínica y neurológica urgente para manejo específico.
+
+ACTI_ADICI (Actividad adicional): Se sugiere estudio complementario con RM venosa para valoración detallada y seguimiento evolutivo.
+
+ICON (Estudio): @RADIO_VEN@
+
+X00DIATXT (Texto del diagnóstico ACR): Trombo en seno venoso transverso y sigmoideo derecho con alteraciones hemodinámicas secundarias sin hemorragia ni infarto agudo.
+
+EST_T_DES (Descripción): TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANGIOTC ARTERIAL INTRACRANEAL)
+
+ZVASOS_D (Der.): Estudio vascular por angio-TC arterial y venosa intracraneal

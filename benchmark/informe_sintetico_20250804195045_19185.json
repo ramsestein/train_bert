@@ -1,0 +1,107 @@
+{
+  "document_id": "informe_sintetico_20250804195045_19185",
+  "entities": [
+    {
+      "text": "ictus isquémico",
+      "type": "PATOLOGIA",
+      "start": 382,
+      "end": 397
+    },
+    {
+      "text": "pérdida ligera de la diferenciación cortico-subcortical",
+      "type": "PATOLOGIA",
+      "start": 545,
+      "end": 600
+    },
+    {
+      "text": "regiones parieto-occipitales bilaterales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 604,
+      "end": 644
+    },
+    {
+      "text": "arterias cerebrales media y posterior",
+      "type": "ARTERIA",
+      "start": 734,
+      "end": 771
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 788,
+      "end": 797
+    },
+    {
+      "text": "zonas de reducción moderada del flujo cerebral (CBF)",
+      "type": "PATOLOGIA",
+      "start": 993,
+      "end": 1045
+    },
+    {
+      "text": "aumento del tiempo hasta el pico (TTP)",
+      "type": "PATOLOGIA",
+      "start": 1048,
+      "end": 1086
+    },
+    {
+      "text": "regiones watershed parieto-occipitales bilaterales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1094,
+      "end": 1144
+    },
+    {
+      "text": "hipoperfusión prolongada",
+      "type": "PATOLOGIA",
+      "start": 1172,
+      "end": 1196
+    },
+    {
+      "text": "sin compromiso volumétrico del tejido (CBV preservado)",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1197,
+      "end": 1251
+    },
+    {
+      "text": "ausencia de oclusión o estenosis crítica",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1340,
+      "end": 1380
+    },
+    {
+      "text": "flujo conservado",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1537,
+      "end": 1553
+    },
+    {
+      "text": "Infarto por hipoperfusión en zonas watershed cerebrales bilaterales parieto-occipitales",
+      "type": "PATOLOGIA",
+      "start": 1578,
+      "end": 1665
+    },
+    {
+      "text": "infarto isquémico en fase aguda",
+      "type": "PATOLOGIA",
+      "start": 1697,
+      "end": 1728
+    },
+    {
+      "text": "Infarto isquémico por hipoperfusión en zonas watershed cerebrales bilaterales",
+      "type": "PATOLOGIA",
+      "start": 2037,
+      "end": 2114
+    },
+    {
+      "text": "sin evidencia de hemorragia ni oclusión vascular",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2115,
+      "end": 2163
+    },
+    {
+      "text": "TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANGIOTC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 2191,
+      "end": 2258
+    }
+  ]
+}

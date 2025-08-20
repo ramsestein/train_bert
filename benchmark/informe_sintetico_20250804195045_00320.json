@@ -1,0 +1,95 @@
+{
+  "document_id": "informe_sintetico_20250804195045_00320",
+  "entities": [
+    {
+      "text": "infarto cerebral",
+      "type": "PATOLOGIA",
+      "start": 345,
+      "end": 361
+    },
+    {
+      "text": "hipoperfusión",
+      "type": "PATOLOGIA",
+      "start": 366,
+      "end": 379
+    },
+    {
+      "text": "hipodensidad bilateral y simétrica",
+      "type": "PATOLOGIA",
+      "start": 597,
+      "end": 631
+    },
+    {
+      "text": "territorios watershead",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 707,
+      "end": 729
+    },
+    {
+      "text": "prolongación del tiempo de tránsito medio (TTM)",
+      "type": "MEDIDA",
+      "start": 1037,
+      "end": 1084
+    },
+    {
+      "text": "aumento del tiempo hasta el pico (TTP)",
+      "type": "MEDIDA",
+      "start": 1087,
+      "end": 1125
+    },
+    {
+      "text": "reducción moderada del flujo cerebral (CBF)",
+      "type": "PATOLOGIA",
+      "start": 1188,
+      "end": 1231
+    },
+    {
+      "text": "volumen cerebral (CBV) conservado",
+      "type": "PATOLOGIA",
+      "start": 1234,
+      "end": 1267
+    },
+    {
+      "text": "infarto en zonas watershed bilaterales",
+      "type": "PATOLOGIA",
+      "start": 1695,
+      "end": 1733
+    },
+    {
+      "text": "episodio hipotensivo severo",
+      "type": "TEMPORALIDAD",
+      "start": 1765,
+      "end": 1792
+    },
+    {
+      "text": "arterias carótidas internas",
+      "type": "ARTERIA",
+      "start": 1489,
+      "end": 1516
+    },
+    {
+      "text": "sin estenosis significativa (<30%)",
+      "type": "MEDIDA",
+      "start": 1517,
+      "end": 1551
+    },
+    {
+      "text": "No se identifican oclusiones arteriales intracraneales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1349,
+      "end": 1403
+    },
+    {
+      "text": "No se evidencian signos de hemorragia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1794,
+      "end": 1831
+    },
+    {
+      "text": "No se observan signos de embolias ni estenosis críticas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1588,
+      "end": 1643
+    }
+  ]
+}

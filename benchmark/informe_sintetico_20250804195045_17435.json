@@ -1,0 +1,95 @@
+{
+  "document_id": "informe_sintetico_20250804195045_17435",
+  "entities": [
+    {
+      "text": "hemiparesia contralateral",
+      "type": "PATOLOGIA",
+      "start": 196,
+      "end": 221
+    },
+    {
+      "text": "accidente isquémico agudo",
+      "type": "PATOLOGIA",
+      "start": 252,
+      "end": 277
+    },
+    {
+      "text": "hipodensidad",
+      "type": "PATOLOGIA",
+      "start": 510,
+      "end": 522
+    },
+    {
+      "text": "arteria cerebral anterior izquierda",
+      "type": "ARTERIA",
+      "start": 546,
+      "end": 581
+    },
+    {
+      "text": "lóbulo frontal",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 616,
+      "end": 630
+    },
+    {
+      "text": "parietal",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 633,
+      "end": 641
+    },
+    {
+      "text": "ASPECTS ajustado 8/10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 734,
+      "end": 755
+    },
+    {
+      "text": "No se observa hemorragia intra ni extraaxial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 808,
+      "end": 852
+    },
+    {
+      "text": "territorio ACA izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1099,
+      "end": 1123
+    },
+    {
+      "text": "reducción del flujo sanguíneo cerebral",
+      "type": "PATOLOGIA",
+      "start": 1034,
+      "end": 1072
+    },
+    {
+      "text": "volumen cerebral (CBV)",
+      "type": "MEDIDA",
+      "start": 1155,
+      "end": 1177
+    },
+    {
+      "text": "oclusión arterial",
+      "type": "PATOLOGIA",
+      "start": 1361,
+      "end": 1378
+    },
+    {
+      "text": "segmento A2 de la ACA izquierda",
+      "type": "ARTERIA",
+      "start": 1705,
+      "end": 1736
+    },
+    {
+      "text": "No se identifican signos de hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1738,
+      "end": 1789
+    },
+    {
+      "text": "ASPECTS ajustado 8/10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 734,
+      "end": 755
+    }
+  ]
+}

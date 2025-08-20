@@ -1,0 +1,131 @@
+{
+  "document_id": "informe_sintetico_20250804195045_05602",
+  "entities": [
+    {
+      "text": "hemiparesia derecha",
+      "type": "PATOLOGIA",
+      "start": 217,
+      "end": 236
+    },
+    {
+      "text": "disartria",
+      "type": "PATOLOGIA",
+      "start": 246,
+      "end": 255
+    },
+    {
+      "text": "foco hipodenso",
+      "type": "PATOLOGIA",
+      "start": 443,
+      "end": 457
+    },
+    {
+      "text": "localización lacunar",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 461,
+      "end": 481
+    },
+    {
+      "text": "región posterior del brazo posterior de la cápsula interna izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 488,
+      "end": 556
+    },
+    {
+      "text": "hemorragia intraparenquimatosa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 618,
+      "end": 648
+    },
+    {
+      "text": "cambios crónicos significativos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 652,
+      "end": 683
+    },
+    {
+      "text": "infarto lacunar",
+      "type": "PATOLOGIA",
+      "start": 978,
+      "end": 993
+    },
+    {
+      "text": "cápsula interna izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 531,
+      "end": 556
+    },
+    {
+      "text": "agudo",
+      "type": "TEMPORALIDAD",
+      "start": 1505,
+      "end": 1510
+    },
+    {
+      "text": "flujo cerebral sanguíneo (CBF)",
+      "type": "MEDIDA",
+      "start": 1069,
+      "end": 1099
+    },
+    {
+      "text": "sin zonas de penumbra evidente",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1113,
+      "end": 1143
+    },
+    {
+      "text": "sin signos de estenosis ni placa ateromatosa significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1216,
+      "end": 1274
+    },
+    {
+      "text": "sin estenosis ni oclusiones visibles",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1319,
+      "end": 1355
+    },
+    {
+      "text": "sin alteraciones",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 837,
+      "end": 853
+    },
+    {
+      "text": "sin signos de complicación hemorrágica ni edema significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1560,
+      "end": 1621
+    },
+    {
+      "text": "sin área de penumbra",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1673,
+      "end": 1693
+    },
+    {
+      "text": "sin estenosis ni anomalías",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2102,
+      "end": 2128
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 276,
+      "end": 292
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 319,
+      "end": 340
+    },
+    {
+      "text": "AngioTC arterial intra y extracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 343,
+      "end": 380
+    }
+  ]
+}

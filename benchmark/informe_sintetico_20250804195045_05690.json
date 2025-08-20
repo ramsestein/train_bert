@@ -1,0 +1,143 @@
+{
+  "document_id": "informe_sintetico_20250804195045_05690",
+  "entities": [
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 291,
+      "end": 305
+    },
+    {
+      "text": "arteria cerebral anterior",
+      "type": "ARTERIA",
+      "start": 323,
+      "end": 348
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 1123,
+      "end": 1132
+    },
+    {
+      "text": "foco hipodenso",
+      "type": "PATOLOGIA",
+      "start": 625,
+      "end": 639
+    },
+    {
+      "text": "lóbulo frontal izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 674,
+      "end": 698
+    },
+    {
+      "text": "territorio vascular de la ACA",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 717,
+      "end": 746
+    },
+    {
+      "text": "ASPECTS modificado para ACA: 8",
+      "type": "PUNTUACION_CLINICA",
+      "start": 804,
+      "end": 834
+    },
+    {
+      "text": "Tiempo hasta el pico (TTP)",
+      "type": "MEDIDA",
+      "start": 1015,
+      "end": 1041
+    },
+    {
+      "text": "Tiempo de tránsito medio (MTT)",
+      "type": "MEDIDA",
+      "start": 1056,
+      "end": 1086
+    },
+    {
+      "text": "flujo sanguíneo cerebral (CBF)",
+      "type": "MEDIDA",
+      "start": 1158,
+      "end": 1188
+    },
+    {
+      "text": "volumen sanguíneo cerebral (CBV)",
+      "type": "MEDIDA",
+      "start": 1191,
+      "end": 1223
+    },
+    {
+      "text": "isquémica en evolución",
+      "type": "PATOLOGIA",
+      "start": 1268,
+      "end": 1290
+    },
+    {
+      "text": "segmento A2",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1392,
+      "end": 1403
+    },
+    {
+      "text": "arteria cerebral anterior izquierda",
+      "type": "ARTERIA",
+      "start": 1410,
+      "end": 1445
+    },
+    {
+      "text": "falta de contraste",
+      "type": "PATOLOGIA",
+      "start": 1462,
+      "end": 1480
+    },
+    {
+      "text": "sin estenosis hemodinámicamentes significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1537,
+      "end": 1584
+    },
+    {
+      "text": "sin evidencia de hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1891,
+      "end": 1931
+    },
+    {
+      "text": "isquemia aguda en territorio de arteria cerebral anterior izquierda",
+      "type": "PATOLOGIA",
+      "start": 1714,
+      "end": 1781
+    },
+    {
+      "text": "oclusión arterial en segmento A2",
+      "type": "PATOLOGIA",
+      "start": 1787,
+      "end": 1819
+    },
+    {
+      "text": "alteración en perfusión cerebral",
+      "type": "PATOLOGIA",
+      "start": 2305,
+      "end": 2337
+    },
+    {
+      "text": "TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANGIOTC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 2365,
+      "end": 2432
+    },
+    {
+      "text": "Oclusión segmentaria A2-ACA izquierda",
+      "type": "PATOLOGIA",
+      "start": 2451,
+      "end": 2488
+    },
+    {
+      "text": "circulación intracraneal permeable en resto de territorios",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2490,
+      "end": 2548
+    }
+  ]
+}

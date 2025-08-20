@@ -1,0 +1,83 @@
+{
+  "document_id": "informe_sintetico_20250804195045_20790",
+  "entities": [
+    {
+      "text": "edema cerebral citotóxico",
+      "type": "PATOLOGIA",
+      "start": 624,
+      "end": 649
+    },
+    {
+      "text": "territorios frontoparietales bilaterales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 567,
+      "end": 607
+    },
+    {
+      "text": "núcleo caudado",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 676,
+      "end": 690
+    },
+    {
+      "text": "putamen",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 693,
+      "end": 700
+    },
+    {
+      "text": "hemorragias intraparenquimatosas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 795,
+      "end": 827
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1385,
+      "end": 1399
+    },
+    {
+      "text": "trombosis venosa cerebral",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1609,
+      "end": 1634
+    },
+    {
+      "text": "ateromatosis",
+      "type": "PATOLOGIA",
+      "start": 1641,
+      "end": 1653
+    },
+    {
+      "text": "sin repercusión hemodinámica",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1706,
+      "end": 1734
+    },
+    {
+      "text": "encefalopatía hipóxico-isquémica difusa",
+      "type": "PATOLOGIA",
+      "start": 1787,
+      "end": 1826
+    },
+    {
+      "text": "infartos focales recientes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1998,
+      "end": 2024
+    },
+    {
+      "text": "Angio-TC",
+      "type": "TECNICA_IMAGEN",
+      "start": 2026,
+      "end": 2034
+    },
+    {
+      "text": "sin evidencia de oclusión arterial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2035,
+      "end": 2069
+    }
+  ]
+}

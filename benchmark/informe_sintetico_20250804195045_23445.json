@@ -1,0 +1,119 @@
+{
+  "document_id": "informe_sintetico_20250804195045_23445",
+  "entities": [
+    {
+      "text": "oclusión carotídea derecha",
+      "type": "PATOLOGIA",
+      "start": 241,
+      "end": 267
+    },
+    {
+      "text": "infarto cerebral",
+      "type": "PATOLOGIA",
+      "start": 280,
+      "end": 296
+    },
+    {
+      "text": "hemiparesia izquierda",
+      "type": "PATOLOGIA",
+      "start": 197,
+      "end": 218
+    },
+    {
+      "text": "afasia",
+      "type": "PATOLOGIA",
+      "start": 221,
+      "end": 227
+    },
+    {
+      "text": "infarto isquémico",
+      "type": "PATOLOGIA",
+      "start": 735,
+      "end": 752
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 628,
+      "end": 658
+    },
+    {
+      "text": "ASPECTS 2/10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 837,
+      "end": 849
+    },
+    {
+      "text": "arteria carótida interna derecha",
+      "type": "ARTERIA",
+      "start": 1439,
+      "end": 1471
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "ARTERIA",
+      "start": 628,
+      "end": 658
+    },
+    {
+      "text": "sistema vertebrobasilar",
+      "type": "ARTERIA",
+      "start": 1648,
+      "end": 1671
+    },
+    {
+      "text": "márgenes del infarto",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 2072,
+      "end": 2092
+    },
+    {
+      "text": "hemorragia aguda intra ni extraaxial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 529,
+      "end": 565
+    },
+    {
+      "text": "sin reflujo distal significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1991,
+      "end": 2023
+    },
+    {
+      "text": "TC Basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 341,
+      "end": 349
+    },
+    {
+      "text": "TC Perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 351,
+      "end": 372
+    },
+    {
+      "text": "AngioTC extra e intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 375,
+      "end": 403
+    },
+    {
+      "text": "Tmax>6s",
+      "type": "MEDIDA",
+      "start": 1024,
+      "end": 1031
+    },
+    {
+      "text": "disminución del flujo",
+      "type": "MEDIDA",
+      "start": 1265,
+      "end": 1286
+    },
+    {
+      "text": "aumento del tiempo de tránsito",
+      "type": "MEDIDA",
+      "start": 1289,
+      "end": 1319
+    }
+  ]
+}

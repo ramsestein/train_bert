@@ -1,0 +1,113 @@
+{
+  "document_id": "informe_sintetico_20250804195045_14726",
+  "entities": [
+    {
+      "text": "infarto cerebral",
+      "type": "PATOLOGIA",
+      "start": 311,
+      "end": 327
+    },
+    {
+      "text": "lesión isquémica reciente",
+      "type": "PATOLOGIA",
+      "start": 812,
+      "end": 837
+    },
+    {
+      "text": "hipoperfusión",
+      "type": "PATOLOGIA",
+      "start": 1275,
+      "end": 1288
+    },
+    {
+      "text": "watershed",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 360,
+      "end": 369
+    },
+    {
+      "text": "watershed",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 360,
+      "end": 369
+    },
+    {
+      "text": "ACAs",
+      "type": "ARTERIA",
+      "start": 1675,
+      "end": 1679
+    },
+    {
+      "text": "ACMs",
+      "type": "ARTERIA",
+      "start": 1681,
+      "end": 1685
+    },
+    {
+      "text": "ACPs",
+      "type": "ARTERIA",
+      "start": 1688,
+      "end": 1692
+    },
+    {
+      "text": "bilateral",
+      "type": "LATERALIDAD",
+      "start": 206,
+      "end": 215
+    },
+    {
+      "text": "ASPECTS 7/10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 884,
+      "end": 896
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 391,
+      "end": 407
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 423,
+      "end": 444
+    },
+    {
+      "text": "Angio-TC arterial intra y extracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 447,
+      "end": 485
+    },
+    {
+      "text": "No se identifican hemorragias intracraneales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 529,
+      "end": 573
+    },
+    {
+      "text": "No hay edema masivo ni signos de herniación",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 839,
+      "end": 882
+    },
+    {
+      "text": "No se evidencian oclusiones ni estenosis relevantes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1587,
+      "end": 1638
+    },
+    {
+      "text": "Ausencia de oclusión arterial intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2034,
+      "end": 2076
+    },
+    {
+      "text": "No signos de hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2078,
+      "end": 2114
+    }
+  ]
+}

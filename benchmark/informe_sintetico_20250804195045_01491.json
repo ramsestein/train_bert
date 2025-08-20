@@ -1,0 +1,119 @@
+{
+  "document_id": "informe_sintetico_20250804195045_01491",
+  "entities": [
+    {
+      "text": "infarto agudo",
+      "type": "PATOLOGIA",
+      "start": 602,
+      "end": 615
+    },
+    {
+      "text": "aproximadamente 12 horas",
+      "type": "TEMPORALIDAD",
+      "start": 619,
+      "end": 643
+    },
+    {
+      "text": "edema",
+      "type": "PATOLOGIA",
+      "start": 676,
+      "end": 681
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 744,
+      "end": 767
+    },
+    {
+      "text": "ASPECTS 7",
+      "type": "PUNTUACION_CLINICA",
+      "start": 788,
+      "end": 797
+    },
+    {
+      "text": "aumento del tiempo de tránsito medio (TTP)",
+      "type": "PATOLOGIA",
+      "start": 904,
+      "end": 946
+    },
+    {
+      "text": "disminución del volumen sanguíneo cerebral (CBV)",
+      "type": "PATOLOGIA",
+      "start": 949,
+      "end": 997
+    },
+    {
+      "text": "hipoperfusión crítica",
+      "type": "PATOLOGIA",
+      "start": 1067,
+      "end": 1088
+    },
+    {
+      "text": "flujo sanguíneo cerebral (CBF)",
+      "type": "PATOLOGIA",
+      "start": 1135,
+      "end": 1165
+    },
+    {
+      "text": "disección de la arteria carótida interna derecha",
+      "type": "PATOLOGIA",
+      "start": 1233,
+      "end": 1281
+    },
+    {
+      "text": "arteria carótida interna derecha",
+      "type": "ARTERIA",
+      "start": 1249,
+      "end": 1281
+    },
+    {
+      "text": "estenosis significativa",
+      "type": "PATOLOGIA",
+      "start": 1348,
+      "end": 1371
+    },
+    {
+      "text": "flujo filiforme en segmento M1 derecho",
+      "type": "PATOLOGIA",
+      "start": 1503,
+      "end": 1541
+    },
+    {
+      "text": "sin estenosis ni anomalías morfológicas relevantes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1576,
+      "end": 1626
+    },
+    {
+      "text": "infarto isquémico",
+      "type": "PATOLOGIA",
+      "start": 2210,
+      "end": 2227
+    },
+    {
+      "text": "territorio de arteria cerebral media derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 2231,
+      "end": 2275
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 744,
+      "end": 767
+    },
+    {
+      "text": "RM cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 2028,
+      "end": 2039
+    },
+    {
+      "text": "angioRM",
+      "type": "TECNICA_IMAGEN",
+      "start": 2042,
+      "end": 2049
+    }
+  ]
+}

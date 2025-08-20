@@ -1,0 +1,83 @@
+{
+  "document_id": "informe_sintetico_20250804195045_03855",
+  "entities": [
+    {
+      "text": "infarto agudo",
+      "type": "PATOLOGIA",
+      "start": 662,
+      "end": 675
+    },
+    {
+      "text": "tronco encefálico",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 320,
+      "end": 337
+    },
+    {
+      "text": "ASPECTS",
+      "type": "PUNTUACION_CLINICA",
+      "start": 677,
+      "end": 684
+    },
+    {
+      "text": "arteria basilar",
+      "type": "ARTERIA",
+      "start": 1455,
+      "end": 1470
+    },
+    {
+      "text": "arteria basilar",
+      "type": "ARTERIA",
+      "start": 1455,
+      "end": 1470
+    },
+    {
+      "text": "circulación posterior",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1818,
+      "end": 1839
+    },
+    {
+      "text": "Oclusión completa",
+      "type": "PATOLOGIA",
+      "start": 1431,
+      "end": 1448
+    },
+    {
+      "text": "Oclusión aguda",
+      "type": "PATOLOGIA",
+      "start": 2416,
+      "end": 2430
+    },
+    {
+      "text": "infarto extensivo",
+      "type": "PATOLOGIA",
+      "start": 2454,
+      "end": 2471
+    },
+    {
+      "text": "penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1370,
+      "end": 1388
+    },
+    {
+      "text": "No se visualizan hemorragias intra ni extra-axiales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 523,
+      "end": 574
+    },
+    {
+      "text": "No se observan estenosis significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1668,
+      "end": 1707
+    },
+    {
+      "text": "No complicaciones hemorrágicas asociadas detectadas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2162,
+      "end": 2213
+    }
+  ]
+}

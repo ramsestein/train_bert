@@ -1,0 +1,71 @@
+{
+  "document_id": "informe_sintetico_20250804195045_23493",
+  "entities": [
+    {
+      "text": "infarto cerebral subagudo",
+      "type": "PATOLOGIA",
+      "start": 601,
+      "end": 626
+    },
+    {
+      "text": "hemorragia petequial",
+      "type": "PATOLOGIA",
+      "start": 734,
+      "end": 754
+    },
+    {
+      "text": "transformación hemorrágica tipo HI1",
+      "type": "PATOLOGIA",
+      "start": 773,
+      "end": 808
+    },
+    {
+      "text": "ACM izquierda",
+      "type": "ARTERIA",
+      "start": 1151,
+      "end": 1164
+    },
+    {
+      "text": "ACIs",
+      "type": "ARTERIA",
+      "start": 1488,
+      "end": 1492
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 298,
+      "end": 307
+    },
+    {
+      "text": "sin hematoma expansivo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1685,
+      "end": 1707
+    },
+    {
+      "text": "sin penumbra significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1878,
+      "end": 1904
+    },
+    {
+      "text": "TC Basal sin contraste",
+      "type": "TECNICA_IMAGEN",
+      "start": 352,
+      "end": 374
+    },
+    {
+      "text": "TC Perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 376,
+      "end": 397
+    },
+    {
+      "text": "AngioTC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 400,
+      "end": 429
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+UO_PACN (Unidad Organizativa Médica): RADIO
+
+PRUEB (Prueba solicitada): TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANG IOTC ARTERIAL INTRACRANEAL)
+
+CLIN (Resumen clínico): Paciente masculino de 68 años con cuadro súbito de cefalea intensa, alteración del nivel de conciencia y hemiparesia derecha.
+
+OBSR (Protocolo): TC craneal urgente: estudio basal, perfusión cerebral y angio-TC intracraneal en contexto de código ictus.
+
+RESL (Resultados): TC CRANEAL BASAL:
+Se evidencia un hematoma intraparenquimatoso de aproximadamente 25 x 20 x 18 mm localizado en el tálamo izquierdo, con densidad heterogénea y áreas de menor atenuación periférica que sugieren actividad hemorrágica reciente. Se observa leve extensión del sangrado hacia el sistema ventricular lateral izquierdo, sin hemoventrículo masivo. No se identifican signos de desplazamiento significativo de la línea media, que se mantiene centrada. Sistema ventricular con leve dilatación del ventrículo lateral izquierdo, sugestiva de inicio de hidrocefalia obstructiva por compromiso del foramen de Monro homolateral. Las cisternas basales están sin ocupación. No hay evidencia de hematomas extraaxiales ni edema parenquimatoso significativo periférico al foco hemorrágico.
+
+TC PERFUSIÓN:
+Área hipoperfundida focal congruente con la lesión hemorrágica en tálamo izquierdo, con disminución significativa del volumen y flujo cerebral (CBV y CBF reducidos) y aumento del tiempo de tránsito medio (TTP). No se identifican zonas isquémicas en territorios adyacentes.
+
+ANGIO-TC INTRA-EXTRACRANEAL:
+La vasculatura intracraneal presenta permeabilidad generalizada sin signos de oclusión ni estenosis mayores en arterias cerebrales principales (ACAs, ACMs, ACPs). Arco aórtico y troncos supraórticos sin alteraciones significativas. No se visualizan malformaciones vasculares ni aneurismas relacionados con la lesión hemorrágica.
+
+CONCL (Conclusiones):
+- Hematoma intraparenquimatoso talámico izquierdo de tamaño moderado con leve extensión intraventricular.
+- Incipiente hidrocefalia obstructiva izquierda secundaria a obstrucción del sistema ventricular por sangre.
+- No se identifican signos de isquemia neuronal adicional en mapas de perfusión.
+- Vasos intracraneales permeables sin estenosis ni oclusiones significativas.
+- Recomendable monitorización neurológica estrecha y valoración neuroquirúrgica para manejo de hidrocefalia y edema.
+
+ACTI_ADICI (Actividad adicional): Seguimiento por neurocirugía y control imagenológico en 24-48 horas para valorar evolución del hematoma y ventrículos.
+
+ICON (Estudio): @TC_ISTUS_TALAMICO@
+
+X00DIATXT (Texto del diagnóstico ACR): Hematoma intraparenquimatoso tálamico con extensión ventricular y signos iniciales de hidrocefalia obstructiva.
+
+EST_T_DES (Descripción): TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANGIOTC ARTERIAL INTRACRANEAL)
+
+ZVASOS_D (Der.): Estudio vascular sin estenosis ni oclusión arterial aguda.

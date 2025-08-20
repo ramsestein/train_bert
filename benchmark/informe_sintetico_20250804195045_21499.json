@@ -1,0 +1,65 @@
+{
+  "document_id": "informe_sintetico_20250804195045_21499",
+  "entities": [
+    {
+      "text": "múltiples focos puntiformes hiperdensos puntuales",
+      "type": "PATOLOGIA",
+      "start": 467,
+      "end": 516
+    },
+    {
+      "text": "menos de 5 mm",
+      "type": "MEDIDA",
+      "start": 521,
+      "end": 534
+    },
+    {
+      "text": "bilateral",
+      "type": "LATERALIDAD",
+      "start": 558,
+      "end": 567
+    },
+    {
+      "text": "sustancia blanca profunda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 574,
+      "end": 599
+    },
+    {
+      "text": "ganglios basales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 602,
+      "end": 618
+    },
+    {
+      "text": "microhemorragias múltiples",
+      "type": "PATOLOGIA",
+      "start": 636,
+      "end": 662
+    },
+    {
+      "text": "No se aprecian hematomas lobares de mayor tamaño",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 664,
+      "end": 712
+    },
+    {
+      "text": "No se observan signos de infartos agudos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 838,
+      "end": 878
+    },
+    {
+      "text": "No se identifican signos de malformaciones vascular ni estenosis relevantes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1102,
+      "end": 1177
+    },
+    {
+      "text": "microangiopática",
+      "type": "PATOLOGIA",
+      "start": 1512,
+      "end": 1528
+    }
+  ]
+}

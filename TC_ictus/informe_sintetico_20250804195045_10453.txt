@@ -1,0 +1,37 @@
+UO_PACN (Unidad Organizativa Médica): RADIO
+
+PRUEB (Prueba solicitada): TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANG IOTC ARTERIAL INTRACRANEAL)
+
+CLIN (Resumen clínico): Déficit motor súbito en hemicuerpo derecho, sospecha de ictus lacunar.
+
+OBSR (Protocolo): TC craneal urgente basal + TC perfusión cerebral + angiografía por TC de troncos supraaórticos y arterial intracraneal.
+
+RESL (Resultados): 
+
+TC CRANEAL BASAL:
+No se identifican signos de hemorragia intracraneal ni colecciones extraaxiales. Se observa pequeña área hipodensa en región de la cápsula interna izquierda, compatible con infarto lacunar agudo. No se evidencian otras alteraciones densitométricas ni edema encefálico significativo. Estructuras de línea media centradas. Sistema ventricular con morfología y tamaño acordes a la edad. Cisternas basales libres.
+
+TC PERFUSIÓN:
+Mapas de tiempo de tránsito (TTP) y tiempo a pico (Tmax) muestran leve retraso focalizado en región de cápsula interna izquierda. El flujo cerebral (CBF) y volumen cerebral (CBV) mantienen valores dentro de rangos normales, sin evidencia de área de penumbra significativa.
+
+ANGIOTC EXTRA E INTRACRANEAL:
+Troncos supraaórticos sin estenosis significativa ni placas ateromatosas llamativas. Arterias cerebrales principales permeables, sin defectos de repleción ni trombosis visibles. No se identifican alteraciones vasculares compatibles con vasculitis ni disección.
+
+CONCL (Conclusiones): 
+
+- Infarto lacunar agudo en cápsula interna izquierda sin evidencia de hemorragia.
+- Perfusión cerebral compatible con lesión isquémica pequeña sin área de penumbra isquémica relevante.
+- Troncos supraaórticos y arterias intracraneales sin hallazgos patológicos significativos.
+- Se recomienda control clínico y neuroimagen de seguimiento para confirmar evolución.
+
+ACTI_ADICI (Actividad adicional): 
+
+DKTXT (Descripció): ECO-DÚPLEX DE ARTERIAS CERVICALES PENDIENTE
+
+ICON (Estudio): @RADIO_TC@ 
+
+X00DIATXT (Texto del diagnóstico ACR): Infarto lacunar agudo en cápsula interna izquierda sin evidencia de hemorragia ni compromiso vascular mayor.
+
+EST_T_DES (Descripción): TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANGIOTC ARTERIAL INTRACRANEAL)
+
+ZVASOS_D (Der.): Informe realizado y validado por especialista en radiología neurorradiológica.

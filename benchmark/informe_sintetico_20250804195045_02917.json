@@ -1,0 +1,113 @@
+{
+  "document_id": "informe_sintetico_20250804195045_02917",
+  "entities": [
+    {
+      "text": "infarto cerebral",
+      "type": "PATOLOGIA",
+      "start": 224,
+      "end": 240
+    },
+    {
+      "text": "territorio fronterizo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 244,
+      "end": 265
+    },
+    {
+      "text": "infarto watershed",
+      "type": "PATOLOGIA",
+      "start": 573,
+      "end": 590
+    },
+    {
+      "text": "regiones frontoparietales bilaterales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 614,
+      "end": 651
+    },
+    {
+      "text": "arteria cerebral media",
+      "type": "ARTERIA",
+      "start": 702,
+      "end": 724
+    },
+    {
+      "text": "arteria cerebral anterior",
+      "type": "ARTERIA",
+      "start": 727,
+      "end": 752
+    },
+    {
+      "text": "arteria cerebral posterior",
+      "type": "ARTERIA",
+      "start": 820,
+      "end": 846
+    },
+    {
+      "text": "ASPECTS 8",
+      "type": "PUNTUACION_CLINICA",
+      "start": 921,
+      "end": 930
+    },
+    {
+      "text": "penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1320,
+      "end": 1338
+    },
+    {
+      "text": "hemorragias intra o extraaxiales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 471,
+      "end": 503
+    },
+    {
+      "text": "No se observan signos de hemorragia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2381,
+      "end": 2416
+    },
+    {
+      "text": "estenosis significativa en vasos principales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1993,
+      "end": 2037
+    },
+    {
+      "text": "aumento significativo del tiempo de tránsito medio (TTP)",
+      "type": "MEDIDA",
+      "start": 1077,
+      "end": 1133
+    },
+    {
+      "text": "tiempo de demora (TTD)",
+      "type": "MEDIDA",
+      "start": 1136,
+      "end": 1158
+    },
+    {
+      "text": "reducción moderada del flujo cerebral (CBF)",
+      "type": "MEDIDA",
+      "start": 1205,
+      "end": 1248
+    },
+    {
+      "text": "sin descenso marcado del volumen cerebral (CBV)",
+      "type": "MEDIDA",
+      "start": 1249,
+      "end": 1296
+    },
+    {
+      "text": "Sistema ventricular simétrico sin dilatación ni colapso",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 966,
+      "end": 1021
+    },
+    {
+      "text": "Cisternas basales libres",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1023,
+      "end": 1047
+    }
+  ]
+}

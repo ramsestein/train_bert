@@ -1,0 +1,113 @@
+{
+  "document_id": "informe_sintetico_20250804195045_08941",
+  "entities": [
+    {
+      "text": "hipodensidad extensa",
+      "type": "PATOLOGIA",
+      "start": 436,
+      "end": 456
+    },
+    {
+      "text": "infarto cerebral agudo",
+      "type": "PATOLOGIA",
+      "start": 724,
+      "end": 746
+    },
+    {
+      "text": "hemorragias intra ni extraaxiales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 765,
+      "end": 798
+    },
+    {
+      "text": "ASPECTS 5",
+      "type": "PUNTUACION_CLINICA",
+      "start": 812,
+      "end": 821
+    },
+    {
+      "text": "desviación hacia el lado izquierdo",
+      "type": "LATERALIDAD",
+      "start": 867,
+      "end": 901
+    },
+    {
+      "text": "prolongación del tiempo de tránsito medio",
+      "type": "PATOLOGIA",
+      "start": 1113,
+      "end": 1154
+    },
+    {
+      "text": "reducción del flujo cerebral sanguíneo",
+      "type": "PATOLOGIA",
+      "start": 1163,
+      "end": 1201
+    },
+    {
+      "text": "infarto establecido",
+      "type": "PATOLOGIA",
+      "start": 1221,
+      "end": 1240
+    },
+    {
+      "text": "penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1366,
+      "end": 1384
+    },
+    {
+      "text": "Oclusión completa de la arteria carótida interna derecha",
+      "type": "PATOLOGIA",
+      "start": 1422,
+      "end": 1478
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "ARTERIA",
+      "start": 486,
+      "end": 516
+    },
+    {
+      "text": "Sistema vertebrobasilar",
+      "type": "ARTERIA",
+      "start": 1896,
+      "end": 1919
+    },
+    {
+      "text": "oclusión proximal de arteria carótida interna derecha",
+      "type": "PATOLOGIA",
+      "start": 2674,
+      "end": 2727
+    },
+    {
+      "text": "ausencia de flujo distal en ACM derecha",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2139,
+      "end": 2178
+    },
+    {
+      "text": "penumbra isquémica en áreas adyacentes",
+      "type": "PATOLOGIA",
+      "start": 2742,
+      "end": 2780
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 271,
+      "end": 287
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 289,
+      "end": 310
+    },
+    {
+      "text": "AngioTC arterial extra e intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 313,
+      "end": 350
+    }
+  ]
+}

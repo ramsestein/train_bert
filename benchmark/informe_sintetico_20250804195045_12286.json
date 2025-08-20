@@ -1,0 +1,131 @@
+{
+  "document_id": "informe_sintetico_20250804195045_12286",
+  "entities": [
+    {
+      "text": "ictus isquémico",
+      "type": "PATOLOGIA",
+      "start": 233,
+      "end": 248
+    },
+    {
+      "text": "menos de 3 horas",
+      "type": "TEMPORALIDAD",
+      "start": 278,
+      "end": 294
+    },
+    {
+      "text": "No se identifican signos de hemorragia intra ni extraaxial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 513,
+      "end": 571
+    },
+    {
+      "text": "borramiento de surcos en la corteza frontoparietal derecha",
+      "type": "PATOLOGIA",
+      "start": 648,
+      "end": 706
+    },
+    {
+      "text": "ASPECTS 9",
+      "type": "PUNTUACION_CLINICA",
+      "start": 708,
+      "end": 717
+    },
+    {
+      "text": "Disminución leve a moderada del volumen sanguíneo cerebral (CBV)",
+      "type": "PATOLOGIA",
+      "start": 737,
+      "end": 801
+    },
+    {
+      "text": "territorio superficial de rama M2/M3 derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 805,
+      "end": 849
+    },
+    {
+      "text": "aumento del tiempo de tránsito medio (MTT)",
+      "type": "PATOLOGIA",
+      "start": 855,
+      "end": 897
+    },
+    {
+      "text": "tiempo hasta el pico (TTP)",
+      "type": "PATOLOGIA",
+      "start": 900,
+      "end": 926
+    },
+    {
+      "text": "sin reducción significativa de flujo cerebral (CBF)",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 928,
+      "end": 979
+    },
+    {
+      "text": "área en penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 994,
+      "end": 1020
+    },
+    {
+      "text": "Oclusión focal en segmento distal (M2/M3) de la arteria cerebral media derecha",
+      "type": "PATOLOGIA",
+      "start": 1057,
+      "end": 1135
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "ARTERIA",
+      "start": 1105,
+      "end": 1135
+    },
+    {
+      "text": "Resto de los vasos principales permeables",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1137,
+      "end": 1178
+    },
+    {
+      "text": "No se evidencian estenosis ni placas ateromatosas significativas en arterias carotídeas ni vertebrales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1180,
+      "end": 1282
+    },
+    {
+      "text": "Isquemia aguda en territorio distal de la arteria cerebral media derecha (segmentos M2/M3)",
+      "type": "PATOLOGIA",
+      "start": 1357,
+      "end": 1447
+    },
+    {
+      "text": "signos de área en penumbra viable",
+      "type": "PATOLOGIA",
+      "start": 1452,
+      "end": 1485
+    },
+    {
+      "text": "alto ASPECTS (9)",
+      "type": "PUNTUACION_CLINICA",
+      "start": 1488,
+      "end": 1504
+    },
+    {
+      "text": "No hemorragia ni efecto de masa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1506,
+      "end": 1537
+    },
+    {
+      "text": "Oclusión arterial distal confirmada en angio-TC",
+      "type": "PATOLOGIA",
+      "start": 1539,
+      "end": 1586
+    },
+    {
+      "text": "angio-TC",
+      "type": "TECNICA_IMAGEN",
+      "start": 398,
+      "end": 406
+    }
+  ]
+}

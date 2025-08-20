@@ -1,0 +1,119 @@
+{
+  "document_id": "informe_sintetico_20250804195045_05009",
+  "entities": [
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 244,
+      "end": 258
+    },
+    {
+      "text": "arteria cerebral posterior derecha",
+      "type": "ARTERIA",
+      "start": 276,
+      "end": 310
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 303,
+      "end": 310
+    },
+    {
+      "text": "ASPECTS 9",
+      "type": "PUNTUACION_CLINICA",
+      "start": 776,
+      "end": 785
+    },
+    {
+      "text": "isquemia",
+      "type": "PATOLOGIA",
+      "start": 244,
+      "end": 252
+    },
+    {
+      "text": "arteria cerebral posterior derecha",
+      "type": "ARTERIA",
+      "start": 276,
+      "end": 310
+    },
+    {
+      "text": "región occipital derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 601,
+      "end": 625
+    },
+    {
+      "text": "TTP",
+      "type": "MEDIDA",
+      "start": 1038,
+      "end": 1041
+    },
+    {
+      "text": "Tmax",
+      "type": "MEDIDA",
+      "start": 1078,
+      "end": 1082
+    },
+    {
+      "text": "CBF",
+      "type": "MEDIDA",
+      "start": 1169,
+      "end": 1172
+    },
+    {
+      "text": "CBV",
+      "type": "MEDIDA",
+      "start": 1204,
+      "end": 1207
+    },
+    {
+      "text": "isquémico",
+      "type": "PATOLOGIA",
+      "start": 1307,
+      "end": 1316
+    },
+    {
+      "text": "Oclusión completa",
+      "type": "PATOLOGIA",
+      "start": 1438,
+      "end": 1455
+    },
+    {
+      "text": "segmento P2 derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1460,
+      "end": 1479
+    },
+    {
+      "text": "arteria cerebral posterior",
+      "type": "ARTERIA",
+      "start": 276,
+      "end": 302
+    },
+    {
+      "text": "ACAs, ACMs, ACP lado contralateral",
+      "type": "ARTERIA",
+      "start": 1564,
+      "end": 1598
+    },
+    {
+      "text": "sin estenosis significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1613,
+      "end": 1641
+    },
+    {
+      "text": "hemorragia intra o extraaxial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1819,
+      "end": 1848
+    },
+    {
+      "text": "hemorragia intra ni extraaxial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 515,
+      "end": 545
+    }
+  ]
+}

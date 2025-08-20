@@ -1,0 +1,83 @@
+{
+  "document_id": "informe_sintetico_20250804195045_01055",
+  "entities": [
+    {
+      "text": "infarto cerebral",
+      "type": "PATOLOGIA",
+      "start": 209,
+      "end": 225
+    },
+    {
+      "text": "hipoperfusión",
+      "type": "PATOLOGIA",
+      "start": 230,
+      "end": 243
+    },
+    {
+      "text": "infarto watershed",
+      "type": "PATOLOGIA",
+      "start": 818,
+      "end": 835
+    },
+    {
+      "text": "estenosis severa",
+      "type": "PATOLOGIA",
+      "start": 1562,
+      "end": 1578
+    },
+    {
+      "text": "arteria carótida interna izquierda",
+      "type": "ARTERIA",
+      "start": 1592,
+      "end": 1626
+    },
+    {
+      "text": "bilateral",
+      "type": "LATERALIDAD",
+      "start": 793,
+      "end": 802
+    },
+    {
+      "text": "70%",
+      "type": "MEDIDA",
+      "start": 1581,
+      "end": 1584
+    },
+    {
+      "text": "aguda",
+      "type": "TEMPORALIDAD",
+      "start": 1818,
+      "end": 1823
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 331,
+      "end": 347
+    },
+    {
+      "text": "perfusión cerebral dinámica",
+      "type": "TECNICA_IMAGEN",
+      "start": 374,
+      "end": 401
+    },
+    {
+      "text": "angiografía por TC de arterias intracraneales y extracraneales con contraste iv",
+      "type": "TECNICA_IMAGEN",
+      "start": 404,
+      "end": 483
+    },
+    {
+      "text": "TC PERFUSIÓN",
+      "type": "TECNICA_IMAGEN",
+      "start": 1136,
+      "end": 1148
+    },
+    {
+      "text": "ANGIO-TC INTRA Y EXTRACRANEAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 1520,
+      "end": 1549
+    }
+  ]
+}

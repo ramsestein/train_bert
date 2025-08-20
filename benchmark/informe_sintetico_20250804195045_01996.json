@@ -1,0 +1,245 @@
+{
+  "document_id": "informe_sintetico_20250804195045_01996",
+  "entities": [
+    {
+      "text": "hemiparesia derecha",
+      "type": "PATOLOGIA",
+      "start": 196,
+      "end": 215
+    },
+    {
+      "text": "afasia",
+      "type": "PATOLOGIA",
+      "start": 218,
+      "end": 224
+    },
+    {
+      "text": "evento isquémico cerebral",
+      "type": "PATOLOGIA",
+      "start": 246,
+      "end": 271
+    },
+    {
+      "text": "arteria cerebral media",
+      "type": "ARTERIA",
+      "start": 289,
+      "end": 311
+    },
+    {
+      "text": "TC craneal urgente basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 332,
+      "end": 356
+    },
+    {
+      "text": "perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 369,
+      "end": 387
+    },
+    {
+      "text": "angiografía TC de arterias supraórticas y cerebrales intracraneales",
+      "type": "TECNICA_IMAGEN",
+      "start": 390,
+      "end": 457
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 526,
+      "end": 549
+    },
+    {
+      "text": "lesiones corticales hipodensas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 553,
+      "end": 583
+    },
+    {
+      "text": "morfología y tamaño normales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 685,
+      "end": 713
+    },
+    {
+      "text": "desplazamiento de línea media",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 722,
+      "end": 751
+    },
+    {
+      "text": "signos de edema difuso",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 755,
+      "end": 777
+    },
+    {
+      "text": "disminución del flujo cerebral",
+      "type": "PATOLOGIA",
+      "start": 805,
+      "end": 835
+    },
+    {
+      "text": "volumen cerebral",
+      "type": "PATOLOGIA",
+      "start": 848,
+      "end": 864
+    },
+    {
+      "text": "segmentos M2/M3",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 912,
+      "end": 927
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "ARTERIA",
+      "start": 934,
+      "end": 966
+    },
+    {
+      "text": "tiempo de tránsito medio",
+      "type": "MEDIDA",
+      "start": 984,
+      "end": 1008
+    },
+    {
+      "text": "tiempo hasta el pico",
+      "type": "MEDIDA",
+      "start": 1017,
+      "end": 1037
+    },
+    {
+      "text": "zona de penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1061,
+      "end": 1087
+    },
+    {
+      "text": "área afectada",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1092,
+      "end": 1105
+    },
+    {
+      "text": "tejido afectado (no infartado)",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1139,
+      "end": 1169
+    },
+    {
+      "text": "Oclusión parcial",
+      "type": "PATOLOGIA",
+      "start": 1229,
+      "end": 1245
+    },
+    {
+      "text": "segmento distal M2-M3",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1252,
+      "end": 1273
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "ARTERIA",
+      "start": 934,
+      "end": 966
+    },
+    {
+      "text": "estenosis arteriales significativas",
+      "type": "PATOLOGIA",
+      "start": 1324,
+      "end": 1359
+    },
+    {
+      "text": "troncos supraórticos",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1367,
+      "end": 1387
+    },
+    {
+      "text": "árbol arterial",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1435,
+      "end": 1449
+    },
+    {
+      "text": "placas de ateroma de relevancia",
+      "type": "PATOLOGIA",
+      "start": 1479,
+      "end": 1510
+    },
+    {
+      "text": "aneurismas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1527,
+      "end": 1537
+    },
+    {
+      "text": "malformaciones vasculares",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1541,
+      "end": 1566
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 1611,
+      "end": 1625
+    },
+    {
+      "text": "territorio distal de arteria cerebral media izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1629,
+      "end": 1682
+    },
+    {
+      "text": "oclusión arterial confirmada",
+      "type": "PATOLOGIA",
+      "start": 1706,
+      "end": 1734
+    },
+    {
+      "text": "ASPECTS 9",
+      "type": "PUNTUACION_CLINICA",
+      "start": 1816,
+      "end": 1825
+    },
+    {
+      "text": "hemorragias",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1844,
+      "end": 1855
+    },
+    {
+      "text": "edema cerebral asociado",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1859,
+      "end": 1882
+    },
+    {
+      "text": "Oclusión aguda distal de arteria cerebral media (M2/M3)",
+      "type": "PATOLOGIA",
+      "start": 2078,
+      "end": 2133
+    },
+    {
+      "text": "alteración de la perfusión cerebral",
+      "type": "PATOLOGIA",
+      "start": 2138,
+      "end": 2173
+    },
+    {
+      "text": "isquemia en fase aguda",
+      "type": "PATOLOGIA",
+      "start": 2189,
+      "end": 2211
+    },
+    {
+      "text": "sin infarto establecido",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2212,
+      "end": 2235
+    }
+  ]
+}

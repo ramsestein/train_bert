@@ -1,0 +1,101 @@
+{
+  "document_id": "informe_sintetico_20250804195045_23488",
+  "entities": [
+    {
+      "text": "ictus isquémico agudo",
+      "type": "PATOLOGIA",
+      "start": 201,
+      "end": 222
+    },
+    {
+      "text": "territorio de ACM derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 226,
+      "end": 251
+    },
+    {
+      "text": "infarto establecido",
+      "type": "PATOLOGIA",
+      "start": 702,
+      "end": 721
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "ARTERIA",
+      "start": 555,
+      "end": 585
+    },
+    {
+      "text": "2.5 x 2.0 cm",
+      "type": "MEDIDA",
+      "start": 846,
+      "end": 858
+    },
+    {
+      "text": "transformación hemorrágica tipo PH2",
+      "type": "PATOLOGIA",
+      "start": 878,
+      "end": 913
+    },
+    {
+      "text": "ACM derecha",
+      "type": "ARTERIA",
+      "start": 240,
+      "end": 251
+    },
+    {
+      "text": "Oclusión completa de la arteria cerebral media derecha en segmento proximal M1",
+      "type": "PATOLOGIA",
+      "start": 1429,
+      "end": 1507
+    },
+    {
+      "text": "No hay desplazamiento significativo de estructuras de la línea media ni efecto masa relevante",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 915,
+      "end": 1008
+    },
+    {
+      "text": "No se identifican otras hemorragias intra ni extraaxiales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1051,
+      "end": 1108
+    },
+    {
+      "text": "sin evidencia de penumbra viable",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1307,
+      "end": 1339
+    },
+    {
+      "text": "No se hallan estenosis significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1570,
+      "end": 1607
+    },
+    {
+      "text": "Sistema vertebrobasilar con flujo conservado",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1609,
+      "end": 1653
+    },
+    {
+      "text": "Ausencia de penumbra viable significativa en estudio de perfusión",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1830,
+      "end": 1895
+    },
+    {
+      "text": "No se identifican otras hemorragias intra o extraaxiales ni efecto masa significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1899,
+      "end": 1984
+    },
+    {
+      "text": "TC Basal + TC Perfusión + AngioTC intracraneal y extra craneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 346,
+      "end": 408
+    }
+  ]
+}

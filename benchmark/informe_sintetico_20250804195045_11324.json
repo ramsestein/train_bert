@@ -1,0 +1,89 @@
+{
+  "document_id": "informe_sintetico_20250804195045_11324",
+  "entities": [
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 312,
+      "end": 326
+    },
+    {
+      "text": "territorio vertebrobasilar",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 330,
+      "end": 356
+    },
+    {
+      "text": "tallo cerebral",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1083,
+      "end": 1097
+    },
+    {
+      "text": "cerebelo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1100,
+      "end": 1108
+    },
+    {
+      "text": "arteria basilar",
+      "type": "ARTERIA",
+      "start": 1542,
+      "end": 1557
+    },
+    {
+      "text": "arteria vertebral derecha",
+      "type": "ARTERIA",
+      "start": 1693,
+      "end": 1718
+    },
+    {
+      "text": "bilateral",
+      "type": "LATERALIDAD",
+      "start": 1109,
+      "end": 1118
+    },
+    {
+      "text": "Tmax > 6 segundos",
+      "type": "MEDIDA",
+      "start": 1175,
+      "end": 1192
+    },
+    {
+      "text": "estenosis severa",
+      "type": "PATOLOGIA",
+      "start": 1658,
+      "end": 1674
+    },
+    {
+      "text": "oclusión arterial",
+      "type": "PATOLOGIA",
+      "start": 1583,
+      "end": 1600
+    },
+    {
+      "text": "No se identifican colecciones hemorrágicas intra ni extraaxiales.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 647,
+      "end": 712
+    },
+    {
+      "text": "No se observan signos tomográficos evidentes de infarto agudo en territorio vertebrobasilar.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 780,
+      "end": 872
+    },
+    {
+      "text": "No se identifican zonas con reducción del CBV compatible con tejido infarctado irreversiblemente.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1346,
+      "end": 1443
+    },
+    {
+      "text": "sin evidencia de infarto establecido en TC basal.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2101,
+      "end": 2150
+    }
+  ]
+}

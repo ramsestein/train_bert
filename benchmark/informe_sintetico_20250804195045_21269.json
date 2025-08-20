@@ -1,0 +1,65 @@
+{
+  "document_id": "informe_sintetico_20250804195045_21269",
+  "entities": [
+    {
+      "text": "hematoma intraparenquimatoso agudo",
+      "type": "PATOLOGIA",
+      "start": 496,
+      "end": 530
+    },
+    {
+      "text": "núcleo caudado izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 550,
+      "end": 574
+    },
+    {
+      "text": "28 x 25 x 22 mm",
+      "type": "MEDIDA",
+      "start": 601,
+      "end": 616
+    },
+    {
+      "text": "izquierdo",
+      "type": "LATERALIDAD",
+      "start": 565,
+      "end": 574
+    },
+    {
+      "text": "sin evidencia de hidrocefalia aguda",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 735,
+      "end": 770
+    },
+    {
+      "text": "No hay hemorragia subaracnoidea ni subdural",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 772,
+      "end": 815
+    },
+    {
+      "text": "sin áreas adyacentes de isquemia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1076,
+      "end": 1108
+    },
+    {
+      "text": "sin evidencia de isquemia asociada",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1490,
+      "end": 1524
+    },
+    {
+      "text": "Angio-TC",
+      "type": "TECNICA_IMAGEN",
+      "start": 395,
+      "end": 403
+    },
+    {
+      "text": "Angio-TC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 395,
+      "end": 425
+    }
+  ]
+}

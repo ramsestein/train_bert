@@ -1,0 +1,107 @@
+{
+  "document_id": "informe_sintetico_20250804195045_08612",
+  "entities": [
+    {
+      "text": "microhemorragias recientes",
+      "type": "PATOLOGIA",
+      "start": 685,
+      "end": 711
+    },
+    {
+      "text": "1-3 mm",
+      "type": "MEDIDA",
+      "start": 561,
+      "end": 567
+    },
+    {
+      "text": "sustancia blanca profunda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 606,
+      "end": 631
+    },
+    {
+      "text": "ganglios basales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 633,
+      "end": 649
+    },
+    {
+      "text": "región cortical",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 652,
+      "end": 667
+    },
+    {
+      "text": "No se evidencia hemorragia macroscópica",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 713,
+      "end": 752
+    },
+    {
+      "text": "No se identifican alteraciones focales significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1086,
+      "end": 1139
+    },
+    {
+      "text": "sin lesiones estenóticas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1427,
+      "end": 1451
+    },
+    {
+      "text": "ACAs, ACMs, ACPs",
+      "type": "ARTERIA",
+      "start": 1487,
+      "end": 1503
+    },
+    {
+      "text": "sin evidencia de estenosis ni malformaciones",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1505,
+      "end": 1549
+    },
+    {
+      "text": "microhemorragias múltiples",
+      "type": "PATOLOGIA",
+      "start": 1624,
+      "end": 1650
+    },
+    {
+      "text": "sustancia blanca profunda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 606,
+      "end": 631
+    },
+    {
+      "text": "ganglios basales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 633,
+      "end": 649
+    },
+    {
+      "text": "corteza cerebral",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1700,
+      "end": 1716
+    },
+    {
+      "text": "No se detectan signos de ictus isquémico",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1790,
+      "end": 1830
+    },
+    {
+      "text": "hemorragia intraparenquimatosa mayor aguda",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1834,
+      "end": 1876
+    },
+    {
+      "text": "Perfusión cerebral normal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1878,
+      "end": 1903
+    }
+  ]
+}

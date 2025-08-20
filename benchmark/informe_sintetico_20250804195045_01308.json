@@ -1,0 +1,143 @@
+{
+  "document_id": "informe_sintetico_20250804195045_01308",
+  "entities": [
+    {
+      "text": "hemorragia subaracnoidea difusa",
+      "type": "PATOLOGIA",
+      "start": 450,
+      "end": 481
+    },
+    {
+      "text": "cisternas basales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 515,
+      "end": 532
+    },
+    {
+      "text": "surcos corticales frontales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 534,
+      "end": 561
+    },
+    {
+      "text": "espacios perimesencefálicos",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 602,
+      "end": 629
+    },
+    {
+      "text": "hematomas intracerebrales focales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 649,
+      "end": 682
+    },
+    {
+      "text": "hemorragias intraventriculares",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 686,
+      "end": 716
+    },
+    {
+      "text": "fracturas óseas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 735,
+      "end": 750
+    },
+    {
+      "text": "lesiones parenquimatosas asociadas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 754,
+      "end": 788
+    },
+    {
+      "text": "sangre",
+      "type": "PATOLOGIA",
+      "start": 953,
+      "end": 959
+    },
+    {
+      "text": "hipoperfusión focal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1056,
+      "end": 1075
+    },
+    {
+      "text": "alteraciones hemodinámicas agudas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1079,
+      "end": 1112
+    },
+    {
+      "text": "isquemia cerebral",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1155,
+      "end": 1172
+    },
+    {
+      "text": "arteria cerebral anterior izquierda",
+      "type": "ARTERIA",
+      "start": 1432,
+      "end": 1467
+    },
+    {
+      "text": "5 mm",
+      "type": "MEDIDA",
+      "start": 1531,
+      "end": 1535
+    },
+    {
+      "text": "aneurisma sacular",
+      "type": "PATOLOGIA",
+      "start": 1494,
+      "end": 1511
+    },
+    {
+      "text": "signos de disección",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1601,
+      "end": 1620
+    },
+    {
+      "text": "oclusiones significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1624,
+      "end": 1649
+    },
+    {
+      "text": "isquemia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1155,
+      "end": 1163
+    },
+    {
+      "text": "efecto masa significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1875,
+      "end": 1900
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 284,
+      "end": 300
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 311,
+      "end": 332
+    },
+    {
+      "text": "angioTC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 335,
+      "end": 364
+    },
+    {
+      "text": "TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANG IOTC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 72,
+      "end": 140
+    }
+  ]
+}

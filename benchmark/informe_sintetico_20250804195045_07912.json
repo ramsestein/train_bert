@@ -1,0 +1,239 @@
+{
+  "document_id": "informe_sintetico_20250804195045_07912",
+  "entities": [
+    {
+      "text": "hemiparesia",
+      "type": "PATOLOGIA",
+      "start": 195,
+      "end": 206
+    },
+    {
+      "text": "afasia",
+      "type": "PATOLOGIA",
+      "start": 209,
+      "end": 215
+    },
+    {
+      "text": "infarto cerebral",
+      "type": "PATOLOGIA",
+      "start": 229,
+      "end": 245
+    },
+    {
+      "text": "oclusión carotídea izquierda",
+      "type": "PATOLOGIA",
+      "start": 250,
+      "end": 278
+    },
+    {
+      "text": "hipodensidad extensa",
+      "type": "PATOLOGIA",
+      "start": 468,
+      "end": 488
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 509,
+      "end": 541
+    },
+    {
+      "text": "edema parenquimatoso",
+      "type": "PATOLOGIA",
+      "start": 547,
+      "end": 567
+    },
+    {
+      "text": "corteza",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 582,
+      "end": 589
+    },
+    {
+      "text": "sustancia blanca",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 592,
+      "end": 608
+    },
+    {
+      "text": "efusión ventricular ipsilateral",
+      "type": "PATOLOGIA",
+      "start": 619,
+      "end": 650
+    },
+    {
+      "text": "ASPECTS 5",
+      "type": "PUNTUACION_CLINICA",
+      "start": 652,
+      "end": 661
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 680,
+      "end": 703
+    },
+    {
+      "text": "hematoma intraparenquimatoso",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 707,
+      "end": 735
+    },
+    {
+      "text": "desviación de la línea media hacia la derecha",
+      "type": "PATOLOGIA",
+      "start": 755,
+      "end": 800
+    },
+    {
+      "text": "ventrículo lateral izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 846,
+      "end": 874
+    },
+    {
+      "text": "tiempo de tránsito medio (MTT)",
+      "type": "MEDIDA",
+      "start": 941,
+      "end": 971
+    },
+    {
+      "text": "tiempo hasta el pico (TTP)",
+      "type": "MEDIDA",
+      "start": 974,
+      "end": 1000
+    },
+    {
+      "text": "flujo cerebral (CBF)",
+      "type": "MEDIDA",
+      "start": 1036,
+      "end": 1056
+    },
+    {
+      "text": "volumen cerebral (CBV)",
+      "type": "MEDIDA",
+      "start": 1059,
+      "end": 1081
+    },
+    {
+      "text": "infarto establecido",
+      "type": "PATOLOGIA",
+      "start": 1120,
+      "end": 1139
+    },
+    {
+      "text": "territorio izquierdo de ACM",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1143,
+      "end": 1170
+    },
+    {
+      "text": "zona de penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1186,
+      "end": 1212
+    },
+    {
+      "text": "regiones frontales y temporales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1260,
+      "end": 1291
+    },
+    {
+      "text": "arteria carótida interna izquierda",
+      "type": "ARTERIA",
+      "start": 1351,
+      "end": 1385
+    },
+    {
+      "text": "segmento cervical proximal",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1392,
+      "end": 1418
+    },
+    {
+      "text": "carótida común izquierda",
+      "type": "ARTERIA",
+      "start": 1468,
+      "end": 1492
+    },
+    {
+      "text": "placas ateromatosas irregulares y calcificadas",
+      "type": "PATOLOGIA",
+      "start": 1497,
+      "end": 1543
+    },
+    {
+      "text": "flujo preservado en ACM derecha, ACA y ACP bilaterales",
+      "type": "ARTERIA",
+      "start": 1598,
+      "end": 1652
+    },
+    {
+      "text": "permeable sin estenosis ni anomalías",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1678,
+      "end": 1714
+    },
+    {
+      "text": "aneurismas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1731,
+      "end": 1741
+    },
+    {
+      "text": "malformaciones vasculares",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1745,
+      "end": 1770
+    },
+    {
+      "text": "infarto cerebral extenso",
+      "type": "PATOLOGIA",
+      "start": 1823,
+      "end": 1847
+    },
+    {
+      "text": "territorio de arteria cerebral media izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1851,
+      "end": 1897
+    },
+    {
+      "text": "edema parenquimatoso",
+      "type": "PATOLOGIA",
+      "start": 547,
+      "end": 567
+    },
+    {
+      "text": "desplazamiento leve de línea media",
+      "type": "PATOLOGIA",
+      "start": 1925,
+      "end": 1959
+    },
+    {
+      "text": "estenosis severa de carótida común",
+      "type": "PATOLOGIA",
+      "start": 2052,
+      "end": 2086
+    },
+    {
+      "text": "área de infarto establecida",
+      "type": "PATOLOGIA",
+      "start": 2118,
+      "end": 2145
+    },
+    {
+      "text": "penumbra isquémica adyacente",
+      "type": "PATOLOGIA",
+      "start": 2148,
+      "end": 2176
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 680,
+      "end": 703
+    }
+  ]
+}

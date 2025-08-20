@@ -1,0 +1,131 @@
+{
+  "document_id": "informe_sintetico_20250804195045_22922",
+  "entities": [
+    {
+      "text": "contusiones hemorrágicas",
+      "type": "PATOLOGIA",
+      "start": 522,
+      "end": 546
+    },
+    {
+      "text": "lóbulo frontal derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 580,
+      "end": 602
+    },
+    {
+      "text": "región temporal izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 608,
+      "end": 633
+    },
+    {
+      "text": "12 mL",
+      "type": "MEDIDA",
+      "start": 684,
+      "end": 689
+    },
+    {
+      "text": "edema perilesional moderado",
+      "type": "PATOLOGIA",
+      "start": 702,
+      "end": 729
+    },
+    {
+      "text": "efecto de masa",
+      "type": "PATOLOGIA",
+      "start": 739,
+      "end": 753
+    },
+    {
+      "text": "sin evidencia de desplazamiento significativo de la línea media",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 804,
+      "end": 867
+    },
+    {
+      "text": "No se visualizan hematomas subdurales ni epidurales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 869,
+      "end": 920
+    },
+    {
+      "text": "No hay sangrado subaracnoideo difuso identificado",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 922,
+      "end": 971
+    },
+    {
+      "text": "sin signos de hidrocefalia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1028,
+      "end": 1054
+    },
+    {
+      "text": "edema e isquemia secundaria local",
+      "type": "PATOLOGIA",
+      "start": 1246,
+      "end": 1279
+    },
+    {
+      "text": "lesiones vasculares, aneurismas ni estenosis significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1325,
+      "end": 1384
+    },
+    {
+      "text": "permeabilidad preservada en los principales ejes arteriales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1396,
+      "end": 1455
+    },
+    {
+      "text": "ACAs, ACMs y ACPs",
+      "type": "ARTERIA",
+      "start": 1457,
+      "end": 1474
+    },
+    {
+      "text": "monitorización neurológica estrecha",
+      "type": "PATOLOGIA",
+      "start": 1867,
+      "end": 1902
+    },
+    {
+      "text": "manejo dirigido a controlar edema cerebral y prevenir complicaciones",
+      "type": "PATOLOGIA",
+      "start": 1905,
+      "end": 1973
+    },
+    {
+      "text": "TC craneal control en 24-48 horas",
+      "type": "TEMPORALIDAD",
+      "start": 2031,
+      "end": 2064
+    },
+    {
+      "text": "evaluar evolución del edema y posibles complicaciones hemorrágicas",
+      "type": "PATOLOGIA",
+      "start": 2070,
+      "end": 2136
+    },
+    {
+      "text": "Imagen axial con cortes de TC craneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 2155,
+      "end": 2192
+    },
+    {
+      "text": "mapas de perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 2194,
+      "end": 2221
+    },
+    {
+      "text": "reconstrucción angiográfica 3D de arterias intracraneales",
+      "type": "TECNICA_IMAGEN",
+      "start": 2224,
+      "end": 2281
+    }
+  ]
+}

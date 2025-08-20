@@ -1,0 +1,211 @@
+{
+  "document_id": "informe_sintetico_20250804195045_10876",
+  "entities": [
+    {
+      "text": "microhemorragias corticales",
+      "type": "PATOLOGIA",
+      "start": 505,
+      "end": 532
+    },
+    {
+      "text": "hemorragia lobar cortical derecha",
+      "type": "PATOLOGIA",
+      "start": 641,
+      "end": 674
+    },
+    {
+      "text": "sangrado reciente",
+      "type": "PATOLOGIA",
+      "start": 690,
+      "end": 707
+    },
+    {
+      "text": "leucoaraiosis difusa",
+      "type": "PATOLOGIA",
+      "start": 814,
+      "end": 834
+    },
+    {
+      "text": "sustancia blanca profunda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 838,
+      "end": 863
+    },
+    {
+      "text": "periventricular",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 866,
+      "end": 881
+    },
+    {
+      "text": "lesiones isquémicas agudas",
+      "type": "PATOLOGIA",
+      "start": 964,
+      "end": 990
+    },
+    {
+      "text": "perfusión cerebral",
+      "type": "PATOLOGIA",
+      "start": 363,
+      "end": 381
+    },
+    {
+      "text": "hemisferios",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1071,
+      "end": 1082
+    },
+    {
+      "text": "mapas de volumen cerebral (CBV)",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1147,
+      "end": 1178
+    },
+    {
+      "text": "flujo cerebral (CBF)",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1180,
+      "end": 1200
+    },
+    {
+      "text": "tiempo de tránsito medio (MTT)",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1204,
+      "end": 1234
+    },
+    {
+      "text": "estenosis",
+      "type": "PATOLOGIA",
+      "start": 1318,
+      "end": 1327
+    },
+    {
+      "text": "oclusiones de grandes vasos cerebrales",
+      "type": "PATOLOGIA",
+      "start": 1331,
+      "end": 1369
+    },
+    {
+      "text": "aneurismas",
+      "type": "PATOLOGIA",
+      "start": 1388,
+      "end": 1398
+    },
+    {
+      "text": "malformaciones vasculares",
+      "type": "PATOLOGIA",
+      "start": 1402,
+      "end": 1427
+    },
+    {
+      "text": "arterioesclerosis severa",
+      "type": "PATOLOGIA",
+      "start": 1463,
+      "end": 1487
+    },
+    {
+      "text": "territorio de TSA",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1523,
+      "end": 1540
+    },
+    {
+      "text": "angiopatía amiloide cerebral",
+      "type": "PATOLOGIA",
+      "start": 1593,
+      "end": 1621
+    },
+    {
+      "text": "microangiopatía crónica",
+      "type": "PATOLOGIA",
+      "start": 1914,
+      "end": 1937
+    },
+    {
+      "text": "75 años",
+      "type": "MEDIDA",
+      "start": 178,
+      "end": 185
+    },
+    {
+      "text": "bilaterales",
+      "type": "LATERALIDAD",
+      "start": 615,
+      "end": 626
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 667,
+      "end": 674
+    },
+    {
+      "text": "sin contraste",
+      "type": "TECNICA_IMAGEN",
+      "start": 344,
+      "end": 357
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 360,
+      "end": 381
+    },
+    {
+      "text": "AngioTC intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 384,
+      "end": 404
+    },
+    {
+      "text": "TC CODIGO ICTUS",
+      "type": "TECNICA_IMAGEN",
+      "start": 72,
+      "end": 87
+    },
+    {
+      "text": "No se observa desplazamiento de línea media",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 709,
+      "end": 752
+    },
+    {
+      "text": "No se manifiestan lesiones isquémicas agudas evidentes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 946,
+      "end": 1000
+    },
+    {
+      "text": "sin zonas de hipoperfusión significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1083,
+      "end": 1123
+    },
+    {
+      "text": "sin hallazgos de estenosis ni oclusiones",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1301,
+      "end": 1341
+    },
+    {
+      "text": "No se visualizan aneurismas ni malformaciones vasculares",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1371,
+      "end": 1427
+    },
+    {
+      "text": "sin evidencia de arterioesclerosis severa visible",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1446,
+      "end": 1495
+    },
+    {
+      "text": "No se identifican lesiones isquémicas agudas ni oclusiones vasculares relevantes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1751,
+      "end": 1831
+    }
+  ],
+  "regenerado": true,
+  "fecha_regeneracion": "2025-08-06T10:45:14.897763"
+}

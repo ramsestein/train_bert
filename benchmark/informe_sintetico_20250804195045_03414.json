@@ -1,0 +1,119 @@
+{
+  "document_id": "informe_sintetico_20250804195045_03414",
+  "entities": [
+    {
+      "text": "hemorragias intra o extraaxiales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 495,
+      "end": 527
+    },
+    {
+      "text": "infarto agudo",
+      "type": "PATOLOGIA",
+      "start": 588,
+      "end": 601
+    },
+    {
+      "text": "edema vasogénico",
+      "type": "PATOLOGIA",
+      "start": 780,
+      "end": 796
+    },
+    {
+      "text": "tiempo hasta el pico (TTP)",
+      "type": "MEDIDA",
+      "start": 887,
+      "end": 913
+    },
+    {
+      "text": "disminución del flujo cerebral (CBF)",
+      "type": "MEDIDA",
+      "start": 966,
+      "end": 1002
+    },
+    {
+      "text": "volumen cerebral (CBV)",
+      "type": "MEDIDA",
+      "start": 1005,
+      "end": 1027
+    },
+    {
+      "text": "arteria basilar",
+      "type": "ARTERIA",
+      "start": 1073,
+      "end": 1088
+    },
+    {
+      "text": "Oclusión proximal de arteria basilar",
+      "type": "PATOLOGIA",
+      "start": 1641,
+      "end": 1677
+    },
+    {
+      "text": "hipoperfusión",
+      "type": "PATOLOGIA",
+      "start": 1693,
+      "end": 1706
+    },
+    {
+      "text": "tronco encefálico",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 803,
+      "end": 820
+    },
+    {
+      "text": "territorio cerebeloso",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1758,
+      "end": 1779
+    },
+    {
+      "text": "zonas de penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1785,
+      "end": 1812
+    },
+    {
+      "text": "hemorragias",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 495,
+      "end": 506
+    },
+    {
+      "text": "infartos establecidos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1846,
+      "end": 1867
+    },
+    {
+      "text": "Oclusión proximal de arteria basilar",
+      "type": "PATOLOGIA",
+      "start": 1641,
+      "end": 1677
+    },
+    {
+      "text": "territorio vertebrobasilar",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 2258,
+      "end": 2284
+    },
+    {
+      "text": "sin infarto establecido",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2286,
+      "end": 2309
+    },
+    {
+      "text": "Angio-TC arterial cerebral intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 2070,
+      "end": 2109
+    },
+    {
+      "text": "perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 338,
+      "end": 356
+    }
+  ]
+}

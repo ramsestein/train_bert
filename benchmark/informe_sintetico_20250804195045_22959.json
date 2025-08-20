@@ -1,0 +1,101 @@
+{
+  "document_id": "informe_sintetico_20250804195045_22959",
+  "entities": [
+    {
+      "text": "hematoma subdural agut frontotemporal esquerre",
+      "type": "PATOLOGIA",
+      "start": 403,
+      "end": 449
+    },
+    {
+      "text": "frontotemporal esquerre",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 426,
+      "end": 449
+    },
+    {
+      "text": "65 UH",
+      "type": "MEDIDA",
+      "start": 484,
+      "end": 489
+    },
+    {
+      "text": "30 mL",
+      "type": "MEDIDA",
+      "start": 525,
+      "end": 530
+    },
+    {
+      "text": "7 mm",
+      "type": "MEDIDA",
+      "start": 611,
+      "end": 615
+    },
+    {
+      "text": "esquerre",
+      "type": "LATERALIDAD",
+      "start": 441,
+      "end": 449
+    },
+    {
+      "text": "augment del TTP",
+      "type": "PATOLOGIA",
+      "start": 1056,
+      "end": 1071
+    },
+    {
+      "text": "hemisferi cerebral esquerre",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1119,
+      "end": 1146
+    },
+    {
+      "text": "ACA, ACM i ACP",
+      "type": "ARTERIA",
+      "start": 1306,
+      "end": 1320
+    },
+    {
+      "text": "sense signes d’estenosi ni oclusió",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1337,
+      "end": 1371
+    },
+    {
+      "text": "sense alteracions",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1457,
+      "end": 1474
+    },
+    {
+      "text": "hematoma subdural agut frontotemporal esquerre",
+      "type": "PATOLOGIA",
+      "start": 403,
+      "end": 449
+    },
+    {
+      "text": "30 mL",
+      "type": "MEDIDA",
+      "start": 525,
+      "end": 530
+    },
+    {
+      "text": "sense alteracions vasculars intrínseques",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1781,
+      "end": 1821
+    },
+    {
+      "text": "TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANG IOTC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 72,
+      "end": 140
+    },
+    {
+      "text": "TC craneal simple basal + angio-TC arterial intracraneal + perfusió cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 273,
+      "end": 349
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "document_id": "informe_sintetico_20250804195045_20664",
+  "entities": [
+    {
+      "text": "ictus isquémico",
+      "type": "PATOLOGIA",
+      "start": 272,
+      "end": 287
+    },
+    {
+      "text": "hemorragias intra ni extraaxiales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 491,
+      "end": 524
+    },
+    {
+      "text": "infarto establecido",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 553,
+      "end": 572
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 1058,
+      "end": 1072
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "ARTERIA",
+      "start": 883,
+      "end": 913
+    },
+    {
+      "text": "M2/M3",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 940,
+      "end": 945
+    },
+    {
+      "text": "ASPECTS",
+      "type": "PUNTUACION_CLINICA",
+      "start": 1199,
+      "end": 1206
+    },
+    {
+      "text": "9",
+      "type": "MEDIDA",
+      "start": 1217,
+      "end": 1218
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "ARTERIA",
+      "start": 883,
+      "end": 913
+    },
+    {
+      "text": "M2",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 940,
+      "end": 942
+    },
+    {
+      "text": "sin infarto establecido",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1791,
+      "end": 1814
+    },
+    {
+      "text": "penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1178,
+      "end": 1196
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 347,
+      "end": 363
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 365,
+      "end": 386
+    },
+    {
+      "text": "angio TC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 389,
+      "end": 419
+    }
+  ]
+}

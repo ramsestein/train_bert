@@ -1,0 +1,107 @@
+{
+  "document_id": "informe_sintetico_20250804195045_11884",
+  "entities": [
+    {
+      "text": "hemorragia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 464,
+      "end": 474
+    },
+    {
+      "text": "ASPECTS 9",
+      "type": "PUNTUACION_CLINICA",
+      "start": 573,
+      "end": 582
+    },
+    {
+      "text": "hipodensidad difusa y mal delimitada",
+      "type": "PATOLOGIA",
+      "start": 609,
+      "end": 645
+    },
+    {
+      "text": "región subcortical parietal bilateral",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 652,
+      "end": 689
+    },
+    {
+      "text": "arterias cerebrales medias y anteriores",
+      "type": "ARTERIA",
+      "start": 747,
+      "end": 786
+    },
+    {
+      "text": "isquémica",
+      "type": "PATOLOGIA",
+      "start": 811,
+      "end": 820
+    },
+    {
+      "text": "aumento del tiempo de tránsito medio (TTP)",
+      "type": "MEDIDA",
+      "start": 950,
+      "end": 992
+    },
+    {
+      "text": "disminución moderada del flujo sanguíneo cerebral (CBF)",
+      "type": "PATOLOGIA",
+      "start": 1072,
+      "end": 1127
+    },
+    {
+      "text": "flujo sanguíneo cerebral volumétrico (CBV) conservado",
+      "type": "PATOLOGIA",
+      "start": 1130,
+      "end": 1183
+    },
+    {
+      "text": "isquemia en zona de penumbra vívida",
+      "type": "PATOLOGIA",
+      "start": 1211,
+      "end": 1246
+    },
+    {
+      "text": "Arterias intracraneales principales (ACAs, ACMs, ACPs) permeables",
+      "type": "ARTERIA",
+      "start": 1280,
+      "end": 1345
+    },
+    {
+      "text": "sin signos de estenosis o trombosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1347,
+      "end": 1382
+    },
+    {
+      "text": "sin evidencia de placas ateroscleróticas significativas ni estenosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1484,
+      "end": 1552
+    },
+    {
+      "text": "signos sugestivos de infarto ischemico bilateral en zonas watershed frontoparietales",
+      "type": "PATOLOGIA",
+      "start": 1641,
+      "end": 1725
+    },
+    {
+      "text": "episodio de hipotensión arterial prolongada",
+      "type": "TEMPORALIDAD",
+      "start": 232,
+      "end": 275
+    },
+    {
+      "text": "Perfusión compatible con área en riesgo, con CBV conservada",
+      "type": "PATOLOGIA",
+      "start": 1858,
+      "end": 1917
+    },
+    {
+      "text": "Arterias principales permeables sin estenosis ni trombosis",
+      "type": "ARTERIA",
+      "start": 1919,
+      "end": 1977
+    }
+  ]
+}

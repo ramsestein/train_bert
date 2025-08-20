@@ -1,0 +1,161 @@
+{
+  "document_id": "informe_sintetico_20250804195045_20830",
+  "entities": [
+    {
+      "text": "isquemia",
+      "type": "PATOLOGIA",
+      "start": 268,
+      "end": 276
+    },
+    {
+      "text": "infarto",
+      "type": "PATOLOGIA",
+      "start": 1261,
+      "end": 1268
+    },
+    {
+      "text": "territorio vertebrobasilar",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 280,
+      "end": 306
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 327,
+      "end": 343
+    },
+    {
+      "text": "perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 370,
+      "end": 388
+    },
+    {
+      "text": "AngioTC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 391,
+      "end": 420
+    },
+    {
+      "text": "hemorragia aguda intra o extraaxial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 590,
+      "end": 625
+    },
+    {
+      "text": "hipodensidad cortical o subcortical franca",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 651,
+      "end": 693
+    },
+    {
+      "text": "efecto de masa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 747,
+      "end": 761
+    },
+    {
+      "text": "disminución significativa del flujo cerebral",
+      "type": "PATOLOGIA",
+      "start": 988,
+      "end": 1032
+    },
+    {
+      "text": "aumento del tiempo de tránsito medio",
+      "type": "PATOLOGIA",
+      "start": 1041,
+      "end": 1077
+    },
+    {
+      "text": "tronco encefálico",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1138,
+      "end": 1155
+    },
+    {
+      "text": "cerebelo posterior izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1158,
+      "end": 1186
+    },
+    {
+      "text": "volumen cerebral",
+      "type": "MEDIDA",
+      "start": 1218,
+      "end": 1234
+    },
+    {
+      "text": "infarto establecido",
+      "type": "PATOLOGIA",
+      "start": 2007,
+      "end": 2026
+    },
+    {
+      "text": "arteria cerebelosa posterior inferior (PICA) izquierda",
+      "type": "ARTERIA",
+      "start": 1355,
+      "end": 1409
+    },
+    {
+      "text": "Oclusión completa del segmento distal de la arteria vertebral izquierda",
+      "type": "PATOLOGIA",
+      "start": 1445,
+      "end": 1516
+    },
+    {
+      "text": "arteria basilar",
+      "type": "ARTERIA",
+      "start": 1549,
+      "end": 1564
+    },
+    {
+      "text": "flujo disminuido",
+      "type": "PATOLOGIA",
+      "start": 1594,
+      "end": 1610
+    },
+    {
+      "text": "sin evidencia de trombosis completa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1612,
+      "end": 1647
+    },
+    {
+      "text": "estenosis significativas en las grandes arterias intracraneales supratentoriales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1730,
+      "end": 1810
+    },
+    {
+      "text": "ateromatosis calcificada",
+      "type": "PATOLOGIA",
+      "start": 1817,
+      "end": 1841
+    },
+    {
+      "text": "infarto establecido en tronco encefálico y cerebelo posterior izquierdo",
+      "type": "PATOLOGIA",
+      "start": 2007,
+      "end": 2078
+    },
+    {
+      "text": "Oclusión distal de arteria vertebral izquierda confirmada",
+      "type": "PATOLOGIA",
+      "start": 2080,
+      "end": 2137
+    },
+    {
+      "text": "signos de hemorragia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 580,
+      "end": 600
+    },
+    {
+      "text": "Riesgo alto de progresión por compromiso arterial",
+      "type": "PATOLOGIA",
+      "start": 2179,
+      "end": 2228
+    }
+  ]
+}

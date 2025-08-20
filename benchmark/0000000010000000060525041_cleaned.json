@@ -1,0 +1,53 @@
+{
+  "document_id": "0000000010000000060525041_cleaned",
+  "entities": [
+    {
+      "text": "ACM-I",
+      "type": "ARTERIA",
+      "start": 208,
+      "end": 213
+    },
+    {
+      "text": "TC craneal basal urgente",
+      "type": "TECNICA_IMAGEN",
+      "start": 233,
+      "end": 257
+    },
+    {
+      "text": "TC perfusión",
+      "type": "TECNICA_IMAGEN",
+      "start": 260,
+      "end": 272
+    },
+    {
+      "text": "No se observan signos de sangrado",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 372,
+      "end": 405
+    },
+    {
+      "text": "TC perfusión poco valorable",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 407,
+      "end": 434
+    },
+    {
+      "text": "cambios significativos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 503,
+      "end": 525
+    },
+    {
+      "text": "sin cambios significativos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 565,
+      "end": 591
+    },
+    {
+      "text": "TC previo de hace unas horas",
+      "type": "TEMPORALIDAD",
+      "start": 342,
+      "end": 370
+    }
+  ]
+}

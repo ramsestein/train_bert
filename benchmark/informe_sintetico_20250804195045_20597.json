@@ -1,0 +1,119 @@
+{
+  "document_id": "informe_sintetico_20250804195045_20597",
+  "entities": [
+    {
+      "text": "infarto cerebral subagudo",
+      "type": "PATOLOGIA",
+      "start": 664,
+      "end": 689
+    },
+    {
+      "text": "múltiples focos hiperdensos intraparenquimatosos",
+      "type": "PATOLOGIA",
+      "start": 704,
+      "end": 752
+    },
+    {
+      "text": "hematoma con extensión en más de un tercio del área infartada",
+      "type": "PATOLOGIA",
+      "start": 948,
+      "end": 1009
+    },
+    {
+      "text": "efecto de masa regional",
+      "type": "PATOLOGIA",
+      "start": 1028,
+      "end": 1051
+    },
+    {
+      "text": "desviación mínima de línea media hacia la izquierda",
+      "type": "PATOLOGIA",
+      "start": 1056,
+      "end": 1107
+    },
+    {
+      "text": "infarto isquémico con daño hemodinámico severo",
+      "type": "PATOLOGIA",
+      "start": 1456,
+      "end": 1502
+    },
+    {
+      "text": "50%",
+      "type": "MEDIDA",
+      "start": 1749,
+      "end": 1752
+    },
+    {
+      "text": "ACM",
+      "type": "ARTERIA",
+      "start": 1899,
+      "end": 1902
+    },
+    {
+      "text": "ACA",
+      "type": "ARTERIA",
+      "start": 1904,
+      "end": 1907
+    },
+    {
+      "text": "ACP",
+      "type": "ARTERIA",
+      "start": 1909,
+      "end": 1912
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 589,
+      "end": 596
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 1098,
+      "end": 1107
+    },
+    {
+      "text": "agudo",
+      "type": "TEMPORALIDAD",
+      "start": 684,
+      "end": 689
+    },
+    {
+      "text": "PH2",
+      "type": "PUNTUACION_CLINICA",
+      "start": 943,
+      "end": 946
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 346,
+      "end": 362
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 364,
+      "end": 385
+    },
+    {
+      "text": "angio-TC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 388,
+      "end": 418
+    },
+    {
+      "text": "No se identifican hemorragias extraaxiales ni edema masivo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1123,
+      "end": 1181
+    },
+    {
+      "text": "sin oclusión completa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1755,
+      "end": 1776
+    }
+  ]
+}

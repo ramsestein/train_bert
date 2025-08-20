@@ -1,0 +1,65 @@
+{
+  "document_id": "0000000010000000062039700_cleaned",
+  "entities": [
+    {
+      "text": "hemorragia aguda intra o extraaxial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 567,
+      "end": 602
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 707,
+      "end": 721
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 723,
+      "end": 733
+    },
+    {
+      "text": "microangiopatía crónica",
+      "type": "PATOLOGIA",
+      "start": 852,
+      "end": 875
+    },
+    {
+      "text": "dilatado",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 943,
+      "end": 951
+    },
+    {
+      "text": "territorios vasculares anterior, medio y posterior derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1329,
+      "end": 1387
+    },
+    {
+      "text": "ACA, ACM, ACP",
+      "type": "ARTERIA",
+      "start": 1816,
+      "end": 1829
+    },
+    {
+      "text": "ACP bilateral",
+      "type": "ARTERIA",
+      "start": 1832,
+      "end": 1845
+    },
+    {
+      "text": "sangrado intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1963,
+      "end": 1984
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 723,
+      "end": 733
+    }
+  ]
+}

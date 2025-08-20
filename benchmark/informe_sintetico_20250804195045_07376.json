@@ -1,0 +1,125 @@
+{
+  "document_id": "informe_sintetico_20250804195045_07376",
+  "entities": [
+    {
+      "text": "infarto cerebral tipo watershed",
+      "type": "PATOLOGIA",
+      "start": 315,
+      "end": 346
+    },
+    {
+      "text": "bilaterales",
+      "type": "LATERALIDAD",
+      "start": 595,
+      "end": 606
+    },
+    {
+      "text": "hipodensidad cortical y subcortical",
+      "type": "PATOLOGIA",
+      "start": 631,
+      "end": 666
+    },
+    {
+      "text": "regiones fronto-parietales y parieto-occipitales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 670,
+      "end": 718
+    },
+    {
+      "text": "territorio periventricular",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 723,
+      "end": 749
+    },
+    {
+      "text": "lesiones isquémicas en zonas watershed",
+      "type": "PATOLOGIA",
+      "start": 883,
+      "end": 921
+    },
+    {
+      "text": "TTP y Tmax",
+      "type": "MEDIDA",
+      "start": 1140,
+      "end": 1150
+    },
+    {
+      "text": "bilaterales",
+      "type": "LATERALIDAD",
+      "start": 595,
+      "end": 606
+    },
+    {
+      "text": "Volumen cerebral de flujo (CBF)",
+      "type": "MEDIDA",
+      "start": 1215,
+      "end": 1246
+    },
+    {
+      "text": "volumen sanguíneo cerebral (CBV)",
+      "type": "MEDIDA",
+      "start": 1287,
+      "end": 1319
+    },
+    {
+      "text": "isquémica en penumbra",
+      "type": "PATOLOGIA",
+      "start": 1365,
+      "end": 1386
+    },
+    {
+      "text": "ateromatosis leve no estenosante",
+      "type": "PATOLOGIA",
+      "start": 1632,
+      "end": 1664
+    },
+    {
+      "text": "bilateral",
+      "type": "LATERALIDAD",
+      "start": 206,
+      "end": 215
+    },
+    {
+      "text": "infarto cerebral en áreas de watershed bilateral fronto-parietales y parieto-occipitales",
+      "type": "PATOLOGIA",
+      "start": 1866,
+      "end": 1954
+    },
+    {
+      "text": "hipoperfusión prolongada",
+      "type": "PATOLOGIA",
+      "start": 2596,
+      "end": 2620
+    },
+    {
+      "text": "sin evidencia de trombosis arterial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2621,
+      "end": 2656
+    },
+    {
+      "text": "ausencia de trombosis o estenosis relevantes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2821,
+      "end": 2865
+    },
+    {
+      "text": "TC craneal basal urgente",
+      "type": "TECNICA_IMAGEN",
+      "start": 367,
+      "end": 391
+    },
+    {
+      "text": "estudio de perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 394,
+      "end": 423
+    },
+    {
+      "text": "angiografía por TC de vasos intracraneales y extracraneales",
+      "type": "TECNICA_IMAGEN",
+      "start": 426,
+      "end": 485
+    }
+  ]
+}

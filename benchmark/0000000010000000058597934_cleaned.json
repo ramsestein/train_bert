@@ -1,0 +1,101 @@
+{
+  "document_id": "0000000010000000058597934_cleaned",
+  "entities": [
+    {
+      "text": "ictus acme",
+      "type": "PATOLOGIA",
+      "start": 121,
+      "end": 131
+    },
+    {
+      "text": "No se observa hemorragia intra ni extraaxial.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 301,
+      "end": 346
+    },
+    {
+      "text": "isquemia establecida",
+      "type": "PATOLOGIA",
+      "start": 415,
+      "end": 435
+    },
+    {
+      "text": "ASPECTS 8",
+      "type": "PUNTUACION_CLINICA",
+      "start": 437,
+      "end": 446
+    },
+    {
+      "text": "ACM izquierda",
+      "type": "ARTERIA",
+      "start": 622,
+      "end": 635
+    },
+    {
+      "text": "7 mm",
+      "type": "MEDIDA",
+      "start": 863,
+      "end": 867
+    },
+    {
+      "text": "Oclusión de ACM izquierda en tercio medio del segmento M1",
+      "type": "PATOLOGIA",
+      "start": 778,
+      "end": 835
+    },
+    {
+      "text": "80/90%",
+      "type": "MEDIDA",
+      "start": 739,
+      "end": 745
+    },
+    {
+      "text": "ASPECTS 8",
+      "type": "PUNTUACION_CLINICA",
+      "start": 437,
+      "end": 446
+    },
+    {
+      "text": "No hay hemorragia intracraneal.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1123,
+      "end": 1154
+    },
+    {
+      "text": "ACM izquierda",
+      "type": "ARTERIA",
+      "start": 622,
+      "end": 635
+    },
+    {
+      "text": "ACP izquierda de origen fetal.",
+      "type": "ARTERIA",
+      "start": 957,
+      "end": 987
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 151,
+      "end": 167
+    },
+    {
+      "text": "angio TC intra/extra craneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 170,
+      "end": 198
+    },
+    {
+      "text": "TC perfusión",
+      "type": "TECNICA_IMAGEN",
+      "start": 201,
+      "end": 213
+    },
+    {
+      "text": "TC previo de hace 2 horas",
+      "type": "TEMPORALIDAD",
+      "start": 250,
+      "end": 275
+    }
+  ]
+}

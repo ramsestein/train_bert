@@ -1,0 +1,107 @@
+{
+  "document_id": "informe_sintetico_20250804195045_04285",
+  "entities": [
+    {
+      "text": "infarto cerebral agudo",
+      "type": "PATOLOGIA",
+      "start": 179,
+      "end": 201
+    },
+    {
+      "text": "transformación hemorrágica",
+      "type": "PATOLOGIA",
+      "start": 252,
+      "end": 278
+    },
+    {
+      "text": "hipodensidad isquémica",
+      "type": "PATOLOGIA",
+      "start": 491,
+      "end": 513
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "ARTERIA",
+      "start": 534,
+      "end": 564
+    },
+    {
+      "text": "región fronto-parietal",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 579,
+      "end": 601
+    },
+    {
+      "text": "núcleo lenticular",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 621,
+      "end": 638
+    },
+    {
+      "text": "infarto establecido",
+      "type": "PATOLOGIA",
+      "start": 654,
+      "end": 673
+    },
+    {
+      "text": "transformación hemorrágica tipo HI1",
+      "type": "PATOLOGIA",
+      "start": 752,
+      "end": 787
+    },
+    {
+      "text": "petequias mínimas",
+      "type": "PATOLOGIA",
+      "start": 816,
+      "end": 833
+    },
+    {
+      "text": "No se evidencian hematomas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 865,
+      "end": 891
+    },
+    {
+      "text": "No se identifican zonas con perfusión preservada",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1297,
+      "end": 1345
+    },
+    {
+      "text": "Oclusión parcial en segmento M1 de arteria cerebral media derecha",
+      "type": "PATOLOGIA",
+      "start": 1402,
+      "end": 1467
+    },
+    {
+      "text": "ACM derecha",
+      "type": "ARTERIA",
+      "start": 1698,
+      "end": 1709
+    },
+    {
+      "text": "ASPECTS 7",
+      "type": "PUNTUACION_CLINICA",
+      "start": 1926,
+      "end": 1935
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 299,
+      "end": 315
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 375,
+      "end": 396
+    },
+    {
+      "text": "angio-TC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 399,
+      "end": 429
+    }
+  ]
+}

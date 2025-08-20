@@ -1,0 +1,101 @@
+{
+  "document_id": "informe_sintetico_20250804195045_05651",
+  "entities": [
+    {
+      "text": "pequeño foco hipodenso",
+      "type": "PATOLOGIA",
+      "start": 476,
+      "end": 498
+    },
+    {
+      "text": "8 mm",
+      "type": "MEDIDA",
+      "start": 536,
+      "end": 540
+    },
+    {
+      "text": "núcleo lenticular izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 559,
+      "end": 586
+    },
+    {
+      "text": "infarto lacunar agudo",
+      "type": "PATOLOGIA",
+      "start": 1167,
+      "end": 1188
+    },
+    {
+      "text": "núcleo lenticular izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 559,
+      "end": 586
+    },
+    {
+      "text": "arteria carótida interna",
+      "type": "ARTERIA",
+      "start": 1367,
+      "end": 1391
+    },
+    {
+      "text": "Arterias cerebrales anteriores, medias y posteriores",
+      "type": "ARTERIA",
+      "start": 1424,
+      "end": 1476
+    },
+    {
+      "text": "sin signos de vasoespasmo ni trombosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1490,
+      "end": 1528
+    },
+    {
+      "text": "Ateromatosis leve no complicada",
+      "type": "PATOLOGIA",
+      "start": 1530,
+      "end": 1561
+    },
+    {
+      "text": "Sistema vertebrobasilar normal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1597,
+      "end": 1627
+    },
+    {
+      "text": "sin evidencia de hemorragia ni edema asociado",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1721,
+      "end": 1766
+    },
+    {
+      "text": "sin estenosis ni oclusiones mayores",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1776,
+      "end": 1811
+    },
+    {
+      "text": "área isquémica focal limitada",
+      "type": "PATOLOGIA",
+      "start": 1838,
+      "end": 1867
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 294,
+      "end": 310
+    },
+    {
+      "text": "perfusión cerebral dinámica",
+      "type": "TECNICA_IMAGEN",
+      "start": 337,
+      "end": 364
+    },
+    {
+      "text": "AngioTC intra y extracraneal con contraste intravenoso",
+      "type": "TECNICA_IMAGEN",
+      "start": 367,
+      "end": 421
+    }
+  ]
+}

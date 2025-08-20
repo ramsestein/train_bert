@@ -1,0 +1,95 @@
+{
+  "document_id": "informe_sintetico_20250804195045_06488",
+  "entities": [
+    {
+      "text": "hematoma lobar en región frontal izquierda",
+      "type": "PATOLOGIA",
+      "start": 519,
+      "end": 561
+    },
+    {
+      "text": "frontal izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 544,
+      "end": 561
+    },
+    {
+      "text": "4.5 cm",
+      "type": "MEDIDA",
+      "start": 677,
+      "end": 683
+    },
+    {
+      "text": "3.8 cm",
+      "type": "MEDIDA",
+      "start": 691,
+      "end": 697
+    },
+    {
+      "text": "3.2 cm",
+      "type": "MEDIDA",
+      "start": 705,
+      "end": 711
+    },
+    {
+      "text": "27 cc",
+      "type": "MEDIDA",
+      "start": 745,
+      "end": 750
+    },
+    {
+      "text": "4 mm",
+      "type": "MEDIDA",
+      "start": 830,
+      "end": 834
+    },
+    {
+      "text": "isquemia",
+      "type": "PATOLOGIA",
+      "start": 916,
+      "end": 924
+    },
+    {
+      "text": "Hematoma lobar frontal izquierdo",
+      "type": "PATOLOGIA",
+      "start": 1254,
+      "end": 1286
+    },
+    {
+      "text": "frontal izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1269,
+      "end": 1286
+    },
+    {
+      "text": "sin evidencia de isquemia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1353,
+      "end": 1378
+    },
+    {
+      "text": "24-48 horas",
+      "type": "TEMPORALIDAD",
+      "start": 1472,
+      "end": 1483
+    },
+    {
+      "text": "TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANG IOTC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 72,
+      "end": 140
+    },
+    {
+      "text": "TC craneal basal con reconstrucción multiplanar",
+      "type": "TECNICA_IMAGEN",
+      "start": 368,
+      "end": 415
+    },
+    {
+      "text": "angioTC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 449,
+      "end": 478
+    }
+  ]
+}

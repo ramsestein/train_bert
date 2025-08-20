@@ -1,0 +1,77 @@
+{
+  "document_id": "informe_sintetico_20250804195045_07876",
+  "entities": [
+    {
+      "text": "accidente isquémico agudo",
+      "type": "PATOLOGIA",
+      "start": 263,
+      "end": 288
+    },
+    {
+      "text": "ASPECTS de 9",
+      "type": "PUNTUACION_CLINICA",
+      "start": 676,
+      "end": 688
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "ARTERIA",
+      "start": 706,
+      "end": 736
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 729,
+      "end": 736
+    },
+    {
+      "text": "parietal y temporal derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1000,
+      "end": 1027
+    },
+    {
+      "text": "penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1044,
+      "end": 1062
+    },
+    {
+      "text": "disminución marcada del volumen cerebral (CBV)",
+      "type": "PATOLOGIA",
+      "start": 1106,
+      "end": 1152
+    },
+    {
+      "text": "oclusión en segmento M2 de la arteria cerebral media derecha distal",
+      "type": "PATOLOGIA",
+      "start": 1246,
+      "end": 1313
+    },
+    {
+      "text": "ACAs, ACM izquierda, ACPs",
+      "type": "ARTERIA",
+      "start": 1349,
+      "end": 1374
+    },
+    {
+      "text": "No se identifican signos de hemorragia intracraneal ni colección extraaxial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 507,
+      "end": 582
+    },
+    {
+      "text": "No hemorragia intracraneal ni alteraciones estructurales agudas en TC basal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1553,
+      "end": 1628
+    },
+    {
+      "text": "Resto de vascularización cerebral sin estenosis ni alteraciones significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1816,
+      "end": 1894
+    }
+  ]
+}

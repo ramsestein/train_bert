@@ -1,0 +1,113 @@
+{
+  "document_id": "informe_sintetico_20250804195045_08778",
+  "entities": [
+    {
+      "text": "ictus isquémico",
+      "type": "PATOLOGIA",
+      "start": 288,
+      "end": 303
+    },
+    {
+      "text": "signo de arteria hiperdensa",
+      "type": "PATOLOGIA",
+      "start": 507,
+      "end": 534
+    },
+    {
+      "text": "lesión isquémica aguda temprana",
+      "type": "PATOLOGIA",
+      "start": 812,
+      "end": 843
+    },
+    {
+      "text": "hemorragia aguda intra ni extraaxial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 873,
+      "end": 909
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 570,
+      "end": 600
+    },
+    {
+      "text": "M1",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 560,
+      "end": 562
+    },
+    {
+      "text": "territorio derecho del hemisferio cerebral medial y lateral",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1130,
+      "end": 1189
+    },
+    {
+      "text": "arteria cerebral media",
+      "type": "ARTERIA",
+      "start": 570,
+      "end": 592
+    },
+    {
+      "text": "Oclusión completa en el segmento proximal M1 derecho de la arteria cerebral media",
+      "type": "PATOLOGIA",
+      "start": 1388,
+      "end": 1469
+    },
+    {
+      "text": "Oclusión proximal de la arteria cerebral media derecha (M1)",
+      "type": "PATOLOGIA",
+      "start": 2353,
+      "end": 2412
+    },
+    {
+      "text": "ASPECTS 6",
+      "type": "PUNTUACION_CLINICA",
+      "start": 845,
+      "end": 854
+    },
+    {
+      "text": "CBF disminuido",
+      "type": "MEDIDA",
+      "start": 1055,
+      "end": 1069
+    },
+    {
+      "text": "TTP prolongado",
+      "type": "MEDIDA",
+      "start": 1111,
+      "end": 1125
+    },
+    {
+      "text": "penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1307,
+      "end": 1325
+    },
+    {
+      "text": "sin estenosis significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1561,
+      "end": 1589
+    },
+    {
+      "text": "TC Basal urgente",
+      "type": "TECNICA_IMAGEN",
+      "start": 324,
+      "end": 340
+    },
+    {
+      "text": "secuencia de perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 342,
+      "end": 373
+    },
+    {
+      "text": "AngioTC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 405,
+      "end": 434
+    }
+  ]
+}

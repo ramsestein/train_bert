@@ -1,0 +1,119 @@
+{
+  "document_id": "informe_sintetico_20250804195045_10439",
+  "entities": [
+    {
+      "text": "hemorragia aguda",
+      "type": "PATOLOGIA",
+      "start": 400,
+      "end": 416
+    },
+    {
+      "text": "lesiones isquémicas agudas",
+      "type": "PATOLOGIA",
+      "start": 526,
+      "end": 552
+    },
+    {
+      "text": "atrofia cortical leve",
+      "type": "PATOLOGIA",
+      "start": 594,
+      "end": 615
+    },
+    {
+      "text": "cambios crónicos",
+      "type": "TEMPORALIDAD",
+      "start": 633,
+      "end": 649
+    },
+    {
+      "text": "región fronto-parietal bilateral",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 668,
+      "end": 700
+    },
+    {
+      "text": "ASPECTS = 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 870,
+      "end": 882
+    },
+    {
+      "text": "hipoperfusión",
+      "type": "PATOLOGIA",
+      "start": 1000,
+      "end": 1013
+    },
+    {
+      "text": "malformaciones vasculares",
+      "type": "PATOLOGIA",
+      "start": 1335,
+      "end": 1360
+    },
+    {
+      "text": "TC craneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 263,
+      "end": 273
+    },
+    {
+      "text": "perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 282,
+      "end": 300
+    },
+    {
+      "text": "angio-TC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 303,
+      "end": 333
+    },
+    {
+      "text": "TC craneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 263,
+      "end": 273
+    },
+    {
+      "text": "cambios crónicos mínimos",
+      "type": "TEMPORALIDAD",
+      "start": 1931,
+      "end": 1955
+    },
+    {
+      "text": "episodio isquémico agudo",
+      "type": "PATOLOGIA",
+      "start": 1974,
+      "end": 1998
+    },
+    {
+      "text": "alteraciones vasculares significativas",
+      "type": "PATOLOGIA",
+      "start": 2002,
+      "end": 2040
+    },
+    {
+      "text": "sin signos de patología aguda",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1396,
+      "end": 1425
+    },
+    {
+      "text": "sin estenosis ni placas ateromatosas significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1107,
+      "end": 1158
+    },
+    {
+      "text": "sin defectos de repleción ni signos de estenosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1223,
+      "end": 1271
+    },
+    {
+      "text": "sin alteraciones hemodinámicas ni vasculares significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1614,
+      "end": 1673
+    }
+  ]
+}

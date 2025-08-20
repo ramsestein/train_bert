@@ -1,0 +1,65 @@
+{
+  "document_id": "informe_sintetico_20250804195045_21108",
+  "entities": [
+    {
+      "text": "hematoma lobar",
+      "type": "PATOLOGIA",
+      "start": 474,
+      "end": 488
+    },
+    {
+      "text": "parietal derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 443,
+      "end": 459
+    },
+    {
+      "text": "28 x 22 x 18 mm",
+      "type": "MEDIDA",
+      "start": 521,
+      "end": 536
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 715,
+      "end": 724
+    },
+    {
+      "text": "3 mm",
+      "type": "MEDIDA",
+      "start": 742,
+      "end": 746
+    },
+    {
+      "text": "No se observa sangrado subaracnoideo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 749,
+      "end": 785
+    },
+    {
+      "text": "sin signos de hidrocefalia aguda",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 960,
+      "end": 992
+    },
+    {
+      "text": "sin signos de estenosis, disección ni malformaciones vasculares",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1256,
+      "end": 1319
+    },
+    {
+      "text": "arteria carótida interna derecha",
+      "type": "ARTERIA",
+      "start": 1372,
+      "end": 1404
+    },
+    {
+      "text": "sin complicaciones ventriculares ni subaracnoideas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1921,
+      "end": 1971
+    }
+  ]
+}

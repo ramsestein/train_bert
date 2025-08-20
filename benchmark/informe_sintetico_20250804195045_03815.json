@@ -1,0 +1,113 @@
+{
+  "document_id": "informe_sintetico_20250804195045_03815",
+  "entities": [
+    {
+      "text": "infarto cerebral agudo",
+      "type": "PATOLOGIA",
+      "start": 179,
+      "end": 201
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 219,
+      "end": 249
+    },
+    {
+      "text": "subaguda",
+      "type": "TEMPORALIDAD",
+      "start": 259,
+      "end": 267
+    },
+    {
+      "text": "deterioro neurológico reciente",
+      "type": "PATOLOGIA",
+      "start": 273,
+      "end": 303
+    },
+    {
+      "text": "transformación hemorrágica",
+      "type": "PATOLOGIA",
+      "start": 317,
+      "end": 343
+    },
+    {
+      "text": "TC craneal basal urgente",
+      "type": "TECNICA_IMAGEN",
+      "start": 364,
+      "end": 388
+    },
+    {
+      "text": "infarto cerebral subagudo",
+      "type": "PATOLOGIA",
+      "start": 600,
+      "end": 625
+    },
+    {
+      "text": "transformación hemorrágica tipo PH1",
+      "type": "PATOLOGIA",
+      "start": 744,
+      "end": 779
+    },
+    {
+      "text": "microhemorragias petequiales",
+      "type": "PATOLOGIA",
+      "start": 781,
+      "end": 809
+    },
+    {
+      "text": "No se observa desplazamiento de estructuras de la línea media",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 842,
+      "end": 903
+    },
+    {
+      "text": "No se identifican áreas de penumbra viable",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1211,
+      "end": 1253
+    },
+    {
+      "text": "Oclusión incompleta del segmento proximal de la arteria cerebral media derecha",
+      "type": "PATOLOGIA",
+      "start": 1281,
+      "end": 1359
+    },
+    {
+      "text": "arterias leptomeníngeas",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1396,
+      "end": 1419
+    },
+    {
+      "text": "No se evidencian aneurismas ni malformaciones vasculares",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1492,
+      "end": 1548
+    },
+    {
+      "text": "infarto cerebral derecho",
+      "type": "PATOLOGIA",
+      "start": 1620,
+      "end": 1644
+    },
+    {
+      "text": "No hay signos de efecto masa ni desplazamiento de línea media",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1686,
+      "end": 1747
+    },
+    {
+      "text": "Persistencia de oclusión parcial en segmento proximal de ACM derecha",
+      "type": "PATOLOGIA",
+      "start": 1749,
+      "end": 1817
+    },
+    {
+      "text": "Mapas de perfusión compatibles con infarto establecido sin tejido en penumbra",
+      "type": "PATOLOGIA",
+      "start": 1845,
+      "end": 1922
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "document_id": "informe_sintetico_20250804195045_09613",
+  "entities": [
+    {
+      "text": "hemorragia aguda",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 446,
+      "end": 462
+    },
+    {
+      "text": "ASPECTS 10/10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 537,
+      "end": 550
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 611,
+      "end": 625
+    },
+    {
+      "text": "infartos recientes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 628,
+      "end": 646
+    },
+    {
+      "text": "cambios involutivos leves",
+      "type": "PATOLOGIA",
+      "start": 727,
+      "end": 752
+    },
+    {
+      "text": "Tmax, TTD",
+      "type": "TECNICA_IMAGEN",
+      "start": 908,
+      "end": 917
+    },
+    {
+      "text": "CBF",
+      "type": "MEDIDA",
+      "start": 996,
+      "end": 999
+    },
+    {
+      "text": "CBV",
+      "type": "MEDIDA",
+      "start": 1021,
+      "end": 1024
+    },
+    {
+      "text": "arterias carótidas internas",
+      "type": "ARTERIA",
+      "start": 1155,
+      "end": 1182
+    },
+    {
+      "text": "cerebrales anteriores",
+      "type": "ARTERIA",
+      "start": 1184,
+      "end": 1205
+    },
+    {
+      "text": "estenosis significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1246,
+      "end": 1270
+    },
+    {
+      "text": "ateromatosis significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1401,
+      "end": 1427
+    },
+    {
+      "text": "patología aguda",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1506,
+      "end": 1521
+    },
+    {
+      "text": "Perfusión cerebral normal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1567,
+      "end": 1592
+    },
+    {
+      "text": "isquemia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 611,
+      "end": 619
+    },
+    {
+      "text": "lesiones focales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1621,
+      "end": 1637
+    },
+    {
+      "text": "signos de estenosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1674,
+      "end": 1693
+    },
+    {
+      "text": "trombosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1697,
+      "end": 1706
+    }
+  ]
+}

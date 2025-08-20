@@ -1,0 +1,77 @@
+{
+  "document_id": "informe_sintetico_20250804195045_06609",
+  "entities": [
+    {
+      "text": "leucoencefalopatía posterior reversible",
+      "type": "PATOLOGIA",
+      "start": 247,
+      "end": 286
+    },
+    {
+      "text": "regiones subcorticales y periventriculares de ambos lóbulos occipitales y parietales posteriores",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 591,
+      "end": 687
+    },
+    {
+      "text": "regiones occipitales bilaterales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 897,
+      "end": 929
+    },
+    {
+      "text": "infarto isquémico",
+      "type": "PATOLOGIA",
+      "start": 1069,
+      "end": 1086
+    },
+    {
+      "text": "Arterias cerebrales principales",
+      "type": "ARTERIA",
+      "start": 1121,
+      "end": 1152
+    },
+    {
+      "text": "sin evidencias de estenosis ni oclusión",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1165,
+      "end": 1204
+    },
+    {
+      "text": "sin alteraciones vasculares significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1480,
+      "end": 1522
+    },
+    {
+      "text": "edema vasogénico bilateral en territorios parieto-occipitales",
+      "type": "PATOLOGIA",
+      "start": 1366,
+      "end": 1427
+    },
+    {
+      "text": "sin signos de infarto ni hemorragia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1948,
+      "end": 1983
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 307,
+      "end": 323
+    },
+    {
+      "text": "estudio de perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 325,
+      "end": 354
+    },
+    {
+      "text": "angio-TC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 357,
+      "end": 387
+    }
+  ]
+}

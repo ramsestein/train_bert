@@ -1,0 +1,101 @@
+{
+  "document_id": "informe_sintetico_20250804195045_04362",
+  "entities": [
+    {
+      "text": "infarto cerebral lacunar",
+      "type": "PATOLOGIA",
+      "start": 224,
+      "end": 248
+    },
+    {
+      "text": "hipodensidad punteada",
+      "type": "PATOLOGIA",
+      "start": 601,
+      "end": 622
+    },
+    {
+      "text": "lesión isquémica lacunar aguda",
+      "type": "PATOLOGIA",
+      "start": 707,
+      "end": 737
+    },
+    {
+      "text": "isquemia en área lacunar aguda",
+      "type": "PATOLOGIA",
+      "start": 1104,
+      "end": 1134
+    },
+    {
+      "text": "cápsula interna derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 667,
+      "end": 690
+    },
+    {
+      "text": "cápsula interna derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 667,
+      "end": 690
+    },
+    {
+      "text": "8 mm",
+      "type": "MEDIDA",
+      "start": 642,
+      "end": 646
+    },
+    {
+      "text": "aguda",
+      "type": "TEMPORALIDAD",
+      "start": 732,
+      "end": 737
+    },
+    {
+      "text": "No se evidencian colecciones hemorrágicas intra ni extraaxiales.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 407,
+      "end": 471
+    },
+    {
+      "text": "No hay evidencia de hemorragia intracraneal ni signos de oclusión arterial mayor.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1483,
+      "end": 1564
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 268,
+      "end": 284
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 304,
+      "end": 325
+    },
+    {
+      "text": "angio-TC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 328,
+      "end": 358
+    },
+    {
+      "text": "cerebrales media, anterior y posterior derechas e izquierdas",
+      "type": "ARTERIA",
+      "start": 1198,
+      "end": 1258
+    },
+    {
+      "text": "Sistema vertebrobasilar",
+      "type": "ARTERIA",
+      "start": 1310,
+      "end": 1333
+    },
+    {
+      "text": "arco aórtico",
+      "type": "ARTERIA",
+      "start": 1336,
+      "end": 1348
+    }
+  ]
+}

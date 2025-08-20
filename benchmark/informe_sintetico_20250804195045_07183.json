@@ -1,0 +1,65 @@
+{
+  "document_id": "informe_sintetico_20250804195045_07183",
+  "entities": [
+    {
+      "text": "hematoma intraparenquimatoso",
+      "type": "PATOLOGIA",
+      "start": 432,
+      "end": 460
+    },
+    {
+      "text": "localización talámica derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 464,
+      "end": 493
+    },
+    {
+      "text": "18 cc",
+      "type": "MEDIDA",
+      "start": 524,
+      "end": 529
+    },
+    {
+      "text": "sistema ventricular lateral derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 635,
+      "end": 670
+    },
+    {
+      "text": "4 mm",
+      "type": "MEDIDA",
+      "start": 864,
+      "end": 868
+    },
+    {
+      "text": "hidrocefalia incipiente",
+      "type": "PATOLOGIA",
+      "start": 1025,
+      "end": 1048
+    },
+    {
+      "text": "hipoperfusión en el territorio talámico derecho",
+      "type": "PATOLOGIA",
+      "start": 1109,
+      "end": 1156
+    },
+    {
+      "text": "angio-TC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 1232,
+      "end": 1262
+    },
+    {
+      "text": "No se identifican signos de herniación ni afectación del tronco cerebral",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 871,
+      "end": 943
+    },
+    {
+      "text": "No se detectan malformaciones vasculares o aneurismas evidentes en la región evaluada",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1319,
+      "end": 1404
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "document_id": "informe_sintetico_20250804195045_14579",
+  "entities": [
+    {
+      "text": "infarto cerebral",
+      "type": "PATOLOGIA",
+      "start": 245,
+      "end": 261
+    },
+    {
+      "text": "infartos de tipo watershed",
+      "type": "PATOLOGIA",
+      "start": 849,
+      "end": 875
+    },
+    {
+      "text": "infarto isquémico",
+      "type": "PATOLOGIA",
+      "start": 2215,
+      "end": 2232
+    },
+    {
+      "text": "arteria cerebral media",
+      "type": "ARTERIA",
+      "start": 649,
+      "end": 671
+    },
+    {
+      "text": "arteria cerebral anterior",
+      "type": "ARTERIA",
+      "start": 680,
+      "end": 705
+    },
+    {
+      "text": "arteria cerebral posterior",
+      "type": "ARTERIA",
+      "start": 772,
+      "end": 798
+    },
+    {
+      "text": "bilateralmente",
+      "type": "LATERALIDAD",
+      "start": 712,
+      "end": 726
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 824,
+      "end": 831
+    },
+    {
+      "text": "sin estenosis significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1615,
+      "end": 1642
+    },
+    {
+      "text": "sin oclusiones ni estenosis relevantes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1702,
+      "end": 1740
+    },
+    {
+      "text": "sin evidencias de complicaciones hemorrágicas ni edema asociado",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2096,
+      "end": 2159
+    },
+    {
+      "text": "sin anomalías evidentes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1929,
+      "end": 1952
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 328,
+      "end": 344
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 360,
+      "end": 381
+    },
+    {
+      "text": "angio-TC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 384,
+      "end": 414
+    },
+    {
+      "text": "mismatch significativo",
+      "type": "PUNTUACION_CLINICA",
+      "start": 2296,
+      "end": 2318
+    }
+  ]
+}

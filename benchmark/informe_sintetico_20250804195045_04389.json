@@ -1,0 +1,77 @@
+{
+  "document_id": "informe_sintetico_20250804195045_04389",
+  "entities": [
+    {
+      "text": "hematoma intraparenquimatoso",
+      "type": "PATOLOGIA",
+      "start": 440,
+      "end": 468
+    },
+    {
+      "text": "región del putamen derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 472,
+      "end": 498
+    },
+    {
+      "text": "35 x 30 x 28 mm",
+      "type": "MEDIDA",
+      "start": 555,
+      "end": 570
+    },
+    {
+      "text": "cápsula interna ipsilateral",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 606,
+      "end": 633
+    },
+    {
+      "text": "edema perilesional moderado",
+      "type": "PATOLOGIA",
+      "start": 639,
+      "end": 666
+    },
+    {
+      "text": "6 mm",
+      "type": "MEDIDA",
+      "start": 739,
+      "end": 743
+    },
+    {
+      "text": "ACAs, ACMs, ACPs",
+      "type": "ARTERIA",
+      "start": 1408,
+      "end": 1424
+    },
+    {
+      "text": "ligera tortuosidad en arteria cerebral media derecha",
+      "type": "ARTERIA",
+      "start": 1524,
+      "end": 1576
+    },
+    {
+      "text": "sin hallazgos patológicos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1577,
+      "end": 1602
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 281,
+      "end": 297
+    },
+    {
+      "text": "estudio de perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 313,
+      "end": 342
+    },
+    {
+      "text": "angio-TC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 345,
+      "end": 375
+    }
+  ]
+}

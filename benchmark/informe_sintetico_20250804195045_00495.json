@@ -1,0 +1,107 @@
+{
+  "document_id": "informe_sintetico_20250804195045_00495",
+  "entities": [
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 299,
+      "end": 313
+    },
+    {
+      "text": "bulbo raquídeo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 801,
+      "end": 815
+    },
+    {
+      "text": "protuberancia",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 818,
+      "end": 831
+    },
+    {
+      "text": "edema",
+      "type": "PATOLOGIA",
+      "start": 916,
+      "end": 921
+    },
+    {
+      "text": "cerebelo bilateral",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1150,
+      "end": 1168
+    },
+    {
+      "text": "protuberancia",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 818,
+      "end": 831
+    },
+    {
+      "text": "cerebelo hemisférico izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1216,
+      "end": 1246
+    },
+    {
+      "text": "hipoperfusión isquémica aguda",
+      "type": "PATOLOGIA",
+      "start": 1263,
+      "end": 1292
+    },
+    {
+      "text": "arteria basilar",
+      "type": "ARTERIA",
+      "start": 1478,
+      "end": 1493
+    },
+    {
+      "text": "arterias vertebrales hipoplásicas bilaterales",
+      "type": "ARTERIA",
+      "start": 1533,
+      "end": 1578
+    },
+    {
+      "text": "no estenosantes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1653,
+      "end": 1668
+    },
+    {
+      "text": "sin hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1980,
+      "end": 2007
+    },
+    {
+      "text": "tiempo de tránsito medio",
+      "type": "MEDIDA",
+      "start": 1081,
+      "end": 1105
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 364,
+      "end": 380
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 396,
+      "end": 417
+    },
+    {
+      "text": "Angio-TC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 449,
+      "end": 479
+    },
+    {
+      "text": "Código Ictus",
+      "type": "TEMPORALIDAD",
+      "start": 552,
+      "end": 564
+    }
+  ]
+}

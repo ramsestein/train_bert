@@ -1,0 +1,89 @@
+{
+  "document_id": "informe_sintetico_20250804195045_02476",
+  "entities": [
+    {
+      "text": "infarto",
+      "type": "PATOLOGIA",
+      "start": 255,
+      "end": 262
+    },
+    {
+      "text": "watershed",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 290,
+      "end": 299
+    },
+    {
+      "text": "periventriculares frontoparietales bilaterales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 628,
+      "end": 674
+    },
+    {
+      "text": "parietal",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 652,
+      "end": 660
+    },
+    {
+      "text": "infarto watershed",
+      "type": "PATOLOGIA",
+      "start": 749,
+      "end": 766
+    },
+    {
+      "text": "tiempo de tránsito medio (TTP)",
+      "type": "MEDIDA",
+      "start": 1010,
+      "end": 1040
+    },
+    {
+      "text": "flujo sanguíneo cerebral (CBF)",
+      "type": "MEDIDA",
+      "start": 1057,
+      "end": 1087
+    },
+    {
+      "text": "estenosis moderada",
+      "type": "PATOLOGIA",
+      "start": 1471,
+      "end": 1489
+    },
+    {
+      "text": "arteria carótida interna",
+      "type": "ARTERIA",
+      "start": 1527,
+      "end": 1551
+    },
+    {
+      "text": "izquierdo",
+      "type": "LATERALIDAD",
+      "start": 1511,
+      "end": 1520
+    },
+    {
+      "text": "sin signos de estenosis crítica",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1781,
+      "end": 1812
+    },
+    {
+      "text": "sin oclusión total",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2104,
+      "end": 2122
+    },
+    {
+      "text": "No evidencias de hemorragia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2124,
+      "end": 2151
+    },
+    {
+      "text": "signos de infarto establecido extenso",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2155,
+      "end": 2192
+    }
+  ]
+}

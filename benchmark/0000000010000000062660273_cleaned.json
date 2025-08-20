@@ -1,0 +1,83 @@
+{
+  "document_id": "0000000010000000062660273_cleaned",
+  "entities": [
+    {
+      "text": "sangrado agudo intracraneal",
+      "type": "PATOLOGIA",
+      "start": 353,
+      "end": 380
+    },
+    {
+      "text": "lesiones ocupantes de espacio",
+      "type": "PATOLOGIA",
+      "start": 382,
+      "end": 411
+    },
+    {
+      "text": "lesiones isquémicas agudas",
+      "type": "PATOLOGIA",
+      "start": 415,
+      "end": 441
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 461,
+      "end": 471
+    },
+    {
+      "text": "Sistema ventricular simétrico",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 474,
+      "end": 503
+    },
+    {
+      "text": "Ejes carotídeos",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 779,
+      "end": 794
+    },
+    {
+      "text": "arterias vertebrales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 863,
+      "end": 883
+    },
+    {
+      "text": "ACAs, ACMs y ACPs",
+      "type": "ARTERIA",
+      "start": 984,
+      "end": 1001
+    },
+    {
+      "text": "Sistema vertebrobasilar",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1004,
+      "end": 1027
+    },
+    {
+      "text": "5 mm",
+      "type": "MEDIDA",
+      "start": 1153,
+      "end": 1157
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 1217,
+      "end": 1224
+    },
+    {
+      "text": "sin lesiones hemorrágicas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1368,
+      "end": 1393
+    },
+    {
+      "text": "sin alteraciones",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1446,
+      "end": 1462
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "document_id": "informe_sintetico_20250804195045_11591",
+  "entities": [
+    {
+      "text": "hematoma",
+      "type": "PATOLOGIA",
+      "start": 391,
+      "end": 399
+    },
+    {
+      "text": "subdural",
+      "type": "PATOLOGIA",
+      "start": 574,
+      "end": 582
+    },
+    {
+      "text": "izquierdo",
+      "type": "LATERALIDAD",
+      "start": 595,
+      "end": 604
+    },
+    {
+      "text": "10 mm",
+      "type": "MEDIDA",
+      "start": 531,
+      "end": 536
+    },
+    {
+      "text": "4 mm",
+      "type": "MEDIDA",
+      "start": 709,
+      "end": 713
+    },
+    {
+      "text": "agudo",
+      "type": "TEMPORALIDAD",
+      "start": 1373,
+      "end": 1378
+    },
+    {
+      "text": "sin signos de estenosis ni disrupción vascular",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1210,
+      "end": 1256
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 270,
+      "end": 286
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 302,
+      "end": 323
+    },
+    {
+      "text": "angioTC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 326,
+      "end": 355
+    }
+  ]
+}

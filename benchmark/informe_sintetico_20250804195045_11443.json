@@ -1,0 +1,119 @@
+{
+  "document_id": "informe_sintetico_20250804195045_11443",
+  "entities": [
+    {
+      "text": "infarto cerebral",
+      "type": "PATOLOGIA",
+      "start": 284,
+      "end": 300
+    },
+    {
+      "text": "zona de watershed",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 304,
+      "end": 321
+    },
+    {
+      "text": "parietal",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 695,
+      "end": 703
+    },
+    {
+      "text": "isquemia",
+      "type": "PATOLOGIA",
+      "start": 1276,
+      "end": 1284
+    },
+    {
+      "text": "hemorragias intraparenquimatosas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 562,
+      "end": 594
+    },
+    {
+      "text": "hemorragia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 416,
+      "end": 426
+    },
+    {
+      "text": "isquemia",
+      "type": "PATOLOGIA",
+      "start": 1276,
+      "end": 1284
+    },
+    {
+      "text": "arterias intracraneales",
+      "type": "ARTERIA",
+      "start": 1575,
+      "end": 1598
+    },
+    {
+      "text": "ACAs",
+      "type": "ARTERIA",
+      "start": 1611,
+      "end": 1615
+    },
+    {
+      "text": "ACMs",
+      "type": "ARTERIA",
+      "start": 1617,
+      "end": 1621
+    },
+    {
+      "text": "ACPs",
+      "type": "ARTERIA",
+      "start": 1623,
+      "end": 1627
+    },
+    {
+      "text": "bilaterales",
+      "type": "LATERALIDAD",
+      "start": 706,
+      "end": 717
+    },
+    {
+      "text": "moderada",
+      "type": "MEDIDA",
+      "start": 1181,
+      "end": 1189
+    },
+    {
+      "text": "sin hemorragia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2373,
+      "end": 2387
+    },
+    {
+      "text": "sin evidencias de oclusión arterial significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1919,
+      "end": 1968
+    },
+    {
+      "text": "sin defectos de repleción",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1629,
+      "end": 1654
+    },
+    {
+      "text": "TC craneal sin contraste",
+      "type": "TECNICA_IMAGEN",
+      "start": 376,
+      "end": 400
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 429,
+      "end": 450
+    },
+    {
+      "text": "AngioTC intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 453,
+      "end": 473
+    }
+  ]
+}

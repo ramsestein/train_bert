@@ -1,0 +1,89 @@
+{
+  "document_id": "0000000010000000060874828_cleaned",
+  "entities": [
+    {
+      "text": "Infart cerebral causat per oclusió o estenosi no especificades d'artèria cerebral no especificada",
+      "type": "PATOLOGIA",
+      "start": 166,
+      "end": 263
+    },
+    {
+      "text": "No se observa hemorragia intra ni extraaxial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 384,
+      "end": 428
+    },
+    {
+      "text": "Parénquima cerebral sin alteraciones densitométricas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 430,
+      "end": 482
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 531,
+      "end": 541
+    },
+    {
+      "text": "Aumento en mapas de tiempo y caída en mapas de flujo en territorio frontera cortical izquierdo",
+      "type": "PATOLOGIA",
+      "start": 674,
+      "end": 768
+    },
+    {
+      "text": "No se observan otras alteraciones valorables en el TTP, CBV y CBF",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 808,
+      "end": 873
+    },
+    {
+      "text": "Estenosis concéntrica hipodensa en un corto segmento de la arteria carótida interna derecha proximal",
+      "type": "PATOLOGIA",
+      "start": 938,
+      "end": 1038
+    },
+    {
+      "text": "arteria carótida interna derecha proximal",
+      "type": "ARTERIA",
+      "start": 997,
+      "end": 1038
+    },
+    {
+      "text": "estenosis crítica (>90%)",
+      "type": "PATOLOGIA",
+      "start": 1059,
+      "end": 1083
+    },
+    {
+      "text": "Oclusión de arteria vertebral izquierda en el ostium",
+      "type": "PATOLOGIA",
+      "start": 1285,
+      "end": 1337
+    },
+    {
+      "text": "arteria vertebral izquierda",
+      "type": "ARTERIA",
+      "start": 1297,
+      "end": 1324
+    },
+    {
+      "text": "V4 prebasilar",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1360,
+      "end": 1373
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 531,
+      "end": 541
+    },
+    {
+      "text": "No hay hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1512,
+      "end": 1542
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "document_id": "informe_sintetico_20250804195045_20256",
+  "entities": [
+    {
+      "text": "hematoma",
+      "type": "PATOLOGIA",
+      "start": 343,
+      "end": 351
+    },
+    {
+      "text": "lobar",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 365,
+      "end": 370
+    },
+    {
+      "text": "frontal izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 371,
+      "end": 388
+    },
+    {
+      "text": "35 x 28 x 25 mm",
+      "type": "MEDIDA",
+      "start": 612,
+      "end": 627
+    },
+    {
+      "text": "aguda",
+      "type": "TEMPORALIDAD",
+      "start": 717,
+      "end": 722
+    },
+    {
+      "text": "3 mm",
+      "type": "MEDIDA",
+      "start": 1004,
+      "end": 1008
+    },
+    {
+      "text": "ACAs, ACMs y ACPs",
+      "type": "ARTERIA",
+      "start": 1530,
+      "end": 1547
+    },
+    {
+      "text": "sin evidencia de lesiones isquémicas ni patología vascular significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1933,
+      "end": 2005
+    },
+    {
+      "text": "No se identifican signos de hemorragia intraventricular ni hemorragia subaracnoidea asociadas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 828,
+      "end": 921
+    },
+    {
+      "text": "sin colapso",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1062,
+      "end": 1073
+    },
+    {
+      "text": "sin estenosis ni oclusiones",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1564,
+      "end": 1591
+    },
+    {
+      "text": "sin área significativa de penumbra isquémica",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1292,
+      "end": 1336
+    }
+  ]
+}

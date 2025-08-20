@@ -1,0 +1,95 @@
+{
+  "document_id": "informe_sintetico_20250804195045_17334",
+  "entities": [
+    {
+      "text": "microhemorragias",
+      "type": "PATOLOGIA",
+      "start": 436,
+      "end": 452
+    },
+    {
+      "text": "hemorragias de mayor tamaño",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 656,
+      "end": 683
+    },
+    {
+      "text": "hematomas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 687,
+      "end": 696
+    },
+    {
+      "text": "infarto reciente",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 793,
+      "end": 809
+    },
+    {
+      "text": "regiones subcorticales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 563,
+      "end": 585
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 1179,
+      "end": 1193
+    },
+    {
+      "text": "ateromatosis calcificada",
+      "type": "PATOLOGIA",
+      "start": 1262,
+      "end": 1286
+    },
+    {
+      "text": "microhemorragias puntiformes",
+      "type": "PATOLOGIA",
+      "start": 1570,
+      "end": 1598
+    },
+    {
+      "text": "hemorragias agudas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2106,
+      "end": 2124
+    },
+    {
+      "text": "infarto isquémico actual",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2128,
+      "end": 2152
+    },
+    {
+      "text": "TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANG IOTC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 72,
+      "end": 140
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 304,
+      "end": 320
+    },
+    {
+      "text": "TC perfusión",
+      "type": "TECNICA_IMAGEN",
+      "start": 323,
+      "end": 335
+    },
+    {
+      "text": "angioTC intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 338,
+      "end": 358
+    },
+    {
+      "text": "angioTC",
+      "type": "TECNICA_IMAGEN",
+      "start": 338,
+      "end": 345
+    }
+  ]
+}

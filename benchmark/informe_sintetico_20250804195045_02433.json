@@ -1,0 +1,83 @@
+{
+  "document_id": "informe_sintetico_20250804195045_02433",
+  "entities": [
+    {
+      "text": "hemorragias intra o extraaxiales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 402,
+      "end": 434
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 518,
+      "end": 532
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 534,
+      "end": 544
+    },
+    {
+      "text": "cambios crónicos en sustancia blanca periventricular",
+      "type": "PATOLOGIA",
+      "start": 567,
+      "end": 619
+    },
+    {
+      "text": "enfermedad de pequeño vaso",
+      "type": "PATOLOGIA",
+      "start": 636,
+      "end": 662
+    },
+    {
+      "text": "línea media centrada",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 747,
+      "end": 767
+    },
+    {
+      "text": "Mapas de perfusión (CBV, CBF, TTP)",
+      "type": "TECNICA_IMAGEN",
+      "start": 810,
+      "end": 844
+    },
+    {
+      "text": "zonas en penumbra",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 896,
+      "end": 913
+    },
+    {
+      "text": "infarto definido",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 917,
+      "end": 933
+    },
+    {
+      "text": "Arco aórtico y troncos supraórticos",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 967,
+      "end": 1002
+    },
+    {
+      "text": "arterias carótidas internas y vertebrales",
+      "type": "ARTERIA",
+      "start": 1127,
+      "end": 1168
+    },
+    {
+      "text": "ACAs, ACMs, ACPs",
+      "type": "ARTERIA",
+      "start": 1263,
+      "end": 1279
+    },
+    {
+      "text": "sin hallazgos patológicos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1481,
+      "end": 1506
+    }
+  ]
+}

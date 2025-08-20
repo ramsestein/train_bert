@@ -1,0 +1,65 @@
+{
+  "document_id": "informe_sintetico_20250804195045_02564",
+  "entities": [
+    {
+      "text": "infarto lacunar agudo",
+      "type": "PATOLOGIA",
+      "start": 222,
+      "end": 243
+    },
+    {
+      "text": "región cápsula interna izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 529,
+      "end": 561
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 657,
+      "end": 667
+    },
+    {
+      "text": "microangiopatía leve",
+      "type": "PATOLOGIA",
+      "start": 904,
+      "end": 924
+    },
+    {
+      "text": "discreta disminución del volumen sanguíneo cerebral (CBV)",
+      "type": "PATOLOGIA",
+      "start": 959,
+      "end": 1016
+    },
+    {
+      "text": "región cápsula interna izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 529,
+      "end": 561
+    },
+    {
+      "text": "tiempo de tránsito medio (MTT)",
+      "type": "MEDIDA",
+      "start": 1075,
+      "end": 1105
+    },
+    {
+      "text": "penumbra isquémica significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1193,
+      "end": 1225
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1706,
+      "end": 1729
+    },
+    {
+      "text": "estenosis arterial relevante",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1763,
+      "end": 1791
+    }
+  ]
+}

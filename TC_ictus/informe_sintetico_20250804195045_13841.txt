@@ -1,0 +1,33 @@
+UO_PACN (Unidad Organizativa Médica): RADIO
+
+PRUEB (Prueba solicitada): TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANG IOTC ARTERIAL INTRACRANEAL)
+
+CLIN (Resumen clínico): Paciente con cuadro agudo de hemiparesia derecha y afasia, sospecha de ictus isquémico.
+
+OBSR (Protocolo): Protocolo completo Código Ictus: TC craneal basal, perfusión cerebral y angiografía TC extra e intracraneal.
+
+RESL (Resultados):  
+TC CRANEAL BASAL:  
+Se identifica hipodensidad con pérdida de diferenciación cortico-subcortical en territorio de la arteria cerebral media izquierda, que afecta la ínsula, núcleo lenticular y córtex frontal y parietal, compatible con infarto cerebral subagudo. Se observa edema cerebral asociado con leve efecto de masa, sin desplazamiento significativo de la línea media. No se detectan hemorragias intra ni extraaxiales. Sistema ventricular normal, línea media centrada.  
+
+TC PERFUSIÓN:  
+Incremento del tiempo de tránsito medio (TTP) y disminución significativa del volumen de sangre cerebral (CBV) y flujo cerebral sanguíneo (CBF) en territorios afectados, compatible con área de infarto establecido y penumbra isquémica periférica.  
+
+ANGIO-TC EXTRA E INTRACRANEAL:  
+Oclusión completa proximal de la arteria carótida interna izquierda en segmento cervical, con ausencia de flujo distal. Arterias cerebrales medias izquierda sin repleción de contraste en segmento proximal (M1), evidenciando trombo intraluminal. Arterias intracraneales principales permeables en el resto de territorios. Troncos supraaórticos con signos moderados de ateromatosis, sin estenosis significativa en los vasos contralaterales.  
+
+CONCL (Conclusiones):  
+- Infarto cerebral establecido en territorio de arteria cerebral media izquierda con edema asociado.  
+- Oclusión proximal de arteria carótida interna izquierda y trombo en segmento M1 de ACM izquierda.  
+- Área de penumbra isquémica en regiones adyacentes por compromiso hemodinámico.  
+- No hemorragia intracraneal asociada.  
+
+ACTI_ADICI (Actividad adicional): Monitorización neurológica y valoración para reperfusión mecánica urgente.
+
+ICON (Estudio): @RADIO_IC@  
+
+X00DIATXT (Texto del diagnóstico ACR): Infarto cerebral del territorio medio cerebral izquierdo por oclusión proximal de arteria carótida interna izquierda.
+
+EST_T_DES (Descripción): TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANGIOTC ARTERIAL INTRACRANEAL)
+
+ZVASOS_D (Der.): Informe elaborado por Dr. [Nombre Radiólogo], Radiólogo especialista en neuroimagen.

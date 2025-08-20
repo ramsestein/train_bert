@@ -1,0 +1,107 @@
+{
+  "document_id": "informe_sintetico_20250804195045_23458",
+  "entities": [
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 516,
+      "end": 539
+    },
+    {
+      "text": "efecto de masa significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 546,
+      "end": 574
+    },
+    {
+      "text": "pérdida leve de diferenciación cortico-subcortical",
+      "type": "PATOLOGIA",
+      "start": 587,
+      "end": 637
+    },
+    {
+      "text": "arteria cerebral media (ACM) derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 670,
+      "end": 706
+    },
+    {
+      "text": "M2/M3",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 720,
+      "end": 725
+    },
+    {
+      "text": "ASPECTS 9/10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 760,
+      "end": 772
+    },
+    {
+      "text": "retraso en territorio superficial derecho correspondiente a segmentos M2/M3 de ACM",
+      "type": "PATOLOGIA",
+      "start": 976,
+      "end": 1058
+    },
+    {
+      "text": "caída moderada en flujo cerebral (CBF)",
+      "type": "PATOLOGIA",
+      "start": 1064,
+      "end": 1102
+    },
+    {
+      "text": "volumen cerebral (CBV)",
+      "type": "MEDIDA",
+      "start": 1107,
+      "end": 1129
+    },
+    {
+      "text": "mismatch significativo compatible con tejido viable en riesgo",
+      "type": "PATOLOGIA",
+      "start": 1191,
+      "end": 1252
+    },
+    {
+      "text": "oclusión focal en rama distal M2/M3 de ACM derecha",
+      "type": "PATOLOGIA",
+      "start": 1300,
+      "end": 1350
+    },
+    {
+      "text": "sin estenosis significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1451,
+      "end": 1479
+    },
+    {
+      "text": "placa ateroclerótica de relevancia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1495,
+      "end": 1529
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 516,
+      "end": 539
+    },
+    {
+      "text": "ASPECTS 9",
+      "type": "PUNTUACION_CLINICA",
+      "start": 760,
+      "end": 769
+    },
+    {
+      "text": "TC Basal + TC Perfusión + AngioTC intracraneal y extracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 305,
+      "end": 366
+    },
+    {
+      "text": "contraste yodado en perfusión y angioTC arterial",
+      "type": "TECNICA_IMAGEN",
+      "start": 406,
+      "end": 454
+    }
+  ]
+}

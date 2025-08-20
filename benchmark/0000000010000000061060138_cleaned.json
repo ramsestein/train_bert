@@ -1,0 +1,119 @@
+{
+  "document_id": "0000000010000000061060138_cleaned",
+  "entities": [
+    {
+      "text": "Infart cerebral causat per oclusió o estenosi no especificades d'artèria cerebral no especificada",
+      "type": "PATOLOGIA",
+      "start": 166,
+      "end": 263
+    },
+    {
+      "text": "No se observa hemorragia intra ni extraaxial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 444,
+      "end": 488
+    },
+    {
+      "text": "No se observan lesiones isquémicas parenquimatosas subagudas ni otras lesiones isquemicas crónicas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 538,
+      "end": 636
+    },
+    {
+      "text": "Estructuras de la línea media centradas",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 638,
+      "end": 677
+    },
+    {
+      "text": "Sistema ventricular de tamaño y morfología normal",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 679,
+      "end": 728
+    },
+    {
+      "text": "Cisternas basales libres",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 730,
+      "end": 754
+    },
+    {
+      "text": "No se observan alteraciones valorables en el TTP, CBV y CBF",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 770,
+      "end": 829
+    },
+    {
+      "text": "Sin discordancia significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 831,
+      "end": 861
+    },
+    {
+      "text": "Arco aórtico y segmentos proximales de troncos supraórticos sin ateromatosis ni signos de estenosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 894,
+      "end": 993
+    },
+    {
+      "text": "Origen, bifurcación y segmentos cervicales de la arteria carótida interna sin ateromatosis ni signos de estenosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 995,
+      "end": 1108
+    },
+    {
+      "text": "Segmentos intracavernoso y supraclinoideo de la arteria carótida interna con mínima ateromatosis cálcica ni signos de estenosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1110,
+      "end": 1237
+    },
+    {
+      "text": "Origen de las arterias vertebrales sin ateromatosis ni signos de estenosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1239,
+      "end": 1313
+    },
+    {
+      "text": "Principales arterias cerebrales intracraneales permeables (ACAs, ACMs y ACPs)",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1315,
+      "end": 1392
+    },
+    {
+      "text": "Sistema vertebrobasilar permeable",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1394,
+      "end": 1427
+    },
+    {
+      "text": "Sin evidencia de hemorragia aguda intra ni extraxial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1454,
+      "end": 1506
+    },
+    {
+      "text": "TC perfusión sin alteraciones",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1510,
+      "end": 1539
+    },
+    {
+      "text": "Principales vasos arteriales intracraneales permeables",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1543,
+      "end": 1597
+    },
+    {
+      "text": "TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANG IOTC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 72,
+      "end": 140
+    },
+    {
+      "text": "TC CODIGO ICTUS (BASAL + PERFUSION CEREBRAL + ANGIOTC TSA E INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 283,
+      "end": 356
+    }
+  ]
+}

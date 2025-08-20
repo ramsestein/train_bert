@@ -1,0 +1,209 @@
+{
+  "document_id": "informe_sintetico_20250804195045_03619",
+  "entities": [
+    {
+      "text": "hemiparesia derecha",
+      "type": "PATOLOGIA",
+      "start": 196,
+      "end": 215
+    },
+    {
+      "text": "4 horas",
+      "type": "TEMPORALIDAD",
+      "start": 219,
+      "end": 226
+    },
+    {
+      "text": "infarto cerebral reciente",
+      "type": "PATOLOGIA",
+      "start": 256,
+      "end": 281
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "ARTERIA",
+      "start": 302,
+      "end": 334
+    },
+    {
+      "text": "área hipodensa extensa",
+      "type": "PATOLOGIA",
+      "start": 520,
+      "end": 542
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "ARTERIA",
+      "start": 302,
+      "end": 334
+    },
+    {
+      "text": "infarto isquémico subagudo",
+      "type": "PATOLOGIA",
+      "start": 612,
+      "end": 638
+    },
+    {
+      "text": "focos hiperdensos puntiformes y lineales",
+      "type": "PATOLOGIA",
+      "start": 664,
+      "end": 704
+    },
+    {
+      "text": "transformación hemorrágica del tipo PH1",
+      "type": "PATOLOGIA",
+      "start": 736,
+      "end": 775
+    },
+    {
+      "text": "microhemorragias superficiales sin efecto de masa significativo",
+      "type": "PATOLOGIA",
+      "start": 777,
+      "end": 840
+    },
+    {
+      "text": "desviación de la línea media",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 859,
+      "end": 887
+    },
+    {
+      "text": "efecto compresivo sobre ventrículos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 891,
+      "end": 926
+    },
+    {
+      "text": "Sistema ventricular de tamaño y morfología conservados",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 928,
+      "end": 982
+    },
+    {
+      "text": "Cisternas basales libres",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 984,
+      "end": 1008
+    },
+    {
+      "text": "hemorragias intraventriculares ni subaracnoideas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1025,
+      "end": 1073
+    },
+    {
+      "text": "Reducción del flujo sanguíneo cerebral (CBF)",
+      "type": "PATOLOGIA",
+      "start": 1094,
+      "end": 1138
+    },
+    {
+      "text": "volumen sanguíneo cerebral (CBV)",
+      "type": "PATOLOGIA",
+      "start": 1141,
+      "end": 1173
+    },
+    {
+      "text": "área infartada izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1180,
+      "end": 1204
+    },
+    {
+      "text": "tiempo medio de tránsito (MTT)",
+      "type": "PATOLOGIA",
+      "start": 1222,
+      "end": 1252
+    },
+    {
+      "text": "signos de penumbra significativa residual",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1258,
+      "end": 1299
+    },
+    {
+      "text": "Arco aórtico con ligera ateromatosis",
+      "type": "PATOLOGIA",
+      "start": 1337,
+      "end": 1373
+    },
+    {
+      "text": "estenosis significativa en vasos supraaórticos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1383,
+      "end": 1429
+    },
+    {
+      "text": "Tracto cervical de ambas arterias carótidas internas sin estenosis significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1431,
+      "end": 1511
+    },
+    {
+      "text": "Segmentos intracraneales de la arteria cerebral media izquierda",
+      "type": "ARTERIA",
+      "start": 1513,
+      "end": 1576
+    },
+    {
+      "text": "ausencia de flujo compatible con oclusión distal por trombo",
+      "type": "PATOLOGIA",
+      "start": 1586,
+      "end": 1645
+    },
+    {
+      "text": "Arterias cerebrales anteriores y posteriores permeables",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1647,
+      "end": 1702
+    },
+    {
+      "text": "Sistema vertebrobasilar sin alteraciones",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1704,
+      "end": 1744
+    },
+    {
+      "text": "Infarto isquémico en territorio de la arteria cerebral media izquierda",
+      "type": "PATOLOGIA",
+      "start": 1773,
+      "end": 1843
+    },
+    {
+      "text": "signos de transformación hemorrágica tipo PH1",
+      "type": "PATOLOGIA",
+      "start": 1848,
+      "end": 1893
+    },
+    {
+      "text": "No se observa efecto de masa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1937,
+      "end": 1965
+    },
+    {
+      "text": "desplazamiento de línea media",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1969,
+      "end": 1998
+    },
+    {
+      "text": "Oclusión distal persistente en ACM izquierda",
+      "type": "PATOLOGIA",
+      "start": 2000,
+      "end": 2044
+    },
+    {
+      "text": "AngioTC sin estenosis relevante en vasos supraaórticos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2046,
+      "end": 2100
+    },
+    {
+      "text": "Hemorragia intracerebral en infarto isquémico cerebral – transformación hemorrágica tipo PH1",
+      "type": "PATOLOGIA",
+      "start": 2288,
+      "end": 2380
+    }
+  ]
+}

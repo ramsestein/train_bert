@@ -1,0 +1,71 @@
+{
+  "document_id": "informe_sintetico_20250804195045_23933",
+  "entities": [
+    {
+      "text": "infarto isquémico",
+      "type": "PATOLOGIA",
+      "start": 597,
+      "end": 614
+    },
+    {
+      "text": "región frontal derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 480,
+      "end": 502
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "ARTERIA",
+      "start": 635,
+      "end": 665
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 208,
+      "end": 217
+    },
+    {
+      "text": "ASPECTS 7",
+      "type": "PUNTUACION_CLINICA",
+      "start": 799,
+      "end": 808
+    },
+    {
+      "text": "agudo",
+      "type": "TEMPORALIDAD",
+      "start": 1821,
+      "end": 1826
+    },
+    {
+      "text": "aumento del tiempo de tránsito medio (TTP)",
+      "type": "MEDIDA",
+      "start": 1025,
+      "end": 1067
+    },
+    {
+      "text": "reducción del volumen cerebral (CBV)",
+      "type": "MEDIDA",
+      "start": 1070,
+      "end": 1106
+    },
+    {
+      "text": "disección en segmento cervical derecho de la arteria carótida interna",
+      "type": "PATOLOGIA",
+      "start": 1426,
+      "end": 1495
+    },
+    {
+      "text": "arteria carótida interna",
+      "type": "ARTERIA",
+      "start": 1471,
+      "end": 1495
+    },
+    {
+      "text": "derecho",
+      "type": "LATERALIDAD",
+      "start": 1457,
+      "end": 1464
+    }
+  ]
+}

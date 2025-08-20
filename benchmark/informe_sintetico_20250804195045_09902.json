@@ -1,0 +1,119 @@
+{
+  "document_id": "informe_sintetico_20250804195045_09902",
+  "entities": [
+    {
+      "text": "hemorragia intra ni extraaxial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 500,
+      "end": 530
+    },
+    {
+      "text": "lesión isquémica aguda o crónica significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 603,
+      "end": 649
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 698,
+      "end": 708
+    },
+    {
+      "text": "calcificaciones patológicas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 883,
+      "end": 910
+    },
+    {
+      "text": "lesiones expansivas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 914,
+      "end": 933
+    },
+    {
+      "text": "TTP",
+      "type": "TECNICA_IMAGEN",
+      "start": 987,
+      "end": 990
+    },
+    {
+      "text": "flujo cerebral sanguíneo (CBF)",
+      "type": "TECNICA_IMAGEN",
+      "start": 993,
+      "end": 1023
+    },
+    {
+      "text": "volumen cerebral sanguíneo (CBV)",
+      "type": "TECNICA_IMAGEN",
+      "start": 1026,
+      "end": 1058
+    },
+    {
+      "text": "mismatch significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1099,
+      "end": 1121
+    },
+    {
+      "text": "hipoperfusión",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1134,
+      "end": 1147
+    },
+    {
+      "text": "Arterias carótidas internas cervicales",
+      "type": "ARTERIA",
+      "start": 1271,
+      "end": 1309
+    },
+    {
+      "text": "segmentos intracraneales (cavernoso y supraclinoideo)",
+      "type": "ARTERIA",
+      "start": 1312,
+      "end": 1365
+    },
+    {
+      "text": "circulación intracraneal (ACAs, ACMs, ACPs)",
+      "type": "ARTERIA",
+      "start": 1405,
+      "end": 1448
+    },
+    {
+      "text": "Sistema vertebrobasilar",
+      "type": "ARTERIA",
+      "start": 1493,
+      "end": 1516
+    },
+    {
+      "text": "ligera dominancia derecha",
+      "type": "LATERALIDAD",
+      "start": 1601,
+      "end": 1626
+    },
+    {
+      "text": "hallazgos patológicos agudos ni crónicos relevantes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1709,
+      "end": 1760
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 698,
+      "end": 708
+    },
+    {
+      "text": "Perfusión cerebral normal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1774,
+      "end": 1799
+    },
+    {
+      "text": "estenosis ni aneurismas detectados",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1865,
+      "end": 1899
+    }
+  ]
+}

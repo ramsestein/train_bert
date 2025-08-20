@@ -1,0 +1,95 @@
+{
+  "document_id": "informe_sintetico_20250804195045_04275",
+  "entities": [
+    {
+      "text": "infartos lacunares crónicos",
+      "type": "PATOLOGIA",
+      "start": 674,
+      "end": 701
+    },
+    {
+      "text": "núcleos profundos",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 541,
+      "end": 558
+    },
+    {
+      "text": "ganglios basales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 585,
+      "end": 601
+    },
+    {
+      "text": "cápsula interna",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 603,
+      "end": 618
+    },
+    {
+      "text": "sustancia blanca periventricular",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 624,
+      "end": 656
+    },
+    {
+      "text": "<15 mm",
+      "type": "MEDIDA",
+      "start": 517,
+      "end": 523
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 728,
+      "end": 751
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1576,
+      "end": 1590
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 1749,
+      "end": 1759
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 297,
+      "end": 313
+    },
+    {
+      "text": "perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 330,
+      "end": 348
+    },
+    {
+      "text": "angiografía TC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 351,
+      "end": 387
+    },
+    {
+      "text": "permeabilidad sin estenosis ni oclusiones evidentes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1311,
+      "end": 1362
+    },
+    {
+      "text": "placas ateromatosas significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1382,
+      "end": 1416
+    },
+    {
+      "text": "signos de vasculitis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1420,
+      "end": 1440
+    }
+  ]
+}

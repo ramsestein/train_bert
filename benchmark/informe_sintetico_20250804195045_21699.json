@@ -1,0 +1,95 @@
+{
+  "document_id": "informe_sintetico_20250804195045_21699",
+  "entities": [
+    {
+      "text": "ictus isquémico",
+      "type": "PATOLOGIA",
+      "start": 235,
+      "end": 250
+    },
+    {
+      "text": "ASPECTS 9/10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 497,
+      "end": 509
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 680,
+      "end": 710
+    },
+    {
+      "text": "M2/M3",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 750,
+      "end": 755
+    },
+    {
+      "text": "M2 derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1002,
+      "end": 1012
+    },
+    {
+      "text": "ACAs, ACM contralateral, ACPs y sistema vertebrobasilar",
+      "type": "ARTERIA",
+      "start": 1110,
+      "end": 1165
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 1326,
+      "end": 1340
+    },
+    {
+      "text": "M2/M3",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 750,
+      "end": 755
+    },
+    {
+      "text": "ASPECTS 9/10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 497,
+      "end": 509
+    },
+    {
+      "text": "oclusión focal de rama distal M2 derecha",
+      "type": "PATOLOGIA",
+      "start": 1490,
+      "end": 1530
+    },
+    {
+      "text": "hemorragia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 453,
+      "end": 463
+    },
+    {
+      "text": "edema cerebral significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1559,
+      "end": 1587
+    },
+    {
+      "text": "TC craneal simple",
+      "type": "TECNICA_IMAGEN",
+      "start": 271,
+      "end": 288
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 290,
+      "end": 311
+    },
+    {
+      "text": "AngioTC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 314,
+      "end": 343
+    }
+  ]
+}

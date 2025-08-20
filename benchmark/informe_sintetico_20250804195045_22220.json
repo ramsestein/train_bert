@@ -1,0 +1,149 @@
+{
+  "document_id": "informe_sintetico_20250804195045_22220",
+  "entities": [
+    {
+      "text": "ictus isquémico agudo",
+      "type": "PATOLOGIA",
+      "start": 286,
+      "end": 307
+    },
+    {
+      "text": "hemiparesia izquierda",
+      "type": "PATOLOGIA",
+      "start": 217,
+      "end": 238
+    },
+    {
+      "text": "afasia",
+      "type": "PATOLOGIA",
+      "start": 241,
+      "end": 247
+    },
+    {
+      "text": "3 horas",
+      "type": "TEMPORALIDAD",
+      "start": 265,
+      "end": 272
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 328,
+      "end": 344
+    },
+    {
+      "text": "perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 371,
+      "end": 389
+    },
+    {
+      "text": "angiografía TC de arterias supraórticas e intracraneales",
+      "type": "TECNICA_IMAGEN",
+      "start": 392,
+      "end": 448
+    },
+    {
+      "text": "área hipodensa",
+      "type": "PATOLOGIA",
+      "start": 506,
+      "end": 520
+    },
+    {
+      "text": "arteria cerebral media (ACM) derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 541,
+      "end": 577
+    },
+    {
+      "text": "corteza frontal y parietal",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 592,
+      "end": 618
+    },
+    {
+      "text": "infarto agudo",
+      "type": "PATOLOGIA",
+      "start": 715,
+      "end": 728
+    },
+    {
+      "text": "hemorragias intracraneales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 745,
+      "end": 771
+    },
+    {
+      "text": "colecciones extraaxiales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 775,
+      "end": 799
+    },
+    {
+      "text": "Línea media centrada",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 801,
+      "end": 821
+    },
+    {
+      "text": "volumen cerebral (CBV)",
+      "type": "PATOLOGIA",
+      "start": 937,
+      "end": 959
+    },
+    {
+      "text": "territorio de la ACM derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 963,
+      "end": 991
+    },
+    {
+      "text": "prolongación en los tiempos de tránsito (TTP y MTT)",
+      "type": "PATOLOGIA",
+      "start": 1007,
+      "end": 1058
+    },
+    {
+      "text": "penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1106,
+      "end": 1124
+    },
+    {
+      "text": "supraclinoideo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1241,
+      "end": 1255
+    },
+    {
+      "text": "estenosis significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1336,
+      "end": 1359
+    },
+    {
+      "text": "oclusión mencionada",
+      "type": "PATOLOGIA",
+      "start": 1425,
+      "end": 1444
+    },
+    {
+      "text": "oclusión completa de arteria carótida interna ipsilateral",
+      "type": "PATOLOGIA",
+      "start": 1570,
+      "end": 1627
+    },
+    {
+      "text": "hemorragias",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 745,
+      "end": 756
+    },
+    {
+      "text": "colecciones asociadas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1760,
+      "end": 1781
+    }
+  ]
+}

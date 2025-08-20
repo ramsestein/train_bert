@@ -1,0 +1,89 @@
+{
+  "document_id": "informe_sintetico_20250804195045_07229",
+  "entities": [
+    {
+      "text": "hipodensidad difusa",
+      "type": "PATOLOGIA",
+      "start": 523,
+      "end": 542
+    },
+    {
+      "text": "infarto",
+      "type": "PATOLOGIA",
+      "start": 722,
+      "end": 729
+    },
+    {
+      "text": "regiones corticales y subcorticales de las zonas límite frontoparietales y parietooccipitales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 550,
+      "end": 643
+    },
+    {
+      "text": "hemisferio izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 678,
+      "end": 698
+    },
+    {
+      "text": "tiempo de tránsito medio (MTT)",
+      "type": "MEDIDA",
+      "start": 1158,
+      "end": 1188
+    },
+    {
+      "text": "arterias cerebrales anterior, media y posterior",
+      "type": "ARTERIA",
+      "start": 1251,
+      "end": 1298
+    },
+    {
+      "text": "arteria carótida interna izquierda",
+      "type": "ARTERIA",
+      "start": 1402,
+      "end": 1436
+    },
+    {
+      "text": "signos de trombosis ni embolias visibles",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1602,
+      "end": 1642
+    },
+    {
+      "text": "infarto cerebral watershed",
+      "type": "PATOLOGIA",
+      "start": 1696,
+      "end": 1722
+    },
+    {
+      "text": "estenosis carotídea significativa",
+      "type": "PATOLOGIA",
+      "start": 2246,
+      "end": 2279
+    },
+    {
+      "text": "isquemia",
+      "type": "PATOLOGIA",
+      "start": 1938,
+      "end": 1946
+    },
+    {
+      "text": "TC craneal basal urgente sin contraste",
+      "type": "TECNICA_IMAGEN",
+      "start": 336,
+      "end": 374
+    },
+    {
+      "text": "perfusión cerebral dinámica",
+      "type": "TECNICA_IMAGEN",
+      "start": 376,
+      "end": 403
+    },
+    {
+      "text": "angiografía por TC intracraneal con contraste endovenoso",
+      "type": "TECNICA_IMAGEN",
+      "start": 406,
+      "end": 462
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "document_id": "informe_sintetico_20250804195045_07121",
+  "entities": [
+    {
+      "text": "infarto lacunar agudo",
+      "type": "PATOLOGIA",
+      "start": 565,
+      "end": 586
+    },
+    {
+      "text": "cápsula interna izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 498,
+      "end": 523
+    },
+    {
+      "text": "6 mm",
+      "type": "MEDIDA",
+      "start": 544,
+      "end": 548
+    },
+    {
+      "text": "agudo",
+      "type": "TEMPORALIDAD",
+      "start": 581,
+      "end": 586
+    },
+    {
+      "text": "sin evidencias de efecto de masa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 733,
+      "end": 765
+    },
+    {
+      "text": "sin obstrucciones ni placas ulceradas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1240,
+      "end": 1277
+    },
+    {
+      "text": "sin complicaciones hemorrágicas ni signos de edema",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1413,
+      "end": 1463
+    },
+    {
+      "text": "arterias carótidas internas bilaterales",
+      "type": "ARTERIA",
+      "start": 1199,
+      "end": 1238
+    },
+    {
+      "text": "sin estenosis significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1518,
+      "end": 1546
+    }
+  ]
+}

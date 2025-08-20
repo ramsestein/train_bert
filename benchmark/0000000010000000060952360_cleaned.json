@@ -1,0 +1,223 @@
+{
+  "document_id": "0000000010000000060952360_cleaned",
+  "entities": [
+    {
+      "text": "Afàsia",
+      "type": "PATOLOGIA",
+      "start": 166,
+      "end": 172
+    },
+    {
+      "text": "TC CÓDIGO ICTUS",
+      "type": "TECNICA_IMAGEN",
+      "start": 192,
+      "end": 207
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 209,
+      "end": 225
+    },
+    {
+      "text": "TC perfusión",
+      "type": "TECNICA_IMAGEN",
+      "start": 227,
+      "end": 239
+    },
+    {
+      "text": "ANGIOTC extra e intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 242,
+      "end": 270
+    },
+    {
+      "text": "hemorragia aguda",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 333,
+      "end": 349
+    },
+    {
+      "text": "lesiones focales intra ni extraaxial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 353,
+      "end": 389
+    },
+    {
+      "text": "Parénquima cerebral",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 391,
+      "end": 410
+    },
+    {
+      "text": "alteraciones densitométricas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 415,
+      "end": 443
+    },
+    {
+      "text": "Diferenciación cortico-subcortical",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 445,
+      "end": 479
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 492,
+      "end": 502
+    },
+    {
+      "text": "Estructuras de la línea media",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 504,
+      "end": 533
+    },
+    {
+      "text": "Sistema ventricular",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 545,
+      "end": 564
+    },
+    {
+      "text": "Cisternas basales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 596,
+      "end": 613
+    },
+    {
+      "text": "alteraciones valorables en el TTP, CBV y CBF",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 651,
+      "end": 695
+    },
+    {
+      "text": "discordancia significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 701,
+      "end": 727
+    },
+    {
+      "text": "Ateromatosis cálcica",
+      "type": "PATOLOGIA",
+      "start": 760,
+      "end": 780
+    },
+    {
+      "text": "arco aórtico",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 784,
+      "end": 796
+    },
+    {
+      "text": "troncos supraórticos",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 823,
+      "end": 843
+    },
+    {
+      "text": "signos de estenosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 848,
+      "end": 867
+    },
+    {
+      "text": "arteria carótida interna",
+      "type": "ARTERIA",
+      "start": 918,
+      "end": 942
+    },
+    {
+      "text": "ateromatosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 947,
+      "end": 959
+    },
+    {
+      "text": "signos de estenosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 848,
+      "end": 867
+    },
+    {
+      "text": "Arterias carótidas",
+      "type": "ARTERIA",
+      "start": 984,
+      "end": 1002
+    },
+    {
+      "text": "recorrido retrofaríngeo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1006,
+      "end": 1029
+    },
+    {
+      "text": "arteria carótida interna",
+      "type": "ARTERIA",
+      "start": 918,
+      "end": 942
+    },
+    {
+      "text": "signos de estenosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 848,
+      "end": 867
+    },
+    {
+      "text": "Origen de las arterias vertebrales",
+      "type": "ARTERIA",
+      "start": 1145,
+      "end": 1179
+    },
+    {
+      "text": "permeable",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1245,
+      "end": 1254
+    },
+    {
+      "text": "ACAs, ACMs y ACPs",
+      "type": "ARTERIA",
+      "start": 1315,
+      "end": 1332
+    },
+    {
+      "text": "hemorragia aguda",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 333,
+      "end": 349
+    },
+    {
+      "text": "lesiones focales intra ni extraaxial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 353,
+      "end": 389
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 492,
+      "end": 502
+    },
+    {
+      "text": "TC PERFUSIÓN",
+      "type": "TECNICA_IMAGEN",
+      "start": 622,
+      "end": 634
+    },
+    {
+      "text": "estudio ANGIOGRÁFICO",
+      "type": "TECNICA_IMAGEN",
+      "start": 1457,
+      "end": 1477
+    },
+    {
+      "text": "alteraciones valorables",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 651,
+      "end": 674
+    }
+  ],
+  "regenerado": true,
+  "fecha_regeneracion": "2025-08-06T04:19:02.664529"
+}

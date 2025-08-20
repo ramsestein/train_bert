@@ -1,0 +1,101 @@
+{
+  "document_id": "informe_sintetico_20250804195045_07571",
+  "entities": [
+    {
+      "text": "isquemia",
+      "type": "PATOLOGIA",
+      "start": 235,
+      "end": 243
+    },
+    {
+      "text": "territorio vertebrobasilar",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 247,
+      "end": 273
+    },
+    {
+      "text": "protuberancia",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 599,
+      "end": 612
+    },
+    {
+      "text": "cerebelo derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 615,
+      "end": 631
+    },
+    {
+      "text": "TTP",
+      "type": "MEDIDA",
+      "start": 838,
+      "end": 841
+    },
+    {
+      "text": "CBF",
+      "type": "MEDIDA",
+      "start": 884,
+      "end": 887
+    },
+    {
+      "text": "CBV",
+      "type": "MEDIDA",
+      "start": 1033,
+      "end": 1036
+    },
+    {
+      "text": "70%",
+      "type": "MEDIDA",
+      "start": 1186,
+      "end": 1189
+    },
+    {
+      "text": "arteria vertebral V4",
+      "type": "ARTERIA",
+      "start": 1230,
+      "end": 1250
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 1682,
+      "end": 1689
+    },
+    {
+      "text": "aguda",
+      "type": "TEMPORALIDAD",
+      "start": 1522,
+      "end": 1527
+    },
+    {
+      "text": "No se identifican hemorragias intra ni extraaxiales.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 445,
+      "end": 497
+    },
+    {
+      "text": "No hemorragia asociada.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1728,
+      "end": 1751
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 294,
+      "end": 310
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 313,
+      "end": 334
+    },
+    {
+      "text": "Angio-TC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 364,
+      "end": 394
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "document_id": "informe_sintetico_20250804195045_09250",
+  "entities": [
+    {
+      "text": "hematoma lobar",
+      "type": "PATOLOGIA",
+      "start": 387,
+      "end": 401
+    },
+    {
+      "text": "lóbulo parietal izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 419,
+      "end": 444
+    },
+    {
+      "text": "25 x 18 x 22 mm",
+      "type": "MEDIDA",
+      "start": 477,
+      "end": 492
+    },
+    {
+      "text": "izquierdo",
+      "type": "LATERALIDAD",
+      "start": 435,
+      "end": 444
+    },
+    {
+      "text": "No se observan signos de sangrado intraventricular",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 628,
+      "end": 678
+    },
+    {
+      "text": "No se identifican signos de aneurismas, malformaciones vasculares ni estenosis arterial relevantes.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1253,
+      "end": 1352
+    },
+    {
+      "text": "Hematoma lobar parietal izquierdo de tamaño moderado",
+      "type": "PATOLOGIA",
+      "start": 1376,
+      "end": 1428
+    },
+    {
+      "text": "sin complicaciones hemorrágicas adicionales ni evidencia de isquemia cerebral asociada.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1462,
+      "end": 1549
+    },
+    {
+      "text": "Perfusión cerebral dentro de límites normales.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1882,
+      "end": 1928
+    },
+    {
+      "text": "AngioTC sin hallazgos patológicos.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1929,
+      "end": 1963
+    }
+  ]
+}

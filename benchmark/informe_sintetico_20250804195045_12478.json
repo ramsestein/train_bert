@@ -1,0 +1,71 @@
+{
+  "document_id": "informe_sintetico_20250804195045_12478",
+  "entities": [
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 481,
+      "end": 504
+    },
+    {
+      "text": "lesión isquémica",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 673,
+      "end": 689
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 705,
+      "end": 715
+    },
+    {
+      "text": "isquemia",
+      "type": "PATOLOGIA",
+      "start": 1074,
+      "end": 1082
+    },
+    {
+      "text": "ACAs, ACMs, ACPs",
+      "type": "ARTERIA",
+      "start": 1257,
+      "end": 1273
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 705,
+      "end": 715
+    },
+    {
+      "text": "patología vascular aguda",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1637,
+      "end": 1661
+    },
+    {
+      "text": "TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANG IOTC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 72,
+      "end": 140
+    },
+    {
+      "text": "TC CRANEAL BASAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 435,
+      "end": 451
+    },
+    {
+      "text": "TC PERFUSIÓN",
+      "type": "TECNICA_IMAGEN",
+      "start": 879,
+      "end": 891
+    },
+    {
+      "text": "ANGIO-TC EXTRA E INTRACRANEAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 1085,
+      "end": 1114
+    }
+  ]
+}

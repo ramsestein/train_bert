@@ -1,0 +1,131 @@
+{
+  "document_id": "informe_sintetico_20250804195045_03264",
+  "entities": [
+    {
+      "text": "ictus isquémico",
+      "type": "PATOLOGIA",
+      "start": 226,
+      "end": 241
+    },
+    {
+      "text": "isquemia precoz",
+      "type": "PATOLOGIA",
+      "start": 647,
+      "end": 662
+    },
+    {
+      "text": "ASPECTS no aplicable",
+      "type": "PUNTUACION_CLINICA",
+      "start": 738,
+      "end": 758
+    },
+    {
+      "text": "arteria cerebral posterior",
+      "type": "ARTERIA",
+      "start": 259,
+      "end": 285
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 623,
+      "end": 632
+    },
+    {
+      "text": "aumento significativo del tiempo de tránsito medio (TTP)",
+      "type": "MEDIDA",
+      "start": 931,
+      "end": 987
+    },
+    {
+      "text": "tiempo de retraso (Tmax)",
+      "type": "MEDIDA",
+      "start": 990,
+      "end": 1014
+    },
+    {
+      "text": "disminución moderada del flujo cerebral (CBF)",
+      "type": "MEDIDA",
+      "start": 1100,
+      "end": 1145
+    },
+    {
+      "text": "volumen cerebral sanguíneo (CBV)",
+      "type": "MEDIDA",
+      "start": 1148,
+      "end": 1180
+    },
+    {
+      "text": "penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1203,
+      "end": 1221
+    },
+    {
+      "text": "núcleo isquémico",
+      "type": "PATOLOGIA",
+      "start": 1224,
+      "end": 1240
+    },
+    {
+      "text": "región occipital",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 606,
+      "end": 622
+    },
+    {
+      "text": "lóbulo temporal medial",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1273,
+      "end": 1295
+    },
+    {
+      "text": "arteria cerebral posterior",
+      "type": "ARTERIA",
+      "start": 259,
+      "end": 285
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 623,
+      "end": 632
+    },
+    {
+      "text": "Sin estenosis ni placas significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1425,
+      "end": 1463
+    },
+    {
+      "text": "No hay aneurismas ni malformaciones vascular detectables",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1559,
+      "end": 1615
+    },
+    {
+      "text": "Infarto isquémico agudo",
+      "type": "PATOLOGIA",
+      "start": 1640,
+      "end": 1663
+    },
+    {
+      "text": "territorio de arteria cerebral posterior izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1667,
+      "end": 1717
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1854,
+      "end": 1877
+    },
+    {
+      "text": "mismatch en perfusión",
+      "type": "PATOLOGIA",
+      "start": 2205,
+      "end": 2226
+    }
+  ]
+}

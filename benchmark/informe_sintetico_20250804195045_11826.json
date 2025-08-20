@@ -1,0 +1,101 @@
+{
+  "document_id": "informe_sintetico_20250804195045_11826",
+  "entities": [
+    {
+      "text": "infarto cerebral agudo",
+      "type": "PATOLOGIA",
+      "start": 179,
+      "end": 201
+    },
+    {
+      "text": "ACM derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 219,
+      "end": 230
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "ARTERIA",
+      "start": 605,
+      "end": 635
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 223,
+      "end": 230
+    },
+    {
+      "text": "45x30 mm",
+      "type": "MEDIDA",
+      "start": 665,
+      "end": 673
+    },
+    {
+      "text": "agudo",
+      "type": "TEMPORALIDAD",
+      "start": 196,
+      "end": 201
+    },
+    {
+      "text": "transformación hemorrágica tipo PH2",
+      "type": "PATOLOGIA",
+      "start": 690,
+      "end": 725
+    },
+    {
+      "text": "Oclusión proximal de arteria cerebral media derecha",
+      "type": "PATOLOGIA",
+      "start": 1592,
+      "end": 1643
+    },
+    {
+      "text": "ACM derecha",
+      "type": "ARTERIA",
+      "start": 219,
+      "end": 230
+    },
+    {
+      "text": "isquemia extensa",
+      "type": "PATOLOGIA",
+      "start": 2189,
+      "end": 2205
+    },
+    {
+      "text": "No se observan signos de hemorragia subaracnoidea ni hematomas extraaxiales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1086,
+      "end": 1161
+    },
+    {
+      "text": "Sistema vertebrobasilar y carótidas internas bilateralmente normales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1851,
+      "end": 1919
+    },
+    {
+      "text": "desplazamiento de la línea media de aproximadamente 6 mm",
+      "type": "MEDIDA",
+      "start": 806,
+      "end": 862
+    },
+    {
+      "text": "Aumento del tiempo de tránsito (TTP)",
+      "type": "PATOLOGIA",
+      "start": 1385,
+      "end": 1421
+    },
+    {
+      "text": "retraso en tiempo medio de tránsito (MTT)",
+      "type": "PATOLOGIA",
+      "start": 1424,
+      "end": 1465
+    },
+    {
+      "text": "Protocolo urgente Código Ictus: TC craneal basal sin contraste, TC perfusión cerebral y Angio-TC extra e intracraneal para evaluación vascular y perfusión cerebral.",
+      "type": "TECNICA_IMAGEN",
+      "start": 324,
+      "end": 488
+    }
+  ]
+}

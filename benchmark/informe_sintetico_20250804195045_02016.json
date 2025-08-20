@@ -1,0 +1,89 @@
+{
+  "document_id": "informe_sintetico_20250804195045_02016",
+  "entities": [
+    {
+      "text": "ictus isquémico agudo",
+      "type": "PATOLOGIA",
+      "start": 233,
+      "end": 254
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 487,
+      "end": 519
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "ARTERIA",
+      "start": 487,
+      "end": 519
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 510,
+      "end": 519
+    },
+    {
+      "text": "M1",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 774,
+      "end": 776
+    },
+    {
+      "text": "M1",
+      "type": "ARTERIA",
+      "start": 774,
+      "end": 776
+    },
+    {
+      "text": "zona central de penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1114,
+      "end": 1148
+    },
+    {
+      "text": "núcleo de infarto incipiente",
+      "type": "PATOLOGIA",
+      "start": 1151,
+      "end": 1179
+    },
+    {
+      "text": "sin placas significativas ni estenosis de consideración",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1331,
+      "end": 1386
+    },
+    {
+      "text": "sin estenosis ni ateromatosis importante",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1430,
+      "end": 1470
+    },
+    {
+      "text": "ASPECTS estimado 6",
+      "type": "PUNTUACION_CLINICA",
+      "start": 1713,
+      "end": 1731
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 294,
+      "end": 310
+    },
+    {
+      "text": "TC PERFUSIÓN",
+      "type": "TECNICA_IMAGEN",
+      "start": 876,
+      "end": 888
+    },
+    {
+      "text": "ANGIO-TC EXTRA E INTRACRANEAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 1181,
+      "end": 1210
+    }
+  ]
+}

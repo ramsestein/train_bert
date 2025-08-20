@@ -1,0 +1,83 @@
+{
+  "document_id": "informe_sintetico_20250804195045_08374",
+  "entities": [
+    {
+      "text": "isquemia aguda multiterritorial",
+      "type": "PATOLOGIA",
+      "start": 275,
+      "end": 306
+    },
+    {
+      "text": "territorios frontales y parietales derechos e izquierdos",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 758,
+      "end": 814
+    },
+    {
+      "text": "arterias cerebrales posteriores",
+      "type": "ARTERIA",
+      "start": 891,
+      "end": 922
+    },
+    {
+      "text": "bilateral",
+      "type": "LATERALIDAD",
+      "start": 731,
+      "end": 740
+    },
+    {
+      "text": "M2",
+      "type": "ARTERIA",
+      "start": 1648,
+      "end": 1650
+    },
+    {
+      "text": "bilaterales",
+      "type": "LATERALIDAD",
+      "start": 1306,
+      "end": 1317
+    },
+    {
+      "text": "mismatch significativo",
+      "type": "PATOLOGIA",
+      "start": 1446,
+      "end": 1468
+    },
+    {
+      "text": "No se evidencian hemorragias intracraneales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 562,
+      "end": 605
+    },
+    {
+      "text": "No signos de disección arterial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1939,
+      "end": 1970
+    },
+    {
+      "text": "TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANG IOTC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 72,
+      "end": 140
+    },
+    {
+      "text": "TC CRANEAL BASAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 542,
+      "end": 558
+    },
+    {
+      "text": "TC PERFUSIÓN CEREBRAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 1154,
+      "end": 1175
+    },
+    {
+      "text": "ANGIO-TC ARTERIAL INTRACRANEAL Y EXTRA",
+      "type": "TECNICA_IMAGEN",
+      "start": 1539,
+      "end": 1577
+    }
+  ]
+}

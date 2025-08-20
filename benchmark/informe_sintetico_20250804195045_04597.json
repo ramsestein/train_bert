@@ -1,0 +1,137 @@
+{
+  "document_id": "informe_sintetico_20250804195045_04597",
+  "entities": [
+    {
+      "text": "isquemia",
+      "type": "PATOLOGIA",
+      "start": 246,
+      "end": 254
+    },
+    {
+      "text": "arteria cerebral anterior",
+      "type": "ARTERIA",
+      "start": 272,
+      "end": 297
+    },
+    {
+      "text": "derecho",
+      "type": "LATERALIDAD",
+      "start": 217,
+      "end": 224
+    },
+    {
+      "text": "hipodensidad",
+      "type": "PATOLOGIA",
+      "start": 546,
+      "end": 558
+    },
+    {
+      "text": "lóbulo frontal izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 583,
+      "end": 607
+    },
+    {
+      "text": "arteria cerebral anterior (ACA)",
+      "type": "ARTERIA",
+      "start": 653,
+      "end": 684
+    },
+    {
+      "text": "hemorragia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 703,
+      "end": 713
+    },
+    {
+      "text": "infartos antiguos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 772,
+      "end": 789
+    },
+    {
+      "text": "isquemia en fase aguda",
+      "type": "PATOLOGIA",
+      "start": 1065,
+      "end": 1087
+    },
+    {
+      "text": "A2",
+      "type": "ARTERIA",
+      "start": 1275,
+      "end": 1277
+    },
+    {
+      "text": "arteria cerebral anterior izquierda",
+      "type": "ARTERIA",
+      "start": 1285,
+      "end": 1320
+    },
+    {
+      "text": "hemorragia asociada",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1799,
+      "end": 1818
+    },
+    {
+      "text": "anomalías vasculares",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1828,
+      "end": 1848
+    },
+    {
+      "text": "evento isquémico agudo",
+      "type": "PATOLOGIA",
+      "start": 1873,
+      "end": 1895
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 318,
+      "end": 334
+    },
+    {
+      "text": "perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 361,
+      "end": 379
+    },
+    {
+      "text": "angiografía TC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 382,
+      "end": 418
+    },
+    {
+      "text": "protocolo Código Ictus",
+      "type": "TECNICA_IMAGEN",
+      "start": 420,
+      "end": 442
+    },
+    {
+      "text": "tiempo de tránsito medio (TTM)",
+      "type": "MEDIDA",
+      "start": 931,
+      "end": 961
+    },
+    {
+      "text": "flujo cerebral (CBF)",
+      "type": "MEDIDA",
+      "start": 978,
+      "end": 998
+    },
+    {
+      "text": "permeabilidad conservada",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1422,
+      "end": 1446
+    },
+    {
+      "text": "estenosis ni trombosis adicionales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1452,
+      "end": 1486
+    }
+  ]
+}

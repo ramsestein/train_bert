@@ -1,0 +1,125 @@
+{
+  "document_id": "informe_sintetico_20250804195045_20081",
+  "entities": [
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 305,
+      "end": 319
+    },
+    {
+      "text": "arteria cerebral anterior",
+      "type": "ARTERIA",
+      "start": 337,
+      "end": 362
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 809,
+      "end": 818
+    },
+    {
+      "text": "pequeñas áreas de hipodensidad cortical y subcortical",
+      "type": "PATOLOGIA",
+      "start": 706,
+      "end": 759
+    },
+    {
+      "text": "arteria cerebral anterior izquierda",
+      "type": "ARTERIA",
+      "start": 783,
+      "end": 818
+    },
+    {
+      "text": "ASPECTS de 8",
+      "type": "PUNTUACION_CLINICA",
+      "start": 927,
+      "end": 939
+    },
+    {
+      "text": "aumento del tiempo de tránsito medio (TTP)",
+      "type": "MEDIDA",
+      "start": 1135,
+      "end": 1177
+    },
+    {
+      "text": "disminución significativa del flujo cerebral (CBF)",
+      "type": "MEDIDA",
+      "start": 1180,
+      "end": 1230
+    },
+    {
+      "text": "territorio irrigado por ACA",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1309,
+      "end": 1336
+    },
+    {
+      "text": "volumen cerebral (CBV)",
+      "type": "MEDIDA",
+      "start": 1341,
+      "end": 1363
+    },
+    {
+      "text": "Oclusión subtotal proximal de la arteria cerebral anterior izquierda en segmento A2",
+      "type": "PATOLOGIA",
+      "start": 1484,
+      "end": 1567
+    },
+    {
+      "text": "arterias intracraneales (ACM, ACP y sistema vertebrobasilar)",
+      "type": "ARTERIA",
+      "start": 1585,
+      "end": 1645
+    },
+    {
+      "text": "sin estenosis significativas ni placas ateromatosas relevantes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1671,
+      "end": 1733
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 305,
+      "end": 319
+    },
+    {
+      "text": "arteria cerebral anterior izquierda",
+      "type": "ARTERIA",
+      "start": 783,
+      "end": 818
+    },
+    {
+      "text": "Oclusión parcial del segmento A2 de ACA",
+      "type": "PATOLOGIA",
+      "start": 1965,
+      "end": 2004
+    },
+    {
+      "text": "No se visualizan complicaciones hemorrágicas ni edema masivo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2006,
+      "end": 2066
+    },
+    {
+      "text": "Infarto cerebral agudo en territorio de arteria cerebral anterior izquierda",
+      "type": "PATOLOGIA",
+      "start": 2272,
+      "end": 2347
+    },
+    {
+      "text": "Oclusión segmentaria proximal de arteria cerebral anterior",
+      "type": "PATOLOGIA",
+      "start": 2390,
+      "end": 2448
+    },
+    {
+      "text": "TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANGIOTC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 2476,
+      "end": 2543
+    }
+  ]
+}

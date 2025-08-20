@@ -1,0 +1,113 @@
+{
+  "document_id": "informe_sintetico_20250804195045_06993",
+  "entities": [
+    {
+      "text": "hemiparesia izquierda",
+      "type": "PATOLOGIA",
+      "start": 195,
+      "end": 216
+    },
+    {
+      "text": "afasia parcial",
+      "type": "PATOLOGIA",
+      "start": 219,
+      "end": 233
+    },
+    {
+      "text": "accidente cerebrovascular isquémico",
+      "type": "PATOLOGIA",
+      "start": 247,
+      "end": 282
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "ARTERIA",
+      "start": 300,
+      "end": 330
+    },
+    {
+      "text": "No se detectan signos de hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 577,
+      "end": 625
+    },
+    {
+      "text": "No se identifican lesiones hipodensas parenquimatosas definidas que sugieran infarto establecido",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 659,
+      "end": 755
+    },
+    {
+      "text": "ASPECTS 9",
+      "type": "PUNTUACION_CLINICA",
+      "start": 815,
+      "end": 824
+    },
+    {
+      "text": "territorio cortical correspondiente a los segmentos M2 y M3 de la arteria cerebral media derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1006,
+      "end": 1102
+    },
+    {
+      "text": "disminución moderada del flujo cerebral (CBF)",
+      "type": "PATOLOGIA",
+      "start": 1108,
+      "end": 1153
+    },
+    {
+      "text": "volumen cerebral (CBV) conservado",
+      "type": "PATOLOGIA",
+      "start": 1156,
+      "end": 1189
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 1231,
+      "end": 1245
+    },
+    {
+      "text": "segmentaria en rama M2-M3 derecha de arteria cerebral media distal",
+      "type": "PATOLOGIA",
+      "start": 1453,
+      "end": 1519
+    },
+    {
+      "text": "No hay evidencia de hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1664,
+      "end": 1707
+    },
+    {
+      "text": "ASPECTS global de 9",
+      "type": "PUNTUACION_CLINICA",
+      "start": 1709,
+      "end": 1728
+    },
+    {
+      "text": "isquemia aguda en territorio de ACM distal derecha (segmentos M2/M3)",
+      "type": "PATOLOGIA",
+      "start": 1801,
+      "end": 1869
+    },
+    {
+      "text": "oclusión arterial",
+      "type": "PATOLOGIA",
+      "start": 1874,
+      "end": 1891
+    },
+    {
+      "text": "mismatch en perfusión",
+      "type": "PATOLOGIA",
+      "start": 1941,
+      "end": 1962
+    },
+    {
+      "text": "No se identifican otras lesiones vasculares significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1964,
+      "end": 2022
+    }
+  ]
+}

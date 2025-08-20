@@ -1,0 +1,33 @@
+UO_PACN (Unidad Organizativa Médica): RADIO
+
+PRUEB (Prueba solicitada): TC CODIGO ICTUS (PERFUSIÓN CEREBRAL + ANG IOTC ARTERIAL INTRACRANEAL)
+
+CLIN (Resumen clínico): Paciente con antecedente reciente de paro cardiorrespiratorio y reanimación avanzada, presenta alteración del nivel de conciencia y signos de daño neurológico focal.
+
+OBSR (Protocolo): TC CÓDIGO ICTUS (BASAL + PERFUSIÓN CEREBRAL + ANGIO-TC INTRACRANEAL)
+
+RESL (Resultados):  
+TC CRANEAL BASAL:  
+No se evidencia hemorragia intracraneal ni colecciones extraaxiales. Se observa pérdida marcada de la diferenciación cortico-subcortical a nivel de ambos lóbulos frontales y parietales, con hipodensidad difusa en la sustancia blanca profunda y corteza cerebral. Edema cerebral difuso con borramiento de surcos corticales y pérdida de los espacios subaracnoideos superficiales. No desplazamiento de la línea media. Sistema ventricular colapsado en relación con edema cerebral leve.
+
+TC PERFUSIÓN:  
+Disminución global del flujo cerebral (CBF) y volumen cerebral (CBV) en territorios corticales y subcorticales bilaterales, predominando en hemisferios frontales y parietales. Aumento prolongado en mapas de tiempo de tránsito (TTP) y retraso del tiempo hasta el máximo (Tmax), sin áreas claramente definidas de núcleo isquémico, compatible con daño hipóxico-isquémico difuso.
+
+ANGIO-TC INTRACRANEAL:  
+Arterias intracraneales permeables sin estenosis ni trombosis observables. No evidencia de oclusiones arteriales mayores. Vasculatura cerebral conservada sin signos de vasoespasmo o vasculitis.
+
+CONCL (Conclusiones):  
+Signos radiológicos compatibles con encefalopatía hipóxico-isquémica difusa, con edema cerebral y pérdida de diferenciación cortical. No se evidencian lesiones isquémicas focales ni hemorragias intracraneales. Vascularización intracraneal permeable sin estenosis crítica.
+
+ACTI_ADICI (Actividad adicional):  
+
+DKTXT (Descripción): TC cerebral urgente codificado para valoración de daño neurológico tras episodio hipóxico-isquémico.
+
+ICON (Estudio): @RADIO_001@
+
+X00DIATXT (Texto del diagnóstico ACR):  
+Encefalopatía hipóxico-isquémica difusa sin evidencia de infarto focal ni hemorragia intracraneal. Edema cerebral leve-moderado.
+
+EST_T_DES (Descripción): TC CODIGO ICTUS (PERFUSIÓN CEREBRAL + ANG IOTC ARTERIAL INTRACRANEAL)
+
+ZVASOS_D (Der.): Vascularización intracraneal sin oclusiones ni estenosis significativas.

@@ -1,0 +1,125 @@
+{
+  "document_id": "informe_sintetico_20250804195045_07099",
+  "entities": [
+    {
+      "text": "hipodensidad parcheada",
+      "type": "PATOLOGIA",
+      "start": 442,
+      "end": 464
+    },
+    {
+      "text": "sustancia blanca subcortical",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 471,
+      "end": 499
+    },
+    {
+      "text": "lóbulos parietales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 503,
+      "end": 521
+    },
+    {
+      "text": "bilaterales",
+      "type": "LATERALIDAD",
+      "start": 536,
+      "end": 547
+    },
+    {
+      "text": "hemorragias",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 622,
+      "end": 633
+    },
+    {
+      "text": "infarto hemorrágico",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 647,
+      "end": 666
+    },
+    {
+      "text": "hemorragia aguda",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 688,
+      "end": 704
+    },
+    {
+      "text": "edema vasogénico reversible",
+      "type": "PATOLOGIA",
+      "start": 1062,
+      "end": 1089
+    },
+    {
+      "text": "ACAs, ACMs, ACPs",
+      "type": "ARTERIA",
+      "start": 1201,
+      "end": 1217
+    },
+    {
+      "text": "sistema vertebrobasilar",
+      "type": "ARTERIA",
+      "start": 1243,
+      "end": 1266
+    },
+    {
+      "text": "malformaciones vasculares",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1313,
+      "end": 1338
+    },
+    {
+      "text": "trombosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1342,
+      "end": 1351
+    },
+    {
+      "text": "leucoencefalopatía posterior reversible (PRES)",
+      "type": "PATOLOGIA",
+      "start": 1402,
+      "end": 1448
+    },
+    {
+      "text": "edema vasogénico",
+      "type": "PATOLOGIA",
+      "start": 1062,
+      "end": 1078
+    },
+    {
+      "text": "infarto",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 647,
+      "end": 654
+    },
+    {
+      "text": "hemorragia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 622,
+      "end": 632
+    },
+    {
+      "text": "anomalías vasculares obstructivas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1648,
+      "end": 1681
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 291,
+      "end": 307
+    },
+    {
+      "text": "TC de perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 323,
+      "end": 347
+    },
+    {
+      "text": "Angio-TC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 349,
+      "end": 379
+    }
+  ]
+}

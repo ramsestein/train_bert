@@ -1,0 +1,30 @@
+UO_PACN (Unidad Organizativa Médica): RADIO
+
+PRUEB (Prueba solicitada): TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANG IOTC ARTERIAL INTRACRANEAL)
+
+CLIN (Resumen clínico): Cefalea progresiva, náuseas y episodios de somnolencia. Sospecha clínica de trombosis venosa cerebral.
+
+OBSR (Protocolo): TC craneal basal sin contraste, TC perfusión cerebral y angio-TC venosa cerebral.
+
+RESL (Resultados):  
+TC CRANEAL BASAL:  
+Se evidencia hiperdensidad lineal en el seno longitudinal superior, sugestiva de trombo. No se identifican hemorragias intraparenquimatosas ni signos de infarto cortical. Edema leve perivenoso en el lóbulo frontal derecho, sin efecto masa significativo. Las estructuras de la línea media están centradas. Sistema ventricular de calibre normal.
+
+TC PERFUSIÓN:  
+Disminución focal del flujo sanguíneo cerebral (CBF) y aumento del tiempo de tránsito medio (MTT) en áreas adyacentes al seno longitudinal superior derecho, compatible con congestión venosa. La reserva de volumen cerebral (CBV) está preservada.
+
+ANGIO-TC VENOSA CEREBRAL:  
+Oclusión completa del seno longitudinal superior en su tercio anterior. Red venosa colateral prominente en hemisferio derecho. Seno transverso derecho permeable. No se observan trombosis en venas corticales superficiales ni profundas adicionales.
+
+CONCL (Conclusiones):  
+Signos radiológicos compatibles con trombosis del seno longitudinal superior, sin infarto cerebral ni hemorragia intracraneal asociada. Perfusión cerebral con alteraciones hemodinámicas focales secundarias a la trombosis. Recomendable correlación clínica y seguimiento neurológico estricto.
+
+ACTI_ADICI (Actividad adicional): Solicitar RM cerebral con secuencias venosas para evaluación detallada de extensión y parénquima adyacente.
+
+ICON (Estudio): @RADIO_TC@
+
+X00DIATXT (Texto del diagnóstico ACR): Tromboembolismo en seno longitudinal superior con cambios hemodinámicos compatibles. Sin signos de hemorragia ni infarto.
+
+EST_T_DES (Descripción): TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANGIOTC ARTERIAL INTRACRANEAL)
+
+ZVASOS_D (Der.): Informe elaborado por Dr. Radiología.

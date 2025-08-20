@@ -1,0 +1,113 @@
+{
+  "document_id": "informe_sintetico_20250804195045_23154",
+  "entities": [
+    {
+      "text": "isquemia cerebral",
+      "type": "PATOLOGIA",
+      "start": 209,
+      "end": 226
+    },
+    {
+      "text": "infarto isquémico",
+      "type": "PATOLOGIA",
+      "start": 617,
+      "end": 634
+    },
+    {
+      "text": "bilaterales",
+      "type": "LATERALIDAD",
+      "start": 460,
+      "end": 471
+    },
+    {
+      "text": "parietales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 525,
+      "end": 535
+    },
+    {
+      "text": "parieto-occipitales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 538,
+      "end": 557
+    },
+    {
+      "text": "watershed zones",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 584,
+      "end": 599
+    },
+    {
+      "text": "hipoperfusión global",
+      "type": "PATOLOGIA",
+      "start": 231,
+      "end": 251
+    },
+    {
+      "text": "sin alteraciones significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1245,
+      "end": 1276
+    },
+    {
+      "text": "sin estenosis significativa ni oclusiones",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1401,
+      "end": 1442
+    },
+    {
+      "text": "sin evidencia de estenosis significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1809,
+      "end": 1849
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 272,
+      "end": 288
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 299,
+      "end": 320
+    },
+    {
+      "text": "angioTC arterial intra y extracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 323,
+      "end": 360
+    },
+    {
+      "text": "hipoperfusión crónica",
+      "type": "PATOLOGIA",
+      "start": 1153,
+      "end": 1174
+    },
+    {
+      "text": "volumen cerebral (CBV)",
+      "type": "MEDIDA",
+      "start": 1081,
+      "end": 1103
+    },
+    {
+      "text": "reducción moderada",
+      "type": "MEDIDA",
+      "start": 1035,
+      "end": 1053
+    },
+    {
+      "text": "infartos watershed bilaterales",
+      "type": "PATOLOGIA",
+      "start": 1617,
+      "end": 1647
+    },
+    {
+      "text": "territorios de unión fronto-parietal y parieto-occipital",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1651,
+      "end": 1707
+    }
+  ]
+}

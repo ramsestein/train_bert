@@ -1,0 +1,65 @@
+{
+  "document_id": "informe_sintetico_20250804195045_16838",
+  "entities": [
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 819,
+      "end": 833
+    },
+    {
+      "text": "M1",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 637,
+      "end": 639
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "ARTERIA",
+      "start": 646,
+      "end": 678
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 669,
+      "end": 678
+    },
+    {
+      "text": "6",
+      "type": "MEDIDA",
+      "start": 188,
+      "end": 189
+    },
+    {
+      "text": "agudo",
+      "type": "TEMPORALIDAD",
+      "start": 372,
+      "end": 377
+    },
+    {
+      "text": "ASPECTS 6",
+      "type": "PUNTUACION_CLINICA",
+      "start": 723,
+      "end": 732
+    },
+    {
+      "text": "TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANG IOTC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 72,
+      "end": 140
+    },
+    {
+      "text": "No evidencias de hemorragia intracraneal ni colecciones extraaxiales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 518,
+      "end": 586
+    },
+    {
+      "text": "No hemorragia intracraneal asociada",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1978,
+      "end": 2013
+    }
+  ]
+}

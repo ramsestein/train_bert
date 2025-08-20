@@ -1,0 +1,27 @@
+UO_PACN (Unidad Organizativa Médica): RADIO
+
+PRUEB (Prueba solicitada): TC CODIGO ICTUS (PERFUSION CEREBRAL + ANG IOTC ARTERIAL INTRACRANEAL)
+
+CLIN (Resumen clínico): Paciente femenino de 68 años con inicio súbito de debilidad contralateral en miembro inferior y alteración del lenguaje. Sospecha clínica de accidente cerebrovascular isquémico en territorio de arteria cerebral anterior (ACA).
+
+OBSR (Protocolo): TC craneal basal urgente, estudio de perfusión cerebral y angiografía por TC de vasos intracraneales.
+
+RESL (Resultados):  
+- TC CRANEAL BASAL: No se identifican hemorragias intraparenquimatosas ni colecciones subdurales o epidurales. Se observa pérdida de la diferenciación cortico-subcortical en el territorio de la ACA izquierda, en región frontal medial y paracentral, sugestiva de edema citotóxico precoz. No hay desplazamiento de estructuras de la línea media ni efecto masa significativo.  
+- TC PERFUSIÓN: En mapas de perfusión cerebral se evidencia aumento del tiempo de tránsito medio (MTT) y tiempo hasta el pico (TTP) en el territorio vascular de la ACA izquierda, con descenso del flujo cerebral (CBF) y volumen cerebral (CBV) reducido en áreas frontomediales, compatible con isquemia en evolución. Presenta mismatch significativo entre reducción del CBF y volumen preservado, indicativo de área potencialmente recuperable.  
+- ANGIO-TC INTRACRANEAL: Oclusión completa en segmento proximal A2 de arteria cerebral anterior izquierda. Arterias contralaterales y resto de troncos arteriales intracraneales permeables. No se evidencian estenosis significativas ni placas ateromatosas calcificadas de relevancia en territorios explorados.
+
+CONCL (Conclusiones):  
+Hallazgos radiológicos compatibles con isquemia aguda en territorio de arteria cerebral anterior izquierda. Se observa oclusión proximal segmentaria en A2 con áreas de hipoperfusión y tejido en riesgo (penumbra) en región frontomedial izquierda sin infarto establecido evidente en TC basal. No hay hemorragias ni efecto masa compensatorio. Recomendación urgente valoración para tratamiento endovascular si procede.
+
+ACTI_ADICI (Actividad adicional):
+
+DKTXT (Descripción): TC CODIGO ICTUS (PERFUSION CEREBRAL + ANGIO-TC ARTERIAL INTRACRANEAL)
+
+ICON (Estudio): @TCICTUS@
+
+X00DIATXT (Texto del diagnóstico ACR): Isquemia aguda en territorio de arteria cerebral anterior izquierda con oclusión proximal segmentaria y extensa zona de penumbra cortical.
+
+EST_T_DES (Descripción): TC CODIGO ICTUS (PERFUSION CEREBRAL + ANGIOTC ARTERIAL INTRACRANEAL)
+
+ZVASOS_D (Der.): Oclusión proximal A2 izquierda. Arterias intracraneales permeables resto de segmentos.

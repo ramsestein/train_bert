@@ -1,0 +1,89 @@
+{
+  "document_id": "informe_sintetico_20250804195045_15404",
+  "entities": [
+    {
+      "text": "trombosis venosa cerebral",
+      "type": "PATOLOGIA",
+      "start": 272,
+      "end": 297
+    },
+    {
+      "text": "seno transverso",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 580,
+      "end": 595
+    },
+    {
+      "text": "derecho",
+      "type": "LATERALIDAD",
+      "start": 608,
+      "end": 615
+    },
+    {
+      "text": "hemorragias intra ni extraaxiales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 496,
+      "end": 529
+    },
+    {
+      "text": "infarto agudo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 730,
+      "end": 743
+    },
+    {
+      "text": "sin estenosis significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1390,
+      "end": 1418
+    },
+    {
+      "text": "sin hemorragia ni infarto agudo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2071,
+      "end": 2102
+    },
+    {
+      "text": "retraso del tiempo máximo (Tmax)",
+      "type": "PATOLOGIA",
+      "start": 919,
+      "end": 951
+    },
+    {
+      "text": "aumento del tiempo de tránsito",
+      "type": "PATOLOGIA",
+      "start": 954,
+      "end": 984
+    },
+    {
+      "text": "reducción discreta del flujo sanguíneo cerebral (CBF)",
+      "type": "PATOLOGIA",
+      "start": 1050,
+      "end": 1103
+    },
+    {
+      "text": "volumen cerebral (CBV)",
+      "type": "MEDIDA",
+      "start": 1162,
+      "end": 1184
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 345,
+      "end": 361
+    },
+    {
+      "text": "TC PERFUSIÓN",
+      "type": "TECNICA_IMAGEN",
+      "start": 892,
+      "end": 904
+    },
+    {
+      "text": "ANGIO-TC ARTERIAL Y VENOSA INTRACRANEAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 1189,
+      "end": 1228
+    }
+  ]
+}

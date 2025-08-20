@@ -1,0 +1,41 @@
+{
+  "document_id": "0000000010000000059308139_cleaned",
+  "entities": [
+    {
+      "text": "región posterior de la capsula interna derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 496,
+      "end": 542
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 535,
+      "end": 542
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 702,
+      "end": 712
+    },
+    {
+      "text": "No se observa hemorragia aguda intra ni extraaxial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 424,
+      "end": 474
+    },
+    {
+      "text": "sin signos de ateromatosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1000,
+      "end": 1026
+    },
+    {
+      "text": "sin signos de ateromatosis ni estenosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1113,
+      "end": 1152
+    }
+  ]
+}

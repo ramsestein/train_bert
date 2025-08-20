@@ -1,0 +1,131 @@
+{
+  "document_id": "informe_sintetico_20250804195045_12147",
+  "entities": [
+    {
+      "text": "accidente cerebrovascular isquémico múltiple",
+      "type": "PATOLOGIA",
+      "start": 235,
+      "end": 279
+    },
+    {
+      "text": "hipodensidad",
+      "type": "PATOLOGIA",
+      "start": 483,
+      "end": 495
+    },
+    {
+      "text": "infartos isquémicos agudos recientes",
+      "type": "PATOLOGIA",
+      "start": 694,
+      "end": 730
+    },
+    {
+      "text": "hemorragias intracraneales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 749,
+      "end": 775
+    },
+    {
+      "text": "ACM derecha",
+      "type": "ARTERIA",
+      "start": 1142,
+      "end": 1153
+    },
+    {
+      "text": "PCA izquierda",
+      "type": "ARTERIA",
+      "start": 1155,
+      "end": 1168
+    },
+    {
+      "text": "ACA derecho",
+      "type": "ARTERIA",
+      "start": 1182,
+      "end": 1193
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "ARTERIA",
+      "start": 1381,
+      "end": 1411
+    },
+    {
+      "text": "arteria cerebral anterior derecha",
+      "type": "ARTERIA",
+      "start": 1436,
+      "end": 1469
+    },
+    {
+      "text": "arteria cerebral posterior izquierda",
+      "type": "ARTERIA",
+      "start": 1490,
+      "end": 1526
+    },
+    {
+      "text": "estenosis significativa (>70%)",
+      "type": "PATOLOGIA",
+      "start": 1552,
+      "end": 1582
+    },
+    {
+      "text": "carotida interna izquierda",
+      "type": "ARTERIA",
+      "start": 1586,
+      "end": 1612
+    },
+    {
+      "text": "tronco braquiocefálico",
+      "type": "ARTERIA",
+      "start": 1679,
+      "end": 1701
+    },
+    {
+      "text": "arterias vertebrales",
+      "type": "ARTERIA",
+      "start": 1704,
+      "end": 1724
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2110,
+      "end": 2133
+    },
+    {
+      "text": "penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1272,
+      "end": 1290
+    },
+    {
+      "text": "Isquemia cerebral aguda multiterritorial",
+      "type": "PATOLOGIA",
+      "start": 2424,
+      "end": 2464
+    },
+    {
+      "text": "sin hemorragia asociada",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2541,
+      "end": 2564
+    },
+    {
+      "text": "TC cerebral sin contraste",
+      "type": "TECNICA_IMAGEN",
+      "start": 300,
+      "end": 325
+    },
+    {
+      "text": "estudio de perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 327,
+      "end": 356
+    },
+    {
+      "text": "angioTC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 360,
+      "end": 389
+    }
+  ]
+}

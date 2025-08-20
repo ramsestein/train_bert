@@ -1,0 +1,95 @@
+{
+  "document_id": "informe_sintetico_20250804195045_16797",
+  "entities": [
+    {
+      "text": "contusión hemorrágica traumática",
+      "type": "PATOLOGIA",
+      "start": 640,
+      "end": 672
+    },
+    {
+      "text": "lóbulo temporal derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 599,
+      "end": 622
+    },
+    {
+      "text": "12 mm",
+      "type": "MEDIDA",
+      "start": 717,
+      "end": 722
+    },
+    {
+      "text": "edema perilesional",
+      "type": "PATOLOGIA",
+      "start": 748,
+      "end": 766
+    },
+    {
+      "text": "mínimo efecto masa",
+      "type": "PATOLOGIA",
+      "start": 1803,
+      "end": 1821
+    },
+    {
+      "text": "desviación de línea media",
+      "type": "PATOLOGIA",
+      "start": 1824,
+      "end": 1849
+    },
+    {
+      "text": "No se visualizan hematomas subdurales ni epidurales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 840,
+      "end": 891
+    },
+    {
+      "text": "No hay fracturas visibles en el estudio",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 893,
+      "end": 932
+    },
+    {
+      "text": "sin alteraciones significativas en los mapas de volumen cerebral (CBV) ni flujo cerebral (CBF)",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1284,
+      "end": 1378
+    },
+    {
+      "text": "No se identifican áreas de isquemia ni penumbra",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1380,
+      "end": 1427
+    },
+    {
+      "text": "Arterias intracraneales permeables",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1465,
+      "end": 1499
+    },
+    {
+      "text": "sin estenosis ni trombosis visibles",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1500,
+      "end": 1535
+    },
+    {
+      "text": "sin alteraciones hemodinámicas relevantes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1988,
+      "end": 2029
+    },
+    {
+      "text": "TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANG IOTC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 72,
+      "end": 140
+    },
+    {
+      "text": "TC CÓDIGO ICTUS (BASAL + PERFUSIÓN CEREBRAL + ANGIO-TC INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 405,
+      "end": 473
+    }
+  ]
+}

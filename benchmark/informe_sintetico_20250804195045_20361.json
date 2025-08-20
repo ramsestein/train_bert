@@ -1,0 +1,95 @@
+{
+  "document_id": "informe_sintetico_20250804195045_20361",
+  "entities": [
+    {
+      "text": "hemorragia intra ni extraaxial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 575,
+      "end": 605
+    },
+    {
+      "text": "infarto establecido",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 718,
+      "end": 737
+    },
+    {
+      "text": "disminución del flujo cerebral sanguíneo (CBF)",
+      "type": "PATOLOGIA",
+      "start": 937,
+      "end": 983
+    },
+    {
+      "text": "aumento del tiempo de tránsito (TTP)",
+      "type": "PATOLOGIA",
+      "start": 986,
+      "end": 1022
+    },
+    {
+      "text": "regiones watershed",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1125,
+      "end": 1143
+    },
+    {
+      "text": "arterias cerebrales anterior y media",
+      "type": "ARTERIA",
+      "start": 1200,
+      "end": 1236
+    },
+    {
+      "text": "volumen cerebral sanguíneo (CBV)",
+      "type": "MEDIDA",
+      "start": 399,
+      "end": 431
+    },
+    {
+      "text": "isquémico en riesgo pero no infartado",
+      "type": "PATOLOGIA",
+      "start": 1320,
+      "end": 1357
+    },
+    {
+      "text": "defectos de perfusión en territorios arteriales principales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1397,
+      "end": 1456
+    },
+    {
+      "text": "estenosis ni defectos de relleno evidentes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1544,
+      "end": 1586
+    },
+    {
+      "text": "trombosis ni embolias",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1605,
+      "end": 1626
+    },
+    {
+      "text": "infarto en zonas watershed frontoparietales bilaterales",
+      "type": "PATOLOGIA",
+      "start": 1741,
+      "end": 1796
+    },
+    {
+      "text": "hipoperfusión cortical subcortical",
+      "type": "PATOLOGIA",
+      "start": 1817,
+      "end": 1851
+    },
+    {
+      "text": "estado de hipoperfusión cerebral con posible riesgo de evolución isquémica",
+      "type": "PATOLOGIA",
+      "start": 2083,
+      "end": 2157
+    },
+    {
+      "text": "TC PERFUSIÓN CEREBRAL + ANGIO-TC ARTERIAL INTRACRANEAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 2217,
+      "end": 2271
+    }
+  ]
+}

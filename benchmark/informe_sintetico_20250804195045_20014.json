@@ -1,0 +1,251 @@
+{
+  "document_id": "informe_sintetico_20250804195045_20014",
+  "entities": [
+    {
+      "text": "ictus isquémico",
+      "type": "PATOLOGIA",
+      "start": 208,
+      "end": 223
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 244,
+      "end": 276
+    },
+    {
+      "text": "trombólisis intravenosa",
+      "type": "PATOLOGIA",
+      "start": 290,
+      "end": 313
+    },
+    {
+      "text": "déficit motor en hemicuerpo derecho",
+      "type": "PATOLOGIA",
+      "start": 379,
+      "end": 414
+    },
+    {
+      "text": "TC craneal urgente",
+      "type": "TECNICA_IMAGEN",
+      "start": 435,
+      "end": 453
+    },
+    {
+      "text": "cortes axiales basales",
+      "type": "TECNICA_IMAGEN",
+      "start": 458,
+      "end": 480
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 482,
+      "end": 503
+    },
+    {
+      "text": "angio-TC extracraneal e intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 506,
+      "end": 542
+    },
+    {
+      "text": "transformación hemorrágica tipo HI1",
+      "type": "PATOLOGIA",
+      "start": 824,
+      "end": 859
+    },
+    {
+      "text": "infarto isquémico",
+      "type": "PATOLOGIA",
+      "start": 1005,
+      "end": 1022
+    },
+    {
+      "text": "corteza y sustancia blanca de la región frontoparietal izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1033,
+      "end": 1097
+    },
+    {
+      "text": "hematomas intraparenquimatosos extensos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1117,
+      "end": 1156
+    },
+    {
+      "text": "hemorragias subaracnoideas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1160,
+      "end": 1186
+    },
+    {
+      "text": "intraventriculares asociadas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1190,
+      "end": 1218
+    },
+    {
+      "text": "signos de herniación",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1308,
+      "end": 1328
+    },
+    {
+      "text": "edema significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1331,
+      "end": 1350
+    },
+    {
+      "text": "Área de hipoperfusión",
+      "type": "PATOLOGIA",
+      "start": 1366,
+      "end": 1387
+    },
+    {
+      "text": "territorio de ACM izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1391,
+      "end": 1418
+    },
+    {
+      "text": "infarto evolucionado",
+      "type": "PATOLOGIA",
+      "start": 1492,
+      "end": 1512
+    },
+    {
+      "text": "nueva perfusión alterada",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1534,
+      "end": 1558
+    },
+    {
+      "text": "déficit hemodinámico en territorios adyacentes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1562,
+      "end": 1608
+    },
+    {
+      "text": "Arco aórtico y troncos supraaórticos",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1641,
+      "end": 1677
+    },
+    {
+      "text": "estenosis relevantes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1682,
+      "end": 1702
+    },
+    {
+      "text": "placas ateromatosas ostentosas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1706,
+      "end": 1736
+    },
+    {
+      "text": "calibre conservado de ACM, ACA y ACP izquierdas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1789,
+      "end": 1836
+    },
+    {
+      "text": "Sistema vertebrobasilar",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1838,
+      "end": 1861
+    },
+    {
+      "text": "sin alteraciones",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1862,
+      "end": 1878
+    },
+    {
+      "text": "signos de trombosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1895,
+      "end": 1914
+    },
+    {
+      "text": "estenosis crítica",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1917,
+      "end": 1934
+    },
+    {
+      "text": "Transformación hemorrágica tipo HI1",
+      "type": "PATOLOGIA",
+      "start": 1960,
+      "end": 1995
+    },
+    {
+      "text": "infarto isquémico reciente",
+      "type": "PATOLOGIA",
+      "start": 2013,
+      "end": 2039
+    },
+    {
+      "text": "hematoma significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2081,
+      "end": 2103
+    },
+    {
+      "text": "efecto de masa asociado",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2107,
+      "end": 2130
+    },
+    {
+      "text": "expansión hemorrágica mayor",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2175,
+      "end": 2202
+    },
+    {
+      "text": "Circulación arterial intracraneal y supraórtica",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 2204,
+      "end": 2251
+    },
+    {
+      "text": "estenosis relevantes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1682,
+      "end": 1702
+    },
+    {
+      "text": "evidencia de vasoespasmo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2281,
+      "end": 2305
+    },
+    {
+      "text": "complicaciones adicionales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2309,
+      "end": 2335
+    },
+    {
+      "text": "Transformación hemorrágica tipo HI1",
+      "type": "PATOLOGIA",
+      "start": 1960,
+      "end": 1995
+    },
+    {
+      "text": "infarto cerebral agudo",
+      "type": "PATOLOGIA",
+      "start": 2554,
+      "end": 2576
+    },
+    {
+      "text": "territorio ACM izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 2580,
+      "end": 2604
+    }
+  ]
+}

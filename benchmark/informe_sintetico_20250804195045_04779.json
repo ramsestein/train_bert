@@ -1,0 +1,113 @@
+{
+  "document_id": "informe_sintetico_20250804195045_04779",
+  "entities": [
+    {
+      "text": "infarto",
+      "type": "PATOLOGIA",
+      "start": 257,
+      "end": 264
+    },
+    {
+      "text": "hipoperfusión",
+      "type": "PATOLOGIA",
+      "start": 269,
+      "end": 282
+    },
+    {
+      "text": "áreas discretas de hipodensidad cortical y subcortical",
+      "type": "PATOLOGIA",
+      "start": 724,
+      "end": 778
+    },
+    {
+      "text": "daño isquémico agudo",
+      "type": "PATOLOGIA",
+      "start": 913,
+      "end": 933
+    },
+    {
+      "text": "infarto watershed",
+      "type": "PATOLOGIA",
+      "start": 1393,
+      "end": 1410
+    },
+    {
+      "text": "hemisferio izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1290,
+      "end": 1310
+    },
+    {
+      "text": "regiones frontoparietales bilaterales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 782,
+      "end": 819
+    },
+    {
+      "text": "bilaterales",
+      "type": "LATERALIDAD",
+      "start": 808,
+      "end": 819
+    },
+    {
+      "text": "sin hemorragia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1933,
+      "end": 1947
+    },
+    {
+      "text": "sin estenosis hemodinámicamente significativas (>50%)",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1655,
+      "end": 1708
+    },
+    {
+      "text": "sin oclusiones ni estenosis relevantes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1813,
+      "end": 1851
+    },
+    {
+      "text": "sin alteraciones",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1744,
+      "end": 1760
+    },
+    {
+      "text": "retraso en TTP",
+      "type": "MEDIDA",
+      "start": 2112,
+      "end": 2126
+    },
+    {
+      "text": "disminución de CBF",
+      "type": "MEDIDA",
+      "start": 2129,
+      "end": 2147
+    },
+    {
+      "text": "preservación de CBV",
+      "type": "MEDIDA",
+      "start": 2152,
+      "end": 2171
+    },
+    {
+      "text": "TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANG IOTC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 72,
+      "end": 140
+    },
+    {
+      "text": "TC Código Ictus completo",
+      "type": "TECNICA_IMAGEN",
+      "start": 319,
+      "end": 343
+    },
+    {
+      "text": "AngioTC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 489,
+      "end": 518
+    }
+  ]
+}

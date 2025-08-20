@@ -1,0 +1,107 @@
+{
+  "document_id": "informe_sintetico_20250804195045_19702",
+  "entities": [
+    {
+      "text": "infarto agudo",
+      "type": "PATOLOGIA",
+      "start": 473,
+      "end": 486
+    },
+    {
+      "text": "hidrocefalia",
+      "type": "PATOLOGIA",
+      "start": 625,
+      "end": 637
+    },
+    {
+      "text": "hemorragias intra ni extraaxiales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 675,
+      "end": 708
+    },
+    {
+      "text": "alteraciones en los mapas de tiempo de tránsito cerebral (TTP)",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 822,
+      "end": 884
+    },
+    {
+      "text": "volumen cerebral sanguíneo (CBV)",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 886,
+      "end": 918
+    },
+    {
+      "text": "flujo cerebral sanguíneo (CBF)",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 922,
+      "end": 952
+    },
+    {
+      "text": "permeabilidad completa de las arterias cerebrales intracraneales y extracraneales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 980,
+      "end": 1061
+    },
+    {
+      "text": "estenosis",
+      "type": "PATOLOGIA",
+      "start": 1079,
+      "end": 1088
+    },
+    {
+      "text": "oclusión",
+      "type": "PATOLOGIA",
+      "start": 1090,
+      "end": 1098
+    },
+    {
+      "text": "aneurismas",
+      "type": "PATOLOGIA",
+      "start": 1101,
+      "end": 1111
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 1113,
+      "end": 1123
+    },
+    {
+      "text": "hallazgos agudos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1164,
+      "end": 1180
+    },
+    {
+      "text": "isquemia",
+      "type": "PATOLOGIA",
+      "start": 1198,
+      "end": 1206
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "PATOLOGIA",
+      "start": 1209,
+      "end": 1232
+    },
+    {
+      "text": "Perfusión cerebral y angiografía arterial intracraneal normales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1234,
+      "end": 1297
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 1113,
+      "end": 1123
+    },
+    {
+      "text": "TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANGIOTC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 1437,
+      "end": 1504
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "document_id": "informe_sintetico_20250804195045_00820",
+  "entities": [
+    {
+      "text": "isquemia cerebral",
+      "type": "PATOLOGIA",
+      "start": 267,
+      "end": 284
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "TEMPORALIDAD",
+      "start": 710,
+      "end": 724
+    },
+    {
+      "text": "discreta hipodensidad cortical",
+      "type": "PATOLOGIA",
+      "start": 618,
+      "end": 648
+    },
+    {
+      "text": "región frontoparietal derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 655,
+      "end": 684
+    },
+    {
+      "text": "ASPECTS 9",
+      "type": "PUNTUACION_CLINICA",
+      "start": 726,
+      "end": 735
+    },
+    {
+      "text": "tiempo de tránsito medio (MTT)",
+      "type": "MEDIDA",
+      "start": 885,
+      "end": 915
+    },
+    {
+      "text": "tiempo hasta el pico (TTP)",
+      "type": "MEDIDA",
+      "start": 918,
+      "end": 944
+    },
+    {
+      "text": "arteria cerebral media",
+      "type": "ARTERIA",
+      "start": 980,
+      "end": 1002
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 677,
+      "end": 684
+    },
+    {
+      "text": "segmento M2",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1203,
+      "end": 1214
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "ARTERIA",
+      "start": 1221,
+      "end": 1251
+    },
+    {
+      "text": "Oclusión parcial",
+      "type": "PATOLOGIA",
+      "start": 1182,
+      "end": 1198
+    },
+    {
+      "text": "sin evidencia de hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1585,
+      "end": 1625
+    },
+    {
+      "text": "sin estenosis significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1864,
+      "end": 1891
+    }
+  ]
+}

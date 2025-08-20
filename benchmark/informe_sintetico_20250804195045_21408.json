@@ -1,0 +1,301 @@
+{
+  "document_id": "informe_sintetico_20250804195045_21408",
+  "entities": [
+    {
+      "text": "isquemia aguda multiterritorial",
+      "type": "PATOLOGIA",
+      "start": 254,
+      "end": 285
+    },
+    {
+      "text": "déficit neurológico focal multifocal",
+      "type": "PATOLOGIA",
+      "start": 196,
+      "end": 232
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 523,
+      "end": 546
+    },
+    {
+      "text": "áreas hipodensas",
+      "type": "PATOLOGIA",
+      "start": 563,
+      "end": 579
+    },
+    {
+      "text": "territorios cerebrales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 593,
+      "end": 615
+    },
+    {
+      "text": "cortical",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 632,
+      "end": 640
+    },
+    {
+      "text": "subcortical",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 643,
+      "end": 654
+    },
+    {
+      "text": "territorios frontoparietal derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 658,
+      "end": 692
+    },
+    {
+      "text": "parietal izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 694,
+      "end": 712
+    },
+    {
+      "text": "territorio cerebeloso izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 715,
+      "end": 746
+    },
+    {
+      "text": "ASPECTS",
+      "type": "PUNTUACION_CLINICA",
+      "start": 778,
+      "end": 785
+    },
+    {
+      "text": "6",
+      "type": "MEDIDA",
+      "start": 800,
+      "end": 801
+    },
+    {
+      "text": "edema significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 900,
+      "end": 919
+    },
+    {
+      "text": "efecto de masa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 923,
+      "end": 937
+    },
+    {
+      "text": "flujo cerebral (CBF)",
+      "type": "PATOLOGIA",
+      "start": 984,
+      "end": 1004
+    },
+    {
+      "text": "tiempo de tránsito medio (MTT)",
+      "type": "PATOLOGIA",
+      "start": 1019,
+      "end": 1049
+    },
+    {
+      "text": "territorios superficiales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1063,
+      "end": 1088
+    },
+    {
+      "text": "territorios MCA bilateral",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1090,
+      "end": 1115
+    },
+    {
+      "text": "ACA izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1117,
+      "end": 1130
+    },
+    {
+      "text": "cerebelar",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1133,
+      "end": 1142
+    },
+    {
+      "text": "volumen cerebral (CBV)",
+      "type": "PATOLOGIA",
+      "start": 1174,
+      "end": 1196
+    },
+    {
+      "text": "mismatch importante",
+      "type": "PATOLOGIA",
+      "start": 1211,
+      "end": 1230
+    },
+    {
+      "text": "Oclusión trombótica completa",
+      "type": "PATOLOGIA",
+      "start": 1303,
+      "end": 1331
+    },
+    {
+      "text": "segmento M1 derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1336,
+      "end": 1355
+    },
+    {
+      "text": "segmento proximal de la arteria cerebral media izquierda (M1)",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1358,
+      "end": 1419
+    },
+    {
+      "text": "Estenosis severa (>80%)",
+      "type": "PATOLOGIA",
+      "start": 1421,
+      "end": 1444
+    },
+    {
+      "text": "segmento A2 izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1451,
+      "end": 1472
+    },
+    {
+      "text": "ramas cerebelares posteriores izquierdas",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1523,
+      "end": 1563
+    },
+    {
+      "text": "carótidas internas",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1571,
+      "end": 1589
+    },
+    {
+      "text": "segmentos cervicales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1604,
+      "end": 1624
+    },
+    {
+      "text": "aneurismas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1641,
+      "end": 1651
+    },
+    {
+      "text": "malformaciones vasculares",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1655,
+      "end": 1680
+    },
+    {
+      "text": "flujo disminuido en arteria vertebral izquierda",
+      "type": "PATOLOGIA",
+      "start": 1710,
+      "end": 1757
+    },
+    {
+      "text": "Isquemia aguda multiterritorial",
+      "type": "PATOLOGIA",
+      "start": 1808,
+      "end": 1839
+    },
+    {
+      "text": "territorios MCA bilateral",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1090,
+      "end": 1115
+    },
+    {
+      "text": "ACA izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1117,
+      "end": 1130
+    },
+    {
+      "text": "región cerebelosa izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1909,
+      "end": 1936
+    },
+    {
+      "text": "áreas de mismatched en perfusión",
+      "type": "PATOLOGIA",
+      "start": 1942,
+      "end": 1974
+    },
+    {
+      "text": "tejido cerebral en riesgo",
+      "type": "PATOLOGIA",
+      "start": 1987,
+      "end": 2012
+    },
+    {
+      "text": "potencialmente salvable",
+      "type": "PATOLOGIA",
+      "start": 2018,
+      "end": 2041
+    },
+    {
+      "text": "Oclusión completa en segmentos M1 de ACM derecha",
+      "type": "PATOLOGIA",
+      "start": 2043,
+      "end": 2091
+    },
+    {
+      "text": "proximal de ACM izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 2094,
+      "end": 2119
+    },
+    {
+      "text": "estenosis crítica en A2 izquierda",
+      "type": "PATOLOGIA",
+      "start": 2130,
+      "end": 2163
+    },
+    {
+      "text": "fenómeno embólico o trombótico multifocal",
+      "type": "PATOLOGIA",
+      "start": 2191,
+      "end": 2232
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 523,
+      "end": 546
+    },
+    {
+      "text": "edema con efecto de masa significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2288,
+      "end": 2326
+    },
+    {
+      "text": "valoración urgente por neurología",
+      "type": "PATOLOGIA",
+      "start": 2394,
+      "end": 2427
+    },
+    {
+      "text": "tratamiento endovascular",
+      "type": "PATOLOGIA",
+      "start": 2441,
+      "end": 2465
+    },
+    {
+      "text": "seguimiento clínico-radiológico",
+      "type": "PATOLOGIA",
+      "start": 2468,
+      "end": 2499
+    }
+  ],
+  "regenerado": true,
+  "fecha_regeneracion": "2025-08-06T13:25:15.984906"
+}

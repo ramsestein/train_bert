@@ -1,0 +1,125 @@
+{
+  "document_id": "informe_sintetico_20250804195045_14601",
+  "entities": [
+    {
+      "text": "hemorragia intraventricular primaria",
+      "type": "PATOLOGIA",
+      "start": 426,
+      "end": 462
+    },
+    {
+      "text": "ventrículos laterales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 480,
+      "end": 501
+    },
+    {
+      "text": "tercer y cuarto ventrículo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 503,
+      "end": 529
+    },
+    {
+      "text": "hematoma parenquimatoso",
+      "type": "PATOLOGIA",
+      "start": 587,
+      "end": 610
+    },
+    {
+      "text": "hidrocefalia obstructiva secundaria",
+      "type": "PATOLOGIA",
+      "start": 786,
+      "end": 821
+    },
+    {
+      "text": "infarto",
+      "type": "PATOLOGIA",
+      "start": 909,
+      "end": 916
+    },
+    {
+      "text": "isquemia",
+      "type": "PATOLOGIA",
+      "start": 1037,
+      "end": 1045
+    },
+    {
+      "text": "trombosis",
+      "type": "PATOLOGIA",
+      "start": 1255,
+      "end": 1264
+    },
+    {
+      "text": "oclusiones",
+      "type": "PATOLOGIA",
+      "start": 1267,
+      "end": 1277
+    },
+    {
+      "text": "malformaciones vasculares",
+      "type": "PATOLOGIA",
+      "start": 1297,
+      "end": 1322
+    },
+    {
+      "text": "aneurismas",
+      "type": "PATOLOGIA",
+      "start": 1324,
+      "end": 1334
+    },
+    {
+      "text": "vasculitis",
+      "type": "PATOLOGIA",
+      "start": 1348,
+      "end": 1358
+    },
+    {
+      "text": "sin evidencia de hematoma parenquimatoso",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 570,
+      "end": 610
+    },
+    {
+      "text": "sin signos de desplazamiento",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 852,
+      "end": 880
+    },
+    {
+      "text": "sin evidencia de trombosis u oclusiones",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1238,
+      "end": 1277
+    },
+    {
+      "text": "sin alteraciones estenóticas destacables",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1383,
+      "end": 1423
+    },
+    {
+      "text": "sin foco hemorrágico parenquimatoso identificable",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1485,
+      "end": 1534
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 285,
+      "end": 301
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 317,
+      "end": 338
+    },
+    {
+      "text": "angio-TC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 341,
+      "end": 371
+    }
+  ]
+}

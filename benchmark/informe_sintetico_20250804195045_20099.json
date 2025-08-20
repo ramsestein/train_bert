@@ -1,0 +1,107 @@
+{
+  "document_id": "informe_sintetico_20250804195045_20099",
+  "entities": [
+    {
+      "text": "patología aguda intracraneal",
+      "type": "PATOLOGIA",
+      "start": 243,
+      "end": 271
+    },
+    {
+      "text": "hemorragia intra o extraaxial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 485,
+      "end": 514
+    },
+    {
+      "text": "infarto agudo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 537,
+      "end": 550
+    },
+    {
+      "text": "isquemia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 597,
+      "end": 605
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 657,
+      "end": 667
+    },
+    {
+      "text": "cambios crónicos mínimos compatibles con esclerosis periventricular leve sin repercusión significativa",
+      "type": "PATOLOGIA",
+      "start": 819,
+      "end": 921
+    },
+    {
+      "text": "Parámetros de perfusión cerebral (TTP, CBF, CBV) dentro de límites normales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 938,
+      "end": 1013
+    },
+    {
+      "text": "sin zonas de hipoperfusión ni alteraciones hemodinámicas focales o difusas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1015,
+      "end": 1089
+    },
+    {
+      "text": "Arterias principales (carótidas internas, vertebrales, cerebrales anterior, media y posterior) permeables y sin signos de estenosis, oclusión o cambios morfológicos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1124,
+      "end": 1288
+    },
+    {
+      "text": "No se observan malformaciones vasculares ni aneurismas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1290,
+      "end": 1344
+    },
+    {
+      "text": "sin evidencia de placas o estenosis significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1382,
+      "end": 1432
+    },
+    {
+      "text": "TC craneal sin hallazgos agudos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1457,
+      "end": 1488
+    },
+    {
+      "text": "signos de hemorragia, isquemia ni vasoespasmo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1508,
+      "end": 1553
+    },
+    {
+      "text": "Perfusión cerebral normal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1555,
+      "end": 1580
+    },
+    {
+      "text": "Angiotc arterial intracraneal sin alteraciones hemodinámicas ni estructurales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1582,
+      "end": 1659
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 657,
+      "end": 667
+    },
+    {
+      "text": "TC craneal urgente con técnica multimodal que incluye estudio basal, perfusión cerebral y angiografía TC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 292,
+      "end": 418
+    }
+  ]
+}

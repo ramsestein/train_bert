@@ -1,0 +1,119 @@
+{
+  "document_id": "informe_sintetico_20250804195045_16147",
+  "entities": [
+    {
+      "text": "infarto cerebral",
+      "type": "PATOLOGIA",
+      "start": 252,
+      "end": 268
+    },
+    {
+      "text": "hipoperfusión",
+      "type": "PATOLOGIA",
+      "start": 273,
+      "end": 286
+    },
+    {
+      "text": "hipodensidad cortical y subcortical",
+      "type": "PATOLOGIA",
+      "start": 645,
+      "end": 680
+    },
+    {
+      "text": "regiones frontoparietales bilaterales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 684,
+      "end": 721
+    },
+    {
+      "text": "arteria cerebral media",
+      "type": "ARTERIA",
+      "start": 791,
+      "end": 813
+    },
+    {
+      "text": "arteria cerebral anterior",
+      "type": "ARTERIA",
+      "start": 816,
+      "end": 841
+    },
+    {
+      "text": "infarto tipo watershed",
+      "type": "PATOLOGIA",
+      "start": 868,
+      "end": 890
+    },
+    {
+      "text": "bilaterales",
+      "type": "LATERALIDAD",
+      "start": 710,
+      "end": 721
+    },
+    {
+      "text": "disminución marcada del volumen cerebral sanguíneo (CBV)",
+      "type": "PATOLOGIA",
+      "start": 1106,
+      "end": 1162
+    },
+    {
+      "text": "flujo cerebral sanguíneo (CBF)",
+      "type": "PATOLOGIA",
+      "start": 1169,
+      "end": 1199
+    },
+    {
+      "text": "territorios watershed frontoparietales bilaterales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1207,
+      "end": 1257
+    },
+    {
+      "text": "estenosis moderada bilateral de arteria carótida interna cervical",
+      "type": "PATOLOGIA",
+      "start": 1446,
+      "end": 1511
+    },
+    {
+      "text": "sin oclusión completa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1513,
+      "end": 1534
+    },
+    {
+      "text": "sin estenosis significativa intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1601,
+      "end": 1641
+    },
+    {
+      "text": "compromiso hemodinámico",
+      "type": "PATOLOGIA",
+      "start": 2011,
+      "end": 2034
+    },
+    {
+      "text": "zonas limítrofes entre territorios vasculares",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 2042,
+      "end": 2087
+    },
+    {
+      "text": "TC craneal basal urgente",
+      "type": "TECNICA_IMAGEN",
+      "start": 307,
+      "end": 331
+    },
+    {
+      "text": "estudio de perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 336,
+      "end": 365
+    },
+    {
+      "text": "angio-TC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 368,
+      "end": 398
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "document_id": "informe_sintetico_20250804195045_24690",
+  "entities": [
+    {
+      "text": "edema vasogénico",
+      "type": "PATOLOGIA",
+      "start": 711,
+      "end": 727
+    },
+    {
+      "text": "regiones parietooccipitales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 620,
+      "end": 647
+    },
+    {
+      "text": "bilateral",
+      "type": "LATERALIDAD",
+      "start": 595,
+      "end": 604
+    },
+    {
+      "text": "tiempo de tránsito medio (TTP)",
+      "type": "MEDIDA",
+      "start": 909,
+      "end": 939
+    },
+    {
+      "text": "tiempo hasta el pico (Tmax)",
+      "type": "MEDIDA",
+      "start": 942,
+      "end": 969
+    },
+    {
+      "text": "volumen cerebral sanguíneo (CBV)",
+      "type": "MEDIDA",
+      "start": 1035,
+      "end": 1067
+    },
+    {
+      "text": "flujo cerebral sanguíneo (CBF)",
+      "type": "MEDIDA",
+      "start": 1070,
+      "end": 1100
+    },
+    {
+      "text": "Leucoencefalopatía Posterior Reversible (PRES)",
+      "type": "PATOLOGIA",
+      "start": 1472,
+      "end": 1518
+    },
+    {
+      "text": "sin signos de lesión isquémica ni hemorragia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1595,
+      "end": 1639
+    },
+    {
+      "text": "angiografía por TC",
+      "type": "TECNICA_IMAGEN",
+      "start": 350,
+      "end": 368
+    }
+  ]
+}

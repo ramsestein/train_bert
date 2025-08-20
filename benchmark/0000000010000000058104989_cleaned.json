@@ -1,0 +1,71 @@
+{
+  "document_id": "0000000010000000058104989_cleaned",
+  "entities": [
+    {
+      "text": "infarto reciente",
+      "type": "PATOLOGIA",
+      "start": 654,
+      "end": 670
+    },
+    {
+      "text": "subagudo",
+      "type": "TEMPORALIDAD",
+      "start": 672,
+      "end": 680
+    },
+    {
+      "text": "ACM izquierda",
+      "type": "ARTERIA",
+      "start": 709,
+      "end": 722
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 602,
+      "end": 611
+    },
+    {
+      "text": "No se observa hemorragia intra ni extraaxial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 449,
+      "end": 493
+    },
+    {
+      "text": "No se observan otras lesiones isquémicas parenquimatosas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 724,
+      "end": 780
+    },
+    {
+      "text": "lesión isquémica",
+      "type": "PATOLOGIA",
+      "start": 1227,
+      "end": 1243
+    },
+    {
+      "text": "ACMs",
+      "type": "ARTERIA",
+      "start": 1797,
+      "end": 1801
+    },
+    {
+      "text": "ACAs",
+      "type": "ARTERIA",
+      "start": 1791,
+      "end": 1795
+    },
+    {
+      "text": "ACPs",
+      "type": "ARTERIA",
+      "start": 1804,
+      "end": 1808
+    },
+    {
+      "text": "bilateral",
+      "type": "LATERALIDAD",
+      "start": 1892,
+      "end": 1901
+    }
+  ]
+}

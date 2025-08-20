@@ -1,0 +1,167 @@
+{
+  "document_id": "informe_sintetico_20250804195045_03064",
+  "entities": [
+    {
+      "text": "infarto cerebral",
+      "type": "PATOLOGIA",
+      "start": 224,
+      "end": 240
+    },
+    {
+      "text": "hipoperfusión",
+      "type": "PATOLOGIA",
+      "start": 245,
+      "end": 258
+    },
+    {
+      "text": "hemicuerpo izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 190,
+      "end": 210
+    },
+    {
+      "text": "hipodensidad bilateral",
+      "type": "PATOLOGIA",
+      "start": 512,
+      "end": 534
+    },
+    {
+      "text": "regiones corticales frontoparietales y occipitales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 538,
+      "end": 588
+    },
+    {
+      "text": "supracoronales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 612,
+      "end": 626
+    },
+    {
+      "text": "ASPECTS 9",
+      "type": "PUNTUACION_CLINICA",
+      "start": 721,
+      "end": 730
+    },
+    {
+      "text": "infarto establecido de gran tamaño",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 749,
+      "end": 783
+    },
+    {
+      "text": "microangiopatía crónica",
+      "type": "PATOLOGIA",
+      "start": 905,
+      "end": 928
+    },
+    {
+      "text": "hipoperfusión",
+      "type": "PATOLOGIA",
+      "start": 245,
+      "end": 258
+    },
+    {
+      "text": "zonas watershed",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1143,
+      "end": 1158
+    },
+    {
+      "text": "Flujo cerebral y volumen sanguíneo disminuidos",
+      "type": "PATOLOGIA",
+      "start": 1160,
+      "end": 1206
+    },
+    {
+      "text": "ausencia de evidencia de tejido infartado consolidado",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1237,
+      "end": 1290
+    },
+    {
+      "text": "mismatch favoreciendo área de penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1304,
+      "end": 1352
+    },
+    {
+      "text": "ateromatosis calcificada difusa",
+      "type": "PATOLOGIA",
+      "start": 1403,
+      "end": 1434
+    },
+    {
+      "text": "Placas ateromatosas calcificadas en bifurcaciones carotídeas",
+      "type": "PATOLOGIA",
+      "start": 1436,
+      "end": 1496
+    },
+    {
+      "text": "estenosis significativa (<50%)",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1501,
+      "end": 1531
+    },
+    {
+      "text": "Arterias vertebrales permeables con placas de ateroma no obstructivas",
+      "type": "PATOLOGIA",
+      "start": 1533,
+      "end": 1602
+    },
+    {
+      "text": "Carótidas internas y principales ramas intracraneales (ACAs, ACMs, ACPs)",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1604,
+      "end": 1676
+    },
+    {
+      "text": "permeables y sin defectos de repleción",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1677,
+      "end": 1715
+    },
+    {
+      "text": "infarto en zonas watershed bilaterales frontoparietales y parietooccipitales",
+      "type": "PATOLOGIA",
+      "start": 1839,
+      "end": 1915
+    },
+    {
+      "text": "hipoperfusión secundaria a compromiso hemodinámico",
+      "type": "PATOLOGIA",
+      "start": 1933,
+      "end": 1983
+    },
+    {
+      "text": "infarto consolidado ni hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2002,
+      "end": 2048
+    },
+    {
+      "text": "estenosis arteriales significativas ni lesiones oclusivas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2062,
+      "end": 2119
+    },
+    {
+      "text": "penumbra isquémica susceptible de tratamiento",
+      "type": "PATOLOGIA",
+      "start": 2129,
+      "end": 2174
+    },
+    {
+      "text": "TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANGIOTC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 2424,
+      "end": 2491
+    },
+    {
+      "text": "TC craneal basal urgente + perfusión cerebral + angioTC de arterias intracraneales y extracraneales",
+      "type": "TECNICA_IMAGEN",
+      "start": 279,
+      "end": 378
+    }
+  ]
+}

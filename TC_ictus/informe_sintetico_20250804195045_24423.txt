@@ -1,0 +1,30 @@
+UO_PACN (Unidad Organizativa Médica): RADIO
+
+PRUEB (Prueba solicitada): TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANG IOTC ARTERIAL INTRACRANEAL)
+
+CLIN (Resumen clínico): Paciente con cuadro súbito de hemiparesia derecha y afasia; sospecha de evento isquémico agudo.
+
+OBSR (Protocolo): TC craneal basal urgente sin contraste, seguido de perfusión cerebral con contraste intravenoso y Angio-TC arterial intracraneal para evaluación vascular detallada.
+
+RESL (Resultados):  
+TC CRANEAL BASAL:  
+Se evidencia área hipodensa en territorio vascular de la arteria cerebral media izquierda, que afecta la corteza insular, núcleo lenticular y región opercular, con pérdida parcial de la diferenciación cortico-subcortical (ASPECTS 6), compatible con infarto isquémico en fase aguda. No se identifican hemorragias intra o extraaxiales ni signos de hemorragia secundaria. Edema cerebral leve asociado sin desplazamiento de la línea media. Cisternas basales libres.
+
+TC PERFUSIÓN:  
+Mapas de perfusión muestran aumento del tiempo de tránsito medio (TTP) y reducción significativa del flujo sanguíneo cerebral (CBF) en el territorio de la ACM izquierda, con preservación del volumen cerebral (CBV) en algunas áreas, indicando zona extensa de penumbra isquémica con área más limitada de infarto establecido.
+
+ANGIO-TC ARTERIAL INTRACRANEAL:  
+Evidencia de irregularidad y estrechamiento en el segmento supraclinoideo de la arteria carótida interna izquierda con signo de doble luz y imagen filiforme, hallazgos compatibles con disección arterial. Oclusión segmentaria distal en la arteria cerebral media izquierda (segmento M1). El resto del árbol arterial intracraneal y sistema vertebrobasilar se muestra permeable sin estenosis significativas. No se observan aneurismas ni malformaciones vasculares.
+
+CONCL (Conclusiones):  
+Infarto isquémico en territorio de la arteria cerebral media izquierda con ASPECTS 6, asociado a extensa área de penumbra isquémica. Signos radiológicos sugestivos de disección arterial en la arteria carótida interna izquierda en segmento supraclinoideo con oclusión arterial distal en ACM izquierda. Ausencia de hemorragia intracraneal. El cuadro es compatible con disección arterial asociada a evento isquémico agudo.
+
+ACTI_ADICI (Actividad adicional): Se recomienda valoración urgente por neurología para manejo de código ictus y posible tratamiento endovascular.
+
+ICON (Estudio): @RADIO_TC_202406@
+
+X00DIATXT (Texto del diagnóstico ACR): Infarto cerebral agudo en territorio ACM izquierdo con signos de disección arterial en ACI izquierda.
+
+EST_T_DES (Descripción): TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANGIOTC ARTERIAL INTRACRANEAL)
+
+ZVASOS_D (Der.): Estrechamiento arterial segmentario y signos de doble luz en ACI izquierda compatibles con disección arterial. Oclusión distal en ACM izquierda.

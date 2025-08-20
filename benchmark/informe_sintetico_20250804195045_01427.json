@@ -1,0 +1,95 @@
+{
+  "document_id": "informe_sintetico_20250804195045_01427",
+  "entities": [
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 246,
+      "end": 260
+    },
+    {
+      "text": "arteria cerebral anterior",
+      "type": "ARTERIA",
+      "start": 278,
+      "end": 303
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 593,
+      "end": 602
+    },
+    {
+      "text": "área hipodensa",
+      "type": "PATOLOGIA",
+      "start": 535,
+      "end": 549
+    },
+    {
+      "text": "corteza medial y subcortical frontal izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 556,
+      "end": 602
+    },
+    {
+      "text": "arteria cerebral anterior izquierda",
+      "type": "ARTERIA",
+      "start": 708,
+      "end": 743
+    },
+    {
+      "text": "No se evidencian signos de sangrado intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 745,
+      "end": 793
+    },
+    {
+      "text": "ASPECTS modificado para ACA: 7",
+      "type": "PUNTUACION_CLINICA",
+      "start": 818,
+      "end": 848
+    },
+    {
+      "text": "prolongación del tiempo de tránsito medio (MTT)",
+      "type": "PATOLOGIA",
+      "start": 898,
+      "end": 945
+    },
+    {
+      "text": "aumento del tiempo hasta el pico (TTP)",
+      "type": "PATOLOGIA",
+      "start": 948,
+      "end": 986
+    },
+    {
+      "text": "arteria cerebral anterior izquierda",
+      "type": "ARTERIA",
+      "start": 708,
+      "end": 743
+    },
+    {
+      "text": "reducción moderada del flujo cerebral (CBF)",
+      "type": "PATOLOGIA",
+      "start": 1051,
+      "end": 1094
+    },
+    {
+      "text": "isquemia penumbra en fase aguda",
+      "type": "PATOLOGIA",
+      "start": 1149,
+      "end": 1180
+    },
+    {
+      "text": "No se observan signos de hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1714,
+      "end": 1762
+    },
+    {
+      "text": "ASPECTS modificado para ACA: 7",
+      "type": "PUNTUACION_CLINICA",
+      "start": 818,
+      "end": 848
+    }
+  ]
+}

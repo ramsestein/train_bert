@@ -1,0 +1,149 @@
+{
+  "document_id": "informe_sintetico_20250804195045_21446",
+  "entities": [
+    {
+      "text": "hemorragia subaracnoidea",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 586,
+      "end": 610
+    },
+    {
+      "text": "signos tempranos de infarto",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 630,
+      "end": 657
+    },
+    {
+      "text": "ventriculos y cisternas basales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 693,
+      "end": 724
+    },
+    {
+      "text": "normalidad",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 752,
+      "end": 762
+    },
+    {
+      "text": "desplazamiento de la línea media",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 768,
+      "end": 800
+    },
+    {
+      "text": "aumento del tiempo hasta el pico (TTP)",
+      "type": "MEDIDA",
+      "start": 846,
+      "end": 884
+    },
+    {
+      "text": "reducción del flujo sanguíneo cerebral (CBF)",
+      "type": "MEDIDA",
+      "start": 887,
+      "end": 931
+    },
+    {
+      "text": "desaparición del volumen cerebral (CBV)",
+      "type": "MEDIDA",
+      "start": 988,
+      "end": 1027
+    },
+    {
+      "text": "isquemia establecida",
+      "type": "PATOLOGIA",
+      "start": 1056,
+      "end": 1076
+    },
+    {
+      "text": "hipoperfusión crítica",
+      "type": "PATOLOGIA",
+      "start": 1089,
+      "end": 1110
+    },
+    {
+      "text": "oclusión completa en la arteria basilar a nivel proximal",
+      "type": "PATOLOGIA",
+      "start": 1163,
+      "end": 1219
+    },
+    {
+      "text": "ausencia de revascularización distal significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1225,
+      "end": 1275
+    },
+    {
+      "text": "arterias vertebrales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1281,
+      "end": 1301
+    },
+    {
+      "text": "flujo disminuido en el segmento distal",
+      "type": "PATOLOGIA",
+      "start": 1327,
+      "end": 1365
+    },
+    {
+      "text": "estenosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1388,
+      "end": 1397
+    },
+    {
+      "text": "malformaciones vasculares",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1401,
+      "end": 1426
+    },
+    {
+      "text": "extensa hipoperfusión e isquemia en territorio vertebrobasilar",
+      "type": "PATOLOGIA",
+      "start": 1522,
+      "end": 1584
+    },
+    {
+      "text": "hemorragias intracraneales asociadas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1601,
+      "end": 1637
+    },
+    {
+      "text": "ictus isquémico agudo en fase inicial",
+      "type": "PATOLOGIA",
+      "start": 1665,
+      "end": 1702
+    },
+    {
+      "text": "valoración neurovascular urgente",
+      "type": "PATOLOGIA",
+      "start": 1718,
+      "end": 1750
+    },
+    {
+      "text": "tratamiento endovascular",
+      "type": "PATOLOGIA",
+      "start": 1767,
+      "end": 1791
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 346,
+      "end": 362
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 389,
+      "end": 410
+    },
+    {
+      "text": "Angio-TC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 413,
+      "end": 443
+    }
+  ]
+}

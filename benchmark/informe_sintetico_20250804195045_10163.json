@@ -1,0 +1,107 @@
+{
+  "document_id": "informe_sintetico_20250804195045_10163",
+  "entities": [
+    {
+      "text": "hematoma intracerebral lobar",
+      "type": "PATOLOGIA",
+      "start": 255,
+      "end": 283
+    },
+    {
+      "text": "frontal izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 512,
+      "end": 529
+    },
+    {
+      "text": "32 x 27 x 22 mm",
+      "type": "MEDIDA",
+      "start": 614,
+      "end": 629
+    },
+    {
+      "text": "8 cc",
+      "type": "MEDIDA",
+      "start": 673,
+      "end": 677
+    },
+    {
+      "text": "desplazamiento de la línea media hacia la derecha",
+      "type": "PATOLOGIA",
+      "start": 753,
+      "end": 802
+    },
+    {
+      "text": "No hay evidencia de sangrado ventricular ni hemorragia subaracnoidea",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 804,
+      "end": 872
+    },
+    {
+      "text": "No se observan signos de infarto isquémico agudo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 943,
+      "end": 991
+    },
+    {
+      "text": "sin signos de hidrocefalia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1076,
+      "end": 1102
+    },
+    {
+      "text": "edema posthemorrágico",
+      "type": "PATOLOGIA",
+      "start": 1350,
+      "end": 1371
+    },
+    {
+      "text": "sin territorio vascular específico comprometido",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1373,
+      "end": 1420
+    },
+    {
+      "text": "No se evidencian malformaciones vasculares ni aneurismas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1455,
+      "end": 1511
+    },
+    {
+      "text": "edema perilesional y efecto de masa leve",
+      "type": "PATOLOGIA",
+      "start": 1812,
+      "end": 1852
+    },
+    {
+      "text": "sin extensión ventricular ni hemorragia subaracnoidea",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1854,
+      "end": 1907
+    },
+    {
+      "text": "sin hallazgos de malformaciones vasculares ni estenosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2026,
+      "end": 2081
+    },
+    {
+      "text": "agudo",
+      "type": "TEMPORALIDAD",
+      "start": 986,
+      "end": 991
+    },
+    {
+      "text": "TC craneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 304,
+      "end": 314
+    },
+    {
+      "text": "TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANG IOTC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 72,
+      "end": 140
+    }
+  ]
+}

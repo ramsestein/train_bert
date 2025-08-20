@@ -1,0 +1,89 @@
+{
+  "document_id": "informe_sintetico_20250804195045_17641",
+  "entities": [
+    {
+      "text": "infarto lacunar agudo",
+      "type": "PATOLOGIA",
+      "start": 583,
+      "end": 604
+    },
+    {
+      "text": "núcleo lenticular izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 539,
+      "end": 566
+    },
+    {
+      "text": "isquemia lacunar",
+      "type": "PATOLOGIA",
+      "start": 1066,
+      "end": 1082
+    },
+    {
+      "text": "región capsulonuclear izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 895,
+      "end": 926
+    },
+    {
+      "text": "arteria perforante",
+      "type": "ARTERIA",
+      "start": 1990,
+      "end": 2008
+    },
+    {
+      "text": "izquierdo",
+      "type": "LATERALIDAD",
+      "start": 557,
+      "end": 566
+    },
+    {
+      "text": "agudo",
+      "type": "TEMPORALIDAD",
+      "start": 599,
+      "end": 604
+    },
+    {
+      "text": "No evidencia de hemorragia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 453,
+      "end": 479
+    },
+    {
+      "text": "No se observan malformaciones vasculares ni trombos intravasculares",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1394,
+      "end": 1461
+    },
+    {
+      "text": "sin estenosis significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1171,
+      "end": 1198
+    },
+    {
+      "text": "sin alteración significativa del volumen cerebral",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 973,
+      "end": 1022
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 271,
+      "end": 287
+    },
+    {
+      "text": "TC PERFUSIÓN",
+      "type": "TECNICA_IMAGEN",
+      "start": 796,
+      "end": 808
+    },
+    {
+      "text": "ANGIO-TC EXTRA E INTRACRANEAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 1101,
+      "end": 1130
+    }
+  ]
+}

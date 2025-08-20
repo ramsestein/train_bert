@@ -1,0 +1,107 @@
+{
+  "document_id": "informe_sintetico_20250804195045_20509",
+  "entities": [
+    {
+      "text": "hematoma subdural agudo",
+      "type": "PATOLOGIA",
+      "start": 635,
+      "end": 658
+    },
+    {
+      "text": "derecho",
+      "type": "LATERALIDAD",
+      "start": 580,
+      "end": 587
+    },
+    {
+      "text": "12 mm",
+      "type": "MEDIDA",
+      "start": 613,
+      "end": 618
+    },
+    {
+      "text": "efecto masa",
+      "type": "PATOLOGIA",
+      "start": 671,
+      "end": 682
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 814,
+      "end": 823
+    },
+    {
+      "text": "6 mm",
+      "type": "MEDIDA",
+      "start": 836,
+      "end": 840
+    },
+    {
+      "text": "disminución del flujo sanguíneo cerebral",
+      "type": "PATOLOGIA",
+      "start": 1175,
+      "end": 1215
+    },
+    {
+      "text": "derechos",
+      "type": "LATERALIDAD",
+      "start": 1283,
+      "end": 1291
+    },
+    {
+      "text": "TTP",
+      "type": "TEMPORALIDAD",
+      "start": 1370,
+      "end": 1373
+    },
+    {
+      "text": "sin área de hipoperfusión",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1412,
+      "end": 1437
+    },
+    {
+      "text": "sin hallazgos de estenosis ni oclusión arterial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1537,
+      "end": 1584
+    },
+    {
+      "text": "hematoma subdural agudo",
+      "type": "PATOLOGIA",
+      "start": 635,
+      "end": 658
+    },
+    {
+      "text": "12 mm",
+      "type": "MEDIDA",
+      "start": 613,
+      "end": 618
+    },
+    {
+      "text": "6 mm",
+      "type": "MEDIDA",
+      "start": 836,
+      "end": 840
+    },
+    {
+      "text": "TC craneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 266,
+      "end": 276
+    },
+    {
+      "text": "perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 350,
+      "end": 368
+    },
+    {
+      "text": "Angio-TC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 371,
+      "end": 401
+    }
+  ]
+}

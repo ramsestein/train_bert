@@ -1,0 +1,265 @@
+{
+  "document_id": "0000000010000000057974234_cleaned",
+  "entities": [
+    {
+      "text": "oclusió",
+      "type": "PATOLOGIA",
+      "start": 193,
+      "end": 200
+    },
+    {
+      "text": "estenosi",
+      "type": "PATOLOGIA",
+      "start": 203,
+      "end": 211
+    },
+    {
+      "text": "artèria cerebral",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 231,
+      "end": 247
+    },
+    {
+      "text": "TC CRANEAL BASAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 320,
+      "end": 336
+    },
+    {
+      "text": "hemorragia aguda intra o extraaxial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 363,
+      "end": 398
+    },
+    {
+      "text": "lesiones isquémicas parenquimatosas subagudas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 415,
+      "end": 460
+    },
+    {
+      "text": "lesiones isquemicas crónicas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 470,
+      "end": 498
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 601,
+      "end": 611
+    },
+    {
+      "text": "morfología",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 636,
+      "end": 646
+    },
+    {
+      "text": "tamaño",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 648,
+      "end": 654
+    },
+    {
+      "text": "situación",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 657,
+      "end": 666
+    },
+    {
+      "text": "TC PERFUSIÓN",
+      "type": "TECNICA_IMAGEN",
+      "start": 750,
+      "end": 762
+    },
+    {
+      "text": "cuña a nivel frontal izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 787,
+      "end": 817
+    },
+    {
+      "text": "mapas de tiempo",
+      "type": "MEDIDA",
+      "start": 846,
+      "end": 861
+    },
+    {
+      "text": "mapas de flujo",
+      "type": "MEDIDA",
+      "start": 882,
+      "end": 896
+    },
+    {
+      "text": "mapas de volumen conservados",
+      "type": "MEDIDA",
+      "start": 899,
+      "end": 927
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 952,
+      "end": 966
+    },
+    {
+      "text": "territorio distal de la ACM izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 973,
+      "end": 1010
+    },
+    {
+      "text": "mismatch significativo",
+      "type": "PATOLOGIA",
+      "start": 1016,
+      "end": 1038
+    },
+    {
+      "text": "ANGIO-TC EXTRA E INTRACRANEAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 1040,
+      "end": 1069
+    },
+    {
+      "text": "ACAs",
+      "type": "ARTERIA",
+      "start": 1158,
+      "end": 1162
+    },
+    {
+      "text": "ACMs",
+      "type": "ARTERIA",
+      "start": 1164,
+      "end": 1168
+    },
+    {
+      "text": "ACPs",
+      "type": "ARTERIA",
+      "start": 1171,
+      "end": 1175
+    },
+    {
+      "text": "arco aórtico",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1553,
+      "end": 1565
+    },
+    {
+      "text": "troncos supraórticos",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1287,
+      "end": 1307
+    },
+    {
+      "text": "morfología tortuosa",
+      "type": "PATOLOGIA",
+      "start": 1411,
+      "end": 1430
+    },
+    {
+      "text": "arterias vertebrales",
+      "type": "ARTERIA",
+      "start": 1446,
+      "end": 1466
+    },
+    {
+      "text": "arteria vertebral izquierda",
+      "type": "ARTERIA",
+      "start": 1508,
+      "end": 1535
+    },
+    {
+      "text": "origen desde arco aórtico",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1540,
+      "end": 1565
+    },
+    {
+      "text": "hemorragia aguda intra o extraaxial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 363,
+      "end": 398
+    },
+    {
+      "text": "cuña frontal derecha izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1692,
+      "end": 1722
+    },
+    {
+      "text": "aumento del TTP",
+      "type": "MEDIDA",
+      "start": 1727,
+      "end": 1742
+    },
+    {
+      "text": "disminución del flujo",
+      "type": "MEDIDA",
+      "start": 1744,
+      "end": 1765
+    },
+    {
+      "text": "volumen conservado",
+      "type": "MEDIDA",
+      "start": 908,
+      "end": 926
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 952,
+      "end": 966
+    },
+    {
+      "text": "territorio distal de la ACM izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 973,
+      "end": 1010
+    },
+    {
+      "text": "mismatch significativo",
+      "type": "PATOLOGIA",
+      "start": 1016,
+      "end": 1038
+    },
+    {
+      "text": "estudio angriográfico",
+      "type": "TECNICA_IMAGEN",
+      "start": 1905,
+      "end": 1926
+    },
+    {
+      "text": "estenosis de los segmentos proximales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1956,
+      "end": 1993
+    },
+    {
+      "text": "ACAs",
+      "type": "ARTERIA",
+      "start": 1158,
+      "end": 1162
+    },
+    {
+      "text": "ACMs",
+      "type": "ARTERIA",
+      "start": 1164,
+      "end": 1168
+    },
+    {
+      "text": "ACPs",
+      "type": "ARTERIA",
+      "start": 1171,
+      "end": 1175
+    },
+    {
+      "text": "ECOGRAFIA VALORACION ARTERIOCLEROSIS",
+      "type": "TECNICA_IMAGEN",
+      "start": 2142,
+      "end": 2178
+    }
+  ],
+  "regenerado": true,
+  "fecha_regeneracion": "2025-08-06T04:41:29.477335"
+}

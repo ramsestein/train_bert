@@ -1,0 +1,71 @@
+{
+  "document_id": "informe_sintetico_20250804195045_16481",
+  "entities": [
+    {
+      "text": "isquemia aguda extensa",
+      "type": "PATOLOGIA",
+      "start": 729,
+      "end": 751
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 568,
+      "end": 600
+    },
+    {
+      "text": "arteria cerebral media",
+      "type": "ARTERIA",
+      "start": 568,
+      "end": 590
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 591,
+      "end": 600
+    },
+    {
+      "text": "5 mm",
+      "type": "MEDIDA",
+      "start": 962,
+      "end": 966
+    },
+    {
+      "text": "aguda",
+      "type": "TEMPORALIDAD",
+      "start": 738,
+      "end": 743
+    },
+    {
+      "text": "PH2",
+      "type": "PUNTUACION_CLINICA",
+      "start": 1016,
+      "end": 1019
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 346,
+      "end": 362
+    },
+    {
+      "text": "No se aprecian hemorragias subaracnoideas ni hemoventriculares",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1021,
+      "end": 1083
+    },
+    {
+      "text": "No se observan signos de vasoespasmo ni disección",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1711,
+      "end": 1760
+    },
+    {
+      "text": "No evidencia de hemorragia subaracnoidea ni hemoventricular",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2122,
+      "end": 2181
+    }
+  ]
+}

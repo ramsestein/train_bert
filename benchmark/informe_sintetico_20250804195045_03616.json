@@ -1,0 +1,83 @@
+{
+  "document_id": "informe_sintetico_20250804195045_03616",
+  "entities": [
+    {
+      "text": "contusión hemorrágica traumática",
+      "type": "PATOLOGIA",
+      "start": 628,
+      "end": 660
+    },
+    {
+      "text": "lóbulo temporal derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 589,
+      "end": 612
+    },
+    {
+      "text": "1,8 x 1,4 x 1,2 cm",
+      "type": "MEDIDA",
+      "start": 507,
+      "end": 525
+    },
+    {
+      "text": "volumen aproximado 1,6 cm3",
+      "type": "MEDIDA",
+      "start": 527,
+      "end": 553
+    },
+    {
+      "text": "0,3 cm",
+      "type": "MEDIDA",
+      "start": 788,
+      "end": 794
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 804,
+      "end": 813
+    },
+    {
+      "text": "No se observan fracturas craneales evidentes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 816,
+      "end": 860
+    },
+    {
+      "text": "No hay hemorragia subaracnoidea ni subdural detectables",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 905,
+      "end": 960
+    },
+    {
+      "text": "sin signos de vasoespasmo ni estenosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1220,
+      "end": 1258
+    },
+    {
+      "text": "TC CÓDIGO ICTUS",
+      "type": "TECNICA_IMAGEN",
+      "start": 336,
+      "end": 351
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 353,
+      "end": 369
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 371,
+      "end": 392
+    },
+    {
+      "text": "angio TC intra y extracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 395,
+      "end": 424
+    }
+  ]
+}

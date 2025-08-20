@@ -1,0 +1,185 @@
+{
+  "document_id": "informe_sintetico_20250804195045_24241",
+  "entities": [
+    {
+      "text": "hemiparesia derecha",
+      "type": "PATOLOGIA",
+      "start": 197,
+      "end": 216
+    },
+    {
+      "text": "ictus isquémico",
+      "type": "PATOLOGIA",
+      "start": 251,
+      "end": 266
+    },
+    {
+      "text": "arteria cerebral media",
+      "type": "ARTERIA",
+      "start": 284,
+      "end": 306
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 632,
+      "end": 641
+    },
+    {
+      "text": "ligera hipodensidad cortical",
+      "type": "PATOLOGIA",
+      "start": 577,
+      "end": 605
+    },
+    {
+      "text": "región fronto-parietal izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 609,
+      "end": 641
+    },
+    {
+      "text": "territorio M2/M3",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 660,
+      "end": 676
+    },
+    {
+      "text": "ASPECTS 9/10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 776,
+      "end": 788
+    },
+    {
+      "text": "retraso leve en el tiempo de tránsito medio (MTT)",
+      "type": "PATOLOGIA",
+      "start": 904,
+      "end": 953
+    },
+    {
+      "text": "tiempo hasta el pico (TTP)",
+      "type": "MEDIDA",
+      "start": 956,
+      "end": 982
+    },
+    {
+      "text": "reducción moderada del flujo sanguíneo cerebral (CBF)",
+      "type": "PATOLOGIA",
+      "start": 1031,
+      "end": 1084
+    },
+    {
+      "text": "discreto mantenimiento del volumen cerebral (CBV)",
+      "type": "PATOLOGIA",
+      "start": 1087,
+      "end": 1136
+    },
+    {
+      "text": "penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1161,
+      "end": 1179
+    },
+    {
+      "text": "Oclusión parcial en la rama M2 izquierda",
+      "type": "PATOLOGIA",
+      "start": 1218,
+      "end": 1258
+    },
+    {
+      "text": "M2/M3",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 671,
+      "end": 676
+    },
+    {
+      "text": "Resto de vasos intracraneales permeables",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1318,
+      "end": 1358
+    },
+    {
+      "text": "sin evidencias de estenosis significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1360,
+      "end": 1402
+    },
+    {
+      "text": "Signos iniciales de isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 1552,
+      "end": 1586
+    },
+    {
+      "text": "territorio de ACM izquierda distal (M2/M3)",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1590,
+      "end": 1632
+    },
+    {
+      "text": "ASPECTS 9",
+      "type": "PUNTUACION_CLINICA",
+      "start": 776,
+      "end": 785
+    },
+    {
+      "text": "Área de hipoperfusión",
+      "type": "PATOLOGIA",
+      "start": 1669,
+      "end": 1690
+    },
+    {
+      "text": "preservación de volumen cerebral",
+      "type": "PATOLOGIA",
+      "start": 1695,
+      "end": 1727
+    },
+    {
+      "text": "Oclusión parcial de rama M2 izquierda",
+      "type": "PATOLOGIA",
+      "start": 1792,
+      "end": 1829
+    },
+    {
+      "text": "compromiso distal en M3",
+      "type": "PATOLOGIA",
+      "start": 1834,
+      "end": 1857
+    },
+    {
+      "text": "No se evidencian estenosis ni placas ateromatosas significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1859,
+      "end": 1923
+    },
+    {
+      "text": "Isquemia aguda en territorio distal de arteria cerebral media izquierda (segmentos M2/M3)",
+      "type": "PATOLOGIA",
+      "start": 2124,
+      "end": 2213
+    },
+    {
+      "text": "penumbra identificada en perfusión cerebral",
+      "type": "PATOLOGIA",
+      "start": 2226,
+      "end": 2269
+    },
+    {
+      "text": "oclusión parcial en angiografía TC arterial intracraneal",
+      "type": "PATOLOGIA",
+      "start": 2272,
+      "end": 2328
+    },
+    {
+      "text": "Oclusión parcial en rama M2 de ACM izquierda",
+      "type": "PATOLOGIA",
+      "start": 2444,
+      "end": 2488
+    },
+    {
+      "text": "sin otras alteraciones vasculares significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2490,
+      "end": 2538
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "document_id": "informe_sintetico_20250804195045_02539",
+  "entities": [
+    {
+      "text": "infarto agudo",
+      "type": "PATOLOGIA",
+      "start": 257,
+      "end": 270
+    },
+    {
+      "text": "arteria cerebral anterior",
+      "type": "ARTERIA",
+      "start": 288,
+      "end": 313
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 655,
+      "end": 664
+    },
+    {
+      "text": "hipodensidad cortical y subcortical",
+      "type": "PATOLOGIA",
+      "start": 573,
+      "end": 608
+    },
+    {
+      "text": "región medial del lóbulo frontal y parietal",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 694,
+      "end": 737
+    },
+    {
+      "text": "ASPECTS",
+      "type": "PUNTUACION_CLINICA",
+      "start": 795,
+      "end": 802
+    },
+    {
+      "text": "MTT",
+      "type": "MEDIDA",
+      "start": 404,
+      "end": 407
+    },
+    {
+      "text": "CBF",
+      "type": "MEDIDA",
+      "start": 393,
+      "end": 396
+    },
+    {
+      "text": "CBV",
+      "type": "MEDIDA",
+      "start": 398,
+      "end": 401
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 1244,
+      "end": 1258
+    },
+    {
+      "text": "arteria cerebral anterior izquierda",
+      "type": "ARTERIA",
+      "start": 629,
+      "end": 664
+    },
+    {
+      "text": "segmento A2",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1405,
+      "end": 1416
+    },
+    {
+      "text": "ausencia de contraste",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1423,
+      "end": 1444
+    },
+    {
+      "text": "sin signos de infarto establecido completo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1876,
+      "end": 1918
+    }
+  ]
+}

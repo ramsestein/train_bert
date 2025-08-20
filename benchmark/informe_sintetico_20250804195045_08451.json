@@ -1,0 +1,77 @@
+{
+  "document_id": "informe_sintetico_20250804195045_08451",
+  "entities": [
+    {
+      "text": "infarto isquémico",
+      "type": "PATOLOGIA",
+      "start": 794,
+      "end": 811
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 623,
+      "end": 655
+    },
+    {
+      "text": "arteria carótida interna izquierda",
+      "type": "ARTERIA",
+      "start": 1345,
+      "end": 1379
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 646,
+      "end": 655
+    },
+    {
+      "text": "ASPECTS 6",
+      "type": "PUNTUACION_CLINICA",
+      "start": 951,
+      "end": 960
+    },
+    {
+      "text": "agudo",
+      "type": "TEMPORALIDAD",
+      "start": 254,
+      "end": 259
+    },
+    {
+      "text": "Oclusión completa",
+      "type": "PATOLOGIA",
+      "start": 1289,
+      "end": 1306
+    },
+    {
+      "text": "Sin evidencia de hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2017,
+      "end": 2057
+    },
+    {
+      "text": "reducción del flujo cerebral",
+      "type": "PATOLOGIA",
+      "start": 1082,
+      "end": 1110
+    },
+    {
+      "text": "zona de penumbra",
+      "type": "PATOLOGIA",
+      "start": 1227,
+      "end": 1243
+    },
+    {
+      "text": "Estenosis severa (>90%)",
+      "type": "PATOLOGIA",
+      "start": 1381,
+      "end": 1404
+    },
+    {
+      "text": "no se visualiza en su segmento proximal (M1)",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1547,
+      "end": 1591
+    }
+  ]
+}

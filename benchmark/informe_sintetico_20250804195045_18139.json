@@ -1,0 +1,77 @@
+{
+  "document_id": "informe_sintetico_20250804195045_18139",
+  "entities": [
+    {
+      "text": "hemorragia intra o extraaxial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 428,
+      "end": 457
+    },
+    {
+      "text": "edema o hipodensidad sugestiva de lesión isquémica aguda",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 532,
+      "end": 588
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 590,
+      "end": 600
+    },
+    {
+      "text": "calcificaciones craneales fisiológicas",
+      "type": "PATOLOGIA",
+      "start": 740,
+      "end": 778
+    },
+    {
+      "text": "ocupación mucosa",
+      "type": "PATOLOGIA",
+      "start": 845,
+      "end": 861
+    },
+    {
+      "text": "hipoperfusión o isquemia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1059,
+      "end": 1083
+    },
+    {
+      "text": "ACAs, ACMs, ACPs",
+      "type": "ARTERIA",
+      "start": 1155,
+      "end": 1171
+    },
+    {
+      "text": "estenosis, oclusiones ni malformaciones vasculares",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1202,
+      "end": 1252
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 590,
+      "end": 600
+    },
+    {
+      "text": "hemorragia intracraneal ni infarto cerebral reciente",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1509,
+      "end": 1561
+    },
+    {
+      "text": "Perfusión cerebral normal sin hallazgos compatibles con isquemia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1565,
+      "end": 1629
+    },
+    {
+      "text": "estenosis ni oclusiones relevantes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1675,
+      "end": 1709
+    }
+  ]
+}

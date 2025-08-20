@@ -1,0 +1,101 @@
+{
+  "document_id": "informe_sintetico_20250804195045_11452",
+  "entities": [
+    {
+      "text": "ictus isquémico",
+      "type": "PATOLOGIA",
+      "start": 221,
+      "end": 236
+    },
+    {
+      "text": "hemicuerpo derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 189,
+      "end": 207
+    },
+    {
+      "text": "ASPECTS 9/10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 526,
+      "end": 538
+    },
+    {
+      "text": "hipodensidad",
+      "type": "PATOLOGIA",
+      "start": 549,
+      "end": 561
+    },
+    {
+      "text": "región cortical frontal izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 565,
+      "end": 598
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "ARTERIA",
+      "start": 812,
+      "end": 844
+    },
+    {
+      "text": "segmento M2/M3",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1522,
+      "end": 1536
+    },
+    {
+      "text": "flujo sanguíneo cerebral (CBF)",
+      "type": "PATOLOGIA",
+      "start": 886,
+      "end": 916
+    },
+    {
+      "text": "volumen cerebral cerebral (CBV)",
+      "type": "PATOLOGIA",
+      "start": 919,
+      "end": 950
+    },
+    {
+      "text": "trombo en rama distal superior de ACM izquierda",
+      "type": "PATOLOGIA",
+      "start": 1181,
+      "end": 1228
+    },
+    {
+      "text": "ACM izquierda",
+      "type": "ARTERIA",
+      "start": 1215,
+      "end": 1228
+    },
+    {
+      "text": "ASPECTS 9/10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 526,
+      "end": 538
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 1504,
+      "end": 1518
+    },
+    {
+      "text": "segmento M2/M3",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1522,
+      "end": 1536
+    },
+    {
+      "text": "Oclusión aferente en rama distal de ACM izquierda",
+      "type": "PATOLOGIA",
+      "start": 1538,
+      "end": 1587
+    },
+    {
+      "text": "No se observan hemorragias",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 465,
+      "end": 491
+    }
+  ]
+}

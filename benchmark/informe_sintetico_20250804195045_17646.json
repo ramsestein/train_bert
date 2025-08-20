@@ -1,0 +1,107 @@
+{
+  "document_id": "informe_sintetico_20250804195045_17646",
+  "entities": [
+    {
+      "text": "isquemia",
+      "type": "PATOLOGIA",
+      "start": 245,
+      "end": 253
+    },
+    {
+      "text": "arteria cerebral anterior",
+      "type": "ARTERIA",
+      "start": 274,
+      "end": 299
+    },
+    {
+      "text": "lóbulo frontal derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 615,
+      "end": 637
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 907,
+      "end": 914
+    },
+    {
+      "text": "early ischemic changes",
+      "type": "PATOLOGIA",
+      "start": 698,
+      "end": 720
+    },
+    {
+      "text": "aumento del tiempo de tránsito medio (MTT)",
+      "type": "MEDIDA",
+      "start": 969,
+      "end": 1011
+    },
+    {
+      "text": "tiempo hasta el pico (TTP)",
+      "type": "MEDIDA",
+      "start": 1014,
+      "end": 1040
+    },
+    {
+      "text": "disminución marcada del flujo sanguíneo cerebral (CBF)",
+      "type": "MEDIDA",
+      "start": 1046,
+      "end": 1100
+    },
+    {
+      "text": "volumen sanguíneo cerebral (CBV) preservado",
+      "type": "MEDIDA",
+      "start": 1103,
+      "end": 1146
+    },
+    {
+      "text": "penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1178,
+      "end": 1196
+    },
+    {
+      "text": "sin estenosis ni placas ateromatosas significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1441,
+      "end": 1492
+    },
+    {
+      "text": "territorio de la arteria cerebral anterior derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1200,
+      "end": 1250
+    },
+    {
+      "text": "sin evidencia de infarto establecido",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1841,
+      "end": 1877
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 504,
+      "end": 527
+    },
+    {
+      "text": "TC Basal cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 320,
+      "end": 337
+    },
+    {
+      "text": "TC Perfusión (CBF, CBV, TTP, MTT)",
+      "type": "TECNICA_IMAGEN",
+      "start": 339,
+      "end": 372
+    },
+    {
+      "text": "AngioTC extracraneal e intracraneal cerebral y supraaórtico",
+      "type": "TECNICA_IMAGEN",
+      "start": 374,
+      "end": 433
+    }
+  ]
+}

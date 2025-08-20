@@ -1,0 +1,191 @@
+{
+  "document_id": "informe_sintetico_20250804195045_11508",
+  "entities": [
+    {
+      "text": "infarto cerebral isquémico",
+      "type": "PATOLOGIA",
+      "start": 179,
+      "end": 205
+    },
+    {
+      "text": "territorio cerebral medio izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 209,
+      "end": 244
+    },
+    {
+      "text": "subaguda",
+      "type": "TEMPORALIDAD",
+      "start": 256,
+      "end": 264
+    },
+    {
+      "text": "transformación hemorrágica",
+      "type": "PATOLOGIA",
+      "start": 313,
+      "end": 339
+    },
+    {
+      "text": "área hipodensa compatible con infarto isquémico",
+      "type": "PATOLOGIA",
+      "start": 556,
+      "end": 603
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "ARTERIA",
+      "start": 624,
+      "end": 656
+    },
+    {
+      "text": "núcleo lenticular",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 669,
+      "end": 686
+    },
+    {
+      "text": "corteza insular",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 689,
+      "end": 704
+    },
+    {
+      "text": "12 mm",
+      "type": "MEDIDA",
+      "start": 759,
+      "end": 764
+    },
+    {
+      "text": "transformación hemorrágica tipo PH1",
+      "type": "PATOLOGIA",
+      "start": 831,
+      "end": 866
+    },
+    {
+      "text": "sangrado puntiforme o petequial",
+      "type": "PATOLOGIA",
+      "start": 868,
+      "end": 899
+    },
+    {
+      "text": "edema cerebral masivo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 983,
+      "end": 1004
+    },
+    {
+      "text": "desplazamiento de línea media",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1008,
+      "end": 1037
+    },
+    {
+      "text": "reducción marcada del flujo cerebral",
+      "type": "PATOLOGIA",
+      "start": 1151,
+      "end": 1187
+    },
+    {
+      "text": "CBF",
+      "type": "MEDIDA",
+      "start": 1189,
+      "end": 1192
+    },
+    {
+      "text": "CBV disminuido",
+      "type": "MEDIDA",
+      "start": 1213,
+      "end": 1227
+    },
+    {
+      "text": "aumento de los tiempos de tránsito",
+      "type": "PATOLOGIA",
+      "start": 1231,
+      "end": 1265
+    },
+    {
+      "text": "TTP y Tmax",
+      "type": "MEDIDA",
+      "start": 1267,
+      "end": 1277
+    },
+    {
+      "text": "Oclusión distal segmentaria en ramo temporal superior de ACM izquierda",
+      "type": "PATOLOGIA",
+      "start": 1360,
+      "end": 1430
+    },
+    {
+      "text": "segmento M3",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1432,
+      "end": 1443
+    },
+    {
+      "text": "sin evidencia de trombo en segmentos proximales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1446,
+      "end": 1493
+    },
+    {
+      "text": "Resto de vasos intracraneales permeables sin estenosis relevantes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1495,
+      "end": 1560
+    },
+    {
+      "text": "transformación hemorrágica tipo PH1",
+      "type": "PATOLOGIA",
+      "start": 831,
+      "end": 866
+    },
+    {
+      "text": "sin efecto masa significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 926,
+      "end": 955
+    },
+    {
+      "text": "Oclusión distal de rama M3 de ACM izquierda",
+      "type": "PATOLOGIA",
+      "start": 1716,
+      "end": 1759
+    },
+    {
+      "text": "edema cerebral masivo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 983,
+      "end": 1004
+    },
+    {
+      "text": "herniación",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1802,
+      "end": 1812
+    },
+    {
+      "text": "TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANG IOTC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 72,
+      "end": 140
+    },
+    {
+      "text": "TC craneal sin contraste inicial",
+      "type": "TECNICA_IMAGEN",
+      "start": 360,
+      "end": 392
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 394,
+      "end": 415
+    },
+    {
+      "text": "AngioTC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 418,
+      "end": 447
+    }
+  ]
+}

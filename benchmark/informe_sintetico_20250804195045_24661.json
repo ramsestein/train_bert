@@ -1,0 +1,65 @@
+{
+  "document_id": "informe_sintetico_20250804195045_24661",
+  "entities": [
+    {
+      "text": "edema cerebral difuso",
+      "type": "PATOLOGIA",
+      "start": 458,
+      "end": 479
+    },
+    {
+      "text": "lóbulos frontales y parietales bilaterales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 568,
+      "end": 610
+    },
+    {
+      "text": "ASPECTS 7",
+      "type": "PUNTUACION_CLINICA",
+      "start": 923,
+      "end": 932
+    },
+    {
+      "text": "Tmax",
+      "type": "TECNICA_IMAGEN",
+      "start": 354,
+      "end": 358
+    },
+    {
+      "text": "CBF",
+      "type": "TECNICA_IMAGEN",
+      "start": 360,
+      "end": 363
+    },
+    {
+      "text": "CBV",
+      "type": "TECNICA_IMAGEN",
+      "start": 365,
+      "end": 368
+    },
+    {
+      "text": "MTT",
+      "type": "TECNICA_IMAGEN",
+      "start": 371,
+      "end": 374
+    },
+    {
+      "text": "hipoperfusión global secundaria a anoxia cerebral",
+      "type": "PATOLOGIA",
+      "start": 1189,
+      "end": 1238
+    },
+    {
+      "text": "sin evidencia de oclusiones ni estenosis significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1360,
+      "end": 1415
+    },
+    {
+      "text": "sin evidencia de oclusión arterial aguda",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1804,
+      "end": 1844
+    }
+  ]
+}

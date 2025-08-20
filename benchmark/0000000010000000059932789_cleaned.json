@@ -1,0 +1,71 @@
+{
+  "document_id": "0000000010000000059932789_cleaned",
+  "entities": [
+    {
+      "text": "Infart cerebral causat per oclusió o estenosi no especificades d'artèria cerebral no especificada",
+      "type": "PATOLOGIA",
+      "start": 166,
+      "end": 263
+    },
+    {
+      "text": "No se observa hemorragia intra ni extraaxial.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 410,
+      "end": 455
+    },
+    {
+      "text": "Parénquima cerebral sin alteraciones densitométricas.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 456,
+      "end": 509
+    },
+    {
+      "text": "ASPECTS 10.",
+      "type": "PUNTUACION_CLINICA",
+      "start": 557,
+      "end": 568
+    },
+    {
+      "text": "No se observan lesiones isquémicas parenquimatosas subagudas ni otras lesiones isquemicas crónicas.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 569,
+      "end": 668
+    },
+    {
+      "text": "Calcificaciones groseras en ganglios de la base bilaterales.",
+      "type": "PATOLOGIA",
+      "start": 669,
+      "end": 729
+    },
+    {
+      "text": "Principales arterias cerebrales intracraneales permeables (ACAs, ACMs y ACPs).",
+      "type": "ARTERIA",
+      "start": 986,
+      "end": 1064
+    },
+    {
+      "text": "ACP izquierda fetal.",
+      "type": "ARTERIA",
+      "start": 1065,
+      "end": 1085
+    },
+    {
+      "text": "Sistema vertebrobasilar permeable.",
+      "type": "ARTERIA",
+      "start": 1086,
+      "end": 1120
+    },
+    {
+      "text": "No se observan signos de patología intracraneal aguda.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1550,
+      "end": 1604
+    },
+    {
+      "text": "Estudio de perfusión y angiográfico sin alteraciones significativas.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1605,
+      "end": 1673
+    }
+  ]
+}

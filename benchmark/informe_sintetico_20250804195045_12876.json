@@ -1,0 +1,89 @@
+{
+  "document_id": "informe_sintetico_20250804195045_12876",
+  "entities": [
+    {
+      "text": "hematoma lobar parietal izquierdo",
+      "type": "PATOLOGIA",
+      "start": 428,
+      "end": 461
+    },
+    {
+      "text": "42x35x28 mm",
+      "type": "MEDIDA",
+      "start": 518,
+      "end": 529
+    },
+    {
+      "text": "18 cc",
+      "type": "MEDIDA",
+      "start": 564,
+      "end": 569
+    },
+    {
+      "text": "4 mm",
+      "type": "MEDIDA",
+      "start": 687,
+      "end": 691
+    },
+    {
+      "text": "No se observan signos de fractura ni hemorragia subaracnoidea asociada",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 710,
+      "end": 780
+    },
+    {
+      "text": "sin evidencia de sangrado intraventricular",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 908,
+      "end": 950
+    },
+    {
+      "text": "disminución del CBF y aumento de TTP",
+      "type": "PATOLOGIA",
+      "start": 1002,
+      "end": 1038
+    },
+    {
+      "text": "sin evidencia de isquemia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1073,
+      "end": 1098
+    },
+    {
+      "text": "sin signos de estenosis ni malformaciones vasculares",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1208,
+      "end": 1260
+    },
+    {
+      "text": "sin alteraciones significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1359,
+      "end": 1390
+    },
+    {
+      "text": "sin sangrado activo ni lesiones vasculares significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2019,
+      "end": 2076
+    },
+    {
+      "text": "TC craneal basal urgente",
+      "type": "TECNICA_IMAGEN",
+      "start": 252,
+      "end": 276
+    },
+    {
+      "text": "TC perfusión",
+      "type": "TECNICA_IMAGEN",
+      "start": 329,
+      "end": 341
+    },
+    {
+      "text": "Angio-TC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 344,
+      "end": 374
+    }
+  ]
+}

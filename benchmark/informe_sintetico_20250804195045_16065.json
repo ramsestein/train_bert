@@ -1,0 +1,107 @@
+{
+  "document_id": "informe_sintetico_20250804195045_16065",
+  "entities": [
+    {
+      "text": "infarto isquémico subagudo",
+      "type": "PATOLOGIA",
+      "start": 607,
+      "end": 633
+    },
+    {
+      "text": "transformación hemorrágica tipo PH1",
+      "type": "PATOLOGIA",
+      "start": 742,
+      "end": 777
+    },
+    {
+      "text": "hemorragia punctata o mínima",
+      "type": "PATOLOGIA",
+      "start": 779,
+      "end": 807
+    },
+    {
+      "text": "ACM",
+      "type": "ARTERIA",
+      "start": 579,
+      "end": 582
+    },
+    {
+      "text": "ACM",
+      "type": "ARTERIA",
+      "start": 579,
+      "end": 582
+    },
+    {
+      "text": "M2",
+      "type": "ARTERIA",
+      "start": 1741,
+      "end": 1743
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 584,
+      "end": 591
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 584,
+      "end": 591
+    },
+    {
+      "text": "parcial",
+      "type": "LATERALIDAD",
+      "start": 910,
+      "end": 917
+    },
+    {
+      "text": "moderada",
+      "type": "MEDIDA",
+      "start": 1193,
+      "end": 1201
+    },
+    {
+      "text": "mínima",
+      "type": "MEDIDA",
+      "start": 801,
+      "end": 807
+    },
+    {
+      "text": "sin desplazamientos significativos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1009,
+      "end": 1043
+    },
+    {
+      "text": "sin estenosis hemodinámicamente significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1652,
+      "end": 1698
+    },
+    {
+      "text": "sin anomalías",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1855,
+      "end": 1868
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 343,
+      "end": 359
+    },
+    {
+      "text": "TC PERFUSIÓN",
+      "type": "TECNICA_IMAGEN",
+      "start": 1128,
+      "end": 1140
+    },
+    {
+      "text": "ANGIO-TC EXTRA E INTRACRANEAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 1449,
+      "end": 1478
+    }
+  ]
+}

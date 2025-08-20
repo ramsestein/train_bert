@@ -1,0 +1,71 @@
+{
+  "document_id": "informe_sintetico_20250804195045_04755",
+  "entities": [
+    {
+      "text": "isquémica",
+      "type": "PATOLOGIA",
+      "start": 642,
+      "end": 651
+    },
+    {
+      "text": "hemorragia",
+      "type": "PATOLOGIA",
+      "start": 660,
+      "end": 670
+    },
+    {
+      "text": "infartos recientes",
+      "type": "PATOLOGIA",
+      "start": 727,
+      "end": 745
+    },
+    {
+      "text": "atrofia cortical leve",
+      "type": "PATOLOGIA",
+      "start": 756,
+      "end": 777
+    },
+    {
+      "text": "lóbulos frontales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 799,
+      "end": 816
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 1070,
+      "end": 1080
+    },
+    {
+      "text": "sin evidencia de estenosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1382,
+      "end": 1408
+    },
+    {
+      "text": "sin evidencia de patología isquémica o hemorrágica aguda",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1603,
+      "end": 1659
+    },
+    {
+      "text": "sin signos de estenosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1806,
+      "end": 1829
+    },
+    {
+      "text": "sin signos de hidrocefalia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1017,
+      "end": 1043
+    },
+    {
+      "text": "sin áreas de hipoperfusión",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1217,
+      "end": 1243
+    }
+  ]
+}

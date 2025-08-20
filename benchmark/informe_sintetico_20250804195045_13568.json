@@ -1,0 +1,95 @@
+{
+  "document_id": "informe_sintetico_20250804195045_13568",
+  "entities": [
+    {
+      "text": "infartos agudos recientes",
+      "type": "PATOLOGIA",
+      "start": 714,
+      "end": 739
+    },
+    {
+      "text": "hemorragias intracraneales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 758,
+      "end": 784
+    },
+    {
+      "text": "ASPECTS valorable en 6",
+      "type": "PUNTUACION_CLINICA",
+      "start": 817,
+      "end": 839
+    },
+    {
+      "text": "territorio carotídeo izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1062,
+      "end": 1092
+    },
+    {
+      "text": "tiempo de tránsito medio (TTP)",
+      "type": "MEDIDA",
+      "start": 1117,
+      "end": 1147
+    },
+    {
+      "text": "flujo cerebral (CBF)",
+      "type": "MEDIDA",
+      "start": 1166,
+      "end": 1186
+    },
+    {
+      "text": "volumen cerebral (CBV)",
+      "type": "MEDIDA",
+      "start": 1191,
+      "end": 1213
+    },
+    {
+      "text": "infarto establecido",
+      "type": "PATOLOGIA",
+      "start": 1361,
+      "end": 1380
+    },
+    {
+      "text": "arteria cerebral media izquierda (M1)",
+      "type": "ARTERIA",
+      "start": 1506,
+      "end": 1543
+    },
+    {
+      "text": "arteria cerebral anterior derecha (A2)",
+      "type": "ARTERIA",
+      "start": 1603,
+      "end": 1641
+    },
+    {
+      "text": "hemisferios",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1898,
+      "end": 1909
+    },
+    {
+      "text": "isquemia aguda multiterritorial",
+      "type": "PATOLOGIA",
+      "start": 1834,
+      "end": 1865
+    },
+    {
+      "text": "Oclusión proximal de ACM izquierda",
+      "type": "PATOLOGIA",
+      "start": 1911,
+      "end": 1945
+    },
+    {
+      "text": "No hemorragia asociada",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2050,
+      "end": 2072
+    },
+    {
+      "text": "edema cerebral significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2076,
+      "end": 2104
+    }
+  ]
+}

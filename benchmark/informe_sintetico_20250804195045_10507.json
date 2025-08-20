@@ -1,0 +1,89 @@
+{
+  "document_id": "informe_sintetico_20250804195045_10507",
+  "entities": [
+    {
+      "text": "infarto cortical agudo",
+      "type": "PATOLOGIA",
+      "start": 575,
+      "end": 597
+    },
+    {
+      "text": "arteria cerebral media (ACM) izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 618,
+      "end": 656
+    },
+    {
+      "text": "ACM",
+      "type": "ARTERIA",
+      "start": 642,
+      "end": 645
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 552,
+      "end": 561
+    },
+    {
+      "text": "agudo",
+      "type": "TEMPORALIDAD",
+      "start": 207,
+      "end": 212
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 1134,
+      "end": 1148
+    },
+    {
+      "text": "ACM izquierda proximal",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1548,
+      "end": 1570
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 552,
+      "end": 561
+    },
+    {
+      "text": "significativa",
+      "type": "MEDIDA",
+      "start": 1045,
+      "end": 1058
+    },
+    {
+      "text": "No se observan hemorragias intracraneales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2038,
+      "end": 2079
+    },
+    {
+      "text": "No se observan hemorragias intracraneales ni edema con efecto masa significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2038,
+      "end": 2118
+    },
+    {
+      "text": "infarto isquémico agudo",
+      "type": "PATOLOGIA",
+      "start": 2265,
+      "end": 2288
+    },
+    {
+      "text": "arteria cerebral media ipsilateral",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 2309,
+      "end": 2343
+    },
+    {
+      "text": "penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1168,
+      "end": 1186
+    }
+  ]
+}

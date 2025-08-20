@@ -1,0 +1,101 @@
+{
+  "document_id": "informe_sintetico_20250804195045_21340",
+  "entities": [
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 279,
+      "end": 293
+    },
+    {
+      "text": "territorio vertebrobasilar",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 297,
+      "end": 323
+    },
+    {
+      "text": "TC CRANEAL BASAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 548,
+      "end": 564
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 594,
+      "end": 617
+    },
+    {
+      "text": "áreas hipodensas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 621,
+      "end": 637
+    },
+    {
+      "text": "isquemia tisular",
+      "type": "PATOLOGIA",
+      "start": 1132,
+      "end": 1148
+    },
+    {
+      "text": "arteria basilar proximal",
+      "type": "ARTERIA",
+      "start": 1223,
+      "end": 1247
+    },
+    {
+      "text": "displasicas",
+      "type": "PATOLOGIA",
+      "start": 1325,
+      "end": 1336
+    },
+    {
+      "text": "estenosis significativa",
+      "type": "PATOLOGIA",
+      "start": 1341,
+      "end": 1364
+    },
+    {
+      "text": "arteria vertebral derecha",
+      "type": "ARTERIA",
+      "start": 1746,
+      "end": 1771
+    },
+    {
+      "text": "No signos hemorrágicos presentes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1773,
+      "end": 1805
+    },
+    {
+      "text": "prolongación del tiempo de tránsito medio (MTT)",
+      "type": "MEDIDA",
+      "start": 817,
+      "end": 864
+    },
+    {
+      "text": "aumento del tiempo hasta el pico (TTP)",
+      "type": "MEDIDA",
+      "start": 867,
+      "end": 905
+    },
+    {
+      "text": "reducción moderada del flujo sanguíneo cerebral (CBF)",
+      "type": "MEDIDA",
+      "start": 1001,
+      "end": 1054
+    },
+    {
+      "text": "volumen sanguíneo cerebral (CBV)",
+      "type": "MEDIDA",
+      "start": 1057,
+      "end": 1089
+    },
+    {
+      "text": "fase temprana",
+      "type": "TEMPORALIDAD",
+      "start": 1649,
+      "end": 1662
+    }
+  ]
+}

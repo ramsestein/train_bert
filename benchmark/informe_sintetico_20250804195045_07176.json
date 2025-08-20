@@ -1,0 +1,155 @@
+{
+  "document_id": "informe_sintetico_20250804195045_07176",
+  "entities": [
+    {
+      "text": "infarto cerebral",
+      "type": "PATOLOGIA",
+      "start": 203,
+      "end": 219
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "ARTERIA",
+      "start": 240,
+      "end": 270
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 263,
+      "end": 270
+    },
+    {
+      "text": "área hipodensa extensa",
+      "type": "PATOLOGIA",
+      "start": 496,
+      "end": 518
+    },
+    {
+      "text": "infarto cerebral reciente",
+      "type": "PATOLOGIA",
+      "start": 571,
+      "end": 596
+    },
+    {
+      "text": "focos hiperdensos puntiformes y lineales",
+      "type": "PATOLOGIA",
+      "start": 648,
+      "end": 688
+    },
+    {
+      "text": "transformación hemorrágica leve tipo HI1",
+      "type": "PATOLOGIA",
+      "start": 704,
+      "end": 744
+    },
+    {
+      "text": "hematoma significativo",
+      "type": "PATOLOGIA",
+      "start": 783,
+      "end": 805
+    },
+    {
+      "text": "No se observan colecciones extraaxiales ni hemorragias subaracnoideas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 807,
+      "end": 876
+    },
+    {
+      "text": "sin efecto de masa evidente",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 916,
+      "end": 943
+    },
+    {
+      "text": "sin signos de hidrocefalia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1007,
+      "end": 1033
+    },
+    {
+      "text": "disminución del flujo sanguíneo cerebral (FSC)",
+      "type": "PATOLOGIA",
+      "start": 1060,
+      "end": 1106
+    },
+    {
+      "text": "volumen de sangre cerebral (VSC)",
+      "type": "PATOLOGIA",
+      "start": 1109,
+      "end": 1141
+    },
+    {
+      "text": "tiempo de tránsito medio (MTT)",
+      "type": "PATOLOGIA",
+      "start": 1184,
+      "end": 1214
+    },
+    {
+      "text": "prolongado",
+      "type": "TEMPORALIDAD",
+      "start": 1228,
+      "end": 1238
+    },
+    {
+      "text": "No se identifican zonas de penumbra significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1266,
+      "end": 1315
+    },
+    {
+      "text": "oclusión parcial del segmento proximal de la arteria cerebral media derecha (M1)",
+      "type": "PATOLOGIA",
+      "start": 1362,
+      "end": 1442
+    },
+    {
+      "text": "flujo disminuido distalmente",
+      "type": "PATOLOGIA",
+      "start": 1448,
+      "end": 1476
+    },
+    {
+      "text": "No se identifican otras estenosis relevantes ni aneurismas intracraneales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1478,
+      "end": 1551
+    },
+    {
+      "text": "Área isquémica extensa en territorio de ACM derecha",
+      "type": "PATOLOGIA",
+      "start": 1576,
+      "end": 1627
+    },
+    {
+      "text": "transformación hemorrágica leve tipo HI1",
+      "type": "PATOLOGIA",
+      "start": 704,
+      "end": 744
+    },
+    {
+      "text": "sin hematoma ni efecto de masa significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1674,
+      "end": 1718
+    },
+    {
+      "text": "TC craneal basal urgente",
+      "type": "TECNICA_IMAGEN",
+      "start": 329,
+      "end": 353
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 355,
+      "end": 376
+    },
+    {
+      "text": "angio-TC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 379,
+      "end": 409
+    }
+  ]
+}

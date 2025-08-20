@@ -1,0 +1,137 @@
+{
+  "document_id": "informe_sintetico_20250804195045_07102",
+  "entities": [
+    {
+      "text": "infarto cerebral establecido",
+      "type": "PATOLOGIA",
+      "start": 540,
+      "end": 568
+    },
+    {
+      "text": "isquemia",
+      "type": "PATOLOGIA",
+      "start": 601,
+      "end": 609
+    },
+    {
+      "text": "transformación hemorrágica tipo HI2",
+      "type": "PATOLOGIA",
+      "start": 723,
+      "end": 758
+    },
+    {
+      "text": "imágenes hemáticas mayores de 10 mm",
+      "type": "PATOLOGIA",
+      "start": 774,
+      "end": 809
+    },
+    {
+      "text": "lado derecho",
+      "type": "LATERALIDAD",
+      "start": 965,
+      "end": 977
+    },
+    {
+      "text": "5 mm",
+      "type": "MEDIDA",
+      "start": 995,
+      "end": 999
+    },
+    {
+      "text": "tamaño ligeramente disminuido",
+      "type": "PATOLOGIA",
+      "start": 1038,
+      "end": 1067
+    },
+    {
+      "text": "Cisternas basales parcialmente obliteradas",
+      "type": "PATOLOGIA",
+      "start": 1105,
+      "end": 1147
+    },
+    {
+      "text": "disminución marcada del flujo sanguíneo cerebral",
+      "type": "PATOLOGIA",
+      "start": 1173,
+      "end": 1221
+    },
+    {
+      "text": "volumen cerebral sanguíneo",
+      "type": "PATOLOGIA",
+      "start": 1230,
+      "end": 1256
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "ARTERIA",
+      "start": 1283,
+      "end": 1315
+    },
+    {
+      "text": "infarto establecido",
+      "type": "PATOLOGIA",
+      "start": 1331,
+      "end": 1350
+    },
+    {
+      "text": "oclusión de segmento proximal de la arteria cerebral media izquierda (M1)",
+      "type": "PATOLOGIA",
+      "start": 1545,
+      "end": 1618
+    },
+    {
+      "text": "ausencia de flujo distal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1623,
+      "end": 1647
+    },
+    {
+      "text": "sin signos de estenosis ni placas ateromatosas significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1718,
+      "end": 1779
+    },
+    {
+      "text": "transformación hemorrágica tipo HI2",
+      "type": "PATOLOGIA",
+      "start": 723,
+      "end": 758
+    },
+    {
+      "text": "múltiples focos hemorrágicos intraparenquimatosos mayores de 10 mm",
+      "type": "PATOLOGIA",
+      "start": 2000,
+      "end": 2066
+    },
+    {
+      "text": "leve efecto de masa con desplazamiento de línea media",
+      "type": "PATOLOGIA",
+      "start": 2081,
+      "end": 2134
+    },
+    {
+      "text": "manejo neuroquirúrgico y neurovascular urgente",
+      "type": "PATOLOGIA",
+      "start": 2266,
+      "end": 2312
+    },
+    {
+      "text": "TC craneal basal urgente",
+      "type": "TECNICA_IMAGEN",
+      "start": 299,
+      "end": 323
+    },
+    {
+      "text": "TC de perfusión cerebral dinámica",
+      "type": "TECNICA_IMAGEN",
+      "start": 325,
+      "end": 358
+    },
+    {
+      "text": "Angio-TC arterial intracraneal con contraste endovenoso",
+      "type": "TECNICA_IMAGEN",
+      "start": 361,
+      "end": 416
+    }
+  ]
+}

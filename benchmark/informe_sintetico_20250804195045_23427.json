@@ -1,0 +1,131 @@
+{
+  "document_id": "informe_sintetico_20250804195045_23427",
+  "entities": [
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 282,
+      "end": 296
+    },
+    {
+      "text": "territorio vertebrobasilar",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 300,
+      "end": 326
+    },
+    {
+      "text": "edema vasogénico temprano",
+      "type": "PATOLOGIA",
+      "start": 859,
+      "end": 884
+    },
+    {
+      "text": "reducción del flujo cerebral (CBF)",
+      "type": "PATOLOGIA",
+      "start": 1011,
+      "end": 1045
+    },
+    {
+      "text": "aumento del tiempo de tránsito medio (MTT)",
+      "type": "PATOLOGIA",
+      "start": 1048,
+      "end": 1090
+    },
+    {
+      "text": "Tmax",
+      "type": "MEDIDA",
+      "start": 1093,
+      "end": 1097
+    },
+    {
+      "text": "tronco encefálico",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1157,
+      "end": 1174
+    },
+    {
+      "text": "cerebelo izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1177,
+      "end": 1195
+    },
+    {
+      "text": "penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1215,
+      "end": 1233
+    },
+    {
+      "text": "Oclusión parcial",
+      "type": "PATOLOGIA",
+      "start": 1931,
+      "end": 1947
+    },
+    {
+      "text": "arteria vertebral izquierda",
+      "type": "ARTERIA",
+      "start": 1396,
+      "end": 1423
+    },
+    {
+      "text": "estenosis de arteria basilar proximal",
+      "type": "PATOLOGIA",
+      "start": 1988,
+      "end": 2025
+    },
+    {
+      "text": "signos de sangrado intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2108,
+      "end": 2139
+    },
+    {
+      "text": "No se identifican hemorragias intra ni extraaxiales.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 533,
+      "end": 585
+    },
+    {
+      "text": "No se observa hiperintensidad en secuencias de TC basal que sugiera lesión establecida.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 586,
+      "end": 673
+    },
+    {
+      "text": "sin alteraciones significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 926,
+      "end": 957
+    },
+    {
+      "text": "sin evidencias de trombos en vasos supratentoriales.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1590,
+      "end": 1642
+    },
+    {
+      "text": "sin estenosis hemodinámicamente significativa.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1744,
+      "end": 1790
+    },
+    {
+      "text": "TC Basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 371,
+      "end": 379
+    },
+    {
+      "text": "TC PERFUSIÓN",
+      "type": "TECNICA_IMAGEN",
+      "start": 986,
+      "end": 998
+    },
+    {
+      "text": "ANGIO-TC EXTRA E INTRACRANEAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 1341,
+      "end": 1370
+    }
+  ]
+}

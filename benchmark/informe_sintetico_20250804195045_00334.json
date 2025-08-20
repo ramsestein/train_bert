@@ -1,0 +1,107 @@
+{
+  "document_id": "informe_sintetico_20250804195045_00334",
+  "entities": [
+    {
+      "text": "isquemia",
+      "type": "PATOLOGIA",
+      "start": 289,
+      "end": 297
+    },
+    {
+      "text": "arteria cerebral anterior (ACA)",
+      "type": "ARTERIA",
+      "start": 315,
+      "end": 346
+    },
+    {
+      "text": "hemisferio derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 759,
+      "end": 777
+    },
+    {
+      "text": "región frontal medial y paracentral",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 800,
+      "end": 835
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 852,
+      "end": 866
+    },
+    {
+      "text": "arteria cerebral anterior derecha",
+      "type": "ARTERIA",
+      "start": 887,
+      "end": 920
+    },
+    {
+      "text": "ASPECTS modificada para ACA: 8/10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 1004,
+      "end": 1037
+    },
+    {
+      "text": "disminución del flujo sanguíneo cerebral (CBF)",
+      "type": "PATOLOGIA",
+      "start": 1274,
+      "end": 1320
+    },
+    {
+      "text": "volumen sanguíneo cerebral (CBV)",
+      "type": "MEDIDA",
+      "start": 1323,
+      "end": 1355
+    },
+    {
+      "text": "tiempo de tránsito medio (MTT)",
+      "type": "MEDIDA",
+      "start": 1382,
+      "end": 1412
+    },
+    {
+      "text": "tiempo hasta el pico (TTP)",
+      "type": "MEDIDA",
+      "start": 1415,
+      "end": 1441
+    },
+    {
+      "text": "isquemia en penumbra",
+      "type": "PATOLOGIA",
+      "start": 1461,
+      "end": 1481
+    },
+    {
+      "text": "oclusión focal en segmento A2 de la arteria cerebral anterior derecha",
+      "type": "PATOLOGIA",
+      "start": 1599,
+      "end": 1668
+    },
+    {
+      "text": "ACM, ACP y ACA izquierda",
+      "type": "ARTERIA",
+      "start": 1701,
+      "end": 1725
+    },
+    {
+      "text": "No se observan signos de trombosis en sistema venoso cerebral.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1771,
+      "end": 1833
+    },
+    {
+      "text": "No hemorragia intracraneal asociada.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2349,
+      "end": 2385
+    },
+    {
+      "text": "afectación inferior a los 2 cm de extensión",
+      "type": "MEDIDA",
+      "start": 2140,
+      "end": 2183
+    }
+  ]
+}

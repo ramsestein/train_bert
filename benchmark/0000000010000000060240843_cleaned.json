@@ -1,0 +1,95 @@
+{
+  "document_id": "0000000010000000060240843_cleaned",
+  "entities": [
+    {
+      "text": "Infart cerebral causat per oclusió o estenosi no especificades d'artèria cerebral no especificada",
+      "type": "PATOLOGIA",
+      "start": 166,
+      "end": 263
+    },
+    {
+      "text": "isquémicos crónicos",
+      "type": "PATOLOGIA",
+      "start": 561,
+      "end": 580
+    },
+    {
+      "text": "CADASIL",
+      "type": "PATOLOGIA",
+      "start": 620,
+      "end": 627
+    },
+    {
+      "text": "No se observa hemorragia intra ni extraaxial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 721,
+      "end": 765
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 814,
+      "end": 824
+    },
+    {
+      "text": "TC PERFUSIÓN",
+      "type": "TECNICA_IMAGEN",
+      "start": 945,
+      "end": 957
+    },
+    {
+      "text": "No se observan alteraciones valorables en el CBV, TTP y CBF",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 959,
+      "end": 1018
+    },
+    {
+      "text": "ACAs, ACMs y ACPs",
+      "type": "ARTERIA",
+      "start": 1095,
+      "end": 1112
+    },
+    {
+      "text": "50% de su luz en el lado izquierdo",
+      "type": "MEDIDA",
+      "start": 1289,
+      "end": 1323
+    },
+    {
+      "text": "25% en el lado derecho",
+      "type": "MEDIDA",
+      "start": 1330,
+      "end": 1352
+    },
+    {
+      "text": "Ateromatosis calcificada de ambas arterias carótidas internas",
+      "type": "PATOLOGIA",
+      "start": 1150,
+      "end": 1211
+    },
+    {
+      "text": "Ateromatosis calcificada del origen de la arteria vertebral derecha",
+      "type": "PATOLOGIA",
+      "start": 1500,
+      "end": 1567
+    },
+    {
+      "text": "sin estenosis significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1461,
+      "end": 1488
+    },
+    {
+      "text": "sin ateromatosis ni signos de estenosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1639,
+      "end": 1678
+    },
+    {
+      "text": "Ateromatosis calcificada de arco aórtico y segmentos proximales de troncos supraórticos",
+      "type": "PATOLOGIA",
+      "start": 1680,
+      "end": 1767
+    }
+  ]
+}

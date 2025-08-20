@@ -1,0 +1,65 @@
+{
+  "document_id": "informe_sintetico_20250804195045_22228",
+  "entities": [
+    {
+      "text": "ictus isquémico agudo",
+      "type": "PATOLOGIA",
+      "start": 232,
+      "end": 253
+    },
+    {
+      "text": "segmento M1 de la arteria cerebral media derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 478,
+      "end": 526
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "ARTERIA",
+      "start": 496,
+      "end": 526
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 519,
+      "end": 526
+    },
+    {
+      "text": "6",
+      "type": "MEDIDA",
+      "start": 795,
+      "end": 796
+    },
+    {
+      "text": "agudo",
+      "type": "TEMPORALIDAD",
+      "start": 248,
+      "end": 253
+    },
+    {
+      "text": "ASPECTS",
+      "type": "PUNTUACION_CLINICA",
+      "start": 775,
+      "end": 782
+    },
+    {
+      "text": "TC craneal basal sin contraste",
+      "type": "TECNICA_IMAGEN",
+      "start": 298,
+      "end": 328
+    },
+    {
+      "text": "No existen datos de hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 798,
+      "end": 841
+    },
+    {
+      "text": "No hay evidencia de hemorragia ni edema masivo en la actualidad",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1955,
+      "end": 2018
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "document_id": "informe_sintetico_20250804195045_10647",
+  "entities": [
+    {
+      "text": "hipodensidad",
+      "type": "PATOLOGIA",
+      "start": 468,
+      "end": 480
+    },
+    {
+      "text": "edema cerebral difuso",
+      "type": "PATOLOGIA",
+      "start": 629,
+      "end": 650
+    },
+    {
+      "text": "pérdida de la diferenciación cortico-subcortical",
+      "type": "PATOLOGIA",
+      "start": 663,
+      "end": 711
+    },
+    {
+      "text": "hemorragias",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 849,
+      "end": 860
+    },
+    {
+      "text": "lesiones ocupantes de espacio",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 864,
+      "end": 893
+    },
+    {
+      "text": "disminución global en el flujo cerebral",
+      "type": "PATOLOGIA",
+      "start": 989,
+      "end": 1028
+    },
+    {
+      "text": "aumento del tiempo hasta el pico",
+      "type": "PATOLOGIA",
+      "start": 1037,
+      "end": 1069
+    },
+    {
+      "text": "retraso máximo",
+      "type": "PATOLOGIA",
+      "start": 1082,
+      "end": 1096
+    },
+    {
+      "text": "daño isquémico global",
+      "type": "PATOLOGIA",
+      "start": 1246,
+      "end": 1267
+    },
+    {
+      "text": "estenosis significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1332,
+      "end": 1356
+    },
+    {
+      "text": "arterias intracraneales",
+      "type": "ARTERIA",
+      "start": 1407,
+      "end": 1430
+    },
+    {
+      "text": "daño cerebral global",
+      "type": "PATOLOGIA",
+      "start": 1549,
+      "end": 1569
+    },
+    {
+      "text": "hipoxia/isquemia",
+      "type": "PATOLOGIA",
+      "start": 1583,
+      "end": 1599
+    },
+    {
+      "text": "bilateral",
+      "type": "LATERALIDAD",
+      "start": 511,
+      "end": 520
+    },
+    {
+      "text": "sin áreas focales de salvamento tisular",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1784,
+      "end": 1823
+    },
+    {
+      "text": "hemorragias intracraneales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1870,
+      "end": 1896
+    },
+    {
+      "text": "TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANG IOTC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 72,
+      "end": 140
+    },
+    {
+      "text": "TC craneal basal urgente",
+      "type": "TECNICA_IMAGEN",
+      "start": 303,
+      "end": 327
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 330,
+      "end": 351
+    },
+    {
+      "text": "angioTC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 354,
+      "end": 383
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "document_id": "informe_sintetico_20250804195045_20685",
+  "entities": [
+    {
+      "text": "ictus isquémico",
+      "type": "PATOLOGIA",
+      "start": 254,
+      "end": 269
+    },
+    {
+      "text": "arteria hiperdensa",
+      "type": "PATOLOGIA",
+      "start": 458,
+      "end": 476
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 1677,
+      "end": 1691
+    },
+    {
+      "text": "infarto",
+      "type": "PATOLOGIA",
+      "start": 1226,
+      "end": 1233
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 491,
+      "end": 523
+    },
+    {
+      "text": "segmento M1",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 530,
+      "end": 541
+    },
+    {
+      "text": "ACM",
+      "type": "ARTERIA",
+      "start": 952,
+      "end": 955
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 514,
+      "end": 523
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 514,
+      "end": 523
+    },
+    {
+      "text": "ASPECTS estimado entre 6 y 7",
+      "type": "PUNTUACION_CLINICA",
+      "start": 686,
+      "end": 714
+    },
+    {
+      "text": "ASPECTS entre 6 y 7",
+      "type": "PUNTUACION_CLINICA",
+      "start": 1642,
+      "end": 1661
+    },
+    {
+      "text": "TC CRANEAL BASAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 418,
+      "end": 434
+    },
+    {
+      "text": "TC PERFUSIÓN",
+      "type": "TECNICA_IMAGEN",
+      "start": 894,
+      "end": 906
+    },
+    {
+      "text": "ANGIO-TC ARTERIAL INTRACRANEAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 1259,
+      "end": 1289
+    },
+    {
+      "text": "No hemorragia intra o extraaxial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 716,
+      "end": 748
+    },
+    {
+      "text": "No se evidencian lesiones adicionales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 852,
+      "end": 889
+    },
+    {
+      "text": "No se evidencian signos de hemorragia ni complicaciones adicionales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1781,
+      "end": 1848
+    }
+  ]
+}

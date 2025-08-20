@@ -1,0 +1,59 @@
+{
+  "document_id": "informe_sintetico_20250804195045_19767",
+  "entities": [
+    {
+      "text": "hematoma lobar frontal izquierdo",
+      "type": "PATOLOGIA",
+      "start": 441,
+      "end": 473
+    },
+    {
+      "text": "45 x 38 x 40 mm",
+      "type": "MEDIDA",
+      "start": 477,
+      "end": 492
+    },
+    {
+      "text": "subagudo",
+      "type": "TEMPORALIDAD",
+      "start": 544,
+      "end": 552
+    },
+    {
+      "text": "edema perilesional",
+      "type": "PATOLOGIA",
+      "start": 1550,
+      "end": 1568
+    },
+    {
+      "text": "desviación de la línea media de aproximadamente 4 mm hacia la derecha",
+      "type": "MEDIDA",
+      "start": 664,
+      "end": 733
+    },
+    {
+      "text": "ventrículo lateral izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 839,
+      "end": 867
+    },
+    {
+      "text": "sin evidencia de área isquémica extensa ni penumbra significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1195,
+      "end": 1260
+    },
+    {
+      "text": "Arterias cerebrales anteriores y medias izquierdas",
+      "type": "ARTERIA",
+      "start": 1285,
+      "end": 1335
+    },
+    {
+      "text": "sin evidencia de estenosis o trombosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1348,
+      "end": 1386
+    }
+  ]
+}

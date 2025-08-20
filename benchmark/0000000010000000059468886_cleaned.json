@@ -1,0 +1,101 @@
+{
+  "document_id": "0000000010000000059468886_cleaned",
+  "entities": [
+    {
+      "text": "Infart cerebral causat per oclusió o estenosi no especificades d'artèria cerebral no especificada",
+      "type": "PATOLOGIA",
+      "start": 166,
+      "end": 263
+    },
+    {
+      "text": "No se observa hemorragia intra ni extraaxial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 412,
+      "end": 456
+    },
+    {
+      "text": "Parénquima cerebral sin alteraciones densitométricas agudas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 458,
+      "end": 517
+    },
+    {
+      "text": "Diferenciación cortico-subcortical conservada",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 519,
+      "end": 564
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 566,
+      "end": 576
+    },
+    {
+      "text": "No se observan lesiones isquémicas parenquimatosas subagudas ni otras lesiones isquemicas crónicas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 578,
+      "end": 676
+    },
+    {
+      "text": "Foco de hiperdensidad en la topografía de la ACM derecha",
+      "type": "PATOLOGIA",
+      "start": 796,
+      "end": 852
+    },
+    {
+      "text": "aumento de los parámetros de tiempo en un amplio territorio frontotemporoparietal derecho (dependiente de la ACM derecha)",
+      "type": "PATOLOGIA",
+      "start": 909,
+      "end": 1030
+    },
+    {
+      "text": "caída recíproca del flujo pero con volumen preservado (penumbra)",
+      "type": "PATOLOGIA",
+      "start": 1035,
+      "end": 1099
+    },
+    {
+      "text": "zona de core = mismatch significativo",
+      "type": "PATOLOGIA",
+      "start": 1187,
+      "end": 1224
+    },
+    {
+      "text": "Defecto de repleción endoluminal en la ACM derecha en el segmento M1 a nivel de la bifurcación",
+      "type": "PATOLOGIA",
+      "start": 1678,
+      "end": 1772
+    },
+    {
+      "text": "Resto de arterias cerebrales intracraneales permeables (ACAs, ACM izquierda y ACPs)",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1824,
+      "end": 1907
+    },
+    {
+      "text": "Sistema vertebrobasilar permeable",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1909,
+      "end": 1942
+    },
+    {
+      "text": "Ictus isquémico",
+      "type": "PATOLOGIA",
+      "start": 2207,
+      "end": 2222
+    },
+    {
+      "text": "extensa área hemisférica derecha dependiente de la ACM derecha en penumbra con pequeña área de core (mismatch significativo)",
+      "type": "PATOLOGIA",
+      "start": 2249,
+      "end": 2373
+    },
+    {
+      "text": "Defecto de repleción en el segmento M1 de la ACM derecha a nivel de la bifurcación",
+      "type": "PATOLOGIA",
+      "start": 2375,
+      "end": 2457
+    }
+  ]
+}

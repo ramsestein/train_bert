@@ -1,0 +1,83 @@
+{
+  "document_id": "informe_sintetico_20250804195045_16225",
+  "entities": [
+    {
+      "text": "isquemia",
+      "type": "PATOLOGIA",
+      "start": 238,
+      "end": 246
+    },
+    {
+      "text": "arteria cerebral anterior izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 616,
+      "end": 651
+    },
+    {
+      "text": "arteria cerebral anterior izquierda",
+      "type": "ARTERIA",
+      "start": 616,
+      "end": 651
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 642,
+      "end": 651
+    },
+    {
+      "text": "hipodensidad precoz",
+      "type": "PATOLOGIA",
+      "start": 520,
+      "end": 539
+    },
+    {
+      "text": "A2",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1409,
+      "end": 1411
+    },
+    {
+      "text": "A2",
+      "type": "ARTERIA",
+      "start": 1409,
+      "end": 1411
+    },
+    {
+      "text": "aguda",
+      "type": "TEMPORALIDAD",
+      "start": 1671,
+      "end": 1676
+    },
+    {
+      "text": "No se evidencian hemorragias intra o extraaxiales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 455,
+      "end": 504
+    },
+    {
+      "text": "No signos de herniación",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 742,
+      "end": 765
+    },
+    {
+      "text": "sin hipertrofia ni signo de edema significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 693,
+      "end": 740
+    },
+    {
+      "text": "sin lesiones estenosantes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1350,
+      "end": 1375
+    },
+    {
+      "text": "sin estenosis relevantes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1550,
+      "end": 1574
+    }
+  ]
+}

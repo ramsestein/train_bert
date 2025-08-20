@@ -1,0 +1,83 @@
+{
+  "document_id": "0000000010000000058452821_cleaned",
+  "entities": [
+    {
+      "text": "oclusió",
+      "type": "PATOLOGIA",
+      "start": 193,
+      "end": 200
+    },
+    {
+      "text": "estenosi",
+      "type": "PATOLOGIA",
+      "start": 203,
+      "end": 211
+    },
+    {
+      "text": "artèria cerebral",
+      "type": "ARTERIA",
+      "start": 231,
+      "end": 247
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 490,
+      "end": 500
+    },
+    {
+      "text": "microangiopatia crònica",
+      "type": "PATOLOGIA",
+      "start": 512,
+      "end": 535
+    },
+    {
+      "text": "substància blanca supratentorial",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 538,
+      "end": 570
+    },
+    {
+      "text": "No s'observen signes d'hemorràgia aguda intra o extraaxial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 384,
+      "end": 442
+    },
+    {
+      "text": "No s'observen alteracions valorables en els mapes de TTP, CBV i CBF",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 735,
+      "end": 802
+    },
+    {
+      "text": "sense estenosis destacables",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 981,
+      "end": 1008
+    },
+    {
+      "text": "Principals artèries cerebrals intracranials permeables",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1084,
+      "end": 1138
+    },
+    {
+      "text": "ACPs d'origen fetal bilateral",
+      "type": "ARTERIA",
+      "start": 1160,
+      "end": 1189
+    },
+    {
+      "text": "Sistema vertebrobasilar permeable",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1191,
+      "end": 1224
+    },
+    {
+      "text": "alteracions significatives a l'estudi de perfusió ni angio-tc",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1409,
+      "end": 1470
+    }
+  ]
+}

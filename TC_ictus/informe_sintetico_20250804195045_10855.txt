@@ -1,0 +1,30 @@
+UO_PACN (Unidad Organizativa Médica): RADIO
+
+PRUEB (Prueba solicitada): TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANG IOTC ARTERIAL INTRACRANEAL)
+
+CLIN (Resumen clínico): Paciente con cuadro de déficit neurológico focal de inicio súbito compatible con sospecha de ictus, antecedentes de hipotensión arterial y enfermedad arterial carotídea.
+
+OBSR (Protocolo): TC craneal basal sin contraste + TC perfusión cerebral + angioTC arterial intracraneal y de troncos supraaórticos (Código Ictus urgente).
+
+RESL (Resultados):  
+TC CRANEAL BASAL:  
+No se observan hemorragias intracraneales ni lesiones ocupantes de espacio. Se identifica una leve hipodensidad difusa en zonas fronto-parietales bilaterales, en áreas correspondientes a los territorios de unión entre las arterias cerebrales anteriores y medias, compatibles con infarto tipo watershed. No hay desplazamiento de la línea media ni edema cerebral significativo. Sistema ventricular y cisternas basales en límites normales.
+
+TC PERFUSIÓN:  
+Los mapas de tiempo de tránsito (Tmax) muestran retraso prolongado bilateral en las regiones fronto-parietales subcorticales, con disminución moderada del flujo sanguíneo cerebral (CBF) y volumen cerebral (CBV) mantenido, sugiriendo tejido en riesgo compatible con penumbra isquémica en zonas watershed.
+
+ANGIO-TC EXTRA E INTRACRANEAL:  
+Placas ateromatosas calcificadas en ambas bifurcaciones carotídeas, con estenosis moderada (~50%) en segmento proximal de arteria carótida interna izquierda. Circulación intracraneal patentemente permeable, sin oclusiones ni estenosis significativas en las principales arterias cerebrales. Sistema vertebrobasilar permeable sin hallazgos patológicos.
+
+CONCL (Conclusiones):  
+Se evidencia infarto cerebral bilateral en territorios watershed fronto-parietales, compatible con hipoperfusión secundaria a estenosis carotídea izquierda y probable episodio de hipotensión arterial. TC perfusión indica tejido en riesgo con preservación del volumen sanguíneo. No se visualizan signos de hemorragia ni oclusiones arteriales mayores.
+
+ACTI_ADICI (Actividad adicional):  
+
+ICON (Estudio): @TC_CODE_12345@
+
+X00DIATXT (Texto del diagnóstico ACR): Infarto cerebral watershed bilateral en territorios fronto-parietales asociado a estenosis carotídea interna izquierda moderada, sin evidencia de hemorragia ni oclusión arterial intracraneal.
+
+EST_T_DES (Descripción): TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANGIOTC ARTERIAL INTRACRANEAL)
+
+ZVASOS_D (Der.): Sin hallazgos de afectación vascular significativa intracraneal, estenosis carotídea interna izquierda moderada.

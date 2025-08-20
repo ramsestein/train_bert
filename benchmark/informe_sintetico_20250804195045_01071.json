@@ -1,0 +1,83 @@
+{
+  "document_id": "informe_sintetico_20250804195045_01071",
+  "entities": [
+    {
+      "text": "infarto cerebral isquémico agudo",
+      "type": "PATOLOGIA",
+      "start": 179,
+      "end": 211
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 232,
+      "end": 262
+    },
+    {
+      "text": "ACM",
+      "type": "ARTERIA",
+      "start": 1103,
+      "end": 1106
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 255,
+      "end": 262
+    },
+    {
+      "text": "6 mm",
+      "type": "MEDIDA",
+      "start": 731,
+      "end": 735
+    },
+    {
+      "text": "agudo",
+      "type": "TEMPORALIDAD",
+      "start": 206,
+      "end": 211
+    },
+    {
+      "text": "PH1",
+      "type": "PUNTUACION_CLINICA",
+      "start": 798,
+      "end": 801
+    },
+    {
+      "text": "TC craneal basal sin contraste",
+      "type": "TECNICA_IMAGEN",
+      "start": 379,
+      "end": 409
+    },
+    {
+      "text": "No se evidencian colecciones hemorrágicas mayores",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 816,
+      "end": 865
+    },
+    {
+      "text": "No se observan hemorragias de mayor extensión",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1657,
+      "end": 1702
+    },
+    {
+      "text": "Oclusión parcial del segmento M2 de ACM derecha",
+      "type": "PATOLOGIA",
+      "start": 1269,
+      "end": 1316
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 232,
+      "end": 262
+    },
+    {
+      "text": "sin hallazgos patológicos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1467,
+      "end": 1492
+    }
+  ]
+}

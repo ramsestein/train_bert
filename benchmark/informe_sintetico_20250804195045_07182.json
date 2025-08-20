@@ -1,0 +1,59 @@
+{
+  "document_id": "informe_sintetico_20250804195045_07182",
+  "entities": [
+    {
+      "text": "hematoma intraparenquimatoso",
+      "type": "PATOLOGIA",
+      "start": 399,
+      "end": 427
+    },
+    {
+      "text": "putamen izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 456,
+      "end": 473
+    },
+    {
+      "text": "cápsula interna",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 498,
+      "end": 513
+    },
+    {
+      "text": "3,5 x 3,0 x 3,2 cm",
+      "type": "MEDIDA",
+      "start": 544,
+      "end": 562
+    },
+    {
+      "text": "9 mm",
+      "type": "MEDIDA",
+      "start": 694,
+      "end": 698
+    },
+    {
+      "text": "agudo",
+      "type": "TEMPORALIDAD",
+      "start": 186,
+      "end": 191
+    },
+    {
+      "text": "TC craneal basal urgente sin contraste",
+      "type": "TECNICA_IMAGEN",
+      "start": 272,
+      "end": 310
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 312,
+      "end": 333
+    },
+    {
+      "text": "angio-TC intracraneal arterial",
+      "type": "TECNICA_IMAGEN",
+      "start": 336,
+      "end": 366
+    }
+  ]
+}

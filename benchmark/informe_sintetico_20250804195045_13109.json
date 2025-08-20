@@ -1,0 +1,65 @@
+{
+  "document_id": "informe_sintetico_20250804195045_13109",
+  "entities": [
+    {
+      "text": "infarto cerebral",
+      "type": "PATOLOGIA",
+      "start": 209,
+      "end": 225
+    },
+    {
+      "text": "hipodensidad bilateral",
+      "type": "PATOLOGIA",
+      "start": 472,
+      "end": 494
+    },
+    {
+      "text": "infarto watershed",
+      "type": "PATOLOGIA",
+      "start": 594,
+      "end": 611
+    },
+    {
+      "text": "bilaterales",
+      "type": "LATERALIDAD",
+      "start": 1030,
+      "end": 1041
+    },
+    {
+      "text": "crónica",
+      "type": "TEMPORALIDAD",
+      "start": 1780,
+      "end": 1787
+    },
+    {
+      "text": "aguda",
+      "type": "TEMPORALIDAD",
+      "start": 1790,
+      "end": 1795
+    },
+    {
+      "text": "No se observa hemorragia intra ni extraaxial.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 411,
+      "end": 456
+    },
+    {
+      "text": "No hay áreas con incremento significativo del volumen sanguíneo que sugieran reperfusión.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1192,
+      "end": 1281
+    },
+    {
+      "text": "No se observan placas de ateroma inestables ni signos de disección.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1588,
+      "end": 1655
+    },
+    {
+      "text": "No evidencia de hemorragia intracraneal ni estenosis arterial significativa.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1855,
+      "end": 1931
+    }
+  ]
+}

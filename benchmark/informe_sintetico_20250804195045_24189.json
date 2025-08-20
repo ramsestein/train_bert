@@ -1,0 +1,89 @@
+{
+  "document_id": "informe_sintetico_20250804195045_24189",
+  "entities": [
+    {
+      "text": "hemorragia intra ni extraaxial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 449,
+      "end": 479
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 585,
+      "end": 599
+    },
+    {
+      "text": "cambios atróficos corticales",
+      "type": "PATOLOGIA",
+      "start": 780,
+      "end": 808
+    },
+    {
+      "text": "leucoaraiosis periventricular",
+      "type": "PATOLOGIA",
+      "start": 816,
+      "end": 845
+    },
+    {
+      "text": "valores dentro de rangos normales",
+      "type": "MEDIDA",
+      "start": 910,
+      "end": 943
+    },
+    {
+      "text": "sin zonas de hipoperfusión o mismatch significativos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 945,
+      "end": 997
+    },
+    {
+      "text": "sin placas ateromatosas relevantes ni estenosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1197,
+      "end": 1244
+    },
+    {
+      "text": "sin signos de estenosis ni alteraciones del flujo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1297,
+      "end": 1346
+    },
+    {
+      "text": "calibre habitual y permeables",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1428,
+      "end": 1457
+    },
+    {
+      "text": "sin hallazgos agudos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1550,
+      "end": 1570
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 1572,
+      "end": 1582
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 256,
+      "end": 272
+    },
+    {
+      "text": "perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 274,
+      "end": 292
+    },
+    {
+      "text": "angio-TC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 295,
+      "end": 325
+    }
+  ]
+}

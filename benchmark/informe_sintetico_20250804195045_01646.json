@@ -1,0 +1,77 @@
+{
+  "document_id": "informe_sintetico_20250804195045_01646",
+  "entities": [
+    {
+      "text": "hematoma hiperdenso",
+      "type": "PATOLOGIA",
+      "start": 512,
+      "end": 531
+    },
+    {
+      "text": "3,5 cm",
+      "type": "MEDIDA",
+      "start": 535,
+      "end": 541
+    },
+    {
+      "text": "región talámica izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 585,
+      "end": 610
+    },
+    {
+      "text": "tercer ventrículo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 635,
+      "end": 652
+    },
+    {
+      "text": "4 mm",
+      "type": "MEDIDA",
+      "start": 817,
+      "end": 821
+    },
+    {
+      "text": "ASPECTS no aplicable",
+      "type": "PUNTUACION_CLINICA",
+      "start": 1106,
+      "end": 1126
+    },
+    {
+      "text": "isquemia isquémica",
+      "type": "PATOLOGIA",
+      "start": 1322,
+      "end": 1340
+    },
+    {
+      "text": "arterias intracraneales",
+      "type": "ARTERIA",
+      "start": 1395,
+      "end": 1418
+    },
+    {
+      "text": "talámico",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1541,
+      "end": 1549
+    },
+    {
+      "text": "No se observan signos de hidrocefalia obstructiva franca",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1689,
+      "end": 1745
+    },
+    {
+      "text": "No se identifican otras hemorragias extraaxiales ni infartos isquémicos agudos visibles",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 935,
+      "end": 1022
+    },
+    {
+      "text": "sin signos de estenosis ni trombosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1430,
+      "end": 1466
+    }
+  ]
+}

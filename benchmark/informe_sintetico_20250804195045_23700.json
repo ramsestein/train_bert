@@ -1,0 +1,101 @@
+{
+  "document_id": "informe_sintetico_20250804195045_23700",
+  "entities": [
+    {
+      "text": "hemiparesia bilateral",
+      "type": "PATOLOGIA",
+      "start": 258,
+      "end": 279
+    },
+    {
+      "text": "evento isquémico",
+      "type": "PATOLOGIA",
+      "start": 293,
+      "end": 309
+    },
+    {
+      "text": "edema citotóxico temprano",
+      "type": "PATOLOGIA",
+      "start": 762,
+      "end": 787
+    },
+    {
+      "text": "prolongación significativa",
+      "type": "PATOLOGIA",
+      "start": 948,
+      "end": 974
+    },
+    {
+      "text": "reducción marcada del flujo cerebral",
+      "type": "PATOLOGIA",
+      "start": 1010,
+      "end": 1046
+    },
+    {
+      "text": "aumento del volumen cerebral",
+      "type": "PATOLOGIA",
+      "start": 1055,
+      "end": 1083
+    },
+    {
+      "text": "hipoperfusión grave",
+      "type": "PATOLOGIA",
+      "start": 1156,
+      "end": 1175
+    },
+    {
+      "text": "arteria basilar",
+      "type": "ARTERIA",
+      "start": 1262,
+      "end": 1277
+    },
+    {
+      "text": "sin hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2155,
+      "end": 2182
+    },
+    {
+      "text": "oclusión aguda",
+      "type": "TEMPORALIDAD",
+      "start": 1616,
+      "end": 1630
+    },
+    {
+      "text": "tronco encefálico",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1179,
+      "end": 1196
+    },
+    {
+      "text": "cerebelo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1199,
+      "end": 1207
+    },
+    {
+      "text": "sin estenosis significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1458,
+      "end": 1486
+    },
+    {
+      "text": "TC craneal simple",
+      "type": "TECNICA_IMAGEN",
+      "start": 375,
+      "end": 392
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 394,
+      "end": 415
+    },
+    {
+      "text": "AngioTC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 418,
+      "end": 447
+    }
+  ]
+}

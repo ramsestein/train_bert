@@ -1,0 +1,253 @@
+{
+  "document_id": "informe_sintetico_20250804195045_15407",
+  "entities": [
+    {
+      "text": "infarto isquémico",
+      "type": "PATOLOGIA",
+      "start": 306,
+      "end": 323
+    },
+    {
+      "text": "hemiparesia izquierda",
+      "type": "PATOLOGIA",
+      "start": 201,
+      "end": 222
+    },
+    {
+      "text": "disección arterial carotídea",
+      "type": "PATOLOGIA",
+      "start": 265,
+      "end": 293
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 379,
+      "end": 395
+    },
+    {
+      "text": "perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 422,
+      "end": 440
+    },
+    {
+      "text": "angiografía por TC arterial extra e intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 443,
+      "end": 491
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 668,
+      "end": 698
+    },
+    {
+      "text": "área hipodensa",
+      "type": "PATOLOGIA",
+      "start": 633,
+      "end": 647
+    },
+    {
+      "text": "territorio de la arteria cerebral media derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 651,
+      "end": 698
+    },
+    {
+      "text": "edema citotóxico",
+      "type": "PATOLOGIA",
+      "start": 814,
+      "end": 830
+    },
+    {
+      "text": "signos de hipertensión intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 892,
+      "end": 927
+    },
+    {
+      "text": "prolongación de tiempos de tránsito medio (TTM)",
+      "type": "PATOLOGIA",
+      "start": 960,
+      "end": 1007
+    },
+    {
+      "text": "tiempo hasta el máximo (Tmax)",
+      "type": "PATOLOGIA",
+      "start": 1010,
+      "end": 1039
+    },
+    {
+      "text": "territorio derecho de la ACM",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1043,
+      "end": 1071
+    },
+    {
+      "text": "flujo cerebral (CBF)",
+      "type": "PATOLOGIA",
+      "start": 1106,
+      "end": 1126
+    },
+    {
+      "text": "volumen cerebral (CBV)",
+      "type": "PATOLOGIA",
+      "start": 1141,
+      "end": 1163
+    },
+    {
+      "text": "zona de penumbra",
+      "type": "PATOLOGIA",
+      "start": 1210,
+      "end": 1226
+    },
+    {
+      "text": "caída del CBF",
+      "type": "PATOLOGIA",
+      "start": 1231,
+      "end": 1244
+    },
+    {
+      "text": "preservación discreta del CBV",
+      "type": "PATOLOGIA",
+      "start": 1247,
+      "end": 1276
+    },
+    {
+      "text": "signo de doble luz",
+      "type": "PATOLOGIA",
+      "start": 1323,
+      "end": 1341
+    },
+    {
+      "text": "segmento cervical y petroso de la arteria carótida interna derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1345,
+      "end": 1411
+    },
+    {
+      "text": "disección arterial",
+      "type": "PATOLOGIA",
+      "start": 265,
+      "end": 283
+    },
+    {
+      "text": "defecto de repleción",
+      "type": "PATOLOGIA",
+      "start": 1473,
+      "end": 1493
+    },
+    {
+      "text": "segmentos intracraneales proximales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1528,
+      "end": 1563
+    },
+    {
+      "text": "arteriosclerosis leve",
+      "type": "PATOLOGIA",
+      "start": 1598,
+      "end": 1619
+    },
+    {
+      "text": "signos de trombosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1721,
+      "end": 1740
+    },
+    {
+      "text": "principales ramas cerebrales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1748,
+      "end": 1776
+    },
+    {
+      "text": "infarto isquémico agudo",
+      "type": "PATOLOGIA",
+      "start": 715,
+      "end": 738
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 668,
+      "end": 698
+    },
+    {
+      "text": "disección arterial carotídea derecha",
+      "type": "PATOLOGIA",
+      "start": 1909,
+      "end": 1945
+    },
+    {
+      "text": "doble luz",
+      "type": "PATOLOGIA",
+      "start": 1332,
+      "end": 1341
+    },
+    {
+      "text": "estenosis segmentaria",
+      "type": "PATOLOGIA",
+      "start": 1962,
+      "end": 1983
+    },
+    {
+      "text": "área infartada",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 2028,
+      "end": 2042
+    },
+    {
+      "text": "potencialmente salvable",
+      "type": "PATOLOGIA",
+      "start": 2044,
+      "end": 2067
+    },
+    {
+      "text": "tratamiento endovascular o médico",
+      "type": "PATOLOGIA",
+      "start": 2159,
+      "end": 2192
+    },
+    {
+      "text": "Infarto cerebral",
+      "type": "PATOLOGIA",
+      "start": 2283,
+      "end": 2299
+    },
+    {
+      "text": "disección de arteria carótida interna derecha",
+      "type": "PATOLOGIA",
+      "start": 2304,
+      "end": 2349
+    },
+    {
+      "text": "área de penumbra tisular",
+      "type": "PATOLOGIA",
+      "start": 2354,
+      "end": 2378
+    },
+    {
+      "text": "TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANGIOTC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 2419,
+      "end": 2486
+    },
+    {
+      "text": "angio-TC arterial",
+      "type": "TECNICA_IMAGEN",
+      "start": 2537,
+      "end": 2554
+    },
+    {
+      "text": "signos característicos de disección carotídea",
+      "type": "PATOLOGIA",
+      "start": 2559,
+      "end": 2604
+    }
+  ],
+  "regenerado": true,
+  "fecha_regeneracion": "2025-08-06T15:36:31.030647"
+}

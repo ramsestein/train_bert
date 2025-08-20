@@ -1,0 +1,77 @@
+{
+  "document_id": "informe_sintetico_20250804195045_05953",
+  "entities": [
+    {
+      "text": "hemorragia subaracnoidea",
+      "type": "PATOLOGIA",
+      "start": 235,
+      "end": 259
+    },
+    {
+      "text": "hemorragia subaracnoidea focal",
+      "type": "PATOLOGIA",
+      "start": 577,
+      "end": 607
+    },
+    {
+      "text": "cisterna perimesencefálica derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 526,
+      "end": 560
+    },
+    {
+      "text": "cisterna perimesencefálica derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 526,
+      "end": 560
+    },
+    {
+      "text": "cisterna ambiens derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 894,
+      "end": 918
+    },
+    {
+      "text": "sin zonas de hipoperfusión ni isquemia penumbra detectable",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1038,
+      "end": 1096
+    },
+    {
+      "text": "sin hallazgos vascularmente significativos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1520,
+      "end": 1562
+    },
+    {
+      "text": "sin complicaciones ventriculares ni parenquimatosas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1975,
+      "end": 2026
+    },
+    {
+      "text": "sin aneurismas visibles",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2114,
+      "end": 2137
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 280,
+      "end": 296
+    },
+    {
+      "text": "angio-TC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 341,
+      "end": 371
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 399,
+      "end": 420
+    }
+  ]
+}

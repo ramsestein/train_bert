@@ -1,0 +1,173 @@
+{
+  "document_id": "informe_sintetico_20250804195045_20635",
+  "entities": [
+    {
+      "text": "ictus isquémico",
+      "type": "PATOLOGIA",
+      "start": 265,
+      "end": 280
+    },
+    {
+      "text": "hemiparesia contralateral",
+      "type": "PATOLOGIA",
+      "start": 217,
+      "end": 242
+    },
+    {
+      "text": "afasia",
+      "type": "PATOLOGIA",
+      "start": 245,
+      "end": 251
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 1278,
+      "end": 1292
+    },
+    {
+      "text": "arteria cerebral anterior izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 664,
+      "end": 699
+    },
+    {
+      "text": "lóbulo frontal",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 734,
+      "end": 748
+    },
+    {
+      "text": "cuerpo calloso anterior",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 754,
+      "end": 777
+    },
+    {
+      "text": "arteria cerebral anterior izquierda",
+      "type": "ARTERIA",
+      "start": 664,
+      "end": 699
+    },
+    {
+      "text": "A2",
+      "type": "ARTERIA",
+      "start": 1516,
+      "end": 1518
+    },
+    {
+      "text": "disminución clara del flujo sanguíneo cerebral",
+      "type": "PATOLOGIA",
+      "start": 1075,
+      "end": 1121
+    },
+    {
+      "text": "disminución clara del flujo sanguíneo cerebral (CBF)",
+      "type": "PATOLOGIA",
+      "start": 1075,
+      "end": 1127
+    },
+    {
+      "text": "volumen cerebral cerebral (CBV)",
+      "type": "PATOLOGIA",
+      "start": 1130,
+      "end": 1161
+    },
+    {
+      "text": "tiempo hasta el pico (TTP)",
+      "type": "MEDIDA",
+      "start": 1198,
+      "end": 1224
+    },
+    {
+      "text": "tiempo medio de tránsito (MTT)",
+      "type": "MEDIDA",
+      "start": 1231,
+      "end": 1261
+    },
+    {
+      "text": "zona de penumbra",
+      "type": "PATOLOGIA",
+      "start": 1308,
+      "end": 1324
+    },
+    {
+      "text": "oclusión trombótica",
+      "type": "PATOLOGIA",
+      "start": 1429,
+      "end": 1448
+    },
+    {
+      "text": "arteria cerebral anterior izquierda (A2)",
+      "type": "ARTERIA",
+      "start": 1479,
+      "end": 1519
+    },
+    {
+      "text": "troncos supraórticos",
+      "type": "ARTERIA",
+      "start": 406,
+      "end": 426
+    },
+    {
+      "text": "sin estenosis significativas ni placas ateromatosas llamativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1554,
+      "end": 1616
+    },
+    {
+      "text": "sin alteraciones de la luz vascular",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1684,
+      "end": 1719
+    },
+    {
+      "text": "oclusión proximal",
+      "type": "PATOLOGIA",
+      "start": 1825,
+      "end": 1842
+    },
+    {
+      "text": "alteraciones de perfusión compatibles con área de penumbra",
+      "type": "PATOLOGIA",
+      "start": 1862,
+      "end": 1920
+    },
+    {
+      "text": "No se identifican signos de hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 532,
+      "end": 583
+    },
+    {
+      "text": "No complicaciones hemorrágicas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1922,
+      "end": 1952
+    },
+    {
+      "text": "TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANG IOTC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 72,
+      "end": 140
+    },
+    {
+      "text": "TC basal craneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 344,
+      "end": 360
+    },
+    {
+      "text": "estudio de perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 362,
+      "end": 391
+    },
+    {
+      "text": "angio-TC de troncos supraórticos e intracraneales",
+      "type": "TECNICA_IMAGEN",
+      "start": 394,
+      "end": 443
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "document_id": "informe_sintetico_20250804195045_20274",
+  "entities": [
+    {
+      "text": "microhemorragias multifocales",
+      "type": "PATOLOGIA",
+      "start": 654,
+      "end": 683
+    },
+    {
+      "text": "lóbulos frontales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 593,
+      "end": 610
+    },
+    {
+      "text": "bilaterales",
+      "type": "LATERALIDAD",
+      "start": 559,
+      "end": 570
+    },
+    {
+      "text": "No se observan signos de hemorragia aguda mayor",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 685,
+      "end": 732
+    },
+    {
+      "text": "No se observan aneurismas ni malformaciones vasculares visibles",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1284,
+      "end": 1347
+    },
+    {
+      "text": "No signos de hemorragia macro o isquemia aguda",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1600,
+      "end": 1646
+    }
+  ]
+}

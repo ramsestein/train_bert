@@ -1,0 +1,125 @@
+{
+  "document_id": "informe_sintetico_20250804195045_06828",
+  "entities": [
+    {
+      "text": "infarto cerebral",
+      "type": "PATOLOGIA",
+      "start": 242,
+      "end": 258
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 276,
+      "end": 306
+    },
+    {
+      "text": "aguda",
+      "type": "TEMPORALIDAD",
+      "start": 231,
+      "end": 236
+    },
+    {
+      "text": "infarto cerebral agudo",
+      "type": "PATOLOGIA",
+      "start": 613,
+      "end": 635
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 276,
+      "end": 306
+    },
+    {
+      "text": "PH2",
+      "type": "PUNTUACION_CLINICA",
+      "start": 683,
+      "end": 686
+    },
+    {
+      "text": "más del 30%",
+      "type": "MEDIDA",
+      "start": 771,
+      "end": 782
+    },
+    {
+      "text": "5 mm",
+      "type": "MEDIDA",
+      "start": 973,
+      "end": 977
+    },
+    {
+      "text": "hemorragias subaracnoideas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1047,
+      "end": 1073
+    },
+    {
+      "text": "hemoventriculares",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1077,
+      "end": 1094
+    },
+    {
+      "text": "marcada disminución de flujo cerebral",
+      "type": "PATOLOGIA",
+      "start": 1404,
+      "end": 1441
+    },
+    {
+      "text": "extensa zona de infarto",
+      "type": "PATOLOGIA",
+      "start": 1604,
+      "end": 1627
+    },
+    {
+      "text": "Oclusión completa de la arteria cerebral media derecha en su segmento M1",
+      "type": "PATOLOGIA",
+      "start": 1698,
+      "end": 1770
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 276,
+      "end": 306
+    },
+    {
+      "text": "M1",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1768,
+      "end": 1770
+    },
+    {
+      "text": "Riesgo elevado de complicaciones neurológicas",
+      "type": "PATOLOGIA",
+      "start": 2207,
+      "end": 2252
+    },
+    {
+      "text": "sangrado intracerebral",
+      "type": "PATOLOGIA",
+      "start": 2265,
+      "end": 2287
+    },
+    {
+      "text": "TC craneal basal inmediato",
+      "type": "TECNICA_IMAGEN",
+      "start": 370,
+      "end": 396
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 414,
+      "end": 435
+    },
+    {
+      "text": "angioTC arterial intracraneal urgente",
+      "type": "TECNICA_IMAGEN",
+      "start": 438,
+      "end": 475
+    }
+  ]
+}

@@ -1,0 +1,227 @@
+{
+  "document_id": "informe_sintetico_20250804195045_22622",
+  "entities": [
+    {
+      "text": "hemorragias agudas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 459,
+      "end": 477
+    },
+    {
+      "text": "hipodensidad",
+      "type": "PATOLOGIA",
+      "start": 514,
+      "end": 526
+    },
+    {
+      "text": "tronco del encéfalo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 533,
+      "end": 552
+    },
+    {
+      "text": "territorio bulbar y protuberancial",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 556,
+      "end": 590
+    },
+    {
+      "text": "edema isquémico temprano",
+      "type": "PATOLOGIA",
+      "start": 606,
+      "end": 630
+    },
+    {
+      "text": "diferenciación cortico-subcortical",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 646,
+      "end": 680
+    },
+    {
+      "text": "mesencéfalo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 687,
+      "end": 698
+    },
+    {
+      "text": "desplazamiento de la línea media",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 707,
+      "end": 739
+    },
+    {
+      "text": "efecto de masa significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 743,
+      "end": 771
+    },
+    {
+      "text": "hidrocefalia obstructiva",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 810,
+      "end": 834
+    },
+    {
+      "text": "volumen cerebral de sangre",
+      "type": "PATOLOGIA",
+      "start": 909,
+      "end": 935
+    },
+    {
+      "text": "territorio vertebrobasilar y troncoencefálico",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 945,
+      "end": 990
+    },
+    {
+      "text": "tiempos de tránsito",
+      "type": "PATOLOGIA",
+      "start": 1016,
+      "end": 1035
+    },
+    {
+      "text": "Tmax elevados",
+      "type": "PATOLOGIA",
+      "start": 1038,
+      "end": 1051
+    },
+    {
+      "text": "penumbra isquémica extensa",
+      "type": "PATOLOGIA",
+      "start": 1074,
+      "end": 1100
+    },
+    {
+      "text": "Oclusión completa del segmento distal de la arteria basilar",
+      "type": "PATOLOGIA",
+      "start": 1136,
+      "end": 1195
+    },
+    {
+      "text": "Ausencia de flujo en la arteria basilar distal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1197,
+      "end": 1243
+    },
+    {
+      "text": "arterias vertebrales proximal y segmentos V1-V3",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1249,
+      "end": 1296
+    },
+    {
+      "text": "permeables",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1297,
+      "end": 1307
+    },
+    {
+      "text": "arterias cerebrales posteriores",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1349,
+      "end": 1380
+    },
+    {
+      "text": "flujo retrasado y reducido",
+      "type": "PATOLOGIA",
+      "start": 1390,
+      "end": 1416
+    },
+    {
+      "text": "estenosis significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1435,
+      "end": 1459
+    },
+    {
+      "text": "Oclusión completa del segmento distal de arteria basilar",
+      "type": "PATOLOGIA",
+      "start": 1515,
+      "end": 1571
+    },
+    {
+      "text": "signos de isquemia extensa",
+      "type": "PATOLOGIA",
+      "start": 1576,
+      "end": 1602
+    },
+    {
+      "text": "tronco encefálico y territorio vertebrobasilar",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1606,
+      "end": 1652
+    },
+    {
+      "text": "hemorragia intraparenquimatosa o subaracnoidea",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1675,
+      "end": 1721
+    },
+    {
+      "text": "Área significativa de penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1723,
+      "end": 1763
+    },
+    {
+      "text": "ventana potencial para reperfusión",
+      "type": "PATOLOGIA",
+      "start": 1776,
+      "end": 1810
+    },
+    {
+      "text": "arteria basilar",
+      "type": "ARTERIA",
+      "start": 1180,
+      "end": 1195
+    },
+    {
+      "text": "vertebrales",
+      "type": "ARTERIA",
+      "start": 1258,
+      "end": 1269
+    },
+    {
+      "text": "arterias cerebrales posteriores",
+      "type": "ARTERIA",
+      "start": 1349,
+      "end": 1380
+    },
+    {
+      "text": "troncos supraórticos",
+      "type": "ARTERIA",
+      "start": 2302,
+      "end": 2322
+    },
+    {
+      "text": "TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANG IOTC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 72,
+      "end": 140
+    },
+    {
+      "text": "TC craneal basal no contrastada",
+      "type": "TECNICA_IMAGEN",
+      "start": 293,
+      "end": 324
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 326,
+      "end": 347
+    },
+    {
+      "text": "angio-TC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 350,
+      "end": 380
+    },
+    {
+      "text": "reconstrucción 3D",
+      "type": "TECNICA_IMAGEN",
+      "start": 385,
+      "end": 402
+    }
+  ]
+}

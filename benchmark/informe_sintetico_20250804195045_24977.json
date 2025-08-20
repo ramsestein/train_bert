@@ -1,0 +1,215 @@
+{
+  "document_id": "informe_sintetico_20250804195045_24977",
+  "entities": [
+    {
+      "text": "hemiparesia derecha",
+      "type": "PATOLOGIA",
+      "start": 227,
+      "end": 246
+    },
+    {
+      "text": "afasia motora",
+      "type": "PATOLOGIA",
+      "start": 249,
+      "end": 262
+    },
+    {
+      "text": "accidente isquémico cerebral",
+      "type": "PATOLOGIA",
+      "start": 284,
+      "end": 312
+    },
+    {
+      "text": "arteria cerebral media",
+      "type": "ARTERIA",
+      "start": 330,
+      "end": 352
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 429,
+      "end": 445
+    },
+    {
+      "text": "hemorragias intracraneales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 612,
+      "end": 638
+    },
+    {
+      "text": "edema cerebral significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 652,
+      "end": 680
+    },
+    {
+      "text": "hipodensidades que sugieran infarto establecido",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 747,
+      "end": 794
+    },
+    {
+      "text": "aumento del tiempo de tránsito medio (TTM)",
+      "type": "PATOLOGIA",
+      "start": 868,
+      "end": 910
+    },
+    {
+      "text": "tiempo hasta el pico (TTP)",
+      "type": "PATOLOGIA",
+      "start": 913,
+      "end": 939
+    },
+    {
+      "text": "arteria cerebral media distal",
+      "type": "ARTERIA",
+      "start": 960,
+      "end": 989
+    },
+    {
+      "text": "segmentos M2/M3",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 991,
+      "end": 1006
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 1008,
+      "end": 1017
+    },
+    {
+      "text": "reducción moderada del flujo cerebral (CBF)",
+      "type": "PATOLOGIA",
+      "start": 1023,
+      "end": 1066
+    },
+    {
+      "text": "volumen cerebral (CBV) mantenido",
+      "type": "PATOLOGIA",
+      "start": 1069,
+      "end": 1101
+    },
+    {
+      "text": "área en riesgo o penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1116,
+      "end": 1151
+    },
+    {
+      "text": "Oclusión completa del segmento M2",
+      "type": "PATOLOGIA",
+      "start": 1189,
+      "end": 1222
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "ARTERIA",
+      "start": 1229,
+      "end": 1261
+    },
+    {
+      "text": "buena permeabilidad de los vasos proximales",
+      "type": "PATOLOGIA",
+      "start": 1267,
+      "end": 1310
+    },
+    {
+      "text": "No se identifican otras estenosis o alteraciones significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1350,
+      "end": 1413
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 1528,
+      "end": 1542
+    },
+    {
+      "text": "territorio de arteria cerebral media distal",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1546,
+      "end": 1589
+    },
+    {
+      "text": "segmentos M2/M3",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 991,
+      "end": 1006
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 1008,
+      "end": 1017
+    },
+    {
+      "text": "sin infarto establecido",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1619,
+      "end": 1642
+    },
+    {
+      "text": "área de penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1649,
+      "end": 1675
+    },
+    {
+      "text": "Oclusión confirmada de arteria cerebral media distal izquierda",
+      "type": "PATOLOGIA",
+      "start": 1712,
+      "end": 1774
+    },
+    {
+      "text": "No evidencia de hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1788,
+      "end": 1827
+    },
+    {
+      "text": "occlusion of distal segment M2/M3 of the left middle cerebral artery",
+      "type": "PATOLOGIA",
+      "start": 2088,
+      "end": 2156
+    },
+    {
+      "text": "penumbra on perfusion imaging",
+      "type": "PATOLOGIA",
+      "start": 2163,
+      "end": 2192
+    },
+    {
+      "text": "no established infarction",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2197,
+      "end": 2222
+    },
+    {
+      "text": "TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANGIOTC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 2250,
+      "end": 2317
+    },
+    {
+      "text": "Oclusión en segmento M2 arterial cerebral media izquierda",
+      "type": "PATOLOGIA",
+      "start": 2336,
+      "end": 2393
+    },
+    {
+      "text": "Vasos proximales permeables",
+      "type": "PATOLOGIA",
+      "start": 2395,
+      "end": 2422
+    },
+    {
+      "text": "No se identifican otras estenosis significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2424,
+      "end": 2472
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "document_id": "0000000010000000059640139_cleaned",
+  "entities": [
+    {
+      "text": "TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANG IOTC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 72,
+      "end": 140
+    },
+    {
+      "text": "TC craneal dual + perfusión de control post-trombectomía",
+      "type": "TECNICA_IMAGEN",
+      "start": 166,
+      "end": 222
+    },
+    {
+      "text": "Material de embolización en topografía carotido-oftálmica izquierda",
+      "type": "PATOLOGIA",
+      "start": 462,
+      "end": 529
+    },
+    {
+      "text": "carotido-oftálmica izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 501,
+      "end": 529
+    },
+    {
+      "text": "Hiperdensidad de morfología subaracnoidea en surcos frontales parasagitales bilaterales",
+      "type": "PATOLOGIA",
+      "start": 583,
+      "end": 670
+    },
+    {
+      "text": "surcos frontales parasagitales bilaterales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 628,
+      "end": 670
+    },
+    {
+      "text": "surcos de convexidad derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 676,
+      "end": 704
+    },
+    {
+      "text": "convexidad derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 686,
+      "end": 704
+    },
+    {
+      "text": "extravasación de contraste post procedimiento endovascular",
+      "type": "PATOLOGIA",
+      "start": 790,
+      "end": 848
+    },
+    {
+      "text": "antecedente reciente de trombectomía mecánica",
+      "type": "TEMPORALIDAD",
+      "start": 850,
+      "end": 895
+    },
+    {
+      "text": "Adecuada diferenciación cortico-subcortical.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 898,
+      "end": 942
+    },
+    {
+      "text": "Sistema ventricular de morfología, tamaño y situación conservadas.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 943,
+      "end": 1009
+    },
+    {
+      "text": "Estructuras de la línea media centradas.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1010,
+      "end": 1050
+    },
+    {
+      "text": "Cisternas basales libres.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1051,
+      "end": 1076
+    },
+    {
+      "text": "No se observan trazos de fractura ósea evidentes.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1077,
+      "end": 1126
+    },
+    {
+      "text": "Embolización de aneurisma carotido-oftálmico izquierdo.",
+      "type": "PATOLOGIA",
+      "start": 1150,
+      "end": 1205
+    },
+    {
+      "text": "Hiperdensidad de morfología subaracnoidea en surcos frontales y en convexidad derecha",
+      "type": "PATOLOGIA",
+      "start": 1206,
+      "end": 1291
+    },
+    {
+      "text": "surcos frontales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 628,
+      "end": 644
+    },
+    {
+      "text": "convexidad derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 686,
+      "end": 704
+    },
+    {
+      "text": "procesamiento dual",
+      "type": "TEMPORALIDAD",
+      "start": 1301,
+      "end": 1319
+    }
+  ]
+}

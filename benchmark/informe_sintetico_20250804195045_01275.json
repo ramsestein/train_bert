@@ -1,0 +1,65 @@
+{
+  "document_id": "informe_sintetico_20250804195045_01275",
+  "entities": [
+    {
+      "text": "infarto lacunar agudo",
+      "type": "PATOLOGIA",
+      "start": 501,
+      "end": 522
+    },
+    {
+      "text": "región capsuloganglionar izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 436,
+      "end": 470
+    },
+    {
+      "text": "menor de 15 mm",
+      "type": "MEDIDA",
+      "start": 472,
+      "end": 486
+    },
+    {
+      "text": "ASPECTS 9",
+      "type": "PUNTUACION_CLINICA",
+      "start": 676,
+      "end": 685
+    },
+    {
+      "text": "infarto lacunar agudo",
+      "type": "PATOLOGIA",
+      "start": 501,
+      "end": 522
+    },
+    {
+      "text": "menor de 15 mm",
+      "type": "MEDIDA",
+      "start": 472,
+      "end": 486
+    },
+    {
+      "text": "ASPECTS 9",
+      "type": "PUNTUACION_CLINICA",
+      "start": 676,
+      "end": 685
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 461,
+      "end": 470
+    },
+    {
+      "text": "sin signos de estenosis ni oclusiones",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1203,
+      "end": 1240
+    },
+    {
+      "text": "sin estenosis significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1405,
+      "end": 1432
+    }
+  ]
+}

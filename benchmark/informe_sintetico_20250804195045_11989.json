@@ -1,0 +1,83 @@
+{
+  "document_id": "informe_sintetico_20250804195045_11989",
+  "entities": [
+    {
+      "text": "ictus",
+      "type": "PATOLOGIA",
+      "start": 208,
+      "end": 213
+    },
+    {
+      "text": "hemiparesia bilateral",
+      "type": "PATOLOGIA",
+      "start": 282,
+      "end": 303
+    },
+    {
+      "text": "hemorragias intra ni extraaxiales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 525,
+      "end": 558
+    },
+    {
+      "text": "edema citotóxico",
+      "type": "PATOLOGIA",
+      "start": 627,
+      "end": 643
+    },
+    {
+      "text": "arteria basilar",
+      "type": "ARTERIA",
+      "start": 863,
+      "end": 878
+    },
+    {
+      "text": "isquemia establecida",
+      "type": "PATOLOGIA",
+      "start": 1014,
+      "end": 1034
+    },
+    {
+      "text": "penumbra isquémica limitada",
+      "type": "PATOLOGIA",
+      "start": 1037,
+      "end": 1064
+    },
+    {
+      "text": "flujo disminuido en segmento distal de la derecha",
+      "type": "PATOLOGIA",
+      "start": 1244,
+      "end": 1293
+    },
+    {
+      "text": "daño isquémico establecido en el tronco del encéfalo y mesencéfalo",
+      "type": "PATOLOGIA",
+      "start": 1589,
+      "end": 1655
+    },
+    {
+      "text": "evento isquémico agudo",
+      "type": "TEMPORALIDAD",
+      "start": 1847,
+      "end": 1869
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 359,
+      "end": 375
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 377,
+      "end": 398
+    },
+    {
+      "text": "Angio-TC extra e intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 400,
+      "end": 429
+    }
+  ]
+}

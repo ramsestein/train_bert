@@ -1,0 +1,71 @@
+{
+  "document_id": "informe_sintetico_20250804195045_20932",
+  "entities": [
+    {
+      "text": "hemorragia aguda",
+      "type": "PATOLOGIA",
+      "start": 440,
+      "end": 456
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 545,
+      "end": 555
+    },
+    {
+      "text": "lesiones focales",
+      "type": "PATOLOGIA",
+      "start": 574,
+      "end": 590
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 611,
+      "end": 625
+    },
+    {
+      "text": "microangiopatía",
+      "type": "PATOLOGIA",
+      "start": 738,
+      "end": 753
+    },
+    {
+      "text": "cerebrales anteriores",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1282,
+      "end": 1303
+    },
+    {
+      "text": "arteria carótida común",
+      "type": "ARTERIA",
+      "start": 1487,
+      "end": 1509
+    },
+    {
+      "text": "sin signos de hemorragia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1678,
+      "end": 1702
+    },
+    {
+      "text": "sin alteraciones significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1451,
+      "end": 1482
+    },
+    {
+      "text": "sin ateromatosis significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1590,
+      "end": 1620
+    },
+    {
+      "text": "sin repercusión funcional actual",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1818,
+      "end": 1850
+    }
+  ]
+}

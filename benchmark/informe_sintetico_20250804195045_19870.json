@@ -1,0 +1,107 @@
+{
+  "document_id": "informe_sintetico_20250804195045_19870",
+  "entities": [
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 292,
+      "end": 306
+    },
+    {
+      "text": "territorio vertebrobasilar",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1290,
+      "end": 1316
+    },
+    {
+      "text": "arteria basilar distal",
+      "type": "ARTERIA",
+      "start": 828,
+      "end": 850
+    },
+    {
+      "text": "izquierdo",
+      "type": "LATERALIDAD",
+      "start": 241,
+      "end": 250
+    },
+    {
+      "text": "aguda",
+      "type": "TEMPORALIDAD",
+      "start": 301,
+      "end": 306
+    },
+    {
+      "text": "TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANG IOTC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 72,
+      "end": 140
+    },
+    {
+      "text": "No se observan signos de hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 491,
+      "end": 539
+    },
+    {
+      "text": "No se identifican lesiones hipodensas en el cerebro anterior",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 669,
+      "end": 729
+    },
+    {
+      "text": "No hay desplazamiento de estructuras de la línea media",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 930,
+      "end": 984
+    },
+    {
+      "text": "No se evidencian áreas de penumbra volumétrica significativa en territorio supratentorial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1318,
+      "end": 1407
+    },
+    {
+      "text": "sin estenosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1542,
+      "end": 1555
+    },
+    {
+      "text": "sin signos de estenosis significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1762,
+      "end": 1799
+    },
+    {
+      "text": "No hay evidencias de aneurismas o malformaciones vasculares",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1801,
+      "end": 1860
+    },
+    {
+      "text": "Isquemia aguda en territorio vertebrobasilar",
+      "type": "PATOLOGIA",
+      "start": 1887,
+      "end": 1931
+    },
+    {
+      "text": "No evidencia de hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2070,
+      "end": 2109
+    },
+    {
+      "text": "alteraciones hemodinámicas compatibles con área isquémica en evolución en el tronco encefálico y cerebelo",
+      "type": "PATOLOGIA",
+      "start": 2141,
+      "end": 2246
+    },
+    {
+      "text": "Resto del parénquima cerebral sin alteraciones significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2250,
+      "end": 2311
+    }
+  ]
+}

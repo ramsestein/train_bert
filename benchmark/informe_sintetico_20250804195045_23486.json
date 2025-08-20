@@ -1,0 +1,83 @@
+{
+  "document_id": "informe_sintetico_20250804195045_23486",
+  "entities": [
+    {
+      "text": "sin evidencia de áreas hipodensas de reciente aparición",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 498,
+      "end": 553
+    },
+    {
+      "text": "sin edema asociado",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 891,
+      "end": 909
+    },
+    {
+      "text": "sin zonas de hipoperfusión",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 982,
+      "end": 1008
+    },
+    {
+      "text": "sin alteraciones morfológicas ni hemodinámicas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1271,
+      "end": 1317
+    },
+    {
+      "text": "sin repercusión clínica",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1385,
+      "end": 1408
+    },
+    {
+      "text": "patología aguda",
+      "type": "PATOLOGIA",
+      "start": 1458,
+      "end": 1473
+    },
+    {
+      "text": "eventos isquémicos recientes",
+      "type": "PATOLOGIA",
+      "start": 1477,
+      "end": 1505
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 1108,
+      "end": 1118
+    },
+    {
+      "text": "sin estenosis significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1217,
+      "end": 1245
+    },
+    {
+      "text": "ACAs, ACMs y ACPs",
+      "type": "ARTERIA",
+      "start": 1185,
+      "end": 1202
+    },
+    {
+      "text": "bifurcación carotídea derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1354,
+      "end": 1383
+    },
+    {
+      "text": "TC Basal, Perfusión Cerebral y AngioTC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 298,
+      "end": 358
+    },
+    {
+      "text": "cambios crónicos leves",
+      "type": "TEMPORALIDAD",
+      "start": 738,
+      "end": 760
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "document_id": "informe_sintetico_20250804195045_08129",
+  "entities": [
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 727,
+      "end": 741
+    },
+    {
+      "text": "territorios frontales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1009,
+      "end": 1030
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "ARTERIA",
+      "start": 1399,
+      "end": 1429
+    },
+    {
+      "text": "M1",
+      "type": "ARTERIA",
+      "start": 1431,
+      "end": 1433
+    },
+    {
+      "text": "segmento M2 izquierdo",
+      "type": "ARTERIA",
+      "start": 1456,
+      "end": 1477
+    },
+    {
+      "text": "arteria cerebral posterior derecha",
+      "type": "ARTERIA",
+      "start": 1510,
+      "end": 1544
+    },
+    {
+      "text": "bilateral",
+      "type": "LATERALIDAD",
+      "start": 180,
+      "end": 189
+    },
+    {
+      "text": "ASPECTS global estimado en 6",
+      "type": "PUNTUACION_CLINICA",
+      "start": 801,
+      "end": 829
+    },
+    {
+      "text": "ASPECTS estimado en 6",
+      "type": "PUNTUACION_CLINICA",
+      "start": 2100,
+      "end": 2121
+    },
+    {
+      "text": "No se identifican hemorragias intra o extraaxiales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 441,
+      "end": 491
+    },
+    {
+      "text": "No se identifican hemorragias intracraneales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2054,
+      "end": 2098
+    },
+    {
+      "text": "prolongados en territorios frontales bilaterales",
+      "type": "MEDIDA",
+      "start": 994,
+      "end": 1042
+    }
+  ]
+}

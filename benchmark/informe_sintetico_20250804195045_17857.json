@@ -1,0 +1,221 @@
+{
+  "document_id": "informe_sintetico_20250804195045_17857",
+  "entities": [
+    {
+      "text": "hemiparesia derecha",
+      "type": "PATOLOGIA",
+      "start": 217,
+      "end": 236
+    },
+    {
+      "text": "afasia",
+      "type": "PATOLOGIA",
+      "start": 239,
+      "end": 245
+    },
+    {
+      "text": "disección carotídea",
+      "type": "PATOLOGIA",
+      "start": 267,
+      "end": 286
+    },
+    {
+      "text": "trauma cervical reciente",
+      "type": "PATOLOGIA",
+      "start": 307,
+      "end": 331
+    },
+    {
+      "text": "hipodensidad mal delimitada",
+      "type": "PATOLOGIA",
+      "start": 559,
+      "end": 586
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 604,
+      "end": 636
+    },
+    {
+      "text": "corteza fronto-parietal",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 652,
+      "end": 675
+    },
+    {
+      "text": "sustancia blanca subyacente",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 681,
+      "end": 708
+    },
+    {
+      "text": "infarto isquémico subagudo",
+      "type": "PATOLOGIA",
+      "start": 725,
+      "end": 751
+    },
+    {
+      "text": "hemorragias intra ni extraaxiales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 768,
+      "end": 801
+    },
+    {
+      "text": "Diferenciación cortico-subcortical alterada",
+      "type": "PATOLOGIA",
+      "start": 803,
+      "end": 846
+    },
+    {
+      "text": "ASPECTS 7",
+      "type": "PUNTUACION_CLINICA",
+      "start": 865,
+      "end": 874
+    },
+    {
+      "text": "Línea media centrada",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 877,
+      "end": 897
+    },
+    {
+      "text": "Sistema ventricular y cisternas basales sin alteraciones",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 899,
+      "end": 955
+    },
+    {
+      "text": "aumento significativo del tiempo hasta el máximo (TTP)",
+      "type": "PATOLOGIA",
+      "start": 1023,
+      "end": 1077
+    },
+    {
+      "text": "tiempo medio de tránsito (MTT)",
+      "type": "PATOLOGIA",
+      "start": 1080,
+      "end": 1110
+    },
+    {
+      "text": "territorio de ACM",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1114,
+      "end": 1131
+    },
+    {
+      "text": "reducción marcada del flujo sanguíneo cerebral (CBF)",
+      "type": "PATOLOGIA",
+      "start": 1137,
+      "end": 1189
+    },
+    {
+      "text": "volumen cerebral (CBV)",
+      "type": "PATOLOGIA",
+      "start": 1192,
+      "end": 1214
+    },
+    {
+      "text": "núcleo isquémico con penumbra circundante",
+      "type": "PATOLOGIA",
+      "start": 1262,
+      "end": 1303
+    },
+    {
+      "text": "irregularidad y estrechamiento en el segmento cervical de la arteria carótida interna izquierda",
+      "type": "PATOLOGIA",
+      "start": 1354,
+      "end": 1449
+    },
+    {
+      "text": "tramo filiforme y defectos de repleción",
+      "type": "PATOLOGIA",
+      "start": 1458,
+      "end": 1497
+    },
+    {
+      "text": "disección arterial",
+      "type": "PATOLOGIA",
+      "start": 1512,
+      "end": 1530
+    },
+    {
+      "text": "signos de trombosis total proximal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1550,
+      "end": 1584
+    },
+    {
+      "text": "luz vascular está severamente comprometida",
+      "type": "PATOLOGIA",
+      "start": 1594,
+      "end": 1636
+    },
+    {
+      "text": "permeabilidad conservada",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1698,
+      "end": 1722
+    },
+    {
+      "text": "estenosis ni placas significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1728,
+      "end": 1762
+    },
+    {
+      "text": "Arco aórtico y vasos supraaórticos sin otras alteraciones relevantes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1764,
+      "end": 1832
+    },
+    {
+      "text": "Infarto isquémico subagudo en territorio de arteria cerebral media izquierda",
+      "type": "PATOLOGIA",
+      "start": 1863,
+      "end": 1939
+    },
+    {
+      "text": "afectación cortical y subcortical",
+      "type": "PATOLOGIA",
+      "start": 1945,
+      "end": 1978
+    },
+    {
+      "text": "ASPECTS 7",
+      "type": "PUNTUACION_CLINICA",
+      "start": 865,
+      "end": 874
+    },
+    {
+      "text": "Perfusión cerebral compatible con área de infarto y penumbra isquémica circundante",
+      "type": "PATOLOGIA",
+      "start": 1996,
+      "end": 2078
+    },
+    {
+      "text": "estrechamiento y defecto de repleción vascular",
+      "type": "PATOLOGIA",
+      "start": 2182,
+      "end": 2228
+    },
+    {
+      "text": "probable causa del infarto",
+      "type": "PATOLOGIA",
+      "start": 2248,
+      "end": 2274
+    },
+    {
+      "text": "No evidencia de hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2280,
+      "end": 2319
+    },
+    {
+      "text": "Disección arterial izquierda con infarto isquémico en territorio ACM",
+      "type": "PATOLOGIA",
+      "start": 2533,
+      "end": 2601
+    }
+  ]
+}

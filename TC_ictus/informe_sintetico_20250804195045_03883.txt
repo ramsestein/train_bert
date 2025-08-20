@@ -1,0 +1,33 @@
+UO_PACN (Unidad Organizativa Médica): RADIO
+
+PRUEB (Prueba solicitada): TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANG IOTC ARTERIAL INTRACRANEAL)
+
+CLIN (Resumen clínico): Paciente con antecedentes de hipertensión arterial y episodios transitorios de déficit neurológico, consulta por deterioro cognitivo progresivo y debilidad leve en hemicuerpo derecho.
+
+OBSR (Protocolo): TC craneal basal, TC perfusión cerebral y angio-TC arterial intra y extracraneal con contraste intravenoso.
+
+RESL (Resultados): 
+TC CRANEAL BASAL: 
+Se observan múltiples áreas hipodensas, redondeadas, de pequeño tamaño (<15 mm), localizadas en núcleos profundos bilaterales (putamen, cápsula interna, tálamo) y en sustancia blanca periventricular, compatibles con infartos lacunares crónicos. No se identifican signos de edema o sangrado reciente. No hay desplazamiento de estructuras de la línea media. Sistema ventricular con morfología y tamaño conservados. Cisternas basales libres.
+
+TC PERFUSIÓN: 
+Mapas de perfusión sin evidencias de áreas de hipoperfusión aguda. Flujo cerebral (CBF), volumen cerebral (CBV) y tiempo de tránsito (TTP) dentro de límites normales en ambas hemisferios.
+
+ANGIO-TC INTRA Y EXTRACRANEAL: 
+No se detectan estenosis ni oclusiones en arterias carótidas internas, carotídeas comunes ni en vasos intracraneales principales (arterias cerebrales anterior, media y posterior). Presencia de ateromatosis leve y calcificada en bifurcaciones carotídeas, sin significación hemodinámica. Sistema vertebrobasilar permeable sin alteraciones.
+
+CONCL (Conclusiones): 
+- Múltiples infartos lacunares crónicos en núcleos profundos y sustancia blanca de ambos hemisferios, compatibles con enfermedad microangiopática crónica secundaria a hipertensión arterial. 
+- Ausencia de signos de isquemia aguda o hemorragia intracraneal.
+- Vascularización intracraneal y extracraneal sin estenosis significativas.
+- Mapas de perfusión normales, sin áreas en riesgo.
+
+ACTI_ADICI (Actividad adicional): 
+
+ICON (Estudio): @RADIO_TC_IC@
+
+X00DIATXT (Texto del diagnóstico ACR): Infarto lacunar crónico múltiple sin signos de isquemia aguda ni hemorragia intracraneal.
+
+EST_T_DES (Descripción): TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANGIOTC ARTERIAL INTRACRANEAL)
+
+ZVASOS_D (Der.): Se observa ateromatosis calcificada leve en bifurcaciones carotídeas sin estenosis hemodinámicamente significativa. Sistema vertebrobasilar permeable.

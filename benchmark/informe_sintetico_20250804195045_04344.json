@@ -1,0 +1,143 @@
+{
+  "document_id": "informe_sintetico_20250804195045_04344",
+  "entities": [
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 444,
+      "end": 467
+    },
+    {
+      "text": "hipodensidades patológicas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 586,
+      "end": 612
+    },
+    {
+      "text": "infarto agudo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 638,
+      "end": 651
+    },
+    {
+      "text": "edema cerebral",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 655,
+      "end": 669
+    },
+    {
+      "text": "calcificaciones leves",
+      "type": "PATOLOGIA",
+      "start": 838,
+      "end": 859
+    },
+    {
+      "text": "cronico",
+      "type": "TEMPORALIDAD",
+      "start": 900,
+      "end": 907
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 937,
+      "end": 947
+    },
+    {
+      "text": "hipoperfusión",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1066,
+      "end": 1079
+    },
+    {
+      "text": "isquemia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1170,
+      "end": 1178
+    },
+    {
+      "text": "ACAs",
+      "type": "ARTERIA",
+      "start": 1294,
+      "end": 1298
+    },
+    {
+      "text": "ACMs",
+      "type": "ARTERIA",
+      "start": 1300,
+      "end": 1304
+    },
+    {
+      "text": "ACPs",
+      "type": "ARTERIA",
+      "start": 1306,
+      "end": 1310
+    },
+    {
+      "text": "sistema vertebrobasilar",
+      "type": "ARTERIA",
+      "start": 1313,
+      "end": 1336
+    },
+    {
+      "text": "estenosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1404,
+      "end": 1413
+    },
+    {
+      "text": "oclusiones arteriales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1417,
+      "end": 1438
+    },
+    {
+      "text": "malformaciones vasculares",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1462,
+      "end": 1487
+    },
+    {
+      "text": "placas ateromatosas significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1546,
+      "end": 1580
+    },
+    {
+      "text": "estenosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1404,
+      "end": 1413
+    },
+    {
+      "text": "hallazgos patológicos agudos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1651,
+      "end": 1679
+    },
+    {
+      "text": "isquemia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1170,
+      "end": 1178
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 937,
+      "end": 947
+    },
+    {
+      "text": "alteraciones significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1787,
+      "end": 1814
+    },
+    {
+      "text": "TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANG IOTC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 72,
+      "end": 140
+    }
+  ]
+}

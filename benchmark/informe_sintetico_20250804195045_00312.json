@@ -1,0 +1,59 @@
+{
+  "document_id": "informe_sintetico_20250804195045_00312",
+  "entities": [
+    {
+      "text": "trombosis venosa cerebral",
+      "type": "PATOLOGIA",
+      "start": 315,
+      "end": 340
+    },
+    {
+      "text": "seno longitudinal superior",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1213,
+      "end": 1239
+    },
+    {
+      "text": "senos transversos bilaterales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1273,
+      "end": 1302
+    },
+    {
+      "text": "regiones frontoparietales derechas",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 975,
+      "end": 1009
+    },
+    {
+      "text": "tiempo de tránsito medio (MTT)",
+      "type": "MEDIDA",
+      "start": 894,
+      "end": 924
+    },
+    {
+      "text": "flujo sanguíneo cerebral (CBF)",
+      "type": "MEDIDA",
+      "start": 941,
+      "end": 971
+    },
+    {
+      "text": "volumen cerebral (CBV)",
+      "type": "MEDIDA",
+      "start": 1039,
+      "end": 1061
+    },
+    {
+      "text": "No se observan estenosis ni trombos en circulación arterial intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1410,
+      "end": 1482
+    },
+    {
+      "text": "sin evidencia de hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2243,
+      "end": 2283
+    }
+  ]
+}

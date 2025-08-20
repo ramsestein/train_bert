@@ -1,0 +1,131 @@
+{
+  "document_id": "informe_sintetico_20250804195045_07895",
+  "entities": [
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 287,
+      "end": 301
+    },
+    {
+      "text": "arteria cerebral anterior derecha",
+      "type": "ARTERIA",
+      "start": 319,
+      "end": 352
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 345,
+      "end": 352
+    },
+    {
+      "text": "discreta hipodensidad",
+      "type": "PATOLOGIA",
+      "start": 656,
+      "end": 677
+    },
+    {
+      "text": "región medial frontal derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 684,
+      "end": 713
+    },
+    {
+      "text": "ASPECTS 9",
+      "type": "PUNTUACION_CLINICA",
+      "start": 855,
+      "end": 864
+    },
+    {
+      "text": "prolongación notable de los tiempos",
+      "type": "PATOLOGIA",
+      "start": 1058,
+      "end": 1093
+    },
+    {
+      "text": "reducción moderada del flujo cerebral",
+      "type": "PATOLOGIA",
+      "start": 1119,
+      "end": 1156
+    },
+    {
+      "text": "penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1250,
+      "end": 1268
+    },
+    {
+      "text": "No se identifican áreas de volumen disminuido significativo para infarto establecido",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1270,
+      "end": 1354
+    },
+    {
+      "text": "Oclusión segmentaria en porción proximal de arteria cerebral anterior derecha",
+      "type": "PATOLOGIA",
+      "start": 1390,
+      "end": 1467
+    },
+    {
+      "text": "arteria cerebral anterior derecha",
+      "type": "ARTERIA",
+      "start": 319,
+      "end": 352
+    },
+    {
+      "text": "sin estenosis significativas ni placas ateromatosas relevantes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1545,
+      "end": 1607
+    },
+    {
+      "text": "No hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1678,
+      "end": 1704
+    },
+    {
+      "text": "Área de isquemia aguda en territorio de ACA derecha",
+      "type": "PATOLOGIA",
+      "start": 1710,
+      "end": 1761
+    },
+    {
+      "text": "Oclusión proximal de ACA derecha (segmento A2)",
+      "type": "PATOLOGIA",
+      "start": 1816,
+      "end": 1862
+    },
+    {
+      "text": "ASPECTS 9",
+      "type": "PUNTUACION_CLINICA",
+      "start": 855,
+      "end": 864
+    },
+    {
+      "text": "sin estenosis significativas ni otras lesiones",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1909,
+      "end": 1955
+    },
+    {
+      "text": "TC craneal basal sin contraste",
+      "type": "TECNICA_IMAGEN",
+      "start": 373,
+      "end": 403
+    },
+    {
+      "text": "estudio de perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 405,
+      "end": 434
+    },
+    {
+      "text": "Angio-TC intra y extracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 476,
+      "end": 505
+    }
+  ]
+}

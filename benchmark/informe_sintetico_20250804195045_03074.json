@@ -1,0 +1,131 @@
+{
+  "document_id": "informe_sintetico_20250804195045_03074",
+  "entities": [
+    {
+      "text": "accidente cerebrovascular isquémico",
+      "type": "PATOLOGIA",
+      "start": 252,
+      "end": 287
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 527,
+      "end": 550
+    },
+    {
+      "text": "masas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 554,
+      "end": 559
+    },
+    {
+      "text": "ligera hipodensidad en región opercular y frontoparietal derecha",
+      "type": "PATOLOGIA",
+      "start": 572,
+      "end": 636
+    },
+    {
+      "text": "edema incipiente",
+      "type": "PATOLOGIA",
+      "start": 652,
+      "end": 668
+    },
+    {
+      "text": "ASPECTS 9",
+      "type": "PUNTUACION_CLINICA",
+      "start": 730,
+      "end": 739
+    },
+    {
+      "text": "infartos lacunares",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 758,
+      "end": 776
+    },
+    {
+      "text": "lesiones crónicas destacables",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 786,
+      "end": 815
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "ARTERIA",
+      "start": 1042,
+      "end": 1072
+    },
+    {
+      "text": "segmentos M2-M3",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1092,
+      "end": 1107
+    },
+    {
+      "text": "Tmax",
+      "type": "MEDIDA",
+      "start": 1144,
+      "end": 1148
+    },
+    {
+      "text": "tiempo de tránsito medio (MTT)",
+      "type": "MEDIDA",
+      "start": 1163,
+      "end": 1193
+    },
+    {
+      "text": "flujo cerebral (CBF)",
+      "type": "MEDIDA",
+      "start": 1222,
+      "end": 1242
+    },
+    {
+      "text": "volumen cerebral (CBV)",
+      "type": "MEDIDA",
+      "start": 1245,
+      "end": 1267
+    },
+    {
+      "text": "penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1320,
+      "end": 1338
+    },
+    {
+      "text": "oclusión arterial confirmada",
+      "type": "PATOLOGIA",
+      "start": 1948,
+      "end": 1976
+    },
+    {
+      "text": "ASPECTS 9",
+      "type": "PUNTUACION_CLINICA",
+      "start": 730,
+      "end": 739
+    },
+    {
+      "text": "infarto irreversible",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2033,
+      "end": 2053
+    },
+    {
+      "text": "hemorragia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 527,
+      "end": 537
+    },
+    {
+      "text": "complicaciones detectadas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2149,
+      "end": 2174
+    },
+    {
+      "text": "protocolo Código Ictus",
+      "type": "TEMPORALIDAD",
+      "start": 433,
+      "end": 455
+    }
+  ]
+}

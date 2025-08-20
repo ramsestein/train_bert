@@ -1,0 +1,143 @@
+{
+  "document_id": "informe_sintetico_20250804195045_21457",
+  "entities": [
+    {
+      "text": "isquemia cerebral aguda multifocal",
+      "type": "PATOLOGIA",
+      "start": 236,
+      "end": 270
+    },
+    {
+      "text": "múltiples áreas hipodensas",
+      "type": "PATOLOGIA",
+      "start": 631,
+      "end": 657
+    },
+    {
+      "text": "infartos isquémicos agudos recientes",
+      "type": "PATOLOGIA",
+      "start": 903,
+      "end": 939
+    },
+    {
+      "text": "ASPECTS global aproximado 6/10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 977,
+      "end": 1007
+    },
+    {
+      "text": "reducción significativa del flujo sanguíneo cerebral",
+      "type": "PATOLOGIA",
+      "start": 1081,
+      "end": 1133
+    },
+    {
+      "text": "tiempo de tránsito medio (MTT)",
+      "type": "MEDIDA",
+      "start": 1154,
+      "end": 1184
+    },
+    {
+      "text": "hipoperfusión",
+      "type": "PATOLOGIA",
+      "start": 1357,
+      "end": 1370
+    },
+    {
+      "text": "oclusiones segmentarias",
+      "type": "PATOLOGIA",
+      "start": 1501,
+      "end": 1524
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "ARTERIA",
+      "start": 1531,
+      "end": 1561
+    },
+    {
+      "text": "arteria cerebral posterior derecha",
+      "type": "ARTERIA",
+      "start": 1591,
+      "end": 1625
+    },
+    {
+      "text": "estenosis moderada (aproximadamente 50%)",
+      "type": "MEDIDA",
+      "start": 1719,
+      "end": 1759
+    },
+    {
+      "text": "No se evidencian hemorragias intracraneales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 546,
+      "end": 589
+    },
+    {
+      "text": "No se detectan aneurismas ni malformaciones vasculares",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1848,
+      "end": 1902
+    },
+    {
+      "text": "No evidencia de hemorragia ni complicaciones secundarias",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2393,
+      "end": 2449
+    },
+    {
+      "text": "cerebrales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1218,
+      "end": 1228
+    },
+    {
+      "text": "ambas arterias cerebrales medias",
+      "type": "ARTERIA",
+      "start": 1203,
+      "end": 1235
+    },
+    {
+      "text": "circulación posterior derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1244,
+      "end": 1273
+    },
+    {
+      "text": "bifurcación carotídea izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1682,
+      "end": 1713
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 764,
+      "end": 771
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 1704,
+      "end": 1713
+    },
+    {
+      "text": "bilateral",
+      "type": "LATERALIDAD",
+      "start": 816,
+      "end": 825
+    },
+    {
+      "text": "aguda",
+      "type": "TEMPORALIDAD",
+      "start": 254,
+      "end": 259
+    },
+    {
+      "text": "recientes",
+      "type": "TEMPORALIDAD",
+      "start": 930,
+      "end": 939
+    }
+  ]
+}

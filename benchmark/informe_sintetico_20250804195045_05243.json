@@ -1,0 +1,185 @@
+{
+  "document_id": "informe_sintetico_20250804195045_05243",
+  "entities": [
+    {
+      "text": "hemorragia intraventricular",
+      "type": "PATOLOGIA",
+      "start": 538,
+      "end": 565
+    },
+    {
+      "text": "sistema ventricular lateral izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 598,
+      "end": 635
+    },
+    {
+      "text": "tercer y cuarto ventrículo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 660,
+      "end": 686
+    },
+    {
+      "text": "edema periventricular",
+      "type": "PATOLOGIA",
+      "start": 768,
+      "end": 789
+    },
+    {
+      "text": "surcos corticales adyacentes",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 835,
+      "end": 863
+    },
+    {
+      "text": "línea media",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 900,
+      "end": 911
+    },
+    {
+      "text": "sistema ventricular",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 598,
+      "end": 617
+    },
+    {
+      "text": "hipodensidad isquémica aguda",
+      "type": "PATOLOGIA",
+      "start": 1015,
+      "end": 1043
+    },
+    {
+      "text": "isquemia",
+      "type": "PATOLOGIA",
+      "start": 1252,
+      "end": 1260
+    },
+    {
+      "text": "estenosis arterial significativa",
+      "type": "PATOLOGIA",
+      "start": 1323,
+      "end": 1355
+    },
+    {
+      "text": "malformaciones arteriovenosas",
+      "type": "PATOLOGIA",
+      "start": 1359,
+      "end": 1388
+    },
+    {
+      "text": "calibre conservado de las arterias cerebrales principales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1411,
+      "end": 1468
+    },
+    {
+      "text": "ACAs, ACMs, ACPs",
+      "type": "ARTERIA",
+      "start": 1470,
+      "end": 1486
+    },
+    {
+      "text": "sistema vertebrobasilar",
+      "type": "ARTERIA",
+      "start": 1490,
+      "end": 1513
+    },
+    {
+      "text": "aneurismas",
+      "type": "PATOLOGIA",
+      "start": 1545,
+      "end": 1555
+    },
+    {
+      "text": "trombosis arterial",
+      "type": "PATOLOGIA",
+      "start": 1558,
+      "end": 1576
+    },
+    {
+      "text": "hemorragia parenquimatosa",
+      "type": "PATOLOGIA",
+      "start": 1649,
+      "end": 1674
+    },
+    {
+      "text": "línea media",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 900,
+      "end": 911
+    },
+    {
+      "text": "sistema ventricular",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 598,
+      "end": 617
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 1848,
+      "end": 1862
+    },
+    {
+      "text": "alteraciones vasculares relevantes",
+      "type": "PATOLOGIA",
+      "start": 1889,
+      "end": 1923
+    },
+    {
+      "text": "TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANG IOTC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 72,
+      "end": 140
+    },
+    {
+      "text": "TC Código Ictus: adquisición basal sin contraste para detección aguda de hemorragias + perfusión cerebral + AngioTC arterial intracraneal.",
+      "type": "TECNICA_IMAGEN",
+      "start": 344,
+      "end": 482
+    },
+    {
+      "text": "Mapas de perfusión dentro de límites normales en las áreas corticales evaluables.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1088,
+      "end": 1169
+    },
+    {
+      "text": "No se identifican zonas con alteración del flujo o volumen cerebral sugerentes de isquemia.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1170,
+      "end": 1261
+    },
+    {
+      "text": "No se detectan signos de estenosis arterial significativa ni malformaciones arteriovenosas evidentes.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1298,
+      "end": 1399
+    },
+    {
+      "text": "No hay evidencia de aneurismas o trombosis arterial.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1525,
+      "end": 1577
+    },
+    {
+      "text": "sin hemorragia parenquimatosa visible ni desplazamiento significativo de línea media.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1645,
+      "end": 1730
+    },
+    {
+      "text": "sin signos compatibles con isquemia aguda.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1821,
+      "end": 1863
+    },
+    {
+      "text": "sin alteraciones vasculares relevantes detectadas.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1885,
+      "end": 1935
+    }
+  ]
+}

@@ -1,0 +1,155 @@
+{
+  "document_id": "informe_sintetico_20250804195045_12648",
+  "entities": [
+    {
+      "text": "infarto agudo",
+      "type": "PATOLOGIA",
+      "start": 245,
+      "end": 258
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 842,
+      "end": 856
+    },
+    {
+      "text": "infarto establecido",
+      "type": "PATOLOGIA",
+      "start": 935,
+      "end": 954
+    },
+    {
+      "text": "isquemia",
+      "type": "PATOLOGIA",
+      "start": 842,
+      "end": 850
+    },
+    {
+      "text": "arteria cerebral anterior",
+      "type": "ARTERIA",
+      "start": 276,
+      "end": 301
+    },
+    {
+      "text": "izquierdo",
+      "type": "LATERALIDAD",
+      "start": 768,
+      "end": 777
+    },
+    {
+      "text": "A2",
+      "type": "ARTERIA",
+      "start": 1368,
+      "end": 1370
+    },
+    {
+      "text": "A2 izquierdo",
+      "type": "ARTERIA",
+      "start": 1952,
+      "end": 1964
+    },
+    {
+      "text": "sin infarto establecido",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1783,
+      "end": 1806
+    },
+    {
+      "text": "No se identifican signos de hemorragia aguda intra o extraaxial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 572,
+      "end": 635
+    },
+    {
+      "text": "No se evidencian placas calcificadas de ateromatosis en segmentos estudiados",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1528,
+      "end": 1604
+    },
+    {
+      "text": "No evidencia de hemorragia aguda",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1667,
+      "end": 1699
+    },
+    {
+      "text": "aumento del tiempo de tránsito",
+      "type": "MEDIDA",
+      "start": 1875,
+      "end": 1905
+    },
+    {
+      "text": "disminución de flujo",
+      "type": "MEDIDA",
+      "start": 1852,
+      "end": 1872
+    },
+    {
+      "text": "segmento proximal",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1350,
+      "end": 1367
+    },
+    {
+      "text": "territorio de la ACA izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1162,
+      "end": 1192
+    },
+    {
+      "text": "territorio medial del hemisferio cerebral izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 726,
+      "end": 777
+    },
+    {
+      "text": "giro paracentral y suplemento motor",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 790,
+      "end": 825
+    },
+    {
+      "text": "Sistema ventricular de tamaño y morfología normales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 978,
+      "end": 1029
+    },
+    {
+      "text": "Cisternas basales libres",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1031,
+      "end": 1055
+    },
+    {
+      "text": "TC CRANEAL BASAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 339,
+      "end": 355
+    },
+    {
+      "text": "TC PERFUSIÓN",
+      "type": "TECNICA_IMAGEN",
+      "start": 1058,
+      "end": 1070
+    },
+    {
+      "text": "ANGIO-TC EXTRA E INTRACRANEAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 1285,
+      "end": 1314
+    },
+    {
+      "text": "TC CODIGO ICTUS",
+      "type": "TECNICA_IMAGEN",
+      "start": 72,
+      "end": 87
+    },
+    {
+      "text": "TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANG IOTC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 72,
+      "end": 140
+    }
+  ]
+}

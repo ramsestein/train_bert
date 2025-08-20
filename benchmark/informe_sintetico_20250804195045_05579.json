@@ -1,0 +1,119 @@
+{
+  "document_id": "informe_sintetico_20250804195045_05579",
+  "entities": [
+    {
+      "text": "infarto cerebral",
+      "type": "PATOLOGIA",
+      "start": 224,
+      "end": 240
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "ARTERIA",
+      "start": 261,
+      "end": 291
+    },
+    {
+      "text": "deterioro neurológico progresivo",
+      "type": "PATOLOGIA",
+      "start": 302,
+      "end": 334
+    },
+    {
+      "text": "transformación hemorrágica",
+      "type": "PATOLOGIA",
+      "start": 349,
+      "end": 375
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 396,
+      "end": 412
+    },
+    {
+      "text": "infarto isquémico subagudo",
+      "type": "PATOLOGIA",
+      "start": 619,
+      "end": 645
+    },
+    {
+      "text": "45 mm",
+      "type": "MEDIDA",
+      "start": 665,
+      "end": 670
+    },
+    {
+      "text": "transformación hemorrágica tipo PH1",
+      "type": "PATOLOGIA",
+      "start": 778,
+      "end": 813
+    },
+    {
+      "text": "ACM derecha",
+      "type": "ARTERIA",
+      "start": 1075,
+      "end": 1086
+    },
+    {
+      "text": "disminución del flujo cerebral",
+      "type": "PATOLOGIA",
+      "start": 1216,
+      "end": 1246
+    },
+    {
+      "text": "CBF",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1248,
+      "end": 1251
+    },
+    {
+      "text": "CBV",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1277,
+      "end": 1280
+    },
+    {
+      "text": "TTP",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1348,
+      "end": 1351
+    },
+    {
+      "text": "sin estenosis significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1523,
+      "end": 1551
+    },
+    {
+      "text": "sin evidencia de trombosis ni estenosis crítica",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1632,
+      "end": 1679
+    },
+    {
+      "text": "transformación hemorrágica focal tipo PH1",
+      "type": "PATOLOGIA",
+      "start": 1863,
+      "end": 1904
+    },
+    {
+      "text": "sin efecto masa ni desplazamiento de línea media",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1905,
+      "end": 1953
+    },
+    {
+      "text": "sin extensión de isquemia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2008,
+      "end": 2033
+    },
+    {
+      "text": "sin estenosis ni trombosis evidentes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2067,
+      "end": 2103
+    }
+  ]
+}

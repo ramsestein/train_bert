@@ -1,0 +1,185 @@
+{
+  "document_id": "informe_sintetico_20250804195045_21292",
+  "entities": [
+    {
+      "text": "infarto",
+      "type": "PATOLOGIA",
+      "start": 248,
+      "end": 255
+    },
+    {
+      "text": "zona límite",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 259,
+      "end": 270
+    },
+    {
+      "text": "watershed",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 273,
+      "end": 282
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 520,
+      "end": 543
+    },
+    {
+      "text": "lesiones expansivas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 547,
+      "end": 566
+    },
+    {
+      "text": "área de hipodensidad cortical y subcortical bilateral",
+      "type": "PATOLOGIA",
+      "start": 664,
+      "end": 717
+    },
+    {
+      "text": "regiones frontoparietales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 744,
+      "end": 769
+    },
+    {
+      "text": "parietooccipitales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 772,
+      "end": 790
+    },
+    {
+      "text": "territorios irrigados por las arterias cerebrales anterior y media",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 822,
+      "end": 888
+    },
+    {
+      "text": "arterias cerebral media y posterior",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 909,
+      "end": 944
+    },
+    {
+      "text": "infartos watershed",
+      "type": "PATOLOGIA",
+      "start": 962,
+      "end": 980
+    },
+    {
+      "text": "aumento del tiempo de tránsito medio (TTM)",
+      "type": "MEDIDA",
+      "start": 1012,
+      "end": 1054
+    },
+    {
+      "text": "tiempo hasta el pico (TTP)",
+      "type": "MEDIDA",
+      "start": 1057,
+      "end": 1083
+    },
+    {
+      "text": "reducción moderada del flujo cerebral (CBF)",
+      "type": "MEDIDA",
+      "start": 1112,
+      "end": 1155
+    },
+    {
+      "text": "volumen cerebral (CBV) relativamente conservado",
+      "type": "MEDIDA",
+      "start": 1158,
+      "end": 1205
+    },
+    {
+      "text": "zona isquémica en penumbra",
+      "type": "PATOLOGIA",
+      "start": 1217,
+      "end": 1243
+    },
+    {
+      "text": "riesgo de extensión",
+      "type": "PATOLOGIA",
+      "start": 1248,
+      "end": 1267
+    },
+    {
+      "text": "estenosis significativas",
+      "type": "PATOLOGIA",
+      "start": 1352,
+      "end": 1376
+    },
+    {
+      "text": "arterias carótidas internas",
+      "type": "ARTERIA",
+      "start": 1384,
+      "end": 1411
+    },
+    {
+      "text": "cerebrales anterior, media o posterior",
+      "type": "ARTERIA",
+      "start": 1413,
+      "end": 1451
+    },
+    {
+      "text": "Arco aórtico",
+      "type": "ARTERIA",
+      "start": 1453,
+      "end": 1465
+    },
+    {
+      "text": "troncos supraaórticos",
+      "type": "ARTERIA",
+      "start": 1468,
+      "end": 1489
+    },
+    {
+      "text": "signos de placas ateromatosas de alto riesgo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1494,
+      "end": 1538
+    },
+    {
+      "text": "disección",
+      "type": "PATOLOGIA",
+      "start": 1542,
+      "end": 1551
+    },
+    {
+      "text": "Sistema vertebrobasilar permeable",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1553,
+      "end": 1586
+    },
+    {
+      "text": "Infarto ischemico bilateral en zonas watershed corticales",
+      "type": "PATOLOGIA",
+      "start": 1611,
+      "end": 1668
+    },
+    {
+      "text": "hipoperfusión en territorios limítrofes entre arterias cerebrales anterior, media y posterior",
+      "type": "PATOLOGIA",
+      "start": 1685,
+      "end": 1778
+    },
+    {
+      "text": "obstrucciones arteriales mayores",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1798,
+      "end": 1830
+    },
+    {
+      "text": "signos de hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 510,
+      "end": 543
+    },
+    {
+      "text": "infarto watershed secundario a episodio de hipoperfusión sistémica o arterial cerebral distal",
+      "type": "PATOLOGIA",
+      "start": 1893,
+      "end": 1986
+    }
+  ]
+}

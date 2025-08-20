@@ -1,0 +1,89 @@
+{
+  "document_id": "informe_sintetico_20250804195045_00023",
+  "entities": [
+    {
+      "text": "infarto cerebral establecido",
+      "type": "PATOLOGIA",
+      "start": 585,
+      "end": 613
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "ARTERIA",
+      "start": 536,
+      "end": 568
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 559,
+      "end": 568
+    },
+    {
+      "text": "ASPECTS 6/10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 842,
+      "end": 854
+    },
+    {
+      "text": "ventrículo lateral izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 936,
+      "end": 964
+    },
+    {
+      "text": "penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1393,
+      "end": 1411
+    },
+    {
+      "text": "oclusión completa",
+      "type": "PATOLOGIA",
+      "start": 1500,
+      "end": 1517
+    },
+    {
+      "text": "arteria carótida interna izquierda",
+      "type": "ARTERIA",
+      "start": 1565,
+      "end": 1599
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 559,
+      "end": 568
+    },
+    {
+      "text": "M1 y M2 de la arteria cerebral media izquierda",
+      "type": "ARTERIA",
+      "start": 1658,
+      "end": 1704
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 559,
+      "end": 568
+    },
+    {
+      "text": "marcada prolongación del tiempo de tránsito medio (MTT)",
+      "type": "MEDIDA",
+      "start": 1073,
+      "end": 1128
+    },
+    {
+      "text": "disminución importante del flujo cerebral (CBF)",
+      "type": "MEDIDA",
+      "start": 1162,
+      "end": 1209
+    },
+    {
+      "text": "volumen cerebral (CBV) reducido",
+      "type": "MEDIDA",
+      "start": 1212,
+      "end": 1243
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "document_id": "informe_sintetico_20250804195045_02486",
+  "entities": [
+    {
+      "text": "ictus isquémico",
+      "type": "PATOLOGIA",
+      "start": 265,
+      "end": 280
+    },
+    {
+      "text": "isquémica",
+      "type": "PATOLOGIA",
+      "start": 734,
+      "end": 743
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 526,
+      "end": 549
+    },
+    {
+      "text": "parietal izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 692,
+      "end": 710
+    },
+    {
+      "text": "ASPECTS 9",
+      "type": "PUNTUACION_CLINICA",
+      "start": 756,
+      "end": 765
+    },
+    {
+      "text": "territorio parietal y temporal izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 936,
+      "end": 976
+    },
+    {
+      "text": "isquemia en penumbra",
+      "type": "PATOLOGIA",
+      "start": 1028,
+      "end": 1048
+    },
+    {
+      "text": "volumen cerebral (CBV)",
+      "type": "MEDIDA",
+      "start": 1053,
+      "end": 1075
+    },
+    {
+      "text": "Oclusión en segmento M2 de la arteria cerebral media izquierda",
+      "type": "PATOLOGIA",
+      "start": 1171,
+      "end": 1233
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "ARTERIA",
+      "start": 1201,
+      "end": 1233
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 701,
+      "end": 710
+    },
+    {
+      "text": "oclusión distal de la arteria cerebral media izquierda (segmento M2)",
+      "type": "PATOLOGIA",
+      "start": 1520,
+      "end": 1588
+    },
+    {
+      "text": "ASPECTS 9",
+      "type": "PUNTUACION_CLINICA",
+      "start": 756,
+      "end": 765
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 526,
+      "end": 549
+    },
+    {
+      "text": "M2 izquierda ocluida",
+      "type": "PATOLOGIA",
+      "start": 2176,
+      "end": 2196
+    }
+  ]
+}

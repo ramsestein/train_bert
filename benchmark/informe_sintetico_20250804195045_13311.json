@@ -1,0 +1,59 @@
+{
+  "document_id": "informe_sintetico_20250804195045_13311",
+  "entities": [
+    {
+      "text": "hemorragia aguda",
+      "type": "PATOLOGIA",
+      "start": 444,
+      "end": 460
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 617,
+      "end": 631
+    },
+    {
+      "text": "ASPECTS 10/10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 633,
+      "end": 646
+    },
+    {
+      "text": "ASPECTS 10/10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 633,
+      "end": 646
+    },
+    {
+      "text": "sin estenosis ni oclusiones visibles",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1014,
+      "end": 1050
+    },
+    {
+      "text": "No se identifican aneurismas ni malformaciones vasculares",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1052,
+      "end": 1109
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 264,
+      "end": 280
+    },
+    {
+      "text": "perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 296,
+      "end": 314
+    },
+    {
+      "text": "angiografía TC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 317,
+      "end": 353
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "document_id": "informe_sintetico_20250804195045_03700",
+  "entities": [
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 290,
+      "end": 304
+    },
+    {
+      "text": "tronco encefálico",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 736,
+      "end": 753
+    },
+    {
+      "text": "cerebelo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 722,
+      "end": 730
+    },
+    {
+      "text": "arteria vertebral derecha",
+      "type": "ARTERIA",
+      "start": 1364,
+      "end": 1389
+    },
+    {
+      "text": "arteria vertebral izquierda",
+      "type": "ARTERIA",
+      "start": 1489,
+      "end": 1516
+    },
+    {
+      "text": "arteria basilar",
+      "type": "ARTERIA",
+      "start": 1596,
+      "end": 1611
+    },
+    {
+      "text": "bilateral",
+      "type": "LATERALIDAD",
+      "start": 1059,
+      "end": 1068
+    },
+    {
+      "text": ">70%",
+      "type": "MEDIDA",
+      "start": 1417,
+      "end": 1421
+    },
+    {
+      "text": "90 minutos",
+      "type": "TEMPORALIDAD",
+      "start": 258,
+      "end": 268
+    },
+    {
+      "text": "penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1216,
+      "end": 1234
+    },
+    {
+      "text": "sin infarto establecido",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2167,
+      "end": 2190
+    },
+    {
+      "text": "No se evidencian hemorragias intra ni extraaxiales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 583,
+      "end": 633
+    },
+    {
+      "text": "No se observan signos claros de hipodensidad que sugieran infarto estable",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 635,
+      "end": 708
+    },
+    {
+      "text": "No signos de edema cerebral significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 838,
+      "end": 879
+    },
+    {
+      "text": "No se identifican zonas con reducción marcada de CBV compatible con infarto establecido",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1236,
+      "end": 1323
+    },
+    {
+      "text": "No se visualizan defectos claros de llenado ni trombosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1692,
+      "end": 1748
+    },
+    {
+      "text": "No hemorragia aguda ni edema cerebral significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2397,
+      "end": 2448
+    }
+  ]
+}

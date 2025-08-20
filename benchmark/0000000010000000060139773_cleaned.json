@@ -1,0 +1,101 @@
+{
+  "document_id": "0000000010000000060139773_cleaned",
+  "entities": [
+    {
+      "text": "Infart cerebral causat per oclusió o estenosi no especificades d'artèria cerebral no especificada",
+      "type": "PATOLOGIA",
+      "start": 166,
+      "end": 263
+    },
+    {
+      "text": "No se observa hemorragia intra ni extraaxial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 402,
+      "end": 446
+    },
+    {
+      "text": "Diferenciación cortico-subcortical conservada",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 448,
+      "end": 493
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 495,
+      "end": 505
+    },
+    {
+      "text": "tálamo/mesencéfalo superior derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 809,
+      "end": 844
+    },
+    {
+      "text": "ACPd",
+      "type": "ARTERIA",
+      "start": 866,
+      "end": 870
+    },
+    {
+      "text": "Defecto brusco de repleción en ACP derecha rama P1",
+      "type": "PATOLOGIA",
+      "start": 943,
+      "end": 993
+    },
+    {
+      "text": "Resto de principales arterias cerebrales permeables (ACAs, ACMs y ACPi)",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1094,
+      "end": 1165
+    },
+    {
+      "text": "Ateromatosis calcificada de segmentos intracavernoso y supraclinoideo de ambas arterias carótidas internas, sin estenosis significativa",
+      "type": "PATOLOGIA",
+      "start": 1317,
+      "end": 1452
+    },
+    {
+      "text": "No se observa hemorragia intra ni extraaxial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 402,
+      "end": 446
+    },
+    {
+      "text": "Alteración de mapas, TTP y CBF y CBV en territorio de la ACPd",
+      "type": "PATOLOGIA",
+      "start": 1776,
+      "end": 1837
+    },
+    {
+      "text": "Trombosis de ACP derecha rama P1",
+      "type": "PATOLOGIA",
+      "start": 1880,
+      "end": 1912
+    },
+    {
+      "text": "repermeabilización distalmente a la ACoPd",
+      "type": "PATOLOGIA",
+      "start": 1917,
+      "end": 1958
+    },
+    {
+      "text": "TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANG IOTC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 72,
+      "end": 140
+    },
+    {
+      "text": "TC CODIGO ICTUS (CRÁNEO BASAL + PERFUSIÓN CEREBRAL + ANGIO TC DE TSA E INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 283,
+      "end": 367
+    },
+    {
+      "text": "Sistema vertebrobasilar permeable",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1167,
+      "end": 1200
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "document_id": "informe_sintetico_20250804195045_15191",
+  "entities": [
+    {
+      "text": "infarto cerebral lacunar agudo",
+      "type": "PATOLOGIA",
+      "start": 316,
+      "end": 346
+    },
+    {
+      "text": "lesión hipodensa focal, redondeada, de aproximadamente 8 mm",
+      "type": "PATOLOGIA",
+      "start": 555,
+      "end": 614
+    },
+    {
+      "text": "región capsuloganglionar derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 618,
+      "end": 650
+    },
+    {
+      "text": "infarto lacunar agudo",
+      "type": "PATOLOGIA",
+      "start": 667,
+      "end": 688
+    },
+    {
+      "text": "MTT",
+      "type": "MEDIDA",
+      "start": 1001,
+      "end": 1004
+    },
+    {
+      "text": "TTP",
+      "type": "MEDIDA",
+      "start": 1030,
+      "end": 1033
+    },
+    {
+      "text": "CBF",
+      "type": "MEDIDA",
+      "start": 1077,
+      "end": 1080
+    },
+    {
+      "text": "CBV",
+      "type": "MEDIDA",
+      "start": 1104,
+      "end": 1107
+    },
+    {
+      "text": "ACAs, ACMs y ACPs",
+      "type": "ARTERIA",
+      "start": 1325,
+      "end": 1342
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 643,
+      "end": 650
+    },
+    {
+      "text": "sin evidencia de hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1695,
+      "end": 1735
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 1901,
+      "end": 1911
+    },
+    {
+      "text": "TC CÓDIGO ICTUS (BASAL + PERFUSIÓN CEREBRAL + ANGIOTC EXTRA E INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 367,
+      "end": 442
+    }
+  ]
+}

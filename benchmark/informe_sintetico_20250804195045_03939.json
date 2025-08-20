@@ -1,0 +1,53 @@
+{
+  "document_id": "informe_sintetico_20250804195045_03939",
+  "entities": [
+    {
+      "text": "hematoma lobar de localización frontal derecha",
+      "type": "PATOLOGIA",
+      "start": 471,
+      "end": 517
+    },
+    {
+      "text": "frontal derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 502,
+      "end": 517
+    },
+    {
+      "text": "25 x 20 x 15 mm",
+      "type": "MEDIDA",
+      "start": 576,
+      "end": 591
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 775,
+      "end": 784
+    },
+    {
+      "text": "sin evidencia de isquemia tisular extensa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1072,
+      "end": 1113
+    },
+    {
+      "text": "sin signos de malformaciones vasculares, aneurismas ni estenosis significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1190,
+      "end": 1269
+    },
+    {
+      "text": "sin hallazgos patológicos asociados",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1745,
+      "end": 1780
+    },
+    {
+      "text": "TC CRANEAL BASAL + PERFUSIÓN CEREBRAL + ANGIO-TC INTRA Y EXTRACRANEAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 316,
+      "end": 385
+    }
+  ]
+}

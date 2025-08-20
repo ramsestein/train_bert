@@ -1,0 +1,101 @@
+{
+  "document_id": "informe_sintetico_20250804195045_15966",
+  "entities": [
+    {
+      "text": "isquemia cerebral",
+      "type": "PATOLOGIA",
+      "start": 258,
+      "end": 275
+    },
+    {
+      "text": "arteria cerebral media",
+      "type": "ARTERIA",
+      "start": 293,
+      "end": 315
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 214,
+      "end": 221
+    },
+    {
+      "text": "agudo",
+      "type": "TEMPORALIDAD",
+      "start": 192,
+      "end": 197
+    },
+    {
+      "text": "ASPECTS 9",
+      "type": "PUNTUACION_CLINICA",
+      "start": 716,
+      "end": 725
+    },
+    {
+      "text": "hemorragia intraparenquimatosa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 601,
+      "end": 631
+    },
+    {
+      "text": "hemorragia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 601,
+      "end": 611
+    },
+    {
+      "text": "edema cerebral significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1925,
+      "end": 1953
+    },
+    {
+      "text": "TC Basal + Perfusión cerebral con mapas de tiempo de tránsito (TTP), flujo cerebral (CBF) y volumen cerebral (CBV) + AngioTC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 343,
+      "end": 489
+    },
+    {
+      "text": "segmentos M2/M3",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1068,
+      "end": 1083
+    },
+    {
+      "text": "segmentos M2-M3",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1384,
+      "end": 1399
+    },
+    {
+      "text": "penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1287,
+      "end": 1305
+    },
+    {
+      "text": "defecto de repleción",
+      "type": "PATOLOGIA",
+      "start": 1347,
+      "end": 1367
+    },
+    {
+      "text": "oclusión parcial",
+      "type": "PATOLOGIA",
+      "start": 1456,
+      "end": 1472
+    },
+    {
+      "text": "sin estenosis ni signos de placas ateromatosas relevantes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1580,
+      "end": 1637
+    },
+    {
+      "text": "sin alteraciones significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1663,
+      "end": 1694
+    }
+  ]
+}

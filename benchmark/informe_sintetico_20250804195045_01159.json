@@ -1,0 +1,89 @@
+{
+  "document_id": "informe_sintetico_20250804195045_01159",
+  "entities": [
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 431,
+      "end": 454
+    },
+    {
+      "text": "hemorragia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 431,
+      "end": 441
+    },
+    {
+      "text": "isquemia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1533,
+      "end": 1541
+    },
+    {
+      "text": "efecto masa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 858,
+      "end": 869
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 1683,
+      "end": 1693
+    },
+    {
+      "text": "ACAs",
+      "type": "ARTERIA",
+      "start": 1230,
+      "end": 1234
+    },
+    {
+      "text": "ACMs",
+      "type": "ARTERIA",
+      "start": 1236,
+      "end": 1240
+    },
+    {
+      "text": "ACPs",
+      "type": "ARTERIA",
+      "start": 1242,
+      "end": 1246
+    },
+    {
+      "text": "sistema vertebrobasilar",
+      "type": "ARTERIA",
+      "start": 1249,
+      "end": 1272
+    },
+    {
+      "text": "circulación extracraneal",
+      "type": "ARTERIA",
+      "start": 1275,
+      "end": 1299
+    },
+    {
+      "text": "sin estenosis, oclusiones ni aneurismas evidentes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1300,
+      "end": 1349
+    },
+    {
+      "text": "cerebral blood volume (CBV)",
+      "type": "TECNICA_IMAGEN",
+      "start": 963,
+      "end": 990
+    },
+    {
+      "text": "cerebral blood flow (CBF)",
+      "type": "TECNICA_IMAGEN",
+      "start": 992,
+      "end": 1017
+    },
+    {
+      "text": "mean transit time (MTT)",
+      "type": "TECNICA_IMAGEN",
+      "start": 1021,
+      "end": 1044
+    }
+  ]
+}

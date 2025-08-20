@@ -1,0 +1,119 @@
+{
+  "document_id": "informe_sintetico_20250804195045_17729",
+  "entities": [
+    {
+      "text": "isquemia cerebral",
+      "type": "PATOLOGIA",
+      "start": 230,
+      "end": 247
+    },
+    {
+      "text": "arteria cerebral anterior",
+      "type": "ARTERIA",
+      "start": 265,
+      "end": 290
+    },
+    {
+      "text": "hemicuerpo derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 190,
+      "end": 208
+    },
+    {
+      "text": "izquierdo",
+      "type": "LATERALIDAD",
+      "start": 687,
+      "end": 696
+    },
+    {
+      "text": "leve hipodensidad",
+      "type": "PATOLOGIA",
+      "start": 630,
+      "end": 647
+    },
+    {
+      "text": "edema vasogénico precoz",
+      "type": "PATOLOGIA",
+      "start": 713,
+      "end": 736
+    },
+    {
+      "text": "aumento del tiempo de tránsito medio (MTT)",
+      "type": "MEDIDA",
+      "start": 873,
+      "end": 915
+    },
+    {
+      "text": "tiempo hasta el pico (TTP)",
+      "type": "MEDIDA",
+      "start": 918,
+      "end": 944
+    },
+    {
+      "text": "volumen cerebral (CBV) relativamente conservado",
+      "type": "MEDIDA",
+      "start": 1114,
+      "end": 1161
+    },
+    {
+      "text": "penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1197,
+      "end": 1215
+    },
+    {
+      "text": "arterias intracraneales principales (ACM, ACP)",
+      "type": "ARTERIA",
+      "start": 1358,
+      "end": 1404
+    },
+    {
+      "text": "sin estenosis significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1418,
+      "end": 1446
+    },
+    {
+      "text": "sin signos de hemorragia ni lesiones isquémicas establecidas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1573,
+      "end": 1633
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 1689,
+      "end": 1703
+    },
+    {
+      "text": "territorio de la arteria cerebral anterior izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1707,
+      "end": 1759
+    },
+    {
+      "text": "oclusión del segmento A2 de ACA izquierda",
+      "type": "PATOLOGIA",
+      "start": 1813,
+      "end": 1854
+    },
+    {
+      "text": "TC Basal craneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 311,
+      "end": 327
+    },
+    {
+      "text": "TC Perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 329,
+      "end": 350
+    },
+    {
+      "text": "Angio-TC extra e intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 385,
+      "end": 414
+    }
+  ]
+}

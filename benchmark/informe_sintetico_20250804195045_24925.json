@@ -1,0 +1,113 @@
+{
+  "document_id": "informe_sintetico_20250804195045_24925",
+  "entities": [
+    {
+      "text": "accidente isquémico",
+      "type": "PATOLOGIA",
+      "start": 268,
+      "end": 287
+    },
+    {
+      "text": "infarto",
+      "type": "PATOLOGIA",
+      "start": 684,
+      "end": 691
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "PATOLOGIA",
+      "start": 719,
+      "end": 742
+    },
+    {
+      "text": "efecto masa significativo",
+      "type": "PATOLOGIA",
+      "start": 746,
+      "end": 771
+    },
+    {
+      "text": "arteria basilar",
+      "type": "ARTERIA",
+      "start": 961,
+      "end": 976
+    },
+    {
+      "text": "tronco cerebral",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1146,
+      "end": 1161
+    },
+    {
+      "text": "cerebelo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1163,
+      "end": 1171
+    },
+    {
+      "text": "protuberancia",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1174,
+      "end": 1187
+    },
+    {
+      "text": "oclusión completa",
+      "type": "PATOLOGIA",
+      "start": 1304,
+      "end": 1321
+    },
+    {
+      "text": "arteria basilar proximal",
+      "type": "ARTERIA",
+      "start": 1622,
+      "end": 1646
+    },
+    {
+      "text": "ausencia de flujo distal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1373,
+      "end": 1397
+    },
+    {
+      "text": "permeables",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1493,
+      "end": 1503
+    },
+    {
+      "text": "hipoperfusión crítica",
+      "type": "PATOLOGIA",
+      "start": 1211,
+      "end": 1232
+    },
+    {
+      "text": "infarto establecido",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 684,
+      "end": 703
+    },
+    {
+      "text": "complicaciones hemorrágicas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1776,
+      "end": 1803
+    },
+    {
+      "text": "Oclusión arterial aguda",
+      "type": "PATOLOGIA",
+      "start": 2102,
+      "end": 2125
+    },
+    {
+      "text": "TC CODIGO ICTUS (PERFUSIÓN CEREBRAL + ANG IOTC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 72,
+      "end": 141
+    },
+    {
+      "text": "Oclusión completa arteria basilar proximal, hipoperfusión en territorio vertebrobasilar.",
+      "type": "PATOLOGIA",
+      "start": 2241,
+      "end": 2329
+    }
+  ]
+}

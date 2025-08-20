@@ -1,0 +1,83 @@
+{
+  "document_id": "informe_sintetico_20250804195045_16322",
+  "entities": [
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 1037,
+      "end": 1051
+    },
+    {
+      "text": "tronco encefálico",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 850,
+      "end": 867
+    },
+    {
+      "text": "territorio pontino derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 886,
+      "end": 912
+    },
+    {
+      "text": "cerebelo hemisférico derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 991,
+      "end": 1019
+    },
+    {
+      "text": "territorio vertebrobasilar",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 297,
+      "end": 323
+    },
+    {
+      "text": "arteria vertebral derecha",
+      "type": "ARTERIA",
+      "start": 1732,
+      "end": 1757
+    },
+    {
+      "text": "arteria basilar",
+      "type": "ARTERIA",
+      "start": 1792,
+      "end": 1807
+    },
+    {
+      "text": "derecho",
+      "type": "LATERALIDAD",
+      "start": 905,
+      "end": 912
+    },
+    {
+      "text": "aguda",
+      "type": "TEMPORALIDAD",
+      "start": 1046,
+      "end": 1051
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 592,
+      "end": 615
+    },
+    {
+      "text": "sin evidencia de oclusión completa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2003,
+      "end": 2037
+    },
+    {
+      "text": "sin estenosis ni signos de ateromatosis grave",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1564,
+      "end": 1609
+    },
+    {
+      "text": "sin clara evidencia de tejido infartado irreversiblemente",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1387,
+      "end": 1444
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "document_id": "informe_sintetico_20250804195045_10899",
+  "entities": [
+    {
+      "text": "hemiparesia derecha",
+      "type": "PATOLOGIA",
+      "start": 196,
+      "end": 215
+    },
+    {
+      "text": "afasia",
+      "type": "PATOLOGIA",
+      "start": 218,
+      "end": 224
+    },
+    {
+      "text": "disección arterial carotídea izquierda",
+      "type": "PATOLOGIA",
+      "start": 246,
+      "end": 284
+    },
+    {
+      "text": "accidente cerebrovascular isquémico",
+      "type": "PATOLOGIA",
+      "start": 287,
+      "end": 322
+    },
+    {
+      "text": "hipodensidad parenquimatosa",
+      "type": "PATOLOGIA",
+      "start": 531,
+      "end": 558
+    },
+    {
+      "text": "infarto isquémico establecido",
+      "type": "PATOLOGIA",
+      "start": 650,
+      "end": 679
+    },
+    {
+      "text": "borramiento parcial de la diferenciación cortico-subcortical",
+      "type": "PATOLOGIA",
+      "start": 685,
+      "end": 745
+    },
+    {
+      "text": "ASPECTS 6",
+      "type": "PUNTUACION_CLINICA",
+      "start": 747,
+      "end": 756
+    },
+    {
+      "text": "No evidencia de sangrado intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 759,
+      "end": 796
+    },
+    {
+      "text": "No hay desplazamiento de la línea media ni efecto masa significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 798,
+      "end": 866
+    },
+    {
+      "text": "territorio cortical y subcortical de la región frontoparietal izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 562,
+      "end": 633
+    },
+    {
+      "text": "territorio de la arteria cerebral media izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1012,
+      "end": 1061
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "ARTERIA",
+      "start": 1029,
+      "end": 1061
+    },
+    {
+      "text": "arteria carótida interna izquierda",
+      "type": "ARTERIA",
+      "start": 1375,
+      "end": 1409
+    },
+    {
+      "text": "segmento cervical/petroso",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 2044,
+      "end": 2069
+    },
+    {
+      "text": "estenosis severa (>70%)",
+      "type": "MEDIDA",
+      "start": 1523,
+      "end": 1546
+    },
+    {
+      "text": "oclusión parcial en segmento proximal M1",
+      "type": "PATOLOGIA",
+      "start": 1672,
+      "end": 1712
+    },
+    {
+      "text": "Ausencia de hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2153,
+      "end": 2188
+    },
+    {
+      "text": "TC craneal sin contraste",
+      "type": "TECNICA_IMAGEN",
+      "start": 342,
+      "end": 366
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 383,
+      "end": 404
+    },
+    {
+      "text": "angio TC de arterias intracraneales",
+      "type": "TECNICA_IMAGEN",
+      "start": 407,
+      "end": 442
+    }
+  ]
+}

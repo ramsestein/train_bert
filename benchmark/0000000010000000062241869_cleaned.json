@@ -1,0 +1,59 @@
+{
+  "document_id": "0000000010000000062241869_cleaned",
+  "entities": [
+    {
+      "text": "isquemia establecida",
+      "type": "PATOLOGIA",
+      "start": 478,
+      "end": 498
+    },
+    {
+      "text": "ACM derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 452,
+      "end": 463
+    },
+    {
+      "text": "ACM",
+      "type": "ARTERIA",
+      "start": 452,
+      "end": 455
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 456,
+      "end": 463
+    },
+    {
+      "text": "ASPECTS 3",
+      "type": "PUNTUACION_CLINICA",
+      "start": 508,
+      "end": 517
+    },
+    {
+      "text": "10 mm",
+      "type": "MEDIDA",
+      "start": 917,
+      "end": 922
+    },
+    {
+      "text": "aguda",
+      "type": "TEMPORALIDAD",
+      "start": 500,
+      "end": 505
+    },
+    {
+      "text": "No se observan trazos de fracturas evidentes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1160,
+      "end": 1204
+    },
+    {
+      "text": "TC craneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 226,
+      "end": 236
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "document_id": "informe_sintetico_20250804195045_06771",
+  "entities": [
+    {
+      "text": "hemorragia aguda",
+      "type": "PATOLOGIA",
+      "start": 393,
+      "end": 409
+    },
+    {
+      "text": "lesiones isquémicas agudas",
+      "type": "PATOLOGIA",
+      "start": 454,
+      "end": 480
+    },
+    {
+      "text": "significación",
+      "type": "PATOLOGIA",
+      "start": 496,
+      "end": 509
+    },
+    {
+      "text": "línea media centrada",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 609,
+      "end": 629
+    },
+    {
+      "text": "sin alteraciones significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 717,
+      "end": 748
+    },
+    {
+      "text": "sin áreas de hipoperfusión",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 750,
+      "end": 776
+    },
+    {
+      "text": "sin evidencias de estenosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 875,
+      "end": 902
+    },
+    {
+      "text": "sin signos de oclusión",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 997,
+      "end": 1019
+    },
+    {
+      "text": "sin hallazgos agudos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1143,
+      "end": 1163
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 1165,
+      "end": 1175
+    },
+    {
+      "text": "sin lesiones isquémicas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 450,
+      "end": 473
+    },
+    {
+      "text": "sin estenosis ni oclusiones",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1297,
+      "end": 1324
+    },
+    {
+      "text": "TC CODIGO ICTUS",
+      "type": "TECNICA_IMAGEN",
+      "start": 72,
+      "end": 87
+    },
+    {
+      "text": "PERFUSION CEREBRAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 89,
+      "end": 107
+    },
+    {
+      "text": "ANG IOTC ARTERIAL INTRACRANEAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 109,
+      "end": 139
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "document_id": "informe_sintetico_20250804195045_03601",
+  "entities": [
+    {
+      "text": "hemorragia subaracnoidea focal",
+      "type": "PATOLOGIA",
+      "start": 541,
+      "end": 571
+    },
+    {
+      "text": "cisterna silviana derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 499,
+      "end": 524
+    },
+    {
+      "text": "coágulos",
+      "type": "PATOLOGIA",
+      "start": 590,
+      "end": 598
+    },
+    {
+      "text": "hemorragia intraparenquimatosa",
+      "type": "PATOLOGIA",
+      "start": 685,
+      "end": 715
+    },
+    {
+      "text": "edema cerebral",
+      "type": "PATOLOGIA",
+      "start": 856,
+      "end": 870
+    },
+    {
+      "text": "4 mm",
+      "type": "MEDIDA",
+      "start": 1164,
+      "end": 1168
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "ARTERIA",
+      "start": 1193,
+      "end": 1223
+    },
+    {
+      "text": "sin alteraciones focales de flujo, volumen o tiempo de tránsito",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 980,
+      "end": 1043
+    },
+    {
+      "text": "sin alteraciones",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 980,
+      "end": 996
+    },
+    {
+      "text": "Líneas medias centradas y ventrículos de tamaño normal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1716,
+      "end": 1770
+    },
+    {
+      "text": "TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANG IOTC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 72,
+      "end": 140
+    },
+    {
+      "text": "TC CÓDIGO ICTUS con estudio basal craneal, TC perfusión cerebral y angiografía TC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 307,
+      "end": 410
+    }
+  ]
+}

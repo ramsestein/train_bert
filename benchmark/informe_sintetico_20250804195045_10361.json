@@ -1,0 +1,227 @@
+{
+  "document_id": "informe_sintetico_20250804195045_10361",
+  "entities": [
+    {
+      "text": "hemiparesia derecha",
+      "type": "PATOLOGIA",
+      "start": 179,
+      "end": 198
+    },
+    {
+      "text": "accidente isquémico cerebral",
+      "type": "PATOLOGIA",
+      "start": 235,
+      "end": 263
+    },
+    {
+      "text": "transformación hemorrágica",
+      "type": "PATOLOGIA",
+      "start": 276,
+      "end": 302
+    },
+    {
+      "text": "área hipodensa",
+      "type": "PATOLOGIA",
+      "start": 457,
+      "end": 471
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 492,
+      "end": 524
+    },
+    {
+      "text": "infarto cerebral subagudo",
+      "type": "PATOLOGIA",
+      "start": 540,
+      "end": 565
+    },
+    {
+      "text": "focos hiperdensos puntiformes y lineales",
+      "type": "PATOLOGIA",
+      "start": 610,
+      "end": 650
+    },
+    {
+      "text": "menor a 30%",
+      "type": "MEDIDA",
+      "start": 652,
+      "end": 663
+    },
+    {
+      "text": "transformación hemorrágica tipo HI1",
+      "type": "PATOLOGIA",
+      "start": 698,
+      "end": 733
+    },
+    {
+      "text": "hematomas expansivos",
+      "type": "PATOLOGIA",
+      "start": 753,
+      "end": 773
+    },
+    {
+      "text": "efecto de masa significativo",
+      "type": "PATOLOGIA",
+      "start": 777,
+      "end": 805
+    },
+    {
+      "text": "Línea media centrada",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 807,
+      "end": 827
+    },
+    {
+      "text": "Sistema ventricular normodilatado",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 829,
+      "end": 862
+    },
+    {
+      "text": "Cisternas basales libres",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 881,
+      "end": 905
+    },
+    {
+      "text": "déficit de flujo cerebral",
+      "type": "PATOLOGIA",
+      "start": 937,
+      "end": 962
+    },
+    {
+      "text": "aumento del tiempo de tránsito",
+      "type": "PATOLOGIA",
+      "start": 965,
+      "end": 995
+    },
+    {
+      "text": "lesión isquémica subaguda",
+      "type": "PATOLOGIA",
+      "start": 1077,
+      "end": 1102
+    },
+    {
+      "text": "áreas de penumbra significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1121,
+      "end": 1152
+    },
+    {
+      "text": "Arco aórtico",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1186,
+      "end": 1198
+    },
+    {
+      "text": "troncos supraaórticos",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1213,
+      "end": 1234
+    },
+    {
+      "text": "estenosis significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1239,
+      "end": 1263
+    },
+    {
+      "text": "placas inestables",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1267,
+      "end": 1284
+    },
+    {
+      "text": "Arteria cerebral media izquierda",
+      "type": "ARTERIA",
+      "start": 1286,
+      "end": 1318
+    },
+    {
+      "text": "ausencia de repleción en segmento M2 distal",
+      "type": "PATOLOGIA",
+      "start": 1323,
+      "end": 1366
+    },
+    {
+      "text": "Arterias intracraneales permeables",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1368,
+      "end": 1402
+    },
+    {
+      "text": "infarto cerebral",
+      "type": "PATOLOGIA",
+      "start": 540,
+      "end": 556
+    },
+    {
+      "text": "signos de transformación hemorrágica tipo HI1",
+      "type": "PATOLOGIA",
+      "start": 1539,
+      "end": 1584
+    },
+    {
+      "text": "hemorragia petequial dispersa menor del 30%",
+      "type": "PATOLOGIA",
+      "start": 1586,
+      "end": 1629
+    },
+    {
+      "text": "hematoma compacto",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1658,
+      "end": 1675
+    },
+    {
+      "text": "efecto de masa relevante",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1679,
+      "end": 1703
+    },
+    {
+      "text": "oclusión distal de ACM izquierda",
+      "type": "PATOLOGIA",
+      "start": 1722,
+      "end": 1754
+    },
+    {
+      "text": "hallazgos vasculares significativos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1765,
+      "end": 1800
+    },
+    {
+      "text": "TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANG IOTC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 72,
+      "end": 140
+    },
+    {
+      "text": "TC craneal urgente basal + perfusión cerebral + angiografía TC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 323,
+      "end": 407
+    },
+    {
+      "text": "TC CRANEAL BASAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 428,
+      "end": 444
+    },
+    {
+      "text": "TC PERFUSIÓN",
+      "type": "TECNICA_IMAGEN",
+      "start": 908,
+      "end": 920
+    },
+    {
+      "text": "ANGIOTC ARTERIAL INTRACRANEAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 1155,
+      "end": 1184
+    }
+  ]
+}

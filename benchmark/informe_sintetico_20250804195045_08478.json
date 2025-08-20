@@ -1,0 +1,95 @@
+{
+  "document_id": "informe_sintetico_20250804195045_08478",
+  "entities": [
+    {
+      "text": "ictus lacunar",
+      "type": "PATOLOGIA",
+      "start": 268,
+      "end": 281
+    },
+    {
+      "text": "hemiparesia",
+      "type": "PATOLOGIA",
+      "start": 207,
+      "end": 218
+    },
+    {
+      "text": "disartria",
+      "type": "PATOLOGIA",
+      "start": 195,
+      "end": 204
+    },
+    {
+      "text": "8 x 7 mm",
+      "type": "MEDIDA",
+      "start": 699,
+      "end": 707
+    },
+    {
+      "text": "núcleo lenticular derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 756,
+      "end": 781
+    },
+    {
+      "text": "aguda",
+      "type": "TEMPORALIDAD",
+      "start": 1234,
+      "end": 1239
+    },
+    {
+      "text": "TTP",
+      "type": "PUNTUACION_CLINICA",
+      "start": 1007,
+      "end": 1010
+    },
+    {
+      "text": "TAC",
+      "type": "PUNTUACION_CLINICA",
+      "start": 1047,
+      "end": 1050
+    },
+    {
+      "text": "ACM",
+      "type": "ARTERIA",
+      "start": 1413,
+      "end": 1416
+    },
+    {
+      "text": "ACA",
+      "type": "ARTERIA",
+      "start": 1418,
+      "end": 1421
+    },
+    {
+      "text": "ACP",
+      "type": "ARTERIA",
+      "start": 1424,
+      "end": 1427
+    },
+    {
+      "text": "derecho",
+      "type": "LATERALIDAD",
+      "start": 774,
+      "end": 781
+    },
+    {
+      "text": "sin efecto masa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 783,
+      "end": 798
+    },
+    {
+      "text": "sin complicaciones hemorrágicas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2161,
+      "end": 2192
+    },
+    {
+      "text": "sin estenosis significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1770,
+      "end": 1798
+    }
+  ]
+}

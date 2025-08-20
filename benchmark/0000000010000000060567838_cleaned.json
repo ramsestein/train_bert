@@ -1,0 +1,203 @@
+{
+  "document_id": "0000000010000000060567838_cleaned",
+  "entities": [
+    {
+      "text": "Infart cerebral causat per oclusió o estenosi no especificades d'artèria cerebral no especificada",
+      "type": "PATOLOGIA",
+      "start": 166,
+      "end": 263
+    },
+    {
+      "text": "No se observa hemorragia intra ni extraaxial.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 400,
+      "end": 445
+    },
+    {
+      "text": "Infarto paramediano establecido en hemiprotuberancia alta izquierda.",
+      "type": "PATOLOGIA",
+      "start": 446,
+      "end": 514
+    },
+    {
+      "text": "hemiprotuberancia alta izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 481,
+      "end": 513
+    },
+    {
+      "text": "Hipodensidades periventriculares",
+      "type": "PATOLOGIA",
+      "start": 600,
+      "end": 632
+    },
+    {
+      "text": "en grado moderado-severo",
+      "type": "MEDIDA",
+      "start": 695,
+      "end": 719
+    },
+    {
+      "text": "Hipodensidades lacunares sublenticulares bilaterales",
+      "type": "PATOLOGIA",
+      "start": 721,
+      "end": 773
+    },
+    {
+      "text": "bilaterales",
+      "type": "LATERALIDAD",
+      "start": 762,
+      "end": 773
+    },
+    {
+      "text": "Atrofia cortical de predominio frontal bilateral.",
+      "type": "PATOLOGIA",
+      "start": 833,
+      "end": 882
+    },
+    {
+      "text": "Sistema ventricular de morfología y tamaño normales.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 883,
+      "end": 935
+    },
+    {
+      "text": "Línea media centrada.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 936,
+      "end": 957
+    },
+    {
+      "text": "Cisternas basales libres.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 958,
+      "end": 983
+    },
+    {
+      "text": "Alteración hemiprotuberancial izquierda",
+      "type": "PATOLOGIA",
+      "start": 998,
+      "end": 1037
+    },
+    {
+      "text": "hemiprotuberancial izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1009,
+      "end": 1037
+    },
+    {
+      "text": "Caída del CBF en región temporal izquierda",
+      "type": "PATOLOGIA",
+      "start": 1116,
+      "end": 1158
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 504,
+      "end": 513
+    },
+    {
+      "text": "No se observan otras alteraciones valorables en el TTP, CBV y CBF.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1302,
+      "end": 1368
+    },
+    {
+      "text": "Ateromatosis calcificada en arco aórtico y segmentos proximales de los TSA.",
+      "type": "PATOLOGIA",
+      "start": 1400,
+      "end": 1475
+    },
+    {
+      "text": "estenosis de aprox. el 60% del origen de la ACI izquierda",
+      "type": "PATOLOGIA",
+      "start": 1559,
+      "end": 1616
+    },
+    {
+      "text": "60%",
+      "type": "MEDIDA",
+      "start": 1582,
+      "end": 1585
+    },
+    {
+      "text": "del 30% de la derecha.",
+      "type": "MEDIDA",
+      "start": 1620,
+      "end": 1642
+    },
+    {
+      "text": "Resto de segmentos cervicales e intracraneales de las ACI sin evidencia de estenosis destacable.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1643,
+      "end": 1739
+    },
+    {
+      "text": "Placas de ateroma calcificadas en el origen de ambas AV",
+      "type": "PATOLOGIA",
+      "start": 1740,
+      "end": 1795
+    },
+    {
+      "text": "sin estenosis.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1881,
+      "end": 1895
+    },
+    {
+      "text": "Arteria basilar permeable, de calibre preservado.",
+      "type": "PATOLOGIA",
+      "start": 1896,
+      "end": 1945
+    },
+    {
+      "text": "Sin evidencia de oclusión de gran vaso a nivel intracraneal.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1946,
+      "end": 2006
+    },
+    {
+      "text": "Opacidad nodular parcialmente incluída en segmento apicoposterior del LSD",
+      "type": "PATOLOGIA",
+      "start": 2054,
+      "end": 2127
+    },
+    {
+      "text": "no caracterizable",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2129,
+      "end": 2146
+    },
+    {
+      "text": "que no permite descartar malignidad.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2150,
+      "end": 2186
+    },
+    {
+      "text": "Se recomienda control por TC en 1 mes.",
+      "type": "TEMPORALIDAD",
+      "start": 2187,
+      "end": 2225
+    },
+    {
+      "text": "Infarto pontino establecido paramediano izquierdo.",
+      "type": "PATOLOGIA",
+      "start": 2249,
+      "end": 2299
+    },
+    {
+      "text": "Arteria basilar permeable, sin evidencia de estenosis destacable.",
+      "type": "PATOLOGIA",
+      "start": 2300,
+      "end": 2365
+    },
+    {
+      "text": "Estenosis ateromatosa de aproximadamente el 60% del origen de la ACI izquierda.",
+      "type": "PATOLOGIA",
+      "start": 2366,
+      "end": 2445
+    }
+  ]
+}

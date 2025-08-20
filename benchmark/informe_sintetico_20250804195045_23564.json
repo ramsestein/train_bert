@@ -1,0 +1,229 @@
+{
+  "document_id": "informe_sintetico_20250804195045_23564",
+  "entities": [
+    {
+      "text": "isquemia cerebral aguda multifocal",
+      "type": "PATOLOGIA",
+      "start": 284,
+      "end": 318
+    },
+    {
+      "text": "hemiparesia derecha",
+      "type": "PATOLOGIA",
+      "start": 217,
+      "end": 236
+    },
+    {
+      "text": "TC craneal simple",
+      "type": "TECNICA_IMAGEN",
+      "start": 339,
+      "end": 356
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 358,
+      "end": 379
+    },
+    {
+      "text": "AngioTC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 382,
+      "end": 411
+    },
+    {
+      "text": "múltiples áreas de hipodensidad cortical y subcortical",
+      "type": "PATOLOGIA",
+      "start": 552,
+      "end": 606
+    },
+    {
+      "text": "territorios frontales y parietales izquierdos",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 610,
+      "end": 655
+    },
+    {
+      "text": "territorio cerebeloso derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 669,
+      "end": 698
+    },
+    {
+      "text": "infartos isquémicos agudos",
+      "type": "PATOLOGIA",
+      "start": 716,
+      "end": 742
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 764,
+      "end": 787
+    },
+    {
+      "text": "efecto masa significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 791,
+      "end": 816
+    },
+    {
+      "text": "signos de edema cerebral extenso",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 866,
+      "end": 898
+    },
+    {
+      "text": "Mapas de tiempo de tránsito (TTP)",
+      "type": "TECNICA_IMAGEN",
+      "start": 919,
+      "end": 952
+    },
+    {
+      "text": "territorios frontoparietales izquierdos",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 988,
+      "end": 1027
+    },
+    {
+      "text": "hemisferio cerebeloso derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1036,
+      "end": 1065
+    },
+    {
+      "text": "flujo cerebral (CBF)",
+      "type": "MEDIDA",
+      "start": 1083,
+      "end": 1103
+    },
+    {
+      "text": "volumen cerebral (CBV)",
+      "type": "MEDIDA",
+      "start": 1106,
+      "end": 1128
+    },
+    {
+      "text": "lesión en penumbra isquémica múltiple",
+      "type": "PATOLOGIA",
+      "start": 1177,
+      "end": 1214
+    },
+    {
+      "text": "Oclusión segmentaria de la arteria cerebral media izquierda",
+      "type": "PATOLOGIA",
+      "start": 1253,
+      "end": 1312
+    },
+    {
+      "text": "segmento M1 proximal",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1319,
+      "end": 1339
+    },
+    {
+      "text": "ausencia de flujo distal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1345,
+      "end": 1369
+    },
+    {
+      "text": "sistema vertebrobasilar",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1422,
+      "end": 1445
+    },
+    {
+      "text": "ACAs",
+      "type": "ARTERIA",
+      "start": 1482,
+      "end": 1486
+    },
+    {
+      "text": "ACPs",
+      "type": "ARTERIA",
+      "start": 1488,
+      "end": 1492
+    },
+    {
+      "text": "sistema carotídeo extra e intracraneal",
+      "type": "ARTERIA",
+      "start": 1495,
+      "end": 1533
+    },
+    {
+      "text": "calibre conservado",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1545,
+      "end": 1563
+    },
+    {
+      "text": "arteriosclerosis incipiente",
+      "type": "PATOLOGIA",
+      "start": 1568,
+      "end": 1595
+    },
+    {
+      "text": "múltiples infartos isquémicos agudos",
+      "type": "PATOLOGIA",
+      "start": 1643,
+      "end": 1679
+    },
+    {
+      "text": "territorios frontoparietales izquierdos",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 988,
+      "end": 1027
+    },
+    {
+      "text": "cerebelo derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1725,
+      "end": 1741
+    },
+    {
+      "text": "complicaciones hemorrágicas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1747,
+      "end": 1774
+    },
+    {
+      "text": "áreas de penumbra isquémica en múltiples territorios vasculares",
+      "type": "PATOLOGIA",
+      "start": 1800,
+      "end": 1863
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "ARTERIA",
+      "start": 1280,
+      "end": 1312
+    },
+    {
+      "text": "ramas cerebelosas derechas",
+      "type": "ARTERIA",
+      "start": 1391,
+      "end": 1417
+    },
+    {
+      "text": "isquemia aguda multiterritorial",
+      "type": "PATOLOGIA",
+      "start": 2021,
+      "end": 2052
+    },
+    {
+      "text": "origen embólico",
+      "type": "PATOLOGIA",
+      "start": 2071,
+      "end": 2086
+    },
+    {
+      "text": "valoración urgente",
+      "type": "TEMPORALIDAD",
+      "start": 2101,
+      "end": 2119
+    }
+  ],
+  "regenerado": true,
+  "fecha_regeneracion": "2025-08-06T10:46:05.647145"
+}

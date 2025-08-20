@@ -1,0 +1,95 @@
+{
+  "document_id": "informe_sintetico_20250804195045_18194",
+  "entities": [
+    {
+      "text": "hemorragia aguda",
+      "type": "PATOLOGIA",
+      "start": 436,
+      "end": 452
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 521,
+      "end": 531
+    },
+    {
+      "text": "hipodensidad crónica",
+      "type": "PATOLOGIA",
+      "start": 568,
+      "end": 588
+    },
+    {
+      "text": "sustancia blanca",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 592,
+      "end": 608
+    },
+    {
+      "text": "núcleos lenticulares",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 627,
+      "end": 647
+    },
+    {
+      "text": "bilaterales",
+      "type": "LATERALIDAD",
+      "start": 648,
+      "end": 659
+    },
+    {
+      "text": "sin edema asociado",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 715,
+      "end": 733
+    },
+    {
+      "text": "sin alteraciones significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1052,
+      "end": 1083
+    },
+    {
+      "text": "sin evidencia de hipoperfusión",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1085,
+      "end": 1115
+    },
+    {
+      "text": "sin signos inflamatorios agudos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 943,
+      "end": 974
+    },
+    {
+      "text": "sin evidencia de estenosis, oclusión ni malformaciones vasculares",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1420,
+      "end": 1485
+    },
+    {
+      "text": "cambios crónicos vasculares leves",
+      "type": "PATOLOGIA",
+      "start": 1593,
+      "end": 1626
+    },
+    {
+      "text": "arterias carótidas internas",
+      "type": "ARTERIA",
+      "start": 1277,
+      "end": 1304
+    },
+    {
+      "text": "arterias vertebrales",
+      "type": "ARTERIA",
+      "start": 1306,
+      "end": 1326
+    },
+    {
+      "text": "ACAs, ACMs, ACPs",
+      "type": "ARTERIA",
+      "start": 1363,
+      "end": 1379
+    }
+  ]
+}

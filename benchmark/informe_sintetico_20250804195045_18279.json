@@ -1,0 +1,125 @@
+{
+  "document_id": "informe_sintetico_20250804195045_18279",
+  "entities": [
+    {
+      "text": "hemorragia intra o extraaxial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 422,
+      "end": 451
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 545,
+      "end": 555
+    },
+    {
+      "text": "lesiones isquémicas agudas o subagudas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 575,
+      "end": 613
+    },
+    {
+      "text": "cambios microangiopáticos crónicos",
+      "type": "PATOLOGIA",
+      "start": 627,
+      "end": 661
+    },
+    {
+      "text": "hipodensidades puntiformes",
+      "type": "PATOLOGIA",
+      "start": 679,
+      "end": 705
+    },
+    {
+      "text": "sustancia blanca periventricular",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 709,
+      "end": 741
+    },
+    {
+      "text": "centros semiovales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 744,
+      "end": 762
+    },
+    {
+      "text": "bilateral",
+      "type": "LATERALIDAD",
+      "start": 780,
+      "end": 789
+    },
+    {
+      "text": "tamaño y morfología habituales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 988,
+      "end": 1018
+    },
+    {
+      "text": "Mapas de tiempo de tránsito (TTP), volumen sanguíneo cerebral (CBV) y flujo sanguíneo cerebral (CBF)",
+      "type": "TECNICA_IMAGEN",
+      "start": 1035,
+      "end": 1135
+    },
+    {
+      "text": "sin alteraciones focales ni discordancia de perfusión significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1145,
+      "end": 1212
+    },
+    {
+      "text": "Arco aórtico sin evidencias de ateromatosis significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1246,
+      "end": 1303
+    },
+    {
+      "text": "Troncos supraórticos permeables",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1305,
+      "end": 1336
+    },
+    {
+      "text": "sin estenosis ni placas calcificadas relevantes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1338,
+      "end": 1385
+    },
+    {
+      "text": "Arterias carotídeas internas y vertebrales normales en calibre y trayecto",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1387,
+      "end": 1460
+    },
+    {
+      "text": "sin signos de estenosis ni trombosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1462,
+      "end": 1498
+    },
+    {
+      "text": "Sistema vertebro-basilar permeable con flujo conservado",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1500,
+      "end": 1555
+    },
+    {
+      "text": "sin evidencia de hemorragia ni infarto agudo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1650,
+      "end": 1694
+    },
+    {
+      "text": "sin repercusión perfusional actual",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1760,
+      "end": 1794
+    },
+    {
+      "text": "sin alteraciones significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1813,
+      "end": 1844
+    }
+  ]
+}

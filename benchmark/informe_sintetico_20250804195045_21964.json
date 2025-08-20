@@ -1,0 +1,113 @@
+{
+  "document_id": "informe_sintetico_20250804195045_21964",
+  "entities": [
+    {
+      "text": "lesiones hipodensas",
+      "type": "PATOLOGIA",
+      "start": 604,
+      "end": 623
+    },
+    {
+      "text": "infartos lacunares crónicos",
+      "type": "PATOLOGIA",
+      "start": 826,
+      "end": 853
+    },
+    {
+      "text": "edema",
+      "type": "PATOLOGIA",
+      "start": 884,
+      "end": 889
+    },
+    {
+      "text": "hemorragia intracraneal activa",
+      "type": "PATOLOGIA",
+      "start": 903,
+      "end": 933
+    },
+    {
+      "text": "núcleos profundos",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 691,
+      "end": 708
+    },
+    {
+      "text": "ganglios basales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 757,
+      "end": 773
+    },
+    {
+      "text": "cápsulas internas",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 775,
+      "end": 792
+    },
+    {
+      "text": "protuberancia",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 795,
+      "end": 808
+    },
+    {
+      "text": "arterias perforantes",
+      "type": "ARTERIA",
+      "start": 1965,
+      "end": 1985
+    },
+    {
+      "text": "bilaterales",
+      "type": "LATERALIDAD",
+      "start": 709,
+      "end": 720
+    },
+    {
+      "text": "menores de 15 mm",
+      "type": "MEDIDA",
+      "start": 657,
+      "end": 673
+    },
+    {
+      "text": "agudas",
+      "type": "TEMPORALIDAD",
+      "start": 1281,
+      "end": 1287
+    },
+    {
+      "text": "ausencia de isquemia aguda",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2650,
+      "end": 2676
+    },
+    {
+      "text": "sin estenosis ni placas de ateroma significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1596,
+      "end": 1645
+    },
+    {
+      "text": "sin evidencias de estenosis, oclusiones o vasoespasmo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1683,
+      "end": 1736
+    },
+    {
+      "text": "sin alteraciones hemodinámicas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2185,
+      "end": 2215
+    },
+    {
+      "text": "sin estenosis ni aneurismas evidentes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2271,
+      "end": 2308
+    },
+    {
+      "text": "TC CODIGO ICTUS (PERFUSIÓN CEREBRAL + ANG IOTC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 72,
+      "end": 141
+    }
+  ]
+}

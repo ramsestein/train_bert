@@ -1,0 +1,101 @@
+{
+  "document_id": "informe_sintetico_20250804195045_01616",
+  "entities": [
+    {
+      "text": "hemorragia intraventricular primaria",
+      "type": "PATOLOGIA",
+      "start": 560,
+      "end": 596
+    },
+    {
+      "text": "ventrículos laterales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 614,
+      "end": 635
+    },
+    {
+      "text": "astas frontales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 670,
+      "end": 685
+    },
+    {
+      "text": "tercer ventrículo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 715,
+      "end": 732
+    },
+    {
+      "text": "No se observa sangrado parenquimatoso",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 734,
+      "end": 771
+    },
+    {
+      "text": "No hay signos de edema perilesional o herniación",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 946,
+      "end": 994
+    },
+    {
+      "text": "sin imágenes de infarto agudo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1055,
+      "end": 1084
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 1086,
+      "end": 1096
+    },
+    {
+      "text": "No se evidencian alteraciones en los mapas de tiempo de tránsito (TTP), volumen cerebral (CBV) ni flujo cerebral (CBF)",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1113,
+      "end": 1231
+    },
+    {
+      "text": "No se observa tejido en riesgo de isquemia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1233,
+      "end": 1275
+    },
+    {
+      "text": "No se detectan signos de malformaciones vasculares ni aneurismas evidentes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1334,
+      "end": 1408
+    },
+    {
+      "text": "ACAs, ACMs, ACPs",
+      "type": "ARTERIA",
+      "start": 1486,
+      "end": 1502
+    },
+    {
+      "text": "sistema vertebrobasilar",
+      "type": "ARTERIA",
+      "start": 1509,
+      "end": 1532
+    },
+    {
+      "text": "sin estenosis significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1548,
+      "end": 1576
+    },
+    {
+      "text": "sin sangrado parenquimatoso asociado",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1763,
+      "end": 1799
+    },
+    {
+      "text": "sin hallazgos vasculares responsables evidentes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1898,
+      "end": 1945
+    }
+  ]
+}

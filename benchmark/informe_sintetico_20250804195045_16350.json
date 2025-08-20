@@ -1,0 +1,119 @@
+{
+  "document_id": "informe_sintetico_20250804195045_16350",
+  "entities": [
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 710,
+      "end": 724
+    },
+    {
+      "text": "isquemia aguda extensa",
+      "type": "PATOLOGIA",
+      "start": 1139,
+      "end": 1161
+    },
+    {
+      "text": "oclusión completa",
+      "type": "PATOLOGIA",
+      "start": 1236,
+      "end": 1253
+    },
+    {
+      "text": "arteria basilar",
+      "type": "ARTERIA",
+      "start": 1260,
+      "end": 1275
+    },
+    {
+      "text": "tronco encefálico",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1649,
+      "end": 1666
+    },
+    {
+      "text": "cerebelo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1073,
+      "end": 1081
+    },
+    {
+      "text": "territorio vertebrobasilar",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 324,
+      "end": 350
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1693,
+      "end": 1716
+    },
+    {
+      "text": "sin circulación colateral",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1301,
+      "end": 1326
+    },
+    {
+      "text": "sin estenosis significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1490,
+      "end": 1517
+    },
+    {
+      "text": "volumen de sangre cerebral reducido",
+      "type": "MEDIDA",
+      "start": 1087,
+      "end": 1122
+    },
+    {
+      "text": "volumen cerebral reducido",
+      "type": "MEDIDA",
+      "start": 1807,
+      "end": 1832
+    },
+    {
+      "text": "aguda",
+      "type": "TEMPORALIDAD",
+      "start": 719,
+      "end": 724
+    },
+    {
+      "text": "aguda",
+      "type": "TEMPORALIDAD",
+      "start": 719,
+      "end": 724
+    },
+    {
+      "text": "prolongación marcada en los tiempos de tránsito",
+      "type": "MEDIDA",
+      "start": 938,
+      "end": 985
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 371,
+      "end": 387
+    },
+    {
+      "text": "angiografía por TC",
+      "type": "TECNICA_IMAGEN",
+      "start": 429,
+      "end": 447
+    },
+    {
+      "text": "TC PERFUSIÓN",
+      "type": "TECNICA_IMAGEN",
+      "start": 916,
+      "end": 928
+    },
+    {
+      "text": "ANGIO-TC EXTRA E INTRACRANEAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 1194,
+      "end": 1223
+    }
+  ]
+}

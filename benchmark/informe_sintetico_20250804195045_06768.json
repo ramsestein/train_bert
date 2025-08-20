@@ -1,0 +1,131 @@
+{
+  "document_id": "informe_sintetico_20250804195045_06768",
+  "entities": [
+    {
+      "text": "accidente isquémico cerebral",
+      "type": "PATOLOGIA",
+      "start": 244,
+      "end": 272
+    },
+    {
+      "text": "arteria cerebral anterior",
+      "type": "ARTERIA",
+      "start": 290,
+      "end": 315
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 336,
+      "end": 352
+    },
+    {
+      "text": "No se evidencian hemorragias intra o extraaxiales ni lesiones expansivas de nueva aparición",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 549,
+      "end": 640
+    },
+    {
+      "text": "discreta hipodensidad en región medial del lóbulo frontal derecho",
+      "type": "PATOLOGIA",
+      "start": 656,
+      "end": 721
+    },
+    {
+      "text": "edema citotóxico inicial",
+      "type": "PATOLOGIA",
+      "start": 738,
+      "end": 762
+    },
+    {
+      "text": "No se observan signos claros de infarto establecido",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 764,
+      "end": 815
+    },
+    {
+      "text": "pcASPECTS 9",
+      "type": "PUNTUACION_CLINICA",
+      "start": 817,
+      "end": 828
+    },
+    {
+      "text": "territorio medial del hemisferio derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 986,
+      "end": 1026
+    },
+    {
+      "text": "arteria cerebral anterior (ACA)",
+      "type": "ARTERIA",
+      "start": 1072,
+      "end": 1103
+    },
+    {
+      "text": "disminución significativa del flujo sanguíneo cerebral",
+      "type": "PATOLOGIA",
+      "start": 1109,
+      "end": 1163
+    },
+    {
+      "text": "volumen cerebral cerebral (CBV) conservado",
+      "type": "PATOLOGIA",
+      "start": 1172,
+      "end": 1214
+    },
+    {
+      "text": "área de penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1231,
+      "end": 1257
+    },
+    {
+      "text": "Oclusión detectada en segmento proximal A2 de la arteria cerebral anterior derecha",
+      "type": "PATOLOGIA",
+      "start": 1388,
+      "end": 1470
+    },
+    {
+      "text": "sin signos de estenosis relevantes ni ateromatosis significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1535,
+      "end": 1599
+    },
+    {
+      "text": "Arterias vertebrales y basilar de calibre y trayecto normales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1601,
+      "end": 1662
+    },
+    {
+      "text": "No se visualizan hemorragias intraparenquimatosas ni lesiones expansivas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1716,
+      "end": 1788
+    },
+    {
+      "text": "isquemia aguda en territorio de arteria cerebral anterior derecha",
+      "type": "PATOLOGIA",
+      "start": 1818,
+      "end": 1883
+    },
+    {
+      "text": "área de penumbra evidente en TC perfusión",
+      "type": "PATOLOGIA",
+      "start": 1889,
+      "end": 1930
+    },
+    {
+      "text": "Oclusión en segmento proximal A2 de ACA derecha",
+      "type": "PATOLOGIA",
+      "start": 1934,
+      "end": 1981
+    },
+    {
+      "text": "accidente isquémico cerebral en territorio de ACA",
+      "type": "PATOLOGIA",
+      "start": 2017,
+      "end": 2066
+    }
+  ]
+}

@@ -1,0 +1,239 @@
+{
+  "document_id": "informe_sintetico_20250804195045_08384",
+  "entities": [
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 202,
+      "end": 216
+    },
+    {
+      "text": "territorio vertebrobasilar",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 220,
+      "end": 246
+    },
+    {
+      "text": "mareo",
+      "type": "PATOLOGIA",
+      "start": 248,
+      "end": 253
+    },
+    {
+      "text": "diplopía",
+      "type": "PATOLOGIA",
+      "start": 255,
+      "end": 263
+    },
+    {
+      "text": "debilidad en extremidades superiores",
+      "type": "PATOLOGIA",
+      "start": 266,
+      "end": 302
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 379,
+      "end": 395
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 623,
+      "end": 646
+    },
+    {
+      "text": "colecciones extraaxiales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 650,
+      "end": 674
+    },
+    {
+      "text": "infarto establecido",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 734,
+      "end": 753
+    },
+    {
+      "text": "edema cerebral",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 818,
+      "end": 832
+    },
+    {
+      "text": "fracturas óseas craneales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 864,
+      "end": 889
+    },
+    {
+      "text": "prolongación del tiempo de tránsito (TTP)",
+      "type": "PATOLOGIA",
+      "start": 917,
+      "end": 958
+    },
+    {
+      "text": "reducción del flujo cerebral (CBF)",
+      "type": "PATOLOGIA",
+      "start": 961,
+      "end": 995
+    },
+    {
+      "text": "territorio vertebrobasilar",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 220,
+      "end": 246
+    },
+    {
+      "text": "protuberancia",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1044,
+      "end": 1057
+    },
+    {
+      "text": "cerebelo bilateral",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1060,
+      "end": 1078
+    },
+    {
+      "text": "hipoperfusión aguda",
+      "type": "PATOLOGIA",
+      "start": 1095,
+      "end": 1114
+    },
+    {
+      "text": "volumen cerebral (CBV)",
+      "type": "MEDIDA",
+      "start": 1119,
+      "end": 1141
+    },
+    {
+      "text": "valores relativamente mantenidos",
+      "type": "MEDIDA",
+      "start": 1151,
+      "end": 1183
+    },
+    {
+      "text": "penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1205,
+      "end": 1223
+    },
+    {
+      "text": "infarto establecido",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 734,
+      "end": 753
+    },
+    {
+      "text": "arterias carótidas internas",
+      "type": "ARTERIA",
+      "start": 1285,
+      "end": 1312
+    },
+    {
+      "text": "segmento proximal de la arteria basilar",
+      "type": "ARTERIA",
+      "start": 1464,
+      "end": 1503
+    },
+    {
+      "text": "trombosis parcial",
+      "type": "PATOLOGIA",
+      "start": 1522,
+      "end": 1539
+    },
+    {
+      "text": "embolia",
+      "type": "PATOLOGIA",
+      "start": 1542,
+      "end": 1549
+    },
+    {
+      "text": "reducción del calibre y flujo disminuido",
+      "type": "PATOLOGIA",
+      "start": 1564,
+      "end": 1604
+    },
+    {
+      "text": "arterias cerebelosas inferiores posteriores",
+      "type": "ARTERIA",
+      "start": 1608,
+      "end": 1651
+    },
+    {
+      "text": "aneurismas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1668,
+      "end": 1678
+    },
+    {
+      "text": "malformaciones vasculares",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1682,
+      "end": 1707
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 202,
+      "end": 216
+    },
+    {
+      "text": "territorio vertebrobasilar",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 220,
+      "end": 246
+    },
+    {
+      "text": "hipoperfusión cerebral",
+      "type": "PATOLOGIA",
+      "start": 1796,
+      "end": 1818
+    },
+    {
+      "text": "protuberancia",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1044,
+      "end": 1057
+    },
+    {
+      "text": "cerebelo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1060,
+      "end": 1068
+    },
+    {
+      "text": "oclusión parcial",
+      "type": "PATOLOGIA",
+      "start": 1926,
+      "end": 1942
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 623,
+      "end": 646
+    },
+    {
+      "text": "infarto establecido",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 734,
+      "end": 753
+    },
+    {
+      "text": "valoración urgente por neurología",
+      "type": "PATOLOGIA",
+      "start": 2023,
+      "end": 2056
+    },
+    {
+      "text": "tratamiento endovascular",
+      "type": "PATOLOGIA",
+      "start": 2067,
+      "end": 2091
+    }
+  ]
+}

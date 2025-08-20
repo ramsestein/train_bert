@@ -1,0 +1,83 @@
+{
+  "document_id": "informe_sintetico_20250804195045_22755",
+  "entities": [
+    {
+      "text": "hematoma",
+      "type": "PATOLOGIA",
+      "start": 486,
+      "end": 494
+    },
+    {
+      "text": "lobar",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 495,
+      "end": 500
+    },
+    {
+      "text": "lóbulo frontal izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 518,
+      "end": 542
+    },
+    {
+      "text": "25 ml",
+      "type": "MEDIDA",
+      "start": 573,
+      "end": 578
+    },
+    {
+      "text": "4 mm",
+      "type": "MEDIDA",
+      "start": 846,
+      "end": 850
+    },
+    {
+      "text": "disminución del flujo sanguíneo cerebral (FSC)",
+      "type": "PATOLOGIA",
+      "start": 948,
+      "end": 994
+    },
+    {
+      "text": "aumento del tiempo de tránsito medio (TTM)",
+      "type": "PATOLOGIA",
+      "start": 997,
+      "end": 1039
+    },
+    {
+      "text": "isquemia distal significativa",
+      "type": "PATOLOGIA",
+      "start": 1078,
+      "end": 1107
+    },
+    {
+      "text": "sin signos de malformaciones vasculares ni aneurismas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1131,
+      "end": 1184
+    },
+    {
+      "text": "sin estenosis ni oclusiones",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1218,
+      "end": 1245
+    },
+    {
+      "text": "agudo",
+      "type": "TEMPORALIDAD",
+      "start": 186,
+      "end": 191
+    },
+    {
+      "text": "TC craneal basal urgente",
+      "type": "TECNICA_IMAGEN",
+      "start": 312,
+      "end": 336
+    },
+    {
+      "text": "angio-TC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 363,
+      "end": 393
+    }
+  ]
+}

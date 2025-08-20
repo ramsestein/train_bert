@@ -1,0 +1,185 @@
+{
+  "document_id": "informe_sintetico_20250804195045_20571",
+  "entities": [
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 498,
+      "end": 521
+    },
+    {
+      "text": "colecciones extraaxiales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 525,
+      "end": 549
+    },
+    {
+      "text": "hipodensidad incipiente",
+      "type": "PATOLOGIA",
+      "start": 567,
+      "end": 590
+    },
+    {
+      "text": "sustancia blanca",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 594,
+      "end": 610
+    },
+    {
+      "text": "corteza del territorio arterial cerebral anterior (ACA) izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 613,
+      "end": 678
+    },
+    {
+      "text": "edema citotóxico precoz",
+      "type": "PATOLOGIA",
+      "start": 749,
+      "end": 772
+    },
+    {
+      "text": "Diferenciación cortico-subcortical alterada",
+      "type": "PATOLOGIA",
+      "start": 776,
+      "end": 819
+    },
+    {
+      "text": "desplazamiento de la línea media",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 849,
+      "end": 881
+    },
+    {
+      "text": "efecto de masa significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 885,
+      "end": 913
+    },
+    {
+      "text": "Reducción marcada del flujo cerebral (CBF)",
+      "type": "PATOLOGIA",
+      "start": 934,
+      "end": 976
+    },
+    {
+      "text": "volumen cerebral (CBV)",
+      "type": "PATOLOGIA",
+      "start": 983,
+      "end": 1005
+    },
+    {
+      "text": "territorio de ACA izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1009,
+      "end": 1036
+    },
+    {
+      "text": "tiempo medio de tránsito (MTT)",
+      "type": "PATOLOGIA",
+      "start": 1086,
+      "end": 1116
+    },
+    {
+      "text": "isquemia penumbra",
+      "type": "PATOLOGIA",
+      "start": 1152,
+      "end": 1169
+    },
+    {
+      "text": "núcleo infartado",
+      "type": "PATOLOGIA",
+      "start": 1172,
+      "end": 1188
+    },
+    {
+      "text": "Oclusión en segmento distal de la arteria cerebral anterior izquierda (A2)",
+      "type": "PATOLOGIA",
+      "start": 1226,
+      "end": 1300
+    },
+    {
+      "text": "ausencia de opacificación",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1306,
+      "end": 1331
+    },
+    {
+      "text": "Permeabilidad adecuada de arterias carótidas internas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1335,
+      "end": 1388
+    },
+    {
+      "text": "otros segmentos de ACM y ACP",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1391,
+      "end": 1419
+    },
+    {
+      "text": "No se evidencian aneurismas ni malformaciones vasculares",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1423,
+      "end": 1479
+    },
+    {
+      "text": "Ateromatosis leve sin estenosis significativa",
+      "type": "PATOLOGIA",
+      "start": 1483,
+      "end": 1528
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 1590,
+      "end": 1604
+    },
+    {
+      "text": "territorio de la arteria cerebral anterior izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1608,
+      "end": 1660
+    },
+    {
+      "text": "oclusión en segmento distal A2",
+      "type": "PATOLOGIA",
+      "start": 1666,
+      "end": 1696
+    },
+    {
+      "text": "infarto cerebral",
+      "type": "PATOLOGIA",
+      "start": 1722,
+      "end": 1738
+    },
+    {
+      "text": "áreas de penumbra en perfusión cerebral",
+      "type": "PATOLOGIA",
+      "start": 1741,
+      "end": 1780
+    },
+    {
+      "text": "Infarto cerebral agudo en territorio arterial cerebral anterior izquierda con oclusión segmentaria distal (A2)",
+      "type": "PATOLOGIA",
+      "start": 1993,
+      "end": 2103
+    },
+    {
+      "text": "TC basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 346,
+      "end": 354
+    },
+    {
+      "text": "perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 356,
+      "end": 374
+    },
+    {
+      "text": "angio TC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 377,
+      "end": 407
+    }
+  ]
+}

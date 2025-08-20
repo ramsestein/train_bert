@@ -1,0 +1,101 @@
+{
+  "document_id": "informe_sintetico_20250804195045_08159",
+  "entities": [
+    {
+      "text": "isquemia vertebrobasilar aguda",
+      "type": "PATOLOGIA",
+      "start": 244,
+      "end": 274
+    },
+    {
+      "text": "territorio vertebrobasilar",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 926,
+      "end": 952
+    },
+    {
+      "text": "tronco cerebral",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 985,
+      "end": 1000
+    },
+    {
+      "text": "vermis cerebeloso",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1003,
+      "end": 1020
+    },
+    {
+      "text": "retraso prolongado",
+      "type": "PATOLOGIA",
+      "start": 840,
+      "end": 858
+    },
+    {
+      "text": "arteria vertebral derecha",
+      "type": "ARTERIA",
+      "start": 1276,
+      "end": 1301
+    },
+    {
+      "text": "arteria basilar",
+      "type": "ARTERIA",
+      "start": 1326,
+      "end": 1341
+    },
+    {
+      "text": "estenosis severa",
+      "type": "PATOLOGIA",
+      "start": 1351,
+      "end": 1367
+    },
+    {
+      "text": "No se evidencian hemorragias intra ni extraaxiales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 475,
+      "end": 525
+    },
+    {
+      "text": "No se observan aneurismas ni malformaciones vasculares",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1573,
+      "end": 1627
+    },
+    {
+      "text": "No hay evidencia de hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1864,
+      "end": 1907
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 1680,
+      "end": 1694
+    },
+    {
+      "text": "mismatch",
+      "type": "PATOLOGIA",
+      "start": 1153,
+      "end": 1161
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 295,
+      "end": 311
+    },
+    {
+      "text": "angio-TC arterial intra y extracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 334,
+      "end": 372
+    },
+    {
+      "text": "TC perfusión cerebral focalizada",
+      "type": "TECNICA_IMAGEN",
+      "start": 375,
+      "end": 407
+    }
+  ]
+}

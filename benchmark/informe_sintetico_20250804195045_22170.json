@@ -1,0 +1,101 @@
+{
+  "document_id": "informe_sintetico_20250804195045_22170",
+  "entities": [
+    {
+      "text": "ictus isquémico",
+      "type": "PATOLOGIA",
+      "start": 195,
+      "end": 210
+    },
+    {
+      "text": "ACM derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 228,
+      "end": 239
+    },
+    {
+      "text": "agudo",
+      "type": "TEMPORALIDAD",
+      "start": 278,
+      "end": 283
+    },
+    {
+      "text": "transformación hemorrágica",
+      "type": "PATOLOGIA",
+      "start": 321,
+      "end": 347
+    },
+    {
+      "text": "TC CRANEAL BASAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 544,
+      "end": 560
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "ARTERIA",
+      "start": 649,
+      "end": 679
+    },
+    {
+      "text": "transformación hemorrágica tipo HI1",
+      "type": "PATOLOGIA",
+      "start": 699,
+      "end": 734
+    },
+    {
+      "text": "hemorragias petequiales",
+      "type": "PATOLOGIA",
+      "start": 741,
+      "end": 764
+    },
+    {
+      "text": "hemorragia intraparenquimatosa extensa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 826,
+      "end": 864
+    },
+    {
+      "text": "ACM derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 228,
+      "end": 239
+    },
+    {
+      "text": "infarto isquémico",
+      "type": "PATOLOGIA",
+      "start": 614,
+      "end": 631
+    },
+    {
+      "text": "sin área de penumbra significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1352,
+      "end": 1386
+    },
+    {
+      "text": "Arterias cerebrales principales",
+      "type": "ARTERIA",
+      "start": 1420,
+      "end": 1451
+    },
+    {
+      "text": "sin evidencias de oclusión arterial residual",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1464,
+      "end": 1508
+    },
+    {
+      "text": "sin expansión hemorrágica significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1826,
+      "end": 1865
+    },
+    {
+      "text": "sin efecto de masa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 775,
+      "end": 793
+    }
+  ]
+}

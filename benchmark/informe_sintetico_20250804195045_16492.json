@@ -1,0 +1,227 @@
+{
+  "document_id": "informe_sintetico_20250804195045_16492",
+  "entities": [
+    {
+      "text": "hematoma intraparenquimatoso",
+      "type": "PATOLOGIA",
+      "start": 523,
+      "end": 551
+    },
+    {
+      "text": "núcleo putaminal izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 555,
+      "end": 581
+    },
+    {
+      "text": "3,5 x 3,0 x 2,8 cm",
+      "type": "MEDIDA",
+      "start": 585,
+      "end": 603
+    },
+    {
+      "text": "cápsula interna",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 644,
+      "end": 659
+    },
+    {
+      "text": "efecto masa",
+      "type": "PATOLOGIA",
+      "start": 680,
+      "end": 691
+    },
+    {
+      "text": "desviación de la línea media",
+      "type": "PATOLOGIA",
+      "start": 696,
+      "end": 724
+    },
+    {
+      "text": "5 mm",
+      "type": "MEDIDA",
+      "start": 761,
+      "end": 765
+    },
+    {
+      "text": "sistema ventricular lateral izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 822,
+      "end": 859
+    },
+    {
+      "text": "asta temporal homolateral",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 896,
+      "end": 921
+    },
+    {
+      "text": "No se identifican otras hemorragias intra o extraaxiales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 923,
+      "end": 979
+    },
+    {
+      "text": "No hay evidencia de fractura craneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 981,
+      "end": 1017
+    },
+    {
+      "text": "No se logra valoración de perfusión cerebral",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1040,
+      "end": 1084
+    },
+    {
+      "text": "defecto de señal por hemorragia",
+      "type": "PATOLOGIA",
+      "start": 1128,
+      "end": 1159
+    },
+    {
+      "text": "reducción del flujo sanguíneo cerebral",
+      "type": "PATOLOGIA",
+      "start": 1191,
+      "end": 1229
+    },
+    {
+      "text": "aumento del tiempo de tránsito medio",
+      "type": "PATOLOGIA",
+      "start": 1232,
+      "end": 1268
+    },
+    {
+      "text": "efecto masa e isquemia por compresión secundaria",
+      "type": "PATOLOGIA",
+      "start": 1286,
+      "end": 1334
+    },
+    {
+      "text": "Arco aórtico",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1375,
+      "end": 1387
+    },
+    {
+      "text": "troncos supraaórticos",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1390,
+      "end": 1411
+    },
+    {
+      "text": "sin signos de estenosis relevantes ni placas ulceradas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1412,
+      "end": 1466
+    },
+    {
+      "text": "Arterias cerebrales principales permeables",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1468,
+      "end": 1510
+    },
+    {
+      "text": "sin signos de oclusiones ni malformaciones vasculares evidentes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1512,
+      "end": 1575
+    },
+    {
+      "text": "No se identifican aneurismas ni fístulas arteriovenosas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1577,
+      "end": 1632
+    },
+    {
+      "text": "territorio de la hemorragia",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1636,
+      "end": 1663
+    },
+    {
+      "text": "Hematoma intraparenquimatoso putaminal izquierdo",
+      "type": "PATOLOGIA",
+      "start": 1688,
+      "end": 1736
+    },
+    {
+      "text": "cápsula interna",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 644,
+      "end": 659
+    },
+    {
+      "text": "efecto masa significativo",
+      "type": "PATOLOGIA",
+      "start": 1773,
+      "end": 1798
+    },
+    {
+      "text": "desplazamiento de línea media",
+      "type": "PATOLOGIA",
+      "start": 1803,
+      "end": 1832
+    },
+    {
+      "text": "compresión ventricular izquierda",
+      "type": "PATOLOGIA",
+      "start": 1855,
+      "end": 1887
+    },
+    {
+      "text": "Ausencia de hemorragias extraaxiales adicionales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1889,
+      "end": 1937
+    },
+    {
+      "text": "sin evidencias angiográficas de malformaciones vasculares",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1940,
+      "end": 1997
+    },
+    {
+      "text": "TC craneal seriado",
+      "type": "TECNICA_IMAGEN",
+      "start": 2135,
+      "end": 2153
+    },
+    {
+      "text": "control de expansión hemorrágica",
+      "type": "PATOLOGIA",
+      "start": 2159,
+      "end": 2191
+    },
+    {
+      "text": "evolución del edema cerebral",
+      "type": "PATOLOGIA",
+      "start": 2194,
+      "end": 2222
+    },
+    {
+      "text": "Hemorragia intracerebral (hematoma intraparenquimatoso)",
+      "type": "PATOLOGIA",
+      "start": 2282,
+      "end": 2337
+    },
+    {
+      "text": "región putaminal izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 2341,
+      "end": 2367
+    },
+    {
+      "text": "efecto masa",
+      "type": "PATOLOGIA",
+      "start": 680,
+      "end": 691
+    },
+    {
+      "text": "desplazamiento de línea media",
+      "type": "PATOLOGIA",
+      "start": 1803,
+      "end": 1832
+    }
+  ]
+}

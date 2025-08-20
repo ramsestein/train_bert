@@ -1,0 +1,101 @@
+{
+  "document_id": "informe_sintetico_20250804195045_22346",
+  "entities": [
+    {
+      "text": "hematomas",
+      "type": "PATOLOGIA",
+      "start": 463,
+      "end": 472
+    },
+    {
+      "text": "hemorragias agudas intra o extraaxiales",
+      "type": "PATOLOGIA",
+      "start": 476,
+      "end": 515
+    },
+    {
+      "text": "pérdida de volumen encefálico leve",
+      "type": "PATOLOGIA",
+      "start": 621,
+      "end": 655
+    },
+    {
+      "text": "cambios crónicos de involución cerebral",
+      "type": "PATOLOGIA",
+      "start": 762,
+      "end": 801
+    },
+    {
+      "text": "enfermedad de pequeño vaso de grado leve a moderado",
+      "type": "PATOLOGIA",
+      "start": 905,
+      "end": 956
+    },
+    {
+      "text": "ASPECTS 10/10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 593,
+      "end": 606
+    },
+    {
+      "text": "hipoperfusión",
+      "type": "PATOLOGIA",
+      "start": 1208,
+      "end": 1221
+    },
+    {
+      "text": "Sistema carotídeo extracraneal",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1300,
+      "end": 1330
+    },
+    {
+      "text": "Sistema vertebrobasilar",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1581,
+      "end": 1604
+    },
+    {
+      "text": "sin estenosis significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1341,
+      "end": 1369
+    },
+    {
+      "text": "sin evidencia de estenosis ni defectos de repleción",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1528,
+      "end": 1579
+    },
+    {
+      "text": "sin signos de patología aguda",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1731,
+      "end": 1760
+    },
+    {
+      "text": "sin evidencia de isquemia ni hemorragia reciente",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1858,
+      "end": 1906
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 318,
+      "end": 334
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 336,
+      "end": 357
+    },
+    {
+      "text": "angio-TC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 360,
+      "end": 390
+    }
+  ]
+}

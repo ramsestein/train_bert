@@ -1,0 +1,107 @@
+{
+  "document_id": "informe_sintetico_20250804195045_17353",
+  "entities": [
+    {
+      "text": "ictus isquémico agudo",
+      "type": "PATOLOGIA",
+      "start": 283,
+      "end": 304
+    },
+    {
+      "text": "isquemia temprana",
+      "type": "PATOLOGIA",
+      "start": 853,
+      "end": 870
+    },
+    {
+      "text": "ASPECTS 6/10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 1734,
+      "end": 1746
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 918,
+      "end": 941
+    },
+    {
+      "text": "edema significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 945,
+      "end": 964
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 596,
+      "end": 626
+    },
+    {
+      "text": "segmento M1 de la arteria cerebral media derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 578,
+      "end": 626
+    },
+    {
+      "text": "M1 derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1396,
+      "end": 1406
+    },
+    {
+      "text": "arteria cerebral media",
+      "type": "ARTERIA",
+      "start": 596,
+      "end": 618
+    },
+    {
+      "text": "arteria cerebral media",
+      "type": "ARTERIA",
+      "start": 596,
+      "end": 618
+    },
+    {
+      "text": "zona penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1292,
+      "end": 1315
+    },
+    {
+      "text": "Oclusión completa del segmento proximal M1 derecho de la arteria cerebral media",
+      "type": "PATOLOGIA",
+      "start": 1356,
+      "end": 1435
+    },
+    {
+      "text": "Oclusión proximal M1 ACM derecha",
+      "type": "PATOLOGIA",
+      "start": 2394,
+      "end": 2426
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 325,
+      "end": 341
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 361,
+      "end": 382
+    },
+    {
+      "text": "AngioTC intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 407,
+      "end": 427
+    },
+    {
+      "text": "TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANG IOTC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 72,
+      "end": 140
+    }
+  ]
+}

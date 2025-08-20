@@ -1,0 +1,59 @@
+{
+  "document_id": "informe_sintetico_20250804195045_19076",
+  "entities": [
+    {
+      "text": "infarto agudo",
+      "type": "PATOLOGIA",
+      "start": 524,
+      "end": 537
+    },
+    {
+      "text": "hemorragia intra o extraaxial",
+      "type": "PATOLOGIA",
+      "start": 551,
+      "end": 580
+    },
+    {
+      "text": "cambios isquémicos crónicos",
+      "type": "PATOLOGIA",
+      "start": 740,
+      "end": 767
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 785,
+      "end": 795
+    },
+    {
+      "text": "permeabilidad y calibre conservado de las principales arterias intracraneales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 921,
+      "end": 998
+    },
+    {
+      "text": "estenosis, oclusión ni malformaciones vasculares",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1016,
+      "end": 1064
+    },
+    {
+      "text": "calcificación leve en segmentos intracraneales de ambas arterias carótidas internas",
+      "type": "PATOLOGIA",
+      "start": 1077,
+      "end": 1160
+    },
+    {
+      "text": "bilaterales",
+      "type": "LATERALIDAD",
+      "start": 712,
+      "end": 723
+    },
+    {
+      "text": "TC craneal basal urgente",
+      "type": "TECNICA_IMAGEN",
+      "start": 288,
+      "end": 312
+    }
+  ]
+}

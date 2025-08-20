@@ -1,0 +1,107 @@
+{
+  "document_id": "informe_sintetico_20250804195045_13795",
+  "entities": [
+    {
+      "text": "infarto",
+      "type": "PATOLOGIA",
+      "start": 275,
+      "end": 282
+    },
+    {
+      "text": "hipoperfusión cerebral",
+      "type": "PATOLOGIA",
+      "start": 287,
+      "end": 309
+    },
+    {
+      "text": "hemorragia intraparenquimatosa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 539,
+      "end": 569
+    },
+    {
+      "text": "hemorragia subaracnoidea",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 573,
+      "end": 597
+    },
+    {
+      "text": "áreas de hipodensidad difusa y mal delimitada",
+      "type": "PATOLOGIA",
+      "start": 611,
+      "end": 656
+    },
+    {
+      "text": "lóbulos frontales y parietales bilaterales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 687,
+      "end": 729
+    },
+    {
+      "text": "territorios de watershed",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 750,
+      "end": 774
+    },
+    {
+      "text": "arterias cerebrales anterior, media y posterior",
+      "type": "ARTERIA",
+      "start": 805,
+      "end": 852
+    },
+    {
+      "text": "edema significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 882,
+      "end": 901
+    },
+    {
+      "text": "volumen cerebral sanguíneo (CBV)",
+      "type": "MEDIDA",
+      "start": 1231,
+      "end": 1263
+    },
+    {
+      "text": "infarto isquémico",
+      "type": "PATOLOGIA",
+      "start": 1346,
+      "end": 1363
+    },
+    {
+      "text": "hipoperfusión límite",
+      "type": "PATOLOGIA",
+      "start": 1376,
+      "end": 1396
+    },
+    {
+      "text": "estenosis ni placas de ateroma significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1486,
+      "end": 1531
+    },
+    {
+      "text": "arterias carótidas internas bilaterales",
+      "type": "ARTERIA",
+      "start": 1537,
+      "end": 1576
+    },
+    {
+      "text": "estenosis crítica",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1609,
+      "end": 1626
+    },
+    {
+      "text": "infarto isquémico en territorios watershed bilaterales frontoparietales",
+      "type": "PATOLOGIA",
+      "start": 1803,
+      "end": 1874
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1942,
+      "end": 1965
+    }
+  ]
+}

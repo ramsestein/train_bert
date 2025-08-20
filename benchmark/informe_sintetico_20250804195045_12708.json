@@ -1,0 +1,89 @@
+{
+  "document_id": "informe_sintetico_20250804195045_12708",
+  "entities": [
+    {
+      "text": "hematoma intraparenquimatoso",
+      "type": "PATOLOGIA",
+      "start": 712,
+      "end": 740
+    },
+    {
+      "text": "edema perilesional significativo",
+      "type": "PATOLOGIA",
+      "start": 779,
+      "end": 811
+    },
+    {
+      "text": "efecto de masa",
+      "type": "PATOLOGIA",
+      "start": 824,
+      "end": 838
+    },
+    {
+      "text": "desviación de la línea media",
+      "type": "PATOLOGIA",
+      "start": 843,
+      "end": 871
+    },
+    {
+      "text": "transformación hemorrágica tipo PH2",
+      "type": "PATOLOGIA",
+      "start": 939,
+      "end": 974
+    },
+    {
+      "text": "infarto establecido",
+      "type": "PATOLOGIA",
+      "start": 1264,
+      "end": 1283
+    },
+    {
+      "text": "segmento M1 de arteria cerebral media derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1529,
+      "end": 1574
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "ARTERIA",
+      "start": 231,
+      "end": 261
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 254,
+      "end": 261
+    },
+    {
+      "text": "7 mm",
+      "type": "MEDIDA",
+      "start": 910,
+      "end": 914
+    },
+    {
+      "text": "tipo PH2",
+      "type": "PUNTUACION_CLINICA",
+      "start": 966,
+      "end": 974
+    },
+    {
+      "text": "TC CRANEAL BASAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 414,
+      "end": 430
+    },
+    {
+      "text": "No se observan hemorragias extraaxiales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1050,
+      "end": 1089
+    },
+    {
+      "text": "No se observan signos de recanalización",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1730,
+      "end": 1769
+    }
+  ]
+}

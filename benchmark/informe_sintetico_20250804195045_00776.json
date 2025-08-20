@@ -1,0 +1,83 @@
+{
+  "document_id": "informe_sintetico_20250804195045_00776",
+  "entities": [
+    {
+      "text": "isquemia",
+      "type": "PATOLOGIA",
+      "start": 702,
+      "end": 710
+    },
+    {
+      "text": "arteria cerebral media",
+      "type": "ARTERIA",
+      "start": 242,
+      "end": 264
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 272,
+      "end": 279
+    },
+    {
+      "text": "ASPECTS 9",
+      "type": "PUNTUACION_CLINICA",
+      "start": 712,
+      "end": 721
+    },
+    {
+      "text": "territorio distal derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1574,
+      "end": 1599
+    },
+    {
+      "text": "arteria cerebral media",
+      "type": "ARTERIA",
+      "start": 242,
+      "end": 264
+    },
+    {
+      "text": "segmentos M2/M3",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1630,
+      "end": 1645
+    },
+    {
+      "text": "oclusión completa",
+      "type": "PATOLOGIA",
+      "start": 1216,
+      "end": 1233
+    },
+    {
+      "text": "segmento M2",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1237,
+      "end": 1248
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 272,
+      "end": 279
+    },
+    {
+      "text": "No se identifican signos de hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 451,
+      "end": 502
+    },
+    {
+      "text": "No se evidencian otras estenosis ni oclusiones en arterias principales intracraneales ni extracraneales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1302,
+      "end": 1405
+    },
+    {
+      "text": "No se identifican estenosis relevantes en vasos de entrada ni circulación posterior",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1806,
+      "end": 1889
+    }
+  ]
+}

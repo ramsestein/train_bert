@@ -1,0 +1,41 @@
+{
+  "document_id": "0000000010000000061750451_cleaned",
+  "entities": [
+    {
+      "text": "Infart cerebral causat per oclusió o estenosi no especificades d'artèria cerebral no especificada",
+      "type": "PATOLOGIA",
+      "start": 166,
+      "end": 263
+    },
+    {
+      "text": "No s'observen signes d'hemorràgia aguda intra o extraaxial.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 384,
+      "end": 443
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 546,
+      "end": 556
+    },
+    {
+      "text": "Circulació extracranial carotídia i vertebrobasilar permeable, sense estenosis.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 802,
+      "end": 881
+    },
+    {
+      "text": "Principals artèries cerebrals intracranials permeables (ACAs, ACMs i ACPs).",
+      "type": "ARTERIA",
+      "start": 944,
+      "end": 1019
+    },
+    {
+      "text": "Sense signes d'isquèmia cerebral ni alteracions significatives a l'estudi de perfusió ni angio-tc.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1416,
+      "end": 1514
+    }
+  ]
+}

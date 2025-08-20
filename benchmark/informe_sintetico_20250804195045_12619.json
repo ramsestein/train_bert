@@ -1,0 +1,137 @@
+{
+  "document_id": "informe_sintetico_20250804195045_12619",
+  "entities": [
+    {
+      "text": "infarto",
+      "type": "PATOLOGIA",
+      "start": 284,
+      "end": 291
+    },
+    {
+      "text": "hipoperfusión",
+      "type": "PATOLOGIA",
+      "start": 296,
+      "end": 309
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 519,
+      "end": 542
+    },
+    {
+      "text": "colecciones extraaxiales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 546,
+      "end": 570
+    },
+    {
+      "text": "regiones frontoparietales bilaterales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 667,
+      "end": 704
+    },
+    {
+      "text": "zonas subcorticales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 727,
+      "end": 746
+    },
+    {
+      "text": "territorios watershed",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 766,
+      "end": 787
+    },
+    {
+      "text": "arterias cerebrales medias",
+      "type": "ARTERIA",
+      "start": 798,
+      "end": 824
+    },
+    {
+      "text": "arterias cerebrales anteriores",
+      "type": "ARTERIA",
+      "start": 1525,
+      "end": 1555
+    },
+    {
+      "text": "arterias vertebrales",
+      "type": "ARTERIA",
+      "start": 1615,
+      "end": 1635
+    },
+    {
+      "text": "sistema vertebrobasilar",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1638,
+      "end": 1661
+    },
+    {
+      "text": "sin infarto establecido irreversible",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1335,
+      "end": 1371
+    },
+    {
+      "text": "sin evidencias de oclusiones arteriales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1976,
+      "end": 2015
+    },
+    {
+      "text": "tiempos de tránsito (TTP y MTT)",
+      "type": "MEDIDA",
+      "start": 1186,
+      "end": 1217
+    },
+    {
+      "text": "disminución del flujo cerebral (CBF)",
+      "type": "MEDIDA",
+      "start": 1219,
+      "end": 1255
+    },
+    {
+      "text": "preservación relativa del volumen cerebral (CBV)",
+      "type": "MEDIDA",
+      "start": 1258,
+      "end": 1306
+    },
+    {
+      "text": "bilaterales",
+      "type": "LATERALIDAD",
+      "start": 693,
+      "end": 704
+    },
+    {
+      "text": "bilaterales",
+      "type": "LATERALIDAD",
+      "start": 693,
+      "end": 704
+    },
+    {
+      "text": "bilaterales",
+      "type": "LATERALIDAD",
+      "start": 693,
+      "end": 704
+    },
+    {
+      "text": "TC CRANEAL BASAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 377,
+      "end": 393
+    },
+    {
+      "text": "TC PERFUSIÓN",
+      "type": "TECNICA_IMAGEN",
+      "start": 1038,
+      "end": 1050
+    },
+    {
+      "text": "ANGIO-TC EXTRA E INTRACRANEAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 1374,
+      "end": 1403
+    }
+  ]
+}

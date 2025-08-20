@@ -1,0 +1,179 @@
+{
+  "document_id": "informe_sintetico_20250804195045_15050",
+  "entities": [
+    {
+      "text": "hemiparesia derecha",
+      "type": "PATOLOGIA",
+      "start": 216,
+      "end": 235
+    },
+    {
+      "text": "afasia",
+      "type": "PATOLOGIA",
+      "start": 238,
+      "end": 244
+    },
+    {
+      "text": "accidente cerebrovascular isquémico",
+      "type": "PATOLOGIA",
+      "start": 293,
+      "end": 328
+    },
+    {
+      "text": "arteria hiperdensa",
+      "type": "PATOLOGIA",
+      "start": 513,
+      "end": 531
+    },
+    {
+      "text": "segmento proximal M1",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 538,
+      "end": 558
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "ARTERIA",
+      "start": 565,
+      "end": 597
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 613,
+      "end": 636
+    },
+    {
+      "text": "diferenciación córtico-subcortical",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 655,
+      "end": 689
+    },
+    {
+      "text": "ACM izquierda",
+      "type": "ARTERIA",
+      "start": 738,
+      "end": 751
+    },
+    {
+      "text": "ASPECTS: 6",
+      "type": "PUNTUACION_CLINICA",
+      "start": 753,
+      "end": 763
+    },
+    {
+      "text": "tiempo de tránsito medio (MTT)",
+      "type": "MEDIDA",
+      "start": 909,
+      "end": 939
+    },
+    {
+      "text": "tiempo hasta el pico (TTP)",
+      "type": "MEDIDA",
+      "start": 960,
+      "end": 986
+    },
+    {
+      "text": "flujo cerebral (CBF)",
+      "type": "MEDIDA",
+      "start": 1008,
+      "end": 1028
+    },
+    {
+      "text": "volumen cerebral (CBV)",
+      "type": "MEDIDA",
+      "start": 1126,
+      "end": 1148
+    },
+    {
+      "text": "penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1247,
+      "end": 1265
+    },
+    {
+      "text": "Oclusión completa",
+      "type": "PATOLOGIA",
+      "start": 1304,
+      "end": 1321
+    },
+    {
+      "text": "segmento proximal M1",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 538,
+      "end": 558
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "ARTERIA",
+      "start": 565,
+      "end": 597
+    },
+    {
+      "text": "ausencia de opacificación distal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1390,
+      "end": 1422
+    },
+    {
+      "text": "ACAs, ACPs y ACM derecha",
+      "type": "ARTERIA",
+      "start": 1477,
+      "end": 1501
+    },
+    {
+      "text": "flujo permeable",
+      "type": "PATOLOGIA",
+      "start": 1513,
+      "end": 1528
+    },
+    {
+      "text": "estenosis visibles",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1533,
+      "end": 1551
+    },
+    {
+      "text": "Isquemia cerebral aguda",
+      "type": "PATOLOGIA",
+      "start": 1580,
+      "end": 1603
+    },
+    {
+      "text": "territorio de arteria cerebral media izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1607,
+      "end": 1653
+    },
+    {
+      "text": "oclusión proximal del segmento M1",
+      "type": "PATOLOGIA",
+      "start": 1667,
+      "end": 1700
+    },
+    {
+      "text": "ASPECTS 6",
+      "type": "PUNTUACION_CLINICA",
+      "start": 1702,
+      "end": 1711
+    },
+    {
+      "text": "signos de penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1717,
+      "end": 1745
+    },
+    {
+      "text": "hemorragias intracraneales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1787,
+      "end": 1813
+    },
+    {
+      "text": "TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANGIOTC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 1941,
+      "end": 2008
+    }
+  ]
+}

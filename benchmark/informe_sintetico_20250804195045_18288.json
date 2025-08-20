@@ -1,0 +1,107 @@
+{
+  "document_id": "informe_sintetico_20250804195045_18288",
+  "entities": [
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 222,
+      "end": 236
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1084,
+      "end": 1116
+    },
+    {
+      "text": "hemicuerpo derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 190,
+      "end": 208
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "ARTERIA",
+      "start": 1084,
+      "end": 1116
+    },
+    {
+      "text": "M1",
+      "type": "ARTERIA",
+      "start": 1578,
+      "end": 1580
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 275,
+      "end": 284
+    },
+    {
+      "text": "significativa",
+      "type": "MEDIDA",
+      "start": 997,
+      "end": 1010
+    },
+    {
+      "text": "extensa",
+      "type": "MEDIDA",
+      "start": 1215,
+      "end": 1222
+    },
+    {
+      "text": "aguda",
+      "type": "TEMPORALIDAD",
+      "start": 231,
+      "end": 236
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 546,
+      "end": 569
+    },
+    {
+      "text": "TC craneal basal sin contraste",
+      "type": "TECNICA_IMAGEN",
+      "start": 305,
+      "end": 335
+    },
+    {
+      "text": "Angio-TC de arterias supraórticas e intracraneales",
+      "type": "TECNICA_IMAGEN",
+      "start": 408,
+      "end": 458
+    },
+    {
+      "text": "TC PERFUSIÓN",
+      "type": "TECNICA_IMAGEN",
+      "start": 943,
+      "end": 955
+    },
+    {
+      "text": "CBF",
+      "type": "PUNTUACION_CLINICA",
+      "start": 390,
+      "end": 393
+    },
+    {
+      "text": "CBV",
+      "type": "PUNTUACION_CLINICA",
+      "start": 385,
+      "end": 388
+    },
+    {
+      "text": "MTT",
+      "type": "PUNTUACION_CLINICA",
+      "start": 395,
+      "end": 398
+    },
+    {
+      "text": "TTP",
+      "type": "PUNTUACION_CLINICA",
+      "start": 401,
+      "end": 404
+    }
+  ]
+}

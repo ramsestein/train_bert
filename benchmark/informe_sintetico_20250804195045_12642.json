@@ -1,0 +1,65 @@
+{
+  "document_id": "informe_sintetico_20250804195045_12642",
+  "entities": [
+    {
+      "text": "hemorragia aguda intraventricular",
+      "type": "PATOLOGIA",
+      "start": 497,
+      "end": 530
+    },
+    {
+      "text": "ventrículos laterales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 558,
+      "end": 579
+    },
+    {
+      "text": "tercer y cuarto ventrículo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 581,
+      "end": 607
+    },
+    {
+      "text": "3 mm",
+      "type": "MEDIDA",
+      "start": 980,
+      "end": 984
+    },
+    {
+      "text": "isquemia",
+      "type": "PATOLOGIA",
+      "start": 1264,
+      "end": 1272
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 1216,
+      "end": 1225
+    },
+    {
+      "text": "tiempo de tránsito (TTP) está aumentado",
+      "type": "TEMPORALIDAD",
+      "start": 1304,
+      "end": 1343
+    },
+    {
+      "text": "sin evidencias de trombosis u oclusiones bruscas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1498,
+      "end": 1546
+    },
+    {
+      "text": "sin hallazgos vascular estructurales causantes evidentes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2090,
+      "end": 2146
+    },
+    {
+      "text": "sin evidencia de hematoma parenquimatoso",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2276,
+      "end": 2316
+    }
+  ]
+}

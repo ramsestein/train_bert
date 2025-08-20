@@ -1,0 +1,89 @@
+{
+  "document_id": "0000000010000000062087934_cleaned",
+  "entities": [
+    {
+      "text": "hemorragia intra ni extraaxial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 286,
+      "end": 316
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 365,
+      "end": 375
+    },
+    {
+      "text": "infarto crónico",
+      "type": "PATOLOGIA",
+      "start": 386,
+      "end": 401
+    },
+    {
+      "text": "hemicerebelo derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 405,
+      "end": 425
+    },
+    {
+      "text": "TTP",
+      "type": "TECNICA_IMAGEN",
+      "start": 604,
+      "end": 607
+    },
+    {
+      "text": "CBV",
+      "type": "TECNICA_IMAGEN",
+      "start": 609,
+      "end": 612
+    },
+    {
+      "text": "CBF",
+      "type": "TECNICA_IMAGEN",
+      "start": 615,
+      "end": 618
+    },
+    {
+      "text": "ACAs",
+      "type": "ARTERIA",
+      "start": 742,
+      "end": 746
+    },
+    {
+      "text": "ACMs",
+      "type": "ARTERIA",
+      "start": 748,
+      "end": 752
+    },
+    {
+      "text": "ACPs",
+      "type": "ARTERIA",
+      "start": 755,
+      "end": 759
+    },
+    {
+      "text": "ACP izquierda",
+      "type": "ARTERIA",
+      "start": 797,
+      "end": 810
+    },
+    {
+      "text": "aguda",
+      "type": "TEMPORALIDAD",
+      "start": 1090,
+      "end": 1095
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 365,
+      "end": 375
+    },
+    {
+      "text": "hemorragia aguda intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1153,
+      "end": 1182
+    }
+  ]
+}

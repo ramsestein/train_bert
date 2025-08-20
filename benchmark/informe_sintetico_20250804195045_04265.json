@@ -1,0 +1,119 @@
+{
+  "document_id": "informe_sintetico_20250804195045_04265",
+  "entities": [
+    {
+      "text": "isquémico",
+      "type": "PATOLOGIA",
+      "start": 190,
+      "end": 199
+    },
+    {
+      "text": "aguda",
+      "type": "TEMPORALIDAD",
+      "start": 222,
+      "end": 227
+    },
+    {
+      "text": "hemorragia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 418,
+      "end": 428
+    },
+    {
+      "text": "isquémica aguda",
+      "type": "PATOLOGIA",
+      "start": 547,
+      "end": 562
+    },
+    {
+      "text": "leucoencefalopatía periventricular",
+      "type": "PATOLOGIA",
+      "start": 582,
+      "end": 616
+    },
+    {
+      "text": "cambios crónicos vasculares leves",
+      "type": "PATOLOGIA",
+      "start": 693,
+      "end": 726
+    },
+    {
+      "text": "ACAs",
+      "type": "ARTERIA",
+      "start": 1303,
+      "end": 1307
+    },
+    {
+      "text": "ACMs",
+      "type": "ARTERIA",
+      "start": 1309,
+      "end": 1313
+    },
+    {
+      "text": "ACPs",
+      "type": "ARTERIA",
+      "start": 1315,
+      "end": 1319
+    },
+    {
+      "text": "bilaterales",
+      "type": "LATERALIDAD",
+      "start": 1425,
+      "end": 1436
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 1593,
+      "end": 1603
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 254,
+      "end": 270
+    },
+    {
+      "text": "angio-TC intracraneal arterial",
+      "type": "TECNICA_IMAGEN",
+      "start": 273,
+      "end": 303
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 306,
+      "end": 327
+    },
+    {
+      "text": "sin signos de hidrocefalia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 826,
+      "end": 852
+    },
+    {
+      "text": "sin áreas de hipoperfusión",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 995,
+      "end": 1021
+    },
+    {
+      "text": "sin defectos de relleno",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1334,
+      "end": 1357
+    },
+    {
+      "text": "sin estenosis aparente",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1503,
+      "end": 1525
+    },
+    {
+      "text": "sin signos de isquemia aguda",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1660,
+      "end": 1688
+    }
+  ]
+}

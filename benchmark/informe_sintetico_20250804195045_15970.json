@@ -1,0 +1,89 @@
+{
+  "document_id": "informe_sintetico_20250804195045_15970",
+  "entities": [
+    {
+      "text": "hematoma intraparenquimatoso",
+      "type": "PATOLOGIA",
+      "start": 609,
+      "end": 637
+    },
+    {
+      "text": "tálamo derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 527,
+      "end": 541
+    },
+    {
+      "text": "18 x 16 mm",
+      "type": "MEDIDA",
+      "start": 499,
+      "end": 509
+    },
+    {
+      "text": "derecho",
+      "type": "LATERALIDAD",
+      "start": 534,
+      "end": 541
+    },
+    {
+      "text": "ventrículo lateral derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1035,
+      "end": 1061
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 851,
+      "end": 861
+    },
+    {
+      "text": "3 mm",
+      "type": "MEDIDA",
+      "start": 945,
+      "end": 949
+    },
+    {
+      "text": "hidrocefalia obstructiva",
+      "type": "PATOLOGIA",
+      "start": 1086,
+      "end": 1110
+    },
+    {
+      "text": "sin evidencia de isquemia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1421,
+      "end": 1446
+    },
+    {
+      "text": "sin signos de estenosis ni oclusión",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1561,
+      "end": 1596
+    },
+    {
+      "text": "24-48 horas",
+      "type": "TEMPORALIDAD",
+      "start": 2049,
+      "end": 2060
+    },
+    {
+      "text": "TC basal craneal sin contraste",
+      "type": "TECNICA_IMAGEN",
+      "start": 316,
+      "end": 346
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 348,
+      "end": 369
+    },
+    {
+      "text": "AngioTC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 372,
+      "end": 401
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "document_id": "informe_sintetico_20250804195045_02026",
+  "entities": [
+    {
+      "text": "infarto establecido",
+      "type": "PATOLOGIA",
+      "start": 542,
+      "end": 561
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 456,
+      "end": 488
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "ARTERIA",
+      "start": 456,
+      "end": 488
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 479,
+      "end": 488
+    },
+    {
+      "text": "30 mm",
+      "type": "MEDIDA",
+      "start": 721,
+      "end": 726
+    },
+    {
+      "text": "9 mm",
+      "type": "MEDIDA",
+      "start": 905,
+      "end": 909
+    },
+    {
+      "text": "PH2",
+      "type": "PUNTUACION_CLINICA",
+      "start": 777,
+      "end": 780
+    },
+    {
+      "text": "No se identifican otras hemorragias a distancia ni colecciones subdurales o subaracnoideas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 933,
+      "end": 1023
+    },
+    {
+      "text": "TC urgente de cráneo basal con estudio de perfusión cerebral y angio-TC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 272,
+      "end": 365
+    },
+    {
+      "text": "Oclusión segmentaria proximal de arteria cerebral media izquierda",
+      "type": "PATOLOGIA",
+      "start": 1355,
+      "end": 1420
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "ARTERIA",
+      "start": 456,
+      "end": 488
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 479,
+      "end": 488
+    },
+    {
+      "text": "PH2",
+      "type": "PUNTUACION_CLINICA",
+      "start": 777,
+      "end": 780
+    },
+    {
+      "text": "significativo",
+      "type": "PATOLOGIA",
+      "start": 807,
+      "end": 820
+    },
+    {
+      "text": "Oclusión arterial proximal izquierda persistente",
+      "type": "PATOLOGIA",
+      "start": 1784,
+      "end": 1832
+    }
+  ]
+}

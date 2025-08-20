@@ -1,0 +1,77 @@
+{
+  "document_id": "informe_sintetico_20250804195045_07327",
+  "entities": [
+    {
+      "text": "infarto territorial de tipo watershed",
+      "type": "PATOLOGIA",
+      "start": 1870,
+      "end": 1907
+    },
+    {
+      "text": "regiones frontoparietales bilaterales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1915,
+      "end": 1952
+    },
+    {
+      "text": "hipoperfusión",
+      "type": "PATOLOGIA",
+      "start": 1413,
+      "end": 1426
+    },
+    {
+      "text": "disminución del flujo sanguíneo cerebral (CBF)",
+      "type": "PATOLOGIA",
+      "start": 1193,
+      "end": 1239
+    },
+    {
+      "text": "volumen cerebral (CBV)",
+      "type": "PATOLOGIA",
+      "start": 1242,
+      "end": 1264
+    },
+    {
+      "text": "tiempo de tránsito medio (MTT)",
+      "type": "MEDIDA",
+      "start": 1337,
+      "end": 1367
+    },
+    {
+      "text": "tiempo hasta el pico (TTP)",
+      "type": "MEDIDA",
+      "start": 1370,
+      "end": 1396
+    },
+    {
+      "text": "sin evidencia de trombosis arterial proximal ni hemorragia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2576,
+      "end": 2634
+    },
+    {
+      "text": "sin signos de trombo en segmentos proximales de ACA, ACM o ACP",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1683,
+      "end": 1745
+    },
+    {
+      "text": "sin evidencia de oclusión arterial proximal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1990,
+      "end": 2033
+    },
+    {
+      "text": "TC craneal basal sin contraste",
+      "type": "TECNICA_IMAGEN",
+      "start": 432,
+      "end": 462
+    },
+    {
+      "text": "angiografía por TC de arterias intracraneales",
+      "type": "TECNICA_IMAGEN",
+      "start": 504,
+      "end": 549
+    }
+  ]
+}

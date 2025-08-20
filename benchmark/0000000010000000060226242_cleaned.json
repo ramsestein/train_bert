@@ -1,0 +1,71 @@
+{
+  "document_id": "0000000010000000060226242_cleaned",
+  "entities": [
+    {
+      "text": "hemorragia intra ni extraaxial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 328,
+      "end": 358
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 407,
+      "end": 417
+    },
+    {
+      "text": "Estructuras de la línea media centradas",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 455,
+      "end": 494
+    },
+    {
+      "text": "Sistema ventricular de tamaño y morfología normal",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 496,
+      "end": 545
+    },
+    {
+      "text": "Cisternas basales libres",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 547,
+      "end": 571
+    },
+    {
+      "text": "No se observan alteraciones valorables en el TTP, CBV y CBF",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 587,
+      "end": 646
+    },
+    {
+      "text": "Principales arterias cerebrales intracraneales permeables (ACAs, ACMs y ACPs)",
+      "type": "ARTERIA",
+      "start": 711,
+      "end": 788
+    },
+    {
+      "text": "Sistema vertebrobasilar permeable",
+      "type": "ARTERIA",
+      "start": 790,
+      "end": 823
+    },
+    {
+      "text": "Importantes calcificaciones en segmentos carotídeos intracraneales bilaterales",
+      "type": "PATOLOGIA",
+      "start": 825,
+      "end": 903
+    },
+    {
+      "text": "Origen de las arterias vertebrales sin ateromatosis ni signos de estenosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 905,
+      "end": 979
+    },
+    {
+      "text": "No se observan signos de hemorragia ni de isquemia encefálica",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1024,
+      "end": 1085
+    }
+  ]
+}

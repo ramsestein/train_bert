@@ -1,0 +1,173 @@
+{
+  "document_id": "informe_sintetico_20250804195045_12636",
+  "entities": [
+    {
+      "text": "hemorragia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 418,
+      "end": 428
+    },
+    {
+      "text": "No se evidencian hematomas ni sangrados intra ni extraaxiales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 569,
+      "end": 630
+    },
+    {
+      "text": "áreas bilaterales simétricas de hipodensidad parcheada",
+      "type": "PATOLOGIA",
+      "start": 645,
+      "end": 699
+    },
+    {
+      "text": "sustancia blanca subcortical de territorios parietooccipitales y occipitales posteriores",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 703,
+      "end": 791
+    },
+    {
+      "text": "sustancia gris cortical",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 814,
+      "end": 837
+    },
+    {
+      "text": "edema citotóxico",
+      "type": "PATOLOGIA",
+      "start": 933,
+      "end": 949
+    },
+    {
+      "text": "Sistema ventricular de tamaño normal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 992,
+      "end": 1028
+    },
+    {
+      "text": "Cisternas basales libres",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1030,
+      "end": 1054
+    },
+    {
+      "text": "Mapa CBV (volumen cerebral sanguíneo) normal o levemente aumentado",
+      "type": "PATOLOGIA",
+      "start": 1072,
+      "end": 1138
+    },
+    {
+      "text": "tiempo de tránsito medio (MTT)",
+      "type": "MEDIDA",
+      "start": 1190,
+      "end": 1220
+    },
+    {
+      "text": "tiempo hasta el pico (TTP)",
+      "type": "MEDIDA",
+      "start": 1227,
+      "end": 1253
+    },
+    {
+      "text": "flujo cerebral (CBF) moderadamente disminuido",
+      "type": "PATOLOGIA",
+      "start": 1259,
+      "end": 1304
+    },
+    {
+      "text": "edema vasogénico",
+      "type": "PATOLOGIA",
+      "start": 1342,
+      "end": 1358
+    },
+    {
+      "text": "isquemia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1367,
+      "end": 1375
+    },
+    {
+      "text": "No se observan defectos de repleción ni estenosis significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1411,
+      "end": 1475
+    },
+    {
+      "text": "Circulación vertebrobasilar y carotídea con morfología y calibre conservados",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1517,
+      "end": 1593
+    },
+    {
+      "text": "No se evidencian áreas de trombosis ni embolia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1595,
+      "end": 1641
+    },
+    {
+      "text": "leucoencefalopatía posterior reversible (PRES)",
+      "type": "PATOLOGIA",
+      "start": 1696,
+      "end": 1742
+    },
+    {
+      "text": "edema vasogénico bilateral y simétrico en regiones parietooccipitales posteriores",
+      "type": "PATOLOGIA",
+      "start": 1753,
+      "end": 1834
+    },
+    {
+      "text": "sin evidencia de infarto isquémico o hemorragia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1835,
+      "end": 1882
+    },
+    {
+      "text": "Perfusión cerebral alterada con aumento del tiempo de tránsito",
+      "type": "PATOLOGIA",
+      "start": 1884,
+      "end": 1946
+    },
+    {
+      "text": "sin reducción significativa del volumen sanguíneo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1947,
+      "end": 1996
+    },
+    {
+      "text": "Leucoencefalopatía posterior reversible con edema vasogénico parietooccipital bilateral",
+      "type": "PATOLOGIA",
+      "start": 2387,
+      "end": 2474
+    },
+    {
+      "text": "sin evidencia de isquemia ni hemorragia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2475,
+      "end": 2514
+    },
+    {
+      "text": "TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANG IOTC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 72,
+      "end": 140
+    },
+    {
+      "text": "TC CRANEAL BASAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 386,
+      "end": 402
+    },
+    {
+      "text": "TC PERFUSIÓN",
+      "type": "TECNICA_IMAGEN",
+      "start": 1058,
+      "end": 1070
+    },
+    {
+      "text": "ANGIO-TC ARTERIAL INTRACRANEAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 1379,
+      "end": 1409
+    }
+  ]
+}

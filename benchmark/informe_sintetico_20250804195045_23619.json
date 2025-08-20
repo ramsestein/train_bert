@@ -1,0 +1,107 @@
+{
+  "document_id": "informe_sintetico_20250804195045_23619",
+  "entities": [
+    {
+      "text": "hemiparesia derecha",
+      "type": "PATOLOGIA",
+      "start": 200,
+      "end": 219
+    },
+    {
+      "text": "disartria",
+      "type": "PATOLOGIA",
+      "start": 222,
+      "end": 231
+    },
+    {
+      "text": "ictus isquémico",
+      "type": "PATOLOGIA",
+      "start": 276,
+      "end": 291
+    },
+    {
+      "text": "hipodensidad lacunar",
+      "type": "PATOLOGIA",
+      "start": 449,
+      "end": 469
+    },
+    {
+      "text": "núcleo lenticular izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 499,
+      "end": 526
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 1038,
+      "end": 1052
+    },
+    {
+      "text": "territorio lenticuloestriado",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1056,
+      "end": 1084
+    },
+    {
+      "text": "infarto lacunar agudo",
+      "type": "PATOLOGIA",
+      "start": 1364,
+      "end": 1385
+    },
+    {
+      "text": "izquierdo",
+      "type": "LATERALIDAD",
+      "start": 517,
+      "end": 526
+    },
+    {
+      "text": "disminución focal de perfusión cerebral",
+      "type": "PATOLOGIA",
+      "start": 1520,
+      "end": 1559
+    },
+    {
+      "text": "Arterias intracraneales principales",
+      "type": "ARTERIA",
+      "start": 1106,
+      "end": 1141
+    },
+    {
+      "text": "sin signos de estenosis ni trombosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1153,
+      "end": 1189
+    },
+    {
+      "text": "sin alteraciones vasculares significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1569,
+      "end": 1611
+    },
+    {
+      "text": "sin evidencia de hemorragia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1429,
+      "end": 1456
+    },
+    {
+      "text": "TC craneal simple",
+      "type": "TECNICA_IMAGEN",
+      "start": 312,
+      "end": 329
+    },
+    {
+      "text": "perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 331,
+      "end": 349
+    },
+    {
+      "text": "angioTC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 352,
+      "end": 381
+    }
+  ]
+}

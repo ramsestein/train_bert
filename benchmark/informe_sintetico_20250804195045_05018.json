@@ -1,0 +1,83 @@
+{
+  "document_id": "informe_sintetico_20250804195045_05018",
+  "entities": [
+    {
+      "text": "hematoma lobar",
+      "type": "PATOLOGIA",
+      "start": 514,
+      "end": 528
+    },
+    {
+      "text": "región frontal izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 532,
+      "end": 556
+    },
+    {
+      "text": "3,2 x 2,5 cm",
+      "type": "MEDIDA",
+      "start": 577,
+      "end": 589
+    },
+    {
+      "text": "4 mm",
+      "type": "MEDIDA",
+      "start": 668,
+      "end": 672
+    },
+    {
+      "text": "hemisferio izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 899,
+      "end": 919
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 1266,
+      "end": 1280
+    },
+    {
+      "text": "arterias cerebrales del polígono de Willis",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1574,
+      "end": 1616
+    },
+    {
+      "text": "efecto compresivo",
+      "type": "PATOLOGIA",
+      "start": 1177,
+      "end": 1194
+    },
+    {
+      "text": "sin evidencia de malformaciones vasculares asociadas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1741,
+      "end": 1793
+    },
+    {
+      "text": "sin extensión a otros territorios",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1856,
+      "end": 1889
+    },
+    {
+      "text": "TC CRANEAL BASAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 339,
+      "end": 355
+    },
+    {
+      "text": "TC PERFUSIÓN CEREBRAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 358,
+      "end": 379
+    },
+    {
+      "text": "ANGIO-TC ARTERIAL INTRACRANEAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 382,
+      "end": 412
+    }
+  ]
+}

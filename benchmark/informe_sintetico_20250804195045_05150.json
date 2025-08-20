@@ -1,0 +1,107 @@
+{
+  "document_id": "informe_sintetico_20250804195045_05150",
+  "entities": [
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 290,
+      "end": 304
+    },
+    {
+      "text": "bulbo raquídeo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 654,
+      "end": 668
+    },
+    {
+      "text": "puente derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 681,
+      "end": 695
+    },
+    {
+      "text": "arteria basilar",
+      "type": "ARTERIA",
+      "start": 1247,
+      "end": 1262
+    },
+    {
+      "text": "arteria vertebral",
+      "type": "ARTERIA",
+      "start": 1740,
+      "end": 1757
+    },
+    {
+      "text": "izquierdo",
+      "type": "LATERALIDAD",
+      "start": 1367,
+      "end": 1376
+    },
+    {
+      "text": "prolongación del tiempo de tránsito medio (MTT)",
+      "type": "MEDIDA",
+      "start": 904,
+      "end": 951
+    },
+    {
+      "text": "tiempo hasta el pico (TTP)",
+      "type": "MEDIDA",
+      "start": 954,
+      "end": 980
+    },
+    {
+      "text": "caída significativa del flujo cerebral (CBF)",
+      "type": "MEDIDA",
+      "start": 1016,
+      "end": 1060
+    },
+    {
+      "text": "reducción moderada del volumen cerebral (CBV)",
+      "type": "MEDIDA",
+      "start": 1063,
+      "end": 1108
+    },
+    {
+      "text": "No hemorragias intracraneales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1769,
+      "end": 1798
+    },
+    {
+      "text": "isquemia aguda en territorio vertebrobasilar",
+      "type": "PATOLOGIA",
+      "start": 290,
+      "end": 334
+    },
+    {
+      "text": "zona de penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1162,
+      "end": 1188
+    },
+    {
+      "text": "estenosis significativa",
+      "type": "PATOLOGIA",
+      "start": 1713,
+      "end": 1736
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 387,
+      "end": 403
+    },
+    {
+      "text": "TC PERFUSIÓN",
+      "type": "TECNICA_IMAGEN",
+      "start": 879,
+      "end": 891
+    },
+    {
+      "text": "ANGIO-TC ARTERIAL INTRACRANEAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 1191,
+      "end": 1221
+    }
+  ]
+}

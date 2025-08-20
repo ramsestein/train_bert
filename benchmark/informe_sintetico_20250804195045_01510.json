@@ -1,0 +1,101 @@
+{
+  "document_id": "informe_sintetico_20250804195045_01510",
+  "entities": [
+    {
+      "text": "isquemia",
+      "type": "PATOLOGIA",
+      "start": 258,
+      "end": 266
+    },
+    {
+      "text": "arteria cerebral anterior (ACA) izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 284,
+      "end": 325
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 346,
+      "end": 362
+    },
+    {
+      "text": "No se identifican hemorragias intra ni extraaxiales.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 532,
+      "end": 584
+    },
+    {
+      "text": "hipodensidad difusa en el territorio cortical y subcortical de la arteria cerebral anterior izquierda",
+      "type": "PATOLOGIA",
+      "start": 598,
+      "end": 699
+    },
+    {
+      "text": "lesión isquémica aguda temprana",
+      "type": "PATOLOGIA",
+      "start": 825,
+      "end": 856
+    },
+    {
+      "text": "ASPECTS 8",
+      "type": "PUNTUACION_CLINICA",
+      "start": 858,
+      "end": 867
+    },
+    {
+      "text": "microangiopatía crónica leve",
+      "type": "PATOLOGIA",
+      "start": 967,
+      "end": 995
+    },
+    {
+      "text": "prolongación significativa en territorio ACA izquierda",
+      "type": "PATOLOGIA",
+      "start": 1166,
+      "end": 1220
+    },
+    {
+      "text": "penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1338,
+      "end": 1356
+    },
+    {
+      "text": "Oclusión segmentaria proximal de arteria cerebral anterior izquierda (A2 segment)",
+      "type": "PATOLOGIA",
+      "start": 1406,
+      "end": 1487
+    },
+    {
+      "text": "ausencia de flujo en dicho tramo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1493,
+      "end": 1525
+    },
+    {
+      "text": "Resto de arterias intracraneales principales (ACM, ACP, ACA contralateral) permeables.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1529,
+      "end": 1615
+    },
+    {
+      "text": "oclusión aguda del segmento proximal de arteria cerebral anterior izquierda",
+      "type": "PATOLOGIA",
+      "start": 1792,
+      "end": 1867
+    },
+    {
+      "text": "área de infarto en evolución en territorio medial frontal y paracentral",
+      "type": "PATOLOGIA",
+      "start": 1872,
+      "end": 1943
+    },
+    {
+      "text": "Resto de vasos principales permeables.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2054,
+      "end": 2092
+    }
+  ]
+}

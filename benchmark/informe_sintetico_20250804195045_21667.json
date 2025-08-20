@@ -1,0 +1,83 @@
+{
+  "document_id": "informe_sintetico_20250804195045_21667",
+  "entities": [
+    {
+      "text": "hemorragia",
+      "type": "PATOLOGIA",
+      "start": 459,
+      "end": 469
+    },
+    {
+      "text": "infarto agudo",
+      "type": "PATOLOGIA",
+      "start": 473,
+      "end": 486
+    },
+    {
+      "text": "edema",
+      "type": "PATOLOGIA",
+      "start": 584,
+      "end": 589
+    },
+    {
+      "text": "ASPECTS 10/10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 628,
+      "end": 641
+    },
+    {
+      "text": "hidrocefalia",
+      "type": "PATOLOGIA",
+      "start": 716,
+      "end": 728
+    },
+    {
+      "text": "hipoperfusión",
+      "type": "PATOLOGIA",
+      "start": 1045,
+      "end": 1058
+    },
+    {
+      "text": "estenosis oclusiva",
+      "type": "PATOLOGIA",
+      "start": 1295,
+      "end": 1313
+    },
+    {
+      "text": "arterias cerebrales anteriores, medias y posteriores",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1422,
+      "end": 1474
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 628,
+      "end": 638
+    },
+    {
+      "text": "sin hallazgos agudos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1661,
+      "end": 1681
+    },
+    {
+      "text": "lesiones hemorrágicas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1701,
+      "end": 1722
+    },
+    {
+      "text": "isquémicas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1724,
+      "end": 1734
+    },
+    {
+      "text": "sin alteraciones",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 852,
+      "end": 868
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "document_id": "informe_sintetico_20250804195045_20505",
+  "entities": [
+    {
+      "text": "infarto",
+      "type": "PATOLOGIA",
+      "start": 702,
+      "end": 709
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 505,
+      "end": 537
+    },
+    {
+      "text": "8 cm3",
+      "type": "MEDIDA",
+      "start": 741,
+      "end": 746
+    },
+    {
+      "text": "hemorragia intraparenquimatosa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 776,
+      "end": 806
+    },
+    {
+      "text": "disminución marcada del flujo cerebral (CBF)",
+      "type": "PATOLOGIA",
+      "start": 1000,
+      "end": 1044
+    },
+    {
+      "text": "arteria carótida interna izquierda",
+      "type": "ARTERIA",
+      "start": 1366,
+      "end": 1400
+    },
+    {
+      "text": "arteria carótida interna derecha",
+      "type": "ARTERIA",
+      "start": 1461,
+      "end": 1493
+    },
+    {
+      "text": "ausencia de flujo en segmento M1 izquierdo de la ACM",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1621,
+      "end": 1673
+    },
+    {
+      "text": "zona de penumbra",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1205,
+      "end": 1221
+    }
+  ]
+}

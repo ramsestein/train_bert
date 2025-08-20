@@ -1,0 +1,71 @@
+{
+  "document_id": "informe_sintetico_20250804195045_10012",
+  "entities": [
+    {
+      "text": "infarto lacunar agudo",
+      "type": "PATOLOGIA",
+      "start": 563,
+      "end": 584
+    },
+    {
+      "text": "núcleo lenticular izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 519,
+      "end": 546
+    },
+    {
+      "text": "6 mm",
+      "type": "MEDIDA",
+      "start": 508,
+      "end": 512
+    },
+    {
+      "text": "agudo",
+      "type": "TEMPORALIDAD",
+      "start": 579,
+      "end": 584
+    },
+    {
+      "text": "ASPECTS 9",
+      "type": "PUNTUACION_CLINICA",
+      "start": 680,
+      "end": 689
+    },
+    {
+      "text": "territorio lenticular izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 943,
+      "end": 974
+    },
+    {
+      "text": "ACA, ACM y ACP",
+      "type": "ARTERIA",
+      "start": 1196,
+      "end": 1210
+    },
+    {
+      "text": "sin estenosis ni oclusiones",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1212,
+      "end": 1239
+    },
+    {
+      "text": "sin evidencia de hemorragia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1467,
+      "end": 1494
+    },
+    {
+      "text": "sin área de penumbra significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1033,
+      "end": 1067
+    },
+    {
+      "text": "sin estenosis significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1663,
+      "end": 1690
+    }
+  ]
+}

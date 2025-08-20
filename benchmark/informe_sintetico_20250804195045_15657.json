@@ -1,0 +1,71 @@
+{
+  "document_id": "informe_sintetico_20250804195045_15657",
+  "entities": [
+    {
+      "text": "infarto cerebral",
+      "type": "PATOLOGIA",
+      "start": 268,
+      "end": 284
+    },
+    {
+      "text": "zonas de watershed corticales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 685,
+      "end": 714
+    },
+    {
+      "text": "tiempo de tránsito (TTP y Tmax)",
+      "type": "MEDIDA",
+      "start": 937,
+      "end": 968
+    },
+    {
+      "text": "reducción moderada del flujo sanguíneo cerebral (CBF)",
+      "type": "PATOLOGIA",
+      "start": 1043,
+      "end": 1096
+    },
+    {
+      "text": "volumen sanguíneo cerebral (CBV) preservado o ligeramente disminuido",
+      "type": "PATOLOGIA",
+      "start": 1099,
+      "end": 1167
+    },
+    {
+      "text": "arteria carótida interna derecha",
+      "type": "ARTERIA",
+      "start": 1378,
+      "end": 1410
+    },
+    {
+      "text": "sin obstrucciones ni oclusiones",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1450,
+      "end": 1481
+    },
+    {
+      "text": "sin hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2458,
+      "end": 2485
+    },
+    {
+      "text": "isquemia por hipoperfusión",
+      "type": "PATOLOGIA",
+      "start": 1761,
+      "end": 1787
+    },
+    {
+      "text": "sin hallazgos de obstrucción aguda",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2069,
+      "end": 2103
+    },
+    {
+      "text": "TC PERFUSIÓN + ANGIO-TC CEREBRAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 2269,
+      "end": 2301
+    }
+  ]
+}

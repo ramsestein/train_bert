@@ -1,0 +1,59 @@
+{
+  "document_id": "informe_sintetico_20250804195045_08509",
+  "entities": [
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 482,
+      "end": 505
+    },
+    {
+      "text": "hemorragia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 482,
+      "end": 492
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1087,
+      "end": 1101
+    },
+    {
+      "text": "microangiopatía de severidad mínima",
+      "type": "PATOLOGIA",
+      "start": 879,
+      "end": 914
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 1713,
+      "end": 1723
+    },
+    {
+      "text": "TC CRANEAL BASAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 437,
+      "end": 453
+    },
+    {
+      "text": "TC PERFUSIÓN",
+      "type": "TECNICA_IMAGEN",
+      "start": 916,
+      "end": 928
+    },
+    {
+      "text": "ANGIO-TC EXTRA E INTRACRANEAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 1124,
+      "end": 1153
+    },
+    {
+      "text": "ACAs, ACMs y ACPs",
+      "type": "ARTERIA",
+      "start": 1345,
+      "end": 1362
+    }
+  ]
+}

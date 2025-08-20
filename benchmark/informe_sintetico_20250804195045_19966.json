@@ -1,0 +1,77 @@
+{
+  "document_id": "informe_sintetico_20250804195045_19966",
+  "entities": [
+    {
+      "text": "infarto cerebral agudo",
+      "type": "PATOLOGIA",
+      "start": 657,
+      "end": 679
+    },
+    {
+      "text": "arteria cerebral media (ACM) izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 552,
+      "end": 590
+    },
+    {
+      "text": "arteria carótida interna izquierda",
+      "type": "ARTERIA",
+      "start": 1255,
+      "end": 1289
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 581,
+      "end": 590
+    },
+    {
+      "text": "zona de penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1112,
+      "end": 1138
+    },
+    {
+      "text": "Oclusión completa",
+      "type": "PATOLOGIA",
+      "start": 1231,
+      "end": 1248
+    },
+    {
+      "text": "Tmax",
+      "type": "MEDIDA",
+      "start": 951,
+      "end": 955
+    },
+    {
+      "text": "CBF",
+      "type": "MEDIDA",
+      "start": 989,
+      "end": 992
+    },
+    {
+      "text": "CBV",
+      "type": "MEDIDA",
+      "start": 1014,
+      "end": 1017
+    },
+    {
+      "text": "sin evidencia de hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1846,
+      "end": 1886
+    },
+    {
+      "text": "TC craneal basal urgente",
+      "type": "TECNICA_IMAGEN",
+      "start": 310,
+      "end": 334
+    },
+    {
+      "text": "perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 336,
+      "end": 354
+    }
+  ]
+}

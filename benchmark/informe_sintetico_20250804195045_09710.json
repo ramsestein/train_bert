@@ -1,0 +1,119 @@
+{
+  "document_id": "informe_sintetico_20250804195045_09710",
+  "entities": [
+    {
+      "text": "hiperdenisdad lineal y focal",
+      "type": "PATOLOGIA",
+      "start": 472,
+      "end": 500
+    },
+    {
+      "text": "signo del trombo",
+      "type": "PATOLOGIA",
+      "start": 566,
+      "end": 582
+    },
+    {
+      "text": "hipodensidades",
+      "type": "PATOLOGIA",
+      "start": 598,
+      "end": 612
+    },
+    {
+      "text": "pérdida moderada de la diferenciación cortico-subcortical",
+      "type": "PATOLOGIA",
+      "start": 669,
+      "end": 726
+    },
+    {
+      "text": "ASPECTS valorado en 7/10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 728,
+      "end": 752
+    },
+    {
+      "text": "No se observan signos de hemorragia aguda intra o extraaxial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 754,
+      "end": 814
+    },
+    {
+      "text": "prolongación del tiempo de tránsito (Tmax)",
+      "type": "PATOLOGIA",
+      "start": 933,
+      "end": 975
+    },
+    {
+      "text": "disminución significativa de flujo cerebral (CBF)",
+      "type": "PATOLOGIA",
+      "start": 978,
+      "end": 1027
+    },
+    {
+      "text": "volumen cerebral (CBV)",
+      "type": "MEDIDA",
+      "start": 1075,
+      "end": 1097
+    },
+    {
+      "text": "mismatch significativo",
+      "type": "PATOLOGIA",
+      "start": 1181,
+      "end": 1203
+    },
+    {
+      "text": "Oclusión completa del segmento proximal M1 de la arteria cerebral media izquierda",
+      "type": "PATOLOGIA",
+      "start": 1241,
+      "end": 1322
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "ARTERIA",
+      "start": 507,
+      "end": 539
+    },
+    {
+      "text": "ACA, ACM derecha, ACPs",
+      "type": "ARTERIA",
+      "start": 1358,
+      "end": 1380
+    },
+    {
+      "text": "Signo de trombo hiperdenso en M1 izquierda",
+      "type": "PATOLOGIA",
+      "start": 1560,
+      "end": 1602
+    },
+    {
+      "text": "signos incipientes de isquemia en territorio de ACM izquierda",
+      "type": "PATOLOGIA",
+      "start": 1625,
+      "end": 1686
+    },
+    {
+      "text": "Perfusión cerebral muestra mismatch significativo compatible con tejido en riesgo",
+      "type": "PATOLOGIA",
+      "start": 1692,
+      "end": 1773
+    },
+    {
+      "text": "oclusión proximal de ACM-M1 izquierda",
+      "type": "PATOLOGIA",
+      "start": 1797,
+      "end": 1834
+    },
+    {
+      "text": "TC Basal + TC Perfusión + Angio-TC extra e intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 293,
+      "end": 348
+    },
+    {
+      "text": "TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANG IOTC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 72,
+      "end": 140
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "document_id": "informe_sintetico_20250804195045_06641",
+  "entities": [
+    {
+      "text": "infarto cerebral",
+      "type": "PATOLOGIA",
+      "start": 209,
+      "end": 225
+    },
+    {
+      "text": "hemorragias intra ni extraaxiales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 459,
+      "end": 492
+    },
+    {
+      "text": "hipodensidad cortical y subcortical bilateral fronto-parietal y parieto-occipital",
+      "type": "PATOLOGIA",
+      "start": 513,
+      "end": 594
+    },
+    {
+      "text": "arteria cerebral media",
+      "type": "ARTERIA",
+      "start": 652,
+      "end": 674
+    },
+    {
+      "text": "arteria cerebral anterior",
+      "type": "ARTERIA",
+      "start": 677,
+      "end": 702
+    },
+    {
+      "text": "infarto watershed",
+      "type": "PATOLOGIA",
+      "start": 729,
+      "end": 746
+    },
+    {
+      "text": "edema significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 764,
+      "end": 783
+    },
+    {
+      "text": "tiempo de tránsito medio (Tmax)",
+      "type": "MEDIDA",
+      "start": 912,
+      "end": 943
+    },
+    {
+      "text": "flujo cerebral (CBF)",
+      "type": "MEDIDA",
+      "start": 968,
+      "end": 988
+    },
+    {
+      "text": "volumen cerebral sanguíneo (CBV)",
+      "type": "MEDIDA",
+      "start": 1084,
+      "end": 1116
+    },
+    {
+      "text": "isquemia en zonas de frontera o watershed",
+      "type": "PATOLOGIA",
+      "start": 1144,
+      "end": 1185
+    },
+    {
+      "text": "penumbra extensa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1211,
+      "end": 1227
+    },
+    {
+      "text": "estenosis ni oclusiones",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1278,
+      "end": 1301
+    },
+    {
+      "text": "vasos cerebrales intracraneales",
+      "type": "ARTERIA",
+      "start": 1321,
+      "end": 1352
+    },
+    {
+      "text": "arterias carótidas o vertebrales cervicales",
+      "type": "ARTERIA",
+      "start": 1363,
+      "end": 1406
+    },
+    {
+      "text": "sin ateromatosis significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1455,
+      "end": 1485
+    },
+    {
+      "text": "infartos cerebrales watershed bilaterales",
+      "type": "PATOLOGIA",
+      "start": 1536,
+      "end": 1577
+    },
+    {
+      "text": "territorios de frontera entre ACM y ACA/ACP",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1581,
+      "end": 1624
+    },
+    {
+      "text": "compromiso hemodinámico",
+      "type": "PATOLOGIA",
+      "start": 230,
+      "end": 253
+    },
+    {
+      "text": "signos de hemorragia ni edema significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1679,
+      "end": 1722
+    },
+    {
+      "text": "obstrucciones arteriales detectables",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1743,
+      "end": 1779
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "document_id": "informe_sintetico_20250804195045_20242",
+  "entities": [
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 290,
+      "end": 304
+    },
+    {
+      "text": "tronco del encéfalo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 690,
+      "end": 709
+    },
+    {
+      "text": "región cerebelosa posterior",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1642,
+      "end": 1669
+    },
+    {
+      "text": "arteria vertebral derecha",
+      "type": "ARTERIA",
+      "start": 1247,
+      "end": 1272
+    },
+    {
+      "text": "arteria basilar",
+      "type": "ARTERIA",
+      "start": 1312,
+      "end": 1327
+    },
+    {
+      "text": "más marcado en lado izquierdo",
+      "type": "LATERALIDAD",
+      "start": 1044,
+      "end": 1073
+    },
+    {
+      "text": ">90%",
+      "type": "MEDIDA",
+      "start": 1235,
+      "end": 1239
+    },
+    {
+      "text": "estenosis crítica",
+      "type": "PATOLOGIA",
+      "start": 1701,
+      "end": 1718
+    },
+    {
+      "text": "No se identifican hemorragias intracraneales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 549,
+      "end": 593
+    },
+    {
+      "text": "No se evidencian signos de hemorragia ni infarto establecido definitivo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1762,
+      "end": 1833
+    }
+  ]
+}

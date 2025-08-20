@@ -1,0 +1,241 @@
+{
+  "document_id": "informe_sintetico_20250804195045_10510",
+  "entities": [
+    {
+      "text": "hemorragia subaracnoidea",
+      "type": "PATOLOGIA",
+      "start": 266,
+      "end": 290
+    },
+    {
+      "text": "colección hiperdensa",
+      "type": "PATOLOGIA",
+      "start": 463,
+      "end": 483
+    },
+    {
+      "text": "cisterna supraselar",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 490,
+      "end": 509
+    },
+    {
+      "text": "margen derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 512,
+      "end": 526
+    },
+    {
+      "text": "cisura silviana",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 533,
+      "end": 548
+    },
+    {
+      "text": "hemorragias parenquimatosas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 615,
+      "end": 642
+    },
+    {
+      "text": "hematomas extraaxiales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 646,
+      "end": 668
+    },
+    {
+      "text": "desplazamiento de la línea media",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 677,
+      "end": 709
+    },
+    {
+      "text": "compresión ventricular",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 713,
+      "end": 735
+    },
+    {
+      "text": "tamaño y morfología conservados",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 761,
+      "end": 792
+    },
+    {
+      "text": "sangrado",
+      "type": "PATOLOGIA",
+      "start": 841,
+      "end": 849
+    },
+    {
+      "text": "alteraciones significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 881,
+      "end": 908
+    },
+    {
+      "text": "métricas de perfusión cerebral",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 916,
+      "end": 946
+    },
+    {
+      "text": "CBF",
+      "type": "MEDIDA",
+      "start": 948,
+      "end": 951
+    },
+    {
+      "text": "CBV",
+      "type": "MEDIDA",
+      "start": 953,
+      "end": 956
+    },
+    {
+      "text": "TTP",
+      "type": "MEDIDA",
+      "start": 958,
+      "end": 961
+    },
+    {
+      "text": "Tmax",
+      "type": "MEDIDA",
+      "start": 963,
+      "end": 967
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1034,
+      "end": 1048
+    },
+    {
+      "text": "árbol vascular intracraneal",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1085,
+      "end": 1112
+    },
+    {
+      "text": "permeable",
+      "type": "PATOLOGIA",
+      "start": 1126,
+      "end": 1135
+    },
+    {
+      "text": "aneurismas evidentes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1154,
+      "end": 1174
+    },
+    {
+      "text": "malformaciones arteriovenosas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1188,
+      "end": 1217
+    },
+    {
+      "text": "segmentos proximales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1267,
+      "end": 1287
+    },
+    {
+      "text": "estenosis significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1292,
+      "end": 1316
+    },
+    {
+      "text": "troncos supraórticos",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 388,
+      "end": 408
+    },
+    {
+      "text": "morfología sin hallazgos patológicos relevantes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1343,
+      "end": 1390
+    },
+    {
+      "text": "hemorragia subaracnoidea focal",
+      "type": "PATOLOGIA",
+      "start": 565,
+      "end": 595
+    },
+    {
+      "text": "cisterna supraselar",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 490,
+      "end": 509
+    },
+    {
+      "text": "cisura silviana derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1483,
+      "end": 1506
+    },
+    {
+      "text": "isquemia cerebral aguda",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1520,
+      "end": 1543
+    },
+    {
+      "text": "aneurismas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1154,
+      "end": 1164
+    },
+    {
+      "text": "malformaciones vasculares evidentes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1590,
+      "end": 1625
+    },
+    {
+      "text": "angiografía digital",
+      "type": "TECNICA_IMAGEN",
+      "start": 1715,
+      "end": 1734
+    },
+    {
+      "text": "aneurisma oculto",
+      "type": "PATOLOGIA",
+      "start": 1750,
+      "end": 1766
+    },
+    {
+      "text": "si la clínica persiste o empeora",
+      "type": "TEMPORALIDAD",
+      "start": 1767,
+      "end": 1799
+    },
+    {
+      "text": "Focal subarachnoid hemorrhage involving basal cisterns",
+      "type": "PATOLOGIA",
+      "start": 1859,
+      "end": 1913
+    },
+    {
+      "text": "no infarction detected",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1915,
+      "end": 1937
+    },
+    {
+      "text": "vascular imaging negative for aneurysm",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1939,
+      "end": 1977
+    },
+    {
+      "text": "TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANGIOTC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 2005,
+      "end": 2072
+    }
+  ],
+  "regenerado": true,
+  "fecha_regeneracion": "2025-08-06T11:51:51.835703"
+}

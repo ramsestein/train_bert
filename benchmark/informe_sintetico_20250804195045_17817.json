@@ -1,0 +1,119 @@
+{
+  "document_id": "informe_sintetico_20250804195045_17817",
+  "entities": [
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 256,
+      "end": 270
+    },
+    {
+      "text": "arteria cerebral posterior derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 288,
+      "end": 322
+    },
+    {
+      "text": "arteria cerebral posterior derecha",
+      "type": "ARTERIA",
+      "start": 288,
+      "end": 322
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 216,
+      "end": 225
+    },
+    {
+      "text": "ASPECTS posterior 7/10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 768,
+      "end": 790
+    },
+    {
+      "text": "prolongación del tiempo de tránsito medio (MTT)",
+      "type": "MEDIDA",
+      "start": 915,
+      "end": 962
+    },
+    {
+      "text": "aumento del tiempo hasta el pico (TTP)",
+      "type": "MEDIDA",
+      "start": 965,
+      "end": 1003
+    },
+    {
+      "text": "caída moderada del flujo cerebral (CBF)",
+      "type": "MEDIDA",
+      "start": 1037,
+      "end": 1076
+    },
+    {
+      "text": "volumen cerebral (CBV) conservado",
+      "type": "MEDIDA",
+      "start": 1079,
+      "end": 1112
+    },
+    {
+      "text": "penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1137,
+      "end": 1155
+    },
+    {
+      "text": "core isquémico pronunciado",
+      "type": "PATOLOGIA",
+      "start": 1181,
+      "end": 1207
+    },
+    {
+      "text": "Oclusión parcial del segmento P2 de la arteria cerebral posterior derecha",
+      "type": "PATOLOGIA",
+      "start": 1243,
+      "end": 1316
+    },
+    {
+      "text": "arteria cerebral posterior derecha",
+      "type": "ARTERIA",
+      "start": 288,
+      "end": 322
+    },
+    {
+      "text": "Oclusión parcial en segmento P2 derecho",
+      "type": "PATOLOGIA",
+      "start": 1764,
+      "end": 1803
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 256,
+      "end": 270
+    },
+    {
+      "text": "arteria cerebral posterior derecha",
+      "type": "ARTERIA",
+      "start": 288,
+      "end": 322
+    },
+    {
+      "text": "No se identifica hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 493,
+      "end": 533
+    },
+    {
+      "text": "No se observan zonas de core isquémico pronunciado",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1157,
+      "end": 1207
+    },
+    {
+      "text": "No hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1586,
+      "end": 1612
+    }
+  ]
+}

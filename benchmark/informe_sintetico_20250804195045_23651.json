@@ -1,0 +1,95 @@
+{
+  "document_id": "informe_sintetico_20250804195045_23651",
+  "entities": [
+    {
+      "text": "infarto isquémico agudo",
+      "type": "PATOLOGIA",
+      "start": 610,
+      "end": 633
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 663,
+      "end": 686
+    },
+    {
+      "text": "protuberancia",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 556,
+      "end": 569
+    },
+    {
+      "text": "mesencéfalo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 582,
+      "end": 593
+    },
+    {
+      "text": "tronco encefálico",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 886,
+      "end": 903
+    },
+    {
+      "text": "isquemia tisular",
+      "type": "PATOLOGIA",
+      "start": 1081,
+      "end": 1097
+    },
+    {
+      "text": "arteria basilar",
+      "type": "ARTERIA",
+      "start": 1190,
+      "end": 1205
+    },
+    {
+      "text": "segmento proximal",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1212,
+      "end": 1229
+    },
+    {
+      "text": "circulación posterior",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1510,
+      "end": 1531
+    },
+    {
+      "text": "oclusión arterial basilar proximal",
+      "type": "PATOLOGIA",
+      "start": 1584,
+      "end": 1618
+    },
+    {
+      "text": "infarto agudo del tronco cerebral",
+      "type": "PATOLOGIA",
+      "start": 2015,
+      "end": 2048
+    },
+    {
+      "text": "alteraciones de perfusión",
+      "type": "PATOLOGIA",
+      "start": 2051,
+      "end": 2076
+    },
+    {
+      "text": "TC craneal sin contraste",
+      "type": "TECNICA_IMAGEN",
+      "start": 336,
+      "end": 360
+    },
+    {
+      "text": "estudio de perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 362,
+      "end": 391
+    },
+    {
+      "text": "AngioTC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 393,
+      "end": 422
+    }
+  ]
+}

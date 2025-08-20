@@ -1,0 +1,77 @@
+{
+  "document_id": "informe_sintetico_20250804195045_08242",
+  "entities": [
+    {
+      "text": "hematoma cerebeloso agudo",
+      "type": "PATOLOGIA",
+      "start": 625,
+      "end": 650
+    },
+    {
+      "text": "región del hemisferio cerebeloso derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 568,
+      "end": 608
+    },
+    {
+      "text": "cuarto ventrículo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 694,
+      "end": 711
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 736,
+      "end": 745
+    },
+    {
+      "text": "3,5 x 3,0 x 3,2 cm",
+      "type": "MEDIDA",
+      "start": 532,
+      "end": 550
+    },
+    {
+      "text": "agudo",
+      "type": "TEMPORALIDAD",
+      "start": 645,
+      "end": 650
+    },
+    {
+      "text": "cerebelo derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1145,
+      "end": 1161
+    },
+    {
+      "text": "TTP",
+      "type": "PUNTUACION_CLINICA",
+      "start": 1205,
+      "end": 1208
+    },
+    {
+      "text": "arterias intracraneales permeables",
+      "type": "ARTERIA",
+      "start": 2135,
+      "end": 2169
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 295,
+      "end": 311
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 370,
+      "end": 391
+    },
+    {
+      "text": "angio-TC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 393,
+      "end": 423
+    }
+  ]
+}

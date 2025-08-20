@@ -1,0 +1,191 @@
+{
+  "document_id": "informe_sintetico_20250804195045_23252",
+  "entities": [
+    {
+      "text": "infarto cerebral",
+      "type": "PATOLOGIA",
+      "start": 216,
+      "end": 232
+    },
+    {
+      "text": "insuficiencia cardiaca",
+      "type": "PATOLOGIA",
+      "start": 268,
+      "end": 290
+    },
+    {
+      "text": "estenosis carotídea bilateral",
+      "type": "PATOLOGIA",
+      "start": 293,
+      "end": 322
+    },
+    {
+      "text": "áreas hipodensas bilaterales",
+      "type": "PATOLOGIA",
+      "start": 556,
+      "end": 584
+    },
+    {
+      "text": "regiones corticales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 588,
+      "end": 607
+    },
+    {
+      "text": "territorios fronterizos entre las arterias cerebrales media y anterior",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 615,
+      "end": 685
+    },
+    {
+      "text": "arterias cerebral media y posterior",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 706,
+      "end": 741
+    },
+    {
+      "text": "polos frontales y parietales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 764,
+      "end": 792
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 821,
+      "end": 844
+    },
+    {
+      "text": "desplazamiento de línea media",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 848,
+      "end": 877
+    },
+    {
+      "text": "hidrocefalia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 946,
+      "end": 958
+    },
+    {
+      "text": "Cisternas basales libres",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 960,
+      "end": 984
+    },
+    {
+      "text": "ASPECTS 9",
+      "type": "PUNTUACION_CLINICA",
+      "start": 986,
+      "end": 995
+    },
+    {
+      "text": "prolongación en las zonas descritas",
+      "type": "PATOLOGIA",
+      "start": 1087,
+      "end": 1122
+    },
+    {
+      "text": "disminución moderada del flujo cerebral sanguíneo",
+      "type": "PATOLOGIA",
+      "start": 1128,
+      "end": 1177
+    },
+    {
+      "text": "hipoperfusión tisular",
+      "type": "PATOLOGIA",
+      "start": 1267,
+      "end": 1288
+    },
+    {
+      "text": "territorio watershed bilateral",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1292,
+      "end": 1322
+    },
+    {
+      "text": "arteria carótida interna izquierda",
+      "type": "ARTERIA",
+      "start": 1433,
+      "end": 1467
+    },
+    {
+      "text": "estenosis leve-moderada (~40%)",
+      "type": "PATOLOGIA",
+      "start": 1514,
+      "end": 1544
+    },
+    {
+      "text": "arteria carótida interna derecha",
+      "type": "ARTERIA",
+      "start": 1472,
+      "end": 1504
+    },
+    {
+      "text": "permeabilidad del sistema vertebrobasilar conservada",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1606,
+      "end": 1658
+    },
+    {
+      "text": "ateromatosis calcificada leve en ambas bifurcaciones carotídeas",
+      "type": "PATOLOGIA",
+      "start": 1671,
+      "end": 1734
+    },
+    {
+      "text": "infarto watershed bilateral",
+      "type": "PATOLOGIA",
+      "start": 1787,
+      "end": 1814
+    },
+    {
+      "text": "territorios límite entre ACM-ACA y ACM-ACP",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1818,
+      "end": 1860
+    },
+    {
+      "text": "hipoperfusión probablemente secundaria a estenosis carotídeas bilaterales",
+      "type": "PATOLOGIA",
+      "start": 1871,
+      "end": 1944
+    },
+    {
+      "text": "estenosis significativa en carótida interna izquierda",
+      "type": "PATOLOGIA",
+      "start": 1950,
+      "end": 2003
+    },
+    {
+      "text": "hemorragia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 821,
+      "end": 831
+    },
+    {
+      "text": "edema cerebral significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2035,
+      "end": 2063
+    },
+    {
+      "text": "área de penumbra isquémica en zonas watershed",
+      "type": "PATOLOGIA",
+      "start": 2090,
+      "end": 2135
+    },
+    {
+      "text": "estenosis carotídea significativa izquierda",
+      "type": "PATOLOGIA",
+      "start": 2483,
+      "end": 2526
+    },
+    {
+      "text": "TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANGIOTC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 2554,
+      "end": 2621
+    }
+  ]
+}

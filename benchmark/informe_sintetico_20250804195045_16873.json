@@ -1,0 +1,191 @@
+{
+  "document_id": "informe_sintetico_20250804195045_16873",
+  "entities": [
+    {
+      "text": "hemiparesia derecha",
+      "type": "PATOLOGIA",
+      "start": 294,
+      "end": 313
+    },
+    {
+      "text": "evento vascular cerebral isquémico",
+      "type": "PATOLOGIA",
+      "start": 349,
+      "end": 383
+    },
+    {
+      "text": "área hiperdensa heterogénea",
+      "type": "PATOLOGIA",
+      "start": 633,
+      "end": 660
+    },
+    {
+      "text": "núcleo lenticular izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 664,
+      "end": 691
+    },
+    {
+      "text": "cápsula interna",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 694,
+      "end": 709
+    },
+    {
+      "text": "sustancia blanca perilesional",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 729,
+      "end": 758
+    },
+    {
+      "text": "35 ml",
+      "type": "MEDIDA",
+      "start": 816,
+      "end": 821
+    },
+    {
+      "text": "4 mm",
+      "type": "MEDIDA",
+      "start": 925,
+      "end": 929
+    },
+    {
+      "text": "ASPECTS 5",
+      "type": "PUNTUACION_CLINICA",
+      "start": 1086,
+      "end": 1095
+    },
+    {
+      "text": "disminución marcada del flujo cerebral",
+      "type": "PATOLOGIA",
+      "start": 1232,
+      "end": 1270
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "ARTERIA",
+      "start": 1297,
+      "end": 1329
+    },
+    {
+      "text": "aumento del tiempo de tránsito",
+      "type": "PATOLOGIA",
+      "start": 1335,
+      "end": 1365
+    },
+    {
+      "text": "edema y transformación hemorrágica",
+      "type": "PATOLOGIA",
+      "start": 1457,
+      "end": 1491
+    },
+    {
+      "text": "segmento M1 de ACM izquierda",
+      "type": "ARTERIA",
+      "start": 1630,
+      "end": 1658
+    },
+    {
+      "text": "trombo suboclusivo",
+      "type": "PATOLOGIA",
+      "start": 1675,
+      "end": 1693
+    },
+    {
+      "text": "arteria carótida interna izquierda",
+      "type": "ARTERIA",
+      "start": 1786,
+      "end": 1820
+    },
+    {
+      "text": "Ateromatosis moderada",
+      "type": "PATOLOGIA",
+      "start": 1822,
+      "end": 1843
+    },
+    {
+      "text": "Transformación hemorrágica tipo PH2",
+      "type": "PATOLOGIA",
+      "start": 1943,
+      "end": 1978
+    },
+    {
+      "text": "hematoma voluminoso",
+      "type": "PATOLOGIA",
+      "start": 2036,
+      "end": 2055
+    },
+    {
+      "text": "edema asociado con efecto de masa significativo",
+      "type": "PATOLOGIA",
+      "start": 2058,
+      "end": 2105
+    },
+    {
+      "text": "desviación de línea media",
+      "type": "PATOLOGIA",
+      "start": 2108,
+      "end": 2133
+    },
+    {
+      "text": "alteración marcada de la perfusión cerebral",
+      "type": "PATOLOGIA",
+      "start": 2215,
+      "end": 2258
+    },
+    {
+      "text": "Riesgo elevado de complicación neurológica",
+      "type": "PATOLOGIA",
+      "start": 2260,
+      "end": 2302
+    },
+    {
+      "text": "TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANG IOTC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 72,
+      "end": 140
+    },
+    {
+      "text": "TC CÓDIGO ICTUS (BASAL + PERFUSIÓN CEREBRAL + ANGIOTC TSA E INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 503,
+      "end": 576
+    },
+    {
+      "text": "TC CRANEAL BASAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 599,
+      "end": 615
+    },
+    {
+      "text": "TC PERFUSIÓN",
+      "type": "TECNICA_IMAGEN",
+      "start": 1208,
+      "end": 1220
+    },
+    {
+      "text": "ANGIO-TC EXTRA E INTRACRANEAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 1563,
+      "end": 1592
+    },
+    {
+      "text": "No se evidencian hemorragias subaracnoideas ni extraaxiales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 948,
+      "end": 1007
+    },
+    {
+      "text": "No se evidencian otras estenosis críticas en círculos de Willis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1695,
+      "end": 1758
+    },
+    {
+      "text": "La perfusión en regiones no afectadas es comparable a la normalidad",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1493,
+      "end": 1560
+    }
+  ]
+}

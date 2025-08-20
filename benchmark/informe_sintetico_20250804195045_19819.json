@@ -1,0 +1,89 @@
+{
+  "document_id": "informe_sintetico_20250804195045_19819",
+  "entities": [
+    {
+      "text": "infarto isquémico agudo",
+      "type": "PATOLOGIA",
+      "start": 653,
+      "end": 676
+    },
+    {
+      "text": "región frontoparietal",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 547,
+      "end": 568
+    },
+    {
+      "text": "cápsula interna",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 574,
+      "end": 589
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "ARTERIA",
+      "start": 1057,
+      "end": 1089
+    },
+    {
+      "text": "arteria carótida interna izquierda",
+      "type": "ARTERIA",
+      "start": 1198,
+      "end": 1232
+    },
+    {
+      "text": "izquierdo",
+      "type": "LATERALIDAD",
+      "start": 507,
+      "end": 516
+    },
+    {
+      "text": "4 mm",
+      "type": "MEDIDA",
+      "start": 791,
+      "end": 795
+    },
+    {
+      "text": "ASPECTS 5",
+      "type": "PUNTUACION_CLINICA",
+      "start": 747,
+      "end": 756
+    },
+    {
+      "text": "agudo",
+      "type": "TEMPORALIDAD",
+      "start": 180,
+      "end": 185
+    },
+    {
+      "text": "No se observa hemorragia intracraneal asociada",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 814,
+      "end": 860
+    },
+    {
+      "text": "No se evidencian signos de disección",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1409,
+      "end": 1445
+    },
+    {
+      "text": "Oclusión aguda de la arteria carótida interna izquierda",
+      "type": "PATOLOGIA",
+      "start": 1470,
+      "end": 1525
+    },
+    {
+      "text": "infarto extenso en territorio de la arteria cerebral media ipsilateral",
+      "type": "PATOLOGIA",
+      "start": 1530,
+      "end": 1600
+    },
+    {
+      "text": "izquierdo",
+      "type": "LATERALIDAD",
+      "start": 507,
+      "end": 516
+    }
+  ]
+}

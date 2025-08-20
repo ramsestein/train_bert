@@ -1,0 +1,125 @@
+{
+  "document_id": "informe_sintetico_20250804195045_22453",
+  "entities": [
+    {
+      "text": "isquemia cerebral aguda",
+      "type": "PATOLOGIA",
+      "start": 235,
+      "end": 258
+    },
+    {
+      "text": "arteria cerebral posterior izquierda",
+      "type": "ARTERIA",
+      "start": 276,
+      "end": 312
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 333,
+      "end": 349
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 351,
+      "end": 372
+    },
+    {
+      "text": "angio-TC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 375,
+      "end": 405
+    },
+    {
+      "text": "ASPECTS 10/10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 674,
+      "end": 687
+    },
+    {
+      "text": "hemorragias intracraneales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 542,
+      "end": 568
+    },
+    {
+      "text": "signos de infarto establecido",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 572,
+      "end": 601
+    },
+    {
+      "text": "prolongación significativa",
+      "type": "PATOLOGIA",
+      "start": 859,
+      "end": 885
+    },
+    {
+      "text": "flujo sanguíneo cerebral",
+      "type": "PATOLOGIA",
+      "start": 962,
+      "end": 986
+    },
+    {
+      "text": "volumen sanguíneo cerebral",
+      "type": "PATOLOGIA",
+      "start": 995,
+      "end": 1021
+    },
+    {
+      "text": "penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1048,
+      "end": 1066
+    },
+    {
+      "text": "mismatch",
+      "type": "PATOLOGIA",
+      "start": 1080,
+      "end": 1088
+    },
+    {
+      "text": "segmento proximal de arteria cerebral posterior izquierda (P1-P2)",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1225,
+      "end": 1290
+    },
+    {
+      "text": "trombo oclusivo",
+      "type": "PATOLOGIA",
+      "start": 1307,
+      "end": 1322
+    },
+    {
+      "text": "sin estenosis ni oclusiones significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1361,
+      "end": 1403
+    },
+    {
+      "text": "sin alteraciones relevantes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1499,
+      "end": 1526
+    },
+    {
+      "text": "signos de infarto encefálico establecido en TC basal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1592,
+      "end": 1644
+    },
+    {
+      "text": "isquemia aguda en fase temprana",
+      "type": "PATOLOGIA",
+      "start": 1757,
+      "end": 1788
+    },
+    {
+      "text": "confirmada en angio-TC",
+      "type": "TECNICA_IMAGEN",
+      "start": 1860,
+      "end": 1882
+    }
+  ]
+}

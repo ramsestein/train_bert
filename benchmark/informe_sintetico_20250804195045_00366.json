@@ -1,0 +1,227 @@
+{
+  "document_id": "informe_sintetico_20250804195045_00366",
+  "entities": [
+    {
+      "text": "hemiparesia derecha",
+      "type": "PATOLOGIA",
+      "start": 204,
+      "end": 223
+    },
+    {
+      "text": "ictus isquémico",
+      "type": "PATOLOGIA",
+      "start": 306,
+      "end": 321
+    },
+    {
+      "text": "hipertensión arterial",
+      "type": "PATOLOGIA",
+      "start": 250,
+      "end": 271
+    },
+    {
+      "text": "dislipemia",
+      "type": "PATOLOGIA",
+      "start": 274,
+      "end": 284
+    },
+    {
+      "text": "hipodensidad extensa",
+      "type": "PATOLOGIA",
+      "start": 604,
+      "end": 624
+    },
+    {
+      "text": "infarto isquémico establecido",
+      "type": "PATOLOGIA",
+      "start": 768,
+      "end": 797
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "ARTERIA",
+      "start": 645,
+      "end": 677
+    },
+    {
+      "text": "corteza insular",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 692,
+      "end": 707
+    },
+    {
+      "text": "región fronto-parietal",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 709,
+      "end": 731
+    },
+    {
+      "text": "núcleo lenticular",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 734,
+      "end": 751
+    },
+    {
+      "text": "efecto de masa",
+      "type": "PATOLOGIA",
+      "start": 866,
+      "end": 880
+    },
+    {
+      "text": "desviación de la línea media hacia la derecha",
+      "type": "PATOLOGIA",
+      "start": 894,
+      "end": 939
+    },
+    {
+      "text": "hemorragia intraparenquimatosa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 961,
+      "end": 991
+    },
+    {
+      "text": "sangrado subaracnoideo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 995,
+      "end": 1017
+    },
+    {
+      "text": "reducción marcada",
+      "type": "PATOLOGIA",
+      "start": 1075,
+      "end": 1092
+    },
+    {
+      "text": "tiempo de tránsito medio",
+      "type": "PATOLOGIA",
+      "start": 1148,
+      "end": 1172
+    },
+    {
+      "text": "disminución del volumen sanguíneo cerebral",
+      "type": "PATOLOGIA",
+      "start": 1181,
+      "end": 1223
+    },
+    {
+      "text": "penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1255,
+      "end": 1273
+    },
+    {
+      "text": "núcleo de infarto",
+      "type": "PATOLOGIA",
+      "start": 1276,
+      "end": 1293
+    },
+    {
+      "text": "oclusión completa",
+      "type": "PATOLOGIA",
+      "start": 2573,
+      "end": 2590
+    },
+    {
+      "text": "segmento cervical de la arteria carótida interna izquierda",
+      "type": "ARTERIA",
+      "start": 1352,
+      "end": 1410
+    },
+    {
+      "text": "bifurcación carotídea",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1471,
+      "end": 1492
+    },
+    {
+      "text": "segmentos intracraneales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1499,
+      "end": 1523
+    },
+    {
+      "text": "signos de recanalización",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1543,
+      "end": 1567
+    },
+    {
+      "text": "50%",
+      "type": "MEDIDA",
+      "start": 1589,
+      "end": 1592
+    },
+    {
+      "text": "segmento proximal de carótida interna derecha",
+      "type": "ARTERIA",
+      "start": 1597,
+      "end": 1642
+    },
+    {
+      "text": "alteraciones significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1734,
+      "end": 1761
+    },
+    {
+      "text": "trombos en arterias intracraneales principales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1779,
+      "end": 1825
+    },
+    {
+      "text": "aneurismas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1842,
+      "end": 1852
+    },
+    {
+      "text": "malformaciones vasculares",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1856,
+      "end": 1881
+    },
+    {
+      "text": "territorio de arteria cerebral media izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1936,
+      "end": 1982
+    },
+    {
+      "text": "hipodensidad y edema asociado",
+      "type": "PATOLOGIA",
+      "start": 1987,
+      "end": 2016
+    },
+    {
+      "text": "gran área de infarto establecida",
+      "type": "PATOLOGIA",
+      "start": 2046,
+      "end": 2078
+    },
+    {
+      "text": "penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1255,
+      "end": 1273
+    },
+    {
+      "text": "signos de recanalización",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1543,
+      "end": 1567
+    },
+    {
+      "text": "hemorragia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 961,
+      "end": 971
+    },
+    {
+      "text": "complicaciones hemorrágicas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2273,
+      "end": 2300
+    }
+  ]
+}

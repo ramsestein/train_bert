@@ -1,0 +1,137 @@
+{
+  "document_id": "informe_sintetico_20250804195045_15476",
+  "entities": [
+    {
+      "text": "hemiparesia derecha",
+      "type": "PATOLOGIA",
+      "start": 204,
+      "end": 223
+    },
+    {
+      "text": "evento isquémico cerebral",
+      "type": "PATOLOGIA",
+      "start": 310,
+      "end": 335
+    },
+    {
+      "text": "3 horas",
+      "type": "TEMPORALIDAD",
+      "start": 281,
+      "end": 288
+    },
+    {
+      "text": "hemorragias intra ni extraaxiales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 545,
+      "end": 578
+    },
+    {
+      "text": "edema citotóxico",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 709,
+      "end": 725
+    },
+    {
+      "text": "infarto establecido",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 729,
+      "end": 748
+    },
+    {
+      "text": "ASPECTS 9 sobre 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 750,
+      "end": 768
+    },
+    {
+      "text": "MCA",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 828,
+      "end": 831
+    },
+    {
+      "text": "Tmax",
+      "type": "MEDIDA",
+      "start": 988,
+      "end": 992
+    },
+    {
+      "text": "Time-To-Peak (TTP)",
+      "type": "MEDIDA",
+      "start": 995,
+      "end": 1013
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "ARTERIA",
+      "start": 1038,
+      "end": 1070
+    },
+    {
+      "text": "segmentos M2/M3",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1072,
+      "end": 1087
+    },
+    {
+      "text": "flujo sanguíneo cerebral (CBF)",
+      "type": "MEDIDA",
+      "start": 1117,
+      "end": 1147
+    },
+    {
+      "text": "volumen sanguíneo cerebral (CBV)",
+      "type": "MEDIDA",
+      "start": 1167,
+      "end": 1199
+    },
+    {
+      "text": "penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1227,
+      "end": 1245
+    },
+    {
+      "text": "segmento M2 distal izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1327,
+      "end": 1355
+    },
+    {
+      "text": "arteria cerebral media",
+      "type": "ARTERIA",
+      "start": 1038,
+      "end": 1060
+    },
+    {
+      "text": "ASPECTS alto (9/10)",
+      "type": "PUNTUACION_CLINICA",
+      "start": 1849,
+      "end": 1868
+    },
+    {
+      "text": "penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1227,
+      "end": 1245
+    },
+    {
+      "text": "infarto establecido",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 729,
+      "end": 748
+    },
+    {
+      "text": "hemorragia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 545,
+      "end": 555
+    },
+    {
+      "text": "complicaciones",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1995,
+      "end": 2009
+    }
+  ]
+}

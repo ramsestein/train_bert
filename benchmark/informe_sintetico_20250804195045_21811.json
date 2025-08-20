@@ -1,0 +1,119 @@
+{
+  "document_id": "informe_sintetico_20250804195045_21811",
+  "entities": [
+    {
+      "text": "hemiparesia contralateral",
+      "type": "PATOLOGIA",
+      "start": 205,
+      "end": 230
+    },
+    {
+      "text": "accidente isquémico agudo",
+      "type": "PATOLOGIA",
+      "start": 292,
+      "end": 317
+    },
+    {
+      "text": "isquemia penumbrosa",
+      "type": "PATOLOGIA",
+      "start": 1212,
+      "end": 1231
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 1836,
+      "end": 1850
+    },
+    {
+      "text": "territorio de arteria cerebral anterior",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 321,
+      "end": 360
+    },
+    {
+      "text": "territorio parasagital derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1061,
+      "end": 1091
+    },
+    {
+      "text": "rama A2 derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1604,
+      "end": 1619
+    },
+    {
+      "text": "arteria cerebral anterior",
+      "type": "ARTERIA",
+      "start": 335,
+      "end": 360
+    },
+    {
+      "text": "A2 derecha",
+      "type": "ARTERIA",
+      "start": 1609,
+      "end": 1619
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 702,
+      "end": 709
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 702,
+      "end": 709
+    },
+    {
+      "text": "sin estenosis significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1504,
+      "end": 1532
+    },
+    {
+      "text": "No se evidencian hemorragias intracraneales ni signos de sangrado",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 552,
+      "end": 617
+    },
+    {
+      "text": "No se observa edema significativo ni desplazamiento de estructuras de la línea media",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 780,
+      "end": 864
+    },
+    {
+      "text": "No se visualizan aneurismas ni malformaciones vasculares",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1672,
+      "end": 1728
+    },
+    {
+      "text": "No se observan signos claros de vasoespasmo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1730,
+      "end": 1773
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 405,
+      "end": 421
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 930,
+      "end": 951
+    },
+    {
+      "text": "AngioTC intra y extracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 1345,
+      "end": 1373
+    }
+  ]
+}

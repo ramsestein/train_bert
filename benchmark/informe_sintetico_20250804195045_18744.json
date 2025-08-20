@@ -1,0 +1,107 @@
+{
+  "document_id": "informe_sintetico_20250804195045_18744",
+  "entities": [
+    {
+      "text": "infarto",
+      "type": "PATOLOGIA",
+      "start": 301,
+      "end": 308
+    },
+    {
+      "text": "watershed",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 336,
+      "end": 345
+    },
+    {
+      "text": "bilateral",
+      "type": "LATERALIDAD",
+      "start": 206,
+      "end": 215
+    },
+    {
+      "text": "disminución difusa y segmentaria del volumen sanguíneo cerebral (CBV) y del flujo sanguíneo cerebral (CBF)",
+      "type": "PATOLOGIA",
+      "start": 931,
+      "end": 1037
+    },
+    {
+      "text": "frontoparietales bilaterales y parieto-occipitales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1054,
+      "end": 1104
+    },
+    {
+      "text": "hipoperfusión subóptima",
+      "type": "PATOLOGIA",
+      "start": 1215,
+      "end": 1238
+    },
+    {
+      "text": "ACAs, ACMs y ACPs",
+      "type": "ARTERIA",
+      "start": 1378,
+      "end": 1395
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 1533,
+      "end": 1540
+    },
+    {
+      "text": "ateromatosis calcificada",
+      "type": "PATOLOGIA",
+      "start": 1483,
+      "end": 1507
+    },
+    {
+      "text": "sin estenosis significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1541,
+      "end": 1568
+    },
+    {
+      "text": "sin evidencia de estenosis arterial significativa ni hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2179,
+      "end": 2255
+    },
+    {
+      "text": "hipodensidades corticales y subcorticales",
+      "type": "PATOLOGIA",
+      "start": 1691,
+      "end": 1732
+    },
+    {
+      "text": "alteraciones perfusionales segmentarias",
+      "type": "PATOLOGIA",
+      "start": 1759,
+      "end": 1798
+    },
+    {
+      "text": "TC CRANEAL BASAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 366,
+      "end": 382
+    },
+    {
+      "text": "TC PERFUSIÓN",
+      "type": "TECNICA_IMAGEN",
+      "start": 904,
+      "end": 916
+    },
+    {
+      "text": "ANGIO-TC EXTRA E INTRACRANEAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 1243,
+      "end": 1272
+    },
+    {
+      "text": "TC código ictus",
+      "type": "TECNICA_IMAGEN",
+      "start": 1595,
+      "end": 1610
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "document_id": "informe_sintetico_20250804195045_12010",
+  "entities": [
+    {
+      "text": "isquemia vertebrobasilar aguda",
+      "type": "PATOLOGIA",
+      "start": 255,
+      "end": 285
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 771,
+      "end": 785
+    },
+    {
+      "text": "tallo cerebral",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 668,
+      "end": 682
+    },
+    {
+      "text": "tronco basilar",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1019,
+      "end": 1033
+    },
+    {
+      "text": "arterias cerebelosas posteroinferiores",
+      "type": "ARTERIA",
+      "start": 1036,
+      "end": 1074
+    },
+    {
+      "text": "arteria basilar",
+      "type": "ARTERIA",
+      "start": 1433,
+      "end": 1448
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 1623,
+      "end": 1630
+    },
+    {
+      "text": "prolongación marcada",
+      "type": "MEDIDA",
+      "start": 977,
+      "end": 997
+    },
+    {
+      "text": "extensa área de penumbra",
+      "type": "MEDIDA",
+      "start": 2393,
+      "end": 2417
+    },
+    {
+      "text": "aguda",
+      "type": "TEMPORALIDAD",
+      "start": 280,
+      "end": 285
+    },
+    {
+      "text": "sin hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1845,
+      "end": 1872
+    },
+    {
+      "text": "sin estenosis significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1357,
+      "end": 1385
+    },
+    {
+      "text": "TC craneal sin contraste",
+      "type": "TECNICA_IMAGEN",
+      "start": 306,
+      "end": 330
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 333,
+      "end": 354
+    },
+    {
+      "text": "angioTC de arterias intracraneales",
+      "type": "TECNICA_IMAGEN",
+      "start": 387,
+      "end": 421
+    }
+  ]
+}

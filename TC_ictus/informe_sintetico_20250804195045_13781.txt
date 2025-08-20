@@ -1,0 +1,31 @@
+UO_PACN (Unidad Organizativa Médica): RADIO
+
+PRUEB (Prueba solicitada): TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANG IOTC ARTERIAL INTRACRANEAL)
+
+CLIN (Resumen clínico): Paciente con antecedentes de hipertensión arterial de larga evolución y episodios previos de déficit motor transitorio, consulta por alteración cognitiva progresiva y leve hemiparesia derecha.
+
+OBSR (Protocolo): Protocolo Código Ictus que incluye TC craneal basal, estudio de perfusión cerebral y angiografía por AngioTC extra e intracraneal.
+
+RESL (Resultados):  
+TC CRANEAL BASAL:  
+No evidencia de hemorragia intra ni extraaxial. Se observan múltiples focos hipodensos puntiformes y pequeños en núcleos de la base (putamen y tálamo) y en la sustancia blanca profunda, compatibles con lesiones por infartos lacunares crónicos. Cambios difusos de leucoaraiosis en la sustancia blanca periventricular y profunda, en relación con microangiopatía crónica. Diferenciación córtico-subcortical conservada en otras regiones. Sistema ventricular con leve aumento del tamaño, probablemente secundario a atrofia supratentorial leve, simétrico y sin desplazamientos de la línea media. Cisternas basales y supraselar libres y normales.
+
+TC PERFUSIÓN CEREBRAL:  
+No se identifican áreas con alteraciones significativas en los mapas de tiempo de tránsito medio (TTP), volumen cerebral de sangre (CBV) o flujo cerebral de sangre (CBF), sin evidencia de perfusión anormal que sugiera isquemia aguda.
+
+ANGIO-TC EXTRA E INTRACRANEAL:  
+Troncos supraaórticos sin signos de estenosis significativas ni placas ateromatosas relevantes. Arterias carótidas internas, vertebrales y principales ramas intracraneales permeables, sin evidencia de estenosis ni oclusiones. Vascularización intracraneal con morfología conservada y sin signos de malformaciones vasculares.
+
+CONCL (Conclusiones):  
+Hallazgos compatibles con infartos lacunares crónicos múltiples en núcleos de la base y sustancia blanca profunda, junto con cambios de leucoaraiosis, en contexto de enfermedad de pequeños vasos cerebral crónica. No se evidencian signos de isquemia ni hemorragia aguda. Vascularización intracraneal y extracraneal sin alteraciones significativas.
+
+ACTI_ADICI (Actividad adicional):  
+
+ICON (Estudio): @RADIO_TC_ICS@ 
+
+X00DIATXT (Texto del diagnóstico ACR):  
+Infartos lacunares crónicos múltiples y alteraciones de microangiopatía cerebral, sin evidencia de isquemia aguda.
+
+EST_T_DES (Descripción): TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANGIOTC ARTERIAL INTRACRANEAL)
+
+ZVASOS_D (Der.): Informe generado y validado por radiólogo experto.

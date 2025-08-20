@@ -1,0 +1,53 @@
+{
+  "document_id": "informe_sintetico_20250804195045_15640",
+  "entities": [
+    {
+      "text": "hemorragia intra ni extraaxial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 411,
+      "end": 441
+    },
+    {
+      "text": "hipodensidad o hiperdensidad focales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 500,
+      "end": 536
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 588,
+      "end": 598
+    },
+    {
+      "text": "cambios crónicos asociados a la edad",
+      "type": "TEMPORALIDAD",
+      "start": 832,
+      "end": 868
+    },
+    {
+      "text": "infarto agudo",
+      "type": "PATOLOGIA",
+      "start": 994,
+      "end": 1007
+    },
+    {
+      "text": "arterial extra e intracraneal",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1047,
+      "end": 1076
+    },
+    {
+      "text": "ACAs, ACMs y ACPs",
+      "type": "ARTERIA",
+      "start": 1248,
+      "end": 1265
+    },
+    {
+      "text": "estenosis significativas",
+      "type": "PATOLOGIA",
+      "start": 1093,
+      "end": 1117
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "document_id": "informe_sintetico_20250804195045_07566",
+  "entities": [
+    {
+      "text": "hematoma lobar fronto-superior izquierdo",
+      "type": "PATOLOGIA",
+      "start": 444,
+      "end": 484
+    },
+    {
+      "text": "15 ml",
+      "type": "MEDIDA",
+      "start": 515,
+      "end": 520
+    },
+    {
+      "text": "4 mm",
+      "type": "MEDIDA",
+      "start": 640,
+      "end": 644
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 805,
+      "end": 814
+    },
+    {
+      "text": "No se observan fracturas de cráneo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 717,
+      "end": 751
+    },
+    {
+      "text": "sin signos de hidrocefalia aguda",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 815,
+      "end": 847
+    },
+    {
+      "text": "sin evidencias de isquemia en territorios adyacentes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1042,
+      "end": 1094
+    },
+    {
+      "text": "sin alteraciones obstructivas ni aneurismas evidentes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1564,
+      "end": 1617
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 621,
+      "end": 628
+    },
+    {
+      "text": "TC craneal basal urgente",
+      "type": "TECNICA_IMAGEN",
+      "start": 291,
+      "end": 315
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 318,
+      "end": 339
+    },
+    {
+      "text": "Angio-TC arterial intracraneal y extracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 342,
+      "end": 387
+    }
+  ]
+}

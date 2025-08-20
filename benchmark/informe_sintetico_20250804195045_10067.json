@@ -1,0 +1,113 @@
+{
+  "document_id": "informe_sintetico_20250804195045_10067",
+  "entities": [
+    {
+      "text": "infarto cerebral hemisférico izquierdo",
+      "type": "PATOLOGIA",
+      "start": 203,
+      "end": 241
+    },
+    {
+      "text": "transformación hemorrágica",
+      "type": "PATOLOGIA",
+      "start": 290,
+      "end": 316
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "ARTERIA",
+      "start": 556,
+      "end": 588
+    },
+    {
+      "text": "izquierdo",
+      "type": "LATERALIDAD",
+      "start": 232,
+      "end": 241
+    },
+    {
+      "text": "tipo HI1",
+      "type": "PUNTUACION_CLINICA",
+      "start": 632,
+      "end": 640
+    },
+    {
+      "text": "petequias hemorrágicas",
+      "type": "PATOLOGIA",
+      "start": 653,
+      "end": 675
+    },
+    {
+      "text": "infarto cerebral reciente",
+      "type": "PATOLOGIA",
+      "start": 814,
+      "end": 839
+    },
+    {
+      "text": "región frontoparietal izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 763,
+      "end": 794
+    },
+    {
+      "text": "sin hematoma intraparenquimatoso de volumen significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 676,
+      "end": 733
+    },
+    {
+      "text": "sin alteraciones de volumen ni desviación",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1035,
+      "end": 1076
+    },
+    {
+      "text": "Hipoperfusión",
+      "type": "PATOLOGIA",
+      "start": 1173,
+      "end": 1186
+    },
+    {
+      "text": "aumento moderado en el tiempo de tránsito medio (MTT)",
+      "type": "MEDIDA",
+      "start": 1227,
+      "end": 1280
+    },
+    {
+      "text": "disminución leve del flujo sanguíneo cerebral (CBF)",
+      "type": "MEDIDA",
+      "start": 1283,
+      "end": 1334
+    },
+    {
+      "text": "sin áreas de penumbra funcionalmente viables",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1392,
+      "end": 1436
+    },
+    {
+      "text": "oclusión parcial distal en ramas segmentarias izquierdas de la arteria cerebral media (M2)",
+      "type": "PATOLOGIA",
+      "start": 1528,
+      "end": 1618
+    },
+    {
+      "text": "permeable y sin estenosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1749,
+      "end": 1774
+    },
+    {
+      "text": "sin hematoma significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1914,
+      "end": 1940
+    },
+    {
+      "text": "con hipoperfusión residual",
+      "type": "PATOLOGIA",
+      "start": 1990,
+      "end": 2016
+    }
+  ]
+}

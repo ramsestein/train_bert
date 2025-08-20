@@ -1,0 +1,77 @@
+{
+  "document_id": "informe_sintetico_20250804195045_16226",
+  "entities": [
+    {
+      "text": "ictus isquémico",
+      "type": "PATOLOGIA",
+      "start": 272,
+      "end": 287
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 305,
+      "end": 337
+    },
+    {
+      "text": "ACM",
+      "type": "ARTERIA",
+      "start": 745,
+      "end": 748
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 328,
+      "end": 337
+    },
+    {
+      "text": "ASPECTS 7",
+      "type": "PUNTUACION_CLINICA",
+      "start": 822,
+      "end": 831
+    },
+    {
+      "text": "mismatch importante",
+      "type": "PATOLOGIA",
+      "start": 1301,
+      "end": 1320
+    },
+    {
+      "text": "ASPECTS 7",
+      "type": "PUNTUACION_CLINICA",
+      "start": 822,
+      "end": 831
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 305,
+      "end": 337
+    },
+    {
+      "text": "signos de hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1948,
+      "end": 1981
+    },
+    {
+      "text": "TC craneal basal sin contraste",
+      "type": "TECNICA_IMAGEN",
+      "start": 358,
+      "end": 388
+    },
+    {
+      "text": "estudio de perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 390,
+      "end": 419
+    },
+    {
+      "text": "angio-TC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 422,
+      "end": 452
+    }
+  ]
+}

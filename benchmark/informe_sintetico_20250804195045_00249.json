@@ -1,0 +1,65 @@
+{
+  "document_id": "informe_sintetico_20250804195045_00249",
+  "entities": [
+    {
+      "text": "isquemia",
+      "type": "PATOLOGIA",
+      "start": 566,
+      "end": 574
+    },
+    {
+      "text": "hemorragia",
+      "type": "PATOLOGIA",
+      "start": 576,
+      "end": 586
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 595,
+      "end": 605
+    },
+    {
+      "text": "cerebral",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 262,
+      "end": 270
+    },
+    {
+      "text": "cerebral",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 262,
+      "end": 270
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 595,
+      "end": 605
+    },
+    {
+      "text": "hemorragia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 576,
+      "end": 586
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1479,
+      "end": 1493
+    },
+    {
+      "text": "sin signos de estenosis ni placas significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1110,
+      "end": 1158
+    },
+    {
+      "text": "sin estenosis significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1598,
+      "end": 1625
+    }
+  ]
+}

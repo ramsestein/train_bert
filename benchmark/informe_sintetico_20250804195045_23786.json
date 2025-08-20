@@ -1,0 +1,101 @@
+{
+  "document_id": "informe_sintetico_20250804195045_23786",
+  "entities": [
+    {
+      "text": "infarto agudo",
+      "type": "PATOLOGIA",
+      "start": 544,
+      "end": 557
+    },
+    {
+      "text": "arteria cerebral media (ACM) derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 578,
+      "end": 614
+    },
+    {
+      "text": "ACM",
+      "type": "ARTERIA",
+      "start": 602,
+      "end": 605
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 473,
+      "end": 480
+    },
+    {
+      "text": "edema circundante",
+      "type": "PATOLOGIA",
+      "start": 634,
+      "end": 651
+    },
+    {
+      "text": "hemorragia intra ni extraaxial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 702,
+      "end": 732
+    },
+    {
+      "text": "aumento del tiempo de tránsito medio (TTP)",
+      "type": "MEDIDA",
+      "start": 938,
+      "end": 980
+    },
+    {
+      "text": "reducción del flujo cerebral sanguíneo (CBF)",
+      "type": "MEDIDA",
+      "start": 983,
+      "end": 1027
+    },
+    {
+      "text": "volumen cerebral sanguíneo (CBV) disminuido",
+      "type": "MEDIDA",
+      "start": 1068,
+      "end": 1111
+    },
+    {
+      "text": "isquémica crítica",
+      "type": "PATOLOGIA",
+      "start": 1172,
+      "end": 1189
+    },
+    {
+      "text": "disección arterial",
+      "type": "PATOLOGIA",
+      "start": 1386,
+      "end": 1404
+    },
+    {
+      "text": "arteria carótida interna derecha",
+      "type": "ARTERIA",
+      "start": 1340,
+      "end": 1372
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 473,
+      "end": 480
+    },
+    {
+      "text": "arteria cerebral media derecha proximal",
+      "type": "ARTERIA",
+      "start": 1515,
+      "end": 1554
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2007,
+      "end": 2030
+    },
+    {
+      "text": "efecto de masa significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 656,
+      "end": 684
+    }
+  ]
+}

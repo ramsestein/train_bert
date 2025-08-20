@@ -1,0 +1,65 @@
+{
+  "document_id": "informe_sintetico_20250804195045_05080",
+  "entities": [
+    {
+      "text": "oclusión arterial",
+      "type": "PATOLOGIA",
+      "start": 323,
+      "end": 340
+    },
+    {
+      "text": "tronco encefálico",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 825,
+      "end": 842
+    },
+    {
+      "text": "cerebelo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1041,
+      "end": 1049
+    },
+    {
+      "text": "arteria basilar",
+      "type": "ARTERIA",
+      "start": 1262,
+      "end": 1277
+    },
+    {
+      "text": "bilateralmente",
+      "type": "LATERALIDAD",
+      "start": 1368,
+      "end": 1382
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 1419,
+      "end": 1426
+    },
+    {
+      "text": "aguda",
+      "type": "TEMPORALIDAD",
+      "start": 1658,
+      "end": 1663
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 624,
+      "end": 647
+    },
+    {
+      "text": "signos de infarto establecido",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 747,
+      "end": 776
+    },
+    {
+      "text": "sin estenosis ni oclusiones significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1508,
+      "end": 1550
+    }
+  ]
+}

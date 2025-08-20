@@ -1,0 +1,59 @@
+{
+  "document_id": "informe_sintetico_20250804195045_22270",
+  "entities": [
+    {
+      "text": "hemorragia subaracnoidea focal",
+      "type": "PATOLOGIA",
+      "start": 432,
+      "end": 462
+    },
+    {
+      "text": "cisterna perimesencefálica derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 481,
+      "end": 515
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 661,
+      "end": 671
+    },
+    {
+      "text": "Arterias cerebrales principales",
+      "type": "ARTERIA",
+      "start": 873,
+      "end": 904
+    },
+    {
+      "text": "sin signos de estenosis ni aneurismas detectables",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 917,
+      "end": 966
+    },
+    {
+      "text": "sin áreas de isquemia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1464,
+      "end": 1485
+    },
+    {
+      "text": "TC CRANEAL BASAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 258,
+      "end": 274
+    },
+    {
+      "text": "ANGIO-TC INTRACRANEAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 277,
+      "end": 298
+    },
+    {
+      "text": "TC PERFUSIÓN CEREBRAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 301,
+      "end": 322
+    }
+  ]
+}

@@ -1,0 +1,233 @@
+{
+  "document_id": "informe_sintetico_20250804195045_24399",
+  "entities": [
+    {
+      "text": "infarto cerebral agudo",
+      "type": "PATOLOGIA",
+      "start": 195,
+      "end": 217
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "ARTERIA",
+      "start": 238,
+      "end": 268
+    },
+    {
+      "text": "transformación hemorrágica",
+      "type": "PATOLOGIA",
+      "start": 292,
+      "end": 318
+    },
+    {
+      "text": "grado HI2",
+      "type": "PUNTUACION_CLINICA",
+      "start": 653,
+      "end": 662
+    },
+    {
+      "text": "región fronto-parietal",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 696,
+      "end": 718
+    },
+    {
+      "text": "sustancia blanca subyacente",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 739,
+      "end": 766
+    },
+    {
+      "text": "45 x 38 x 33 mm",
+      "type": "MEDIDA",
+      "start": 799,
+      "end": 814
+    },
+    {
+      "text": "4 mm",
+      "type": "MEDIDA",
+      "start": 974,
+      "end": 978
+    },
+    {
+      "text": "isquemia reciente",
+      "type": "PATOLOGIA",
+      "start": 1099,
+      "end": 1116
+    },
+    {
+      "text": "fracturas óseas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1223,
+      "end": 1238
+    },
+    {
+      "text": "colecciones extraaxiales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1242,
+      "end": 1266
+    },
+    {
+      "text": "ventriculares levemente comprimidos",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1277,
+      "end": 1312
+    },
+    {
+      "text": "hemisferio derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1319,
+      "end": 1337
+    },
+    {
+      "text": "hidrocefalia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1353,
+      "end": 1365
+    },
+    {
+      "text": "disminución importante del flujo sanguíneo cerebral",
+      "type": "PATOLOGIA",
+      "start": 1393,
+      "end": 1444
+    },
+    {
+      "text": "volumen cerebral",
+      "type": "PATOLOGIA",
+      "start": 1453,
+      "end": 1469
+    },
+    {
+      "text": "tiempos de tránsito",
+      "type": "TEMPORALIDAD",
+      "start": 1521,
+      "end": 1540
+    },
+    {
+      "text": "infarto establecido",
+      "type": "PATOLOGIA",
+      "start": 1563,
+      "end": 1582
+    },
+    {
+      "text": "penumbra cortical limitada",
+      "type": "PATOLOGIA",
+      "start": 1594,
+      "end": 1620
+    },
+    {
+      "text": "Oclusión parcial segmentaria",
+      "type": "PATOLOGIA",
+      "start": 1653,
+      "end": 1681
+    },
+    {
+      "text": "arteria cerebral media derecha proximal (M1)",
+      "type": "ARTERIA",
+      "start": 1688,
+      "end": 1732
+    },
+    {
+      "text": "flujo distal limitado",
+      "type": "PATOLOGIA",
+      "start": 1737,
+      "end": 1758
+    },
+    {
+      "text": "recanalización completa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1776,
+      "end": 1799
+    },
+    {
+      "text": "arterias cerebrales principales",
+      "type": "ARTERIA",
+      "start": 1811,
+      "end": 1842
+    },
+    {
+      "text": "ACAs, ACPs",
+      "type": "ARTERIA",
+      "start": 1844,
+      "end": 1854
+    },
+    {
+      "text": "permeables sin estenosis significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1860,
+      "end": 1898
+    },
+    {
+      "text": "Sistema vertebrobasilar",
+      "type": "ARTERIA",
+      "start": 1900,
+      "end": 1923
+    },
+    {
+      "text": "permeable",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1860,
+      "end": 1869
+    },
+    {
+      "text": "malformaciones vasculares",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1950,
+      "end": 1975
+    },
+    {
+      "text": "aneurismas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1979,
+      "end": 1989
+    },
+    {
+      "text": "transformación hemorrágica grado HI2",
+      "type": "PATOLOGIA",
+      "start": 626,
+      "end": 662
+    },
+    {
+      "text": "hematoma intraparenquimatoso heterogéneo",
+      "type": "PATOLOGIA",
+      "start": 2120,
+      "end": 2160
+    },
+    {
+      "text": "edema asociado",
+      "type": "PATOLOGIA",
+      "start": 2163,
+      "end": 2177
+    },
+    {
+      "text": "efecto de masa leve",
+      "type": "PATOLOGIA",
+      "start": 2191,
+      "end": 2210
+    },
+    {
+      "text": "desplazamiento de línea media",
+      "type": "PATOLOGIA",
+      "start": 2213,
+      "end": 2242
+    },
+    {
+      "text": "área limitada de penumbra",
+      "type": "PATOLOGIA",
+      "start": 2293,
+      "end": 2318
+    },
+    {
+      "text": "Oclusión parcial de segmento M1 de ACM derecha",
+      "type": "PATOLOGIA",
+      "start": 2320,
+      "end": 2366
+    },
+    {
+      "text": "sin recanalización",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2367,
+      "end": 2385
+    }
+  ]
+}

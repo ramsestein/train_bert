@@ -1,0 +1,83 @@
+{
+  "document_id": "informe_sintetico_20250804195045_06208",
+  "entities": [
+    {
+      "text": "hemorragia subaracnoidea difusa",
+      "type": "PATOLOGIA",
+      "start": 284,
+      "end": 315
+    },
+    {
+      "text": "mFisher 4",
+      "type": "PUNTUACION_CLINICA",
+      "start": 746,
+      "end": 755
+    },
+    {
+      "text": "No se identifican hematomas intraparenquimatosos ni hemorragias intraventriculares asociadas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 758,
+      "end": 850
+    },
+    {
+      "text": "cisternas perimesencefálicas",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 959,
+      "end": 987
+    },
+    {
+      "text": "sistema ventricular",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1013,
+      "end": 1032
+    },
+    {
+      "text": "reducción difusa del flujo sanguíneo cerebral",
+      "type": "PATOLOGIA",
+      "start": 1125,
+      "end": 1170
+    },
+    {
+      "text": "6 mm",
+      "type": "MEDIDA",
+      "start": 1346,
+      "end": 1350
+    },
+    {
+      "text": "arteria comunicante anterior",
+      "type": "ARTERIA",
+      "start": 1357,
+      "end": 1385
+    },
+    {
+      "text": "No se observan vasoespasmos significativos en los grandes vasos intracraneales al momento del estudio",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1439,
+      "end": 1540
+    },
+    {
+      "text": "Sin evidencia de complicaciones hemorrágicas adicionales ni desplazamientos de línea media",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1794,
+      "end": 1884
+    },
+    {
+      "text": "Perfusión cerebral globalmente disminuida sin áreas focales de isquemia",
+      "type": "PATOLOGIA",
+      "start": 1886,
+      "end": 1957
+    },
+    {
+      "text": "Sin vasoespasmo angiográfico detectable",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1959,
+      "end": 1998
+    },
+    {
+      "text": "TC craneal basal sin contraste, seguida de perfusión cerebral y angiografía por TC arterial intracraneal urgente",
+      "type": "TECNICA_IMAGEN",
+      "start": 373,
+      "end": 485
+    }
+  ]
+}

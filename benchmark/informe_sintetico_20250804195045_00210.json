@@ -1,0 +1,113 @@
+{
+  "document_id": "informe_sintetico_20250804195045_00210",
+  "entities": [
+    {
+      "text": "edema cerebral difuso",
+      "type": "PATOLOGIA",
+      "start": 595,
+      "end": 616
+    },
+    {
+      "text": "disminución difusa de la diferenciación cortico-subcortical",
+      "type": "PATOLOGIA",
+      "start": 469,
+      "end": 528
+    },
+    {
+      "text": "hipertensión intracraneal",
+      "type": "PATOLOGIA",
+      "start": 810,
+      "end": 835
+    },
+    {
+      "text": "prolongación del tiempo de tránsito medio (MTT)",
+      "type": "PATOLOGIA",
+      "start": 914,
+      "end": 961
+    },
+    {
+      "text": "aumento del tiempo hasta el pico (TTP)",
+      "type": "PATOLOGIA",
+      "start": 964,
+      "end": 1002
+    },
+    {
+      "text": "descenso moderado del flujo cerebral (CBF)",
+      "type": "PATOLOGIA",
+      "start": 1077,
+      "end": 1119
+    },
+    {
+      "text": "volumen cerebral (CBV)",
+      "type": "PATOLOGIA",
+      "start": 1124,
+      "end": 1146
+    },
+    {
+      "text": "encefalopatía hipóxico-isquémica",
+      "type": "PATOLOGIA",
+      "start": 218,
+      "end": 250
+    },
+    {
+      "text": "hemorragias",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1738,
+      "end": 1749
+    },
+    {
+      "text": "signos de infarto consolidado",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1753,
+      "end": 1782
+    },
+    {
+      "text": "ambas regiones watershed",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 554,
+      "end": 578
+    },
+    {
+      "text": "áreas corticales bilaterales frontoparietales y occipitales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1012,
+      "end": 1071
+    },
+    {
+      "text": "ACAs, ACMs y ACPs",
+      "type": "ARTERIA",
+      "start": 1295,
+      "end": 1312
+    },
+    {
+      "text": "bilateral",
+      "type": "LATERALIDAD",
+      "start": 1029,
+      "end": 1038
+    },
+    {
+      "text": "sin estenosis ni oclusiones evidentes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1349,
+      "end": 1386
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 270,
+      "end": 286
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 289,
+      "end": 310
+    },
+    {
+      "text": "Angio-TC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 313,
+      "end": 343
+    }
+  ]
+}

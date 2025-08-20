@@ -1,0 +1,95 @@
+{
+  "document_id": "informe_sintetico_20250804195045_00398",
+  "entities": [
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 280,
+      "end": 294
+    },
+    {
+      "text": "arteria cerebral anterior",
+      "type": "ARTERIA",
+      "start": 312,
+      "end": 337
+    },
+    {
+      "text": "izquierdo",
+      "type": "LATERALIDAD",
+      "start": 630,
+      "end": 639
+    },
+    {
+      "text": "hipodensidad",
+      "type": "PATOLOGIA",
+      "start": 578,
+      "end": 590
+    },
+    {
+      "text": "lóbulo frontal izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 615,
+      "end": 639
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 280,
+      "end": 294
+    },
+    {
+      "text": "arteria cerebral anterior izquierda",
+      "type": "ARTERIA",
+      "start": 739,
+      "end": 774
+    },
+    {
+      "text": "ASPECTS modificado para ACA: 8",
+      "type": "PUNTUACION_CLINICA",
+      "start": 776,
+      "end": 806
+    },
+    {
+      "text": "Oclusión parcial",
+      "type": "PATOLOGIA",
+      "start": 1212,
+      "end": 1228
+    },
+    {
+      "text": "segmento A2 de arteria cerebral anterior izquierda",
+      "type": "ARTERIA",
+      "start": 1233,
+      "end": 1283
+    },
+    {
+      "text": "No se identifican hemorragias intra ni extraaxiales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 514,
+      "end": 565
+    },
+    {
+      "text": "No hay efecto masa ni desviación de líneas medias",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 808,
+      "end": 857
+    },
+    {
+      "text": "No se visualizan placas ulceradas ni trombos en grandes vasos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1377,
+      "end": 1438
+    },
+    {
+      "text": "No se observan otras alteraciones vasculares relevantes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1477,
+      "end": 1532
+    },
+    {
+      "text": "No se visualizan complicaciones hemorrágicas ni edema significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1780,
+      "end": 1847
+    }
+  ]
+}

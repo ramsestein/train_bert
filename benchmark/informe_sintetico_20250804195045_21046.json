@@ -1,0 +1,131 @@
+{
+  "document_id": "informe_sintetico_20250804195045_21046",
+  "entities": [
+    {
+      "text": "isquemia",
+      "type": "PATOLOGIA",
+      "start": 268,
+      "end": 276
+    },
+    {
+      "text": "territorio vertebrobasilar",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 280,
+      "end": 306
+    },
+    {
+      "text": "TTP",
+      "type": "MEDIDA",
+      "start": 405,
+      "end": 408
+    },
+    {
+      "text": "CBV",
+      "type": "MEDIDA",
+      "start": 410,
+      "end": 413
+    },
+    {
+      "text": "CBF",
+      "type": "MEDIDA",
+      "start": 416,
+      "end": 419
+    },
+    {
+      "text": "bilateral",
+      "type": "LATERALIDAD",
+      "start": 944,
+      "end": 953
+    },
+    {
+      "text": "izquierdo",
+      "type": "LATERALIDAD",
+      "start": 990,
+      "end": 999
+    },
+    {
+      "text": "tallo cerebral",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1084,
+      "end": 1098
+    },
+    {
+      "text": "penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1147,
+      "end": 1165
+    },
+    {
+      "text": "estenosis crítica (>90%)",
+      "type": "PATOLOGIA",
+      "start": 1242,
+      "end": 1266
+    },
+    {
+      "text": "arteria vertebral izquierda",
+      "type": "ARTERIA",
+      "start": 1291,
+      "end": 1318
+    },
+    {
+      "text": "oclusión parcial de la arteria basilar proximal",
+      "type": "PATOLOGIA",
+      "start": 1321,
+      "end": 1368
+    },
+    {
+      "text": "arteria basilar proximal",
+      "type": "ARTERIA",
+      "start": 1344,
+      "end": 1368
+    },
+    {
+      "text": "No se identifican hemorragias ni colecciones extraaxiales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 534,
+      "end": 591
+    },
+    {
+      "text": "No se observan trombos flotantes ni embolismos múltiples",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1470,
+      "end": 1526
+    },
+    {
+      "text": "No evidencia de hemorragia ni infarto establecido",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1739,
+      "end": 1788
+    },
+    {
+      "text": "fase aguda",
+      "type": "TEMPORALIDAD",
+      "start": 1816,
+      "end": 1826
+    },
+    {
+      "text": "aguda",
+      "type": "TEMPORALIDAD",
+      "start": 1702,
+      "end": 1707
+    },
+    {
+      "text": "recomendándose valoración urgente para tratamiento endovascular y manejo neurológico intensivista",
+      "type": "PUNTUACION_CLINICA",
+      "start": 1856,
+      "end": 1953
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 327,
+      "end": 343
+    },
+    {
+      "text": "AngioTC arterial extra e intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 421,
+      "end": 458
+    }
+  ]
+}

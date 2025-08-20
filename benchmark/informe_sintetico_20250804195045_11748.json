@@ -1,0 +1,53 @@
+{
+  "document_id": "informe_sintetico_20250804195045_11748",
+  "entities": [
+    {
+      "text": "microhemorragias múltiples",
+      "type": "PATOLOGIA",
+      "start": 603,
+      "end": 629
+    },
+    {
+      "text": "sustancia blanca subcortical",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 533,
+      "end": 561
+    },
+    {
+      "text": "núcleos de la base",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 567,
+      "end": 585
+    },
+    {
+      "text": "1 a 3 mm",
+      "type": "MEDIDA",
+      "start": 508,
+      "end": 516
+    },
+    {
+      "text": "sin alteraciones significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1006,
+      "end": 1037
+    },
+    {
+      "text": "sin evidencia de hipoperfusión focal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1039,
+      "end": 1075
+    },
+    {
+      "text": "sin estenosis ni signos de disección",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1188,
+      "end": 1224
+    },
+    {
+      "text": "sin evidencia de hemorragia activa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1782,
+      "end": 1816
+    }
+  ]
+}

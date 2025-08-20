@@ -1,0 +1,119 @@
+{
+  "document_id": "informe_sintetico_20250804195045_12252",
+  "entities": [
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 445,
+      "end": 468
+    },
+    {
+      "text": "lesiones isquémicas agudas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 472,
+      "end": 498
+    },
+    {
+      "text": "cortico-subcortical",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 518,
+      "end": 537
+    },
+    {
+      "text": "ambos hemisferios",
+      "type": "LATERALIDAD",
+      "start": 557,
+      "end": 574
+    },
+    {
+      "text": "pequeñas áreas de hipodensidad periventriculares",
+      "type": "PATOLOGIA",
+      "start": 588,
+      "end": 636
+    },
+    {
+      "text": "leucoaraiosis leve",
+      "type": "PATOLOGIA",
+      "start": 639,
+      "end": 657
+    },
+    {
+      "text": "cambios crónicos vasculares",
+      "type": "PATOLOGIA",
+      "start": 674,
+      "end": 701
+    },
+    {
+      "text": "sin alteraciones",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 857,
+      "end": 873
+    },
+    {
+      "text": "sin evidencia de áreas con retraso en el tiempo de tránsito o disminución del flujo cerebral",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 924,
+      "end": 1016
+    },
+    {
+      "text": "mismatch significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1032,
+      "end": 1054
+    },
+    {
+      "text": "calcificación leve en el segmento proximal de arterias carótidas internas",
+      "type": "PATOLOGIA",
+      "start": 1192,
+      "end": 1265
+    },
+    {
+      "text": "ateromatosis incipiente",
+      "type": "PATOLOGIA",
+      "start": 1282,
+      "end": 1305
+    },
+    {
+      "text": "sin signos de disección ni malformaciones vasculares",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1342,
+      "end": 1394
+    },
+    {
+      "text": "sin evidencia de patología isquémica o hemorrágica aguda",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1427,
+      "end": 1483
+    },
+    {
+      "text": "sin repercusión estructural ni funcional detectada",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1575,
+      "end": 1625
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 1627,
+      "end": 1637
+    },
+    {
+      "text": "TC craneal sin contraste",
+      "type": "TECNICA_IMAGEN",
+      "start": 268,
+      "end": 292
+    },
+    {
+      "text": "estudio de perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 294,
+      "end": 323
+    },
+    {
+      "text": "angio-TC de arterias intracraneales y supraaórticas",
+      "type": "TECNICA_IMAGEN",
+      "start": 326,
+      "end": 377
+    }
+  ]
+}

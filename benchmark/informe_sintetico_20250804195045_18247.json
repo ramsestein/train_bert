@@ -1,0 +1,155 @@
+{
+  "document_id": "informe_sintetico_20250804195045_18247",
+  "entities": [
+    {
+      "text": "hematoma lobar frontal derecho",
+      "type": "PATOLOGIA",
+      "start": 480,
+      "end": 510
+    },
+    {
+      "text": "3.5 x 2.8 cm",
+      "type": "MEDIDA",
+      "start": 530,
+      "end": 542
+    },
+    {
+      "text": "sangrado subagudo",
+      "type": "PATOLOGIA",
+      "start": 591,
+      "end": 608
+    },
+    {
+      "text": "efecto de masa",
+      "type": "PATOLOGIA",
+      "start": 628,
+      "end": 642
+    },
+    {
+      "text": "4 mm",
+      "type": "MEDIDA",
+      "start": 683,
+      "end": 687
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 697,
+      "end": 706
+    },
+    {
+      "text": "Diferenciación cortico-subcortical parcialmente alterada",
+      "type": "PATOLOGIA",
+      "start": 789,
+      "end": 845
+    },
+    {
+      "text": "ventrículo lateral derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 926,
+      "end": 952
+    },
+    {
+      "text": "leve compresión",
+      "type": "PATOLOGIA",
+      "start": 904,
+      "end": 919
+    },
+    {
+      "text": "reducción localizada del flujo cerebral",
+      "type": "PATOLOGIA",
+      "start": 1107,
+      "end": 1146
+    },
+    {
+      "text": "lóbulo frontal derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1153,
+      "end": 1175
+    },
+    {
+      "text": "TTP",
+      "type": "PUNTUACION_CLINICA",
+      "start": 1220,
+      "end": 1223
+    },
+    {
+      "text": "reducción del volumen cerebral",
+      "type": "PATOLOGIA",
+      "start": 1227,
+      "end": 1257
+    },
+    {
+      "text": "hipoperfusión isquémica",
+      "type": "PATOLOGIA",
+      "start": 1305,
+      "end": 1328
+    },
+    {
+      "text": "Arterias principales intracraneales",
+      "type": "ARTERIA",
+      "start": 1397,
+      "end": 1432
+    },
+    {
+      "text": "estenosis ni oclusiones",
+      "type": "PATOLOGIA",
+      "start": 1461,
+      "end": 1484
+    },
+    {
+      "text": "malformaciones vasculares",
+      "type": "PATOLOGIA",
+      "start": 1501,
+      "end": 1526
+    },
+    {
+      "text": "vasculitis",
+      "type": "PATOLOGIA",
+      "start": 1540,
+      "end": 1550
+    },
+    {
+      "text": "estenosis significativas",
+      "type": "PATOLOGIA",
+      "start": 1594,
+      "end": 1618
+    },
+    {
+      "text": "lesiones ateromatosas relevantes",
+      "type": "PATOLOGIA",
+      "start": 1621,
+      "end": 1653
+    },
+    {
+      "text": "Hematoma lobar frontal",
+      "type": "PATOLOGIA",
+      "start": 1682,
+      "end": 1704
+    },
+    {
+      "text": "efecto de masa",
+      "type": "PATOLOGIA",
+      "start": 628,
+      "end": 642
+    },
+    {
+      "text": "alteración regional de perfusión cerebral",
+      "type": "PATOLOGIA",
+      "start": 2287,
+      "end": 2328
+    },
+    {
+      "text": "AngioTC sin signos de malformación vascular ni estenosis arterial intracraneal relevante",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1917,
+      "end": 2005
+    },
+    {
+      "text": "TC cerebral con perfusión y angioTC",
+      "type": "TECNICA_IMAGEN",
+      "start": 2167,
+      "end": 2202
+    }
+  ]
+}

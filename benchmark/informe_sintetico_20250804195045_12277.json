@@ -1,0 +1,71 @@
+{
+  "document_id": "informe_sintetico_20250804195045_12277",
+  "entities": [
+    {
+      "text": "hematoma subdural agudo",
+      "type": "PATOLOGIA",
+      "start": 301,
+      "end": 324
+    },
+    {
+      "text": "región subdural hemisférica derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 584,
+      "end": 619
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 612,
+      "end": 619
+    },
+    {
+      "text": "12 mm",
+      "type": "MEDIDA",
+      "start": 746,
+      "end": 751
+    },
+    {
+      "text": "6 mm",
+      "type": "MEDIDA",
+      "start": 920,
+      "end": 924
+    },
+    {
+      "text": "agudo",
+      "type": "TEMPORALIDAD",
+      "start": 319,
+      "end": 324
+    },
+    {
+      "text": "No se aprecian signos de hemorragia intracerebral parenquimatosa asociada ni hemorragia intraventricular",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 926,
+      "end": 1030
+    },
+    {
+      "text": "No se evidencian signos de estenosis, oclusión o disección en arterias intracraneales ni extracraneales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1509,
+      "end": 1612
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 345,
+      "end": 361
+    },
+    {
+      "text": "TC PERFUSIÓN",
+      "type": "TECNICA_IMAGEN",
+      "start": 1149,
+      "end": 1161
+    },
+    {
+      "text": "ANGIO-TC EXTRA E INTRACRANEAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 1478,
+      "end": 1507
+    }
+  ]
+}

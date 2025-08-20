@@ -1,0 +1,83 @@
+{
+  "document_id": "informe_sintetico_20250804195045_05964",
+  "entities": [
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 245,
+      "end": 259
+    },
+    {
+      "text": "arteria cerebral media",
+      "type": "ARTERIA",
+      "start": 277,
+      "end": 299
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 640,
+      "end": 647
+    },
+    {
+      "text": "M2/M3",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 608,
+      "end": 613
+    },
+    {
+      "text": "ASPECTS 9",
+      "type": "PUNTUACION_CLINICA",
+      "start": 865,
+      "end": 874
+    },
+    {
+      "text": "isquemia en etapa muy precoz",
+      "type": "PATOLOGIA",
+      "start": 663,
+      "end": 691
+    },
+    {
+      "text": "M2",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 608,
+      "end": 610
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 640,
+      "end": 647
+    },
+    {
+      "text": "oclusión trombótica o embólica",
+      "type": "PATOLOGIA",
+      "start": 1317,
+      "end": 1347
+    },
+    {
+      "text": "sin evidencia de infarto establecido extenso",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1808,
+      "end": 1852
+    },
+    {
+      "text": "aumento del tiempo de tránsito medio (TTP)",
+      "type": "MEDIDA",
+      "start": 962,
+      "end": 1004
+    },
+    {
+      "text": "disminución del flujo cerebral (CBF)",
+      "type": "MEDIDA",
+      "start": 1007,
+      "end": 1043
+    },
+    {
+      "text": "volumen cerebral (CBV) preservado",
+      "type": "MEDIDA",
+      "start": 1077,
+      "end": 1110
+    }
+  ]
+}

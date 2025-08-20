@@ -1,0 +1,65 @@
+{
+  "document_id": "informe_sintetico_20250804195045_23179",
+  "entities": [
+    {
+      "text": "isquémica",
+      "type": "PATOLOGIA",
+      "start": 524,
+      "end": 533
+    },
+    {
+      "text": "hemorrágica",
+      "type": "PATOLOGIA",
+      "start": 537,
+      "end": 548
+    },
+    {
+      "text": "microangiopatía crónica",
+      "type": "PATOLOGIA",
+      "start": 647,
+      "end": 670
+    },
+    {
+      "text": "ASPECTS 10/10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 474,
+      "end": 487
+    },
+    {
+      "text": "TC craneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 297,
+      "end": 307
+    },
+    {
+      "text": "TC perfusión",
+      "type": "TECNICA_IMAGEN",
+      "start": 324,
+      "end": 336
+    },
+    {
+      "text": "angio-TC arterial",
+      "type": "TECNICA_IMAGEN",
+      "start": 348,
+      "end": 365
+    },
+    {
+      "text": "sin hallazgos de patología aguda",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1371,
+      "end": 1403
+    },
+    {
+      "text": "sin evidencia de isquemia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1538,
+      "end": 1563
+    },
+    {
+      "text": "sin estenosis significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1233,
+      "end": 1260
+    }
+  ]
+}

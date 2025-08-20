@@ -1,0 +1,89 @@
+{
+  "document_id": "informe_sintetico_20250804195045_11790",
+  "entities": [
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 274,
+      "end": 288
+    },
+    {
+      "text": "arteria cerebral posterior derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 306,
+      "end": 340
+    },
+    {
+      "text": "ASPECTS 9",
+      "type": "PUNTUACION_CLINICA",
+      "start": 770,
+      "end": 779
+    },
+    {
+      "text": "territorio occipital derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 737,
+      "end": 765
+    },
+    {
+      "text": "arteria cerebral posterior derecha",
+      "type": "ARTERIA",
+      "start": 306,
+      "end": 340
+    },
+    {
+      "text": "segmento P2 de la arteria cerebral posterior derecha",
+      "type": "ARTERIA",
+      "start": 1458,
+      "end": 1510
+    },
+    {
+      "text": "Oclusión completa",
+      "type": "PATOLOGIA",
+      "start": 1436,
+      "end": 1453
+    },
+    {
+      "text": "Oclusión focal",
+      "type": "PATOLOGIA",
+      "start": 1926,
+      "end": 1940
+    },
+    {
+      "text": "No se evidencian signos de hemorragia intra ni extraaxial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 619,
+      "end": 676
+    },
+    {
+      "text": "No se observan signos de hemorragia ni efecto masa mayor",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1989,
+      "end": 2045
+    },
+    {
+      "text": "técnica volumétrica y máxima resolución vascular",
+      "type": "TECNICA_IMAGEN",
+      "start": 527,
+      "end": 575
+    },
+    {
+      "text": "disminución del flujo sanguíneo cerebral",
+      "type": "PATOLOGIA",
+      "start": 1144,
+      "end": 1184
+    },
+    {
+      "text": "volumen cerebral de sangre (CBV) preservado",
+      "type": "PATOLOGIA",
+      "start": 1193,
+      "end": 1236
+    },
+    {
+      "text": "sin signos de estenosis ni arterioesclerosis significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1614,
+      "end": 1672
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "document_id": "informe_sintetico_20250804195045_01748",
+  "entities": [
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 665,
+      "end": 679
+    },
+    {
+      "text": "protuberancia",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 546,
+      "end": 559
+    },
+    {
+      "text": "mesencéfalo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 562,
+      "end": 573
+    },
+    {
+      "text": "arteria basilar proximal",
+      "type": "ARTERIA",
+      "start": 1198,
+      "end": 1222
+    },
+    {
+      "text": "vertebro-basilar",
+      "type": "ARTERIA",
+      "start": 984,
+      "end": 1000
+    },
+    {
+      "text": "aguda",
+      "type": "TEMPORALIDAD",
+      "start": 486,
+      "end": 491
+    },
+    {
+      "text": "TTP",
+      "type": "MEDIDA",
+      "start": 928,
+      "end": 931
+    },
+    {
+      "text": "CBF",
+      "type": "MEDIDA",
+      "start": 965,
+      "end": 968
+    },
+    {
+      "text": "CBV",
+      "type": "MEDIDA",
+      "start": 1049,
+      "end": 1052
+    },
+    {
+      "text": "sin flujo distal visible",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1224,
+      "end": 1248
+    },
+    {
+      "text": "No se identifican estenosis significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1304,
+      "end": 1346
+    },
+    {
+      "text": "No se observan malformaciones vasculares ni trombosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1428,
+      "end": 1481
+    },
+    {
+      "text": "No se observan hemorragias asociadas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1770,
+      "end": 1806
+    }
+  ]
+}

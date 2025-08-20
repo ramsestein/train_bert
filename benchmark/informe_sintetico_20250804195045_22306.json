@@ -1,0 +1,131 @@
+{
+  "document_id": "informe_sintetico_20250804195045_22306",
+  "entities": [
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 238,
+      "end": 252
+    },
+    {
+      "text": "arteria cerebral posterior izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 270,
+      "end": 306
+    },
+    {
+      "text": "lóbulo occipital izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 647,
+      "end": 673
+    },
+    {
+      "text": "ASPECTS",
+      "type": "PUNTUACION_CLINICA",
+      "start": 778,
+      "end": 785
+    },
+    {
+      "text": "7/10",
+      "type": "MEDIDA",
+      "start": 807,
+      "end": 811
+    },
+    {
+      "text": "tiempo de tránsito medio (MTT)",
+      "type": "MEDIDA",
+      "start": 997,
+      "end": 1027
+    },
+    {
+      "text": "tiempo hasta el pico (Tmax)",
+      "type": "MEDIDA",
+      "start": 1030,
+      "end": 1057
+    },
+    {
+      "text": "flujo sanguíneo cerebral (CBF)",
+      "type": "MEDIDA",
+      "start": 1076,
+      "end": 1106
+    },
+    {
+      "text": "volumen sanguíneo cerebral (CBV)",
+      "type": "MEDIDA",
+      "start": 1124,
+      "end": 1156
+    },
+    {
+      "text": "penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1199,
+      "end": 1217
+    },
+    {
+      "text": "Oclusión segmentaria",
+      "type": "PATOLOGIA",
+      "start": 1356,
+      "end": 1376
+    },
+    {
+      "text": "arteria cerebral posterior proximal izquierda (P1-P2)",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1400,
+      "end": 1453
+    },
+    {
+      "text": "arterias vertebrales",
+      "type": "ARTERIA",
+      "start": 1485,
+      "end": 1505
+    },
+    {
+      "text": "Sistema vertebrobasilar",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1635,
+      "end": 1658
+    },
+    {
+      "text": "Isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 1734,
+      "end": 1748
+    },
+    {
+      "text": "arteria cerebral posterior izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 270,
+      "end": 306
+    },
+    {
+      "text": "penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1199,
+      "end": 1217
+    },
+    {
+      "text": "Oclusión arterial proximal",
+      "type": "PATOLOGIA",
+      "start": 1894,
+      "end": 1920
+    },
+    {
+      "text": "segmento P1-P2 de ACP izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1924,
+      "end": 1955
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1969,
+      "end": 1992
+    },
+    {
+      "text": "signos de infarto establecido extenso",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1999,
+      "end": 2036
+    }
+  ]
+}

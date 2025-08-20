@@ -1,0 +1,95 @@
+{
+  "document_id": "informe_sintetico_20250804195045_18971",
+  "entities": [
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 549,
+      "end": 563
+    },
+    {
+      "text": "ASPECTS 6",
+      "type": "PUNTUACION_CLINICA",
+      "start": 605,
+      "end": 614
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 502,
+      "end": 534
+    },
+    {
+      "text": "ACM izquierda",
+      "type": "ARTERIA",
+      "start": 677,
+      "end": 690
+    },
+    {
+      "text": "M1",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 668,
+      "end": 670
+    },
+    {
+      "text": "oclusión completa",
+      "type": "PATOLOGIA",
+      "start": 1294,
+      "end": 1311
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "ARTERIA",
+      "start": 502,
+      "end": 534
+    },
+    {
+      "text": "No evidencia de hemorragia intraparenquimatosa ni extraaxial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 727,
+      "end": 787
+    },
+    {
+      "text": "No hay hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1800,
+      "end": 1830
+    },
+    {
+      "text": "penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1217,
+      "end": 1235
+    },
+    {
+      "text": "núcleo de infarto",
+      "type": "PATOLOGIA",
+      "start": 1238,
+      "end": 1255
+    },
+    {
+      "text": "protocolo urgente de código ictus",
+      "type": "TECNICA_IMAGEN",
+      "start": 280,
+      "end": 313
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 326,
+      "end": 342
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 358,
+      "end": 379
+    },
+    {
+      "text": "angio-TC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 382,
+      "end": 412
+    }
+  ]
+}

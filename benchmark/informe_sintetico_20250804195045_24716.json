@@ -1,0 +1,89 @@
+{
+  "document_id": "informe_sintetico_20250804195045_24716",
+  "entities": [
+    {
+      "text": "hematoma lobar de localización frontal izquierda",
+      "type": "PATOLOGIA",
+      "start": 476,
+      "end": 524
+    },
+    {
+      "text": "frontal izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 507,
+      "end": 524
+    },
+    {
+      "text": "3.5 x 2.8 cm",
+      "type": "MEDIDA",
+      "start": 545,
+      "end": 557
+    },
+    {
+      "text": "6 mm",
+      "type": "MEDIDA",
+      "start": 627,
+      "end": 631
+    },
+    {
+      "text": "aguda",
+      "type": "TEMPORALIDAD",
+      "start": 874,
+      "end": 879
+    },
+    {
+      "text": "sin signos de isquemia aguda",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 851,
+      "end": 879
+    },
+    {
+      "text": "discreta disminución del flujo sanguíneo cerebral (CBF)",
+      "type": "PATOLOGIA",
+      "start": 1006,
+      "end": 1061
+    },
+    {
+      "text": "sin datos de isquemia penumbra",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1210,
+      "end": 1240
+    },
+    {
+      "text": "sin estenosis ni oclusiones",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1443,
+      "end": 1470
+    },
+    {
+      "text": "Hematoma lobar frontal izquierdo de tamaño moderado",
+      "type": "PATOLOGIA",
+      "start": 1533,
+      "end": 1584
+    },
+    {
+      "text": "TC craneal basal sin contraste",
+      "type": "TECNICA_IMAGEN",
+      "start": 301,
+      "end": 331
+    },
+    {
+      "text": "angiografía por angio-TC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 381,
+      "end": 427
+    },
+    {
+      "text": "TC PERFUSIÓN",
+      "type": "TECNICA_IMAGEN",
+      "start": 964,
+      "end": 976
+    },
+    {
+      "text": "ANGIO-TC ARTERIAL INTRACRANEAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 1243,
+      "end": 1273
+    }
+  ]
+}

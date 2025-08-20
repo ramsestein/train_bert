@@ -1,0 +1,167 @@
+{
+  "document_id": "informe_sintetico_20250804195045_15427",
+  "entities": [
+    {
+      "text": "hemiparesia derecha",
+      "type": "PATOLOGIA",
+      "start": 204,
+      "end": 223
+    },
+    {
+      "text": "dificultad para hablar",
+      "type": "PATOLOGIA",
+      "start": 226,
+      "end": 248
+    },
+    {
+      "text": "3 horas",
+      "type": "TEMPORALIDAD",
+      "start": 270,
+      "end": 277
+    },
+    {
+      "text": "evento isquémico cerebral agudo",
+      "type": "PATOLOGIA",
+      "start": 291,
+      "end": 322
+    },
+    {
+      "text": "No se evidencian colecciones hemáticas ni calcificaciones agudas.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 544,
+      "end": 609
+    },
+    {
+      "text": "Sin signos de edema cerebral importante.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 658,
+      "end": 698
+    },
+    {
+      "text": "No hay desplazamiento de la línea media.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 699,
+      "end": 739
+    },
+    {
+      "text": "Sistema ventricular de tamaño y morfología normales.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 740,
+      "end": 792
+    },
+    {
+      "text": "Cisternas basales libres.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 793,
+      "end": 818
+    },
+    {
+      "text": "Discreta disminución del flujo cerebral (CBF)",
+      "type": "PATOLOGIA",
+      "start": 837,
+      "end": 882
+    },
+    {
+      "text": "aumento de los tiempos de tránsito (Tmax y TTP)",
+      "type": "PATOLOGIA",
+      "start": 885,
+      "end": 932
+    },
+    {
+      "text": "territorio cortical y subcortical frontal y parietal izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 936,
+      "end": 998
+    },
+    {
+      "text": "volumen cerebral (CBV) conservado",
+      "type": "PATOLOGIA",
+      "start": 1004,
+      "end": 1037
+    },
+    {
+      "text": "penumbra isquémica extensa",
+      "type": "PATOLOGIA",
+      "start": 1054,
+      "end": 1080
+    },
+    {
+      "text": "defecto de repleción",
+      "type": "PATOLOGIA",
+      "start": 1128,
+      "end": 1148
+    },
+    {
+      "text": "segmento M2 de la arteria cerebral media izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1163,
+      "end": 1213
+    },
+    {
+      "text": "oclusión distal",
+      "type": "PATOLOGIA",
+      "start": 1230,
+      "end": 1245
+    },
+    {
+      "text": "placas ateromatosas no estenosantes en ambas bifurcaciones carotídeas",
+      "type": "PATOLOGIA",
+      "start": 1303,
+      "end": 1372
+    },
+    {
+      "text": "sistema arterial cerebral (ACAs, ACPs, sistema vertebrobasilar) permeable",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1387,
+      "end": 1460
+    },
+    {
+      "text": "Oclusión aguda en segmento M2 de arteria cerebral media izquierda",
+      "type": "PATOLOGIA",
+      "start": 1489,
+      "end": 1554
+    },
+    {
+      "text": "áreas de isquemia en territorio cortical y subcortical correspondientes",
+      "type": "PATOLOGIA",
+      "start": 1559,
+      "end": 1630
+    },
+    {
+      "text": "penumbra isquémica amplia",
+      "type": "PATOLOGIA",
+      "start": 1636,
+      "end": 1661
+    },
+    {
+      "text": "ASPECTS 9",
+      "type": "PUNTUACION_CLINICA",
+      "start": 1664,
+      "end": 1673
+    },
+    {
+      "text": "No hemorragias intracraneales ni signos de infarto establecido significativo en TC basal.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1679,
+      "end": 1768
+    },
+    {
+      "text": "Oclusión aguda distal de arteria cerebral media (M2)",
+      "type": "PATOLOGIA",
+      "start": 2010,
+      "end": 2062
+    },
+    {
+      "text": "hallazgos compatibles en perfusión cerebral y angiografía por TC.",
+      "type": "PATOLOGIA",
+      "start": 2067,
+      "end": 2132
+    },
+    {
+      "text": "TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANGIOTC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 2159,
+      "end": 2226
+    }
+  ]
+}

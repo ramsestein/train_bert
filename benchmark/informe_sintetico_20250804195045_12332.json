@@ -1,0 +1,95 @@
+{
+  "document_id": "informe_sintetico_20250804195045_12332",
+  "entities": [
+    {
+      "text": "oclusión vascular",
+      "type": "PATOLOGIA",
+      "start": 297,
+      "end": 314
+    },
+    {
+      "text": "arteria basilar",
+      "type": "ARTERIA",
+      "start": 1189,
+      "end": 1204
+    },
+    {
+      "text": "tronco encefálico",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 258,
+      "end": 275
+    },
+    {
+      "text": "cerebelo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1017,
+      "end": 1025
+    },
+    {
+      "text": "isquémica",
+      "type": "PATOLOGIA",
+      "start": 1519,
+      "end": 1528
+    },
+    {
+      "text": "edema",
+      "type": "PATOLOGIA",
+      "start": 765,
+      "end": 770
+    },
+    {
+      "text": "hemorragias agudas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 572,
+      "end": 590
+    },
+    {
+      "text": "No hemorragia asociada",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1645,
+      "end": 1667
+    },
+    {
+      "text": "prolongación marcada de TTP",
+      "type": "PATOLOGIA",
+      "start": 874,
+      "end": 901
+    },
+    {
+      "text": "reducción del CBF",
+      "type": "PATOLOGIA",
+      "start": 931,
+      "end": 948
+    },
+    {
+      "text": "ausencia de flujo distal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1210,
+      "end": 1234
+    },
+    {
+      "text": "monitorización neurológica estrecha",
+      "type": "PUNTUACION_CLINICA",
+      "start": 1845,
+      "end": 1880
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 362,
+      "end": 378
+    },
+    {
+      "text": "estudio de perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 394,
+      "end": 423
+    },
+    {
+      "text": "angio-TC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 426,
+      "end": 456
+    }
+  ]
+}

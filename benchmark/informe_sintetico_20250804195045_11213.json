@@ -1,0 +1,107 @@
+{
+  "document_id": "informe_sintetico_20250804195045_11213",
+  "entities": [
+    {
+      "text": "isquemia",
+      "type": "PATOLOGIA",
+      "start": 623,
+      "end": 631
+    },
+    {
+      "text": "arteria cerebral media",
+      "type": "ARTERIA",
+      "start": 649,
+      "end": 671
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 589,
+      "end": 596
+    },
+    {
+      "text": "ASPECTS 9",
+      "type": "PUNTUACION_CLINICA",
+      "start": 680,
+      "end": 689
+    },
+    {
+      "text": "isquemia",
+      "type": "PATOLOGIA",
+      "start": 623,
+      "end": 631
+    },
+    {
+      "text": "TTP",
+      "type": "MEDIDA",
+      "start": 952,
+      "end": 955
+    },
+    {
+      "text": "CBF",
+      "type": "MEDIDA",
+      "start": 999,
+      "end": 1002
+    },
+    {
+      "text": "CBV",
+      "type": "MEDIDA",
+      "start": 1151,
+      "end": 1154
+    },
+    {
+      "text": "isquémica",
+      "type": "PATOLOGIA",
+      "start": 1176,
+      "end": 1185
+    },
+    {
+      "text": "oclusión",
+      "type": "PATOLOGIA",
+      "start": 1677,
+      "end": 1685
+    },
+    {
+      "text": "M2/M3",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1337,
+      "end": 1342
+    },
+    {
+      "text": "ASPECTS 9",
+      "type": "PUNTUACION_CLINICA",
+      "start": 680,
+      "end": 689
+    },
+    {
+      "text": "hemorragias",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 482,
+      "end": 493
+    },
+    {
+      "text": "hemorragias",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 482,
+      "end": 493
+    },
+    {
+      "text": "TC craneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 297,
+      "end": 307
+    },
+    {
+      "text": "perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 339,
+      "end": 357
+    },
+    {
+      "text": "angio-TC",
+      "type": "TECNICA_IMAGEN",
+      "start": 369,
+      "end": 377
+    }
+  ]
+}

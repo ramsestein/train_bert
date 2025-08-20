@@ -1,0 +1,107 @@
+{
+  "document_id": "informe_sintetico_20250804195045_19464",
+  "entities": [
+    {
+      "text": "isquemia",
+      "type": "PATOLOGIA",
+      "start": 209,
+      "end": 217
+    },
+    {
+      "text": "arteria cerebral posterior",
+      "type": "ARTERIA",
+      "start": 235,
+      "end": 261
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 268,
+      "end": 275
+    },
+    {
+      "text": "hipodensidad",
+      "type": "PATOLOGIA",
+      "start": 587,
+      "end": 599
+    },
+    {
+      "text": "isquemia aguda temprana",
+      "type": "PATOLOGIA",
+      "start": 700,
+      "end": 723
+    },
+    {
+      "text": "ASPECTS posterior 9",
+      "type": "PUNTUACION_CLINICA",
+      "start": 725,
+      "end": 744
+    },
+    {
+      "text": "territorio ocupital derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1001,
+      "end": 1028
+    },
+    {
+      "text": "ACP",
+      "type": "ARTERIA",
+      "start": 263,
+      "end": 266
+    },
+    {
+      "text": "TTP y Tmax",
+      "type": "MEDIDA",
+      "start": 944,
+      "end": 954
+    },
+    {
+      "text": "CBF",
+      "type": "MEDIDA",
+      "start": 990,
+      "end": 993
+    },
+    {
+      "text": "CBV",
+      "type": "MEDIDA",
+      "start": 1077,
+      "end": 1080
+    },
+    {
+      "text": "Oclusión trombótica completa",
+      "type": "PATOLOGIA",
+      "start": 1338,
+      "end": 1366
+    },
+    {
+      "text": "segmento P2 derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1371,
+      "end": 1390
+    },
+    {
+      "text": "arteria cerebral posterior",
+      "type": "ARTERIA",
+      "start": 235,
+      "end": 261
+    },
+    {
+      "text": "No se evidencian signos de hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 488,
+      "end": 538
+    },
+    {
+      "text": "No se observan signos de estenosis significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1536,
+      "end": 1585
+    },
+    {
+      "text": "No se evidencian signos de transformación hemorrágica",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1868,
+      "end": 1921
+    }
+  ]
+}

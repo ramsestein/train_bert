@@ -1,0 +1,119 @@
+{
+  "document_id": "informe_sintetico_20250804195045_05423",
+  "entities": [
+    {
+      "text": "hemorragia aguda",
+      "type": "PATOLOGIA",
+      "start": 528,
+      "end": 544
+    },
+    {
+      "text": "hipodensidad",
+      "type": "PATOLOGIA",
+      "start": 582,
+      "end": 594
+    },
+    {
+      "text": "edema citotóxico incipiente",
+      "type": "PATOLOGIA",
+      "start": 684,
+      "end": 711
+    },
+    {
+      "text": "retraso en los tiempos de tránsito",
+      "type": "PATOLOGIA",
+      "start": 974,
+      "end": 1008
+    },
+    {
+      "text": "reducción significativa del flujo cerebral",
+      "type": "PATOLOGIA",
+      "start": 1066,
+      "end": 1108
+    },
+    {
+      "text": "infarto",
+      "type": "PATOLOGIA",
+      "start": 1243,
+      "end": 1250
+    },
+    {
+      "text": "arteria basilar",
+      "type": "ARTERIA",
+      "start": 1389,
+      "end": 1404
+    },
+    {
+      "text": "tronco cerebral",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1045,
+      "end": 1060
+    },
+    {
+      "text": "mesencéfalo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 649,
+      "end": 660
+    },
+    {
+      "text": "puente",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 663,
+      "end": 669
+    },
+    {
+      "text": "tronco encefálico",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 258,
+      "end": 275
+    },
+    {
+      "text": "bilaterales",
+      "type": "LATERALIDAD",
+      "start": 1615,
+      "end": 1626
+    },
+    {
+      "text": "sin estenosis significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1638,
+      "end": 1665
+    },
+    {
+      "text": "sin signos de compresión",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 912,
+      "end": 936
+    },
+    {
+      "text": "TC craneal basal sin contraste",
+      "type": "TECNICA_IMAGEN",
+      "start": 329,
+      "end": 359
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 371,
+      "end": 392
+    },
+    {
+      "text": "AngioTC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 395,
+      "end": 424
+    },
+    {
+      "text": "aguda",
+      "type": "TEMPORALIDAD",
+      "start": 539,
+      "end": 544
+    },
+    {
+      "text": "infarto en evolución",
+      "type": "TEMPORALIDAD",
+      "start": 1922,
+      "end": 1942
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "document_id": "informe_sintetico_20250804195045_08394",
+  "entities": [
+    {
+      "text": "hemorragia aguda",
+      "type": "PATOLOGIA",
+      "start": 499,
+      "end": 515
+    },
+    {
+      "text": "infarto reciente",
+      "type": "PATOLOGIA",
+      "start": 519,
+      "end": 535
+    },
+    {
+      "text": "cambios crónicos leves compatibles con microangiopatía",
+      "type": "PATOLOGIA",
+      "start": 654,
+      "end": 708
+    },
+    {
+      "text": "hipodensidades periventriculares finas",
+      "type": "PATOLOGIA",
+      "start": 728,
+      "end": 766
+    },
+    {
+      "text": "sustancia blanca",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 801,
+      "end": 817
+    },
+    {
+      "text": "arteria carótida interna",
+      "type": "ARTERIA",
+      "start": 1342,
+      "end": 1366
+    },
+    {
+      "text": "ACM",
+      "type": "ARTERIA",
+      "start": 1487,
+      "end": 1490
+    },
+    {
+      "text": "ACA",
+      "type": "ARTERIA",
+      "start": 1492,
+      "end": 1495
+    },
+    {
+      "text": "ACP",
+      "type": "ARTERIA",
+      "start": 1497,
+      "end": 1500
+    },
+    {
+      "text": "sistema vertebrobasilar",
+      "type": "ARTERIA",
+      "start": 1503,
+      "end": 1526
+    },
+    {
+      "text": "bilateral",
+      "type": "LATERALIDAD",
+      "start": 1367,
+      "end": 1376
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 1662,
+      "end": 1672
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 305,
+      "end": 321
+    },
+    {
+      "text": "TC PERFUSIÓN",
+      "type": "TECNICA_IMAGEN",
+      "start": 1026,
+      "end": 1038
+    },
+    {
+      "text": "ANGIO-TC EXTRA E INTRACRANEAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 1167,
+      "end": 1196
+    },
+    {
+      "text": "sin estenosis significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1234,
+      "end": 1262
+    },
+    {
+      "text": "sin signos de estenosis ni trombosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1447,
+      "end": 1483
+    },
+    {
+      "text": "sin alteraciones significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1094,
+      "end": 1125
+    }
+  ]
+}

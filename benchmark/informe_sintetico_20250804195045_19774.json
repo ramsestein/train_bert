@@ -1,0 +1,71 @@
+{
+  "document_id": "informe_sintetico_20250804195045_19774",
+  "entities": [
+    {
+      "text": "coleccion hemática subdural aguda",
+      "type": "PATOLOGIA",
+      "start": 503,
+      "end": 536
+    },
+    {
+      "text": "hemisferio derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 540,
+      "end": 558
+    },
+    {
+      "text": "15 mm",
+      "type": "MEDIDA",
+      "start": 615,
+      "end": 620
+    },
+    {
+      "text": "8 mm",
+      "type": "MEDIDA",
+      "start": 713,
+      "end": 717
+    },
+    {
+      "text": "aguda",
+      "type": "TEMPORALIDAD",
+      "start": 531,
+      "end": 536
+    },
+    {
+      "text": "isquemia tardía",
+      "type": "PATOLOGIA",
+      "start": 1172,
+      "end": 1187
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 780,
+      "end": 787
+    },
+    {
+      "text": "sin evidencia de estenosis ni oclusiones arteriales o venosas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1406,
+      "end": 1467
+    },
+    {
+      "text": "sin signos de disección ni trombosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1521,
+      "end": 1557
+    },
+    {
+      "text": "signo de herniación subfalcina",
+      "type": "PATOLOGIA",
+      "start": 790,
+      "end": 820
+    },
+    {
+      "text": "lado derecho",
+      "type": "LATERALIDAD",
+      "start": 1035,
+      "end": 1047
+    }
+  ]
+}

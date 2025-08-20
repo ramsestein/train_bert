@@ -1,0 +1,59 @@
+{
+  "document_id": "informe_sintetico_20250804195045_07223",
+  "entities": [
+    {
+      "text": "hematoma lobar de localización frontal izquierda",
+      "type": "PATOLOGIA",
+      "start": 412,
+      "end": 460
+    },
+    {
+      "text": "frontal izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 443,
+      "end": 460
+    },
+    {
+      "text": "45 cc",
+      "type": "MEDIDA",
+      "start": 491,
+      "end": 496
+    },
+    {
+      "text": "agudo",
+      "type": "TEMPORALIDAD",
+      "start": 564,
+      "end": 569
+    },
+    {
+      "text": "desplazamiento de la línea media hacia la derecha",
+      "type": "PATOLOGIA",
+      "start": 846,
+      "end": 895
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 888,
+      "end": 895
+    },
+    {
+      "text": "sin signos de hidrocefalia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1015,
+      "end": 1041
+    },
+    {
+      "text": "sin evidencia de área isquémica extensa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1172,
+      "end": 1211
+    },
+    {
+      "text": "sin estenosis ni oclusiones significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1327,
+      "end": 1369
+    }
+  ]
+}

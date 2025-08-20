@@ -1,0 +1,101 @@
+{
+  "document_id": "informe_sintetico_20250804195045_09931",
+  "entities": [
+    {
+      "text": "hipodensidad difusa",
+      "type": "PATOLOGIA",
+      "start": 600,
+      "end": 619
+    },
+    {
+      "text": "edema isquémico",
+      "type": "PATOLOGIA",
+      "start": 663,
+      "end": 678
+    },
+    {
+      "text": "pérdida de la diferenciación cortico-subcortical",
+      "type": "PATOLOGIA",
+      "start": 693,
+      "end": 741
+    },
+    {
+      "text": "tronco cerebral",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 759,
+      "end": 774
+    },
+    {
+      "text": "tiempo de tránsito tisular (TTP)",
+      "type": "MEDIDA",
+      "start": 949,
+      "end": 981
+    },
+    {
+      "text": "tiempo de retraso (MTT)",
+      "type": "MEDIDA",
+      "start": 996,
+      "end": 1019
+    },
+    {
+      "text": "flujo cerebral (CBF)",
+      "type": "MEDIDA",
+      "start": 1080,
+      "end": 1100
+    },
+    {
+      "text": "volumen sanguíneo cerebral (CBV)",
+      "type": "MEDIDA",
+      "start": 1103,
+      "end": 1135
+    },
+    {
+      "text": "arteria basilar",
+      "type": "ARTERIA",
+      "start": 1214,
+      "end": 1229
+    },
+    {
+      "text": "oclusión",
+      "type": "PATOLOGIA",
+      "start": 1511,
+      "end": 1519
+    },
+    {
+      "text": "aguda",
+      "type": "TEMPORALIDAD",
+      "start": 1854,
+      "end": 1859
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1991,
+      "end": 2014
+    },
+    {
+      "text": "isquemia en el tronco cerebral",
+      "type": "PATOLOGIA",
+      "start": 2253,
+      "end": 2283
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 326,
+      "end": 342
+    },
+    {
+      "text": "perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 369,
+      "end": 387
+    },
+    {
+      "text": "angio-TC intra y extracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 402,
+      "end": 431
+    }
+  ]
+}

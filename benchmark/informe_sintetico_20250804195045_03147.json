@@ -1,0 +1,215 @@
+{
+  "document_id": "informe_sintetico_20250804195045_03147",
+  "entities": [
+    {
+      "text": "isquemia",
+      "type": "PATOLOGIA",
+      "start": 218,
+      "end": 226
+    },
+    {
+      "text": "arteria cerebral posterior",
+      "type": "ARTERIA",
+      "start": 244,
+      "end": 270
+    },
+    {
+      "text": "agudo",
+      "type": "TEMPORALIDAD",
+      "start": 199,
+      "end": 204
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 540,
+      "end": 550
+    },
+    {
+      "text": "hemorragias",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 492,
+      "end": 503
+    },
+    {
+      "text": "lesiones isquémicas definitivas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 507,
+      "end": 538
+    },
+    {
+      "text": "microangiopatía crónica periventriculares",
+      "type": "PATOLOGIA",
+      "start": 669,
+      "end": 710
+    },
+    {
+      "text": "calcificaciones relevantes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 727,
+      "end": 753
+    },
+    {
+      "text": "arterias temporales posteriores",
+      "type": "ARTERIA",
+      "start": 761,
+      "end": 792
+    },
+    {
+      "text": "aumento significativo del tiempo de tránsito medio (MTT)",
+      "type": "PATOLOGIA",
+      "start": 832,
+      "end": 888
+    },
+    {
+      "text": "Tmax prolongado",
+      "type": "PATOLOGIA",
+      "start": 891,
+      "end": 906
+    },
+    {
+      "text": "territorio vascular derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 913,
+      "end": 940
+    },
+    {
+      "text": "arteria cerebral posterior",
+      "type": "ARTERIA",
+      "start": 244,
+      "end": 270
+    },
+    {
+      "text": "flujo cerebral (CBF)",
+      "type": "MEDIDA",
+      "start": 993,
+      "end": 1013
+    },
+    {
+      "text": "disminuido",
+      "type": "PATOLOGIA",
+      "start": 1019,
+      "end": 1029
+    },
+    {
+      "text": "volumen cerebral (CBV)",
+      "type": "MEDIDA",
+      "start": 1035,
+      "end": 1057
+    },
+    {
+      "text": "preservado",
+      "type": "PATOLOGIA",
+      "start": 1070,
+      "end": 1080
+    },
+    {
+      "text": "penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1105,
+      "end": 1123
+    },
+    {
+      "text": "ateromatosis leve",
+      "type": "PATOLOGIA",
+      "start": 1181,
+      "end": 1198
+    },
+    {
+      "text": "estenosis significativa",
+      "type": "PATOLOGIA",
+      "start": 1204,
+      "end": 1227
+    },
+    {
+      "text": "arteria cerebral posterior derecha",
+      "type": "ARTERIA",
+      "start": 1713,
+      "end": 1747
+    },
+    {
+      "text": "defecto brusco de repleción",
+      "type": "PATOLOGIA",
+      "start": 1298,
+      "end": 1325
+    },
+    {
+      "text": "segmento P2 distal",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1332,
+      "end": 1350
+    },
+    {
+      "text": "oclusión",
+      "type": "PATOLOGIA",
+      "start": 1364,
+      "end": 1372
+    },
+    {
+      "text": "arterias comunicantes posterior",
+      "type": "ARTERIA",
+      "start": 1412,
+      "end": 1443
+    },
+    {
+      "text": "permeables",
+      "type": "PATOLOGIA",
+      "start": 1551,
+      "end": 1561
+    },
+    {
+      "text": "placas ateromatosas relevantes",
+      "type": "PATOLOGIA",
+      "start": 1568,
+      "end": 1598
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1635,
+      "end": 1658
+    },
+    {
+      "text": "hipoperfusión",
+      "type": "PATOLOGIA",
+      "start": 1679,
+      "end": 1692
+    },
+    {
+      "text": "territorio de la arteria cerebral posterior derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1696,
+      "end": 1747
+    },
+    {
+      "text": "perfusión vascular alterada",
+      "type": "PATOLOGIA",
+      "start": 1752,
+      "end": 1779
+    },
+    {
+      "text": "penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1105,
+      "end": 1123
+    },
+    {
+      "text": "segmento distal de ACP derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1839,
+      "end": 1869
+    },
+    {
+      "text": "oclusión arterial",
+      "type": "PATOLOGIA",
+      "start": 1882,
+      "end": 1899
+    },
+    {
+      "text": "lesiones isquémicas definitivas detectables en TC basal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1950,
+      "end": 2005
+    }
+  ]
+}

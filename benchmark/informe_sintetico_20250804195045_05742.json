@@ -1,0 +1,119 @@
+{
+  "document_id": "informe_sintetico_20250804195045_05742",
+  "entities": [
+    {
+      "text": "hematomas",
+      "type": "PATOLOGIA",
+      "start": 430,
+      "end": 439
+    },
+    {
+      "text": "colecciones hemorrágicas intraparenquimatosas",
+      "type": "PATOLOGIA",
+      "start": 443,
+      "end": 488
+    },
+    {
+      "text": "infarto agudo",
+      "type": "PATOLOGIA",
+      "start": 618,
+      "end": 631
+    },
+    {
+      "text": "lesiones crónicas significativas",
+      "type": "PATOLOGIA",
+      "start": 635,
+      "end": 667
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 581,
+      "end": 591
+    },
+    {
+      "text": "hidrocefalia",
+      "type": "PATOLOGIA",
+      "start": 789,
+      "end": 801
+    },
+    {
+      "text": "alteraciones en los mapas de tiempo de tránsito (TTP)",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 879,
+      "end": 932
+    },
+    {
+      "text": "volumen sanguíneo cerebral (CBV)",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 934,
+      "end": 966
+    },
+    {
+      "text": "flujo sanguíneo cerebral (CBF)",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 970,
+      "end": 1000
+    },
+    {
+      "text": "discordancia sugestiva de área de penumbra o isquemia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1022,
+      "end": 1075
+    },
+    {
+      "text": "estenosis",
+      "type": "PATOLOGIA",
+      "start": 1185,
+      "end": 1194
+    },
+    {
+      "text": "placas ateromatosas significativas",
+      "type": "PATOLOGIA",
+      "start": 1198,
+      "end": 1232
+    },
+    {
+      "text": "arterias carótidas internas",
+      "type": "ARTERIA",
+      "start": 1238,
+      "end": 1265
+    },
+    {
+      "text": "vasos intracraneales principales (ACAs, ACMs, ACPs)",
+      "type": "ARTERIA",
+      "start": 1351,
+      "end": 1402
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 581,
+      "end": 591
+    },
+    {
+      "text": "hallazgos agudos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1588,
+      "end": 1604
+    },
+    {
+      "text": "signos de isquemia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1650,
+      "end": 1668
+    },
+    {
+      "text": "hemorragia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1670,
+      "end": 1680
+    },
+    {
+      "text": "vasoespasmo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1459,
+      "end": 1470
+    }
+  ]
+}

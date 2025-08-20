@@ -1,0 +1,65 @@
+{
+  "document_id": "0000000010000000059107599_cleaned",
+  "entities": [
+    {
+      "text": "Infart cerebral causat per oclusió o estenosi no especificades d'artèria cerebral no especificada",
+      "type": "PATOLOGIA",
+      "start": 166,
+      "end": 263
+    },
+    {
+      "text": "Hematoma agudo intraparenquimatoso profundo",
+      "type": "PATOLOGIA",
+      "start": 366,
+      "end": 409
+    },
+    {
+      "text": "ganglios basales izquierdos",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 427,
+      "end": 454
+    },
+    {
+      "text": "21 x 28 x 28 mm",
+      "type": "MEDIDA",
+      "start": 471,
+      "end": 486
+    },
+    {
+      "text": "agudo",
+      "type": "TEMPORALIDAD",
+      "start": 375,
+      "end": 380
+    },
+    {
+      "text": "No se observan otros signos de hemorragia aguda intra o extraaxial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 538,
+      "end": 604
+    },
+    {
+      "text": "ACAs, ACMs y ACPs",
+      "type": "ARTERIA",
+      "start": 910,
+      "end": 927
+    },
+    {
+      "text": "Sistema vertebrobasilar",
+      "type": "ARTERIA",
+      "start": 965,
+      "end": 988
+    },
+    {
+      "text": "sin signos de estenosis de su luz",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 930,
+      "end": 963
+    },
+    {
+      "text": "No imágenes de aneurismas ni malformaciones ni fístulas AV",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1000,
+      "end": 1058
+    }
+  ]
+}

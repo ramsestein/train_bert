@@ -1,0 +1,71 @@
+{
+  "document_id": "informe_sintetico_20250804195045_17290",
+  "entities": [
+    {
+      "text": "infarto cerebral reciente",
+      "type": "PATOLOGIA",
+      "start": 220,
+      "end": 245
+    },
+    {
+      "text": "infarto cerebral subagudo",
+      "type": "PATOLOGIA",
+      "start": 615,
+      "end": 640
+    },
+    {
+      "text": "pequeña colección hemorrágica puntual",
+      "type": "PATOLOGIA",
+      "start": 724,
+      "end": 761
+    },
+    {
+      "text": "transformación hemorrágica tipo PH1",
+      "type": "PATOLOGIA",
+      "start": 778,
+      "end": 813
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "ARTERIA",
+      "start": 566,
+      "end": 598
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 589,
+      "end": 598
+    },
+    {
+      "text": "sin áreas adicionales de hipoperfusión aguda o penumbra significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1134,
+      "end": 1203
+    },
+    {
+      "text": "sin compromiso hemodinámico adicional",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1955,
+      "end": 1992
+    },
+    {
+      "text": "TC craneal basal urgente",
+      "type": "TECNICA_IMAGEN",
+      "start": 306,
+      "end": 330
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 332,
+      "end": 353
+    },
+    {
+      "text": "angioTC intra/extra craneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 356,
+      "end": 383
+    }
+  ]
+}

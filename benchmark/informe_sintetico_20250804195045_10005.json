@@ -1,0 +1,83 @@
+{
+  "document_id": "informe_sintetico_20250804195045_10005",
+  "entities": [
+    {
+      "text": "hemorragias",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 466,
+      "end": 477
+    },
+    {
+      "text": "colecciones extra o intraaxiales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 481,
+      "end": 513
+    },
+    {
+      "text": "edema",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 590,
+      "end": 595
+    },
+    {
+      "text": "infarto agudo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 598,
+      "end": 611
+    },
+    {
+      "text": "ASPECTS=10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 660,
+      "end": 670
+    },
+    {
+      "text": "cambios crónicos inespecíficos",
+      "type": "PATOLOGIA",
+      "start": 934,
+      "end": 964
+    },
+    {
+      "text": "hipoperfusión",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1185,
+      "end": 1198
+    },
+    {
+      "text": "mismatch",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1202,
+      "end": 1210
+    },
+    {
+      "text": "estenosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1294,
+      "end": 1303
+    },
+    {
+      "text": "ateromatosis significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1307,
+      "end": 1333
+    },
+    {
+      "text": "ACAs, ACMs, ACPs",
+      "type": "ARTERIA",
+      "start": 1412,
+      "end": 1428
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 1836,
+      "end": 1846
+    },
+    {
+      "text": "Código Ictus",
+      "type": "TEMPORALIDAD",
+      "start": 1630,
+      "end": 1642
+    }
+  ]
+}

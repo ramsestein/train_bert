@@ -1,0 +1,59 @@
+{
+  "document_id": "informe_sintetico_20250804195045_23438",
+  "entities": [
+    {
+      "text": "infarto lacunar",
+      "type": "PATOLOGIA",
+      "start": 235,
+      "end": 250
+    },
+    {
+      "text": "región talámica derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 533,
+      "end": 556
+    },
+    {
+      "text": "8 mm",
+      "type": "MEDIDA",
+      "start": 522,
+      "end": 526
+    },
+    {
+      "text": "agudo",
+      "type": "TEMPORALIDAD",
+      "start": 653,
+      "end": 658
+    },
+    {
+      "text": "No se aprecia hemorragia intra ni extraaxial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 398,
+      "end": 442
+    },
+    {
+      "text": "No hay desplazamientos de estructuras de la línea media",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 660,
+      "end": 715
+    },
+    {
+      "text": "No se evidencian alteraciones significativas en los mapas de tiempo de tránsito (Tmax), flujo cerebral (CBF) o volumen cerebral (CBV)",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 865,
+      "end": 998
+    },
+    {
+      "text": "sin signos de oclusión ni estenosis severa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1210,
+      "end": 1252
+    },
+    {
+      "text": "sin evidencia de hemorragia intracraneal ni grandes oclusiones arteriales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1395,
+      "end": 1468
+    }
+  ]
+}

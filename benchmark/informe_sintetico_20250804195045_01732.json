@@ -1,0 +1,245 @@
+{
+  "document_id": "informe_sintetico_20250804195045_01732",
+  "entities": [
+    {
+      "text": "infarto cerebral reciente",
+      "type": "PATOLOGIA",
+      "start": 179,
+      "end": 204
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 225,
+      "end": 255
+    },
+    {
+      "text": "transformación hemorrágica",
+      "type": "PATOLOGIA",
+      "start": 308,
+      "end": 334
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 355,
+      "end": 371
+    },
+    {
+      "text": "perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 406,
+      "end": 424
+    },
+    {
+      "text": "AngioTC intra y extracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 427,
+      "end": 455
+    },
+    {
+      "text": "extensa área hipodensa",
+      "type": "PATOLOGIA",
+      "start": 609,
+      "end": 631
+    },
+    {
+      "text": "territorio cortical y subcortical",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 635,
+      "end": 668
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 225,
+      "end": 255
+    },
+    {
+      "text": "infarto cerebral establecido",
+      "type": "PATOLOGIA",
+      "start": 722,
+      "end": 750
+    },
+    {
+      "text": "foco hiperdenso heterogéneo",
+      "type": "PATOLOGIA",
+      "start": 766,
+      "end": 793
+    },
+    {
+      "text": "25 x 20 mm",
+      "type": "MEDIDA",
+      "start": 813,
+      "end": 823
+    },
+    {
+      "text": "núcleo lenticular derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 830,
+      "end": 855
+    },
+    {
+      "text": "efecto masa moderado",
+      "type": "PATOLOGIA",
+      "start": 901,
+      "end": 921
+    },
+    {
+      "text": "pérdida de diferenciación cortico-subcortical circundante",
+      "type": "PATOLOGIA",
+      "start": 924,
+      "end": 981
+    },
+    {
+      "text": "transformación hemorrágica tipo PH2",
+      "type": "PATOLOGIA",
+      "start": 1009,
+      "end": 1044
+    },
+    {
+      "text": "Líneas medias desplazadas 6 mm hacia la izquierda",
+      "type": "PATOLOGIA",
+      "start": 1046,
+      "end": 1095
+    },
+    {
+      "text": "No se observan hematomas extraaxiales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1162,
+      "end": 1199
+    },
+    {
+      "text": "aumento del tiempo de tránsito",
+      "type": "PATOLOGIA",
+      "start": 1320,
+      "end": 1350
+    },
+    {
+      "text": "área infartada extensa",
+      "type": "PATOLOGIA",
+      "start": 1403,
+      "end": 1425
+    },
+    {
+      "text": "penumbra reducida",
+      "type": "PATOLOGIA",
+      "start": 1428,
+      "end": 1445
+    },
+    {
+      "text": "Oclusión completa del segmento M1 de la arteria cerebral media derecha",
+      "type": "PATOLOGIA",
+      "start": 1479,
+      "end": 1549
+    },
+    {
+      "text": "Ramas distales con flujo repermeabilizado parcial",
+      "type": "PATOLOGIA",
+      "start": 1551,
+      "end": 1600
+    },
+    {
+      "text": "No se evidencian aneurismas ni malformaciones vasculares",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1602,
+      "end": 1658
+    },
+    {
+      "text": "Sistema vertebrobasilar permeable",
+      "type": "PATOLOGIA",
+      "start": 1660,
+      "end": 1693
+    },
+    {
+      "text": "ateromatosis leve en ambas carótidas internas cervicales",
+      "type": "PATOLOGIA",
+      "start": 1706,
+      "end": 1762
+    },
+    {
+      "text": "sin estenosis significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1764,
+      "end": 1791
+    },
+    {
+      "text": "Infarto cerebral extenso en territorio de ACM derecha",
+      "type": "PATOLOGIA",
+      "start": 1816,
+      "end": 1869
+    },
+    {
+      "text": "transformación hemorrágica tipo PH2",
+      "type": "PATOLOGIA",
+      "start": 1009,
+      "end": 1044
+    },
+    {
+      "text": "hematoma intra-parenquimatoso significativo",
+      "type": "PATOLOGIA",
+      "start": 1927,
+      "end": 1970
+    },
+    {
+      "text": "efecto masa con desplazamiento de línea media",
+      "type": "PATOLOGIA",
+      "start": 1973,
+      "end": 2018
+    },
+    {
+      "text": "Oclusión segmentaria de ACM derecha",
+      "type": "PATOLOGIA",
+      "start": 2020,
+      "end": 2055
+    },
+    {
+      "text": "repermeabilización distal parcial",
+      "type": "PATOLOGIA",
+      "start": 2060,
+      "end": 2093
+    },
+    {
+      "text": "Riesgo elevado de deterioro neurológico",
+      "type": "PATOLOGIA",
+      "start": 2095,
+      "end": 2134
+    },
+    {
+      "text": "Informe enviado al servicio de neurología para manejo urgente",
+      "type": "PATOLOGIA",
+      "start": 2254,
+      "end": 2315
+    },
+    {
+      "text": "control clínico y neuroimagen en 24-48 horas",
+      "type": "PATOLOGIA",
+      "start": 2328,
+      "end": 2372
+    },
+    {
+      "text": "Hematoma intracerebral con transformación hemorrágica post-infarto tipo PH2 en territorio de ACM derecha",
+      "type": "PATOLOGIA",
+      "start": 2433,
+      "end": 2537
+    },
+    {
+      "text": "Oclusión segmentaria de ACM derecha",
+      "type": "PATOLOGIA",
+      "start": 2020,
+      "end": 2055
+    },
+    {
+      "text": "Oclusión segmento M1 ACM derecha con repermeabilización distal",
+      "type": "PATOLOGIA",
+      "start": 2688,
+      "end": 2750
+    },
+    {
+      "text": "Sistema vertebrobasilar permeable",
+      "type": "PATOLOGIA",
+      "start": 1660,
+      "end": 1693
+    }
+  ]
+}

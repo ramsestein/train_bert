@@ -1,0 +1,28 @@
+UO_PACN (Unidad Organizativa Médica): RADIO
+
+PRUEB (Prueba solicitada): TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANG IOTC ARTERIAL INTRACRANEAL)
+
+CLIN (Resumen clínico): Paciente con inicio súbito de hemiparesia izquierda y afasia. Sospecha clínica de ictus agudo.
+
+OBSR (Protocolo): TC craneal basal sin contraste, seguido de perfusión cerebral dinámica y angiografía por TC de arterias intracraneales. Estudio urgente en ventana neuro.
+
+RESL (Resultados): TC CRANEAL BASAL:
+Se identifica hiperdensidad tubular en el segmento proximal M1 de la arteria cerebral media derecha, sugestiva de trombo intraluminal (signo de arteria hiperdensa). Se evidencia pérdida parcial de la diferenciación cortico-subcortical en la región frontal, parietal y temporal derecha, con ASPECTS calculado en 6. No hay hemorragia intraparenquimatosa ni extraaxial.
+
+TC PERFUSIÓN:
+Mapas de tiempo hasta el pico (TTP) y tiempo de tránsito medio (MTT) muestran retraso marcado en el territorio irrigado por la ACM derecha. Disminución del flujo cerebral (CBF) compatible con área de penumbra extensa. Volumen cerebral (CBV) restringido en núcleo lenticular derecho indicando área de infarto establecido.
+
+ANGIO-TC INTRACRANEAL:
+Oclusión completa del segmento proximal M1 de ACM derecha. Restante circulación cerebral con permeabilidad conservada, sin estenosis significativa en ACAs y ACPs. Sistema vertebrobasilar sin alteraciones.
+
+CONCL (Conclusiones): Oclusión aguda del segmento proximal M1 de la arteria cerebral media derecha con signo de arteria hiperdensa. ASPECTS 6 compatible con infarto temprano en territorio de ACM derecha. Extensa penumbra isquémica en perfusión cerebral sin hemorragia asociada. Requiere valoración inmediata para tratamiento reperfusor.
+
+ACTI_ADICI (Actividad adicional): Informe remitido al servicio de Neurología para decisión terapéutica urgente.
+
+ICON (Estudio): @RADIO_TC_1234@
+
+X00DIATXT (Texto del diagnóstico ACR): Oclusión aguda de la arteria cerebral media proximal derecha (M1) con hipodensidad y alteraciones perfusionales que indican infarto temprano y extensa área de penumbra.
+
+EST_T_DES (Descripción): TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANGIOTC ARTERIAL INTRACRANEAL)
+
+ZVASOS_D (Der.): Oclusión proximal derecho, región M1 ACM; flujo colateral en territorio distal moderado.

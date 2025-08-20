@@ -1,0 +1,101 @@
+{
+  "document_id": "informe_sintetico_20250804195045_20661",
+  "entities": [
+    {
+      "text": "hemorragia aguda",
+      "type": "PATOLOGIA",
+      "start": 453,
+      "end": 469
+    },
+    {
+      "text": "infarto agudo",
+      "type": "PATOLOGIA",
+      "start": 543,
+      "end": 556
+    },
+    {
+      "text": "microangiopatía hipertensiva",
+      "type": "PATOLOGIA",
+      "start": 859,
+      "end": 887
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 1158,
+      "end": 1168
+    },
+    {
+      "text": "ACAs",
+      "type": "ARTERIA",
+      "start": 1405,
+      "end": 1409
+    },
+    {
+      "text": "ACMs",
+      "type": "ARTERIA",
+      "start": 1411,
+      "end": 1415
+    },
+    {
+      "text": "ACPs",
+      "type": "ARTERIA",
+      "start": 1417,
+      "end": 1421
+    },
+    {
+      "text": "circulo de Willis",
+      "type": "ARTERIA",
+      "start": 1423,
+      "end": 1440
+    },
+    {
+      "text": "sin evidencia de patología vascular aguda",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1600,
+      "end": 1641
+    },
+    {
+      "text": "cerebral",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 304,
+      "end": 312
+    },
+    {
+      "text": "sustancia blanca",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 809,
+      "end": 825
+    },
+    {
+      "text": "sustancia blanca",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 809,
+      "end": 825
+    },
+    {
+      "text": "sin alteraciones focales ni globales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1120,
+      "end": 1156
+    },
+    {
+      "text": "sin estenosis ni placas significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1237,
+      "end": 1275
+    },
+    {
+      "text": "sin signos de estenosis ni disección",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1330,
+      "end": 1366
+    },
+    {
+      "text": "sin defectos de repleción",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1473,
+      "end": 1498
+    }
+  ]
+}

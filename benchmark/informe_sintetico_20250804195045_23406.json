@@ -1,0 +1,89 @@
+{
+  "document_id": "informe_sintetico_20250804195045_23406",
+  "entities": [
+    {
+      "text": "isquemia",
+      "type": "PATOLOGIA",
+      "start": 830,
+      "end": 838
+    },
+    {
+      "text": "tronco encefálico",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1043,
+      "end": 1060
+    },
+    {
+      "text": "cerebelo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1094,
+      "end": 1102
+    },
+    {
+      "text": "arteria basilar",
+      "type": "ARTERIA",
+      "start": 1423,
+      "end": 1438
+    },
+    {
+      "text": "proximal",
+      "type": "LATERALIDAD",
+      "start": 1447,
+      "end": 1455
+    },
+    {
+      "text": "hemorragia intracraneal aguda",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 714,
+      "end": 743
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 1862,
+      "end": 1876
+    },
+    {
+      "text": "penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1237,
+      "end": 1255
+    },
+    {
+      "text": "infarto",
+      "type": "PATOLOGIA",
+      "start": 1277,
+      "end": 1284
+    },
+    {
+      "text": "arteria basilar proximal",
+      "type": "ARTERIA",
+      "start": 1823,
+      "end": 1847
+    },
+    {
+      "text": "hemorragia intracraneal aguda",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 714,
+      "end": 743
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 398,
+      "end": 414
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 416,
+      "end": 437
+    },
+    {
+      "text": "angioTC arterial",
+      "type": "TECNICA_IMAGEN",
+      "start": 440,
+      "end": 456
+    }
+  ]
+}

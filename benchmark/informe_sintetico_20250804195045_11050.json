@@ -1,0 +1,131 @@
+{
+  "document_id": "informe_sintetico_20250804195045_11050",
+  "entities": [
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 242,
+      "end": 256
+    },
+    {
+      "text": "tronco encefálico",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 621,
+      "end": 638
+    },
+    {
+      "text": "cerebeloso posterior izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 667,
+      "end": 697
+    },
+    {
+      "text": "edema citotóxico",
+      "type": "PATOLOGIA",
+      "start": 712,
+      "end": 728
+    },
+    {
+      "text": "tiempo de tránsito medio (MTT)",
+      "type": "MEDIDA",
+      "start": 851,
+      "end": 881
+    },
+    {
+      "text": "tiempo hasta el pico (TTP)",
+      "type": "MEDIDA",
+      "start": 884,
+      "end": 910
+    },
+    {
+      "text": "volumen cerebral (CBV)",
+      "type": "MEDIDA",
+      "start": 929,
+      "end": 951
+    },
+    {
+      "text": "flujo cerebral (CBF)",
+      "type": "MEDIDA",
+      "start": 954,
+      "end": 974
+    },
+    {
+      "text": "isquemia en fase aguda",
+      "type": "PATOLOGIA",
+      "start": 1071,
+      "end": 1093
+    },
+    {
+      "text": "penumbra",
+      "type": "PATOLOGIA",
+      "start": 1104,
+      "end": 1112
+    },
+    {
+      "text": "arteria vertebral izquierda",
+      "type": "ARTERIA",
+      "start": 1204,
+      "end": 1231
+    },
+    {
+      "text": "segmento V4",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1260,
+      "end": 1271
+    },
+    {
+      "text": "arteria basilar",
+      "type": "ARTERIA",
+      "start": 1276,
+      "end": 1291
+    },
+    {
+      "text": "flujo residual",
+      "type": "PATOLOGIA",
+      "start": 1301,
+      "end": 1315
+    },
+    {
+      "text": "estenosis focal proximal",
+      "type": "PATOLOGIA",
+      "start": 1330,
+      "end": 1354
+    },
+    {
+      "text": "flujo disminuido",
+      "type": "PATOLOGIA",
+      "start": 1406,
+      "end": 1422
+    },
+    {
+      "text": "lado izquierdo",
+      "type": "LATERALIDAD",
+      "start": 1429,
+      "end": 1443
+    },
+    {
+      "text": "estenosis",
+      "type": "PATOLOGIA",
+      "start": 1330,
+      "end": 1339
+    },
+    {
+      "text": "hemorragias agudas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 488,
+      "end": 506
+    },
+    {
+      "text": "lesiones focales hemorrágicas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 510,
+      "end": 539
+    },
+    {
+      "text": "hemorragias intracraneales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1827,
+      "end": 1853
+    }
+  ]
+}

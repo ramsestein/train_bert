@@ -1,0 +1,215 @@
+{
+  "document_id": "informe_sintetico_20250804195045_24370",
+  "entities": [
+    {
+      "text": "hemiparesia izquierda",
+      "type": "PATOLOGIA",
+      "start": 180,
+      "end": 201
+    },
+    {
+      "text": "deterioro de conciencia",
+      "type": "PATOLOGIA",
+      "start": 227,
+      "end": 250
+    },
+    {
+      "text": "infarto cerebral derecho",
+      "type": "PATOLOGIA",
+      "start": 295,
+      "end": 319
+    },
+    {
+      "text": "extensa hiperdensidad heterogénea",
+      "type": "PATOLOGIA",
+      "start": 511,
+      "end": 544
+    },
+    {
+      "text": "transformación hemorrágica tipo PH2",
+      "type": "PATOLOGIA",
+      "start": 621,
+      "end": 656
+    },
+    {
+      "text": "más del 30%",
+      "type": "MEDIDA",
+      "start": 668,
+      "end": 679
+    },
+    {
+      "text": "edema perilesional",
+      "type": "PATOLOGIA",
+      "start": 732,
+      "end": 750
+    },
+    {
+      "text": "desplazamiento de la línea media hacia la izquierda",
+      "type": "PATOLOGIA",
+      "start": 791,
+      "end": 842
+    },
+    {
+      "text": "6 mm",
+      "type": "MEDIDA",
+      "start": 862,
+      "end": 866
+    },
+    {
+      "text": "compresión del asta frontal del ventrículo lateral derecho",
+      "type": "PATOLOGIA",
+      "start": 869,
+      "end": 927
+    },
+    {
+      "text": "No se evidencian signos de hemorragia subaracnoidea",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 929,
+      "end": 980
+    },
+    {
+      "text": "No signos de hidrocefalia obstructiva",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1204,
+      "end": 1241
+    },
+    {
+      "text": "cambios crónicos isquémicos moderados",
+      "type": "PATOLOGIA",
+      "start": 1165,
+      "end": 1202
+    },
+    {
+      "text": "marcada reducción del flujo sanguíneo cerebral",
+      "type": "PATOLOGIA",
+      "start": 1316,
+      "end": 1362
+    },
+    {
+      "text": "aumento del tiempo de tránsito",
+      "type": "PATOLOGIA",
+      "start": 1371,
+      "end": 1401
+    },
+    {
+      "text": "reducción difusa del volumen cerebral",
+      "type": "PATOLOGIA",
+      "start": 1438,
+      "end": 1475
+    },
+    {
+      "text": "extensa de infarto establecido",
+      "type": "PATOLOGIA",
+      "start": 1502,
+      "end": 1532
+    },
+    {
+      "text": "Oclusión persistente en segmento M1 de la arteria cerebral media derecha",
+      "type": "PATOLOGIA",
+      "start": 1560,
+      "end": 1632
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "ARTERIA",
+      "start": 574,
+      "end": 604
+    },
+    {
+      "text": "sistema vertebrobasilar",
+      "type": "ARTERIA",
+      "start": 1709,
+      "end": 1732
+    },
+    {
+      "text": "sin estenosis significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1746,
+      "end": 1774
+    },
+    {
+      "text": "Leve ateromatosis calcificada de la arteria carótida interna derecha",
+      "type": "PATOLOGIA",
+      "start": 1776,
+      "end": 1844
+    },
+    {
+      "text": "sin estenosis significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1746,
+      "end": 1773
+    },
+    {
+      "text": "Transformación hemorrágica tipo PH2",
+      "type": "PATOLOGIA",
+      "start": 1899,
+      "end": 1934
+    },
+    {
+      "text": "territorio de la arteria cerebral media derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1941,
+      "end": 1988
+    },
+    {
+      "text": "efecto de masa",
+      "type": "PATOLOGIA",
+      "start": 772,
+      "end": 786
+    },
+    {
+      "text": "desplazamiento de línea media",
+      "type": "PATOLOGIA",
+      "start": 2011,
+      "end": 2040
+    },
+    {
+      "text": "segmento M1 de ACM derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 2097,
+      "end": 2123
+    },
+    {
+      "text": "edema perilesional con efecto de masa significativo",
+      "type": "PATOLOGIA",
+      "start": 2135,
+      "end": 2186
+    },
+    {
+      "text": "No se observan hemorragias extracerebrales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2188,
+      "end": 2230
+    },
+    {
+      "text": "hidrocefalia activa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2234,
+      "end": 2253
+    },
+    {
+      "text": "Resto de los vasos principales permeables",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2255,
+      "end": 2296
+    },
+    {
+      "text": "Hemorragia parenquimatosa extensa en territorio de ACM derecha compatible con transformación hemorrágica PH2",
+      "type": "PATOLOGIA",
+      "start": 2469,
+      "end": 2577
+    },
+    {
+      "text": "infarto cerebral establecido en misma localización",
+      "type": "PATOLOGIA",
+      "start": 2579,
+      "end": 2629
+    },
+    {
+      "text": "oclusión segmentaria de ACM derecha",
+      "type": "PATOLOGIA",
+      "start": 2631,
+      "end": 2666
+    }
+  ]
+}

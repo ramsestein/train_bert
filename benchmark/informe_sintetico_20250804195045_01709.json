@@ -1,0 +1,125 @@
+{
+  "document_id": "informe_sintetico_20250804195045_01709",
+  "entities": [
+    {
+      "text": "hemorragias intracraneales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 495,
+      "end": 521
+    },
+    {
+      "text": "colecciones extraaxiales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 525,
+      "end": 549
+    },
+    {
+      "text": "áreas de hipodensidad parcheadas",
+      "type": "PATOLOGIA",
+      "start": 563,
+      "end": 595
+    },
+    {
+      "text": "sustancia blanca subcortical",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 602,
+      "end": 630
+    },
+    {
+      "text": "lóbulos occipitales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 638,
+      "end": 657
+    },
+    {
+      "text": "bilateral",
+      "type": "LATERALIDAD",
+      "start": 687,
+      "end": 696
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 826,
+      "end": 836
+    },
+    {
+      "text": "edema vasogénico",
+      "type": "PATOLOGIA",
+      "start": 1160,
+      "end": 1176
+    },
+    {
+      "text": "isquemia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1189,
+      "end": 1197
+    },
+    {
+      "text": "hemorragia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 495,
+      "end": 505
+    },
+    {
+      "text": "Arteriografía normal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1601,
+      "end": 1621
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 276,
+      "end": 292
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 319,
+      "end": 340
+    },
+    {
+      "text": "AngioTC intra y extracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 343,
+      "end": 371
+    },
+    {
+      "text": "volumen cerebral de sangre (CBV)",
+      "type": "MEDIDA",
+      "start": 1078,
+      "end": 1110
+    },
+    {
+      "text": "flujo cerebral de sangre (CBF)",
+      "type": "MEDIDA",
+      "start": 1113,
+      "end": 1143
+    },
+    {
+      "text": "sin signos de estenosis o trombosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1289,
+      "end": 1324
+    },
+    {
+      "text": "leucoencefalopatía posterior reversible (PRES)",
+      "type": "PATOLOGIA",
+      "start": 1434,
+      "end": 1480
+    },
+    {
+      "text": "fase aguda",
+      "type": "TEMPORALIDAD",
+      "start": 1484,
+      "end": 1494
+    },
+    {
+      "text": "bilateral en regiones occipitales y parietales",
+      "type": "PATOLOGIA",
+      "start": 1513,
+      "end": 1559
+    }
+  ]
+}

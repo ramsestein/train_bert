@@ -1,0 +1,33 @@
+UO_PACN (Unidad Organizativa Médica): RADIO
+
+PRUEB (Prueba solicitada): TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANG IOTC ARTERIAL INTRACRANEAL)
+
+CLIN (Resumen clínico): Paciente con cuadro súbito de vértigo intenso, diplopía y debilidad en extremidades inferiores, sospecha clínica de isquemia aguda en territorio vertebrobasilar.
+
+OBSR (Protocolo): Protocolo urgente Código Ictus con TC craneal basal sin contraste, TC perfusión cerebral y AngioTC de vasos extra e intracraneales enfocada en sistema vertebrobasilar.
+
+RESL (Resultados): TC CRANEAL BASAL:
+No se evidencian hemorragias intra ni extraaxiales.
+Presencia de discreta hipodensidad en la región del tronco encefálico, compatible con edema vasogénico incipiente.
+Diferenciación cortico-subcortical conservada en hemisferios cerebrales supratentoriales.
+Sistema ventricular y cisternas basales normales, sin desviación de línea media.
+TC PERFUSIÓN:
+Mapas de tiempo hasta el pico (TTP) y tiempo de llegada del contraste muestran retraso significativo en la perfusión del territorio vertebrobasilar, especialmente en el mesencéfalo y cerebelo posterior.
+Disminución clara del flujo sanguíneo cerebral (CBF) y volumen sanguíneo cerebral (CBV) en territorio posterior, situación compatible con área de isquemia aguda en evolución.
+ANGIO-TC EXTRA E INTRACRANEAL:
+Oclusión completa en segmento distal de la arteria basilar, con ausencia de flujo en esta zona y colaterales compensatorias escasas.
+Ambas arterias vertebrales permeables, con predominancia vertebral derecha.
+No se observan estenosis significativas en arterias carótidas o vasos intracraneales supratentoriales.
+Resto del sistema vertebrobasilar con flujo restringido y sin signos de aneurismas o malformaciones arteriovenosas.
+
+CONCL (Conclusiones): Isquemia aguda en territorio vertebrobasilar con oclusión distal de arteria basilar. Alteraciones de perfusión compatibles con área de isquemia en evolución en mesencéfalo y cerebelo posterior. No se identifican hemorragias intracraneales. Urgente valoración neurovascular para tratamiento endovascular.
+
+ACTI_ADICI (Actividad adicional): Informe comunicado telefónicamente al neurólogo de guardia. Recomendado seguimiento clínico y posibles pruebas complementarias.
+
+ICON (Estudio): @TC_CRANEAL@ @PERFUSION@ @ANGIOTC@
+
+X00DIATXT (Texto del diagnóstico ACR): Infarto agudo en territorio vertebrobasilar con oclusión distal de arteria basilar y alteraciones de perfusión compatibles con isquemia en evolución.
+
+EST_T_DES (Descripción): TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANGIOTC ARTERIAL INTRACRANEAL)
+
+ZVASOS_D (Der.): Sistema vertebrobasilar con oclusión distal de arteria basilar. Arterias vertebrales permeables, sin estenosis críticas.

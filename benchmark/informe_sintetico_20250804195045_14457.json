@@ -1,0 +1,89 @@
+{
+  "document_id": "informe_sintetico_20250804195045_14457",
+  "entities": [
+    {
+      "text": "hemorragia aguda",
+      "type": "PATOLOGIA",
+      "start": 379,
+      "end": 395
+    },
+    {
+      "text": "infarto cerebral reciente",
+      "type": "PATOLOGIA",
+      "start": 399,
+      "end": 424
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 542,
+      "end": 552
+    },
+    {
+      "text": "cambios crónicos leves",
+      "type": "PATOLOGIA",
+      "start": 570,
+      "end": 592
+    },
+    {
+      "text": "hipodensidades periventriculares",
+      "type": "PATOLOGIA",
+      "start": 604,
+      "end": 636
+    },
+    {
+      "text": "calcificaciones puntiformes ganglio cápsulas",
+      "type": "PATOLOGIA",
+      "start": 647,
+      "end": 691
+    },
+    {
+      "text": "microangiopatía crónica",
+      "type": "PATOLOGIA",
+      "start": 709,
+      "end": 732
+    },
+    {
+      "text": "sin desviación de línea media",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 789,
+      "end": 818
+    },
+    {
+      "text": "sin áreas de hipoperfusión o penumbra",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 967,
+      "end": 1004
+    },
+    {
+      "text": "permeabilidad preservada en todas las arterias intracraneales y extracraneales principales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1041,
+      "end": 1131
+    },
+    {
+      "text": "ACAs, ACMs, ACPs, ACIs",
+      "type": "ARTERIA",
+      "start": 1133,
+      "end": 1155
+    },
+    {
+      "text": "sin signos de estenosis ni trombosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1157,
+      "end": 1193
+    },
+    {
+      "text": "sin evidencia de patología aguda",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1314,
+      "end": 1346
+    },
+    {
+      "text": "sin áreas isquémicas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1442,
+      "end": 1462
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "document_id": "informe_sintetico_20250804195045_00819",
+  "entities": [
+    {
+      "text": "ictus isquémico",
+      "type": "PATOLOGIA",
+      "start": 232,
+      "end": 247
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 649,
+      "end": 663
+    },
+    {
+      "text": "ASPECTS 9",
+      "type": "PUNTUACION_CLINICA",
+      "start": 712,
+      "end": 721
+    },
+    {
+      "text": "territorio M2 de la arteria cerebral media izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1005,
+      "end": 1057
+    },
+    {
+      "text": "zona de penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1173,
+      "end": 1199
+    },
+    {
+      "text": "Oclusión focal en el segmento M2 de la arteria cerebral media izquierda",
+      "type": "PATOLOGIA",
+      "start": 1237,
+      "end": 1308
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "ARTERIA",
+      "start": 1025,
+      "end": 1057
+    },
+    {
+      "text": "No se identifican hemorragias intra ni extraaxiales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 482,
+      "end": 533
+    },
+    {
+      "text": "No hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1854,
+      "end": 1880
+    },
+    {
+      "text": "aguda",
+      "type": "TEMPORALIDAD",
+      "start": 658,
+      "end": 663
+    },
+    {
+      "text": "TC craneal basal sin contraste",
+      "type": "TECNICA_IMAGEN",
+      "start": 301,
+      "end": 331
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 334,
+      "end": 355
+    },
+    {
+      "text": "angioTC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 358,
+      "end": 387
+    }
+  ]
+}

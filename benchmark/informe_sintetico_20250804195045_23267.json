@@ -1,0 +1,101 @@
+{
+  "document_id": "informe_sintetico_20250804195045_23267",
+  "entities": [
+    {
+      "text": "hemiparesia izquierda",
+      "type": "PATOLOGIA",
+      "start": 196,
+      "end": 217
+    },
+    {
+      "text": "afasia motora",
+      "type": "PATOLOGIA",
+      "start": 225,
+      "end": 238
+    },
+    {
+      "text": "3 horas",
+      "type": "TEMPORALIDAD",
+      "start": 252,
+      "end": 259
+    },
+    {
+      "text": "No se identifica hemorragia intra ni extraaxial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 465,
+      "end": 512
+    },
+    {
+      "text": "leve hipodensidad cortical",
+      "type": "PATOLOGIA",
+      "start": 525,
+      "end": 551
+    },
+    {
+      "text": "territorio superficial de ramas M2-M3 de la arteria cerebral media derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 587,
+      "end": 661
+    },
+    {
+      "text": "ASPECTS 9/10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 719,
+      "end": 731
+    },
+    {
+      "text": "Oclusión segmentaria en rama distal M2/M3 derecha",
+      "type": "PATOLOGIA",
+      "start": 1249,
+      "end": 1298
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 1649,
+      "end": 1663
+    },
+    {
+      "text": "ASPECTS 9",
+      "type": "PUNTUACION_CLINICA",
+      "start": 719,
+      "end": 728
+    },
+    {
+      "text": "territorio penumbra de isquemia",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1766,
+      "end": 1797
+    },
+    {
+      "text": "No se evidencian hemorragias ni complicaciones secundarias",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1847,
+      "end": 1905
+    },
+    {
+      "text": "Isquemia aguda en territorio distal M2/M3 ACM derecha",
+      "type": "PATOLOGIA",
+      "start": 2100,
+      "end": 2153
+    },
+    {
+      "text": "oclusión arterial",
+      "type": "PATOLOGIA",
+      "start": 2158,
+      "end": 2175
+    },
+    {
+      "text": "penumbra en estudio de perfusión",
+      "type": "PATOLOGIA",
+      "start": 2191,
+      "end": 2223
+    },
+    {
+      "text": "TC Basal + TC Perfusión + AngioTC intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 304,
+      "end": 350
+    }
+  ]
+}

@@ -1,0 +1,221 @@
+{
+  "document_id": "informe_sintetico_20250804195045_12569",
+  "entities": [
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 192,
+      "end": 206
+    },
+    {
+      "text": "territorio vertebrobasilar",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 210,
+      "end": 236
+    },
+    {
+      "text": "Mareo intenso",
+      "type": "PATOLOGIA",
+      "start": 238,
+      "end": 251
+    },
+    {
+      "text": "diplopía",
+      "type": "PATOLOGIA",
+      "start": 253,
+      "end": 261
+    },
+    {
+      "text": "ataxia progresiva",
+      "type": "PATOLOGIA",
+      "start": 264,
+      "end": 281
+    },
+    {
+      "text": "horas",
+      "type": "TEMPORALIDAD",
+      "start": 285,
+      "end": 290
+    },
+    {
+      "text": "No se identifican signos de hemorragia aguda intra ni extraaxial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 471,
+      "end": 535
+    },
+    {
+      "text": "No se visualizan hipodensidades en el tronco encefálico ni cerebelo que sugieran isquemia establecida",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 537,
+      "end": 638
+    },
+    {
+      "text": "retraso en el tiempo de tránsito (TTP)",
+      "type": "PATOLOGIA",
+      "start": 796,
+      "end": 834
+    },
+    {
+      "text": "aumento del tiempo medio de tránsito (MTT)",
+      "type": "PATOLOGIA",
+      "start": 837,
+      "end": 879
+    },
+    {
+      "text": "territorio cerebeloso bilateral",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 883,
+      "end": 914
+    },
+    {
+      "text": "hemisferio cerebeloso izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 934,
+      "end": 965
+    },
+    {
+      "text": "bulbo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 993,
+      "end": 998
+    },
+    {
+      "text": "protuberancia",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1001,
+      "end": 1014
+    },
+    {
+      "text": "preservación relativa del volumen cerebral (CBV)",
+      "type": "PATOLOGIA",
+      "start": 1089,
+      "end": 1137
+    },
+    {
+      "text": "lesión isquémica en zona de penumbra",
+      "type": "PATOLOGIA",
+      "start": 1166,
+      "end": 1202
+    },
+    {
+      "text": "Oclusión completa del segmento V2 distal de la arteria vertebral izquierda",
+      "type": "PATOLOGIA",
+      "start": 1238,
+      "end": 1312
+    },
+    {
+      "text": "ausencia de opacificación distal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1318,
+      "end": 1350
+    },
+    {
+      "text": "arteria basilar",
+      "type": "ARTERIA",
+      "start": 1355,
+      "end": 1370
+    },
+    {
+      "text": "flujo disminuido",
+      "type": "PATOLOGIA",
+      "start": 1379,
+      "end": 1395
+    },
+    {
+      "text": "estenosis significativa proximal a la bifurcación basilar",
+      "type": "PATOLOGIA",
+      "start": 1401,
+      "end": 1458
+    },
+    {
+      "text": "permeable y de calibre conservado",
+      "type": "PATOLOGIA",
+      "start": 1486,
+      "end": 1519
+    },
+    {
+      "text": "Ramas cerebelosas y arterias cerebrales posteriores",
+      "type": "ARTERIA",
+      "start": 1521,
+      "end": 1572
+    },
+    {
+      "text": "flujo disminuido en territorio posterior izquierdo",
+      "type": "PATOLOGIA",
+      "start": 1593,
+      "end": 1643
+    },
+    {
+      "text": "No se evidencian otras estenosis ni placas calcificadas significativas en los troncos supraórticos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1645,
+      "end": 1743
+    },
+    {
+      "text": "No se observan signos de hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1770,
+      "end": 1818
+    },
+    {
+      "text": "Alteraciones hemodinámicas en territorio vertebrobasilar",
+      "type": "PATOLOGIA",
+      "start": 1820,
+      "end": 1876
+    },
+    {
+      "text": "oclusión de arteria vertebral izquierda en segmento V2",
+      "type": "PATOLOGIA",
+      "start": 1881,
+      "end": 1935
+    },
+    {
+      "text": "estenosis significativa proximal en arteria basilar",
+      "type": "PATOLOGIA",
+      "start": 1938,
+      "end": 1989
+    },
+    {
+      "text": "área en penumbra isquémica en cerebelo izquierdo y tronco cerebral",
+      "type": "PATOLOGIA",
+      "start": 2018,
+      "end": 2084
+    },
+    {
+      "text": "sin infarto establecido",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2086,
+      "end": 2109
+    },
+    {
+      "text": "Imágenes en cortes axiales, coronales y sagitales con reconstrucción 3D",
+      "type": "TECNICA_IMAGEN",
+      "start": 2431,
+      "end": 2502
+    },
+    {
+      "text": "Isquemia aguda vertebrobasilar",
+      "type": "PATOLOGIA",
+      "start": 2544,
+      "end": 2574
+    },
+    {
+      "text": "Oclusión segmento V2 arteria vertebral izquierda",
+      "type": "PATOLOGIA",
+      "start": 2576,
+      "end": 2624
+    },
+    {
+      "text": "Estenosis proximal arteria basilar",
+      "type": "PATOLOGIA",
+      "start": 2626,
+      "end": 2660
+    },
+    {
+      "text": "Área en penumbra en territorio cerebeloso izquierdo y tronco encefálico",
+      "type": "PATOLOGIA",
+      "start": 2662,
+      "end": 2733
+    }
+  ]
+}

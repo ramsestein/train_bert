@@ -1,0 +1,53 @@
+{
+  "document_id": "informe_sintetico_20250804195045_20524",
+  "entities": [
+    {
+      "text": "infarto isquémico subagudo",
+      "type": "PATOLOGIA",
+      "start": 609,
+      "end": 635
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 561,
+      "end": 593
+    },
+    {
+      "text": "arteria cerebral media",
+      "type": "ARTERIA",
+      "start": 561,
+      "end": 583
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 584,
+      "end": 593
+    },
+    {
+      "text": "PH1",
+      "type": "PUNTUACION_CLINICA",
+      "start": 768,
+      "end": 771
+    },
+    {
+      "text": "sin evidencia de penumbra significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1243,
+      "end": 1282
+    },
+    {
+      "text": "sin signos relevantes de estenosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1424,
+      "end": 1458
+    },
+    {
+      "text": "sin estenosis significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1683,
+      "end": 1710
+    }
+  ]
+}

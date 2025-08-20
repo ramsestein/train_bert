@@ -1,0 +1,167 @@
+{
+  "document_id": "informe_sintetico_20250804195045_15212",
+  "entities": [
+    {
+      "text": "infarto cerebral",
+      "type": "PATOLOGIA",
+      "start": 222,
+      "end": 238
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 259,
+      "end": 289
+    },
+    {
+      "text": "transformación hemorrágica",
+      "type": "PATOLOGIA",
+      "start": 303,
+      "end": 329
+    },
+    {
+      "text": "TC CRANEAL BASAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 550,
+      "end": 566
+    },
+    {
+      "text": "zona hipodensa",
+      "type": "PATOLOGIA",
+      "start": 584,
+      "end": 598
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 259,
+      "end": 289
+    },
+    {
+      "text": "infarto cerebral subagudo",
+      "type": "PATOLOGIA",
+      "start": 677,
+      "end": 702
+    },
+    {
+      "text": "4 mm",
+      "type": "MEDIDA",
+      "start": 805,
+      "end": 809
+    },
+    {
+      "text": "focos hemorrágicos puntiformes",
+      "type": "PATOLOGIA",
+      "start": 827,
+      "end": 857
+    },
+    {
+      "text": "grado HI1",
+      "type": "PUNTUACION_CLINICA",
+      "start": 859,
+      "end": 868
+    },
+    {
+      "text": "hematoma extenso",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 918,
+      "end": 934
+    },
+    {
+      "text": "efecto de masa significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 938,
+      "end": 966
+    },
+    {
+      "text": "ACM derecha",
+      "type": "ARTERIA",
+      "start": 1299,
+      "end": 1310
+    },
+    {
+      "text": "tiempo de tránsito (TTP)",
+      "type": "PATOLOGIA",
+      "start": 1197,
+      "end": 1221
+    },
+    {
+      "text": "flujo sanguíneo cerebral (CBF)",
+      "type": "PATOLOGIA",
+      "start": 1248,
+      "end": 1278
+    },
+    {
+      "text": "volumen sanguíneo cerebral (CBV)",
+      "type": "PATOLOGIA",
+      "start": 1339,
+      "end": 1371
+    },
+    {
+      "text": "área isquémica",
+      "type": "PATOLOGIA",
+      "start": 1387,
+      "end": 1401
+    },
+    {
+      "text": "Oclusión en segmento M1 proximal derecho",
+      "type": "PATOLOGIA",
+      "start": 1476,
+      "end": 1516
+    },
+    {
+      "text": "arteria cerebral media",
+      "type": "ARTERIA",
+      "start": 259,
+      "end": 281
+    },
+    {
+      "text": "re-permeabilización completa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1551,
+      "end": 1579
+    },
+    {
+      "text": "estenosis significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1649,
+      "end": 1672
+    },
+    {
+      "text": "zona infartada",
+      "type": "PATOLOGIA",
+      "start": 1018,
+      "end": 1032
+    },
+    {
+      "text": "transformación hemorrágica leve tipo HI1",
+      "type": "PATOLOGIA",
+      "start": 1800,
+      "end": 1840
+    },
+    {
+      "text": "Oclusión persistente en segmento M1 de la ACM derecha",
+      "type": "PATOLOGIA",
+      "start": 1873,
+      "end": 1926
+    },
+    {
+      "text": "hemorragia parenquimatosa extensa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2015,
+      "end": 2048
+    },
+    {
+      "text": "efecto de masa asociado",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2052,
+      "end": 2075
+    },
+    {
+      "text": "Línea media centrada",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2077,
+      "end": 2097
+    }
+  ]
+}

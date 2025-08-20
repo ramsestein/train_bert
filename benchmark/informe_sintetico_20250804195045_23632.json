@@ -1,0 +1,113 @@
+{
+  "document_id": "informe_sintetico_20250804195045_23632",
+  "entities": [
+    {
+      "text": "encefalopatía hipóxico-isquémica",
+      "type": "PATOLOGIA",
+      "start": 235,
+      "end": 267
+    },
+    {
+      "text": "pérdida moderada de la diferenciación córtico-subcortical",
+      "type": "PATOLOGIA",
+      "start": 462,
+      "end": 519
+    },
+    {
+      "text": "edema cerebral difuso",
+      "type": "PATOLOGIA",
+      "start": 658,
+      "end": 679
+    },
+    {
+      "text": "discreta reducción en áreas corticales frontoparietales y occipitales",
+      "type": "PATOLOGIA",
+      "start": 1301,
+      "end": 1370
+    },
+    {
+      "text": "infarto cortical delimitado",
+      "type": "PATOLOGIA",
+      "start": 1027,
+      "end": 1054
+    },
+    {
+      "text": "disminución global del flujo cerebral",
+      "type": "PATOLOGIA",
+      "start": 1080,
+      "end": 1117
+    },
+    {
+      "text": "tiempo medio de tránsito",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1138,
+      "end": 1162
+    },
+    {
+      "text": "tiempo hasta el pico",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1171,
+      "end": 1191
+    },
+    {
+      "text": "permeabilidad conservada de los grandes vasos cerebrales",
+      "type": "PATOLOGIA",
+      "start": 1451,
+      "end": 1507
+    },
+    {
+      "text": "arterias carotídeas internas, cerebrales anteriores, medias y posteriores",
+      "type": "ARTERIA",
+      "start": 1509,
+      "end": 1582
+    },
+    {
+      "text": "sistema ventricular",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 873,
+      "end": 892
+    },
+    {
+      "text": "cuernos frontales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 950,
+      "end": 967
+    },
+    {
+      "text": "sin signos de estenosis ni trombosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1584,
+      "end": 1620
+    },
+    {
+      "text": "No se observan hemorragias ni eventos isquémicos focales agudos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1981,
+      "end": 2044
+    },
+    {
+      "text": "sin alteraciones vasculares significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2054,
+      "end": 2096
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 437,
+      "end": 453
+    },
+    {
+      "text": "TC perfusión",
+      "type": "TECNICA_IMAGEN",
+      "start": 1057,
+      "end": 1069
+    },
+    {
+      "text": "AngioTC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 385,
+      "end": 414
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "document_id": "0000000010000000060521232_cleaned",
+  "entities": [
+    {
+      "text": "ictus ACMI M2",
+      "type": "PATOLOGIA",
+      "start": 197,
+      "end": 210
+    },
+    {
+      "text": "TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANG IOTC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 72,
+      "end": 140
+    },
+    {
+      "text": "No se observan signos de hemorragia aguda intra o extra craneal.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 492,
+      "end": 556
+    },
+    {
+      "text": "Lesión malácica insular izquierda",
+      "type": "PATOLOGIA",
+      "start": 557,
+      "end": 590
+    },
+    {
+      "text": "corona radiada izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 596,
+      "end": 620
+    },
+    {
+      "text": "territorio infartado",
+      "type": "PATOLOGIA",
+      "start": 637,
+      "end": 657
+    },
+    {
+      "text": "sin cambios",
+      "type": "PATOLOGIA",
+      "start": 685,
+      "end": 696
+    },
+    {
+      "text": "Resto del parenquima cerebral sin alteraciones densitométricas.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 698,
+      "end": 761
+    },
+    {
+      "text": "Sistema ventricular de tamaño y morfología normal.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 762,
+      "end": 812
+    },
+    {
+      "text": "Estructuras de la línea media centrada.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 813,
+      "end": 852
+    },
+    {
+      "text": "Cisternas de la base y perimesencefálicas sin ocupaciones.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 853,
+      "end": 911
+    }
+  ]
+}

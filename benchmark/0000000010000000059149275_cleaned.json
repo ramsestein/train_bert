@@ -1,0 +1,101 @@
+{
+  "document_id": "0000000010000000059149275_cleaned",
+  "entities": [
+    {
+      "text": "Infart cerebral causat per oclusió o estenosi no especificades d'artèria cerebral no especificada",
+      "type": "PATOLOGIA",
+      "start": 166,
+      "end": 263
+    },
+    {
+      "text": "No se observa hemorragia aguda intra ni extraaxial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 521,
+      "end": 571
+    },
+    {
+      "text": "Diferenciación cortico-subcortical conservada",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 573,
+      "end": 618
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 620,
+      "end": 630
+    },
+    {
+      "text": "Descenso de amígdalas cerebelosas bilateral de aprox. 6 mm",
+      "type": "PATOLOGIA",
+      "start": 749,
+      "end": 807
+    },
+    {
+      "text": "bilateral",
+      "type": "LATERALIDAD",
+      "start": 783,
+      "end": 792
+    },
+    {
+      "text": "aprox. 6 mm",
+      "type": "MEDIDA",
+      "start": 796,
+      "end": 807
+    },
+    {
+      "text": "sin signos de estenosis de su luz",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1144,
+      "end": 1177
+    },
+    {
+      "text": "Sin signos de patología isquémica aguda en el momento actual objetivable por TC",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1462,
+      "end": 1541
+    },
+    {
+      "text": "TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANGIOTC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 1885,
+      "end": 1952
+    },
+    {
+      "text": "TC CRANEAL BASAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 300,
+      "end": 316
+    },
+    {
+      "text": "TC PERFUSIÓN",
+      "type": "TECNICA_IMAGEN",
+      "start": 929,
+      "end": 941
+    },
+    {
+      "text": "ANGIO-TC EXTRA E INTRACRANEAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 1019,
+      "end": 1048
+    },
+    {
+      "text": "Sistema vertebro-basilar",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1179,
+      "end": 1203
+    },
+    {
+      "text": "Origen común de la ACC izquierda en tronco braquiocefálico",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1296,
+      "end": 1354
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 1319,
+      "end": 1328
+    }
+  ]
+}

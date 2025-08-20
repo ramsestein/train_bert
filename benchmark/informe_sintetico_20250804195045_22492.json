@@ -1,0 +1,71 @@
+{
+  "document_id": "informe_sintetico_20250804195045_22492",
+  "entities": [
+    {
+      "text": "infarto lacunar",
+      "type": "PATOLOGIA",
+      "start": 215,
+      "end": 230
+    },
+    {
+      "text": "núcleo lenticular izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 524,
+      "end": 551
+    },
+    {
+      "text": "7 mm",
+      "type": "MEDIDA",
+      "start": 495,
+      "end": 499
+    },
+    {
+      "text": "agudo",
+      "type": "TEMPORALIDAD",
+      "start": 584,
+      "end": 589
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 876,
+      "end": 886
+    },
+    {
+      "text": "volumen cerebral sanguíneo (CBV)",
+      "type": "PATOLOGIA",
+      "start": 943,
+      "end": 975
+    },
+    {
+      "text": "núcleo lenticular izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 524,
+      "end": 551
+    },
+    {
+      "text": "arteria carótida interna izquierda",
+      "type": "ARTERIA",
+      "start": 1471,
+      "end": 1505
+    },
+    {
+      "text": "sin estenosis significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1913,
+      "end": 1941
+    },
+    {
+      "text": "sin complicaciones hemorrágicas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1751,
+      "end": 1782
+    },
+    {
+      "text": "sin penumbra",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1867,
+      "end": 1879
+    }
+  ]
+}

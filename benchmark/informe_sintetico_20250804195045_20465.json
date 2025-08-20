@@ -1,0 +1,77 @@
+{
+  "document_id": "informe_sintetico_20250804195045_20465",
+  "entities": [
+    {
+      "text": "ASPECTS 10/10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 506,
+      "end": 519
+    },
+    {
+      "text": "No hay evidencia de hemorragia intra ni extraaxial.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 521,
+      "end": 572
+    },
+    {
+      "text": "Sistema ventricular con morfología y tamaño normales.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 629,
+      "end": 682
+    },
+    {
+      "text": "Cisternas basales libres y sin colecciones.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 683,
+      "end": 726
+    },
+    {
+      "text": "TTP",
+      "type": "TECNICA_IMAGEN",
+      "start": 775,
+      "end": 778
+    },
+    {
+      "text": "CBV",
+      "type": "TECNICA_IMAGEN",
+      "start": 809,
+      "end": 812
+    },
+    {
+      "text": "CBF",
+      "type": "TECNICA_IMAGEN",
+      "start": 842,
+      "end": 845
+    },
+    {
+      "text": "ACAs, ACMs y ACPs",
+      "type": "ARTERIA",
+      "start": 996,
+      "end": 1013
+    },
+    {
+      "text": "Sistema vertebrobasilar",
+      "type": "ARTERIA",
+      "start": 1081,
+      "end": 1104
+    },
+    {
+      "text": "sin hallazgos agudos.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1272,
+      "end": 1293
+    },
+    {
+      "text": "sin signos de isquemia ni hemorragia.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1309,
+      "end": 1346
+    },
+    {
+      "text": "sin estenosis significativas.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1409,
+      "end": 1438
+    }
+  ]
+}

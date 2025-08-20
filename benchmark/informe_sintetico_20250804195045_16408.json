@@ -1,0 +1,89 @@
+{
+  "document_id": "informe_sintetico_20250804195045_16408",
+  "entities": [
+    {
+      "text": "ictus isquémico",
+      "type": "PATOLOGIA",
+      "start": 207,
+      "end": 222
+    },
+    {
+      "text": "arteria cerebral media",
+      "type": "ARTERIA",
+      "start": 240,
+      "end": 262
+    },
+    {
+      "text": "agudo",
+      "type": "TEMPORALIDAD",
+      "start": 186,
+      "end": 191
+    },
+    {
+      "text": "infarto cerebral",
+      "type": "PATOLOGIA",
+      "start": 614,
+      "end": 630
+    },
+    {
+      "text": "reciente instauración",
+      "type": "TEMPORALIDAD",
+      "start": 634,
+      "end": 655
+    },
+    {
+      "text": "ASPECTS 7",
+      "type": "PUNTUACION_CLINICA",
+      "start": 657,
+      "end": 666
+    },
+    {
+      "text": "núcleo lenticular derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 709,
+      "end": 734
+    },
+    {
+      "text": "transformación hemorrágica tipo PH1",
+      "type": "PATOLOGIA",
+      "start": 815,
+      "end": 850
+    },
+    {
+      "text": "sangrado parenquimatoso extenso",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 866,
+      "end": 897
+    },
+    {
+      "text": "hemorragia intraventricular asociada",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 901,
+      "end": 937
+    },
+    {
+      "text": "ACM derecha",
+      "type": "ARTERIA",
+      "start": 1173,
+      "end": 1184
+    },
+    {
+      "text": "penumbra viable",
+      "type": "PATOLOGIA",
+      "start": 1257,
+      "end": 1272
+    },
+    {
+      "text": "oclusión del segmento M2 de la ACM derecha",
+      "type": "PATOLOGIA",
+      "start": 1425,
+      "end": 1467
+    },
+    {
+      "text": "sin evidencias de vasoespasmo ni estenosis crítica",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1526,
+      "end": 1576
+    }
+  ]
+}

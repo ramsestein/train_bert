@@ -1,0 +1,107 @@
+{
+  "document_id": "informe_sintetico_20250804195045_14639",
+  "entities": [
+    {
+      "text": "microhemorragias múltiples",
+      "type": "PATOLOGIA",
+      "start": 593,
+      "end": 619
+    },
+    {
+      "text": "sustancia blanca subcortical",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 515,
+      "end": 543
+    },
+    {
+      "text": "núcleos profundos",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 546,
+      "end": 563
+    },
+    {
+      "text": "bilaterales",
+      "type": "LATERALIDAD",
+      "start": 564,
+      "end": 575
+    },
+    {
+      "text": "No se visualizan hematomas de mayor volumen",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 621,
+      "end": 664
+    },
+    {
+      "text": "No hay evidencia de hemorragia intraventricular",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 694,
+      "end": 741
+    },
+    {
+      "text": "No se observan signos claros de infarto agudo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 806,
+      "end": 851
+    },
+    {
+      "text": "cambios microangiopáticos crónicos",
+      "type": "PATOLOGIA",
+      "start": 919,
+      "end": 953
+    },
+    {
+      "text": "sin signos de oclusión ni estenosis hemodinámicamente relevantes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1312,
+      "end": 1376
+    },
+    {
+      "text": "vasculopatía microangiopática",
+      "type": "PATOLOGIA",
+      "start": 1569,
+      "end": 1598
+    },
+    {
+      "text": "angiopatía amiloide",
+      "type": "PATOLOGIA",
+      "start": 1613,
+      "end": 1632
+    },
+    {
+      "text": "enfermedad hipertensiva",
+      "type": "PATOLOGIA",
+      "start": 1635,
+      "end": 1658
+    },
+    {
+      "text": "Microhemorragias cerebrales múltiples",
+      "type": "PATOLOGIA",
+      "start": 2022,
+      "end": 2059
+    },
+    {
+      "text": "vasculopatía microangiopática",
+      "type": "PATOLOGIA",
+      "start": 1569,
+      "end": 1598
+    },
+    {
+      "text": "TC craneal sin contraste",
+      "type": "TECNICA_IMAGEN",
+      "start": 306,
+      "end": 330
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 332,
+      "end": 353
+    },
+    {
+      "text": "angiografía por TC de vasos intra y extracraneales",
+      "type": "TECNICA_IMAGEN",
+      "start": 356,
+      "end": 406
+    }
+  ]
+}

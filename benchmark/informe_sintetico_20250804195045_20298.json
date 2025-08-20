@@ -1,0 +1,65 @@
+{
+  "document_id": "informe_sintetico_20250804195045_20298",
+  "entities": [
+    {
+      "text": "infartos lacunares crónicos",
+      "type": "PATOLOGIA",
+      "start": 623,
+      "end": 650
+    },
+    {
+      "text": "núcleos profundos",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 565,
+      "end": 582
+    },
+    {
+      "text": "cápsula interna",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 781,
+      "end": 796
+    },
+    {
+      "text": "núcleo lenticular",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 799,
+      "end": 816
+    },
+    {
+      "text": "bilaterales",
+      "type": "LATERALIDAD",
+      "start": 817,
+      "end": 828
+    },
+    {
+      "text": "3 y 8 mm",
+      "type": "MEDIDA",
+      "start": 679,
+      "end": 687
+    },
+    {
+      "text": "aguda",
+      "type": "TEMPORALIDAD",
+      "start": 915,
+      "end": 920
+    },
+    {
+      "text": "sin estenosis significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1377,
+      "end": 1405
+    },
+    {
+      "text": "sin estenosis de relevancia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1803,
+      "end": 1830
+    },
+    {
+      "text": "TTP, CBV, CBF",
+      "type": "TECNICA_IMAGEN",
+      "start": 1200,
+      "end": 1213
+    }
+  ]
+}

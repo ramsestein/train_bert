@@ -1,0 +1,89 @@
+{
+  "document_id": "0000000010000000059437044_cleaned",
+  "entities": [
+    {
+      "text": "hemorragia",
+      "type": "PATOLOGIA",
+      "start": 121,
+      "end": 131
+    },
+    {
+      "text": "No se observa hemorragia intra ni extraaxial.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 290,
+      "end": 335
+    },
+    {
+      "text": "sin alteraciones densitométricas agudas.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 356,
+      "end": 396
+    },
+    {
+      "text": "ASPECTS 10.",
+      "type": "PUNTUACION_CLINICA",
+      "start": 444,
+      "end": 455
+    },
+    {
+      "text": "No se observan lesiones isquémicas parenquimatosas subagudas ni otras lesiones isquemicas crónicas.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 526,
+      "end": 625
+    },
+    {
+      "text": "Leve ateromatosis del arco aórtico.",
+      "type": "PATOLOGIA",
+      "start": 882,
+      "end": 917
+    },
+    {
+      "text": "Placas de ateroma calcificadas no estenóticas en ambas bifurcaciones carotídeas.",
+      "type": "PATOLOGIA",
+      "start": 918,
+      "end": 998
+    },
+    {
+      "text": "arteria carótida interna",
+      "type": "ARTERIA",
+      "start": 1047,
+      "end": 1071
+    },
+    {
+      "text": "arterias vertebrales",
+      "type": "ARTERIA",
+      "start": 1130,
+      "end": 1150
+    },
+    {
+      "text": "ACAs, ACMs y ACPs",
+      "type": "ARTERIA",
+      "start": 1255,
+      "end": 1272
+    },
+    {
+      "text": "ACA derecha",
+      "type": "ARTERIA",
+      "start": 1275,
+      "end": 1286
+    },
+    {
+      "text": "Ambas arterias vertebrales",
+      "type": "LATERALIDAD",
+      "start": 1319,
+      "end": 1345
+    },
+    {
+      "text": "10 mm",
+      "type": "MEDIDA",
+      "start": 1567,
+      "end": 1572
+    },
+    {
+      "text": "sin hallazgos patológicos agudos.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1728,
+      "end": 1761
+    }
+  ]
+}

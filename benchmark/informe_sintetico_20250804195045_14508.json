@@ -1,0 +1,59 @@
+{
+  "document_id": "informe_sintetico_20250804195045_14508",
+  "entities": [
+    {
+      "text": "hemorragia aguda",
+      "type": "PATOLOGIA",
+      "start": 402,
+      "end": 418
+    },
+    {
+      "text": "parénquima cerebral",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 443,
+      "end": 462
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 530,
+      "end": 540
+    },
+    {
+      "text": "lesiones isquémicas recientes ni crónicas significativas",
+      "type": "PATOLOGIA",
+      "start": 563,
+      "end": 619
+    },
+    {
+      "text": "cisternas basales y perimesencefálicas",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 725,
+      "end": 763
+    },
+    {
+      "text": "mapas de flujo cerebral (CBF), volumen cerebral sanguíneo (CBV) y tiempo de tránsito medio (MTT)",
+      "type": "TECNICA_IMAGEN",
+      "start": 838,
+      "end": 934
+    },
+    {
+      "text": "permeabilidad completa de los principales vasos intracraneales (arterias cerebrales anterior, media y posterior)",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1087,
+      "end": 1199
+    },
+    {
+      "text": "estenosis, aneurismas ni malformaciones vasculares",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1217,
+      "end": 1267
+    },
+    {
+      "text": "defectos de llenado ni signos de trombosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1286,
+      "end": 1328
+    }
+  ]
+}

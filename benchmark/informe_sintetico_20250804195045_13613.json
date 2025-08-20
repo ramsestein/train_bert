@@ -1,0 +1,65 @@
+{
+  "document_id": "informe_sintetico_20250804195045_13613",
+  "entities": [
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 1879,
+      "end": 1893
+    },
+    {
+      "text": "territorio arterial cerebral anterior",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 420,
+      "end": 457
+    },
+    {
+      "text": "arteria cerebral anterior (ACA)",
+      "type": "ARTERIA",
+      "start": 841,
+      "end": 872
+    },
+    {
+      "text": "izquierdo",
+      "type": "LATERALIDAD",
+      "start": 787,
+      "end": 796
+    },
+    {
+      "text": "ASPECTS 9",
+      "type": "PUNTUACION_CLINICA",
+      "start": 1058,
+      "end": 1067
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 484,
+      "end": 500
+    },
+    {
+      "text": "No hay evidencia de hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 874,
+      "end": 917
+    },
+    {
+      "text": "Oclusión segmentaria en la porción proximal de la arteria cerebral anterior izquierda (segmento A2)",
+      "type": "PATOLOGIA",
+      "start": 1504,
+      "end": 1603
+    },
+    {
+      "text": "Oclusión proximal de segmento A2 de ACA izquierda",
+      "type": "PATOLOGIA",
+      "start": 2013,
+      "end": 2062
+    },
+    {
+      "text": "Ausencia de hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2064,
+      "end": 2099
+    }
+  ]
+}

@@ -1,0 +1,119 @@
+{
+  "document_id": "informe_sintetico_20250804195045_13549",
+  "entities": [
+    {
+      "text": "isquemia",
+      "type": "PATOLOGIA",
+      "start": 375,
+      "end": 383
+    },
+    {
+      "text": "hemiparesia derecha",
+      "type": "PATOLOGIA",
+      "start": 308,
+      "end": 327
+    },
+    {
+      "text": "infarto",
+      "type": "PATOLOGIA",
+      "start": 790,
+      "end": 797
+    },
+    {
+      "text": "arteria cerebelosa posteroinferior izquierda",
+      "type": "ARTERIA",
+      "start": 1079,
+      "end": 1123
+    },
+    {
+      "text": "tronco basilar",
+      "type": "ARTERIA",
+      "start": 1154,
+      "end": 1168
+    },
+    {
+      "text": "arteria vertebral izquierda",
+      "type": "ARTERIA",
+      "start": 1342,
+      "end": 1369
+    },
+    {
+      "text": "territorio vertebrobasilar",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 387,
+      "end": 413
+    },
+    {
+      "text": "territorio vertebrobasilar proximal",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1809,
+      "end": 1844
+    },
+    {
+      "text": "proximales",
+      "type": "LATERALIDAD",
+      "start": 1139,
+      "end": 1149
+    },
+    {
+      "text": "3 horas",
+      "type": "TEMPORALIDAD",
+      "start": 346,
+      "end": 353
+    },
+    {
+      "text": "penumbra isquémica activa",
+      "type": "PATOLOGIA",
+      "start": 1244,
+      "end": 1269
+    },
+    {
+      "text": "sin infarto establecido",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1920,
+      "end": 1943
+    },
+    {
+      "text": "No se evidencian signos de sangrado intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 661,
+      "end": 709
+    },
+    {
+      "text": "No se observan áreas hipodensas sugestivas de infarto establecido",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 744,
+      "end": 809
+    },
+    {
+      "text": "No se observan estenosis significativas en carótidas internas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1542,
+      "end": 1603
+    },
+    {
+      "text": "sin desplazamiento de la línea media",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 916,
+      "end": 952
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 434,
+      "end": 450
+    },
+    {
+      "text": "estudio de perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 466,
+      "end": 495
+    },
+    {
+      "text": "angioTC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 498,
+      "end": 527
+    }
+  ]
+}

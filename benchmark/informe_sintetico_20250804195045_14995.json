@@ -1,0 +1,59 @@
+{
+  "document_id": "informe_sintetico_20250804195045_14995",
+  "entities": [
+    {
+      "text": "infarto lacunar",
+      "type": "PATOLOGIA",
+      "start": 222,
+      "end": 237
+    },
+    {
+      "text": "cápsula interna izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 551,
+      "end": 576
+    },
+    {
+      "text": "agudo",
+      "type": "TEMPORALIDAD",
+      "start": 609,
+      "end": 614
+    },
+    {
+      "text": "No se visualizan hemorragias intracraneales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 420,
+      "end": 463
+    },
+    {
+      "text": "No hay edema significativo ni efecto de masa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 616,
+      "end": 660
+    },
+    {
+      "text": "sin signos de oclusión",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1582,
+      "end": 1604
+    },
+    {
+      "text": "sin evidencia de afectación extensiva o edema asociado",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1481,
+      "end": 1535
+    },
+    {
+      "text": "Arterias cerebrales principales",
+      "type": "ARTERIA",
+      "start": 1138,
+      "end": 1169
+    },
+    {
+      "text": "sin signos de estenosis ni trombosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1181,
+      "end": 1217
+    }
+  ]
+}

@@ -1,0 +1,137 @@
+{
+  "document_id": "informe_sintetico_20250804195045_24299",
+  "entities": [
+    {
+      "text": "hemiparesia derecha",
+      "type": "PATOLOGIA",
+      "start": 197,
+      "end": 216
+    },
+    {
+      "text": "ictus isquémico agudo",
+      "type": "PATOLOGIA",
+      "start": 239,
+      "end": 260
+    },
+    {
+      "text": "focos de hipodensidad de baja atenuación",
+      "type": "PATOLOGIA",
+      "start": 548,
+      "end": 588
+    },
+    {
+      "text": "infartos isquémicos agudos multifocales",
+      "type": "PATOLOGIA",
+      "start": 846,
+      "end": 885
+    },
+    {
+      "text": "territorio de la arteria cerebral media izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 674,
+      "end": 723
+    },
+    {
+      "text": "territorio de la arteria cerebral posterior derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 740,
+      "end": 791
+    },
+    {
+      "text": "núcleos basales contralaterales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 797,
+      "end": 828
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "ARTERIA",
+      "start": 691,
+      "end": 723
+    },
+    {
+      "text": "arteria cerebral posterior derecha",
+      "type": "ARTERIA",
+      "start": 757,
+      "end": 791
+    },
+    {
+      "text": "arteria carótida interna izquierda",
+      "type": "ARTERIA",
+      "start": 1687,
+      "end": 1721
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 714,
+      "end": 723
+    },
+    {
+      "text": "derechas",
+      "type": "LATERALIDAD",
+      "start": 1611,
+      "end": 1619
+    },
+    {
+      "text": "múltiples territorios",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 604,
+      "end": 625
+    },
+    {
+      "text": "infartos establecidos",
+      "type": "PATOLOGIA",
+      "start": 1331,
+      "end": 1352
+    },
+    {
+      "text": "sin signos de oclusión",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1813,
+      "end": 1835
+    },
+    {
+      "text": "No se evidencian hemorragias intra ni extraaxiales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 481,
+      "end": 531
+    },
+    {
+      "text": "No se identifica hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2170,
+      "end": 2210
+    },
+    {
+      "text": "sin estenosis crítica",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1756,
+      "end": 1777
+    },
+    {
+      "text": "sin evidencia de edema masivo o herniación",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2388,
+      "end": 2430
+    },
+    {
+      "text": "TC CRANEAL BASAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 314,
+      "end": 330
+    },
+    {
+      "text": "TC PERFUSIÓN",
+      "type": "TECNICA_IMAGEN",
+      "start": 1131,
+      "end": 1143
+    },
+    {
+      "text": "ANGIO-TC EXTRA E INTRACRANEAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 1455,
+      "end": 1484
+    }
+  ]
+}

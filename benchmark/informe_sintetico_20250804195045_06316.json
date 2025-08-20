@@ -1,0 +1,131 @@
+{
+  "document_id": "informe_sintetico_20250804195045_06316",
+  "entities": [
+    {
+      "text": "hemiparesia derecha",
+      "type": "PATOLOGIA",
+      "start": 288,
+      "end": 307
+    },
+    {
+      "text": "afasia",
+      "type": "PATOLOGIA",
+      "start": 310,
+      "end": 316
+    },
+    {
+      "text": "múltiples áreas de hipodensidad",
+      "type": "PATOLOGIA",
+      "start": 565,
+      "end": 596
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 1173,
+      "end": 1187
+    },
+    {
+      "text": "oclusiones segmentarias",
+      "type": "PATOLOGIA",
+      "start": 1231,
+      "end": 1254
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "ARTERIA",
+      "start": 720,
+      "end": 752
+    },
+    {
+      "text": "territorio cerebeloso derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 776,
+      "end": 805
+    },
+    {
+      "text": "ambos hemisferios cerebrales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 656,
+      "end": 684
+    },
+    {
+      "text": "territorios corticales y subcorticales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 600,
+      "end": 638
+    },
+    {
+      "text": "volumen sanguíneo (CBV)",
+      "type": "MEDIDA",
+      "start": 996,
+      "end": 1019
+    },
+    {
+      "text": "flujo sanguíneo cerebral (CBF)",
+      "type": "MEDIDA",
+      "start": 1022,
+      "end": 1052
+    },
+    {
+      "text": "tiempo de tránsito medio (MTT)",
+      "type": "MEDIDA",
+      "start": 1117,
+      "end": 1147
+    },
+    {
+      "text": "aguda",
+      "type": "TEMPORALIDAD",
+      "start": 1182,
+      "end": 1187
+    },
+    {
+      "text": "múltiples oclusiones",
+      "type": "PATOLOGIA",
+      "start": 1341,
+      "end": 1361
+    },
+    {
+      "text": "sin evidencia de sangrado intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 807,
+      "end": 845
+    },
+    {
+      "text": "No se observa efecto de masa significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 847,
+      "end": 889
+    },
+    {
+      "text": "No se identifican estenosis significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1440,
+      "end": 1482
+    },
+    {
+      "text": "sin hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2196,
+      "end": 2223
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 445,
+      "end": 461
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 463,
+      "end": 484
+    },
+    {
+      "text": "angioTC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 487,
+      "end": 516
+    }
+  ]
+}

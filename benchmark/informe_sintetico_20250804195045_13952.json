@@ -1,0 +1,101 @@
+{
+  "document_id": "informe_sintetico_20250804195045_13952",
+  "entities": [
+    {
+      "text": "isquemia cerebral",
+      "type": "PATOLOGIA",
+      "start": 271,
+      "end": 288
+    },
+    {
+      "text": "arteria cerebral media derecha distal",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 306,
+      "end": 343
+    },
+    {
+      "text": "arteria cerebral media",
+      "type": "ARTERIA",
+      "start": 306,
+      "end": 328
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 329,
+      "end": 336
+    },
+    {
+      "text": "ASPECTS 9",
+      "type": "PUNTUACION_CLINICA",
+      "start": 709,
+      "end": 718
+    },
+    {
+      "text": "TTP (tiempo de tránsito medio)",
+      "type": "MEDIDA",
+      "start": 973,
+      "end": 1003
+    },
+    {
+      "text": "CBF (flujo cerebral)",
+      "type": "MEDIDA",
+      "start": 1022,
+      "end": 1042
+    },
+    {
+      "text": "CBV (volumen cerebral)",
+      "type": "MEDIDA",
+      "start": 1074,
+      "end": 1096
+    },
+    {
+      "text": "penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1163,
+      "end": 1181
+    },
+    {
+      "text": "oclusión segmentaria",
+      "type": "PATOLOGIA",
+      "start": 1234,
+      "end": 1254
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "ARTERIA",
+      "start": 306,
+      "end": 336
+    },
+    {
+      "text": "M2-M3",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 938,
+      "end": 943
+    },
+    {
+      "text": "ASPECTS 9",
+      "type": "PUNTUACION_CLINICA",
+      "start": 709,
+      "end": 718
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1846,
+      "end": 1869
+    },
+    {
+      "text": "hemorragia intra ni extraaxial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 541,
+      "end": 571
+    },
+    {
+      "text": "infarto consolidado",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 688,
+      "end": 707
+    }
+  ]
+}

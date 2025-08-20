@@ -1,0 +1,83 @@
+{
+  "document_id": "informe_sintetico_20250804195045_16740",
+  "entities": [
+    {
+      "text": "trombo intraluminal",
+      "type": "PATOLOGIA",
+      "start": 562,
+      "end": 581
+    },
+    {
+      "text": "infarto",
+      "type": "PATOLOGIA",
+      "start": 1262,
+      "end": 1269
+    },
+    {
+      "text": "ASPECTS 6/10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 703,
+      "end": 715
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "ARTERIA",
+      "start": 517,
+      "end": 547
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 540,
+      "end": 547
+    },
+    {
+      "text": "Oclusión completa del segmento M1 de la arteria cerebral media derecha",
+      "type": "PATOLOGIA",
+      "start": 1483,
+      "end": 1553
+    },
+    {
+      "text": "Oclusión aguda",
+      "type": "TEMPORALIDAD",
+      "start": 1899,
+      "end": 1913
+    },
+    {
+      "text": "ASPECTS 6/10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 703,
+      "end": 715
+    },
+    {
+      "text": "penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1314,
+      "end": 1332
+    },
+    {
+      "text": "No se detectan signos de hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 717,
+      "end": 765
+    },
+    {
+      "text": "TC craneal basal sin contraste",
+      "type": "TECNICA_IMAGEN",
+      "start": 277,
+      "end": 307
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 320,
+      "end": 341
+    },
+    {
+      "text": "AngioTC intra y extracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 344,
+      "end": 372
+    }
+  ]
+}

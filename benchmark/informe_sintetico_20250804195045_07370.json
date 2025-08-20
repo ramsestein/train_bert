@@ -1,0 +1,89 @@
+{
+  "document_id": "informe_sintetico_20250804195045_07370",
+  "entities": [
+    {
+      "text": "hematoma lobar",
+      "type": "PATOLOGIA",
+      "start": 476,
+      "end": 490
+    },
+    {
+      "text": "región frontal izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 494,
+      "end": 518
+    },
+    {
+      "text": "3.5 x 2.8 cm",
+      "type": "MEDIDA",
+      "start": 601,
+      "end": 613
+    },
+    {
+      "text": "5 mm",
+      "type": "MEDIDA",
+      "start": 768,
+      "end": 772
+    },
+    {
+      "text": "hemorragia intraventricular",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 808,
+      "end": 835
+    },
+    {
+      "text": "hemorragia subaracnoidea significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 839,
+      "end": 877
+    },
+    {
+      "text": "isquemia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1306,
+      "end": 1314
+    },
+    {
+      "text": "Arterias cerebrales principales",
+      "type": "ARTERIA",
+      "start": 1472,
+      "end": 1503
+    },
+    {
+      "text": "sin estenosis ni oclusiones",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1515,
+      "end": 1542
+    },
+    {
+      "text": "sin hallazgos vasculares patológicos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1861,
+      "end": 1897
+    },
+    {
+      "text": "seguimiento neurológico estricto",
+      "type": "TEMPORALIDAD",
+      "start": 1913,
+      "end": 1945
+    },
+    {
+      "text": "TC craneal urgente",
+      "type": "TECNICA_IMAGEN",
+      "start": 2114,
+      "end": 2132
+    },
+    {
+      "text": "perfusión",
+      "type": "TECNICA_IMAGEN",
+      "start": 368,
+      "end": 377
+    },
+    {
+      "text": "angio-TC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 2149,
+      "end": 2179
+    }
+  ]
+}

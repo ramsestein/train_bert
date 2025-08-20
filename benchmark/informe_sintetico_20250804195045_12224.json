@@ -1,0 +1,65 @@
+{
+  "document_id": "informe_sintetico_20250804195045_12224",
+  "entities": [
+    {
+      "text": "infarto cerebral agudo establecido",
+      "type": "PATOLOGIA",
+      "start": 618,
+      "end": 652
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 468,
+      "end": 500
+    },
+    {
+      "text": "arteria carótida interna izquierda",
+      "type": "ARTERIA",
+      "start": 1370,
+      "end": 1404
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 491,
+      "end": 500
+    },
+    {
+      "text": "agudo",
+      "type": "TEMPORALIDAD",
+      "start": 635,
+      "end": 640
+    },
+    {
+      "text": "infarto cerebral agudo",
+      "type": "PATOLOGIA",
+      "start": 618,
+      "end": 640
+    },
+    {
+      "text": "Oclusión completa",
+      "type": "PATOLOGIA",
+      "start": 1346,
+      "end": 1363
+    },
+    {
+      "text": "TC craneal sin contraste",
+      "type": "TECNICA_IMAGEN",
+      "start": 277,
+      "end": 301
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 304,
+      "end": 325
+    },
+    {
+      "text": "AngioTC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 328,
+      "end": 357
+    }
+  ]
+}

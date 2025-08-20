@@ -1,0 +1,155 @@
+{
+  "document_id": "informe_sintetico_20250804195045_07831",
+  "entities": [
+    {
+      "text": "hemiparesia contralateral",
+      "type": "PATOLOGIA",
+      "start": 195,
+      "end": 220
+    },
+    {
+      "text": "accidente isquémico agudo",
+      "type": "PATOLOGIA",
+      "start": 268,
+      "end": 293
+    },
+    {
+      "text": "arteria cerebral anterior",
+      "type": "ARTERIA",
+      "start": 311,
+      "end": 336
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 689,
+      "end": 698
+    },
+    {
+      "text": "No se identifica hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 503,
+      "end": 543
+    },
+    {
+      "text": "No se evidencian signos de herniación ni desplazamiento de la línea media",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 785,
+      "end": 858
+    },
+    {
+      "text": "sin alteraciones ni signos de hidrocefalia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 880,
+      "end": 922
+    },
+    {
+      "text": "Oclusión segmentaria de la arteria cerebral anterior",
+      "type": "PATOLOGIA",
+      "start": 1372,
+      "end": 1424
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 689,
+      "end": 698
+    },
+    {
+      "text": "segmento A2 proximal",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1447,
+      "end": 1467
+    },
+    {
+      "text": "ASPECTS 9",
+      "type": "PUNTUACION_CLINICA",
+      "start": 756,
+      "end": 765
+    },
+    {
+      "text": "prolongación del tiempo de tránsito medio (MTT)",
+      "type": "MEDIDA",
+      "start": 1016,
+      "end": 1063
+    },
+    {
+      "text": "disminución del flujo cerebral (CBF)",
+      "type": "MEDIDA",
+      "start": 1080,
+      "end": 1116
+    },
+    {
+      "text": "volumen cerebral (CBV)",
+      "type": "MEDIDA",
+      "start": 1123,
+      "end": 1145
+    },
+    {
+      "text": "zona de isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 1256,
+      "end": 1278
+    },
+    {
+      "text": "penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1879,
+      "end": 1897
+    },
+    {
+      "text": "Infarto isquémico agudo",
+      "type": "PATOLOGIA",
+      "start": 1755,
+      "end": 1778
+    },
+    {
+      "text": "territorio de ACA izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1782,
+      "end": 1809
+    },
+    {
+      "text": "Oclusión proximal de ACA izquierda",
+      "type": "PATOLOGIA",
+      "start": 1903,
+      "end": 1937
+    },
+    {
+      "text": "sin evidencia de hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2422,
+      "end": 2462
+    },
+    {
+      "text": "Penumbra isquémica confirmada por TC perfusión",
+      "type": "PATOLOGIA",
+      "start": 2464,
+      "end": 2510
+    },
+    {
+      "text": "TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANG IOTC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 72,
+      "end": 140
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 363,
+      "end": 379
+    },
+    {
+      "text": "AngioTC intraextracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 382,
+      "end": 407
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 410,
+      "end": 431
+    }
+  ]
+}

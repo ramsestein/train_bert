@@ -1,0 +1,113 @@
+{
+  "document_id": "informe_sintetico_20250804195045_21154",
+  "entities": [
+    {
+      "text": "ictus isquémico agudo",
+      "type": "PATOLOGIA",
+      "start": 258,
+      "end": 279
+    },
+    {
+      "text": "ACM",
+      "type": "ARTERIA",
+      "start": 297,
+      "end": 300
+    },
+    {
+      "text": "región opercular y cortical temporal derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 638,
+      "end": 682
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 675,
+      "end": 682
+    },
+    {
+      "text": "ASPECTS 9",
+      "type": "PUNTUACION_CLINICA",
+      "start": 727,
+      "end": 736
+    },
+    {
+      "text": "TTP",
+      "type": "MEDIDA",
+      "start": 866,
+      "end": 869
+    },
+    {
+      "text": "CBF",
+      "type": "MEDIDA",
+      "start": 905,
+      "end": 908
+    },
+    {
+      "text": "M2-M3",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1040,
+      "end": 1045
+    },
+    {
+      "text": "CBV",
+      "type": "MEDIDA",
+      "start": 1075,
+      "end": 1078
+    },
+    {
+      "text": "penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1116,
+      "end": 1134
+    },
+    {
+      "text": "Oclusión segmentaria en rama distal de arteria cerebral media derecha, segmento M2",
+      "type": "PATOLOGIA",
+      "start": 1161,
+      "end": 1243
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 675,
+      "end": 682
+    },
+    {
+      "text": "ASPECTS 9",
+      "type": "PUNTUACION_CLINICA",
+      "start": 727,
+      "end": 736
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 1609,
+      "end": 1623
+    },
+    {
+      "text": "M2",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1040,
+      "end": 1042
+    },
+    {
+      "text": "sin infarto establecido ni hemorragia intracerebral",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1937,
+      "end": 1988
+    },
+    {
+      "text": "Oclusión segmentaria de arteria cerebral media distal derecha (M2)",
+      "type": "PATOLOGIA",
+      "start": 2103,
+      "end": 2169
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 675,
+      "end": 682
+    }
+  ]
+}

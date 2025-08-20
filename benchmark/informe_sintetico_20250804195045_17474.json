@@ -1,0 +1,107 @@
+{
+  "document_id": "informe_sintetico_20250804195045_17474",
+  "entities": [
+    {
+      "text": "hipodensidad leve",
+      "type": "PATOLOGIA",
+      "start": 411,
+      "end": 428
+    },
+    {
+      "text": "edema citotóxico temprano",
+      "type": "PATOLOGIA",
+      "start": 479,
+      "end": 504
+    },
+    {
+      "text": "arteria cerebral posterior izquierda",
+      "type": "ARTERIA",
+      "start": 582,
+      "end": 618
+    },
+    {
+      "text": "ASPECTS 8/10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 620,
+      "end": 632
+    },
+    {
+      "text": "No se evidencia hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 634,
+      "end": 673
+    },
+    {
+      "text": "Oclusión completa proximal de la arteria cerebral posterior izquierda",
+      "type": "PATOLOGIA",
+      "start": 1132,
+      "end": 1201
+    },
+    {
+      "text": "segmento P1",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1214,
+      "end": 1225
+    },
+    {
+      "text": "Signos de isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 1411,
+      "end": 1435
+    },
+    {
+      "text": "arteria cerebral posterior izquierda",
+      "type": "ARTERIA",
+      "start": 582,
+      "end": 618
+    },
+    {
+      "text": "área de penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1070,
+      "end": 1096
+    },
+    {
+      "text": "Oclusión proximal del segmento P1 de la ACP izquierda",
+      "type": "PATOLOGIA",
+      "start": 1554,
+      "end": 1607
+    },
+    {
+      "text": "No evidencias de hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1609,
+      "end": 1649
+    },
+    {
+      "text": "ASPECTS 8/10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 620,
+      "end": 632
+    },
+    {
+      "text": "TC craneal basal urgente",
+      "type": "TECNICA_IMAGEN",
+      "start": 251,
+      "end": 275
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 278,
+      "end": 299
+    },
+    {
+      "text": "AngioTC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 302,
+      "end": 331
+    },
+    {
+      "text": "troncos supraórticos",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 337,
+      "end": 357
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "document_id": "informe_sintetico_20250804195045_19675",
+  "entities": [
+    {
+      "text": "infarto",
+      "type": "PATOLOGIA",
+      "start": 363,
+      "end": 370
+    },
+    {
+      "text": "área hipodensa bilateral y simétrica",
+      "type": "PATOLOGIA",
+      "start": 649,
+      "end": 685
+    },
+    {
+      "text": "infarto tipo watershed",
+      "type": "PATOLOGIA",
+      "start": 839,
+      "end": 861
+    },
+    {
+      "text": "isquemia",
+      "type": "PATOLOGIA",
+      "start": 1957,
+      "end": 1965
+    },
+    {
+      "text": "arterias cerebrales anterior y media",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 752,
+      "end": 788
+    },
+    {
+      "text": "arterias cerebrales anterior, media y posterior",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1794,
+      "end": 1841
+    },
+    {
+      "text": "ACAs, ACMs, ACPs",
+      "type": "ARTERIA",
+      "start": 1429,
+      "end": 1445
+    },
+    {
+      "text": "bilateral",
+      "type": "LATERALIDAD",
+      "start": 664,
+      "end": 673
+    },
+    {
+      "text": "sin evidencia de hemorragia intracraneal o oclusión arterial intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2347,
+      "end": 2420
+    },
+    {
+      "text": "sin estenosis ni oclusiones demostrables",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1459,
+      "end": 1499
+    },
+    {
+      "text": "sin alteraciones significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1640,
+      "end": 1671
+    },
+    {
+      "text": "TTP",
+      "type": "MEDIDA",
+      "start": 1146,
+      "end": 1149
+    },
+    {
+      "text": "CBF",
+      "type": "MEDIDA",
+      "start": 1193,
+      "end": 1196
+    },
+    {
+      "text": "CBV",
+      "type": "MEDIDA",
+      "start": 1256,
+      "end": 1259
+    },
+    {
+      "text": "patrón típico de penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1287,
+      "end": 1322
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 417,
+      "end": 433
+    },
+    {
+      "text": "estudio de perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 449,
+      "end": 478
+    },
+    {
+      "text": "angio-TC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 481,
+      "end": 511
+    }
+  ]
+}

@@ -1,0 +1,179 @@
+{
+  "document_id": "informe_sintetico_20250804195045_17368",
+  "entities": [
+    {
+      "text": "infarto cerebral",
+      "type": "PATOLOGIA",
+      "start": 207,
+      "end": 223
+    },
+    {
+      "text": "agudo",
+      "type": "TEMPORALIDAD",
+      "start": 186,
+      "end": 191
+    },
+    {
+      "text": "área hiperdensa puntiforme",
+      "type": "PATOLOGIA",
+      "start": 438,
+      "end": 464
+    },
+    {
+      "text": "región parietal derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 468,
+      "end": 491
+    },
+    {
+      "text": "transformación hemorrágica tipo HI1",
+      "type": "PATOLOGIA",
+      "start": 507,
+      "end": 542
+    },
+    {
+      "text": "microhemorragias petequiales dispersas",
+      "type": "PATOLOGIA",
+      "start": 544,
+      "end": 582
+    },
+    {
+      "text": "territorio vascular de la arteria cerebral media derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 663,
+      "end": 719
+    },
+    {
+      "text": "infarto isquémico en fase subaguda",
+      "type": "PATOLOGIA",
+      "start": 734,
+      "end": 768
+    },
+    {
+      "text": "ASPECTS 8/10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 835,
+      "end": 847
+    },
+    {
+      "text": "hemorragias intraparenquimatosas mayores",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 868,
+      "end": 908
+    },
+    {
+      "text": "sangrado subaracnoideo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 912,
+      "end": 934
+    },
+    {
+      "text": "intraventricular",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 938,
+      "end": 954
+    },
+    {
+      "text": "disminución del flujo cerebral regional",
+      "type": "PATOLOGIA",
+      "start": 1119,
+      "end": 1158
+    },
+    {
+      "text": "aumento del tiempo de tránsito",
+      "type": "PATOLOGIA",
+      "start": 1167,
+      "end": 1197
+    },
+    {
+      "text": "área parietal derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1207,
+      "end": 1228
+    },
+    {
+      "text": "lesión isquémica observada",
+      "type": "PATOLOGIA",
+      "start": 1248,
+      "end": 1274
+    },
+    {
+      "text": "zonas de penumbra extensa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1293,
+      "end": 1318
+    },
+    {
+      "text": "hipoperfusión significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1321,
+      "end": 1348
+    },
+    {
+      "text": "ateromatosis leve",
+      "type": "PATOLOGIA",
+      "start": 1521,
+      "end": 1538
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "ARTERIA",
+      "start": 689,
+      "end": 719
+    },
+    {
+      "text": "estenosis hemodinámicamente relevantes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1604,
+      "end": 1642
+    },
+    {
+      "text": "trombos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1661,
+      "end": 1668
+    },
+    {
+      "text": "transformación hemorrágica tipo HI1",
+      "type": "PATOLOGIA",
+      "start": 507,
+      "end": 542
+    },
+    {
+      "text": "territorio de arteria cerebral media derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1792,
+      "end": 1836
+    },
+    {
+      "text": "microhemorragias dispersas",
+      "type": "PATOLOGIA",
+      "start": 1842,
+      "end": 1868
+    },
+    {
+      "text": "ASPECTS 8/10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 835,
+      "end": 847
+    },
+    {
+      "text": "estenosis significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1437,
+      "end": 1461
+    },
+    {
+      "text": "hemorragias mayores",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2073,
+      "end": 2092
+    },
+    {
+      "text": "complicaciones intracraneales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2102,
+      "end": 2131
+    }
+  ]
+}

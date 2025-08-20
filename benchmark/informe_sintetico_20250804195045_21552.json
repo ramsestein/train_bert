@@ -1,0 +1,149 @@
+{
+  "document_id": "informe_sintetico_20250804195045_21552",
+  "entities": [
+    {
+      "text": "hemorragia intraparenquimatosa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 400,
+      "end": 430
+    },
+    {
+      "text": "infarto establecido",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 475,
+      "end": 494
+    },
+    {
+      "text": "ASPECTS 9/10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 496,
+      "end": 508
+    },
+    {
+      "text": "hipoperfusión focal",
+      "type": "PATOLOGIA",
+      "start": 707,
+      "end": 726
+    },
+    {
+      "text": "parietal derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 741,
+      "end": 757
+    },
+    {
+      "text": "tiempo de tránsito",
+      "type": "PATOLOGIA",
+      "start": 784,
+      "end": 802
+    },
+    {
+      "text": "flujo cerebral (CBF)",
+      "type": "PATOLOGIA",
+      "start": 819,
+      "end": 839
+    },
+    {
+      "text": "volumen cerebral (CBV)",
+      "type": "PATOLOGIA",
+      "start": 845,
+      "end": 867
+    },
+    {
+      "text": "penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 895,
+      "end": 913
+    },
+    {
+      "text": "oclusión parcial",
+      "type": "PATOLOGIA",
+      "start": 948,
+      "end": 964
+    },
+    {
+      "text": "rama distal del segmento M2",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 968,
+      "end": 995
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "ARTERIA",
+      "start": 999,
+      "end": 1029
+    },
+    {
+      "text": "arterias intracraneales",
+      "type": "ARTERIA",
+      "start": 322,
+      "end": 345
+    },
+    {
+      "text": "estenosis significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1080,
+      "end": 1104
+    },
+    {
+      "text": "Polígono de Willis",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1106,
+      "end": 1124
+    },
+    {
+      "text": "configuración anatómica normal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1129,
+      "end": 1159
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 1318,
+      "end": 1332
+    },
+    {
+      "text": "ASPECTS 9",
+      "type": "PUNTUACION_CLINICA",
+      "start": 496,
+      "end": 505
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1375,
+      "end": 1398
+    },
+    {
+      "text": "penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 895,
+      "end": 913
+    },
+    {
+      "text": "beneficio terapéutico",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1433,
+      "end": 1454
+    },
+    {
+      "text": "TC craneal sin contraste",
+      "type": "TECNICA_IMAGEN",
+      "start": 244,
+      "end": 268
+    },
+    {
+      "text": "mapas de perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 270,
+      "end": 297
+    },
+    {
+      "text": "angiografía por TC de arterias intracraneales",
+      "type": "TECNICA_IMAGEN",
+      "start": 300,
+      "end": 345
+    }
+  ]
+}

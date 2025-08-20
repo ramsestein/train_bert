@@ -1,0 +1,47 @@
+{
+  "document_id": "informe_sintetico_20250804195045_20263",
+  "entities": [
+    {
+      "text": "infarto",
+      "type": "PATOLOGIA",
+      "start": 761,
+      "end": 768
+    },
+    {
+      "text": "watershed",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 781,
+      "end": 790
+    },
+    {
+      "text": "arteria cerebral anterior",
+      "type": "ARTERIA",
+      "start": 674,
+      "end": 699
+    },
+    {
+      "text": "bilateral",
+      "type": "LATERALIDAD",
+      "start": 594,
+      "end": 603
+    },
+    {
+      "text": "moderada",
+      "type": "MEDIDA",
+      "start": 1117,
+      "end": 1125
+    },
+    {
+      "text": "sin infarto consolidado",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1291,
+      "end": 1314
+    },
+    {
+      "text": "sin estenosis significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1555,
+      "end": 1582
+    }
+  ]
+}

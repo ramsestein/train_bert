@@ -1,0 +1,95 @@
+{
+  "document_id": "informe_sintetico_20250804195045_22416",
+  "entities": [
+    {
+      "text": "isquemia cerebral aguda",
+      "type": "PATOLOGIA",
+      "start": 219,
+      "end": 242
+    },
+    {
+      "text": "arteria cerebral media (ACM) derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 477,
+      "end": 513
+    },
+    {
+      "text": "ACM",
+      "type": "ARTERIA",
+      "start": 501,
+      "end": 504
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 506,
+      "end": 513
+    },
+    {
+      "text": "infarto cerebral agudo",
+      "type": "PATOLOGIA",
+      "start": 679,
+      "end": 701
+    },
+    {
+      "text": "ASPECTS 6",
+      "type": "PUNTUACION_CLINICA",
+      "start": 716,
+      "end": 725
+    },
+    {
+      "text": "reducción significativa del flujo sanguíneo cerebral (CBF)",
+      "type": "PATOLOGIA",
+      "start": 844,
+      "end": 902
+    },
+    {
+      "text": "TTP, Tmax",
+      "type": "MEDIDA",
+      "start": 1026,
+      "end": 1035
+    },
+    {
+      "text": "isquemia irreversiblemente dañada",
+      "type": "PATOLOGIA",
+      "start": 1089,
+      "end": 1122
+    },
+    {
+      "text": "Oclusión completa de la arteria carótida interna derecha",
+      "type": "PATOLOGIA",
+      "start": 1206,
+      "end": 1262
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 506,
+      "end": 513
+    },
+    {
+      "text": "sin circulación colateral eficiente",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1292,
+      "end": 1327
+    },
+    {
+      "text": "sin estenosis significativa ni placas calcificadas relevantes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1450,
+      "end": 1511
+    },
+    {
+      "text": "Sistema vertebrobasilar permeable con flujo conservado",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1513,
+      "end": 1567
+    },
+    {
+      "text": "oclusión completa de arteria carótida interna ipsilateral",
+      "type": "PATOLOGIA",
+      "start": 1685,
+      "end": 1742
+    }
+  ]
+}

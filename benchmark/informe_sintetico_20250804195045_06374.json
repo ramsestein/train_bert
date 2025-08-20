@@ -1,0 +1,89 @@
+{
+  "document_id": "informe_sintetico_20250804195045_06374",
+  "entities": [
+    {
+      "text": "hemiparesia derecha",
+      "type": "PATOLOGIA",
+      "start": 290,
+      "end": 309
+    },
+    {
+      "text": "evento isquémico agudo",
+      "type": "PATOLOGIA",
+      "start": 383,
+      "end": 405
+    },
+    {
+      "text": "lesiones hipodensas",
+      "type": "PATOLOGIA",
+      "start": 681,
+      "end": 700
+    },
+    {
+      "text": "infarto agudo",
+      "type": "PATOLOGIA",
+      "start": 730,
+      "end": 743
+    },
+    {
+      "text": "hemorragia",
+      "type": "PATOLOGIA",
+      "start": 745,
+      "end": 755
+    },
+    {
+      "text": "edema cerebral",
+      "type": "PATOLOGIA",
+      "start": 758,
+      "end": 772
+    },
+    {
+      "text": "arterias cerebrales medias",
+      "type": "ARTERIA",
+      "start": 1393,
+      "end": 1419
+    },
+    {
+      "text": "sin signos de hipertensión endocraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 886,
+      "end": 924
+    },
+    {
+      "text": "sin estenosis ni lesiones significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1844,
+      "end": 1884
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 1886,
+      "end": 1896
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 426,
+      "end": 442
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 444,
+      "end": 465
+    },
+    {
+      "text": "angio TC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 468,
+      "end": 498
+    },
+    {
+      "text": "sin evidencia de patología isquémica o hemorrágica aguda",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1693,
+      "end": 1749
+    }
+  ]
+}

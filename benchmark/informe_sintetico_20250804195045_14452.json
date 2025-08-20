@@ -1,0 +1,107 @@
+{
+  "document_id": "informe_sintetico_20250804195045_14452",
+  "entities": [
+    {
+      "text": "infarto agudo",
+      "type": "PATOLOGIA",
+      "start": 558,
+      "end": 571
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 510,
+      "end": 542
+    },
+    {
+      "text": "arteria cerebral media",
+      "type": "ARTERIA",
+      "start": 510,
+      "end": 532
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 533,
+      "end": 542
+    },
+    {
+      "text": "4 mm",
+      "type": "MEDIDA",
+      "start": 1108,
+      "end": 1112
+    },
+    {
+      "text": "agudo",
+      "type": "TEMPORALIDAD",
+      "start": 566,
+      "end": 571
+    },
+    {
+      "text": "HI2",
+      "type": "PUNTUACION_CLINICA",
+      "start": 832,
+      "end": 835
+    },
+    {
+      "text": "TC craneal basal no contrastada",
+      "type": "TECNICA_IMAGEN",
+      "start": 278,
+      "end": 309
+    },
+    {
+      "text": "No se detectan signos de hemorragia subaracnoidea o intraventricular",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1114,
+      "end": 1182
+    },
+    {
+      "text": "Oclusión completa del segmento M1 de arteria cerebral media izquierda",
+      "type": "PATOLOGIA",
+      "start": 1642,
+      "end": 1711
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "ARTERIA",
+      "start": 510,
+      "end": 542
+    },
+    {
+      "text": "sin visualización distal del flujo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1713,
+      "end": 1747
+    },
+    {
+      "text": "sin evidencia de herniación uncal franca",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1296,
+      "end": 1336
+    },
+    {
+      "text": "Transformación hemorrágica tipo HI2 en infarto cerebral extenso del territorio de la arteria cerebral media izquierda",
+      "type": "PATOLOGIA",
+      "start": 1944,
+      "end": 2061
+    },
+    {
+      "text": "sangrado parenquimatoso intrainfarto",
+      "type": "PATOLOGIA",
+      "start": 2067,
+      "end": 2103
+    },
+    {
+      "text": "edema asociado",
+      "type": "PATOLOGIA",
+      "start": 2106,
+      "end": 2120
+    },
+    {
+      "text": "Oclusión del segmento M1 de ACM izquierda",
+      "type": "PATOLOGIA",
+      "start": 2122,
+      "end": 2163
+    }
+  ]
+}

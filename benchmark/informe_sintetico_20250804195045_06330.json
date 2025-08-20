@@ -1,0 +1,89 @@
+{
+  "document_id": "informe_sintetico_20250804195045_06330",
+  "entities": [
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 574,
+      "end": 588
+    },
+    {
+      "text": "hemorragia intraparenquimal",
+      "type": "PATOLOGIA",
+      "start": 666,
+      "end": 693
+    },
+    {
+      "text": "isquemia",
+      "type": "PATOLOGIA",
+      "start": 574,
+      "end": 582
+    },
+    {
+      "text": "hiperemia focal",
+      "type": "PATOLOGIA",
+      "start": 957,
+      "end": 972
+    },
+    {
+      "text": "simétricos",
+      "type": "LATERALIDAD",
+      "start": 1091,
+      "end": 1101
+    },
+    {
+      "text": "10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 1593,
+      "end": 1595
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 364,
+      "end": 380
+    },
+    {
+      "text": "perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 382,
+      "end": 400
+    },
+    {
+      "text": "angioTC intra y extracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 403,
+      "end": 431
+    },
+    {
+      "text": "No se evidencian áreas de hipodensidad",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 473,
+      "end": 511
+    },
+    {
+      "text": "No hay evidencia de hemorragia intraparenquimal, subaracnoidea ni intraventricular",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 646,
+      "end": 728
+    },
+    {
+      "text": "No se visualizan aneurismas, malformaciones ni trombosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1355,
+      "end": 1411
+    },
+    {
+      "text": "sin evidencia de patología aguda isquémica ni hemorrágica",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1460,
+      "end": 1517
+    },
+    {
+      "text": "dentro de límites normales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1557,
+      "end": 1583
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "document_id": "informe_sintetico_20250804195045_19235",
+  "entities": [
+    {
+      "text": "hematoma subdural agudo",
+      "type": "PATOLOGIA",
+      "start": 568,
+      "end": 591
+    },
+    {
+      "text": "hemisférica derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 416,
+      "end": 435
+    },
+    {
+      "text": "corteza cerebral",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 468,
+      "end": 484
+    },
+    {
+      "text": "12 mm",
+      "type": "MEDIDA",
+      "start": 505,
+      "end": 510
+    },
+    {
+      "text": "7 mm",
+      "type": "MEDIDA",
+      "start": 705,
+      "end": 709
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 676,
+      "end": 685
+    },
+    {
+      "text": "ipsilateralmente",
+      "type": "LATERALIDAD",
+      "start": 810,
+      "end": 826
+    },
+    {
+      "text": "contralateralmente",
+      "type": "LATERALIDAD",
+      "start": 843,
+      "end": 861
+    },
+    {
+      "text": "permeabilidad y calibre conservado",
+      "type": "PATOLOGIA",
+      "start": 924,
+      "end": 958
+    },
+    {
+      "text": "sin signos de estenosis o trombosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 999,
+      "end": 1034
+    },
+    {
+      "text": "leve hipoperfusión cortical",
+      "type": "PATOLOGIA",
+      "start": 1073,
+      "end": 1100
+    },
+    {
+      "text": "neuroquirúrgica urgente",
+      "type": "PATOLOGIA",
+      "start": 1358,
+      "end": 1381
+    },
+    {
+      "text": "resonancia magnética craneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 1480,
+      "end": 1508
+    },
+    {
+      "text": "TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANG IOTC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 72,
+      "end": 140
+    },
+    {
+      "text": "TC craneal basal urgente",
+      "type": "TECNICA_IMAGEN",
+      "start": 278,
+      "end": 302
+    },
+    {
+      "text": "angio TC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 305,
+      "end": 335
+    }
+  ],
+  "regenerado": true,
+  "fecha_regeneracion": "2025-08-06T11:40:21.264120"
+}

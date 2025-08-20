@@ -1,0 +1,143 @@
+{
+  "document_id": "informe_sintetico_20250804195045_21733",
+  "entities": [
+    {
+      "text": "infarto cerebral",
+      "type": "PATOLOGIA",
+      "start": 226,
+      "end": 242
+    },
+    {
+      "text": "hemicuerpo derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 194,
+      "end": 212
+    },
+    {
+      "text": "infarto",
+      "type": "PATOLOGIA",
+      "start": 226,
+      "end": 233
+    },
+    {
+      "text": "hipodensidad",
+      "type": "PATOLOGIA",
+      "start": 551,
+      "end": 563
+    },
+    {
+      "text": "banda cortical parieto-occipital izquierda y derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 567,
+      "end": 619
+    },
+    {
+      "text": "zonas de infarto",
+      "type": "PATOLOGIA",
+      "start": 636,
+      "end": 652
+    },
+    {
+      "text": "edema cerebral significativo",
+      "type": "PATOLOGIA",
+      "start": 704,
+      "end": 732
+    },
+    {
+      "text": "prolongación del tiempo de tránsito medio (MTT)",
+      "type": "MEDIDA",
+      "start": 846,
+      "end": 893
+    },
+    {
+      "text": "tiempo a pico (TTP)",
+      "type": "MEDIDA",
+      "start": 896,
+      "end": 915
+    },
+    {
+      "text": "regiones parieto-occipitales bilaterales y parietales superiores",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 923,
+      "end": 987
+    },
+    {
+      "text": "reducción moderada del flujo cerebral sanguíneo (CBF)",
+      "type": "PATOLOGIA",
+      "start": 993,
+      "end": 1046
+    },
+    {
+      "text": "preservación relativa del volumen cerebral (CBV)",
+      "type": "PATOLOGIA",
+      "start": 1049,
+      "end": 1097
+    },
+    {
+      "text": "hipoperfusión en territorio de frontera",
+      "type": "PATOLOGIA",
+      "start": 1134,
+      "end": 1173
+    },
+    {
+      "text": "estenosis moderada a severa de la arteria carótida interna izquierda",
+      "type": "PATOLOGIA",
+      "start": 1216,
+      "end": 1284
+    },
+    {
+      "text": "arteria carótida interna izquierda",
+      "type": "ARTERIA",
+      "start": 1250,
+      "end": 1284
+    },
+    {
+      "text": "flujo disminuido en ramas distales",
+      "type": "PATOLOGIA",
+      "start": 1312,
+      "end": 1346
+    },
+    {
+      "text": "Dominancia vascular derecha",
+      "type": "LATERALIDAD",
+      "start": 1374,
+      "end": 1401
+    },
+    {
+      "text": "circulación colateral desarrollada",
+      "type": "PATOLOGIA",
+      "start": 1459,
+      "end": 1493
+    },
+    {
+      "text": "infarto en zonas de watershed bilaterales parieto-occipitales",
+      "type": "PATOLOGIA",
+      "start": 1582,
+      "end": 1643
+    },
+    {
+      "text": "estenosis significativa de arteria carótida interna izquierda",
+      "type": "PATOLOGIA",
+      "start": 1658,
+      "end": 1719
+    },
+    {
+      "text": "hipoperfusión con penumbra isquémica en territorios de frontera",
+      "type": "PATOLOGIA",
+      "start": 1748,
+      "end": 1811
+    },
+    {
+      "text": "No signos de hemorragia ni edema cerebral severo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1813,
+      "end": 1861
+    },
+    {
+      "text": "TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANGIOTC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 2203,
+      "end": 2270
+    }
+  ]
+}

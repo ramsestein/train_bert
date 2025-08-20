@@ -1,0 +1,107 @@
+{
+  "document_id": "informe_sintetico_20250804195045_00251",
+  "entities": [
+    {
+      "text": "accidente isquémico agudo",
+      "type": "PATOLOGIA",
+      "start": 232,
+      "end": 257
+    },
+    {
+      "text": "arteria cerebral anterior",
+      "type": "ARTERIA",
+      "start": 275,
+      "end": 300
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 644,
+      "end": 653
+    },
+    {
+      "text": "área hipodensa corta",
+      "type": "PATOLOGIA",
+      "start": 551,
+      "end": 571
+    },
+    {
+      "text": "arteria cerebral anterior izquierda",
+      "type": "ARTERIA",
+      "start": 618,
+      "end": 653
+    },
+    {
+      "text": "región medial frontal",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 671,
+      "end": 692
+    },
+    {
+      "text": "ASPECTS modificado para ACA: 8/10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 811,
+      "end": 844
+    },
+    {
+      "text": "tiempo de tránsito medio (MTT)",
+      "type": "MEDIDA",
+      "start": 962,
+      "end": 992
+    },
+    {
+      "text": "tiempo hasta el pico (TTP)",
+      "type": "MEDIDA",
+      "start": 995,
+      "end": 1021
+    },
+    {
+      "text": "territorio vascular de la ACA izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1028,
+      "end": 1067
+    },
+    {
+      "text": "caída de flujo cerebral regional (CBF)",
+      "type": "PATOLOGIA",
+      "start": 1073,
+      "end": 1111
+    },
+    {
+      "text": "volumen sanguíneo cerebral (CBV)",
+      "type": "MEDIDA",
+      "start": 1114,
+      "end": 1146
+    },
+    {
+      "text": "área de penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1208,
+      "end": 1234
+    },
+    {
+      "text": "arteria cerebral anterior izquierda (A2)",
+      "type": "ARTERIA",
+      "start": 1500,
+      "end": 1540
+    },
+    {
+      "text": "trombosis u oclusión",
+      "type": "PATOLOGIA",
+      "start": 1558,
+      "end": 1578
+    },
+    {
+      "text": "ASPECTS modificado para ACA de 8/10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 2009,
+      "end": 2044
+    },
+    {
+      "text": "signos hemorrágicos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2061,
+      "end": 2080
+    }
+  ]
+}

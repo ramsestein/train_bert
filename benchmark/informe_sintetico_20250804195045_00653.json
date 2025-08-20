@@ -1,0 +1,71 @@
+{
+  "document_id": "informe_sintetico_20250804195045_00653",
+  "entities": [
+    {
+      "text": "infarto lacunar",
+      "type": "PATOLOGIA",
+      "start": 286,
+      "end": 301
+    },
+    {
+      "text": "6 mm",
+      "type": "MEDIDA",
+      "start": 623,
+      "end": 627
+    },
+    {
+      "text": "región gangliobasal derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 631,
+      "end": 658
+    },
+    {
+      "text": "agudo",
+      "type": "TEMPORALIDAD",
+      "start": 186,
+      "end": 191
+    },
+    {
+      "text": "ASPECTS 9",
+      "type": "PUNTUACION_CLINICA",
+      "start": 793,
+      "end": 802
+    },
+    {
+      "text": "No se identifican colecciones hemáticas ni signos de hemorragia intra ni extraaxial.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 479,
+      "end": 563
+    },
+    {
+      "text": "No se observan alteraciones de perfusión en otros territorios.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1221,
+      "end": 1283
+    },
+    {
+      "text": "sin estenosis ni placas ateromatosas significativas.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1349,
+      "end": 1401
+    },
+    {
+      "text": "Arterias intracraneales y supraaórticas permeables sin estenosis ni oclusiones significativas.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1810,
+      "end": 1904
+    },
+    {
+      "text": "ACAs, ACMs y ACPs",
+      "type": "ARTERIA",
+      "start": 1448,
+      "end": 1465
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 651,
+      "end": 658
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "document_id": "informe_sintetico_20250804195045_20454",
+  "entities": [
+    {
+      "text": "infarto isquémico agudo",
+      "type": "PATOLOGIA",
+      "start": 749,
+      "end": 772
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 647,
+      "end": 679
+    },
+    {
+      "text": "ACM",
+      "type": "ARTERIA",
+      "start": 1149,
+      "end": 1152
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 670,
+      "end": 679
+    },
+    {
+      "text": "ASPECTS 7/10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 900,
+      "end": 912
+    },
+    {
+      "text": "70%",
+      "type": "MEDIDA",
+      "start": 1611,
+      "end": 1614
+    },
+    {
+      "text": "agudo",
+      "type": "TEMPORALIDAD",
+      "start": 767,
+      "end": 772
+    },
+    {
+      "text": "disección arterial",
+      "type": "PATOLOGIA",
+      "start": 310,
+      "end": 328
+    },
+    {
+      "text": "arteria carótida interna izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1433,
+      "end": 1467
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 381,
+      "end": 397
+    },
+    {
+      "text": "TC de perfusión cerebral dinámica",
+      "type": "TECNICA_IMAGEN",
+      "start": 413,
+      "end": 446
+    },
+    {
+      "text": "angio-TC arterial intracraneal y extracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 449,
+      "end": 494
+    }
+  ]
+}

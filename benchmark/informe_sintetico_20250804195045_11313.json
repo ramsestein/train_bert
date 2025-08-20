@@ -1,0 +1,137 @@
+{
+  "document_id": "informe_sintetico_20250804195045_11313",
+  "entities": [
+    {
+      "text": "hemorragia aguda",
+      "type": "PATOLOGIA",
+      "start": 508,
+      "end": 524
+    },
+    {
+      "text": "lesiones isquémicas agudas",
+      "type": "PATOLOGIA",
+      "start": 564,
+      "end": 590
+    },
+    {
+      "text": "edema vasogénico",
+      "type": "PATOLOGIA",
+      "start": 857,
+      "end": 873
+    },
+    {
+      "text": "sustancia blanca subcortical",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 651,
+      "end": 679
+    },
+    {
+      "text": "parietooccipital bilateral",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 682,
+      "end": 708
+    },
+    {
+      "text": "regiones parietales posteriores",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 731,
+      "end": 762
+    },
+    {
+      "text": "volumen sanguíneo cerebral",
+      "type": "MEDIDA",
+      "start": 939,
+      "end": 965
+    },
+    {
+      "text": "tiempo de tránsito medio",
+      "type": "MEDIDA",
+      "start": 974,
+      "end": 998
+    },
+    {
+      "text": "parietooccipitales bilaterales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1028,
+      "end": 1058
+    },
+    {
+      "text": "edema vasogénico reversible",
+      "type": "PATOLOGIA",
+      "start": 1141,
+      "end": 1168
+    },
+    {
+      "text": "Arterias cerebrales principales",
+      "type": "ARTERIA",
+      "start": 1202,
+      "end": 1233
+    },
+    {
+      "text": "estenosis",
+      "type": "PATOLOGIA",
+      "start": 1263,
+      "end": 1272
+    },
+    {
+      "text": "vasculitis",
+      "type": "PATOLOGIA",
+      "start": 1395,
+      "end": 1405
+    },
+    {
+      "text": "espasmo arterial",
+      "type": "PATOLOGIA",
+      "start": 1409,
+      "end": 1425
+    },
+    {
+      "text": "leucoencefalopatía posterior reversible",
+      "type": "PATOLOGIA",
+      "start": 240,
+      "end": 279
+    },
+    {
+      "text": "edema vasogénico bilateral",
+      "type": "PATOLOGIA",
+      "start": 1549,
+      "end": 1575
+    },
+    {
+      "text": "infarto",
+      "type": "PATOLOGIA",
+      "start": 1624,
+      "end": 1631
+    },
+    {
+      "text": "hemorragia",
+      "type": "PATOLOGIA",
+      "start": 508,
+      "end": 518
+    },
+    {
+      "text": "AngioTC sin alteraciones vasculares significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1647,
+      "end": 1697
+    },
+    {
+      "text": "TC craneal sin contraste",
+      "type": "TECNICA_IMAGEN",
+      "start": 307,
+      "end": 331
+    },
+    {
+      "text": "estudio de perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 333,
+      "end": 362
+    },
+    {
+      "text": "angioTC intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 365,
+      "end": 385
+    }
+  ]
+}

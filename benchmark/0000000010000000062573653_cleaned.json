@@ -1,0 +1,35 @@
+{
+  "document_id": "0000000010000000062573653_cleaned",
+  "entities": [
+    {
+      "text": "hemorragia aguda intra ni extraaxial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 343,
+      "end": 379
+    },
+    {
+      "text": "hipodensidades en sustancia blanca supratentorial",
+      "type": "PATOLOGIA",
+      "start": 438,
+      "end": 487
+    },
+    {
+      "text": "enfermedad crónica de pequeño vaso",
+      "type": "PATOLOGIA",
+      "start": 504,
+      "end": 538
+    },
+    {
+      "text": "TC craneal DUAL URGENTE",
+      "type": "TECNICA_IMAGEN",
+      "start": 221,
+      "end": 244
+    },
+    {
+      "text": "TC basal de ayer",
+      "type": "TEMPORALIDAD",
+      "start": 725,
+      "end": 741
+    }
+  ]
+}

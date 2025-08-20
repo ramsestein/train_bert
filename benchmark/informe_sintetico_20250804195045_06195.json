@@ -1,0 +1,185 @@
+{
+  "document_id": "informe_sintetico_20250804195045_06195",
+  "entities": [
+    {
+      "text": "hemiparesia derecha",
+      "type": "PATOLOGIA",
+      "start": 218,
+      "end": 237
+    },
+    {
+      "text": "afasia progresiva",
+      "type": "PATOLOGIA",
+      "start": 240,
+      "end": 257
+    },
+    {
+      "text": "dolor cervical reciente",
+      "type": "PATOLOGIA",
+      "start": 274,
+      "end": 297
+    },
+    {
+      "text": "síncope",
+      "type": "PATOLOGIA",
+      "start": 327,
+      "end": 334
+    },
+    {
+      "text": "infarto cerebral en fase aguda",
+      "type": "PATOLOGIA",
+      "start": 875,
+      "end": 905
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 928,
+      "end": 951
+    },
+    {
+      "text": "efecto de masa significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 955,
+      "end": 983
+    },
+    {
+      "text": "prolongación del tiempo de tránsito medio (TTM)",
+      "type": "MEDIDA",
+      "start": 1018,
+      "end": 1065
+    },
+    {
+      "text": "tiempo de llegada del contraste (Tmax)",
+      "type": "MEDIDA",
+      "start": 1068,
+      "end": 1106
+    },
+    {
+      "text": "arteria cerebral media (ACM) izquierda",
+      "type": "ARTERIA",
+      "start": 1130,
+      "end": 1168
+    },
+    {
+      "text": "flujo sanguíneo cerebral (CBF)",
+      "type": "MEDIDA",
+      "start": 1188,
+      "end": 1218
+    },
+    {
+      "text": "volumen cerebral (CBV)",
+      "type": "MEDIDA",
+      "start": 1221,
+      "end": 1243
+    },
+    {
+      "text": "isquémica",
+      "type": "PATOLOGIA",
+      "start": 1285,
+      "end": 1294
+    },
+    {
+      "text": "disección arterial",
+      "type": "PATOLOGIA",
+      "start": 356,
+      "end": 374
+    },
+    {
+      "text": "arteria carótida interna izquierda",
+      "type": "ARTERIA",
+      "start": 2132,
+      "end": 2166
+    },
+    {
+      "text": "estenosis de su segmento cervical proximal",
+      "type": "PATOLOGIA",
+      "start": 1430,
+      "end": 1472
+    },
+    {
+      "text": "doble lumen",
+      "type": "PATOLOGIA",
+      "start": 1501,
+      "end": 1512
+    },
+    {
+      "text": "engrosamiento mural excéntrico",
+      "type": "PATOLOGIA",
+      "start": 1515,
+      "end": 1545
+    },
+    {
+      "text": "reducción del calibre y flujo en la ACM izquierda proximal",
+      "type": "PATOLOGIA",
+      "start": 1604,
+      "end": 1662
+    },
+    {
+      "text": "ausencia de opacificación en ramas lenticuloestriadas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1668,
+      "end": 1721
+    },
+    {
+      "text": "territorio del infarto descrito",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1738,
+      "end": 1769
+    },
+    {
+      "text": "oclusión arterial",
+      "type": "PATOLOGIA",
+      "start": 2043,
+      "end": 2060
+    },
+    {
+      "text": "disección arterial de la arteria carótida interna izquierda",
+      "type": "PATOLOGIA",
+      "start": 2107,
+      "end": 2166
+    },
+    {
+      "text": "área isquémica con zona de penumbra viable",
+      "type": "PATOLOGIA",
+      "start": 2209,
+      "end": 2251
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 428,
+      "end": 444
+    },
+    {
+      "text": "estudio de perfusión cerebral dinámica",
+      "type": "TECNICA_IMAGEN",
+      "start": 472,
+      "end": 510
+    },
+    {
+      "text": "angio-TC arterial intra y extracraneal con contraste intravenoso",
+      "type": "TECNICA_IMAGEN",
+      "start": 513,
+      "end": 577
+    },
+    {
+      "text": "TC PERFUSIÓN CEREBRAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 986,
+      "end": 1007
+    },
+    {
+      "text": "TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANG IOTC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 72,
+      "end": 140
+    },
+    {
+      "text": "TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANGIOTC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 2786,
+      "end": 2853
+    }
+  ]
+}

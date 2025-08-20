@@ -1,0 +1,95 @@
+{
+  "document_id": "informe_sintetico_20250804195045_08041",
+  "entities": [
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 309,
+      "end": 323
+    },
+    {
+      "text": "bulbo raquídeo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 599,
+      "end": 613
+    },
+    {
+      "text": "protuberancia",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 640,
+      "end": 653
+    },
+    {
+      "text": "territorio vertebrobasilar",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 327,
+      "end": 353
+    },
+    {
+      "text": "arteria vertebral izquierda",
+      "type": "ARTERIA",
+      "start": 1226,
+      "end": 1253
+    },
+    {
+      "text": "tronco basilar",
+      "type": "ARTERIA",
+      "start": 1848,
+      "end": 1862
+    },
+    {
+      "text": "izquierdo",
+      "type": "LATERALIDAD",
+      "start": 278,
+      "end": 287
+    },
+    {
+      "text": "70%",
+      "type": "MEDIDA",
+      "start": 1314,
+      "end": 1317
+    },
+    {
+      "text": "80%",
+      "type": "MEDIDA",
+      "start": 1098,
+      "end": 1101
+    },
+    {
+      "text": "No se observan hemorragias intra o extraaxiales.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 512,
+      "end": 560
+    },
+    {
+      "text": "No hemorragia intracraneal.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1864,
+      "end": 1891
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 374,
+      "end": 390
+    },
+    {
+      "text": "angio-TC intra y extracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 392,
+      "end": 421
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 423,
+      "end": 444
+    },
+    {
+      "text": "mismatch de perfusión",
+      "type": "PATOLOGIA",
+      "start": 1064,
+      "end": 1085
+    }
+  ]
+}

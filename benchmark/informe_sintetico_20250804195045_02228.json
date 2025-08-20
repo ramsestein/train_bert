@@ -1,0 +1,113 @@
+{
+  "document_id": "informe_sintetico_20250804195045_02228",
+  "entities": [
+    {
+      "text": "ictus isquémico agudo",
+      "type": "PATOLOGIA",
+      "start": 239,
+      "end": 260
+    },
+    {
+      "text": "hipodensidad",
+      "type": "PATOLOGIA",
+      "start": 476,
+      "end": 488
+    },
+    {
+      "text": "infarto isquémico en fase hiperaguda",
+      "type": "PATOLOGIA",
+      "start": 702,
+      "end": 738
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 768,
+      "end": 791
+    },
+    {
+      "text": "disminución significativa del flujo sanguíneo cerebral (CBF)",
+      "type": "MEDIDA",
+      "start": 858,
+      "end": 918
+    },
+    {
+      "text": "volumen sanguíneo cerebral (CBV)",
+      "type": "MEDIDA",
+      "start": 921,
+      "end": 953
+    },
+    {
+      "text": "penumbra isquémica extensa",
+      "type": "PATOLOGIA",
+      "start": 1001,
+      "end": 1027
+    },
+    {
+      "text": "arteria carótida interna izquierda",
+      "type": "ARTERIA",
+      "start": 1114,
+      "end": 1148
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "ARTERIA",
+      "start": 509,
+      "end": 541
+    },
+    {
+      "text": "sin alteraciones",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1336,
+      "end": 1352
+    },
+    {
+      "text": "infarto isquémico agudo extenso",
+      "type": "PATOLOGIA",
+      "start": 1472,
+      "end": 1503
+    },
+    {
+      "text": "territorio de la arteria cerebral media izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 492,
+      "end": 541
+    },
+    {
+      "text": "penumbra significativa",
+      "type": "PATOLOGIA",
+      "start": 1570,
+      "end": 1592
+    },
+    {
+      "text": "infarto isquémico extenso en territorio MCA",
+      "type": "PATOLOGIA",
+      "start": 1841,
+      "end": 1884
+    },
+    {
+      "text": "TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANGIOTC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 1970,
+      "end": 2037
+    },
+    {
+      "text": "TC craneal basal no contrastada",
+      "type": "TECNICA_IMAGEN",
+      "start": 281,
+      "end": 312
+    },
+    {
+      "text": "estudio de perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 314,
+      "end": 343
+    },
+    {
+      "text": "angio-TC cervical e intracraneal urgente",
+      "type": "TECNICA_IMAGEN",
+      "start": 347,
+      "end": 387
+    }
+  ]
+}

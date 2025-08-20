@@ -1,0 +1,71 @@
+{
+  "document_id": "informe_sintetico_20250804195045_02055",
+  "entities": [
+    {
+      "text": "infarto cerebral",
+      "type": "PATOLOGIA",
+      "start": 249,
+      "end": 265
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 504,
+      "end": 534
+    },
+    {
+      "text": "arteria cerebral media",
+      "type": "ARTERIA",
+      "start": 504,
+      "end": 526
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 527,
+      "end": 534
+    },
+    {
+      "text": "4 mm",
+      "type": "MEDIDA",
+      "start": 905,
+      "end": 909
+    },
+    {
+      "text": "agudo",
+      "type": "TEMPORALIDAD",
+      "start": 186,
+      "end": 191
+    },
+    {
+      "text": "transformación hemorrágica tipo Heidelberg HI2",
+      "type": "PATOLOGIA",
+      "start": 1661,
+      "end": 1707
+    },
+    {
+      "text": "signos de estenosis segmentarias moderadas",
+      "type": "PATOLOGIA",
+      "start": 1321,
+      "end": 1363
+    },
+    {
+      "text": "derechas",
+      "type": "LATERALIDAD",
+      "start": 1308,
+      "end": 1316
+    },
+    {
+      "text": "sin oclusiones completas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1365,
+      "end": 1389
+    },
+    {
+      "text": "sin alteraciones significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1461,
+      "end": 1492
+    }
+  ]
+}

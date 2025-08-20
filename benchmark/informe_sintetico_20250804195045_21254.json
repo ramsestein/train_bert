@@ -1,0 +1,125 @@
+{
+  "document_id": "informe_sintetico_20250804195045_21254",
+  "entities": [
+    {
+      "text": "microhemorragias múltiples",
+      "type": "PATOLOGIA",
+      "start": 731,
+      "end": 757
+    },
+    {
+      "text": "sustancia blanca",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 642,
+      "end": 658
+    },
+    {
+      "text": "núcleos profundos",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 676,
+      "end": 693
+    },
+    {
+      "text": "microhemorragias múltiples de pequeño tamaño (<5 mm)",
+      "type": "PATOLOGIA",
+      "start": 731,
+      "end": 783
+    },
+    {
+      "text": "No se observan hematomas mayores",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 785,
+      "end": 817
+    },
+    {
+      "text": "sangrado subaracnoideo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 822,
+      "end": 844
+    },
+    {
+      "text": "sin signos de hidrocefalia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 983,
+      "end": 1009
+    },
+    {
+      "text": "No se evidencian alteraciones significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1027,
+      "end": 1071
+    },
+    {
+      "text": "arterias cerebrales principales (ACAs, ACMs, ACPs)",
+      "type": "ARTERIA",
+      "start": 1220,
+      "end": 1270
+    },
+    {
+      "text": "sistema vertebrobasilar",
+      "type": "ARTERIA",
+      "start": 1276,
+      "end": 1299
+    },
+    {
+      "text": "sin evidencias de estenosis o malformaciones vasculares",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1316,
+      "end": 1371
+    },
+    {
+      "text": "ateromatosis leve en segmentos proximales de troncos supraórticos",
+      "type": "PATOLOGIA",
+      "start": 1384,
+      "end": 1449
+    },
+    {
+      "text": "microangiopatía cerebral",
+      "type": "PATOLOGIA",
+      "start": 336,
+      "end": 360
+    },
+    {
+      "text": "No se identifican hematomas mayores",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1597,
+      "end": 1632
+    },
+    {
+      "text": "eventos isquémicos agudos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1636,
+      "end": 1661
+    },
+    {
+      "text": "Circulación arterial intracraneal permeable",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1663,
+      "end": 1706
+    },
+    {
+      "text": "sin evidencias de estenosis significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1707,
+      "end": 1749
+    },
+    {
+      "text": "TC craneal sin contraste basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 381,
+      "end": 411
+    },
+    {
+      "text": "estudio de perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 424,
+      "end": 453
+    },
+    {
+      "text": "Angio-TC de circulación arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 456,
+      "end": 501
+    }
+  ]
+}

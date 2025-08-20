@@ -1,0 +1,275 @@
+{
+  "document_id": "informe_sintetico_20250804195045_09595",
+  "entities": [
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 531,
+      "end": 554
+    },
+    {
+      "text": "colecciones extraaxiales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 558,
+      "end": 582
+    },
+    {
+      "text": "hipodensidad incipiente",
+      "type": "PATOLOGIA",
+      "start": 600,
+      "end": 623
+    },
+    {
+      "text": "arteria cerebral anterior izquierda",
+      "type": "ARTERIA",
+      "start": 647,
+      "end": 682
+    },
+    {
+      "text": "lóbulo frontal",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 714,
+      "end": 728
+    },
+    {
+      "text": "cuerpo calloso",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 753,
+      "end": 767
+    },
+    {
+      "text": "pérdida de la diferenciación cortico-subcortical",
+      "type": "PATOLOGIA",
+      "start": 778,
+      "end": 826
+    },
+    {
+      "text": "ASPECTS ACA 8/10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 828,
+      "end": 844
+    },
+    {
+      "text": "herniación",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 874,
+      "end": 884
+    },
+    {
+      "text": "desplazamiento de línea media",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 888,
+      "end": 917
+    },
+    {
+      "text": "ventrículos laterales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 966,
+      "end": 987
+    },
+    {
+      "text": "morfología y tamaño normales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 998,
+      "end": 1026
+    },
+    {
+      "text": "Mapas de tiempo de tránsito (TTP y Tmax)",
+      "type": "TECNICA_IMAGEN",
+      "start": 1045,
+      "end": 1085
+    },
+    {
+      "text": "retraso prolongado",
+      "type": "PATOLOGIA",
+      "start": 1095,
+      "end": 1113
+    },
+    {
+      "text": "territorio ACA izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1120,
+      "end": 1144
+    },
+    {
+      "text": "flujo cerebral (CBF)",
+      "type": "PATOLOGIA",
+      "start": 1174,
+      "end": 1194
+    },
+    {
+      "text": "tiempo de tránsito",
+      "type": "PATOLOGIA",
+      "start": 1054,
+      "end": 1072
+    },
+    {
+      "text": "volumen cerebral (CBV)",
+      "type": "PATOLOGIA",
+      "start": 1245,
+      "end": 1267
+    },
+    {
+      "text": "área de penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1325,
+      "end": 1351
+    },
+    {
+      "text": "alteraciones en otros territorios vasculares",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1400,
+      "end": 1444
+    },
+    {
+      "text": "Oclusión proximal segmentaria",
+      "type": "PATOLOGIA",
+      "start": 1480,
+      "end": 1509
+    },
+    {
+      "text": "arteria cerebral anterior izquierda (segmento A2)",
+      "type": "ARTERIA",
+      "start": 1516,
+      "end": 1565
+    },
+    {
+      "text": "flujo distal visible",
+      "type": "PATOLOGIA",
+      "start": 1583,
+      "end": 1603
+    },
+    {
+      "text": "arterias intracraneales (ACM, ACP y ACA contralateral)",
+      "type": "ARTERIA",
+      "start": 1632,
+      "end": 1686
+    },
+    {
+      "text": "estenosis significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1702,
+      "end": 1726
+    },
+    {
+      "text": "Sistema vertebrobasilar",
+      "type": "ARTERIA",
+      "start": 1730,
+      "end": 1753
+    },
+    {
+      "text": "alteraciones",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1400,
+      "end": 1412
+    },
+    {
+      "text": "Segmentos extra-craneales carotídeos y vertebrales",
+      "type": "ARTERIA",
+      "start": 1774,
+      "end": 1824
+    },
+    {
+      "text": "estenosis significativas o placas ateromatosas destacables",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1835,
+      "end": 1893
+    },
+    {
+      "text": "Infarto cerebral agudo",
+      "type": "PATOLOGIA",
+      "start": 1922,
+      "end": 1944
+    },
+    {
+      "text": "territorio de arteria cerebral anterior izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1948,
+      "end": 1997
+    },
+    {
+      "text": "hipodensidad incipiente",
+      "type": "PATOLOGIA",
+      "start": 600,
+      "end": 623
+    },
+    {
+      "text": "pérdida moderada de la diferenciación cortico-subcortical",
+      "type": "PATOLOGIA",
+      "start": 2028,
+      "end": 2085
+    },
+    {
+      "text": "área de penumbra isquémica importante",
+      "type": "PATOLOGIA",
+      "start": 2129,
+      "end": 2166
+    },
+    {
+      "text": "caída de flujo",
+      "type": "PATOLOGIA",
+      "start": 2172,
+      "end": 2186
+    },
+    {
+      "text": "preservación de volumen",
+      "type": "PATOLOGIA",
+      "start": 2189,
+      "end": 2212
+    },
+    {
+      "text": "oclusión segmentaria en ACA izquierda (A2)",
+      "type": "PATOLOGIA",
+      "start": 2236,
+      "end": 2278
+    },
+    {
+      "text": "flujo distal comprometido",
+      "type": "PATOLOGIA",
+      "start": 2292,
+      "end": 2317
+    },
+    {
+      "text": "hemorragia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 531,
+      "end": 541
+    },
+    {
+      "text": "edema cerebral significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2350,
+      "end": 2378
+    },
+    {
+      "text": "Infarto agudo en territorio de arteria cerebral anterior izquierda",
+      "type": "PATOLOGIA",
+      "start": 2599,
+      "end": 2665
+    },
+    {
+      "text": "penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1333,
+      "end": 1351
+    },
+    {
+      "text": "oclusión segmentaria en ACA-A2",
+      "type": "PATOLOGIA",
+      "start": 2713,
+      "end": 2743
+    },
+    {
+      "text": "reperfusión distal comprometida",
+      "type": "PATOLOGIA",
+      "start": 2926,
+      "end": 2957
+    },
+    {
+      "text": "circulación intracraneal y extracraneal sin estenosis ni anomalías",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2968,
+      "end": 3034
+    }
+  ]
+}

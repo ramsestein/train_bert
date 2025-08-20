@@ -1,0 +1,157 @@
+{
+  "document_id": "informe_sintetico_20250804195045_23186",
+  "entities": [
+    {
+      "text": "cefalea",
+      "type": "PATOLOGIA",
+      "start": 193,
+      "end": 200
+    },
+    {
+      "text": "infarto",
+      "type": "PATOLOGIA",
+      "start": 556,
+      "end": 563
+    },
+    {
+      "text": "hemorragia",
+      "type": "PATOLOGIA",
+      "start": 566,
+      "end": 576
+    },
+    {
+      "text": "hidrocefalia",
+      "type": "PATOLOGIA",
+      "start": 693,
+      "end": 705
+    },
+    {
+      "text": "edema cerebral",
+      "type": "PATOLOGIA",
+      "start": 767,
+      "end": 781
+    },
+    {
+      "text": "herniación",
+      "type": "PATOLOGIA",
+      "start": 785,
+      "end": 795
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 1107,
+      "end": 1121
+    },
+    {
+      "text": "estenosis",
+      "type": "PATOLOGIA",
+      "start": 1233,
+      "end": 1242
+    },
+    {
+      "text": "placas ateromatosas",
+      "type": "PATOLOGIA",
+      "start": 1246,
+      "end": 1265
+    },
+    {
+      "text": "vasculitis",
+      "type": "PATOLOGIA",
+      "start": 1483,
+      "end": 1493
+    },
+    {
+      "text": "anomalías",
+      "type": "PATOLOGIA",
+      "start": 1497,
+      "end": 1506
+    },
+    {
+      "text": "cerebral",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 314,
+      "end": 322
+    },
+    {
+      "text": "cerebrales intracraneales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1291,
+      "end": 1316
+    },
+    {
+      "text": "arteria cerebral media",
+      "type": "ARTERIA",
+      "start": 1389,
+      "end": 1411
+    },
+    {
+      "text": "10",
+      "type": "MEDIDA",
+      "start": 486,
+      "end": 488
+    },
+    {
+      "text": "10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 486,
+      "end": 488
+    },
+    {
+      "text": "sin contraste endovenoso adicional",
+      "type": "TEMPORALIDAD",
+      "start": 357,
+      "end": 391
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 286,
+      "end": 302
+    },
+    {
+      "text": "TC PERFUSIÓN",
+      "type": "TECNICA_IMAGEN",
+      "start": 911,
+      "end": 923
+    },
+    {
+      "text": "ANGIO-TC EXTRA E INTRACRANEAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 1124,
+      "end": 1153
+    },
+    {
+      "text": "sin hallazgos agudos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1542,
+      "end": 1562
+    },
+    {
+      "text": "sin áreas de hipoperfusión o hipervascularización",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1008,
+      "end": 1057
+    },
+    {
+      "text": "sin estenosis ni placas ateromatosas significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1229,
+      "end": 1280
+    },
+    {
+      "text": "sin estenosis, oclusiones ni aneurismas evidentes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1329,
+      "end": 1378
+    },
+    {
+      "text": "sin signos de vasculitis ni anomalías",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1469,
+      "end": 1506
+    }
+  ],
+  "regenerado": true,
+  "fecha_regeneracion": "2025-08-06T17:40:57.411407"
+}

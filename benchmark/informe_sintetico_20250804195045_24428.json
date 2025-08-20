@@ -1,0 +1,119 @@
+{
+  "document_id": "informe_sintetico_20250804195045_24428",
+  "entities": [
+    {
+      "text": "infarto cerebral",
+      "type": "PATOLOGIA",
+      "start": 206,
+      "end": 222
+    },
+    {
+      "text": "isquémicas",
+      "type": "PATOLOGIA",
+      "start": 804,
+      "end": 814
+    },
+    {
+      "text": "isquémica",
+      "type": "PATOLOGIA",
+      "start": 804,
+      "end": 813
+    },
+    {
+      "text": "hipodensidad parcheada bilateral",
+      "type": "PATOLOGIA",
+      "start": 555,
+      "end": 587
+    },
+    {
+      "text": "regiones subcorticales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 595,
+      "end": 617
+    },
+    {
+      "text": "corona radiada",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 624,
+      "end": 638
+    },
+    {
+      "text": "territorios irrigados por las arterias cerebrales media y anterior",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 659,
+      "end": 725
+    },
+    {
+      "text": "arterias cerebral media y posterior",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 746,
+      "end": 781
+    },
+    {
+      "text": "tiempo de tránsito medio (TTP)",
+      "type": "MEDIDA",
+      "start": 952,
+      "end": 982
+    },
+    {
+      "text": "disminución del flujo cerebral (CBF)",
+      "type": "MEDIDA",
+      "start": 985,
+      "end": 1021
+    },
+    {
+      "text": "volumen cerebral (CBV)",
+      "type": "MEDIDA",
+      "start": 1187,
+      "end": 1209
+    },
+    {
+      "text": "subaguda",
+      "type": "TEMPORALIDAD",
+      "start": 1918,
+      "end": 1926
+    },
+    {
+      "text": "arteria carótida interna",
+      "type": "ARTERIA",
+      "start": 1390,
+      "end": 1414
+    },
+    {
+      "text": "ACM",
+      "type": "ARTERIA",
+      "start": 1440,
+      "end": 1443
+    },
+    {
+      "text": "ACA",
+      "type": "ARTERIA",
+      "start": 1445,
+      "end": 1448
+    },
+    {
+      "text": "ACP",
+      "type": "ARTERIA",
+      "start": 1451,
+      "end": 1454
+    },
+    {
+      "text": "sin trombosis ni estenosis severa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1352,
+      "end": 1385
+    },
+    {
+      "text": "sin evidencia de hemorragia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1803,
+      "end": 1830
+    },
+    {
+      "text": "sin signos de estenosis oclusiva",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1982,
+      "end": 2014
+    }
+  ]
+}

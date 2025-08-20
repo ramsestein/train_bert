@@ -1,0 +1,107 @@
+{
+  "document_id": "informe_sintetico_20250804195045_12257",
+  "entities": [
+    {
+      "text": "ictus isquémico",
+      "type": "PATOLOGIA",
+      "start": 218,
+      "end": 233
+    },
+    {
+      "text": "déficit neurológico agudo",
+      "type": "PATOLOGIA",
+      "start": 179,
+      "end": 204
+    },
+    {
+      "text": "hipodensidad",
+      "type": "PATOLOGIA",
+      "start": 426,
+      "end": 438
+    },
+    {
+      "text": "segmento M1",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 596,
+      "end": 607
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "ARTERIA",
+      "start": 614,
+      "end": 646
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 637,
+      "end": 646
+    },
+    {
+      "text": "ASPECTS 6",
+      "type": "PUNTUACION_CLINICA",
+      "start": 554,
+      "end": 563
+    },
+    {
+      "text": "segmento M1 de la arteria cerebral media izquierda",
+      "type": "ARTERIA",
+      "start": 596,
+      "end": 646
+    },
+    {
+      "text": "sin alteraciones",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1339,
+      "end": 1355
+    },
+    {
+      "text": "aumento del tiempo de tránsito medio (TTM)",
+      "type": "MEDIDA",
+      "start": 840,
+      "end": 882
+    },
+    {
+      "text": "reducción del flujo cerebral (FMC)",
+      "type": "MEDIDA",
+      "start": 885,
+      "end": 919
+    },
+    {
+      "text": "conservación relativa del volumen cerebral (CBV)",
+      "type": "MEDIDA",
+      "start": 972,
+      "end": 1020
+    },
+    {
+      "text": "mismatch significativo",
+      "type": "TEMPORALIDAD",
+      "start": 1070,
+      "end": 1092
+    },
+    {
+      "text": "Oclusión completa",
+      "type": "PATOLOGIA",
+      "start": 1130,
+      "end": 1147
+    },
+    {
+      "text": "TC craneal basal sin contraste",
+      "type": "TECNICA_IMAGEN",
+      "start": 279,
+      "end": 309
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 311,
+      "end": 332
+    },
+    {
+      "text": "angioTC de arterias intracraneales",
+      "type": "TECNICA_IMAGEN",
+      "start": 335,
+      "end": 369
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "document_id": "informe_sintetico_20250804195045_14098",
+  "entities": [
+    {
+      "text": "hemorragia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 450,
+      "end": 460
+    },
+    {
+      "text": "infarto",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 543,
+      "end": 550
+    },
+    {
+      "text": "ASPECTS 9",
+      "type": "PUNTUACION_CLINICA",
+      "start": 564,
+      "end": 573
+    },
+    {
+      "text": "corteza temporo-parietal derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 612,
+      "end": 644
+    },
+    {
+      "text": "arteria cerebral media distal derecha (M2/M3)",
+      "type": "ARTERIA",
+      "start": 799,
+      "end": 844
+    },
+    {
+      "text": "penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 952,
+      "end": 970
+    },
+    {
+      "text": "Oclusión aguda distal en arteria cerebral media derecha (segmentos M2/M3)",
+      "type": "PATOLOGIA",
+      "start": 1336,
+      "end": 1409
+    },
+    {
+      "text": "ASPECTS 9",
+      "type": "PUNTUACION_CLINICA",
+      "start": 564,
+      "end": 573
+    },
+    {
+      "text": "infarto",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 543,
+      "end": 550
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1510,
+      "end": 1533
+    },
+    {
+      "text": "24-48 horas",
+      "type": "MEDIDA",
+      "start": 1704,
+      "end": 1715
+    },
+    {
+      "text": "Oclusión trombótica distal en arteria cerebral media derecha, segmentos M2-M3",
+      "type": "PATOLOGIA",
+      "start": 1804,
+      "end": 1881
+    },
+    {
+      "text": "sin infarto establecido",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1916,
+      "end": 1939
+    }
+  ]
+}

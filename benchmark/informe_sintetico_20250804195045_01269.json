@@ -1,0 +1,101 @@
+{
+  "document_id": "informe_sintetico_20250804195045_01269",
+  "entities": [
+    {
+      "text": "infartos isquémicos",
+      "type": "PATOLOGIA",
+      "start": 673,
+      "end": 692
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 1074,
+      "end": 1088
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 1074,
+      "end": 1088
+    },
+    {
+      "text": "frontal",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 623,
+      "end": 630
+    },
+    {
+      "text": "parietales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 635,
+      "end": 645
+    },
+    {
+      "text": "temporal",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 941,
+      "end": 949
+    },
+    {
+      "text": "frontal",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 623,
+      "end": 630
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "ARTERIA",
+      "start": 1280,
+      "end": 1310
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 1303,
+      "end": 1310
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 1336,
+      "end": 1345
+    },
+    {
+      "text": "ASPECTS 7",
+      "type": "PUNTUACION_CLINICA",
+      "start": 1613,
+      "end": 1622
+    },
+    {
+      "text": "ASPECTS 7",
+      "type": "PUNTUACION_CLINICA",
+      "start": 1613,
+      "end": 1622
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 373,
+      "end": 389
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 405,
+      "end": 426
+    },
+    {
+      "text": "angioTC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 462,
+      "end": 491
+    },
+    {
+      "text": "No se detectan aneurismas ni malformaciones vasculares",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1417,
+      "end": 1471
+    }
+  ]
+}

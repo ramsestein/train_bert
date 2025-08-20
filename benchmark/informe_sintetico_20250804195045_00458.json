@@ -1,0 +1,203 @@
+{
+  "document_id": "informe_sintetico_20250804195045_00458",
+  "entities": [
+    {
+      "text": "hemiparesia derecha",
+      "type": "PATOLOGIA",
+      "start": 217,
+      "end": 236
+    },
+    {
+      "text": "afasia",
+      "type": "PATOLOGIA",
+      "start": 239,
+      "end": 245
+    },
+    {
+      "text": "infarto cerebral",
+      "type": "PATOLOGIA",
+      "start": 281,
+      "end": 297
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 315,
+      "end": 347
+    },
+    {
+      "text": "TC cráneo basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 368,
+      "end": 383
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 399,
+      "end": 420
+    },
+    {
+      "text": "Angio-TC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 423,
+      "end": 453
+    },
+    {
+      "text": "área hipodensa extensa",
+      "type": "PATOLOGIA",
+      "start": 591,
+      "end": 613
+    },
+    {
+      "text": "territorio de arteria cerebral media izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 301,
+      "end": 347
+    },
+    {
+      "text": "región insular",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 676,
+      "end": 690
+    },
+    {
+      "text": "opercular",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 692,
+      "end": 701
+    },
+    {
+      "text": "frontoparietal",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 704,
+      "end": 718
+    },
+    {
+      "text": "pérdida significativa de diferenciación cortico-subcortical",
+      "type": "PATOLOGIA",
+      "start": 734,
+      "end": 793
+    },
+    {
+      "text": "ASPECTS 5",
+      "type": "PUNTUACION_CLINICA",
+      "start": 795,
+      "end": 804
+    },
+    {
+      "text": "zona hiperintensa irregular, heterogénea, con bordes mal definidos",
+      "type": "PATOLOGIA",
+      "start": 835,
+      "end": 901
+    },
+    {
+      "text": "transformación hemorrágica tipo PH2",
+      "type": "PATOLOGIA",
+      "start": 918,
+      "end": 953
+    },
+    {
+      "text": "efecto de masa",
+      "type": "PATOLOGIA",
+      "start": 1014,
+      "end": 1028
+    },
+    {
+      "text": "desviación de línea media de aproximadamente 4 mm hacia la derecha",
+      "type": "MEDIDA",
+      "start": 1033,
+      "end": 1099
+    },
+    {
+      "text": "No se identifican colecciones extraaxiales ni hemorragias subaracnoideas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1101,
+      "end": 1173
+    },
+    {
+      "text": "Sistemas ventriculares con leve compresión del ventrículo lateral izquierdo",
+      "type": "PATOLOGIA",
+      "start": 1175,
+      "end": 1250
+    },
+    {
+      "text": "Cisternas basales ocupadas parcialmente por edema",
+      "type": "PATOLOGIA",
+      "start": 1252,
+      "end": 1301
+    },
+    {
+      "text": "disminución marcada del volumen cerebral (CBV)",
+      "type": "PATOLOGIA",
+      "start": 1344,
+      "end": 1390
+    },
+    {
+      "text": "incremento del tiempo de tránsito medio (MTT)",
+      "type": "PATOLOGIA",
+      "start": 1422,
+      "end": 1467
+    },
+    {
+      "text": "reducción del flujo sanguíneo cerebral (CBF)",
+      "type": "PATOLOGIA",
+      "start": 1470,
+      "end": 1514
+    },
+    {
+      "text": "sin evidencia de penumbra viable",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1516,
+      "end": 1548
+    },
+    {
+      "text": "Oclusión subtotal en segmento proximal de arteria cerebral media izquierda (M1)",
+      "type": "PATOLOGIA",
+      "start": 1574,
+      "end": 1653
+    },
+    {
+      "text": "sin visualizar flujo distal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1655,
+      "end": 1682
+    },
+    {
+      "text": "Arterias intracraneales contralaterales permeables",
+      "type": "PATOLOGIA",
+      "start": 1684,
+      "end": 1734
+    },
+    {
+      "text": "Ausencia de trombos residuales o signos de disección",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1736,
+      "end": 1788
+    },
+    {
+      "text": "Ateromatosis moderada de segmentos supraclinoideos de ambas carótidas internas",
+      "type": "PATOLOGIA",
+      "start": 1790,
+      "end": 1868
+    },
+    {
+      "text": "sin estenosis significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1870,
+      "end": 1897
+    },
+    {
+      "text": "Zona extensa de infarto cerebral en territorio de ACM izquierda con transformación hemorrágica tipo PH2",
+      "type": "PATOLOGIA",
+      "start": 1922,
+      "end": 2025
+    },
+    {
+      "text": "Oclusión persistente de arteria cerebral media izquierda en segmento M1",
+      "type": "PATOLOGIA",
+      "start": 2098,
+      "end": 2169
+    }
+  ]
+}

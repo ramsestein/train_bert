@@ -1,0 +1,113 @@
+{
+  "document_id": "informe_sintetico_20250804195045_13632",
+  "entities": [
+    {
+      "text": "hematoma intraparenquimatoso",
+      "type": "PATOLOGIA",
+      "start": 568,
+      "end": 596
+    },
+    {
+      "text": "3,5 x 2,8 cm",
+      "type": "MEDIDA",
+      "start": 600,
+      "end": 612
+    },
+    {
+      "text": "hemisferio cerebeloso derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 627,
+      "end": 656
+    },
+    {
+      "text": "derecho",
+      "type": "LATERALIDAD",
+      "start": 649,
+      "end": 656
+    },
+    {
+      "text": "cuarto ventrículo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 743,
+      "end": 760
+    },
+    {
+      "text": "hidrocefalia obstructiva",
+      "type": "PATOLOGIA",
+      "start": 873,
+      "end": 897
+    },
+    {
+      "text": "No se evidencian signos de herniación transtentorial ni subfalcina",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 910,
+      "end": 976
+    },
+    {
+      "text": "No se identifican áreas con alteración significativa de los parámetros de perfusión en territorio supratentorial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1218,
+      "end": 1330
+    },
+    {
+      "text": "Arterias principales permeables sin evidencias de estenosis u oclusión",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1355,
+      "end": 1425
+    },
+    {
+      "text": "Sistema vertebrobasilar permeable sin evidencias de trombosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1427,
+      "end": 1488
+    },
+    {
+      "text": "No se observan aneurismas ni malformaciones vasculares asociadas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1490,
+      "end": 1554
+    },
+    {
+      "text": "Hematoma cerebeloso derecho",
+      "type": "PATOLOGIA",
+      "start": 1579,
+      "end": 1606
+    },
+    {
+      "text": "hidrocefalia obstructiva",
+      "type": "PATOLOGIA",
+      "start": 873,
+      "end": 897
+    },
+    {
+      "text": "isquemia cerebral aguda",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1753,
+      "end": 1776
+    },
+    {
+      "text": "Sistema arterial intracraneal permeable sin signos de oclusión ni vasoespasmo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2478,
+      "end": 2555
+    },
+    {
+      "text": "TC craneal sin contraste basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 381,
+      "end": 411
+    },
+    {
+      "text": "estudio de perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 413,
+      "end": 442
+    },
+    {
+      "text": "angioTC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 445,
+      "end": 474
+    }
+  ]
+}

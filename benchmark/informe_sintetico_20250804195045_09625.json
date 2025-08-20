@@ -1,0 +1,101 @@
+{
+  "document_id": "informe_sintetico_20250804195045_09625",
+  "entities": [
+    {
+      "text": "infarto agudo",
+      "type": "PATOLOGIA",
+      "start": 756,
+      "end": 769
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 707,
+      "end": 739
+    },
+    {
+      "text": "hemorragia intraaxial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 822,
+      "end": 843
+    },
+    {
+      "text": "arteria carótida interna izquierda",
+      "type": "ARTERIA",
+      "start": 1544,
+      "end": 1578
+    },
+    {
+      "text": "disección arterial",
+      "type": "PATOLOGIA",
+      "start": 1595,
+      "end": 1613
+    },
+    {
+      "text": "hematoma intramural",
+      "type": "PATOLOGIA",
+      "start": 1673,
+      "end": 1692
+    },
+    {
+      "text": "estenosis severa",
+      "type": "PATOLOGIA",
+      "start": 1705,
+      "end": 1721
+    },
+    {
+      "text": "ACM derecha",
+      "type": "ARTERIA",
+      "start": 1896,
+      "end": 1907
+    },
+    {
+      "text": "ACAs",
+      "type": "ARTERIA",
+      "start": 1909,
+      "end": 1913
+    },
+    {
+      "text": "ACPs",
+      "type": "ARTERIA",
+      "start": 1916,
+      "end": 1920
+    },
+    {
+      "text": "circulación vertebrobasilar",
+      "type": "ARTERIA",
+      "start": 1924,
+      "end": 1951
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2325,
+      "end": 2348
+    },
+    {
+      "text": "penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1308,
+      "end": 1326
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 357,
+      "end": 373
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 389,
+      "end": 410
+    },
+    {
+      "text": "AngioTC extracraneal e intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 414,
+      "end": 449
+    }
+  ]
+}

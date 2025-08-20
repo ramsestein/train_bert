@@ -1,0 +1,185 @@
+{
+  "document_id": "informe_sintetico_20250804195045_10326",
+  "entities": [
+    {
+      "text": "ictus isquémico",
+      "type": "PATOLOGIA",
+      "start": 224,
+      "end": 239
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 473,
+      "end": 496
+    },
+    {
+      "text": "hematomas extraaxiales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 500,
+      "end": 522
+    },
+    {
+      "text": "hipodensidad focal cortical y subcortical",
+      "type": "PATOLOGIA",
+      "start": 550,
+      "end": 591
+    },
+    {
+      "text": "territorio parietal izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 598,
+      "end": 627
+    },
+    {
+      "text": "ASPECTS 9",
+      "type": "PUNTUACION_CLINICA",
+      "start": 1765,
+      "end": 1774
+    },
+    {
+      "text": "edema significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 673,
+      "end": 692
+    },
+    {
+      "text": "línea media permanece centrada",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 712,
+      "end": 742
+    },
+    {
+      "text": "retraso moderado",
+      "type": "PATOLOGIA",
+      "start": 902,
+      "end": 918
+    },
+    {
+      "text": "región cortical parietal y opercular izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 925,
+      "end": 971
+    },
+    {
+      "text": "área de oligemia",
+      "type": "PATOLOGIA",
+      "start": 988,
+      "end": 1004
+    },
+    {
+      "text": "disminución leve a moderada",
+      "type": "PATOLOGIA",
+      "start": 1076,
+      "end": 1103
+    },
+    {
+      "text": "isquemia penumbra",
+      "type": "PATOLOGIA",
+      "start": 1145,
+      "end": 1162
+    },
+    {
+      "text": "Oclusión focal",
+      "type": "PATOLOGIA",
+      "start": 1199,
+      "end": 1213
+    },
+    {
+      "text": "segmento M2 de la arteria cerebral media izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1217,
+      "end": 1267
+    },
+    {
+      "text": "ausencia de repleción distal en ramas operculares (M3)",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1273,
+      "end": 1327
+    },
+    {
+      "text": "sistema arterial intracraneal presenta permeabilidad conservada",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1342,
+      "end": 1405
+    },
+    {
+      "text": "signos de estenosis ni ateromatosis significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1410,
+      "end": 1460
+    },
+    {
+      "text": "anomalías en vasos extracraneales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1480,
+      "end": 1513
+    },
+    {
+      "text": "Oclusión aguda",
+      "type": "PATOLOGIA",
+      "start": 1542,
+      "end": 1556
+    },
+    {
+      "text": "segmento M2 de la arteria cerebral media izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1217,
+      "end": 1267
+    },
+    {
+      "text": "compromiso distal en M3",
+      "type": "PATOLOGIA",
+      "start": 1616,
+      "end": 1639
+    },
+    {
+      "text": "hipoperfusión compatible con isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 1700,
+      "end": 1743
+    },
+    {
+      "text": "ASPECTS 9",
+      "type": "PUNTUACION_CLINICA",
+      "start": 1765,
+      "end": 1774
+    },
+    {
+      "text": "signos de hemorragia ni edema significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1780,
+      "end": 1823
+    },
+    {
+      "text": "patrón sugestivo de penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1843,
+      "end": 1881
+    },
+    {
+      "text": "Isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 2109,
+      "end": 2123
+    },
+    {
+      "text": "segmento M2/M3 de ACM izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 2127,
+      "end": 2158
+    },
+    {
+      "text": "área de penumbra en región parietal cortical y subcortical",
+      "type": "PATOLOGIA",
+      "start": 2163,
+      "end": 2221
+    },
+    {
+      "text": "hemorragia ni edema",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1790,
+      "end": 1809
+    }
+  ]
+}

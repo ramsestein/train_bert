@@ -1,0 +1,89 @@
+{
+  "document_id": "informe_sintetico_20250804195045_13878",
+  "entities": [
+    {
+      "text": "infarto agudo",
+      "type": "PATOLOGIA",
+      "start": 224,
+      "end": 237
+    },
+    {
+      "text": "arteria cerebral posterior derecha",
+      "type": "ARTERIA",
+      "start": 255,
+      "end": 289
+    },
+    {
+      "text": "hemicuerpo izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 190,
+      "end": 210
+    },
+    {
+      "text": "hipodensidad leve",
+      "type": "PATOLOGIA",
+      "start": 544,
+      "end": 561
+    },
+    {
+      "text": "lóbulo occipital",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 641,
+      "end": 657
+    },
+    {
+      "text": "ASPECTS para ACP 8",
+      "type": "PUNTUACION_CLINICA",
+      "start": 715,
+      "end": 733
+    },
+    {
+      "text": "tiempo de tránsito promedio (TTP)",
+      "type": "MEDIDA",
+      "start": 886,
+      "end": 919
+    },
+    {
+      "text": "volumen cerebral de sangre (CBV)",
+      "type": "MEDIDA",
+      "start": 991,
+      "end": 1023
+    },
+    {
+      "text": "flujo cerebral de sangre (CBF)",
+      "type": "MEDIDA",
+      "start": 1083,
+      "end": 1113
+    },
+    {
+      "text": "penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1168,
+      "end": 1186
+    },
+    {
+      "text": "oclusión parcial",
+      "type": "PATOLOGIA",
+      "start": 1346,
+      "end": 1362
+    },
+    {
+      "text": "segmento P2",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1366,
+      "end": 1377
+    },
+    {
+      "text": "arteria cerebral posterior derecha",
+      "type": "ARTERIA",
+      "start": 255,
+      "end": 289
+    },
+    {
+      "text": "hemorragias intracraneales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1810,
+      "end": 1836
+    }
+  ]
+}

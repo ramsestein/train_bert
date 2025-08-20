@@ -1,0 +1,71 @@
+{
+  "document_id": "informe_sintetico_20250804195045_08306",
+  "entities": [
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 259,
+      "end": 273
+    },
+    {
+      "text": "territorio vertebrobasilar",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 277,
+      "end": 303
+    },
+    {
+      "text": "hemiparesia izquierda",
+      "type": "PATOLOGIA",
+      "start": 224,
+      "end": 245
+    },
+    {
+      "text": "arteria vertebral derecha",
+      "type": "ARTERIA",
+      "start": 1244,
+      "end": 1269
+    },
+    {
+      "text": "arteria basilar",
+      "type": "ARTERIA",
+      "start": 1361,
+      "end": 1376
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 1262,
+      "end": 1269
+    },
+    {
+      "text": "aguda",
+      "type": "TEMPORALIDAD",
+      "start": 268,
+      "end": 273
+    },
+    {
+      "text": "sin evidencias de estenosis significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1497,
+      "end": 1539
+    },
+    {
+      "text": "volumen cerebral (CBV) disminuido de forma parcial",
+      "type": "MEDIDA",
+      "start": 1010,
+      "end": 1060
+    },
+    {
+      "text": "prolongación significativa del tiempo de tránsito (TTP)",
+      "type": "MEDIDA",
+      "start": 849,
+      "end": 904
+    },
+    {
+      "text": "reducción del flujo sanguíneo cerebral (CBF)",
+      "type": "MEDIDA",
+      "start": 907,
+      "end": 951
+    }
+  ]
+}

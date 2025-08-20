@@ -1,0 +1,107 @@
+{
+  "document_id": "informe_sintetico_20250804195045_10764",
+  "entities": [
+    {
+      "text": "accidente isquémico",
+      "type": "PATOLOGIA",
+      "start": 289,
+      "end": 308
+    },
+    {
+      "text": "isquémica",
+      "type": "PATOLOGIA",
+      "start": 802,
+      "end": 811
+    },
+    {
+      "text": "pérdida de la diferenciación corticosubcortical",
+      "type": "PATOLOGIA",
+      "start": 646,
+      "end": 693
+    },
+    {
+      "text": "lesión isquémica precoz",
+      "type": "PATOLOGIA",
+      "start": 795,
+      "end": 818
+    },
+    {
+      "text": "isquemia extensa",
+      "type": "PATOLOGIA",
+      "start": 1269,
+      "end": 1285
+    },
+    {
+      "text": "oclusión completa",
+      "type": "PATOLOGIA",
+      "start": 1352,
+      "end": 1369
+    },
+    {
+      "text": "arteria basilar",
+      "type": "ARTERIA",
+      "start": 1376,
+      "end": 1391
+    },
+    {
+      "text": "segmento proximal a medio",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1398,
+      "end": 1423
+    },
+    {
+      "text": "tronco del encéfalo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 700,
+      "end": 719
+    },
+    {
+      "text": "zona pontina",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1808,
+      "end": 1820
+    },
+    {
+      "text": "cerebelo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1103,
+      "end": 1111
+    },
+    {
+      "text": "bilaterales",
+      "type": "LATERALIDAD",
+      "start": 1495,
+      "end": 1506
+    },
+    {
+      "text": "sin estenosis significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1509,
+      "end": 1536
+    },
+    {
+      "text": "aguda",
+      "type": "TEMPORALIDAD",
+      "start": 1704,
+      "end": 1709
+    },
+    {
+      "text": "TC craneal sin contraste basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 359,
+      "end": 389
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 391,
+      "end": 412
+    },
+    {
+      "text": "angioTC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 415,
+      "end": 444
+    }
+  ]
+}

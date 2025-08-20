@@ -1,0 +1,30 @@
+UO_PACN (Unidad Organizativa Médica): RADIO
+
+PRUEB (Prueba solicitada): TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANG IOTC ARTERIAL INTRACRANEAL)
+
+CLIN (Resumen clínico): Paciente con cuadro súbito de cefalea intensa, hemiparesia derecha y deterioro del nivel de conciencia. Sospecha clínica de hemorragia intracraneal.
+
+OBSR (Protocolo): TC craneal basal sin contraste, seguido de TC perfusión cerebral y angio-TC arterial intracraneal con contraste endovenoso.
+
+RESL (Resultados):  
+TC CRANEAL BASAL:  
+Se identifica una colección hiperdensa heterogénea en la región parietal lobar izquierda, compatible con hematoma lobar, de aproximadamente 35 x 25 mm, que provoca efecto de masa moderado con desplazamiento leve de la línea media hacia la derecha (6 mm). Edema perilesional de intensidad moderada. No se observan fracturas craneales asociadas. No se evidencian hemorragias subaracnoideas ni intraventriculares.  
+TC PERFUSIÓN:  
+En la zona del hematoma lobar se evidencia una reducción difusa del flujo sanguíneo cerebral (CBF) y del volumen sanguíneo cerebral (CBV), con aumento pronunciado del tiempo de tránsito medio (MTT) y tiempo hasta el pico (TTP), compatible con compromiso hemodinámico en la región afectada.  
+ANGIO-TC INTRACRANEAL:  
+No se identifican aneurismas ni malformaciones vasculares. Las principales arterias cerebrales (ACIs, ACMs, ACAs y ACPs) son permeables, sin estenosis ni oclusiones significativas. Presencia de ateromatosis leve en segmentos proximales del sistema carotídeo. Sistema vertebrobasilar sin alteraciones.  
+
+CONCL (Conclusiones):  
+Hematoma lobar parietal izquierdo de tamaño moderado con efecto de masa y desplazamiento de línea media leve. Edema perilesional asociado. Alteración hemodinámica en la zona del hematoma con reducción de flujo y aumento de tiempos de tránsito en la perfusión cerebral. Ausencia de aneurismas ni malformaciones vasculares asociadas. Arterias cerebrales permeables sin estenosis significativas.  
+
+ACTI_ADICI (Actividad adicional):  
+
+DKTXT (Descripción): Seguimiento clínico y neuroquirúrgico recomendado. Control radiológico en 48-72 horas para valorar evolución del hematoma y edema.  
+
+ICON (Estudio): @RADIO_TC@  
+
+X00DIATXT (Texto del diagnóstico ACR): Hematoma lobar parietal izquierdo con edema perilesional y compromiso hemodinámico confirmado por TC perfusión.  
+
+EST_T_DES (Descripción): TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANGIOTC ARTERIAL INTRACRANEAL)  
+
+ZVASOS_D (Der.): Informe elaborado por el Dr. [Nombre del Radiólogo], especialista en Neurorradiología.

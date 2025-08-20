@@ -1,0 +1,89 @@
+{
+  "document_id": "informe_sintetico_20250804195045_00316",
+  "entities": [
+    {
+      "text": "infarto cerebral",
+      "type": "PATOLOGIA",
+      "start": 200,
+      "end": 216
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 234,
+      "end": 266
+    },
+    {
+      "text": "ACM",
+      "type": "ARTERIA",
+      "start": 769,
+      "end": 772
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 257,
+      "end": 266
+    },
+    {
+      "text": "ASPECTS 7",
+      "type": "PUNTUACION_CLINICA",
+      "start": 822,
+      "end": 831
+    },
+    {
+      "text": "isquemia establecida",
+      "type": "PATOLOGIA",
+      "start": 800,
+      "end": 820
+    },
+    {
+      "text": "Oclusión completa",
+      "type": "PATOLOGIA",
+      "start": 1380,
+      "end": 1397
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "ARTERIA",
+      "start": 234,
+      "end": 266
+    },
+    {
+      "text": "sin estenosis significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1528,
+      "end": 1555
+    },
+    {
+      "text": "sin alteraciones destacables",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1644,
+      "end": 1672
+    },
+    {
+      "text": "reducción moderada del flujo cerebral",
+      "type": "PATOLOGIA",
+      "start": 1118,
+      "end": 1155
+    },
+    {
+      "text": "penumbra isquémica residual",
+      "type": "PATOLOGIA",
+      "start": 1325,
+      "end": 1352
+    },
+    {
+      "text": "territorio frontoparietal izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1165,
+      "end": 1200
+    },
+    {
+      "text": "tiempo de tránsito prolongado",
+      "type": "TEMPORALIDAD",
+      "start": 1206,
+      "end": 1235
+    }
+  ]
+}

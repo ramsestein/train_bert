@@ -1,0 +1,71 @@
+{
+  "document_id": "informe_sintetico_20250804195045_15604",
+  "entities": [
+    {
+      "text": "infarto cerebral",
+      "type": "PATOLOGIA",
+      "start": 195,
+      "end": 211
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 232,
+      "end": 262
+    },
+    {
+      "text": "arteria cerebral media",
+      "type": "ARTERIA",
+      "start": 232,
+      "end": 254
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 255,
+      "end": 262
+    },
+    {
+      "text": "agudo",
+      "type": "TEMPORALIDAD",
+      "start": 295,
+      "end": 300
+    },
+    {
+      "text": "transformación hemorrágica tipo HI1",
+      "type": "PATOLOGIA",
+      "start": 782,
+      "end": 817
+    },
+    {
+      "text": "microhemorragias dispersas",
+      "type": "PATOLOGIA",
+      "start": 1723,
+      "end": 1749
+    },
+    {
+      "text": "sin evidencia de oclusiones ni estenosis significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1370,
+      "end": 1425
+    },
+    {
+      "text": "bilaterales",
+      "type": "LATERALIDAD",
+      "start": 1511,
+      "end": 1522
+    },
+    {
+      "text": "sin estenosis significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1913,
+      "end": 1940
+    },
+    {
+      "text": "sin alteraciones",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1574,
+      "end": 1590
+    }
+  ]
+}

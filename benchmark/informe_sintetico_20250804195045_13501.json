@@ -1,0 +1,119 @@
+{
+  "document_id": "informe_sintetico_20250804195045_13501",
+  "entities": [
+    {
+      "text": "infarto cerebral",
+      "type": "PATOLOGIA",
+      "start": 252,
+      "end": 268
+    },
+    {
+      "text": "hipodensidad difusa",
+      "type": "PATOLOGIA",
+      "start": 536,
+      "end": 555
+    },
+    {
+      "text": "lesión isquémica",
+      "type": "PATOLOGIA",
+      "start": 1284,
+      "end": 1300
+    },
+    {
+      "text": "infarto consolidado",
+      "type": "PATOLOGIA",
+      "start": 1318,
+      "end": 1337
+    },
+    {
+      "text": "ateromatosis leve",
+      "type": "PATOLOGIA",
+      "start": 1562,
+      "end": 1579
+    },
+    {
+      "text": "arterias cerebral anterior y media",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 617,
+      "end": 651
+    },
+    {
+      "text": "watershed frontoparietales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1166,
+      "end": 1192
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 1608,
+      "end": 1617
+    },
+    {
+      "text": "bilateralmente",
+      "type": "LATERALIDAD",
+      "start": 652,
+      "end": 666
+    },
+    {
+      "text": "bilateral",
+      "type": "LATERALIDAD",
+      "start": 652,
+      "end": 661
+    },
+    {
+      "text": "sin efecto masa significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 741,
+      "end": 770
+    },
+    {
+      "text": "No se observan signos de hemorragia intracraneal aguda",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 466,
+      "end": 520
+    },
+    {
+      "text": "sin obstrucciones arteriales relevantes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1921,
+      "end": 1960
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 318,
+      "end": 334
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 350,
+      "end": 371
+    },
+    {
+      "text": "angio-TC de arterias intracraneales y supra-aórticas",
+      "type": "TECNICA_IMAGEN",
+      "start": 374,
+      "end": 426
+    },
+    {
+      "text": "aumento del tiempo de tránsito medio (TTP)",
+      "type": "MEDIDA",
+      "start": 1058,
+      "end": 1100
+    },
+    {
+      "text": "disminución del flujo cerebral de sangre (CBF)",
+      "type": "MEDIDA",
+      "start": 1103,
+      "end": 1149
+    },
+    {
+      "text": "volumen cerebral de sangre (CBV) relativamente conservado",
+      "type": "MEDIDA",
+      "start": 1210,
+      "end": 1267
+    }
+  ]
+}

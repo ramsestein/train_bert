@@ -1,0 +1,233 @@
+{
+  "document_id": "informe_sintetico_20250804195045_17637",
+  "entities": [
+    {
+      "text": "infarto cerebral",
+      "type": "PATOLOGIA",
+      "start": 203,
+      "end": 219
+    },
+    {
+      "text": "ACM izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 237,
+      "end": 250
+    },
+    {
+      "text": "deterioro neurológico agudo",
+      "type": "PATOLOGIA",
+      "start": 261,
+      "end": 288
+    },
+    {
+      "text": "transformación hemorrágica",
+      "type": "PATOLOGIA",
+      "start": 303,
+      "end": 329
+    },
+    {
+      "text": "TC Basal craneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 350,
+      "end": 366
+    },
+    {
+      "text": "TC Perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 369,
+      "end": 390
+    },
+    {
+      "text": "AngioTC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 393,
+      "end": 422
+    },
+    {
+      "text": "área hiperdensa heterogénea",
+      "type": "PATOLOGIA",
+      "start": 478,
+      "end": 505
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "ARTERIA",
+      "start": 526,
+      "end": 558
+    },
+    {
+      "text": "35 x 30 mm",
+      "type": "MEDIDA",
+      "start": 579,
+      "end": 589
+    },
+    {
+      "text": "sangrado intraaxial",
+      "type": "PATOLOGIA",
+      "start": 639,
+      "end": 658
+    },
+    {
+      "text": "transformación hemorrágica tipo HI2",
+      "type": "PATOLOGIA",
+      "start": 662,
+      "end": 697
+    },
+    {
+      "text": "edema perilesional",
+      "type": "PATOLOGIA",
+      "start": 1693,
+      "end": 1711
+    },
+    {
+      "text": "efecto de masa",
+      "type": "PATOLOGIA",
+      "start": 727,
+      "end": 741
+    },
+    {
+      "text": "desviación leve de la línea media hacia la derecha",
+      "type": "PATOLOGIA",
+      "start": 744,
+      "end": 794
+    },
+    {
+      "text": "3 mm",
+      "type": "MEDIDA",
+      "start": 812,
+      "end": 816
+    },
+    {
+      "text": "hemorragias extraaxiales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 837,
+      "end": 861
+    },
+    {
+      "text": "hidrocefalia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 865,
+      "end": 877
+    },
+    {
+      "text": "diferenciación cortico-subcortical",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 882,
+      "end": 916
+    },
+    {
+      "text": "lado izquierdo",
+      "type": "LATERALIDAD",
+      "start": 1012,
+      "end": 1026
+    },
+    {
+      "text": "Cisternas basales libres",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1028,
+      "end": 1052
+    },
+    {
+      "text": "Disminución significativa del flujo sanguíneo cerebral",
+      "type": "PATOLOGIA",
+      "start": 1072,
+      "end": 1126
+    },
+    {
+      "text": "CBF",
+      "type": "PATOLOGIA",
+      "start": 1128,
+      "end": 1131
+    },
+    {
+      "text": "CBV",
+      "type": "PATOLOGIA",
+      "start": 1157,
+      "end": 1160
+    },
+    {
+      "text": "región frontoparietal izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1165,
+      "end": 1196
+    },
+    {
+      "text": "transformación hemorrágica",
+      "type": "PATOLOGIA",
+      "start": 303,
+      "end": 329
+    },
+    {
+      "text": "Oclusión en el segmento proximal de la arteria cerebral media izquierda",
+      "type": "PATOLOGIA",
+      "start": 1420,
+      "end": 1491
+    },
+    {
+      "text": "nuevas estenosis significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1500,
+      "end": 1531
+    },
+    {
+      "text": "arterias carotídeas",
+      "type": "ARTERIA",
+      "start": 1535,
+      "end": 1554
+    },
+    {
+      "text": "signos de vasoespasmo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1574,
+      "end": 1595
+    },
+    {
+      "text": "Transformación hemorrágica tipo HI2",
+      "type": "PATOLOGIA",
+      "start": 1622,
+      "end": 1657
+    },
+    {
+      "text": "edema perilesional",
+      "type": "PATOLOGIA",
+      "start": 1693,
+      "end": 1711
+    },
+    {
+      "text": "efecto de masa",
+      "type": "PATOLOGIA",
+      "start": 727,
+      "end": 741
+    },
+    {
+      "text": "Oclusión de segmento proximal de ACM izquierda",
+      "type": "PATOLOGIA",
+      "start": 1735,
+      "end": 1781
+    },
+    {
+      "text": "Hallazgos compatibles con complicación de infarto cerebral reciente",
+      "type": "PATOLOGIA",
+      "start": 1830,
+      "end": 1897
+    },
+    {
+      "text": "Estado hemodinámico cerebral alterado",
+      "type": "PATOLOGIA",
+      "start": 1899,
+      "end": 1936
+    },
+    {
+      "text": "zona afectada",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1940,
+      "end": 1953
+    },
+    {
+      "text": "control neuroimagen en 48-72 horas",
+      "type": "TEMPORALIDAD",
+      "start": 2009,
+      "end": 2043
+    }
+  ]
+}

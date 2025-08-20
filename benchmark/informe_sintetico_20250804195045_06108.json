@@ -1,0 +1,89 @@
+{
+  "document_id": "informe_sintetico_20250804195045_06108",
+  "entities": [
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 503,
+      "end": 526
+    },
+    {
+      "text": "colecciones extraaxiales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 530,
+      "end": 554
+    },
+    {
+      "text": "hipodensidad aguda",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 678,
+      "end": 696
+    },
+    {
+      "text": "cambios crónicos inespecíficos",
+      "type": "PATOLOGIA",
+      "start": 936,
+      "end": 966
+    },
+    {
+      "text": "hipoperfusión",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1096,
+      "end": 1109
+    },
+    {
+      "text": "mismatch",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1113,
+      "end": 1121
+    },
+    {
+      "text": "estenosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1316,
+      "end": 1325
+    },
+    {
+      "text": "placas ateromatosas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1328,
+      "end": 1347
+    },
+    {
+      "text": "aneurismas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1564,
+      "end": 1574
+    },
+    {
+      "text": "malformaciones arteriovenosas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1578,
+      "end": 1607
+    },
+    {
+      "text": "ASPECTS 10/10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 1686,
+      "end": 1699
+    },
+    {
+      "text": "TC CODIGO ICTUS",
+      "type": "TECNICA_IMAGEN",
+      "start": 72,
+      "end": 87
+    },
+    {
+      "text": "PERFUSION CEREBRAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 89,
+      "end": 107
+    },
+    {
+      "text": "ANG IOTC ARTERIAL INTRACRANEAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 109,
+      "end": 139
+    }
+  ]
+}

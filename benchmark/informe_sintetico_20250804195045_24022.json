@@ -1,0 +1,107 @@
+{
+  "document_id": "informe_sintetico_20250804195045_24022",
+  "entities": [
+    {
+      "text": "infartos lacunares crónicos",
+      "type": "PATOLOGIA",
+      "start": 720,
+      "end": 747
+    },
+    {
+      "text": "núcleos de la base",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 639,
+      "end": 657
+    },
+    {
+      "text": "cápsulas internas",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 659,
+      "end": 676
+    },
+    {
+      "text": "áreas periventriculares",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 679,
+      "end": 702
+    },
+    {
+      "text": "hemorragia aguda",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 777,
+      "end": 793
+    },
+    {
+      "text": "edema cerebral",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 797,
+      "end": 811
+    },
+    {
+      "text": "lesiones agudas recientes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 886,
+      "end": 911
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1250,
+      "end": 1264
+    },
+    {
+      "text": "cerebral",
+      "type": "ARTERIA",
+      "start": 448,
+      "end": 456
+    },
+    {
+      "text": "bilaterales",
+      "type": "LATERALIDAD",
+      "start": 1660,
+      "end": 1671
+    },
+    {
+      "text": "sin signos de isquemia aguda ni hemorragia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1673,
+      "end": 1715
+    },
+    {
+      "text": "sin alteraciones significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1742,
+      "end": 1773
+    },
+    {
+      "text": "sin evidencias de estenosis, oclusiones ni placas ateromatosas significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1324,
+      "end": 1401
+    },
+    {
+      "text": "sin evidencia de isquemia o hemorragia aguda",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2075,
+      "end": 2119
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 395,
+      "end": 411
+    },
+    {
+      "text": "perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 438,
+      "end": 456
+    },
+    {
+      "text": "angio-TC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 459,
+      "end": 489
+    }
+  ]
+}

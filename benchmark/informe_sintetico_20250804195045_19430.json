@@ -1,0 +1,119 @@
+{
+  "document_id": "informe_sintetico_20250804195045_19430",
+  "entities": [
+    {
+      "text": "infarto cerebrovascular",
+      "type": "PATOLOGIA",
+      "start": 270,
+      "end": 293
+    },
+    {
+      "text": "isquemia",
+      "type": "PATOLOGIA",
+      "start": 2261,
+      "end": 2269
+    },
+    {
+      "text": "zonas de frontera",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 297,
+      "end": 314
+    },
+    {
+      "text": "territorios de las arterias cerebrales anterior-media",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 2158,
+      "end": 2211
+    },
+    {
+      "text": "arterias cerebrales anterior",
+      "type": "ARTERIA",
+      "start": 686,
+      "end": 714
+    },
+    {
+      "text": "arterias cerebrales media",
+      "type": "ARTERIA",
+      "start": 766,
+      "end": 791
+    },
+    {
+      "text": "bilateral",
+      "type": "LATERALIDAD",
+      "start": 210,
+      "end": 219
+    },
+    {
+      "text": "ASPECTS 8",
+      "type": "PUNTUACION_CLINICA",
+      "start": 1049,
+      "end": 1058
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 385,
+      "end": 401
+    },
+    {
+      "text": "TC PERFUSIÓN",
+      "type": "TECNICA_IMAGEN",
+      "start": 1140,
+      "end": 1152
+    },
+    {
+      "text": "ANGIO-TC EXTRA E INTRACRANEAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 1586,
+      "end": 1615
+    },
+    {
+      "text": "No se observan signos de hemorragia intra ni extraaxial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 911,
+      "end": 966
+    },
+    {
+      "text": "No se evidencian áreas de infarto establecido",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1489,
+      "end": 1534
+    },
+    {
+      "text": "sin estenosis significativa ni placas ateromatosas de relevancia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1656,
+      "end": 1720
+    },
+    {
+      "text": "sin placas de ateroma ni estenosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1754,
+      "end": 1788
+    },
+    {
+      "text": "sin evidencia de oclusiones ni estenosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1855,
+      "end": 1895
+    },
+    {
+      "text": "sin alteraciones significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1946,
+      "end": 1977
+    },
+    {
+      "text": "No se observan fenómenos trombóticos o embolígenos en el estudio arterial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1981,
+      "end": 2054
+    },
+    {
+      "text": "sin evidencia de oclusión arterial ni transformación hemorrágica",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2740,
+      "end": 2804
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "document_id": "informe_sintetico_20250804195045_17056",
+  "entities": [
+    {
+      "text": "hemorragia intra o extraaxial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 505,
+      "end": 534
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 680,
+      "end": 694
+    },
+    {
+      "text": "edema cerebral",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 698,
+      "end": 712
+    },
+    {
+      "text": "discreta calcificación en núcleos de la base",
+      "type": "PATOLOGIA",
+      "start": 970,
+      "end": 1014
+    },
+    {
+      "text": "pequeñas áreas hipodensas profundas no significativas",
+      "type": "PATOLOGIA",
+      "start": 1017,
+      "end": 1070
+    },
+    {
+      "text": "hipoperfusión",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1186,
+      "end": 1199
+    },
+    {
+      "text": "alteraciones en los parámetros de flujo cerebral (CBF), volumen (CBV) o tiempo de tránsito (TTP, Tmax)",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1203,
+      "end": 1305
+    },
+    {
+      "text": "estenosis, oclusiones ni anomalías vasculares",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1603,
+      "end": 1648
+    },
+    {
+      "text": "placas ateromatosas significativas ni trombos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1670,
+      "end": 1715
+    },
+    {
+      "text": "ACAs, ACMs, ACPs",
+      "type": "ARTERIA",
+      "start": 1754,
+      "end": 1770
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 1865,
+      "end": 1875
+    },
+    {
+      "text": "TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANGIOTC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 2190,
+      "end": 2257
+    }
+  ]
+}

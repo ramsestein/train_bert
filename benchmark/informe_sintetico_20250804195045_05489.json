@@ -1,0 +1,71 @@
+{
+  "document_id": "informe_sintetico_20250804195045_05489",
+  "entities": [
+    {
+      "text": "infarto lacunar agudo",
+      "type": "PATOLOGIA",
+      "start": 746,
+      "end": 767
+    },
+    {
+      "text": "región núcleos profundos del tálamo izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 670,
+      "end": 715
+    },
+    {
+      "text": "izquierdo",
+      "type": "LATERALIDAD",
+      "start": 706,
+      "end": 715
+    },
+    {
+      "text": "menor de 15 mm",
+      "type": "MEDIDA",
+      "start": 717,
+      "end": 731
+    },
+    {
+      "text": "agudo",
+      "type": "TEMPORALIDAD",
+      "start": 762,
+      "end": 767
+    },
+    {
+      "text": "sin complicaciones hemorrágicas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1598,
+      "end": 1629
+    },
+    {
+      "text": "sin mismatch relevante",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1694,
+      "end": 1716
+    },
+    {
+      "text": "sin estenosis ni oclusiones arteriales mayores",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1737,
+      "end": 1783
+    },
+    {
+      "text": "TC craneal basal sin contraste",
+      "type": "TECNICA_IMAGEN",
+      "start": 290,
+      "end": 320
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 333,
+      "end": 354
+    },
+    {
+      "text": "AngioTC intra y extracraneal en fase arterial",
+      "type": "TECNICA_IMAGEN",
+      "start": 357,
+      "end": 402
+    }
+  ]
+}

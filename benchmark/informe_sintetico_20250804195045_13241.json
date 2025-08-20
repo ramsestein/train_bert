@@ -1,0 +1,77 @@
+{
+  "document_id": "informe_sintetico_20250804195045_13241",
+  "entities": [
+    {
+      "text": "isquemia",
+      "type": "PATOLOGIA",
+      "start": 208,
+      "end": 216
+    },
+    {
+      "text": "arteria cerebral posterior derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 234,
+      "end": 268
+    },
+    {
+      "text": "ACP",
+      "type": "ARTERIA",
+      "start": 675,
+      "end": 678
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 261,
+      "end": 268
+    },
+    {
+      "text": "aguda",
+      "type": "TEMPORALIDAD",
+      "start": 652,
+      "end": 657
+    },
+    {
+      "text": "hemorragia intra ni extraaxial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 481,
+      "end": 511
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 643,
+      "end": 657
+    },
+    {
+      "text": "arteria cerebral posterior derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 234,
+      "end": 268
+    },
+    {
+      "text": "oclusión segmentaria en P2 distal",
+      "type": "PATOLOGIA",
+      "start": 1514,
+      "end": 1547
+    },
+    {
+      "text": "hipoperfusión significativa",
+      "type": "PATOLOGIA",
+      "start": 1557,
+      "end": 1584
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1630,
+      "end": 1653
+    },
+    {
+      "text": "ASPECTS no aplicable a territorio ACP",
+      "type": "PUNTUACION_CLINICA",
+      "start": 1726,
+      "end": 1763
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "document_id": "informe_sintetico_20250804195045_10082",
+  "entities": [
+    {
+      "text": "microhemorragias",
+      "type": "PATOLOGIA",
+      "start": 290,
+      "end": 306
+    },
+    {
+      "text": "microhemorragias petequiales",
+      "type": "PATOLOGIA",
+      "start": 655,
+      "end": 683
+    },
+    {
+      "text": "hemorragias de mayor tamaño",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1728,
+      "end": 1755
+    },
+    {
+      "text": "hemorragia subaracnoidea",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 732,
+      "end": 756
+    },
+    {
+      "text": "atrofia leve-moderada",
+      "type": "PATOLOGIA",
+      "start": 802,
+      "end": 823
+    },
+    {
+      "text": "enfermedad microvascular crónica",
+      "type": "PATOLOGIA",
+      "start": 836,
+      "end": 868
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1195,
+      "end": 1209
+    },
+    {
+      "text": "Arterias cerebrales principales intracraneales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1336,
+      "end": 1382
+    },
+    {
+      "text": "ACA",
+      "type": "ARTERIA",
+      "start": 1384,
+      "end": 1387
+    },
+    {
+      "text": "ACM",
+      "type": "ARTERIA",
+      "start": 1389,
+      "end": 1392
+    },
+    {
+      "text": "ACP",
+      "type": "ARTERIA",
+      "start": 1394,
+      "end": 1397
+    },
+    {
+      "text": "sin alteraciones estenóticas ni placas significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1281,
+      "end": 1334
+    },
+    {
+      "text": "sin signos de estenosis ni malformaciones vasculares",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1411,
+      "end": 1463
+    },
+    {
+      "text": "sin evidencias de estenosis ni malformaciones vasculares",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1820,
+      "end": 1876
+    },
+    {
+      "text": "microangiopatía hemorrágica",
+      "type": "PATOLOGIA",
+      "start": 1681,
+      "end": 1708
+    },
+    {
+      "text": "seguimiento clínico-neurológico",
+      "type": "TEMPORALIDAD",
+      "start": 1927,
+      "end": 1958
+    },
+    {
+      "text": "control con resonancia magnética",
+      "type": "TEMPORALIDAD",
+      "start": 1961,
+      "end": 1993
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 348,
+      "end": 364
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 381,
+      "end": 402
+    },
+    {
+      "text": "Angio-TC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 405,
+      "end": 435
+    }
+  ]
+}

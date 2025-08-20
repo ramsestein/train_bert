@@ -1,0 +1,215 @@
+{
+  "document_id": "informe_sintetico_20250804195045_07667",
+  "entities": [
+    {
+      "text": "hemiparesia derecha",
+      "type": "PATOLOGIA",
+      "start": 216,
+      "end": 235
+    },
+    {
+      "text": "afasia",
+      "type": "PATOLOGIA",
+      "start": 238,
+      "end": 244
+    },
+    {
+      "text": "accidente cerebrovascular isquémico",
+      "type": "PATOLOGIA",
+      "start": 266,
+      "end": 301
+    },
+    {
+      "text": "extensa área hipodensa",
+      "type": "PATOLOGIA",
+      "start": 484,
+      "end": 506
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 527,
+      "end": 559
+    },
+    {
+      "text": "corteza",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 574,
+      "end": 581
+    },
+    {
+      "text": "sustancia blanca adyacente",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 587,
+      "end": 613
+    },
+    {
+      "text": "pérdida de diferenciación cortico-subcortical",
+      "type": "PATOLOGIA",
+      "start": 619,
+      "end": 664
+    },
+    {
+      "text": "signo del núcleo hiperdenso",
+      "type": "PATOLOGIA",
+      "start": 667,
+      "end": 694
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "ARTERIA",
+      "start": 527,
+      "end": 559
+    },
+    {
+      "text": "ASPECTS 5",
+      "type": "PUNTUACION_CLINICA",
+      "start": 732,
+      "end": 741
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 759,
+      "end": 782
+    },
+    {
+      "text": "línea media desplazadas levemente hacia la derecha",
+      "type": "PATOLOGIA",
+      "start": 802,
+      "end": 852
+    },
+    {
+      "text": "edema cerebral",
+      "type": "PATOLOGIA",
+      "start": 867,
+      "end": 881
+    },
+    {
+      "text": "colapsado en hemisferio izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 926,
+      "end": 959
+    },
+    {
+      "text": "prolongación significativa del tiempo de tránsito medio (TTP)",
+      "type": "PATOLOGIA",
+      "start": 987,
+      "end": 1048
+    },
+    {
+      "text": "reducción marcada de volumen de sangre cerebral (CBV)",
+      "type": "PATOLOGIA",
+      "start": 1051,
+      "end": 1104
+    },
+    {
+      "text": "flujo sanguíneo cerebral (CBF)",
+      "type": "PATOLOGIA",
+      "start": 1107,
+      "end": 1137
+    },
+    {
+      "text": "territorio vascular izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1141,
+      "end": 1170
+    },
+    {
+      "text": "infarto establecido",
+      "type": "PATOLOGIA",
+      "start": 1187,
+      "end": 1206
+    },
+    {
+      "text": "disminución moderada del CBF",
+      "type": "PATOLOGIA",
+      "start": 1247,
+      "end": 1275
+    },
+    {
+      "text": "penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1290,
+      "end": 1308
+    },
+    {
+      "text": "segmento cervical proximal",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1418,
+      "end": 1444
+    },
+    {
+      "text": "sin opacificación distal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1446,
+      "end": 1470
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "ARTERIA",
+      "start": 527,
+      "end": 559
+    },
+    {
+      "text": "sin paso de contraste",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1505,
+      "end": 1526
+    },
+    {
+      "text": "estenosis significativas en segmentos contralaterales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1543,
+      "end": 1596
+    },
+    {
+      "text": "sistema vertebrobasilar",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1606,
+      "end": 1629
+    },
+    {
+      "text": "sin estenosis hemodinámicamente relevante",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1696,
+      "end": 1737
+    },
+    {
+      "text": "infarto establecido en territorio vascular de la arteria cerebral media izquierda",
+      "type": "PATOLOGIA",
+      "start": 1824,
+      "end": 1905
+    },
+    {
+      "text": "importante zona de penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1911,
+      "end": 1948
+    },
+    {
+      "text": "sangrado intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2029,
+      "end": 2050
+    },
+    {
+      "text": "TC perfusión",
+      "type": "TECNICA_IMAGEN",
+      "start": 354,
+      "end": 366
+    },
+    {
+      "text": "angio-TC que confirma área infartada con zona de penumbra extensa y oclusión arterial proximal",
+      "type": "TECNICA_IMAGEN",
+      "start": 2243,
+      "end": 2337
+    },
+    {
+      "text": "infarto extenso en territorio MCA izquierda",
+      "type": "PATOLOGIA",
+      "start": 2493,
+      "end": 2536
+    }
+  ]
+}

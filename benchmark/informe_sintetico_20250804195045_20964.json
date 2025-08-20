@@ -1,0 +1,113 @@
+{
+  "document_id": "informe_sintetico_20250804195045_20964",
+  "entities": [
+    {
+      "text": "ictus isquémico",
+      "type": "PATOLOGIA",
+      "start": 221,
+      "end": 236
+    },
+    {
+      "text": "isquemia",
+      "type": "PATOLOGIA",
+      "start": 701,
+      "end": 709
+    },
+    {
+      "text": "ASPECTS 9",
+      "type": "PUNTUACION_CLINICA",
+      "start": 711,
+      "end": 720
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 1687,
+      "end": 1701
+    },
+    {
+      "text": "penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1177,
+      "end": 1195
+    },
+    {
+      "text": "arteria cerebral media distal derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 990,
+      "end": 1027
+    },
+    {
+      "text": "M2/M3",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1820,
+      "end": 1825
+    },
+    {
+      "text": "oclusión",
+      "type": "PATOLOGIA",
+      "start": 1324,
+      "end": 1332
+    },
+    {
+      "text": "M2-M3 derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1348,
+      "end": 1361
+    },
+    {
+      "text": "ACM",
+      "type": "ARTERIA",
+      "start": 1473,
+      "end": 1476
+    },
+    {
+      "text": "ACA",
+      "type": "ARTERIA",
+      "start": 1478,
+      "end": 1481
+    },
+    {
+      "text": "ACP",
+      "type": "ARTERIA",
+      "start": 1484,
+      "end": 1487
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 1020,
+      "end": 1027
+    },
+    {
+      "text": "No se evidencian signos de hemorragia intracraneal ni extraaxial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 443,
+      "end": 507
+    },
+    {
+      "text": "No hemorragia asociada",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1914,
+      "end": 1936
+    },
+    {
+      "text": "TC craneal basal sin contraste",
+      "type": "TECNICA_IMAGEN",
+      "start": 257,
+      "end": 287
+    },
+    {
+      "text": "Perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 300,
+      "end": 318
+    },
+    {
+      "text": "Angio-TC intra y extracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 321,
+      "end": 350
+    }
+  ]
+}

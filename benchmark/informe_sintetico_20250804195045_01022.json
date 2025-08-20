@@ -1,0 +1,149 @@
+{
+  "document_id": "informe_sintetico_20250804195045_01022",
+  "entities": [
+    {
+      "text": "infarto cerebral reciente",
+      "type": "PATOLOGIA",
+      "start": 194,
+      "end": 219
+    },
+    {
+      "text": "deterioro neurológico súbito",
+      "type": "PATOLOGIA",
+      "start": 230,
+      "end": 258
+    },
+    {
+      "text": "infarto isquémico establecido",
+      "type": "PATOLOGIA",
+      "start": 519,
+      "end": 548
+    },
+    {
+      "text": "transformación hemorrágica tipo PH1",
+      "type": "PATOLOGIA",
+      "start": 644,
+      "end": 679
+    },
+    {
+      "text": "hemorragias intraventriculares",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 696,
+      "end": 726
+    },
+    {
+      "text": "sangrado subaracnoideo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 730,
+      "end": 752
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 471,
+      "end": 503
+    },
+    {
+      "text": "ACMed",
+      "type": "ARTERIA",
+      "start": 1177,
+      "end": 1182
+    },
+    {
+      "text": "M2",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1162,
+      "end": 1164
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 494,
+      "end": 503
+    },
+    {
+      "text": "sin complicaciones hemorrágicas extensas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1430,
+      "end": 1470
+    },
+    {
+      "text": "sin penumbra viable",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1592,
+      "end": 1611
+    },
+    {
+      "text": "disminución del flujo cerebral",
+      "type": "PATOLOGIA",
+      "start": 958,
+      "end": 988
+    },
+    {
+      "text": "aumento del tiempo medio de tránsito",
+      "type": "PATOLOGIA",
+      "start": 1013,
+      "end": 1049
+    },
+    {
+      "text": "oclusión parcial en segmento M2 superior",
+      "type": "PATOLOGIA",
+      "start": 1133,
+      "end": 1173
+    },
+    {
+      "text": "sin estenosis ni obstrucción significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1264,
+      "end": 1306
+    },
+    {
+      "text": "área hipodensa",
+      "type": "PATOLOGIA",
+      "start": 436,
+      "end": 450
+    },
+    {
+      "text": "área de infarto consolidado",
+      "type": "PATOLOGIA",
+      "start": 1564,
+      "end": 1591
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 279,
+      "end": 295
+    },
+    {
+      "text": "angioTC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 312,
+      "end": 341
+    },
+    {
+      "text": "imagen de perfusión cerebral urgente",
+      "type": "TECNICA_IMAGEN",
+      "start": 344,
+      "end": 380
+    },
+    {
+      "text": "TC PERFUSIÓN",
+      "type": "TECNICA_IMAGEN",
+      "start": 907,
+      "end": 919
+    },
+    {
+      "text": "protocolo de ictus urgente",
+      "type": "TECNICA_IMAGEN",
+      "start": 1804,
+      "end": 1830
+    },
+    {
+      "text": "contraste endovenoso",
+      "type": "TECNICA_IMAGEN",
+      "start": 1832,
+      "end": 1852
+    }
+  ]
+}

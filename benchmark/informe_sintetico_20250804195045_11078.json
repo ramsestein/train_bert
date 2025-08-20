@@ -1,0 +1,185 @@
+{
+  "document_id": "informe_sintetico_20250804195045_11078",
+  "entities": [
+    {
+      "text": "ictus agudo",
+      "type": "PATOLOGIA",
+      "start": 201,
+      "end": 212
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 438,
+      "end": 461
+    },
+    {
+      "text": "lesiones isquémicas agudas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 465,
+      "end": 491
+    },
+    {
+      "text": "diferenciación cortico-subcortical",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 496,
+      "end": 530
+    },
+    {
+      "text": "áreas de hipodensidad patológica",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 574,
+      "end": 606
+    },
+    {
+      "text": "surcos corticales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 612,
+      "end": 629
+    },
+    {
+      "text": "sistema ventricular",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 632,
+      "end": 651
+    },
+    {
+      "text": "edema",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 718,
+      "end": 723
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 742,
+      "end": 752
+    },
+    {
+      "text": "línea media",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 772,
+      "end": 783
+    },
+    {
+      "text": "Cisternas basales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 795,
+      "end": 812
+    },
+    {
+      "text": "tiempo de tránsito",
+      "type": "TECNICA_IMAGEN",
+      "start": 863,
+      "end": 881
+    },
+    {
+      "text": "volumen sanguíneo",
+      "type": "TECNICA_IMAGEN",
+      "start": 883,
+      "end": 900
+    },
+    {
+      "text": "flujo sanguíneo cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 903,
+      "end": 927
+    },
+    {
+      "text": "hipoperfusión",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 968,
+      "end": 981
+    },
+    {
+      "text": "vasos arteriales intra y extracraneales",
+      "type": "ARTERIA",
+      "start": 1030,
+      "end": 1069
+    },
+    {
+      "text": "ACAs, ACMs, ACPs, arterias vertebrales y basilar",
+      "type": "ARTERIA",
+      "start": 1071,
+      "end": 1119
+    },
+    {
+      "text": "estenosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1156,
+      "end": 1165
+    },
+    {
+      "text": "trombosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1169,
+      "end": 1178
+    },
+    {
+      "text": "vasculopatía",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1205,
+      "end": 1217
+    },
+    {
+      "text": "irregularidades de la pared arterial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1221,
+      "end": 1257
+    },
+    {
+      "text": "signos leves de ateromatosis calcificada",
+      "type": "PATOLOGIA",
+      "start": 1274,
+      "end": 1314
+    },
+    {
+      "text": "segmentos carotídeos",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1324,
+      "end": 1344
+    },
+    {
+      "text": "repercusión luminal significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1350,
+      "end": 1383
+    },
+    {
+      "text": "TC CODE ICTUS normal sin hallazgos agudos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1408,
+      "end": 1449
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 742,
+      "end": 752
+    },
+    {
+      "text": "Perfusión cerebral y angiografía TC sin alteraciones",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1463,
+      "end": 1515
+    },
+    {
+      "text": "infarto",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1533,
+      "end": 1540
+    },
+    {
+      "text": "hemorragia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 438,
+      "end": 448
+    },
+    {
+      "text": "Vasos intracraneales y extracraneales permeables",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1556,
+      "end": 1604
+    }
+  ]
+}

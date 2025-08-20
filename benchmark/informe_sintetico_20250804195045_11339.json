@@ -1,0 +1,71 @@
+{
+  "document_id": "informe_sintetico_20250804195045_11339",
+  "entities": [
+    {
+      "text": "hematoma intracerebral",
+      "type": "PATOLOGIA",
+      "start": 548,
+      "end": 570
+    },
+    {
+      "text": "lóbulo frontal derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 506,
+      "end": 528
+    },
+    {
+      "text": "25 x 20 mm",
+      "type": "MEDIDA",
+      "start": 590,
+      "end": 600
+    },
+    {
+      "text": "3 mm",
+      "type": "MEDIDA",
+      "start": 796,
+      "end": 800
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 303,
+      "end": 319
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 335,
+      "end": 356
+    },
+    {
+      "text": "angioTC de arterias intracraneales",
+      "type": "TECNICA_IMAGEN",
+      "start": 359,
+      "end": 393
+    },
+    {
+      "text": "No se evidencian hemorragias subaracnoideas ni intraventriculares",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 644,
+      "end": 709
+    },
+    {
+      "text": "sin áreas de isquemia delimitables",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1151,
+      "end": 1185
+    },
+    {
+      "text": "sin defectos de repleción o signos compatibles con aneurismas o malformaciones vasculares en región frontal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1387,
+      "end": 1494
+    },
+    {
+      "text": "No se evidencian signos de isquemia cerebral asociada ni malformaciones vasculares visibles en el estudio",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1630,
+      "end": 1735
+    }
+  ]
+}

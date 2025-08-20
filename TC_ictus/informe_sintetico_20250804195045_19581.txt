@@ -1,0 +1,31 @@
+UO_PACN (Unidad Organizativa Médica): RADIO
+
+PRUEB (Prueba solicitada): TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANG IOTC ARTERIAL INTRACRANEAL)
+
+CLIN (Resumen clínico): Déficit motor súbito en hemicuerpo derecho, afasia y alteración del nivel de conciencia, sospecha clínica de isquemia aguda en territorio de arteria cerebral posterior (ACP) izquierda.
+
+OBSR (Protocolo): TC craneal basal sin contraste, estudio de perfusión cerebral dinámica y Angio-TC intracraneal con reconstrucción 3D, protocolo urgente para código ictus.
+
+RESL (Resultados): 
+TC craneal basal:
+Se evidencia hipodensidad temprana en el territorio vascular de la arteria cerebral posterior izquierda, predominando en el lóbulo occipital y porción posterior del cuerpo calloso, con pérdida de diferenciación cortico-subcortical y leve edema citotóxico, sin datos de hemorragia asociada ni efecto masa significativo. Sistema ventricular de tamaño conservado y estructuras de la línea media sin desviación.
+
+TC perfusión:
+Alteración en los parámetros de perfusión en el territorio de ACP izquierda, con aumento del tiempo de tránsito medio (TTM) y disminución marcada del volumen sanguíneo cerebral (CBV) y del flujo sanguíneo cerebral (CBF), compatibles con isquemia aguda en fase penumbra, sin definir todavía necrosis irreversible.
+
+Angio-TC intracraneal:
+Oclusión proximal de arteria cerebral posterior izquierda a nivel del segmento P1, con ausencia de paso del contraste, ramas distales irregulares y permeables por circulación colateral limitada. Resto de vasos principales sin estenosis ni placas vulnerables.
+
+CONCL (Conclusiones): 
+Imágenes compatibles con isquemia aguda en territorio de arteria cerebral posterior izquierda, con evidencia de oclusión arterial proximal (segmento P1) y áreas compatibles con penumbra isquémica. No se identifican signos de hemorragia intracraneal. Recomendable valoración rápida para reperfusión endovascular.
+
+ACTI_ADICI (Actividad adicional): 
+Se sugiere correlacionar con clínica neurológica y considerar seguimiento con resonancia magnética para valoración de extensión final del infarto.
+
+ICON (Estudio): @RADIO_1234@
+
+X00DIATXT (Texto del diagnóstico ACR): Isquemia aguda en territorio de arteria cerebral posterior izquierda. Oclusión arterial proximal. Ausencia de hemorragia intracraneal.
+
+EST_T_DES (Descripción): TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANGIOTC ARTERIAL INTRACRANEAL)
+
+ZVASOS_D (Der.): Oclusión proximal de ACP izquierda (segmento P1), circulación colateral insuficiente. Vascularización principal restante sin hallazgos patológicos.

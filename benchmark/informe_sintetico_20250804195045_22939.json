@@ -1,0 +1,113 @@
+{
+  "document_id": "informe_sintetico_20250804195045_22939",
+  "entities": [
+    {
+      "text": "ictus isquémico agudo",
+      "type": "PATOLOGIA",
+      "start": 219,
+      "end": 240
+    },
+    {
+      "text": "hiperdensidad",
+      "type": "PATOLOGIA",
+      "start": 389,
+      "end": 402
+    },
+    {
+      "text": "trombo intraluminal",
+      "type": "PATOLOGIA",
+      "start": 483,
+      "end": 502
+    },
+    {
+      "text": "isquemia aguda temprana",
+      "type": "PATOLOGIA",
+      "start": 703,
+      "end": 726
+    },
+    {
+      "text": "ASPECTS",
+      "type": "PUNTUACION_CLINICA",
+      "start": 728,
+      "end": 735
+    },
+    {
+      "text": "hemorragia intra ni extraaxial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 778,
+      "end": 808
+    },
+    {
+      "text": "segmento proximal M1 derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 409,
+      "end": 437
+    },
+    {
+      "text": "Oclusión completa",
+      "type": "PATOLOGIA",
+      "start": 947,
+      "end": 964
+    },
+    {
+      "text": "ACPs",
+      "type": "ARTERIA",
+      "start": 1098,
+      "end": 1102
+    },
+    {
+      "text": "zona de penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1417,
+      "end": 1443
+    },
+    {
+      "text": "ASPECTS=6",
+      "type": "PUNTUACION_CLINICA",
+      "start": 1659,
+      "end": 1668
+    },
+    {
+      "text": "hemorragia asociada ni complicaciones secundaria visibles",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1787,
+      "end": 1844
+    },
+    {
+      "text": "TC craneal simple basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 260,
+      "end": 283
+    },
+    {
+      "text": "perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 286,
+      "end": 304
+    },
+    {
+      "text": "angio-TC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 307,
+      "end": 337
+    },
+    {
+      "text": "tiempo de tránsito medio (MTT)",
+      "type": "MEDIDA",
+      "start": 1268,
+      "end": 1298
+    },
+    {
+      "text": "flujo cerebral (CBF)",
+      "type": "MEDIDA",
+      "start": 1329,
+      "end": 1349
+    },
+    {
+      "text": "volumen cerebral (CBV)",
+      "type": "MEDIDA",
+      "start": 1352,
+      "end": 1374
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "document_id": "informe_sintetico_20250804195045_14346",
+  "entities": [
+    {
+      "text": "hematoma lobar reciente",
+      "type": "PATOLOGIA",
+      "start": 528,
+      "end": 551
+    },
+    {
+      "text": "región lobar parietal derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 397,
+      "end": 426
+    },
+    {
+      "text": "35 x 25 mm",
+      "type": "MEDIDA",
+      "start": 501,
+      "end": 511
+    },
+    {
+      "text": "edema vasogénico moderado",
+      "type": "PATOLOGIA",
+      "start": 579,
+      "end": 604
+    },
+    {
+      "text": "volumen sanguíneo cerebral (CBV)",
+      "type": "PATOLOGIA",
+      "start": 949,
+      "end": 981
+    },
+    {
+      "text": "tiempo medio de tránsito (MTT)",
+      "type": "PATOLOGIA",
+      "start": 1037,
+      "end": 1067
+    },
+    {
+      "text": "sin signos de estenosis o malformaciones vasculares",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1204,
+      "end": 1255
+    },
+    {
+      "text": "sin desplazamiento significativo de la línea media",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1454,
+      "end": 1504
+    },
+    {
+      "text": "TC craneal sin contraste basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 273,
+      "end": 303
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 315,
+      "end": 336
+    },
+    {
+      "text": "Angio TC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 339,
+      "end": 369
+    }
+  ]
+}

@@ -1,0 +1,119 @@
+{
+  "document_id": "informe_sintetico_20250804195045_16903",
+  "entities": [
+    {
+      "text": "hemorragia parenquimatosa lobar",
+      "type": "PATOLOGIA",
+      "start": 491,
+      "end": 522
+    },
+    {
+      "text": "región occipital derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 529,
+      "end": 553
+    },
+    {
+      "text": "12 mm",
+      "type": "MEDIDA",
+      "start": 573,
+      "end": 578
+    },
+    {
+      "text": "edema perilesional",
+      "type": "PATOLOGIA",
+      "start": 607,
+      "end": 625
+    },
+    {
+      "text": "microhemorragias",
+      "type": "PATOLOGIA",
+      "start": 968,
+      "end": 984
+    },
+    {
+      "text": "angiopatía amiloide cerebral",
+      "type": "PATOLOGIA",
+      "start": 1089,
+      "end": 1117
+    },
+    {
+      "text": "infarto agudo",
+      "type": "PATOLOGIA",
+      "start": 1144,
+      "end": 1157
+    },
+    {
+      "text": "ACAs",
+      "type": "ARTERIA",
+      "start": 1557,
+      "end": 1561
+    },
+    {
+      "text": "ACMs",
+      "type": "ARTERIA",
+      "start": 1563,
+      "end": 1567
+    },
+    {
+      "text": "ACPs",
+      "type": "ARTERIA",
+      "start": 1569,
+      "end": 1573
+    },
+    {
+      "text": "microhemorragias corticales",
+      "type": "PATOLOGIA",
+      "start": 1805,
+      "end": 1832
+    },
+    {
+      "text": "infarto isquémico agudo",
+      "type": "PATOLOGIA",
+      "start": 1882,
+      "end": 1905
+    },
+    {
+      "text": "angiopatía amiloide",
+      "type": "PATOLOGIA",
+      "start": 1089,
+      "end": 1108
+    },
+    {
+      "text": "TC CÓDIGO ICTUS",
+      "type": "TECNICA_IMAGEN",
+      "start": 370,
+      "end": 385
+    },
+    {
+      "text": "TC PERFUSIÓN",
+      "type": "TECNICA_IMAGEN",
+      "start": 1188,
+      "end": 1200
+    },
+    {
+      "text": "ANGIO-TC INTRACRANEAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 1365,
+      "end": 1386
+    },
+    {
+      "text": "No se identifican otras hemorragias intraaxiales ni sangrados extraaxiales.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 725,
+      "end": 800
+    },
+    {
+      "text": "No se observan signos de infarto agudo en los mapas de perfusión.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1119,
+      "end": 1184
+    },
+    {
+      "text": "No hay evidencia de infarto isquémico agudo ni estenosis arterial intracraneal significativa.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1862,
+      "end": 1955
+    }
+  ]
+}

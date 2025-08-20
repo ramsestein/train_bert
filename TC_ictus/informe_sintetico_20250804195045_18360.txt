@@ -1,0 +1,25 @@
+UO_PACN (Unidad Organizativa Médica): RADIO
+
+PRUEB (Prueba solicitada): TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANG IOTC ARTERIAL INTRACRANEAL)
+
+CLIN (Resumen clínico): Cefalea súbita intensa, pérdida de conciencia y rigidez de nuca. Sospecha clínica de hemorragia subaracnoidea.
+
+OBSR (Protocolo): Protocolo código ictus, incluye TC craneal basal sin contraste, estudio de perfusión cerebral y angiografía TC arterial intracraneal para evaluación vascular y despistaje de vasoespasmo.
+
+RESL (Resultados): TC CRANEAL BASAL: Se observa hiperdensidad difusa en el espacio subaracnoideo de las cisternas basales, convexidad cerebral y surcos corticales, compatible con hemorragia subaracnoidea extensa. No se observan hematomas intraparenquimatosos asociados ni sangrado intraventricular. Línea media centrada sin desplazamientos. Sistema ventricular de tamaño conservado sin hidrocefalia. No se identifican signos de infarto cerebral agudo.
+
+TC PERFUSIÓN: Marcada reducción difusa del volumen cerebral de sangre (CBV) y flujo cerebral sanguíneo (CBF) en territorios corticales, con prolongación del tiempo de tránsito medio (MTT), sugestiva de vasoespasmo en fase inicial, especialmente en regiones supratentoriales frontales y temporales bilaterales.
+
+ANGIO-TC EXTRA E INTRACRANEAL: Arco aórtico sin estenosis significativas. Sistema carotídeo extracraneal permeable sin placas ateromatosas estenosantes. Angiografía intracraneal muestra vasos principales permeables pero con irregularidades de calibre y zonas de estrechamiento difusas compatibles con vasoespasmo. No se visualizan aneurismas intracraneales enfáticamente, aunque la visualización puede estar limitada por la hemorragia difusa.
+
+CONCL (Conclusiones): Hemorragia subaracnoidea difusa con extensión a cisternas basales y surcos corticales. Signos tempranos de vasoespasmo en territorios supratentoriales. No se evidencia hematoma intraparenquimatoso ni hidrocefalia aguda. Se recomienda estudio neurovascular complementario para identificación y manejo del posible aneurisma causal.
+
+ACTI_ADICI (Actividad adicional): Monitorización neurológica estrecha. Considerar angiografía convencional para estudio detallado vascular y posible embolización.
+
+ICON (Estudio): @TC_CODICTUS_001@
+
+X00DIATXT (Texto del diagnóstico ACR): Hemorragia subaracnoidea difusa con vasoespasmo precoz. Ausencia de hematomas intraparenquimatosos. No hidrocefalia.
+
+EST_T_DES (Descripción): TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANGIOTC ARTERIAL INTRACRANEAL)
+
+ZVASOS_D (Der.): Paciente con hemorragia subaracnoidea difusa, sin evidencia clara de aneurisma en angiografía TC, presenta signos de vasoespasmo inicial, recomendando seguimiento y valoración angiográfica invasiva para diagnóstico definitivo.

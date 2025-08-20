@@ -1,0 +1,77 @@
+{
+  "document_id": "informe_sintetico_20250804195045_14905",
+  "entities": [
+    {
+      "text": "No se identifican hemorragias intra ni extraaxiales.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 385,
+      "end": 437
+    },
+    {
+      "text": "Diferenciación cortico-subcortical conservada en todas las regiones cerebrales, con ASPECTS 10/10.",
+      "type": "PUNTUACION_CLINICA",
+      "start": 439,
+      "end": 537
+    },
+    {
+      "text": "Leves signos de gliosis y microangiopatía crónica en sustancia blanca periventricular, sin repercusión significativa.",
+      "type": "PATOLOGIA",
+      "start": 538,
+      "end": 655
+    },
+    {
+      "text": "Cisternas basales permeables sin ocupaciones.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 748,
+      "end": 793
+    },
+    {
+      "text": "Parámetros de perfusión cerebral (CBF, CBV, TTP y Tmax) dentro de rangos normales en todas las regiones evaluadas.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 808,
+      "end": 922
+    },
+    {
+      "text": "No se evidencian áreas de hipoperfusión ni mismatch.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 923,
+      "end": 975
+    },
+    {
+      "text": "Arterias cerebrales principales (ACAs, ACMs, ACPs) permeables sin defectos de repleción ni estenosis significativas.",
+      "type": "ARTERIA",
+      "start": 1007,
+      "end": 1123
+    },
+    {
+      "text": "Sistema vertebrobasilar permeable.",
+      "type": "ARTERIA",
+      "start": 1196,
+      "end": 1230
+    },
+    {
+      "text": "Estudio TC código ictus normal sin hallazgos agudos.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1311,
+      "end": 1363
+    },
+    {
+      "text": "Sin signos de isquemia aguda ni hemorragia intracraneal.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1364,
+      "end": 1420
+    },
+    {
+      "text": "Áreas de microangiopatía crónica leve sin relevancia clínica actual.",
+      "type": "PATOLOGIA",
+      "start": 1421,
+      "end": 1489
+    },
+    {
+      "text": "Perfusión cerebral y angiografía TC sin alteraciones.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1490,
+      "end": 1543
+    }
+  ]
+}

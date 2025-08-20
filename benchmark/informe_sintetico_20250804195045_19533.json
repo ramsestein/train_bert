@@ -1,0 +1,221 @@
+{
+  "document_id": "informe_sintetico_20250804195045_19533",
+  "entities": [
+    {
+      "text": "hemiparesia izquierda",
+      "type": "PATOLOGIA",
+      "start": 196,
+      "end": 217
+    },
+    {
+      "text": "accidente cerebrovascular isquémico",
+      "type": "PATOLOGIA",
+      "start": 285,
+      "end": 320
+    },
+    {
+      "text": "área de hipodensidad",
+      "type": "PATOLOGIA",
+      "start": 499,
+      "end": 519
+    },
+    {
+      "text": "región derecha de la cápsula interna",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 526,
+      "end": 562
+    },
+    {
+      "text": "ganglios basales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 565,
+      "end": 581
+    },
+    {
+      "text": "signo de arteria hiperdensa en segmento M1 de la arteria cerebral media derecha",
+      "type": "PATOLOGIA",
+      "start": 644,
+      "end": 723
+    },
+    {
+      "text": "trombo intraluminal",
+      "type": "PATOLOGIA",
+      "start": 740,
+      "end": 759
+    },
+    {
+      "text": "ASPECTS 7",
+      "type": "PUNTUACION_CLINICA",
+      "start": 761,
+      "end": 770
+    },
+    {
+      "text": "núcleos ganglionares",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 798,
+      "end": 818
+    },
+    {
+      "text": "corona radiada",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 821,
+      "end": 835
+    },
+    {
+      "text": "hemorragias intracraneales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 852,
+      "end": 878
+    },
+    {
+      "text": "signos de transformación hemorrágica",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 882,
+      "end": 918
+    },
+    {
+      "text": "sistema ventricular y estructuras de la línea media se mantienen centradas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 923,
+      "end": 997
+    },
+    {
+      "text": "Cisternas basales libres",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 999,
+      "end": 1023
+    },
+    {
+      "text": "aumento pronunciado del tiempo de tránsito medio (TTP)",
+      "type": "PATOLOGIA",
+      "start": 1053,
+      "end": 1107
+    },
+    {
+      "text": "tiempo hasta el pico (Tmax)",
+      "type": "PATOLOGIA",
+      "start": 1110,
+      "end": 1137
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "ARTERIA",
+      "start": 693,
+      "end": 723
+    },
+    {
+      "text": "reducción significativa del flujo cerebral (CBF)",
+      "type": "PATOLOGIA",
+      "start": 1191,
+      "end": 1239
+    },
+    {
+      "text": "volumen cerebral (CBV)",
+      "type": "PATOLOGIA",
+      "start": 1242,
+      "end": 1264
+    },
+    {
+      "text": "penumbra isquémica extensa",
+      "type": "PATOLOGIA",
+      "start": 1297,
+      "end": 1323
+    },
+    {
+      "text": "núcleo infartado limitado",
+      "type": "PATOLOGIA",
+      "start": 1328,
+      "end": 1353
+    },
+    {
+      "text": "oclusión completa del segmento M1 derecho",
+      "type": "PATOLOGIA",
+      "start": 1396,
+      "end": 1437
+    },
+    {
+      "text": "sin visualización del flujo distal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1439,
+      "end": 1473
+    },
+    {
+      "text": "Arterias intracraneales contralaterales permeables",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1475,
+      "end": 1525
+    },
+    {
+      "text": "Oclusión aguda del segmento proximal M1 de arteria cerebral media derecha",
+      "type": "PATOLOGIA",
+      "start": 1550,
+      "end": 1623
+    },
+    {
+      "text": "signos de isquemia en evolución",
+      "type": "PATOLOGIA",
+      "start": 1628,
+      "end": 1659
+    },
+    {
+      "text": "penumbra isquémica significativa",
+      "type": "PATOLOGIA",
+      "start": 1662,
+      "end": 1694
+    },
+    {
+      "text": "ASPECTS 7",
+      "type": "PUNTUACION_CLINICA",
+      "start": 761,
+      "end": 770
+    },
+    {
+      "text": "hemorragia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 852,
+      "end": 862
+    },
+    {
+      "text": "transformación",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 892,
+      "end": 906
+    },
+    {
+      "text": "Infarto cerebral agudo en territorio de ACM derecha",
+      "type": "PATOLOGIA",
+      "start": 2009,
+      "end": 2060
+    },
+    {
+      "text": "oclusión segmento proximal M1",
+      "type": "PATOLOGIA",
+      "start": 2062,
+      "end": 2091
+    },
+    {
+      "text": "signos de isquemia en tejido cerebral",
+      "type": "PATOLOGIA",
+      "start": 2096,
+      "end": 2133
+    },
+    {
+      "text": "penumbra significativa",
+      "type": "PATOLOGIA",
+      "start": 2136,
+      "end": 2158
+    },
+    {
+      "text": "Oclusión del segmento M1 derecho",
+      "type": "PATOLOGIA",
+      "start": 2272,
+      "end": 2304
+    },
+    {
+      "text": "ausencia de flujo distal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2309,
+      "end": 2333
+    }
+  ]
+}

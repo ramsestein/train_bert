@@ -1,0 +1,221 @@
+{
+  "document_id": "informe_sintetico_20250804195045_11907",
+  "entities": [
+    {
+      "text": "hemorragia intraventricular",
+      "type": "PATOLOGIA",
+      "start": 539,
+      "end": 566
+    },
+    {
+      "text": "ventrículos laterales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 601,
+      "end": 622
+    },
+    {
+      "text": "tercer ventrículo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 662,
+      "end": 679
+    },
+    {
+      "text": "colecciones hemorrágicas extraaxiales",
+      "type": "PATOLOGIA",
+      "start": 699,
+      "end": 736
+    },
+    {
+      "text": "hematomas parenquimatosos",
+      "type": "PATOLOGIA",
+      "start": 740,
+      "end": 765
+    },
+    {
+      "text": "edema periventricular",
+      "type": "PATOLOGIA",
+      "start": 789,
+      "end": 810
+    },
+    {
+      "text": "línea media",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 859,
+      "end": 870
+    },
+    {
+      "text": "sistema ventricular",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 930,
+      "end": 949
+    },
+    {
+      "text": "hipertensión intracraneal",
+      "type": "PATOLOGIA",
+      "start": 998,
+      "end": 1023
+    },
+    {
+      "text": "flujo sanguíneo cerebral",
+      "type": "PATOLOGIA",
+      "start": 1071,
+      "end": 1095
+    },
+    {
+      "text": "tiempo de tránsito medio (MTT)",
+      "type": "MEDIDA",
+      "start": 1172,
+      "end": 1202
+    },
+    {
+      "text": "volumen cerebral sanguíneo (CBV)",
+      "type": "MEDIDA",
+      "start": 1219,
+      "end": 1251
+    },
+    {
+      "text": "áreas corticales distales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1295,
+      "end": 1320
+    },
+    {
+      "text": "oclusión arterial",
+      "type": "PATOLOGIA",
+      "start": 1420,
+      "end": 1437
+    },
+    {
+      "text": "estenosis grado significativo",
+      "type": "PATOLOGIA",
+      "start": 1441,
+      "end": 1470
+    },
+    {
+      "text": "árbol arterial cerebral principal",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1475,
+      "end": 1508
+    },
+    {
+      "text": "ACAs, ACMs, ACPs",
+      "type": "ARTERIA",
+      "start": 1510,
+      "end": 1526
+    },
+    {
+      "text": "basilar",
+      "type": "ARTERIA",
+      "start": 1639,
+      "end": 1646
+    },
+    {
+      "text": "ventrículos laterales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 601,
+      "end": 622
+    },
+    {
+      "text": "tercer ventrículo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 662,
+      "end": 679
+    },
+    {
+      "text": "hematoma parenquimatoso",
+      "type": "PATOLOGIA",
+      "start": 1822,
+      "end": 1845
+    },
+    {
+      "text": "edema periventricular",
+      "type": "PATOLOGIA",
+      "start": 789,
+      "end": 810
+    },
+    {
+      "text": "dilatación ventricular",
+      "type": "PATOLOGIA",
+      "start": 1885,
+      "end": 1907
+    },
+    {
+      "text": "disminución focal del flujo",
+      "type": "PATOLOGIA",
+      "start": 1979,
+      "end": 2006
+    },
+    {
+      "text": "vasculopatía",
+      "type": "PATOLOGIA",
+      "start": 2056,
+      "end": 2068
+    },
+    {
+      "text": "aneurismas",
+      "type": "PATOLOGIA",
+      "start": 1595,
+      "end": 1605
+    },
+    {
+      "text": "hemorragia intraventricular secundaria",
+      "type": "PATOLOGIA",
+      "start": 2109,
+      "end": 2147
+    },
+    {
+      "text": "hipertensión arterial",
+      "type": "PATOLOGIA",
+      "start": 276,
+      "end": 297
+    },
+    {
+      "text": "TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANG IOTC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 72,
+      "end": 140
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 365,
+      "end": 381
+    },
+    {
+      "text": "angiografía por TC extracraneal e intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 403,
+      "end": 449
+    },
+    {
+      "text": "estudio de perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 453,
+      "end": 482
+    },
+    {
+      "text": "No se identifican colecciones hemorrágicas extraaxiales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 681,
+      "end": 736
+    },
+    {
+      "text": "sin evidencia de desplazamientos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 893,
+      "end": 925
+    },
+    {
+      "text": "sin evidencia de malformaciones arterio-venosas ni aneurismas visibles",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1544,
+      "end": 1614
+    },
+    {
+      "text": "sin evidencia de vasculopatía o aneurismas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2039,
+      "end": 2081
+    }
+  ]
+}

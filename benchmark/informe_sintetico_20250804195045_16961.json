@@ -1,0 +1,155 @@
+{
+  "document_id": "informe_sintetico_20250804195045_16961",
+  "entities": [
+    {
+      "text": "hemiparesia derecha",
+      "type": "PATOLOGIA",
+      "start": 217,
+      "end": 236
+    },
+    {
+      "text": "afasia",
+      "type": "PATOLOGIA",
+      "start": 239,
+      "end": 245
+    },
+    {
+      "text": "accidente cerebrovascular isquémico",
+      "type": "PATOLOGIA",
+      "start": 289,
+      "end": 324
+    },
+    {
+      "text": "hemorragias intra ni extraaxiales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 482,
+      "end": 515
+    },
+    {
+      "text": "arteria hiperdensa en segmento M1 de la arteria cerebral media izquierda",
+      "type": "PATOLOGIA",
+      "start": 537,
+      "end": 609
+    },
+    {
+      "text": "Hipodensidad mal definida en el territorio de la ACM izquierda",
+      "type": "PATOLOGIA",
+      "start": 611,
+      "end": 673
+    },
+    {
+      "text": "infarto isquémico en fase aguda",
+      "type": "PATOLOGIA",
+      "start": 739,
+      "end": 770
+    },
+    {
+      "text": "ASPECTS 7",
+      "type": "PUNTUACION_CLINICA",
+      "start": 772,
+      "end": 781
+    },
+    {
+      "text": "Cisternas basales libres",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 917,
+      "end": 941
+    },
+    {
+      "text": "Mapas de tiempo de tránsito (TTP)",
+      "type": "TECNICA_IMAGEN",
+      "start": 960,
+      "end": 993
+    },
+    {
+      "text": "tiempo hasta el pico (Tmax)",
+      "type": "TECNICA_IMAGEN",
+      "start": 996,
+      "end": 1023
+    },
+    {
+      "text": "disminución del flujo cerebral regional (CBF)",
+      "type": "PATOLOGIA",
+      "start": 1120,
+      "end": 1165
+    },
+    {
+      "text": "aumento del volumen cerebral (CBV)",
+      "type": "PATOLOGIA",
+      "start": 1168,
+      "end": 1202
+    },
+    {
+      "text": "núcleo isquémico (core)",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1209,
+      "end": 1232
+    },
+    {
+      "text": "penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1337,
+      "end": 1355
+    },
+    {
+      "text": "Oclusión completa del segmento proximal M1 de la ACM izquierda",
+      "type": "PATOLOGIA",
+      "start": 1392,
+      "end": 1454
+    },
+    {
+      "text": "sin flujo distal visible",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1456,
+      "end": 1480
+    },
+    {
+      "text": "Arterias cerebrales anteriores y posteriores permeables",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1482,
+      "end": 1537
+    },
+    {
+      "text": "No se identifican estenosis significativas en troncos supraórticos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1539,
+      "end": 1605
+    },
+    {
+      "text": "sistema vertebrobasilar se encuentra permeable",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1610,
+      "end": 1656
+    },
+    {
+      "text": "Oclusión aguda del segmento proximal M1 de la arteria cerebral media izquierda",
+      "type": "PATOLOGIA",
+      "start": 1683,
+      "end": 1761
+    },
+    {
+      "text": "signos radiológicos de infarto isquémico agudo en territorio de la ACM izquierda",
+      "type": "PATOLOGIA",
+      "start": 1766,
+      "end": 1846
+    },
+    {
+      "text": "ASPECTS 7",
+      "type": "PUNTUACION_CLINICA",
+      "start": 772,
+      "end": 781
+    },
+    {
+      "text": "penumbra isquémica significativa",
+      "type": "PATOLOGIA",
+      "start": 1873,
+      "end": 1905
+    },
+    {
+      "text": "No hemorragia intracraneal visible",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1952,
+      "end": 1986
+    }
+  ]
+}

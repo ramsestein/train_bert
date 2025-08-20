@@ -1,0 +1,103 @@
+{
+  "entity_types": [
+    {
+      "name": "PATOLOGIA",
+      "description": "Cualquier hallazgo patológico, enfermedad o condición anormal",
+      "examples": [
+        "hematoma",
+        "isquemia",
+        "infarto",
+        "oclusión",
+        "trombosis",
+        "edema",
+        "hemorragia"
+      ]
+    },
+    {
+      "name": "LOCALIZACION_ANATOMICA",
+      "description": "Estructuras anatómicas cerebrales específicas",
+      "examples": [
+        "lóbulo frontal",
+        "núcleo caudado",
+        "ínsula",
+        "cerebelo",
+        "tálamo",
+        "ganglios basales"
+      ]
+    },
+    {
+      "name": "ARTERIA",
+      "description": "Arterias y vasos sanguíneos cerebrales",
+      "examples": [
+        "ACM",
+        "ACA",
+        "ACP",
+        "arteria basilar",
+        "carótida",
+        "vertebral"
+      ]
+    },
+    {
+      "name": "LATERALIDAD",
+      "description": "Indicadores de lado",
+      "examples": [
+        "derecho",
+        "izquierdo",
+        "bilateral",
+        "derecha",
+        "izquierda"
+      ]
+    },
+    {
+      "name": "MEDIDA",
+      "description": "Mediciones numéricas con sus unidades",
+      "examples": [
+        "25 mm",
+        "4 cc",
+        "50%",
+        "3 x 2 x 1 cm"
+      ]
+    },
+    {
+      "name": "TEMPORALIDAD",
+      "description": "Indicadores temporales de la patología",
+      "examples": [
+        "agudo",
+        "crónico",
+        "subagudo",
+        "antiguo",
+        "reciente",
+        "establecido"
+      ]
+    },
+    {
+      "name": "PUNTUACION_CLINICA",
+      "description": "Escalas y puntuaciones clínicas",
+      "examples": [
+        "ASPECTS 7",
+        "Fisher 3",
+        "NIHSS 12"
+      ]
+    },
+    {
+      "name": "TECNICA_IMAGEN",
+      "description": "Técnicas y secuencias de imagen",
+      "examples": [
+        "TC PERFUSIÓN",
+        "ANGIO-TC",
+        "TC BASAL",
+        "contraste e.v."
+      ]
+    },
+    {
+      "name": "HALLAZGO_NEGATIVO",
+      "description": "Ausencia explícita de patología",
+      "examples": [
+        "No se observa hemorragia",
+        "sin signos de",
+        "ausencia de",
+        "no hay"
+      ]
+    }
+  ]
+}

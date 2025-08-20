@@ -1,0 +1,107 @@
+{
+  "document_id": "informe_sintetico_20250804195045_13237",
+  "entities": [
+    {
+      "text": "accidente cerebrovascular isquémico",
+      "type": "PATOLOGIA",
+      "start": 238,
+      "end": 273
+    },
+    {
+      "text": "arteria cerebral media izquierda proximal",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 291,
+      "end": 332
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "ARTERIA",
+      "start": 291,
+      "end": 323
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 314,
+      "end": 323
+    },
+    {
+      "text": "isquémica aguda temprana",
+      "type": "PATOLOGIA",
+      "start": 811,
+      "end": 835
+    },
+    {
+      "text": "ASPECTS 6/10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 837,
+      "end": 849
+    },
+    {
+      "text": "No se visualizan hemorragias agudas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 851,
+      "end": 886
+    },
+    {
+      "text": "Oclusión completa en el segmento proximal M1 de arteria cerebral media izquierda",
+      "type": "PATOLOGIA",
+      "start": 1408,
+      "end": 1488
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "ARTERIA",
+      "start": 291,
+      "end": 323
+    },
+    {
+      "text": "sin evidencia de flujo distal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1490,
+      "end": 1519
+    },
+    {
+      "text": "Oclusión aguda de segmento proximal M1 de arteria cerebral media izquierda",
+      "type": "PATOLOGIA",
+      "start": 1763,
+      "end": 1837
+    },
+    {
+      "text": "isquémica temprana en núcleo lenticular e ínsula",
+      "type": "PATOLOGIA",
+      "start": 1849,
+      "end": 1897
+    },
+    {
+      "text": "ASPECTS 6",
+      "type": "PUNTUACION_CLINICA",
+      "start": 837,
+      "end": 846
+    },
+    {
+      "text": "Sin hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1996,
+      "end": 2023
+    },
+    {
+      "text": "isquemia aguda extensa en territorio de ACM izquierda proximal",
+      "type": "PATOLOGIA",
+      "start": 2048,
+      "end": 2110
+    },
+    {
+      "text": "territorio de ACM izquierda proximal",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 2074,
+      "end": 2110
+    },
+    {
+      "text": "ACM",
+      "type": "ARTERIA",
+      "start": 1181,
+      "end": 1184
+    }
+  ]
+}

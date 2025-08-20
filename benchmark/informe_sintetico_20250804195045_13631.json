@@ -1,0 +1,119 @@
+{
+  "document_id": "informe_sintetico_20250804195045_13631",
+  "entities": [
+    {
+      "text": "infarto agudo",
+      "type": "PATOLOGIA",
+      "start": 619,
+      "end": 632
+    },
+    {
+      "text": "sangrado intracraneal",
+      "type": "PATOLOGIA",
+      "start": 646,
+      "end": 667
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 740,
+      "end": 750
+    },
+    {
+      "text": "TTP",
+      "type": "MEDIDA",
+      "start": 938,
+      "end": 941
+    },
+    {
+      "text": "CBF",
+      "type": "MEDIDA",
+      "start": 960,
+      "end": 963
+    },
+    {
+      "text": "CBV",
+      "type": "MEDIDA",
+      "start": 985,
+      "end": 988
+    },
+    {
+      "text": "mismatch",
+      "type": "PATOLOGIA",
+      "start": 1038,
+      "end": 1046
+    },
+    {
+      "text": "zonas hipoperfundidas",
+      "type": "PATOLOGIA",
+      "start": 1050,
+      "end": 1071
+    },
+    {
+      "text": "ACAs",
+      "type": "ARTERIA",
+      "start": 1138,
+      "end": 1142
+    },
+    {
+      "text": "ACMs",
+      "type": "ARTERIA",
+      "start": 1144,
+      "end": 1148
+    },
+    {
+      "text": "ACPs",
+      "type": "ARTERIA",
+      "start": 1151,
+      "end": 1155
+    },
+    {
+      "text": "Sistema vertebrobasilar",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1232,
+      "end": 1255
+    },
+    {
+      "text": "Carótidas",
+      "type": "ARTERIA",
+      "start": 1274,
+      "end": 1283
+    },
+    {
+      "text": "vertebrales",
+      "type": "ARTERIA",
+      "start": 1286,
+      "end": 1297
+    },
+    {
+      "text": "estenosis significativas",
+      "type": "PATOLOGIA",
+      "start": 1317,
+      "end": 1341
+    },
+    {
+      "text": "placas ateromatosas relevantes",
+      "type": "PATOLOGIA",
+      "start": 1345,
+      "end": 1375
+    },
+    {
+      "text": "hallazgos agudos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1431,
+      "end": 1447
+    },
+    {
+      "text": "isquemia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1545,
+      "end": 1553
+    },
+    {
+      "text": "hemorragia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1557,
+      "end": 1567
+    }
+  ]
+}

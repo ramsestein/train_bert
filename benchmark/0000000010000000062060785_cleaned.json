@@ -1,0 +1,119 @@
+{
+  "document_id": "0000000010000000062060785_cleaned",
+  "entities": [
+    {
+      "text": "hemorragia aguda",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 357,
+      "end": 373
+    },
+    {
+      "text": "ASPECTS 10/10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 442,
+      "end": 455
+    },
+    {
+      "text": "infarto lacunar crónico",
+      "type": "PATOLOGIA",
+      "start": 516,
+      "end": 539
+    },
+    {
+      "text": "enfermedad crónica de pequeño vaso",
+      "type": "PATOLOGIA",
+      "start": 614,
+      "end": 648
+    },
+    {
+      "text": "retraso en los mapas de tiempo",
+      "type": "PATOLOGIA",
+      "start": 1948,
+      "end": 1978
+    },
+    {
+      "text": "caída de flujo",
+      "type": "PATOLOGIA",
+      "start": 848,
+      "end": 862
+    },
+    {
+      "text": "ACM izquierda",
+      "type": "ARTERIA",
+      "start": 1011,
+      "end": 1024
+    },
+    {
+      "text": "ACM-M1 izquierda",
+      "type": "ARTERIA",
+      "start": 1169,
+      "end": 1185
+    },
+    {
+      "text": "ACAs",
+      "type": "ARTERIA",
+      "start": 1255,
+      "end": 1259
+    },
+    {
+      "text": "ACM derecha",
+      "type": "ARTERIA",
+      "start": 1261,
+      "end": 1272
+    },
+    {
+      "text": "ACPs",
+      "type": "ARTERIA",
+      "start": 1275,
+      "end": 1279
+    },
+    {
+      "text": "mínima ateromatosis cálcica",
+      "type": "PATOLOGIA",
+      "start": 1381,
+      "end": 1408
+    },
+    {
+      "text": "sin signos de estenosis significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1409,
+      "end": 1446
+    },
+    {
+      "text": "sin signos de estenosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1409,
+      "end": 1432
+    },
+    {
+      "text": "región fronto-parieto-temporo-insular izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 872,
+      "end": 919
+    },
+    {
+      "text": "territorio frontera de la ACM izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 985,
+      "end": 1024
+    },
+    {
+      "text": "crónico",
+      "type": "TEMPORALIDAD",
+      "start": 532,
+      "end": 539
+    },
+    {
+      "text": "crónica",
+      "type": "TEMPORALIDAD",
+      "start": 625,
+      "end": 632
+    },
+    {
+      "text": "crónico",
+      "type": "TEMPORALIDAD",
+      "start": 532,
+      "end": 539
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "document_id": "informe_sintetico_20250804195045_07957",
+  "entities": [
+    {
+      "text": "hematoma lobar frontoizquierdo",
+      "type": "PATOLOGIA",
+      "start": 521,
+      "end": 551
+    },
+    {
+      "text": "frontal izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1686,
+      "end": 1703
+    },
+    {
+      "text": "3 mm",
+      "type": "MEDIDA",
+      "start": 740,
+      "end": 744
+    },
+    {
+      "text": "aguda",
+      "type": "TEMPORALIDAD",
+      "start": 633,
+      "end": 638
+    },
+    {
+      "text": "ASPECTS no aplicable",
+      "type": "PUNTUACION_CLINICA",
+      "start": 942,
+      "end": 962
+    },
+    {
+      "text": "sin evidencia clara de isquemia cortical extensa o penumbra viable",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1251,
+      "end": 1317
+    },
+    {
+      "text": "sin signos de oclusión, estenosis ni malformaciones vasculares evidentes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1485,
+      "end": 1557
+    },
+    {
+      "text": "sin alteraciones estructurales angiográficas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1903,
+      "end": 1947
+    }
+  ]
+}

@@ -1,0 +1,155 @@
+{
+  "document_id": "informe_sintetico_20250804195045_19180",
+  "entities": [
+    {
+      "text": "hemiparesia derecha",
+      "type": "PATOLOGIA",
+      "start": 197,
+      "end": 216
+    },
+    {
+      "text": "afasia",
+      "type": "PATOLOGIA",
+      "start": 219,
+      "end": 225
+    },
+    {
+      "text": "disección arterial carotídea",
+      "type": "PATOLOGIA",
+      "start": 239,
+      "end": 267
+    },
+    {
+      "text": "hipodensidad",
+      "type": "PATOLOGIA",
+      "start": 415,
+      "end": 427
+    },
+    {
+      "text": "infarto isquémico reciente",
+      "type": "PATOLOGIA",
+      "start": 482,
+      "end": 508
+    },
+    {
+      "text": "corteza",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 539,
+      "end": 546
+    },
+    {
+      "text": "sustancia blanca subyacente",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 552,
+      "end": 579
+    },
+    {
+      "text": "surcos",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 600,
+      "end": 606
+    },
+    {
+      "text": "edema vasogénico leve",
+      "type": "PATOLOGIA",
+      "start": 618,
+      "end": 639
+    },
+    {
+      "text": "hemorragias intra ni extraaxiales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 658,
+      "end": 691
+    },
+    {
+      "text": "disminución del flujo sanguíneo cerebral",
+      "type": "PATOLOGIA",
+      "start": 734,
+      "end": 774
+    },
+    {
+      "text": "tiempo de tránsito medio",
+      "type": "MEDIDA",
+      "start": 795,
+      "end": 819
+    },
+    {
+      "text": "territorio medio cerebral izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 431,
+      "end": 466
+    },
+    {
+      "text": "área penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 932,
+      "end": 955
+    },
+    {
+      "text": "irregularidad y estrechamiento segmentario",
+      "type": "PATOLOGIA",
+      "start": 996,
+      "end": 1038
+    },
+    {
+      "text": "arteria carótida interna izquierda",
+      "type": "ARTERIA",
+      "start": 1045,
+      "end": 1079
+    },
+    {
+      "text": "signo de doble lumen",
+      "type": "PATOLOGIA",
+      "start": 1102,
+      "end": 1122
+    },
+    {
+      "text": "dilatación postestenótica",
+      "type": "PATOLOGIA",
+      "start": 1125,
+      "end": 1150
+    },
+    {
+      "text": "disección arterial",
+      "type": "PATOLOGIA",
+      "start": 239,
+      "end": 257
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "ARTERIA",
+      "start": 1342,
+      "end": 1374
+    },
+    {
+      "text": "reducción del calibre y flujo disminuido",
+      "type": "PATOLOGIA",
+      "start": 1239,
+      "end": 1279
+    },
+    {
+      "text": "Evidencia radiológica de disección arterial en arteria carótida interna izquierda",
+      "type": "PATOLOGIA",
+      "start": 1427,
+      "end": 1508
+    },
+    {
+      "text": "No signos de hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1512,
+      "end": 1548
+    },
+    {
+      "text": "TC CODIGO ICTUS (PERFUSION CEREBRAL + ANG IOTC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 72,
+      "end": 141
+    },
+    {
+      "text": "RM cerebral y angio-RM",
+      "type": "TECNICA_IMAGEN",
+      "start": 1608,
+      "end": 1630
+    }
+  ]
+}

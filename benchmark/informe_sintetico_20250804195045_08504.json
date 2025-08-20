@@ -1,0 +1,77 @@
+{
+  "document_id": "informe_sintetico_20250804195045_08504",
+  "entities": [
+    {
+      "text": "hematoma subdural agudo",
+      "type": "PATOLOGIA",
+      "start": 663,
+      "end": 686
+    },
+    {
+      "text": "12 mm",
+      "type": "MEDIDA",
+      "start": 624,
+      "end": 629
+    },
+    {
+      "text": "derecho",
+      "type": "LATERALIDAD",
+      "start": 596,
+      "end": 603
+    },
+    {
+      "text": "6 mm",
+      "type": "MEDIDA",
+      "start": 892,
+      "end": 896
+    },
+    {
+      "text": "edema vasogénico",
+      "type": "PATOLOGIA",
+      "start": 992,
+      "end": 1008
+    },
+    {
+      "text": "discreto retraso del tiempo de tránsito medio (MTT)",
+      "type": "PATOLOGIA",
+      "start": 1212,
+      "end": 1263
+    },
+    {
+      "text": "sin reducción significativa del volumen cerebral sanguíneo (CBV)",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1290,
+      "end": 1354
+    },
+    {
+      "text": "sin signos de lesión parenquimatosa contusa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1714,
+      "end": 1757
+    },
+    {
+      "text": "sin colapso severo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1119,
+      "end": 1137
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 300,
+      "end": 316
+    },
+    {
+      "text": "perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 368,
+      "end": 386
+    },
+    {
+      "text": "angio-TC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 389,
+      "end": 419
+    }
+  ]
+}

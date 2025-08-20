@@ -1,0 +1,83 @@
+{
+  "document_id": "informe_sintetico_20250804195045_24159",
+  "entities": [
+    {
+      "text": "isquemia cerebral leve",
+      "type": "PATOLOGIA",
+      "start": 225,
+      "end": 247
+    },
+    {
+      "text": "hemorragia intra o extraaxial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 445,
+      "end": 474
+    },
+    {
+      "text": "edema",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 577,
+      "end": 582
+    },
+    {
+      "text": "infartos agudos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 586,
+      "end": 601
+    },
+    {
+      "text": "ASPECTS 10/10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 603,
+      "end": 616
+    },
+    {
+      "text": "pequeñas áreas de hipodensidad periventricular bilaterales",
+      "type": "PATOLOGIA",
+      "start": 633,
+      "end": 691
+    },
+    {
+      "text": "cambios crónicos isquémicos de pequeño vaso",
+      "type": "PATOLOGIA",
+      "start": 729,
+      "end": 772
+    },
+    {
+      "text": "TC craneal basal normal sin signos de patología aguda",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1382,
+      "end": 1435
+    },
+    {
+      "text": "ASPECTS 10/10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 603,
+      "end": 616
+    },
+    {
+      "text": "sin hallazgos patológicos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1591,
+      "end": 1616
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 267,
+      "end": 283
+    },
+    {
+      "text": "Perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 1561,
+      "end": 1579
+    },
+    {
+      "text": "Angio-TC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 324,
+      "end": 354
+    }
+  ]
+}

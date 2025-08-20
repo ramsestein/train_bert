@@ -1,0 +1,71 @@
+{
+  "document_id": "informe_sintetico_20250804195045_24305",
+  "entities": [
+    {
+      "text": "infarto lacunar agudo",
+      "type": "PATOLOGIA",
+      "start": 674,
+      "end": 695
+    },
+    {
+      "text": "putamen izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 640,
+      "end": 657
+    },
+    {
+      "text": "8 mm",
+      "type": "MEDIDA",
+      "start": 596,
+      "end": 600
+    },
+    {
+      "text": "agudo",
+      "type": "TEMPORALIDAD",
+      "start": 690,
+      "end": 695
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 511,
+      "end": 521
+    },
+    {
+      "text": "isquemia aguda limitada",
+      "type": "PATOLOGIA",
+      "start": 1144,
+      "end": 1167
+    },
+    {
+      "text": "arterias cerebrales anteriores, medias y posteriores",
+      "type": "ARTERIA",
+      "start": 1236,
+      "end": 1288
+    },
+    {
+      "text": "bilaterales",
+      "type": "LATERALIDAD",
+      "start": 1289,
+      "end": 1300
+    },
+    {
+      "text": "sin evidencia de hemorragia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1665,
+      "end": 1692
+    },
+    {
+      "text": "sin estenosis significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1301,
+      "end": 1328
+    },
+    {
+      "text": "sin estenosis relevante",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1484,
+      "end": 1507
+    }
+  ]
+}

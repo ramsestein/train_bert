@@ -1,0 +1,95 @@
+{
+  "document_id": "informe_sintetico_20250804195045_08155",
+  "entities": [
+    {
+      "text": "infarto isquémico agudo",
+      "type": "PATOLOGIA",
+      "start": 552,
+      "end": 575
+    },
+    {
+      "text": "región frontoparietal izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 437,
+      "end": 468
+    },
+    {
+      "text": "hemorragia intra ni extraaxial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 591,
+      "end": 621
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "ARTERIA",
+      "start": 860,
+      "end": 892
+    },
+    {
+      "text": "TTP",
+      "type": "MEDIDA",
+      "start": 794,
+      "end": 797
+    },
+    {
+      "text": "Tmax",
+      "type": "MEDIDA",
+      "start": 834,
+      "end": 838
+    },
+    {
+      "text": "flujo cerebral (CBF)",
+      "type": "MEDIDA",
+      "start": 914,
+      "end": 934
+    },
+    {
+      "text": "volumen cerebral (CBV)",
+      "type": "MEDIDA",
+      "start": 937,
+      "end": 959
+    },
+    {
+      "text": "penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 985,
+      "end": 1003
+    },
+    {
+      "text": "arteria carótida interna izquierda",
+      "type": "ARTERIA",
+      "start": 1161,
+      "end": 1195
+    },
+    {
+      "text": "segmento cervical y proximal intracraneal",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1113,
+      "end": 1154
+    },
+    {
+      "text": "disección arterial",
+      "type": "PATOLOGIA",
+      "start": 1266,
+      "end": 1284
+    },
+    {
+      "text": "oclusión distal en segmento M1 de la ACM izquierda",
+      "type": "PATOLOGIA",
+      "start": 1789,
+      "end": 1839
+    },
+    {
+      "text": "ACM izquierda",
+      "type": "ARTERIA",
+      "start": 1826,
+      "end": 1839
+    },
+    {
+      "text": "agudo",
+      "type": "TEMPORALIDAD",
+      "start": 570,
+      "end": 575
+    }
+  ]
+}

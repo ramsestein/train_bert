@@ -1,0 +1,83 @@
+{
+  "document_id": "informe_sintetico_20250804195045_06468",
+  "entities": [
+    {
+      "text": "hemorragia intraventricular",
+      "type": "PATOLOGIA",
+      "start": 619,
+      "end": 646
+    },
+    {
+      "text": "ventrículos laterales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 668,
+      "end": 689
+    },
+    {
+      "text": "tercer y cuarto ventrículo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 691,
+      "end": 717
+    },
+    {
+      "text": "2 mm",
+      "type": "MEDIDA",
+      "start": 955,
+      "end": 959
+    },
+    {
+      "text": "hipoperfusión",
+      "type": "PATOLOGIA",
+      "start": 1068,
+      "end": 1081
+    },
+    {
+      "text": "periventricular derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1096,
+      "end": 1119
+    },
+    {
+      "text": "isquemia establecida",
+      "type": "PATOLOGIA",
+      "start": 1142,
+      "end": 1162
+    },
+    {
+      "text": "sin evidencia de aneurismas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1198,
+      "end": 1225
+    },
+    {
+      "text": "sin evidencia de lesión vascular arterial causante",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2105,
+      "end": 2155
+    },
+    {
+      "text": "cambios crónicos microangiopáticos",
+      "type": "PATOLOGIA",
+      "start": 1390,
+      "end": 1424
+    },
+    {
+      "text": "angioTC",
+      "type": "TECNICA_IMAGEN",
+      "start": 526,
+      "end": 533
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 459,
+      "end": 475
+    },
+    {
+      "text": "estudio de perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 494,
+      "end": 523
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "document_id": "informe_sintetico_20250804195045_04512",
+  "entities": [
+    {
+      "text": "infarto",
+      "type": "PATOLOGIA",
+      "start": 497,
+      "end": 504
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "PATOLOGIA",
+      "start": 507,
+      "end": 530
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 595,
+      "end": 605
+    },
+    {
+      "text": "edema",
+      "type": "PATOLOGIA",
+      "start": 695,
+      "end": 700
+    },
+    {
+      "text": "dilatación",
+      "type": "PATOLOGIA",
+      "start": 847,
+      "end": 857
+    },
+    {
+      "text": "hidrocefalia",
+      "type": "PATOLOGIA",
+      "start": 871,
+      "end": 883
+    },
+    {
+      "text": "signos de infarto",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1629,
+      "end": 1646
+    },
+    {
+      "text": "signos de hidrocefalia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 861,
+      "end": 883
+    },
+    {
+      "text": "alteraciones vasculares",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1676,
+      "end": 1699
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 284,
+      "end": 300
+    },
+    {
+      "text": "TC PERFUSIÓN",
+      "type": "TECNICA_IMAGEN",
+      "start": 886,
+      "end": 898
+    },
+    {
+      "text": "ANGIO-TC EXTRA E INTRACRANEAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 1071,
+      "end": 1100
+    },
+    {
+      "text": "TC con perfusión y angiografía cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 1522,
+      "end": 1561
+    },
+    {
+      "text": "TC cerebral normal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1933,
+      "end": 1951
+    }
+  ]
+}

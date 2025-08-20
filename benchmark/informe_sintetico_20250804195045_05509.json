@@ -1,0 +1,155 @@
+{
+  "document_id": "informe_sintetico_20250804195045_05509",
+  "entities": [
+    {
+      "text": "hemiparesia derecha",
+      "type": "PATOLOGIA",
+      "start": 195,
+      "end": 214
+    },
+    {
+      "text": "afasia",
+      "type": "PATOLOGIA",
+      "start": 217,
+      "end": 223
+    },
+    {
+      "text": "disección arterial carotídea",
+      "type": "PATOLOGIA",
+      "start": 245,
+      "end": 273
+    },
+    {
+      "text": "infarto cerebral",
+      "type": "PATOLOGIA",
+      "start": 286,
+      "end": 302
+    },
+    {
+      "text": "infarto subagudo",
+      "type": "PATOLOGIA",
+      "start": 647,
+      "end": 663
+    },
+    {
+      "text": "arteria cerebral media",
+      "type": "ARTERIA",
+      "start": 592,
+      "end": 614
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 621,
+      "end": 630
+    },
+    {
+      "text": "ASPECTS 7",
+      "type": "PUNTUACION_CLINICA",
+      "start": 792,
+      "end": 801
+    },
+    {
+      "text": "tiempo de tránsito medio (MTT)",
+      "type": "MEDIDA",
+      "start": 978,
+      "end": 1008
+    },
+    {
+      "text": "retraso en Tmax",
+      "type": "MEDIDA",
+      "start": 1011,
+      "end": 1026
+    },
+    {
+      "text": "flujo cerebral (CBF)",
+      "type": "MEDIDA",
+      "start": 1091,
+      "end": 1111
+    },
+    {
+      "text": "volumen cerebral (CBV)",
+      "type": "MEDIDA",
+      "start": 1114,
+      "end": 1136
+    },
+    {
+      "text": "penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1199,
+      "end": 1217
+    },
+    {
+      "text": "disección arterial",
+      "type": "PATOLOGIA",
+      "start": 245,
+      "end": 263
+    },
+    {
+      "text": "arteria carótida interna",
+      "type": "ARTERIA",
+      "start": 1331,
+      "end": 1355
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 621,
+      "end": 630
+    },
+    {
+      "text": "estenosis significativa",
+      "type": "PATOLOGIA",
+      "start": 1485,
+      "end": 1508
+    },
+    {
+      "text": "permeabilidad reducida",
+      "type": "PATOLOGIA",
+      "start": 1555,
+      "end": 1577
+    },
+    {
+      "text": "sin oclusiones completas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1619,
+      "end": 1643
+    },
+    {
+      "text": "sin alteraciones significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1669,
+      "end": 1700
+    },
+    {
+      "text": "disección de carótida interna izquierda",
+      "type": "PATOLOGIA",
+      "start": 2592,
+      "end": 2631
+    },
+    {
+      "text": "compromiso perfusional significativo",
+      "type": "PATOLOGIA",
+      "start": 2636,
+      "end": 2672
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 360,
+      "end": 376
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 403,
+      "end": 424
+    },
+    {
+      "text": "AngioTC intra y extracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 427,
+      "end": 455
+    }
+  ]
+}

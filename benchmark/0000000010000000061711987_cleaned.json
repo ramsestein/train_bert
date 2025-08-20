@@ -1,0 +1,223 @@
+{
+  "document_id": "0000000010000000061711987_cleaned",
+  "entities": [
+    {
+      "text": "accidente cerebrovascular",
+      "type": "PATOLOGIA",
+      "start": 166,
+      "end": 191
+    },
+    {
+      "text": "TC craneal simple",
+      "type": "TECNICA_IMAGEN",
+      "start": 224,
+      "end": 241
+    },
+    {
+      "text": "TC perfusión",
+      "type": "TECNICA_IMAGEN",
+      "start": 243,
+      "end": 255
+    },
+    {
+      "text": "AngioTC",
+      "type": "TECNICA_IMAGEN",
+      "start": 258,
+      "end": 265
+    },
+    {
+      "text": "hematoma subdural laminar frontal derecho",
+      "type": "PATOLOGIA",
+      "start": 339,
+      "end": 380
+    },
+    {
+      "text": "efecto de masa",
+      "type": "PATOLOGIA",
+      "start": 385,
+      "end": 399
+    },
+    {
+      "text": "focos de HSA",
+      "type": "PATOLOGIA",
+      "start": 411,
+      "end": 423
+    },
+    {
+      "text": "surcos frontales derehcos",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 427,
+      "end": 452
+    },
+    {
+      "text": "hipodensidad insular izquierda",
+      "type": "PATOLOGIA",
+      "start": 460,
+      "end": 490
+    },
+    {
+      "text": "ASPECTS 9/10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 492,
+      "end": 504
+    },
+    {
+      "text": "ensanchamiento de los surcos corticales",
+      "type": "PATOLOGIA",
+      "start": 647,
+      "end": 686
+    },
+    {
+      "text": "hipodensidad en la sustancia blanca periventricular",
+      "type": "PATOLOGIA",
+      "start": 694,
+      "end": 745
+    },
+    {
+      "text": "patología hipoxioc-isquémica crónica",
+      "type": "PATOLOGIA",
+      "start": 759,
+      "end": 795
+    },
+    {
+      "text": "mapas de tiempo, flujo y volumen",
+      "type": "PATOLOGIA",
+      "start": 849,
+      "end": 881
+    },
+    {
+      "text": "área fronto-parieto-temporal izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 906,
+      "end": 944
+    },
+    {
+      "text": "disminución de los tiempos",
+      "type": "PATOLOGIA",
+      "start": 949,
+      "end": 975
+    },
+    {
+      "text": "caidad congruente del flujo y volumen",
+      "type": "PATOLOGIA",
+      "start": 978,
+      "end": 1015
+    },
+    {
+      "text": "Aorta",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1026,
+      "end": 1031
+    },
+    {
+      "text": "calibre preservado",
+      "type": "PATOLOGIA",
+      "start": 1035,
+      "end": 1053
+    },
+    {
+      "text": "teromatosa",
+      "type": "PATOLOGIA",
+      "start": 1057,
+      "end": 1067
+    },
+    {
+      "text": "Origen común del TBC y ACC izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1069,
+      "end": 1105
+    },
+    {
+      "text": "normal disposición de los TSA",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1114,
+      "end": 1143
+    },
+    {
+      "text": "discreta ateromatosis en bifurcacxiones",
+      "type": "PATOLOGIA",
+      "start": 1165,
+      "end": 1204
+    },
+    {
+      "text": "no condiciona estenosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1209,
+      "end": 1232
+    },
+    {
+      "text": "oclusión en ACI intracraneal",
+      "type": "PATOLOGIA",
+      "start": 2077,
+      "end": 2105
+    },
+    {
+      "text": "no se observan arterias colaterales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1382,
+      "end": 1417
+    },
+    {
+      "text": "suplan el hemisfeiro izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1422,
+      "end": 1452
+    },
+    {
+      "text": "ACA y ACM derechas permeables",
+      "type": "PATOLOGIA",
+      "start": 1454,
+      "end": 1483
+    },
+    {
+      "text": "TC craneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 224,
+      "end": 234
+    },
+    {
+      "text": "extensa área fronto-parieto-temporal izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 898,
+      "end": 944
+    },
+    {
+      "text": "disminución de los tiempos",
+      "type": "PATOLOGIA",
+      "start": 949,
+      "end": 975
+    },
+    {
+      "text": "caidad congruente del flujo y volumen",
+      "type": "PATOLOGIA",
+      "start": 978,
+      "end": 1015
+    },
+    {
+      "text": "territorio ACA y ACM izquierdas",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1971,
+      "end": 2002
+    },
+    {
+      "text": "oclusión en ACI intracraneal",
+      "type": "PATOLOGIA",
+      "start": 2077,
+      "end": 2105
+    },
+    {
+      "text": "no se observan arterias colaterales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1382,
+      "end": 1417
+    },
+    {
+      "text": "suplan el hemisfeiro izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1422,
+      "end": 1452
+    }
+  ],
+  "regenerado": true,
+  "fecha_regeneracion": "2025-08-06T05:44:57.385055"
+}

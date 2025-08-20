@@ -1,0 +1,101 @@
+{
+  "document_id": "0000000010000000060757570_cleaned",
+  "entities": [
+    {
+      "text": "Infart cerebral causat per oclusió o estenosi no especificades d'artèria cerebral no especificada",
+      "type": "PATOLOGIA",
+      "start": 166,
+      "end": 263
+    },
+    {
+      "text": "Hematoma en hemiprotuberancia medial bilateral de predominio derecho de 9 x 6 x 14 mm (AP x TR x CC)",
+      "type": "PATOLOGIA",
+      "start": 362,
+      "end": 462
+    },
+    {
+      "text": "hemiprotuberancia medial bilateral",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 374,
+      "end": 408
+    },
+    {
+      "text": "derecho",
+      "type": "LATERALIDAD",
+      "start": 423,
+      "end": 430
+    },
+    {
+      "text": "9 x 6 x 14 mm",
+      "type": "MEDIDA",
+      "start": 434,
+      "end": 447
+    },
+    {
+      "text": "aguda",
+      "type": "TEMPORALIDAD",
+      "start": 546,
+      "end": 551
+    },
+    {
+      "text": "No se observan otros signos de hemorragia aguda intra ni extra-axial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 504,
+      "end": 572
+    },
+    {
+      "text": "Principales arterias cerebrales intracraneales permeables (ACAs, ACMs y ACPs)",
+      "type": "ARTERIA",
+      "start": 983,
+      "end": 1060
+    },
+    {
+      "text": "ACPs",
+      "type": "ARTERIA",
+      "start": 1055,
+      "end": 1059
+    },
+    {
+      "text": "ACP bilaterales de origen fetal como variante anatómica de la normalidad",
+      "type": "ARTERIA",
+      "start": 1097,
+      "end": 1169
+    },
+    {
+      "text": "Sistema vertebrobasilar permeable",
+      "type": "ARTERIA",
+      "start": 1358,
+      "end": 1391
+    },
+    {
+      "text": "Sistema carotídeo sin ateromatosis ni sigos de estenosis",
+      "type": "ARTERIA",
+      "start": 1393,
+      "end": 1449
+    },
+    {
+      "text": "No se observan signos sugestivos de aneurismas ni malformaciones vasculares valorables por TC",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1451,
+      "end": 1544
+    },
+    {
+      "text": "Hematoma en hemiprotuberancia medial bilateral de predominio derecho de 9 x 6 x 14 mm (AP x TR x CC)",
+      "type": "PATOLOGIA",
+      "start": 362,
+      "end": 462
+    },
+    {
+      "text": "Sistema ventricular de morfología, tamaño y situación conservadas, sin signos de hidrocefalia activa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 688,
+      "end": 788
+    },
+    {
+      "text": "Estudio angiográfico sin alteraciones significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1919,
+      "end": 1971
+    }
+  ]
+}

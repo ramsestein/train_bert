@@ -1,0 +1,83 @@
+{
+  "document_id": "informe_sintetico_20250804192646_0002",
+  "entities": [
+    {
+      "text": "hemorragia subaracnoidea difusa",
+      "type": "PATOLOGIA",
+      "start": 191,
+      "end": 222
+    },
+    {
+      "text": "espacios subaracnoideos",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 481,
+      "end": 504
+    },
+    {
+      "text": "cisuras cerebrales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 523,
+      "end": 541
+    },
+    {
+      "text": "convexidad cerebral",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 544,
+      "end": 563
+    },
+    {
+      "text": "lesiones focales intraparenquimatosas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 628,
+      "end": 665
+    },
+    {
+      "text": "disminución generalizada de la perfusión cerebral",
+      "type": "PATOLOGIA",
+      "start": 835,
+      "end": 884
+    },
+    {
+      "text": "áreas adyacentes a los focos hemorrágicos",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 903,
+      "end": 944
+    },
+    {
+      "text": "anomalías en la morfología ni permeabilidad de las arterias intracraneales principales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 995,
+      "end": 1081
+    },
+    {
+      "text": "aneurismas o malformaciones vasculares",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1108,
+      "end": 1146
+    },
+    {
+      "text": "hemorragia subaracnoidea difusa",
+      "type": "PATOLOGIA",
+      "start": 191,
+      "end": 222
+    },
+    {
+      "text": "aneurismas ni malformaciones vasculares significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1352,
+      "end": 1406
+    },
+    {
+      "text": "TC craneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 258,
+      "end": 268
+    },
+    {
+      "text": "angioTC",
+      "type": "TECNICA_IMAGEN",
+      "start": 333,
+      "end": 340
+    }
+  ]
+}

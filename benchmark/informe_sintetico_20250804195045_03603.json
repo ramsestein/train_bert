@@ -1,0 +1,101 @@
+{
+  "document_id": "informe_sintetico_20250804195045_03603",
+  "entities": [
+    {
+      "text": "infarto",
+      "type": "PATOLOGIA",
+      "start": 362,
+      "end": 369
+    },
+    {
+      "text": "watershed",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 683,
+      "end": 692
+    },
+    {
+      "text": "bilateral",
+      "type": "LATERALIDAD",
+      "start": 285,
+      "end": 294
+    },
+    {
+      "text": "cortical",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 609,
+      "end": 617
+    },
+    {
+      "text": "subcortical",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 622,
+      "end": 633
+    },
+    {
+      "text": "arterias cerebrales anterior-media",
+      "type": "ARTERIA",
+      "start": 1941,
+      "end": 1975
+    },
+    {
+      "text": "estenosis segmentaria del 60%",
+      "type": "MEDIDA",
+      "start": 1379,
+      "end": 1408
+    },
+    {
+      "text": "arteria carótida interna izquierda",
+      "type": "ARTERIA",
+      "start": 1415,
+      "end": 1449
+    },
+    {
+      "text": "sin signos de hemorragia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 789,
+      "end": 813
+    },
+    {
+      "text": "No hay evidencia de hemorragia intracraneal ni transformación hemorrágica.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2144,
+      "end": 2218
+    },
+    {
+      "text": "disminución moderada del flujo sanguíneo cerebral",
+      "type": "PATOLOGIA",
+      "start": 1053,
+      "end": 1102
+    },
+    {
+      "text": "aumento del tiempo de tránsito medio",
+      "type": "PATOLOGIA",
+      "start": 1111,
+      "end": 1147
+    },
+    {
+      "text": "volumen cerebral sanguíneo (CBV) se mantiene relativamente conservado",
+      "type": "PATOLOGIA",
+      "start": 1220,
+      "end": 1289
+    },
+    {
+      "text": "hipoperfusión crónica agudizada",
+      "type": "PATOLOGIA",
+      "start": 2011,
+      "end": 2042
+    },
+    {
+      "text": "sin evidencia de oclusión completa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1697,
+      "end": 1731
+    },
+    {
+      "text": "sin estenosis significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1567,
+      "end": 1594
+    }
+  ]
+}

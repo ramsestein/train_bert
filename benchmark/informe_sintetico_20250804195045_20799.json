@@ -1,0 +1,89 @@
+{
+  "document_id": "informe_sintetico_20250804195045_20799",
+  "entities": [
+    {
+      "text": "ictus isquémico",
+      "type": "PATOLOGIA",
+      "start": 242,
+      "end": 257
+    },
+    {
+      "text": "infarto cerebral reciente",
+      "type": "PATOLOGIA",
+      "start": 634,
+      "end": 659
+    },
+    {
+      "text": "hemorragia aguda",
+      "type": "PATOLOGIA",
+      "start": 781,
+      "end": 797
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "ARTERIA",
+      "start": 1055,
+      "end": 1087
+    },
+    {
+      "text": "arteria carótida interna izquierda",
+      "type": "ARTERIA",
+      "start": 1318,
+      "end": 1352
+    },
+    {
+      "text": "ACAs, ACMs y ACPs",
+      "type": "ARTERIA",
+      "start": 1513,
+      "end": 1530
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 1532,
+      "end": 1539
+    },
+    {
+      "text": "oclusión completa proximal",
+      "type": "PATOLOGIA",
+      "start": 1285,
+      "end": 1311
+    },
+    {
+      "text": "marcada reducción del flujo cerebral",
+      "type": "PATOLOGIA",
+      "start": 967,
+      "end": 1003
+    },
+    {
+      "text": "sin estenosis significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1554,
+      "end": 1581
+    },
+    {
+      "text": "sin alteraciones",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1692,
+      "end": 1708
+    },
+    {
+      "text": "TC CRANEAL BASAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 312,
+      "end": 328
+    },
+    {
+      "text": "TC PERFUSIÓN",
+      "type": "TECNICA_IMAGEN",
+      "start": 942,
+      "end": 954
+    },
+    {
+      "text": "ANGIO-TC EXTRA E INTRACRANEAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 1238,
+      "end": 1267
+    }
+  ]
+}

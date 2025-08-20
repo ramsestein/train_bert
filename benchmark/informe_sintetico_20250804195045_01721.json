@@ -1,0 +1,83 @@
+{
+  "document_id": "informe_sintetico_20250804195045_01721",
+  "entities": [
+    {
+      "text": "isquemia",
+      "type": "PATOLOGIA",
+      "start": 216,
+      "end": 224
+    },
+    {
+      "text": "arteria cerebral anterior",
+      "type": "ARTERIA",
+      "start": 242,
+      "end": 267
+    },
+    {
+      "text": "agudo",
+      "type": "TEMPORALIDAD",
+      "start": 194,
+      "end": 199
+    },
+    {
+      "text": "hipodensidad incipiente",
+      "type": "PATOLOGIA",
+      "start": 597,
+      "end": 620
+    },
+    {
+      "text": "territorio cortical medial frontal izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 627,
+      "end": 671
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 779,
+      "end": 793
+    },
+    {
+      "text": "arteria cerebral anterior (ACA)",
+      "type": "ARTERIA",
+      "start": 811,
+      "end": 842
+    },
+    {
+      "text": "ASPECTS modificado para territorio ACA: 8",
+      "type": "PUNTUACION_CLINICA",
+      "start": 844,
+      "end": 885
+    },
+    {
+      "text": "Oclusión aguda",
+      "type": "PATOLOGIA",
+      "start": 1351,
+      "end": 1365
+    },
+    {
+      "text": "segmento proximal de arteria cerebral anterior izquierda (A2)",
+      "type": "ARTERIA",
+      "start": 1369,
+      "end": 1430
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 1180,
+      "end": 1189
+    },
+    {
+      "text": "No se observan hemorragias intra ni extraaxiales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 533,
+      "end": 581
+    },
+    {
+      "text": "No hay hemorragia ni edema significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1814,
+      "end": 1854
+    }
+  ]
+}

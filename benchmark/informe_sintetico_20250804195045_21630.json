@@ -1,0 +1,83 @@
+{
+  "document_id": "informe_sintetico_20250804195045_21630",
+  "entities": [
+    {
+      "text": "infarto isquémico",
+      "type": "PATOLOGIA",
+      "start": 672,
+      "end": 689
+    },
+    {
+      "text": "territorio superficial de la arteria cerebral media izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 530,
+      "end": 591
+    },
+    {
+      "text": "arteria cerebral media",
+      "type": "ARTERIA",
+      "start": 559,
+      "end": 581
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 582,
+      "end": 591
+    },
+    {
+      "text": "área de penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1071,
+      "end": 1097
+    },
+    {
+      "text": "arteria carótida interna izquierda",
+      "type": "ARTERIA",
+      "start": 1220,
+      "end": 1254
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 582,
+      "end": 591
+    },
+    {
+      "text": "No se evidencia hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 706,
+      "end": 745
+    },
+    {
+      "text": "sin lesiones aneurismáticas ni trombosis evidentes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1513,
+      "end": 1563
+    },
+    {
+      "text": "infarto isquémico",
+      "type": "PATOLOGIA",
+      "start": 672,
+      "end": 689
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 582,
+      "end": 591
+    },
+    {
+      "text": "disección arterial carotídea interna izquierda",
+      "type": "PATOLOGIA",
+      "start": 2157,
+      "end": 2203
+    },
+    {
+      "text": "TC CODIGO ICTUS (PERFUSION CEREBRAL + ANG IOTC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 72,
+      "end": 141
+    }
+  ]
+}

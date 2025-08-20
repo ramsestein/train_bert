@@ -1,0 +1,203 @@
+{
+  "document_id": "informe_sintetico_20250804195045_06182",
+  "entities": [
+    {
+      "text": "hemiparesia derecha",
+      "type": "PATOLOGIA",
+      "start": 204,
+      "end": 223
+    },
+    {
+      "text": "afasia motora",
+      "type": "PATOLOGIA",
+      "start": 225,
+      "end": 238
+    },
+    {
+      "text": "desviación conjugada de la mirada hacia la izquierda",
+      "type": "PATOLOGIA",
+      "start": 241,
+      "end": 293
+    },
+    {
+      "text": "accidente cerebrovascular isquémico agudo",
+      "type": "PATOLOGIA",
+      "start": 315,
+      "end": 356
+    },
+    {
+      "text": "signo de arteria hiperdensa en segmento M1 de la arteria cerebral media izquierda",
+      "type": "PATOLOGIA",
+      "start": 531,
+      "end": 612
+    },
+    {
+      "text": "trombo intraluminal",
+      "type": "PATOLOGIA",
+      "start": 629,
+      "end": 648
+    },
+    {
+      "text": "hipodensidad en la región insular y cápsula interna izquierda",
+      "type": "PATOLOGIA",
+      "start": 663,
+      "end": 724
+    },
+    {
+      "text": "área de isquemia precoz",
+      "type": "PATOLOGIA",
+      "start": 807,
+      "end": 830
+    },
+    {
+      "text": "ASPECTS 6/10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 832,
+      "end": 844
+    },
+    {
+      "text": "No se observan colecciones hemáticas ni signos de hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 846,
+      "end": 919
+    },
+    {
+      "text": "Línea media centrada, sin edema masivo ni herniación",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 921,
+      "end": 973
+    },
+    {
+      "text": "retrasos significativos en el tiempo de tránsito y tiempo hasta el pico (TTP)",
+      "type": "PATOLOGIA",
+      "start": 1004,
+      "end": 1081
+    },
+    {
+      "text": "ACM izquierda proximal",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1114,
+      "end": 1136
+    },
+    {
+      "text": "disminución marcada del flujo sanguíneo cerebral (CBF)",
+      "type": "PATOLOGIA",
+      "start": 1141,
+      "end": 1195
+    },
+    {
+      "text": "volumen cerebral sanguíneo (CBV)",
+      "type": "PATOLOGIA",
+      "start": 1198,
+      "end": 1230
+    },
+    {
+      "text": "área de penumbra isquémica extensa",
+      "type": "PATOLOGIA",
+      "start": 1247,
+      "end": 1281
+    },
+    {
+      "text": "lesión tisular definida",
+      "type": "PATOLOGIA",
+      "start": 1284,
+      "end": 1307
+    },
+    {
+      "text": "Oclusión completa del segmento M1 de la arteria cerebral media izquierda",
+      "type": "PATOLOGIA",
+      "start": 1333,
+      "end": 1405
+    },
+    {
+      "text": "sin evidencia de colaterales efectivas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1406,
+      "end": 1444
+    },
+    {
+      "text": "Arterias cerebrales anteriores y posteriores sin estenosis ni alteraciones significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1446,
+      "end": 1535
+    },
+    {
+      "text": "No se observan signos de disección ni aneurismas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1537,
+      "end": 1585
+    },
+    {
+      "text": "Signos radiológicos de isquemia aguda en territorio superficial de la ACM izquierda",
+      "type": "PATOLOGIA",
+      "start": 1612,
+      "end": 1695
+    },
+    {
+      "text": "ASPECTS 6/10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 832,
+      "end": 844
+    },
+    {
+      "text": "Oclusión trombótica proximal del segmento M1 de la ACM izquierda",
+      "type": "PATOLOGIA",
+      "start": 1714,
+      "end": 1778
+    },
+    {
+      "text": "arteria hiperdensa en TC basal",
+      "type": "PATOLOGIA",
+      "start": 1822,
+      "end": 1852
+    },
+    {
+      "text": "Amplia área de penumbra isquémica detectada en TC perfusión",
+      "type": "PATOLOGIA",
+      "start": 1854,
+      "end": 1913
+    },
+    {
+      "text": "compatible con territorio afectado",
+      "type": "PATOLOGIA",
+      "start": 1914,
+      "end": 1948
+    },
+    {
+      "text": "No evidencias de hemorragia ni complicaciones asociadas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1950,
+      "end": 2005
+    },
+    {
+      "text": "Isquemia cerebral aguda en territorio de arteria cerebral media izquierda proximal (M1)",
+      "type": "PATOLOGIA",
+      "start": 2294,
+      "end": 2381
+    },
+    {
+      "text": "oclusión trombótica",
+      "type": "PATOLOGIA",
+      "start": 2386,
+      "end": 2405
+    },
+    {
+      "text": "área de penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1247,
+      "end": 1273
+    },
+    {
+      "text": "Oclusión de arteria cerebral media M1 izquierda",
+      "type": "PATOLOGIA",
+      "start": 2548,
+      "end": 2595
+    },
+    {
+      "text": "área de isquemia y penumbra isquémica extensa",
+      "type": "PATOLOGIA",
+      "start": 2600,
+      "end": 2645
+    }
+  ]
+}

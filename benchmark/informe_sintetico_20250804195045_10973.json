@@ -1,0 +1,215 @@
+{
+  "document_id": "informe_sintetico_20250804195045_10973",
+  "entities": [
+    {
+      "text": "ictus isquémico agudo",
+      "type": "PATOLOGIA",
+      "start": 189,
+      "end": 210
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 231,
+      "end": 263
+    },
+    {
+      "text": "transformación hemorrágica",
+      "type": "PATOLOGIA",
+      "start": 281,
+      "end": 307
+    },
+    {
+      "text": "TC craneal sin contraste basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 345,
+      "end": 375
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 378,
+      "end": 399
+    },
+    {
+      "text": "angioTC intracraneal urgente",
+      "type": "TECNICA_IMAGEN",
+      "start": 402,
+      "end": 430
+    },
+    {
+      "text": "área hiperdensa",
+      "type": "PATOLOGIA",
+      "start": 487,
+      "end": 502
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 231,
+      "end": 263
+    },
+    {
+      "text": "sangrado intra parenquimatoso",
+      "type": "PATOLOGIA",
+      "start": 595,
+      "end": 624
+    },
+    {
+      "text": "transformación hemorrágica grado HI2",
+      "type": "PATOLOGIA",
+      "start": 628,
+      "end": 664
+    },
+    {
+      "text": "más de un tercio",
+      "type": "MEDIDA",
+      "start": 683,
+      "end": 699
+    },
+    {
+      "text": "pérdida de la diferenciación cortico-subcortical",
+      "type": "PATOLOGIA",
+      "start": 753,
+      "end": 801
+    },
+    {
+      "text": "edema circundante leve",
+      "type": "PATOLOGIA",
+      "start": 821,
+      "end": 843
+    },
+    {
+      "text": "No se identifican desplazamientos significativos de la línea media",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 845,
+      "end": 911
+    },
+    {
+      "text": "Sistema ventricular respetado",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 937,
+      "end": 966
+    },
+    {
+      "text": "sin colecciones hematomeciales adicionales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 969,
+      "end": 1011
+    },
+    {
+      "text": "Disminución marcada del volumen cerebral (CBV)",
+      "type": "PATOLOGIA",
+      "start": 1032,
+      "end": 1078
+    },
+    {
+      "text": "región afectada izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1082,
+      "end": 1107
+    },
+    {
+      "text": "aumento de los tiempos de tránsito",
+      "type": "PATOLOGIA",
+      "start": 1113,
+      "end": 1147
+    },
+    {
+      "text": "reducción del flujo sanguíneo cerebral (CBF)",
+      "type": "PATOLOGIA",
+      "start": 1150,
+      "end": 1194
+    },
+    {
+      "text": "zona de penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1209,
+      "end": 1235
+    },
+    {
+      "text": "Oclusión segmentaria residual en arteria cerebral media izquierda (M1 distal)",
+      "type": "PATOLOGIA",
+      "start": 1306,
+      "end": 1383
+    },
+    {
+      "text": "trombo parcialmente reabsorbido",
+      "type": "PATOLOGIA",
+      "start": 1389,
+      "end": 1420
+    },
+    {
+      "text": "No se observan estenosis significativas en vasos evaluados",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1422,
+      "end": 1480
+    },
+    {
+      "text": "Circulación colateral moderada a través de ramas leptomeníngeas",
+      "type": "PATOLOGIA",
+      "start": 1482,
+      "end": 1545
+    },
+    {
+      "text": "Sistema vertebrobasilar permeable y sin alteraciones",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1547,
+      "end": 1599
+    },
+    {
+      "text": "Transformación hemorrágica grado HI2 en territorio de arteria cerebral media izquierda",
+      "type": "PATOLOGIA",
+      "start": 1628,
+      "end": 1714
+    },
+    {
+      "text": "secundaria a infarto isquémico agudo",
+      "type": "PATOLOGIA",
+      "start": 1716,
+      "end": 1752
+    },
+    {
+      "text": "Edema cerebral circundante leve sin desplazamiento de línea media",
+      "type": "PATOLOGIA",
+      "start": 1754,
+      "end": 1819
+    },
+    {
+      "text": "Oclusión parcial residual en segmento distal de ACM izquierda",
+      "type": "PATOLOGIA",
+      "start": 1821,
+      "end": 1882
+    },
+    {
+      "text": "Perfusión cerebral alterada con zona de penumbra isquémica circundante",
+      "type": "PATOLOGIA",
+      "start": 1884,
+      "end": 1954
+    },
+    {
+      "text": "No signos de complicaciones adicionales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1956,
+      "end": 1995
+    },
+    {
+      "text": "Transformación hemorrágica tipo HI2 tras infarto cerebral agudo en territorio ACM izquierda",
+      "type": "PATOLOGIA",
+      "start": 2110,
+      "end": 2201
+    },
+    {
+      "text": "Oclusión segmentaria residual de ACM izquierda",
+      "type": "PATOLOGIA",
+      "start": 2203,
+      "end": 2249
+    },
+    {
+      "text": "Edema cerebral leve sin desplazamiento de la línea media",
+      "type": "PATOLOGIA",
+      "start": 2251,
+      "end": 2307
+    }
+  ]
+}

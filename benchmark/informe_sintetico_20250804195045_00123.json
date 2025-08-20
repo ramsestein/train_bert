@@ -1,0 +1,295 @@
+{
+  "document_id": "informe_sintetico_20250804195045_00123",
+  "entities": [
+    {
+      "text": "vértigo",
+      "type": "PATOLOGIA",
+      "start": 166,
+      "end": 173
+    },
+    {
+      "text": "súbito",
+      "type": "PATOLOGIA",
+      "start": 174,
+      "end": 180
+    },
+    {
+      "text": "diplopía",
+      "type": "PATOLOGIA",
+      "start": 182,
+      "end": 190
+    },
+    {
+      "text": "disartria",
+      "type": "PATOLOGIA",
+      "start": 193,
+      "end": 202
+    },
+    {
+      "text": "reciente",
+      "type": "TEMPORALIDAD",
+      "start": 216,
+      "end": 224
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 271,
+      "end": 287
+    },
+    {
+      "text": "TC perfusión",
+      "type": "TECNICA_IMAGEN",
+      "start": 290,
+      "end": 302
+    },
+    {
+      "text": "Angio-TC extra e intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 314,
+      "end": 343
+    },
+    {
+      "text": "hemorragia intra o extraaxial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 423,
+      "end": 452
+    },
+    {
+      "text": "diferenciación cortico-subcortical",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 488,
+      "end": 522
+    },
+    {
+      "text": "áreas hipodensas agudas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 542,
+      "end": 565
+    },
+    {
+      "text": "línea media",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 585,
+      "end": 596
+    },
+    {
+      "text": "prolongación del tiempo de tránsito medio (TTM)",
+      "type": "PATOLOGIA",
+      "start": 690,
+      "end": 737
+    },
+    {
+      "text": "aumento del tiempo hasta el pico (TTP)",
+      "type": "PATOLOGIA",
+      "start": 740,
+      "end": 778
+    },
+    {
+      "text": "territorio vertebrobasilar",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 782,
+      "end": 808
+    },
+    {
+      "text": "tronco cerebral",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 830,
+      "end": 845
+    },
+    {
+      "text": "cerebelo bilateral",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 848,
+      "end": 866
+    },
+    {
+      "text": "flujo sanguíneo cerebral (CBF)",
+      "type": "PATOLOGIA",
+      "start": 892,
+      "end": 922
+    },
+    {
+      "text": "volumen sanguíneo cerebral (CBV)",
+      "type": "PATOLOGIA",
+      "start": 950,
+      "end": 982
+    },
+    {
+      "text": "hipoperfusión",
+      "type": "PATOLOGIA",
+      "start": 1039,
+      "end": 1052
+    },
+    {
+      "text": "tejido penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1065,
+      "end": 1090
+    },
+    {
+      "text": "Arco aórtico",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1126,
+      "end": 1138
+    },
+    {
+      "text": "troncos supraaórticos",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1141,
+      "end": 1162
+    },
+    {
+      "text": "estenosis crítica proximal de la arteria vertebral derecha",
+      "type": "PATOLOGIA",
+      "start": 1223,
+      "end": 1281
+    },
+    {
+      "text": "segmento V1",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1288,
+      "end": 1299
+    },
+    {
+      "text": "arteria vertebral izquierda",
+      "type": "ARTERIA",
+      "start": 1304,
+      "end": 1331
+    },
+    {
+      "text": "flujo disminuido",
+      "type": "PATOLOGIA",
+      "start": 1341,
+      "end": 1357
+    },
+    {
+      "text": "signos radiológicos compatibles con oclusión subtotal en segmento cervical",
+      "type": "PATOLOGIA",
+      "start": 1360,
+      "end": 1434
+    },
+    {
+      "text": "arteria basilar",
+      "type": "ARTERIA",
+      "start": 1439,
+      "end": 1454
+    },
+    {
+      "text": "flujo reducido",
+      "type": "PATOLOGIA",
+      "start": 1463,
+      "end": 1477
+    },
+    {
+      "text": "oclusión completa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1483,
+      "end": 1500
+    },
+    {
+      "text": "ausencia de colaterales significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1506,
+      "end": 1544
+    },
+    {
+      "text": "permeables sin estenosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1586,
+      "end": 1610
+    },
+    {
+      "text": "aneurismas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1632,
+      "end": 1642
+    },
+    {
+      "text": "malformaciones vasculares",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1646,
+      "end": 1671
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1707,
+      "end": 1730
+    },
+    {
+      "text": "signos compatibles con isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 1741,
+      "end": 1778
+    },
+    {
+      "text": "territorio vertebrobasilar",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 782,
+      "end": 808
+    },
+    {
+      "text": "tronco cerebral",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 830,
+      "end": 845
+    },
+    {
+      "text": "cerebelo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 848,
+      "end": 856
+    },
+    {
+      "text": "hipoperfusión en TC perfusión",
+      "type": "PATOLOGIA",
+      "start": 1845,
+      "end": 1874
+    },
+    {
+      "text": "afectación vascular confirmada en Angio-TC",
+      "type": "PATOLOGIA",
+      "start": 1877,
+      "end": 1919
+    },
+    {
+      "text": "estenosis crítica",
+      "type": "PATOLOGIA",
+      "start": 1223,
+      "end": 1240
+    },
+    {
+      "text": "oclusión subtotal en las arterias vertebrales",
+      "type": "PATOLOGIA",
+      "start": 1945,
+      "end": 1990
+    },
+    {
+      "text": "flujo disminuido en arteria basilar",
+      "type": "PATOLOGIA",
+      "start": 1993,
+      "end": 2028
+    },
+    {
+      "text": "valoración neurológica urgente",
+      "type": "PATOLOGIA",
+      "start": 2042,
+      "end": 2072
+    },
+    {
+      "text": "tratamiento endovascular",
+      "type": "PATOLOGIA",
+      "start": 2078,
+      "end": 2102
+    },
+    {
+      "text": "seguimiento",
+      "type": "PATOLOGIA",
+      "start": 2105,
+      "end": 2116
+    }
+  ],
+  "regenerado": true,
+  "fecha_regeneracion": "2025-08-06T14:13:13.114121"
+}

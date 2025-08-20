@@ -1,0 +1,239 @@
+{
+  "document_id": "informe_sintetico_20250804195045_11497",
+  "entities": [
+    {
+      "text": "ictus isquémico",
+      "type": "PATOLOGIA",
+      "start": 238,
+      "end": 253
+    },
+    {
+      "text": "arteria cerebral media",
+      "type": "ARTERIA",
+      "start": 271,
+      "end": 293
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 602,
+      "end": 611
+    },
+    {
+      "text": "signo de arteria hiperdensa",
+      "type": "PATOLOGIA",
+      "start": 522,
+      "end": 549
+    },
+    {
+      "text": "M1",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 572,
+      "end": 574
+    },
+    {
+      "text": "arteria cerebral media",
+      "type": "ARTERIA",
+      "start": 271,
+      "end": 293
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 602,
+      "end": 611
+    },
+    {
+      "text": "hipodensidad",
+      "type": "PATOLOGIA",
+      "start": 624,
+      "end": 636
+    },
+    {
+      "text": "región insular",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 643,
+      "end": 657
+    },
+    {
+      "text": "cápsula externa",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 672,
+      "end": 687
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 602,
+      "end": 611
+    },
+    {
+      "text": "ASPECTS 7/10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 760,
+      "end": 772
+    },
+    {
+      "text": "hemorragias agudas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 793,
+      "end": 811
+    },
+    {
+      "text": "Línea media centrada",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 835,
+      "end": 855
+    },
+    {
+      "text": "Sistema ventricular de tamaño y morfología conservados",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 857,
+      "end": 911
+    },
+    {
+      "text": "Cisternas basales libres",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 913,
+      "end": 937
+    },
+    {
+      "text": "prolongación significativa de los tiempos de tránsito",
+      "type": "PATOLOGIA",
+      "start": 968,
+      "end": 1021
+    },
+    {
+      "text": "Tmax y TTP",
+      "type": "MEDIDA",
+      "start": 1023,
+      "end": 1033
+    },
+    {
+      "text": "reducción del flujo cerebral",
+      "type": "PATOLOGIA",
+      "start": 1037,
+      "end": 1065
+    },
+    {
+      "text": "CBF",
+      "type": "MEDIDA",
+      "start": 1067,
+      "end": 1070
+    },
+    {
+      "text": "discreto mantenimiento del volumen cerebral",
+      "type": "PATOLOGIA",
+      "start": 1133,
+      "end": 1176
+    },
+    {
+      "text": "CBV",
+      "type": "MEDIDA",
+      "start": 1178,
+      "end": 1181
+    },
+    {
+      "text": "penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1206,
+      "end": 1224
+    },
+    {
+      "text": "Defecto de repleción",
+      "type": "PATOLOGIA",
+      "start": 1258,
+      "end": 1278
+    },
+    {
+      "text": "oclusión",
+      "type": "PATOLOGIA",
+      "start": 1295,
+      "end": 1303
+    },
+    {
+      "text": "segmento M1",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1307,
+      "end": 1318
+    },
+    {
+      "text": "ACM izquierda",
+      "type": "ARTERIA",
+      "start": 1105,
+      "end": 1118
+    },
+    {
+      "text": "Carótidas internas permeables",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1337,
+      "end": 1366
+    },
+    {
+      "text": "estenosis significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1371,
+      "end": 1395
+    },
+    {
+      "text": "Sistema vertebrobasilar sin alteraciones relevantes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1397,
+      "end": 1448
+    },
+    {
+      "text": "estenosis u oclusiones intracraneales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1468,
+      "end": 1505
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 1540,
+      "end": 1554
+    },
+    {
+      "text": "territorio izquierdo de ACM proximal",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1558,
+      "end": 1594
+    },
+    {
+      "text": "M1",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 572,
+      "end": 574
+    },
+    {
+      "text": "ASPECTS 7/10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 760,
+      "end": 772
+    },
+    {
+      "text": "Oclusión confirmada",
+      "type": "PATOLOGIA",
+      "start": 1618,
+      "end": 1637
+    },
+    {
+      "text": "segmento M1 de ACM izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1307,
+      "end": 1335
+    },
+    {
+      "text": "penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1206,
+      "end": 1224
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1748,
+      "end": 1771
+    }
+  ]
+}

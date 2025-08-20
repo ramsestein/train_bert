@@ -1,0 +1,89 @@
+{
+  "document_id": "informe_sintetico_20250804195045_24958",
+  "entities": [
+    {
+      "text": "infarto cerebral",
+      "type": "PATOLOGIA",
+      "start": 739,
+      "end": 755
+    },
+    {
+      "text": "arteria cerebral media",
+      "type": "ARTERIA",
+      "start": 776,
+      "end": 798
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 689,
+      "end": 698
+    },
+    {
+      "text": "18x12x15 mm",
+      "type": "MEDIDA",
+      "start": 930,
+      "end": 941
+    },
+    {
+      "text": "más del 30%",
+      "type": "MEDIDA",
+      "start": 1084,
+      "end": 1095
+    },
+    {
+      "text": "PH2",
+      "type": "PUNTUACION_CLINICA",
+      "start": 1133,
+      "end": 1136
+    },
+    {
+      "text": "isquémica",
+      "type": "PATOLOGIA",
+      "start": 1530,
+      "end": 1539
+    },
+    {
+      "text": "Oclusión completa",
+      "type": "PATOLOGIA",
+      "start": 1674,
+      "end": 1691
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "ARTERIA",
+      "start": 1698,
+      "end": 1730
+    },
+    {
+      "text": "M1",
+      "type": "ARTERIA",
+      "start": 1746,
+      "end": 1748
+    },
+    {
+      "text": "izquierdo",
+      "type": "LATERALIDAD",
+      "start": 1402,
+      "end": 1411
+    },
+    {
+      "text": "sin colapso cisternal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1299,
+      "end": 1320
+    },
+    {
+      "text": "No se detectan zonas con penumbra viable significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1549,
+      "end": 1603
+    },
+    {
+      "text": "No se visualizan otras lesiones vasculares ni aneurismas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1935,
+      "end": 1991
+    }
+  ]
+}

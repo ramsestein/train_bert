@@ -1,0 +1,209 @@
+{
+  "document_id": "informe_sintetico_20250804195045_15517",
+  "entities": [
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 490,
+      "end": 513
+    },
+    {
+      "text": "hematomas subdurales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 517,
+      "end": 537
+    },
+    {
+      "text": "hipodensidad difusa",
+      "type": "PATOLOGIA",
+      "start": 563,
+      "end": 582
+    },
+    {
+      "text": "territorio mesencefálico",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 589,
+      "end": 613
+    },
+    {
+      "text": "protuberancial",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 616,
+      "end": 630
+    },
+    {
+      "text": "edema isquémico",
+      "type": "PATOLOGIA",
+      "start": 696,
+      "end": 711
+    },
+    {
+      "text": "desplazamiento de estructuras de la línea media",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 720,
+      "end": 767
+    },
+    {
+      "text": "Mapas de tiempo de tránsito (TTP) prolongados",
+      "type": "PATOLOGIA",
+      "start": 886,
+      "end": 931
+    },
+    {
+      "text": "aumento del Tmax",
+      "type": "PATOLOGIA",
+      "start": 934,
+      "end": 950
+    },
+    {
+      "text": "arteria basilar",
+      "type": "ARTERIA",
+      "start": 980,
+      "end": 995
+    },
+    {
+      "text": "reducción significativa del flujo cerebral (CBF)",
+      "type": "PATOLOGIA",
+      "start": 1001,
+      "end": 1049
+    },
+    {
+      "text": "volumen cerebral (CBV) disminuido",
+      "type": "PATOLOGIA",
+      "start": 1052,
+      "end": 1085
+    },
+    {
+      "text": "mesencéfalo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1089,
+      "end": 1100
+    },
+    {
+      "text": "protuberancia",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 616,
+      "end": 629
+    },
+    {
+      "text": "cerebelo bilateral",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1118,
+      "end": 1136
+    },
+    {
+      "text": "penumbra",
+      "type": "PATOLOGIA",
+      "start": 1165,
+      "end": 1173
+    },
+    {
+      "text": "tejido isquémico comprometido",
+      "type": "PATOLOGIA",
+      "start": 1176,
+      "end": 1205
+    },
+    {
+      "text": "Oclusión completa de la arteria basilar",
+      "type": "PATOLOGIA",
+      "start": 1241,
+      "end": 1280
+    },
+    {
+      "text": "segmento proximal-media",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1287,
+      "end": 1310
+    },
+    {
+      "text": "sin visualización de flujo distal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1312,
+      "end": 1345
+    },
+    {
+      "text": "Arterias vertebrales permeables",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1347,
+      "end": 1378
+    },
+    {
+      "text": "ligero aplanamiento del flujo en segmento V4 izquierdo",
+      "type": "PATOLOGIA",
+      "start": 1384,
+      "end": 1438
+    },
+    {
+      "text": "Arco aórtico con ateromatosis calcificada difusa",
+      "type": "PATOLOGIA",
+      "start": 1440,
+      "end": 1488
+    },
+    {
+      "text": "sin estenosis significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1489,
+      "end": 1516
+    },
+    {
+      "text": "signos de disección",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1533,
+      "end": 1552
+    },
+    {
+      "text": "Arterias cerebrales anteriores y medias permeables",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1554,
+      "end": 1604
+    },
+    {
+      "text": "sin estenosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1489,
+      "end": 1502
+    },
+    {
+      "text": "Oclusión aguda de arteria basilar",
+      "type": "PATOLOGIA",
+      "start": 1649,
+      "end": 1682
+    },
+    {
+      "text": "compromiso isquémico extenso a nivel del tronco encefálico y cerebelo",
+      "type": "PATOLOGIA",
+      "start": 1687,
+      "end": 1756
+    },
+    {
+      "text": "Hipodensidad en TC basal sugestiva de edema isquémico",
+      "type": "PATOLOGIA",
+      "start": 1762,
+      "end": 1815
+    },
+    {
+      "text": "Arco aórtico y circulación vertebral sin estenosis significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1945,
+      "end": 2010
+    },
+    {
+      "text": "Oclusión arterial basilar aguda",
+      "type": "PATOLOGIA",
+      "start": 2108,
+      "end": 2139
+    },
+    {
+      "text": "infarto isquémico del tronco cerebral y cerebelo",
+      "type": "PATOLOGIA",
+      "start": 2144,
+      "end": 2192
+    },
+    {
+      "text": "estudio de TC con perfusión y angiografía TC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 2196,
+      "end": 2262
+    }
+  ]
+}

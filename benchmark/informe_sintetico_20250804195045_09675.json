@@ -1,0 +1,95 @@
+{
+  "document_id": "informe_sintetico_20250804195045_09675",
+  "entities": [
+    {
+      "text": "infarto isquémico subagudo",
+      "type": "PATOLOGIA",
+      "start": 576,
+      "end": 602
+    },
+    {
+      "text": "región ganglio lenticular derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 526,
+      "end": 559
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "ARTERIA",
+      "start": 1162,
+      "end": 1192
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 552,
+      "end": 559
+    },
+    {
+      "text": "10 mm",
+      "type": "MEDIDA",
+      "start": 683,
+      "end": 688
+    },
+    {
+      "text": "subagudo",
+      "type": "TEMPORALIDAD",
+      "start": 594,
+      "end": 602
+    },
+    {
+      "text": "HI1",
+      "type": "PUNTUACION_CLINICA",
+      "start": 737,
+      "end": 740
+    },
+    {
+      "text": "TC",
+      "type": "TECNICA_IMAGEN",
+      "start": 72,
+      "end": 74
+    },
+    {
+      "text": "No se evidencian hemorragias intra o extraaxiales extensas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 784,
+      "end": 842
+    },
+    {
+      "text": "sin evidencia de oclusiones o estenosis severas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1447,
+      "end": 1494
+    },
+    {
+      "text": "sin signos de lesiones ateromatosas significativas ni trombos visibles",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1550,
+      "end": 1620
+    },
+    {
+      "text": "sin área de penumbra significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1238,
+      "end": 1272
+    },
+    {
+      "text": "sin efecto de masa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 763,
+      "end": 781
+    },
+    {
+      "text": "sin evidencia de edema citotóxico extenso",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1309,
+      "end": 1350
+    },
+    {
+      "text": "sin área de penumbra viable",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2087,
+      "end": 2114
+    }
+  ]
+}

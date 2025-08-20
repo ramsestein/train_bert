@@ -1,0 +1,71 @@
+{
+  "document_id": "informe_sintetico_20250804195045_19186",
+  "entities": [
+    {
+      "text": "extensa colección hemática subdural aguda frontoparietal derecha",
+      "type": "PATOLOGIA",
+      "start": 395,
+      "end": 459
+    },
+    {
+      "text": "frontoparietal derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 437,
+      "end": 459
+    },
+    {
+      "text": "12 mm",
+      "type": "MEDIDA",
+      "start": 485,
+      "end": 490
+    },
+    {
+      "text": "7 mm",
+      "type": "MEDIDA",
+      "start": 698,
+      "end": 702
+    },
+    {
+      "text": "derecho",
+      "type": "LATERALIDAD",
+      "start": 823,
+      "end": 830
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 675,
+      "end": 684
+    },
+    {
+      "text": "aguda",
+      "type": "TEMPORALIDAD",
+      "start": 431,
+      "end": 436
+    },
+    {
+      "text": "No se evidencian áreas de infarto cerebral ni signos de isquemia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 832,
+      "end": 896
+    },
+    {
+      "text": "permeabilidad adecuada de las arterias intracraneales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 954,
+      "end": 1007
+    },
+    {
+      "text": "TC craneal basal urgente con cortes finos",
+      "type": "TECNICA_IMAGEN",
+      "start": 261,
+      "end": 302
+    },
+    {
+      "text": "angiografía por TC",
+      "type": "TECNICA_IMAGEN",
+      "start": 927,
+      "end": 945
+    }
+  ]
+}

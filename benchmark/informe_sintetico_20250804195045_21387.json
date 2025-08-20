@@ -1,0 +1,149 @@
+{
+  "document_id": "informe_sintetico_20250804195045_21387",
+  "entities": [
+    {
+      "text": "infarto agudo",
+      "type": "PATOLOGIA",
+      "start": 732,
+      "end": 745
+    },
+    {
+      "text": "territorio carotídeo izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 549,
+      "end": 579
+    },
+    {
+      "text": "corteza frontal",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 594,
+      "end": 609
+    },
+    {
+      "text": "ASPECTS",
+      "type": "PUNTUACION_CLINICA",
+      "start": 763,
+      "end": 770
+    },
+    {
+      "text": "5/10",
+      "type": "MEDIDA",
+      "start": 774,
+      "end": 778
+    },
+    {
+      "text": "infarto",
+      "type": "PATOLOGIA",
+      "start": 732,
+      "end": 739
+    },
+    {
+      "text": "territorio carotídeo izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 549,
+      "end": 579
+    },
+    {
+      "text": "tiempo hasta el pico (TTP)",
+      "type": "MEDIDA",
+      "start": 1021,
+      "end": 1047
+    },
+    {
+      "text": "tiempo de tránsito medio (MTT)",
+      "type": "MEDIDA",
+      "start": 1050,
+      "end": 1080
+    },
+    {
+      "text": "flujo sanguíneo cerebral (CBF)",
+      "type": "MEDIDA",
+      "start": 1107,
+      "end": 1137
+    },
+    {
+      "text": "volumen cerebral (CBV)",
+      "type": "MEDIDA",
+      "start": 1140,
+      "end": 1162
+    },
+    {
+      "text": "infarto",
+      "type": "PATOLOGIA",
+      "start": 732,
+      "end": 739
+    },
+    {
+      "text": "zona de infarto establecida",
+      "type": "PATOLOGIA",
+      "start": 1204,
+      "end": 1231
+    },
+    {
+      "text": "mismatch",
+      "type": "PATOLOGIA",
+      "start": 1255,
+      "end": 1263
+    },
+    {
+      "text": "arteria carótida interna izquierda",
+      "type": "ARTERIA",
+      "start": 1353,
+      "end": 1387
+    },
+    {
+      "text": "segmento cervical proximal",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1394,
+      "end": 1420
+    },
+    {
+      "text": "trombo intraluminal",
+      "type": "PATOLOGIA",
+      "start": 1453,
+      "end": 1472
+    },
+    {
+      "text": "arteria cerebral anterior derecha",
+      "type": "ARTERIA",
+      "start": 1552,
+      "end": 1585
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "ARTERIA",
+      "start": 1591,
+      "end": 1621
+    },
+    {
+      "text": "lado derecho",
+      "type": "LATERALIDAD",
+      "start": 1703,
+      "end": 1715
+    },
+    {
+      "text": "signos de hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 798,
+      "end": 831
+    },
+    {
+      "text": "edema significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 835,
+      "end": 854
+    },
+    {
+      "text": "signos de hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 798,
+      "end": 831
+    },
+    {
+      "text": "edema masivo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2217,
+      "end": 2229
+    }
+  ]
+}

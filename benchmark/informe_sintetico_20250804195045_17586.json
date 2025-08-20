@@ -1,0 +1,137 @@
+{
+  "document_id": "informe_sintetico_20250804195045_17586",
+  "entities": [
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 684,
+      "end": 698
+    },
+    {
+      "text": "territorio frontal izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 565,
+      "end": 593
+    },
+    {
+      "text": "parietal derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 596,
+      "end": 612
+    },
+    {
+      "text": "hemiparesia derecha",
+      "type": "PATOLOGIA",
+      "start": 217,
+      "end": 236
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 684,
+      "end": 698
+    },
+    {
+      "text": "penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1232,
+      "end": 1250
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "ARTERIA",
+      "start": 1430,
+      "end": 1460
+    },
+    {
+      "text": "M2",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1476,
+      "end": 1478
+    },
+    {
+      "text": "arterias cerebrales anteriores y medias",
+      "type": "ARTERIA",
+      "start": 1350,
+      "end": 1389
+    },
+    {
+      "text": "bilaterales",
+      "type": "LATERALIDAD",
+      "start": 1040,
+      "end": 1051
+    },
+    {
+      "text": "sin estenosis significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1520,
+      "end": 1548
+    },
+    {
+      "text": "sin estenosis mayor al 50%",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1645,
+      "end": 1671
+    },
+    {
+      "text": "múltiples estenosis segmentarias",
+      "type": "PATOLOGIA",
+      "start": 1301,
+      "end": 1333
+    },
+    {
+      "text": "múltiples estenosis",
+      "type": "PATOLOGIA",
+      "start": 1301,
+      "end": 1320
+    },
+    {
+      "text": "múltiples",
+      "type": "MEDIDA",
+      "start": 507,
+      "end": 516
+    },
+    {
+      "text": "aguda",
+      "type": "TEMPORALIDAD",
+      "start": 693,
+      "end": 698
+    },
+    {
+      "text": "multiterritorial",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1737,
+      "end": 1753
+    },
+    {
+      "text": "hemisferios cerebrales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1763,
+      "end": 1785
+    },
+    {
+      "text": "compromiso hemodinámico",
+      "type": "PATOLOGIA",
+      "start": 1791,
+      "end": 1814
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 349,
+      "end": 365
+    },
+    {
+      "text": "perfusión cerebral dinámica",
+      "type": "TECNICA_IMAGEN",
+      "start": 367,
+      "end": 394
+    },
+    {
+      "text": "AngioTC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 397,
+      "end": 426
+    }
+  ]
+}

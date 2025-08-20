@@ -1,0 +1,83 @@
+{
+  "document_id": "0000000010000000062874668_cleaned",
+  "entities": [
+    {
+      "text": "hemorragia intra ni extraaxial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 360,
+      "end": 390
+    },
+    {
+      "text": "isquemia aguda establecida",
+      "type": "PATOLOGIA",
+      "start": 495,
+      "end": 521
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 523,
+      "end": 533
+    },
+    {
+      "text": "Sistema ventricular de tamaño y morfología normal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 577,
+      "end": 626
+    },
+    {
+      "text": "Cisternas basales libres",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 628,
+      "end": 652
+    },
+    {
+      "text": "hipoperfusión de origen vascular",
+      "type": "PATOLOGIA",
+      "start": 730,
+      "end": 762
+    },
+    {
+      "text": "ACAs, ACMs y ACPs",
+      "type": "ARTERIA",
+      "start": 839,
+      "end": 856
+    },
+    {
+      "text": "arterias carótidas internas",
+      "type": "ARTERIA",
+      "start": 928,
+      "end": 955
+    },
+    {
+      "text": "estenosis aproximada del 50 %",
+      "type": "MEDIDA",
+      "start": 1001,
+      "end": 1030
+    },
+    {
+      "text": "lado derecho",
+      "type": "LATERALIDAD",
+      "start": 1047,
+      "end": 1059
+    },
+    {
+      "text": "sin estenosis significativa en el izquierdo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1062,
+      "end": 1105
+    },
+    {
+      "text": "sin estenosis significativa de su luz",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1214,
+      "end": 1251
+    },
+    {
+      "text": "sin estenosis significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1062,
+      "end": 1089
+    }
+  ]
+}

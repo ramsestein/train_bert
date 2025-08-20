@@ -1,0 +1,155 @@
+{
+  "document_id": "informe_sintetico_20250804195045_19239",
+  "entities": [
+    {
+      "text": "ictus isquémico",
+      "type": "PATOLOGIA",
+      "start": 238,
+      "end": 253
+    },
+    {
+      "text": "2 horas",
+      "type": "TEMPORALIDAD",
+      "start": 292,
+      "end": 299
+    },
+    {
+      "text": "TC craneal basal urgente",
+      "type": "TECNICA_IMAGEN",
+      "start": 320,
+      "end": 344
+    },
+    {
+      "text": "perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 356,
+      "end": 374
+    },
+    {
+      "text": "angiografía por TC de arterias intracraneales",
+      "type": "TECNICA_IMAGEN",
+      "start": 377,
+      "end": 422
+    },
+    {
+      "text": "área hiperdensa",
+      "type": "PATOLOGIA",
+      "start": 474,
+      "end": 489
+    },
+    {
+      "text": "arteria cerebral media izquierda segmento M1",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 496,
+      "end": 540
+    },
+    {
+      "text": "signo de arteria hiperdensa",
+      "type": "PATOLOGIA",
+      "start": 557,
+      "end": 584
+    },
+    {
+      "text": "hipodensidad leve",
+      "type": "PATOLOGIA",
+      "start": 600,
+      "end": 617
+    },
+    {
+      "text": "región insular",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 624,
+      "end": 638
+    },
+    {
+      "text": "corona radiada izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 641,
+      "end": 665
+    },
+    {
+      "text": "borramiento parcial de la diferenciación cortico-subcortical",
+      "type": "PATOLOGIA",
+      "start": 671,
+      "end": 731
+    },
+    {
+      "text": "puntuación ASPECTS entre 6-7",
+      "type": "PUNTUACION_CLINICA",
+      "start": 733,
+      "end": 761
+    },
+    {
+      "text": "disminución significativa del flujo sanguíneo cerebral (CBF)",
+      "type": "PATOLOGIA",
+      "start": 812,
+      "end": 872
+    },
+    {
+      "text": "aumento del tiempo máximo de tránsito (TMax)",
+      "type": "PATOLOGIA",
+      "start": 875,
+      "end": 919
+    },
+    {
+      "text": "territorio dependiente de ACM izquierda proximal",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 926,
+      "end": 974
+    },
+    {
+      "text": "preservación relativa del volumen cerebral (CBV)",
+      "type": "PATOLOGIA",
+      "start": 980,
+      "end": 1028
+    },
+    {
+      "text": "área de penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1046,
+      "end": 1072
+    },
+    {
+      "text": "oclusión completa del segmento M1 de la arteria cerebral media izquierda",
+      "type": "PATOLOGIA",
+      "start": 1104,
+      "end": 1176
+    },
+    {
+      "text": "No se aprecian signos de hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1178,
+      "end": 1226
+    },
+    {
+      "text": "sin signos de efecto de masa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1308,
+      "end": 1336
+    },
+    {
+      "text": "signos iniciales de isquemia en territorio relacionado",
+      "type": "PATOLOGIA",
+      "start": 1432,
+      "end": 1486
+    },
+    {
+      "text": "área de penumbra en perfusión",
+      "type": "PATOLOGIA",
+      "start": 1489,
+      "end": 1518
+    },
+    {
+      "text": "No evidencia de hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1520,
+      "end": 1559
+    },
+    {
+      "text": "ni efecto de masa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1560,
+      "end": 1577
+    }
+  ]
+}

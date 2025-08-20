@@ -1,0 +1,113 @@
+{
+  "document_id": "informe_sintetico_20250804195045_19184",
+  "entities": [
+    {
+      "text": "isquemia",
+      "type": "PATOLOGIA",
+      "start": 270,
+      "end": 278
+    },
+    {
+      "text": "territorio vertebrobasilar",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 282,
+      "end": 308
+    },
+    {
+      "text": "hipoperfusión",
+      "type": "PATOLOGIA",
+      "start": 573,
+      "end": 586
+    },
+    {
+      "text": "territorio vertebrobasilar",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 282,
+      "end": 308
+    },
+    {
+      "text": "tiempo hasta el pico (TTP)",
+      "type": "MEDIDA",
+      "start": 633,
+      "end": 659
+    },
+    {
+      "text": "flujo cerebral (CBF)",
+      "type": "MEDIDA",
+      "start": 676,
+      "end": 696
+    },
+    {
+      "text": "arteria basilar",
+      "type": "ARTERIA",
+      "start": 724,
+      "end": 739
+    },
+    {
+      "text": "ambas arterias cerebelosas posteroinferiores (PICA)",
+      "type": "ARTERIA",
+      "start": 773,
+      "end": 824
+    },
+    {
+      "text": "estenosis crítica (>90%)",
+      "type": "PATOLOGIA",
+      "start": 1008,
+      "end": 1032
+    },
+    {
+      "text": "arteria basilar",
+      "type": "ARTERIA",
+      "start": 724,
+      "end": 739
+    },
+    {
+      "text": "signos de trombosis oclusiva completa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1149,
+      "end": 1186
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 1342,
+      "end": 1356
+    },
+    {
+      "text": "territorio vertebrobasilar",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 282,
+      "end": 308
+    },
+    {
+      "text": "estenosis crítica distal de arteria basilar",
+      "type": "PATOLOGIA",
+      "start": 1392,
+      "end": 1435
+    },
+    {
+      "text": "áreas de penumbra",
+      "type": "PATOLOGIA",
+      "start": 1438,
+      "end": 1455
+    },
+    {
+      "text": "signos de hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1485,
+      "end": 1518
+    },
+    {
+      "text": "lesión ocupante de espacio",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1522,
+      "end": 1548
+    },
+    {
+      "text": "TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANG IOTC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 72,
+      "end": 140
+    }
+  ]
+}

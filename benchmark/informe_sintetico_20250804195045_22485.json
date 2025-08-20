@@ -1,0 +1,173 @@
+{
+  "document_id": "informe_sintetico_20250804195045_22485",
+  "entities": [
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 458,
+      "end": 481
+    },
+    {
+      "text": "lesiones estructurales focales agudas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 485,
+      "end": 522
+    },
+    {
+      "text": "áreas bilaterales de hipodensidad en la sustancia blanca parieto-occipital",
+      "type": "PATOLOGIA",
+      "start": 536,
+      "end": 610
+    },
+    {
+      "text": "bilaterales",
+      "type": "LATERALIDAD",
+      "start": 542,
+      "end": 553
+    },
+    {
+      "text": "sustancia blanca parieto-occipital",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 576,
+      "end": 610
+    },
+    {
+      "text": "sustancia gris cortical",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 655,
+      "end": 678
+    },
+    {
+      "text": "efecto de masa",
+      "type": "PATOLOGIA",
+      "start": 692,
+      "end": 706
+    },
+    {
+      "text": "reducción significativa del volumen de sangre cerebral (CBV)",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 960,
+      "end": 1020
+    },
+    {
+      "text": "flujo sanguíneo cerebral (CBF)",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1028,
+      "end": 1058
+    },
+    {
+      "text": "prolongaciones en los mapas de tiempo de tránsito medio (TTP y Tmax)",
+      "type": "PATOLOGIA",
+      "start": 1087,
+      "end": 1155
+    },
+    {
+      "text": "áreas occipitales bilaterales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1159,
+      "end": 1188
+    },
+    {
+      "text": "alteración hemodinámica reversible",
+      "type": "PATOLOGIA",
+      "start": 1206,
+      "end": 1240
+    },
+    {
+      "text": "arterias cerebrales (ACAs, ACMs, ACPs)",
+      "type": "ARTERIA",
+      "start": 1284,
+      "end": 1322
+    },
+    {
+      "text": "permeabilidad conservada",
+      "type": "PATOLOGIA",
+      "start": 1332,
+      "end": 1356
+    },
+    {
+      "text": "estenosis ni oclusiones visibles",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1362,
+      "end": 1394
+    },
+    {
+      "text": "signos de vasculitis ni anormalidades vasculares evidentes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1411,
+      "end": 1469
+    },
+    {
+      "text": "sistema vertebrobasilar",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1474,
+      "end": 1497
+    },
+    {
+      "text": "permeable y sin alteraciones",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1511,
+      "end": 1539
+    },
+    {
+      "text": "leucoencefalopatía posterior reversible (PRES)",
+      "type": "PATOLOGIA",
+      "start": 1592,
+      "end": 1638
+    },
+    {
+      "text": "edema vasogénico bilateral parieto-occipital",
+      "type": "PATOLOGIA",
+      "start": 1658,
+      "end": 1702
+    },
+    {
+      "text": "sin signos de infarto ni hemorragia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1703,
+      "end": 1738
+    },
+    {
+      "text": "permeabilidad arterial intracraneal",
+      "type": "PATOLOGIA",
+      "start": 1764,
+      "end": 1799
+    },
+    {
+      "text": "sin hallazgos isquémicos significativos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1800,
+      "end": 1839
+    },
+    {
+      "text": "monitorización clínica y control radiológico en evolución",
+      "type": "PATOLOGIA",
+      "start": 1917,
+      "end": 1974
+    },
+    {
+      "text": "TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANG IOTC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 72,
+      "end": 140
+    },
+    {
+      "text": "TC craneal basal con contraste",
+      "type": "TECNICA_IMAGEN",
+      "start": 301,
+      "end": 331
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 333,
+      "end": 354
+    },
+    {
+      "text": "Angio-TC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 357,
+      "end": 387
+    }
+  ]
+}

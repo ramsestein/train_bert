@@ -1,0 +1,89 @@
+{
+  "document_id": "informe_sintetico_20250804195045_21659",
+  "entities": [
+    {
+      "text": "infarto lacunar",
+      "type": "PATOLOGIA",
+      "start": 223,
+      "end": 238
+    },
+    {
+      "text": "cápsula interna derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 456,
+      "end": 479
+    },
+    {
+      "text": "8 mm",
+      "type": "MEDIDA",
+      "start": 445,
+      "end": 449
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 986,
+      "end": 1000
+    },
+    {
+      "text": "cápsula interna derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 456,
+      "end": 479
+    },
+    {
+      "text": "discreto aumento del tiempo de tránsito medio (TTM)",
+      "type": "PATOLOGIA",
+      "start": 808,
+      "end": 859
+    },
+    {
+      "text": "sin disminución significativa del volumen cerebral (CBV)",
+      "type": "PATOLOGIA",
+      "start": 905,
+      "end": 961
+    },
+    {
+      "text": "sin signos de edema ni hemorragia asociada",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1386,
+      "end": 1428
+    },
+    {
+      "text": "sin hallazgos significativos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1283,
+      "end": 1311
+    },
+    {
+      "text": "Polígono de Willis anatómicamente conservado y permeable",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1193,
+      "end": 1249
+    },
+    {
+      "text": "área isquémica pequeña",
+      "type": "PATOLOGIA",
+      "start": 1511,
+      "end": 1533
+    },
+    {
+      "text": "TC craneal sin contraste",
+      "type": "TECNICA_IMAGEN",
+      "start": 258,
+      "end": 282
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 284,
+      "end": 305
+    },
+    {
+      "text": "AngioTC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 1051,
+      "end": 1080
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "document_id": "informe_sintetico_20250804195045_13064",
+  "entities": [
+    {
+      "text": "isquemia",
+      "type": "PATOLOGIA",
+      "start": 208,
+      "end": 216
+    },
+    {
+      "text": "arteria cerebral posterior derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 234,
+      "end": 268
+    },
+    {
+      "text": "arteria cerebral posterior derecha",
+      "type": "ARTERIA",
+      "start": 234,
+      "end": 268
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 261,
+      "end": 268
+    },
+    {
+      "text": "moderada",
+      "type": "MEDIDA",
+      "start": 755,
+      "end": 763
+    },
+    {
+      "text": "aguda",
+      "type": "TEMPORALIDAD",
+      "start": 1041,
+      "end": 1046
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 569,
+      "end": 579
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 289,
+      "end": 305
+    },
+    {
+      "text": "No se observa hemorragia intra ni extraaxial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 455,
+      "end": 499
+    },
+    {
+      "text": "No evidencia de hemorragia intracraneal ni edema cerebral asociado",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1647,
+      "end": 1713
+    }
+  ]
+}

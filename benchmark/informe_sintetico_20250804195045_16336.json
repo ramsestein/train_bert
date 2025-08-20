@@ -1,0 +1,65 @@
+{
+  "document_id": "informe_sintetico_20250804195045_16336",
+  "entities": [
+    {
+      "text": "hematoma lobar frontal izquierdo",
+      "type": "PATOLOGIA",
+      "start": 512,
+      "end": 544
+    },
+    {
+      "text": "frontal izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 527,
+      "end": 544
+    },
+    {
+      "text": "3 cm",
+      "type": "MEDIDA",
+      "start": 604,
+      "end": 608
+    },
+    {
+      "text": "4 mm",
+      "type": "MEDIDA",
+      "start": 734,
+      "end": 738
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 1041,
+      "end": 1055
+    },
+    {
+      "text": "arterias cerebrales anteriores y medias",
+      "type": "ARTERIA",
+      "start": 1146,
+      "end": 1185
+    },
+    {
+      "text": "frontal izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 527,
+      "end": 544
+    },
+    {
+      "text": "sin hemorragia intraventricular ni subaracnoidea asociada",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1570,
+      "end": 1627
+    },
+    {
+      "text": "sin estenosis ni oclusiones significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1355,
+      "end": 1397
+    },
+    {
+      "text": "sin evidencia de isquemia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1679,
+      "end": 1704
+    }
+  ]
+}

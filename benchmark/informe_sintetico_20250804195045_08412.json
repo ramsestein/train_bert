@@ -1,0 +1,83 @@
+{
+  "document_id": "informe_sintetico_20250804195045_08412",
+  "entities": [
+    {
+      "text": "oclusión arterial",
+      "type": "PATOLOGIA",
+      "start": 312,
+      "end": 329
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 616,
+      "end": 639
+    },
+    {
+      "text": "infarto agudo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 666,
+      "end": 679
+    },
+    {
+      "text": "tronco cerebral",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 996,
+      "end": 1011
+    },
+    {
+      "text": "cerebelo bilateral",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1014,
+      "end": 1032
+    },
+    {
+      "text": "arteria basilar",
+      "type": "ARTERIA",
+      "start": 1175,
+      "end": 1190
+    },
+    {
+      "text": "porción proximal",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1197,
+      "end": 1213
+    },
+    {
+      "text": "circulación posterior",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 513,
+      "end": 534
+    },
+    {
+      "text": "hipoperfusión crítica",
+      "type": "PATOLOGIA",
+      "start": 1049,
+      "end": 1070
+    },
+    {
+      "text": "hemorragias",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1636,
+      "end": 1647
+    },
+    {
+      "text": "infartos establecidos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1651,
+      "end": 1672
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 369,
+      "end": 385
+    },
+    {
+      "text": "angio-TC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 463,
+      "end": 493
+    }
+  ]
+}

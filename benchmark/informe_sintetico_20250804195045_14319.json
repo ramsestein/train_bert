@@ -1,0 +1,77 @@
+{
+  "document_id": "informe_sintetico_20250804195045_14319",
+  "entities": [
+    {
+      "text": "ictus isquémico",
+      "type": "PATOLOGIA",
+      "start": 233,
+      "end": 248
+    },
+    {
+      "text": "arteria cerebral posterior derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 266,
+      "end": 300
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 622,
+      "end": 632
+    },
+    {
+      "text": "arteria cerebral posterior derecha",
+      "type": "ARTERIA",
+      "start": 266,
+      "end": 300
+    },
+    {
+      "text": "isquemia establecida",
+      "type": "PATOLOGIA",
+      "start": 976,
+      "end": 996
+    },
+    {
+      "text": "penumbra",
+      "type": "PATOLOGIA",
+      "start": 1017,
+      "end": 1025
+    },
+    {
+      "text": "P1-P2",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1120,
+      "end": 1125
+    },
+    {
+      "text": "arteria cerebral posterior derecha",
+      "type": "ARTERIA",
+      "start": 266,
+      "end": 300
+    },
+    {
+      "text": "P1-P2 derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1541,
+      "end": 1554
+    },
+    {
+      "text": "No se identifican signos de hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 504,
+      "end": 555
+    },
+    {
+      "text": "No se identifican complicaciones hemorrágicas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1556,
+      "end": 1601
+    },
+    {
+      "text": "edema significativo en TC basal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1605,
+      "end": 1636
+    }
+  ]
+}

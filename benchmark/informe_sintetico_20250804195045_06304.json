@@ -1,0 +1,101 @@
+{
+  "document_id": "informe_sintetico_20250804195045_06304",
+  "entities": [
+    {
+      "text": "patología isquémica",
+      "type": "PATOLOGIA",
+      "start": 284,
+      "end": 303
+    },
+    {
+      "text": "lesiones hipodensas",
+      "type": "PATOLOGIA",
+      "start": 507,
+      "end": 526
+    },
+    {
+      "text": "cambios crónicos mínimos compatibles con gliosis periventricular leve",
+      "type": "PATOLOGIA",
+      "start": 826,
+      "end": 895
+    },
+    {
+      "text": "hipoperfusión focal",
+      "type": "PATOLOGIA",
+      "start": 1043,
+      "end": 1062
+    },
+    {
+      "text": "signos de estenosis",
+      "type": "PATOLOGIA",
+      "start": 1168,
+      "end": 1187
+    },
+    {
+      "text": "signos de ictus agudo",
+      "type": "PATOLOGIA",
+      "start": 1366,
+      "end": 1387
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "PATOLOGIA",
+      "start": 1389,
+      "end": 1412
+    },
+    {
+      "text": "alteraciones vasculares significativas",
+      "type": "PATOLOGIA",
+      "start": 1417,
+      "end": 1455
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 344,
+      "end": 360
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 362,
+      "end": 383
+    },
+    {
+      "text": "angiografía TC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 386,
+      "end": 422
+    },
+    {
+      "text": "sustancia blanca",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 571,
+      "end": 587
+    },
+    {
+      "text": "cisternas basales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 762,
+      "end": 779
+    },
+    {
+      "text": "sin desviación de la línea media",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 696,
+      "end": 728
+    },
+    {
+      "text": "sin alteraciones hemodinámicas relevantes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1249,
+      "end": 1290
+    },
+    {
+      "text": "sin relevancia clínica aguda",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1481,
+      "end": 1509
+    }
+  ]
+}

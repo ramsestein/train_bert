@@ -1,0 +1,29 @@
+{
+  "document_id": "0000000010000000058452822_cleaned",
+  "entities": [
+    {
+      "text": "Infart cerebral causat per oclusió o estenosi no especificades d'artèria cerebral no especificada",
+      "type": "PATOLOGIA",
+      "start": 166,
+      "end": 263
+    },
+    {
+      "text": "artèria cerebral no especificada",
+      "type": "ARTERIA",
+      "start": 231,
+      "end": 263
+    },
+    {
+      "text": "fa 50 minuts",
+      "type": "TEMPORALIDAD",
+      "start": 356,
+      "end": 368
+    },
+    {
+      "text": "Sense canvis. No s'observa aparició de focus hemàtics ni signes d'isquèmia aguda.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 370,
+      "end": 451
+    }
+  ]
+}

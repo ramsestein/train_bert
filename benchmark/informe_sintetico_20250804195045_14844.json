@@ -1,0 +1,227 @@
+{
+  "document_id": "informe_sintetico_20250804195045_14844",
+  "entities": [
+    {
+      "text": "ictus isquémico",
+      "type": "PATOLOGIA",
+      "start": 203,
+      "end": 218
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "ARTERIA",
+      "start": 239,
+      "end": 269
+    },
+    {
+      "text": "deterioro neurológico súbito",
+      "type": "PATOLOGIA",
+      "start": 289,
+      "end": 317
+    },
+    {
+      "text": "transformación hemorrágica",
+      "type": "PATOLOGIA",
+      "start": 340,
+      "end": 366
+    },
+    {
+      "text": "TC Basal + TC Perfusión + AngioTC extra e intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 466,
+      "end": 520
+    },
+    {
+      "text": "hiperdensidad heterogénea",
+      "type": "PATOLOGIA",
+      "start": 661,
+      "end": 686
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "ARTERIA",
+      "start": 239,
+      "end": 269
+    },
+    {
+      "text": "núcleo lenticular",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 774,
+      "end": 791
+    },
+    {
+      "text": "cápsula interna",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 793,
+      "end": 808
+    },
+    {
+      "text": "corteza adyacente",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 811,
+      "end": 828
+    },
+    {
+      "text": "transformación hemorrágica tipo HI2",
+      "type": "PATOLOGIA",
+      "start": 845,
+      "end": 880
+    },
+    {
+      "text": "30-50%",
+      "type": "MEDIDA",
+      "start": 936,
+      "end": 942
+    },
+    {
+      "text": "3 mm",
+      "type": "MEDIDA",
+      "start": 1136,
+      "end": 1140
+    },
+    {
+      "text": "hemorragias extraaxiales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1178,
+      "end": 1202
+    },
+    {
+      "text": "fracturas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1206,
+      "end": 1215
+    },
+    {
+      "text": "edema focal",
+      "type": "PATOLOGIA",
+      "start": 1264,
+      "end": 1275
+    },
+    {
+      "text": "reducción marcada en flujo sanguíneo cerebral",
+      "type": "PATOLOGIA",
+      "start": 1307,
+      "end": 1352
+    },
+    {
+      "text": "volumen sanguíneo cerebral",
+      "type": "PATOLOGIA",
+      "start": 1361,
+      "end": 1387
+    },
+    {
+      "text": "TMAX",
+      "type": "TEMPORALIDAD",
+      "start": 1469,
+      "end": 1473
+    },
+    {
+      "text": "TTP",
+      "type": "TEMPORALIDAD",
+      "start": 1499,
+      "end": 1502
+    },
+    {
+      "text": "mismatch reducido",
+      "type": "PATOLOGIA",
+      "start": 1589,
+      "end": 1606
+    },
+    {
+      "text": "oclusión total",
+      "type": "PATOLOGIA",
+      "start": 1707,
+      "end": 1721
+    },
+    {
+      "text": "segmento M1 distal",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1725,
+      "end": 1743
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "ARTERIA",
+      "start": 239,
+      "end": 269
+    },
+    {
+      "text": "ausencia de repleción distal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1782,
+      "end": 1810
+    },
+    {
+      "text": "trombosis",
+      "type": "PATOLOGIA",
+      "start": 1826,
+      "end": 1835
+    },
+    {
+      "text": "estenosis",
+      "type": "PATOLOGIA",
+      "start": 1893,
+      "end": 1902
+    },
+    {
+      "text": "ateromatosis calcificada leve",
+      "type": "PATOLOGIA",
+      "start": 1973,
+      "end": 2002
+    },
+    {
+      "text": "sin signos de estenosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1879,
+      "end": 1902
+    },
+    {
+      "text": "permeable",
+      "type": "PATOLOGIA",
+      "start": 1868,
+      "end": 1877
+    },
+    {
+      "text": "efecto de masa leve",
+      "type": "PATOLOGIA",
+      "start": 2228,
+      "end": 2247
+    },
+    {
+      "text": "desplazamiento de línea media",
+      "type": "PATOLOGIA",
+      "start": 2250,
+      "end": 2279
+    },
+    {
+      "text": "deterioro severo en flujo y volumen",
+      "type": "PATOLOGIA",
+      "start": 2308,
+      "end": 2343
+    },
+    {
+      "text": "daño mixto isquémico-hemorrágico",
+      "type": "PATOLOGIA",
+      "start": 2363,
+      "end": 2395
+    },
+    {
+      "text": "control clínico estrecho",
+      "type": "PATOLOGIA",
+      "start": 2467,
+      "end": 2491
+    },
+    {
+      "text": "seguimiento por Neurocirugía y Neurología vascular",
+      "type": "PATOLOGIA",
+      "start": 2494,
+      "end": 2544
+    },
+    {
+      "text": "TC de control en 24-48 horas",
+      "type": "TECNICA_IMAGEN",
+      "start": 2597,
+      "end": 2625
+    }
+  ]
+}

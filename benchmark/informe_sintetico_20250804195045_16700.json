@@ -1,0 +1,101 @@
+{
+  "document_id": "informe_sintetico_20250804195045_16700",
+  "entities": [
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 687,
+      "end": 701
+    },
+    {
+      "text": "arteria cerebral anterior",
+      "type": "ARTERIA",
+      "start": 247,
+      "end": 272
+    },
+    {
+      "text": "ASPECTS",
+      "type": "PUNTUACION_CLINICA",
+      "start": 752,
+      "end": 759
+    },
+    {
+      "text": "derecho",
+      "type": "LATERALIDAD",
+      "start": 663,
+      "end": 670
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 687,
+      "end": 701
+    },
+    {
+      "text": "arteria cerebral anterior derecha",
+      "type": "ARTERIA",
+      "start": 1314,
+      "end": 1347
+    },
+    {
+      "text": "penumbra",
+      "type": "PATOLOGIA",
+      "start": 1109,
+      "end": 1117
+    },
+    {
+      "text": "núcleo isquémico",
+      "type": "PATOLOGIA",
+      "start": 1725,
+      "end": 1741
+    },
+    {
+      "text": "Oclusión parcial proximal",
+      "type": "PATOLOGIA",
+      "start": 1282,
+      "end": 1307
+    },
+    {
+      "text": "segmento A2",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1349,
+      "end": 1360
+    },
+    {
+      "text": "ACA derecha",
+      "type": "ARTERIA",
+      "start": 1236,
+      "end": 1247
+    },
+    {
+      "text": "Sin hemorragias",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1841,
+      "end": 1856
+    },
+    {
+      "text": "ASPECTS modificado",
+      "type": "PUNTUACION_CLINICA",
+      "start": 1882,
+      "end": 1900
+    },
+    {
+      "text": "aguda",
+      "type": "TEMPORALIDAD",
+      "start": 531,
+      "end": 536
+    },
+    {
+      "text": "sin contraste",
+      "type": "TECNICA_IMAGEN",
+      "start": 345,
+      "end": 358
+    },
+    {
+      "text": "con contraste intravenoso",
+      "type": "TECNICA_IMAGEN",
+      "start": 424,
+      "end": 449
+    }
+  ]
+}

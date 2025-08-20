@@ -1,0 +1,233 @@
+{
+  "document_id": "informe_sintetico_20250804195045_10113",
+  "entities": [
+    {
+      "text": "hematoma lobar frontal izquierdo",
+      "type": "PATOLOGIA",
+      "start": 510,
+      "end": 542
+    },
+    {
+      "text": "subcortical y cortical",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 560,
+      "end": 582
+    },
+    {
+      "text": "35 x 28 x 22 mm",
+      "type": "MEDIDA",
+      "start": 615,
+      "end": 630
+    },
+    {
+      "text": "9 cc",
+      "type": "MEDIDA",
+      "start": 667,
+      "end": 671
+    },
+    {
+      "text": "alta densidad",
+      "type": "PATOLOGIA",
+      "start": 694,
+      "end": 707
+    },
+    {
+      "text": "sangre aguda",
+      "type": "PATOLOGIA",
+      "start": 724,
+      "end": 736
+    },
+    {
+      "text": "edema perilesional moderado",
+      "type": "PATOLOGIA",
+      "start": 749,
+      "end": 776
+    },
+    {
+      "text": "desplazamiento de línea media hacia la derecha",
+      "type": "PATOLOGIA",
+      "start": 815,
+      "end": 861
+    },
+    {
+      "text": "3 mm",
+      "type": "MEDIDA",
+      "start": 881,
+      "end": 885
+    },
+    {
+      "text": "compresión parcial del asta frontal del ventrículo lateral izquierdo",
+      "type": "PATOLOGIA",
+      "start": 888,
+      "end": 956
+    },
+    {
+      "text": "No se identifican fracturas craneales ni defectos óseos evidentes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 959,
+      "end": 1024
+    },
+    {
+      "text": "surcos corticales adyacentes",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1031,
+      "end": 1059
+    },
+    {
+      "text": "obliterados por edema",
+      "type": "PATOLOGIA",
+      "start": 1074,
+      "end": 1095
+    },
+    {
+      "text": "Sustancia blanca subcortical",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1098,
+      "end": 1126
+    },
+    {
+      "text": "discreta hipodensidad compatible con cambios microangiopáticos crónicos",
+      "type": "PATOLOGIA",
+      "start": 1131,
+      "end": 1202
+    },
+    {
+      "text": "No hay evidencia de hemorragia subaracnoidea ni hemorragia intraventricular",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1205,
+      "end": 1280
+    },
+    {
+      "text": "Estructuras de la línea media centradas",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1283,
+      "end": 1322
+    },
+    {
+      "text": "desplazamiento mencionado",
+      "type": "PATOLOGIA",
+      "start": 1341,
+      "end": 1366
+    },
+    {
+      "text": "Cisternas de la base libres",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1369,
+      "end": 1396
+    },
+    {
+      "text": "discreto aumento del Time to Peak (TTP) y Mean Transit Time (MTT)",
+      "type": "PATOLOGIA",
+      "start": 1450,
+      "end": 1515
+    },
+    {
+      "text": "reducción leve del flujo sanguíneo cerebral (CBF)",
+      "type": "PATOLOGIA",
+      "start": 1521,
+      "end": 1570
+    },
+    {
+      "text": "No se identifican áreas de hipoperfusión compatibles con isquemia cortical extensa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1632,
+      "end": 1714
+    },
+    {
+      "text": "Arco aórtico y troncos supraaórticos",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1750,
+      "end": 1786
+    },
+    {
+      "text": "sin lesiones estenóticas ni ateromatosis significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1787,
+      "end": 1841
+    },
+    {
+      "text": "Arterias cerebrales principales (ACAs, ACMs, ACPs)",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1843,
+      "end": 1893
+    },
+    {
+      "text": "permeables y sin signos de estenosis ni malformaciones vasculares",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1894,
+      "end": 1959
+    },
+    {
+      "text": "No se identifican aneurismas ni malformaciones arteriovenosas en territorio frontal izquierdo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1962,
+      "end": 2055
+    },
+    {
+      "text": "Sistema vertebrobasilar íntegro",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2058,
+      "end": 2089
+    },
+    {
+      "text": "Hematoma lobar frontal izquierdo de aproximadamente 9 cc",
+      "type": "PATOLOGIA",
+      "start": 2132,
+      "end": 2188
+    },
+    {
+      "text": "edema perilesional y efecto de masa ligero que desplaza línea media",
+      "type": "PATOLOGIA",
+      "start": 2193,
+      "end": 2260
+    },
+    {
+      "text": "No evidencia de hemorragia intraventricular ni fracturas óseas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2262,
+      "end": 2324
+    },
+    {
+      "text": "Cambios microangiopáticos crónicos subyacentes",
+      "type": "PATOLOGIA",
+      "start": 2326,
+      "end": 2372
+    },
+    {
+      "text": "Alteraciones leves de perfusión en región frontal izquierda",
+      "type": "PATOLOGIA",
+      "start": 2388,
+      "end": 2447
+    },
+    {
+      "text": "relacionadas con hematoma y edema",
+      "type": "PATOLOGIA",
+      "start": 2448,
+      "end": 2481
+    },
+    {
+      "text": "Vasos intracraneales permeables, sin malformaciones vasculares identificables",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2493,
+      "end": 2570
+    },
+    {
+      "text": "Hematoma lobar frontal agudo",
+      "type": "PATOLOGIA",
+      "start": 2787,
+      "end": 2815
+    },
+    {
+      "text": "edema perilesional y leve efecto de masa",
+      "type": "PATOLOGIA",
+      "start": 2820,
+      "end": 2860
+    },
+    {
+      "text": "Sin evidencia de malformación vascular ni complicaciones hemorrágicas añadidas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2862,
+      "end": 2940
+    }
+  ]
+}

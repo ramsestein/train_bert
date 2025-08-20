@@ -1,0 +1,215 @@
+{
+  "document_id": "informe_sintetico_20250804195045_01485",
+  "entities": [
+    {
+      "text": "hemorragias",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 433,
+      "end": 444
+    },
+    {
+      "text": "infartos agudos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 448,
+      "end": 463
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 465,
+      "end": 475
+    },
+    {
+      "text": "hipodensidades periventriculares",
+      "type": "PATOLOGIA",
+      "start": 490,
+      "end": 522
+    },
+    {
+      "text": "sustancia blanca subcortical",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 528,
+      "end": 556
+    },
+    {
+      "text": "carácter crónico",
+      "type": "TEMPORALIDAD",
+      "start": 560,
+      "end": 576
+    },
+    {
+      "text": "microangiopatía leve",
+      "type": "PATOLOGIA",
+      "start": 594,
+      "end": 614
+    },
+    {
+      "text": "Sistema ventricular",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 617,
+      "end": 636
+    },
+    {
+      "text": "tamaño y morfología conservados",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 640,
+      "end": 671
+    },
+    {
+      "text": "desviación de línea media",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 677,
+      "end": 702
+    },
+    {
+      "text": "Surcos corticales ligeramente prominentes",
+      "type": "PATOLOGIA",
+      "start": 705,
+      "end": 746
+    },
+    {
+      "text": "atrofia cerebral leve",
+      "type": "PATOLOGIA",
+      "start": 772,
+      "end": 793
+    },
+    {
+      "text": "Cisternas basales libres de ocupación",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 796,
+      "end": 833
+    },
+    {
+      "text": "masas ni colecciones extraaxiales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 854,
+      "end": 887
+    },
+    {
+      "text": "Mapas de perfusión dentro de límites normales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 906,
+      "end": 951
+    },
+    {
+      "text": "hipoperfusión focal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1002,
+      "end": 1021
+    },
+    {
+      "text": "alteraciones hemodinámicas significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1025,
+      "end": 1066
+    },
+    {
+      "text": "ateromatosis calcificada leve",
+      "type": "PATOLOGIA",
+      "start": 1141,
+      "end": 1170
+    },
+    {
+      "text": "estenosis angiográficamente relevantes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1176,
+      "end": 1214
+    },
+    {
+      "text": "Arterias carótidas internas",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1217,
+      "end": 1244
+    },
+    {
+      "text": "tortuosidad",
+      "type": "PATOLOGIA",
+      "start": 1249,
+      "end": 1260
+    },
+    {
+      "text": "placas significativas ni estrechamientos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1265,
+      "end": 1305
+    },
+    {
+      "text": "Circulación intracraneal permeable y simétrica",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1308,
+      "end": 1354
+    },
+    {
+      "text": "evidencias de oclusión ni estenosis significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1360,
+      "end": 1410
+    },
+    {
+      "text": "ACAs, ACMs, ACPs ni en sistema vertebrobasilar",
+      "type": "ARTERIA",
+      "start": 1414,
+      "end": 1460
+    },
+    {
+      "text": "signos de hemorragia o infarto agudo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1502,
+      "end": 1538
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 465,
+      "end": 475
+    },
+    {
+      "text": "cambios crónicos de pequeño vaso",
+      "type": "PATOLOGIA",
+      "start": 1566,
+      "end": 1598
+    },
+    {
+      "text": "sustancia blanca periventricular y subcortical",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1602,
+      "end": 1648
+    },
+    {
+      "text": "atrofia cerebral leve",
+      "type": "PATOLOGIA",
+      "start": 772,
+      "end": 793
+    },
+    {
+      "text": "efecto de masa ni desplazamientos de líneas medias",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1677,
+      "end": 1727
+    },
+    {
+      "text": "Perfusión cerebral normal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1730,
+      "end": 1755
+    },
+    {
+      "text": "áreas de hipoperfusión",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1760,
+      "end": 1782
+    },
+    {
+      "text": "circulación extracraneal e intracraneal permeable",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1801,
+      "end": 1850
+    },
+    {
+      "text": "estenosis significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1386,
+      "end": 1410
+    }
+  ]
+}

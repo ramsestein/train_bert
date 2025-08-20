@@ -1,0 +1,107 @@
+{
+  "document_id": "informe_sintetico_20250804195045_14349",
+  "entities": [
+    {
+      "text": "afasia de instauración súbita",
+      "type": "PATOLOGIA",
+      "start": 198,
+      "end": 227
+    },
+    {
+      "text": "sin signos de hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 458,
+      "end": 495
+    },
+    {
+      "text": "ASPECTS 9",
+      "type": "PUNTUACION_CLINICA",
+      "start": 610,
+      "end": 619
+    },
+    {
+      "text": "aumento del tiempo de tránsito medio (TTM)",
+      "type": "PATOLOGIA",
+      "start": 768,
+      "end": 810
+    },
+    {
+      "text": "arteria cerebral media (ACM)",
+      "type": "ARTERIA",
+      "start": 831,
+      "end": 859
+    },
+    {
+      "text": "hemisferio derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 860,
+      "end": 878
+    },
+    {
+      "text": "segmentos M2/M3",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 899,
+      "end": 914
+    },
+    {
+      "text": "volumen cerebral (CBV)",
+      "type": "MEDIDA",
+      "start": 964,
+      "end": 986
+    },
+    {
+      "text": "penumbra isquémica identificable",
+      "type": "PATOLOGIA",
+      "start": 1020,
+      "end": 1052
+    },
+    {
+      "text": "área limitada de infarto establecido",
+      "type": "PATOLOGIA",
+      "start": 1055,
+      "end": 1091
+    },
+    {
+      "text": "Oclusión trombótica evidente en segmento M2 distal derecho",
+      "type": "PATOLOGIA",
+      "start": 1126,
+      "end": 1184
+    },
+    {
+      "text": "ausencia de repleción del contraste en dicho segmento",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1190,
+      "end": 1243
+    },
+    {
+      "text": "arterias cerebrales anteriores y posteriores bilaterales",
+      "type": "ARTERIA",
+      "start": 1326,
+      "end": 1382
+    },
+    {
+      "text": "sin hallazgos patológicos relevantes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1436,
+      "end": 1472
+    },
+    {
+      "text": "TC craneal sin contraste en cortes finos",
+      "type": "TECNICA_IMAGEN",
+      "start": 247,
+      "end": 287
+    },
+    {
+      "text": "estudio de perfusión cerebral con adquisición dinámica tras contraste intravenoso",
+      "type": "TECNICA_IMAGEN",
+      "start": 289,
+      "end": 370
+    },
+    {
+      "text": "Angio-TC arterial intracraneal y extra craneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 372,
+      "end": 418
+    }
+  ]
+}

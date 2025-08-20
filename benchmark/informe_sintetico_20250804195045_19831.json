@@ -1,0 +1,89 @@
+{
+  "document_id": "informe_sintetico_20250804195045_19831",
+  "entities": [
+    {
+      "text": "isquemia",
+      "type": "PATOLOGIA",
+      "start": 993,
+      "end": 1001
+    },
+    {
+      "text": "arteria cerebral media distal",
+      "type": "ARTERIA",
+      "start": 265,
+      "end": 294
+    },
+    {
+      "text": "TC CRANEAL BASAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 460,
+      "end": 476
+    },
+    {
+      "text": "No se identifican hemorragias intra ni extra-axiales.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 478,
+      "end": 531
+    },
+    {
+      "text": "No se observan áreas de hipodensidad aguda ni signos evidentes de edema.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 603,
+      "end": 675
+    },
+    {
+      "text": "ASPECTS 9/10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 676,
+      "end": 688
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 993,
+      "end": 1007
+    },
+    {
+      "text": "arteria cerebral media distal",
+      "type": "ARTERIA",
+      "start": 265,
+      "end": 294
+    },
+    {
+      "text": "oclusión segmentaria en rama M2 de la arteria cerebral media izquierda",
+      "type": "PATOLOGIA",
+      "start": 1093,
+      "end": 1163
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "ARTERIA",
+      "start": 1131,
+      "end": 1163
+    },
+    {
+      "text": "ASPECTS 9",
+      "type": "PUNTUACION_CLINICA",
+      "start": 676,
+      "end": 685
+    },
+    {
+      "text": "sin evidencia de infarto establecido o hemorragia.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1534,
+      "end": 1584
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 993,
+      "end": 1007
+    },
+    {
+      "text": "territorio distal",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1502,
+      "end": 1519
+    }
+  ]
+}

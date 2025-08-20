@@ -1,0 +1,233 @@
+{
+  "document_id": "informe_sintetico_20250804195045_00952",
+  "entities": [
+    {
+      "text": "hemiparesia izquierda",
+      "type": "PATOLOGIA",
+      "start": 197,
+      "end": 218
+    },
+    {
+      "text": "disartria",
+      "type": "PATOLOGIA",
+      "start": 221,
+      "end": 230
+    },
+    {
+      "text": "disección arterial carotídea",
+      "type": "PATOLOGIA",
+      "start": 244,
+      "end": 272
+    },
+    {
+      "text": "infarto cerebral",
+      "type": "PATOLOGIA",
+      "start": 285,
+      "end": 301
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 322,
+      "end": 338
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 354,
+      "end": 375
+    },
+    {
+      "text": "angioTC intra y extracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 378,
+      "end": 406
+    },
+    {
+      "text": "hipodensidad",
+      "type": "PATOLOGIA",
+      "start": 530,
+      "end": 542
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "ARTERIA",
+      "start": 563,
+      "end": 593
+    },
+    {
+      "text": "corteza e núcleo lenticular",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 607,
+      "end": 634
+    },
+    {
+      "text": "infarto establecido",
+      "type": "PATOLOGIA",
+      "start": 652,
+      "end": 671
+    },
+    {
+      "text": "aproximadamente 6 horas",
+      "type": "TEMPORALIDAD",
+      "start": 675,
+      "end": 698
+    },
+    {
+      "text": "signos de hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 728,
+      "end": 761
+    },
+    {
+      "text": "efecto masa significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 765,
+      "end": 790
+    },
+    {
+      "text": "territorio de ACM derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1038,
+      "end": 1063
+    },
+    {
+      "text": "prolongación del tiempo de tránsito medio",
+      "type": "PATOLOGIA",
+      "start": 1069,
+      "end": 1110
+    },
+    {
+      "text": "tiempo hasta el pico",
+      "type": "PATOLOGIA",
+      "start": 1119,
+      "end": 1139
+    },
+    {
+      "text": "área de penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1160,
+      "end": 1186
+    },
+    {
+      "text": "núcleo isquémico",
+      "type": "PATOLOGIA",
+      "start": 1189,
+      "end": 1205
+    },
+    {
+      "text": "signo de doble luz",
+      "type": "PATOLOGIA",
+      "start": 1255,
+      "end": 1273
+    },
+    {
+      "text": "irregularidad y estrangulamiento",
+      "type": "PATOLOGIA",
+      "start": 1278,
+      "end": 1310
+    },
+    {
+      "text": "segmento cervical derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1317,
+      "end": 1342
+    },
+    {
+      "text": "disección arterial",
+      "type": "PATOLOGIA",
+      "start": 244,
+      "end": 262
+    },
+    {
+      "text": "estenosis severa",
+      "type": "PATOLOGIA",
+      "start": 1950,
+      "end": 1966
+    },
+    {
+      "text": "aproximadamente 80%",
+      "type": "MEDIDA",
+      "start": 1426,
+      "end": 1445
+    },
+    {
+      "text": "circulación intracraneal derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1528,
+      "end": 1560
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "ARTERIA",
+      "start": 563,
+      "end": 593
+    },
+    {
+      "text": "disminución de calibre y flujo",
+      "type": "PATOLOGIA",
+      "start": 1605,
+      "end": 1635
+    },
+    {
+      "text": "oclusión segmentaria",
+      "type": "PATOLOGIA",
+      "start": 1651,
+      "end": 1671
+    },
+    {
+      "text": "disección",
+      "type": "PATOLOGIA",
+      "start": 244,
+      "end": 253
+    },
+    {
+      "text": "sistema arterial cerebrovascular permeable",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1709,
+      "end": 1751
+    },
+    {
+      "text": "estenosis relevantes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1756,
+      "end": 1776
+    },
+    {
+      "text": "disección arterial de la arteria carótida interna derecha",
+      "type": "PATOLOGIA",
+      "start": 1867,
+      "end": 1924
+    },
+    {
+      "text": "estenosis severa",
+      "type": "PATOLOGIA",
+      "start": 1950,
+      "end": 1966
+    },
+    {
+      "text": "afectación hemodinámica",
+      "type": "PATOLOGIA",
+      "start": 1969,
+      "end": 1992
+    },
+    {
+      "text": "confirmado en TC basal y perfusión",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2040,
+      "end": 2074
+    },
+    {
+      "text": "área penumbra",
+      "type": "PATOLOGIA",
+      "start": 2093,
+      "end": 2106
+    },
+    {
+      "text": "No hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2108,
+      "end": 2134
+    }
+  ]
+}

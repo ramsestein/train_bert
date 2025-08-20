@@ -1,0 +1,65 @@
+{
+  "document_id": "informe_sintetico_20250804195045_11294",
+  "entities": [
+    {
+      "text": "hemorragia subaracnoidea",
+      "type": "PATOLOGIA",
+      "start": 270,
+      "end": 294
+    },
+    {
+      "text": "cisterna ambiens derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 554,
+      "end": 578
+    },
+    {
+      "text": "aneurisma sacular",
+      "type": "PATOLOGIA",
+      "start": 1144,
+      "end": 1161
+    },
+    {
+      "text": "arteria comunicante posterior derecha",
+      "type": "ARTERIA",
+      "start": 1168,
+      "end": 1205
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 571,
+      "end": 578
+    },
+    {
+      "text": "sin áreas de hipoperfusión significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1007,
+      "end": 1047
+    },
+    {
+      "text": "estudio de perfusión cerebral es normal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1695,
+      "end": 1734
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 315,
+      "end": 331
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 387,
+      "end": 408
+    },
+    {
+      "text": "AngioTC de arterias intracraneales",
+      "type": "TECNICA_IMAGEN",
+      "start": 411,
+      "end": 445
+    }
+  ]
+}

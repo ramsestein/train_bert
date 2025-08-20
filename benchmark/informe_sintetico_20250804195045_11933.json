@@ -1,0 +1,77 @@
+{
+  "document_id": "informe_sintetico_20250804195045_11933",
+  "entities": [
+    {
+      "text": "infarto cerebral",
+      "type": "PATOLOGIA",
+      "start": 267,
+      "end": 283
+    },
+    {
+      "text": "isquemia",
+      "type": "PATOLOGIA",
+      "start": 476,
+      "end": 484
+    },
+    {
+      "text": "regiones parietal bilateral",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 641,
+      "end": 668
+    },
+    {
+      "text": "bilaterales",
+      "type": "LATERALIDAD",
+      "start": 1066,
+      "end": 1077
+    },
+    {
+      "text": "arterias cerebrales anterior y media",
+      "type": "ARTERIA",
+      "start": 1150,
+      "end": 1186
+    },
+    {
+      "text": "bilateral",
+      "type": "LATERALIDAD",
+      "start": 206,
+      "end": 215
+    },
+    {
+      "text": "sin signos de infarto establecido",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2424,
+      "end": 2457
+    },
+    {
+      "text": "hipoperfusión",
+      "type": "PATOLOGIA",
+      "start": 1792,
+      "end": 1805
+    },
+    {
+      "text": "área de riesgo isquémico",
+      "type": "PATOLOGIA",
+      "start": 2037,
+      "end": 2061
+    },
+    {
+      "text": "TC CRANEAL BASAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 516,
+      "end": 532
+    },
+    {
+      "text": "TC PERFUSIÓN",
+      "type": "TECNICA_IMAGEN",
+      "start": 909,
+      "end": 921
+    },
+    {
+      "text": "ANGIO-TC EXTRA E INTRACRANEAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 1405,
+      "end": 1434
+    }
+  ]
+}

@@ -1,0 +1,269 @@
+{
+  "document_id": "informe_sintetico_20250804195045_09460",
+  "entities": [
+    {
+      "text": "hematoma espontáneo",
+      "type": "PATOLOGIA",
+      "start": 448,
+      "end": 467
+    },
+    {
+      "text": "3.5 x 2.8 x 3.0 cm",
+      "type": "MEDIDA",
+      "start": 471,
+      "end": 489
+    },
+    {
+      "text": "núcleo caudado derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 496,
+      "end": 518
+    },
+    {
+      "text": "densidad hiperaguda",
+      "type": "PATOLOGIA",
+      "start": 524,
+      "end": 543
+    },
+    {
+      "text": "edema vasogénico circundante",
+      "type": "PATOLOGIA",
+      "start": 571,
+      "end": 599
+    },
+    {
+      "text": "desviación de línea media",
+      "type": "PATOLOGIA",
+      "start": 610,
+      "end": 635
+    },
+    {
+      "text": "3 mm",
+      "type": "MEDIDA",
+      "start": 674,
+      "end": 678
+    },
+    {
+      "text": "signos de herniación",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 695,
+      "end": 715
+    },
+    {
+      "text": "hemorragia subaracnoidea asociada",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 719,
+      "end": 752
+    },
+    {
+      "text": "región adyacente al hematoma",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 801,
+      "end": 829
+    },
+    {
+      "text": "Sistema ventricular",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 853,
+      "end": 872
+    },
+    {
+      "text": "lado afecto",
+      "type": "LATERALIDAD",
+      "start": 920,
+      "end": 931
+    },
+    {
+      "text": "hidrocefalia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 937,
+      "end": 949
+    },
+    {
+      "text": "Cisternas basales libres",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 951,
+      "end": 975
+    },
+    {
+      "text": "Área focal de hipoperfusión",
+      "type": "PATOLOGIA",
+      "start": 992,
+      "end": 1019
+    },
+    {
+      "text": "territorio de núcleo caudado derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1023,
+      "end": 1059
+    },
+    {
+      "text": "hematoma",
+      "type": "PATOLOGIA",
+      "start": 448,
+      "end": 456
+    },
+    {
+      "text": "disminución marcada del CBV y CBF",
+      "type": "PATOLOGIA",
+      "start": 1093,
+      "end": 1126
+    },
+    {
+      "text": "aumento del TTP y MTT adyacente",
+      "type": "PATOLOGIA",
+      "start": 1130,
+      "end": 1161
+    },
+    {
+      "text": "vasoespasmo o reperfusión alterada",
+      "type": "PATOLOGIA",
+      "start": 1176,
+      "end": 1210
+    },
+    {
+      "text": "hematoma",
+      "type": "PATOLOGIA",
+      "start": 448,
+      "end": 456
+    },
+    {
+      "text": "ateromatosis leve",
+      "type": "PATOLOGIA",
+      "start": 1308,
+      "end": 1325
+    },
+    {
+      "text": "estenosis significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1331,
+      "end": 1354
+    },
+    {
+      "text": "moderada ateromatosis calcificada",
+      "type": "PATOLOGIA",
+      "start": 1378,
+      "end": 1411
+    },
+    {
+      "text": "estenosis crítica",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1445,
+      "end": 1462
+    },
+    {
+      "text": "arterias intracraneales permeables",
+      "type": "PATOLOGIA",
+      "start": 1476,
+      "end": 1510
+    },
+    {
+      "text": "ACAs, ACMs y ACPs",
+      "type": "ARTERIA",
+      "start": 1512,
+      "end": 1529
+    },
+    {
+      "text": "signos de compromiso hemodinámico",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1535,
+      "end": 1568
+    },
+    {
+      "text": "estenosis relevantes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1572,
+      "end": 1592
+    },
+    {
+      "text": "malformaciones vasculares",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1609,
+      "end": 1634
+    },
+    {
+      "text": "aneurismas intracraneales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1638,
+      "end": 1663
+    },
+    {
+      "text": "tamaño moderado",
+      "type": "PATOLOGIA",
+      "start": 1753,
+      "end": 1768
+    },
+    {
+      "text": "leve efecto de masa",
+      "type": "PATOLOGIA",
+      "start": 1773,
+      "end": 1792
+    },
+    {
+      "text": "desviación de línea media",
+      "type": "PATOLOGIA",
+      "start": 610,
+      "end": 635
+    },
+    {
+      "text": "edema vasogénico circundante",
+      "type": "PATOLOGIA",
+      "start": 571,
+      "end": 599
+    },
+    {
+      "text": "signos de herniación",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 695,
+      "end": 715
+    },
+    {
+      "text": "efectos hemodinámicos secundarios al hematoma",
+      "type": "PATOLOGIA",
+      "start": 1930,
+      "end": 1975
+    },
+    {
+      "text": "estenosis ni malformaciones significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2026,
+      "end": 2068
+    },
+    {
+      "text": "Hemorragia intracerebral espontánea",
+      "type": "PATOLOGIA",
+      "start": 2346,
+      "end": 2381
+    },
+    {
+      "text": "núcleo caudado derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 496,
+      "end": 518
+    },
+    {
+      "text": "edema",
+      "type": "PATOLOGIA",
+      "start": 571,
+      "end": 576
+    },
+    {
+      "text": "efecto de masa leve",
+      "type": "PATOLOGIA",
+      "start": 2420,
+      "end": 2439
+    },
+    {
+      "text": "evidencia de malformación vascular",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2445,
+      "end": 2479
+    },
+    {
+      "text": "estenosis arterial significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2483,
+      "end": 2515
+    }
+  ]
+}

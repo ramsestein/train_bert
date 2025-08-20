@@ -1,0 +1,65 @@
+{
+  "document_id": "informe_sintetico_20250804195045_15858",
+  "entities": [
+    {
+      "text": "ictus isquémico",
+      "type": "PATOLOGIA",
+      "start": 230,
+      "end": 245
+    },
+    {
+      "text": "arteria cerebral media (ACM) izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 263,
+      "end": 301
+    },
+    {
+      "text": "ACM",
+      "type": "ARTERIA",
+      "start": 287,
+      "end": 290
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 292,
+      "end": 301
+    },
+    {
+      "text": "infarto agudo",
+      "type": "PATOLOGIA",
+      "start": 641,
+      "end": 654
+    },
+    {
+      "text": "ASPECTS de 6",
+      "type": "PUNTUACION_CLINICA",
+      "start": 663,
+      "end": 675
+    },
+    {
+      "text": "No existen signos de sangrado intra o extraaxial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 723,
+      "end": 771
+    },
+    {
+      "text": "Oclusión completa del segmento proximal M1 de la ACM izquierda",
+      "type": "PATOLOGIA",
+      "start": 1259,
+      "end": 1321
+    },
+    {
+      "text": "ACM izquierda proximal",
+      "type": "ARTERIA",
+      "start": 1741,
+      "end": 1763
+    },
+    {
+      "text": "No se observa hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1799,
+      "end": 1836
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "document_id": "informe_sintetico_20250804195045_19195",
+  "entities": [
+    {
+      "text": "hemiparesia derecha",
+      "type": "PATOLOGIA",
+      "start": 206,
+      "end": 225
+    },
+    {
+      "text": "afasia",
+      "type": "PATOLOGIA",
+      "start": 228,
+      "end": 234
+    },
+    {
+      "text": "ictus isquémico agudo",
+      "type": "PATOLOGIA",
+      "start": 248,
+      "end": 269
+    },
+    {
+      "text": "oclusión vascular",
+      "type": "PATOLOGIA",
+      "start": 554,
+      "end": 571
+    },
+    {
+      "text": "disminución del flujo sanguíneo cerebral",
+      "type": "PATOLOGIA",
+      "start": 644,
+      "end": 684
+    },
+    {
+      "text": "aumento de los tiempos de tránsito",
+      "type": "PATOLOGIA",
+      "start": 693,
+      "end": 727
+    },
+    {
+      "text": "región parietal",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 785,
+      "end": 800
+    },
+    {
+      "text": "temporal izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 803,
+      "end": 821
+    },
+    {
+      "text": "isquemia cerebral",
+      "type": "PATOLOGIA",
+      "start": 1323,
+      "end": 1340
+    },
+    {
+      "text": "ASPECTS",
+      "type": "PUNTUACION_CLINICA",
+      "start": 1052,
+      "end": 1059
+    },
+    {
+      "text": "9",
+      "type": "MEDIDA",
+      "start": 1072,
+      "end": 1073
+    },
+    {
+      "text": "segmentos M2/M3",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1289,
+      "end": 1304
+    },
+    {
+      "text": "isquemia cerebral aguda",
+      "type": "PATOLOGIA",
+      "start": 1693,
+      "end": 1716
+    },
+    {
+      "text": "sin evidencia de sangrado intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1718,
+      "end": 1756
+    },
+    {
+      "text": "oclusión en arteria cerebral media distal izquierda",
+      "type": "PATOLOGIA",
+      "start": 1884,
+      "end": 1935
+    },
+    {
+      "text": "M2/M3",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1299,
+      "end": 1304
+    },
+    {
+      "text": "permeabilidad conservada en segmentos proximales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1948,
+      "end": 1996
+    },
+    {
+      "text": "TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANG IOTC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 72,
+      "end": 140
+    },
+    {
+      "text": "TC craneal basal urgente",
+      "type": "TECNICA_IMAGEN",
+      "start": 290,
+      "end": 314
+    },
+    {
+      "text": "estudio de perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 317,
+      "end": 346
+    },
+    {
+      "text": "angiografía por TC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 349,
+      "end": 389
+    }
+  ]
+}

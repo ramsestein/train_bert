@@ -1,0 +1,83 @@
+{
+  "document_id": "informe_sintetico_20250804195045_06261",
+  "entities": [
+    {
+      "text": "hematoma lobar parietal izquierdo",
+      "type": "PATOLOGIA",
+      "start": 594,
+      "end": 627
+    },
+    {
+      "text": "3.5 cm x 2.8 cm x 2.2 cm",
+      "type": "MEDIDA",
+      "start": 647,
+      "end": 671
+    },
+    {
+      "text": "izquierdo",
+      "type": "LATERALIDAD",
+      "start": 618,
+      "end": 627
+    },
+    {
+      "text": "4 mm",
+      "type": "MEDIDA",
+      "start": 781,
+      "end": 785
+    },
+    {
+      "text": "hipoperfusión perifocal",
+      "type": "PATOLOGIA",
+      "start": 1064,
+      "end": 1087
+    },
+    {
+      "text": "edema vasogénico",
+      "type": "PATOLOGIA",
+      "start": 1106,
+      "end": 1122
+    },
+    {
+      "text": "sin datos de isquemia cortical distal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1148,
+      "end": 1185
+    },
+    {
+      "text": "sin lesiones vasculares responsables ni estenosis significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1789,
+      "end": 1853
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 429,
+      "end": 445
+    },
+    {
+      "text": "estudio de perfusión cerebral dinámica",
+      "type": "TECNICA_IMAGEN",
+      "start": 472,
+      "end": 510
+    },
+    {
+      "text": "angio-TC de vasos intracraneales",
+      "type": "TECNICA_IMAGEN",
+      "start": 513,
+      "end": 545
+    },
+    {
+      "text": "angio-TC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 1315,
+      "end": 1345
+    },
+    {
+      "text": "sin signos de trombosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1509,
+      "end": 1532
+    }
+  ]
+}

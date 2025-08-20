@@ -1,0 +1,221 @@
+{
+  "document_id": "informe_sintetico_20250804195045_15871",
+  "entities": [
+    {
+      "text": "isquemia cerebral reciente",
+      "type": "PATOLOGIA",
+      "start": 208,
+      "end": 234
+    },
+    {
+      "text": "fibrilación auricular",
+      "type": "PATOLOGIA",
+      "start": 265,
+      "end": 286
+    },
+    {
+      "text": "enfermedad vascular periférica",
+      "type": "PATOLOGIA",
+      "start": 289,
+      "end": 319
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 532,
+      "end": 555
+    },
+    {
+      "text": "masa expansiva",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 559,
+      "end": 573
+    },
+    {
+      "text": "focos hipodensos recientes",
+      "type": "PATOLOGIA",
+      "start": 597,
+      "end": 623
+    },
+    {
+      "text": "parieto-occipital derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 691,
+      "end": 716
+    },
+    {
+      "text": "frontal izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 719,
+      "end": 736
+    },
+    {
+      "text": "lesiones isquémicas agudas",
+      "type": "PATOLOGIA",
+      "start": 752,
+      "end": 778
+    },
+    {
+      "text": "ASPECTS global aproximado 7",
+      "type": "PUNTUACION_CLINICA",
+      "start": 780,
+      "end": 807
+    },
+    {
+      "text": "Sistema ventricular normotrófico",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 882,
+      "end": 914
+    },
+    {
+      "text": "tiempo de tránsito (TTP)",
+      "type": "TECNICA_IMAGEN",
+      "start": 942,
+      "end": 966
+    },
+    {
+      "text": "tiempo hasta el pico (TTPe)",
+      "type": "TECNICA_IMAGEN",
+      "start": 969,
+      "end": 996
+    },
+    {
+      "text": "parieto-occipital derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 691,
+      "end": 716
+    },
+    {
+      "text": "temporal izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1055,
+      "end": 1073
+    },
+    {
+      "text": "lóbulo frontal bilateral",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1086,
+      "end": 1110
+    },
+    {
+      "text": "flujo cerebral (CBF)",
+      "type": "PATOLOGIA",
+      "start": 1153,
+      "end": 1173
+    },
+    {
+      "text": "volumen cerebral (CBV)",
+      "type": "PATOLOGIA",
+      "start": 1180,
+      "end": 1202
+    },
+    {
+      "text": "infartos isquémicos agudos",
+      "type": "PATOLOGIA",
+      "start": 1235,
+      "end": 1261
+    },
+    {
+      "text": "penumbra isquémica en evolución",
+      "type": "PATOLOGIA",
+      "start": 1373,
+      "end": 1404
+    },
+    {
+      "text": "defectos de repleción",
+      "type": "PATOLOGIA",
+      "start": 1456,
+      "end": 1477
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "ARTERIA",
+      "start": 1542,
+      "end": 1574
+    },
+    {
+      "text": "arteria cerebral posterior derecha",
+      "type": "ARTERIA",
+      "start": 1577,
+      "end": 1611
+    },
+    {
+      "text": "estenosis críticas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1628,
+      "end": 1646
+    },
+    {
+      "text": "disección arterial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1650,
+      "end": 1668
+    },
+    {
+      "text": "Ateromatosis leve",
+      "type": "PATOLOGIA",
+      "start": 1670,
+      "end": 1687
+    },
+    {
+      "text": "Sistema vertebrobasilar permeable",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1728,
+      "end": 1761
+    },
+    {
+      "text": "lesiones isquémicas agudas multiterritoriales",
+      "type": "PATOLOGIA",
+      "start": 1803,
+      "end": 1848
+    },
+    {
+      "text": "parieto-occipital derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1864,
+      "end": 1889
+    },
+    {
+      "text": "temporal izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1891,
+      "end": 1909
+    },
+    {
+      "text": "frontal bilateral",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1093,
+      "end": 1110
+    },
+    {
+      "text": "flujo y volumen cerebral compatibles con infartos en evolución",
+      "type": "PATOLOGIA",
+      "start": 2004,
+      "end": 2066
+    },
+    {
+      "text": "áreas con posible penumbra",
+      "type": "PATOLOGIA",
+      "start": 2069,
+      "end": 2095
+    },
+    {
+      "text": "eventos isquémicos múltiples",
+      "type": "PATOLOGIA",
+      "start": 2181,
+      "end": 2209
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 532,
+      "end": 555
+    },
+    {
+      "text": "causas vasculares mayores obstructivas significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2258,
+      "end": 2311
+    }
+  ]
+}

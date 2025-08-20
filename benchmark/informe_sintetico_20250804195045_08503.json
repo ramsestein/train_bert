@@ -1,0 +1,113 @@
+{
+  "document_id": "informe_sintetico_20250804195045_08503",
+  "entities": [
+    {
+      "text": "infarto cerebral",
+      "type": "PATOLOGIA",
+      "start": 300,
+      "end": 316
+    },
+    {
+      "text": "hipoperfusión",
+      "type": "PATOLOGIA",
+      "start": 321,
+      "end": 334
+    },
+    {
+      "text": "bilateral",
+      "type": "LATERALIDAD",
+      "start": 205,
+      "end": 214
+    },
+    {
+      "text": "frontal",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 826,
+      "end": 833
+    },
+    {
+      "text": "parietal",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 813,
+      "end": 821
+    },
+    {
+      "text": "aumento del tiempo hasta el pico (TTP)",
+      "type": "PATOLOGIA",
+      "start": 1068,
+      "end": 1106
+    },
+    {
+      "text": "tiempo medio de tránsito (MTT)",
+      "type": "PATOLOGIA",
+      "start": 1109,
+      "end": 1139
+    },
+    {
+      "text": "arteria cerebral media",
+      "type": "ARTERIA",
+      "start": 1192,
+      "end": 1214
+    },
+    {
+      "text": "arteria cerebral anterior",
+      "type": "ARTERIA",
+      "start": 1220,
+      "end": 1245
+    },
+    {
+      "text": "arteria cerebral posterior",
+      "type": "ARTERIA",
+      "start": 1293,
+      "end": 1319
+    },
+    {
+      "text": "watershed",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1359,
+      "end": 1368
+    },
+    {
+      "text": "bilaterales",
+      "type": "LATERALIDAD",
+      "start": 851,
+      "end": 862
+    },
+    {
+      "text": "sin imagen infartada definida en TC basal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1896,
+      "end": 1937
+    },
+    {
+      "text": "sin alteraciones significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1704,
+      "end": 1735
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 400,
+      "end": 416
+    },
+    {
+      "text": "angiografía por TC",
+      "type": "TECNICA_IMAGEN",
+      "start": 473,
+      "end": 491
+    },
+    {
+      "text": "TC PERFUSIÓN",
+      "type": "TECNICA_IMAGEN",
+      "start": 993,
+      "end": 1005
+    },
+    {
+      "text": "TC basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 1515,
+      "end": 1523
+    }
+  ]
+}

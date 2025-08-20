@@ -1,0 +1,131 @@
+{
+  "document_id": "informe_sintetico_20250804195045_19044",
+  "entities": [
+    {
+      "text": "hipodensidades",
+      "type": "PATOLOGIA",
+      "start": 436,
+      "end": 450
+    },
+    {
+      "text": "inflamación",
+      "type": "PATOLOGIA",
+      "start": 463,
+      "end": 474
+    },
+    {
+      "text": "infarto agudo",
+      "type": "PATOLOGIA",
+      "start": 477,
+      "end": 490
+    },
+    {
+      "text": "colecciones hemorrágicas",
+      "type": "PATOLOGIA",
+      "start": 507,
+      "end": 531
+    },
+    {
+      "text": "sangrado subaracnoideo",
+      "type": "PATOLOGIA",
+      "start": 567,
+      "end": 589
+    },
+    {
+      "text": "hidrocefalia",
+      "type": "PATOLOGIA",
+      "start": 677,
+      "end": 689
+    },
+    {
+      "text": "desplazamiento de línea media",
+      "type": "PATOLOGIA",
+      "start": 692,
+      "end": 721
+    },
+    {
+      "text": "fracturas",
+      "type": "PATOLOGIA",
+      "start": 795,
+      "end": 804
+    },
+    {
+      "text": "lesiones óseas",
+      "type": "PATOLOGIA",
+      "start": 807,
+      "end": 821
+    },
+    {
+      "text": "hipoperfusión",
+      "type": "PATOLOGIA",
+      "start": 979,
+      "end": 992
+    },
+    {
+      "text": "isquemia territorial",
+      "type": "PATOLOGIA",
+      "start": 996,
+      "end": 1016
+    },
+    {
+      "text": "arterias intracraneales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1048,
+      "end": 1071
+    },
+    {
+      "text": "estenosis",
+      "type": "PATOLOGIA",
+      "start": 1087,
+      "end": 1096
+    },
+    {
+      "text": "placas ateromatosas significativas",
+      "type": "PATOLOGIA",
+      "start": 1100,
+      "end": 1134
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 1136,
+      "end": 1146
+    },
+    {
+      "text": "TC craneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 252,
+      "end": 262
+    },
+    {
+      "text": "perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 292,
+      "end": 310
+    },
+    {
+      "text": "angiografía por TC",
+      "type": "TECNICA_IMAGEN",
+      "start": 1021,
+      "end": 1039
+    },
+    {
+      "text": "sin hallazgos agudos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1200,
+      "end": 1220
+    },
+    {
+      "text": "normales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 653,
+      "end": 661
+    },
+    {
+      "text": "lesiones isquémicas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1296,
+      "end": 1315
+    }
+  ]
+}

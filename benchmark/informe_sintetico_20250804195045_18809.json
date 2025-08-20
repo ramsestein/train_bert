@@ -1,0 +1,137 @@
+{
+  "document_id": "informe_sintetico_20250804195045_18809",
+  "entities": [
+    {
+      "text": "infarto cerebral hemisférico izquierdo",
+      "type": "PATOLOGIA",
+      "start": 203,
+      "end": 241
+    },
+    {
+      "text": "deterioro neurológico agudo",
+      "type": "PATOLOGIA",
+      "start": 252,
+      "end": 279
+    },
+    {
+      "text": "infarto isquémico subagudo",
+      "type": "PATOLOGIA",
+      "start": 587,
+      "end": 613
+    },
+    {
+      "text": "transformación hemorrágica tipo PH1",
+      "type": "PATOLOGIA",
+      "start": 711,
+      "end": 746
+    },
+    {
+      "text": "hemorragias petequiales dispersas",
+      "type": "PATOLOGIA",
+      "start": 757,
+      "end": 790
+    },
+    {
+      "text": "hemorragia intraventricular",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 807,
+      "end": 834
+    },
+    {
+      "text": "sangrado extraaxial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 838,
+      "end": 857
+    },
+    {
+      "text": "edema leve",
+      "type": "PATOLOGIA",
+      "start": 903,
+      "end": 913
+    },
+    {
+      "text": "disminución del flujo cerebral (CBF)",
+      "type": "PATOLOGIA",
+      "start": 1097,
+      "end": 1133
+    },
+    {
+      "text": "aumento del tiempo de tránsito medio (MTT)",
+      "type": "PATOLOGIA",
+      "start": 1166,
+      "end": 1208
+    },
+    {
+      "text": "reducción del volumen cerebral (CBV)",
+      "type": "PATOLOGIA",
+      "start": 1211,
+      "end": 1247
+    },
+    {
+      "text": "lesión penumbra residual",
+      "type": "PATOLOGIA",
+      "start": 1311,
+      "end": 1335
+    },
+    {
+      "text": "Oclusión parcial o recanalización incompleta",
+      "type": "PATOLOGIA",
+      "start": 1372,
+      "end": 1416
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "ARTERIA",
+      "start": 539,
+      "end": 571
+    },
+    {
+      "text": "hemisferio izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1140,
+      "end": 1160
+    },
+    {
+      "text": "hemisferio cerebral izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1815,
+      "end": 1844
+    },
+    {
+      "text": "ACM izquierda",
+      "type": "ARTERIA",
+      "start": 2020,
+      "end": 2033
+    },
+    {
+      "text": "TC craneal basal urgente",
+      "type": "TECNICA_IMAGEN",
+      "start": 300,
+      "end": 324
+    },
+    {
+      "text": "estudio de perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 343,
+      "end": 372
+    },
+    {
+      "text": "angiografía por TC intra y extracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 375,
+      "end": 414
+    },
+    {
+      "text": "TC PERFUSIÓN",
+      "type": "TECNICA_IMAGEN",
+      "start": 1053,
+      "end": 1065
+    },
+    {
+      "text": "ANGIO-TC EXTRA E INTRACRANEAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 1339,
+      "end": 1368
+    }
+  ]
+}

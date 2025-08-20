@@ -1,0 +1,77 @@
+{
+  "document_id": "informe_sintetico_20250804195045_19222",
+  "entities": [
+    {
+      "text": "edema cerebral difuso",
+      "type": "PATOLOGIA",
+      "start": 409,
+      "end": 430
+    },
+    {
+      "text": "región parasagital",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 551,
+      "end": 569
+    },
+    {
+      "text": "córtex frontal",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 572,
+      "end": 586
+    },
+    {
+      "text": "parietal bilateral",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 589,
+      "end": 607
+    },
+    {
+      "text": "volumen cerebral sanguíneo (CBV)",
+      "type": "MEDIDA",
+      "start": 702,
+      "end": 734
+    },
+    {
+      "text": "tiempos de tránsito (TTP y Tmax)",
+      "type": "MEDIDA",
+      "start": 752,
+      "end": 784
+    },
+    {
+      "text": "hipoperfusión global",
+      "type": "PATOLOGIA",
+      "start": 800,
+      "end": 820
+    },
+    {
+      "text": "encefalopatía hipóxico-isquémica global",
+      "type": "PATOLOGIA",
+      "start": 1188,
+      "end": 1227
+    },
+    {
+      "text": "edema cerebral difuso",
+      "type": "PATOLOGIA",
+      "start": 409,
+      "end": 430
+    },
+    {
+      "text": "alteraciones de perfusión generalizadas",
+      "type": "PATOLOGIA",
+      "start": 1257,
+      "end": 1296
+    },
+    {
+      "text": "sin evidencia de infarto focal ni hemorragia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1297,
+      "end": 1341
+    },
+    {
+      "text": "TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANG IOTC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 72,
+      "end": 140
+    }
+  ]
+}

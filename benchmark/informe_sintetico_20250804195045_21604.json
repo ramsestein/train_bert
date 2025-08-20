@@ -1,0 +1,179 @@
+{
+  "document_id": "informe_sintetico_20250804195045_21604",
+  "entities": [
+    {
+      "text": "isquémico agudo",
+      "type": "PATOLOGIA",
+      "start": 220,
+      "end": 235
+    },
+    {
+      "text": "múltiples territorios cerebrales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 239,
+      "end": 271
+    },
+    {
+      "text": "TC craneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 292,
+      "end": 302
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 467,
+      "end": 490
+    },
+    {
+      "text": "infarto agudo",
+      "type": "PATOLOGIA",
+      "start": 514,
+      "end": 527
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 529,
+      "end": 539
+    },
+    {
+      "text": "oedema cerebral significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 584,
+      "end": 613
+    },
+    {
+      "text": "múltiples áreas",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 790,
+      "end": 805
+    },
+    {
+      "text": "tiempo de tránsito medio (MTT)",
+      "type": "MEDIDA",
+      "start": 827,
+      "end": 857
+    },
+    {
+      "text": "flujo cerebral sanguíneo (CBF)",
+      "type": "MEDIDA",
+      "start": 874,
+      "end": 904
+    },
+    {
+      "text": "bilaterales frontales, parietales y temporales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 947,
+      "end": 993
+    },
+    {
+      "text": "volumen cerebral sanguíneo (CBV)",
+      "type": "MEDIDA",
+      "start": 1024,
+      "end": 1056
+    },
+    {
+      "text": "penumbra isquémica múltiple territorial",
+      "type": "PATOLOGIA",
+      "start": 1100,
+      "end": 1139
+    },
+    {
+      "text": "oclusión segmentaria",
+      "type": "PATOLOGIA",
+      "start": 1160,
+      "end": 1180
+    },
+    {
+      "text": "arteria cerebral media derecha (M2)",
+      "type": "ARTERIA",
+      "start": 1208,
+      "end": 1243
+    },
+    {
+      "text": "ramas distales de la arteria cerebral media izquierda (M3)",
+      "type": "ARTERIA",
+      "start": 1249,
+      "end": 1307
+    },
+    {
+      "text": "estenosis significativa en la arteria cerebral posterior derecha (P2)",
+      "type": "ARTERIA",
+      "start": 1331,
+      "end": 1400
+    },
+    {
+      "text": "arterias cerebelosas superiores",
+      "type": "ARTERIA",
+      "start": 1406,
+      "end": 1437
+    },
+    {
+      "text": "polígono de Willis",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1442,
+      "end": 1460
+    },
+    {
+      "text": "permeabilidad parcial",
+      "type": "PATOLOGIA",
+      "start": 1470,
+      "end": 1491
+    },
+    {
+      "text": "flujo disminuido en las ramas afectadas",
+      "type": "PATOLOGIA",
+      "start": 1496,
+      "end": 1535
+    },
+    {
+      "text": "trombos en carótidas internas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1555,
+      "end": 1584
+    },
+    {
+      "text": "aneurismas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1623,
+      "end": 1633
+    },
+    {
+      "text": "malformaciones vasculares",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1637,
+      "end": 1662
+    },
+    {
+      "text": "isquemia aguda multiterritorial",
+      "type": "PATOLOGIA",
+      "start": 1712,
+      "end": 1743
+    },
+    {
+      "text": "penumbra",
+      "type": "PATOLOGIA",
+      "start": 1100,
+      "end": 1108
+    },
+    {
+      "text": "arteria cerebral posterior derecha",
+      "type": "ARTERIA",
+      "start": 1361,
+      "end": 1395
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 467,
+      "end": 490
+    },
+    {
+      "text": "edema cerebral significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 585,
+      "end": 613
+    }
+  ]
+}

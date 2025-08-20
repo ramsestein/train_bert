@@ -1,0 +1,113 @@
+{
+  "document_id": "informe_sintetico_20250804195045_01108",
+  "entities": [
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 281,
+      "end": 295
+    },
+    {
+      "text": "arteria cerebral posterior izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 313,
+      "end": 349
+    },
+    {
+      "text": "hemicuerpo derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 203,
+      "end": 221
+    },
+    {
+      "text": "arteria cerebral posterior (ACP)",
+      "type": "ARTERIA",
+      "start": 674,
+      "end": 706
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 340,
+      "end": 349
+    },
+    {
+      "text": "30%",
+      "type": "MEDIDA",
+      "start": 1247,
+      "end": 1250
+    },
+    {
+      "text": "aguda",
+      "type": "TEMPORALIDAD",
+      "start": 290,
+      "end": 295
+    },
+    {
+      "text": "Oclusión aguda",
+      "type": "PATOLOGIA",
+      "start": 1717,
+      "end": 1731
+    },
+    {
+      "text": "segmento P2",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1334,
+      "end": 1345
+    },
+    {
+      "text": "arteria cerebral posterior izquierda",
+      "type": "ARTERIA",
+      "start": 313,
+      "end": 349
+    },
+    {
+      "text": "hemorragia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 525,
+      "end": 535
+    },
+    {
+      "text": "No se identifican hemorragias intra ni extraaxiales.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 507,
+      "end": 559
+    },
+    {
+      "text": "No se observan signos de efecto masa ni desplazamiento de línea media.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 718,
+      "end": 788
+    },
+    {
+      "text": "sin estenosis significativas.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1490,
+      "end": 1519
+    },
+    {
+      "text": "sin hallazgos patológicos adicionales.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1548,
+      "end": 1586
+    },
+    {
+      "text": "TC craneal basal sin contraste",
+      "type": "TECNICA_IMAGEN",
+      "start": 370,
+      "end": 400
+    },
+    {
+      "text": "angioTC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 403,
+      "end": 432
+    },
+    {
+      "text": "TC perfusión cerebral urgente",
+      "type": "TECNICA_IMAGEN",
+      "start": 435,
+      "end": 464
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "document_id": "informe_sintetico_20250804195045_19517",
+  "entities": [
+    {
+      "text": "hemorragia intraparenquimatosa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 401,
+      "end": 431
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 555,
+      "end": 569
+    },
+    {
+      "text": "cambios crónicos de gliosis",
+      "type": "PATOLOGIA",
+      "start": 818,
+      "end": 845
+    },
+    {
+      "text": "enfermedad de pequeño vaso",
+      "type": "PATOLOGIA",
+      "start": 848,
+      "end": 874
+    },
+    {
+      "text": "estenosis",
+      "type": "PATOLOGIA",
+      "start": 892,
+      "end": 901
+    },
+    {
+      "text": "oclusiones",
+      "type": "PATOLOGIA",
+      "start": 905,
+      "end": 915
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 1063,
+      "end": 1073
+    },
+    {
+      "text": "lesión aguda",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1162,
+      "end": 1174
+    },
+    {
+      "text": "enfermedad de pequeño vaso",
+      "type": "PATOLOGIA",
+      "start": 848,
+      "end": 874
+    },
+    {
+      "text": "estenosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 892,
+      "end": 901
+    },
+    {
+      "text": "Perfusión cerebral conservada",
+      "type": "PATOLOGIA",
+      "start": 1364,
+      "end": 1393
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 240,
+      "end": 256
+    },
+    {
+      "text": "perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 261,
+      "end": 279
+    },
+    {
+      "text": "angio-TC intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 282,
+      "end": 303
+    },
+    {
+      "text": "reconstrucciones multiplanares",
+      "type": "TECNICA_IMAGEN",
+      "start": 320,
+      "end": 350
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "document_id": "informe_sintetico_20250804195045_16417",
+  "entities": [
+    {
+      "text": "accidente isquémico",
+      "type": "PATOLOGIA",
+      "start": 243,
+      "end": 262
+    },
+    {
+      "text": "hemorragia intra ni extraaxial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 470,
+      "end": 500
+    },
+    {
+      "text": "gliosis",
+      "type": "PATOLOGIA",
+      "start": 595,
+      "end": 602
+    },
+    {
+      "text": "encefalomalacia crónica",
+      "type": "PATOLOGIA",
+      "start": 610,
+      "end": 633
+    },
+    {
+      "text": "periventricular frontal izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 644,
+      "end": 677
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 707,
+      "end": 717
+    },
+    {
+      "text": "hipoperfusión aguda",
+      "type": "PATOLOGIA",
+      "start": 881,
+      "end": 900
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 1034,
+      "end": 1048
+    },
+    {
+      "text": "ACA, ACM, ACP",
+      "type": "ARTERIA",
+      "start": 1370,
+      "end": 1383
+    },
+    {
+      "text": "sin estenosis ni oclusiones",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1717,
+      "end": 1744
+    },
+    {
+      "text": "TC craneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 290,
+      "end": 300
+    },
+    {
+      "text": "perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 308,
+      "end": 326
+    },
+    {
+      "text": "angiografía por TC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 329,
+      "end": 369
+    },
+    {
+      "text": "angiográfico intracraneal y extracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 1676,
+      "end": 1716
+    }
+  ]
+}

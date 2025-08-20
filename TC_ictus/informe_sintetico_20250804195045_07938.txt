@@ -1,0 +1,38 @@
+UO_PACN (Unidad Organizativa Médica): RADIO
+
+PRUEB (Prueba solicitada): TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANG IOTC ARTERIAL INTRACRANEAL)
+
+CLIN (Resumen clínico): Paciente con deterioro neurológico súbito. Sospecha de hemorragia cerebral con posible extensión intraventricular secundaria a traumatismo craneoencefálico.
+
+OBSR (Protocolo): Protocolo Código Ictus: TC craneal basal urgente + TC perfusión cerebral + AngioTC arterial intra y extracraneal.
+
+RESL (Resultados):
+
+TC CRANEAL BASAL:
+Se evidencia hemorragia intraventricular en los ventrículos laterales bilateralmente, con mayor concentración en el ventrículo lateral derecho. Se observa extensión hemática hacia el tercer y cuarto ventrículo. Pequeña cantidad de hemorragia subependimaria circundante. No se identifican hematomas parenquimatosos evidentes. Estructuras de la línea media ligeramente desplazadas hacia la izquierda, sugiriendo efecto masa leve-moderado. Signos iniciales de hidrocefalia obstructiva con dilatación de sistema ventricular supratentorial. Parénquima cerebral sin infartos agudos visibles. No se aprecian signos de fractura craneal.
+
+TC PERFUSIÓN:
+Disminución leve del flujo cerebral (CBF) en el territorio frontal derecho adyacente al ventrículo lateral, sin clara área de penumbra isquémica. Aumento del tiempo de tránsito medio (MTT) en zonas periventriculares derechas. Volumen cerebral preservado en general.
+
+ANGIO-TC EXTRA E INTRACRANEAL:
+No se identifican signos de aneurismas ni malformaciones vasculares. Arterias cerebrales principales permeables sin estenosis significativas. Presencia de ateromatosis leve en segmentación de arterias carótidas internas cervicales sin repercusión. Sistema vertebrobasilar permeable. No se observan signos de trombosis arterial intracraneal.
+
+CONCL (Conclusiones):
+- Hemorragia intraventricular bilateral con mayor afectación en ventrículo lateral derecho, con extensión a tercer y cuarto ventrículo.
+- Leve efecto masa con desplazamiento de línea media.
+- Signos de hidrocefalia obstructiva incipiente.
+- Ausencia de hemorragia parenquimatosa significativa o aneurismas vasculares visibles.
+- Perfusión cerebral sin evidencia de área isquémica establecida.
+- Principales vasos arteriales intracraneales permeables sin estenosis ni trombosis.
+
+ACTI_ADICI (Actividad adicional): Seguimiento clínico y neurológico urgente para evaluación de necesidad de derivación ventricular o tratamiento quirúrgico.
+
+DKTXT (Descripció): TC craneal urgente para valoración de hemorragia intraventricular secundaria y perfusión cerebral.
+
+ICON (Estudio): @RADIO_TC@  
+
+X00DIATXT (Texto del diagnóstico ACR): Hemorragia intraventricular bilateral con extensión a tercer y cuarto ventrículo, sin hemorragia parenquimatosa visible. Hidrocefalia obstructiva inicial. Ausencia de aneurismas o malformaciones vasculares.
+
+EST_T_DES (Descripción): TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANGIOTC ARTERIAL INTRACRANEAL)
+
+ZVASOS_D (Der.): Informe generado por radiólogo experto.

@@ -1,0 +1,89 @@
+{
+  "document_id": "informe_sintetico_20250804195045_12506",
+  "entities": [
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 296,
+      "end": 310
+    },
+    {
+      "text": "arteria cerebral posterior derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 328,
+      "end": 362
+    },
+    {
+      "text": "arteria cerebral posterior derecha",
+      "type": "ARTERIA",
+      "start": 328,
+      "end": 362
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 267,
+      "end": 274
+    },
+    {
+      "text": "aumento del tiempo de tránsito del contraste (TTP)",
+      "type": "PATOLOGIA",
+      "start": 969,
+      "end": 1019
+    },
+    {
+      "text": "disminución del volumen sanguíneo cerebral (CBV)",
+      "type": "PATOLOGIA",
+      "start": 1173,
+      "end": 1221
+    },
+    {
+      "text": "mínimo",
+      "type": "MEDIDA",
+      "start": 1225,
+      "end": 1231
+    },
+    {
+      "text": "ausencia de infarto establecido significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1244,
+      "end": 1289
+    },
+    {
+      "text": "arteria cerebral posterior derecha",
+      "type": "ARTERIA",
+      "start": 328,
+      "end": 362
+    },
+    {
+      "text": "ACAs, ACMs, ACPs izquierdas, sistema vertebrobasilar",
+      "type": "ARTERIA",
+      "start": 1438,
+      "end": 1490
+    },
+    {
+      "text": "sin infarto establecido",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1744,
+      "end": 1767
+    },
+    {
+      "text": "TC craneal basal sin contraste",
+      "type": "TECNICA_IMAGEN",
+      "start": 383,
+      "end": 413
+    },
+    {
+      "text": "estudio de perfusión cerebral (CBF, CBV, TTP)",
+      "type": "TECNICA_IMAGEN",
+      "start": 415,
+      "end": 460
+    },
+    {
+      "text": "AngioTC extra e intracraneal con reconstrucciones 3D",
+      "type": "TECNICA_IMAGEN",
+      "start": 463,
+      "end": 515
+    }
+  ]
+}

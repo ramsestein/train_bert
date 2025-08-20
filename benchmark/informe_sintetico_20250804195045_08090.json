@@ -1,0 +1,101 @@
+{
+  "document_id": "informe_sintetico_20250804195045_08090",
+  "entities": [
+    {
+      "text": "isquemia vertebrobasilar",
+      "type": "PATOLOGIA",
+      "start": 250,
+      "end": 274
+    },
+    {
+      "text": "hipodensidad",
+      "type": "PATOLOGIA",
+      "start": 538,
+      "end": 550
+    },
+    {
+      "text": "lesión isquémica incipiente",
+      "type": "PATOLOGIA",
+      "start": 653,
+      "end": 680
+    },
+    {
+      "text": "isquémica",
+      "type": "PATOLOGIA",
+      "start": 660,
+      "end": 669
+    },
+    {
+      "text": "bulbo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 609,
+      "end": 614
+    },
+    {
+      "text": "protuberancia",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 617,
+      "end": 630
+    },
+    {
+      "text": "territorio vertebrobasilar",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 912,
+      "end": 938
+    },
+    {
+      "text": "arteria basilar proximal",
+      "type": "ARTERIA",
+      "start": 1237,
+      "end": 1261
+    },
+    {
+      "text": "segmento distal derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1407,
+      "end": 1430
+    },
+    {
+      "text": "aguda",
+      "type": "TEMPORALIDAD",
+      "start": 1568,
+      "end": 1573
+    },
+    {
+      "text": "reducción del flujo sanguíneo cerebral (CBF)",
+      "type": "MEDIDA",
+      "start": 957,
+      "end": 1001
+    },
+    {
+      "text": "volumen cerebral sanguíneo (CBV)",
+      "type": "MEDIDA",
+      "start": 1004,
+      "end": 1036
+    },
+    {
+      "text": "patrón de perfusión compatible",
+      "type": "PATOLOGIA",
+      "start": 1751,
+      "end": 1781
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 295,
+      "end": 311
+    },
+    {
+      "text": "angio-TC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 328,
+      "end": 358
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 361,
+      "end": 382
+    }
+  ]
+}

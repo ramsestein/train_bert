@@ -1,0 +1,71 @@
+{
+  "document_id": "informe_sintetico_20250804195045_24777",
+  "entities": [
+    {
+      "text": "isquemia cerebral aguda",
+      "type": "PATOLOGIA",
+      "start": 295,
+      "end": 318
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "PATOLOGIA",
+      "start": 556,
+      "end": 579
+    },
+    {
+      "text": "infarto agudo",
+      "type": "PATOLOGIA",
+      "start": 583,
+      "end": 596
+    },
+    {
+      "text": "isquemia",
+      "type": "PATOLOGIA",
+      "start": 295,
+      "end": 303
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 997,
+      "end": 1007
+    },
+    {
+      "text": "arterias intracraneales",
+      "type": "ARTERIA",
+      "start": 1535,
+      "end": 1558
+    },
+    {
+      "text": "sin estenosis ni trombosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1165,
+      "end": 1191
+    },
+    {
+      "text": "sin hallazgos de hemorragia ni isquemia cerebral aguda",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1385,
+      "end": 1439
+    },
+    {
+      "text": "sin alteraciones significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1462,
+      "end": 1493
+    },
+    {
+      "text": "sin estenosis ni oclusiones",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1504,
+      "end": 1531
+    },
+    {
+      "text": "sin evidencia de patología obstructiva",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2062,
+      "end": 2100
+    }
+  ]
+}

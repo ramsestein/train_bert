@@ -1,0 +1,101 @@
+{
+  "document_id": "informe_sintetico_20250804195045_20319",
+  "entities": [
+    {
+      "text": "hemorragia aguda",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 615,
+      "end": 631
+    },
+    {
+      "text": "infarto establecido",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 696,
+      "end": 715
+    },
+    {
+      "text": "ASPECTS 10/10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 764,
+      "end": 777
+    },
+    {
+      "text": "hipoperfusión severa",
+      "type": "PATOLOGIA",
+      "start": 1092,
+      "end": 1112
+    },
+    {
+      "text": "infartado en evolución",
+      "type": "PATOLOGIA",
+      "start": 1197,
+      "end": 1219
+    },
+    {
+      "text": "Oclusión completa",
+      "type": "PATOLOGIA",
+      "start": 1256,
+      "end": 1273
+    },
+    {
+      "text": "arteria basilar",
+      "type": "ARTERIA",
+      "start": 1302,
+      "end": 1317
+    },
+    {
+      "text": "territorio vertebrobasilar",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 327,
+      "end": 353
+    },
+    {
+      "text": "tronco encefálico",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1039,
+      "end": 1056
+    },
+    {
+      "text": "cerebelo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1059,
+      "end": 1067
+    },
+    {
+      "text": "territorio troncoencefálico",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1760,
+      "end": 1787
+    },
+    {
+      "text": "territorio distal a la oclusión",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1564,
+      "end": 1595
+    },
+    {
+      "text": "agudo",
+      "type": "TEMPORALIDAD",
+      "start": 1896,
+      "end": 1901
+    },
+    {
+      "text": "TC craneal urgente basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 374,
+      "end": 398
+    },
+    {
+      "text": "TC de perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 400,
+      "end": 424
+    },
+    {
+      "text": "angio-TC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 427,
+      "end": 457
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "document_id": "informe_sintetico_20250804195045_22121",
+  "entities": [
+    {
+      "text": "ictus isquémico",
+      "type": "PATOLOGIA",
+      "start": 189,
+      "end": 204
+    },
+    {
+      "text": "ACM derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 222,
+      "end": 233
+    },
+    {
+      "text": "infarto isquémico subagudo",
+      "type": "PATOLOGIA",
+      "start": 611,
+      "end": 637
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "ARTERIA",
+      "start": 565,
+      "end": 595
+    },
+    {
+      "text": "transformación hemorrágica tipo HI1",
+      "type": "PATOLOGIA",
+      "start": 781,
+      "end": 816
+    },
+    {
+      "text": "hemorragias intraparenquimatosas extensas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 836,
+      "end": 877
+    },
+    {
+      "text": "hematomas con efecto de masa significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 881,
+      "end": 923
+    },
+    {
+      "text": "ACM derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 222,
+      "end": 233
+    },
+    {
+      "text": "tiempo de tránsito (TTP)",
+      "type": "MEDIDA",
+      "start": 1242,
+      "end": 1266
+    },
+    {
+      "text": "flujo cerebral (CBF)",
+      "type": "MEDIDA",
+      "start": 1283,
+      "end": 1303
+    },
+    {
+      "text": "sin evidencia de área con penumbra significativa viable",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1328,
+      "end": 1383
+    },
+    {
+      "text": "sin trombosis evidente",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1451,
+      "end": 1473
+    },
+    {
+      "text": "sin hematoma intracerebral expansivo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1815,
+      "end": 1851
+    },
+    {
+      "text": "sin estenosis severas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2011,
+      "end": 2032
+    },
+    {
+      "text": "déficit en zona infartada",
+      "type": "PATOLOGIA",
+      "start": 2057,
+      "end": 2082
+    },
+    {
+      "text": "TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANG IOTC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 72,
+      "end": 140
+    },
+    {
+      "text": "TC craneal basal urgente",
+      "type": "TECNICA_IMAGEN",
+      "start": 343,
+      "end": 367
+    },
+    {
+      "text": "angiografía por angio-TC de arterias supraórticas e intracraneales",
+      "type": "TECNICA_IMAGEN",
+      "start": 401,
+      "end": 467
+    }
+  ]
+}

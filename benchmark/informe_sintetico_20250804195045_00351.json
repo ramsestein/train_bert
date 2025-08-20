@@ -1,0 +1,125 @@
+{
+  "document_id": "informe_sintetico_20250804195045_00351",
+  "entities": [
+    {
+      "text": "ictus isquémico agudo",
+      "type": "PATOLOGIA",
+      "start": 255,
+      "end": 276
+    },
+    {
+      "text": "hemiparesia izquierda",
+      "type": "PATOLOGIA",
+      "start": 203,
+      "end": 224
+    },
+    {
+      "text": "afasia",
+      "type": "PATOLOGIA",
+      "start": 227,
+      "end": 233
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 589,
+      "end": 603
+    },
+    {
+      "text": "ASPECTS 7",
+      "type": "PUNTUACION_CLINICA",
+      "start": 667,
+      "end": 676
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "ARTERIA",
+      "start": 294,
+      "end": 324
+    },
+    {
+      "text": "hemorragias agudas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 790,
+      "end": 808
+    },
+    {
+      "text": "arteria cerebral media",
+      "type": "ARTERIA",
+      "start": 294,
+      "end": 316
+    },
+    {
+      "text": "territorio derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1051,
+      "end": 1069
+    },
+    {
+      "text": "flujo cerebral (CBF)",
+      "type": "MEDIDA",
+      "start": 1120,
+      "end": 1140
+    },
+    {
+      "text": "aumento del volumen de distribución (CBV)",
+      "type": "MEDIDA",
+      "start": 1143,
+      "end": 1184
+    },
+    {
+      "text": "penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1228,
+      "end": 1246
+    },
+    {
+      "text": "mismatch entre área de penumbra y núcleo infartado",
+      "type": "PATOLOGIA",
+      "start": 1252,
+      "end": 1302
+    },
+    {
+      "text": "Oclusión completa",
+      "type": "PATOLOGIA",
+      "start": 1351,
+      "end": 1368
+    },
+    {
+      "text": "segmento proximal M1 de la arteria cerebral media derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1373,
+      "end": 1430
+    },
+    {
+      "text": "signos de estenosis significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1535,
+      "end": 1568
+    },
+    {
+      "text": "Oclusión proximal del segmento M1 de arteria cerebral media derecha",
+      "type": "PATOLOGIA",
+      "start": 1875,
+      "end": 1942
+    },
+    {
+      "text": "ASPECTS 7",
+      "type": "PUNTUACION_CLINICA",
+      "start": 667,
+      "end": 676
+    },
+    {
+      "text": "trombectomía mecánica",
+      "type": "PATOLOGIA",
+      "start": 2065,
+      "end": 2086
+    },
+    {
+      "text": "Oclusión proximal segmentaria de M1 derecha",
+      "type": "PATOLOGIA",
+      "start": 2263,
+      "end": 2306
+    }
+  ]
+}

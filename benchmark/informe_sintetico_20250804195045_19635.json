@@ -1,0 +1,125 @@
+{
+  "document_id": "informe_sintetico_20250804195045_19635",
+  "entities": [
+    {
+      "text": "hemorragia intraparenquimatosa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 408,
+      "end": 438
+    },
+    {
+      "text": "edema cerebral",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 558,
+      "end": 572
+    },
+    {
+      "text": "desplazamiento de estructuras de la línea media",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 576,
+      "end": 623
+    },
+    {
+      "text": "ASPECTS 9",
+      "type": "PUNTUACION_CLINICA",
+      "start": 686,
+      "end": 695
+    },
+    {
+      "text": "hipodensidad cortical",
+      "type": "PATOLOGIA",
+      "start": 706,
+      "end": 727
+    },
+    {
+      "text": "arteria cerebral media (ACM) izquierda",
+      "type": "ARTERIA",
+      "start": 748,
+      "end": 786
+    },
+    {
+      "text": "M2/M3",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 810,
+      "end": 815
+    },
+    {
+      "text": "tiempo de tránsito medio (TTM)",
+      "type": "MEDIDA",
+      "start": 889,
+      "end": 919
+    },
+    {
+      "text": "flujo cerebral sanguíneo (CBF)",
+      "type": "MEDIDA",
+      "start": 938,
+      "end": 968
+    },
+    {
+      "text": "infarto",
+      "type": "PATOLOGIA",
+      "start": 1121,
+      "end": 1128
+    },
+    {
+      "text": "Oclusión trombótica",
+      "type": "PATOLOGIA",
+      "start": 1175,
+      "end": 1194
+    },
+    {
+      "text": "segmento M2 de la ACM izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1207,
+      "end": 1238
+    },
+    {
+      "text": "sin signos de estenosis significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1309,
+      "end": 1346
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 1404,
+      "end": 1418
+    },
+    {
+      "text": "oclusión de la arteria cerebral media distal (M2/M3) izquierda",
+      "type": "PATOLOGIA",
+      "start": 1423,
+      "end": 1485
+    },
+    {
+      "text": "ASPECTS 9",
+      "type": "PUNTUACION_CLINICA",
+      "start": 686,
+      "end": 695
+    },
+    {
+      "text": "infarto establecido",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1557,
+      "end": 1576
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1580,
+      "end": 1603
+    },
+    {
+      "text": "Oclusión de arteria cerebral media distal (M2/M3) izquierda",
+      "type": "PATOLOGIA",
+      "start": 1832,
+      "end": 1891
+    },
+    {
+      "text": "sin infarto establecido",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1916,
+      "end": 1939
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "document_id": "informe_sintetico_20250804195045_01655",
+  "entities": [
+    {
+      "text": "hematoma lobar parietal izquierdo",
+      "type": "PATOLOGIA",
+      "start": 539,
+      "end": 572
+    },
+    {
+      "text": "35 x 28 x 22 mm",
+      "type": "MEDIDA",
+      "start": 600,
+      "end": 615
+    },
+    {
+      "text": "5 mm",
+      "type": "MEDIDA",
+      "start": 827,
+      "end": 831
+    },
+    {
+      "text": "arterias cerebrales anteriores, medias y posteriores",
+      "type": "ARTERIA",
+      "start": 1673,
+      "end": 1725
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 299,
+      "end": 315
+    },
+    {
+      "text": "estudio de perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 342,
+      "end": 371
+    },
+    {
+      "text": "Angio-TC arterial intra y extracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 374,
+      "end": 412
+    }
+  ]
+}

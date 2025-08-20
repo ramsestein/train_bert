@@ -1,0 +1,30 @@
+UO_PACN (Unidad Organizativa Médica): RADIO
+
+PRUEB (Prueba solicitada): TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANG IOTC ARTERIAL INTRACRANEAL)
+
+CLIN (Resumen clínico): Paciente con cuadro súbito de vértigo intenso, disartria y ataxia, sospecha clínica de isquemia aguda en territorio vertebrobasilar.
+
+OBSR (Protocolo): TC craneal basal sin contraste, seguido de estudio de perfusión cerebral y angio-TC arterial intracraneal con medio de contraste intravenoso. Protocolo urgente para ictus posterior.
+
+RESL (Resultados):  
+TC CRANEAL BASAL:  
+No se evidencian hemorragias ni signos de sangrado intracraneal. Se observa leve hipodensidad en el mesencéfalo y en la protuberancia, sugestiva de lesión isquémica precoz. No se identifican masas ni efecto de masa significativo. Líneas medias conservadas, sistema ventricular de morfología y tamaño normales. Cisternas basales libres.  
+
+TC PERFUSIÓN:  
+Disminución del flujo sanguíneo cerebral (FSC) y del volumen sanguíneo cerebral (VSC) en territorio de la arteria basilar y en segmentos del cerebelo bilateral, con aumento en el tiempo de tránsito medio (TTM), compatible con isquemia aguda en territorio vertebrobasilar. No se detecta penumbra isquémica extensa.  
+
+ANGIO-TC ARTERIAL INTRACRANEAL:  
+Oclusión subtotal de la arteria basilar proximal, con flujo colateral escaso por arterias vertebrales. Las arterias vertebrales presentan ligera estenosis bilateral, predominando en la izquierda. Circulación anterior sin alteraciones significativas.  
+
+CONCL (Conclusiones):  
+Hallazgos consistentes con isquemia aguda vertebrobasilar, afectando tronco cerebral y territorio cerebeloso. Oclusión parcial proximal de arteria basilar con compromiso hemodinámico que justifica cuadro clínico. No evidencia de hemorragia intracraneal ni lesión crónica significativa. Requiere valoración urgente para manejo endovascular o farmacológico según protocolo.
+
+ACTI_ADICI (Actividad adicional):  
+
+ICON (Estudio): @ICON_TC_VERTEBRO@  
+
+X00DIATXT (Texto del diagnóstico ACR): Isquemia aguda en territorio vertebrobasilar con oclusión parcial de arteria basilar proximal, sin hemorragia intracraneal.  
+
+EST_T_DES (Descripción): TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANGIOTC ARTERIAL INTRACRANEAL)  
+
+ZVASOS_D (Der.): Estudios vasculares compatibles con compromiso de circulación posterior por trombosis arterial basilar proximal.

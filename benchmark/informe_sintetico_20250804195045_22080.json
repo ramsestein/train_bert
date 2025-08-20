@@ -1,0 +1,137 @@
+{
+  "document_id": "informe_sintetico_20250804195045_22080",
+  "entities": [
+    {
+      "text": "ictus isquémico",
+      "type": "PATOLOGIA",
+      "start": 235,
+      "end": 250
+    },
+    {
+      "text": "isquemia incipiente",
+      "type": "PATOLOGIA",
+      "start": 719,
+      "end": 738
+    },
+    {
+      "text": "isquémico",
+      "type": "PATOLOGIA",
+      "start": 241,
+      "end": 250
+    },
+    {
+      "text": "oclusión trombótica",
+      "type": "PATOLOGIA",
+      "start": 1552,
+      "end": 1571
+    },
+    {
+      "text": "ictus isquémico agudo",
+      "type": "PATOLOGIA",
+      "start": 1851,
+      "end": 1872
+    },
+    {
+      "text": "infarto establecido",
+      "type": "PATOLOGIA",
+      "start": 2002,
+      "end": 2021
+    },
+    {
+      "text": "penumbra isquémica viable",
+      "type": "PATOLOGIA",
+      "start": 1397,
+      "end": 1422
+    },
+    {
+      "text": "arteria cerebral posterior",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 268,
+      "end": 294
+    },
+    {
+      "text": "lóbulo occipital derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 679,
+      "end": 703
+    },
+    {
+      "text": "segmento P2-P3",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1484,
+      "end": 1498
+    },
+    {
+      "text": "arteria cerebral posterior derecha",
+      "type": "ARTERIA",
+      "start": 997,
+      "end": 1031
+    },
+    {
+      "text": "arteria cerebral posterior derecha",
+      "type": "ARTERIA",
+      "start": 997,
+      "end": 1031
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 1024,
+      "end": 1031
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 1024,
+      "end": 1031
+    },
+    {
+      "text": "moderada",
+      "type": "MEDIDA",
+      "start": 1192,
+      "end": 1200
+    },
+    {
+      "text": "agudo",
+      "type": "TEMPORALIDAD",
+      "start": 1867,
+      "end": 1872
+    },
+    {
+      "text": "No se evidencia hemorragia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 493,
+      "end": 519
+    },
+    {
+      "text": "No se evidencian aneurismas ni malformaciones vasculares",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1677,
+      "end": 1733
+    },
+    {
+      "text": "No se identifica hemorragia intracraneal ni edema con efecto de masa significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2059,
+      "end": 2141
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 315,
+      "end": 331
+    },
+    {
+      "text": "TC PERFUSIÓN",
+      "type": "TECNICA_IMAGEN",
+      "start": 945,
+      "end": 957
+    },
+    {
+      "text": "ANGIO-TC ARTERIAL INTRACRANEAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 1425,
+      "end": 1455
+    }
+  ]
+}

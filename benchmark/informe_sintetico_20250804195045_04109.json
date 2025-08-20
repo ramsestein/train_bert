@@ -1,0 +1,227 @@
+{
+  "document_id": "informe_sintetico_20250804195045_04109",
+  "entities": [
+    {
+      "text": "ictus isquémico",
+      "type": "PATOLOGIA",
+      "start": 203,
+      "end": 218
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 236,
+      "end": 266
+    },
+    {
+      "text": "transformación hemorrágica",
+      "type": "PATOLOGIA",
+      "start": 316,
+      "end": 342
+    },
+    {
+      "text": "TC CRANEAL BASAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 573,
+      "end": 589
+    },
+    {
+      "text": "área hipodensa",
+      "type": "PATOLOGIA",
+      "start": 606,
+      "end": 620
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 236,
+      "end": 266
+    },
+    {
+      "text": "infarto isquémico subagudo",
+      "type": "PATOLOGIA",
+      "start": 684,
+      "end": 710
+    },
+    {
+      "text": "núcleo lenticular derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 770,
+      "end": 795
+    },
+    {
+      "text": "1 cm",
+      "type": "MEDIDA",
+      "start": 827,
+      "end": 831
+    },
+    {
+      "text": "colecciones extraaxiales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 929,
+      "end": 953
+    },
+    {
+      "text": "desplazamiento significativo de línea media",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 957,
+      "end": 1000
+    },
+    {
+      "text": "Cisternas basales libres",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1058,
+      "end": 1082
+    },
+    {
+      "text": "TC PERFUSIÓN",
+      "type": "TECNICA_IMAGEN",
+      "start": 1085,
+      "end": 1097
+    },
+    {
+      "text": "reducción en flujo cerebral",
+      "type": "PATOLOGIA",
+      "start": 1110,
+      "end": 1137
+    },
+    {
+      "text": "aumento en tiempo de tránsito medio",
+      "type": "PATOLOGIA",
+      "start": 1146,
+      "end": 1181
+    },
+    {
+      "text": "territorio derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1191,
+      "end": 1209
+    },
+    {
+      "text": "área de penumbra residual",
+      "type": "PATOLOGIA",
+      "start": 1227,
+      "end": 1252
+    },
+    {
+      "text": "Volumen cerebral",
+      "type": "PATOLOGIA",
+      "start": 1254,
+      "end": 1270
+    },
+    {
+      "text": "pequeña zona reducida",
+      "type": "PATOLOGIA",
+      "start": 1286,
+      "end": 1307
+    },
+    {
+      "text": "lesión establecida",
+      "type": "PATOLOGIA",
+      "start": 1324,
+      "end": 1342
+    },
+    {
+      "text": "ANGIO-TC EXTRA E INTRACRANEAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 1378,
+      "end": 1407
+    },
+    {
+      "text": "Oclusión del segmento M2 derecho",
+      "type": "PATOLOGIA",
+      "start": 1411,
+      "end": 1443
+    },
+    {
+      "text": "arteria cerebral media",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 236,
+      "end": 258
+    },
+    {
+      "text": "Resto de arterias intracraneales permeables",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1474,
+      "end": 1517
+    },
+    {
+      "text": "estenosis significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1523,
+      "end": 1547
+    },
+    {
+      "text": "Ateromatosis difusa en carótidas internas",
+      "type": "PATOLOGIA",
+      "start": 1549,
+      "end": 1590
+    },
+    {
+      "text": "estenosis severas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1596,
+      "end": 1613
+    },
+    {
+      "text": "Sistema vertebro-basilar permeable",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1615,
+      "end": 1649
+    },
+    {
+      "text": "Transformación hemorrágica tipo PH1",
+      "type": "PATOLOGIA",
+      "start": 1676,
+      "end": 1711
+    },
+    {
+      "text": "región lenticular derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1715,
+      "end": 1740
+    },
+    {
+      "text": "infarto isquémico en territorio de arteria cerebral media derecha",
+      "type": "PATOLOGIA",
+      "start": 1757,
+      "end": 1822
+    },
+    {
+      "text": "área de penumbra residual",
+      "type": "PATOLOGIA",
+      "start": 1227,
+      "end": 1252
+    },
+    {
+      "text": "mismatch significativo en perfusión cerebral",
+      "type": "PATOLOGIA",
+      "start": 1867,
+      "end": 1911
+    },
+    {
+      "text": "Oclusión segmentaria de M2 derecha",
+      "type": "PATOLOGIA",
+      "start": 1913,
+      "end": 1947
+    },
+    {
+      "text": "sin complicaciones adicionales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1948,
+      "end": 1978
+    },
+    {
+      "text": "derrames extraaxiales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1997,
+      "end": 2018
+    },
+    {
+      "text": "desplazamiento de línea media",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2022,
+      "end": 2051
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "document_id": "informe_sintetico_20250804195045_06696",
+  "entities": [
+    {
+      "text": "hemorragia aguda",
+      "type": "PATOLOGIA",
+      "start": 458,
+      "end": 474
+    },
+    {
+      "text": "isquemia",
+      "type": "PATOLOGIA",
+      "start": 782,
+      "end": 790
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 548,
+      "end": 558
+    },
+    {
+      "text": "hemorragia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 458,
+      "end": 468
+    },
+    {
+      "text": "isquémica aguda",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1522,
+      "end": 1537
+    },
+    {
+      "text": "ACAs",
+      "type": "ARTERIA",
+      "start": 1334,
+      "end": 1338
+    },
+    {
+      "text": "ACMs",
+      "type": "ARTERIA",
+      "start": 1340,
+      "end": 1344
+    },
+    {
+      "text": "ACPs",
+      "type": "ARTERIA",
+      "start": 1346,
+      "end": 1350
+    },
+    {
+      "text": "ambos hemisferios",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1054,
+      "end": 1071
+    },
+    {
+      "text": "cortico-subcortical",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 513,
+      "end": 532
+    },
+    {
+      "text": "cortico-subcortical",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 513,
+      "end": 532
+    },
+    {
+      "text": "vertebrales",
+      "type": "ARTERIA",
+      "start": 1235,
+      "end": 1246
+    },
+    {
+      "text": "parámetros normales",
+      "type": "MEDIDA",
+      "start": 1644,
+      "end": 1663
+    },
+    {
+      "text": "sin signos de patología hemorrágica ni isquémica aguda",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1483,
+      "end": 1537
+    }
+  ]
+}

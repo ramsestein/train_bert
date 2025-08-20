@@ -1,0 +1,65 @@
+{
+  "document_id": "informe_sintetico_20250804195045_09115",
+  "entities": [
+    {
+      "text": "infarto lacunar agudo",
+      "type": "PATOLOGIA",
+      "start": 616,
+      "end": 637
+    },
+    {
+      "text": "núcleo lenticular derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 574,
+      "end": 599
+    },
+    {
+      "text": "6 mm",
+      "type": "MEDIDA",
+      "start": 562,
+      "end": 566
+    },
+    {
+      "text": "isquemia lacunar incipiente",
+      "type": "PATOLOGIA",
+      "start": 1076,
+      "end": 1103
+    },
+    {
+      "text": "arterias cerebrales medias",
+      "type": "ARTERIA",
+      "start": 1329,
+      "end": 1355
+    },
+    {
+      "text": "sin evidencia de hemorragia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1610,
+      "end": 1637
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 490,
+      "end": 500
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 230,
+      "end": 246
+    },
+    {
+      "text": "TC PERFUSIÓN",
+      "type": "TECNICA_IMAGEN",
+      "start": 832,
+      "end": 844
+    },
+    {
+      "text": "ANGIO-TC ARTERIAL INTRACRANEAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 1186,
+      "end": 1216
+    }
+  ]
+}

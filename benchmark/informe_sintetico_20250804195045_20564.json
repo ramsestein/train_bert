@@ -1,0 +1,119 @@
+{
+  "document_id": "informe_sintetico_20250804195045_20564",
+  "entities": [
+    {
+      "text": "hemiparesia bilateral",
+      "type": "PATOLOGIA",
+      "start": 242,
+      "end": 263
+    },
+    {
+      "text": "edema citotóxico precoz",
+      "type": "PATOLOGIA",
+      "start": 596,
+      "end": 619
+    },
+    {
+      "text": "reducción del flujo cerebral",
+      "type": "PATOLOGIA",
+      "start": 774,
+      "end": 802
+    },
+    {
+      "text": "volumen cerebral",
+      "type": "PATOLOGIA",
+      "start": 815,
+      "end": 831
+    },
+    {
+      "text": "prolongación del tiempo de tránsito",
+      "type": "PATOLOGIA",
+      "start": 927,
+      "end": 962
+    },
+    {
+      "text": "aumento del tiempo hasta el pico",
+      "type": "PATOLOGIA",
+      "start": 971,
+      "end": 1003
+    },
+    {
+      "text": "oclusión trombótica",
+      "type": "PATOLOGIA",
+      "start": 1219,
+      "end": 1238
+    },
+    {
+      "text": "arteria basilar",
+      "type": "ARTERIA",
+      "start": 1157,
+      "end": 1172
+    },
+    {
+      "text": "territorio vertebrobasilar",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 841,
+      "end": 867
+    },
+    {
+      "text": "tallo cerebral",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 889,
+      "end": 903
+    },
+    {
+      "text": "cerebelo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 906,
+      "end": 914
+    },
+    {
+      "text": "arterias vertebrales",
+      "type": "ARTERIA",
+      "start": 1244,
+      "end": 1264
+    },
+    {
+      "text": "arterias carótidas internas",
+      "type": "ARTERIA",
+      "start": 1401,
+      "end": 1428
+    },
+    {
+      "text": "TC basal sin contraste",
+      "type": "TECNICA_IMAGEN",
+      "start": 284,
+      "end": 306
+    },
+    {
+      "text": "perfusión cerebral con adquisición dinámica",
+      "type": "TECNICA_IMAGEN",
+      "start": 308,
+      "end": 351
+    },
+    {
+      "text": "angio-TC de troncos supraaórticos e intracraneales",
+      "type": "TECNICA_IMAGEN",
+      "start": 355,
+      "end": 405
+    },
+    {
+      "text": "No se evidencian hemorragias intracraneales ni colecciones extraaxiales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 456,
+      "end": 527
+    },
+    {
+      "text": "No hay desplazamiento de líneas medias ni efecto de masa significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 621,
+      "end": 691
+    },
+    {
+      "text": "No se identifican estenosis significativas en las arterias carótidas internas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1351,
+      "end": 1428
+    }
+  ]
+}

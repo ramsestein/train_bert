@@ -1,0 +1,71 @@
+{
+  "document_id": "informe_sintetico_20250804195045_15181",
+  "entities": [
+    {
+      "text": "isquemia",
+      "type": "PATOLOGIA",
+      "start": 1684,
+      "end": 1692
+    },
+    {
+      "text": "arteria cerebral anterior",
+      "type": "ARTERIA",
+      "start": 333,
+      "end": 358
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 680,
+      "end": 687
+    },
+    {
+      "text": "A2",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1331,
+      "end": 1333
+    },
+    {
+      "text": "A2 derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1331,
+      "end": 1341
+    },
+    {
+      "text": "aguda",
+      "type": "TEMPORALIDAD",
+      "start": 1693,
+      "end": 1698
+    },
+    {
+      "text": "ASPECTS",
+      "type": "PUNTUACION_CLINICA",
+      "start": 1904,
+      "end": 1911
+    },
+    {
+      "text": "TC CRANEAL BASAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 475,
+      "end": 491
+    },
+    {
+      "text": "No se identifica hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 495,
+      "end": 535
+    },
+    {
+      "text": "No se identifican áreas con reducción significativa de CBV que sugieran tejido infartado establecido",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1147,
+      "end": 1247
+    },
+    {
+      "text": "No se evidencia hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1863,
+      "end": 1902
+    }
+  ]
+}

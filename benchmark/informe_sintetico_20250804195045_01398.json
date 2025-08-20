@@ -1,0 +1,65 @@
+{
+  "document_id": "informe_sintetico_20250804195045_01398",
+  "entities": [
+    {
+      "text": "infarto",
+      "type": "PATOLOGIA",
+      "start": 228,
+      "end": 235
+    },
+    {
+      "text": "territorio frontera o watershed",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 239,
+      "end": 270
+    },
+    {
+      "text": "arterias cerebrales anterior y media",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 547,
+      "end": 583
+    },
+    {
+      "text": "bilateralmente",
+      "type": "LATERALIDAD",
+      "start": 585,
+      "end": 599
+    },
+    {
+      "text": "ASPECTS 8",
+      "type": "PUNTUACION_CLINICA",
+      "start": 767,
+      "end": 776
+    },
+    {
+      "text": "hipoperfusión subaguda",
+      "type": "PATOLOGIA",
+      "start": 1259,
+      "end": 1281
+    },
+    {
+      "text": "TC craneal basal urgente",
+      "type": "TECNICA_IMAGEN",
+      "start": 291,
+      "end": 315
+    },
+    {
+      "text": "perfusión cerebral dinámica",
+      "type": "TECNICA_IMAGEN",
+      "start": 318,
+      "end": 345
+    },
+    {
+      "text": "angioTC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 348,
+      "end": 377
+    },
+    {
+      "text": "territorios frontera anterior-medio cerebrales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1730,
+      "end": 1776
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "document_id": "informe_sintetico_20250804195045_19247",
+  "entities": [
+    {
+      "text": "contusión hemorrágica traumática",
+      "type": "PATOLOGIA",
+      "start": 560,
+      "end": 592
+    },
+    {
+      "text": "lóbulo temporal derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 435,
+      "end": 458
+    },
+    {
+      "text": "3.5 x 2.8 x 2.5 cm",
+      "type": "MEDIDA",
+      "start": 526,
+      "end": 544
+    },
+    {
+      "text": "5 mm",
+      "type": "MEDIDA",
+      "start": 816,
+      "end": 820
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 830,
+      "end": 839
+    },
+    {
+      "text": "hipoperfusión moderada",
+      "type": "PATOLOGIA",
+      "start": 1018,
+      "end": 1040
+    },
+    {
+      "text": "sin áreas de isquemia franca",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1062,
+      "end": 1090
+    },
+    {
+      "text": "sin signos de oclusión ni estenosis significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1120,
+      "end": 1170
+    },
+    {
+      "text": "angiografía TC",
+      "type": "TECNICA_IMAGEN",
+      "start": 371,
+      "end": 385
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "document_id": "0000000010000000059379345_cleaned",
+  "entities": [
+    {
+      "text": "hemorragia intra ni extraaxial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 339,
+      "end": 369
+    },
+    {
+      "text": "Hipodensidad corticosubcortical en territorio de ACAd y en territorio distal de ACMd (frontoparietal e ínsula derecha) compatible con isquemia establecida",
+      "type": "PATOLOGIA",
+      "start": 371,
+      "end": 525
+    },
+    {
+      "text": "isquemia",
+      "type": "PATOLOGIA",
+      "start": 505,
+      "end": 513
+    },
+    {
+      "text": "ASPECTS 5",
+      "type": "PUNTUACION_CLINICA",
+      "start": 527,
+      "end": 536
+    },
+    {
+      "text": "ACAd",
+      "type": "ARTERIA",
+      "start": 420,
+      "end": 424
+    },
+    {
+      "text": "ACMd",
+      "type": "ARTERIA",
+      "start": 451,
+      "end": 455
+    },
+    {
+      "text": "ACMd",
+      "type": "ARTERIA",
+      "start": 451,
+      "end": 455
+    },
+    {
+      "text": "ACAd",
+      "type": "ARTERIA",
+      "start": 420,
+      "end": 424
+    },
+    {
+      "text": "15%",
+      "type": "MEDIDA",
+      "start": 919,
+      "end": 922
+    },
+    {
+      "text": "discordancia",
+      "type": "TEMPORALIDAD",
+      "start": 1324,
+      "end": 1336
+    },
+    {
+      "text": "Oclusión completa en rama superior postbifurcación de ACMd en segmento M2",
+      "type": "PATOLOGIA",
+      "start": 955,
+      "end": 1028
+    },
+    {
+      "text": "Oclusión completa en ACAd segmento A2",
+      "type": "PATOLOGIA",
+      "start": 1030,
+      "end": 1067
+    },
+    {
+      "text": "TC Basal + TC Perfusión + AngioTC extra- intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 215,
+      "end": 268
+    },
+    {
+      "text": "Cisternas basales libres",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 668,
+      "end": 692
+    },
+    {
+      "text": "Sistema ventricular de tamaño y morfología normal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 617,
+      "end": 666
+    },
+    {
+      "text": "resto de pprincipales arterias intra/extracraneales permeables y sin signos de estenosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1152,
+      "end": 1240
+    }
+  ]
+}

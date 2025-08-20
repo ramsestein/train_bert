@@ -1,0 +1,47 @@
+{
+  "document_id": "informe_sintetico_20250804195045_07095",
+  "entities": [
+    {
+      "text": "contusión hemorrágica",
+      "type": "PATOLOGIA",
+      "start": 612,
+      "end": 633
+    },
+    {
+      "text": "frontal derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 555,
+      "end": 570
+    },
+    {
+      "text": "25 x 18 x 15 mm",
+      "type": "MEDIDA",
+      "start": 660,
+      "end": 675
+    },
+    {
+      "text": "hemorragia subaracnoidea",
+      "type": "PATOLOGIA",
+      "start": 811,
+      "end": 835
+    },
+    {
+      "text": "sin signos de disección, estenosis ni oclusión vascular intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1216,
+      "end": 1284
+    },
+    {
+      "text": "sin complicaciones hemorrágicas extraaxiales significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1472,
+      "end": 1531
+    },
+    {
+      "text": "sin evidencia de lesión vascular asociada",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1914,
+      "end": 1955
+    }
+  ]
+}

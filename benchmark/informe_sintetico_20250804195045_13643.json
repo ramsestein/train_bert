@@ -1,0 +1,83 @@
+{
+  "document_id": "informe_sintetico_20250804195045_13643",
+  "entities": [
+    {
+      "text": "infarto establecido",
+      "type": "PATOLOGIA",
+      "start": 619,
+      "end": 638
+    },
+    {
+      "text": "hemorragias intraparenquimatosas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 657,
+      "end": 689
+    },
+    {
+      "text": "hemorragias subaracnoideas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 693,
+      "end": 719
+    },
+    {
+      "text": "ASPECTS 7",
+      "type": "PUNTUACION_CLINICA",
+      "start": 811,
+      "end": 820
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "ARTERIA",
+      "start": 918,
+      "end": 948
+    },
+    {
+      "text": "infarto",
+      "type": "PATOLOGIA",
+      "start": 310,
+      "end": 317
+    },
+    {
+      "text": "penumbra isquémica periférica",
+      "type": "PATOLOGIA",
+      "start": 1208,
+      "end": 1237
+    },
+    {
+      "text": "arteria carótida interna derecha",
+      "type": "ARTERIA",
+      "start": 1308,
+      "end": 1340
+    },
+    {
+      "text": "estenosis severa",
+      "type": "PATOLOGIA",
+      "start": 1519,
+      "end": 1535
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "ARTERIA",
+      "start": 918,
+      "end": 948
+    },
+    {
+      "text": "hemisferio contralateral",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1663,
+      "end": 1687
+    },
+    {
+      "text": "hemorragias intracraneales asociadas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2063,
+      "end": 2099
+    },
+    {
+      "text": "territorio de arteria cerebral media derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 904,
+      "end": 948
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "document_id": "informe_sintetico_20250804195045_07242",
+  "entities": [
+    {
+      "text": "contusión hemorrágica",
+      "type": "PATOLOGIA",
+      "start": 456,
+      "end": 477
+    },
+    {
+      "text": "región frontal derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 481,
+      "end": 503
+    },
+    {
+      "text": "15 x 12 mm",
+      "type": "MEDIDA",
+      "start": 606,
+      "end": 616
+    },
+    {
+      "text": "sangrado subaracnoideo",
+      "type": "PATOLOGIA",
+      "start": 646,
+      "end": 668
+    },
+    {
+      "text": "ipsilateral",
+      "type": "LATERALIDAD",
+      "start": 690,
+      "end": 701
+    },
+    {
+      "text": "No se aprecia desplazamiento significativo de la línea media",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 703,
+      "end": 763
+    },
+    {
+      "text": "No se visualizan hematomas extraaxiales significativos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 854,
+      "end": 908
+    },
+    {
+      "text": "TC de perfusión",
+      "type": "TECNICA_IMAGEN",
+      "start": 335,
+      "end": 350
+    },
+    {
+      "text": "angiografía por TC",
+      "type": "TECNICA_IMAGEN",
+      "start": 362,
+      "end": 380
+    },
+    {
+      "text": "sin evidencias de lesión vascular ni pseudoaneurismas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1115,
+      "end": 1168
+    }
+  ]
+}

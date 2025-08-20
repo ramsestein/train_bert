@@ -1,0 +1,107 @@
+{
+  "document_id": "informe_sintetico_20250804195045_10963",
+  "entities": [
+    {
+      "text": "ictus isquémico",
+      "type": "PATOLOGIA",
+      "start": 222,
+      "end": 237
+    },
+    {
+      "text": "isquemia incipiente",
+      "type": "PATOLOGIA",
+      "start": 674,
+      "end": 693
+    },
+    {
+      "text": "ASPECTS 9",
+      "type": "PUNTUACION_CLINICA",
+      "start": 695,
+      "end": 704
+    },
+    {
+      "text": "territorio cortical superficial izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 918,
+      "end": 959
+    },
+    {
+      "text": "arteria cerebral media",
+      "type": "ARTERIA",
+      "start": 1045,
+      "end": 1067
+    },
+    {
+      "text": "M2/M3",
+      "type": "ARTERIA",
+      "start": 1069,
+      "end": 1074
+    },
+    {
+      "text": "oclusión segmentaria",
+      "type": "PATOLOGIA",
+      "start": 1306,
+      "end": 1326
+    },
+    {
+      "text": "M2 izquierda",
+      "type": "ARTERIA",
+      "start": 1342,
+      "end": 1354
+    },
+    {
+      "text": "M3 adyacente",
+      "type": "ARTERIA",
+      "start": 1431,
+      "end": 1443
+    },
+    {
+      "text": "ASPECTS 9",
+      "type": "PUNTUACION_CLINICA",
+      "start": 695,
+      "end": 704
+    },
+    {
+      "text": "penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1237,
+      "end": 1255
+    },
+    {
+      "text": "retraso en perfusión",
+      "type": "PATOLOGIA",
+      "start": 1801,
+      "end": 1821
+    },
+    {
+      "text": "sin afectación del volumen cerebral sanguíneo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1822,
+      "end": 1867
+    },
+    {
+      "text": "No signos de hemorragia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1955,
+      "end": 1978
+    },
+    {
+      "text": "TC craneal sin contraste inicial",
+      "type": "TECNICA_IMAGEN",
+      "start": 291,
+      "end": 323
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 326,
+      "end": 347
+    },
+    {
+      "text": "AngioTC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 350,
+      "end": 379
+    }
+  ]
+}

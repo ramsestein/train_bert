@@ -1,0 +1,107 @@
+{
+  "document_id": "informe_sintetico_20250804195045_02966",
+  "entities": [
+    {
+      "text": "infarto cerebral",
+      "type": "PATOLOGIA",
+      "start": 228,
+      "end": 244
+    },
+    {
+      "text": "zonas de frontera",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 248,
+      "end": 265
+    },
+    {
+      "text": "infartos de zonas límite",
+      "type": "PATOLOGIA",
+      "start": 655,
+      "end": 679
+    },
+    {
+      "text": "bilateral",
+      "type": "LATERALIDAD",
+      "start": 628,
+      "end": 637
+    },
+    {
+      "text": "TTP",
+      "type": "MEDIDA",
+      "start": 906,
+      "end": 909
+    },
+    {
+      "text": "bilaterales",
+      "type": "LATERALIDAD",
+      "start": 958,
+      "end": 969
+    },
+    {
+      "text": "disminución leve a moderada",
+      "type": "PATOLOGIA",
+      "start": 975,
+      "end": 1002
+    },
+    {
+      "text": "sin datos de tejido penumbra significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1104,
+      "end": 1146
+    },
+    {
+      "text": "sin placas ateromatosas significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1198,
+      "end": 1236
+    },
+    {
+      "text": "sin estenosis ni oclusiones",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1306,
+      "end": 1333
+    },
+    {
+      "text": "sin alteraciones hemodinámicas aparentes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1395,
+      "end": 1435
+    },
+    {
+      "text": "isquemia por hipoperfusión en zonas límite",
+      "type": "PATOLOGIA",
+      "start": 1586,
+      "end": 1628
+    },
+    {
+      "text": "sin estenosis significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1753,
+      "end": 1781
+    },
+    {
+      "text": "TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANG IOTC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 72,
+      "end": 140
+    },
+    {
+      "text": "TC CRANEAL BASAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 459,
+      "end": 475
+    },
+    {
+      "text": "TC PERFUSIÓN",
+      "type": "TECNICA_IMAGEN",
+      "start": 850,
+      "end": 862
+    },
+    {
+      "text": "ANGIO-TC EXTRA E INTRACRANEAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 1152,
+      "end": 1181
+    }
+  ]
+}

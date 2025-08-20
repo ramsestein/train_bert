@@ -1,0 +1,227 @@
+{
+  "document_id": "informe_sintetico_20250804195045_08225",
+  "entities": [
+    {
+      "text": "ictus isquémico",
+      "type": "PATOLOGIA",
+      "start": 189,
+      "end": 204
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "ARTERIA",
+      "start": 222,
+      "end": 252
+    },
+    {
+      "text": "24 horas",
+      "type": "TEMPORALIDAD",
+      "start": 266,
+      "end": 274
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 329,
+      "end": 345
+    },
+    {
+      "text": "angio-TC intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 362,
+      "end": 383
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 386,
+      "end": 407
+    },
+    {
+      "text": "área de hipodensidad",
+      "type": "PATOLOGIA",
+      "start": 462,
+      "end": 482
+    },
+    {
+      "text": "ACM derecha",
+      "type": "ARTERIA",
+      "start": 500,
+      "end": 511
+    },
+    {
+      "text": "infarto isquémico establecido",
+      "type": "PATOLOGIA",
+      "start": 527,
+      "end": 556
+    },
+    {
+      "text": "ASPECTS 6",
+      "type": "PUNTUACION_CLINICA",
+      "start": 558,
+      "end": 567
+    },
+    {
+      "text": "área hiperdensa intraparenquimatosa",
+      "type": "PATOLOGIA",
+      "start": 591,
+      "end": 626
+    },
+    {
+      "text": "región frontal derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 633,
+      "end": 655
+    },
+    {
+      "text": "12 x 8 mm",
+      "type": "MEDIDA",
+      "start": 676,
+      "end": 685
+    },
+    {
+      "text": "transformación hemorrágica tipo PH1",
+      "type": "PATOLOGIA",
+      "start": 765,
+      "end": 800
+    },
+    {
+      "text": "hemorragias intraventriculares",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 820,
+      "end": 850
+    },
+    {
+      "text": "hemorragias subaracnoideas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 854,
+      "end": 880
+    },
+    {
+      "text": "desviación hacia la izquierda",
+      "type": "PATOLOGIA",
+      "start": 933,
+      "end": 962
+    },
+    {
+      "text": "3 mm",
+      "type": "MEDIDA",
+      "start": 966,
+      "end": 970
+    },
+    {
+      "text": "ventrículos y cisternas basales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 976,
+      "end": 1007
+    },
+    {
+      "text": "sin signos de hidrocefalia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1026,
+      "end": 1052
+    },
+    {
+      "text": "disminución significativa del flujo sanguíneo cerebral",
+      "type": "PATOLOGIA",
+      "start": 1084,
+      "end": 1138
+    },
+    {
+      "text": "ACM derecha",
+      "type": "ARTERIA",
+      "start": 500,
+      "end": 511
+    },
+    {
+      "text": "tiempo de tránsito medio",
+      "type": "PATOLOGIA",
+      "start": 1234,
+      "end": 1258
+    },
+    {
+      "text": "isquemia establecida",
+      "type": "PATOLOGIA",
+      "start": 1282,
+      "end": 1302
+    },
+    {
+      "text": "Oclusión parcial en segmento proximal M1 de ACM derecha",
+      "type": "PATOLOGIA",
+      "start": 1328,
+      "end": 1383
+    },
+    {
+      "text": "ausencia de llenado en el territorio distal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1388,
+      "end": 1431
+    },
+    {
+      "text": "Resto de arterias intracraneales sin estenosis significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1433,
+      "end": 1494
+    },
+    {
+      "text": "permeabilidad conservada",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1501,
+      "end": 1525
+    },
+    {
+      "text": "Sistema carotídeo y vertebrobasilar sin hallazgos relevantes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1527,
+      "end": 1587
+    },
+    {
+      "text": "Infarto cerebral en territorio de ACM derecha",
+      "type": "PATOLOGIA",
+      "start": 1612,
+      "end": 1657
+    },
+    {
+      "text": "transformación hemorrágica tipo PH1",
+      "type": "PATOLOGIA",
+      "start": 765,
+      "end": 800
+    },
+    {
+      "text": "Oclusión parcial de segmento M1 de ACM derecha",
+      "type": "PATOLOGIA",
+      "start": 1769,
+      "end": 1815
+    },
+    {
+      "text": "sin compromiso ventricular",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1864,
+      "end": 1890
+    },
+    {
+      "text": "No hemorragia intraventricular ni subaracnoidea",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1892,
+      "end": 1939
+    },
+    {
+      "text": "ASPECTS 6",
+      "type": "PUNTUACION_CLINICA",
+      "start": 558,
+      "end": 567
+    },
+    {
+      "text": "Infarto cerebral derecho con transformación hemorrágica PH1",
+      "type": "PATOLOGIA",
+      "start": 2161,
+      "end": 2220
+    },
+    {
+      "text": "Oclusión parcial de ACM M1 derecha",
+      "type": "PATOLOGIA",
+      "start": 2222,
+      "end": 2256
+    }
+  ]
+}

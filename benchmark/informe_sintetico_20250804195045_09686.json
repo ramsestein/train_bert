@@ -1,0 +1,53 @@
+{
+  "document_id": "informe_sintetico_20250804195045_09686",
+  "entities": [
+    {
+      "text": "isquemia temprana",
+      "type": "PATOLOGIA",
+      "start": 735,
+      "end": 752
+    },
+    {
+      "text": "isquemia crítica",
+      "type": "PATOLOGIA",
+      "start": 1161,
+      "end": 1177
+    },
+    {
+      "text": "arteria basilar",
+      "type": "ARTERIA",
+      "start": 1250,
+      "end": 1265
+    },
+    {
+      "text": "tronco encefálico",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 701,
+      "end": 718
+    },
+    {
+      "text": "cerebelo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 992,
+      "end": 1000
+    },
+    {
+      "text": "bilateral",
+      "type": "LATERALIDAD",
+      "start": 1001,
+      "end": 1010
+    },
+    {
+      "text": "sin signos de estenosis previa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1387,
+      "end": 1417
+    },
+    {
+      "text": "sin estenosis significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1475,
+      "end": 1503
+    }
+  ]
+}

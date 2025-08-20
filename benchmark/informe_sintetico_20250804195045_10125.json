@@ -1,0 +1,215 @@
+{
+  "document_id": "informe_sintetico_20250804195045_10125",
+  "entities": [
+    {
+      "text": "accidente cerebrovascular isquémico",
+      "type": "PATOLOGIA",
+      "start": 220,
+      "end": 255
+    },
+    {
+      "text": "oclusión arterial cerebral",
+      "type": "PATOLOGIA",
+      "start": 296,
+      "end": 322
+    },
+    {
+      "text": "hipodensidad",
+      "type": "PATOLOGIA",
+      "start": 549,
+      "end": 561
+    },
+    {
+      "text": "arteria cerebral media (ACM) derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 582,
+      "end": 618
+    },
+    {
+      "text": "núcleo lenticular",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 630,
+      "end": 647
+    },
+    {
+      "text": "cápsula interna",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 649,
+      "end": 664
+    },
+    {
+      "text": "corteza insular",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 667,
+      "end": 682
+    },
+    {
+      "text": "ASPECTS",
+      "type": "PUNTUACION_CLINICA",
+      "start": 743,
+      "end": 750
+    },
+    {
+      "text": "6",
+      "type": "MEDIDA",
+      "start": 764,
+      "end": 765
+    },
+    {
+      "text": "signo de arteria hiperdensa",
+      "type": "PATOLOGIA",
+      "start": 778,
+      "end": 805
+    },
+    {
+      "text": "segmento M1 derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 818,
+      "end": 837
+    },
+    {
+      "text": "trombo intraluminal",
+      "type": "PATOLOGIA",
+      "start": 854,
+      "end": 873
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 895,
+      "end": 918
+    },
+    {
+      "text": "transformación hemorrágica",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 932,
+      "end": 958
+    },
+    {
+      "text": "morfología y tamaño conservados",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1089,
+      "end": 1120
+    },
+    {
+      "text": "disminución del flujo sanguíneo cerebral (FSC)",
+      "type": "PATOLOGIA",
+      "start": 1152,
+      "end": 1198
+    },
+    {
+      "text": "volumen cerebral sanguíneo (VSC)",
+      "type": "PATOLOGIA",
+      "start": 1201,
+      "end": 1233
+    },
+    {
+      "text": "territorio derecho de la ACM proximal",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1237,
+      "end": 1274
+    },
+    {
+      "text": "incremento en el tiempo de tránsito medio (MTT)",
+      "type": "PATOLOGIA",
+      "start": 1280,
+      "end": 1327
+    },
+    {
+      "text": "tiempo hasta el pico (TTP)",
+      "type": "PATOLOGIA",
+      "start": 1330,
+      "end": 1356
+    },
+    {
+      "text": "penumbra isquémica periinfartada",
+      "type": "PATOLOGIA",
+      "start": 1379,
+      "end": 1411
+    },
+    {
+      "text": "disminución marcada del volumen cerebral sanguíneo",
+      "type": "PATOLOGIA",
+      "start": 1466,
+      "end": 1516
+    },
+    {
+      "text": "Ausencia de contraste en segmento M1 derecho de ACM",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1555,
+      "end": 1606
+    },
+    {
+      "text": "oclusión trombótica proximal",
+      "type": "PATOLOGIA",
+      "start": 1620,
+      "end": 1648
+    },
+    {
+      "text": "estenosis ni placas significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1707,
+      "end": 1741
+    },
+    {
+      "text": "Sistema vertebrobasilar y arterias cerebrales anteriores y posteriores permeables",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1779,
+      "end": 1860
+    },
+    {
+      "text": "malformaciones vasculares",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1880,
+      "end": 1905
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 1960,
+      "end": 1974
+    },
+    {
+      "text": "arteria cerebral media derecha (M1)",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 2552,
+      "end": 2587
+    },
+    {
+      "text": "penumbra isquémica identificada en perfusión cerebral",
+      "type": "PATOLOGIA",
+      "start": 2600,
+      "end": 2653
+    },
+    {
+      "text": "ASPECTS 6",
+      "type": "PUNTUACION_CLINICA",
+      "start": 2066,
+      "end": 2075
+    },
+    {
+      "text": "área isquémica moderada",
+      "type": "PATOLOGIA",
+      "start": 2083,
+      "end": 2106
+    },
+    {
+      "text": "tratamiento trombolítico o trombectomía mecánica",
+      "type": "PATOLOGIA",
+      "start": 2216,
+      "end": 2264
+    },
+    {
+      "text": "hemorragia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 895,
+      "end": 905
+    },
+    {
+      "text": "transformación hemorrágica",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 932,
+      "end": 958
+    }
+  ]
+}

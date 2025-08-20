@@ -1,0 +1,239 @@
+{
+  "document_id": "informe_sintetico_20250804195045_20123",
+  "entities": [
+    {
+      "text": "disartria",
+      "type": "PATOLOGIA",
+      "start": 218,
+      "end": 227
+    },
+    {
+      "text": "hemiparesia bilateral",
+      "type": "PATOLOGIA",
+      "start": 229,
+      "end": 250
+    },
+    {
+      "text": "alteración del nivel de conciencia",
+      "type": "PATOLOGIA",
+      "start": 253,
+      "end": 287
+    },
+    {
+      "text": "oclusión arterial",
+      "type": "PATOLOGIA",
+      "start": 301,
+      "end": 318
+    },
+    {
+      "text": "hipodensidad pontina central",
+      "type": "PATOLOGIA",
+      "start": 672,
+      "end": 700
+    },
+    {
+      "text": "borramiento de los surcos basales",
+      "type": "PATOLOGIA",
+      "start": 710,
+      "end": 743
+    },
+    {
+      "text": "hemorragia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 759,
+      "end": 769
+    },
+    {
+      "text": "lesiones agudas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 779,
+      "end": 794
+    },
+    {
+      "text": "signos de herniación",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 814,
+      "end": 834
+    },
+    {
+      "text": "desplazamiento de estructuras de la línea media",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 838,
+      "end": 885
+    },
+    {
+      "text": "tamaño y morfología conservada",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 919,
+      "end": 949
+    },
+    {
+      "text": "alteraciones crónicas relevantes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 966,
+      "end": 998
+    },
+    {
+      "text": "aumento significativo del tiempo de tránsito medio (TTP)",
+      "type": "PATOLOGIA",
+      "start": 1030,
+      "end": 1086
+    },
+    {
+      "text": "retraso en el Tmax",
+      "type": "PATOLOGIA",
+      "start": 1089,
+      "end": 1107
+    },
+    {
+      "text": "disminución del flujo cerebral (CBF)",
+      "type": "PATOLOGIA",
+      "start": 1150,
+      "end": 1186
+    },
+    {
+      "text": "volumen cerebral (CBV)",
+      "type": "PATOLOGIA",
+      "start": 1189,
+      "end": 1211
+    },
+    {
+      "text": "penumbra isquémica extensa",
+      "type": "PATOLOGIA",
+      "start": 1237,
+      "end": 1263
+    },
+    {
+      "text": "territorio del tronco encefálico",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1267,
+      "end": 1299
+    },
+    {
+      "text": "ausencia de contraste en la arteria basilar",
+      "type": "PATOLOGIA",
+      "start": 1345,
+      "end": 1388
+    },
+    {
+      "text": "tercio proximal hasta el segmento distal",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1398,
+      "end": 1438
+    },
+    {
+      "text": "oclusión completa",
+      "type": "PATOLOGIA",
+      "start": 1470,
+      "end": 1487
+    },
+    {
+      "text": "permeabilidad bilateral",
+      "type": "PATOLOGIA",
+      "start": 1523,
+      "end": 1546
+    },
+    {
+      "text": "predominio de la izquierda",
+      "type": "LATERALIDAD",
+      "start": 1552,
+      "end": 1578
+    },
+    {
+      "text": "permeables",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1637,
+      "end": 1647
+    },
+    {
+      "text": "estenosis significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1667,
+      "end": 1691
+    },
+    {
+      "text": "hemorragia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 759,
+      "end": 769
+    },
+    {
+      "text": "infarto consolidado evidente",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1771,
+      "end": 1799
+    },
+    {
+      "text": "extensa área de hipoperfusión",
+      "type": "PATOLOGIA",
+      "start": 1827,
+      "end": 1856
+    },
+    {
+      "text": "isquemia en territorio de arteria basilar",
+      "type": "PATOLOGIA",
+      "start": 1870,
+      "end": 1911
+    },
+    {
+      "text": "oclusión completa de arteria basilar proximal",
+      "type": "PATOLOGIA",
+      "start": 1931,
+      "end": 1976
+    },
+    {
+      "text": "monitorización neurovascular estrecha",
+      "type": "PATOLOGIA",
+      "start": 2099,
+      "end": 2136
+    },
+    {
+      "text": "bloqueo vascular severo en arteria basilar",
+      "type": "PATOLOGIA",
+      "start": 2519,
+      "end": 2561
+    },
+    {
+      "text": "infarto encefálico posterior",
+      "type": "PATOLOGIA",
+      "start": 2581,
+      "end": 2609
+    },
+    {
+      "text": "TC CODIGO ICTUS (PERFUSION CEREBRAL + ANG IOTC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 72,
+      "end": 141
+    },
+    {
+      "text": "TC craneal urgente multimodal",
+      "type": "TECNICA_IMAGEN",
+      "start": 369,
+      "end": 398
+    },
+    {
+      "text": "angiografía por TC de troncos supraórticos y arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 471,
+      "end": 537
+    },
+    {
+      "text": "perfusión cerebral con contraste iodado",
+      "type": "TECNICA_IMAGEN",
+      "start": 429,
+      "end": 468
+    },
+    {
+      "text": "TC PERFUSIÓN",
+      "type": "TECNICA_IMAGEN",
+      "start": 1001,
+      "end": 1013
+    },
+    {
+      "text": "ANGIO-TC ARTERIAL INTRACRANEAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 1302,
+      "end": 1332
+    }
+  ]
+}

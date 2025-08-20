@@ -1,0 +1,21 @@
+UO_PACN (Unidad Organizativa Médica): RADIO
+
+PRUEB (Prueba solicitada): TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANG IOTC ARTERIAL INTRACRANEAL)
+
+CLIN (Resumen clínico): Paciente con traumatismo craneoencefálico reciente, cefalea intensa y déficit neurológico focal.
+
+OBSR (Protocolo): TC craneal basal sin y con contraste + TC perfusión cerebral + angio-TC arterial intracraneal urgente.
+
+RESL (Resultados): TC CRANEAL BASAL: Se evidencia hematoma lobar frontobasal derecho, con densidad heterogénea, que ocupa aproximadamente 25 ml de volumen, con efecto masa leve y discreto desplazamiento de la línea media hacia la izquierda (aproximadamente 4 mm). Se observan signos de edema perilesional asociado que genera moderada hipodensidad circundante. No se identifican fracturas óseas. Parénquima cerebral restante con diferenciación córtico-subcortical preservada. No hay evidencia de hemorragia intraventricular ni sangrado subaracnoideo difuso. Cisternas basales parcialmente comprimidas. Estructuras de la línea media ligeramente desplazadas. TC PERFUSIÓN: Áreas adyacentes al hematoma presentan aumento del tiempo de tránsito medio (TTP) y disminución del volumen de sangre cerebral (CBV), sugestivo de compromiso hemodinámico focal secundario al efecto masa. ANGIO-TC INTRACRANEAL: No se observan estenosis ni oclusiones arteriales intracraneales. Troncos supraaórticos sin signos de estenosis significativas. Circulación arterial cerebral con permeabilidad conservada.
+
+CONCL (Conclusiones): Hematoma lobar frontal derecho de tamaño moderado con efecto de masa y desplazamiento leve de la línea media. Edema perilesional asociado. No evidencia de compromiso vascular intracraneal obstructivo. Se recomienda control clínico y seguimiento radiológico.
+
+ACTI_ADICI (Actividad adicional): Monitorización neurológica y evaluación neuroquirúrgica según evolución del paciente.
+
+ICON (Estudio): @RADIO_TC_CODIGO_1234@
+
+X00DIATXT (Texto del diagnóstico ACR): Hematoma intracerebral lobar frontal derecho con efecto de masa y edema circundante. No signos de compromiso vascular arterial intracraneal oclusivo.
+
+EST_T_DES (Descripción): TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANGIOTC ARTERIAL INTRACRANEAL)
+
+ZVASOS_D (Der.): Estudios con contraste endovenoso para valoración vascular cerebral completa

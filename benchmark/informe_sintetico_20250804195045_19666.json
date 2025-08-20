@@ -1,0 +1,227 @@
+{
+  "document_id": "informe_sintetico_20250804195045_19666",
+  "entities": [
+    {
+      "text": "hemiparesia izquierda",
+      "type": "PATOLOGIA",
+      "start": 189,
+      "end": 210
+    },
+    {
+      "text": "afasia súbita",
+      "type": "PATOLOGIA",
+      "start": 213,
+      "end": 226
+    },
+    {
+      "text": "infarto cerebral",
+      "type": "PATOLOGIA",
+      "start": 269,
+      "end": 285
+    },
+    {
+      "text": "ACM derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 303,
+      "end": 314
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 335,
+      "end": 351
+    },
+    {
+      "text": "perfusión cerebral dinámica",
+      "type": "TECNICA_IMAGEN",
+      "start": 354,
+      "end": 381
+    },
+    {
+      "text": "angio-TC arterial intracraneal urgente",
+      "type": "TECNICA_IMAGEN",
+      "start": 384,
+      "end": 422
+    },
+    {
+      "text": "área hipodensa",
+      "type": "PATOLOGIA",
+      "start": 469,
+      "end": 483
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 501,
+      "end": 531
+    },
+    {
+      "text": "infarto agudo",
+      "type": "PATOLOGIA",
+      "start": 547,
+      "end": 560
+    },
+    {
+      "text": "foco hiperdenso irregular",
+      "type": "PATOLOGIA",
+      "start": 576,
+      "end": 601
+    },
+    {
+      "text": "sangrado parenquimatoso",
+      "type": "PATOLOGIA",
+      "start": 672,
+      "end": 695
+    },
+    {
+      "text": "zona subcortical",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 712,
+      "end": 728
+    },
+    {
+      "text": "transformación hemorrágica tipo PH2",
+      "type": "PATOLOGIA",
+      "start": 746,
+      "end": 781
+    },
+    {
+      "text": "Volumen hemorrágico estimado en 25 ml",
+      "type": "MEDIDA",
+      "start": 783,
+      "end": 820
+    },
+    {
+      "text": "edema perilesional moderado",
+      "type": "PATOLOGIA",
+      "start": 833,
+      "end": 860
+    },
+    {
+      "text": "efecto de masa leve",
+      "type": "PATOLOGIA",
+      "start": 1608,
+      "end": 1627
+    },
+    {
+      "text": "desviación de la línea media hacia la izquierda",
+      "type": "PATOLOGIA",
+      "start": 892,
+      "end": 939
+    },
+    {
+      "text": "aproximadamente 4 mm",
+      "type": "MEDIDA",
+      "start": 941,
+      "end": 961
+    },
+    {
+      "text": "No evidencia hemorragia intraventricular",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 964,
+      "end": 1004
+    },
+    {
+      "text": "sangrado subaracnoideo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1008,
+      "end": 1030
+    },
+    {
+      "text": "aumento del tiempo de tránsito medio (TTM)",
+      "type": "PATOLOGIA",
+      "start": 1059,
+      "end": 1101
+    },
+    {
+      "text": "reducción marcada de volumen sanguíneo cerebral (VSC)",
+      "type": "PATOLOGIA",
+      "start": 1104,
+      "end": 1157
+    },
+    {
+      "text": "área infartada",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 638,
+      "end": 652
+    },
+    {
+      "text": "zonas circundantes con perfusión comprometida",
+      "type": "PATOLOGIA",
+      "start": 1177,
+      "end": 1222
+    },
+    {
+      "text": "sin reperfusión significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1224,
+      "end": 1253
+    },
+    {
+      "text": "oclusión persistente en segmento M1 derecho",
+      "type": "PATOLOGIA",
+      "start": 1271,
+      "end": 1314
+    },
+    {
+      "text": "sin evidencia de estenosis o disección",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1316,
+      "end": 1354
+    },
+    {
+      "text": "Vasos intracraneales contralaterales permeables",
+      "type": "PATOLOGIA",
+      "start": 1356,
+      "end": 1403
+    },
+    {
+      "text": "sin signos de vasoespasmo o trombosis adicionales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1405,
+      "end": 1454
+    },
+    {
+      "text": "Transformación hemorrágica parenquimatosa PH2",
+      "type": "PATOLOGIA",
+      "start": 1479,
+      "end": 1524
+    },
+    {
+      "text": "infarto agudo de territorio ACM derecha",
+      "type": "PATOLOGIA",
+      "start": 1528,
+      "end": 1567
+    },
+    {
+      "text": "volumen hemorrágico significativo",
+      "type": "PATOLOGIA",
+      "start": 1572,
+      "end": 1605
+    },
+    {
+      "text": "efecto de masa leve",
+      "type": "PATOLOGIA",
+      "start": 1608,
+      "end": 1627
+    },
+    {
+      "text": "seguimiento clínico y neuroimágenes",
+      "type": "PATOLOGIA",
+      "start": 1801,
+      "end": 1836
+    },
+    {
+      "text": "Hemorragia intracerebral parenquimatosa secundaria a transformación hemorrágica tipo PH2 post infarto cerebral",
+      "type": "PATOLOGIA",
+      "start": 1953,
+      "end": 2063
+    },
+    {
+      "text": "Arteria cerebral media derecha con oclusión en segmento M1",
+      "type": "PATOLOGIA",
+      "start": 2177,
+      "end": 2235
+    }
+  ]
+}

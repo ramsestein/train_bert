@@ -1,0 +1,95 @@
+{
+  "document_id": "informe_sintetico_20250804195045_04425",
+  "entities": [
+    {
+      "text": "infarto cerebral antiguo",
+      "type": "PATOLOGIA",
+      "start": 179,
+      "end": 203
+    },
+    {
+      "text": "aguda",
+      "type": "TEMPORALIDAD",
+      "start": 217,
+      "end": 222
+    },
+    {
+      "text": "No se observan signos de hemorragia intra ni extraaxial.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 383,
+      "end": 439
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 513,
+      "end": 523
+    },
+    {
+      "text": "región periventricular bilateral",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 573,
+      "end": 605
+    },
+    {
+      "text": "cambios crónicos isquémicos leves",
+      "type": "PATOLOGIA",
+      "start": 671,
+      "end": 704
+    },
+    {
+      "text": "No se observan lesiones nuevas ni signos de edema.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 708,
+      "end": 758
+    },
+    {
+      "text": "Sistema ventricular y cisternas basales de morfología y tamaño normales.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 802,
+      "end": 874
+    },
+    {
+      "text": "No se detectan áreas de hipoperfusión ni alteraciones hemodinámicas significativas.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1006,
+      "end": 1089
+    },
+    {
+      "text": "Arterias cerebrales principales permeables",
+      "type": "ARTERIA",
+      "start": 1122,
+      "end": 1164
+    },
+    {
+      "text": "sin estenosis ni defectos de repleción.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1166,
+      "end": 1205
+    },
+    {
+      "text": "Sistema vertebrobasilar permeable y sin alteraciones significativas.",
+      "type": "ARTERIA",
+      "start": 1299,
+      "end": 1367
+    },
+    {
+      "text": "sin estenosis ni trombos.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1617,
+      "end": 1642
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 513,
+      "end": 523
+    },
+    {
+      "text": "Sistema vascular cerebral con permeabilidad adecuada y sin estenosis ni trombos.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1562,
+      "end": 1642
+    }
+  ]
+}

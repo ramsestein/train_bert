@@ -1,0 +1,24 @@
+UO_PACN (Unidad Organizativa Médica): RADIO
+
+PRUEB (Prueba solicitada): TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANG IOTC ARTERIAL INTRACRANEAL)
+
+CLIN (Resumen clínico): Varón de 72 años, HTA y fibrilación auricular, con cuadro súbito de hemiparesia derecha y afasia, remitido para estudio urgente de posible ictus isquémico.
+
+OBSR (Protocolo): Protocolo integral Código Ictus, incluye TC craneal basal, perfusión cerebral y angioTC arterial intracraneal bilateral.
+
+RESL (Resultados):  
+- TC craneal basal: Se identifican múltiples áreas hipodensas bilaterales, localizadas en territorios corticales y subcorticales frontales y parietales izquierdos, así como en territorio parietal y occipital derechos. Estas lesiones presentan pérdida de diferenciación cortico-subcortical, sin signos de sangrado intracraneal ni efecto de masa significativo.  
+- TC perfusión: Se evidencian zonas de prolongación del tiempo de tránsito medio (TTM) y reducción del volumen sanguíneo cerebral (VSC) en los mismos territorios mencionados, compatibles con isquemia aguda en múltiples áreas de distribución arterial. El flujo cerebral (FC) se encuentra disminuido en dichas zonas, sin evidencia clara de tejido isquémico penumbra en esta fase.  
+- AngioTC arterial intracraneal: Se observa oclusión segmentaria en la arteria cerebral media izquierda (M2) y estenosis severa en arteria cerebral posterior derecha. Además, pequeños defectos de repleción en ramas distales de la arteria cerebral anterior derecha, sugerentes de múltiples eventos embólicos. Arterias carótidas internas permeables sin estenosis significativa proximal.
+
+CONCL (Conclusiones): La exploración muestra signos compatibles con isquemia aguda multiterritorial, afectando múltiples territorios cerebrales bilaterales, secundaria a oclusiones y estenosis vasculares segmentarias, probablemente embólicas. No se identifican complicaciones hemorrágicas ni efecto de masa. La perfusión evidencia daño isquémico activo en distintas zonas corticales y subcorticales. Se recomienda manejo urgente y valoración neurovascular integral.
+
+ACTI_ADICI (Actividad adicional): Control neurológico estricto y evaluación para posible trombectomía selectiva y manejo etiológico del origen embólico.
+
+ICON (Estudio): @RADIO@TCICTUS@2024@
+
+X00DIATXT (Texto del diagnóstico ACR): Isquemia cerebral aguda multiterritorial con oclusiones segmentarias y estenosis severa en arterias cerebrales medias y posteriores, sin signos de hemorragia intracraneal.
+
+EST_T_DES (Descripción): TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANGIOTC ARTERIAL INTRACRANEAL)
+
+ZVASOS_D (Der.): Evaluar angiografía cerebral de confirmación y estudio cardiológico asociado para descartar fuente embólica.

@@ -1,0 +1,26 @@
+UO_PACN (Unidad Organizativa Médica): RADIO
+
+PRUEB (Prueba solicitada): TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANG IOTC ARTERIAL INTRACRANEAL)
+
+CLIN (Resumen clínico): Paciente con cuadro de mareo intenso, disartria y debilidad bilateral súbita, sospecha clínica de ictus isquémico en territorio vertebrobasilar.
+
+OBSR (Protocolo): TC craneal basal sin contraste, TC perfusión cerebral, angioTC de arterias cervicales e intracraneales (incluyendo circulación posterior), realizada en contexto urgente Código Ictus.
+
+RESL (Resultados):  
+TC CRANEAL BASAL: Se observa hipodensidad tenue en la región del tronco cerebral, compatible con edema inicial, sin signos de hemorragia intracraneal ni lesiones ocupantes de espacio. Estructuras de línea media centradas. Sistemas ventricular y cisternas basales sin alteraciones significativas.
+
+TC PERFUSIÓN: Mapa de tiempo hasta el pico (TTP) y tiempo medio de tránsito (MTT) muestran importante retraso y prolongación en la irrigación del tronco cerebral, especialmente a nivel del mesencéfalo y protuberancia, con caída significativa del flujo cerebral (CBF) y volumen cerebral (CBV), evidenciando zona de penumbra isquémica extensa.
+
+ANGIO-TC EXTRA E INTRACRANEAL: Se objetiva oclusión completa de la arteria basilar en su segmento medio-proximal. Las arterias vertebrales están permeables pero de calibre reducido. Circulación anterior y ramas cerebrales principales sin evidencia de estenosis significativa. Ausencia de circulación colateral efectiva hacia territorio posterior.
+
+CONCL (Conclusiones): Oclusión completa de la arteria basilar en segmento medio-proximal con extensa área de hipoperfusión y edema en tronco cerebral, hallazgos compatibles con isquemia aguda en territorio vertebrobasilar. No se identifican signos de hemorragia intracraneal. Este cuadro requiere valoración urgente para manejo endovascular.
+
+ACTI_ADICI (Actividad adicional): Se recomienda interconsulta inmediata con neurología y neurorradiología intervencionista para posible trombectomía mecánica.
+
+ICON (Estudio): @TC_ictus_vb@
+
+X00DIATXT (Texto del diagnóstico ACR): Oclusión aguda de arteria basilar con evidencia de isquemia extensa en tronco cerebral.
+
+EST_T_DES (Descripción): TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANGIOTC ARTERIAL INTRACRANEAL)
+
+ZVASOS_D (Der.): Informe generado conforme protocolo Código Ictus.

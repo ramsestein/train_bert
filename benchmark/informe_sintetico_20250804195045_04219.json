@@ -1,0 +1,83 @@
+{
+  "document_id": "informe_sintetico_20250804195045_04219",
+  "entities": [
+    {
+      "text": "isquemia",
+      "type": "PATOLOGIA",
+      "start": 243,
+      "end": 251
+    },
+    {
+      "text": "territorio vertebrobasilar",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 255,
+      "end": 281
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 704,
+      "end": 713
+    },
+    {
+      "text": "8/10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 796,
+      "end": 800
+    },
+    {
+      "text": "isquemia",
+      "type": "PATOLOGIA",
+      "start": 243,
+      "end": 251
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 704,
+      "end": 713
+    },
+    {
+      "text": "70%",
+      "type": "MEDIDA",
+      "start": 1485,
+      "end": 1488
+    },
+    {
+      "text": "arteria vertebral derecha",
+      "type": "ARTERIA",
+      "start": 1514,
+      "end": 1539
+    },
+    {
+      "text": "V4",
+      "type": "ARTERIA",
+      "start": 1541,
+      "end": 1543
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 704,
+      "end": 713
+    },
+    {
+      "text": "No se observan hemorragias intraparenquimatosas ni hemorragias extraaxiales.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 494,
+      "end": 570
+    },
+    {
+      "text": "No se observan focos de infarto establecida con disminución del CBV.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1244,
+      "end": 1312
+    },
+    {
+      "text": "No se identifican hemorragias ni infartos irreversibles evidentes en el estudio basal.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2047,
+      "end": 2133
+    }
+  ]
+}

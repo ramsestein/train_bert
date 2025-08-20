@@ -1,0 +1,53 @@
+{
+  "document_id": "informe_sintetico_20250804195045_18866",
+  "entities": [
+    {
+      "text": "infarto lacunar agudo",
+      "type": "PATOLOGIA",
+      "start": 578,
+      "end": 599
+    },
+    {
+      "text": "región capsuloputamen izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 531,
+      "end": 562
+    },
+    {
+      "text": "8 mm",
+      "type": "MEDIDA",
+      "start": 522,
+      "end": 526
+    },
+    {
+      "text": "agudo",
+      "type": "TEMPORALIDAD",
+      "start": 257,
+      "end": 262
+    },
+    {
+      "text": "isquemia",
+      "type": "PATOLOGIA",
+      "start": 1209,
+      "end": 1217
+    },
+    {
+      "text": "ACAs, ACMs, ACPs",
+      "type": "ARTERIA",
+      "start": 1481,
+      "end": 1497
+    },
+    {
+      "text": "sin signos de estenosis significativa ni plaques inestables",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1387,
+      "end": 1446
+    },
+    {
+      "text": "sin evidencia de hemorragia ni afectación extensa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1663,
+      "end": 1712
+    }
+  ]
+}

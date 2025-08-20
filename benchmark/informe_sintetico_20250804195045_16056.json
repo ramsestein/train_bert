@@ -1,0 +1,235 @@
+{
+  "document_id": "informe_sintetico_20250804195045_16056",
+  "entities": [
+    {
+      "text": "ictus",
+      "type": "PATOLOGIA",
+      "start": 439,
+      "end": 444
+    },
+    {
+      "text": "disminución del nivel de conciencia",
+      "type": "PATOLOGIA",
+      "start": 196,
+      "end": 231
+    },
+    {
+      "text": "disfunción del tronco cerebral",
+      "type": "PATOLOGIA",
+      "start": 244,
+      "end": 274
+    },
+    {
+      "text": "hemorragia aguda",
+      "type": "PATOLOGIA",
+      "start": 515,
+      "end": 531
+    },
+    {
+      "text": "lesiones intra o extraaxiales",
+      "type": "PATOLOGIA",
+      "start": 535,
+      "end": 564
+    },
+    {
+      "text": "hipodensidad",
+      "type": "PATOLOGIA",
+      "start": 577,
+      "end": 589
+    },
+    {
+      "text": "borramiento de la diferenciación córtico-subcortical",
+      "type": "PATOLOGIA",
+      "start": 671,
+      "end": 723
+    },
+    {
+      "text": "hidrocefalia",
+      "type": "PATOLOGIA",
+      "start": 805,
+      "end": 817
+    },
+    {
+      "text": "edema cerebral significativo",
+      "type": "PATOLOGIA",
+      "start": 873,
+      "end": 901
+    },
+    {
+      "text": "reducción marcada del flujo sanguíneo cerebral",
+      "type": "PATOLOGIA",
+      "start": 931,
+      "end": 977
+    },
+    {
+      "text": "aumento del tiempo de tránsito medio",
+      "type": "PATOLOGIA",
+      "start": 986,
+      "end": 1022
+    },
+    {
+      "text": "penumbra isquémica extensa",
+      "type": "PATOLOGIA",
+      "start": 1172,
+      "end": 1198
+    },
+    {
+      "text": "oclusión completa",
+      "type": "PATOLOGIA",
+      "start": 1262,
+      "end": 1279
+    },
+    {
+      "text": "trombosis",
+      "type": "PATOLOGIA",
+      "start": 1515,
+      "end": 1524
+    },
+    {
+      "text": "hemorragia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 515,
+      "end": 525
+    },
+    {
+      "text": "edema cerebral significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 873,
+      "end": 901
+    },
+    {
+      "text": "tronco cerebral",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 259,
+      "end": 274
+    },
+    {
+      "text": "protuberancia",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 633,
+      "end": 646
+    },
+    {
+      "text": "mesencéfalo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 649,
+      "end": 660
+    },
+    {
+      "text": "sistema ventricular",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 746,
+      "end": 765
+    },
+    {
+      "text": "territorio vertebrobasilar",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1032,
+      "end": 1058
+    },
+    {
+      "text": "tronco cerebral",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 259,
+      "end": 274
+    },
+    {
+      "text": "cerebelo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1097,
+      "end": 1105
+    },
+    {
+      "text": "arteria basilar",
+      "type": "ARTERIA",
+      "start": 1237,
+      "end": 1252
+    },
+    {
+      "text": "arterias vertebrales",
+      "type": "ARTERIA",
+      "start": 2458,
+      "end": 2478
+    },
+    {
+      "text": "arterias cerebrales anteriores",
+      "type": "ARTERIA",
+      "start": 1418,
+      "end": 1448
+    },
+    {
+      "text": "distal",
+      "type": "LATERALIDAD",
+      "start": 1317,
+      "end": 1323
+    },
+    {
+      "text": "cervicales",
+      "type": "LATERALIDAD",
+      "start": 1382,
+      "end": 1392
+    },
+    {
+      "text": "extensa",
+      "type": "MEDIDA",
+      "start": 1191,
+      "end": 1198
+    },
+    {
+      "text": "urgente",
+      "type": "TEMPORALIDAD",
+      "start": 312,
+      "end": 319
+    },
+    {
+      "text": "actual",
+      "type": "TEMPORALIDAD",
+      "start": 1880,
+      "end": 1886
+    },
+    {
+      "text": "axial",
+      "type": "TECNICA_IMAGEN",
+      "start": 557,
+      "end": 562
+    },
+    {
+      "text": "cortes de perfusión",
+      "type": "TECNICA_IMAGEN",
+      "start": 2077,
+      "end": 2096
+    },
+    {
+      "text": "reconstrucción en volumen de angio-TC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 2099,
+      "end": 2158
+    },
+    {
+      "text": "TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANG IOTC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 72,
+      "end": 140
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 295,
+      "end": 311
+    },
+    {
+      "text": "TC PERFUSIÓN",
+      "type": "TECNICA_IMAGEN",
+      "start": 904,
+      "end": 916
+    },
+    {
+      "text": "ANGIO-TC EXTRA E INTRACRANEAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 1201,
+      "end": 1230
+    }
+  ],
+  "regenerado": true,
+  "fecha_regeneracion": "2025-08-06T06:21:47.921767"
+}

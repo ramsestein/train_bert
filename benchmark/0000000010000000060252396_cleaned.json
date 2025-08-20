@@ -1,0 +1,235 @@
+{
+  "document_id": "0000000010000000060252396_cleaned",
+  "entities": [
+    {
+      "text": "Malaltia no especificada",
+      "type": "PATOLOGIA",
+      "start": 166,
+      "end": 190
+    },
+    {
+      "text": "TC CODIGO ICTUS",
+      "type": "TECNICA_IMAGEN",
+      "start": 72,
+      "end": 87
+    },
+    {
+      "text": "PERFUSION CEREBRAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 89,
+      "end": 107
+    },
+    {
+      "text": "ANG IOTC ARTERIAL INTRACRANEAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 109,
+      "end": 139
+    },
+    {
+      "text": "TC de ICTUS",
+      "type": "TECNICA_IMAGEN",
+      "start": 210,
+      "end": 221
+    },
+    {
+      "text": "BASAL",
+      "type": "TEMPORALIDAD",
+      "start": 223,
+      "end": 228
+    },
+    {
+      "text": "PERFUSIÓN",
+      "type": "TEMPORALIDAD",
+      "start": 231,
+      "end": 240
+    },
+    {
+      "text": "ANGIOTC EXTRA E INTRACRANEAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 243,
+      "end": 271
+    },
+    {
+      "text": "hemorragia aguda",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 326,
+      "end": 342
+    },
+    {
+      "text": "lesiones focales intra ni extraaxial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 346,
+      "end": 382
+    },
+    {
+      "text": "alteraciones densitométricas parénquima cerebral",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 409,
+      "end": 457
+    },
+    {
+      "text": "isquemia aguda o crónica",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 471,
+      "end": 495
+    },
+    {
+      "text": "Diferenciación cortico-subcortical conservada",
+      "type": "PATOLOGIA",
+      "start": 497,
+      "end": 542
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 544,
+      "end": 554
+    },
+    {
+      "text": "Sistema ventricular",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 557,
+      "end": 576
+    },
+    {
+      "text": "morfología, tamaño y situación conservadas",
+      "type": "PATOLOGIA",
+      "start": 580,
+      "end": 622
+    },
+    {
+      "text": "Estructuras de la línea media",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 624,
+      "end": 653
+    },
+    {
+      "text": "centradas",
+      "type": "PATOLOGIA",
+      "start": 654,
+      "end": 663
+    },
+    {
+      "text": "Cisternas basales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 665,
+      "end": 682
+    },
+    {
+      "text": "libres",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 683,
+      "end": 689
+    },
+    {
+      "text": "alteraciones valorables en mapas de tiempo, CBV y CBF",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 720,
+      "end": 773
+    },
+    {
+      "text": "discordancia significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 779,
+      "end": 805
+    },
+    {
+      "text": "Arco aórtico",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 838,
+      "end": 850
+    },
+    {
+      "text": "troncos supraórticos",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 877,
+      "end": 897
+    },
+    {
+      "text": "ateromatosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 902,
+      "end": 914
+    },
+    {
+      "text": "signos de estenosis significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 918,
+      "end": 951
+    },
+    {
+      "text": "arteria carótida interna",
+      "type": "ARTERIA",
+      "start": 1002,
+      "end": 1026
+    },
+    {
+      "text": "segmentos intracavernoso y supraclinoideo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1092,
+      "end": 1133
+    },
+    {
+      "text": "arterias vertebrales",
+      "type": "ARTERIA",
+      "start": 1224,
+      "end": 1244
+    },
+    {
+      "text": "permeables",
+      "type": "PATOLOGIA",
+      "start": 1333,
+      "end": 1343
+    },
+    {
+      "text": "ACAs",
+      "type": "ARTERIA",
+      "start": 1345,
+      "end": 1349
+    },
+    {
+      "text": "ACMs",
+      "type": "ARTERIA",
+      "start": 1351,
+      "end": 1355
+    },
+    {
+      "text": "ACPs",
+      "type": "ARTERIA",
+      "start": 1358,
+      "end": 1362
+    },
+    {
+      "text": "Sistema vertebrobasilar",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1365,
+      "end": 1388
+    },
+    {
+      "text": "lesiones hemorrágicas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1450,
+      "end": 1471
+    },
+    {
+      "text": "signos de isquemia aguda intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1475,
+      "end": 1512
+    },
+    {
+      "text": "alteraciones significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1542,
+      "end": 1569
+    },
+    {
+      "text": "MAMOGRAFIA DE CRIBADO/SCREENING 2P",
+      "type": "TECNICA_IMAGEN",
+      "start": 1628,
+      "end": 1662
+    }
+  ],
+  "regenerado": true,
+  "fecha_regeneracion": "2025-08-06T10:23:21.854662"
+}

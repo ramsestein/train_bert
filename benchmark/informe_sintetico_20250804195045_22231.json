@@ -1,0 +1,227 @@
+{
+  "document_id": "informe_sintetico_20250804195045_22231",
+  "entities": [
+    {
+      "text": "hemorragia subaracnoidea",
+      "type": "PATOLOGIA",
+      "start": 218,
+      "end": 242
+    },
+    {
+      "text": "distribución difusa",
+      "type": "PATOLOGIA",
+      "start": 571,
+      "end": 590
+    },
+    {
+      "text": "cisternas de la base",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 608,
+      "end": 628
+    },
+    {
+      "text": "surcos corticales supratentoriales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 631,
+      "end": 665
+    },
+    {
+      "text": "espacio perimesencefálico",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 689,
+      "end": 714
+    },
+    {
+      "text": "cisterna interpeduncular",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 717,
+      "end": 741
+    },
+    {
+      "text": "clasificación Fisher IV",
+      "type": "PUNTUACION_CLINICA",
+      "start": 743,
+      "end": 766
+    },
+    {
+      "text": "hematomas intraparenquimatosos",
+      "type": "PATOLOGIA",
+      "start": 787,
+      "end": 817
+    },
+    {
+      "text": "hemorragias intraventriculares significativas",
+      "type": "PATOLOGIA",
+      "start": 821,
+      "end": 866
+    },
+    {
+      "text": "línea media",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 886,
+      "end": 897
+    },
+    {
+      "text": "ventrículos laterales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 976,
+      "end": 997
+    },
+    {
+      "text": "hidrocefalia aguda",
+      "type": "PATOLOGIA",
+      "start": 1023,
+      "end": 1041
+    },
+    {
+      "text": "fracturas óseas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1058,
+      "end": 1073
+    },
+    {
+      "text": "hallazgo traumático",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1082,
+      "end": 1101
+    },
+    {
+      "text": "zonas de perfusión conservada",
+      "type": "PATOLOGIA",
+      "start": 1153,
+      "end": 1182
+    },
+    {
+      "text": "hipoperfusión",
+      "type": "PATOLOGIA",
+      "start": 1206,
+      "end": 1219
+    },
+    {
+      "text": "infarto cerebral agudo",
+      "type": "PATOLOGIA",
+      "start": 1223,
+      "end": 1245
+    },
+    {
+      "text": "mapas de volumen cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 1251,
+      "end": 1276
+    },
+    {
+      "text": "flujo cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 1284,
+      "end": 1298
+    },
+    {
+      "text": "tiempos de tránsito",
+      "type": "TECNICA_IMAGEN",
+      "start": 1307,
+      "end": 1326
+    },
+    {
+      "text": "MTT",
+      "type": "TECNICA_IMAGEN",
+      "start": 1328,
+      "end": 1331
+    },
+    {
+      "text": "TTP",
+      "type": "TECNICA_IMAGEN",
+      "start": 1333,
+      "end": 1336
+    },
+    {
+      "text": "aneurisma sacular",
+      "type": "PATOLOGIA",
+      "start": 1401,
+      "end": 1418
+    },
+    {
+      "text": "arteria comunicante anterior",
+      "type": "ARTERIA",
+      "start": 1425,
+      "end": 1453
+    },
+    {
+      "text": "6 mm",
+      "type": "MEDIDA",
+      "start": 1473,
+      "end": 1477
+    },
+    {
+      "text": "cuello definido",
+      "type": "PATOLOGIA",
+      "start": 1495,
+      "end": 1510
+    },
+    {
+      "text": "anterior",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1445,
+      "end": 1453
+    },
+    {
+      "text": "malformaciones vasculares",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1560,
+      "end": 1585
+    },
+    {
+      "text": "signos de vasoespasmo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1589,
+      "end": 1610
+    },
+    {
+      "text": "estenosis significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1675,
+      "end": 1699
+    },
+    {
+      "text": "grado Fisher IV",
+      "type": "PUNTUACION_CLINICA",
+      "start": 1761,
+      "end": 1776
+    },
+    {
+      "text": "hemorragia predominante",
+      "type": "PATOLOGIA",
+      "start": 1782,
+      "end": 1805
+    },
+    {
+      "text": "cisternas basales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1809,
+      "end": 1826
+    },
+    {
+      "text": "surcos corticales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 631,
+      "end": 648
+    },
+    {
+      "text": "origen del sangrado",
+      "type": "PATOLOGIA",
+      "start": 1916,
+      "end": 1935
+    },
+    {
+      "text": "infarto cerebral agudo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1223,
+      "end": 1245
+    },
+    {
+      "text": "vasoespasmo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1599,
+      "end": 1610
+    }
+  ]
+}

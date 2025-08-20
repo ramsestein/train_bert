@@ -1,0 +1,71 @@
+{
+  "document_id": "informe_sintetico_20250804195045_23092",
+  "entities": [
+    {
+      "text": "hematoma intraparenquimatoso hiperintenso",
+      "type": "PATOLOGIA",
+      "start": 449,
+      "end": 490
+    },
+    {
+      "text": "putamen izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 509,
+      "end": 526
+    },
+    {
+      "text": "cápsula interna",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 552,
+      "end": 567
+    },
+    {
+      "text": "22 cc",
+      "type": "MEDIDA",
+      "start": 634,
+      "end": 639
+    },
+    {
+      "text": "6 mm",
+      "type": "MEDIDA",
+      "start": 780,
+      "end": 784
+    },
+    {
+      "text": "bilaterales",
+      "type": "LATERALIDAD",
+      "start": 1024,
+      "end": 1035
+    },
+    {
+      "text": "agudo",
+      "type": "TEMPORALIDAD",
+      "start": 1797,
+      "end": 1802
+    },
+    {
+      "text": "no se observa sangrado intraventricular claro",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 894,
+      "end": 939
+    },
+    {
+      "text": "sin evidencia de estenosis o trombosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1630,
+      "end": 1668
+    },
+    {
+      "text": "sin estenosis significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1716,
+      "end": 1743
+    },
+    {
+      "text": "sin evidencia de área de penumbra isquémica",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2088,
+      "end": 2131
+    }
+  ]
+}

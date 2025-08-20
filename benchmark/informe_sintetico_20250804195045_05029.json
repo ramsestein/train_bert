@@ -1,0 +1,155 @@
+{
+  "document_id": "informe_sintetico_20250804195045_05029",
+  "entities": [
+    {
+      "text": "hemiparesia izquierda",
+      "type": "PATOLOGIA",
+      "start": 203,
+      "end": 224
+    },
+    {
+      "text": "afasia",
+      "type": "PATOLOGIA",
+      "start": 227,
+      "end": 233
+    },
+    {
+      "text": "evento vascular cerebral isquémico agudo",
+      "type": "PATOLOGIA",
+      "start": 248,
+      "end": 288
+    },
+    {
+      "text": "hiperdensidad",
+      "type": "PATOLOGIA",
+      "start": 449,
+      "end": 462
+    },
+    {
+      "text": "trombo intraluminal",
+      "type": "PATOLOGIA",
+      "start": 528,
+      "end": 547
+    },
+    {
+      "text": "pérdida parcial de la diferenciación cortico-subcortical",
+      "type": "PATOLOGIA",
+      "start": 631,
+      "end": 687
+    },
+    {
+      "text": "discreto edema asociado",
+      "type": "PATOLOGIA",
+      "start": 690,
+      "end": 713
+    },
+    {
+      "text": "ASPECTS estimado en 6/10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 715,
+      "end": 739
+    },
+    {
+      "text": "No se observan hemorragias intra ni extraaxiales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 741,
+      "end": 789
+    },
+    {
+      "text": "isquemia en evolución",
+      "type": "PATOLOGIA",
+      "start": 1144,
+      "end": 1165
+    },
+    {
+      "text": "penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1168,
+      "end": 1186
+    },
+    {
+      "text": "Oclusión completa del segmento M1 de la arteria cerebral media derecha",
+      "type": "PATOLOGIA",
+      "start": 1221,
+      "end": 1291
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "ARTERIA",
+      "start": 469,
+      "end": 499
+    },
+    {
+      "text": "segmento M1",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 500,
+      "end": 511
+    },
+    {
+      "text": "circulación intracraneal sin estenosis significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1305,
+      "end": 1357
+    },
+    {
+      "text": "No se identifican aneurismas ni malformaciones vasculares",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1394,
+      "end": 1451
+    },
+    {
+      "text": "Isquemia aguda en territorio de la arteria cerebral media derecha",
+      "type": "PATOLOGIA",
+      "start": 1479,
+      "end": 1544
+    },
+    {
+      "text": "Oclusión proximal (segmento M1) de ACM derecha",
+      "type": "PATOLOGIA",
+      "start": 1565,
+      "end": 1611
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1650,
+      "end": 1673
+    },
+    {
+      "text": "Oclusión M1 ACM derecha",
+      "type": "PATOLOGIA",
+      "start": 2158,
+      "end": 2181
+    },
+    {
+      "text": "circulación colateral parcial",
+      "type": "PATOLOGIA",
+      "start": 2183,
+      "end": 2212
+    },
+    {
+      "text": "TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANG IOTC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 72,
+      "end": 140
+    },
+    {
+      "text": "TC craneal basal urgente seguido de perfusión cerebral y angioTC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 309,
+      "end": 395
+    },
+    {
+      "text": "TC PERFUSIÓN",
+      "type": "TECNICA_IMAGEN",
+      "start": 899,
+      "end": 911
+    },
+    {
+      "text": "ANGIO-TC ARTERIAL INTRACRANEAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 1189,
+      "end": 1219
+    }
+  ]
+}

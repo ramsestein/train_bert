@@ -1,0 +1,113 @@
+{
+  "document_id": "informe_sintetico_20250804195045_07173",
+  "entities": [
+    {
+      "text": "hematoma lobar frontal derecho",
+      "type": "PATOLOGIA",
+      "start": 420,
+      "end": 450
+    },
+    {
+      "text": "35 x 28 x 25 mm",
+      "type": "MEDIDA",
+      "start": 470,
+      "end": 485
+    },
+    {
+      "text": "aguda",
+      "type": "TEMPORALIDAD",
+      "start": 547,
+      "end": 552
+    },
+    {
+      "text": "edema perilesional moderado",
+      "type": "PATOLOGIA",
+      "start": 565,
+      "end": 592
+    },
+    {
+      "text": "efecto de masa con desplazamiento de la línea media hacia la izquierda de aproximadamente 3 mm",
+      "type": "PATOLOGIA",
+      "start": 600,
+      "end": 694
+    },
+    {
+      "text": "3 mm",
+      "type": "MEDIDA",
+      "start": 690,
+      "end": 694
+    },
+    {
+      "text": "No se identifican signos de sangrado intraventricular",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 696,
+      "end": 749
+    },
+    {
+      "text": "ni hemorragia subaracnoidea asociada",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 750,
+      "end": 786
+    },
+    {
+      "text": "morfología y tamaño preservados",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 814,
+      "end": 845
+    },
+    {
+      "text": "no se evidencian áreas de hipoperfusión significativa alrededor de la lesión",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 878,
+      "end": 954
+    },
+    {
+      "text": "no muestra estenosis ni malformaciones vasculares evidentes en territorio arterial correspondiente",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 993,
+      "end": 1091
+    },
+    {
+      "text": "Hematoma lobar frontal derecho de características hiperagudas",
+      "type": "PATOLOGIA",
+      "start": 1116,
+      "end": 1177
+    },
+    {
+      "text": "moderado edema y efecto de masa leve",
+      "type": "PATOLOGIA",
+      "start": 1182,
+      "end": 1218
+    },
+    {
+      "text": "Ausencia de complicaciones hemorrágicas adicionales o compromiso hemodinámico cerebral en la perfusión",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1220,
+      "end": 1322
+    },
+    {
+      "text": "No se evidencian anomalías vasculares intracraneales que sugieran etiología vascular oculta",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1324,
+      "end": 1415
+    },
+    {
+      "text": "TC craneal basal urgente",
+      "type": "TECNICA_IMAGEN",
+      "start": 266,
+      "end": 290
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 293,
+      "end": 314
+    },
+    {
+      "text": "Angio-TC arterial intracraneal con contraste intravenoso",
+      "type": "TECNICA_IMAGEN",
+      "start": 317,
+      "end": 373
+    }
+  ]
+}

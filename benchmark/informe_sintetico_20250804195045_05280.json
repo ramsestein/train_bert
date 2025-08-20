@@ -1,0 +1,53 @@
+{
+  "document_id": "informe_sintetico_20250804195045_05280",
+  "entities": [
+    {
+      "text": "microhemorragias múltiples",
+      "type": "PATOLOGIA",
+      "start": 678,
+      "end": 704
+    },
+    {
+      "text": "sustancia blanca profunda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 616,
+      "end": 641
+    },
+    {
+      "text": "ganglios basales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 644,
+      "end": 660
+    },
+    {
+      "text": "hemorragias múltiples",
+      "type": "PATOLOGIA",
+      "start": 683,
+      "end": 704
+    },
+    {
+      "text": "hemorragia intraparenquimatosa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 756,
+      "end": 786
+    },
+    {
+      "text": "ACAs, ACMs y ACPs",
+      "type": "ARTERIA",
+      "start": 1333,
+      "end": 1350
+    },
+    {
+      "text": "sin signos de oclusión ni estenosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1364,
+      "end": 1399
+    },
+    {
+      "text": "sin signos de compromiso vascular agudo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1801,
+      "end": 1840
+    }
+  ]
+}

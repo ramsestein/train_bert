@@ -1,0 +1,155 @@
+{
+  "document_id": "informe_sintetico_20250804195045_24827",
+  "entities": [
+    {
+      "text": "accidente vascular isquémico",
+      "type": "PATOLOGIA",
+      "start": 303,
+      "end": 331
+    },
+    {
+      "text": "oclusión arterial",
+      "type": "PATOLOGIA",
+      "start": 409,
+      "end": 426
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 712,
+      "end": 735
+    },
+    {
+      "text": "signos tempranos de infarto establecido",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 739,
+      "end": 778
+    },
+    {
+      "text": "territorio posterior",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 785,
+      "end": 805
+    },
+    {
+      "text": "Línea media centrada",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 867,
+      "end": 887
+    },
+    {
+      "text": "Cisternas basales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 957,
+      "end": 974
+    },
+    {
+      "text": "tiempo a pico (TTP)",
+      "type": "MEDIDA",
+      "start": 1035,
+      "end": 1054
+    },
+    {
+      "text": "flujo cerebral (CBF)",
+      "type": "MEDIDA",
+      "start": 1073,
+      "end": 1093
+    },
+    {
+      "text": "volumen cerebral (CBV)",
+      "type": "MEDIDA",
+      "start": 1256,
+      "end": 1278
+    },
+    {
+      "text": "isquemia por hipoperfusión",
+      "type": "PATOLOGIA",
+      "start": 1313,
+      "end": 1339
+    },
+    {
+      "text": "ausencia completa de flujo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1362,
+      "end": 1388
+    },
+    {
+      "text": "arteria basilar",
+      "type": "ARTERIA",
+      "start": 1395,
+      "end": 1410
+    },
+    {
+      "text": "arterias vertebrales",
+      "type": "ARTERIA",
+      "start": 1490,
+      "end": 1510
+    },
+    {
+      "text": "circulación posterior",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1597,
+      "end": 1618
+    },
+    {
+      "text": "arterias cerebrales anteriores y medias",
+      "type": "ARTERIA",
+      "start": 1624,
+      "end": 1663
+    },
+    {
+      "text": "sin estenosis de relevancia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1680,
+      "end": 1707
+    },
+    {
+      "text": "aneurismas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1751,
+      "end": 1761
+    },
+    {
+      "text": "malformaciones arteriovenosas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1763,
+      "end": 1792
+    },
+    {
+      "text": "signos de disección arterial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1796,
+      "end": 1824
+    },
+    {
+      "text": "Oclusión completa de arteria basilar",
+      "type": "PATOLOGIA",
+      "start": 1850,
+      "end": 1886
+    },
+    {
+      "text": "área en riesgo de isquemia isquémica",
+      "type": "PATOLOGIA",
+      "start": 2452,
+      "end": 2488
+    },
+    {
+      "text": "territorio vertebrobasilar",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 335,
+      "end": 361
+    },
+    {
+      "text": "cuadro neurológico compatible",
+      "type": "PATOLOGIA",
+      "start": 2535,
+      "end": 2564
+    },
+    {
+      "text": "TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANGIOTC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 2592,
+      "end": 2659
+    }
+  ]
+}

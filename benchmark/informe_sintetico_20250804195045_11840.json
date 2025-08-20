@@ -1,0 +1,107 @@
+{
+  "document_id": "informe_sintetico_20250804195045_11840",
+  "entities": [
+    {
+      "text": "ictus isquémico agudo",
+      "type": "PATOLOGIA",
+      "start": 271,
+      "end": 292
+    },
+    {
+      "text": "signo de arteria hiperdensa",
+      "type": "PATOLOGIA",
+      "start": 621,
+      "end": 648
+    },
+    {
+      "text": "trombo en localización proximal",
+      "type": "PATOLOGIA",
+      "start": 663,
+      "end": 694
+    },
+    {
+      "text": "hipodensidad sutil",
+      "type": "PATOLOGIA",
+      "start": 707,
+      "end": 725
+    },
+    {
+      "text": "área de infarto en desarrollo",
+      "type": "PATOLOGIA",
+      "start": 1436,
+      "end": 1465
+    },
+    {
+      "text": "penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1468,
+      "end": 1486
+    },
+    {
+      "text": "M1",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 565,
+      "end": 567
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "ARTERIA",
+      "start": 574,
+      "end": 604
+    },
+    {
+      "text": "ACM derecha",
+      "type": "ARTERIA",
+      "start": 1291,
+      "end": 1302
+    },
+    {
+      "text": "ASPECTS de 6",
+      "type": "PUNTUACION_CLINICA",
+      "start": 918,
+      "end": 930
+    },
+    {
+      "text": "TC multimodal urgente",
+      "type": "TECNICA_IMAGEN",
+      "start": 313,
+      "end": 334
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 362,
+      "end": 378
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 394,
+      "end": 415
+    },
+    {
+      "text": "Angio-TC extra e intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 418,
+      "end": 447
+    },
+    {
+      "text": "No hay evidencia de hemorragia intra o extraaxial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 932,
+      "end": 981
+    },
+    {
+      "text": "No se observan estenosis ni placas de ateroma significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1794,
+      "end": 1854
+    },
+    {
+      "text": "No hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2313,
+      "end": 2339
+    }
+  ]
+}

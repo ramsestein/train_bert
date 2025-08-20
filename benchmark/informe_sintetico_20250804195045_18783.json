@@ -1,0 +1,53 @@
+{
+  "document_id": "informe_sintetico_20250804195045_18783",
+  "entities": [
+    {
+      "text": "infarto lacunar agudo",
+      "type": "PATOLOGIA",
+      "start": 591,
+      "end": 612
+    },
+    {
+      "text": "cápsula interna izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 549,
+      "end": 574
+    },
+    {
+      "text": "8 mm",
+      "type": "MEDIDA",
+      "start": 524,
+      "end": 528
+    },
+    {
+      "text": "agudo",
+      "type": "TEMPORALIDAD",
+      "start": 239,
+      "end": 244
+    },
+    {
+      "text": "No se observa hemorragia intraparenquimatosa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 614,
+      "end": 658
+    },
+    {
+      "text": "sin alteraciones significativas en flujo cerebral (CBF) global",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1040,
+      "end": 1102
+    },
+    {
+      "text": "sin signos de oclusión o estenosis relevante",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1357,
+      "end": 1401
+    },
+    {
+      "text": "sin estenosis significativa ni placas inestables visibles",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1240,
+      "end": 1297
+    }
+  ]
+}

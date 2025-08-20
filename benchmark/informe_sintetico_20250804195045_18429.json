@@ -1,0 +1,137 @@
+{
+  "document_id": "informe_sintetico_20250804195045_18429",
+  "entities": [
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 266,
+      "end": 280
+    },
+    {
+      "text": "hipodensidad temprana",
+      "type": "PATOLOGIA",
+      "start": 655,
+      "end": 676
+    },
+    {
+      "text": "penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1402,
+      "end": 1420
+    },
+    {
+      "text": "oclusión completa",
+      "type": "PATOLOGIA",
+      "start": 1632,
+      "end": 1649
+    },
+    {
+      "text": "estenosis crítica",
+      "type": "PATOLOGIA",
+      "start": 1776,
+      "end": 1793
+    },
+    {
+      "text": "tronco encefálico",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1136,
+      "end": 1153
+    },
+    {
+      "text": "cerebelo derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 2374,
+      "end": 2390
+    },
+    {
+      "text": "región occipital ipsilateral",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 2393,
+      "end": 2421
+    },
+    {
+      "text": "arteria vertebral derecha",
+      "type": "ARTERIA",
+      "start": 1672,
+      "end": 1697
+    },
+    {
+      "text": "segmento V4",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1654,
+      "end": 1665
+    },
+    {
+      "text": "arteria vertebral izquierda",
+      "type": "ARTERIA",
+      "start": 1740,
+      "end": 1767
+    },
+    {
+      "text": "segmento V3",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1797,
+      "end": 1808
+    },
+    {
+      "text": "agudo",
+      "type": "TEMPORALIDAD",
+      "start": 2154,
+      "end": 2159
+    },
+    {
+      "text": "prolongación del tiempo de tránsito medio (MTT)",
+      "type": "MEDIDA",
+      "start": 1014,
+      "end": 1061
+    },
+    {
+      "text": "tiempo de paso (TTP)",
+      "type": "MEDIDA",
+      "start": 1064,
+      "end": 1084
+    },
+    {
+      "text": "capacidad cerebral de flujo sanguíneo (CBF)",
+      "type": "MEDIDA",
+      "start": 1215,
+      "end": 1258
+    },
+    {
+      "text": "volumen cerebral de sangre (CBV)",
+      "type": "MEDIDA",
+      "start": 1307,
+      "end": 1339
+    },
+    {
+      "text": "mismatch significativo",
+      "type": "MEDIDA",
+      "start": 1425,
+      "end": 1447
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 331,
+      "end": 347
+    },
+    {
+      "text": "angiografía TC arterial",
+      "type": "TECNICA_IMAGEN",
+      "start": 404,
+      "end": 427
+    },
+    {
+      "text": "TC PERFUSIÓN",
+      "type": "TECNICA_IMAGEN",
+      "start": 989,
+      "end": 1001
+    },
+    {
+      "text": "ANGIO-TC EXTRA E INTRACRANEAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 1501,
+      "end": 1530
+    }
+  ]
+}

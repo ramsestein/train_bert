@@ -1,0 +1,89 @@
+{
+  "document_id": "informe_sintetico_20250804195045_03608",
+  "entities": [
+    {
+      "text": "territorio de arteria cerebral media izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1502,
+      "end": 1548
+    },
+    {
+      "text": "ACM",
+      "type": "ARTERIA",
+      "start": 594,
+      "end": 597
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 523,
+      "end": 532
+    },
+    {
+      "text": "ASPECTS de 7",
+      "type": "PUNTUACION_CLINICA",
+      "start": 1630,
+      "end": 1642
+    },
+    {
+      "text": "2 horas",
+      "type": "TEMPORALIDAD",
+      "start": 216,
+      "end": 223
+    },
+    {
+      "text": "hemorragia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 752,
+      "end": 762
+    },
+    {
+      "text": "edema significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 766,
+      "end": 785
+    },
+    {
+      "text": "sin estenosis significativa en otras arterias intracraneales o extracraneales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1324,
+      "end": 1401
+    },
+    {
+      "text": "infarto subagudo",
+      "type": "PATOLOGIA",
+      "start": 1659,
+      "end": 1675
+    },
+    {
+      "text": "sin evidencia de hemorragia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1689,
+      "end": 1716
+    },
+    {
+      "text": "penumbra isquémica significativa",
+      "type": "PATOLOGIA",
+      "start": 1761,
+      "end": 1793
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 294,
+      "end": 310
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 312,
+      "end": 333
+    },
+    {
+      "text": "angio-TC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 336,
+      "end": 366
+    }
+  ]
+}

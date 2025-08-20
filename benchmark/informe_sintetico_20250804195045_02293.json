@@ -1,0 +1,65 @@
+{
+  "document_id": "informe_sintetico_20250804195045_02293",
+  "entities": [
+    {
+      "text": "contusión hemorrágica traumática",
+      "type": "PATOLOGIA",
+      "start": 634,
+      "end": 666
+    },
+    {
+      "text": "lóbulo frontal derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 563,
+      "end": 585
+    },
+    {
+      "text": "8 ml",
+      "type": "MEDIDA",
+      "start": 613,
+      "end": 617
+    },
+    {
+      "text": "desviación menor a 3 mm",
+      "type": "MEDIDA",
+      "start": 729,
+      "end": 752
+    },
+    {
+      "text": "edema circundante",
+      "type": "PATOLOGIA",
+      "start": 777,
+      "end": 794
+    },
+    {
+      "text": "sin datos de isquemia aguda",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1077,
+      "end": 1104
+    },
+    {
+      "text": "sin evidencia de isquemia cerebral asociada",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1812,
+      "end": 1855
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 366,
+      "end": 382
+    },
+    {
+      "text": "TC PERFUSIÓN",
+      "type": "TECNICA_IMAGEN",
+      "start": 964,
+      "end": 976
+    },
+    {
+      "text": "ANGIO-TC EXTRA E INTRACRANEAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 1216,
+      "end": 1245
+    }
+  ]
+}

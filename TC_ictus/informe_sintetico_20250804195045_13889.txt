@@ -1,0 +1,28 @@
+UO_PACN (Unidad Organizativa Médica): RADIO
+
+PRUEB (Prueba solicitada): TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANG IOTC ARTERIAL INTRACRANEAL)
+
+CLIN (Resumen clínico): Paciente con sospecha de ictus isquémico reciente, tratamiento trombolítico previo.
+
+OBSR (Protocolo): TC CODE ICTUS: TC craneal basal, estudio de perfusión cerebral y angiografía extra e intracraneal.
+
+RESL (Resultados):  
+TC CRANEAL BASAL:  
+Se identifica área hipodensa en territorios de la arteria cerebral media izquierda compatible con infarto cerebral subagudo. Se observa pequeña hiperdensidad puntiforme aislada compatible con transformación hemorrágica tipo HI1 en la región corticosubcortical de la ínsula izquierda, sin efecto masa significativo ni desplazamiento de línea media. No se aprecian hemorragias extraaxiales ni otras colecciones sanguíneas. Diferenciación córtico-subcortical en resto del parénquima conservada. Sistema ventricular simétrico, sin colapso de cisternas basales.  
+TC PERFUSIÓN:  
+Se evidencia prolongación leve del tiempo de tránsito medio (TTP) en el área afectada, con CBV y CBF preservados, sin discrepancias relevantes que sugieran zona de penumbra extensa.  
+ANGIO-TC EXTRA E INTRACRANEAL:  
+Arco aórtico y troncos supraaórticos sin estenosis significativas ni ateromatosis relevante. Principal tronco de la arteria cerebral media izquierda con marcado enlentecimiento del flujo en segmento proximal, sin evidencia de oclusión completa. Ambas arterias carótidas internas permeables sin estenosis significativas. Sistema vertebrobasilar sin alteraciones. ACP derecha de origen fetal. No signos de vasculitis o malformaciones vascular.  
+
+CONCL (Conclusiones):  
+Presencia de infarto cerebral en territorio de ACM izquierda con transformación hemorrágica focal tipo HI1, sin complicaciones hemorrágicas mayores ni efecto de masa. Vasos intracraneales permeables con enlentecimiento del flujo en ACM izquierda, compatible con reperfusión parcial. No se observan otras alteraciones agudas.  
+
+ACTI_ADICI (Actividad adicional): Vigilancia neurológica y control neuroimágenes indicado para seguimiento de evolución hemorrágica.  
+
+ICON (Estudio): @RADIO_TC_12345@  
+
+X00DIATXT (Texto del diagnóstico ACR): Transformación hemorrágica tipo HI1 tras infarto cerebral en territorio de ACM izquierda, sin complicaciones hemorrágicas significativas.  
+
+EST_T_DES (Descripción): TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANGIOTC ARTERIAL INTRACRANEAL)  
+
+ZVASOS_D (Der.): Normalidad en sistema vascular extracraneal e intracraneal salvo enlentecimiento flujo en ACM izquierda.

@@ -1,0 +1,167 @@
+{
+  "document_id": "informe_sintetico_20250804195045_24621",
+  "entities": [
+    {
+      "text": "ictus isquémico",
+      "type": "PATOLOGIA",
+      "start": 244,
+      "end": 259
+    },
+    {
+      "text": "oclusión carotídea",
+      "type": "PATOLOGIA",
+      "start": 264,
+      "end": 282
+    },
+    {
+      "text": "hipodensidad restrictiva",
+      "type": "PATOLOGIA",
+      "start": 512,
+      "end": 536
+    },
+    {
+      "text": "infarto agudo reciente",
+      "type": "PATOLOGIA",
+      "start": 660,
+      "end": 682
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 557,
+      "end": 589
+    },
+    {
+      "text": "corteza frontoparietal",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 604,
+      "end": 626
+    },
+    {
+      "text": "núcleo caudado",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 629,
+      "end": 643
+    },
+    {
+      "text": "ASPECTS 6",
+      "type": "PUNTUACION_CLINICA",
+      "start": 802,
+      "end": 811
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 840,
+      "end": 863
+    },
+    {
+      "text": "desplazamiento de estructuras de la línea media",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 867,
+      "end": 914
+    },
+    {
+      "text": "prolongado tiempo de tránsito medio (TTP)",
+      "type": "MEDIDA",
+      "start": 959,
+      "end": 1000
+    },
+    {
+      "text": "aumento de Tmax",
+      "type": "MEDIDA",
+      "start": 1003,
+      "end": 1018
+    },
+    {
+      "text": "reducción significativa de flujo cerebral (CBF)",
+      "type": "MEDIDA",
+      "start": 1057,
+      "end": 1104
+    },
+    {
+      "text": "volumen cerebral de sangre (CBV)",
+      "type": "MEDIDA",
+      "start": 1107,
+      "end": 1139
+    },
+    {
+      "text": "penumbra",
+      "type": "PATOLOGIA",
+      "start": 1196,
+      "end": 1204
+    },
+    {
+      "text": "oclusión completa",
+      "type": "PATOLOGIA",
+      "start": 1270,
+      "end": 1287
+    },
+    {
+      "text": "segmento cervical proximal de la arteria carótida interna izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1291,
+      "end": 1358
+    },
+    {
+      "text": "flujo colateral compensatorio",
+      "type": "PATOLOGIA",
+      "start": 1373,
+      "end": 1402
+    },
+    {
+      "text": "estenosis significativas en arterias vertebrales ni basilar",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1518,
+      "end": 1577
+    },
+    {
+      "text": "territorio de la arteria cerebral media izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 540,
+      "end": 589
+    },
+    {
+      "text": "compromiso de núcleo caudado y corteza frontoparietal",
+      "type": "PATOLOGIA",
+      "start": 1682,
+      "end": 1735
+    },
+    {
+      "text": "oclusión completa del segmento cervical proximal de la arteria carótida interna izquierda",
+      "type": "PATOLOGIA",
+      "start": 1751,
+      "end": 1840
+    },
+    {
+      "text": "área de penumbra",
+      "type": "PATOLOGIA",
+      "start": 1188,
+      "end": 1204
+    },
+    {
+      "text": "tratamiento endovascular urgente",
+      "type": "PATOLOGIA",
+      "start": 1925,
+      "end": 1957
+    },
+    {
+      "text": "ictus",
+      "type": "PATOLOGIA",
+      "start": 244,
+      "end": 249
+    },
+    {
+      "text": "PERFUSION CEREBRAL+ ANGIOTC ARTERIAL INTRACRANEAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 2391,
+      "end": 2440
+    },
+    {
+      "text": "sin evidencia de sangrado intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2308,
+      "end": 2346
+    }
+  ]
+}

@@ -1,0 +1,119 @@
+{
+  "document_id": "informe_sintetico_20250804195045_17519",
+  "entities": [
+    {
+      "text": "infarto cerebral",
+      "type": "PATOLOGIA",
+      "start": 213,
+      "end": 229
+    },
+    {
+      "text": "regiones frontera",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 233,
+      "end": 250
+    },
+    {
+      "text": "watershed frontoparietales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 540,
+      "end": 566
+    },
+    {
+      "text": "región parasagital",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 604,
+      "end": 622
+    },
+    {
+      "text": "corona radiada",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 625,
+      "end": 639
+    },
+    {
+      "text": "isquemia",
+      "type": "PATOLOGIA",
+      "start": 1146,
+      "end": 1154
+    },
+    {
+      "text": "bilaterales",
+      "type": "LATERALIDAD",
+      "start": 567,
+      "end": 578
+    },
+    {
+      "text": "sin signos de hemorragia intra ni extraaxial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 641,
+      "end": 685
+    },
+    {
+      "text": "sin alteraciones de tamaño ni forma",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 835,
+      "end": 870
+    },
+    {
+      "text": "sin evidencia de penumbra significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1236,
+      "end": 1275
+    },
+    {
+      "text": "sin estenosis significativa ni ateromatosis severa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1333,
+      "end": 1383
+    },
+    {
+      "text": "sin signos de oclusión ni estenosis relevantes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1449,
+      "end": 1495
+    },
+    {
+      "text": "sin anomalías destacables",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1633,
+      "end": 1658
+    },
+    {
+      "text": "sin hemorragia intracraneal ni estenosis arterial significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2374,
+      "end": 2437
+    },
+    {
+      "text": "infarto cerebral watershed bilateral",
+      "type": "PATOLOGIA",
+      "start": 1727,
+      "end": 1763
+    },
+    {
+      "text": "zonas límite entre irrigaciones arteriales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 2006,
+      "end": 2048
+    },
+    {
+      "text": "TC Basal + Perfusión Cerebral + AngioTC Arterial Intracraneal y Extra Craneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 308,
+      "end": 385
+    },
+    {
+      "text": "TC Basal y perfusión",
+      "type": "TECNICA_IMAGEN",
+      "start": 1687,
+      "end": 1707
+    },
+    {
+      "text": "AngioTC",
+      "type": "TECNICA_IMAGEN",
+      "start": 340,
+      "end": 347
+    }
+  ]
+}

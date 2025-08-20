@@ -1,0 +1,42 @@
+UO_PACN (Unidad Organizativa Médica): RADIO
+
+PRUEB (Prueba solicitada): TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANG IOTC ARTERIAL INTRACRANEAL)
+
+CLIN (Resumen clínico): Paciente con cuadro reciente de déficit motor focal y evolución neurológica tórpida tras episodio isquémico cerebral.
+
+OBSR (Protocolo): TC craneal basal urgente sin contraste, seguida de perfusión cerebral y angioTC intracraneal y extracraneal para evaluación vascular en contexto de ictus.
+
+RESL (Resultados):
+
+TC CRANEAL BASAL:  
+Se identifica área hipodensa en territorio medio cerebral izquierdo, compatible con lesión isquémica establecida de aproximadamente 3 cm de diámetro en corte axial, que involucra núcleo lenticular y región cortical adyacente.  
+Se evidencia foco hiperdenso excentrado dentro del área isquémica, de morfología irregular y contornos mal definidos, de aproximadamente 8 mm, sugestivo de transformación hemorrágica tipo PH1 (microhemorragia parcial).  
+Moderado edema perilesional con leve efecto de masa, sin desplazamiento significativo de la línea media. No se identifican hematomas extraaxiales. Cisternas basales libres.  
+Sustancia blanca con cambios leves compatibles con enfermedad crónica de pequeño vaso.  
+Sistema ventricular en límites normales para la edad.
+
+TC PERFUSIÓN:  
+Áreas de reducción marcada del flujo cerebral (CBF) y aumento del tiempo de tránsito medio (MTT) en territorio medio cerebral izquierdo, con preservación parcial del volumen cerebral (CBV), compatible con área de penumbra isquémica.  
+En el foco de transformación hemorrágica, se observa disminución localizada del volumen cerebral (CBV).
+
+ANGIO-TC INTRACRANEAL:  
+Oclusión parcial del segmento proximal de la arteria cerebral media izquierda (M1), sin replección distal completa.  
+Arterias intracraneales restantes permeables, sin signos de estenosis ni disección.  
+Sistema vertebrobasilar permeable.
+
+CONCL (Conclusiones):  
+Área isquémica establecida en territorio medio cerebral izquierdo con transformación hemorrágica tipo PH1 representada por microhemorragia intralesional.  
+Moderado edema perilesional sin desplazamiento significativo de línea media.  
+Penumbra isquémica en territorio afectado compatible con riesgo evolutivo.  
+Oclusión parcial de la ACM izquierda en segmento M1.  
+No se observan otras hemorragias intra o extraaxiales.
+
+ACTI_ADICI (Actividad adicional): Seguimiento clínico y neurológico recomendado. Evaluación para tratamiento trombolítico o intervencionista contraindicado dada transformación hemorrágica.
+
+ICON (Estudio): @TC_CODIGO_ICTUS@
+
+X00DIATXT (Texto del diagnóstico ACR): Transformación hemorrágica PH1 en accidente isquémico cerebral en territorio medio cerebral izquierdo con edema perilesional asociado.
+
+EST_T_DES (Descripción): TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANGIOTC ARTERIAL INTRACRANEAL)
+
+ZVASOS_D (Der.): Arteria cerebral media izquierda segmento M1 con oclusión parcial, resto arterial intracraneal permeable.

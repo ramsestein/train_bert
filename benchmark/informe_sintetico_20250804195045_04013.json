@@ -1,0 +1,95 @@
+{
+  "document_id": "informe_sintetico_20250804195045_04013",
+  "entities": [
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 228,
+      "end": 242
+    },
+    {
+      "text": "territorios fronto-parietales bilaterales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 562,
+      "end": 603
+    },
+    {
+      "text": "región occipital izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 612,
+      "end": 638
+    },
+    {
+      "text": "ASPECTS 7",
+      "type": "PUNTUACION_CLINICA",
+      "start": 796,
+      "end": 805
+    },
+    {
+      "text": "infarto",
+      "type": "PATOLOGIA",
+      "start": 1197,
+      "end": 1204
+    },
+    {
+      "text": "penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1231,
+      "end": 1249
+    },
+    {
+      "text": "bifurcación carotídea bilateral",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1502,
+      "end": 1533
+    },
+    {
+      "text": "segmento M2 derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1555,
+      "end": 1574
+    },
+    {
+      "text": "arteria cerebral media",
+      "type": "ARTERIA",
+      "start": 1578,
+      "end": 1600
+    },
+    {
+      "text": "estenosis severa (~70%)",
+      "type": "MEDIDA",
+      "start": 1603,
+      "end": 1626
+    },
+    {
+      "text": "arteria cerebral posterior izquierda",
+      "type": "ARTERIA",
+      "start": 1651,
+      "end": 1687
+    },
+    {
+      "text": "arteria vertebral derecha",
+      "type": "ARTERIA",
+      "start": 1816,
+      "end": 1841
+    },
+    {
+      "text": "No hay evidencia de hemorragia intra o extraaxial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 681,
+      "end": 730
+    },
+    {
+      "text": "No se evidencian signos de disección arterial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1864,
+      "end": 1909
+    },
+    {
+      "text": "No se identifican hemorragias ni desplazamientos de línea media",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2292,
+      "end": 2355
+    }
+  ]
+}

@@ -1,0 +1,233 @@
+{
+  "document_id": "informe_sintetico_20250804195045_06204",
+  "entities": [
+    {
+      "text": "hemiparesia derecha",
+      "type": "PATOLOGIA",
+      "start": 217,
+      "end": 236
+    },
+    {
+      "text": "afasia motora",
+      "type": "PATOLOGIA",
+      "start": 239,
+      "end": 252
+    },
+    {
+      "text": "ictus isquémico",
+      "type": "PATOLOGIA",
+      "start": 321,
+      "end": 336
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 354,
+      "end": 386
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 407,
+      "end": 423
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 613,
+      "end": 636
+    },
+    {
+      "text": "signos de sangrado agudo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 640,
+      "end": 664
+    },
+    {
+      "text": "hipodensidad tenue",
+      "type": "PATOLOGIA",
+      "start": 677,
+      "end": 695
+    },
+    {
+      "text": "circunvolución frontotemporal izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 738,
+      "end": 777
+    },
+    {
+      "text": "efecto de masa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 827,
+      "end": 841
+    },
+    {
+      "text": "desplazamientos de la línea media",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 845,
+      "end": 878
+    },
+    {
+      "text": "ASPECTS 9/10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 927,
+      "end": 939
+    },
+    {
+      "text": "TC PERFUSIÓN",
+      "type": "TECNICA_IMAGEN",
+      "start": 942,
+      "end": 954
+    },
+    {
+      "text": "tiempo de tránsito (TTP)",
+      "type": "MEDIDA",
+      "start": 965,
+      "end": 989
+    },
+    {
+      "text": "retraso marcado",
+      "type": "PATOLOGIA",
+      "start": 1001,
+      "end": 1016
+    },
+    {
+      "text": "territorio superficial izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1023,
+      "end": 1055
+    },
+    {
+      "text": "arteria cerebral media (ACM)",
+      "type": "ARTERIA",
+      "start": 1062,
+      "end": 1090
+    },
+    {
+      "text": "flujo cerebral sanguíneo (CBF)",
+      "type": "MEDIDA",
+      "start": 1120,
+      "end": 1150
+    },
+    {
+      "text": "volumen cerebral sanguíneo (CBV)",
+      "type": "MEDIDA",
+      "start": 1153,
+      "end": 1185
+    },
+    {
+      "text": "zona cortical anterolateral y parietal izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1198,
+      "end": 1246
+    },
+    {
+      "text": "mismatch",
+      "type": "PATOLOGIA",
+      "start": 1256,
+      "end": 1264
+    },
+    {
+      "text": "tejido en riesgo (penumbra isquémica)",
+      "type": "PATOLOGIA",
+      "start": 1316,
+      "end": 1353
+    },
+    {
+      "text": "ANGIO-TC INTRACRANEAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 1356,
+      "end": 1377
+    },
+    {
+      "text": "Oclusión completa",
+      "type": "PATOLOGIA",
+      "start": 1379,
+      "end": 1396
+    },
+    {
+      "text": "segmento M1 de arteria cerebral media izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1400,
+      "end": 1447
+    },
+    {
+      "text": "arterias comunicantes",
+      "type": "ARTERIA",
+      "start": 1487,
+      "end": 1508
+    },
+    {
+      "text": "arterias vertebrobasilares",
+      "type": "ARTERIA",
+      "start": 1511,
+      "end": 1537
+    },
+    {
+      "text": "estenosis ni anomalías significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1542,
+      "end": 1579
+    },
+    {
+      "text": "signos de disección ni trombosis en vasos extracraneales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1599,
+      "end": 1655
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 1708,
+      "end": 1722
+    },
+    {
+      "text": "territorio superficial de arteria cerebral media izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1726,
+      "end": 1784
+    },
+    {
+      "text": "oclusión del segmento M1",
+      "type": "PATOLOGIA",
+      "start": 1801,
+      "end": 1825
+    },
+    {
+      "text": "Angio-TC",
+      "type": "TECNICA_IMAGEN",
+      "start": 1829,
+      "end": 1837
+    },
+    {
+      "text": "alteraciones en perfusión cerebral",
+      "type": "PATOLOGIA",
+      "start": 1840,
+      "end": 1874
+    },
+    {
+      "text": "área de mismatch importante",
+      "type": "PATOLOGIA",
+      "start": 1879,
+      "end": 1906
+    },
+    {
+      "text": "tejido viable",
+      "type": "PATOLOGIA",
+      "start": 1920,
+      "end": 1933
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 613,
+      "end": 636
+    },
+    {
+      "text": "ASPECTS 9/10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 927,
+      "end": 939
+    }
+  ]
+}

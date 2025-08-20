@@ -1,0 +1,71 @@
+{
+  "document_id": "informe_sintetico_20250804195045_06371",
+  "entities": [
+    {
+      "text": "infarto lacunar agudo",
+      "type": "PATOLOGIA",
+      "start": 613,
+      "end": 634
+    },
+    {
+      "text": "cápsula interna izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 571,
+      "end": 596
+    },
+    {
+      "text": "6 mm",
+      "type": "MEDIDA",
+      "start": 532,
+      "end": 536
+    },
+    {
+      "text": "agudo",
+      "type": "TEMPORALIDAD",
+      "start": 629,
+      "end": 634
+    },
+    {
+      "text": "isquemia lacunar aguda",
+      "type": "PATOLOGIA",
+      "start": 1065,
+      "end": 1087
+    },
+    {
+      "text": "sin signos de afectación de grandes vasos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1413,
+      "end": 1454
+    },
+    {
+      "text": "permeabilidad de la circulación intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1152,
+      "end": 1196
+    },
+    {
+      "text": "sin evidencia de complicaciones hemorrágicas ni estenosis vascular significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1848,
+      "end": 1928
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 329,
+      "end": 345
+    },
+    {
+      "text": "estudio de perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 347,
+      "end": 376
+    },
+    {
+      "text": "angioTC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 379,
+      "end": 408
+    }
+  ]
+}

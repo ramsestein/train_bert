@@ -1,0 +1,251 @@
+{
+  "document_id": "informe_sintetico_20250804195045_23120",
+  "entities": [
+    {
+      "text": "hemiparesia derecha",
+      "type": "PATOLOGIA",
+      "start": 196,
+      "end": 215
+    },
+    {
+      "text": "afasia",
+      "type": "PATOLOGIA",
+      "start": 218,
+      "end": 224
+    },
+    {
+      "text": "ictus cerebral",
+      "type": "PATOLOGIA",
+      "start": 246,
+      "end": 260
+    },
+    {
+      "text": "hipodensidad",
+      "type": "PATOLOGIA",
+      "start": 467,
+      "end": 479
+    },
+    {
+      "text": "sustancia blanca",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 486,
+      "end": 502
+    },
+    {
+      "text": "corteza",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 505,
+      "end": 512
+    },
+    {
+      "text": "territorio parietal izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 517,
+      "end": 546
+    },
+    {
+      "text": "arteria cerebral media distal",
+      "type": "ARTERIA",
+      "start": 590,
+      "end": 619
+    },
+    {
+      "text": "segmentos M2/M3",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 621,
+      "end": 636
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 664,
+      "end": 687
+    },
+    {
+      "text": "edema significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 691,
+      "end": 710
+    },
+    {
+      "text": "ASPECTS 9/10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 712,
+      "end": 724
+    },
+    {
+      "text": "Línea media centrada",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 753,
+      "end": 773
+    },
+    {
+      "text": "sistema ventricular de tamaño normal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 775,
+      "end": 811
+    },
+    {
+      "text": "Cisternas basales libres",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 813,
+      "end": 837
+    },
+    {
+      "text": "reducción localizada",
+      "type": "PATOLOGIA",
+      "start": 899,
+      "end": 919
+    },
+    {
+      "text": "territorio parietal izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 517,
+      "end": 546
+    },
+    {
+      "text": "arteria cerebral media distal",
+      "type": "ARTERIA",
+      "start": 590,
+      "end": 619
+    },
+    {
+      "text": "M2/M3",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 631,
+      "end": 636
+    },
+    {
+      "text": "tiempos de tránsito",
+      "type": "MEDIDA",
+      "start": 1035,
+      "end": 1054
+    },
+    {
+      "text": "tiempo hasta el pico (TTP)",
+      "type": "MEDIDA",
+      "start": 1057,
+      "end": 1083
+    },
+    {
+      "text": "descenso significativo del volumen cerebral de sangre (CBV)",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1089,
+      "end": 1148
+    },
+    {
+      "text": "área en riesgo con tejido potencialmente salvable (penumbra isquémica)",
+      "type": "PATOLOGIA",
+      "start": 1163,
+      "end": 1233
+    },
+    {
+      "text": "oclusión del segmento M2",
+      "type": "PATOLOGIA",
+      "start": 1282,
+      "end": 1306
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "ARTERIA",
+      "start": 1313,
+      "end": 1345
+    },
+    {
+      "text": "Resto de las principales arterias intracraneales y extracraneales permeables",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1347,
+      "end": 1423
+    },
+    {
+      "text": "estenosis significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1428,
+      "end": 1452
+    },
+    {
+      "text": "placas ateromatosas de interés",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1456,
+      "end": 1486
+    },
+    {
+      "text": "Carótidas y sistema vertebrobasilar sin hallazgos patológicos relevantes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1488,
+      "end": 1560
+    },
+    {
+      "text": "hemorragia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 664,
+      "end": 674
+    },
+    {
+      "text": "edema cerebral significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1629,
+      "end": 1657
+    },
+    {
+      "text": "ASPECTS 9",
+      "type": "PUNTUACION_CLINICA",
+      "start": 712,
+      "end": 721
+    },
+    {
+      "text": "hipodensidad incipiente en territorio parietal izquierdo",
+      "type": "PATOLOGIA",
+      "start": 1673,
+      "end": 1729
+    },
+    {
+      "text": "hipoperfusión en territorio ACM distal izquierda (segmentos M2/M3)",
+      "type": "PATOLOGIA",
+      "start": 1767,
+      "end": 1833
+    },
+    {
+      "text": "patrón de penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1839,
+      "end": 1867
+    },
+    {
+      "text": "oclusión segmentaria distal de ACM",
+      "type": "PATOLOGIA",
+      "start": 1887,
+      "end": 1921
+    },
+    {
+      "text": "sin otras alteraciones vasculares significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1922,
+      "end": 1970
+    },
+    {
+      "text": "Infarto cerebral agudo",
+      "type": "PATOLOGIA",
+      "start": 2172,
+      "end": 2194
+    },
+    {
+      "text": "territorio de arteria cerebral media distal izquierda (M2/M3)",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 2198,
+      "end": 2259
+    },
+    {
+      "text": "área de penumbra isquémica identificada en perfusión cerebral",
+      "type": "PATOLOGIA",
+      "start": 2265,
+      "end": 2326
+    },
+    {
+      "text": "Oclusión segmentaria distal arteria cerebral media izquierda (M2)",
+      "type": "PATOLOGIA",
+      "start": 2476,
+      "end": 2541
+    }
+  ]
+}

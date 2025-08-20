@@ -1,0 +1,121 @@
+{
+  "document_id": "informe_sintetico_20250804195045_22875",
+  "entities": [
+    {
+      "text": "isquemia cerebral",
+      "type": "PATOLOGIA",
+      "start": 209,
+      "end": 226
+    },
+    {
+      "text": "focos hipodensos leves corticales",
+      "type": "PATOLOGIA",
+      "start": 446,
+      "end": 479
+    },
+    {
+      "text": "isquemia precoz",
+      "type": "PATOLOGIA",
+      "start": 584,
+      "end": 599
+    },
+    {
+      "text": "arteria cerebral media",
+      "type": "ARTERIA",
+      "start": 933,
+      "end": 955
+    },
+    {
+      "text": "porción distal de la arteria cerebral media (segmento M2) derecha",
+      "type": "ARTERIA",
+      "start": 912,
+      "end": 977
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 970,
+      "end": 977
+    },
+    {
+      "text": "región parietal derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1328,
+      "end": 1351
+    },
+    {
+      "text": "territorio parietal derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 483,
+      "end": 510
+    },
+    {
+      "text": "territorio vascular comprometido",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1372,
+      "end": 1404
+    },
+    {
+      "text": "ASPECTS",
+      "type": "PUNTUACION_CLINICA",
+      "start": 1534,
+      "end": 1541
+    },
+    {
+      "text": "9",
+      "type": "MEDIDA",
+      "start": 1554,
+      "end": 1555
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 282,
+      "end": 298
+    },
+    {
+      "text": "angiografía por angio-TC",
+      "type": "TECNICA_IMAGEN",
+      "start": 332,
+      "end": 356
+    },
+    {
+      "text": "perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 311,
+      "end": 329
+    },
+    {
+      "text": "sin desplazamientos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 713,
+      "end": 732
+    },
+    {
+      "text": "sin estenosis significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1095,
+      "end": 1123
+    },
+    {
+      "text": "sin evidencia de hemorragia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1713,
+      "end": 1740
+    },
+    {
+      "text": "candidato potencial a tratamiento revascularizador",
+      "type": "PATOLOGIA",
+      "start": 1846,
+      "end": 1896
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 1791,
+      "end": 1805
+    }
+  ],
+  "regenerado": true,
+  "fecha_regeneracion": "2025-08-06T11:18:17.884032"
+}

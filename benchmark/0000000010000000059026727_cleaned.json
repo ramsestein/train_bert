@@ -1,0 +1,125 @@
+{
+  "document_id": "0000000010000000059026727_cleaned",
+  "entities": [
+    {
+      "text": "hemorragia aguda",
+      "type": "PATOLOGIA",
+      "start": 316,
+      "end": 332
+    },
+    {
+      "text": "lesiones focales intra o extraaxiales",
+      "type": "PATOLOGIA",
+      "start": 336,
+      "end": 373
+    },
+    {
+      "text": "Hipodensidad en sustancia blanca",
+      "type": "PATOLOGIA",
+      "start": 375,
+      "end": 407
+    },
+    {
+      "text": "enfermedad de pequeño vaso",
+      "type": "PATOLOGIA",
+      "start": 424,
+      "end": 450
+    },
+    {
+      "text": "Dilatación de espacios perivasculares",
+      "type": "PATOLOGIA",
+      "start": 470,
+      "end": 507
+    },
+    {
+      "text": "surcos cerebrales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 544,
+      "end": 561
+    },
+    {
+      "text": "sistema ventricular",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 568,
+      "end": 587
+    },
+    {
+      "text": "Sistema ventricular simétrico y normoposicionado",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 626,
+      "end": 674
+    },
+    {
+      "text": "Estructuras de la línea media centradas",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 676,
+      "end": 715
+    },
+    {
+      "text": "Cisternas basales libres",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 717,
+      "end": 741
+    },
+    {
+      "text": "TTP",
+      "type": "TECNICA_IMAGEN",
+      "start": 802,
+      "end": 805
+    },
+    {
+      "text": "CBV",
+      "type": "TECNICA_IMAGEN",
+      "start": 807,
+      "end": 810
+    },
+    {
+      "text": "CBF",
+      "type": "TECNICA_IMAGEN",
+      "start": 813,
+      "end": 816
+    },
+    {
+      "text": "arteria carótida interna",
+      "type": "ARTERIA",
+      "start": 1031,
+      "end": 1055
+    },
+    {
+      "text": "arterias vertebrales",
+      "type": "ARTERIA",
+      "start": 1225,
+      "end": 1245
+    },
+    {
+      "text": "ACAs, ACMs y ACPs",
+      "type": "ARTERIA",
+      "start": 1346,
+      "end": 1363
+    },
+    {
+      "text": "cervical bajo izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1480,
+      "end": 1503
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 1528,
+      "end": 1538
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1547,
+      "end": 1570
+    },
+    {
+      "text": "sin signos de estenosis significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1671,
+      "end": 1708
+    }
+  ]
+}

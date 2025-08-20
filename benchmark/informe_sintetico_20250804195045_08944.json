@@ -1,0 +1,101 @@
+{
+  "document_id": "informe_sintetico_20250804195045_08944",
+  "entities": [
+    {
+      "text": "infarto",
+      "type": "PATOLOGIA",
+      "start": 267,
+      "end": 274
+    },
+    {
+      "text": "watershed",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 302,
+      "end": 311
+    },
+    {
+      "text": "hemorragia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 498,
+      "end": 508
+    },
+    {
+      "text": "isquémica aguda",
+      "type": "PATOLOGIA",
+      "start": 757,
+      "end": 772
+    },
+    {
+      "text": "ASPECTS 9",
+      "type": "PUNTUACION_CLINICA",
+      "start": 807,
+      "end": 816
+    },
+    {
+      "text": "isquémica",
+      "type": "PATOLOGIA",
+      "start": 757,
+      "end": 766
+    },
+    {
+      "text": "bilaterales",
+      "type": "LATERALIDAD",
+      "start": 634,
+      "end": 645
+    },
+    {
+      "text": "ateromatosis leve",
+      "type": "PATOLOGIA",
+      "start": 1413,
+      "end": 1430
+    },
+    {
+      "text": "sin estenosis significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1432,
+      "end": 1459
+    },
+    {
+      "text": "bilateralmente",
+      "type": "LATERALIDAD",
+      "start": 1638,
+      "end": 1652
+    },
+    {
+      "text": "infarto de tipo watershed bilateral fronto-parietal cortical",
+      "type": "PATOLOGIA",
+      "start": 1763,
+      "end": 1823
+    },
+    {
+      "text": "fase aguda",
+      "type": "TEMPORALIDAD",
+      "start": 1828,
+      "end": 1838
+    },
+    {
+      "text": "hemorragia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 498,
+      "end": 508
+    },
+    {
+      "text": "penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1292,
+      "end": 1310
+    },
+    {
+      "text": "CBV conservado",
+      "type": "PATOLOGIA",
+      "start": 1946,
+      "end": 1960
+    },
+    {
+      "text": "hemodinámica o hipoperfusión",
+      "type": "PATOLOGIA",
+      "start": 2036,
+      "end": 2064
+    }
+  ]
+}

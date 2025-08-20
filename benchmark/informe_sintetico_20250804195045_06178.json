@@ -1,0 +1,101 @@
+{
+  "document_id": "informe_sintetico_20250804195045_06178",
+  "entities": [
+    {
+      "text": "hipodensidad",
+      "type": "PATOLOGIA",
+      "start": 566,
+      "end": 578
+    },
+    {
+      "text": "hiperdensidad",
+      "type": "PATOLOGIA",
+      "start": 582,
+      "end": 595
+    },
+    {
+      "text": "procesos isquémicos",
+      "type": "PATOLOGIA",
+      "start": 609,
+      "end": 628
+    },
+    {
+      "text": "hemorrágicos agudos",
+      "type": "PATOLOGIA",
+      "start": 631,
+      "end": 650
+    },
+    {
+      "text": "edema cerebral",
+      "type": "PATOLOGIA",
+      "start": 788,
+      "end": 802
+    },
+    {
+      "text": "signos de hipertensión intracraneal",
+      "type": "PATOLOGIA",
+      "start": 872,
+      "end": 907
+    },
+    {
+      "text": "ACM",
+      "type": "ARTERIA",
+      "start": 1209,
+      "end": 1212
+    },
+    {
+      "text": "ACA",
+      "type": "ARTERIA",
+      "start": 1214,
+      "end": 1217
+    },
+    {
+      "text": "ACP",
+      "type": "ARTERIA",
+      "start": 1219,
+      "end": 1222
+    },
+    {
+      "text": "vertebrobasilares",
+      "type": "ARTERIA",
+      "start": 1225,
+      "end": 1242
+    },
+    {
+      "text": "10/10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 1540,
+      "end": 1545
+    },
+    {
+      "text": "sin anomalías",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 467,
+      "end": 480
+    },
+    {
+      "text": "sin áreas de retraso",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1062,
+      "end": 1082
+    },
+    {
+      "text": "sin signos de estenosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1245,
+      "end": 1268
+    },
+    {
+      "text": "sin alteraciones vasculares significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1662,
+      "end": 1704
+    },
+    {
+      "text": "sin evidencias de isquemia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1596,
+      "end": 1622
+    }
+  ]
+}

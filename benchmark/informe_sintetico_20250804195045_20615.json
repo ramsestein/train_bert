@@ -1,0 +1,83 @@
+{
+  "document_id": "informe_sintetico_20250804195045_20615",
+  "entities": [
+    {
+      "text": "ictus isquémico",
+      "type": "PATOLOGIA",
+      "start": 254,
+      "end": 269
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 500,
+      "end": 523
+    },
+    {
+      "text": "lesiones hipodensas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 527,
+      "end": 546
+    },
+    {
+      "text": "disminución focal del flujo cerebral",
+      "type": "PATOLOGIA",
+      "start": 805,
+      "end": 841
+    },
+    {
+      "text": "aumento del tiempo de tránsito",
+      "type": "PATOLOGIA",
+      "start": 850,
+      "end": 880
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "ARTERIA",
+      "start": 935,
+      "end": 967
+    },
+    {
+      "text": "segmentos M2-M3",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 969,
+      "end": 984
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 1638,
+      "end": 1652
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "ARTERIA",
+      "start": 935,
+      "end": 967
+    },
+    {
+      "text": "segmentos M2/M3",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1714,
+      "end": 1729
+    },
+    {
+      "text": "ASPECTS 9",
+      "type": "PUNTUACION_CLINICA",
+      "start": 1787,
+      "end": 1796
+    },
+    {
+      "text": "hemorragia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 500,
+      "end": 510
+    },
+    {
+      "text": "angiografía por TC",
+      "type": "TECNICA_IMAGEN",
+      "start": 332,
+      "end": 350
+    }
+  ]
+}

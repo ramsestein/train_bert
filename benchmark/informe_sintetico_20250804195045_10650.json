@@ -1,0 +1,89 @@
+{
+  "document_id": "informe_sintetico_20250804195045_10650",
+  "entities": [
+    {
+      "text": "infarto isquémico",
+      "type": "PATOLOGIA",
+      "start": 534,
+      "end": 551
+    },
+    {
+      "text": "hematoma intraparenquimatoso heterogéneo",
+      "type": "PATOLOGIA",
+      "start": 639,
+      "end": 679
+    },
+    {
+      "text": "más del 30%",
+      "type": "MEDIDA",
+      "start": 723,
+      "end": 734
+    },
+    {
+      "text": "efecto masa",
+      "type": "PATOLOGIA",
+      "start": 777,
+      "end": 788
+    },
+    {
+      "text": "desplazamiento leve de estructuras de la línea media hacia la izquierda",
+      "type": "PATOLOGIA",
+      "start": 791,
+      "end": 862
+    },
+    {
+      "text": "disminución del flujo sanguíneo cerebral",
+      "type": "PATOLOGIA",
+      "start": 960,
+      "end": 1000
+    },
+    {
+      "text": "lesión isquémica extensa",
+      "type": "PATOLOGIA",
+      "start": 1115,
+      "end": 1139
+    },
+    {
+      "text": "Oclusión completa del segmento M1 de la arteria cerebral media derecha",
+      "type": "PATOLOGIA",
+      "start": 1235,
+      "end": 1305
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "ARTERIA",
+      "start": 488,
+      "end": 518
+    },
+    {
+      "text": "sin hallazgos patológicos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1444,
+      "end": 1469
+    },
+    {
+      "text": "agudo",
+      "type": "TEMPORALIDAD",
+      "start": 191,
+      "end": 196
+    },
+    {
+      "text": "TC craneal basal urgente",
+      "type": "TECNICA_IMAGEN",
+      "start": 305,
+      "end": 329
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 332,
+      "end": 353
+    },
+    {
+      "text": "AngioTC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 356,
+      "end": 385
+    }
+  ]
+}

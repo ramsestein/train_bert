@@ -1,0 +1,137 @@
+{
+  "document_id": "informe_sintetico_20250804195045_22232",
+  "entities": [
+    {
+      "text": "ictus isquémico",
+      "type": "PATOLOGIA",
+      "start": 226,
+      "end": 241
+    },
+    {
+      "text": "ASPECTS 9",
+      "type": "PUNTUACION_CLINICA",
+      "start": 525,
+      "end": 534
+    },
+    {
+      "text": "hipodensidad parenquimatosa aguda",
+      "type": "PATOLOGIA",
+      "start": 563,
+      "end": 596
+    },
+    {
+      "text": "borramiento de surcos en región frontoparietal derecha",
+      "type": "PATOLOGIA",
+      "start": 610,
+      "end": 664
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "ARTERIA",
+      "start": 911,
+      "end": 941
+    },
+    {
+      "text": "segmentos M2 y M3",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 943,
+      "end": 960
+    },
+    {
+      "text": "penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1071,
+      "end": 1089
+    },
+    {
+      "text": "región opercular y parietal alta derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1122,
+      "end": 1162
+    },
+    {
+      "text": "defecto de repleción compatible con oclusión",
+      "type": "PATOLOGIA",
+      "start": 1215,
+      "end": 1259
+    },
+    {
+      "text": "segmento distal de arteria cerebral media derecha",
+      "type": "ARTERIA",
+      "start": 1263,
+      "end": 1312
+    },
+    {
+      "text": "territorio M2/M3",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1317,
+      "end": 1333
+    },
+    {
+      "text": "ASPECTS 9",
+      "type": "PUNTUACION_CLINICA",
+      "start": 525,
+      "end": 534
+    },
+    {
+      "text": "hemorragia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 431,
+      "end": 441
+    },
+    {
+      "text": "infarto establecido significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1745,
+      "end": 1778
+    },
+    {
+      "text": "TC craneal basal sin contraste",
+      "type": "TECNICA_IMAGEN",
+      "start": 262,
+      "end": 292
+    },
+    {
+      "text": "estudio de perfusión cerebral dinámica",
+      "type": "TECNICA_IMAGEN",
+      "start": 294,
+      "end": 332
+    },
+    {
+      "text": "angiografía TC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 335,
+      "end": 371
+    },
+    {
+      "text": "prolongación del tiempo de tránsito medio (MTT)",
+      "type": "MEDIDA",
+      "start": 795,
+      "end": 842
+    },
+    {
+      "text": "aumento del tiempo hasta el pico (TTP)",
+      "type": "MEDIDA",
+      "start": 845,
+      "end": 883
+    },
+    {
+      "text": "reducción moderada del flujo cerebral (CBF)",
+      "type": "MEDIDA",
+      "start": 967,
+      "end": 1010
+    },
+    {
+      "text": "volumen cerebral (CBV) preservado",
+      "type": "MEDIDA",
+      "start": 1013,
+      "end": 1046
+    },
+    {
+      "text": "Sistema vertebrobasilar permeable",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1450,
+      "end": 1483
+    }
+  ]
+}

@@ -1,0 +1,221 @@
+{
+  "document_id": "0000000010000000058225363_cleaned",
+  "entities": [
+    {
+      "text": "HSA gruesa con patrón aneurismático",
+      "type": "PATOLOGIA",
+      "start": 346,
+      "end": 381
+    },
+    {
+      "text": "cisuras Silvianas",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 408,
+      "end": 425
+    },
+    {
+      "text": "izquierdo",
+      "type": "LATERALIDAD",
+      "start": 440,
+      "end": 449
+    },
+    {
+      "text": "cisterna supraquiasmática",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 451,
+      "end": 476
+    },
+    {
+      "text": "cisura interhemisférica anterior",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 479,
+      "end": 511
+    },
+    {
+      "text": "No hay contaminación hemática intraventricular",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 513,
+      "end": 559
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 561,
+      "end": 571
+    },
+    {
+      "text": "No se observan lesiones de isquemia establecida",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 619,
+      "end": 666
+    },
+    {
+      "text": "Sistema ventricular de morfología normal",
+      "type": "PATOLOGIA",
+      "start": 709,
+      "end": 749
+    },
+    {
+      "text": "ligero aumento de tamaño de astas temporales",
+      "type": "PATOLOGIA",
+      "start": 766,
+      "end": 810
+    },
+    {
+      "text": "Prolongación de los mapas de tiempo",
+      "type": "PATOLOGIA",
+      "start": 854,
+      "end": 889
+    },
+    {
+      "text": "caída en el mapa de CBF",
+      "type": "PATOLOGIA",
+      "start": 904,
+      "end": 927
+    },
+    {
+      "text": "territorio frontera subcortical ACA-ACM izquierdos",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 931,
+      "end": 981
+    },
+    {
+      "text": "territorio cortical parietal izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1009,
+      "end": 1047
+    },
+    {
+      "text": "normalidad de los mapas de CBV",
+      "type": "PATOLOGIA",
+      "start": 1053,
+      "end": 1083
+    },
+    {
+      "text": "Aneurisma del complejo comunicante anterior de 9x6 mm",
+      "type": "PATOLOGIA",
+      "start": 1116,
+      "end": 1169
+    },
+    {
+      "text": "9x6 mm",
+      "type": "MEDIDA",
+      "start": 1163,
+      "end": 1169
+    },
+    {
+      "text": "segmentos A2 de ambas ACAs",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1259,
+      "end": 1285
+    },
+    {
+      "text": "Dilatación fusiforme de la arteria basilar",
+      "type": "PATOLOGIA",
+      "start": 1323,
+      "end": 1365
+    },
+    {
+      "text": "emergencia de ramas ACP-SCA",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1372,
+      "end": 1399
+    },
+    {
+      "text": "valorar blister mediante arteriografía",
+      "type": "PATOLOGIA",
+      "start": 1401,
+      "end": 1439
+    },
+    {
+      "text": "Dudoso aneurisma de 1.5mm en ACI supraclinoidea derecha",
+      "type": "PATOLOGIA",
+      "start": 1441,
+      "end": 1496
+    },
+    {
+      "text": "1.5mm",
+      "type": "MEDIDA",
+      "start": 1461,
+      "end": 1466
+    },
+    {
+      "text": "disminución del calibre del segmento supraclinoideo de la ACI izquierda",
+      "type": "PATOLOGIA",
+      "start": 1520,
+      "end": 1591
+    },
+    {
+      "text": "ACM y ACA izquierdas",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1602,
+      "end": 1622
+    },
+    {
+      "text": "vasoespasmo",
+      "type": "PATOLOGIA",
+      "start": 1639,
+      "end": 1650
+    },
+    {
+      "text": "No se visualiza claramente el segmento A1 izquierdo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1652,
+      "end": 1703
+    },
+    {
+      "text": "hipoplasia vs vasoespasmo",
+      "type": "PATOLOGIA",
+      "start": 1705,
+      "end": 1730
+    },
+    {
+      "text": "Resto de arterias intracraneales (ACAd, ACMs, ACPs) permeables",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1733,
+      "end": 1795
+    },
+    {
+      "text": "Sistema vertebrobasilar permeable",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1797,
+      "end": 1830
+    },
+    {
+      "text": "Circulación carotídea-cervical y arco aórtico sin signos de estenosis significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1832,
+      "end": 1915
+    },
+    {
+      "text": "HSA mF III secundaria a aneurisma del complejo comunicante anterior de 9x6 mm",
+      "type": "PATOLOGIA",
+      "start": 2004,
+      "end": 2081
+    },
+    {
+      "text": "signos de rotura reciente",
+      "type": "PATOLOGIA",
+      "start": 2086,
+      "end": 2111
+    },
+    {
+      "text": "Posible blister del top de la basilar",
+      "type": "PATOLOGIA",
+      "start": 2136,
+      "end": 2173
+    },
+    {
+      "text": "dudoso aneurisma de 1.5mm en ACI supraclinoidea derecha",
+      "type": "PATOLOGIA",
+      "start": 2176,
+      "end": 2231
+    },
+    {
+      "text": "valorar en arteriografía",
+      "type": "PATOLOGIA",
+      "start": 2233,
+      "end": 2257
+    }
+  ]
+}

@@ -1,0 +1,149 @@
+{
+  "document_id": "informe_sintetico_20250804195045_05453",
+  "entities": [
+    {
+      "text": "paro cardiorrespiratorio",
+      "type": "PATOLOGIA",
+      "start": 194,
+      "end": 218
+    },
+    {
+      "text": "encefalopatía hipóxico-isquémica",
+      "type": "PATOLOGIA",
+      "start": 278,
+      "end": 310
+    },
+    {
+      "text": "región parasagital de lóbulos frontales y parietales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 636,
+      "end": 688
+    },
+    {
+      "text": "hemorragia aguda intra o extraaxial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 793,
+      "end": 828
+    },
+    {
+      "text": "colecciones hemorrágicas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 755,
+      "end": 779
+    },
+    {
+      "text": "tamaño conservado",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 913,
+      "end": 930
+    },
+    {
+      "text": "hidrocefalia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 949,
+      "end": 961
+    },
+    {
+      "text": "disminución global del flujo cerebral",
+      "type": "PATOLOGIA",
+      "start": 1027,
+      "end": 1064
+    },
+    {
+      "text": "tiempo de tránsito medio",
+      "type": "PATOLOGIA",
+      "start": 1085,
+      "end": 1109
+    },
+    {
+      "text": "frontal",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 666,
+      "end": 673
+    },
+    {
+      "text": "parietal",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 678,
+      "end": 686
+    },
+    {
+      "text": "daño hipóxico-isquémico difuso",
+      "type": "PATOLOGIA",
+      "start": 1408,
+      "end": 1438
+    },
+    {
+      "text": "oclusiones ni estenosis significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1491,
+      "end": 1529
+    },
+    {
+      "text": "ACAs, ACMs, ACPs",
+      "type": "ARTERIA",
+      "start": 1620,
+      "end": 1636
+    },
+    {
+      "text": "trombosis o embolismo arterial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1673,
+      "end": 1703
+    },
+    {
+      "text": "alteraciones difusas en la perfusión cerebral",
+      "type": "PATOLOGIA",
+      "start": 1917,
+      "end": 1962
+    },
+    {
+      "text": "bilateral",
+      "type": "LATERALIDAD",
+      "start": 1186,
+      "end": 1195
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2005,
+      "end": 2028
+    },
+    {
+      "text": "oclusiones o estenosis importantes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2100,
+      "end": 2134
+    },
+    {
+      "text": "TC craneal basal sin contraste",
+      "type": "TECNICA_IMAGEN",
+      "start": 363,
+      "end": 393
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 406,
+      "end": 427
+    },
+    {
+      "text": "Angio-TC arterial intra y extracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 430,
+      "end": 468
+    },
+    {
+      "text": "técnica multidetector",
+      "type": "TECNICA_IMAGEN",
+      "start": 484,
+      "end": 505
+    },
+    {
+      "text": "cortes axiales finos",
+      "type": "TECNICA_IMAGEN",
+      "start": 507,
+      "end": 527
+    }
+  ]
+}

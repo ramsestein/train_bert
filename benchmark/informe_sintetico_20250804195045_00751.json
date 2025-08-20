@@ -1,0 +1,59 @@
+{
+  "document_id": "informe_sintetico_20250804195045_00751",
+  "entities": [
+    {
+      "text": "infarto lacunar agudo",
+      "type": "PATOLOGIA",
+      "start": 278,
+      "end": 299
+    },
+    {
+      "text": "núcleo lenticular derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 576,
+      "end": 601
+    },
+    {
+      "text": "ASPECTS 9",
+      "type": "PUNTUACION_CLINICA",
+      "start": 779,
+      "end": 788
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 962,
+      "end": 969
+    },
+    {
+      "text": "disminución leve del CBF y CBV",
+      "type": "PATOLOGIA",
+      "start": 908,
+      "end": 938
+    },
+    {
+      "text": "TTP",
+      "type": "MEDIDA",
+      "start": 378,
+      "end": 381
+    },
+    {
+      "text": "sin evidencia de área de penumbra ni mismatch significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1020,
+      "end": 1079
+    },
+    {
+      "text": "sin estenosis ni oclusiones",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1185,
+      "end": 1212
+    },
+    {
+      "text": "sin hemorragia cerebral asociada ni complicaciones vasculares significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1832,
+      "end": 1908
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "document_id": "informe_sintetico_20250804195045_05570",
+  "entities": [
+    {
+      "text": "accidente vascular isquémico",
+      "type": "PATOLOGIA",
+      "start": 309,
+      "end": 337
+    },
+    {
+      "text": "hemiparesia bilateral",
+      "type": "PATOLOGIA",
+      "start": 254,
+      "end": 275
+    },
+    {
+      "text": "disartria",
+      "type": "PATOLOGIA",
+      "start": 278,
+      "end": 287
+    },
+    {
+      "text": "tronco encefálico",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 733,
+      "end": 750
+    },
+    {
+      "text": "arteria basilar",
+      "type": "ARTERIA",
+      "start": 1279,
+      "end": 1294
+    },
+    {
+      "text": "bilateral",
+      "type": "LATERALIDAD",
+      "start": 266,
+      "end": 275
+    },
+    {
+      "text": "68 años",
+      "type": "MEDIDA",
+      "start": 188,
+      "end": 195
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 809,
+      "end": 819
+    },
+    {
+      "text": "TTP",
+      "type": "PUNTUACION_CLINICA",
+      "start": 1130,
+      "end": 1133
+    },
+    {
+      "text": "Tmax",
+      "type": "PUNTUACION_CLINICA",
+      "start": 1159,
+      "end": 1163
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 388,
+      "end": 404
+    },
+    {
+      "text": "perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 504,
+      "end": 522
+    },
+    {
+      "text": "angioTC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 525,
+      "end": 554
+    },
+    {
+      "text": "TC PERFUSIÓN",
+      "type": "TECNICA_IMAGEN",
+      "start": 924,
+      "end": 936
+    },
+    {
+      "text": "ANGIO-TC EXTRA E INTRACRANEAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 1208,
+      "end": 1237
+    },
+    {
+      "text": "sin pérdida clara de diferenciación cortico-subcortical",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 752,
+      "end": 807
+    },
+    {
+      "text": "sin estenosis significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1408,
+      "end": 1435
+    },
+    {
+      "text": "sin evidencia de hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2235,
+      "end": 2275
+    }
+  ],
+  "regenerado": true,
+  "fecha_regeneracion": "2025-08-06T05:32:06.481787"
+}

@@ -1,0 +1,137 @@
+{
+  "document_id": "informe_sintetico_20250804195045_08107",
+  "entities": [
+    {
+      "text": "ictus isquémico",
+      "type": "PATOLOGIA",
+      "start": 207,
+      "end": 222
+    },
+    {
+      "text": "transformación hemorrágica",
+      "type": "PATOLOGIA",
+      "start": 256,
+      "end": 282
+    },
+    {
+      "text": "hipodensidad",
+      "type": "PATOLOGIA",
+      "start": 459,
+      "end": 471
+    },
+    {
+      "text": "infarto isquémico",
+      "type": "PATOLOGIA",
+      "start": 548,
+      "end": 565
+    },
+    {
+      "text": "núcleo lenticular",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 586,
+      "end": 603
+    },
+    {
+      "text": "cápsula interna",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 606,
+      "end": 621
+    },
+    {
+      "text": "5 mm",
+      "type": "MEDIDA",
+      "start": 702,
+      "end": 706
+    },
+    {
+      "text": "HI1",
+      "type": "PUNTUACION_CLINICA",
+      "start": 771,
+      "end": 774
+    },
+    {
+      "text": "ACM izquierda",
+      "type": "ARTERIA",
+      "start": 1148,
+      "end": 1161
+    },
+    {
+      "text": "ACM izquierda",
+      "type": "ARTERIA",
+      "start": 1148,
+      "end": 1161
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "ARTERIA",
+      "start": 498,
+      "end": 530
+    },
+    {
+      "text": "M1 proximal",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1456,
+      "end": 1467
+    },
+    {
+      "text": "sin oclusiones ni estenosis hemodinámicamente significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1469,
+      "end": 1529
+    },
+    {
+      "text": "sin alteraciones morfológicas relevantes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1578,
+      "end": 1618
+    },
+    {
+      "text": "sin efecto masa significativo ni desplazamiento de estructuras de línea media",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 776,
+      "end": 853
+    },
+    {
+      "text": "sin volúmenes parenquimatosos afectados extensamente",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1209,
+      "end": 1261
+    },
+    {
+      "text": "área penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1278,
+      "end": 1301
+    },
+    {
+      "text": "prolongación moderada del tiempo de tránsito medio (TTP)",
+      "type": "PATOLOGIA",
+      "start": 1074,
+      "end": 1130
+    },
+    {
+      "text": "disminución leve en flujo cerebral (CBF)",
+      "type": "PATOLOGIA",
+      "start": 1167,
+      "end": 1207
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 303,
+      "end": 319
+    },
+    {
+      "text": "perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 337,
+      "end": 355
+    },
+    {
+      "text": "angiografía TC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 358,
+      "end": 394
+    }
+  ]
+}

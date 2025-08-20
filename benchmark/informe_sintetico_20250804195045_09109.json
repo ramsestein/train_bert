@@ -1,0 +1,101 @@
+{
+  "document_id": "informe_sintetico_20250804195045_09109",
+  "entities": [
+    {
+      "text": "infartos isquémicos agudos",
+      "type": "PATOLOGIA",
+      "start": 570,
+      "end": 596
+    },
+    {
+      "text": "frontales derechos",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 510,
+      "end": 528
+    },
+    {
+      "text": "parietales izquierdos",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 531,
+      "end": 552
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 623,
+      "end": 646
+    },
+    {
+      "text": "edema cerebral significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 650,
+      "end": 678
+    },
+    {
+      "text": "tiempo de tránsito medio (MTT)",
+      "type": "MEDIDA",
+      "start": 892,
+      "end": 922
+    },
+    {
+      "text": "tiempo hasta el pico (TTP)",
+      "type": "MEDIDA",
+      "start": 929,
+      "end": 955
+    },
+    {
+      "text": "flujo cerebral (CBF)",
+      "type": "MEDIDA",
+      "start": 983,
+      "end": 1003
+    },
+    {
+      "text": "regiones frontales y parietales bilaterales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1063,
+      "end": 1106
+    },
+    {
+      "text": "penumbra isquémica múltiple",
+      "type": "PATOLOGIA",
+      "start": 1204,
+      "end": 1231
+    },
+    {
+      "text": "oclusión completa del segmento proximal de la arteria cerebral media derecha (ACM M1)",
+      "type": "PATOLOGIA",
+      "start": 1312,
+      "end": 1397
+    },
+    {
+      "text": "permeabilidad",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1650,
+      "end": 1663
+    },
+    {
+      "text": "estenosis significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1669,
+      "end": 1692
+    },
+    {
+      "text": "estenosis crítica en ACA izquierda",
+      "type": "PATOLOGIA",
+      "start": 1860,
+      "end": 1894
+    },
+    {
+      "text": "penumbra isquémica detectada en perfusión cerebral",
+      "type": "PATOLOGIA",
+      "start": 1919,
+      "end": 1969
+    },
+    {
+      "text": "complicaciones hemorrágicas evidentes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1974,
+      "end": 2011
+    }
+  ]
+}

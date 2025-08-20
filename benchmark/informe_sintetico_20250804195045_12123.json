@@ -1,0 +1,89 @@
+{
+  "document_id": "informe_sintetico_20250804195045_12123",
+  "entities": [
+    {
+      "text": "hemorragia intracraneal",
+      "type": "PATOLOGIA",
+      "start": 255,
+      "end": 278
+    },
+    {
+      "text": "colección hiperdensa focal lobar en región frontal izquierda",
+      "type": "PATOLOGIA",
+      "start": 489,
+      "end": 549
+    },
+    {
+      "text": "hematoma lobar",
+      "type": "PATOLOGIA",
+      "start": 597,
+      "end": 611
+    },
+    {
+      "text": "25 x 18 mm",
+      "type": "MEDIDA",
+      "start": 570,
+      "end": 580
+    },
+    {
+      "text": "sin desplazamiento significativo de la línea media",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 666,
+      "end": 716
+    },
+    {
+      "text": "sin signos de hemoventrículo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 801,
+      "end": 829
+    },
+    {
+      "text": "sin evidencia de territorio isquémico distal significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 956,
+      "end": 1014
+    },
+    {
+      "text": "sin estenosis ni oclusiones importantes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1232,
+      "end": 1271
+    },
+    {
+      "text": "Hematoma lobar frontal izquierdo",
+      "type": "PATOLOGIA",
+      "start": 1391,
+      "end": 1423
+    },
+    {
+      "text": "2,5 cm",
+      "type": "MEDIDA",
+      "start": 1441,
+      "end": 1447
+    },
+    {
+      "text": "TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANG IOTC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 72,
+      "end": 140
+    },
+    {
+      "text": "TC craneal sin contraste",
+      "type": "TECNICA_IMAGEN",
+      "start": 299,
+      "end": 323
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 360,
+      "end": 381
+    },
+    {
+      "text": "angioTC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 384,
+      "end": 413
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "document_id": "informe_sintetico_20250804195045_11816",
+  "entities": [
+    {
+      "text": "ictus isquémico",
+      "type": "PATOLOGIA",
+      "start": 229,
+      "end": 244
+    },
+    {
+      "text": "hiperdensidad lineal",
+      "type": "PATOLOGIA",
+      "start": 471,
+      "end": 491
+    },
+    {
+      "text": "signo de arteria hiperdensa",
+      "type": "PATOLOGIA",
+      "start": 563,
+      "end": 590
+    },
+    {
+      "text": "foco hipodenso",
+      "type": "PATOLOGIA",
+      "start": 606,
+      "end": 620
+    },
+    {
+      "text": "infarto",
+      "type": "PATOLOGIA",
+      "start": 1215,
+      "end": 1222
+    },
+    {
+      "text": "ASPECTS 6",
+      "type": "PUNTUACION_CLINICA",
+      "start": 730,
+      "end": 739
+    },
+    {
+      "text": "hemorragias intra ni extraaxiales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 757,
+      "end": 790
+    },
+    {
+      "text": "ACM derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 262,
+      "end": 273
+    },
+    {
+      "text": "segmento M1 de la arteria cerebral media derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 498,
+      "end": 546
+    },
+    {
+      "text": "región insular derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 624,
+      "end": 646
+    },
+    {
+      "text": "núcleo lenticular adyacente",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 649,
+      "end": 676
+    },
+    {
+      "text": "territorio irrigado por la ACM derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1019,
+      "end": 1057
+    },
+    {
+      "text": "segmento M1 de la arteria cerebral media derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 498,
+      "end": 546
+    },
+    {
+      "text": "carótidas",
+      "type": "ARTERIA",
+      "start": 1505,
+      "end": 1514
+    },
+    {
+      "text": "oclusión completa",
+      "type": "PATOLOGIA",
+      "start": 1314,
+      "end": 1331
+    },
+    {
+      "text": "volumen cerebral (CBV) disminuido",
+      "type": "MEDIDA",
+      "start": 1118,
+      "end": 1151
+    },
+    {
+      "text": "reducción marcada del flujo sanguíneo cerebral (CBF)",
+      "type": "MEDIDA",
+      "start": 1063,
+      "end": 1115
+    },
+    {
+      "text": "infarto agudo",
+      "type": "TEMPORALIDAD",
+      "start": 1789,
+      "end": 1802
+    }
+  ]
+}

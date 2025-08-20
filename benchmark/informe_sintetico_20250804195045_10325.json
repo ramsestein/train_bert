@@ -1,0 +1,143 @@
+{
+  "document_id": "informe_sintetico_20250804195045_10325",
+  "entities": [
+    {
+      "text": "isquemia cerebral aguda",
+      "type": "PATOLOGIA",
+      "start": 222,
+      "end": 245
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 513,
+      "end": 536
+    },
+    {
+      "text": "lesiones ocupantes de espacio",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 540,
+      "end": 569
+    },
+    {
+      "text": "hipodensidad cortical",
+      "type": "PATOLOGIA",
+      "start": 587,
+      "end": 608
+    },
+    {
+      "text": "región opercular izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 612,
+      "end": 638
+    },
+    {
+      "text": "ASPECTS 9",
+      "type": "PUNTUACION_CLINICA",
+      "start": 1563,
+      "end": 1572
+    },
+    {
+      "text": "ganglios basales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 717,
+      "end": 733
+    },
+    {
+      "text": "Mapas de tiempo de tránsito (TTP)",
+      "type": "TECNICA_IMAGEN",
+      "start": 839,
+      "end": 872
+    },
+    {
+      "text": "tiempo hasta el máximo (Tmax)",
+      "type": "TECNICA_IMAGEN",
+      "start": 875,
+      "end": 904
+    },
+    {
+      "text": "cortical correspondiente a la rama M2/M3 de la arteria cerebral media izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 941,
+      "end": 1020
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "ARTERIA",
+      "start": 988,
+      "end": 1020
+    },
+    {
+      "text": "flujo cerebral (CBF)",
+      "type": "MEDIDA",
+      "start": 1048,
+      "end": 1068
+    },
+    {
+      "text": "volumen cerebral (CBV)",
+      "type": "MEDIDA",
+      "start": 1071,
+      "end": 1093
+    },
+    {
+      "text": "penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1114,
+      "end": 1132
+    },
+    {
+      "text": "rama distal M2/M3 de arteria cerebral media izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1226,
+      "end": 1279
+    },
+    {
+      "text": "adecuada perfusión en segmentos proximales y colaterales",
+      "type": "PATOLOGIA",
+      "start": 1285,
+      "end": 1341
+    },
+    {
+      "text": "estenosis significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1346,
+      "end": 1369
+    },
+    {
+      "text": "territorio distal de arteria cerebral media izquierda (segmentos M2/M3)",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1486,
+      "end": 1557
+    },
+    {
+      "text": "ASPECTS 9",
+      "type": "PUNTUACION_CLINICA",
+      "start": 1563,
+      "end": 1572
+    },
+    {
+      "text": "área de hipoperfusión compatible con penumbra",
+      "type": "PATOLOGIA",
+      "start": 1575,
+      "end": 1620
+    },
+    {
+      "text": "Oclusión arterial segmentaria en rama distal M2/M3",
+      "type": "PATOLOGIA",
+      "start": 1622,
+      "end": 1672
+    },
+    {
+      "text": "complicaciones hemorrágicas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1715,
+      "end": 1742
+    },
+    {
+      "text": "lesiones intracraneales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1752,
+      "end": 1775
+    }
+  ]
+}

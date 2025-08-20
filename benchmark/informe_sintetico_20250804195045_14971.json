@@ -1,0 +1,77 @@
+{
+  "document_id": "informe_sintetico_20250804195045_14971",
+  "entities": [
+    {
+      "text": "infartos tipo watershed",
+      "type": "PATOLOGIA",
+      "start": 817,
+      "end": 840
+    },
+    {
+      "text": "arterias cerebrales anterior y media",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 712,
+      "end": 748
+    },
+    {
+      "text": "arterias cerebrales media y posterior",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 762,
+      "end": 799
+    },
+    {
+      "text": "ASPECTS 8/10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 903,
+      "end": 915
+    },
+    {
+      "text": "Tmax",
+      "type": "MEDIDA",
+      "start": 1093,
+      "end": 1097
+    },
+    {
+      "text": "reducción moderada del flujo sanguíneo cerebral (CBF)",
+      "type": "PATOLOGIA",
+      "start": 1198,
+      "end": 1251
+    },
+    {
+      "text": "volumen sanguíneo cerebral (CBV)",
+      "type": "MEDIDA",
+      "start": 1258,
+      "end": 1290
+    },
+    {
+      "text": "sin evidencia de oclusión arterial mayor",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1896,
+      "end": 1936
+    },
+    {
+      "text": "No hay hemorragia asociada ni efecto masa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2012,
+      "end": 2053
+    },
+    {
+      "text": "No se identifican hemorragias intra ni extraaxiales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 517,
+      "end": 568
+    },
+    {
+      "text": "No se evidencian oclusiones ni estenosis significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1455,
+      "end": 1510
+    },
+    {
+      "text": "sin alteraciones de tamaño ni morfología",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 980,
+      "end": 1020
+    }
+  ]
+}

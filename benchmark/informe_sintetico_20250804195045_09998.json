@@ -1,0 +1,145 @@
+{
+  "document_id": "informe_sintetico_20250804195045_09998",
+  "entities": [
+    {
+      "text": "cefalea crónica",
+      "type": "PATOLOGIA",
+      "start": 192,
+      "end": 207
+    },
+    {
+      "text": "hipertensión arterial",
+      "type": "PATOLOGIA",
+      "start": 226,
+      "end": 247
+    },
+    {
+      "text": "evento isquémico previo",
+      "type": "PATOLOGIA",
+      "start": 272,
+      "end": 295
+    },
+    {
+      "text": "hemorragia aguda intra ni extraaxial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 558,
+      "end": 594
+    },
+    {
+      "text": "sustancia blanca periventricular",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 716,
+      "end": 748
+    },
+    {
+      "text": "línea media",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 851,
+      "end": 862
+    },
+    {
+      "text": "tiempo de tránsito (TTP)",
+      "type": "TECNICA_IMAGEN",
+      "start": 991,
+      "end": 1015
+    },
+    {
+      "text": "volumen sanguíneo cerebral (CBV)",
+      "type": "TECNICA_IMAGEN",
+      "start": 1017,
+      "end": 1049
+    },
+    {
+      "text": "flujo sanguíneo cerebral (CBF)",
+      "type": "TECNICA_IMAGEN",
+      "start": 1052,
+      "end": 1082
+    },
+    {
+      "text": "hipoperfusión",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1156,
+      "end": 1169
+    },
+    {
+      "text": "mismatch",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1183,
+      "end": 1191
+    },
+    {
+      "text": "troncos supraaórticos",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1244,
+      "end": 1265
+    },
+    {
+      "text": "arterias carótidas internas",
+      "type": "ARTERIA",
+      "start": 1366,
+      "end": 1393
+    },
+    {
+      "text": "ACMs",
+      "type": "ARTERIA",
+      "start": 1455,
+      "end": 1459
+    },
+    {
+      "text": "ACPs",
+      "type": "ARTERIA",
+      "start": 1462,
+      "end": 1466
+    },
+    {
+      "text": "aneurismas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1593,
+      "end": 1603
+    },
+    {
+      "text": "malformaciones vasculares",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1607,
+      "end": 1632
+    },
+    {
+      "text": "cambios crónicos",
+      "type": "PATOLOGIA",
+      "start": 776,
+      "end": 792
+    },
+    {
+      "text": "enfermedad microangiopática leve",
+      "type": "PATOLOGIA",
+      "start": 1752,
+      "end": 1784
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 821,
+      "end": 831
+    },
+    {
+      "text": "alteraciones vasculares significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1842,
+      "end": 1880
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1893,
+      "end": 1907
+    },
+    {
+      "text": "TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANGIOTC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 2033,
+      "end": 2100
+    }
+  ],
+  "regenerado": true,
+  "fecha_regeneracion": "2025-08-06T11:53:32.665306"
+}

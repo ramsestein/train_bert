@@ -1,0 +1,71 @@
+{
+  "document_id": "informe_sintetico_20250804195045_03648",
+  "entities": [
+    {
+      "text": "infarto isquémico subagudo",
+      "type": "PATOLOGIA",
+      "start": 633,
+      "end": 659
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 551,
+      "end": 583
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "ARTERIA",
+      "start": 551,
+      "end": 583
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 574,
+      "end": 583
+    },
+    {
+      "text": "30%",
+      "type": "MEDIDA",
+      "start": 742,
+      "end": 745
+    },
+    {
+      "text": "subagudo",
+      "type": "TEMPORALIDAD",
+      "start": 651,
+      "end": 659
+    },
+    {
+      "text": "HI1",
+      "type": "PUNTUACION_CLINICA",
+      "start": 814,
+      "end": 817
+    },
+    {
+      "text": "TC CÓDIGO ICTUS",
+      "type": "TECNICA_IMAGEN",
+      "start": 362,
+      "end": 377
+    },
+    {
+      "text": "No se identifican hematomas intracerebrales de mayor volumen",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 819,
+      "end": 879
+    },
+    {
+      "text": "sin signos de trombosis ni oclusión",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1569,
+      "end": 1604
+    },
+    {
+      "text": "sin estenosis críticas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2012,
+      "end": 2034
+    }
+  ]
+}

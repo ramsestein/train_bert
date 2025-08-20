@@ -1,0 +1,101 @@
+{
+  "document_id": "informe_sintetico_20250804195045_12427",
+  "entities": [
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 230,
+      "end": 244
+    },
+    {
+      "text": "arteria cerebral posterior",
+      "type": "ARTERIA",
+      "start": 265,
+      "end": 291
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 677,
+      "end": 686
+    },
+    {
+      "text": "déficit de diferenciación cortico-subcortical",
+      "type": "PATOLOGIA",
+      "start": 608,
+      "end": 653
+    },
+    {
+      "text": "isquemia temprana",
+      "type": "PATOLOGIA",
+      "start": 779,
+      "end": 796
+    },
+    {
+      "text": "aumento del tiempo de tránsito promedio (TTP)",
+      "type": "MEDIDA",
+      "start": 944,
+      "end": 989
+    },
+    {
+      "text": "disminución en el volumen sanguíneo cerebral (CBV)",
+      "type": "MEDIDA",
+      "start": 992,
+      "end": 1042
+    },
+    {
+      "text": "disminución clara del flujo sanguíneo cerebral (CBF)",
+      "type": "MEDIDA",
+      "start": 1132,
+      "end": 1184
+    },
+    {
+      "text": "penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1220,
+      "end": 1238
+    },
+    {
+      "text": "área de infarto establecido (core)",
+      "type": "PATOLOGIA",
+      "start": 1257,
+      "end": 1291
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 677,
+      "end": 686
+    },
+    {
+      "text": "sin estenosis significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1519,
+      "end": 1547
+    },
+    {
+      "text": "sin estenosis ni embolias visibles",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1601,
+      "end": 1635
+    },
+    {
+      "text": "isquemia aguda en territorio de arteria cerebral posterior izquierda",
+      "type": "PATOLOGIA",
+      "start": 1701,
+      "end": 1769
+    },
+    {
+      "text": "sin evidencia de infarto establecido ni hemorragia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1804,
+      "end": 1854
+    },
+    {
+      "text": "TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANG IOTC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 72,
+      "end": 140
+    }
+  ]
+}

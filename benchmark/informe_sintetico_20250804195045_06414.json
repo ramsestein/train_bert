@@ -1,0 +1,125 @@
+{
+  "document_id": "informe_sintetico_20250804195045_06414",
+  "entities": [
+    {
+      "text": "hemiparesia derecha",
+      "type": "PATOLOGIA",
+      "start": 276,
+      "end": 295
+    },
+    {
+      "text": "ictus isquémico agudo multiterritorial",
+      "type": "PATOLOGIA",
+      "start": 326,
+      "end": 364
+    },
+    {
+      "text": "áreas hipodensas mal definidas",
+      "type": "PATOLOGIA",
+      "start": 576,
+      "end": 606
+    },
+    {
+      "text": "lesiones isquémicas de evolución aguda o subaguda temprana",
+      "type": "PATOLOGIA",
+      "start": 813,
+      "end": 871
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 887,
+      "end": 910
+    },
+    {
+      "text": "edema cerebral significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 914,
+      "end": 942
+    },
+    {
+      "text": "disminución del flujo cerebral (CBF)",
+      "type": "PATOLOGIA",
+      "start": 1082,
+      "end": 1118
+    },
+    {
+      "text": "tiempo de tránsito medio (MTT)",
+      "type": "MEDIDA",
+      "start": 1230,
+      "end": 1260
+    },
+    {
+      "text": "tiempo hasta el pico (TTP)",
+      "type": "MEDIDA",
+      "start": 1263,
+      "end": 1289
+    },
+    {
+      "text": "disminución del volumen cerebral sanguíneo (CBV)",
+      "type": "PATOLOGIA",
+      "start": 1302,
+      "end": 1350
+    },
+    {
+      "text": "penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1386,
+      "end": 1404
+    },
+    {
+      "text": "núcleo infartado",
+      "type": "PATOLOGIA",
+      "start": 1423,
+      "end": 1439
+    },
+    {
+      "text": "aneurismas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1773,
+      "end": 1783
+    },
+    {
+      "text": "malformaciones vasculares",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1787,
+      "end": 1812
+    },
+    {
+      "text": "ateromatosis leve a moderada",
+      "type": "PATOLOGIA",
+      "start": 1836,
+      "end": 1864
+    },
+    {
+      "text": "isquemia aguda multiterritorial",
+      "type": "PATOLOGIA",
+      "start": 1946,
+      "end": 1977
+    },
+    {
+      "text": "lesiones isquémicas en diferentes estadios",
+      "type": "PATOLOGIA",
+      "start": 2082,
+      "end": 2124
+    },
+    {
+      "text": "hemorragias asociadas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2284,
+      "end": 2305
+    },
+    {
+      "text": "complicaciones inmediatas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2309,
+      "end": 2334
+    },
+    {
+      "text": "TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANG IOTC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 72,
+      "end": 140
+    }
+  ]
+}

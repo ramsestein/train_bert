@@ -1,0 +1,107 @@
+{
+  "document_id": "informe_sintetico_20250804195045_12618",
+  "entities": [
+    {
+      "text": "isquemia",
+      "type": "PATOLOGIA",
+      "start": 258,
+      "end": 266
+    },
+    {
+      "text": "cerebelo hemisférico derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 689,
+      "end": 717
+    },
+    {
+      "text": "protuberancia",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 720,
+      "end": 733
+    },
+    {
+      "text": "territorio vertebrobasilar",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 270,
+      "end": 296
+    },
+    {
+      "text": "arteria vertebral derecha",
+      "type": "ARTERIA",
+      "start": 1249,
+      "end": 1274
+    },
+    {
+      "text": "segmento V2",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1287,
+      "end": 1298
+    },
+    {
+      "text": "tronco basilar",
+      "type": "ARTERIA",
+      "start": 464,
+      "end": 478
+    },
+    {
+      "text": "estenosis severa proximal",
+      "type": "PATOLOGIA",
+      "start": 1439,
+      "end": 1464
+    },
+    {
+      "text": "aproximadamente 80%",
+      "type": "MEDIDA",
+      "start": 1466,
+      "end": 1485
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "TEMPORALIDAD",
+      "start": 1739,
+      "end": 1753
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1700,
+      "end": 1723
+    },
+    {
+      "text": "isquemia aguda vertebrobasilar",
+      "type": "PATOLOGIA",
+      "start": 2014,
+      "end": 2044
+    },
+    {
+      "text": "penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1113,
+      "end": 1131
+    },
+    {
+      "text": "TC CODIGO ICTUS (PERFUSIÓN CEREBRAL + ANGIOTC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 2515,
+      "end": 2583
+    },
+    {
+      "text": "TC CRANEAL BASAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 334,
+      "end": 350
+    },
+    {
+      "text": "TC PERFUSIÓN",
+      "type": "TECNICA_IMAGEN",
+      "start": 902,
+      "end": 914
+    },
+    {
+      "text": "ANGIO-TC EXTRA E INTRACRANEAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 1172,
+      "end": 1201
+    }
+  ]
+}

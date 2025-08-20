@@ -1,0 +1,125 @@
+{
+  "document_id": "informe_sintetico_20250804195045_07386",
+  "entities": [
+    {
+      "text": "ictus isquémico",
+      "type": "PATOLOGIA",
+      "start": 255,
+      "end": 270
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "ARTERIA",
+      "start": 288,
+      "end": 318
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 208,
+      "end": 217
+    },
+    {
+      "text": "ASPECTS 9",
+      "type": "PUNTUACION_CLINICA",
+      "start": 932,
+      "end": 941
+    },
+    {
+      "text": "ligera hipodensidad",
+      "type": "PATOLOGIA",
+      "start": 790,
+      "end": 809
+    },
+    {
+      "text": "lesión isquémica temprana",
+      "type": "PATOLOGIA",
+      "start": 905,
+      "end": 930
+    },
+    {
+      "text": "aumento del tiempo de tránsito medio (MTT)",
+      "type": "MEDIDA",
+      "start": 986,
+      "end": 1028
+    },
+    {
+      "text": "disminución moderada del flujo cerebral (CBF)",
+      "type": "MEDIDA",
+      "start": 1137,
+      "end": 1182
+    },
+    {
+      "text": "conservación relativa del volumen cerebral (CBV)",
+      "type": "MEDIDA",
+      "start": 1188,
+      "end": 1236
+    },
+    {
+      "text": "zona de penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1264,
+      "end": 1290
+    },
+    {
+      "text": "segmento M2 de arteria cerebral media derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1417,
+      "end": 1462
+    },
+    {
+      "text": "sin oclusiones en segmentos proximales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1464,
+      "end": 1502
+    },
+    {
+      "text": "sin alteraciones morfológicas relevantes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1613,
+      "end": 1653
+    },
+    {
+      "text": "segmento M2",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1417,
+      "end": 1428
+    },
+    {
+      "text": "ASPECTS 9",
+      "type": "PUNTUACION_CLINICA",
+      "start": 932,
+      "end": 941
+    },
+    {
+      "text": "ausencia de hemorragia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1785,
+      "end": 1807
+    },
+    {
+      "text": "área en penumbra isquémica limitada",
+      "type": "PATOLOGIA",
+      "start": 1823,
+      "end": 1858
+    },
+    {
+      "text": "TC craneal basal sin contraste",
+      "type": "TECNICA_IMAGEN",
+      "start": 426,
+      "end": 456
+    },
+    {
+      "text": "estudio de perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 458,
+      "end": 487
+    },
+    {
+      "text": "angiografía por TC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 533,
+      "end": 573
+    }
+  ]
+}

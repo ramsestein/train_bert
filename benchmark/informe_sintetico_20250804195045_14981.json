@@ -1,0 +1,119 @@
+{
+  "document_id": "informe_sintetico_20250804195045_14981",
+  "entities": [
+    {
+      "text": "isquemia cerebral",
+      "type": "PATOLOGIA",
+      "start": 208,
+      "end": 225
+    },
+    {
+      "text": "arteria cerebral media",
+      "type": "ARTERIA",
+      "start": 243,
+      "end": 265
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 598,
+      "end": 605
+    },
+    {
+      "text": "M2/M3",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 635,
+      "end": 640
+    },
+    {
+      "text": "ASPECTS 9/10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 642,
+      "end": 654
+    },
+    {
+      "text": "hipoperfusión leve a moderada",
+      "type": "PATOLOGIA",
+      "start": 955,
+      "end": 984
+    },
+    {
+      "text": "flujo sanguíneo cerebral (CBF)",
+      "type": "PATOLOGIA",
+      "start": 1005,
+      "end": 1035
+    },
+    {
+      "text": "volumen sanguíneo cerebral (CBV)",
+      "type": "PATOLOGIA",
+      "start": 1038,
+      "end": 1070
+    },
+    {
+      "text": "mismatch favorable para terapia endovascular o trombólisis",
+      "type": "PATOLOGIA",
+      "start": 1099,
+      "end": 1157
+    },
+    {
+      "text": "defecto de repleción en rama distal M2 derecha de la arteria cerebral media",
+      "type": "PATOLOGIA",
+      "start": 1204,
+      "end": 1279
+    },
+    {
+      "text": "sin compromiso de los segmentos proximales ni de la arteria carótida interna",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1281,
+      "end": 1357
+    },
+    {
+      "text": "sin estenosis significativas ni placas de ateroma relevantes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1433,
+      "end": 1493
+    },
+    {
+      "text": "Isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 1602,
+      "end": 1616
+    },
+    {
+      "text": "territorio de arteria cerebral media distal derecha (M2/M3)",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1620,
+      "end": 1679
+    },
+    {
+      "text": "oclusión confirmada en segmento M2",
+      "type": "PATOLOGIA",
+      "start": 1684,
+      "end": 1718
+    },
+    {
+      "text": "ASPECTS 9",
+      "type": "PUNTUACION_CLINICA",
+      "start": 642,
+      "end": 651
+    },
+    {
+      "text": "mismatch significativo en perfusión cerebral compatible con tejido potencialmente salvable",
+      "type": "PATOLOGIA",
+      "start": 1743,
+      "end": 1833
+    },
+    {
+      "text": "No evidencia de hemorragia ni edema cerebral importante",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1835,
+      "end": 1890
+    },
+    {
+      "text": "sin lesiones significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1945,
+      "end": 1972
+    }
+  ]
+}

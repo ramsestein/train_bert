@@ -1,0 +1,77 @@
+{
+  "document_id": "informe_sintetico_20250804195045_21029",
+  "entities": [
+    {
+      "text": "trombo intraluminal",
+      "type": "PATOLOGIA",
+      "start": 581,
+      "end": 600
+    },
+    {
+      "text": "infarto agudo",
+      "type": "PATOLOGIA",
+      "start": 740,
+      "end": 753
+    },
+    {
+      "text": "ASPECTS",
+      "type": "PUNTUACION_CLINICA",
+      "start": 755,
+      "end": 762
+    },
+    {
+      "text": "arteria cerebral media (ACM) derecha segmento M1",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 484,
+      "end": 532
+    },
+    {
+      "text": "ACM derecha",
+      "type": "ARTERIA",
+      "start": 650,
+      "end": 661
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 513,
+      "end": 520
+    },
+    {
+      "text": "6",
+      "type": "MEDIDA",
+      "start": 188,
+      "end": 189
+    },
+    {
+      "text": "agudo",
+      "type": "TEMPORALIDAD",
+      "start": 748,
+      "end": 753
+    },
+    {
+      "text": "Oclusión completa de arteria cerebral media derecha segmento M1",
+      "type": "PATOLOGIA",
+      "start": 1413,
+      "end": 1476
+    },
+    {
+      "text": "sin estenosis ni alteraciones significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1554,
+      "end": 1598
+    },
+    {
+      "text": "No hay evidencia de sangrado ni efecto de masa significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1925,
+      "end": 1985
+    },
+    {
+      "text": "isquemia aguda de ACM proximal derecha",
+      "type": "PATOLOGIA",
+      "start": 2010,
+      "end": 2048
+    }
+  ]
+}

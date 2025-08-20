@@ -1,0 +1,167 @@
+{
+  "document_id": "informe_sintetico_20250804195045_13235",
+  "entities": [
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 272,
+      "end": 286
+    },
+    {
+      "text": "isquemia incipiente",
+      "type": "PATOLOGIA",
+      "start": 767,
+      "end": 786
+    },
+    {
+      "text": "isquemia en evolución",
+      "type": "PATOLOGIA",
+      "start": 1202,
+      "end": 1223
+    },
+    {
+      "text": "oclusión parcial",
+      "type": "PATOLOGIA",
+      "start": 1921,
+      "end": 1937
+    },
+    {
+      "text": "estenosis severa",
+      "type": "PATOLOGIA",
+      "start": 1508,
+      "end": 1524
+    },
+    {
+      "text": "arteria vertebral izquierda",
+      "type": "ARTERIA",
+      "start": 1327,
+      "end": 1354
+    },
+    {
+      "text": "arteria basilar",
+      "type": "ARTERIA",
+      "start": 1378,
+      "end": 1393
+    },
+    {
+      "text": "arteria vertebral derecha",
+      "type": "ARTERIA",
+      "start": 1569,
+      "end": 1594
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 740,
+      "end": 749
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 740,
+      "end": 749
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 740,
+      "end": 749
+    },
+    {
+      "text": "sin evidencia de tejido necrosado irreversible",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1224,
+      "end": 1270
+    },
+    {
+      "text": "No se observa hemorragia intracraneal ni colecciones extraaxiales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 515,
+      "end": 580
+    },
+    {
+      "text": "No complicaciones hemorrágicas asociadas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2018,
+      "end": 2058
+    },
+    {
+      "text": "territorio vertebrobasilar",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 290,
+      "end": 316
+    },
+    {
+      "text": "región bulbar y protuberancial izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1034,
+      "end": 1074
+    },
+    {
+      "text": "territorio de la arteria vertebral izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1310,
+      "end": 1354
+    },
+    {
+      "text": "porción distal de arteria vertebral izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1460,
+      "end": 1505
+    },
+    {
+      "text": "segmento proximal de arteria basilar",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1357,
+      "end": 1393
+    },
+    {
+      "text": "territorio vertebrobasilar",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 290,
+      "end": 316
+    },
+    {
+      "text": "TC craneal basal urgente",
+      "type": "TECNICA_IMAGEN",
+      "start": 337,
+      "end": 361
+    },
+    {
+      "text": "perfusión cerebral mediante TC dinámica",
+      "type": "TECNICA_IMAGEN",
+      "start": 363,
+      "end": 402
+    },
+    {
+      "text": "angio TC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 405,
+      "end": 435
+    },
+    {
+      "text": "mapa de tiempo de tránsito (TTP)",
+      "type": "TECNICA_IMAGEN",
+      "start": 928,
+      "end": 960
+    },
+    {
+      "text": "reducción significativa del flujo cerebral (CBF)",
+      "type": "MEDIDA",
+      "start": 1087,
+      "end": 1135
+    },
+    {
+      "text": "descenso en el volumen cerebral (CBV)",
+      "type": "MEDIDA",
+      "start": 1140,
+      "end": 1177
+    },
+    {
+      "text": "sin estenosis significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1655,
+      "end": 1683
+    }
+  ]
+}

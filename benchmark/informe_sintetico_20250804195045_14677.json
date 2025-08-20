@@ -1,0 +1,101 @@
+{
+  "document_id": "informe_sintetico_20250804195045_14677",
+  "entities": [
+    {
+      "text": "infarto cerebral",
+      "type": "PATOLOGIA",
+      "start": 271,
+      "end": 287
+    },
+    {
+      "text": "infarto en zona watershed",
+      "type": "PATOLOGIA",
+      "start": 770,
+      "end": 795
+    },
+    {
+      "text": "isquemia",
+      "type": "PATOLOGIA",
+      "start": 1223,
+      "end": 1231
+    },
+    {
+      "text": "córtex fronto-parietal derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 649,
+      "end": 679
+    },
+    {
+      "text": "territorios limítrofes",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 684,
+      "end": 706
+    },
+    {
+      "text": "parietales bilaterales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1031,
+      "end": 1053
+    },
+    {
+      "text": "lado derecho",
+      "type": "LATERALIDAD",
+      "start": 1074,
+      "end": 1086
+    },
+    {
+      "text": "aguda",
+      "type": "TEMPORALIDAD",
+      "start": 2146,
+      "end": 2151
+    },
+    {
+      "text": "sin signos de hemorragia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1972,
+      "end": 1996
+    },
+    {
+      "text": "sin oclusiones ni estenosis relevantes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1747,
+      "end": 1785
+    },
+    {
+      "text": "sin estenosis significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1448,
+      "end": 1475
+    },
+    {
+      "text": "sin hallazgos de oclusión vascular",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2182,
+      "end": 2216
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 341,
+      "end": 357
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 374,
+      "end": 395
+    },
+    {
+      "text": "AngioTC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 398,
+      "end": 427
+    },
+    {
+      "text": "AngioTC",
+      "type": "TECNICA_IMAGEN",
+      "start": 398,
+      "end": 405
+    }
+  ]
+}

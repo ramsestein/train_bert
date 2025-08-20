@@ -1,0 +1,77 @@
+{
+  "document_id": "informe_sintetico_20250804195045_06985",
+  "entities": [
+    {
+      "text": "hematoma subdural agudo",
+      "type": "PATOLOGIA",
+      "start": 287,
+      "end": 310
+    },
+    {
+      "text": "región frontotemporal izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 564,
+      "end": 595
+    },
+    {
+      "text": "12 mm",
+      "type": "MEDIDA",
+      "start": 672,
+      "end": 677
+    },
+    {
+      "text": "6 mm",
+      "type": "MEDIDA",
+      "start": 748,
+      "end": 752
+    },
+    {
+      "text": "izquierdo",
+      "type": "LATERALIDAD",
+      "start": 1135,
+      "end": 1144
+    },
+    {
+      "text": "hemisferio izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1124,
+      "end": 1144
+    },
+    {
+      "text": "sin evidencia clara de infarto establecido",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1259,
+      "end": 1301
+    },
+    {
+      "text": "sin signos evidentes de infarto establecido",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1753,
+      "end": 1796
+    },
+    {
+      "text": "sin alteraciones",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1833,
+      "end": 1849
+    },
+    {
+      "text": "TC craneal basal urgente",
+      "type": "TECNICA_IMAGEN",
+      "start": 331,
+      "end": 355
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 382,
+      "end": 403
+    },
+    {
+      "text": "angioTC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 406,
+      "end": 435
+    }
+  ]
+}

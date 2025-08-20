@@ -1,0 +1,83 @@
+{
+  "document_id": "informe_sintetico_20250804195045_10363",
+  "entities": [
+    {
+      "text": "hemorragia subaracnoidea",
+      "type": "PATOLOGIA",
+      "start": 240,
+      "end": 264
+    },
+    {
+      "text": "cisura silviana derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 481,
+      "end": 504
+    },
+    {
+      "text": "hemorragia intraventricular",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 616,
+      "end": 643
+    },
+    {
+      "text": "lesión isquémica aguda",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 705,
+      "end": 727
+    },
+    {
+      "text": "sangre focal",
+      "type": "PATOLOGIA",
+      "start": 957,
+      "end": 969
+    },
+    {
+      "text": "hipoperfusión",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1049,
+      "end": 1062
+    },
+    {
+      "text": "penumbra isquémica",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1066,
+      "end": 1084
+    },
+    {
+      "text": "5 mm",
+      "type": "MEDIDA",
+      "start": 1272,
+      "end": 1276
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "ARTERIA",
+      "start": 1301,
+      "end": 1331
+    },
+    {
+      "text": "sin complicaciones isquémicas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2112,
+      "end": 2141
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 284,
+      "end": 300
+    },
+    {
+      "text": "Perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 311,
+      "end": 329
+    },
+    {
+      "text": "Angio-TC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 332,
+      "end": 362
+    }
+  ]
+}

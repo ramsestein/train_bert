@@ -1,0 +1,101 @@
+{
+  "document_id": "informe_sintetico_20250804195045_04857",
+  "entities": [
+    {
+      "text": "hemiparesia contralateral",
+      "type": "PATOLOGIA",
+      "start": 179,
+      "end": 204
+    },
+    {
+      "text": "disminución súbita de la fuerza en miembro inferior izquierdo",
+      "type": "PATOLOGIA",
+      "start": 207,
+      "end": 268
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 290,
+      "end": 304
+    },
+    {
+      "text": "arteria cerebral anterior",
+      "type": "ARTERIA",
+      "start": 322,
+      "end": 347
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 693,
+      "end": 700
+    },
+    {
+      "text": "No se observa hemorragia intra ni extraaxial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 529,
+      "end": 573
+    },
+    {
+      "text": "isquemia aguda en territorio de ACA derecha",
+      "type": "PATOLOGIA",
+      "start": 792,
+      "end": 835
+    },
+    {
+      "text": "segmento A2 de la ACA derecha",
+      "type": "ARTERIA",
+      "start": 1506,
+      "end": 1535
+    },
+    {
+      "text": "oclusión parcial",
+      "type": "PATOLOGIA",
+      "start": 1486,
+      "end": 1502
+    },
+    {
+      "text": "sin hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2534,
+      "end": 2561
+    },
+    {
+      "text": "isquemia aguda en territorio de ACA derecha",
+      "type": "PATOLOGIA",
+      "start": 792,
+      "end": 835
+    },
+    {
+      "text": "segmento A2 de ACA derecha",
+      "type": "ARTERIA",
+      "start": 2103,
+      "end": 2129
+    },
+    {
+      "text": "sin hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2534,
+      "end": 2561
+    },
+    {
+      "text": "TC Basal no contrastado",
+      "type": "TECNICA_IMAGEN",
+      "start": 398,
+      "end": 421
+    },
+    {
+      "text": "TC Perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 424,
+      "end": 445
+    },
+    {
+      "text": "AngioTC arterial extra e intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 448,
+      "end": 485
+    }
+  ]
+}

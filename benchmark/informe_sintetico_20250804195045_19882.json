@@ -1,0 +1,77 @@
+{
+  "document_id": "informe_sintetico_20250804195045_19882",
+  "entities": [
+    {
+      "text": "microhemorragias múltiples",
+      "type": "PATOLOGIA",
+      "start": 689,
+      "end": 715
+    },
+    {
+      "text": "corteza cerebral",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 556,
+      "end": 572
+    },
+    {
+      "text": "sustancia blanca subcortical",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 578,
+      "end": 606
+    },
+    {
+      "text": "lóbulos frontal, parietal y temporal",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 635,
+      "end": 671
+    },
+    {
+      "text": "sin desviación de la línea media",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 979,
+      "end": 1011
+    },
+    {
+      "text": "sin alteraciones significativas en el flujo cerebral (CBF), volumen cerebral (CBV) ni tiempo de tránsito medio (MTT)",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1082,
+      "end": 1198
+    },
+    {
+      "text": "sin signos de oclusión ni estenosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1496,
+      "end": 1531
+    },
+    {
+      "text": "sin alteraciones",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1082,
+      "end": 1098
+    },
+    {
+      "text": "angiopatía microvascular",
+      "type": "PATOLOGIA",
+      "start": 2220,
+      "end": 2244
+    },
+    {
+      "text": "TC craneal basal urgente",
+      "type": "TECNICA_IMAGEN",
+      "start": 314,
+      "end": 338
+    },
+    {
+      "text": "perfusión cerebral dinámica",
+      "type": "TECNICA_IMAGEN",
+      "start": 372,
+      "end": 399
+    },
+    {
+      "text": "Angio-TC intra y extracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 402,
+      "end": 431
+    }
+  ]
+}

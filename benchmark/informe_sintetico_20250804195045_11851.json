@@ -1,0 +1,107 @@
+{
+  "document_id": "informe_sintetico_20250804195045_11851",
+  "entities": [
+    {
+      "text": "infarto cerebral reciente",
+      "type": "PATOLOGIA",
+      "start": 179,
+      "end": 204
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 222,
+      "end": 252
+    },
+    {
+      "text": "TC Basal urgente",
+      "type": "TECNICA_IMAGEN",
+      "start": 312,
+      "end": 328
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 330,
+      "end": 351
+    },
+    {
+      "text": "AngioTC extra e intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 354,
+      "end": 382
+    },
+    {
+      "text": "foco hiperdenso heterogéneo",
+      "type": "PATOLOGIA",
+      "start": 560,
+      "end": 587
+    },
+    {
+      "text": "región ganglionar y corona radiada derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 591,
+      "end": 633
+    },
+    {
+      "text": "transformación hemorrágica en infarto isquémico",
+      "type": "PATOLOGIA",
+      "start": 710,
+      "end": 757
+    },
+    {
+      "text": "ASPECTS 7",
+      "type": "PUNTUACION_CLINICA",
+      "start": 1090,
+      "end": 1099
+    },
+    {
+      "text": "aumento del tiempo de tránsito",
+      "type": "PATOLOGIA",
+      "start": 1224,
+      "end": 1254
+    },
+    {
+      "text": "territorio derecho superficial de ACM",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1264,
+      "end": 1301
+    },
+    {
+      "text": "reducción leve del volumen cerebral",
+      "type": "PATOLOGIA",
+      "start": 1307,
+      "end": 1342
+    },
+    {
+      "text": "lesión isquémica evolucionada",
+      "type": "PATOLOGIA",
+      "start": 1365,
+      "end": 1394
+    },
+    {
+      "text": "Oclusión parcial del segmento M2 derecho",
+      "type": "PATOLOGIA",
+      "start": 1506,
+      "end": 1546
+    },
+    {
+      "text": "ASPECTS 7",
+      "type": "PUNTUACION_CLINICA",
+      "start": 1090,
+      "end": 1099
+    },
+    {
+      "text": "No se observan hemorragias subaracnoideas ni extraaxiales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 900,
+      "end": 957
+    },
+    {
+      "text": "No hemorragias extraaxiales associadas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2037,
+      "end": 2075
+    }
+  ]
+}

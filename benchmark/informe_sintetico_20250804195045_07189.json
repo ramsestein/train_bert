@@ -1,0 +1,83 @@
+{
+  "document_id": "informe_sintetico_20250804195045_07189",
+  "entities": [
+    {
+      "text": "hemorragia aguda",
+      "type": "PATOLOGIA",
+      "start": 423,
+      "end": 439
+    },
+    {
+      "text": "isquemia",
+      "type": "PATOLOGIA",
+      "start": 591,
+      "end": 599
+    },
+    {
+      "text": "arteria cerebral media",
+      "type": "ARTERIA",
+      "start": 635,
+      "end": 657
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 555,
+      "end": 564
+    },
+    {
+      "text": "M2/M3",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 669,
+      "end": 674
+    },
+    {
+      "text": "ASPECTS 9/10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 677,
+      "end": 689
+    },
+    {
+      "text": "sin signos de edema cerebral significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 691,
+      "end": 733
+    },
+    {
+      "text": "oclusión trombótica",
+      "type": "PATOLOGIA",
+      "start": 1140,
+      "end": 1159
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "ARTERIA",
+      "start": 1184,
+      "end": 1216
+    },
+    {
+      "text": "M2",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 669,
+      "end": 671
+    },
+    {
+      "text": "sin evidencia de hemorragia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1570,
+      "end": 1597
+    },
+    {
+      "text": "penumbra viable",
+      "type": "PATOLOGIA",
+      "start": 1085,
+      "end": 1100
+    },
+    {
+      "text": "TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANG IOTC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 72,
+      "end": 140
+    }
+  ]
+}

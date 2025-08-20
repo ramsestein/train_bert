@@ -1,0 +1,83 @@
+{
+  "document_id": "informe_sintetico_20250804195045_12900",
+  "entities": [
+    {
+      "text": "hematoma intraparenquimatoso",
+      "type": "PATOLOGIA",
+      "start": 433,
+      "end": 461
+    },
+    {
+      "text": "putamen izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 503,
+      "end": 520
+    },
+    {
+      "text": "cápsula interna",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 545,
+      "end": 560
+    },
+    {
+      "text": "42 x 35 x 38 mm",
+      "type": "MEDIDA",
+      "start": 607,
+      "end": 622
+    },
+    {
+      "text": "28 cc",
+      "type": "MEDIDA",
+      "start": 663,
+      "end": 668
+    },
+    {
+      "text": "6 mm",
+      "type": "MEDIDA",
+      "start": 758,
+      "end": 762
+    },
+    {
+      "text": "edema perilesional",
+      "type": "PATOLOGIA",
+      "start": 681,
+      "end": 699
+    },
+    {
+      "text": "isquémica",
+      "type": "PATOLOGIA",
+      "start": 1230,
+      "end": 1239
+    },
+    {
+      "text": "arterias cerebrales media y anterior izquierdas",
+      "type": "ARTERIA",
+      "start": 1323,
+      "end": 1370
+    },
+    {
+      "text": "izquierdas",
+      "type": "LATERALIDAD",
+      "start": 1360,
+      "end": 1370
+    },
+    {
+      "text": "No hay evidencias de fracturas ni colecciones hemáticas extraaxiales.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 781,
+      "end": 850
+    },
+    {
+      "text": "No se identifican signos angiográficos de sangrado activo (spot sign).",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1424,
+      "end": 1494
+    },
+    {
+      "text": "No evidencia de un sangrado activo en angio-TC.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1768,
+      "end": 1815
+    }
+  ]
+}

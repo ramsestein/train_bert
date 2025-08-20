@@ -1,0 +1,71 @@
+{
+  "document_id": "informe_sintetico_20250804195045_05902",
+  "entities": [
+    {
+      "text": "infarto cerebral subagudo",
+      "type": "PATOLOGIA",
+      "start": 615,
+      "end": 640
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 237,
+      "end": 267
+    },
+    {
+      "text": "ACM",
+      "type": "ARTERIA",
+      "start": 1182,
+      "end": 1185
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 260,
+      "end": 267
+    },
+    {
+      "text": "5 mm",
+      "type": "MEDIDA",
+      "start": 784,
+      "end": 788
+    },
+    {
+      "text": "subagudo",
+      "type": "TEMPORALIDAD",
+      "start": 632,
+      "end": 640
+    },
+    {
+      "text": "HI1",
+      "type": "PUNTUACION_CLINICA",
+      "start": 855,
+      "end": 858
+    },
+    {
+      "text": "TC craneal basal sin contraste",
+      "type": "TECNICA_IMAGEN",
+      "start": 363,
+      "end": 393
+    },
+    {
+      "text": "No se observan hematomas voluminosos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 860,
+      "end": 896
+    },
+    {
+      "text": "Sin signos de oclusión aguda ni estenosis crítica",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1376,
+      "end": 1425
+    },
+    {
+      "text": "No hay hematoma significativo ni efecto masa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1587,
+      "end": 1631
+    }
+  ]
+}

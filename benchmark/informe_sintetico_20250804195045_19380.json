@@ -1,0 +1,125 @@
+{
+  "document_id": "informe_sintetico_20250804195045_19380",
+  "entities": [
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 191,
+      "end": 205
+    },
+    {
+      "text": "territorio vertebrobasilar",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 209,
+      "end": 235
+    },
+    {
+      "text": "hipodensidad",
+      "type": "PATOLOGIA",
+      "start": 540,
+      "end": 552
+    },
+    {
+      "text": "protuberancia",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 559,
+      "end": 572
+    },
+    {
+      "text": "tronco cerebral",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 577,
+      "end": 592
+    },
+    {
+      "text": "región bilateral del cerebelo hemisférico izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 595,
+      "end": 646
+    },
+    {
+      "text": "isquemia temprana",
+      "type": "PATOLOGIA",
+      "start": 742,
+      "end": 759
+    },
+    {
+      "text": "territorio vertebrobasilar",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 209,
+      "end": 235
+    },
+    {
+      "text": "volumen cerebral (CBV)",
+      "type": "MEDIDA",
+      "start": 1025,
+      "end": 1047
+    },
+    {
+      "text": "tronco cerebral",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 577,
+      "end": 592
+    },
+    {
+      "text": "cerebelo izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1084,
+      "end": 1102
+    },
+    {
+      "text": "tiempo hasta el pico (TTP)",
+      "type": "MEDIDA",
+      "start": 1120,
+      "end": 1146
+    },
+    {
+      "text": "retraso en los mapas de tiempo máximo (Tmax)",
+      "type": "MEDIDA",
+      "start": 1149,
+      "end": 1193
+    },
+    {
+      "text": "penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1214,
+      "end": 1232
+    },
+    {
+      "text": "Oclusión completa",
+      "type": "PATOLOGIA",
+      "start": 1365,
+      "end": 1382
+    },
+    {
+      "text": "arteria basilar distal",
+      "type": "ARTERIA",
+      "start": 1389,
+      "end": 1411
+    },
+    {
+      "text": "segmento V4 de la arteria vertebral izquierda",
+      "type": "ARTERIA",
+      "start": 1476,
+      "end": 1521
+    },
+    {
+      "text": "arteria vertebral derecha",
+      "type": "ARTERIA",
+      "start": 1526,
+      "end": 1551
+    },
+    {
+      "text": "lesiones estenóticas significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1610,
+      "end": 1645
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2104,
+      "end": 2127
+    }
+  ]
+}

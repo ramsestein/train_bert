@@ -1,0 +1,259 @@
+{
+  "document_id": "informe_sintetico_20250804195045_08094",
+  "entities": [
+    {
+      "text": "ictus",
+      "type": "PATOLOGIA",
+      "start": 193,
+      "end": 198
+    },
+    {
+      "text": "focalidad neurológica aguda",
+      "type": "PATOLOGIA",
+      "start": 213,
+      "end": 240
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 261,
+      "end": 277
+    },
+    {
+      "text": "angio-TC intra y extracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 279,
+      "end": 308
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 310,
+      "end": 331
+    },
+    {
+      "text": "Corticosubcortical",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 371,
+      "end": 389
+    },
+    {
+      "text": "hemorragias intracraneales",
+      "type": "PATOLOGIA",
+      "start": 431,
+      "end": 457
+    },
+    {
+      "text": "lesiones isquémicas agudas o subagudas",
+      "type": "PATOLOGIA",
+      "start": 461,
+      "end": 499
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 501,
+      "end": 511
+    },
+    {
+      "text": "sistema ventricular",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1353,
+      "end": 1372
+    },
+    {
+      "text": "cisternas basales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 535,
+      "end": 552
+    },
+    {
+      "text": "calcificaciones puntiformes",
+      "type": "PATOLOGIA",
+      "start": 641,
+      "end": 668
+    },
+    {
+      "text": "región de núcleos lenticulares",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 679,
+      "end": 709
+    },
+    {
+      "text": "cambios crónicos",
+      "type": "PATOLOGIA",
+      "start": 727,
+      "end": 743
+    },
+    {
+      "text": "TC PERFUSIÓN",
+      "type": "TECNICA_IMAGEN",
+      "start": 770,
+      "end": 782
+    },
+    {
+      "text": "Mapas de perfusión normales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 784,
+      "end": 811
+    },
+    {
+      "text": "tiempo de tránsito (TTP)",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 845,
+      "end": 869
+    },
+    {
+      "text": "flujo cerebral (CBF)",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 871,
+      "end": 891
+    },
+    {
+      "text": "volumen cerebral (CBV)",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 894,
+      "end": 916
+    },
+    {
+      "text": "mismatch",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 971,
+      "end": 979
+    },
+    {
+      "text": "áreas en riesgo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 983,
+      "end": 998
+    },
+    {
+      "text": "ANGIO-TC EXTRA E INTRACRANEAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 1001,
+      "end": 1030
+    },
+    {
+      "text": "Patrón vascular normal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1032,
+      "end": 1054
+    },
+    {
+      "text": "estenosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1060,
+      "end": 1069
+    },
+    {
+      "text": "malformaciones",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1084,
+      "end": 1098
+    },
+    {
+      "text": "Arcos aórticos",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1100,
+      "end": 1114
+    },
+    {
+      "text": "troncos supraórticos",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1117,
+      "end": 1137
+    },
+    {
+      "text": "placas calcificadas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1142,
+      "end": 1161
+    },
+    {
+      "text": "estenosis significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1164,
+      "end": 1188
+    },
+    {
+      "text": "Sistema vertebrobasilar",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1190,
+      "end": 1213
+    },
+    {
+      "text": "permeable",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1214,
+      "end": 1223
+    },
+    {
+      "text": "aneurismas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1240,
+      "end": 1250
+    },
+    {
+      "text": "dilataciones",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1254,
+      "end": 1266
+    },
+    {
+      "text": "hallazgos agudos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1314,
+      "end": 1330
+    },
+    {
+      "text": "Parénquima cerebral",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1332,
+      "end": 1351
+    },
+    {
+      "text": "rango normal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1388,
+      "end": 1400
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 501,
+      "end": 511
+    },
+    {
+      "text": "Perfusión cerebral",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1414,
+      "end": 1432
+    },
+    {
+      "text": "angio-TC",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 279,
+      "end": 287
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1474,
+      "end": 1488
+    },
+    {
+      "text": "hemorragia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 431,
+      "end": 441
+    },
+    {
+      "text": "relevancia clínica",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1532,
+      "end": 1550
+    }
+  ],
+  "regenerado": true,
+  "fecha_regeneracion": "2025-08-06T15:16:00.281233"
+}

@@ -1,0 +1,71 @@
+{
+  "document_id": "informe_sintetico_20250804195045_19098",
+  "entities": [
+    {
+      "text": "microhemorragias múltiples",
+      "type": "PATOLOGIA",
+      "start": 627,
+      "end": 653
+    },
+    {
+      "text": "regiones subcorticales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 544,
+      "end": 566
+    },
+    {
+      "text": "hemisferios cerebrales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 587,
+      "end": 609
+    },
+    {
+      "text": "infarto agudo",
+      "type": "PATOLOGIA",
+      "start": 800,
+      "end": 813
+    },
+    {
+      "text": "arterias intracraneales",
+      "type": "ARTERIA",
+      "start": 1032,
+      "end": 1055
+    },
+    {
+      "text": "estenosis",
+      "type": "PATOLOGIA",
+      "start": 1103,
+      "end": 1112
+    },
+    {
+      "text": "oclusión",
+      "type": "PATOLOGIA",
+      "start": 1116,
+      "end": 1124
+    },
+    {
+      "text": "microangiopático",
+      "type": "TEMPORALIDAD",
+      "start": 1357,
+      "end": 1373
+    },
+    {
+      "text": "sin complicaciones hemorrágicas mayores",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1374,
+      "end": 1413
+    },
+    {
+      "text": "sin estenosis significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1487,
+      "end": 1514
+    },
+    {
+      "text": "TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANGIOTC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 1807,
+      "end": 1874
+    }
+  ]
+}

@@ -1,0 +1,161 @@
+{
+  "document_id": "informe_sintetico_20250804195045_24913",
+  "entities": [
+    {
+      "text": "hemiparesia derecha",
+      "type": "PATOLOGIA",
+      "start": 217,
+      "end": 236
+    },
+    {
+      "text": "disartria",
+      "type": "PATOLOGIA",
+      "start": 239,
+      "end": 248
+    },
+    {
+      "text": "disección arterial",
+      "type": "PATOLOGIA",
+      "start": 318,
+      "end": 336
+    },
+    {
+      "text": "infarto cerebral",
+      "type": "PATOLOGIA",
+      "start": 349,
+      "end": 365
+    },
+    {
+      "text": "hipodensidad parcheada",
+      "type": "PATOLOGIA",
+      "start": 624,
+      "end": 646
+    },
+    {
+      "text": "infarto isquémico subagudo",
+      "type": "PATOLOGIA",
+      "start": 780,
+      "end": 806
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 833,
+      "end": 856
+    },
+    {
+      "text": "edema cerebral",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 860,
+      "end": 874
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 676,
+      "end": 708
+    },
+    {
+      "text": "sustancia blanca",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 724,
+      "end": 740
+    },
+    {
+      "text": "corteza frontoparietal",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 743,
+      "end": 765
+    },
+    {
+      "text": "territorio de la arteria cerebral media izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1217,
+      "end": 1266
+    },
+    {
+      "text": "arteria carótida interna izquierda",
+      "type": "ARTERIA",
+      "start": 1458,
+      "end": 1492
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "ARTERIA",
+      "start": 676,
+      "end": 708
+    },
+    {
+      "text": "arterias comunicantes",
+      "type": "ARTERIA",
+      "start": 1728,
+      "end": 1749
+    },
+    {
+      "text": "infarto isquémico",
+      "type": "PATOLOGIA",
+      "start": 780,
+      "end": 797
+    },
+    {
+      "text": "fase subaguda",
+      "type": "TEMPORALIDAD",
+      "start": 2051,
+      "end": 2064
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 442,
+      "end": 458
+    },
+    {
+      "text": "perfusión cerebral dinámica",
+      "type": "TECNICA_IMAGEN",
+      "start": 474,
+      "end": 501
+    },
+    {
+      "text": "angio-TC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 504,
+      "end": 534
+    },
+    {
+      "text": "aumento en el tiempo de tránsito medio (MTT)",
+      "type": "MEDIDA",
+      "start": 1056,
+      "end": 1100
+    },
+    {
+      "text": "tiempo pico (TTP)",
+      "type": "MEDIDA",
+      "start": 1106,
+      "end": 1123
+    },
+    {
+      "text": "reducción significativa de flujo sanguíneo cerebral (CBF)",
+      "type": "MEDIDA",
+      "start": 1128,
+      "end": 1185
+    },
+    {
+      "text": "volumen cerebral (CBV)",
+      "type": "MEDIDA",
+      "start": 1188,
+      "end": 1210
+    },
+    {
+      "text": "estenosis crítica",
+      "type": "PATOLOGIA",
+      "start": 1932,
+      "end": 1949
+    },
+    {
+      "text": "compromiso del flujo en territorio cerebral medio ipsilateral",
+      "type": "PATOLOGIA",
+      "start": 1952,
+      "end": 2013
+    }
+  ]
+}

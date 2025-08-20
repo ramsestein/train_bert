@@ -1,0 +1,137 @@
+{
+  "document_id": "informe_sintetico_20250804195045_22184",
+  "entities": [
+    {
+      "text": "ictus isquémico",
+      "type": "PATOLOGIA",
+      "start": 210,
+      "end": 225
+    },
+    {
+      "text": "arteria cerebral media",
+      "type": "ARTERIA",
+      "start": 243,
+      "end": 265
+    },
+    {
+      "text": "izquierdo",
+      "type": "LATERALIDAD",
+      "start": 180,
+      "end": 189
+    },
+    {
+      "text": "ASPECTS 9",
+      "type": "PUNTUACION_CLINICA",
+      "start": 769,
+      "end": 778
+    },
+    {
+      "text": "hipodensidad leve",
+      "type": "PATOLOGIA",
+      "start": 784,
+      "end": 801
+    },
+    {
+      "text": "retraso moderado",
+      "type": "PATOLOGIA",
+      "start": 862,
+      "end": 878
+    },
+    {
+      "text": "tiempos de tránsito",
+      "type": "MEDIDA",
+      "start": 882,
+      "end": 901
+    },
+    {
+      "text": "tiempo de llegada",
+      "type": "MEDIDA",
+      "start": 910,
+      "end": 927
+    },
+    {
+      "text": "arteria cerebral media derecha distal",
+      "type": "ARTERIA",
+      "start": 955,
+      "end": 992
+    },
+    {
+      "text": "zona de penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1084,
+      "end": 1110
+    },
+    {
+      "text": "infarto establecido",
+      "type": "PATOLOGIA",
+      "start": 1138,
+      "end": 1157
+    },
+    {
+      "text": "Oclusión focal",
+      "type": "PATOLOGIA",
+      "start": 1200,
+      "end": 1214
+    },
+    {
+      "text": "segmento M2",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1218,
+      "end": 1229
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "ARTERIA",
+      "start": 955,
+      "end": 985
+    },
+    {
+      "text": "Sistema vertebrobasilar",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1403,
+      "end": 1426
+    },
+    {
+      "text": "penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1092,
+      "end": 1110
+    },
+    {
+      "text": "infarto establecido significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1627,
+      "end": 1660
+    },
+    {
+      "text": "hemorragias",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1706,
+      "end": 1717
+    },
+    {
+      "text": "lesiones ocupantes de espacio",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1721,
+      "end": 1750
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 313,
+      "end": 329
+    },
+    {
+      "text": "TC PERFUSIÓN",
+      "type": "TECNICA_IMAGEN",
+      "start": 832,
+      "end": 844
+    },
+    {
+      "text": "ANGIO-TC ARTERIAL INTRACRANEAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 1166,
+      "end": 1196
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "document_id": "0000000010000000060401031_cleaned",
+  "entities": [
+    {
+      "text": "TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANG IOTC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 72,
+      "end": 140
+    },
+    {
+      "text": "Malaltia no especificada",
+      "type": "PATOLOGIA",
+      "start": 166,
+      "end": 190
+    },
+    {
+      "text": "informe duplicado",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 211,
+      "end": 228
+    },
+    {
+      "text": "informe duplicado",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 211,
+      "end": 228
+    }
+  ],
+  "regenerado": true,
+  "fecha_regeneracion": "2025-08-06T05:57:01.977952"
+}

@@ -1,0 +1,83 @@
+{
+  "document_id": "informe_sintetico_20250804195045_16653",
+  "entities": [
+    {
+      "text": "infarto cerebral agudo",
+      "type": "PATOLOGIA",
+      "start": 645,
+      "end": 667
+    },
+    {
+      "text": "arteria cerebral media (ACM) derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 593,
+      "end": 629
+    },
+    {
+      "text": "ACM",
+      "type": "ARTERIA",
+      "start": 617,
+      "end": 620
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 622,
+      "end": 629
+    },
+    {
+      "text": "agudo",
+      "type": "TEMPORALIDAD",
+      "start": 662,
+      "end": 667
+    },
+    {
+      "text": "PH1",
+      "type": "PUNTUACION_CLINICA",
+      "start": 789,
+      "end": 792
+    },
+    {
+      "text": "área de penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1166,
+      "end": 1192
+    },
+    {
+      "text": "Oclusión parcial",
+      "type": "PATOLOGIA",
+      "start": 1416,
+      "end": 1432
+    },
+    {
+      "text": "ACM derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1138,
+      "end": 1149
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 622,
+      "end": 629
+    },
+    {
+      "text": "sin estenosis significativas ni malformaciones vasculares",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1559,
+      "end": 1616
+    },
+    {
+      "text": "sin estenosis ni oclusiones adicionales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1938,
+      "end": 1977
+    },
+    {
+      "text": "3 horas",
+      "type": "MEDIDA",
+      "start": 209,
+      "end": 216
+    }
+  ]
+}

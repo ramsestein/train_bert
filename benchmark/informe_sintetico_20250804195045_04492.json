@@ -1,0 +1,143 @@
+{
+  "document_id": "informe_sintetico_20250804195045_04492",
+  "entities": [
+    {
+      "text": "hemiparesia bilateral",
+      "type": "PATOLOGIA",
+      "start": 198,
+      "end": 219
+    },
+    {
+      "text": "disartria",
+      "type": "PATOLOGIA",
+      "start": 221,
+      "end": 230
+    },
+    {
+      "text": "alteración del nivel de conciencia",
+      "type": "PATOLOGIA",
+      "start": 233,
+      "end": 267
+    },
+    {
+      "text": "ictus",
+      "type": "PATOLOGIA",
+      "start": 289,
+      "end": 294
+    },
+    {
+      "text": "isquemia precoz",
+      "type": "PATOLOGIA",
+      "start": 680,
+      "end": 695
+    },
+    {
+      "text": "tronco encefálico",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 555,
+      "end": 572
+    },
+    {
+      "text": "territorio vertebrobasilar",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 298,
+      "end": 324
+    },
+    {
+      "text": "bulbo raquídeo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 967,
+      "end": 981
+    },
+    {
+      "text": "puente",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 983,
+      "end": 989
+    },
+    {
+      "text": "cerebelo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 992,
+      "end": 1000
+    },
+    {
+      "text": "tiempo de tránsito medio (MTT)",
+      "type": "MEDIDA",
+      "start": 1041,
+      "end": 1071
+    },
+    {
+      "text": "tiempo hasta el pico (TTP)",
+      "type": "MEDIDA",
+      "start": 1074,
+      "end": 1100
+    },
+    {
+      "text": "80%",
+      "type": "MEDIDA",
+      "start": 1128,
+      "end": 1131
+    },
+    {
+      "text": "oclusión aguda",
+      "type": "PATOLOGIA",
+      "start": 1331,
+      "end": 1345
+    },
+    {
+      "text": "arteria basilar",
+      "type": "ARTERIA",
+      "start": 1268,
+      "end": 1283
+    },
+    {
+      "text": "segmento medio a distal",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1290,
+      "end": 1313
+    },
+    {
+      "text": "segmento distal izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1409,
+      "end": 1434
+    },
+    {
+      "text": "arterias cerebelosas posteriores",
+      "type": "ARTERIA",
+      "start": 1440,
+      "end": 1472
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1834,
+      "end": 1857
+    },
+    {
+      "text": "evento isquémico en fase aguda",
+      "type": "PATOLOGIA",
+      "start": 1885,
+      "end": 1915
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 345,
+      "end": 361
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 383,
+      "end": 404
+    },
+    {
+      "text": "angio-TC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 407,
+      "end": 437
+    }
+  ]
+}

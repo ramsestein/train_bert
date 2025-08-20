@@ -1,0 +1,101 @@
+{
+  "document_id": "informe_sintetico_20250804195045_09601",
+  "entities": [
+    {
+      "text": "infarto cerebral isquémico agudo",
+      "type": "PATOLOGIA",
+      "start": 194,
+      "end": 226
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "ARTERIA",
+      "start": 247,
+      "end": 277
+    },
+    {
+      "text": "transformación hemorrágica",
+      "type": "PATOLOGIA",
+      "start": 334,
+      "end": 360
+    },
+    {
+      "text": "área hiperdensa heterogénea",
+      "type": "PATOLOGIA",
+      "start": 627,
+      "end": 654
+    },
+    {
+      "text": "transformación hemorrágica de grado HI2",
+      "type": "PATOLOGIA",
+      "start": 722,
+      "end": 761
+    },
+    {
+      "text": "múltiples focos hemorrágicos superiores a 30% del área infartada",
+      "type": "PATOLOGIA",
+      "start": 780,
+      "end": 844
+    },
+    {
+      "text": "medida de desplazamiento <5 mm",
+      "type": "MEDIDA",
+      "start": 911,
+      "end": 941
+    },
+    {
+      "text": "hemorragias subaracnoideas ni intraventriculares adicionales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 959,
+      "end": 1019
+    },
+    {
+      "text": "volumen cerebral (CBV)",
+      "type": "PATOLOGIA",
+      "start": 1296,
+      "end": 1318
+    },
+    {
+      "text": "aumento del tiempo de tránsito (MTT y Tmax)",
+      "type": "PATOLOGIA",
+      "start": 1383,
+      "end": 1426
+    },
+    {
+      "text": "zona de transformación hemorrágica",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1502,
+      "end": 1536
+    },
+    {
+      "text": "oclusión distal",
+      "type": "PATOLOGIA",
+      "start": 1698,
+      "end": 1713
+    },
+    {
+      "text": "sin evidencia de trombo reciente",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1715,
+      "end": 1747
+    },
+    {
+      "text": "sin estenosis significativas ni placas ateromatosas relevantes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1821,
+      "end": 1883
+    },
+    {
+      "text": "sin desplazamiento significativo ni complicaciones secundarias",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2088,
+      "end": 2150
+    },
+    {
+      "text": "ausencia de penumbra viable",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2179,
+      "end": 2206
+    }
+  ]
+}

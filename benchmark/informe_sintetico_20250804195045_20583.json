@@ -1,0 +1,83 @@
+{
+  "document_id": "informe_sintetico_20250804195045_20583",
+  "entities": [
+    {
+      "text": "hematoma intracerebral",
+      "type": "PATOLOGIA",
+      "start": 491,
+      "end": 513
+    },
+    {
+      "text": "2,5 x 2,0 cm",
+      "type": "MEDIDA",
+      "start": 517,
+      "end": 529
+    },
+    {
+      "text": "núcleo caudado derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 547,
+      "end": 569
+    },
+    {
+      "text": "55 UH",
+      "type": "MEDIDA",
+      "start": 610,
+      "end": 615
+    },
+    {
+      "text": "3 mm",
+      "type": "MEDIDA",
+      "start": 760,
+      "end": 764
+    },
+    {
+      "text": "infarto isquémico agudo",
+      "type": "PATOLOGIA",
+      "start": 1138,
+      "end": 1161
+    },
+    {
+      "text": "Arterias principales intracraneales",
+      "type": "ARTERIA",
+      "start": 1195,
+      "end": 1230
+    },
+    {
+      "text": "núcleo caudado derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 547,
+      "end": 569
+    },
+    {
+      "text": "agudo",
+      "type": "TEMPORALIDAD",
+      "start": 1156,
+      "end": 1161
+    },
+    {
+      "text": "No se identifican fracturas craneales ni lesiones óseas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 819,
+      "end": 874
+    },
+    {
+      "text": "No se evidencian áreas de hipoperfusión compatibles con infarto isquémico agudo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1082,
+      "end": 1161
+    },
+    {
+      "text": "No se aprecian signos de disección ni trombosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1357,
+      "end": 1404
+    },
+    {
+      "text": "No evidencia de sangrado ventricular ni compromiso vascular significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1531,
+      "end": 1604
+    }
+  ]
+}

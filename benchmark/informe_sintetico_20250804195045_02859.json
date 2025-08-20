@@ -1,0 +1,107 @@
+{
+  "document_id": "informe_sintetico_20250804195045_02859",
+  "entities": [
+    {
+      "text": "infarto cerebral reciente",
+      "type": "PATOLOGIA",
+      "start": 179,
+      "end": 204
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 222,
+      "end": 252
+    },
+    {
+      "text": "infarto isquémico subagudo",
+      "type": "PATOLOGIA",
+      "start": 586,
+      "end": 612
+    },
+    {
+      "text": "hematoma parenquimatoso extenso >30% del área del infarto",
+      "type": "PATOLOGIA",
+      "start": 680,
+      "end": 737
+    },
+    {
+      "text": "efecto masa",
+      "type": "PATOLOGIA",
+      "start": 743,
+      "end": 754
+    },
+    {
+      "text": "desplazamiento de estructuras de la línea media hacia la izquierda",
+      "type": "PATOLOGIA",
+      "start": 765,
+      "end": 831
+    },
+    {
+      "text": "hemorragias intraventriculares",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 850,
+      "end": 880
+    },
+    {
+      "text": "disminución marcada de flujo cerebral (CBF)",
+      "type": "PATOLOGIA",
+      "start": 1095,
+      "end": 1138
+    },
+    {
+      "text": "volumen cerebral (CBV)",
+      "type": "PATOLOGIA",
+      "start": 1141,
+      "end": 1163
+    },
+    {
+      "text": "transformación hemorrágica",
+      "type": "PATOLOGIA",
+      "start": 625,
+      "end": 651
+    },
+    {
+      "text": "arteria cerebral media",
+      "type": "ARTERIA",
+      "start": 222,
+      "end": 244
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 245,
+      "end": 252
+    },
+    {
+      "text": "transformación hemorrágica parenquimatosa extensa tipo PH2",
+      "type": "PATOLOGIA",
+      "start": 1641,
+      "end": 1699
+    },
+    {
+      "text": "efecto masa leve",
+      "type": "PATOLOGIA",
+      "start": 1730,
+      "end": 1746
+    },
+    {
+      "text": "desplazamiento de línea media",
+      "type": "PATOLOGIA",
+      "start": 1749,
+      "end": 1778
+    },
+    {
+      "text": "AngioTC",
+      "type": "TECNICA_IMAGEN",
+      "start": 406,
+      "end": 413
+    },
+    {
+      "text": "deterioro neurológico secundario a transformación hemorrágica",
+      "type": "PATOLOGIA",
+      "start": 1864,
+      "end": 1925
+    }
+  ]
+}

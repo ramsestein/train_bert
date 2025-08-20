@@ -1,0 +1,83 @@
+{
+  "document_id": "informe_sintetico_20250804195045_20330",
+  "entities": [
+    {
+      "text": "hemorragia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 517,
+      "end": 527
+    },
+    {
+      "text": "Diferenciación cortico-subcortical alterada en áreas frontales y parietales izquierdas con hipodensidad tenue, compatibles con lesiones isquémicas tempranas.",
+      "type": "PATOLOGIA",
+      "start": 548,
+      "end": 705
+    },
+    {
+      "text": "ASPECTS 7/10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 706,
+      "end": 718
+    },
+    {
+      "text": "Múltiples áreas de prolongación del tiempo de tránsito medio (TTP) y reducción del flujo cerebral (CBF) en territorios supratentoriales izquierdos (territorio de ACM y ACA) y en territorio posterior derecho, con preservación parcial del volumen cerebral (CBV), sugestivo de tejido potencialmente viable con mismatch significativa.",
+      "type": "PATOLOGIA",
+      "start": 815,
+      "end": 1145
+    },
+    {
+      "text": "Estenosis críticas (>70%) bilateral en segmentos M1 de las arterias cerebrales medias, más marcada en el lado izquierdo, con defectos de repleción segmentarios en ramas posteriores izquierdas (territorio ACP).",
+      "type": "PATOLOGIA",
+      "start": 1194,
+      "end": 1403
+    },
+    {
+      "text": "arterias cerebrales medias",
+      "type": "ARTERIA",
+      "start": 1253,
+      "end": 1279
+    },
+    {
+      "text": "izquierdo",
+      "type": "LATERALIDAD",
+      "start": 951,
+      "end": 960
+    },
+    {
+      "text": "No se evidencian hemorragias intracraneales ni colecciones expansivas.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2155,
+      "end": 2225
+    },
+    {
+      "text": "isquemia aguda multiterritorial",
+      "type": "PATOLOGIA",
+      "start": 1744,
+      "end": 1775
+    },
+    {
+      "text": "territorios de ACM, ACA izquierdos y territorio posterior derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1788,
+      "end": 1853
+    },
+    {
+      "text": "Estenosis críticas bilaterales en segmentos M1 de ACM",
+      "type": "PATOLOGIA",
+      "start": 1967,
+      "end": 2020
+    },
+    {
+      "text": "ACM",
+      "type": "ARTERIA",
+      "start": 977,
+      "end": 980
+    },
+    {
+      "text": "bilaterales",
+      "type": "LATERALIDAD",
+      "start": 1986,
+      "end": 1997
+    }
+  ]
+}

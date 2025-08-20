@@ -1,0 +1,95 @@
+{
+  "document_id": "informe_sintetico_20250804195045_16396",
+  "entities": [
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 283,
+      "end": 297
+    },
+    {
+      "text": "arteria cerebral posterior",
+      "type": "ARTERIA",
+      "start": 315,
+      "end": 341
+    },
+    {
+      "text": "izquierdo",
+      "type": "LATERALIDAD",
+      "start": 214,
+      "end": 223
+    },
+    {
+      "text": "derecho",
+      "type": "LATERALIDAD",
+      "start": 254,
+      "end": 261
+    },
+    {
+      "text": "hipodensidad",
+      "type": "PATOLOGIA",
+      "start": 737,
+      "end": 749
+    },
+    {
+      "text": "aguda",
+      "type": "TEMPORALIDAD",
+      "start": 292,
+      "end": 297
+    },
+    {
+      "text": "ACP derecha",
+      "type": "ARTERIA",
+      "start": 888,
+      "end": 899
+    },
+    {
+      "text": "pc-ASPECTS 8",
+      "type": "PUNTUACION_CLINICA",
+      "start": 901,
+      "end": 913
+    },
+    {
+      "text": "Oclusión completa",
+      "type": "PATOLOGIA",
+      "start": 1477,
+      "end": 1494
+    },
+    {
+      "text": "segmento P2",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1498,
+      "end": 1509
+    },
+    {
+      "text": "arteria cerebral posterior derecha",
+      "type": "ARTERIA",
+      "start": 1134,
+      "end": 1168
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 591,
+      "end": 614
+    },
+    {
+      "text": "collections extraaxiales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 618,
+      "end": 642
+    },
+    {
+      "text": "sin patología",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 998,
+      "end": 1011
+    },
+    {
+      "text": "preservación de volumen cerebral",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1898,
+      "end": 1930
+    }
+  ]
+}

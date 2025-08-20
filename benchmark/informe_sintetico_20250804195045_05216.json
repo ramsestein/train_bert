@@ -1,0 +1,95 @@
+{
+  "document_id": "informe_sintetico_20250804195045_05216",
+  "entities": [
+    {
+      "text": "isquemia cerebral reciente",
+      "type": "PATOLOGIA",
+      "start": 240,
+      "end": 266
+    },
+    {
+      "text": "infarto agudo",
+      "type": "PATOLOGIA",
+      "start": 591,
+      "end": 604
+    },
+    {
+      "text": "focos hiperintensos puntiformes y lineales",
+      "type": "PATOLOGIA",
+      "start": 619,
+      "end": 661
+    },
+    {
+      "text": "pequeños sangrados intracerebrales",
+      "type": "PATOLOGIA",
+      "start": 709,
+      "end": 743
+    },
+    {
+      "text": "transformación hemorrágica HI1",
+      "type": "PATOLOGIA",
+      "start": 771,
+      "end": 801
+    },
+    {
+      "text": "hemorragia subaracnoidea",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 817,
+      "end": 841
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 543,
+      "end": 575
+    },
+    {
+      "text": "MCA izquierda",
+      "type": "ARTERIA",
+      "start": 1321,
+      "end": 1334
+    },
+    {
+      "text": "Oclusión parcial de segmento proximal de MCA izquierda",
+      "type": "PATOLOGIA",
+      "start": 1280,
+      "end": 1334
+    },
+    {
+      "text": "Flujo colateral preservado",
+      "type": "PATOLOGIA",
+      "start": 1686,
+      "end": 1712
+    },
+    {
+      "text": "sin dilatación ni desplazamientos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 960,
+      "end": 993
+    },
+    {
+      "text": "sin extensión del área isquémica",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1223,
+      "end": 1255
+    },
+    {
+      "text": "TC Basal urgente",
+      "type": "TECNICA_IMAGEN",
+      "start": 343,
+      "end": 359
+    },
+    {
+      "text": "perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 371,
+      "end": 389
+    },
+    {
+      "text": "AngioTC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 392,
+      "end": 421
+    }
+  ]
+}

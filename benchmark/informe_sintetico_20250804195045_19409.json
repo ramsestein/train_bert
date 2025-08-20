@@ -1,0 +1,131 @@
+{
+  "document_id": "informe_sintetico_20250804195045_19409",
+  "entities": [
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 189,
+      "end": 203
+    },
+    {
+      "text": "tronco encefálico",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 567,
+      "end": 584
+    },
+    {
+      "text": "puente",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 625,
+      "end": 631
+    },
+    {
+      "text": "médula oblonga",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 634,
+      "end": 648
+    },
+    {
+      "text": "sistema vertebrobasilar",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 400,
+      "end": 423
+    },
+    {
+      "text": "puente",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 625,
+      "end": 631
+    },
+    {
+      "text": "cerebelo hemisférico izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1092,
+      "end": 1122
+    },
+    {
+      "text": "arteria vertebral izquierda",
+      "type": "ARTERIA",
+      "start": 1398,
+      "end": 1425
+    },
+    {
+      "text": "arteria basilar proximal",
+      "type": "ARTERIA",
+      "start": 1497,
+      "end": 1521
+    },
+    {
+      "text": "ACAs, ACMs, ACPs",
+      "type": "ARTERIA",
+      "start": 1726,
+      "end": 1742
+    },
+    {
+      "text": "isquemia aguda vertebrobasilar",
+      "type": "PATOLOGIA",
+      "start": 1903,
+      "end": 1933
+    },
+    {
+      "text": "defecto de repleción",
+      "type": "PATOLOGIA",
+      "start": 1541,
+      "end": 1561
+    },
+    {
+      "text": "estenosis significativa",
+      "type": "PATOLOGIA",
+      "start": 2002,
+      "end": 2025
+    },
+    {
+      "text": "disminución del flujo",
+      "type": "PATOLOGIA",
+      "start": 936,
+      "end": 957
+    },
+    {
+      "text": "prolongación del tiempo de tránsito",
+      "type": "PATOLOGIA",
+      "start": 2109,
+      "end": 2144
+    },
+    {
+      "text": "sin infarto establecido completo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2175,
+      "end": 2207
+    },
+    {
+      "text": "No se identifican signos de hemorragia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2254,
+      "end": 2292
+    },
+    {
+      "text": "TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANG IOTC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 72,
+      "end": 140
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 317,
+      "end": 333
+    },
+    {
+      "text": "perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 335,
+      "end": 353
+    },
+    {
+      "text": "angioTC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 356,
+      "end": 385
+    }
+  ]
+}

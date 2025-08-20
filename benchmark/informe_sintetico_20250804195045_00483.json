@@ -1,0 +1,89 @@
+{
+  "document_id": "informe_sintetico_20250804195045_00483",
+  "entities": [
+    {
+      "text": "infarto cerebral",
+      "type": "PATOLOGIA",
+      "start": 270,
+      "end": 286
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 307,
+      "end": 339
+    },
+    {
+      "text": "arteria cerebral media",
+      "type": "ARTERIA",
+      "start": 307,
+      "end": 329
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 330,
+      "end": 339
+    },
+    {
+      "text": "PH1",
+      "type": "PUNTUACION_CLINICA",
+      "start": 937,
+      "end": 940
+    },
+    {
+      "text": "infarto cerebral establecido",
+      "type": "PATOLOGIA",
+      "start": 771,
+      "end": 799
+    },
+    {
+      "text": "disminución marcada del flujo cerebral",
+      "type": "PATOLOGIA",
+      "start": 1210,
+      "end": 1248
+    },
+    {
+      "text": "territorio isquémico",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1376,
+      "end": 1396
+    },
+    {
+      "text": "M2 superior izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1957,
+      "end": 1978
+    },
+    {
+      "text": "infarto cerebral extenso",
+      "type": "PATOLOGIA",
+      "start": 1819,
+      "end": 1843
+    },
+    {
+      "text": "transformación hemorrágica tipo PH1",
+      "type": "PATOLOGIA",
+      "start": 905,
+      "end": 940
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 412,
+      "end": 428
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 430,
+      "end": 451
+    },
+    {
+      "text": "Angio-TC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 454,
+      "end": 484
+    }
+  ]
+}

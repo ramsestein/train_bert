@@ -1,0 +1,101 @@
+{
+  "document_id": "informe_sintetico_20250804195045_01017",
+  "entities": [
+    {
+      "text": "microhemorragias",
+      "type": "PATOLOGIA",
+      "start": 325,
+      "end": 341
+    },
+    {
+      "text": "sustancia blanca",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 637,
+      "end": 653
+    },
+    {
+      "text": "ganglios basales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 656,
+      "end": 672
+    },
+    {
+      "text": "bilaterales",
+      "type": "LATERALIDAD",
+      "start": 673,
+      "end": 684
+    },
+    {
+      "text": "No se observan hematomas expansivos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 720,
+      "end": 755
+    },
+    {
+      "text": "No hay evidencia de edema o efecto masa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 785,
+      "end": 824
+    },
+    {
+      "text": "sin signos de estenosis, oclusión ni malformaciones vasculares evidentes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1224,
+      "end": 1296
+    },
+    {
+      "text": "Ausencia de aneurismas o vasculitis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1298,
+      "end": 1333
+    },
+    {
+      "text": "sustancia blanca",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 637,
+      "end": 653
+    },
+    {
+      "text": "ganglios basales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 656,
+      "end": 672
+    },
+    {
+      "text": "angiopatía cerebral microvascular hipertensiva",
+      "type": "PATOLOGIA",
+      "start": 1453,
+      "end": 1499
+    },
+    {
+      "text": "hemorragia aguda mayor",
+      "type": "PATOLOGIA",
+      "start": 1515,
+      "end": 1537
+    },
+    {
+      "text": "lesiones isquémicas",
+      "type": "PATOLOGIA",
+      "start": 1541,
+      "end": 1560
+    },
+    {
+      "text": "sin hallazgos relevantes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1594,
+      "end": 1618
+    },
+    {
+      "text": "TC CODIGO ICTUS",
+      "type": "TECNICA_IMAGEN",
+      "start": 72,
+      "end": 87
+    },
+    {
+      "text": "PERFUSION CEREBRAL+ ANGIOTC ARTERIAL INTRACRANEAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 2054,
+      "end": 2103
+    }
+  ]
+}

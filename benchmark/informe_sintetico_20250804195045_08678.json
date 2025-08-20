@@ -1,0 +1,131 @@
+{
+  "document_id": "informe_sintetico_20250804195045_08678",
+  "entities": [
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 271,
+      "end": 285
+    },
+    {
+      "text": "territorio vertebrobasilar",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 289,
+      "end": 315
+    },
+    {
+      "text": "hipodensidad leve",
+      "type": "PATOLOGIA",
+      "start": 575,
+      "end": 592
+    },
+    {
+      "text": "cerebelo bilateral",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 614,
+      "end": 632
+    },
+    {
+      "text": "hemisferio derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 653,
+      "end": 671
+    },
+    {
+      "text": "tiempo de tránsito positivo (TTP)",
+      "type": "MEDIDA",
+      "start": 889,
+      "end": 922
+    },
+    {
+      "text": "tiempo medio de tránsito (MTT)",
+      "type": "MEDIDA",
+      "start": 937,
+      "end": 967
+    },
+    {
+      "text": "flujo cerebral (CBF)",
+      "type": "MEDIDA",
+      "start": 1092,
+      "end": 1112
+    },
+    {
+      "text": "volumen cerebral (CBV)",
+      "type": "MEDIDA",
+      "start": 1115,
+      "end": 1137
+    },
+    {
+      "text": "área en riesgo isquémico (penumbra)",
+      "type": "PATOLOGIA",
+      "start": 1154,
+      "end": 1189
+    },
+    {
+      "text": "infarto establecido",
+      "type": "PATOLOGIA",
+      "start": 1215,
+      "end": 1234
+    },
+    {
+      "text": "arteria vertebral derecha",
+      "type": "ARTERIA",
+      "start": 1443,
+      "end": 1468
+    },
+    {
+      "text": "oclusión parcial",
+      "type": "PATOLOGIA",
+      "start": 1408,
+      "end": 1424
+    },
+    {
+      "text": "flujo colateral conservado",
+      "type": "PATOLOGIA",
+      "start": 1474,
+      "end": 1500
+    },
+    {
+      "text": "arteria basilar",
+      "type": "ARTERIA",
+      "start": 1576,
+      "end": 1591
+    },
+    {
+      "text": "estenosis moderada",
+      "type": "PATOLOGIA",
+      "start": 1530,
+      "end": 1548
+    },
+    {
+      "text": "sin estenosis significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1645,
+      "end": 1673
+    },
+    {
+      "text": "No hay hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1958,
+      "end": 1988
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 336,
+      "end": 352
+    },
+    {
+      "text": "angioTC de troncos supraórticos e intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 354,
+      "end": 400
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 404,
+      "end": 425
+    }
+  ]
+}

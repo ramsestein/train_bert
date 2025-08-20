@@ -1,0 +1,65 @@
+{
+  "document_id": "informe_sintetico_20250804195045_07120",
+  "entities": [
+    {
+      "text": "infarto agudo",
+      "type": "PATOLOGIA",
+      "start": 440,
+      "end": 453
+    },
+    {
+      "text": "hemorragias intraparenquimatosas",
+      "type": "PATOLOGIA",
+      "start": 457,
+      "end": 489
+    },
+    {
+      "text": "cambios leucosclerosos periventriculares",
+      "type": "PATOLOGIA",
+      "start": 604,
+      "end": 644
+    },
+    {
+      "text": "cambios crónicos vasculares de pequeño vaso",
+      "type": "PATOLOGIA",
+      "start": 785,
+      "end": 828
+    },
+    {
+      "text": "sistema ventricular",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 833,
+      "end": 852
+    },
+    {
+      "text": "estructuras de línea media",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1626,
+      "end": 1652
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 1592,
+      "end": 1602
+    },
+    {
+      "text": "sin hallazgos de patología aguda",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1390,
+      "end": 1422
+    },
+    {
+      "text": "sin evidencia de estenosis, oclusión ni malformaciones vasculares",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1208,
+      "end": 1273
+    },
+    {
+      "text": "sin evidencia de áreas de hipoperfusión o penumbra isquémica",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1065,
+      "end": 1125
+    }
+  ]
+}

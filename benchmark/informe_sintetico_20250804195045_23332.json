@@ -1,0 +1,83 @@
+{
+  "document_id": "informe_sintetico_20250804195045_23332",
+  "entities": [
+    {
+      "text": "ictus isquémico",
+      "type": "PATOLOGIA",
+      "start": 278,
+      "end": 293
+    },
+    {
+      "text": "ACM derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 308,
+      "end": 319
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "ARTERIA",
+      "start": 571,
+      "end": 601
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 312,
+      "end": 319
+    },
+    {
+      "text": "ASPECTS 6/10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 830,
+      "end": 842
+    },
+    {
+      "text": "hemorragias agudas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 861,
+      "end": 879
+    },
+    {
+      "text": "retraso en los mapas de tiempo (Tmax>6s)",
+      "type": "PATOLOGIA",
+      "start": 1048,
+      "end": 1088
+    },
+    {
+      "text": "flujo cerebral (CBF)",
+      "type": "PATOLOGIA",
+      "start": 1140,
+      "end": 1160
+    },
+    {
+      "text": "volumen cerebral (CBV)",
+      "type": "PATOLOGIA",
+      "start": 1218,
+      "end": 1240
+    },
+    {
+      "text": "penumbra isquémica viable",
+      "type": "PATOLOGIA",
+      "start": 1283,
+      "end": 1308
+    },
+    {
+      "text": "Oclusión completa del segmento proximal M1 de ACM derecha",
+      "type": "PATOLOGIA",
+      "start": 1342,
+      "end": 1399
+    },
+    {
+      "text": "M1 proximal derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 2173,
+      "end": 2192
+    },
+    {
+      "text": "sin compromiso de otras arterias principales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1914,
+      "end": 1958
+    }
+  ]
+}

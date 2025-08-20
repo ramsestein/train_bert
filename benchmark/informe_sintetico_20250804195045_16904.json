@@ -1,0 +1,155 @@
+{
+  "document_id": "informe_sintetico_20250804195045_16904",
+  "entities": [
+    {
+      "text": "hemorragia intraventricular primaria",
+      "type": "PATOLOGIA",
+      "start": 448,
+      "end": 484
+    },
+    {
+      "text": "ventrículos laterales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 517,
+      "end": 538
+    },
+    {
+      "text": "tercer y cuarto ventrículo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 540,
+      "end": 566
+    },
+    {
+      "text": "hemorragia subaracnoidea",
+      "type": "PATOLOGIA",
+      "start": 648,
+      "end": 672
+    },
+    {
+      "text": "edema periventricular",
+      "type": "PATOLOGIA",
+      "start": 805,
+      "end": 826
+    },
+    {
+      "text": "parénquima cerebral",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 973,
+      "end": 992
+    },
+    {
+      "text": "infarto agudo",
+      "type": "PATOLOGIA",
+      "start": 1085,
+      "end": 1098
+    },
+    {
+      "text": "arterias cerebrales",
+      "type": "ARTERIA",
+      "start": 1426,
+      "end": 1445
+    },
+    {
+      "text": "sistema vertebrobasilar",
+      "type": "ARTERIA",
+      "start": 1538,
+      "end": 1561
+    },
+    {
+      "text": "malformaciones vasculares",
+      "type": "PATOLOGIA",
+      "start": 1341,
+      "end": 1366
+    },
+    {
+      "text": "aneurismas",
+      "type": "PATOLOGIA",
+      "start": 1368,
+      "end": 1378
+    },
+    {
+      "text": "estenosis significativas",
+      "type": "PATOLOGIA",
+      "start": 1382,
+      "end": 1406
+    },
+    {
+      "text": "ateromatosis leve",
+      "type": "PATOLOGIA",
+      "start": 1488,
+      "end": 1505
+    },
+    {
+      "text": "sin compromiso hemodinámico",
+      "type": "PATOLOGIA",
+      "start": 1506,
+      "end": 1533
+    },
+    {
+      "text": "dilatación ventricular",
+      "type": "PATOLOGIA",
+      "start": 1766,
+      "end": 1788
+    },
+    {
+      "text": "obstrucción del flujo del LCR",
+      "type": "PATOLOGIA",
+      "start": 1802,
+      "end": 1831
+    },
+    {
+      "text": "malformaciones vasculares",
+      "type": "PATOLOGIA",
+      "start": 1341,
+      "end": 1366
+    },
+    {
+      "text": "TC CRANEAL BASAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 417,
+      "end": 433
+    },
+    {
+      "text": "TC PERFUSIÓN",
+      "type": "TECNICA_IMAGEN",
+      "start": 1129,
+      "end": 1141
+    },
+    {
+      "text": "ANGIO-TC EXTRA E INTRACRANEAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 1290,
+      "end": 1319
+    },
+    {
+      "text": "No se identifican signos de hemorragia subaracnoidea ni extraaxial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 620,
+      "end": 686
+    },
+    {
+      "text": "No hay evidencia de masa o lesión ocupante de espacio adicional",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 905,
+      "end": 968
+    },
+    {
+      "text": "No se identifican áreas con alteración significativa en los mapas de volumen cerebral (CBV), flujo cerebral (CBF) o tiempo de tránsito (TTP)",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1145,
+      "end": 1285
+    },
+    {
+      "text": "No se identifican malformaciones vasculares, aneurismas ni estenosis significativas en las principales arterias cerebrales y troncos supraaórticos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1323,
+      "end": 1469
+    },
+    {
+      "text": "sin hallazgos patológicos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1572,
+      "end": 1597
+    }
+  ]
+}

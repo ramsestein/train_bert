@@ -1,0 +1,71 @@
+{
+  "document_id": "informe_sintetico_20250804195045_24618",
+  "entities": [
+    {
+      "text": "hematoma lobar en región frontal derecha",
+      "type": "PATOLOGIA",
+      "start": 499,
+      "end": 539
+    },
+    {
+      "text": "frontal derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 524,
+      "end": 539
+    },
+    {
+      "text": "25 x 18 x 20 mm",
+      "type": "MEDIDA",
+      "start": 628,
+      "end": 643
+    },
+    {
+      "text": "3 mm",
+      "type": "MEDIDA",
+      "start": 742,
+      "end": 746
+    },
+    {
+      "text": "ASPECTS 8",
+      "type": "PUNTUACION_CLINICA",
+      "start": 944,
+      "end": 953
+    },
+    {
+      "text": "agudas",
+      "type": "TEMPORALIDAD",
+      "start": 924,
+      "end": 930
+    },
+    {
+      "text": "No se identifican signos de hemorragia subaracnoidea",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 784,
+      "end": 836
+    },
+    {
+      "text": "No se identifican signos de aneurisma, malformación vascular ni estenosis significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1319,
+      "end": 1406
+    },
+    {
+      "text": "sin signos de oclusión ni vasoespasmo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1469,
+      "end": 1506
+    },
+    {
+      "text": "sin hemorragia ventricular ni subaracnoidea asociada",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1715,
+      "end": 1767
+    },
+    {
+      "text": "sin signos de isquemia adyacente",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1913,
+      "end": 1945
+    }
+  ]
+}

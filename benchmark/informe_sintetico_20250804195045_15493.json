@@ -1,0 +1,47 @@
+{
+  "document_id": "informe_sintetico_20250804195045_15493",
+  "entities": [
+    {
+      "text": "hemorragia intra ni extraaxial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 472,
+      "end": 502
+    },
+    {
+      "text": "edema o infarto agudo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 577,
+      "end": 598
+    },
+    {
+      "text": "lesiones isquémicas recientes ni crónicas significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 665,
+      "end": 721
+    },
+    {
+      "text": "microangiopatía crónica",
+      "type": "PATOLOGIA",
+      "start": 921,
+      "end": 944
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 1216,
+      "end": 1226
+    },
+    {
+      "text": "alteraciones en los parámetros de Tmax, CBF, CBV ni MTT",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1159,
+      "end": 1214
+    },
+    {
+      "text": "estenosis, oclusiones ni aneurismas en las arterias carotídeas internas, cerebrales anteriores, medias o posteriores",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1279,
+      "end": 1395
+    }
+  ]
+}

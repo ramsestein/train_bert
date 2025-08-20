@@ -1,0 +1,155 @@
+{
+  "document_id": "informe_sintetico_20250804195045_00866",
+  "entities": [
+    {
+      "text": "accidente isquémico",
+      "type": "PATOLOGIA",
+      "start": 186,
+      "end": 205
+    },
+    {
+      "text": "oclusión de arteria basilar",
+      "type": "PATOLOGIA",
+      "start": 222,
+      "end": 249
+    },
+    {
+      "text": "disartria",
+      "type": "PATOLOGIA",
+      "start": 276,
+      "end": 285
+    },
+    {
+      "text": "diplopía",
+      "type": "PATOLOGIA",
+      "start": 287,
+      "end": 295
+    },
+    {
+      "text": "hemiparesia bilateral",
+      "type": "PATOLOGIA",
+      "start": 298,
+      "end": 319
+    },
+    {
+      "text": "hemorragias intraparenquimatosas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 526,
+      "end": 558
+    },
+    {
+      "text": "isquemia",
+      "type": "PATOLOGIA",
+      "start": 653,
+      "end": 661
+    },
+    {
+      "text": "territorio vertebrobasilar",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 665,
+      "end": 691
+    },
+    {
+      "text": "ASPECTS",
+      "type": "PUNTUACION_CLINICA",
+      "start": 818,
+      "end": 825
+    },
+    {
+      "text": "prolongación del tiempo de tránsito medio (MTT)",
+      "type": "MEDIDA",
+      "start": 895,
+      "end": 942
+    },
+    {
+      "text": "retraso en Tmax",
+      "type": "MEDIDA",
+      "start": 945,
+      "end": 960
+    },
+    {
+      "text": "caída significativa del flujo cerebral (CBF)",
+      "type": "MEDIDA",
+      "start": 1002,
+      "end": 1046
+    },
+    {
+      "text": "volumen cerebral (CBV)",
+      "type": "MEDIDA",
+      "start": 1049,
+      "end": 1071
+    },
+    {
+      "text": "isquemia en territorio del tronco cerebral y cerebelo",
+      "type": "PATOLOGIA",
+      "start": 1087,
+      "end": 1140
+    },
+    {
+      "text": "mismatch perfusión-volumen",
+      "type": "PATOLOGIA",
+      "start": 1149,
+      "end": 1175
+    },
+    {
+      "text": "penumbra isquémica extensa",
+      "type": "PATOLOGIA",
+      "start": 1199,
+      "end": 1225
+    },
+    {
+      "text": "sin visualización distal del vaso",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1316,
+      "end": 1349
+    },
+    {
+      "text": "arterias vertebrales",
+      "type": "ARTERIA",
+      "start": 1355,
+      "end": 1375
+    },
+    {
+      "text": "circulación colateral limitada",
+      "type": "PATOLOGIA",
+      "start": 1424,
+      "end": 1454
+    },
+    {
+      "text": "estenosis significativas en troncos supraórticos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1480,
+      "end": 1528
+    },
+    {
+      "text": "sin alteraciones relevantes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1598,
+      "end": 1625
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 1715,
+      "end": 1729
+    },
+    {
+      "text": "tronco cerebral y cerebelo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1114,
+      "end": 1140
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1773,
+      "end": 1796
+    },
+    {
+      "text": "penumbra isquémica identificada en mapas de perfusión",
+      "type": "PATOLOGIA",
+      "start": 1814,
+      "end": 1867
+    }
+  ]
+}

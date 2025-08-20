@@ -1,0 +1,229 @@
+{
+  "document_id": "informe_sintetico_20250804195045_05777",
+  "entities": [
+    {
+      "text": "isquemia cerebral aguda multiterritorial",
+      "type": "PATOLOGIA",
+      "start": 240,
+      "end": 280
+    },
+    {
+      "text": "hemorragia intraparenquimatosa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 474,
+      "end": 504
+    },
+    {
+      "text": "hemorragia subaracnoidea",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 507,
+      "end": 531
+    },
+    {
+      "text": "múltiples áreas hipodensas agudas",
+      "type": "PATOLOGIA",
+      "start": 548,
+      "end": 581
+    },
+    {
+      "text": "arterias cerebrales medias",
+      "type": "ARTERIA",
+      "start": 620,
+      "end": 646
+    },
+    {
+      "text": "bilateralmente",
+      "type": "LATERALIDAD",
+      "start": 647,
+      "end": 661
+    },
+    {
+      "text": "territorios cerebelosos posteriores",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 675,
+      "end": 710
+    },
+    {
+      "text": "zonas parietales y frontales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 771,
+      "end": 799
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 814,
+      "end": 828
+    },
+    {
+      "text": "ASPECTS",
+      "type": "PUNTUACION_CLINICA",
+      "start": 830,
+      "end": 837
+    },
+    {
+      "text": "6",
+      "type": "MEDIDA",
+      "start": 865,
+      "end": 866
+    },
+    {
+      "text": "bilateral",
+      "type": "LATERALIDAD",
+      "start": 647,
+      "end": 656
+    },
+    {
+      "text": "sin desplazamientos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 913,
+      "end": 932
+    },
+    {
+      "text": "sin evidencia de hidrocefalia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1015,
+      "end": 1044
+    },
+    {
+      "text": "Cisternas basales libres",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1046,
+      "end": 1070
+    },
+    {
+      "text": "aumento del tiempo de retraso",
+      "type": "PATOLOGIA",
+      "start": 1162,
+      "end": 1191
+    },
+    {
+      "text": "territorios vasculares frontales bilaterales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1225,
+      "end": 1269
+    },
+    {
+      "text": "región cerebelosa",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1272,
+      "end": 1289
+    },
+    {
+      "text": "reducción significativa del flujo cerebral",
+      "type": "PATOLOGIA",
+      "start": 1295,
+      "end": 1337
+    },
+    {
+      "text": "volumen cerebral",
+      "type": "PATOLOGIA",
+      "start": 1346,
+      "end": 1362
+    },
+    {
+      "text": "zona de penumbra isquémica extendida",
+      "type": "PATOLOGIA",
+      "start": 1381,
+      "end": 1417
+    },
+    {
+      "text": "arterias cerebrales medias",
+      "type": "ARTERIA",
+      "start": 620,
+      "end": 646
+    },
+    {
+      "text": "arterias cerebelosas posteriores",
+      "type": "ARTERIA",
+      "start": 1699,
+      "end": 1731
+    },
+    {
+      "text": "arterias carótidas internas",
+      "type": "ARTERIA",
+      "start": 1776,
+      "end": 1803
+    },
+    {
+      "text": "sistema vertebrobasilar proximal",
+      "type": "ARTERIA",
+      "start": 1813,
+      "end": 1845
+    },
+    {
+      "text": "tronco braquiocefálico",
+      "type": "ARTERIA",
+      "start": 1872,
+      "end": 1894
+    },
+    {
+      "text": "sin impacto hemodinámico",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1895,
+      "end": 1919
+    },
+    {
+      "text": "isquemia cerebral aguda multiterritorial",
+      "type": "PATOLOGIA",
+      "start": 240,
+      "end": 280
+    },
+    {
+      "text": "territorios bilaterales frontales y cerebelosos posteriores",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 2015,
+      "end": 2074
+    },
+    {
+      "text": "áreas de penumbra isquémica significativa",
+      "type": "PATOLOGIA",
+      "start": 2080,
+      "end": 2121
+    },
+    {
+      "text": "sin desplazamientos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 913,
+      "end": 932
+    },
+    {
+      "text": "ASPECTS reducido",
+      "type": "PUNTUACION_CLINICA",
+      "start": 830,
+      "end": 846
+    },
+    {
+      "text": "6",
+      "type": "MEDIDA",
+      "start": 865,
+      "end": 866
+    },
+    {
+      "text": "valoración urgente por neurología",
+      "type": "PATOLOGIA",
+      "start": 2323,
+      "end": 2356
+    },
+    {
+      "text": "tratamiento endovascular",
+      "type": "PATOLOGIA",
+      "start": 2362,
+      "end": 2386
+    },
+    {
+      "text": "monitorización intensiva",
+      "type": "PATOLOGIA",
+      "start": 2389,
+      "end": 2413
+    },
+    {
+      "text": "TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANG IOTC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 72,
+      "end": 140
+    }
+  ],
+  "regenerado": true,
+  "fecha_regeneracion": "2025-08-06T12:36:38.512102"
+}

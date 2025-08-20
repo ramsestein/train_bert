@@ -1,0 +1,169 @@
+{
+  "document_id": "informe_sintetico_20250804195045_05199",
+  "entities": [
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 271,
+      "end": 285
+    },
+    {
+      "text": "mareo intenso",
+      "type": "PATOLOGIA",
+      "start": 217,
+      "end": 230
+    },
+    {
+      "text": "diplopía",
+      "type": "PATOLOGIA",
+      "start": 232,
+      "end": 240
+    },
+    {
+      "text": "ataxia",
+      "type": "PATOLOGIA",
+      "start": 243,
+      "end": 249
+    },
+    {
+      "text": "tronco encefálico",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 596,
+      "end": 613
+    },
+    {
+      "text": "puente",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 635,
+      "end": 641
+    },
+    {
+      "text": "médula oblonga",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 647,
+      "end": 661
+    },
+    {
+      "text": "tronco encefálico",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 596,
+      "end": 613
+    },
+    {
+      "text": "cerebelo hemisférico",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 988,
+      "end": 1008
+    },
+    {
+      "text": "arteria basilar proximal",
+      "type": "ARTERIA",
+      "start": 1239,
+      "end": 1263
+    },
+    {
+      "text": "segmento V2 derecho",
+      "type": "ARTERIA",
+      "start": 1343,
+      "end": 1362
+    },
+    {
+      "text": "arterias cerebelosas posteriores superficiales",
+      "type": "ARTERIA",
+      "start": 1406,
+      "end": 1452
+    },
+    {
+      "text": "perforantes",
+      "type": "ARTERIA",
+      "start": 1455,
+      "end": 1466
+    },
+    {
+      "text": "arteria vertebral derecha",
+      "type": "ARTERIA",
+      "start": 1737,
+      "end": 1762
+    },
+    {
+      "text": "bilateral",
+      "type": "LATERALIDAD",
+      "start": 1009,
+      "end": 1018
+    },
+    {
+      "text": "signos de herniación",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 723,
+      "end": 743
+    },
+    {
+      "text": "dilatación",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 832,
+      "end": 842
+    },
+    {
+      "text": "colapso",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 846,
+      "end": 853
+    },
+    {
+      "text": "68 años",
+      "type": "MEDIDA",
+      "start": 188,
+      "end": 195
+    },
+    {
+      "text": "subaguda",
+      "type": "TEMPORALIDAD",
+      "start": 1224,
+      "end": 1232
+    },
+    {
+      "text": "aguda",
+      "type": "TEMPORALIDAD",
+      "start": 280,
+      "end": 285
+    },
+    {
+      "text": "TC craneal urgente basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 336,
+      "end": 360
+    },
+    {
+      "text": "perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 363,
+      "end": 381
+    },
+    {
+      "text": "AngioTC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 384,
+      "end": 413
+    },
+    {
+      "text": "TC PERFUSIÓN",
+      "type": "TECNICA_IMAGEN",
+      "start": 858,
+      "end": 870
+    },
+    {
+      "text": "TTP",
+      "type": "PUNTUACION_CLINICA",
+      "start": 1073,
+      "end": 1076
+    },
+    {
+      "text": "MTT",
+      "type": "PUNTUACION_CLINICA",
+      "start": 1079,
+      "end": 1082
+    }
+  ],
+  "regenerado": true,
+  "fecha_regeneracion": "2025-08-06T12:27:46.164650"
+}

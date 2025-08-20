@@ -1,0 +1,77 @@
+{
+  "document_id": "informe_sintetico_20250804195045_04460",
+  "entities": [
+    {
+      "text": "infarto lacunar agudo",
+      "type": "PATOLOGIA",
+      "start": 224,
+      "end": 245
+    },
+    {
+      "text": "hemicuerpo izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 190,
+      "end": 210
+    },
+    {
+      "text": "6 mm",
+      "type": "MEDIDA",
+      "start": 568,
+      "end": 572
+    },
+    {
+      "text": "región posterior de la cápsula interna derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 579,
+      "end": 625
+    },
+    {
+      "text": "ASPECTS 9",
+      "type": "PUNTUACION_CLINICA",
+      "start": 763,
+      "end": 772
+    },
+    {
+      "text": "infarto lacunar agudo reciente",
+      "type": "PATOLOGIA",
+      "start": 1139,
+      "end": 1169
+    },
+    {
+      "text": "ACAs, ACMs y ACPs",
+      "type": "ARTERIA",
+      "start": 1415,
+      "end": 1432
+    },
+    {
+      "text": "ASPECTS 9",
+      "type": "PUNTUACION_CLINICA",
+      "start": 763,
+      "end": 772
+    },
+    {
+      "text": "No se observa hemorragia intra ni extraaxial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 461,
+      "end": 505
+    },
+    {
+      "text": "No se visualizan estenosis ni defectos de repleción",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1329,
+      "end": 1380
+    },
+    {
+      "text": "No se objetivan aneurismas ni malformaciones vasculares",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1464,
+      "end": 1519
+    },
+    {
+      "text": "No se observan signos de hemorragia ni compromiso vascular mayor",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1756,
+      "end": 1820
+    }
+  ]
+}

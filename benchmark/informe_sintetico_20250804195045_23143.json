@@ -1,0 +1,83 @@
+{
+  "document_id": "informe_sintetico_20250804195045_23143",
+  "entities": [
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 540,
+      "end": 554
+    },
+    {
+      "text": "hemorragias intraaxiales",
+      "type": "PATOLOGIA",
+      "start": 558,
+      "end": 582
+    },
+    {
+      "text": "cambios crónicos leves",
+      "type": "PATOLOGIA",
+      "start": 614,
+      "end": 636
+    },
+    {
+      "text": "microangiopatía crónica leve",
+      "type": "PATOLOGIA",
+      "start": 690,
+      "end": 718
+    },
+    {
+      "text": "ASPECTS 10/10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 476,
+      "end": 489
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 476,
+      "end": 486
+    },
+    {
+      "text": "sin signos de lesión isquémica o hemorrágica aguda",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1370,
+      "end": 1420
+    },
+    {
+      "text": "sin áreas de hipoperfusión ni mismatches significativos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1019,
+      "end": 1074
+    },
+    {
+      "text": "sustancia blanca periventricular",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 640,
+      "end": 672
+    },
+    {
+      "text": "arterias carótidas",
+      "type": "ARTERIA",
+      "start": 1275,
+      "end": 1293
+    },
+    {
+      "text": "TC craneal basal urgente",
+      "type": "TECNICA_IMAGEN",
+      "start": 298,
+      "end": 322
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 324,
+      "end": 345
+    },
+    {
+      "text": "Angio-TC arterial intra y extracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 347,
+      "end": 385
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "document_id": "informe_sintetico_20250804195045_14524",
+  "entities": [
+    {
+      "text": "Hematoma lobar de localización frontal derecha",
+      "type": "PATOLOGIA",
+      "start": 414,
+      "end": 460
+    },
+    {
+      "text": "frontal derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 445,
+      "end": 460
+    },
+    {
+      "text": "25 x 18 x 20 mm",
+      "type": "MEDIDA",
+      "start": 480,
+      "end": 495
+    },
+    {
+      "text": "agudo",
+      "type": "TEMPORALIDAD",
+      "start": 551,
+      "end": 556
+    },
+    {
+      "text": "4 mm",
+      "type": "MEDIDA",
+      "start": 693,
+      "end": 697
+    },
+    {
+      "text": "No se observan fracturas óseas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 699,
+      "end": 729
+    },
+    {
+      "text": "No hay sangrado intraventricular ni subaracnoideo asociado",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 731,
+      "end": 789
+    },
+    {
+      "text": "sin evidencia de territorio isquémico asociado",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 924,
+      "end": 970
+    },
+    {
+      "text": "sin estenosis ni signos de oclusión",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1158,
+      "end": 1193
+    },
+    {
+      "text": "Hematoma lobar frontal derecho",
+      "type": "PATOLOGIA",
+      "start": 1218,
+      "end": 1248
+    },
+    {
+      "text": "malformaciones vasculares intracraneales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1407,
+      "end": 1447
+    },
+    {
+      "text": "TC craneal sin contraste",
+      "type": "TECNICA_IMAGEN",
+      "start": 294,
+      "end": 318
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 320,
+      "end": 341
+    },
+    {
+      "text": "angio-TC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 344,
+      "end": 374
+    }
+  ]
+}

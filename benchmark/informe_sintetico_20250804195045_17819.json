@@ -1,0 +1,235 @@
+{
+  "document_id": "informe_sintetico_20250804195045_17819",
+  "entities": [
+    {
+      "text": "cefalea intensa",
+      "type": "PATOLOGIA",
+      "start": 196,
+      "end": 211
+    },
+    {
+      "text": "vértigo",
+      "type": "PATOLOGIA",
+      "start": 214,
+      "end": 221
+    },
+    {
+      "text": "evento vascular agudo",
+      "type": "PATOLOGIA",
+      "start": 293,
+      "end": 314
+    },
+    {
+      "text": "hemorragias intra ni extraaxiales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 491,
+      "end": 524
+    },
+    {
+      "text": "diferenciación cortico-subcortical íntegra",
+      "type": "PATOLOGIA",
+      "start": 552,
+      "end": 594
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 596,
+      "end": 606
+    },
+    {
+      "text": "leucoaraiosis bilateral",
+      "type": "PATOLOGIA",
+      "start": 643,
+      "end": 666
+    },
+    {
+      "text": "cambios crónicos vasculares mínimos",
+      "type": "PATOLOGIA",
+      "start": 682,
+      "end": 717
+    },
+    {
+      "text": "Sistema ventricular",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 721,
+      "end": 740
+    },
+    {
+      "text": "cisternas basales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 743,
+      "end": 760
+    },
+    {
+      "text": "Línea media",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 823,
+      "end": 834
+    },
+    {
+      "text": "colecciones o masas expansivas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 876,
+      "end": 906
+    },
+    {
+      "text": "parámetros perfusionales",
+      "type": "PATOLOGIA",
+      "start": 963,
+      "end": 987
+    },
+    {
+      "text": "TTP",
+      "type": "PATOLOGIA",
+      "start": 989,
+      "end": 992
+    },
+    {
+      "text": "MTT",
+      "type": "PATOLOGIA",
+      "start": 994,
+      "end": 997
+    },
+    {
+      "text": "CBF",
+      "type": "PATOLOGIA",
+      "start": 999,
+      "end": 1002
+    },
+    {
+      "text": "CBV",
+      "type": "PATOLOGIA",
+      "start": 1004,
+      "end": 1007
+    },
+    {
+      "text": "hipoperfusión",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1059,
+      "end": 1072
+    },
+    {
+      "text": "alteraciones compatibles con isquemia aguda",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1075,
+      "end": 1118
+    },
+    {
+      "text": "Arco aórtico",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1154,
+      "end": 1166
+    },
+    {
+      "text": "troncos supraórticos",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1169,
+      "end": 1189
+    },
+    {
+      "text": "ACAs",
+      "type": "ARTERIA",
+      "start": 1309,
+      "end": 1313
+    },
+    {
+      "text": "ACMs",
+      "type": "ARTERIA",
+      "start": 1315,
+      "end": 1319
+    },
+    {
+      "text": "ACPs",
+      "type": "ARTERIA",
+      "start": 1321,
+      "end": 1325
+    },
+    {
+      "text": "sistema vertebrobasilar",
+      "type": "ARTERIA",
+      "start": 1327,
+      "end": 1350
+    },
+    {
+      "text": "calibre y trayecto conservados",
+      "type": "PATOLOGIA",
+      "start": 1356,
+      "end": 1386
+    },
+    {
+      "text": "defectos de repleción",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1392,
+      "end": 1413
+    },
+    {
+      "text": "signos de vasoespasmo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1417,
+      "end": 1438
+    },
+    {
+      "text": "trombosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1441,
+      "end": 1450
+    },
+    {
+      "text": "aneurismas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1469,
+      "end": 1479
+    },
+    {
+      "text": "malformaciones vasculares",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1483,
+      "end": 1508
+    },
+    {
+      "text": "patología aguda",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1571,
+      "end": 1586
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 596,
+      "end": 606
+    },
+    {
+      "text": "parénquima cerebral conservado",
+      "type": "PATOLOGIA",
+      "start": 1605,
+      "end": 1635
+    },
+    {
+      "text": "microangiopatía",
+      "type": "PATOLOGIA",
+      "start": 1678,
+      "end": 1693
+    },
+    {
+      "text": "perfusión cerebral",
+      "type": "PATOLOGIA",
+      "start": 372,
+      "end": 390
+    },
+    {
+      "text": "vasculatura intracraneal",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1718,
+      "end": 1742
+    },
+    {
+      "text": "normales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1758,
+      "end": 1766
+    }
+  ],
+  "regenerado": true,
+  "fecha_regeneracion": "2025-08-06T10:44:26.098917"
+}

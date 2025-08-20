@@ -1,0 +1,101 @@
+{
+  "document_id": "informe_sintetico_20250804195045_13697",
+  "entities": [
+    {
+      "text": "infarto cerebral tipo watershed",
+      "type": "PATOLOGIA",
+      "start": 404,
+      "end": 435
+    },
+    {
+      "text": "regiones frontoparietales bilaterales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 692,
+      "end": 729
+    },
+    {
+      "text": "arterias cerebrales anterior y media",
+      "type": "ARTERIA",
+      "start": 769,
+      "end": 805
+    },
+    {
+      "text": "bilaterales",
+      "type": "LATERALIDAD",
+      "start": 718,
+      "end": 729
+    },
+    {
+      "text": "Tiempo de Tránsito Medio (MTT)",
+      "type": "MEDIDA",
+      "start": 1104,
+      "end": 1134
+    },
+    {
+      "text": "Tiempo hasta el Pico (TTP)",
+      "type": "MEDIDA",
+      "start": 1137,
+      "end": 1163
+    },
+    {
+      "text": "Flujo Cerebral (CBF)",
+      "type": "MEDIDA",
+      "start": 1237,
+      "end": 1257
+    },
+    {
+      "text": "volumen cerebral (CBV)",
+      "type": "MEDIDA",
+      "start": 1260,
+      "end": 1282
+    },
+    {
+      "text": "infarto en zonas watershed",
+      "type": "PATOLOGIA",
+      "start": 1346,
+      "end": 1372
+    },
+    {
+      "text": "estenosis moderada a severa",
+      "type": "PATOLOGIA",
+      "start": 1463,
+      "end": 1490
+    },
+    {
+      "text": "arterias cerebrales medias (M1)",
+      "type": "ARTERIA",
+      "start": 1524,
+      "end": 1555
+    },
+    {
+      "text": "bilateral",
+      "type": "LATERALIDAD",
+      "start": 718,
+      "end": 727
+    },
+    {
+      "text": "No se observa hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2007,
+      "end": 2044
+    },
+    {
+      "text": "No se identifican oclusiones completas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1608,
+      "end": 1646
+    },
+    {
+      "text": "estenosis arterial moderada en M1",
+      "type": "PATOLOGIA",
+      "start": 2561,
+      "end": 2594
+    },
+    {
+      "text": "TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANGIOTC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 2622,
+      "end": 2689
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "document_id": "informe_sintetico_20250804195045_15455",
+  "entities": [
+    {
+      "text": "hematoma lobar de localización frontal derecha",
+      "type": "PATOLOGIA",
+      "start": 467,
+      "end": 513
+    },
+    {
+      "text": "frontal derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 498,
+      "end": 513
+    },
+    {
+      "text": "3.5 x 2.0 x 1.8 cm",
+      "type": "MEDIDA",
+      "start": 563,
+      "end": 581
+    },
+    {
+      "text": "aprox. 3 mm",
+      "type": "MEDIDA",
+      "start": 680,
+      "end": 691
+    },
+    {
+      "text": "hemorragia intraventricular",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 738,
+      "end": 765
+    },
+    {
+      "text": "hemorragia subaracnoidea",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 769,
+      "end": 793
+    },
+    {
+      "text": "isquemia penumbra parcial",
+      "type": "PATOLOGIA",
+      "start": 1232,
+      "end": 1257
+    },
+    {
+      "text": "ausencia de estenosis significativas en arterias cerebrales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1418,
+      "end": 1477
+    },
+    {
+      "text": "frontal derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1592,
+      "end": 1607
+    },
+    {
+      "text": "TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANG IOTC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 72,
+      "end": 140
+    }
+  ]
+}

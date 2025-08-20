@@ -1,0 +1,83 @@
+{
+  "document_id": "informe_sintetico_20250804195045_01117",
+  "entities": [
+    {
+      "text": "contusión hemorrágica traumática",
+      "type": "PATOLOGIA",
+      "start": 549,
+      "end": 581
+    },
+    {
+      "text": "14 x 12 mm",
+      "type": "MEDIDA",
+      "start": 486,
+      "end": 496
+    },
+    {
+      "text": "región frontotemporal derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 503,
+      "end": 532
+    },
+    {
+      "text": "edema perilesional",
+      "type": "PATOLOGIA",
+      "start": 594,
+      "end": 612
+    },
+    {
+      "text": "sin desplazamiento significativo de la línea media",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 641,
+      "end": 691
+    },
+    {
+      "text": "sin hidrocefalia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 804,
+      "end": 820
+    },
+    {
+      "text": "aumento del tiempo medio de tránsito (MTT)",
+      "type": "PATOLOGIA",
+      "start": 923,
+      "end": 965
+    },
+    {
+      "text": "sin alteración significativa del flujo cerebral de sangre (CBF)",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 986,
+      "end": 1049
+    },
+    {
+      "text": "sin estenosis significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1247,
+      "end": 1274
+    },
+    {
+      "text": "sin compromiso vascular o hidrocefalia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1461,
+      "end": 1499
+    },
+    {
+      "text": "TC craneal basal sin contraste",
+      "type": "TECNICA_IMAGEN",
+      "start": 307,
+      "end": 337
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 340,
+      "end": 361
+    },
+    {
+      "text": "angio TC arterial intracraneal urgente",
+      "type": "TECNICA_IMAGEN",
+      "start": 364,
+      "end": 402
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "document_id": "informe_sintetico_20250804195045_07340",
+  "entities": [
+    {
+      "text": "contusión hemorrágica",
+      "type": "PATOLOGIA",
+      "start": 600,
+      "end": 621
+    },
+    {
+      "text": "lóbulo temporal derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 628,
+      "end": 651
+    },
+    {
+      "text": "15 x 12 mm",
+      "type": "MEDIDA",
+      "start": 710,
+      "end": 720
+    },
+    {
+      "text": "edema vasogénico",
+      "type": "PATOLOGIA",
+      "start": 726,
+      "end": 742
+    },
+    {
+      "text": "hemorragias extraaxiales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 838,
+      "end": 862
+    },
+    {
+      "text": "colección subdural o epidural",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 866,
+      "end": 895
+    },
+    {
+      "text": "disminución del flujo sanguíneo cerebral",
+      "type": "PATOLOGIA",
+      "start": 1099,
+      "end": 1139
+    },
+    {
+      "text": "hipoperfusión focal",
+      "type": "PATOLOGIA",
+      "start": 1741,
+      "end": 1760
+    },
+    {
+      "text": "ACM, ACA, ACP",
+      "type": "ARTERIA",
+      "start": 1481,
+      "end": 1494
+    },
+    {
+      "text": "sin alteraciones vasculares obstructivas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1801,
+      "end": 1841
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "document_id": "informe_sintetico_20250804195045_19268",
+  "entities": [
+    {
+      "text": "isquemia",
+      "type": "PATOLOGIA",
+      "start": 223,
+      "end": 231
+    },
+    {
+      "text": "arteria cerebral posterior",
+      "type": "ARTERIA",
+      "start": 249,
+      "end": 275
+    },
+    {
+      "text": "izquierdo",
+      "type": "LATERALIDAD",
+      "start": 200,
+      "end": 209
+    },
+    {
+      "text": "agudo",
+      "type": "TEMPORALIDAD",
+      "start": 180,
+      "end": 185
+    },
+    {
+      "text": "hemorragia aguda",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 494,
+      "end": 510
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 716,
+      "end": 730
+    },
+    {
+      "text": "arteria cerebral posterior",
+      "type": "ARTERIA",
+      "start": 249,
+      "end": 275
+    },
+    {
+      "text": "P2 derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1329,
+      "end": 1339
+    },
+    {
+      "text": "ACM",
+      "type": "ARTERIA",
+      "start": 1418,
+      "end": 1421
+    },
+    {
+      "text": "ACP contralateral",
+      "type": "ARTERIA",
+      "start": 1424,
+      "end": 1441
+    },
+    {
+      "text": "sin signos de estenosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1654,
+      "end": 1677
+    },
+    {
+      "text": "sin evidencia de infarto irreversible",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1880,
+      "end": 1917
+    }
+  ]
+}

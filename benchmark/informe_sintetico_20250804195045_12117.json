@@ -1,0 +1,119 @@
+{
+  "document_id": "informe_sintetico_20250804195045_12117",
+  "entities": [
+    {
+      "text": "edema cerebral difuso",
+      "type": "PATOLOGIA",
+      "start": 440,
+      "end": 461
+    },
+    {
+      "text": "borramiento de surcos corticales",
+      "type": "PATOLOGIA",
+      "start": 466,
+      "end": 498
+    },
+    {
+      "text": "pérdida marcada de la diferenciación cortico-subcortical",
+      "type": "PATOLOGIA",
+      "start": 501,
+      "end": 557
+    },
+    {
+      "text": "lóbulos frontales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 567,
+      "end": 584
+    },
+    {
+      "text": "región parasagital bilateral",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 627,
+      "end": 655
+    },
+    {
+      "text": "edema cerebral",
+      "type": "PATOLOGIA",
+      "start": 440,
+      "end": 454
+    },
+    {
+      "text": "No se identifican hemorragias intracraneales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 762,
+      "end": 806
+    },
+    {
+      "text": "No se identifican defectos de repleción",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1278,
+      "end": 1317
+    },
+    {
+      "text": "Sistema arterial intracraneal permeable",
+      "type": "PATOLOGIA",
+      "start": 1180,
+      "end": 1219
+    },
+    {
+      "text": "sin evidencias de oclusiones",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1220,
+      "end": 1248
+    },
+    {
+      "text": "sin signos de oclusión",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1670,
+      "end": 1692
+    },
+    {
+      "text": "encefalopatía hipóxico-isquémica difusa",
+      "type": "PATOLOGIA",
+      "start": 1451,
+      "end": 1490
+    },
+    {
+      "text": "parada cardiorrespiratoria reciente",
+      "type": "TEMPORALIDAD",
+      "start": 1504,
+      "end": 1539
+    },
+    {
+      "text": "sin focos isquémicos segmentarios",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1563,
+      "end": 1596
+    },
+    {
+      "text": "sin evidencia de ictus territorial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1945,
+      "end": 1979
+    },
+    {
+      "text": "TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANG IOTC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 72,
+      "end": 140
+    },
+    {
+      "text": "TC craneal basal sin contraste",
+      "type": "TECNICA_IMAGEN",
+      "start": 293,
+      "end": 323
+    },
+    {
+      "text": "estudio de perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 325,
+      "end": 354
+    },
+    {
+      "text": "angio-TC de vasos intracraneales",
+      "type": "TECNICA_IMAGEN",
+      "start": 357,
+      "end": 389
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "document_id": "informe_sintetico_20250804195045_01004",
+  "entities": [
+    {
+      "text": "hemorragia subaracnoidea focal",
+      "type": "PATOLOGIA",
+      "start": 437,
+      "end": 467
+    },
+    {
+      "text": "cisura silviana derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 474,
+      "end": 497
+    },
+    {
+      "text": "cisterna supraselar",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 525,
+      "end": 544
+    },
+    {
+      "text": "No se evidencian hematomas intraparenquimatosos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 546,
+      "end": 593
+    },
+    {
+      "text": "No se observan estenosis significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1369,
+      "end": 1408
+    },
+    {
+      "text": "No se evidencian signos de isquemia cerebral aguda",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1864,
+      "end": 1914
+    },
+    {
+      "text": "aneurisma sacular de 5 mm",
+      "type": "PATOLOGIA",
+      "start": 1202,
+      "end": 1227
+    },
+    {
+      "text": "arteria comunicante anterior derecha",
+      "type": "ARTERIA",
+      "start": 1234,
+      "end": 1270
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 879,
+      "end": 889
+    },
+    {
+      "text": "Sistema vascular intracraneal permeable",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1955,
+      "end": 1994
+    },
+    {
+      "text": "TC craneal basal sin contraste",
+      "type": "TECNICA_IMAGEN",
+      "start": 288,
+      "end": 318
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 321,
+      "end": 342
+    },
+    {
+      "text": "AngioTC arterial intracraneal urgente",
+      "type": "TECNICA_IMAGEN",
+      "start": 345,
+      "end": 382
+    }
+  ]
+}

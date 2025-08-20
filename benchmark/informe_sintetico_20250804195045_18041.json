@@ -1,0 +1,83 @@
+{
+  "document_id": "informe_sintetico_20250804195045_18041",
+  "entities": [
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 392,
+      "end": 415
+    },
+    {
+      "text": "hemorragia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 392,
+      "end": 402
+    },
+    {
+      "text": "lesiones isquémicas agudas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 507,
+      "end": 533
+    },
+    {
+      "text": "focos hipodensos sugestivos de infarto reciente",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 537,
+      "end": 584
+    },
+    {
+      "text": "calcificaciones puntiformes",
+      "type": "PATOLOGIA",
+      "start": 595,
+      "end": 622
+    },
+    {
+      "text": "región cerebelosa izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 626,
+      "end": 653
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 480,
+      "end": 490
+    },
+    {
+      "text": "isquemia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1074,
+      "end": 1082
+    },
+    {
+      "text": "Polígono de Willis",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1293,
+      "end": 1311
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 480,
+      "end": 490
+    },
+    {
+      "text": "TC craneal basal urgente",
+      "type": "TECNICA_IMAGEN",
+      "start": 232,
+      "end": 256
+    },
+    {
+      "text": "perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 275,
+      "end": 293
+    },
+    {
+      "text": "AngioTC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 296,
+      "end": 325
+    }
+  ]
+}

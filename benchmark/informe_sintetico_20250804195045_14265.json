@@ -1,0 +1,71 @@
+{
+  "document_id": "informe_sintetico_20250804195045_14265",
+  "entities": [
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 1042,
+      "end": 1056
+    },
+    {
+      "text": "arteria cerebral anterior",
+      "type": "ARTERIA",
+      "start": 880,
+      "end": 905
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 912,
+      "end": 921
+    },
+    {
+      "text": "A2",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1174,
+      "end": 1176
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 1042,
+      "end": 1056
+    },
+    {
+      "text": "10",
+      "type": "MEDIDA",
+      "start": 606,
+      "end": 608
+    },
+    {
+      "text": "aguda",
+      "type": "TEMPORALIDAD",
+      "start": 1051,
+      "end": 1056
+    },
+    {
+      "text": "sin evidencia de trombo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1198,
+      "end": 1221
+    },
+    {
+      "text": "No se observan estenosis relevantes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1363,
+      "end": 1398
+    },
+    {
+      "text": "No signos de hemorragia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1646,
+      "end": 1669
+    },
+    {
+      "text": "sin signos de compresión",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 707,
+      "end": 731
+    }
+  ]
+}

@@ -1,0 +1,239 @@
+{
+  "document_id": "informe_sintetico_20250804195045_11361",
+  "entities": [
+    {
+      "text": "infarto cerebral agudo",
+      "type": "PATOLOGIA",
+      "start": 179,
+      "end": 201
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 219,
+      "end": 249
+    },
+    {
+      "text": "deterioro neurológico progresivo",
+      "type": "PATOLOGIA",
+      "start": 255,
+      "end": 287
+    },
+    {
+      "text": "transformación hemorrágica",
+      "type": "PATOLOGIA",
+      "start": 302,
+      "end": 328
+    },
+    {
+      "text": "TC craneal sin y con contraste",
+      "type": "TECNICA_IMAGEN",
+      "start": 349,
+      "end": 379
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 381,
+      "end": 402
+    },
+    {
+      "text": "angioTC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 405,
+      "end": 434
+    },
+    {
+      "text": "lesión hipodensa",
+      "type": "PATOLOGIA",
+      "start": 528,
+      "end": 544
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 219,
+      "end": 249
+    },
+    {
+      "text": "infarto establecido",
+      "type": "PATOLOGIA",
+      "start": 608,
+      "end": 627
+    },
+    {
+      "text": "extensión moderada",
+      "type": "MEDIDA",
+      "start": 632,
+      "end": 650
+    },
+    {
+      "text": "región frontoparietal",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 654,
+      "end": 675
+    },
+    {
+      "text": "foco hiperdenso",
+      "type": "PATOLOGIA",
+      "start": 688,
+      "end": 703
+    },
+    {
+      "text": "densidad >60 UH",
+      "type": "MEDIDA",
+      "start": 731,
+      "end": 746
+    },
+    {
+      "text": "transformación hemorrágica tipo PH1",
+      "type": "PATOLOGIA",
+      "start": 761,
+      "end": 796
+    },
+    {
+      "text": "hemorragia pequeña puntiforme",
+      "type": "PATOLOGIA",
+      "start": 798,
+      "end": 827
+    },
+    {
+      "text": "No hay signos de sangrado subaracnoideo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 856,
+      "end": 895
+    },
+    {
+      "text": "ni hematomas extraaxiales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 896,
+      "end": 921
+    },
+    {
+      "text": "línea media está centrada",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 926,
+      "end": 951
+    },
+    {
+      "text": "sin desplazamiento ni efecto masa significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 953,
+      "end": 1000
+    },
+    {
+      "text": "disminución significativa del flujo sanguíneo cerebral",
+      "type": "PATOLOGIA",
+      "start": 1100,
+      "end": 1154
+    },
+    {
+      "text": "volumen sanguíneo cerebral",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1163,
+      "end": 1189
+    },
+    {
+      "text": "región infartada derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1199,
+      "end": 1223
+    },
+    {
+      "text": "prolongación de tiempos de tránsito",
+      "type": "PATOLOGIA",
+      "start": 1229,
+      "end": 1264
+    },
+    {
+      "text": "Tmax y TTP",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1266,
+      "end": 1276
+    },
+    {
+      "text": "Área de penumbra isquémica limitada",
+      "type": "PATOLOGIA",
+      "start": 1279,
+      "end": 1314
+    },
+    {
+      "text": "sin extensión adicional significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1316,
+      "end": 1353
+    },
+    {
+      "text": "Oclusión en segmento proximal M1",
+      "type": "PATOLOGIA",
+      "start": 1391,
+      "end": 1423
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 219,
+      "end": 249
+    },
+    {
+      "text": "No se observan otras estenosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1459,
+      "end": 1489
+    },
+    {
+      "text": "ni signos de ateromatosis severa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1490,
+      "end": 1522
+    },
+    {
+      "text": "Vasos contralaterales permeables",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1524,
+      "end": 1556
+    },
+    {
+      "text": "transformación hemorrágica tipo PH1",
+      "type": "PATOLOGIA",
+      "start": 761,
+      "end": 796
+    },
+    {
+      "text": "sin efecto masa significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1672,
+      "end": 1701
+    },
+    {
+      "text": "Oclusión proximal de ACM derecha",
+      "type": "PATOLOGIA",
+      "start": 1703,
+      "end": 1735
+    },
+    {
+      "text": "confirmada en angioTC",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1736,
+      "end": 1757
+    },
+    {
+      "text": "Alteraciones de perfusión compatibles con infarto consolidado",
+      "type": "PATOLOGIA",
+      "start": 1759,
+      "end": 1820
+    },
+    {
+      "text": "área de penumbra pequeña",
+      "type": "PATOLOGIA",
+      "start": 1823,
+      "end": 1847
+    },
+    {
+      "text": "Oclusión proximal M1 de ACM derecha",
+      "type": "PATOLOGIA",
+      "start": 2332,
+      "end": 2367
+    }
+  ]
+}

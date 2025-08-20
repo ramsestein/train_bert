@@ -1,0 +1,131 @@
+{
+  "document_id": "0000000010000000058501164_cleaned",
+  "entities": [
+    {
+      "text": "hemorragia intra ni extraaxial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 394,
+      "end": 424
+    },
+    {
+      "text": "Parénquima cerebral sin alteraciones densitométricas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 426,
+      "end": 478
+    },
+    {
+      "text": "Hipodensidad corticosubcortical parietoccipital izquierda",
+      "type": "PATOLOGIA",
+      "start": 527,
+      "end": 584
+    },
+    {
+      "text": "isquemia establecida",
+      "type": "PATOLOGIA",
+      "start": 600,
+      "end": 620
+    },
+    {
+      "text": "Aumento de mapas de tiempo",
+      "type": "PATOLOGIA",
+      "start": 754,
+      "end": 780
+    },
+    {
+      "text": "caída en mapas de volumen en territorio de la ACA izquierda",
+      "type": "PATOLOGIA",
+      "start": 788,
+      "end": 847
+    },
+    {
+      "text": "discordancia de aprox 90%",
+      "type": "MEDIDA",
+      "start": 857,
+      "end": 882
+    },
+    {
+      "text": "Oclusión en segmento A3/A4 de ACA izquierda",
+      "type": "PATOLOGIA",
+      "start": 915,
+      "end": 958
+    },
+    {
+      "text": "Leve ateromatosis calcificada de arco aórtico",
+      "type": "PATOLOGIA",
+      "start": 960,
+      "end": 1005
+    },
+    {
+      "text": "Leve ateromatosis calcificada no estenótica en bifurcación de ambas caróticas",
+      "type": "PATOLOGIA",
+      "start": 1007,
+      "end": 1084
+    },
+    {
+      "text": "Resto de principales arterias cerebrales intracraneales permeables",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1086,
+      "end": 1152
+    },
+    {
+      "text": "ACA derecha",
+      "type": "ARTERIA",
+      "start": 1154,
+      "end": 1165
+    },
+    {
+      "text": "ACMs",
+      "type": "ARTERIA",
+      "start": 1166,
+      "end": 1170
+    },
+    {
+      "text": "ACPs",
+      "type": "ARTERIA",
+      "start": 1173,
+      "end": 1177
+    },
+    {
+      "text": "Sistema vertebrobasilar permeable",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1180,
+      "end": 1213
+    },
+    {
+      "text": "Oclusión de ACA izquierda en segmento A3/A4",
+      "type": "PATOLOGIA",
+      "start": 1238,
+      "end": 1281
+    },
+    {
+      "text": "90% discordancia en los mapas de perfusión",
+      "type": "MEDIDA",
+      "start": 1283,
+      "end": 1325
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1334,
+      "end": 1357
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 278,
+      "end": 294
+    },
+    {
+      "text": "TC perfusión",
+      "type": "TECNICA_IMAGEN",
+      "start": 297,
+      "end": 309
+    },
+    {
+      "text": "angio TC-intra/extra craneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 312,
+      "end": 340
+    }
+  ]
+}

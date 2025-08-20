@@ -1,0 +1,107 @@
+{
+  "document_id": "informe_sintetico_20250804195045_02700",
+  "entities": [
+    {
+      "text": "isquemia vertebrobasilar",
+      "type": "PATOLOGIA",
+      "start": 266,
+      "end": 290
+    },
+    {
+      "text": "tronco encefálico",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 578,
+      "end": 595
+    },
+    {
+      "text": "cerebelo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1169,
+      "end": 1177
+    },
+    {
+      "text": "arteria basilar",
+      "type": "ARTERIA",
+      "start": 1362,
+      "end": 1377
+    },
+    {
+      "text": "proximal",
+      "type": "LATERALIDAD",
+      "start": 1378,
+      "end": 1386
+    },
+    {
+      "text": "bilaterales",
+      "type": "LATERALIDAD",
+      "start": 1455,
+      "end": 1466
+    },
+    {
+      "text": "hemorragias agudas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 486,
+      "end": 504
+    },
+    {
+      "text": "No se observan aneurismas ni malformaciones vasculares evidentes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1620,
+      "end": 1684
+    },
+    {
+      "text": "No evidencia de hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1983,
+      "end": 2022
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 1782,
+      "end": 1796
+    },
+    {
+      "text": "penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1247,
+      "end": 1265
+    },
+    {
+      "text": "arteria basilar",
+      "type": "ARTERIA",
+      "start": 1362,
+      "end": 1377
+    },
+    {
+      "text": "sin hemorragia asociada",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2448,
+      "end": 2471
+    },
+    {
+      "text": "TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANG IOTC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 72,
+      "end": 140
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 311,
+      "end": 327
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 345,
+      "end": 366
+    },
+    {
+      "text": "angiografía por TC arterial intracraneal y extracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 369,
+      "end": 424
+    }
+  ]
+}

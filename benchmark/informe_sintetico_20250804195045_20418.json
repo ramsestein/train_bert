@@ -1,0 +1,89 @@
+{
+  "document_id": "informe_sintetico_20250804195045_20418",
+  "entities": [
+    {
+      "text": "hemorragia subaracnoidea difusa",
+      "type": "PATOLOGIA",
+      "start": 625,
+      "end": 656
+    },
+    {
+      "text": "hemorragias intraventriculares",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 702,
+      "end": 732
+    },
+    {
+      "text": "ASPECTS",
+      "type": "PUNTUACION_CLINICA",
+      "start": 794,
+      "end": 801
+    },
+    {
+      "text": "sangre",
+      "type": "PATOLOGIA",
+      "start": 1037,
+      "end": 1043
+    },
+    {
+      "text": "vasospasmo inicial",
+      "type": "PATOLOGIA",
+      "start": 1244,
+      "end": 1262
+    },
+    {
+      "text": "defecto de relleno",
+      "type": "PATOLOGIA",
+      "start": 1310,
+      "end": 1328
+    },
+    {
+      "text": "arteria comunicante anterior",
+      "type": "ARTERIA",
+      "start": 1335,
+      "end": 1363
+    },
+    {
+      "text": "6 mm",
+      "type": "MEDIDA",
+      "start": 1436,
+      "end": 1440
+    },
+    {
+      "text": "TC craneal urgente basal no contrastada + perfusión cerebral + angio-TC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 300,
+      "end": 393
+    },
+    {
+      "text": "TC PERFUSIÓN",
+      "type": "TECNICA_IMAGEN",
+      "start": 1045,
+      "end": 1057
+    },
+    {
+      "text": "ANGIO-TC ARTERIAL INTRACRANEAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 1264,
+      "end": 1294
+    },
+    {
+      "text": "cisternas basales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 541,
+      "end": 558
+    },
+    {
+      "text": "cisternas perimesencefálicas",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 580,
+      "end": 608
+    },
+    {
+      "text": "cisternas supraselares",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 985,
+      "end": 1007
+    }
+  ]
+}

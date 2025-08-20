@@ -1,0 +1,101 @@
+{
+  "document_id": "informe_sintetico_20250804195045_11012",
+  "entities": [
+    {
+      "text": "isquemia",
+      "type": "PATOLOGIA",
+      "start": 633,
+      "end": 641
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 576,
+      "end": 606
+    },
+    {
+      "text": "arteria cerebral media",
+      "type": "ARTERIA",
+      "start": 576,
+      "end": 598
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 599,
+      "end": 606
+    },
+    {
+      "text": "ASPECTS 9",
+      "type": "PUNTUACION_CLINICA",
+      "start": 713,
+      "end": 722
+    },
+    {
+      "text": "Oclusión completa",
+      "type": "PATOLOGIA",
+      "start": 849,
+      "end": 866
+    },
+    {
+      "text": "M2 derecho",
+      "type": "ARTERIA",
+      "start": 880,
+      "end": 890
+    },
+    {
+      "text": "No se visualizan signos de hemorragia aguda",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 643,
+      "end": 686
+    },
+    {
+      "text": "No se evidencian estenosis significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1033,
+      "end": 1074
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 2020,
+      "end": 2034
+    },
+    {
+      "text": "M2/M3",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1497,
+      "end": 1502
+    },
+    {
+      "text": "ASPECTS 9",
+      "type": "PUNTUACION_CLINICA",
+      "start": 713,
+      "end": 722
+    },
+    {
+      "text": "No evidencias de hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1582,
+      "end": 1622
+    },
+    {
+      "text": "ictus isquémico agudo",
+      "type": "PATOLOGIA",
+      "start": 239,
+      "end": 260
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 370,
+      "end": 391
+    },
+    {
+      "text": "angio-TC intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 1835,
+      "end": 1856
+    }
+  ]
+}

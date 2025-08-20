@@ -1,0 +1,95 @@
+{
+  "document_id": "informe_sintetico_20250804195045_19532",
+  "entities": [
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 248,
+      "end": 262
+    },
+    {
+      "text": "arteria cerebral posterior derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 280,
+      "end": 314
+    },
+    {
+      "text": "arteria cerebral posterior derecha",
+      "type": "ARTERIA",
+      "start": 280,
+      "end": 314
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 307,
+      "end": 314
+    },
+    {
+      "text": "TTP",
+      "type": "MEDIDA",
+      "start": 913,
+      "end": 916
+    },
+    {
+      "text": "Tmax",
+      "type": "MEDIDA",
+      "start": 953,
+      "end": 957
+    },
+    {
+      "text": "penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1155,
+      "end": 1173
+    },
+    {
+      "text": "arteria cerebral posterior derecha",
+      "type": "ARTERIA",
+      "start": 280,
+      "end": 314
+    },
+    {
+      "text": "segmento P1-P2",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1324,
+      "end": 1338
+    },
+    {
+      "text": "sin estenosis significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1386,
+      "end": 1413
+    },
+    {
+      "text": "No se identifican placas ateroscleróticas de relevancia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1415,
+      "end": 1470
+    },
+    {
+      "text": "No evidencias de hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1711,
+      "end": 1751
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 335,
+      "end": 351
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 378,
+      "end": 399
+    },
+    {
+      "text": "angiografía por angio-TC arterial intra y extracraneal urgente",
+      "type": "TECNICA_IMAGEN",
+      "start": 402,
+      "end": 464
+    }
+  ]
+}

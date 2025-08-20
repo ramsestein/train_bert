@@ -1,0 +1,125 @@
+{
+  "document_id": "informe_sintetico_20250804195045_08472",
+  "entities": [
+    {
+      "text": "ictus isquémico múltiple",
+      "type": "PATOLOGIA",
+      "start": 275,
+      "end": 299
+    },
+    {
+      "text": "isquemia precoz",
+      "type": "PATOLOGIA",
+      "start": 784,
+      "end": 799
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 1206,
+      "end": 1220
+    },
+    {
+      "text": "isquemia aguda multiterritorial",
+      "type": "PATOLOGIA",
+      "start": 1721,
+      "end": 1752
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "ARTERIA",
+      "start": 699,
+      "end": 729
+    },
+    {
+      "text": "arteria cerebral posterior izquierda",
+      "type": "ARTERIA",
+      "start": 732,
+      "end": 768
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "ARTERIA",
+      "start": 699,
+      "end": 729
+    },
+    {
+      "text": "arteria cerebral posterior izquierda",
+      "type": "ARTERIA",
+      "start": 732,
+      "end": 768
+    },
+    {
+      "text": "derecho",
+      "type": "LATERALIDAD",
+      "start": 1048,
+      "end": 1055
+    },
+    {
+      "text": "izquierdo",
+      "type": "LATERALIDAD",
+      "start": 1068,
+      "end": 1077
+    },
+    {
+      "text": "segmento M2",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1441,
+      "end": 1452
+    },
+    {
+      "text": "proximal",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1524,
+      "end": 1532
+    },
+    {
+      "text": "80%",
+      "type": "MEDIDA",
+      "start": 1476,
+      "end": 1479
+    },
+    {
+      "text": "2 horas",
+      "type": "TEMPORALIDAD",
+      "start": 241,
+      "end": 248
+    },
+    {
+      "text": "No se evidencia hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 569,
+      "end": 608
+    },
+    {
+      "text": "No hay desplazamientos de la línea media ni colapso ventricular",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 869,
+      "end": 932
+    },
+    {
+      "text": "No se evidencian aneurismas ni malformaciones vasculares",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1612,
+      "end": 1668
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 367,
+      "end": 383
+    },
+    {
+      "text": "TC PERFUSIÓN",
+      "type": "TECNICA_IMAGEN",
+      "start": 937,
+      "end": 949
+    },
+    {
+      "text": "ANGIO-TC EXTRA E INTRACRANEAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 1340,
+      "end": 1369
+    }
+  ]
+}

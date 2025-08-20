@@ -1,0 +1,241 @@
+{
+  "document_id": "informe_sintetico_20250804195045_03367",
+  "entities": [
+    {
+      "text": "ictus isquémico",
+      "type": "PATOLOGIA",
+      "start": 239,
+      "end": 254
+    },
+    {
+      "text": "hemiparesia derecha",
+      "type": "PATOLOGIA",
+      "start": 206,
+      "end": 225
+    },
+    {
+      "text": "afasia",
+      "type": "PATOLOGIA",
+      "start": 197,
+      "end": 203
+    },
+    {
+      "text": "hemorragia",
+      "type": "PATOLOGIA",
+      "start": 345,
+      "end": 355
+    },
+    {
+      "text": "lesión parenquimatosa aguda",
+      "type": "PATOLOGIA",
+      "start": 558,
+      "end": 585
+    },
+    {
+      "text": "isquemia incipiente",
+      "type": "PATOLOGIA",
+      "start": 854,
+      "end": 873
+    },
+    {
+      "text": "isquemia en evolución",
+      "type": "PATOLOGIA",
+      "start": 1245,
+      "end": 1266
+    },
+    {
+      "text": "oclusión",
+      "type": "PATOLOGIA",
+      "start": 1312,
+      "end": 1320
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 1622,
+      "end": 1636
+    },
+    {
+      "text": "mismatch significativo",
+      "type": "PATOLOGIA",
+      "start": 1771,
+      "end": 1793
+    },
+    {
+      "text": "ACM",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1071,
+      "end": 1074
+    },
+    {
+      "text": "arteria cerebral media",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1047,
+      "end": 1069
+    },
+    {
+      "text": "segmento M2 distal",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1325,
+      "end": 1343
+    },
+    {
+      "text": "segmentos M2/M3",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1709,
+      "end": 1724
+    },
+    {
+      "text": "territorio superficial de la arteria cerebral media",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1018,
+      "end": 1069
+    },
+    {
+      "text": "porción insular distal",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1365,
+      "end": 1387
+    },
+    {
+      "text": "líneas medias",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 694,
+      "end": 707
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 830,
+      "end": 839
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 830,
+      "end": 839
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 830,
+      "end": 839
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 830,
+      "end": 839
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 218,
+      "end": 225
+    },
+    {
+      "text": "simétrico",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 682,
+      "end": 691
+    },
+    {
+      "text": "sin estenosis significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1445,
+      "end": 1473
+    },
+    {
+      "text": "sin ateromatosis relevante",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1497,
+      "end": 1523
+    },
+    {
+      "text": "ASPECTS 9",
+      "type": "PUNTUACION_CLINICA",
+      "start": 651,
+      "end": 660
+    },
+    {
+      "text": "ASPECTS 9",
+      "type": "PUNTUACION_CLINICA",
+      "start": 651,
+      "end": 660
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 299,
+      "end": 315
+    },
+    {
+      "text": "TC de perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 368,
+      "end": 392
+    },
+    {
+      "text": "angiografía por TC",
+      "type": "TECNICA_IMAGEN",
+      "start": 395,
+      "end": 413
+    },
+    {
+      "text": "TC PERFUSIÓN",
+      "type": "TECNICA_IMAGEN",
+      "start": 875,
+      "end": 887
+    },
+    {
+      "text": "TC CODIGO ICTUS",
+      "type": "TECNICA_IMAGEN",
+      "start": 72,
+      "end": 87
+    },
+    {
+      "text": "TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANGIOTC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 2151,
+      "end": 2218
+    },
+    {
+      "text": "prolongación del tiempo de tránsito medio",
+      "type": "MEDIDA",
+      "start": 917,
+      "end": 958
+    },
+    {
+      "text": "reducción del flujo sanguíneo cerebral",
+      "type": "MEDIDA",
+      "start": 967,
+      "end": 1005
+    },
+    {
+      "text": "área limitada",
+      "type": "MEDIDA",
+      "start": 1743,
+      "end": 1756
+    },
+    {
+      "text": "mismatch significativo",
+      "type": "MEDIDA",
+      "start": 1771,
+      "end": 1793
+    },
+    {
+      "text": "en evolución",
+      "type": "TEMPORALIDAD",
+      "start": 1254,
+      "end": 1266
+    },
+    {
+      "text": "súbito",
+      "type": "TEMPORALIDAD",
+      "start": 186,
+      "end": 192
+    }
+  ],
+  "regenerado": true,
+  "fecha_regeneracion": "2025-08-06T14:00:47.658617"
+}

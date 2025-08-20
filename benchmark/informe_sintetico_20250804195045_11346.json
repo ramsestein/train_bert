@@ -1,0 +1,151 @@
+{
+  "document_id": "informe_sintetico_20250804195045_11346",
+  "entities": [
+    {
+      "text": "traumatismo craneoencefálico",
+      "type": "PATOLOGIA",
+      "start": 179,
+      "end": 207
+    },
+    {
+      "text": "deterioro del nivel de conciencia",
+      "type": "PATOLOGIA",
+      "start": 219,
+      "end": 252
+    },
+    {
+      "text": "colección hiperdensa",
+      "type": "PATOLOGIA",
+      "start": 445,
+      "end": 465
+    },
+    {
+      "text": "hematoma",
+      "type": "PATOLOGIA",
+      "start": 627,
+      "end": 635
+    },
+    {
+      "text": "espacio subdural",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 506,
+      "end": 522
+    },
+    {
+      "text": "hemisférico derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 523,
+      "end": 542
+    },
+    {
+      "text": "línea media",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 571,
+      "end": 582
+    },
+    {
+      "text": "ventrículo lateral derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 975,
+      "end": 1001
+    },
+    {
+      "text": "región frontal y parietal derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1154,
+      "end": 1187
+    },
+    {
+      "text": "hematoma subdural",
+      "type": "PATOLOGIA",
+      "start": 1229,
+      "end": 1246
+    },
+    {
+      "text": "12 mm",
+      "type": "MEDIDA",
+      "start": 657,
+      "end": 662
+    },
+    {
+      "text": "6 mm",
+      "type": "MEDIDA",
+      "start": 618,
+      "end": 622
+    },
+    {
+      "text": "12 mm",
+      "type": "MEDIDA",
+      "start": 657,
+      "end": 662
+    },
+    {
+      "text": "agudo",
+      "type": "TEMPORALIDAD",
+      "start": 870,
+      "end": 875
+    },
+    {
+      "text": "urgente",
+      "type": "TEMPORALIDAD",
+      "start": 344,
+      "end": 351
+    },
+    {
+      "text": "sin signos evidentes de contusión ni infarto agudo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 825,
+      "end": 875
+    },
+    {
+      "text": "sin estenosis ni oclusiones significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1358,
+      "end": 1400
+    },
+    {
+      "text": "sin signos de ateromatosis importante",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1492,
+      "end": 1529
+    },
+    {
+      "text": "TC craneal sin contraste",
+      "type": "TECNICA_IMAGEN",
+      "start": 273,
+      "end": 297
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 299,
+      "end": 320
+    },
+    {
+      "text": "angioTC intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 323,
+      "end": 343
+    },
+    {
+      "text": "TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANG IOTC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 72,
+      "end": 140
+    },
+    {
+      "text": "hipoperfusión regional",
+      "type": "PATOLOGIA",
+      "start": 1734,
+      "end": 1756
+    },
+    {
+      "text": "valoración neuroquirúrgica urgente",
+      "type": "PATOLOGIA",
+      "start": 1850,
+      "end": 1884
+    }
+  ],
+  "regenerado": true,
+  "fecha_regeneracion": "2025-08-06T18:12:48.101558"
+}

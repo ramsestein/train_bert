@@ -1,0 +1,119 @@
+{
+  "document_id": "informe_sintetico_20250804195045_00379",
+  "entities": [
+    {
+      "text": "ictus isquémico agudo",
+      "type": "PATOLOGIA",
+      "start": 274,
+      "end": 295
+    },
+    {
+      "text": "hemiparesia derecha",
+      "type": "PATOLOGIA",
+      "start": 217,
+      "end": 236
+    },
+    {
+      "text": "afasia motora",
+      "type": "PATOLOGIA",
+      "start": 239,
+      "end": 252
+    },
+    {
+      "text": "isquemia precoz",
+      "type": "PATOLOGIA",
+      "start": 804,
+      "end": 819
+    },
+    {
+      "text": "ASPECTS 9",
+      "type": "PUNTUACION_CLINICA",
+      "start": 821,
+      "end": 830
+    },
+    {
+      "text": "región frontoinsular izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 712,
+      "end": 742
+    },
+    {
+      "text": "territorio correspondiente a las divisiones distales M2 y M3 de la arteria cerebral media izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1153,
+      "end": 1252
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "ARTERIA",
+      "start": 1220,
+      "end": 1252
+    },
+    {
+      "text": "M2",
+      "type": "ARTERIA",
+      "start": 1206,
+      "end": 1208
+    },
+    {
+      "text": "M3",
+      "type": "ARTERIA",
+      "start": 1211,
+      "end": 1213
+    },
+    {
+      "text": "repleción completo en rama distal M2 de la arteria cerebral media izquierda",
+      "type": "PATOLOGIA",
+      "start": 1495,
+      "end": 1570
+    },
+    {
+      "text": "oclusión distal",
+      "type": "PATOLOGIA",
+      "start": 1584,
+      "end": 1599
+    },
+    {
+      "text": "ASPECTS 9",
+      "type": "PUNTUACION_CLINICA",
+      "start": 821,
+      "end": 830
+    },
+    {
+      "text": "penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1411,
+      "end": 1429
+    },
+    {
+      "text": "No se identifican hemorragias intraparenquimatosas ni extracraneales ni signos de sangrado subaracnoideo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 571,
+      "end": 675
+    },
+    {
+      "text": "No evidencia de sangrado ni edema cerebral significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2100,
+      "end": 2156
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 356,
+      "end": 372
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 374,
+      "end": 395
+    },
+    {
+      "text": "angiografía TC de arterias intracraneales y troncos supraórticos",
+      "type": "TECNICA_IMAGEN",
+      "start": 399,
+      "end": 463
+    }
+  ]
+}

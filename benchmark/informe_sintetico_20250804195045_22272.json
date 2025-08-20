@@ -1,0 +1,125 @@
+{
+  "document_id": "informe_sintetico_20250804195045_22272",
+  "entities": [
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 747,
+      "end": 770
+    },
+    {
+      "text": "edema significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 774,
+      "end": 793
+    },
+    {
+      "text": "ASPECTS 8/10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 869,
+      "end": 881
+    },
+    {
+      "text": "infarto cortical",
+      "type": "PATOLOGIA",
+      "start": 1764,
+      "end": 1780
+    },
+    {
+      "text": "zonas watershed bilaterales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1784,
+      "end": 1811
+    },
+    {
+      "text": "arterias cerebrales anterior-media y media-posterior",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1818,
+      "end": 1870
+    },
+    {
+      "text": "estenosis moderada",
+      "type": "PATOLOGIA",
+      "start": 1381,
+      "end": 1399
+    },
+    {
+      "text": "60%",
+      "type": "MEDIDA",
+      "start": 1417,
+      "end": 1420
+    },
+    {
+      "text": "arterias carótidas internas",
+      "type": "ARTERIA",
+      "start": 1452,
+      "end": 1479
+    },
+    {
+      "text": "trombosis",
+      "type": "PATOLOGIA",
+      "start": 1498,
+      "end": 1507
+    },
+    {
+      "text": "oclusión completa",
+      "type": "PATOLOGIA",
+      "start": 1511,
+      "end": 1528
+    },
+    {
+      "text": "Sistema vertebrobasilar",
+      "type": "ARTERIA",
+      "start": 1623,
+      "end": 1646
+    },
+    {
+      "text": "sin placas ateromatosas significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1658,
+      "end": 1696
+    },
+    {
+      "text": "infarto",
+      "type": "PATOLOGIA",
+      "start": 1318,
+      "end": 1325
+    },
+    {
+      "text": "penumbra",
+      "type": "PATOLOGIA",
+      "start": 1326,
+      "end": 1334
+    },
+    {
+      "text": "tiempo de tránsito medio (TTM)",
+      "type": "MEDIDA",
+      "start": 1022,
+      "end": 1052
+    },
+    {
+      "text": "tiempo hasta el pico (TTP)",
+      "type": "MEDIDA",
+      "start": 1055,
+      "end": 1081
+    },
+    {
+      "text": "reducción moderada",
+      "type": "PATOLOGIA",
+      "start": 1161,
+      "end": 1179
+    },
+    {
+      "text": "flujo sanguíneo cerebral (CBF)",
+      "type": "MEDIDA",
+      "start": 1184,
+      "end": 1214
+    },
+    {
+      "text": "volumen sanguíneo cerebral (CBV)",
+      "type": "MEDIDA",
+      "start": 1217,
+      "end": 1249
+    }
+  ]
+}

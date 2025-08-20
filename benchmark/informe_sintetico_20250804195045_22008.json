@@ -1,0 +1,149 @@
+{
+  "document_id": "informe_sintetico_20250804195045_22008",
+  "entities": [
+    {
+      "text": "hemiparesia derecha",
+      "type": "PATOLOGIA",
+      "start": 218,
+      "end": 237
+    },
+    {
+      "text": "afasia",
+      "type": "PATOLOGIA",
+      "start": 240,
+      "end": 246
+    },
+    {
+      "text": "menor a 3 horas",
+      "type": "TEMPORALIDAD",
+      "start": 268,
+      "end": 283
+    },
+    {
+      "text": "arteria cerebral media (ACM) izquierda proximal (segmento M1)",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 460,
+      "end": 521
+    },
+    {
+      "text": "trombo intraluminal",
+      "type": "PATOLOGIA",
+      "start": 546,
+      "end": 565
+    },
+    {
+      "text": "hipodensidad cortical y subcortical en la región frontoparietal izquierda",
+      "type": "PATOLOGIA",
+      "start": 575,
+      "end": 648
+    },
+    {
+      "text": "edema citotóxico incipiente",
+      "type": "PATOLOGIA",
+      "start": 664,
+      "end": 691
+    },
+    {
+      "text": "ASPECTS 7",
+      "type": "PUNTUACION_CLINICA",
+      "start": 736,
+      "end": 745
+    },
+    {
+      "text": "No se observan signos de hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 806,
+      "end": 854
+    },
+    {
+      "text": "Sistema ventricular de tamaño y morfología conservados",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 889,
+      "end": 943
+    },
+    {
+      "text": "Cisternas basales libres",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 945,
+      "end": 969
+    },
+    {
+      "text": "aumento del tiempo de tránsito medio (Tmax >6s)",
+      "type": "MEDIDA",
+      "start": 1016,
+      "end": 1063
+    },
+    {
+      "text": "caída significativa de flujo cerebral (CBF)",
+      "type": "PATOLOGIA",
+      "start": 1066,
+      "end": 1109
+    },
+    {
+      "text": "territorio dependiente de la ACM izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1113,
+      "end": 1155
+    },
+    {
+      "text": "región frontal y parietal",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1174,
+      "end": 1199
+    },
+    {
+      "text": "volumen cerebral (CBV) preservado en zonas adyacentes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1205,
+      "end": 1258
+    },
+    {
+      "text": "Oclusión completa del segmento M1 de ACM izquierda",
+      "type": "PATOLOGIA",
+      "start": 1332,
+      "end": 1382
+    },
+    {
+      "text": "sin estenosis significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1428,
+      "end": 1455
+    },
+    {
+      "text": "Arteria carótida interna izquierda permeable proximalmente",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1457,
+      "end": 1515
+    },
+    {
+      "text": "No se observan evidencias de otras estenosis o aneurismas intracraneales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1517,
+      "end": 1589
+    },
+    {
+      "text": "Sistema vertebrobasilar normal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1591,
+      "end": 1621
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 2012,
+      "end": 2026
+    },
+    {
+      "text": "territorio de ACM proximal",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 2030,
+      "end": 2056
+    },
+    {
+      "text": "candidato a reperfusión urgente",
+      "type": "PATOLOGIA",
+      "start": 2058,
+      "end": 2089
+    }
+  ]
+}

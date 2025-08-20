@@ -1,0 +1,65 @@
+{
+  "document_id": "informe_sintetico_20250804195045_24746",
+  "entities": [
+    {
+      "text": "infarto lacunar agudo",
+      "type": "PATOLOGIA",
+      "start": 672,
+      "end": 693
+    },
+    {
+      "text": "región de núcleos profundos",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 603,
+      "end": 630
+    },
+    {
+      "text": "lado derecho",
+      "type": "LATERALIDAD",
+      "start": 635,
+      "end": 647
+    },
+    {
+      "text": "8 mm",
+      "type": "MEDIDA",
+      "start": 583,
+      "end": 587
+    },
+    {
+      "text": "agudo",
+      "type": "TEMPORALIDAD",
+      "start": 688,
+      "end": 693
+    },
+    {
+      "text": "ASPECTS 9",
+      "type": "PUNTUACION_CLINICA",
+      "start": 783,
+      "end": 792
+    },
+    {
+      "text": "isquemia en fase aguda",
+      "type": "PATOLOGIA",
+      "start": 1180,
+      "end": 1202
+    },
+    {
+      "text": "arterias carotídeas internas, cerebrales anteriores, medias y posteriores",
+      "type": "ARTERIA",
+      "start": 1326,
+      "end": 1399
+    },
+    {
+      "text": "sin estenosis significativa ni oclusión",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1411,
+      "end": 1450
+    },
+    {
+      "text": "sin hallazgos de estenosis ni oclusión de grandes vasos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1897,
+      "end": 1952
+    }
+  ]
+}

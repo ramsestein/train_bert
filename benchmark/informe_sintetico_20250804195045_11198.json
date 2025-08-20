@@ -1,0 +1,143 @@
+{
+  "document_id": "informe_sintetico_20250804195045_11198",
+  "entities": [
+    {
+      "text": "infarto cerebral",
+      "type": "PATOLOGIA",
+      "start": 219,
+      "end": 235
+    },
+    {
+      "text": "watershed",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 246,
+      "end": 255
+    },
+    {
+      "text": "episodio hipotensivo",
+      "type": "TEMPORALIDAD",
+      "start": 265,
+      "end": 285
+    },
+    {
+      "text": "bilaterales",
+      "type": "LATERALIDAD",
+      "start": 524,
+      "end": 535
+    },
+    {
+      "text": "hipodensidad cortical y subcortical",
+      "type": "PATOLOGIA",
+      "start": 565,
+      "end": 600
+    },
+    {
+      "text": "infarto watershed",
+      "type": "PATOLOGIA",
+      "start": 677,
+      "end": 694
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 713,
+      "end": 736
+    },
+    {
+      "text": "lesiones lacunares nuevas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 789,
+      "end": 814
+    },
+    {
+      "text": "sistema ventricular de tamaño conservado",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 857,
+      "end": 897
+    },
+    {
+      "text": "hidrocefalia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 913,
+      "end": 925
+    },
+    {
+      "text": "aumento del tiempo de tránsito medio (TTM)",
+      "type": "MEDIDA",
+      "start": 983,
+      "end": 1025
+    },
+    {
+      "text": "tiempo hasta el pico (TTP)",
+      "type": "MEDIDA",
+      "start": 1028,
+      "end": 1054
+    },
+    {
+      "text": "reducción moderada del volumen cerebral (CBV)",
+      "type": "MEDIDA",
+      "start": 1085,
+      "end": 1130
+    },
+    {
+      "text": "flujo sanguíneo cerebral (CBF)",
+      "type": "MEDIDA",
+      "start": 1133,
+      "end": 1163
+    },
+    {
+      "text": "isquemia",
+      "type": "PATOLOGIA",
+      "start": 1206,
+      "end": 1214
+    },
+    {
+      "text": "arteria carótida interna derecha",
+      "type": "ARTERIA",
+      "start": 1517,
+      "end": 1549
+    },
+    {
+      "text": "estenosis moderada (aprox. 40%)",
+      "type": "MEDIDA",
+      "start": 1461,
+      "end": 1492
+    },
+    {
+      "text": "oclusión completa",
+      "type": "PATOLOGIA",
+      "start": 1554,
+      "end": 1571
+    },
+    {
+      "text": "trombosis",
+      "type": "PATOLOGIA",
+      "start": 1586,
+      "end": 1595
+    },
+    {
+      "text": "infarto cerebral en zonas watershed bilateral",
+      "type": "PATOLOGIA",
+      "start": 1816,
+      "end": 1861
+    },
+    {
+      "text": "signos de hemorragia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1915,
+      "end": 1935
+    },
+    {
+      "text": "alteraciones de perfusión compatibles con isquemia",
+      "type": "PATOLOGIA",
+      "start": 2406,
+      "end": 2456
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 713,
+      "end": 736
+    }
+  ]
+}

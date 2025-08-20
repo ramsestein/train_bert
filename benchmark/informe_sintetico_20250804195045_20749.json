@@ -1,0 +1,59 @@
+{
+  "document_id": "informe_sintetico_20250804195045_20749",
+  "entities": [
+    {
+      "text": "infarto agudo reciente",
+      "type": "PATOLOGIA",
+      "start": 648,
+      "end": 670
+    },
+    {
+      "text": "transformación hemorrágica tipo HI1",
+      "type": "PATOLOGIA",
+      "start": 792,
+      "end": 827
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 600,
+      "end": 632
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 623,
+      "end": 632
+    },
+    {
+      "text": "infarto en fase subaguda",
+      "type": "PATOLOGIA",
+      "start": 1279,
+      "end": 1303
+    },
+    {
+      "text": "sin extensión significativa del territorio",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1304,
+      "end": 1346
+    },
+    {
+      "text": "sin estenosis significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1070,
+      "end": 1097
+    },
+    {
+      "text": "sin defectos de repleción ni signos de trombosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1539,
+      "end": 1587
+    },
+    {
+      "text": "sin complicaciones secundarias",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2210,
+      "end": 2240
+    }
+  ]
+}

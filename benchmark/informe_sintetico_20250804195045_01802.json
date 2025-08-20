@@ -1,0 +1,53 @@
+{
+  "document_id": "informe_sintetico_20250804195045_01802",
+  "entities": [
+    {
+      "text": "hematoma lobar parietal derecho",
+      "type": "PATOLOGIA",
+      "start": 426,
+      "end": 457
+    },
+    {
+      "text": "parietal",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 441,
+      "end": 449
+    },
+    {
+      "text": "derecho",
+      "type": "LATERALIDAD",
+      "start": 450,
+      "end": 457
+    },
+    {
+      "text": "45 x 32 x 27 mm",
+      "type": "MEDIDA",
+      "start": 527,
+      "end": 542
+    },
+    {
+      "text": "18 cc",
+      "type": "MEDIDA",
+      "start": 576,
+      "end": 581
+    },
+    {
+      "text": "sin alteraciones significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 940,
+      "end": 971
+    },
+    {
+      "text": "sin estenosis ni oclusiones",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1164,
+      "end": 1191
+    },
+    {
+      "text": "sin alteraciones",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 940,
+      "end": 956
+    }
+  ]
+}

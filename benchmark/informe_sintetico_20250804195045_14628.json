@@ -1,0 +1,95 @@
+{
+  "document_id": "informe_sintetico_20250804195045_14628",
+  "entities": [
+    {
+      "text": "infarto múltiple",
+      "type": "PATOLOGIA",
+      "start": 280,
+      "end": 296
+    },
+    {
+      "text": "infartos tipo watershed",
+      "type": "PATOLOGIA",
+      "start": 781,
+      "end": 804
+    },
+    {
+      "text": "hipoperfusión",
+      "type": "PATOLOGIA",
+      "start": 1169,
+      "end": 1182
+    },
+    {
+      "text": "bilateral",
+      "type": "LATERALIDAD",
+      "start": 206,
+      "end": 215
+    },
+    {
+      "text": "parietales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 617,
+      "end": 627
+    },
+    {
+      "text": "occipitales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 638,
+      "end": 649
+    },
+    {
+      "text": "arterias cerebrales anterior y media",
+      "type": "ARTERIA",
+      "start": 688,
+      "end": 724
+    },
+    {
+      "text": "tiempos de tránsito medio",
+      "type": "MEDIDA",
+      "start": 1099,
+      "end": 1124
+    },
+    {
+      "text": "tiempo de retraso",
+      "type": "MEDIDA",
+      "start": 1133,
+      "end": 1150
+    },
+    {
+      "text": "No se identifican hemorragias intracraneales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 481,
+      "end": 525
+    },
+    {
+      "text": "No se observan estenosis críticas ni aneurismas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1597,
+      "end": 1644
+    },
+    {
+      "text": "sin alteraciones significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1670,
+      "end": 1701
+    },
+    {
+      "text": "TC craneal sin contraste",
+      "type": "TECNICA_IMAGEN",
+      "start": 341,
+      "end": 365
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 368,
+      "end": 389
+    },
+    {
+      "text": "Angio-TC arterial intracraneal y extracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 392,
+      "end": 437
+    }
+  ]
+}

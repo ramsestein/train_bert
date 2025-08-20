@@ -1,0 +1,101 @@
+{
+  "document_id": "informe_sintetico_20250804195045_17324",
+  "entities": [
+    {
+      "text": "hematoma subdural agudo frontoparietal izquierdo",
+      "type": "PATOLOGIA",
+      "start": 404,
+      "end": 452
+    },
+    {
+      "text": "8 mm",
+      "type": "MEDIDA",
+      "start": 473,
+      "end": 477
+    },
+    {
+      "text": "5 mm",
+      "type": "MEDIDA",
+      "start": 596,
+      "end": 600
+    },
+    {
+      "text": "contusión cerebral perifocal",
+      "type": "PATOLOGIA",
+      "start": 612,
+      "end": 640
+    },
+    {
+      "text": "ASPECTS no aplicable",
+      "type": "PUNTUACION_CLINICA",
+      "start": 950,
+      "end": 970
+    },
+    {
+      "text": "TTP",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1085,
+      "end": 1088
+    },
+    {
+      "text": "frontal izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1100,
+      "end": 1117
+    },
+    {
+      "text": "Arterias carotídeas internas",
+      "type": "ARTERIA",
+      "start": 1327,
+      "end": 1355
+    },
+    {
+      "text": "sin estenosis valorables",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1403,
+      "end": 1427
+    },
+    {
+      "text": "sin lesiones significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1298,
+      "end": 1325
+    },
+    {
+      "text": "Arterias intracraneales y extracraneales permeables",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1733,
+      "end": 1784
+    },
+    {
+      "text": "monitorización neurológica estricta",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1894,
+      "end": 1929
+    },
+    {
+      "text": "control neuroimagen con TC en 24 horas",
+      "type": "TEMPORALIDAD",
+      "start": 1932,
+      "end": 1970
+    },
+    {
+      "text": "TC craneal basal urgente",
+      "type": "TECNICA_IMAGEN",
+      "start": 273,
+      "end": 297
+    },
+    {
+      "text": "angioTC intra/extra craneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 300,
+      "end": 327
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 330,
+      "end": 351
+    }
+  ]
+}

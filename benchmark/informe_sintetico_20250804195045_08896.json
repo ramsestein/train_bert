@@ -1,0 +1,79 @@
+{
+  "document_id": "informe_sintetico_20250804195045_08896",
+  "entities": [
+    {
+      "text": "hematoma subdural agudo",
+      "type": "PATOLOGIA",
+      "start": 640,
+      "end": 663
+    },
+    {
+      "text": "espacio subdural hemisférico izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 585,
+      "end": 623
+    },
+    {
+      "text": "12 mm",
+      "type": "MEDIDA",
+      "start": 700,
+      "end": 705
+    },
+    {
+      "text": "6 mm",
+      "type": "MEDIDA",
+      "start": 805,
+      "end": 809
+    },
+    {
+      "text": "ventrículo lateral izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 945,
+      "end": 973
+    },
+    {
+      "text": "tiempo de tránsito medio (TTP)",
+      "type": "PATOLOGIA",
+      "start": 1167,
+      "end": 1197
+    },
+    {
+      "text": "volumen cerebral (CBV)",
+      "type": "PATOLOGIA",
+      "start": 1216,
+      "end": 1238
+    },
+    {
+      "text": "sin alteraciones",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1558,
+      "end": 1574
+    },
+    {
+      "text": "hemisférico izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 602,
+      "end": 623
+    },
+    {
+      "text": "compromiso hemodinámico",
+      "type": "PATOLOGIA",
+      "start": 1286,
+      "end": 1309
+    },
+    {
+      "text": "TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANGIOTC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 2288,
+      "end": 2355
+    },
+    {
+      "text": "sin compromiso vascular arterial intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2215,
+      "end": 2260
+    }
+  ],
+  "regenerado": true,
+  "fecha_regeneracion": "2025-08-06T12:15:50.611179"
+}

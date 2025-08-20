@@ -1,0 +1,53 @@
+{
+  "document_id": "informe_sintetico_20250804195045_10398",
+  "entities": [
+    {
+      "text": "hematoma",
+      "type": "PATOLOGIA",
+      "start": 248,
+      "end": 256
+    },
+    {
+      "text": "cerebeloso",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 257,
+      "end": 267
+    },
+    {
+      "text": "derecho",
+      "type": "LATERALIDAD",
+      "start": 505,
+      "end": 512
+    },
+    {
+      "text": "3,5 x 2,8 x 3,0 cm",
+      "type": "MEDIDA",
+      "start": 590,
+      "end": 608
+    },
+    {
+      "text": "agudo",
+      "type": "TEMPORALIDAD",
+      "start": 634,
+      "end": 639
+    },
+    {
+      "text": "hidrocefalia obstructiva",
+      "type": "PATOLOGIA",
+      "start": 792,
+      "end": 816
+    },
+    {
+      "text": "sin evidencia de penumbra isquémica",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1230,
+      "end": 1265
+    },
+    {
+      "text": "no muestra estenosis ni trombosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1294,
+      "end": 1327
+    }
+  ]
+}

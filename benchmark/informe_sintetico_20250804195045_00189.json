@@ -1,0 +1,71 @@
+{
+  "document_id": "informe_sintetico_20250804195045_00189",
+  "entities": [
+    {
+      "text": "infarto isquémico subagudo",
+      "type": "PATOLOGIA",
+      "start": 524,
+      "end": 550
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "ARTERIA",
+      "start": 436,
+      "end": 466
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 459,
+      "end": 466
+    },
+    {
+      "text": "30%",
+      "type": "MEDIDA",
+      "start": 637,
+      "end": 640
+    },
+    {
+      "text": "subagudo",
+      "type": "TEMPORALIDAD",
+      "start": 542,
+      "end": 550
+    },
+    {
+      "text": "ASPECTS",
+      "type": "PUNTUACION_CLINICA",
+      "start": 1761,
+      "end": 1768
+    },
+    {
+      "text": "disminución moderada del flujo cerebral (CBF)",
+      "type": "PATOLOGIA",
+      "start": 1072,
+      "end": 1117
+    },
+    {
+      "text": "ACM derecha",
+      "type": "ARTERIA",
+      "start": 1199,
+      "end": 1210
+    },
+    {
+      "text": "oclusión de segmento M2 de la ACM derecha",
+      "type": "PATOLOGIA",
+      "start": 1414,
+      "end": 1455
+    },
+    {
+      "text": "izquierdas",
+      "type": "LATERALIDAD",
+      "start": 1555,
+      "end": 1565
+    },
+    {
+      "text": "sin estenosis significativas ni placas ateromatosas voluminosas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1333,
+      "end": 1396
+    }
+  ]
+}

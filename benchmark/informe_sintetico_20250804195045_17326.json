@@ -1,0 +1,271 @@
+{
+  "document_id": "informe_sintetico_20250804195045_17326",
+  "entities": [
+    {
+      "text": "hemiparesia derecha",
+      "type": "PATOLOGIA",
+      "start": 196,
+      "end": 215
+    },
+    {
+      "text": "alteración del nivel de conciencia",
+      "type": "PATOLOGIA",
+      "start": 218,
+      "end": 252
+    },
+    {
+      "text": "hemorragia cerebral",
+      "type": "PATOLOGIA",
+      "start": 266,
+      "end": 285
+    },
+    {
+      "text": "TC craneal sin contraste",
+      "type": "TECNICA_IMAGEN",
+      "start": 306,
+      "end": 330
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 341,
+      "end": 362
+    },
+    {
+      "text": "AngioTC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 365,
+      "end": 394
+    },
+    {
+      "text": "tálamo izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 491,
+      "end": 507
+    },
+    {
+      "text": "hematoma intraparenquimatoso",
+      "type": "PATOLOGIA",
+      "start": 524,
+      "end": 552
+    },
+    {
+      "text": "8 ml",
+      "type": "MEDIDA",
+      "start": 597,
+      "end": 601
+    },
+    {
+      "text": "sistema ventricular lateral izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 651,
+      "end": 688
+    },
+    {
+      "text": "hemorragia subaracnoidea",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 703,
+      "end": 727
+    },
+    {
+      "text": "hematomas extraaxiales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 731,
+      "end": 753
+    },
+    {
+      "text": "Línea media",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 755,
+      "end": 766
+    },
+    {
+      "text": "3 mm",
+      "type": "MEDIDA",
+      "start": 805,
+      "end": 809
+    },
+    {
+      "text": "edema perilesional",
+      "type": "PATOLOGIA",
+      "start": 830,
+      "end": 848
+    },
+    {
+      "text": "tálamo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 491,
+      "end": 497
+    },
+    {
+      "text": "región adyacente",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 884,
+      "end": 900
+    },
+    {
+      "text": "hidrocefalia obstructiva significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 916,
+      "end": 954
+    },
+    {
+      "text": "ventrículos laterales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 967,
+      "end": 988
+    },
+    {
+      "text": "Cisternas basales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1013,
+      "end": 1030
+    },
+    {
+      "text": "ASPECTS no aplicable",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1046,
+      "end": 1066
+    },
+    {
+      "text": "territorio del tálamo izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1179,
+      "end": 1210
+    },
+    {
+      "text": "hematoma",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 524,
+      "end": 532
+    },
+    {
+      "text": "Mapas de tiempo de tránsito y volumen cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 1251,
+      "end": 1297
+    },
+    {
+      "text": "perfusión alterada",
+      "type": "PATOLOGIA",
+      "start": 1307,
+      "end": 1325
+    },
+    {
+      "text": "estenosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1469,
+      "end": 1478
+    },
+    {
+      "text": "malformaciones vasculares evidentes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1482,
+      "end": 1517
+    },
+    {
+      "text": "Sistema vertebrobasilar",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1519,
+      "end": 1542
+    },
+    {
+      "text": "vasos supraclinoideos",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1545,
+      "end": 1566
+    },
+    {
+      "text": "aneurismas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1611,
+      "end": 1621
+    },
+    {
+      "text": "malformaciones arteriovenosas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1625,
+      "end": 1654
+    },
+    {
+      "text": "Hematoma intraparenquimatoso",
+      "type": "PATOLOGIA",
+      "start": 1681,
+      "end": 1709
+    },
+    {
+      "text": "tálamo izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 491,
+      "end": 507
+    },
+    {
+      "text": "leve extensión ventricular",
+      "type": "PATOLOGIA",
+      "start": 1734,
+      "end": 1760
+    },
+    {
+      "text": "efecto de masa",
+      "type": "PATOLOGIA",
+      "start": 1763,
+      "end": 1777
+    },
+    {
+      "text": "desviación de la línea media",
+      "type": "PATOLOGIA",
+      "start": 1782,
+      "end": 1810
+    },
+    {
+      "text": "hidrocefalia obstructiva significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 916,
+      "end": 954
+    },
+    {
+      "text": "territorio adyacente al hematoma",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1908,
+      "end": 1940
+    },
+    {
+      "text": "hallazgos vasculares asociados",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1983,
+      "end": 2013
+    },
+    {
+      "text": "posible evolución del hematoma",
+      "type": "TEMPORALIDAD",
+      "start": 2113,
+      "end": 2143
+    },
+    {
+      "text": "desarrollo de complicaciones hidrocefálicas o vasculares",
+      "type": "TEMPORALIDAD",
+      "start": 2146,
+      "end": 2202
+    },
+    {
+      "text": "Hematoma intraparenquimatoso talámico",
+      "type": "PATOLOGIA",
+      "start": 2262,
+      "end": 2299
+    },
+    {
+      "text": "extensión ventricular leve",
+      "type": "PATOLOGIA",
+      "start": 2304,
+      "end": 2330
+    },
+    {
+      "text": "efecto de masa",
+      "type": "PATOLOGIA",
+      "start": 1763,
+      "end": 1777
+    }
+  ],
+  "regenerado": true,
+  "fecha_regeneracion": "2025-08-06T06:21:18.742798"
+}

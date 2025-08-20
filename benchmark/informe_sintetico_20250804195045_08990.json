@@ -1,0 +1,71 @@
+{
+  "document_id": "informe_sintetico_20250804195045_08990",
+  "entities": [
+    {
+      "text": "infarto agudo isquémico",
+      "type": "PATOLOGIA",
+      "start": 837,
+      "end": 860
+    },
+    {
+      "text": "ASPECTS 6",
+      "type": "PUNTUACION_CLINICA",
+      "start": 862,
+      "end": 871
+    },
+    {
+      "text": "hemisferio cerebral derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1102,
+      "end": 1129
+    },
+    {
+      "text": "tiempo de tránsito medio (TTP)",
+      "type": "MEDIDA",
+      "start": 1147,
+      "end": 1177
+    },
+    {
+      "text": "flujo cerebral sanguíneo (CBF)",
+      "type": "MEDIDA",
+      "start": 1196,
+      "end": 1226
+    },
+    {
+      "text": "volumen cerebral sanguíneo (CBV)",
+      "type": "MEDIDA",
+      "start": 1250,
+      "end": 1282
+    },
+    {
+      "text": "penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1390,
+      "end": 1408
+    },
+    {
+      "text": "Oclusión completa del segmento cervical derecho de la arteria carótida interna (ACI)",
+      "type": "PATOLOGIA",
+      "start": 1559,
+      "end": 1643
+    },
+    {
+      "text": "arteria carótida interna (ACI)",
+      "type": "ARTERIA",
+      "start": 1613,
+      "end": 1643
+    },
+    {
+      "text": "hemorragia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 914,
+      "end": 924
+    },
+    {
+      "text": "No evidencia de hemorragia ni otras complicaciones",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2325,
+      "end": 2375
+    }
+  ]
+}

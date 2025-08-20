@@ -1,0 +1,107 @@
+{
+  "document_id": "informe_sintetico_20250804195045_01035",
+  "entities": [
+    {
+      "text": "isquemia",
+      "type": "PATOLOGIA",
+      "start": 217,
+      "end": 225
+    },
+    {
+      "text": "arteria cerebral anterior izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 575,
+      "end": 610
+    },
+    {
+      "text": "ACA",
+      "type": "ARTERIA",
+      "start": 951,
+      "end": 954
+    },
+    {
+      "text": "izquierdo",
+      "type": "LATERALIDAD",
+      "start": 955,
+      "end": 964
+    },
+    {
+      "text": "ASPECTS 9",
+      "type": "PUNTUACION_CLINICA",
+      "start": 684,
+      "end": 693
+    },
+    {
+      "text": "aumento del tiempo medio de tránsito (MTT)",
+      "type": "MEDIDA",
+      "start": 853,
+      "end": 895
+    },
+    {
+      "text": "tiempo hasta el pico (TTP)",
+      "type": "MEDIDA",
+      "start": 898,
+      "end": 924
+    },
+    {
+      "text": "reducción moderada del flujo sanguíneo cerebral (CBF)",
+      "type": "MEDIDA",
+      "start": 970,
+      "end": 1023
+    },
+    {
+      "text": "volumen sanguíneo cerebral (CBV)",
+      "type": "MEDIDA",
+      "start": 1028,
+      "end": 1060
+    },
+    {
+      "text": "arteria cerebral anterior izquierda",
+      "type": "ARTERIA",
+      "start": 575,
+      "end": 610
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 267,
+      "end": 276
+    },
+    {
+      "text": "sin signos de infarto establecido amplio",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1792,
+      "end": 1832
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 1613,
+      "end": 1627
+    },
+    {
+      "text": "territorio de la arteria cerebral anterior izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1631,
+      "end": 1683
+    },
+    {
+      "text": "oclusión distal parcial de segmento A2",
+      "type": "PATOLOGIA",
+      "start": 1689,
+      "end": 1727
+    },
+    {
+      "text": "Área de penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1729,
+      "end": 1755
+    },
+    {
+      "text": "sin infarto consolidado",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1137,
+      "end": 1160
+    }
+  ]
+}

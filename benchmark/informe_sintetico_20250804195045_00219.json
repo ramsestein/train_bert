@@ -1,0 +1,119 @@
+{
+  "document_id": "informe_sintetico_20250804195045_00219",
+  "entities": [
+    {
+      "text": "infarto isquémico agudo",
+      "type": "PATOLOGIA",
+      "start": 585,
+      "end": 608
+    },
+    {
+      "text": "región fronto-parietal izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 461,
+      "end": 493
+    },
+    {
+      "text": "arteria carótida izquierda",
+      "type": "ARTERIA",
+      "start": 629,
+      "end": 655
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 484,
+      "end": 493
+    },
+    {
+      "text": "ASPECTS 6/10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 657,
+      "end": 669
+    },
+    {
+      "text": "3 mm",
+      "type": "MEDIDA",
+      "start": 790,
+      "end": 794
+    },
+    {
+      "text": "MTT",
+      "type": "MEDIDA",
+      "start": 1002,
+      "end": 1005
+    },
+    {
+      "text": "TTP",
+      "type": "MEDIDA",
+      "start": 1031,
+      "end": 1034
+    },
+    {
+      "text": "CBF",
+      "type": "MEDIDA",
+      "start": 1125,
+      "end": 1128
+    },
+    {
+      "text": "CBV",
+      "type": "MEDIDA",
+      "start": 1164,
+      "end": 1167
+    },
+    {
+      "text": "oclusión completa",
+      "type": "PATOLOGIA",
+      "start": 1335,
+      "end": 1352
+    },
+    {
+      "text": "arteria carótida interna izquierda",
+      "type": "ARTERIA",
+      "start": 1398,
+      "end": 1432
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 484,
+      "end": 493
+    },
+    {
+      "text": "sin hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2110,
+      "end": 2137
+    },
+    {
+      "text": "ASPECTS 6/10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 657,
+      "end": 669
+    },
+    {
+      "text": "TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANG IOTC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 72,
+      "end": 140
+    },
+    {
+      "text": "TC craneal basal sin contraste",
+      "type": "TECNICA_IMAGEN",
+      "start": 305,
+      "end": 335
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 337,
+      "end": 358
+    },
+    {
+      "text": "Angio-TC intra y extracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 360,
+      "end": 389
+    }
+  ]
+}

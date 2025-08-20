@@ -1,0 +1,89 @@
+{
+  "document_id": "informe_sintetico_20250804195045_19724",
+  "entities": [
+    {
+      "text": "infarto cerebral por hipoperfusión",
+      "type": "PATOLOGIA",
+      "start": 289,
+      "end": 323
+    },
+    {
+      "text": "hipoperfusión",
+      "type": "PATOLOGIA",
+      "start": 310,
+      "end": 323
+    },
+    {
+      "text": "áreas de leve hipodensidad parcheada",
+      "type": "PATOLOGIA",
+      "start": 491,
+      "end": 527
+    },
+    {
+      "text": "regiones limítrofes corticales frontoparietales bilaterales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 531,
+      "end": 590
+    },
+    {
+      "text": "bilaterales",
+      "type": "LATERALIDAD",
+      "start": 579,
+      "end": 590
+    },
+    {
+      "text": "incremento del tiempo de tránsito medio (TTM)",
+      "type": "MEDIDA",
+      "start": 730,
+      "end": 775
+    },
+    {
+      "text": "reducción moderada del flujo sanguíneo cerebral (FSC)",
+      "type": "MEDIDA",
+      "start": 778,
+      "end": 831
+    },
+    {
+      "text": "preservación parcial del volumen sanguíneo cerebral (VSC)",
+      "type": "MEDIDA",
+      "start": 892,
+      "end": 949
+    },
+    {
+      "text": "hipoperfusión en zonas límites entre territorios de las arterias cerebrales anterior y media",
+      "type": "PATOLOGIA",
+      "start": 964,
+      "end": 1056
+    },
+    {
+      "text": "arterias intracraneales principales",
+      "type": "ARTERIA",
+      "start": 1110,
+      "end": 1145
+    },
+    {
+      "text": "sin estenosis u oclusiones aparentes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1147,
+      "end": 1183
+    },
+    {
+      "text": "sin evidencia de hemorragia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1801,
+      "end": 1828
+    },
+    {
+      "text": "infarto watershed bilateral frontoparietal",
+      "type": "PATOLOGIA",
+      "start": 1287,
+      "end": 1329
+    },
+    {
+      "text": "sin evidencia de hemorragia ni oclusión arterial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1801,
+      "end": 1849
+    }
+  ]
+}

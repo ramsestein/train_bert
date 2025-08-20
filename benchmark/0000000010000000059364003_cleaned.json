@@ -1,0 +1,41 @@
+{
+  "document_id": "0000000010000000059364003_cleaned",
+  "entities": [
+    {
+      "text": "infarto",
+      "type": "PATOLOGIA",
+      "start": 631,
+      "end": 638
+    },
+    {
+      "text": "opérculo temporal izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 645,
+      "end": 672
+    },
+    {
+      "text": "encefalomalacia frontal precentral derecha",
+      "type": "PATOLOGIA",
+      "start": 690,
+      "end": 732
+    },
+    {
+      "text": "frontal precentral derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 706,
+      "end": 732
+    },
+    {
+      "text": "No se observa hemorragia intra ni extraaxial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 545,
+      "end": 589
+    },
+    {
+      "text": "Ictus isquémico sin transformación hemorrágica",
+      "type": "PATOLOGIA",
+      "start": 893,
+      "end": 939
+    }
+  ]
+}

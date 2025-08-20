@@ -1,0 +1,71 @@
+{
+  "document_id": "informe_sintetico_20250804195045_13526",
+  "entities": [
+    {
+      "text": "hemorragia aguda",
+      "type": "PATOLOGIA",
+      "start": 593,
+      "end": 609
+    },
+    {
+      "text": "lesiones ocupantes de espacio",
+      "type": "PATOLOGIA",
+      "start": 613,
+      "end": 642
+    },
+    {
+      "text": "áreas de hipodensidad que sugieran infarto agudo",
+      "type": "PATOLOGIA",
+      "start": 659,
+      "end": 707
+    },
+    {
+      "text": "cambios crónicos vasculares antiguos",
+      "type": "PATOLOGIA",
+      "start": 965,
+      "end": 1001
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 1003,
+      "end": 1013
+    },
+    {
+      "text": "alteraciones significativas en los mapas de tiempo de tránsito (TTP), flujo cerebral (CBF) ni volumen cerebral sanguíneo (CBV)",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1045,
+      "end": 1171
+    },
+    {
+      "text": "evidencia de mismatch ni zonas de hipoperfusión",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1183,
+      "end": 1230
+    },
+    {
+      "text": "estenosis significativas",
+      "type": "PATOLOGIA",
+      "start": 1302,
+      "end": 1326
+    },
+    {
+      "text": "signos de trombosis, estenosis severas ni vasoespasmo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1449,
+      "end": 1502
+    },
+    {
+      "text": "patología aguda",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1610,
+      "end": 1625
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 1003,
+      "end": 1013
+    }
+  ]
+}

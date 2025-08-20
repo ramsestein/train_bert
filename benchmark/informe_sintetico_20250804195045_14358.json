@@ -1,0 +1,161 @@
+{
+  "document_id": "informe_sintetico_20250804195045_14358",
+  "entities": [
+    {
+      "text": "hemiparesia derecha",
+      "type": "PATOLOGIA",
+      "start": 195,
+      "end": 214
+    },
+    {
+      "text": "disartria",
+      "type": "PATOLOGIA",
+      "start": 217,
+      "end": 226
+    },
+    {
+      "text": "hipertensión arterial",
+      "type": "PATOLOGIA",
+      "start": 248,
+      "end": 269
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 460,
+      "end": 483
+    },
+    {
+      "text": "hematomas subaracnoideos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 487,
+      "end": 511
+    },
+    {
+      "text": "edema cerebral significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 594,
+      "end": 622
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 624,
+      "end": 634
+    },
+    {
+      "text": "zona de hipoperfusión focal",
+      "type": "PATOLOGIA",
+      "start": 777,
+      "end": 804
+    },
+    {
+      "text": "cápsula interna izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 824,
+      "end": 849
+    },
+    {
+      "text": "tiempos de tránsito medio (MTT)",
+      "type": "MEDIDA",
+      "start": 879,
+      "end": 910
+    },
+    {
+      "text": "tiempo a máxima concentración (Tmax)",
+      "type": "MEDIDA",
+      "start": 913,
+      "end": 949
+    },
+    {
+      "text": "flujo sanguíneo cerebral (CBF)",
+      "type": "MEDIDA",
+      "start": 986,
+      "end": 1016
+    },
+    {
+      "text": "volumen cerebral sanguíneo (CBV)",
+      "type": "MEDIDA",
+      "start": 1040,
+      "end": 1072
+    },
+    {
+      "text": "isquemia lacunar aguda",
+      "type": "PATOLOGIA",
+      "start": 1108,
+      "end": 1130
+    },
+    {
+      "text": "ACM",
+      "type": "ARTERIA",
+      "start": 1245,
+      "end": 1248
+    },
+    {
+      "text": "ACA",
+      "type": "ARTERIA",
+      "start": 1250,
+      "end": 1253
+    },
+    {
+      "text": "ACP",
+      "type": "ARTERIA",
+      "start": 1255,
+      "end": 1258
+    },
+    {
+      "text": "sistema vertebrobasilar",
+      "type": "ARTERIA",
+      "start": 1283,
+      "end": 1306
+    },
+    {
+      "text": "oclusión",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1596,
+      "end": 1604
+    },
+    {
+      "text": "estenosis significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1179,
+      "end": 1203
+    },
+    {
+      "text": "ateromatosis severa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1333,
+      "end": 1352
+    },
+    {
+      "text": "Infarto lacunar agudo",
+      "type": "PATOLOGIA",
+      "start": 1391,
+      "end": 1412
+    },
+    {
+      "text": "cápsula interna izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 824,
+      "end": 849
+    },
+    {
+      "text": "TC basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 1517,
+      "end": 1525
+    },
+    {
+      "text": "oclusión",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1596,
+      "end": 1604
+    },
+    {
+      "text": "estenosis importantes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1608,
+      "end": 1629
+    }
+  ]
+}

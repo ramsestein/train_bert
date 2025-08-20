@@ -1,0 +1,95 @@
+{
+  "document_id": "informe_sintetico_20250804195045_01867",
+  "entities": [
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 309,
+      "end": 323
+    },
+    {
+      "text": "infarto temprano",
+      "type": "PATOLOGIA",
+      "start": 736,
+      "end": 752
+    },
+    {
+      "text": "tronco encefálico",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 702,
+      "end": 719
+    },
+    {
+      "text": "hemisferio derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1159,
+      "end": 1177
+    },
+    {
+      "text": "arteria vertebral derecha",
+      "type": "ARTERIA",
+      "start": 1509,
+      "end": 1534
+    },
+    {
+      "text": "arteria basilar",
+      "type": "ARTERIA",
+      "start": 1995,
+      "end": 2010
+    },
+    {
+      "text": "estenosis proximal moderada (~50%)",
+      "type": "PATOLOGIA",
+      "start": 1454,
+      "end": 1488
+    },
+    {
+      "text": "estenosis focal en tercio medio (~70%)",
+      "type": "PATOLOGIA",
+      "start": 1556,
+      "end": 1594
+    },
+    {
+      "text": "isquemia en fase aguda",
+      "type": "TEMPORALIDAD",
+      "start": 1301,
+      "end": 1323
+    },
+    {
+      "text": "aumento del tiempo de tránsito medio (TTP)",
+      "type": "MEDIDA",
+      "start": 1009,
+      "end": 1051
+    },
+    {
+      "text": "reducción del volumen cerebral de sangre (CBV)",
+      "type": "MEDIDA",
+      "start": 1054,
+      "end": 1100
+    },
+    {
+      "text": "disminuido en el territorio póstero-inferior derecho",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1718,
+      "end": 1770
+    },
+    {
+      "text": "No se identifica hemorragia intracraneal ni edema cortical significativo.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 578,
+      "end": 651
+    },
+    {
+      "text": "No se aprecian aneurismas ni malformaciones vasculares.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1772,
+      "end": 1827
+    },
+    {
+      "text": "No evidencia de sangrado o efecto de masa.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2164,
+      "end": 2206
+    }
+  ]
+}

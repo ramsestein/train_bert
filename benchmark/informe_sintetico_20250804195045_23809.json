@@ -1,0 +1,107 @@
+{
+  "document_id": "informe_sintetico_20250804195045_23809",
+  "entities": [
+    {
+      "text": "múltiples áreas hipodensas",
+      "type": "PATOLOGIA",
+      "start": 502,
+      "end": 528
+    },
+    {
+      "text": "territorios de ambas arterias cerebrales medias y posterior izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 532,
+      "end": 601
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "ARTERIA",
+      "start": 1645,
+      "end": 1677
+    },
+    {
+      "text": "arteria cerebral media derecha M2",
+      "type": "ARTERIA",
+      "start": 1726,
+      "end": 1759
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 592,
+      "end": 601
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 209,
+      "end": 216
+    },
+    {
+      "text": "ASPECTS 6",
+      "type": "PUNTUACION_CLINICA",
+      "start": 818,
+      "end": 827
+    },
+    {
+      "text": "ASPECTS 7",
+      "type": "PUNTUACION_CLINICA",
+      "start": 853,
+      "end": 862
+    },
+    {
+      "text": "isquemia aguda multiterritorial",
+      "type": "PATOLOGIA",
+      "start": 1429,
+      "end": 1460
+    },
+    {
+      "text": "infartos en territorios de ambas arterias cerebrales medias y posterior izquierda",
+      "type": "PATOLOGIA",
+      "start": 2125,
+      "end": 2206
+    },
+    {
+      "text": "oclusión segmentaria",
+      "type": "PATOLOGIA",
+      "start": 1621,
+      "end": 1641
+    },
+    {
+      "text": "estenosis significativa (>70%)",
+      "type": "PATOLOGIA",
+      "start": 1689,
+      "end": 1719
+    },
+    {
+      "text": "ateromatosis leve",
+      "type": "PATOLOGIA",
+      "start": 1852,
+      "end": 1869
+    },
+    {
+      "text": "No evidencia de hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2286,
+      "end": 2325
+    },
+    {
+      "text": "TC craneal basal sin contraste",
+      "type": "TECNICA_IMAGEN",
+      "start": 317,
+      "end": 347
+    },
+    {
+      "text": "estudio de perfusión cerebral dinámico",
+      "type": "TECNICA_IMAGEN",
+      "start": 349,
+      "end": 387
+    },
+    {
+      "text": "angiografía TC de troncos supraaórticos e intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 390,
+      "end": 444
+    }
+  ]
+}

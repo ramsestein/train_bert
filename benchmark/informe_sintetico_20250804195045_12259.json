@@ -1,0 +1,113 @@
+{
+  "document_id": "informe_sintetico_20250804195045_12259",
+  "entities": [
+    {
+      "text": "infarto agudo",
+      "type": "PATOLOGIA",
+      "start": 510,
+      "end": 523
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "PATOLOGIA",
+      "start": 527,
+      "end": 550
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 599,
+      "end": 609
+    },
+    {
+      "text": "Estructuras de la línea media",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 611,
+      "end": 640
+    },
+    {
+      "text": "Sistema ventricular",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 694,
+      "end": 713
+    },
+    {
+      "text": "Cisternas basales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 750,
+      "end": 767
+    },
+    {
+      "text": "penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 994,
+      "end": 1012
+    },
+    {
+      "text": "área infartada",
+      "type": "PATOLOGIA",
+      "start": 1015,
+      "end": 1029
+    },
+    {
+      "text": "Vasos arteriales supraaórticos",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1063,
+      "end": 1093
+    },
+    {
+      "text": "Arterias cerebrales anteriores, medias y posteriores",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1163,
+      "end": 1215
+    },
+    {
+      "text": "Sistema vertebrobasilar",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1292,
+      "end": 1315
+    },
+    {
+      "text": "TC código ictus normal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1369,
+      "end": 1391
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 599,
+      "end": 609
+    },
+    {
+      "text": "infarto",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 510,
+      "end": 517
+    },
+    {
+      "text": "hemorragia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 527,
+      "end": 537
+    },
+    {
+      "text": "alteraciones vasculares agudas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1465,
+      "end": 1495
+    },
+    {
+      "text": "Perfusión cerebral homogénea",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1497,
+      "end": 1525
+    },
+    {
+      "text": "vascularización arterial intracraneal y supraaórtica conservada",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1528,
+      "end": 1591
+    }
+  ]
+}

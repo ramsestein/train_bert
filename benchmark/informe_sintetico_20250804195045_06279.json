@@ -1,0 +1,65 @@
+{
+  "document_id": "informe_sintetico_20250804195045_06279",
+  "entities": [
+    {
+      "text": "ictus isquémico",
+      "type": "PATOLOGIA",
+      "start": 304,
+      "end": 319
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 337,
+      "end": 369
+    },
+    {
+      "text": "arteria cerebral media",
+      "type": "ARTERIA",
+      "start": 337,
+      "end": 359
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 360,
+      "end": 369
+    },
+    {
+      "text": "90 minutos",
+      "type": "MEDIDA",
+      "start": 272,
+      "end": 282
+    },
+    {
+      "text": "agudo",
+      "type": "TEMPORALIDAD",
+      "start": 1328,
+      "end": 1333
+    },
+    {
+      "text": "ASPECTS de 7",
+      "type": "PUNTUACION_CLINICA",
+      "start": 1003,
+      "end": 1015
+    },
+    {
+      "text": "TC craneal basal sin contraste",
+      "type": "TECNICA_IMAGEN",
+      "start": 390,
+      "end": 420
+    },
+    {
+      "text": "No se identifican signos radiológicos de hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 669,
+      "end": 733
+    },
+    {
+      "text": "No evidencia de hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1409,
+      "end": 1448
+    }
+  ]
+}

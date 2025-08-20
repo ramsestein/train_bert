@@ -1,0 +1,83 @@
+{
+  "document_id": "informe_sintetico_20250804195045_12711",
+  "entities": [
+    {
+      "text": "hematoma lobar",
+      "type": "PATOLOGIA",
+      "start": 524,
+      "end": 538
+    },
+    {
+      "text": "lóbulo frontal derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 575,
+      "end": 597
+    },
+    {
+      "text": "35 x 28 x 22 mm",
+      "type": "MEDIDA",
+      "start": 630,
+      "end": 645
+    },
+    {
+      "text": "3 mm",
+      "type": "MEDIDA",
+      "start": 810,
+      "end": 814
+    },
+    {
+      "text": "hemorragia intraventricular",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 845,
+      "end": 872
+    },
+    {
+      "text": "no se identifica perfusión cerebral",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1007,
+      "end": 1042
+    },
+    {
+      "text": "sin defectos de repleción",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1356,
+      "end": 1381
+    },
+    {
+      "text": "hidrocefalia incipiente",
+      "type": "PATOLOGIA",
+      "start": 944,
+      "end": 967
+    },
+    {
+      "text": "35 x 28 x 22 mm",
+      "type": "MEDIDA",
+      "start": 630,
+      "end": 645
+    },
+    {
+      "text": "TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANGIOTC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 2220,
+      "end": 2287
+    },
+    {
+      "text": "TC CRANEAL BASAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 328,
+      "end": 344
+    },
+    {
+      "text": "PERFUSIÓN CEREBRAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 347,
+      "end": 365
+    },
+    {
+      "text": "ANGIO TC DE TSA E INTRACRANEAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 368,
+      "end": 398
+    }
+  ]
+}

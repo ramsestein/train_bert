@@ -1,0 +1,65 @@
+{
+  "document_id": "informe_sintetico_20250804195045_18855",
+  "entities": [
+    {
+      "text": "contusión hemorrágica traumática",
+      "type": "PATOLOGIA",
+      "start": 611,
+      "end": 643
+    },
+    {
+      "text": "región frontotemporal derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 566,
+      "end": 595
+    },
+    {
+      "text": "edema perilesional",
+      "type": "PATOLOGIA",
+      "start": 680,
+      "end": 698
+    },
+    {
+      "text": "No se observan hematomas subdurales ni epidurales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 700,
+      "end": 749
+    },
+    {
+      "text": "disminución focal del volumen cerebral (CBV)",
+      "type": "PATOLOGIA",
+      "start": 1046,
+      "end": 1090
+    },
+    {
+      "text": "aumento del tiempo de tránsito medio (MTT)",
+      "type": "PATOLOGIA",
+      "start": 1123,
+      "end": 1165
+    },
+    {
+      "text": "Arterias carótidas internas",
+      "type": "ARTERIA",
+      "start": 1264,
+      "end": 1291
+    },
+    {
+      "text": "Sistema vertebrobasilar",
+      "type": "ARTERIA",
+      "start": 1401,
+      "end": 1424
+    },
+    {
+      "text": "No hay evidencia de vasoespasmo ni de malformaciones vasculares",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1443,
+      "end": 1506
+    },
+    {
+      "text": "sin compromiso vascular intracraneal detectable",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1720,
+      "end": 1767
+    }
+  ]
+}

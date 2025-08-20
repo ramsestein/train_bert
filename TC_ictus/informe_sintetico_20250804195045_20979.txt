@@ -1,0 +1,30 @@
+UO_PACN (Unidad Organizativa Médica): RADIO
+
+PRUEB (Prueba solicitada): TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANG IOTC ARTERIAL INTRACRANEAL)
+
+CLIN (Resumen clínico): Déficit neurológico agudo con hemiparesia derecha y afasia súbita
+
+OBSR (Protocolo): TC craneal basal sin contraste para descartar hemorragia. A continuación, TC perfusión cerebral y Angio-TC intracraneal urgente para valoración vascular y perfusión cerebral.
+
+RESL (Resultados):  
+TC CRANEAL BASAL:  
+Se identifica arteria hiperdensa en el segmento proximal M1 de la arteria cerebral media izquierda. ASPECTS 6, con áreas hipodensas en núcleo caudado, cápsula interna y región insular izquierda compatibles con isquemia precoz. No hay evidencia de hemorragia intra ni extraaxial. Diferenciación cortico-subcortical alterada en las regiones mencionadas. Estructuras de la línea media sin desplazamiento evidente. Cisternas basales libres. Sistema ventricular simétrico, sin signos de hidrocefalia.
+
+TC PERFUSIÓN:  
+Zona extensa en territorio de ACM izquierda proximal con incremento del tiempo de tránsito medio (MTT) y del tiempo de llegada (TTP), acompañado de caída significativa del flujo cerebral (CBF) y volumen cerebral (CBV) reducido en núcleo caudado y cápsula interna, áreas compatibles con tejido infartado. Penumbra isquémica circundante identificada por disminución del flujo con volumen relativamente conservado en territorio cortical adyacente.
+
+ANGIO-TC INTRACRANEAL:  
+Oclusión completa del segmento proximal M1 izquierdo, con ausencia de repleción en dicho tramo. Resto de los segmentos de ACM y demás arterias cerebrales principales (ACAs, ACPs) permeables. No se observan signos de estenosis significativa en vascularización extracraneal. Ateromatosis moderada calcificada en las bifurcaciones carotídeas bilaterales, sin estenosis determinante.
+
+CONCL (Conclusiones):  
+Oclusión aguda del segmento proximal M1 de la arteria cerebral media izquierda, con signos de isquemia precoz y ASPECTS 6. Área de infarto establecida en núcleo caudado y cápsula interna con extensa penumbra isquémica cortical adyacente. Arteria hiperdensa proximal izquierda confirmada. No hay hemorragia asociada. Hallazgos compatibles con isquemia aguda por oclusión de ACM proximal.
+
+ACTI_ADICI (Actividad adicional):  
+
+ICON (Estudio): @RADIO_TC_1234@
+
+X00DIATXT (Texto del diagnóstico ACR):  
+
+EST_T_DES (Descripción): TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANG IOTC ARTERIAL INTRACRANEAL)
+
+ZVASOS_D (Der.): Isquemia aguda por oclusión M1 izquierda.

@@ -1,0 +1,71 @@
+{
+  "document_id": "informe_sintetico_20250804195045_06465",
+  "entities": [
+    {
+      "text": "infarto cerebral",
+      "type": "PATOLOGIA",
+      "start": 713,
+      "end": 729
+    },
+    {
+      "text": "territorio lateral de la arteria cerebral media izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 640,
+      "end": 697
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "ARTERIA",
+      "start": 665,
+      "end": 697
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 688,
+      "end": 697
+    },
+    {
+      "text": "tipo HI2",
+      "type": "PUNTUACION_CLINICA",
+      "start": 1013,
+      "end": 1021
+    },
+    {
+      "text": "5 mm",
+      "type": "MEDIDA",
+      "start": 1204,
+      "end": 1208
+    },
+    {
+      "text": "subaguda",
+      "type": "TEMPORALIDAD",
+      "start": 1948,
+      "end": 1956
+    },
+    {
+      "text": "oclusión del segmento proximal de ACM izquierda",
+      "type": "PATOLOGIA",
+      "start": 1659,
+      "end": 1706
+    },
+    {
+      "text": "ACM izquierda",
+      "type": "ARTERIA",
+      "start": 1693,
+      "end": 1706
+    },
+    {
+      "text": "sin alteraciones significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1324,
+      "end": 1355
+    },
+    {
+      "text": "sin efecto de masa significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1086,
+      "end": 1118
+    }
+  ]
+}

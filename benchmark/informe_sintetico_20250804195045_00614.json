@@ -1,0 +1,113 @@
+{
+  "document_id": "informe_sintetico_20250804195045_00614",
+  "entities": [
+    {
+      "text": "infarto",
+      "type": "PATOLOGIA",
+      "start": 275,
+      "end": 282
+    },
+    {
+      "text": "bilateral",
+      "type": "LATERALIDAD",
+      "start": 214,
+      "end": 223
+    },
+    {
+      "text": "territorios de frontera",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 738,
+      "end": 761
+    },
+    {
+      "text": "ACAs",
+      "type": "ARTERIA",
+      "start": 1717,
+      "end": 1721
+    },
+    {
+      "text": "ACMs",
+      "type": "ARTERIA",
+      "start": 1723,
+      "end": 1727
+    },
+    {
+      "text": "ACPs",
+      "type": "ARTERIA",
+      "start": 1730,
+      "end": 1734
+    },
+    {
+      "text": "hemorragias intra o extraaxiales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 572,
+      "end": 604
+    },
+    {
+      "text": "sin evidencia de área de penumbra o núcleo infartado claro",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1358,
+      "end": 1416
+    },
+    {
+      "text": "sin estenosis significativas ni placas ateromatosas relevantes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1548,
+      "end": 1610
+    },
+    {
+      "text": "sin estenosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1548,
+      "end": 1561
+    },
+    {
+      "text": "sin signos de oclusión o estenosis crítica",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1749,
+      "end": 1791
+    },
+    {
+      "text": "sin consolidación completa de infarto",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2221,
+      "end": 2258
+    },
+    {
+      "text": "alteraciones de perfusión compatibles con hipoperfusión cortical",
+      "type": "PATOLOGIA",
+      "start": 2533,
+      "end": 2597
+    },
+    {
+      "text": "hipoperfusión",
+      "type": "PATOLOGIA",
+      "start": 287,
+      "end": 300
+    },
+    {
+      "text": "TC Cráneo basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 397,
+      "end": 412
+    },
+    {
+      "text": "Perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 415,
+      "end": 433
+    },
+    {
+      "text": "AngioTC de arterias supraórticas e intracraneales",
+      "type": "TECNICA_IMAGEN",
+      "start": 465,
+      "end": 514
+    },
+    {
+      "text": "Mapa de Tmax",
+      "type": "TECNICA_IMAGEN",
+      "start": 1108,
+      "end": 1120
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "document_id": "informe_sintetico_20250804195045_02765",
+  "entities": [
+    {
+      "text": "infarto isquémico",
+      "type": "PATOLOGIA",
+      "start": 646,
+      "end": 663
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 551,
+      "end": 581
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "ARTERIA",
+      "start": 551,
+      "end": 581
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 574,
+      "end": 581
+    },
+    {
+      "text": "aguda",
+      "type": "TEMPORALIDAD",
+      "start": 672,
+      "end": 677
+    },
+    {
+      "text": "ASPECTS 6",
+      "type": "PUNTUACION_CLINICA",
+      "start": 833,
+      "end": 842
+    },
+    {
+      "text": "disección arterial",
+      "type": "PATOLOGIA",
+      "start": 1428,
+      "end": 1446
+    },
+    {
+      "text": "arteria carótida interna derecha",
+      "type": "ARTERIA",
+      "start": 1368,
+      "end": 1400
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 574,
+      "end": 581
+    },
+    {
+      "text": "sin oclusión completa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1530,
+      "end": 1551
+    },
+    {
+      "text": "No se detecta hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 679,
+      "end": 716
+    },
+    {
+      "text": "No signos de hemorragia intracraneal ni transformación hemorrágica",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1927,
+      "end": 1993
+    },
+    {
+      "text": "territorio ACM derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 2206,
+      "end": 2228
+    },
+    {
+      "text": "disección arterial cervical derecha",
+      "type": "PATOLOGIA",
+      "start": 2242,
+      "end": 2277
+    },
+    {
+      "text": "arteria carótida interna",
+      "type": "ARTERIA",
+      "start": 1368,
+      "end": 1392
+    }
+  ]
+}

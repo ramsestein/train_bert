@@ -1,0 +1,221 @@
+{
+  "document_id": "informe_sintetico_20250804195045_09356",
+  "entities": [
+    {
+      "text": "infarto cerebral reciente",
+      "type": "PATOLOGIA",
+      "start": 195,
+      "end": 220
+    },
+    {
+      "text": "deterioro neurológico progresivo",
+      "type": "PATOLOGIA",
+      "start": 223,
+      "end": 255
+    },
+    {
+      "text": "transformación hemorrágica",
+      "type": "PATOLOGIA",
+      "start": 269,
+      "end": 295
+    },
+    {
+      "text": "TC CEREBRAL BASAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 316,
+      "end": 333
+    },
+    {
+      "text": "PERFUSIÓN",
+      "type": "TECNICA_IMAGEN",
+      "start": 336,
+      "end": 345
+    },
+    {
+      "text": "ANGIO-TC DE TRONCOS SUPRAAÓRTICOS E INTRACRANEAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 348,
+      "end": 396
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "ARTERIA",
+      "start": 540,
+      "end": 572
+    },
+    {
+      "text": "infarto cerebral subagudo",
+      "type": "PATOLOGIA",
+      "start": 589,
+      "end": 614
+    },
+    {
+      "text": "transformación hemorrágica grado HI2",
+      "type": "PATOLOGIA",
+      "start": 813,
+      "end": 849
+    },
+    {
+      "text": "más del 30%",
+      "type": "MEDIDA",
+      "start": 762,
+      "end": 773
+    },
+    {
+      "text": "edema perilesional",
+      "type": "PATOLOGIA",
+      "start": 925,
+      "end": 943
+    },
+    {
+      "text": "ventrículo lateral izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1027,
+      "end": 1055
+    },
+    {
+      "text": "hidrocefalia",
+      "type": "PATOLOGIA",
+      "start": 1061,
+      "end": 1073
+    },
+    {
+      "text": "hemorragias extraaxiales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1101,
+      "end": 1125
+    },
+    {
+      "text": "hematomas subdurales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1129,
+      "end": 1149
+    },
+    {
+      "text": "diferenciación cortico-subcortical",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1167,
+      "end": 1201
+    },
+    {
+      "text": "marcada reducción de flujo cerebral",
+      "type": "PATOLOGIA",
+      "start": 1276,
+      "end": 1311
+    },
+    {
+      "text": "volumen cerebral",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1320,
+      "end": 1336
+    },
+    {
+      "text": "tiempo de tránsito",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1400,
+      "end": 1418
+    },
+    {
+      "text": "tejido isquémico irreversiblemente dañado",
+      "type": "PATOLOGIA",
+      "start": 1441,
+      "end": 1482
+    },
+    {
+      "text": "áreas viables en penumbra",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1502,
+      "end": 1527
+    },
+    {
+      "text": "arterias permeables",
+      "type": "ARTERIA",
+      "start": 1596,
+      "end": 1615
+    },
+    {
+      "text": "estenosis significativas",
+      "type": "PATOLOGIA",
+      "start": 1621,
+      "end": 1645
+    },
+    {
+      "text": "Arteria cerebral media izquierda ocluida",
+      "type": "ARTERIA",
+      "start": 1647,
+      "end": 1687
+    },
+    {
+      "text": "segmento proximal M1",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1691,
+      "end": 1711
+    },
+    {
+      "text": "ausencia de contraste distal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1717,
+      "end": 1745
+    },
+    {
+      "text": "Resto de arterias intracraneales permeables",
+      "type": "ARTERIA",
+      "start": 1747,
+      "end": 1790
+    },
+    {
+      "text": "sin alteraciones",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1855,
+      "end": 1871
+    },
+    {
+      "text": "Infarto cerebral extenso",
+      "type": "PATOLOGIA",
+      "start": 1898,
+      "end": 1922
+    },
+    {
+      "text": "transformación hemorrágica grado HI2",
+      "type": "PATOLOGIA",
+      "start": 813,
+      "end": 849
+    },
+    {
+      "text": "leve efecto de masa",
+      "type": "PATOLOGIA",
+      "start": 948,
+      "end": 967
+    },
+    {
+      "text": "leve compresión ventricular izquierda",
+      "type": "PATOLOGIA",
+      "start": 2062,
+      "end": 2099
+    },
+    {
+      "text": "Oclusión proximal de arteria cerebral media izquierda",
+      "type": "PATOLOGIA",
+      "start": 2103,
+      "end": 2156
+    },
+    {
+      "text": "confirmada en estudio angiográfico",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2157,
+      "end": 2191
+    },
+    {
+      "text": "hemorragias extraaxiales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1101,
+      "end": 1125
+    },
+    {
+      "text": "otras complicaciones hemorrágicas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2238,
+      "end": 2271
+    }
+  ]
+}

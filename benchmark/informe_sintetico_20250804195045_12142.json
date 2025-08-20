@@ -1,0 +1,113 @@
+{
+  "document_id": "informe_sintetico_20250804195045_12142",
+  "entities": [
+    {
+      "text": "contusión hemorrágica traumática",
+      "type": "PATOLOGIA",
+      "start": 541,
+      "end": 573
+    },
+    {
+      "text": "región frontotemporal derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 495,
+      "end": 524
+    },
+    {
+      "text": "12 mm",
+      "type": "MEDIDA",
+      "start": 612,
+      "end": 617
+    },
+    {
+      "text": "3 mm",
+      "type": "MEDIDA",
+      "start": 691,
+      "end": 695
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 705,
+      "end": 714
+    },
+    {
+      "text": "No se evidencian hemorragias subdurales ni epidurales asociadas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 716,
+      "end": 779
+    },
+    {
+      "text": "sin hidrocefalia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 849,
+      "end": 865
+    },
+    {
+      "text": "disminución del flujo sanguíneo cerebral",
+      "type": "PATOLOGIA",
+      "start": 917,
+      "end": 957
+    },
+    {
+      "text": "edema vasogénico",
+      "type": "PATOLOGIA",
+      "start": 997,
+      "end": 1013
+    },
+    {
+      "text": "No se observan áreas extensas de penumbra isquémica ni hipoperfusión cortical significativa fuera de la lesión traumática",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1015,
+      "end": 1136
+    },
+    {
+      "text": "Arco aórtico y troncos supraaórticos",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1170,
+      "end": 1206
+    },
+    {
+      "text": "sin estenosis ni dissecaciones",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1207,
+      "end": 1237
+    },
+    {
+      "text": "Arterias intracraneales permeables",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1239,
+      "end": 1273
+    },
+    {
+      "text": "sin signos de oclusión ni vasoespasmo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1274,
+      "end": 1311
+    },
+    {
+      "text": "No se identifican aneurismas ni malformaciones vasculares",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1313,
+      "end": 1370
+    },
+    {
+      "text": "edema cerebral",
+      "type": "PATOLOGIA",
+      "start": 1476,
+      "end": 1490
+    },
+    {
+      "text": "desviación de línea media menor de 5 mm",
+      "type": "MEDIDA",
+      "start": 1967,
+      "end": 2006
+    },
+    {
+      "text": "TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANGIOTC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 2075,
+      "end": 2142
+    }
+  ]
+}

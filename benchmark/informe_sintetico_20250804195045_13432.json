@@ -1,0 +1,113 @@
+{
+  "document_id": "informe_sintetico_20250804195045_13432",
+  "entities": [
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 230,
+      "end": 244
+    },
+    {
+      "text": "arteria cerebral anterior",
+      "type": "ARTERIA",
+      "start": 262,
+      "end": 287
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 565,
+      "end": 574
+    },
+    {
+      "text": "hipodensidad cortical y subcortical",
+      "type": "PATOLOGIA",
+      "start": 501,
+      "end": 536
+    },
+    {
+      "text": "edema citotóxico incipiente",
+      "type": "PATOLOGIA",
+      "start": 591,
+      "end": 618
+    },
+    {
+      "text": "No hay evidencia de hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 620,
+      "end": 663
+    },
+    {
+      "text": "isquemia",
+      "type": "PATOLOGIA",
+      "start": 230,
+      "end": 238
+    },
+    {
+      "text": "arteria cerebral anterior (ACA)",
+      "type": "ARTERIA",
+      "start": 1045,
+      "end": 1076
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 565,
+      "end": 574
+    },
+    {
+      "text": "Oclusión focal en el segmento A2",
+      "type": "PATOLOGIA",
+      "start": 1222,
+      "end": 1254
+    },
+    {
+      "text": "arteria cerebral anterior izquierda",
+      "type": "ARTERIA",
+      "start": 1261,
+      "end": 1296
+    },
+    {
+      "text": "No hay hemorragia asociada",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1680,
+      "end": 1706
+    },
+    {
+      "text": "TC craneal basal urgente",
+      "type": "TECNICA_IMAGEN",
+      "start": 308,
+      "end": 332
+    },
+    {
+      "text": "angiografía por TC intracraneal y extracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 398,
+      "end": 444
+    },
+    {
+      "text": "Reducción marcada de la velocidad de flujo cerebral (CBF)",
+      "type": "PATOLOGIA",
+      "start": 850,
+      "end": 907
+    },
+    {
+      "text": "volumen cerebral sanguíneo (CBV)",
+      "type": "PATOLOGIA",
+      "start": 910,
+      "end": 942
+    },
+    {
+      "text": "aumento del tiempo hasta el pico (TTP)",
+      "type": "PATOLOGIA",
+      "start": 1082,
+      "end": 1120
+    },
+    {
+      "text": "tiempo medio de tránsito (MTT)",
+      "type": "PATOLOGIA",
+      "start": 1123,
+      "end": 1153
+    }
+  ]
+}

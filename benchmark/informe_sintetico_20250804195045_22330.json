@@ -1,0 +1,131 @@
+{
+  "document_id": "informe_sintetico_20250804195045_22330",
+  "entities": [
+    {
+      "text": "accidente cerebrovascular isquémico",
+      "type": "PATOLOGIA",
+      "start": 222,
+      "end": 257
+    },
+    {
+      "text": "hemorragias",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 546,
+      "end": 557
+    },
+    {
+      "text": "hematomas intracraneales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 561,
+      "end": 585
+    },
+    {
+      "text": "ASPECTS 9/10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 637,
+      "end": 649
+    },
+    {
+      "text": "hipodensidad",
+      "type": "PATOLOGIA",
+      "start": 672,
+      "end": 684
+    },
+    {
+      "text": "región parietal izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 688,
+      "end": 713
+    },
+    {
+      "text": "arteria cerebral media distal izquierda",
+      "type": "ARTERIA",
+      "start": 862,
+      "end": 901
+    },
+    {
+      "text": "segmentos M2/M3",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 903,
+      "end": 918
+    },
+    {
+      "text": "disminución focal del volumen cerebral de sangre",
+      "type": "PATOLOGIA",
+      "start": 931,
+      "end": 979
+    },
+    {
+      "text": "aumento simultáneo del tiempo de tránsito medio",
+      "type": "PATOLOGIA",
+      "start": 990,
+      "end": 1037
+    },
+    {
+      "text": "tiempo hasta el máximo",
+      "type": "PATOLOGIA",
+      "start": 1046,
+      "end": 1068
+    },
+    {
+      "text": "hipoperfusión",
+      "type": "PATOLOGIA",
+      "start": 1095,
+      "end": 1108
+    },
+    {
+      "text": "zona de penumbra isquémica significativa",
+      "type": "PATOLOGIA",
+      "start": 1113,
+      "end": 1153
+    },
+    {
+      "text": "oclusión trombótica",
+      "type": "PATOLOGIA",
+      "start": 1324,
+      "end": 1343
+    },
+    {
+      "text": "segmento distal de arteria cerebral media izquierda",
+      "type": "ARTERIA",
+      "start": 1251,
+      "end": 1302
+    },
+    {
+      "text": "ASPECTS 9/10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 637,
+      "end": 649
+    },
+    {
+      "text": "penumbra significativa",
+      "type": "PATOLOGIA",
+      "start": 1637,
+      "end": 1659
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1699,
+      "end": 1722
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 314,
+      "end": 330
+    },
+    {
+      "text": "estudio de perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 346,
+      "end": 375
+    },
+    {
+      "text": "AngioTC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 399,
+      "end": 428
+    }
+  ]
+}

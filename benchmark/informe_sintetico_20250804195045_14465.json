@@ -1,0 +1,95 @@
+{
+  "document_id": "informe_sintetico_20250804195045_14465",
+  "entities": [
+    {
+      "text": "hematoma agudo",
+      "type": "PATOLOGIA",
+      "start": 528,
+      "end": 542
+    },
+    {
+      "text": "hemisferio cerebeloso derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 452,
+      "end": 481
+    },
+    {
+      "text": "3,5 x 3 cm",
+      "type": "MEDIDA",
+      "start": 501,
+      "end": 511
+    },
+    {
+      "text": "cuarto ventrículo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 577,
+      "end": 594
+    },
+    {
+      "text": "hidrocefalia obstructiva",
+      "type": "PATOLOGIA",
+      "start": 698,
+      "end": 722
+    },
+    {
+      "text": "hemisferio cerebeloso derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 452,
+      "end": 481
+    },
+    {
+      "text": "flujo sanguíneo cerebral (CBF)",
+      "type": "PATOLOGIA",
+      "start": 980,
+      "end": 1010
+    },
+    {
+      "text": "volumen sanguíneo cerebral (CBV)",
+      "type": "PATOLOGIA",
+      "start": 1017,
+      "end": 1049
+    },
+    {
+      "text": "tiempo medio de tránsito (MTT)",
+      "type": "PATOLOGIA",
+      "start": 1124,
+      "end": 1154
+    },
+    {
+      "text": "Circulación arterial principal permeable",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1190,
+      "end": 1230
+    },
+    {
+      "text": "signos de sangrado adicional",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1498,
+      "end": 1526
+    },
+    {
+      "text": "alteraciones vasculares significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1530,
+      "end": 1568
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 277,
+      "end": 293
+    },
+    {
+      "text": "TC perfusión",
+      "type": "TECNICA_IMAGEN",
+      "start": 952,
+      "end": 964
+    },
+    {
+      "text": "Angio TC intra y extra craneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 1158,
+      "end": 1188
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "document_id": "0000000010000000058332605_cleaned",
+  "entities": [
+    {
+      "text": "sangrado agudo intracraneal",
+      "type": "PATOLOGIA",
+      "start": 301,
+      "end": 328
+    },
+    {
+      "text": "lesiones ocupantes de espacio",
+      "type": "PATOLOGIA",
+      "start": 330,
+      "end": 359
+    },
+    {
+      "text": "lesiones isquémicas agudas",
+      "type": "PATOLOGIA",
+      "start": 363,
+      "end": 389
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 430,
+      "end": 440
+    },
+    {
+      "text": "Sistema ventricular simétrico, de tamaño y morfología normal.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 443,
+      "end": 504
+    },
+    {
+      "text": "Estructuras de la línea media centradas.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 505,
+      "end": 545
+    },
+    {
+      "text": "Cisternas basales no colapsadas.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 546,
+      "end": 578
+    },
+    {
+      "text": "No se observan alteraciones valorables en el TTP, CBV y CBF.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 593,
+      "end": 653
+    },
+    {
+      "text": "Arterias carótidas permeables",
+      "type": "ARTERIA",
+      "start": 717,
+      "end": 746
+    },
+    {
+      "text": "sin signos de ateromatosis ni estenosis sinificativas en su recorrido.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 748,
+      "end": 818
+    },
+    {
+      "text": "Arterias vertebrales permeables.",
+      "type": "ARTERIA",
+      "start": 819,
+      "end": 851
+    },
+    {
+      "text": "Principales arterias cerebrales intracraneales permeables (ACAs, ACMs y ACPs).",
+      "type": "ARTERIA",
+      "start": 852,
+      "end": 930
+    },
+    {
+      "text": "Sistema vertebrobasilar permeable.",
+      "type": "ARTERIA",
+      "start": 931,
+      "end": 965
+    },
+    {
+      "text": "No se observan signos de sangrado intracraneal.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 989,
+      "end": 1036
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 430,
+      "end": 440
+    },
+    {
+      "text": "TC perfusión sin alteraciones significativas.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1049,
+      "end": 1094
+    },
+    {
+      "text": "Principales arterias intracraneales permeables.",
+      "type": "ARTERIA",
+      "start": 1095,
+      "end": 1142
+    }
+  ]
+}

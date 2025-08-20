@@ -1,0 +1,71 @@
+{
+  "document_id": "informe_sintetico_20250804195045_13306",
+  "entities": [
+    {
+      "text": "hematoma subdural agudo",
+      "type": "PATOLOGIA",
+      "start": 530,
+      "end": 553
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 506,
+      "end": 513
+    },
+    {
+      "text": "12 mm",
+      "type": "MEDIDA",
+      "start": 590,
+      "end": 595
+    },
+    {
+      "text": "5 mm",
+      "type": "MEDIDA",
+      "start": 665,
+      "end": 669
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 279,
+      "end": 295
+    },
+    {
+      "text": "TC perfusión",
+      "type": "TECNICA_IMAGEN",
+      "start": 318,
+      "end": 330
+    },
+    {
+      "text": "Angio-TC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 333,
+      "end": 363
+    },
+    {
+      "text": "compromiso hemodinámico",
+      "type": "PATOLOGIA",
+      "start": 1191,
+      "end": 1214
+    },
+    {
+      "text": "No se observan fracturas óseas evidentes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 824,
+      "end": 864
+    },
+    {
+      "text": "No se evidencian estenosis, oclusiones ni malformaciones vasculares relevantes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1266,
+      "end": 1344
+    },
+    {
+      "text": "Sin lesiones vasculares asociadas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2009,
+      "end": 2042
+    }
+  ]
+}

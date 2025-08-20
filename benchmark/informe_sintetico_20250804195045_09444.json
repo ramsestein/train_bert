@@ -1,0 +1,89 @@
+{
+  "document_id": "informe_sintetico_20250804195045_09444",
+  "entities": [
+    {
+      "text": "isquemia",
+      "type": "PATOLOGIA",
+      "start": 634,
+      "end": 642
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 877,
+      "end": 907
+    },
+    {
+      "text": "M2/M3",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1149,
+      "end": 1154
+    },
+    {
+      "text": "arteria cerebral media",
+      "type": "ARTERIA",
+      "start": 877,
+      "end": 899
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 900,
+      "end": 907
+    },
+    {
+      "text": "ASPECTS 9",
+      "type": "PUNTUACION_CLINICA",
+      "start": 528,
+      "end": 537
+    },
+    {
+      "text": "aguda",
+      "type": "TEMPORALIDAD",
+      "start": 1364,
+      "end": 1369
+    },
+    {
+      "text": "Oclusión parcial",
+      "type": "PATOLOGIA",
+      "start": 1075,
+      "end": 1091
+    },
+    {
+      "text": "arteria cerebral media distal derecha",
+      "type": "ARTERIA",
+      "start": 1475,
+      "end": 1512
+    },
+    {
+      "text": "M2/M3",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1149,
+      "end": 1154
+    },
+    {
+      "text": "mismatch significativo",
+      "type": "PATOLOGIA",
+      "start": 979,
+      "end": 1001
+    },
+    {
+      "text": "TC CRANEAL BASAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 285,
+      "end": 301
+    },
+    {
+      "text": "TC PERFUSIÓN",
+      "type": "TECNICA_IMAGEN",
+      "start": 714,
+      "end": 726
+    },
+    {
+      "text": "ANGIO-TC INTRACRANEAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 1050,
+      "end": 1071
+    }
+  ]
+}

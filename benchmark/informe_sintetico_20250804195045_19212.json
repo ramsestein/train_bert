@@ -1,0 +1,205 @@
+{
+  "document_id": "informe_sintetico_20250804195045_19212",
+  "entities": [
+    {
+      "text": "cefalea intensa",
+      "type": "PATOLOGIA",
+      "start": 198,
+      "end": 213
+    },
+    {
+      "text": "mareo",
+      "type": "PATOLOGIA",
+      "start": 216,
+      "end": 221
+    },
+    {
+      "text": "TC craneal basal urgente",
+      "type": "TECNICA_IMAGEN",
+      "start": 278,
+      "end": 302
+    },
+    {
+      "text": "angio-TC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 305,
+      "end": 335
+    },
+    {
+      "text": "mapas de perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 340,
+      "end": 367
+    },
+    {
+      "text": "diferenciación corticosubcortical conservadas",
+      "type": "PATOLOGIA",
+      "start": 411,
+      "end": 456
+    },
+    {
+      "text": "hipodensidad",
+      "type": "PATOLOGIA",
+      "start": 471,
+      "end": 483
+    },
+    {
+      "text": "edema",
+      "type": "PATOLOGIA",
+      "start": 487,
+      "end": 492
+    },
+    {
+      "text": "hemorragias intra o extraaxiales",
+      "type": "PATOLOGIA",
+      "start": 512,
+      "end": 544
+    },
+    {
+      "text": "sistema ventricular",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 549,
+      "end": 568
+    },
+    {
+      "text": "tamaño y forma normales",
+      "type": "PATOLOGIA",
+      "start": 578,
+      "end": 601
+    },
+    {
+      "text": "estructuras de línea media centradas",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 607,
+      "end": 643
+    },
+    {
+      "text": "peritronculares libres",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 665,
+      "end": 687
+    },
+    {
+      "text": "ASPECTS de 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 689,
+      "end": 702
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 718,
+      "end": 732
+    },
+    {
+      "text": "mapas de perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 340,
+      "end": 367
+    },
+    {
+      "text": "flujo",
+      "type": "PATOLOGIA",
+      "start": 782,
+      "end": 787
+    },
+    {
+      "text": "volumen",
+      "type": "PATOLOGIA",
+      "start": 789,
+      "end": 796
+    },
+    {
+      "text": "tiempo de tránsito",
+      "type": "PATOLOGIA",
+      "start": 799,
+      "end": 817
+    },
+    {
+      "text": "vías arteriales intracraneales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 836,
+      "end": 866
+    },
+    {
+      "text": "permeables",
+      "type": "PATOLOGIA",
+      "start": 867,
+      "end": 877
+    },
+    {
+      "text": "estenosis",
+      "type": "PATOLOGIA",
+      "start": 883,
+      "end": 892
+    },
+    {
+      "text": "placas ateromatosas significativas",
+      "type": "PATOLOGIA",
+      "start": 928,
+      "end": 962
+    },
+    {
+      "text": "fracturas",
+      "type": "PATOLOGIA",
+      "start": 979,
+      "end": 988
+    },
+    {
+      "text": "alteraciones óseas",
+      "type": "PATOLOGIA",
+      "start": 991,
+      "end": 1009
+    },
+    {
+      "text": "TC código ictus",
+      "type": "TECNICA_IMAGEN",
+      "start": 1034,
+      "end": 1049
+    },
+    {
+      "text": "hallazgos agudos",
+      "type": "PATOLOGIA",
+      "start": 1054,
+      "end": 1070
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 1072,
+      "end": 1082
+    },
+    {
+      "text": "perfusión cerebral",
+      "type": "PATOLOGIA",
+      "start": 349,
+      "end": 367
+    },
+    {
+      "text": "vascularización arterial intracraneal normales",
+      "type": "PATOLOGIA",
+      "start": 1105,
+      "end": 1151
+    },
+    {
+      "text": "isquemia",
+      "type": "PATOLOGIA",
+      "start": 718,
+      "end": 726
+    },
+    {
+      "text": "hemorragia",
+      "type": "PATOLOGIA",
+      "start": 512,
+      "end": 522
+    },
+    {
+      "text": "evolución neurológica",
+      "type": "TEMPORALIDAD",
+      "start": 1254,
+      "end": 1275
+    }
+  ],
+  "regenerado": true,
+  "fecha_regeneracion": "2025-08-06T17:53:45.091997"
+}

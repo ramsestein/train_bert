@@ -1,0 +1,53 @@
+{
+  "document_id": "informe_sintetico_20250804195045_19469",
+  "entities": [
+    {
+      "text": "infarto lacunar agudo",
+      "type": "PATOLOGIA",
+      "start": 625,
+      "end": 646
+    },
+    {
+      "text": "núcleo lenticular izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 553,
+      "end": 580
+    },
+    {
+      "text": "izquierdo",
+      "type": "LATERALIDAD",
+      "start": 571,
+      "end": 580
+    },
+    {
+      "text": "3 horas",
+      "type": "TEMPORALIDAD",
+      "start": 241,
+      "end": 248
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 790,
+      "end": 800
+    },
+    {
+      "text": "sin estenosis significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1187,
+      "end": 1215
+    },
+    {
+      "text": "sin evidencia de complicaciones hemorrágicas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1553,
+      "end": 1597
+    },
+    {
+      "text": "sin alteraciones significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1674,
+      "end": 1705
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "document_id": "informe_sintetico_20250804195045_24826",
+  "entities": [
+    {
+      "text": "hipodensidad aguda",
+      "type": "PATOLOGIA",
+      "start": 566,
+      "end": 584
+    },
+    {
+      "text": "sangrado intra o extraaxial",
+      "type": "PATOLOGIA",
+      "start": 601,
+      "end": 628
+    },
+    {
+      "text": "cambios inespecíficos crónicos de enfermedad microvascular leve",
+      "type": "PATOLOGIA",
+      "start": 904,
+      "end": 967
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 1283,
+      "end": 1297
+    },
+    {
+      "text": "arterias cerebrales anterior, media y posterior",
+      "type": "ARTERIA",
+      "start": 1489,
+      "end": 1536
+    },
+    {
+      "text": "sistema vertebrobasilar",
+      "type": "ARTERIA",
+      "start": 1543,
+      "end": 1566
+    },
+    {
+      "text": "ateromatosis calcificada leve",
+      "type": "PATOLOGIA",
+      "start": 1630,
+      "end": 1659
+    },
+    {
+      "text": "sin hallazgos agudos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1747,
+      "end": 1767
+    },
+    {
+      "text": "sin estenosis ni compromiso vascular significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1885,
+      "end": 1935
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 1225,
+      "end": 1235
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 356,
+      "end": 372
+    },
+    {
+      "text": "estudio de perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 388,
+      "end": 417
+    },
+    {
+      "text": "angiografía por TC arterial intracraneal y extracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 420,
+      "end": 475
+    }
+  ]
+}

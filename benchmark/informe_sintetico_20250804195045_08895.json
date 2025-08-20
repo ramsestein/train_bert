@@ -1,0 +1,89 @@
+{
+  "document_id": "informe_sintetico_20250804195045_08895",
+  "entities": [
+    {
+      "text": "infarto",
+      "type": "PATOLOGIA",
+      "start": 300,
+      "end": 307
+    },
+    {
+      "text": "watershed",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 316,
+      "end": 325
+    },
+    {
+      "text": "arteria cerebral media",
+      "type": "ARTERIA",
+      "start": 706,
+      "end": 728
+    },
+    {
+      "text": "arteria cerebral anterior",
+      "type": "ARTERIA",
+      "start": 734,
+      "end": 759
+    },
+    {
+      "text": "arteria cerebral posterior",
+      "type": "ARTERIA",
+      "start": 834,
+      "end": 860
+    },
+    {
+      "text": "bilateral",
+      "type": "LATERALIDAD",
+      "start": 199,
+      "end": 208
+    },
+    {
+      "text": "simétrica",
+      "type": "LATERALIDAD",
+      "start": 890,
+      "end": 899
+    },
+    {
+      "text": "ateromatosis leve",
+      "type": "PATOLOGIA",
+      "start": 1769,
+      "end": 1786
+    },
+    {
+      "text": "bilateral",
+      "type": "LATERALIDAD",
+      "start": 199,
+      "end": 208
+    },
+    {
+      "text": "infarto isquémico",
+      "type": "PATOLOGIA",
+      "start": 1914,
+      "end": 1931
+    },
+    {
+      "text": "watershed cortical y subcortical",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1944,
+      "end": 1976
+    },
+    {
+      "text": "hipoperfusión",
+      "type": "PATOLOGIA",
+      "start": 2029,
+      "end": 2042
+    },
+    {
+      "text": "prolongación del TTP",
+      "type": "PATOLOGIA",
+      "start": 2135,
+      "end": 2155
+    },
+    {
+      "text": "sin evidencias de oclusión arterial importante",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2675,
+      "end": 2721
+    }
+  ]
+}

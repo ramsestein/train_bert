@@ -1,0 +1,95 @@
+{
+  "document_id": "informe_sintetico_20250804195045_02427",
+  "entities": [
+    {
+      "text": "infarto",
+      "type": "PATOLOGIA",
+      "start": 220,
+      "end": 227
+    },
+    {
+      "text": "frontera",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 245,
+      "end": 253
+    },
+    {
+      "text": "watershed",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 256,
+      "end": 265
+    },
+    {
+      "text": "hemorragias",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 466,
+      "end": 477
+    },
+    {
+      "text": "hipodensidad",
+      "type": "PATOLOGIA",
+      "start": 649,
+      "end": 661
+    },
+    {
+      "text": "parietal",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 612,
+      "end": 620
+    },
+    {
+      "text": "bilaterales",
+      "type": "LATERALIDAD",
+      "start": 623,
+      "end": 634
+    },
+    {
+      "text": "penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1279,
+      "end": 1297
+    },
+    {
+      "text": "bilateral",
+      "type": "LATERALIDAD",
+      "start": 623,
+      "end": 632
+    },
+    {
+      "text": "arterias carótidas internas",
+      "type": "ARTERIA",
+      "start": 1475,
+      "end": 1502
+    },
+    {
+      "text": "50%",
+      "type": "MEDIDA",
+      "start": 1533,
+      "end": 1536
+    },
+    {
+      "text": "sin estenosis ni oclusiones",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1572,
+      "end": 1599
+    },
+    {
+      "text": "sin estenosis significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1503,
+      "end": 1530
+    },
+    {
+      "text": "sin estenosis significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1503,
+      "end": 1530
+    },
+    {
+      "text": "sin desplazamientos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 942,
+      "end": 961
+    }
+  ]
+}

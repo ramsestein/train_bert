@@ -1,0 +1,95 @@
+{
+  "document_id": "informe_sintetico_20250804195045_20239",
+  "entities": [
+    {
+      "text": "hematomas",
+      "type": "PATOLOGIA",
+      "start": 522,
+      "end": 531
+    },
+    {
+      "text": "colecciones extraaxiales",
+      "type": "PATOLOGIA",
+      "start": 535,
+      "end": 559
+    },
+    {
+      "text": "áreas de hipodensidad recientes",
+      "type": "PATOLOGIA",
+      "start": 576,
+      "end": 607
+    },
+    {
+      "text": "lesiones lacunares",
+      "type": "PATOLOGIA",
+      "start": 633,
+      "end": 651
+    },
+    {
+      "text": "infartos antiguos",
+      "type": "PATOLOGIA",
+      "start": 707,
+      "end": 724
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 858,
+      "end": 868
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 1121,
+      "end": 1135
+    },
+    {
+      "text": "estenosis",
+      "type": "PATOLOGIA",
+      "start": 1243,
+      "end": 1252
+    },
+    {
+      "text": "oclusión",
+      "type": "PATOLOGIA",
+      "start": 1323,
+      "end": 1331
+    },
+    {
+      "text": "Dominancia vertebral derecha",
+      "type": "LATERALIDAD",
+      "start": 1333,
+      "end": 1361
+    },
+    {
+      "text": "TC CRANEAL BASAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 359,
+      "end": 375
+    },
+    {
+      "text": "TC PERFUSIÓN CEREBRAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 377,
+      "end": 398
+    },
+    {
+      "text": "ANGIOTC EXTRA E INTRACRANEAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 401,
+      "end": 429
+    },
+    {
+      "text": "TC craneal sin evidencia de patología aguda",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1536,
+      "end": 1579
+    },
+    {
+      "text": "sin estenosis ni oclusiones",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1738,
+      "end": 1765
+    }
+  ]
+}

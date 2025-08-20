@@ -1,0 +1,137 @@
+{
+  "document_id": "informe_sintetico_20250804195045_24033",
+  "entities": [
+    {
+      "text": "ictus isquémico",
+      "type": "PATOLOGIA",
+      "start": 243,
+      "end": 258
+    },
+    {
+      "text": "infarto isquémico establecido",
+      "type": "PATOLOGIA",
+      "start": 771,
+      "end": 800
+    },
+    {
+      "text": "hipodensidad extensa",
+      "type": "PATOLOGIA",
+      "start": 550,
+      "end": 570
+    },
+    {
+      "text": "arteria cerebral media (ACM) izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 644,
+      "end": 682
+    },
+    {
+      "text": "insula",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 695,
+      "end": 701
+    },
+    {
+      "text": "corona radiada",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 703,
+      "end": 717
+    },
+    {
+      "text": "corteza fronto-parietal",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 733,
+      "end": 756
+    },
+    {
+      "text": "ASPECTS 5/10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 802,
+      "end": 814
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 844,
+      "end": 867
+    },
+    {
+      "text": "disminución marcada del volumen cerebral (CBV)",
+      "type": "PATOLOGIA",
+      "start": 1002,
+      "end": 1048
+    },
+    {
+      "text": "flujo cerebral (CBF)",
+      "type": "PATOLOGIA",
+      "start": 1051,
+      "end": 1071
+    },
+    {
+      "text": "territorio de ACM izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1075,
+      "end": 1102
+    },
+    {
+      "text": "tiempos de tránsito (TTP y MTT)",
+      "type": "MEDIDA",
+      "start": 1128,
+      "end": 1159
+    },
+    {
+      "text": "mismatch reducido",
+      "type": "PATOLOGIA",
+      "start": 1174,
+      "end": 1191
+    },
+    {
+      "text": "arteria carótida interna (ACI) izquierda",
+      "type": "ARTERIA",
+      "start": 1359,
+      "end": 1399
+    },
+    {
+      "text": "cervical proximal",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1408,
+      "end": 1425
+    },
+    {
+      "text": "estenosis crítica >90%",
+      "type": "MEDIDA",
+      "start": 1515,
+      "end": 1537
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "ARTERIA",
+      "start": 1605,
+      "end": 1637
+    },
+    {
+      "text": "defecto de repleción a nivel M1",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1677,
+      "end": 1708
+    },
+    {
+      "text": "trombo",
+      "type": "PATOLOGIA",
+      "start": 1725,
+      "end": 1731
+    },
+    {
+      "text": "circulación colateral suficiente",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2159,
+      "end": 2191
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 844,
+      "end": 867
+    }
+  ]
+}

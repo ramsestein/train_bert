@@ -1,0 +1,125 @@
+{
+  "document_id": "informe_sintetico_20250804195045_01262",
+  "entities": [
+    {
+      "text": "microhemorragias múltiples",
+      "type": "PATOLOGIA",
+      "start": 659,
+      "end": 685
+    },
+    {
+      "text": "hematomas de mayor tamaño",
+      "type": "PATOLOGIA",
+      "start": 702,
+      "end": 727
+    },
+    {
+      "text": "enfermedad crónica de pequeño vaso",
+      "type": "PATOLOGIA",
+      "start": 849,
+      "end": 883
+    },
+    {
+      "text": "infarto agudo",
+      "type": "PATOLOGIA",
+      "start": 912,
+      "end": 925
+    },
+    {
+      "text": "edema cerebral significativo",
+      "type": "PATOLOGIA",
+      "start": 929,
+      "end": 957
+    },
+    {
+      "text": "sustancia blanca subcortical",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 580,
+      "end": 608
+    },
+    {
+      "text": "núcleos profundos",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1647,
+      "end": 1664
+    },
+    {
+      "text": "cerebrales anteriores",
+      "type": "ARTERIA",
+      "start": 1258,
+      "end": 1279
+    },
+    {
+      "text": "medias",
+      "type": "ARTERIA",
+      "start": 1281,
+      "end": 1287
+    },
+    {
+      "text": "posteriores",
+      "type": "ARTERIA",
+      "start": 1290,
+      "end": 1301
+    },
+    {
+      "text": "supraclinoideo bilateral",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1405,
+      "end": 1429
+    },
+    {
+      "text": "bilateral",
+      "type": "LATERALIDAD",
+      "start": 632,
+      "end": 641
+    },
+    {
+      "text": "microhemorragias puntiformes bilaterales",
+      "type": "PATOLOGIA",
+      "start": 1558,
+      "end": 1598
+    },
+    {
+      "text": "infarto agudo",
+      "type": "PATOLOGIA",
+      "start": 912,
+      "end": 925
+    },
+    {
+      "text": "hemorragia intracraneal mayor",
+      "type": "PATOLOGIA",
+      "start": 1768,
+      "end": 1797
+    },
+    {
+      "text": "hallazgos patológicos significativos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1845,
+      "end": 1881
+    },
+    {
+      "text": "TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANGIOTC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 2130,
+      "end": 2197
+    },
+    {
+      "text": "TC craneal basal sin contraste",
+      "type": "TECNICA_IMAGEN",
+      "start": 360,
+      "end": 390
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 393,
+      "end": 414
+    },
+    {
+      "text": "angioTC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 417,
+      "end": 446
+    }
+  ]
+}

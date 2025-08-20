@@ -1,0 +1,113 @@
+{
+  "document_id": "informe_sintetico_20250804195045_06494",
+  "entities": [
+    {
+      "text": "infarto cerebral",
+      "type": "PATOLOGIA",
+      "start": 373,
+      "end": 389
+    },
+    {
+      "text": "hemiparesia bilateral leve",
+      "type": "PATOLOGIA",
+      "start": 289,
+      "end": 315
+    },
+    {
+      "text": "hipodensidad cortical y subcortical",
+      "type": "PATOLOGIA",
+      "start": 589,
+      "end": 624
+    },
+    {
+      "text": "infarto isquémico",
+      "type": "PATOLOGIA",
+      "start": 821,
+      "end": 838
+    },
+    {
+      "text": "hemorragia aguda",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 868,
+      "end": 884
+    },
+    {
+      "text": "edema cerebral significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 888,
+      "end": 916
+    },
+    {
+      "text": "disminución marcada del flujo sanguíneo cerebral",
+      "type": "PATOLOGIA",
+      "start": 955,
+      "end": 1003
+    },
+    {
+      "text": "aumento del tiempo de tránsito medio",
+      "type": "PATOLOGIA",
+      "start": 1012,
+      "end": 1048
+    },
+    {
+      "text": "isquemia penumbra",
+      "type": "PATOLOGIA",
+      "start": 1180,
+      "end": 1197
+    },
+    {
+      "text": "ausencia de oclusiones de grandes vasos intracraneales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1215,
+      "end": 1269
+    },
+    {
+      "text": "estenosis moderada difusa en arterias carótidas internas bilaterales",
+      "type": "PATOLOGIA",
+      "start": 1282,
+      "end": 1350
+    },
+    {
+      "text": "hipoperfusión global",
+      "type": "PATOLOGIA",
+      "start": 1454,
+      "end": 1474
+    },
+    {
+      "text": "trombosis arterial de gran vaso",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1528,
+      "end": 1559
+    },
+    {
+      "text": "compromiso isquémico",
+      "type": "PATOLOGIA",
+      "start": 1587,
+      "end": 1607
+    },
+    {
+      "text": "bajo flujo cerebral",
+      "type": "PATOLOGIA",
+      "start": 1673,
+      "end": 1692
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 453,
+      "end": 469
+    },
+    {
+      "text": "estudio de perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 471,
+      "end": 500
+    },
+    {
+      "text": "angio-TC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 503,
+      "end": 533
+    }
+  ]
+}

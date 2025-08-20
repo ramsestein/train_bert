@@ -1,0 +1,119 @@
+{
+  "document_id": "informe_sintetico_20250804195045_16704",
+  "entities": [
+    {
+      "text": "infartos agudos",
+      "type": "PATOLOGIA",
+      "start": 763,
+      "end": 778
+    },
+    {
+      "text": "hipodensidad cortical y subcortical",
+      "type": "PATOLOGIA",
+      "start": 559,
+      "end": 594
+    },
+    {
+      "text": "isquemia aguda multiterritorial",
+      "type": "PATOLOGIA",
+      "start": 2095,
+      "end": 2126
+    },
+    {
+      "text": "territorios frontales bilaterales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 598,
+      "end": 631
+    },
+    {
+      "text": "parietales derechos",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 633,
+      "end": 652
+    },
+    {
+      "text": "región temporal izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 661,
+      "end": 686
+    },
+    {
+      "text": "arterias cerebrales medias",
+      "type": "ARTERIA",
+      "start": 1327,
+      "end": 1353
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 1553,
+      "end": 1560
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 677,
+      "end": 686
+    },
+    {
+      "text": "bilateralmente",
+      "type": "LATERALIDAD",
+      "start": 2240,
+      "end": 2254
+    },
+    {
+      "text": "reducción del volumen cerebral",
+      "type": "PATOLOGIA",
+      "start": 1088,
+      "end": 1118
+    },
+    {
+      "text": "50%",
+      "type": "MEDIDA",
+      "start": 1860,
+      "end": 1863
+    },
+    {
+      "text": "aguda",
+      "type": "TEMPORALIDAD",
+      "start": 2104,
+      "end": 2109
+    },
+    {
+      "text": "No se aprecian hemorragias intra ni extraaxiales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 780,
+      "end": 828
+    },
+    {
+      "text": "No se identifican aneurismas ni malformaciones",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1718,
+      "end": 1764
+    },
+    {
+      "text": "No se detecta hemorragia asociada",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2511,
+      "end": 2544
+    },
+    {
+      "text": "TC craneal basal sin contraste",
+      "type": "TECNICA_IMAGEN",
+      "start": 344,
+      "end": 374
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 387,
+      "end": 408
+    },
+    {
+      "text": "AngioTC arterial intracraneal y extracraneal con contraste intravenoso",
+      "type": "TECNICA_IMAGEN",
+      "start": 411,
+      "end": 481
+    }
+  ]
+}

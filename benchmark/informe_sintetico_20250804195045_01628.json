@@ -1,0 +1,95 @@
+{
+  "document_id": "informe_sintetico_20250804195045_01628",
+  "entities": [
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 248,
+      "end": 262
+    },
+    {
+      "text": "arteria cerebral posterior derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 280,
+      "end": 314
+    },
+    {
+      "text": "arteria cerebral posterior derecha",
+      "type": "ARTERIA",
+      "start": 280,
+      "end": 314
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 307,
+      "end": 314
+    },
+    {
+      "text": "ASPECTS modificada para ACP: 8",
+      "type": "PUNTUACION_CLINICA",
+      "start": 813,
+      "end": 843
+    },
+    {
+      "text": "isquémicos crónicos leves bilaterales",
+      "type": "PATOLOGIA",
+      "start": 876,
+      "end": 913
+    },
+    {
+      "text": "aumento en el tiempo de tránsito medio (MTT)",
+      "type": "MEDIDA",
+      "start": 1100,
+      "end": 1144
+    },
+    {
+      "text": "tiempo hasta el pico (TTP)",
+      "type": "MEDIDA",
+      "start": 1147,
+      "end": 1173
+    },
+    {
+      "text": "territorio derecho posterior",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1177,
+      "end": 1205
+    },
+    {
+      "text": "reducción moderada del flujo cerebral (CBF)",
+      "type": "MEDIDA",
+      "start": 1211,
+      "end": 1254
+    },
+    {
+      "text": "volumen cerebral (CBV) mantenido",
+      "type": "MEDIDA",
+      "start": 1257,
+      "end": 1289
+    },
+    {
+      "text": "Oclusión segmentaria suboclusiva en arteria cerebral posterior derecha (P2-P3)",
+      "type": "PATOLOGIA",
+      "start": 1373,
+      "end": 1451
+    },
+    {
+      "text": "arteria cerebral posterior derecha",
+      "type": "ARTERIA",
+      "start": 280,
+      "end": 314
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 307,
+      "end": 314
+    },
+    {
+      "text": "No evidencia de hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1828,
+      "end": 1867
+    }
+  ]
+}

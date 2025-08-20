@@ -1,0 +1,125 @@
+{
+  "document_id": "informe_sintetico_20250804195045_23561",
+  "entities": [
+    {
+      "text": "ictus isquémico agudo",
+      "type": "PATOLOGIA",
+      "start": 275,
+      "end": 296
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 445,
+      "end": 468
+    },
+    {
+      "text": "edema significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 472,
+      "end": 491
+    },
+    {
+      "text": "territorio insular y opercular izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 544,
+      "end": 584
+    },
+    {
+      "text": "ASPECTS 9/10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 1332,
+      "end": 1344
+    },
+    {
+      "text": "diferenciación córtico-subcortical",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 636,
+      "end": 670
+    },
+    {
+      "text": "M2/M3 izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 681,
+      "end": 696
+    },
+    {
+      "text": "aumento del tiempo de tránsito medio (TTM)",
+      "type": "PATOLOGIA",
+      "start": 724,
+      "end": 766
+    },
+    {
+      "text": "disminución del flujo cerebral (CBF)",
+      "type": "PATOLOGIA",
+      "start": 769,
+      "end": 805
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "ARTERIA",
+      "start": 838,
+      "end": 870
+    },
+    {
+      "text": "M2/M3",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 681,
+      "end": 686
+    },
+    {
+      "text": "volumen cerebral (CBV) preservado",
+      "type": "PATOLOGIA",
+      "start": 912,
+      "end": 945
+    },
+    {
+      "text": "oclusión en segmento distal de la arteria cerebral media izquierda (M2)",
+      "type": "PATOLOGIA",
+      "start": 1036,
+      "end": 1107
+    },
+    {
+      "text": "permeabilidad conservada en segmentos proximales",
+      "type": "PATOLOGIA",
+      "start": 1113,
+      "end": 1161
+    },
+    {
+      "text": "circulación colateral satisfactoria",
+      "type": "PATOLOGIA",
+      "start": 1164,
+      "end": 1199
+    },
+    {
+      "text": "área de penumbra identificada en perfusión",
+      "type": "PATOLOGIA",
+      "start": 1385,
+      "end": 1427
+    },
+    {
+      "text": "oclusión arterial distal en AngioTC",
+      "type": "PATOLOGIA",
+      "start": 1810,
+      "end": 1845
+    },
+    {
+      "text": "hemorragia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 445,
+      "end": 455
+    },
+    {
+      "text": "edema significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 472,
+      "end": 491
+    },
+    {
+      "text": "TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANGIOTC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 1873,
+      "end": 1940
+    }
+  ]
+}

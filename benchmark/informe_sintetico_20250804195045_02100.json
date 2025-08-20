@@ -1,0 +1,101 @@
+{
+  "document_id": "informe_sintetico_20250804195045_02100",
+  "entities": [
+    {
+      "text": "hemiparesia derecha",
+      "type": "PATOLOGIA",
+      "start": 189,
+      "end": 208
+    },
+    {
+      "text": "infarto cerebral",
+      "type": "PATOLOGIA",
+      "start": 236,
+      "end": 252
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 517,
+      "end": 549
+    },
+    {
+      "text": "infarto cerebral establecido",
+      "type": "PATOLOGIA",
+      "start": 607,
+      "end": 635
+    },
+    {
+      "text": "sangrado petequial",
+      "type": "PATOLOGIA",
+      "start": 758,
+      "end": 776
+    },
+    {
+      "text": "transformación hemorrágica tipo PH1",
+      "type": "PATOLOGIA",
+      "start": 779,
+      "end": 814
+    },
+    {
+      "text": "hematoma",
+      "type": "PATOLOGIA",
+      "start": 862,
+      "end": 870
+    },
+    {
+      "text": "edema vasogénico",
+      "type": "PATOLOGIA",
+      "start": 1018,
+      "end": 1034
+    },
+    {
+      "text": "tiempo hasta el pico (TTP)",
+      "type": "MEDIDA",
+      "start": 1098,
+      "end": 1124
+    },
+    {
+      "text": "flujo sanguíneo cerebral (CBF)",
+      "type": "MEDIDA",
+      "start": 1143,
+      "end": 1173
+    },
+    {
+      "text": "volumen cerebral (CBV)",
+      "type": "MEDIDA",
+      "start": 1227,
+      "end": 1249
+    },
+    {
+      "text": "bifurcación carotídea izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1635,
+      "end": 1666
+    },
+    {
+      "text": "arterias cerebrales principales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1467,
+      "end": 1498
+    },
+    {
+      "text": "ACAs, ACMs, ACPs",
+      "type": "ARTERIA",
+      "start": 1500,
+      "end": 1516
+    },
+    {
+      "text": "sin estenosis significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1973,
+      "end": 2000
+    },
+    {
+      "text": "No evidencia de sangrado parenquimatoso grave",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2002,
+      "end": 2047
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "document_id": "informe_sintetico_20250804195045_05431",
+  "entities": [
+    {
+      "text": "isquemia cerebral",
+      "type": "PATOLOGIA",
+      "start": 230,
+      "end": 247
+    },
+    {
+      "text": "No hemorragia aguda intra ni extraaxial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 495,
+      "end": 534
+    },
+    {
+      "text": "ASPECTS 9/10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 594,
+      "end": 606
+    },
+    {
+      "text": "hipodensidad en territorio cortical parietal izquierdo",
+      "type": "PATOLOGIA",
+      "start": 619,
+      "end": 673
+    },
+    {
+      "text": "territorio parietal izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 944,
+      "end": 973
+    },
+    {
+      "text": "arteria cerebral media (M2)",
+      "type": "ARTERIA",
+      "start": 1041,
+      "end": 1068
+    },
+    {
+      "text": "Oclusión trombótica en segmento distal de arteria cerebral media izquierda, rama M2",
+      "type": "PATOLOGIA",
+      "start": 1226,
+      "end": 1309
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 1291,
+      "end": 1300
+    },
+    {
+      "text": "sin compromiso de vasos principales restantes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1864,
+      "end": 1909
+    },
+    {
+      "text": "ASPECTS 9",
+      "type": "PUNTUACION_CLINICA",
+      "start": 594,
+      "end": 603
+    },
+    {
+      "text": "penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1171,
+      "end": 1189
+    },
+    {
+      "text": "volumen cerebral",
+      "type": "MEDIDA",
+      "start": 1073,
+      "end": 1089
+    },
+    {
+      "text": "TC craneal basal sin contraste",
+      "type": "TECNICA_IMAGEN",
+      "start": 299,
+      "end": 329
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 342,
+      "end": 363
+    },
+    {
+      "text": "Angio-TC arterial intra y extracraneal con contraste endovenoso",
+      "type": "TECNICA_IMAGEN",
+      "start": 366,
+      "end": 429
+    }
+  ]
+}

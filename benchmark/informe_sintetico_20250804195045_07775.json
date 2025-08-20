@@ -1,0 +1,83 @@
+{
+  "document_id": "informe_sintetico_20250804195045_07775",
+  "entities": [
+    {
+      "text": "oclusión arterial",
+      "type": "PATOLOGIA",
+      "start": 308,
+      "end": 325
+    },
+    {
+      "text": "isquemia temprana",
+      "type": "PATOLOGIA",
+      "start": 809,
+      "end": 826
+    },
+    {
+      "text": "ASPECTS posterior: 8",
+      "type": "PUNTUACION_CLINICA",
+      "start": 902,
+      "end": 922
+    },
+    {
+      "text": "tiempo de tránsito medio (MTT)",
+      "type": "MEDIDA",
+      "start": 1109,
+      "end": 1139
+    },
+    {
+      "text": "tiempo hasta el máximo (Tmax)",
+      "type": "MEDIDA",
+      "start": 1142,
+      "end": 1171
+    },
+    {
+      "text": "arteria basilar",
+      "type": "ARTERIA",
+      "start": 1207,
+      "end": 1222
+    },
+    {
+      "text": "tronco encefálico",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 738,
+      "end": 755
+    },
+    {
+      "text": "cerebelo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1302,
+      "end": 1310
+    },
+    {
+      "text": "regiones pontinas",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1333,
+      "end": 1350
+    },
+    {
+      "text": "vermis cerebeloso",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1357,
+      "end": 1374
+    },
+    {
+      "text": "oclusión completa de la arteria basilar en su tercio proximal",
+      "type": "PATOLOGIA",
+      "start": 1574,
+      "end": 1635
+    },
+    {
+      "text": "flujo retrógrado izquierdo",
+      "type": "LATERALIDAD",
+      "start": 1725,
+      "end": 1751
+    },
+    {
+      "text": "Sistema ventricular y estructuras de línea media normales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2253,
+      "end": 2310
+    }
+  ]
+}

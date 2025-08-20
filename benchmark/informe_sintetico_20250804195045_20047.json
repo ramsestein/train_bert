@@ -1,0 +1,89 @@
+{
+  "document_id": "informe_sintetico_20250804195045_20047",
+  "entities": [
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 281,
+      "end": 295
+    },
+    {
+      "text": "arteria cerebral anterior (ACA) izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 313,
+      "end": 354
+    },
+    {
+      "text": "isquemia precoz",
+      "type": "PATOLOGIA",
+      "start": 789,
+      "end": 804
+    },
+    {
+      "text": "ASPECTS 8",
+      "type": "PUNTUACION_CLINICA",
+      "start": 876,
+      "end": 885
+    },
+    {
+      "text": "tiempo de tránsito medio (TTP)",
+      "type": "MEDIDA",
+      "start": 1056,
+      "end": 1086
+    },
+    {
+      "text": "tiempo hasta el máximo (TMax)",
+      "type": "MEDIDA",
+      "start": 1089,
+      "end": 1118
+    },
+    {
+      "text": "volumen cerebral (CBV)",
+      "type": "MEDIDA",
+      "start": 1204,
+      "end": 1226
+    },
+    {
+      "text": "zona de penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1261,
+      "end": 1287
+    },
+    {
+      "text": "signo de oclusión en segmento A2 proximal",
+      "type": "PATOLOGIA",
+      "start": 1544,
+      "end": 1585
+    },
+    {
+      "text": "arteria cerebral anterior izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 676,
+      "end": 711
+    },
+    {
+      "text": "ausencia de flujo distal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1590,
+      "end": 1614
+    },
+    {
+      "text": "sin estenosis significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1680,
+      "end": 1708
+    },
+    {
+      "text": "zona de penumbra",
+      "type": "PATOLOGIA",
+      "start": 1261,
+      "end": 1277
+    },
+    {
+      "text": "sin infarto irreversible establecido",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1910,
+      "end": 1946
+    }
+  ]
+}

@@ -1,0 +1,179 @@
+{
+  "document_id": "informe_sintetico_20250804195045_04345",
+  "entities": [
+    {
+      "text": "oclusión vascular",
+      "type": "PATOLOGIA",
+      "start": 264,
+      "end": 281
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 327,
+      "end": 343
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 345,
+      "end": 366
+    },
+    {
+      "text": "angio-TC cerebral intra y extracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 369,
+      "end": 407
+    },
+    {
+      "text": "hemorragias intra ni extraaxiales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 512,
+      "end": 545
+    },
+    {
+      "text": "signos de infarto estable",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 571,
+      "end": 596
+    },
+    {
+      "text": "edema citotóxico",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 600,
+      "end": 616
+    },
+    {
+      "text": "signos precoces de isquemia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 726,
+      "end": 753
+    },
+    {
+      "text": "aumento significativo en el tiempo de tránsito medio (MTT)",
+      "type": "PATOLOGIA",
+      "start": 881,
+      "end": 939
+    },
+    {
+      "text": "tiempo hasta el pico (TTP)",
+      "type": "MEDIDA",
+      "start": 942,
+      "end": 968
+    },
+    {
+      "text": "tronco basilar",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 987,
+      "end": 1001
+    },
+    {
+      "text": "flujo cerebral (CBF)",
+      "type": "MEDIDA",
+      "start": 1031,
+      "end": 1051
+    },
+    {
+      "text": "volumen cerebral (CBV)",
+      "type": "MEDIDA",
+      "start": 1054,
+      "end": 1076
+    },
+    {
+      "text": "tronco encefálico",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1083,
+      "end": 1100
+    },
+    {
+      "text": "cerebelo medio",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1102,
+      "end": 1116
+    },
+    {
+      "text": "tálamo bilateral",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1132,
+      "end": 1148
+    },
+    {
+      "text": "hipoperfusión crítica",
+      "type": "PATOLOGIA",
+      "start": 1173,
+      "end": 1194
+    },
+    {
+      "text": "flujo distal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1304,
+      "end": 1316
+    },
+    {
+      "text": "reconstitución proximal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1320,
+      "end": 1343
+    },
+    {
+      "text": "arterias vertebrales derecha e izquierda",
+      "type": "ARTERIA",
+      "start": 1349,
+      "end": 1389
+    },
+    {
+      "text": "permeables",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1404,
+      "end": 1414
+    },
+    {
+      "text": "permeabilidad conservada",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1525,
+      "end": 1549
+    },
+    {
+      "text": "aneurismas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1568,
+      "end": 1578
+    },
+    {
+      "text": "malformaciones vasculares",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1582,
+      "end": 1607
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 1754,
+      "end": 1768
+    },
+    {
+      "text": "tronco encefálico",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1083,
+      "end": 1100
+    },
+    {
+      "text": "cerebelo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1102,
+      "end": 1110
+    },
+    {
+      "text": "tálamo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1132,
+      "end": 1138
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1817,
+      "end": 1840
+    }
+  ]
+}

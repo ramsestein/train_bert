@@ -1,0 +1,59 @@
+{
+  "document_id": "informe_sintetico_20250804195045_12873",
+  "entities": [
+    {
+      "text": "isquemia",
+      "type": "PATOLOGIA",
+      "start": 618,
+      "end": 626
+    },
+    {
+      "text": "parietal izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 576,
+      "end": 594
+    },
+    {
+      "text": "arteria cerebral media (ACM) izquierda",
+      "type": "ARTERIA",
+      "start": 889,
+      "end": 927
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 918,
+      "end": 927
+    },
+    {
+      "text": "ASPECTS 9",
+      "type": "PUNTUACION_CLINICA",
+      "start": 520,
+      "end": 529
+    },
+    {
+      "text": "aguda",
+      "type": "TEMPORALIDAD",
+      "start": 1468,
+      "end": 1473
+    },
+    {
+      "text": "Oclusión segmentaria del ramo M2 de la ACM izquierda",
+      "type": "PATOLOGIA",
+      "start": 1144,
+      "end": 1196
+    },
+    {
+      "text": "No se visualizan hemorragias intra ni extraaxiales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 397,
+      "end": 447
+    },
+    {
+      "text": "No se observan estenosis ni placas significativas en vasos cervicales ni en el arco aórtico",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1341,
+      "end": 1432
+    }
+  ]
+}

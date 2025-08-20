@@ -1,0 +1,149 @@
+{
+  "document_id": "informe_sintetico_20250804195045_23111",
+  "entities": [
+    {
+      "text": "infarto",
+      "type": "PATOLOGIA",
+      "start": 549,
+      "end": 556
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "PATOLOGIA",
+      "start": 560,
+      "end": 583
+    },
+    {
+      "text": "lesiones ocupantes de espacio",
+      "type": "PATOLOGIA",
+      "start": 603,
+      "end": 632
+    },
+    {
+      "text": "edema focal",
+      "type": "PATOLOGIA",
+      "start": 636,
+      "end": 647
+    },
+    {
+      "text": "morfología y tamaño dentro de límites normales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 681,
+      "end": 727
+    },
+    {
+      "text": "desviación de la línea media",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 733,
+      "end": 761
+    },
+    {
+      "text": "sin signos de hipertensión intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 809,
+      "end": 848
+    },
+    {
+      "text": "cambios crónicos inespecíficos en sustancia blanca periventricular compatibles con microangiopatía leve",
+      "type": "PATOLOGIA",
+      "start": 880,
+      "end": 983
+    },
+    {
+      "text": "sin alteraciones",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1042,
+      "end": 1058
+    },
+    {
+      "text": "hipoperfusión",
+      "type": "PATOLOGIA",
+      "start": 1084,
+      "end": 1097
+    },
+    {
+      "text": "isquemia",
+      "type": "PATOLOGIA",
+      "start": 1100,
+      "end": 1108
+    },
+    {
+      "text": "calibre y trayecto normales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1226,
+      "end": 1253
+    },
+    {
+      "text": "estenosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1272,
+      "end": 1281
+    },
+    {
+      "text": "oclusiones",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1283,
+      "end": 1293
+    },
+    {
+      "text": "aneurismas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1297,
+      "end": 1307
+    },
+    {
+      "text": "placas ateromatosas significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1321,
+      "end": 1355
+    },
+    {
+      "text": "calcificaciones intravasculares",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1358,
+      "end": 1389
+    },
+    {
+      "text": "sin hallazgos agudos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1477,
+      "end": 1497
+    },
+    {
+      "text": "ASPECTS 10/10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 516,
+      "end": 529
+    },
+    {
+      "text": "sin evidencia de estenosis ni alteraciones vasculares",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1595,
+      "end": 1648
+    },
+    {
+      "text": "sin repercusión clínica inmediata",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1742,
+      "end": 1775
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 261,
+      "end": 277
+    },
+    {
+      "text": "perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 325,
+      "end": 343
+    },
+    {
+      "text": "angiografía TC de arterias intra y extracraneales",
+      "type": "TECNICA_IMAGEN",
+      "start": 346,
+      "end": 395
+    }
+  ]
+}

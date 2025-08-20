@@ -1,0 +1,71 @@
+{
+  "document_id": "informe_sintetico_20250804195045_18916",
+  "entities": [
+    {
+      "text": "hemorragias intra ni extraaxiales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 434,
+      "end": 467
+    },
+    {
+      "text": "cambios crónicos de microangiopatía",
+      "type": "PATOLOGIA",
+      "start": 654,
+      "end": 689
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 917,
+      "end": 931
+    },
+    {
+      "text": "ateromatosis calcificada",
+      "type": "PATOLOGIA",
+      "start": 1027,
+      "end": 1051
+    },
+    {
+      "text": "Arterias carótidas internas",
+      "type": "ARTERIA",
+      "start": 1082,
+      "end": 1109
+    },
+    {
+      "text": "ACAs, ACMs y ACPs",
+      "type": "ARTERIA",
+      "start": 1248,
+      "end": 1265
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 1461,
+      "end": 1471
+    },
+    {
+      "text": "TC craneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 266,
+      "end": 276
+    },
+    {
+      "text": "perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 284,
+      "end": 302
+    },
+    {
+      "text": "angio-TC arterial intra y extracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 305,
+      "end": 343
+    },
+    {
+      "text": "TC craneal sin hallazgos de patología aguda",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1354,
+      "end": 1397
+    }
+  ]
+}

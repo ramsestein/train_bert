@@ -1,0 +1,83 @@
+{
+  "document_id": "informe_sintetico_20250804195045_01369",
+  "entities": [
+    {
+      "text": "infarto isquémico subagudo",
+      "type": "PATOLOGIA",
+      "start": 516,
+      "end": 542
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 468,
+      "end": 500
+    },
+    {
+      "text": "ACM",
+      "type": "ARTERIA",
+      "start": 1136,
+      "end": 1139
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 491,
+      "end": 500
+    },
+    {
+      "text": "3 mm",
+      "type": "MEDIDA",
+      "start": 870,
+      "end": 874
+    },
+    {
+      "text": "subagudo",
+      "type": "TEMPORALIDAD",
+      "start": 534,
+      "end": 542
+    },
+    {
+      "text": "HI2",
+      "type": "PUNTUACION_CLINICA",
+      "start": 699,
+      "end": 702
+    },
+    {
+      "text": "TC craneal basal urgente",
+      "type": "TECNICA_IMAGEN",
+      "start": 296,
+      "end": 320
+    },
+    {
+      "text": "No se observan hematomas subdurales ni epidurales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 784,
+      "end": 833
+    },
+    {
+      "text": "Oclusión distal de la arteria cerebral media izquierda M2",
+      "type": "PATOLOGIA",
+      "start": 1315,
+      "end": 1372
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 468,
+      "end": 500
+    },
+    {
+      "text": "ACM",
+      "type": "ARTERIA",
+      "start": 1136,
+      "end": 1139
+    },
+    {
+      "text": "sin compromiso luminal significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1577,
+      "end": 1613
+    }
+  ]
+}

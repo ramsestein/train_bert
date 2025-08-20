@@ -1,0 +1,83 @@
+{
+  "document_id": "informe_sintetico_20250804195045_09334",
+  "entities": [
+    {
+      "text": "hemorragia subaracnoidea",
+      "type": "PATOLOGIA",
+      "start": 213,
+      "end": 237
+    },
+    {
+      "text": "cisterna supraselar",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 642,
+      "end": 661
+    },
+    {
+      "text": "hemorragia subaracnoidea focal",
+      "type": "PATOLOGIA",
+      "start": 678,
+      "end": 708
+    },
+    {
+      "text": "hemorragia intraparenquimatosa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 841,
+      "end": 871
+    },
+    {
+      "text": "edema cerebral",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 990,
+      "end": 1004
+    },
+    {
+      "text": "arteria comunicante anterior",
+      "type": "ARTERIA",
+      "start": 1662,
+      "end": 1690
+    },
+    {
+      "text": "6 mm",
+      "type": "MEDIDA",
+      "start": 1711,
+      "end": 1715
+    },
+    {
+      "text": "hemorragia subaracnoidea focal",
+      "type": "PATOLOGIA",
+      "start": 678,
+      "end": 708
+    },
+    {
+      "text": "isquemia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1293,
+      "end": 1301
+    },
+    {
+      "text": "hemorragia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 213,
+      "end": 223
+    },
+    {
+      "text": "TC CRANEAL BASAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 331,
+      "end": 347
+    },
+    {
+      "text": "PERFUSIÓN CEREBRAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 350,
+      "end": 368
+    },
+    {
+      "text": "ANGIO-TC ARTERIAL INTRACRANEAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 371,
+      "end": 401
+    }
+  ]
+}

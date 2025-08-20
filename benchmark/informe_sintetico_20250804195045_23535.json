@@ -1,0 +1,235 @@
+{
+  "document_id": "informe_sintetico_20250804195045_23535",
+  "entities": [
+    {
+      "text": "cefalea",
+      "type": "PATOLOGIA",
+      "start": 198,
+      "end": 205
+    },
+    {
+      "text": "hipertensión arterial",
+      "type": "PATOLOGIA",
+      "start": 224,
+      "end": 245
+    },
+    {
+      "text": "eventos cerebrovasculares agudos",
+      "type": "PATOLOGIA",
+      "start": 282,
+      "end": 314
+    },
+    {
+      "text": "TC craneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 335,
+      "end": 345
+    },
+    {
+      "text": "perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 354,
+      "end": 372
+    },
+    {
+      "text": "AngioTC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 375,
+      "end": 404
+    },
+    {
+      "text": "hemorragia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 492,
+      "end": 502
+    },
+    {
+      "text": "infartos agudos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 506,
+      "end": 521
+    },
+    {
+      "text": "ASPECTS 10/10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 523,
+      "end": 536
+    },
+    {
+      "text": "línea media",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 558,
+      "end": 569
+    },
+    {
+      "text": "leucoaraiosis periventricular",
+      "type": "PATOLOGIA",
+      "start": 674,
+      "end": 703
+    },
+    {
+      "text": "surcos corticales frontotemporales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 733,
+      "end": 767
+    },
+    {
+      "text": "atrofia cerebral leve",
+      "type": "PATOLOGIA",
+      "start": 785,
+      "end": 806
+    },
+    {
+      "text": "sistema ventricular",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 811,
+      "end": 830
+    },
+    {
+      "text": "morfología y tamaño conservados",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 840,
+      "end": 871
+    },
+    {
+      "text": "Cisternas basales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 873,
+      "end": 890
+    },
+    {
+      "text": "mapas de tiempo de tránsito (TTP)",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 917,
+      "end": 950
+    },
+    {
+      "text": "flujo cerebral (CBF)",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 952,
+      "end": 972
+    },
+    {
+      "text": "volumen sanguíneo cerebral (CBV)",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 975,
+      "end": 1007
+    },
+    {
+      "text": "hipoperfusión",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1056,
+      "end": 1069
+    },
+    {
+      "text": "principales arterias cerebrales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1084,
+      "end": 1115
+    },
+    {
+      "text": "ACAs",
+      "type": "ARTERIA",
+      "start": 1117,
+      "end": 1121
+    },
+    {
+      "text": "ACMs",
+      "type": "ARTERIA",
+      "start": 1123,
+      "end": 1127
+    },
+    {
+      "text": "ACPs",
+      "type": "ARTERIA",
+      "start": 1129,
+      "end": 1133
+    },
+    {
+      "text": "estenosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1178,
+      "end": 1187
+    },
+    {
+      "text": "placas ateromatosas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1218,
+      "end": 1237
+    },
+    {
+      "text": "alteraciones hemodinámicas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1316,
+      "end": 1342
+    },
+    {
+      "text": "lesiones focales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1346,
+      "end": 1362
+    },
+    {
+      "text": "TC craneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 335,
+      "end": 345
+    },
+    {
+      "text": "perfusión",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 354,
+      "end": 363
+    },
+    {
+      "text": "AngioTC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 375,
+      "end": 404
+    },
+    {
+      "text": "isquemia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1491,
+      "end": 1499
+    },
+    {
+      "text": "hemorragia aguda",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1502,
+      "end": 1518
+    },
+    {
+      "text": "cambios crónicos leves",
+      "type": "PATOLOGIA",
+      "start": 1534,
+      "end": 1556
+    },
+    {
+      "text": "leucoaraiosis",
+      "type": "PATOLOGIA",
+      "start": 674,
+      "end": 687
+    },
+    {
+      "text": "atrofia cerebral incipiente",
+      "type": "PATOLOGIA",
+      "start": 1589,
+      "end": 1616
+    },
+    {
+      "text": "alteraciones perfusionistas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1621,
+      "end": 1648
+    },
+    {
+      "text": "vasculares significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1652,
+      "end": 1677
+    }
+  ],
+  "regenerado": true,
+  "fecha_regeneracion": "2025-08-06T11:02:20.933829"
+}

@@ -1,0 +1,101 @@
+{
+  "document_id": "informe_sintetico_20250804195045_23203",
+  "entities": [
+    {
+      "text": "infarto cerebral",
+      "type": "PATOLOGIA",
+      "start": 241,
+      "end": 257
+    },
+    {
+      "text": "hipoperfusión global",
+      "type": "PATOLOGIA",
+      "start": 262,
+      "end": 282
+    },
+    {
+      "text": "hipodensidad bilateral",
+      "type": "PATOLOGIA",
+      "start": 452,
+      "end": 474
+    },
+    {
+      "text": "infartos tipo watershed",
+      "type": "PATOLOGIA",
+      "start": 623,
+      "end": 646
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 673,
+      "end": 696
+    },
+    {
+      "text": "edema significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 700,
+      "end": 719
+    },
+    {
+      "text": "arteria cerebral media",
+      "type": "ARTERIA",
+      "start": 1027,
+      "end": 1049
+    },
+    {
+      "text": "estenosis moderada (30-40%)",
+      "type": "MEDIDA",
+      "start": 1324,
+      "end": 1351
+    },
+    {
+      "text": "bilaterales",
+      "type": "LATERALIDAD",
+      "start": 973,
+      "end": 984
+    },
+    {
+      "text": "hipoperfusión cerebral",
+      "type": "PATOLOGIA",
+      "start": 1648,
+      "end": 1670
+    },
+    {
+      "text": "estenosis carotídeas bilaterales",
+      "type": "PATOLOGIA",
+      "start": 1835,
+      "end": 1867
+    },
+    {
+      "text": "hemorragia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 673,
+      "end": 683
+    },
+    {
+      "text": "edema significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 700,
+      "end": 719
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 303,
+      "end": 319
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 322,
+      "end": 343
+    },
+    {
+      "text": "angio-TC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 346,
+      "end": 376
+    }
+  ]
+}

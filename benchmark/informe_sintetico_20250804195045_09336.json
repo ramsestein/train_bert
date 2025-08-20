@@ -1,0 +1,131 @@
+{
+  "document_id": "informe_sintetico_20250804195045_09336",
+  "entities": [
+    {
+      "text": "infarto cerebral",
+      "type": "PATOLOGIA",
+      "start": 216,
+      "end": 232
+    },
+    {
+      "text": "hipodensidad mal delimitada",
+      "type": "PATOLOGIA",
+      "start": 485,
+      "end": 512
+    },
+    {
+      "text": "infarto en región de watershed cortical",
+      "type": "PATOLOGIA",
+      "start": 649,
+      "end": 688
+    },
+    {
+      "text": "hipoperfusión",
+      "type": "PATOLOGIA",
+      "start": 1236,
+      "end": 1249
+    },
+    {
+      "text": "infarto por hipoperfusión en territorios watershed",
+      "type": "PATOLOGIA",
+      "start": 1408,
+      "end": 1458
+    },
+    {
+      "text": "hemorragias intra o extraaxiales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 440,
+      "end": 472
+    },
+    {
+      "text": "parietal",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 555,
+      "end": 563
+    },
+    {
+      "text": "occipital",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 575,
+      "end": 584
+    },
+    {
+      "text": "bilaterales",
+      "type": "LATERALIDAD",
+      "start": 587,
+      "end": 598
+    },
+    {
+      "text": "ACAs",
+      "type": "ARTERIA",
+      "start": 1825,
+      "end": 1829
+    },
+    {
+      "text": "ACMs",
+      "type": "ARTERIA",
+      "start": 1831,
+      "end": 1835
+    },
+    {
+      "text": "ACPs",
+      "type": "ARTERIA",
+      "start": 1837,
+      "end": 1841
+    },
+    {
+      "text": "TTP",
+      "type": "MEDIDA",
+      "start": 960,
+      "end": 963
+    },
+    {
+      "text": "Tmax",
+      "type": "MEDIDA",
+      "start": 989,
+      "end": 993
+    },
+    {
+      "text": "moderada",
+      "type": "MEDIDA",
+      "start": 1113,
+      "end": 1121
+    },
+    {
+      "text": "prácticamente conservado",
+      "type": "MEDIDA",
+      "start": 2173,
+      "end": 2197
+    },
+    {
+      "text": "insuficiencia hemodinámica",
+      "type": "TEMPORALIDAD",
+      "start": 2316,
+      "end": 2342
+    },
+    {
+      "text": "TC MULTIMODAL CÓDIGO ICTUS",
+      "type": "TECNICA_IMAGEN",
+      "start": 289,
+      "end": 315
+    },
+    {
+      "text": "ANGIO TC DE TSA E INTRACRANEAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 353,
+      "end": 383
+    },
+    {
+      "text": "TC-PERFUSIÓN",
+      "type": "TECNICA_IMAGEN",
+      "start": 917,
+      "end": 929
+    },
+    {
+      "text": "TC CRANEAL BASAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 405,
+      "end": 421
+    }
+  ]
+}

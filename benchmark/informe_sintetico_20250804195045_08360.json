@@ -1,0 +1,155 @@
+{
+  "document_id": "informe_sintetico_20250804195045_08360",
+  "entities": [
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 295,
+      "end": 309
+    },
+    {
+      "text": "territorio cerebral derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 313,
+      "end": 340
+    },
+    {
+      "text": "hemiplejia izquierda",
+      "type": "PATOLOGIA",
+      "start": 219,
+      "end": 239
+    },
+    {
+      "text": "2 horas",
+      "type": "TEMPORALIDAD",
+      "start": 274,
+      "end": 281
+    },
+    {
+      "text": "hemorragia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 451,
+      "end": 461
+    },
+    {
+      "text": "infarto establecido",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 883,
+      "end": 902
+    },
+    {
+      "text": "ASPECTS 9",
+      "type": "PUNTUACION_CLINICA",
+      "start": 904,
+      "end": 913
+    },
+    {
+      "text": "hipodensidad insular derecha",
+      "type": "PATOLOGIA",
+      "start": 920,
+      "end": 948
+    },
+    {
+      "text": "tiempo de tránsito medio (TTP)",
+      "type": "MEDIDA",
+      "start": 995,
+      "end": 1025
+    },
+    {
+      "text": "arteria cerebral posterior (ACP)",
+      "type": "ARTERIA",
+      "start": 1049,
+      "end": 1081
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 941,
+      "end": 948
+    },
+    {
+      "text": "flujo cerebral (CBF)",
+      "type": "MEDIDA",
+      "start": 1109,
+      "end": 1129
+    },
+    {
+      "text": "volumen cerebral (CBV)",
+      "type": "MEDIDA",
+      "start": 1132,
+      "end": 1154
+    },
+    {
+      "text": "mismatch significativa",
+      "type": "PATOLOGIA",
+      "start": 1221,
+      "end": 1243
+    },
+    {
+      "text": "Oclusión completa proximal",
+      "type": "PATOLOGIA",
+      "start": 1278,
+      "end": 1304
+    },
+    {
+      "text": "arteria cerebral posterior derecha",
+      "type": "ARTERIA",
+      "start": 1311,
+      "end": 1345
+    },
+    {
+      "text": "segmento P1",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1347,
+      "end": 1358
+    },
+    {
+      "text": "Resto de arterias intracraneales y extracraneales permeables",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1361,
+      "end": 1421
+    },
+    {
+      "text": "Sistema vertebrobasilar y carótidas sin alteraciones significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1452,
+      "end": 1519
+    },
+    {
+      "text": "Oclusión aguda proximal",
+      "type": "PATOLOGIA",
+      "start": 1545,
+      "end": 1568
+    },
+    {
+      "text": "arteria cerebral posterior derecha",
+      "type": "ARTERIA",
+      "start": 1311,
+      "end": 1345
+    },
+    {
+      "text": "áreas de isquemia en penumbra",
+      "type": "PATOLOGIA",
+      "start": 1611,
+      "end": 1640
+    },
+    {
+      "text": "estudio de perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 1658,
+      "end": 1687
+    },
+    {
+      "text": "infarto",
+      "type": "PATOLOGIA",
+      "start": 883,
+      "end": 890
+    },
+    {
+      "text": "RM cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 1907,
+      "end": 1918
+    }
+  ]
+}

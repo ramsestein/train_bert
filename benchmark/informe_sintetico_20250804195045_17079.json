@@ -1,0 +1,77 @@
+{
+  "document_id": "informe_sintetico_20250804195045_17079",
+  "entities": [
+    {
+      "text": "hematoma subdural agudo",
+      "type": "PATOLOGIA",
+      "start": 273,
+      "end": 296
+    },
+    {
+      "text": "región subdural hemisférica izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 537,
+      "end": 574
+    },
+    {
+      "text": "12 mm",
+      "type": "MEDIDA",
+      "start": 750,
+      "end": 755
+    },
+    {
+      "text": "7 mm",
+      "type": "MEDIDA",
+      "start": 879,
+      "end": 883
+    },
+    {
+      "text": "agudo",
+      "type": "TEMPORALIDAD",
+      "start": 291,
+      "end": 296
+    },
+    {
+      "text": "TC CRANEAL BASAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 483,
+      "end": 499
+    },
+    {
+      "text": "TC PERFUSIÓN",
+      "type": "TECNICA_IMAGEN",
+      "start": 984,
+      "end": 996
+    },
+    {
+      "text": "ANGIO-TC INTRACRANEAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 1272,
+      "end": 1293
+    },
+    {
+      "text": "No se aprecian fracturas óseas evidentes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 941,
+      "end": 981
+    },
+    {
+      "text": "sin evidencias de estenosis ni trombosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1338,
+      "end": 1378
+    },
+    {
+      "text": "sin signos de trombosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1418,
+      "end": 1441
+    },
+    {
+      "text": "sin infarto establecido",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1736,
+      "end": 1759
+    }
+  ]
+}

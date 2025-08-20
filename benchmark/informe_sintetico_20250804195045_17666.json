@@ -1,0 +1,59 @@
+{
+  "document_id": "informe_sintetico_20250804195045_17666",
+  "entities": [
+    {
+      "text": "infarto",
+      "type": "PATOLOGIA",
+      "start": 675,
+      "end": 682
+    },
+    {
+      "text": "bilateral",
+      "type": "LATERALIDAD",
+      "start": 455,
+      "end": 464
+    },
+    {
+      "text": "zonas watershed",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 686,
+      "end": 701
+    },
+    {
+      "text": "hipoperfusión",
+      "type": "PATOLOGIA",
+      "start": 1242,
+      "end": 1255
+    },
+    {
+      "text": "arterias cerebrales anteriores",
+      "type": "ARTERIA",
+      "start": 1763,
+      "end": 1793
+    },
+    {
+      "text": "arterias cerebrales medias",
+      "type": "ARTERIA",
+      "start": 618,
+      "end": 644
+    },
+    {
+      "text": "sin estenosis significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1874,
+      "end": 1902
+    },
+    {
+      "text": "hipoperfusión",
+      "type": "PATOLOGIA",
+      "start": 1242,
+      "end": 1255
+    },
+    {
+      "text": "territorio de frontera entre arterias cerebrales anteriores y medias",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1734,
+      "end": 1802
+    }
+  ]
+}

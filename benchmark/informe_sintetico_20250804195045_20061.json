@@ -1,0 +1,65 @@
+{
+  "document_id": "informe_sintetico_20250804195045_20061",
+  "entities": [
+    {
+      "text": "hematoma lobar de localización frontal izquierda",
+      "type": "PATOLOGIA",
+      "start": 557,
+      "end": 605
+    },
+    {
+      "text": "frontal izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 588,
+      "end": 605
+    },
+    {
+      "text": "35 x 25 x 20 mm",
+      "type": "MEDIDA",
+      "start": 632,
+      "end": 647
+    },
+    {
+      "text": "subagudo",
+      "type": "TEMPORALIDAD",
+      "start": 698,
+      "end": 706
+    },
+    {
+      "text": "4 mm",
+      "type": "MEDIDA",
+      "start": 796,
+      "end": 800
+    },
+    {
+      "text": "hemorragia intraventricular",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 829,
+      "end": 856
+    },
+    {
+      "text": "hemorragia subaracnoidea",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 860,
+      "end": 884
+    },
+    {
+      "text": "isquemia establecida",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1268,
+      "end": 1288
+    },
+    {
+      "text": "angiografía por TC",
+      "type": "TECNICA_IMAGEN",
+      "start": 452,
+      "end": 470
+    },
+    {
+      "text": "sin alteraciones vasculares significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1717,
+      "end": 1759
+    }
+  ]
+}

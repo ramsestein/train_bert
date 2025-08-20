@@ -1,0 +1,83 @@
+{
+  "document_id": "informe_sintetico_20250804195045_11054",
+  "entities": [
+    {
+      "text": "hematoma intraparenquimatoso",
+      "type": "PATOLOGIA",
+      "start": 431,
+      "end": 459
+    },
+    {
+      "text": "tálamo derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 466,
+      "end": 480
+    },
+    {
+      "text": "3,5 cm",
+      "type": "MEDIDA",
+      "start": 519,
+      "end": 525
+    },
+    {
+      "text": "sangrado agudo",
+      "type": "TEMPORALIDAD",
+      "start": 552,
+      "end": 566
+    },
+    {
+      "text": "sangre hacia el sistema ventricular lateral derecho",
+      "type": "PATOLOGIA",
+      "start": 590,
+      "end": 641
+    },
+    {
+      "text": "hidrocefalia incipiente",
+      "type": "PATOLOGIA",
+      "start": 777,
+      "end": 800
+    },
+    {
+      "text": "ventricular lateral derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 614,
+      "end": 641
+    },
+    {
+      "text": "hematoma talámico derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1128,
+      "end": 1153
+    },
+    {
+      "text": "signos de vasoespasmo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1470,
+      "end": 1491
+    },
+    {
+      "text": "sin estenosis ni oclusiones",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1336,
+      "end": 1363
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 267,
+      "end": 283
+    },
+    {
+      "text": "Perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 310,
+      "end": 328
+    },
+    {
+      "text": "Angio-TC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 331,
+      "end": 361
+    }
+  ]
+}

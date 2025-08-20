@@ -1,0 +1,125 @@
+{
+  "document_id": "informe_sintetico_20250804195045_10275",
+  "entities": [
+    {
+      "text": "hemorragia subaracnoidea difusa",
+      "type": "PATOLOGIA",
+      "start": 480,
+      "end": 511
+    },
+    {
+      "text": "cisternas supraselares",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 529,
+      "end": 551
+    },
+    {
+      "text": "cisternas basales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1684,
+      "end": 1701
+    },
+    {
+      "text": "convexidad cortical cerebral",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 563,
+      "end": 591
+    },
+    {
+      "text": "surcos corticales frontales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 622,
+      "end": 649
+    },
+    {
+      "text": "hemorragias intraventriculares",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 713,
+      "end": 743
+    },
+    {
+      "text": "edema cerebral",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 768,
+      "end": 782
+    },
+    {
+      "text": "herniación",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 796,
+      "end": 806
+    },
+    {
+      "text": "sangrado activo",
+      "type": "PATOLOGIA",
+      "start": 273,
+      "end": 288
+    },
+    {
+      "text": "aneurismas saculares",
+      "type": "PATOLOGIA",
+      "start": 1253,
+      "end": 1273
+    },
+    {
+      "text": "arteria comunicante anterior",
+      "type": "ARTERIA",
+      "start": 1288,
+      "end": 1316
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "ARTERIA",
+      "start": 1337,
+      "end": 1367
+    },
+    {
+      "text": "vasoespasmo arterial significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1416,
+      "end": 1450
+    },
+    {
+      "text": "estenosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1507,
+      "end": 1516
+    },
+    {
+      "text": "oclusiones arteriales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1520,
+      "end": 1541
+    },
+    {
+      "text": "isquemia cerebral",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1884,
+      "end": 1901
+    },
+    {
+      "text": "TC craneal no contrastado urgente",
+      "type": "TECNICA_IMAGEN",
+      "start": 336,
+      "end": 369
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 372,
+      "end": 393
+    },
+    {
+      "text": "Angio-TC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 396,
+      "end": 426
+    },
+    {
+      "text": "sangrado aneurismático",
+      "type": "PATOLOGIA",
+      "start": 1733,
+      "end": 1755
+    }
+  ]
+}

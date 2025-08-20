@@ -1,0 +1,95 @@
+{
+  "document_id": "informe_sintetico_20250804195045_13706",
+  "entities": [
+    {
+      "text": "ictus isquémico agudo",
+      "type": "PATOLOGIA",
+      "start": 312,
+      "end": 333
+    },
+    {
+      "text": "hemorragias intracraneales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 531,
+      "end": 557
+    },
+    {
+      "text": "lesiones ocupantes de espacio",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 561,
+      "end": 590
+    },
+    {
+      "text": "ASPECTS 9",
+      "type": "PUNTUACION_CLINICA",
+      "start": 639,
+      "end": 648
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "ARTERIA",
+      "start": 779,
+      "end": 809
+    },
+    {
+      "text": "M2/M3",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 831,
+      "end": 836
+    },
+    {
+      "text": "tiempo de tránsito medio (TTP)",
+      "type": "MEDIDA",
+      "start": 864,
+      "end": 894
+    },
+    {
+      "text": "tiempo de retraso (TTD)",
+      "type": "MEDIDA",
+      "start": 897,
+      "end": 920
+    },
+    {
+      "text": "flujo cerebral sanguíneo (CBF)",
+      "type": "MEDIDA",
+      "start": 948,
+      "end": 978
+    },
+    {
+      "text": "volumen cerebral sanguíneo (CBV)",
+      "type": "MEDIDA",
+      "start": 981,
+      "end": 1013
+    },
+    {
+      "text": "penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1041,
+      "end": 1059
+    },
+    {
+      "text": "Oclusión focal en rama distal M2 de arteria cerebral media derecha",
+      "type": "PATOLOGIA",
+      "start": 1089,
+      "end": 1155
+    },
+    {
+      "text": "ASPECTS 9",
+      "type": "PUNTUACION_CLINICA",
+      "start": 639,
+      "end": 648
+    },
+    {
+      "text": "sin infarto establecido",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1435,
+      "end": 1458
+    },
+    {
+      "text": "hemorragia intracraneal asociada",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1462,
+      "end": 1494
+    }
+  ]
+}

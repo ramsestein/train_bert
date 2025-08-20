@@ -1,0 +1,137 @@
+{
+  "document_id": "informe_sintetico_20250804195045_13802",
+  "entities": [
+    {
+      "text": "hemiparesia bilateral",
+      "type": "PATOLOGIA",
+      "start": 233,
+      "end": 254
+    },
+    {
+      "text": "ictus",
+      "type": "PATOLOGIA",
+      "start": 276,
+      "end": 281
+    },
+    {
+      "text": "edema isquémico precoz",
+      "type": "PATOLOGIA",
+      "start": 716,
+      "end": 738
+    },
+    {
+      "text": "infarto establecido",
+      "type": "PATOLOGIA",
+      "start": 775,
+      "end": 794
+    },
+    {
+      "text": "hipoperfusión significativa",
+      "type": "PATOLOGIA",
+      "start": 1229,
+      "end": 1256
+    },
+    {
+      "text": "arteria basilar",
+      "type": "ARTERIA",
+      "start": 1374,
+      "end": 1389
+    },
+    {
+      "text": "arterias vertebrales",
+      "type": "ARTERIA",
+      "start": 469,
+      "end": 489
+    },
+    {
+      "text": "completa",
+      "type": "LATERALIDAD",
+      "start": 1329,
+      "end": 1337
+    },
+    {
+      "text": "bilateral",
+      "type": "LATERALIDAD",
+      "start": 245,
+      "end": 254
+    },
+    {
+      "text": "prolongación del tiempo de tránsito medio (TTP)",
+      "type": "MEDIDA",
+      "start": 978,
+      "end": 1025
+    },
+    {
+      "text": "disminución de la velocidad de flujo cerebral (CBF)",
+      "type": "MEDIDA",
+      "start": 1036,
+      "end": 1087
+    },
+    {
+      "text": "descenso del volumen de sangre cerebral (CBV)",
+      "type": "MEDIDA",
+      "start": 1149,
+      "end": 1194
+    },
+    {
+      "text": "subagudo",
+      "type": "TEMPORALIDAD",
+      "start": 1883,
+      "end": 1891
+    },
+    {
+      "text": "aguda",
+      "type": "TEMPORALIDAD",
+      "start": 2239,
+      "end": 2244
+    },
+    {
+      "text": "No se evidencian hemorragias intra ni extraaxiales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 540,
+      "end": 590
+    },
+    {
+      "text": "No se identifican signos claros de infarto establecido",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 740,
+      "end": 794
+    },
+    {
+      "text": "No hay desplazamiento de la línea media",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 843,
+      "end": 882
+    },
+    {
+      "text": "No se visualiza circulación colateral adecuada",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1494,
+      "end": 1540
+    },
+    {
+      "text": "sin estenosis significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1655,
+      "end": 1682
+    },
+    {
+      "text": "TC craneal basal sin contraste",
+      "type": "TECNICA_IMAGEN",
+      "start": 356,
+      "end": 386
+    },
+    {
+      "text": "estudio de perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 388,
+      "end": 417
+    },
+    {
+      "text": "AngioTC arterial extra e intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 420,
+      "end": 457
+    }
+  ]
+}

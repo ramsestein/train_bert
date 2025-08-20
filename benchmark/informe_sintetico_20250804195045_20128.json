@@ -1,0 +1,71 @@
+{
+  "document_id": "informe_sintetico_20250804195045_20128",
+  "entities": [
+    {
+      "text": "hematoma intraparenquimatoso lobar de localización parietal izquierda",
+      "type": "PATOLOGIA",
+      "start": 507,
+      "end": 576
+    },
+    {
+      "text": "parietal izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 558,
+      "end": 576
+    },
+    {
+      "text": "12 ml",
+      "type": "MEDIDA",
+      "start": 607,
+      "end": 612
+    },
+    {
+      "text": "3 mm",
+      "type": "MEDIDA",
+      "start": 751,
+      "end": 755
+    },
+    {
+      "text": "hipoperfusión leve en región parietal izquierda",
+      "type": "PATOLOGIA",
+      "start": 918,
+      "end": 965
+    },
+    {
+      "text": "parietal izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 558,
+      "end": 576
+    },
+    {
+      "text": "arterias carótidas internas, cerebrales medias, anteriores y posteriores",
+      "type": "ARTERIA",
+      "start": 1241,
+      "end": 1313
+    },
+    {
+      "text": "izquierdo",
+      "type": "LATERALIDAD",
+      "start": 1488,
+      "end": 1497
+    },
+    {
+      "text": "sin signos de sangrado intraventricular",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 855,
+      "end": 894
+    },
+    {
+      "text": "sin evidencia de alteración significativa en los mapas de flujo cerebral (CBF), volumen cerebral (CBV) o tiempo de tránsito (TTP)",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 989,
+      "end": 1118
+    },
+    {
+      "text": "sin hallazgos de aneurismas ni malformaciones vasculares",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1330,
+      "end": 1386
+    }
+  ]
+}

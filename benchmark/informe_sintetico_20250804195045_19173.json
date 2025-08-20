@@ -1,0 +1,107 @@
+{
+  "document_id": "informe_sintetico_20250804195045_19173",
+  "entities": [
+    {
+      "text": "edema cerebral difuso",
+      "type": "PATOLOGIA",
+      "start": 406,
+      "end": 427
+    },
+    {
+      "text": "pérdida de la diferenciación cortico-subcortical",
+      "type": "PATOLOGIA",
+      "start": 432,
+      "end": 480
+    },
+    {
+      "text": "territorios frontoparietales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 519,
+      "end": 547
+    },
+    {
+      "text": "disminución del volumen ventricular",
+      "type": "PATOLOGIA",
+      "start": 565,
+      "end": 600
+    },
+    {
+      "text": "borramiento parcial de las cisternas basales y peritronculares",
+      "type": "PATOLOGIA",
+      "start": 605,
+      "end": 667
+    },
+    {
+      "text": "edema cerebral global",
+      "type": "PATOLOGIA",
+      "start": 683,
+      "end": 704
+    },
+    {
+      "text": "reducción difusa del flujo cerebral (CBF)",
+      "type": "PATOLOGIA",
+      "start": 747,
+      "end": 788
+    },
+    {
+      "text": "prolongación marcada de los tiempos de tránsito (TTP y Tmax)",
+      "type": "PATOLOGIA",
+      "start": 823,
+      "end": 883
+    },
+    {
+      "text": "hipoperfusión global",
+      "type": "PATOLOGIA",
+      "start": 900,
+      "end": 920
+    },
+    {
+      "text": "áreas focales de perfusión compatible con área isquémica focal o infarto reciente",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 940,
+      "end": 1021
+    },
+    {
+      "text": "permeabilidad mantenida de los principales vasos intracraneales",
+      "type": "PATOLOGIA",
+      "start": 1048,
+      "end": 1111
+    },
+    {
+      "text": "arterias cerebrales anteriores, medias, y posteriores",
+      "type": "ARTERIA",
+      "start": 1124,
+      "end": 1177
+    },
+    {
+      "text": "sin estenosis ni trombosis visibles",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1179,
+      "end": 1214
+    },
+    {
+      "text": "signos de sangrado agudo intra ni extraaxial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1223,
+      "end": 1267
+    },
+    {
+      "text": "Vías arteriales intracraneales permeables sin signos de oclusión",
+      "type": "PATOLOGIA",
+      "start": 1514,
+      "end": 1578
+    },
+    {
+      "text": "seguimiento clínico y control neuroimagen en 48-72 horas",
+      "type": "TEMPORALIDAD",
+      "start": 1629,
+      "end": 1685
+    },
+    {
+      "text": "TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANGIOTC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 1798,
+      "end": 1865
+    }
+  ]
+}

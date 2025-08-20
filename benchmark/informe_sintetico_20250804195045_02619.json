@@ -1,0 +1,221 @@
+{
+  "document_id": "informe_sintetico_20250804195045_02619",
+  "entities": [
+    {
+      "text": "ictus isquémico",
+      "type": "PATOLOGIA",
+      "start": 179,
+      "end": 194
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 215,
+      "end": 247
+    },
+    {
+      "text": "deterioro neurológico progresivo",
+      "type": "PATOLOGIA",
+      "start": 253,
+      "end": 285
+    },
+    {
+      "text": "transformación hemorrágica",
+      "type": "PATOLOGIA",
+      "start": 300,
+      "end": 326
+    },
+    {
+      "text": "TC CRANEAL BASAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 347,
+      "end": 363
+    },
+    {
+      "text": "área hipodensa",
+      "type": "PATOLOGIA",
+      "start": 480,
+      "end": 494
+    },
+    {
+      "text": "región frontoinsular izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 501,
+      "end": 531
+    },
+    {
+      "text": "infarto cerebral reciente",
+      "type": "PATOLOGIA",
+      "start": 547,
+      "end": 572
+    },
+    {
+      "text": "arteria cerebral media",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 215,
+      "end": 237
+    },
+    {
+      "text": "ASPECTS 6",
+      "type": "PUNTUACION_CLINICA",
+      "start": 617,
+      "end": 626
+    },
+    {
+      "text": "focos hemorrágicos puntiformes hiperdensos",
+      "type": "PATOLOGIA",
+      "start": 644,
+      "end": 686
+    },
+    {
+      "text": "zona infartada",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 693,
+      "end": 707
+    },
+    {
+      "text": "transformación hemorrágica tipo HI1",
+      "type": "PATOLOGIA",
+      "start": 728,
+      "end": 763
+    },
+    {
+      "text": "sin efecto de masa significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 765,
+      "end": 797
+    },
+    {
+      "text": "Sistema ventricular de morfología y tamaño conservados",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 837,
+      "end": 891
+    },
+    {
+      "text": "Cisternas basales libres",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 895,
+      "end": 919
+    },
+    {
+      "text": "TC PERFUSIÓN",
+      "type": "TECNICA_IMAGEN",
+      "start": 366,
+      "end": 378
+    },
+    {
+      "text": "Disminución del flujo sanguíneo cerebral",
+      "type": "PATOLOGIA",
+      "start": 940,
+      "end": 980
+    },
+    {
+      "text": "aumento del tiempo de tránsito medio",
+      "type": "PATOLOGIA",
+      "start": 983,
+      "end": 1019
+    },
+    {
+      "text": "territorio MCA izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1023,
+      "end": 1047
+    },
+    {
+      "text": "área isquémica",
+      "type": "PATOLOGIA",
+      "start": 1065,
+      "end": 1079
+    },
+    {
+      "text": "No se observan áreas de penumbra significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1081,
+      "end": 1127
+    },
+    {
+      "text": "ANGIO-TC INTRA Y EXTRACRANEAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 1132,
+      "end": 1161
+    },
+    {
+      "text": "Oclusión completa distal en ramo M2",
+      "type": "PATOLOGIA",
+      "start": 1165,
+      "end": 1200
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 215,
+      "end": 247
+    },
+    {
+      "text": "Resto de arterias cerebrales intracraneales permeables",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1243,
+      "end": 1297
+    },
+    {
+      "text": "sin estenosis significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1299,
+      "end": 1326
+    },
+    {
+      "text": "Ateromatosis leve en troncos supraórticos",
+      "type": "PATOLOGIA",
+      "start": 1330,
+      "end": 1371
+    },
+    {
+      "text": "sin estenosis de relevancia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1372,
+      "end": 1399
+    },
+    {
+      "text": "Sistema vertebrobasilar permeable",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1403,
+      "end": 1436
+    },
+    {
+      "text": "Infarto cerebral reciente en territorio de la arteria cerebral media izquierda",
+      "type": "PATOLOGIA",
+      "start": 1465,
+      "end": 1543
+    },
+    {
+      "text": "ASPECTS 6",
+      "type": "PUNTUACION_CLINICA",
+      "start": 617,
+      "end": 626
+    },
+    {
+      "text": "transformación hemorrágica focal tipo HI1",
+      "type": "PATOLOGIA",
+      "start": 1560,
+      "end": 1601
+    },
+    {
+      "text": "sin efecto de masa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 765,
+      "end": 783
+    },
+    {
+      "text": "Oclusión distal en ramo M2 de ACM izquierda",
+      "type": "PATOLOGIA",
+      "start": 1658,
+      "end": 1701
+    },
+    {
+      "text": "Alteración perfusional concordante con el territorio afectado",
+      "type": "PATOLOGIA",
+      "start": 1705,
+      "end": 1766
+    }
+  ]
+}

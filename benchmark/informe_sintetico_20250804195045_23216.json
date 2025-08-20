@@ -1,0 +1,95 @@
+{
+  "document_id": "informe_sintetico_20250804195045_23216",
+  "entities": [
+    {
+      "text": "contusión hemorrágica",
+      "type": "PATOLOGIA",
+      "start": 251,
+      "end": 272
+    },
+    {
+      "text": "lóbulo frontal derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 479,
+      "end": 501
+    },
+    {
+      "text": "1.5 x 1.2 x 1.0 cm",
+      "type": "MEDIDA",
+      "start": 540,
+      "end": 558
+    },
+    {
+      "text": "edema circundante",
+      "type": "PATOLOGIA",
+      "start": 630,
+      "end": 647
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 1056,
+      "end": 1063
+    },
+    {
+      "text": "disminución focal de la perfusión",
+      "type": "PATOLOGIA",
+      "start": 1001,
+      "end": 1034
+    },
+    {
+      "text": "región frontal derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1041,
+      "end": 1063
+    },
+    {
+      "text": "isquemia secundaria",
+      "type": "PATOLOGIA",
+      "start": 1190,
+      "end": 1209
+    },
+    {
+      "text": "sin evidencia de estenosis, oclusiones o malformaciones vasculares",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1277,
+      "end": 1343
+    },
+    {
+      "text": "sin alteraciones angiográficas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1665,
+      "end": 1695
+    },
+    {
+      "text": "sin efecto de masa ni desplazamiento de línea media",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1511,
+      "end": 1562
+    },
+    {
+      "text": "sin hipertensión intracraneal evidente",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1972,
+      "end": 2010
+    },
+    {
+      "text": "TC craneal basal urgente",
+      "type": "TECNICA_IMAGEN",
+      "start": 293,
+      "end": 317
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 320,
+      "end": 341
+    },
+    {
+      "text": "Angio-TC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 344,
+      "end": 374
+    }
+  ]
+}

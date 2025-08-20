@@ -1,0 +1,77 @@
+{
+  "document_id": "informe_sintetico_20250804195045_10037",
+  "entities": [
+    {
+      "text": "isquemia",
+      "type": "PATOLOGIA",
+      "start": 1587,
+      "end": 1595
+    },
+    {
+      "text": "territorio cerebral medio",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 271,
+      "end": 296
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "ARTERIA",
+      "start": 940,
+      "end": 970
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 712,
+      "end": 719
+    },
+    {
+      "text": "2 horas",
+      "type": "TEMPORALIDAD",
+      "start": 227,
+      "end": 234
+    },
+    {
+      "text": "ASPECTS 9",
+      "type": "PUNTUACION_CLINICA",
+      "start": 659,
+      "end": 668
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 317,
+      "end": 333
+    },
+    {
+      "text": "No se observan hemorragias",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 521,
+      "end": 547
+    },
+    {
+      "text": "Oclusión parcial en rama distal M2 de la arteria cerebral media derecha",
+      "type": "PATOLOGIA",
+      "start": 1221,
+      "end": 1292
+    },
+    {
+      "text": "M2",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1030,
+      "end": 1032
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 712,
+      "end": 719
+    },
+    {
+      "text": "Sin hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2227,
+      "end": 2254
+    }
+  ]
+}

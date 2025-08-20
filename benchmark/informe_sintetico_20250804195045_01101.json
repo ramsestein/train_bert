@@ -1,0 +1,107 @@
+{
+  "document_id": "informe_sintetico_20250804195045_01101",
+  "entities": [
+    {
+      "text": "infarto isquémico",
+      "type": "PATOLOGIA",
+      "start": 679,
+      "end": 696
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 552,
+      "end": 584
+    },
+    {
+      "text": "ASPECTS 5",
+      "type": "PUNTUACION_CLINICA",
+      "start": 652,
+      "end": 661
+    },
+    {
+      "text": "5 mm",
+      "type": "MEDIDA",
+      "start": 820,
+      "end": 824
+    },
+    {
+      "text": "hemisferio izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1112,
+      "end": 1132
+    },
+    {
+      "text": "tiempo medio de tránsito (MTT)",
+      "type": "MEDIDA",
+      "start": 1169,
+      "end": 1199
+    },
+    {
+      "text": "isquemia extensa",
+      "type": "PATOLOGIA",
+      "start": 1222,
+      "end": 1238
+    },
+    {
+      "text": "Oclusión completa de la arteria carótida interna izquierda",
+      "type": "PATOLOGIA",
+      "start": 1323,
+      "end": 1381
+    },
+    {
+      "text": "arteria carótida interna izquierda",
+      "type": "ARTERIA",
+      "start": 1347,
+      "end": 1381
+    },
+    {
+      "text": "segmento cervical",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1388,
+      "end": 1405
+    },
+    {
+      "text": "arteria cerebral media ipsilateral (segmento M1)",
+      "type": "ARTERIA",
+      "start": 1440,
+      "end": 1488
+    },
+    {
+      "text": "infarto isquémico extenso",
+      "type": "PATOLOGIA",
+      "start": 1825,
+      "end": 1850
+    },
+    {
+      "text": "ASPECTS 5",
+      "type": "PUNTUACION_CLINICA",
+      "start": 652,
+      "end": 661
+    },
+    {
+      "text": "zona de penumbra significativa",
+      "type": "PATOLOGIA",
+      "start": 2009,
+      "end": 2039
+    },
+    {
+      "text": "TC craneal basal sin contraste",
+      "type": "TECNICA_IMAGEN",
+      "start": 306,
+      "end": 336
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 338,
+      "end": 359
+    },
+    {
+      "text": "angiotomografía cerebral intra y extracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 363,
+      "end": 408
+    }
+  ]
+}

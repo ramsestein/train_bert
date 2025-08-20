@@ -1,0 +1,253 @@
+{
+  "document_id": "informe_sintetico_20250804195045_09972",
+  "entities": [
+    {
+      "text": "ataxia",
+      "type": "PATOLOGIA",
+      "start": 196,
+      "end": 202
+    },
+    {
+      "text": "disartria",
+      "type": "PATOLOGIA",
+      "start": 204,
+      "end": 213
+    },
+    {
+      "text": "debilidad distal bilateral",
+      "type": "PATOLOGIA",
+      "start": 216,
+      "end": 242
+    },
+    {
+      "text": "mareo",
+      "type": "PATOLOGIA",
+      "start": 254,
+      "end": 259
+    },
+    {
+      "text": "diplopía",
+      "type": "PATOLOGIA",
+      "start": 262,
+      "end": 270
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 284,
+      "end": 298
+    },
+    {
+      "text": "territorio vertebrobasilar",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 302,
+      "end": 328
+    },
+    {
+      "text": "TC craneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 379,
+      "end": 389
+    },
+    {
+      "text": "contraste intravenoso",
+      "type": "TECNICA_IMAGEN",
+      "start": 439,
+      "end": 460
+    },
+    {
+      "text": "Angio-TC intra y extracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 463,
+      "end": 492
+    },
+    {
+      "text": "hemorragias intra ni extraaxiales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 606,
+      "end": 639
+    },
+    {
+      "text": "signos de edema o infarto",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 718,
+      "end": 743
+    },
+    {
+      "text": "Línea media centrada",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 801,
+      "end": 821
+    },
+    {
+      "text": "retraso significativo",
+      "type": "PATOLOGIA",
+      "start": 953,
+      "end": 974
+    },
+    {
+      "text": "territorio cerebeloso bilateral",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1010,
+      "end": 1041
+    },
+    {
+      "text": "tallo cerebral",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1044,
+      "end": 1058
+    },
+    {
+      "text": "caída moderada",
+      "type": "PATOLOGIA",
+      "start": 1064,
+      "end": 1078
+    },
+    {
+      "text": "volumen cerebral de sangre (CBV)",
+      "type": "MEDIDA",
+      "start": 1085,
+      "end": 1117
+    },
+    {
+      "text": "flujo cerebral de sangre (CBF)",
+      "type": "MEDIDA",
+      "start": 1120,
+      "end": 1150
+    },
+    {
+      "text": "aumento del tiempo de tránsito medio (MTT)",
+      "type": "MEDIDA",
+      "start": 1200,
+      "end": 1242
+    },
+    {
+      "text": "área de penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1257,
+      "end": 1283
+    },
+    {
+      "text": "oclusión parcial o estenosis severa (>70%)",
+      "type": "PATOLOGIA",
+      "start": 1371,
+      "end": 1413
+    },
+    {
+      "text": "segmento proximal de la arteria basilar",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1420,
+      "end": 1459
+    },
+    {
+      "text": "flujo colateral limitado",
+      "type": "PATOLOGIA",
+      "start": 1465,
+      "end": 1489
+    },
+    {
+      "text": "arterias vertebrales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1495,
+      "end": 1515
+    },
+    {
+      "text": "calibre disminuido",
+      "type": "PATOLOGIA",
+      "start": 1526,
+      "end": 1544
+    },
+    {
+      "text": "segmento V4 derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1548,
+      "end": 1567
+    },
+    {
+      "text": "ateromatosis significativa",
+      "type": "PATOLOGIA",
+      "start": 1584,
+      "end": 1610
+    },
+    {
+      "text": "aneurismas ni disecciones visibles",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1629,
+      "end": 1663
+    },
+    {
+      "text": "Arco aórtico y troncos supraórticos",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1665,
+      "end": 1700
+    },
+    {
+      "text": "lesiones significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1705,
+      "end": 1728
+    },
+    {
+      "text": "vasos cerebrales anteriores (ACAs, ACMs)",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1748,
+      "end": 1788
+    },
+    {
+      "text": "permeables sin alteraciones",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1793,
+      "end": 1820
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 284,
+      "end": 298
+    },
+    {
+      "text": "hallazgos compatibles con área en riesgo isquémico",
+      "type": "PATOLOGIA",
+      "start": 1970,
+      "end": 2020
+    },
+    {
+      "text": "cerebelo y tronco cerebral",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 2024,
+      "end": 2050
+    },
+    {
+      "text": "estenosis severa en arteria basilar",
+      "type": "PATOLOGIA",
+      "start": 2069,
+      "end": 2104
+    },
+    {
+      "text": "afectación de arteria vertebral derecha",
+      "type": "PATOLOGIA",
+      "start": 2109,
+      "end": 2148
+    },
+    {
+      "text": "valoración urgente",
+      "type": "TEMPORALIDAD",
+      "start": 2169,
+      "end": 2187
+    },
+    {
+      "text": "neurointervencionismo",
+      "type": "PATOLOGIA",
+      "start": 2192,
+      "end": 2213
+    },
+    {
+      "text": "manejo en unidad de ictus",
+      "type": "PATOLOGIA",
+      "start": 2216,
+      "end": 2241
+    }
+  ],
+  "regenerado": true,
+  "fecha_regeneracion": "2025-08-06T14:14:10.117174"
+}

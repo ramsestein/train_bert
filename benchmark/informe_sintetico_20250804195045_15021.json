@@ -1,0 +1,101 @@
+{
+  "document_id": "informe_sintetico_20250804195045_15021",
+  "entities": [
+    {
+      "text": "hematoma subdural agudo",
+      "type": "PATOLOGIA",
+      "start": 320,
+      "end": 343
+    },
+    {
+      "text": "hemicráneo derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 526,
+      "end": 544
+    },
+    {
+      "text": "región frontoparietal",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 569,
+      "end": 590
+    },
+    {
+      "text": "región temporooccipital",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 600,
+      "end": 623
+    },
+    {
+      "text": "12 mm",
+      "type": "MEDIDA",
+      "start": 650,
+      "end": 655
+    },
+    {
+      "text": "6 mm",
+      "type": "MEDIDA",
+      "start": 799,
+      "end": 803
+    },
+    {
+      "text": "izquierdo",
+      "type": "LATERALIDAD",
+      "start": 968,
+      "end": 977
+    },
+    {
+      "text": "sin evidencia de territorio isquémico extenso",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1275,
+      "end": 1320
+    },
+    {
+      "text": "sin evidencia de estenosis ni oclusión",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1423,
+      "end": 1461
+    },
+    {
+      "text": "efecto masa",
+      "type": "PATOLOGIA",
+      "start": 858,
+      "end": 869
+    },
+    {
+      "text": "TC CÓDIGO ICTUS",
+      "type": "TECNICA_IMAGEN",
+      "start": 364,
+      "end": 379
+    },
+    {
+      "text": "PERFUSIÓN CEREBRAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 389,
+      "end": 407
+    },
+    {
+      "text": "ANGIOTC TSA E INTRACRANEAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 410,
+      "end": 436
+    },
+    {
+      "text": "TC CRANEAL BASAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 460,
+      "end": 476
+    },
+    {
+      "text": "TC PERFUSIÓN",
+      "type": "TECNICA_IMAGEN",
+      "start": 1054,
+      "end": 1066
+    },
+    {
+      "text": "ANGIO-TC EXTRA E INTRACRANEAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 1358,
+      "end": 1387
+    }
+  ]
+}

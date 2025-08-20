@@ -1,0 +1,35 @@
+{
+  "document_id": "0000000010000000059513492_cleaned",
+  "entities": [
+    {
+      "text": "ictus",
+      "type": "PATOLOGIA",
+      "start": 241,
+      "end": 246
+    },
+    {
+      "text": "TC CRANEAL URGENTE",
+      "type": "TECNICA_IMAGEN",
+      "start": 353,
+      "end": 371
+    },
+    {
+      "text": "ADQUISICIÓN CON ENERGÍA DUAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 373,
+      "end": 401
+    },
+    {
+      "text": "No se observan hiperdensidades basales sugestivas de extravasación de contraste o hemorragia intracraneal.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 422,
+      "end": 528
+    },
+    {
+      "text": "sin evidencia de patología intracraneal aguda de nueva aparición",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 662,
+      "end": 726
+    }
+  ]
+}

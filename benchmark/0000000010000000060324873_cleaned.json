@@ -1,0 +1,47 @@
+{
+  "document_id": "0000000010000000060324873_cleaned",
+  "entities": [
+    {
+      "text": "hemorragia intra ni extraaxial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 335,
+      "end": 365
+    },
+    {
+      "text": "alteraciones densitométricas agudas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 391,
+      "end": 426
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 475,
+      "end": 485
+    },
+    {
+      "text": "arterias vertebrales",
+      "type": "ARTERIA",
+      "start": 1091,
+      "end": 1111
+    },
+    {
+      "text": "ACIs",
+      "type": "ARTERIA",
+      "start": 1071,
+      "end": 1075
+    },
+    {
+      "text": "ACAs, ACMs y ACPs",
+      "type": "ARTERIA",
+      "start": 1212,
+      "end": 1229
+    },
+    {
+      "text": "sin hallazgos patológicos agudos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1404,
+      "end": 1436
+    }
+  ]
+}

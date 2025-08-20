@@ -1,0 +1,215 @@
+{
+  "document_id": "informe_sintetico_20250804195045_24125",
+  "entities": [
+    {
+      "text": "infarto cerebral reciente",
+      "type": "PATOLOGIA",
+      "start": 179,
+      "end": 204
+    },
+    {
+      "text": "deterioro neurológico agudo",
+      "type": "PATOLOGIA",
+      "start": 207,
+      "end": 234
+    },
+    {
+      "text": "complicación hemorrágica",
+      "type": "PATOLOGIA",
+      "start": 248,
+      "end": 272
+    },
+    {
+      "text": "extensa área hipodensa",
+      "type": "PATOLOGIA",
+      "start": 514,
+      "end": 536
+    },
+    {
+      "text": "infarto isquémico en evolución",
+      "type": "PATOLOGIA",
+      "start": 623,
+      "end": 653
+    },
+    {
+      "text": "focos hiperdensos heterogéneos",
+      "type": "PATOLOGIA",
+      "start": 668,
+      "end": 698
+    },
+    {
+      "text": "transformación hemorrágica tipo PH2",
+      "type": "PATOLOGIA",
+      "start": 792,
+      "end": 827
+    },
+    {
+      "text": "efecto de masa",
+      "type": "PATOLOGIA",
+      "start": 865,
+      "end": 879
+    },
+    {
+      "text": "desviación de la línea media",
+      "type": "PATOLOGIA",
+      "start": 884,
+      "end": 912
+    },
+    {
+      "text": "4 mm",
+      "type": "MEDIDA",
+      "start": 951,
+      "end": 955
+    },
+    {
+      "text": "No se identifican hemorragias subaracnoideas ni hematomas extraaxiales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 957,
+      "end": 1027
+    },
+    {
+      "text": "signos iniciales de compresión del ventrículo lateral derecho",
+      "type": "PATOLOGIA",
+      "start": 1088,
+      "end": 1149
+    },
+    {
+      "text": "Derrame significativo",
+      "type": "PATOLOGIA",
+      "start": 1217,
+      "end": 1238
+    },
+    {
+      "text": "disminución marcada del volumen cerebral",
+      "type": "PATOLOGIA",
+      "start": 1263,
+      "end": 1303
+    },
+    {
+      "text": "aumento del tiempo de tránsito medio",
+      "type": "PATOLOGIA",
+      "start": 1342,
+      "end": 1378
+    },
+    {
+      "text": "retraso en el tiempo hasta el pico",
+      "type": "PATOLOGIA",
+      "start": 1387,
+      "end": 1421
+    },
+    {
+      "text": "territorio de ACM derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1431,
+      "end": 1456
+    },
+    {
+      "text": "Oclusión completa en segmento M1 distal de la ACM derecha",
+      "type": "PATOLOGIA",
+      "start": 1568,
+      "end": 1625
+    },
+    {
+      "text": "sin repermeabilización distal",
+      "type": "PATOLOGIA",
+      "start": 1626,
+      "end": 1655
+    },
+    {
+      "text": "Ateromatosis moderada",
+      "type": "PATOLOGIA",
+      "start": 1740,
+      "end": 1761
+    },
+    {
+      "text": "Sistema vertebrobasilar permeable",
+      "type": "PATOLOGIA",
+      "start": 1784,
+      "end": 1817
+    },
+    {
+      "text": "sin hallazgos relevantes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1818,
+      "end": 1842
+    },
+    {
+      "text": "Hemorragia intracerebral de tipo transformación hemorrágica PH2",
+      "type": "PATOLOGIA",
+      "start": 1867,
+      "end": 1930
+    },
+    {
+      "text": "territorio de la ACM derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1937,
+      "end": 1965
+    },
+    {
+      "text": "infarto extenso",
+      "type": "PATOLOGIA",
+      "start": 1972,
+      "end": 1987
+    },
+    {
+      "text": "Leve efecto de masa",
+      "type": "PATOLOGIA",
+      "start": 1989,
+      "end": 2008
+    },
+    {
+      "text": "desviación de línea media",
+      "type": "PATOLOGIA",
+      "start": 2013,
+      "end": 2038
+    },
+    {
+      "text": "Oclusión persistente de M1 derecha",
+      "type": "PATOLOGIA",
+      "start": 2040,
+      "end": 2074
+    },
+    {
+      "text": "sin reperfusión distal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2075,
+      "end": 2097
+    },
+    {
+      "text": "Edema cerebral significativo",
+      "type": "PATOLOGIA",
+      "start": 2099,
+      "end": 2127
+    },
+    {
+      "text": "Hallazgos compatibles con complicación hemorrágica grave del infarto cerebral",
+      "type": "PATOLOGIA",
+      "start": 2129,
+      "end": 2206
+    },
+    {
+      "text": "TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANG IOTC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 72,
+      "end": 140
+    },
+    {
+      "text": "TC craneal basal urgente",
+      "type": "TECNICA_IMAGEN",
+      "start": 292,
+      "end": 316
+    },
+    {
+      "text": "imágenes de perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 336,
+      "end": 366
+    },
+    {
+      "text": "angio-TC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 369,
+      "end": 399
+    }
+  ]
+}

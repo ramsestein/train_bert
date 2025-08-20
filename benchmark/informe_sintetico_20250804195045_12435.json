@@ -1,0 +1,83 @@
+{
+  "document_id": "informe_sintetico_20250804195045_12435",
+  "entities": [
+    {
+      "text": "hematoma",
+      "type": "PATOLOGIA",
+      "start": 311,
+      "end": 319
+    },
+    {
+      "text": "lobar parietal izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 540,
+      "end": 564
+    },
+    {
+      "text": "35 x 20 mm",
+      "type": "MEDIDA",
+      "start": 584,
+      "end": 594
+    },
+    {
+      "text": "sangrado agudo",
+      "type": "TEMPORALIDAD",
+      "start": 637,
+      "end": 651
+    },
+    {
+      "text": "edema vasogénico perifocal moderado",
+      "type": "PATOLOGIA",
+      "start": 664,
+      "end": 699
+    },
+    {
+      "text": "3 mm",
+      "type": "MEDIDA",
+      "start": 752,
+      "end": 756
+    },
+    {
+      "text": "No hay evidencia de hemorragia intraventricular",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 775,
+      "end": 822
+    },
+    {
+      "text": "No hay signos radiológicos de vasoespasmo ni trombosis arterial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1395,
+      "end": 1458
+    },
+    {
+      "text": "Hematoma lobar parietal izquierdo",
+      "type": "PATOLOGIA",
+      "start": 1483,
+      "end": 1516
+    },
+    {
+      "text": "edema perifocal",
+      "type": "PATOLOGIA",
+      "start": 1540,
+      "end": 1555
+    },
+    {
+      "text": "sin complicaciones intraventriculares ni subaracnoideas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1579,
+      "end": 1634
+    },
+    {
+      "text": "sin isquemia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1775,
+      "end": 1787
+    },
+    {
+      "text": "ACA, ACM, ACP",
+      "type": "ARTERIA",
+      "start": 1333,
+      "end": 1346
+    }
+  ]
+}

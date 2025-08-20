@@ -1,0 +1,47 @@
+{
+  "document_id": "informe_sintetico_20250804195045_07076",
+  "entities": [
+    {
+      "text": "hematoma lobar frontal izquierdo",
+      "type": "PATOLOGIA",
+      "start": 499,
+      "end": 531
+    },
+    {
+      "text": "frontal izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 514,
+      "end": 531
+    },
+    {
+      "text": "5 x 4 x 3 cm",
+      "type": "MEDIDA",
+      "start": 587,
+      "end": 599
+    },
+    {
+      "text": "6 mm",
+      "type": "MEDIDA",
+      "start": 724,
+      "end": 728
+    },
+    {
+      "text": "hiperagudo",
+      "type": "TEMPORALIDAD",
+      "start": 543,
+      "end": 553
+    },
+    {
+      "text": "no muestra signos de estenosis ni malformaciones vasculares",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 974,
+      "end": 1033
+    },
+    {
+      "text": "sin extensión a territorios distales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1205,
+      "end": 1241
+    }
+  ]
+}

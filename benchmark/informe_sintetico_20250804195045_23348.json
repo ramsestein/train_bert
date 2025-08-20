@@ -1,0 +1,95 @@
+{
+  "document_id": "informe_sintetico_20250804195045_23348",
+  "entities": [
+    {
+      "text": "hemorragia subaracnoidea focal",
+      "type": "PATOLOGIA",
+      "start": 178,
+      "end": 208
+    },
+    {
+      "text": "cisura silviana derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 574,
+      "end": 597
+    },
+    {
+      "text": "hemorragia subaracnoidea focal",
+      "type": "PATOLOGIA",
+      "start": 178,
+      "end": 208
+    },
+    {
+      "text": "aneurisma sacular de 6 mm",
+      "type": "PATOLOGIA",
+      "start": 1186,
+      "end": 1211
+    },
+    {
+      "text": "arteria cerebral media (ACM) derecha",
+      "type": "ARTERIA",
+      "start": 1218,
+      "end": 1254
+    },
+    {
+      "text": "6 mm",
+      "type": "MEDIDA",
+      "start": 1207,
+      "end": 1211
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 590,
+      "end": 597
+    },
+    {
+      "text": "No se evidencian signos de sangrado parenquimatoso ni hematomas intraparenquimatosos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 646,
+      "end": 730
+    },
+    {
+      "text": "No se observa efecto de masa ni desplazamiento de estructuras de la línea media",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 732,
+      "end": 811
+    },
+    {
+      "text": "No se observan alteraciones significativas en regiones corticales cercanas ni en flujo, volumen o tiempo de tránsito que sugieran isquemia o edema focal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 987,
+      "end": 1139
+    },
+    {
+      "text": "No se detectan signos de vasoespasmo ni trombosis arterial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1329,
+      "end": 1387
+    },
+    {
+      "text": "No evidencia de complicaciones isquémicas ni efecto de masa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1649,
+      "end": 1708
+    },
+    {
+      "text": "Protocolo Código Ictus con TC basal para hemorragias agudas, TC perfusión cerebral y AngioTC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 310,
+      "end": 424
+    },
+    {
+      "text": "Técnica sin y con contraste endovenoso para delineación vascular",
+      "type": "TECNICA_IMAGEN",
+      "start": 426,
+      "end": 490
+    },
+    {
+      "text": "Estudio técnicamente adecuado",
+      "type": "TECNICA_IMAGEN",
+      "start": 956,
+      "end": 985
+    }
+  ]
+}

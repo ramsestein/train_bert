@@ -1,0 +1,209 @@
+{
+  "document_id": "informe_sintetico_20250804195045_13726",
+  "entities": [
+    {
+      "text": "hemiparesia contralateral",
+      "type": "PATOLOGIA",
+      "start": 275,
+      "end": 300
+    },
+    {
+      "text": "ictus isquémico",
+      "type": "PATOLOGIA",
+      "start": 323,
+      "end": 338
+    },
+    {
+      "text": "hipertensión arterial",
+      "type": "PATOLOGIA",
+      "start": 203,
+      "end": 224
+    },
+    {
+      "text": "fibrilación auricular",
+      "type": "PATOLOGIA",
+      "start": 227,
+      "end": 248
+    },
+    {
+      "text": "hipodensidad cortical",
+      "type": "PATOLOGIA",
+      "start": 575,
+      "end": 596
+    },
+    {
+      "text": "arteria cerebral anterior izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 617,
+      "end": 652
+    },
+    {
+      "text": "lóbulo frontal",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 701,
+      "end": 715
+    },
+    {
+      "text": "paracentral",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 718,
+      "end": 729
+    },
+    {
+      "text": "lesiones ocupantes de espacio",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 840,
+      "end": 869
+    },
+    {
+      "text": "ASPECTS 8",
+      "type": "PUNTUACION_CLINICA",
+      "start": 951,
+      "end": 960
+    },
+    {
+      "text": "territorio de la ACA izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1002,
+      "end": 1032
+    },
+    {
+      "text": "tiempo de tránsito medio (TTP)",
+      "type": "MEDIDA",
+      "start": 1054,
+      "end": 1084
+    },
+    {
+      "text": "disminución marcada del flujo cerebral (CBF)",
+      "type": "MEDIDA",
+      "start": 1087,
+      "end": 1131
+    },
+    {
+      "text": "volumen cerebral (CBV) preservado",
+      "type": "MEDIDA",
+      "start": 1137,
+      "end": 1170
+    },
+    {
+      "text": "área de penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1187,
+      "end": 1213
+    },
+    {
+      "text": "zona con disminución de CBV",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1231,
+      "end": 1258
+    },
+    {
+      "text": "infarto establecido",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1271,
+      "end": 1290
+    },
+    {
+      "text": "Oclusión segmentaria proximal",
+      "type": "PATOLOGIA",
+      "start": 1318,
+      "end": 1347
+    },
+    {
+      "text": "arteria cerebral anterior izquierda (segmento A2)",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1354,
+      "end": 1403
+    },
+    {
+      "text": "ausencia de opacificación distal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1409,
+      "end": 1441
+    },
+    {
+      "text": "arterias carótidas internas",
+      "type": "ARTERIA",
+      "start": 1503,
+      "end": 1530
+    },
+    {
+      "text": "arterias cerebrales medias",
+      "type": "ARTERIA",
+      "start": 1532,
+      "end": 1558
+    },
+    {
+      "text": "sistema vertebrobasilar",
+      "type": "ARTERIA",
+      "start": 1561,
+      "end": 1584
+    },
+    {
+      "text": "estenosis significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1630,
+      "end": 1654
+    },
+    {
+      "text": "aneurismas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1658,
+      "end": 1668
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 1715,
+      "end": 1729
+    },
+    {
+      "text": "territorio de la arteria cerebral anterior izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 600,
+      "end": 652
+    },
+    {
+      "text": "hipodensidad cortical leve",
+      "type": "PATOLOGIA",
+      "start": 1791,
+      "end": 1817
+    },
+    {
+      "text": "borramiento de surcos",
+      "type": "PATOLOGIA",
+      "start": 744,
+      "end": 765
+    },
+    {
+      "text": "sin infarto establecido",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1906,
+      "end": 1929
+    },
+    {
+      "text": "Oclusión en segmento A2 de ACA izquierda",
+      "type": "PATOLOGIA",
+      "start": 1931,
+      "end": 1971
+    },
+    {
+      "text": "angioTC intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 456,
+      "end": 476
+    },
+    {
+      "text": "oclusión segmentaria proximal confirmada en angioTC",
+      "type": "PATOLOGIA",
+      "start": 2157,
+      "end": 2208
+    },
+    {
+      "text": "Área de penumbra isquémica evidenciada en perfusión cerebral",
+      "type": "PATOLOGIA",
+      "start": 2210,
+      "end": 2270
+    }
+  ]
+}

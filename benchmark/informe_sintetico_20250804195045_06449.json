@@ -1,0 +1,95 @@
+{
+  "document_id": "informe_sintetico_20250804195045_06449",
+  "entities": [
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 337,
+      "end": 351
+    },
+    {
+      "text": "arteria cerebral posterior izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 798,
+      "end": 834
+    },
+    {
+      "text": "oclusión completa subaguda",
+      "type": "PATOLOGIA",
+      "start": 1215,
+      "end": 1241
+    },
+    {
+      "text": "arteria cerebral posterior izquierda",
+      "type": "ARTERIA",
+      "start": 798,
+      "end": 834
+    },
+    {
+      "text": "segmento P2",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1291,
+      "end": 1302
+    },
+    {
+      "text": "penumbra isquémica significativa",
+      "type": "PATOLOGIA",
+      "start": 1088,
+      "end": 1120
+    },
+    {
+      "text": "infarto establecido",
+      "type": "PATOLOGIA",
+      "start": 694,
+      "end": 713
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 573,
+      "end": 596
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 438,
+      "end": 454
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 870,
+      "end": 891
+    },
+    {
+      "text": "Angio TC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 1177,
+      "end": 1207
+    },
+    {
+      "text": "sin infarto establecido",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2155,
+      "end": 2178
+    },
+    {
+      "text": "90 minutos",
+      "type": "TEMPORALIDAD",
+      "start": 278,
+      "end": 288
+    },
+    {
+      "text": "aumento del tiempo de tránsito medio (TTM)",
+      "type": "MEDIDA",
+      "start": 900,
+      "end": 942
+    },
+    {
+      "text": "reducción del volumen cerebral sanguíneo (CBV)",
+      "type": "MEDIDA",
+      "start": 945,
+      "end": 991
+    }
+  ]
+}

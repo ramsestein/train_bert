@@ -1,0 +1,113 @@
+{
+  "document_id": "informe_sintetico_20250804195045_17414",
+  "entities": [
+    {
+      "text": "hematoma lobar",
+      "type": "PATOLOGIA",
+      "start": 504,
+      "end": 518
+    },
+    {
+      "text": "región frontal derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 522,
+      "end": 544
+    },
+    {
+      "text": "25 x 18 x 15 mm",
+      "type": "MEDIDA",
+      "start": 565,
+      "end": 580
+    },
+    {
+      "text": "hiperaguda",
+      "type": "PATOLOGIA",
+      "start": 595,
+      "end": 605
+    },
+    {
+      "text": "sustancia blanca subcortical",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 624,
+      "end": 652
+    },
+    {
+      "text": "efecto masa local",
+      "type": "PATOLOGIA",
+      "start": 663,
+      "end": 680
+    },
+    {
+      "text": "mínimo",
+      "type": "MEDIDA",
+      "start": 698,
+      "end": 704
+    },
+    {
+      "text": "línea media",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 711,
+      "end": 722
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 732,
+      "end": 741
+    },
+    {
+      "text": "No se identifican signos de ruptura ventricular",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 743,
+      "end": 790
+    },
+    {
+      "text": "No se observan alteraciones significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 998,
+      "end": 1040
+    },
+    {
+      "text": "sin estenosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1315,
+      "end": 1328
+    },
+    {
+      "text": "arteria cerebral anterior derecha",
+      "type": "ARTERIA",
+      "start": 1392,
+      "end": 1425
+    },
+    {
+      "text": "trayecto y calibre normales",
+      "type": "PATOLOGIA",
+      "start": 1435,
+      "end": 1462
+    },
+    {
+      "text": "sin complicaciones vasculares detectables",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2106,
+      "end": 2147
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 310,
+      "end": 326
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 356,
+      "end": 377
+    },
+    {
+      "text": "angioTC arterial intra y extracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 380,
+      "end": 417
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "document_id": "informe_sintetico_20250804195045_24933",
+  "entities": [
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 281,
+      "end": 295
+    },
+    {
+      "text": "arteria cerebral media",
+      "type": "ARTERIA",
+      "start": 932,
+      "end": 954
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 1174,
+      "end": 1183
+    },
+    {
+      "text": "M2/M3",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1212,
+      "end": 1217
+    },
+    {
+      "text": "ASPECTS 9",
+      "type": "PUNTUACION_CLINICA",
+      "start": 1506,
+      "end": 1515
+    },
+    {
+      "text": "sin infarto establecido",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1481,
+      "end": 1504
+    },
+    {
+      "text": "oclusión",
+      "type": "PATOLOGIA",
+      "start": 1118,
+      "end": 1126
+    },
+    {
+      "text": "segmentos M2/M3",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1202,
+      "end": 1217
+    },
+    {
+      "text": "izquierdo",
+      "type": "LATERALIDAD",
+      "start": 696,
+      "end": 705
+    },
+    {
+      "text": "sin signos de infarto completo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1027,
+      "end": 1057
+    },
+    {
+      "text": "permeabilidad conservada",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2236,
+      "end": 2260
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 343,
+      "end": 359
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 801,
+      "end": 822
+    },
+    {
+      "text": "Angio-TC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 407,
+      "end": 437
+    }
+  ]
+}

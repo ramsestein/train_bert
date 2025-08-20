@@ -1,0 +1,101 @@
+{
+  "document_id": "informe_sintetico_20250804195045_06363",
+  "entities": [
+    {
+      "text": "infarto cerebral",
+      "type": "PATOLOGIA",
+      "start": 331,
+      "end": 347
+    },
+    {
+      "text": "territorio de la arteria cerebral media izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 351,
+      "end": 400
+    },
+    {
+      "text": "arteria cerebral media",
+      "type": "ARTERIA",
+      "start": 368,
+      "end": 390
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 391,
+      "end": 400
+    },
+    {
+      "text": "5 a 8 mm",
+      "type": "MEDIDA",
+      "start": 929,
+      "end": 937
+    },
+    {
+      "text": "50 y 60 UH",
+      "type": "MEDIDA",
+      "start": 972,
+      "end": 982
+    },
+    {
+      "text": "subaguda",
+      "type": "TEMPORALIDAD",
+      "start": 823,
+      "end": 831
+    },
+    {
+      "text": "transformación hemorrágica tipo PH1",
+      "type": "PATOLOGIA",
+      "start": 998,
+      "end": 1033
+    },
+    {
+      "text": "sin hematoma expansivo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2645,
+      "end": 2667
+    },
+    {
+      "text": "sin evidencia de trombosis o nuevas oclusiones",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1568,
+      "end": 1614
+    },
+    {
+      "text": "sin zonas de penumbra significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1415,
+      "end": 1450
+    },
+    {
+      "text": "sin estenosis ni oclusiones",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2784,
+      "end": 2811
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 504,
+      "end": 520
+    },
+    {
+      "text": "estudio de perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 554,
+      "end": 583
+    },
+    {
+      "text": "angiografía por TC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 586,
+      "end": 626
+    },
+    {
+      "text": "TC CÓDIGO ICTUS",
+      "type": "TECNICA_IMAGEN",
+      "start": 2482,
+      "end": 2497
+    }
+  ]
+}

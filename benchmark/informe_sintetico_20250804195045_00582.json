@@ -1,0 +1,95 @@
+{
+  "document_id": "informe_sintetico_20250804195045_00582",
+  "entities": [
+    {
+      "text": "leucoencefalopatía posterior reversible",
+      "type": "PATOLOGIA",
+      "start": 308,
+      "end": 347
+    },
+    {
+      "text": "regiones parieto-occipitales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 738,
+      "end": 766
+    },
+    {
+      "text": "bilaterales",
+      "type": "LATERALIDAD",
+      "start": 767,
+      "end": 778
+    },
+    {
+      "text": "edema vasogénico",
+      "type": "PATOLOGIA",
+      "start": 882,
+      "end": 898
+    },
+    {
+      "text": "infarto",
+      "type": "PATOLOGIA",
+      "start": 920,
+      "end": 927
+    },
+    {
+      "text": "hemorragia",
+      "type": "PATOLOGIA",
+      "start": 573,
+      "end": 583
+    },
+    {
+      "text": "tiempo de tránsito medio (TTP)",
+      "type": "MEDIDA",
+      "start": 1125,
+      "end": 1155
+    },
+    {
+      "text": "tiempo máximo (Tmax)",
+      "type": "MEDIDA",
+      "start": 1158,
+      "end": 1178
+    },
+    {
+      "text": "volumen cerebral (CBV)",
+      "type": "MEDIDA",
+      "start": 1204,
+      "end": 1226
+    },
+    {
+      "text": "flujo cerebral (CBF)",
+      "type": "MEDIDA",
+      "start": 1229,
+      "end": 1249
+    },
+    {
+      "text": "isquemia irreversible",
+      "type": "PATOLOGIA",
+      "start": 1801,
+      "end": 1822
+    },
+    {
+      "text": "ACAs, ACMs, ACPs",
+      "type": "ARTERIA",
+      "start": 1425,
+      "end": 1441
+    },
+    {
+      "text": "sin evidencia de infarto",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1726,
+      "end": 1750
+    },
+    {
+      "text": "sin alteraciones significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1514,
+      "end": 1545
+    },
+    {
+      "text": "sin signos de isquemia irreversible",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1787,
+      "end": 1822
+    }
+  ]
+}

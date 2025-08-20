@@ -1,0 +1,83 @@
+{
+  "document_id": "informe_sintetico_20250804195045_22444",
+  "entities": [
+    {
+      "text": "hemorragia aguda",
+      "type": "PATOLOGIA",
+      "start": 382,
+      "end": 398
+    },
+    {
+      "text": "lesiones isquémicas recientes",
+      "type": "PATOLOGIA",
+      "start": 402,
+      "end": 431
+    },
+    {
+      "text": "atrofia cerebral leve",
+      "type": "PATOLOGIA",
+      "start": 541,
+      "end": 562
+    },
+    {
+      "text": "cambios crónicos",
+      "type": "TEMPORALIDAD",
+      "start": 653,
+      "end": 669
+    },
+    {
+      "text": "microangiopatía crónica",
+      "type": "PATOLOGIA",
+      "start": 752,
+      "end": 775
+    },
+    {
+      "text": "ASPECTS 10/10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 502,
+      "end": 515
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 502,
+      "end": 512
+    },
+    {
+      "text": "ateromatosis calcificada leve",
+      "type": "PATOLOGIA",
+      "start": 1115,
+      "end": 1144
+    },
+    {
+      "text": "ACAs, ACMs, ACPs",
+      "type": "ARTERIA",
+      "start": 1227,
+      "end": 1243
+    },
+    {
+      "text": "sin estenosis significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1173,
+      "end": 1200
+    },
+    {
+      "text": "sin evidencias de estenosis ni defectos de repleción",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1256,
+      "end": 1308
+    },
+    {
+      "text": "sin signos de patología aguda",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1348,
+      "end": 1377
+    },
+    {
+      "text": "sin alteraciones significativas ni patrones compatibles con isquemia aguda",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 945,
+      "end": 1019
+    }
+  ]
+}

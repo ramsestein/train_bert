@@ -1,0 +1,161 @@
+{
+  "document_id": "informe_sintetico_20250804195045_20949",
+  "entities": [
+    {
+      "text": "infarto cerebral",
+      "type": "PATOLOGIA",
+      "start": 248,
+      "end": 264
+    },
+    {
+      "text": "hemiparesia",
+      "type": "PATOLOGIA",
+      "start": 197,
+      "end": 208
+    },
+    {
+      "text": "alteración del lenguaje",
+      "type": "PATOLOGIA",
+      "start": 211,
+      "end": 234
+    },
+    {
+      "text": "isquemia",
+      "type": "PATOLOGIA",
+      "start": 1530,
+      "end": 1538
+    },
+    {
+      "text": "áreas isquémicas",
+      "type": "PATOLOGIA",
+      "start": 891,
+      "end": 907
+    },
+    {
+      "text": "bilaterales",
+      "type": "LATERALIDAD",
+      "start": 705,
+      "end": 716
+    },
+    {
+      "text": "arterias cerebral anterior y media",
+      "type": "ARTERIA",
+      "start": 787,
+      "end": 821
+    },
+    {
+      "text": "arterias cerebrales anterior, media y posterior",
+      "type": "ARTERIA",
+      "start": 2248,
+      "end": 2295
+    },
+    {
+      "text": "watershed",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 922,
+      "end": 931
+    },
+    {
+      "text": "penumbra",
+      "type": "PATOLOGIA",
+      "start": 1594,
+      "end": 1602
+    },
+    {
+      "text": "sin oclusiones arteriales mayores",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2297,
+      "end": 2330
+    },
+    {
+      "text": "sin evidencia de infarto establecido con edema ni hemorragia asociada",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2102,
+      "end": 2171
+    },
+    {
+      "text": "sin estenosis significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1812,
+      "end": 1839
+    },
+    {
+      "text": "sin alteraciones hemodinámicas relevantes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1883,
+      "end": 1924
+    },
+    {
+      "text": "sin desplazamiento de la línea media",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1147,
+      "end": 1183
+    },
+    {
+      "text": "cortical y subcortical",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 634,
+      "end": 656
+    },
+    {
+      "text": "regiones periventriculares fronto-parietales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 660,
+      "end": 704
+    },
+    {
+      "text": "sistema ventricular",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1091,
+      "end": 1110
+    },
+    {
+      "text": "morfología y tamaño normales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1117,
+      "end": 1145
+    },
+    {
+      "text": "Cisternas basales libres",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1185,
+      "end": 1209
+    },
+    {
+      "text": "volumen cerebral (CBV) conservado",
+      "type": "PATOLOGIA",
+      "start": 1430,
+      "end": 1463
+    },
+    {
+      "text": "reducción moderada del flujo sanguíneo cerebral (CBF)",
+      "type": "PATOLOGIA",
+      "start": 1371,
+      "end": 1424
+    },
+    {
+      "text": "prolongación del tiempo de tránsito medio (MTT) y tiempo hasta el pico (TTP)",
+      "type": "MEDIDA",
+      "start": 1283,
+      "end": 1359
+    },
+    {
+      "text": "TC craneal sin contraste basal urgente",
+      "type": "TECNICA_IMAGEN",
+      "start": 285,
+      "end": 323
+    },
+    {
+      "text": "perfusión cerebral dinámica",
+      "type": "TECNICA_IMAGEN",
+      "start": 336,
+      "end": 363
+    },
+    {
+      "text": "Angio-TC intra y extracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 366,
+      "end": 395
+    }
+  ]
+}

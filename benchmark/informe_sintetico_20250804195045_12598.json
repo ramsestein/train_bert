@@ -1,0 +1,197 @@
+{
+  "document_id": "informe_sintetico_20250804195045_12598",
+  "entities": [
+    {
+      "text": "isquemia",
+      "type": "PATOLOGIA",
+      "start": 236,
+      "end": 244
+    },
+    {
+      "text": "territorio vertebrobasilar",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 248,
+      "end": 274
+    },
+    {
+      "text": "hipodensidad difusa",
+      "type": "PATOLOGIA",
+      "start": 595,
+      "end": 614
+    },
+    {
+      "text": "región del cerebelo hemisferio derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 621,
+      "end": 659
+    },
+    {
+      "text": "arteria cerebelosa posteroinferior derecha (PICA)",
+      "type": "ARTERIA",
+      "start": 734,
+      "end": 783
+    },
+    {
+      "text": "isquemia aguda temprana",
+      "type": "PATOLOGIA",
+      "start": 798,
+      "end": 821
+    },
+    {
+      "text": "núcleos grises profundos del tronco encefálico y mesencéfalo adyacentes",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 827,
+      "end": 898
+    },
+    {
+      "text": "aumento significativo del tiempo de tránsito medio (MTT)",
+      "type": "MEDIDA",
+      "start": 1087,
+      "end": 1143
+    },
+    {
+      "text": "retraso del tiempo al pico (TTP)",
+      "type": "MEDIDA",
+      "start": 1146,
+      "end": 1178
+    },
+    {
+      "text": "disminución del flujo sanguíneo cerebral (CBF)",
+      "type": "MEDIDA",
+      "start": 1263,
+      "end": 1309
+    },
+    {
+      "text": "leve reducción del volumen sanguíneo cerebral (CBV)",
+      "type": "MEDIDA",
+      "start": 1312,
+      "end": 1363
+    },
+    {
+      "text": "penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1389,
+      "end": 1407
+    },
+    {
+      "text": "posible zona de infarto en evolución",
+      "type": "PATOLOGIA",
+      "start": 1412,
+      "end": 1448
+    },
+    {
+      "text": "oclusión completa del segmento V2 de la arteria vertebral derecha",
+      "type": "PATOLOGIA",
+      "start": 1614,
+      "end": 1679
+    },
+    {
+      "text": "arteria vertebral derecha",
+      "type": "ARTERIA",
+      "start": 1654,
+      "end": 1679
+    },
+    {
+      "text": "ausencia de flujo distal en el segmento V3 y en la arteria basilar proximal derecha",
+      "type": "PATOLOGIA",
+      "start": 1685,
+      "end": 1768
+    },
+    {
+      "text": "arteria vertebral izquierda",
+      "type": "ARTERIA",
+      "start": 1773,
+      "end": 1800
+    },
+    {
+      "text": "permeable y de calibre conservado",
+      "type": "PATOLOGIA",
+      "start": 1812,
+      "end": 1845
+    },
+    {
+      "text": "circulación colateral a través del complejo comunicante posterior izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1851,
+      "end": 1926
+    },
+    {
+      "text": "arteria basilar",
+      "type": "ARTERIA",
+      "start": 1736,
+      "end": 1751
+    },
+    {
+      "text": "flujo disminuido en su tercio distal derecho",
+      "type": "PATOLOGIA",
+      "start": 1956,
+      "end": 2000
+    },
+    {
+      "text": "No se identifican hemorragias agudas ni lesiones expansivas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 523,
+      "end": 582
+    },
+    {
+      "text": "No se identifican otras áreas isquémicas en territorio vertebrobasilar ni en circulación anterior",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1470,
+      "end": 1567
+    },
+    {
+      "text": "Ausencia de hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2195,
+      "end": 2230
+    },
+    {
+      "text": "isquemia aguda en territorio cerebeloso derecho (zona PICA)",
+      "type": "PATOLOGIA",
+      "start": 2242,
+      "end": 2301
+    },
+    {
+      "text": "afectación secundaria del flujo basilar derecho",
+      "type": "PATOLOGIA",
+      "start": 2444,
+      "end": 2491
+    },
+    {
+      "text": "isquemia aguda vertebrobasilar",
+      "type": "PATOLOGIA",
+      "start": 2519,
+      "end": 2549
+    },
+    {
+      "text": "Isquemia aguda en territorio vertebrobasilar con oclusión arterial vertebral derecha a nivel cervical medio y compromiso hemodinámico de la arteria basilar proximal",
+      "type": "PATOLOGIA",
+      "start": 2767,
+      "end": 2931
+    },
+    {
+      "text": "TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANG IOTC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 72,
+      "end": 140
+    },
+    {
+      "text": "TC CRANEAL BASAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 505,
+      "end": 521
+    },
+    {
+      "text": "TC PERFUSIÓN",
+      "type": "TECNICA_IMAGEN",
+      "start": 1060,
+      "end": 1072
+    },
+    {
+      "text": "ANGIO-TC EXTRA E INTRACRANEAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 1570,
+      "end": 1599
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "document_id": "informe_sintetico_20250804195045_23463",
+  "entities": [
+    {
+      "text": "hemorragia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 496,
+      "end": 506
+    },
+    {
+      "text": "hipodensidad",
+      "type": "PATOLOGIA",
+      "start": 544,
+      "end": 556
+    },
+    {
+      "text": "pérdida de diferenciación cortico-subcortical",
+      "type": "PATOLOGIA",
+      "start": 561,
+      "end": 606
+    },
+    {
+      "text": "territorio superficial derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 610,
+      "end": 640
+    },
+    {
+      "text": "ramas M2/M3",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 663,
+      "end": 674
+    },
+    {
+      "text": "arteria cerebral media",
+      "type": "ARTERIA",
+      "start": 681,
+      "end": 703
+    },
+    {
+      "text": "ASPECTS 9/10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 705,
+      "end": 717
+    },
+    {
+      "text": "desplazamiento de la línea media",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 726,
+      "end": 758
+    },
+    {
+      "text": "prolongación en mapas de tiempo de tránsito (Tmax)",
+      "type": "PATOLOGIA",
+      "start": 863,
+      "end": 913
+    },
+    {
+      "text": "reducción en el flujo cerebral (CBF)",
+      "type": "PATOLOGIA",
+      "start": 930,
+      "end": 966
+    },
+    {
+      "text": "territorio vascular de las ramas M2/M3 derechas",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 970,
+      "end": 1017
+    },
+    {
+      "text": "volumen cerebral (CBV)",
+      "type": "MEDIDA",
+      "start": 1022,
+      "end": 1044
+    },
+    {
+      "text": "mismatch perfusional compatible con tejido en riesgo de isquemia",
+      "type": "PATOLOGIA",
+      "start": 1085,
+      "end": 1149
+    },
+    {
+      "text": "grandes vasos intracraneales permeables sin estenosis significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1262,
+      "end": 1330
+    },
+    {
+      "text": "isquemia en territorio limitado",
+      "type": "PATOLOGIA",
+      "start": 1495,
+      "end": 1526
+    },
+    {
+      "text": "ASPECTS 9/10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 705,
+      "end": 717
+    },
+    {
+      "text": "mismatch significativo indicando tejido potencialmente recuperable",
+      "type": "PATOLOGIA",
+      "start": 1586,
+      "end": 1652
+    }
+  ]
+}

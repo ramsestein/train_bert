@@ -1,0 +1,71 @@
+{
+  "document_id": "informe_sintetico_20250804195045_17017",
+  "entities": [
+    {
+      "text": "edema cerebral difuso",
+      "type": "PATOLOGIA",
+      "start": 733,
+      "end": 754
+    },
+    {
+      "text": "pérdida difusa y bilateral de la diferenciación sustancia gris-blanca",
+      "type": "PATOLOGIA",
+      "start": 537,
+      "end": 606
+    },
+    {
+      "text": "región cortical de lóbulos frontales, parietales y temporales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 623,
+      "end": 684
+    },
+    {
+      "text": "núcleos de la base",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 698,
+      "end": 716
+    },
+    {
+      "text": "volumen cerebral (CBV)",
+      "type": "PATOLOGIA",
+      "start": 1184,
+      "end": 1206
+    },
+    {
+      "text": "territorio difuso bilateral",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1210,
+      "end": 1237
+    },
+    {
+      "text": "Arterias carotídeas, vertebrales y principales ramas intracraneales",
+      "type": "ARTERIA",
+      "start": 1441,
+      "end": 1508
+    },
+    {
+      "text": "sin evidencias de estenosis u oclusiones agudas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1520,
+      "end": 1567
+    },
+    {
+      "text": "No se observan defectos de llenado ni signos de trombosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1569,
+      "end": 1626
+    },
+    {
+      "text": "No se evidencian hemorragias ni obstrucción vascular aguda",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1891,
+      "end": 1949
+    },
+    {
+      "text": "TC craneal basal sin contraste + TC perfusión cerebral + Angio-TC intracraneal y extra-craneal protocolo Código Ictus urgente",
+      "type": "TECNICA_IMAGEN",
+      "start": 357,
+      "end": 482
+    }
+  ]
+}

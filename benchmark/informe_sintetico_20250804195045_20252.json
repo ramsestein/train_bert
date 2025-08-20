@@ -1,0 +1,95 @@
+{
+  "document_id": "informe_sintetico_20250804195045_20252",
+  "entities": [
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 580,
+      "end": 603
+    },
+    {
+      "text": "lesiones isquémicas agudas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 607,
+      "end": 633
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 715,
+      "end": 725
+    },
+    {
+      "text": "cambios crónicos de enfermedad microangiopática",
+      "type": "PATOLOGIA",
+      "start": 843,
+      "end": 890
+    },
+    {
+      "text": "hidrocefalia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 973,
+      "end": 985
+    },
+    {
+      "text": "alteraciones focales ni globales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1200,
+      "end": 1232
+    },
+    {
+      "text": "estenosis ni oclusiones",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1395,
+      "end": 1418
+    },
+    {
+      "text": "placas ateromatosas significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1432,
+      "end": 1466
+    },
+    {
+      "text": "vasoespasmo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1479,
+      "end": 1490
+    },
+    {
+      "text": "vertebrales",
+      "type": "ARTERIA",
+      "start": 1510,
+      "end": 1521
+    },
+    {
+      "text": "dominancia vertebral derecha",
+      "type": "LATERALIDAD",
+      "start": 1547,
+      "end": 1575
+    },
+    {
+      "text": "isquemia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1645,
+      "end": 1653
+    },
+    {
+      "text": "hemorragia cerebral",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1656,
+      "end": 1675
+    },
+    {
+      "text": "perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 461,
+      "end": 479
+    },
+    {
+      "text": "angio-TC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 482,
+      "end": 512
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "document_id": "informe_sintetico_20250804195045_20027",
+  "entities": [
+    {
+      "text": "isquemia",
+      "type": "PATOLOGIA",
+      "start": 264,
+      "end": 272
+    },
+    {
+      "text": "arteria cerebral media distal derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 290,
+      "end": 327
+    },
+    {
+      "text": "arteria cerebral media",
+      "type": "ARTERIA",
+      "start": 290,
+      "end": 312
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 320,
+      "end": 327
+    },
+    {
+      "text": "ASPECTS 9",
+      "type": "PUNTUACION_CLINICA",
+      "start": 620,
+      "end": 629
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "TEMPORALIDAD",
+      "start": 1693,
+      "end": 1707
+    },
+    {
+      "text": "Oclusión segmentaria",
+      "type": "PATOLOGIA",
+      "start": 1248,
+      "end": 1268
+    },
+    {
+      "text": "M2-M3",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 985,
+      "end": 990
+    },
+    {
+      "text": "arteria cerebral media",
+      "type": "ARTERIA",
+      "start": 290,
+      "end": 312
+    },
+    {
+      "text": "sin signos de hemorragia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1601,
+      "end": 1625
+    },
+    {
+      "text": "sin evidencia de estenosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1451,
+      "end": 1477
+    },
+    {
+      "text": "sin alteraciones destacables",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1538,
+      "end": 1566
+    }
+  ]
+}

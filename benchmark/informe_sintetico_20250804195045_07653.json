@@ -1,0 +1,127 @@
+{
+  "document_id": "informe_sintetico_20250804195045_07653",
+  "entities": [
+    {
+      "text": "cuadro neurológico súbito",
+      "type": "PATOLOGIA",
+      "start": 181,
+      "end": 206
+    },
+    {
+      "text": "colecciones hemorrágicas",
+      "type": "PATOLOGIA",
+      "start": 381,
+      "end": 405
+    },
+    {
+      "text": "microangiopatía crónica",
+      "type": "PATOLOGIA",
+      "start": 548,
+      "end": 571
+    },
+    {
+      "text": "edema",
+      "type": "PATOLOGIA",
+      "start": 615,
+      "end": 620
+    },
+    {
+      "text": "lesiones agudas",
+      "type": "PATOLOGIA",
+      "start": 624,
+      "end": 639
+    },
+    {
+      "text": "arterias intracraneales principales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1076,
+      "end": 1111
+    },
+    {
+      "text": "arterias cerebrales anterior",
+      "type": "ARTERIA",
+      "start": 1113,
+      "end": 1141
+    },
+    {
+      "text": "sistema vertebrobasilar",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1216,
+      "end": 1239
+    },
+    {
+      "text": "carótidas",
+      "type": "ARTERIA",
+      "start": 1350,
+      "end": 1359
+    },
+    {
+      "text": "sustancia blanca supratentorial",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 578,
+      "end": 609
+    },
+    {
+      "text": "ventrículos cerebrales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 704,
+      "end": 726
+    },
+    {
+      "text": "cisternas basales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 771,
+      "end": 788
+    },
+    {
+      "text": "10/10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 503,
+      "end": 508
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 246,
+      "end": 262
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 265,
+      "end": 286
+    },
+    {
+      "text": "Angio-TC intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 289,
+      "end": 310
+    },
+    {
+      "text": "TC de Código Ictus",
+      "type": "TECNICA_IMAGEN",
+      "start": 1472,
+      "end": 1490
+    },
+    {
+      "text": "sin hallazgos agudos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1491,
+      "end": 1511
+    },
+    {
+      "text": "sin edema",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 611,
+      "end": 620
+    },
+    {
+      "text": "sin estenosis significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1361,
+      "end": 1389
+    }
+  ],
+  "regenerado": true,
+  "fecha_regeneracion": "2025-08-06T18:04:08.302213"
+}

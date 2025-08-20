@@ -1,0 +1,113 @@
+{
+  "document_id": "informe_sintetico_20250804195045_17373",
+  "entities": [
+    {
+      "text": "hematoma subdural agudo frontoparietal izquierdo",
+      "type": "PATOLOGIA",
+      "start": 404,
+      "end": 452
+    },
+    {
+      "text": "izquierdo",
+      "type": "LATERALIDAD",
+      "start": 443,
+      "end": 452
+    },
+    {
+      "text": "12 mm",
+      "type": "MEDIDA",
+      "start": 500,
+      "end": 505
+    },
+    {
+      "text": "5 mm",
+      "type": "MEDIDA",
+      "start": 612,
+      "end": 616
+    },
+    {
+      "text": "edema vasogénico leve",
+      "type": "PATOLOGIA",
+      "start": 719,
+      "end": 740
+    },
+    {
+      "text": "disminución focal del flujo cerebral (CBF)",
+      "type": "PATOLOGIA",
+      "start": 1000,
+      "end": 1042
+    },
+    {
+      "text": "volumen cerebral (CBV)",
+      "type": "PATOLOGIA",
+      "start": 1049,
+      "end": 1071
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 1093,
+      "end": 1102
+    },
+    {
+      "text": "TTP",
+      "type": "PATOLOGIA",
+      "start": 1186,
+      "end": 1189
+    },
+    {
+      "text": "5 mm",
+      "type": "MEDIDA",
+      "start": 612,
+      "end": 616
+    },
+    {
+      "text": "sin signos de estenosis ni trombosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1353,
+      "end": 1389
+    },
+    {
+      "text": "sin alteraciones significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1468,
+      "end": 1499
+    },
+    {
+      "text": "sin estenosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1786,
+      "end": 1799
+    },
+    {
+      "text": "sin lesiones parenquimatosas graves",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1660,
+      "end": 1695
+    },
+    {
+      "text": "traumatismo craneoencefálico",
+      "type": "PATOLOGIA",
+      "start": 1824,
+      "end": 1852
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 262,
+      "end": 278
+    },
+    {
+      "text": "TC perfusión",
+      "type": "TECNICA_IMAGEN",
+      "start": 281,
+      "end": 293
+    },
+    {
+      "text": "angioTC intra y extracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 296,
+      "end": 324
+    }
+  ]
+}

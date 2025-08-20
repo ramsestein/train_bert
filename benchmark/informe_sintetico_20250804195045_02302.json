@@ -1,0 +1,125 @@
+{
+  "document_id": "informe_sintetico_20250804195045_02302",
+  "entities": [
+    {
+      "text": "hemorragia intraventricular primaria",
+      "type": "PATOLOGIA",
+      "start": 505,
+      "end": 541
+    },
+    {
+      "text": "ventrículos laterales bilaterales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 587,
+      "end": 620
+    },
+    {
+      "text": "tercer ventrículo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 626,
+      "end": 643
+    },
+    {
+      "text": "hemorragia parenquimatosa",
+      "type": "PATOLOGIA",
+      "start": 663,
+      "end": 688
+    },
+    {
+      "text": "isquémicas agudas",
+      "type": "PATOLOGIA",
+      "start": 852,
+      "end": 869
+    },
+    {
+      "text": "Arterias cerebrales principales",
+      "type": "ARTERIA",
+      "start": 1205,
+      "end": 1236
+    },
+    {
+      "text": "malformaciones vasculares",
+      "type": "PATOLOGIA",
+      "start": 1267,
+      "end": 1292
+    },
+    {
+      "text": "aneurismas",
+      "type": "PATOLOGIA",
+      "start": 1294,
+      "end": 1304
+    },
+    {
+      "text": "estenosis",
+      "type": "PATOLOGIA",
+      "start": 1318,
+      "end": 1327
+    },
+    {
+      "text": "trombosis arterial",
+      "type": "PATOLOGIA",
+      "start": 1330,
+      "end": 1348
+    },
+    {
+      "text": "sin evidencias de hemorragia parenquimatosa adyacente",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 645,
+      "end": 698
+    },
+    {
+      "text": "No se observa desplazamiento significativo de la línea media",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 700,
+      "end": 760
+    },
+    {
+      "text": "No se identifican masas ni signos de trauma",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 880,
+      "end": 923
+    },
+    {
+      "text": "No se evidencian áreas de hipoperfusión o penumbra",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1119,
+      "end": 1169
+    },
+    {
+      "text": "sin extensión parenquimatosa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1535,
+      "end": 1563
+    },
+    {
+      "text": "sin malformaciones vasculares ni estenosis significativas detectadas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2355,
+      "end": 2423
+    },
+    {
+      "text": "TC craneal basal no contrastada",
+      "type": "TECNICA_IMAGEN",
+      "start": 325,
+      "end": 356
+    },
+    {
+      "text": "estudio de perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 358,
+      "end": 387
+    },
+    {
+      "text": "angiografía por TC de vasos intracraneales y extracraneales",
+      "type": "TECNICA_IMAGEN",
+      "start": 390,
+      "end": 449
+    },
+    {
+      "text": "TC CEREBRAL CON PERFUSIÓN Y ANGIO-TC INTRACRANEAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 1959,
+      "end": 2008
+    }
+  ]
+}

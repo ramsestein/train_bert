@@ -1,0 +1,71 @@
+{
+  "document_id": "informe_sintetico_20250804195045_18823",
+  "entities": [
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 684,
+      "end": 698
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 458,
+      "end": 490
+    },
+    {
+      "text": "ACM",
+      "type": "ARTERIA",
+      "start": 574,
+      "end": 577
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 481,
+      "end": 490
+    },
+    {
+      "text": "ASPECTS 6",
+      "type": "PUNTUACION_CLINICA",
+      "start": 1600,
+      "end": 1609
+    },
+    {
+      "text": "Oclusión completa",
+      "type": "PATOLOGIA",
+      "start": 1210,
+      "end": 1227
+    },
+    {
+      "text": "segmento proximal M1",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1232,
+      "end": 1252
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "ARTERIA",
+      "start": 458,
+      "end": 490
+    },
+    {
+      "text": "ASPECTS 6",
+      "type": "PUNTUACION_CLINICA",
+      "start": 1600,
+      "end": 1609
+    },
+    {
+      "text": "incremento del tiempo de tránsito medio (TTM)",
+      "type": "MEDIDA",
+      "start": 891,
+      "end": 936
+    },
+    {
+      "text": "reducción del volumen sanguíneo cerebral (CBV)",
+      "type": "MEDIDA",
+      "start": 939,
+      "end": 985
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "document_id": "informe_sintetico_20250804195045_06343",
+  "entities": [
+    {
+      "text": "infarto cerebral",
+      "type": "PATOLOGIA",
+      "start": 732,
+      "end": 748
+    },
+    {
+      "text": "región frontoparietal izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 600,
+      "end": 631
+    },
+    {
+      "text": "arteria cerebral media",
+      "type": "ARTERIA",
+      "start": 653,
+      "end": 675
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 622,
+      "end": 631
+    },
+    {
+      "text": "8 mm",
+      "type": "MEDIDA",
+      "start": 814,
+      "end": 818
+    },
+    {
+      "text": "aguda",
+      "type": "TEMPORALIDAD",
+      "start": 757,
+      "end": 762
+    },
+    {
+      "text": "HI1",
+      "type": "PUNTUACION_CLINICA",
+      "start": 926,
+      "end": 929
+    },
+    {
+      "text": "TC craneal basal sin contraste",
+      "type": "TECNICA_IMAGEN",
+      "start": 436,
+      "end": 466
+    },
+    {
+      "text": "No se aprecian hematomas lobares",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 931,
+      "end": 963
+    },
+    {
+      "text": "No hay desplazamiento significativo de la línea media",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 985,
+      "end": 1038
+    },
+    {
+      "text": "No evidencia de hematoma lobar ni efecto masa significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1542,
+      "end": 1601
+    },
+    {
+      "text": "sin oclusiones",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1337,
+      "end": 1351
+    }
+  ]
+}

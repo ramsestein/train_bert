@@ -1,0 +1,83 @@
+{
+  "document_id": "informe_sintetico_20250804195045_06788",
+  "entities": [
+    {
+      "text": "infarto cerebral",
+      "type": "PATOLOGIA",
+      "start": 320,
+      "end": 336
+    },
+    {
+      "text": "watershed",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 376,
+      "end": 385
+    },
+    {
+      "text": "isquémica aguda",
+      "type": "TEMPORALIDAD",
+      "start": 869,
+      "end": 884
+    },
+    {
+      "text": "ASPECTS 9",
+      "type": "PUNTUACION_CLINICA",
+      "start": 995,
+      "end": 1004
+    },
+    {
+      "text": "aumento prolongado del tiempo",
+      "type": "PATOLOGIA",
+      "start": 1185,
+      "end": 1214
+    },
+    {
+      "text": "frontoparietales bilateralmente",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1227,
+      "end": 1258
+    },
+    {
+      "text": "territorios ACA y ACM",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1315,
+      "end": 1336
+    },
+    {
+      "text": "penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1492,
+      "end": 1510
+    },
+    {
+      "text": "oclusión arterial intracraneal mayor",
+      "type": "PATOLOGIA",
+      "start": 2139,
+      "end": 2175
+    },
+    {
+      "text": "infarto consolidado extenso",
+      "type": "PATOLOGIA",
+      "start": 2085,
+      "end": 2112
+    },
+    {
+      "text": "sin desplazamiento de línea media",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1079,
+      "end": 1112
+    },
+    {
+      "text": "sin signos de trombo o embolismo en vasos intracraneales principales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1729,
+      "end": 1797
+    },
+    {
+      "text": "sin hemorragias ni lesiones crónicas relevantes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1833,
+      "end": 1880
+    }
+  ]
+}

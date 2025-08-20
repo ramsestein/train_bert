@@ -1,0 +1,95 @@
+{
+  "document_id": "informe_sintetico_20250804195045_05363",
+  "entities": [
+    {
+      "text": "infarto cerebral subagudo",
+      "type": "PATOLOGIA",
+      "start": 585,
+      "end": 610
+    },
+    {
+      "text": "foco hemorrágico de pequeña extensión",
+      "type": "PATOLOGIA",
+      "start": 626,
+      "end": 663
+    },
+    {
+      "text": "transformación hemorrágica tipo HI1",
+      "type": "PATOLOGIA",
+      "start": 754,
+      "end": 789
+    },
+    {
+      "text": "hemorragias intraparenquimatosas extensas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 808,
+      "end": 849
+    },
+    {
+      "text": "sangrado en espacios subaracnoideos o ventriculares",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 853,
+      "end": 904
+    },
+    {
+      "text": "región ganglio basal derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 524,
+      "end": 552
+    },
+    {
+      "text": "ACM",
+      "type": "ARTERIA",
+      "start": 1457,
+      "end": 1460
+    },
+    {
+      "text": "ACA",
+      "type": "ARTERIA",
+      "start": 1462,
+      "end": 1465
+    },
+    {
+      "text": "ACP",
+      "type": "ARTERIA",
+      "start": 1467,
+      "end": 1470
+    },
+    {
+      "text": "bilaterales",
+      "type": "LATERALIDAD",
+      "start": 1472,
+      "end": 1483
+    },
+    {
+      "text": "área isquémica viable con reperfusión parcial",
+      "type": "PATOLOGIA",
+      "start": 1265,
+      "end": 1310
+    },
+    {
+      "text": "área isquémica con reperfusión parcial",
+      "type": "PATOLOGIA",
+      "start": 1776,
+      "end": 1814
+    },
+    {
+      "text": "Angio-TC sin signos de oclusión arterial significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1818,
+      "end": 1872
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 355,
+      "end": 371
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 398,
+      "end": 419
+    }
+  ]
+}

@@ -1,0 +1,265 @@
+{
+  "document_id": "informe_sintetico_20250804195045_01781",
+  "entities": [
+    {
+      "text": "infarto cerebral",
+      "type": "PATOLOGIA",
+      "start": 179,
+      "end": 195
+    },
+    {
+      "text": "territorio de ACM derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 208,
+      "end": 233
+    },
+    {
+      "text": "deterioro neurológico agudo",
+      "type": "PATOLOGIA",
+      "start": 255,
+      "end": 282
+    },
+    {
+      "text": "TC craneal urgente",
+      "type": "TECNICA_IMAGEN",
+      "start": 303,
+      "end": 321
+    },
+    {
+      "text": "perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 360,
+      "end": 378
+    },
+    {
+      "text": "angiografía TC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 381,
+      "end": 417
+    },
+    {
+      "text": "TC CRANEAL BASAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 485,
+      "end": 501
+    },
+    {
+      "text": "área hipodensa",
+      "type": "PATOLOGIA",
+      "start": 516,
+      "end": 530
+    },
+    {
+      "text": "territorio vascular de la arteria cerebral media derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 534,
+      "end": 590
+    },
+    {
+      "text": "infarto cerebral isquémico subagudo",
+      "type": "PATOLOGIA",
+      "start": 673,
+      "end": 708
+    },
+    {
+      "text": "foco hiperintenso de alta densidad",
+      "type": "PATOLOGIA",
+      "start": 724,
+      "end": 758
+    },
+    {
+      "text": "zona central de la lesión",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 765,
+      "end": 790
+    },
+    {
+      "text": "transformación hemorrágica tipo PH2",
+      "type": "PATOLOGIA",
+      "start": 807,
+      "end": 842
+    },
+    {
+      "text": "sangrado hemorrágico intraparenquimatoso significativo",
+      "type": "PATOLOGIA",
+      "start": 848,
+      "end": 902
+    },
+    {
+      "text": "más del 30%",
+      "type": "MEDIDA",
+      "start": 929,
+      "end": 940
+    },
+    {
+      "text": "signos de hemorragia intraventricular",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 981,
+      "end": 1018
+    },
+    {
+      "text": "moderado edema perilesional",
+      "type": "PATOLOGIA",
+      "start": 1051,
+      "end": 1078
+    },
+    {
+      "text": "leve efecto masa",
+      "type": "PATOLOGIA",
+      "start": 1083,
+      "end": 1099
+    },
+    {
+      "text": "desplazamiento de la línea media de 4 mm",
+      "type": "MEDIDA",
+      "start": 1101,
+      "end": 1141
+    },
+    {
+      "text": "lado contralateral",
+      "type": "LATERALIDAD",
+      "start": 1151,
+      "end": 1169
+    },
+    {
+      "text": "borramiento de surcos corticales adyacentes",
+      "type": "PATOLOGIA",
+      "start": 1172,
+      "end": 1215
+    },
+    {
+      "text": "sistema ventricular",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1220,
+      "end": 1239
+    },
+    {
+      "text": "discreta dilatación del ventrículo lateral derecho",
+      "type": "PATOLOGIA",
+      "start": 1248,
+      "end": 1298
+    },
+    {
+      "text": "compresión por efecto masa",
+      "type": "PATOLOGIA",
+      "start": 1315,
+      "end": 1341
+    },
+    {
+      "text": "TC PERFUSIÓN",
+      "type": "TECNICA_IMAGEN",
+      "start": 1344,
+      "end": 1356
+    },
+    {
+      "text": "disminución del flujo cerebral (CBF)",
+      "type": "PATOLOGIA",
+      "start": 1391,
+      "end": 1427
+    },
+    {
+      "text": "prolongación del tiempo de tránsito medio (MTT)",
+      "type": "PATOLOGIA",
+      "start": 1461,
+      "end": 1508
+    },
+    {
+      "text": "infarto establecido",
+      "type": "PATOLOGIA",
+      "start": 1526,
+      "end": 1545
+    },
+    {
+      "text": "ANGIO-TC EXTRA E INTRACRANEAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 1548,
+      "end": 1577
+    },
+    {
+      "text": "Permeabilidad conservada en arterias cerebrales principales",
+      "type": "PATOLOGIA",
+      "start": 1579,
+      "end": 1638
+    },
+    {
+      "text": "trombosis o estenosis significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1658,
+      "end": 1694
+    },
+    {
+      "text": "signos de reoclusión arterial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1711,
+      "end": 1740
+    },
+    {
+      "text": "nuevas oclusiones",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1744,
+      "end": 1761
+    },
+    {
+      "text": "Transformación hemorrágica tipo PH2",
+      "type": "PATOLOGIA",
+      "start": 1786,
+      "end": 1821
+    },
+    {
+      "text": "infarto cerebral en territorio de la arteria cerebral media derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1828,
+      "end": 1895
+    },
+    {
+      "text": "sangrado intraparenquimatoso significativo",
+      "type": "PATOLOGIA",
+      "start": 1901,
+      "end": 1943
+    },
+    {
+      "text": "moderado efecto masa",
+      "type": "PATOLOGIA",
+      "start": 1946,
+      "end": 1966
+    },
+    {
+      "text": "edema perilesional",
+      "type": "PATOLOGIA",
+      "start": 1060,
+      "end": 1078
+    },
+    {
+      "text": "ligera desviación de la línea media hacia hemisferio contralateral",
+      "type": "PATOLOGIA",
+      "start": 1989,
+      "end": 2055
+    },
+    {
+      "text": "complicaciones hemorrágicas adicionales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2072,
+      "end": 2111
+    },
+    {
+      "text": "estenosis arterial obstructiva",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2115,
+      "end": 2145
+    },
+    {
+      "text": "Hemorrhagic transformation PH2 in right MCA territory infarction with moderate mass effect",
+      "type": "PATOLOGIA",
+      "start": 2241,
+      "end": 2331
+    },
+    {
+      "text": "TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANGIOTC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 2359,
+      "end": 2426
+    }
+  ],
+  "regenerado": true,
+  "fecha_regeneracion": "2025-08-06T05:58:16.754153"
+}

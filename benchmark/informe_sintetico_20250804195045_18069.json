@@ -1,0 +1,113 @@
+{
+  "document_id": "informe_sintetico_20250804195045_18069",
+  "entities": [
+    {
+      "text": "microhemorragias",
+      "type": "PATOLOGIA",
+      "start": 578,
+      "end": 594
+    },
+    {
+      "text": "bilateral",
+      "type": "LATERALIDAD",
+      "start": 493,
+      "end": 502
+    },
+    {
+      "text": "sustancia blanca subcortical",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 509,
+      "end": 537
+    },
+    {
+      "text": "núcleos profundos",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 543,
+      "end": 560
+    },
+    {
+      "text": "colecciones hemáticas voluminosas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 613,
+      "end": 646
+    },
+    {
+      "text": "sangrado subaracnoideo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 650,
+      "end": 672
+    },
+    {
+      "text": "edema parenquimatoso agudo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 755,
+      "end": 781
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1035,
+      "end": 1049
+    },
+    {
+      "text": "estenosis",
+      "type": "PATOLOGIA",
+      "start": 1179,
+      "end": 1188
+    },
+    {
+      "text": "oclusión",
+      "type": "PATOLOGIA",
+      "start": 1192,
+      "end": 1200
+    },
+    {
+      "text": "aneurismas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1220,
+      "end": 1230
+    },
+    {
+      "text": "malformaciones vasculares",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1234,
+      "end": 1259
+    },
+    {
+      "text": "hemorragia masiva",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1525,
+      "end": 1542
+    },
+    {
+      "text": "isquemia cerebral aguda",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1581,
+      "end": 1604
+    },
+    {
+      "text": "lesiones vasculares aparentes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1672,
+      "end": 1701
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 278,
+      "end": 294
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 305,
+      "end": 326
+    },
+    {
+      "text": "AngioTC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 329,
+      "end": 358
+    }
+  ]
+}

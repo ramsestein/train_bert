@@ -1,0 +1,155 @@
+{
+  "document_id": "informe_sintetico_20250804195045_23017",
+  "entities": [
+    {
+      "text": "ictus isquémico",
+      "type": "PATOLOGIA",
+      "start": 232,
+      "end": 247
+    },
+    {
+      "text": "arteria cerebral media",
+      "type": "ARTERIA",
+      "start": 265,
+      "end": 287
+    },
+    {
+      "text": "ASPECTS 9/10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 607,
+      "end": 619
+    },
+    {
+      "text": "isquemia",
+      "type": "PATOLOGIA",
+      "start": 724,
+      "end": 732
+    },
+    {
+      "text": "arteria cerebral media (ACM)",
+      "type": "ARTERIA",
+      "start": 765,
+      "end": 793
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 690,
+      "end": 699
+    },
+    {
+      "text": "MTT",
+      "type": "MEDIDA",
+      "start": 998,
+      "end": 1001
+    },
+    {
+      "text": "TTP",
+      "type": "MEDIDA",
+      "start": 1024,
+      "end": 1027
+    },
+    {
+      "text": "CBF",
+      "type": "MEDIDA",
+      "start": 1116,
+      "end": 1119
+    },
+    {
+      "text": "CBV",
+      "type": "MEDIDA",
+      "start": 1150,
+      "end": 1153
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 1586,
+      "end": 1600
+    },
+    {
+      "text": "arteria cerebral media izquierda (segmentos M2-M3)",
+      "type": "ARTERIA",
+      "start": 1628,
+      "end": 1678
+    },
+    {
+      "text": "ASPECTS 9/10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 607,
+      "end": 619
+    },
+    {
+      "text": "hemorragia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 549,
+      "end": 559
+    },
+    {
+      "text": "oclusión",
+      "type": "PATOLOGIA",
+      "start": 1291,
+      "end": 1299
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "ARTERIA",
+      "start": 1333,
+      "end": 1365
+    },
+    {
+      "text": "M2-M3",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1320,
+      "end": 1325
+    },
+    {
+      "text": "M1",
+      "type": "ARTERIA",
+      "start": 1388,
+      "end": 1390
+    },
+    {
+      "text": "carótidas",
+      "type": "ARTERIA",
+      "start": 1458,
+      "end": 1467
+    },
+    {
+      "text": "arterias vertebrales",
+      "type": "ARTERIA",
+      "start": 1471,
+      "end": 1491
+    },
+    {
+      "text": "distal",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1312,
+      "end": 1318
+    },
+    {
+      "text": "arteria cerebral media izquierda (M2/M3)",
+      "type": "ARTERIA",
+      "start": 2219,
+      "end": 2259
+    },
+    {
+      "text": "penumbra",
+      "type": "PATOLOGIA",
+      "start": 1189,
+      "end": 1197
+    },
+    {
+      "text": "oclusión",
+      "type": "PATOLOGIA",
+      "start": 1291,
+      "end": 1299
+    },
+    {
+      "text": "angio-TC",
+      "type": "TECNICA_IMAGEN",
+      "start": 369,
+      "end": 377
+    }
+  ]
+}

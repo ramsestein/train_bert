@@ -1,0 +1,181 @@
+{
+  "document_id": "informe_sintetico_20250804195045_21632",
+  "entities": [
+    {
+      "text": "ictus isquémico",
+      "type": "PATOLOGIA",
+      "start": 219,
+      "end": 234
+    },
+    {
+      "text": "hipodensidad extensa",
+      "type": "PATOLOGIA",
+      "start": 392,
+      "end": 412
+    },
+    {
+      "text": "infarto cerebral establecido",
+      "type": "PATOLOGIA",
+      "start": 551,
+      "end": 579
+    },
+    {
+      "text": "sangrado intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 723,
+      "end": 744
+    },
+    {
+      "text": "hematomas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 748,
+      "end": 757
+    },
+    {
+      "text": "reducción marcada del flujo cerebral",
+      "type": "PATOLOGIA",
+      "start": 866,
+      "end": 902
+    },
+    {
+      "text": "volumen cerebral",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 911,
+      "end": 927
+    },
+    {
+      "text": "tiempo de tránsito medio",
+      "type": "MEDIDA",
+      "start": 982,
+      "end": 1006
+    },
+    {
+      "text": "tiempo hasta el pico",
+      "type": "MEDIDA",
+      "start": 1015,
+      "end": 1035
+    },
+    {
+      "text": "penumbra viable",
+      "type": "PATOLOGIA",
+      "start": 1175,
+      "end": 1190
+    },
+    {
+      "text": "oclusión completa",
+      "type": "PATOLOGIA",
+      "start": 1700,
+      "end": 1717
+    },
+    {
+      "text": "arteria carótida interna izquierda",
+      "type": "ARTERIA",
+      "start": 1248,
+      "end": 1282
+    },
+    {
+      "text": "segmento cavernoso-proximal intracraneal",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1289,
+      "end": 1329
+    },
+    {
+      "text": "arterias del polígono de Willis",
+      "type": "ARTERIA",
+      "start": 1448,
+      "end": 1479
+    },
+    {
+      "text": "flujo normal",
+      "type": "PATOLOGIA",
+      "start": 1594,
+      "end": 1606
+    },
+    {
+      "text": "territorio de la arteria cerebral media izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 416,
+      "end": 465
+    },
+    {
+      "text": "corteza fronto-parietal",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 480,
+      "end": 503
+    },
+    {
+      "text": "territorio insular",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 516,
+      "end": 534
+    },
+    {
+      "text": "línea media",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 677,
+      "end": 688
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 698,
+      "end": 705
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 456,
+      "end": 465
+    },
+    {
+      "text": "significativo",
+      "type": "PUNTUACION_CLINICA",
+      "start": 602,
+      "end": 615
+    },
+    {
+      "text": "urgente",
+      "type": "PUNTUACION_CLINICA",
+      "start": 1968,
+      "end": 1975
+    },
+    {
+      "text": "TC craneal sin contraste",
+      "type": "TECNICA_IMAGEN",
+      "start": 255,
+      "end": 279
+    },
+    {
+      "text": "perfusión cerebral dinámica",
+      "type": "TECNICA_IMAGEN",
+      "start": 281,
+      "end": 308
+    },
+    {
+      "text": "AngioTC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 311,
+      "end": 340
+    },
+    {
+      "text": "infarto cerebral extenso",
+      "type": "PATOLOGIA",
+      "start": 2207,
+      "end": 2231
+    },
+    {
+      "text": "zona de penumbra",
+      "type": "PATOLOGIA",
+      "start": 1873,
+      "end": 1889
+    },
+    {
+      "text": "posible estudio vascular complementario",
+      "type": "TEMPORALIDAD",
+      "start": 2034,
+      "end": 2073
+    }
+  ],
+  "regenerado": true,
+  "fecha_regeneracion": "2025-08-06T10:48:28.998153"
+}

@@ -1,0 +1,95 @@
+{
+  "document_id": "informe_sintetico_20250804195045_16387",
+  "entities": [
+    {
+      "text": "infarto agudo",
+      "type": "PATOLOGIA",
+      "start": 740,
+      "end": 753
+    },
+    {
+      "text": "región frontoparietal derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 643,
+      "end": 672
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "ARTERIA",
+      "start": 774,
+      "end": 804
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 665,
+      "end": 672
+    },
+    {
+      "text": "ASPECTS 7",
+      "type": "PUNTUACION_CLINICA",
+      "start": 806,
+      "end": 815
+    },
+    {
+      "text": "tiempo de tránsito medio (MTT)",
+      "type": "MEDIDA",
+      "start": 1104,
+      "end": 1134
+    },
+    {
+      "text": "tiempo hasta el pico (TTP)",
+      "type": "MEDIDA",
+      "start": 1137,
+      "end": 1163
+    },
+    {
+      "text": "ACM",
+      "type": "ARTERIA",
+      "start": 1189,
+      "end": 1192
+    },
+    {
+      "text": "infarto",
+      "type": "PATOLOGIA",
+      "start": 307,
+      "end": 314
+    },
+    {
+      "text": "penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1329,
+      "end": 1347
+    },
+    {
+      "text": "arteria carótida interna derecha",
+      "type": "ARTERIA",
+      "start": 1493,
+      "end": 1525
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 665,
+      "end": 672
+    },
+    {
+      "text": "doble luz",
+      "type": "PATOLOGIA",
+      "start": 1587,
+      "end": 1596
+    },
+    {
+      "text": "hemorragias",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 545,
+      "end": 556
+    },
+    {
+      "text": "edema cerebral masivo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 845,
+      "end": 866
+    }
+  ]
+}

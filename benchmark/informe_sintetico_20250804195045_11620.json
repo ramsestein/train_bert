@@ -1,0 +1,137 @@
+{
+  "document_id": "informe_sintetico_20250804195045_11620",
+  "entities": [
+    {
+      "text": "ictus isquémico agudo",
+      "type": "PATOLOGIA",
+      "start": 256,
+      "end": 277
+    },
+    {
+      "text": "arteria hiperdensa",
+      "type": "PATOLOGIA",
+      "start": 481,
+      "end": 499
+    },
+    {
+      "text": "trombosis arterial aguda",
+      "type": "PATOLOGIA",
+      "start": 570,
+      "end": 594
+    },
+    {
+      "text": "lesión isquémica área crítica",
+      "type": "PATOLOGIA",
+      "start": 765,
+      "end": 794
+    },
+    {
+      "text": "hemorragias intra ni extraaxiales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 813,
+      "end": 846
+    },
+    {
+      "text": "edema significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 850,
+      "end": 869
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 521,
+      "end": 553
+    },
+    {
+      "text": "segmento M1",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 503,
+      "end": 514
+    },
+    {
+      "text": "ASPECTS 6",
+      "type": "PUNTUACION_CLINICA",
+      "start": 1662,
+      "end": 1671
+    },
+    {
+      "text": "segmento M1 izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1330,
+      "end": 1351
+    },
+    {
+      "text": "trombótica",
+      "type": "PATOLOGIA",
+      "start": 1635,
+      "end": 1645
+    },
+    {
+      "text": "penumbra",
+      "type": "PATOLOGIA",
+      "start": 1185,
+      "end": 1193
+    },
+    {
+      "text": "hemorragias",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 813,
+      "end": 824
+    },
+    {
+      "text": "edema masivo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1790,
+      "end": 1802
+    },
+    {
+      "text": "arteria cerebral media",
+      "type": "ARTERIA",
+      "start": 521,
+      "end": 543
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 544,
+      "end": 553
+    },
+    {
+      "text": "arterias intracraneales",
+      "type": "ARTERIA",
+      "start": 2269,
+      "end": 2292
+    },
+    {
+      "text": "circulación colateral escasa",
+      "type": "PATOLOGIA",
+      "start": 2315,
+      "end": 2343
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 298,
+      "end": 314
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 330,
+      "end": 351
+    },
+    {
+      "text": "angio TC intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 355,
+      "end": 376
+    },
+    {
+      "text": "signo de arteria hiperdensa",
+      "type": "PATOLOGIA",
+      "start": 472,
+      "end": 499
+    }
+  ]
+}

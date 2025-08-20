@@ -1,0 +1,53 @@
+{
+  "document_id": "informe_sintetico_20250804195045_07186",
+  "entities": [
+    {
+      "text": "hemorragia aguda",
+      "type": "PATOLOGIA",
+      "start": 370,
+      "end": 386
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 516,
+      "end": 530
+    },
+    {
+      "text": "hidrocefalia",
+      "type": "PATOLOGIA",
+      "start": 619,
+      "end": 631
+    },
+    {
+      "text": "ACM",
+      "type": "ARTERIA",
+      "start": 1012,
+      "end": 1015
+    },
+    {
+      "text": "ACA",
+      "type": "ARTERIA",
+      "start": 1017,
+      "end": 1020
+    },
+    {
+      "text": "ACP",
+      "type": "ARTERIA",
+      "start": 1022,
+      "end": 1025
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 1316,
+      "end": 1326
+    },
+    {
+      "text": "sin relevancia para el cuadro clínico actual",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1209,
+      "end": 1253
+    }
+  ]
+}

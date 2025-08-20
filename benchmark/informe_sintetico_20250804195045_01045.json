@@ -1,0 +1,53 @@
+{
+  "document_id": "informe_sintetico_20250804195045_01045",
+  "entities": [
+    {
+      "text": "infarto lacunar agudo",
+      "type": "PATOLOGIA",
+      "start": 582,
+      "end": 603
+    },
+    {
+      "text": "cápsula interna izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 540,
+      "end": 565
+    },
+    {
+      "text": "8 mm",
+      "type": "MEDIDA",
+      "start": 478,
+      "end": 482
+    },
+    {
+      "text": "agudo",
+      "type": "TEMPORALIDAD",
+      "start": 598,
+      "end": 603
+    },
+    {
+      "text": "isquémica pequeña reciente",
+      "type": "PATOLOGIA",
+      "start": 1034,
+      "end": 1060
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "ARTERIA",
+      "start": 1214,
+      "end": 1246
+    },
+    {
+      "text": "sin signos de oclusión",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1274,
+      "end": 1296
+    },
+    {
+      "text": "sin signos de hemorragia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2109,
+      "end": 2133
+    }
+  ]
+}

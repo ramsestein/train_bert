@@ -1,0 +1,65 @@
+{
+  "document_id": "informe_sintetico_20250804195045_17118",
+  "entities": [
+    {
+      "text": "infarto isquémico reciente",
+      "type": "PATOLOGIA",
+      "start": 594,
+      "end": 620
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 545,
+      "end": 577
+    },
+    {
+      "text": "MCA izquierda",
+      "type": "ARTERIA",
+      "start": 1429,
+      "end": 1442
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 568,
+      "end": 577
+    },
+    {
+      "text": ">30%",
+      "type": "MEDIDA",
+      "start": 797,
+      "end": 801
+    },
+    {
+      "text": "agudo",
+      "type": "TEMPORALIDAD",
+      "start": 187,
+      "end": 192
+    },
+    {
+      "text": "PH2",
+      "type": "PUNTUACION_CLINICA",
+      "start": 792,
+      "end": 795
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 324,
+      "end": 340
+    },
+    {
+      "text": "No se observan hemorragias intraventriculares ni subaracnoideas asociadas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 915,
+      "end": 988
+    },
+    {
+      "text": "No signos de hemorragia intraventricular ni efecto masa significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1876,
+      "end": 1945
+    }
+  ]
+}

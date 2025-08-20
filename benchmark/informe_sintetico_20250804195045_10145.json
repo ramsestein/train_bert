@@ -1,0 +1,211 @@
+{
+  "document_id": "informe_sintetico_20250804195045_10145",
+  "entities": [
+    {
+      "text": "cefalea crónica",
+      "type": "PATOLOGIA",
+      "start": 205,
+      "end": 220
+    },
+    {
+      "text": "hemorragia intraparenquimatosa",
+      "type": "PATOLOGIA",
+      "start": 446,
+      "end": 476
+    },
+    {
+      "text": "infarto agudo",
+      "type": "PATOLOGIA",
+      "start": 495,
+      "end": 508
+    },
+    {
+      "text": "cambios inespecíficos de enfermedad microvascular crónica",
+      "type": "PATOLOGIA",
+      "start": 605,
+      "end": 662
+    },
+    {
+      "text": "hipodensidad periventricular",
+      "type": "PATOLOGIA",
+      "start": 672,
+      "end": 700
+    },
+    {
+      "text": "lesiones lacunares",
+      "type": "PATOLOGIA",
+      "start": 768,
+      "end": 786
+    },
+    {
+      "text": "áreas de gliosis focal",
+      "type": "PATOLOGIA",
+      "start": 790,
+      "end": 812
+    },
+    {
+      "text": "dilatación",
+      "type": "PATOLOGIA",
+      "start": 938,
+      "end": 948
+    },
+    {
+      "text": "deformidad",
+      "type": "PATOLOGIA",
+      "start": 952,
+      "end": 962
+    },
+    {
+      "text": "hipoperfusión",
+      "type": "PATOLOGIA",
+      "start": 1165,
+      "end": 1178
+    },
+    {
+      "text": "retrasos significativos",
+      "type": "PATOLOGIA",
+      "start": 1182,
+      "end": 1205
+    },
+    {
+      "text": "ateromatosis significativa",
+      "type": "PATOLOGIA",
+      "start": 1357,
+      "end": 1383
+    },
+    {
+      "text": "estenosis",
+      "type": "PATOLOGIA",
+      "start": 1387,
+      "end": 1396
+    },
+    {
+      "text": "aneurismas",
+      "type": "PATOLOGIA",
+      "start": 1625,
+      "end": 1635
+    },
+    {
+      "text": "malformaciones arteriovenosas",
+      "type": "PATOLOGIA",
+      "start": 1638,
+      "end": 1667
+    },
+    {
+      "text": "microangiopatía",
+      "type": "PATOLOGIA",
+      "start": 1784,
+      "end": 1799
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 581,
+      "end": 591
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 581,
+      "end": 591
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 266,
+      "end": 282
+    },
+    {
+      "text": "sistema ventricular",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 868,
+      "end": 887
+    },
+    {
+      "text": "arterias cerebrales anteriores",
+      "type": "ARTERIA",
+      "start": 1427,
+      "end": 1457
+    },
+    {
+      "text": "bilaterales",
+      "type": "LATERALIDAD",
+      "start": 738,
+      "end": 749
+    },
+    {
+      "text": "sin contraste",
+      "type": "TECNICA_IMAGEN",
+      "start": 283,
+      "end": 296
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 298,
+      "end": 319
+    },
+    {
+      "text": "angio-TC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 322,
+      "end": 352
+    },
+    {
+      "text": "contraste intravenoso",
+      "type": "TECNICA_IMAGEN",
+      "start": 357,
+      "end": 378
+    },
+    {
+      "text": "sin hallazgos de patología aguda",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1711,
+      "end": 1743
+    },
+    {
+      "text": "sin dilatación",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 934,
+      "end": 948
+    },
+    {
+      "text": "sin evidencias de ateromatosis significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1339,
+      "end": 1383
+    },
+    {
+      "text": "sin estrechamientos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1492,
+      "end": 1511
+    },
+    {
+      "text": "sin signos de ectasia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1577,
+      "end": 1598
+    },
+    {
+      "text": "sin estenosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1908,
+      "end": 1921
+    },
+    {
+      "text": "dentro de límites normales",
+      "type": "TEMPORALIDAD",
+      "start": 1075,
+      "end": 1101
+    },
+    {
+      "text": "en todos los territorios evaluados",
+      "type": "TEMPORALIDAD",
+      "start": 1102,
+      "end": 1136
+    }
+  ],
+  "regenerado": true,
+  "fecha_regeneracion": "2025-08-06T03:18:51.088397"
+}

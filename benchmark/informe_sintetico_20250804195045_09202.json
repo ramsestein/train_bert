@@ -1,0 +1,65 @@
+{
+  "document_id": "informe_sintetico_20250804195045_09202",
+  "entities": [
+    {
+      "text": "contusión hemorrágica traumática",
+      "type": "PATOLOGIA",
+      "start": 502,
+      "end": 534
+    },
+    {
+      "text": "lóbulo temporal derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 538,
+      "end": 561
+    },
+    {
+      "text": "18 x 12 x 10 mm",
+      "type": "MEDIDA",
+      "start": 615,
+      "end": 630
+    },
+    {
+      "text": "derecho",
+      "type": "LATERALIDAD",
+      "start": 554,
+      "end": 561
+    },
+    {
+      "text": "sin evidencia de isquemia extensa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1186,
+      "end": 1219
+    },
+    {
+      "text": "sin signos de disección ni estenosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1290,
+      "end": 1326
+    },
+    {
+      "text": "sin hemorragias adicionales ni compromiso vascular detectable",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1583,
+      "end": 1644
+    },
+    {
+      "text": "alteración focal secundaria a lesión traumática",
+      "type": "PATOLOGIA",
+      "start": 1137,
+      "end": 1184
+    },
+    {
+      "text": "ACAs, ACMs, ACPs",
+      "type": "ARTERIA",
+      "start": 1361,
+      "end": 1377
+    },
+    {
+      "text": "24-48 horas",
+      "type": "TEMPORALIDAD",
+      "start": 1813,
+      "end": 1824
+    }
+  ]
+}

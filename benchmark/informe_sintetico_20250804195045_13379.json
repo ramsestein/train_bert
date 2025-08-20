@@ -1,0 +1,59 @@
+{
+  "document_id": "informe_sintetico_20250804195045_13379",
+  "entities": [
+    {
+      "text": "hemorragia aguda",
+      "type": "PATOLOGIA",
+      "start": 534,
+      "end": 550
+    },
+    {
+      "text": "focos isquémicos recientes",
+      "type": "PATOLOGIA",
+      "start": 554,
+      "end": 580
+    },
+    {
+      "text": "puntuación ASPECTS 10/10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 651,
+      "end": 675
+    },
+    {
+      "text": "microangiopatía crónica",
+      "type": "PATOLOGIA",
+      "start": 699,
+      "end": 722
+    },
+    {
+      "text": "cambios isquémicos antiguos",
+      "type": "PATOLOGIA",
+      "start": 835,
+      "end": 862
+    },
+    {
+      "text": "sin estenosis ni oclusiones significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1280,
+      "end": 1322
+    },
+    {
+      "text": "sin repercusión hemodinámica",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1415,
+      "end": 1443
+    },
+    {
+      "text": "sin evidencia de patología isquémica o hemorrágica aguda",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1625,
+      "end": 1681
+    },
+    {
+      "text": "sin estenosis oclusivas relevantes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1798,
+      "end": 1832
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "document_id": "informe_sintetico_20250804195045_20470",
+  "entities": [
+    {
+      "text": "microhemorragias",
+      "type": "PATOLOGIA",
+      "start": 685,
+      "end": 701
+    },
+    {
+      "text": "sustancia blanca subcortical",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 593,
+      "end": 621
+    },
+    {
+      "text": "lóbulos frontales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 625,
+      "end": 642
+    },
+    {
+      "text": "hemorragias intraparenquimatosas extensas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 761,
+      "end": 802
+    },
+    {
+      "text": "edema perifocal significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 865,
+      "end": 894
+    },
+    {
+      "text": "lesiones isquémicas agudas ni crónicas de relevancia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1012,
+      "end": 1064
+    },
+    {
+      "text": "arterias cerebrales",
+      "type": "ARTERIA",
+      "start": 1283,
+      "end": 1302
+    },
+    {
+      "text": "estenosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1319,
+      "end": 1328
+    },
+    {
+      "text": "defectos de repleción",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1332,
+      "end": 1353
+    },
+    {
+      "text": "Ateromatosis leve calcificada",
+      "type": "PATOLOGIA",
+      "start": 1355,
+      "end": 1384
+    },
+    {
+      "text": "bifurcaciones carotídeas",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1388,
+      "end": 1412
+    },
+    {
+      "text": "microangiopatía cerebral hemorrágica",
+      "type": "PATOLOGIA",
+      "start": 1801,
+      "end": 1837
+    },
+    {
+      "text": "trauma cerebral leve",
+      "type": "PATOLOGIA",
+      "start": 1851,
+      "end": 1871
+    },
+    {
+      "text": "TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANG IOTC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 72,
+      "end": 140
+    },
+    {
+      "text": "TC craneal basal urgente",
+      "type": "TECNICA_IMAGEN",
+      "start": 310,
+      "end": 334
+    },
+    {
+      "text": "perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 337,
+      "end": 355
+    },
+    {
+      "text": "angio-TC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 358,
+      "end": 388
+    }
+  ]
+}

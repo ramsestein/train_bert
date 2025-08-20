@@ -1,0 +1,119 @@
+{
+  "document_id": "informe_sintetico_20250804195045_03996",
+  "entities": [
+    {
+      "text": "hematoma subdural agudo",
+      "type": "PATOLOGIA",
+      "start": 550,
+      "end": 573
+    },
+    {
+      "text": "espacio subdural frontotemporal izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 492,
+      "end": 533
+    },
+    {
+      "text": "izquierdo",
+      "type": "LATERALIDAD",
+      "start": 524,
+      "end": 533
+    },
+    {
+      "text": "6 mm",
+      "type": "MEDIDA",
+      "start": 663,
+      "end": 667
+    },
+    {
+      "text": "agudo",
+      "type": "TEMPORALIDAD",
+      "start": 568,
+      "end": 573
+    },
+    {
+      "text": "efecto de masa",
+      "type": "PATOLOGIA",
+      "start": 685,
+      "end": 699
+    },
+    {
+      "text": "ventrículo lateral izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 719,
+      "end": 747
+    },
+    {
+      "text": "izquierdo",
+      "type": "LATERALIDAD",
+      "start": 524,
+      "end": 533
+    },
+    {
+      "text": "edema reactivo",
+      "type": "PATOLOGIA",
+      "start": 882,
+      "end": 896
+    },
+    {
+      "text": "isquemia establecida",
+      "type": "PATOLOGIA",
+      "start": 1319,
+      "end": 1339
+    },
+    {
+      "text": "sin zonas de isquemia establecida ni penumbra definida",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1306,
+      "end": 1360
+    },
+    {
+      "text": "arterias cerebrales anteriores, medias y posteriores",
+      "type": "ARTERIA",
+      "start": 1523,
+      "end": 1575
+    },
+    {
+      "text": "sin evidencia de estenosis, oclusiones ni malformaciones vasculares",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1578,
+      "end": 1645
+    },
+    {
+      "text": "Hematoma subdural agudo frontotemporal izquierdo",
+      "type": "PATOLOGIA",
+      "start": 1670,
+      "end": 1718
+    },
+    {
+      "text": "izquierdo",
+      "type": "LATERALIDAD",
+      "start": 524,
+      "end": 533
+    },
+    {
+      "text": "compromiso perfusional focal",
+      "type": "PATOLOGIA",
+      "start": 2217,
+      "end": 2245
+    },
+    {
+      "text": "TC CRANEAL BASAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 289,
+      "end": 305
+    },
+    {
+      "text": "TC PERFUSIÓN CEREBRAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 308,
+      "end": 329
+    },
+    {
+      "text": "ANGIO-TC INTRACRANEAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 332,
+      "end": 353
+    }
+  ]
+}

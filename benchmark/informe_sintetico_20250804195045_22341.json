@@ -1,0 +1,101 @@
+{
+  "document_id": "informe_sintetico_20250804195045_22341",
+  "entities": [
+    {
+      "text": "infarto cerebral subagudo",
+      "type": "PATOLOGIA",
+      "start": 529,
+      "end": 554
+    },
+    {
+      "text": "transformación hemorrágica tipo HI2",
+      "type": "PATOLOGIA",
+      "start": 588,
+      "end": 623
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 483,
+      "end": 513
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 506,
+      "end": 513
+    },
+    {
+      "text": "más del 30% pero menos del 50%",
+      "type": "MEDIDA",
+      "start": 693,
+      "end": 723
+    },
+    {
+      "text": "ASPECTS 7",
+      "type": "PUNTUACION_CLINICA",
+      "start": 898,
+      "end": 907
+    },
+    {
+      "text": "flujo cerebral (CBF)",
+      "type": "PATOLOGIA",
+      "start": 1109,
+      "end": 1129
+    },
+    {
+      "text": "zona de penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1221,
+      "end": 1247
+    },
+    {
+      "text": "oclusión en segmento proximal de la arteria cerebral media derecha (M1)",
+      "type": "PATOLOGIA",
+      "start": 1320,
+      "end": 1391
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 506,
+      "end": 513
+    },
+    {
+      "text": "sin signos de hidrocefalia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 973,
+      "end": 999
+    },
+    {
+      "text": "sin alteraciones",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1596,
+      "end": 1612
+    },
+    {
+      "text": "Evolución clínica y manejo neurológico urgente recomendados",
+      "type": "TEMPORALIDAD",
+      "start": 1836,
+      "end": 1895
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 317,
+      "end": 333
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 335,
+      "end": 356
+    },
+    {
+      "text": "Angio-TC arterial intra y extracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 358,
+      "end": 396
+    }
+  ]
+}

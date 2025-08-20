@@ -1,0 +1,107 @@
+{
+  "document_id": "0000000010000000061590001_cleaned",
+  "entities": [
+    {
+      "text": "hematoma intraparenquimatoso profundo capsuloganglionar izquierdo",
+      "type": "PATOLOGIA",
+      "start": 260,
+      "end": 325
+    },
+    {
+      "text": "12 x 6 x 13 mm",
+      "type": "MEDIDA",
+      "start": 329,
+      "end": 343
+    },
+    {
+      "text": "0,5 cc",
+      "type": "MEDIDA",
+      "start": 362,
+      "end": 368
+    },
+    {
+      "text": "edema perilesional",
+      "type": "PATOLOGIA",
+      "start": 388,
+      "end": 406
+    },
+    {
+      "text": "No se observan otras lesiones hemorrágicas intra ni extraaxiales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 448,
+      "end": 512
+    },
+    {
+      "text": "Hipodensidad de sustancia blanca periventricular y subcortical",
+      "type": "PATOLOGIA",
+      "start": 514,
+      "end": 576
+    },
+    {
+      "text": "enfermedad crónica de pequeño vaso en grado severo",
+      "type": "PATOLOGIA",
+      "start": 593,
+      "end": 643
+    },
+    {
+      "text": "Leve pérdida de volumen encefálico",
+      "type": "PATOLOGIA",
+      "start": 645,
+      "end": 679
+    },
+    {
+      "text": "Línea media centrada",
+      "type": "PATOLOGIA",
+      "start": 765,
+      "end": 785
+    },
+    {
+      "text": "Cisternas basales libres",
+      "type": "PATOLOGIA",
+      "start": 819,
+      "end": 843
+    },
+    {
+      "text": "Ocupación de celdillas otomastoideas derechas",
+      "type": "PATOLOGIA",
+      "start": 845,
+      "end": 890
+    },
+    {
+      "text": "No se observan trazos de fracturas evidentes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 892,
+      "end": 936
+    },
+    {
+      "text": "Pequeño hematoma intraparenquimatoso profundo capsuloganglionar izquierdo",
+      "type": "PATOLOGIA",
+      "start": 252,
+      "end": 325
+    },
+    {
+      "text": "sin ejercer efecto de masa significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1075,
+      "end": 1115
+    },
+    {
+      "text": "No se observan otros signos de patología intracraneal aguda",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1117,
+      "end": 1176
+    },
+    {
+      "text": "TC CRANEAL BASAL URGENTE",
+      "type": "TECNICA_IMAGEN",
+      "start": 206,
+      "end": 230
+    },
+    {
+      "text": "TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANG IOTC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 72,
+      "end": 140
+    }
+  ]
+}

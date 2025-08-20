@@ -1,0 +1,143 @@
+{
+  "document_id": "informe_sintetico_20250804195045_11095",
+  "entities": [
+    {
+      "text": "infarto agudo",
+      "type": "PATOLOGIA",
+      "start": 628,
+      "end": 641
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 670,
+      "end": 693
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 527,
+      "end": 559
+    },
+    {
+      "text": "corteza insular",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 576,
+      "end": 591
+    },
+    {
+      "text": "corona radiada",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 597,
+      "end": 611
+    },
+    {
+      "text": "isquémico",
+      "type": "PATOLOGIA",
+      "start": 1099,
+      "end": 1108
+    },
+    {
+      "text": "disección arterial",
+      "type": "PATOLOGIA",
+      "start": 238,
+      "end": 256
+    },
+    {
+      "text": "carótida interna izquierda",
+      "type": "ARTERIA",
+      "start": 1301,
+      "end": 1327
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "ARTERIA",
+      "start": 527,
+      "end": 559
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 670,
+      "end": 693
+    },
+    {
+      "text": "TC CRANEAL BASAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 458,
+      "end": 474
+    },
+    {
+      "text": "perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 362,
+      "end": 380
+    },
+    {
+      "text": "ANGIO-TC",
+      "type": "TECNICA_IMAGEN",
+      "start": 1157,
+      "end": 1165
+    },
+    {
+      "text": "TC PERFUSIÓN",
+      "type": "TECNICA_IMAGEN",
+      "start": 833,
+      "end": 845
+    },
+    {
+      "text": "aumento en el tiempo de tránsito medio (TTM)",
+      "type": "MEDIDA",
+      "start": 877,
+      "end": 921
+    },
+    {
+      "text": "retraso en el tiempo al pico (TTP)",
+      "type": "MEDIDA",
+      "start": 924,
+      "end": 958
+    },
+    {
+      "text": "disminución marcada del volumen cerebral (CBV)",
+      "type": "MEDIDA",
+      "start": 989,
+      "end": 1035
+    },
+    {
+      "text": "flujo cerebral (CBF)",
+      "type": "MEDIDA",
+      "start": 1038,
+      "end": 1058
+    },
+    {
+      "text": "zona penumbra",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1131,
+      "end": 1144
+    },
+    {
+      "text": "irregularidad y estrechamiento filamentoso",
+      "type": "PATOLOGIA",
+      "start": 1203,
+      "end": 1245
+    },
+    {
+      "text": "doble luz",
+      "type": "PATOLOGIA",
+      "start": 1333,
+      "end": 1342
+    },
+    {
+      "text": "trombos oclusivos completos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1394,
+      "end": 1421
+    },
+    {
+      "text": "sin estenosis significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1491,
+      "end": 1519
+    }
+  ]
+}

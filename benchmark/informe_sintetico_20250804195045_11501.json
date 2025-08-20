@@ -1,0 +1,65 @@
+{
+  "document_id": "informe_sintetico_20250804195045_11501",
+  "entities": [
+    {
+      "text": "ictus isquémico",
+      "type": "PATOLOGIA",
+      "start": 208,
+      "end": 223
+    },
+    {
+      "text": "ASPECTS 9/10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 593,
+      "end": 605
+    },
+    {
+      "text": "borramiento cortical en región opercular y frontoparietal izquierda",
+      "type": "PATOLOGIA",
+      "start": 620,
+      "end": 687
+    },
+    {
+      "text": "Tmax prolongado",
+      "type": "MEDIDA",
+      "start": 844,
+      "end": 859
+    },
+    {
+      "text": "descenso moderado del flujo sanguíneo cerebral (CBF)",
+      "type": "PATOLOGIA",
+      "start": 863,
+      "end": 915
+    },
+    {
+      "text": "arteria cerebral media (ACM) izquierda",
+      "type": "ARTERIA",
+      "start": 943,
+      "end": 981
+    },
+    {
+      "text": "segmentos M2/M3",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 993,
+      "end": 1008
+    },
+    {
+      "text": "hipoperfusión isquémica",
+      "type": "PATOLOGIA",
+      "start": 1025,
+      "end": 1048
+    },
+    {
+      "text": "Oclusión en rama distal frontal (segmento M2) de ACM izquierda",
+      "type": "PATOLOGIA",
+      "start": 1314,
+      "end": 1376
+    },
+    {
+      "text": "sin hallazgos patológicos relevantes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1443,
+      "end": 1479
+    }
+  ]
+}

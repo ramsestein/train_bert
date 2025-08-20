@@ -1,0 +1,53 @@
+{
+  "document_id": "informe_sintetico_20250804195045_07692",
+  "entities": [
+    {
+      "text": "hemorragia intraventricular primaria",
+      "type": "PATOLOGIA",
+      "start": 609,
+      "end": 645
+    },
+    {
+      "text": "sangrado subaracnoideo significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 707,
+      "end": 743
+    },
+    {
+      "text": "dilatación secundaria a la hemorragia intraventricular",
+      "type": "PATOLOGIA",
+      "start": 850,
+      "end": 904
+    },
+    {
+      "text": "signos de efecto masa significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 921,
+      "end": 956
+    },
+    {
+      "text": "signos de fracturas óseas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1000,
+      "end": 1025
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 1196,
+      "end": 1210
+    },
+    {
+      "text": "ACAs, ACMs, ACPs",
+      "type": "ARTERIA",
+      "start": 1285,
+      "end": 1301
+    },
+    {
+      "text": "sangrado parenquimatoso",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1640,
+      "end": 1663
+    }
+  ]
+}

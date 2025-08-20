@@ -1,0 +1,89 @@
+{
+  "document_id": "informe_sintetico_20250804195045_16732",
+  "entities": [
+    {
+      "text": "infarto isquémico agudo",
+      "type": "PATOLOGIA",
+      "start": 820,
+      "end": 843
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "ARTERIA",
+      "start": 627,
+      "end": 657
+    },
+    {
+      "text": "corteza insular",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 672,
+      "end": 687
+    },
+    {
+      "text": "opercular",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 689,
+      "end": 698
+    },
+    {
+      "text": "núcleo lenticular",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 711,
+      "end": 728
+    },
+    {
+      "text": "ASPECTS 6/10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 845,
+      "end": 857
+    },
+    {
+      "text": "No se observan signos de hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 859,
+      "end": 907
+    },
+    {
+      "text": "Oclusión completa de la arteria carótida interna derecha",
+      "type": "PATOLOGIA",
+      "start": 1492,
+      "end": 1548
+    },
+    {
+      "text": "arteria carótida interna derecha",
+      "type": "ARTERIA",
+      "start": 1516,
+      "end": 1548
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "ARTERIA",
+      "start": 627,
+      "end": 657
+    },
+    {
+      "text": "arteria cerebral anterior",
+      "type": "ARTERIA",
+      "start": 1701,
+      "end": 1726
+    },
+    {
+      "text": "sistema vertebro-basilar",
+      "type": "ARTERIA",
+      "start": 1729,
+      "end": 1753
+    },
+    {
+      "text": "ASPECTS 6/10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 845,
+      "end": 857
+    },
+    {
+      "text": "TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANGIOTC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 2409,
+      "end": 2476
+    }
+  ]
+}

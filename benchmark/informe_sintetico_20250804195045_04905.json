@@ -1,0 +1,131 @@
+{
+  "document_id": "informe_sintetico_20250804195045_04905",
+  "entities": [
+    {
+      "text": "isquemia vertebrobasilar aguda",
+      "type": "PATOLOGIA",
+      "start": 285,
+      "end": 315
+    },
+    {
+      "text": "isquemia aguda reciente",
+      "type": "PATOLOGIA",
+      "start": 866,
+      "end": 889
+    },
+    {
+      "text": "penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1291,
+      "end": 1309
+    },
+    {
+      "text": "tallo cerebral",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 750,
+      "end": 764
+    },
+    {
+      "text": "región pontina derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 2050,
+      "end": 2072
+    },
+    {
+      "text": "arteria vertebral derecha",
+      "type": "ARTERIA",
+      "start": 1500,
+      "end": 1525
+    },
+    {
+      "text": "arteria basilar",
+      "type": "ARTERIA",
+      "start": 2346,
+      "end": 2361
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 1518,
+      "end": 1525
+    },
+    {
+      "text": "bilaterales",
+      "type": "LATERALIDAD",
+      "start": 1600,
+      "end": 1611
+    },
+    {
+      "text": "subtotal",
+      "type": "MEDIDA",
+      "start": 1469,
+      "end": 1477
+    },
+    {
+      "text": "significativa",
+      "type": "MEDIDA",
+      "start": 1202,
+      "end": 1215
+    },
+    {
+      "text": "moderado",
+      "type": "MEDIDA",
+      "start": 2334,
+      "end": 2342
+    },
+    {
+      "text": "aguda",
+      "type": "TEMPORALIDAD",
+      "start": 310,
+      "end": 315
+    },
+    {
+      "text": "aguda",
+      "type": "TEMPORALIDAD",
+      "start": 310,
+      "end": 315
+    },
+    {
+      "text": "No se evidencian hemorragias intra ni extraaxiales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 585,
+      "end": 635
+    },
+    {
+      "text": "No se observan signos de edema masivo ni efecto de masa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 893,
+      "end": 948
+    },
+    {
+      "text": "No se visualizan aneurismas ni malformaciones arteriovenosas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1830,
+      "end": 1890
+    },
+    {
+      "text": "TC Basal + TC Perfusión con mapas de tiempo de tránsito, volumen y flujo + AngioTC extra e intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 401,
+      "end": 504
+    },
+    {
+      "text": "TC CRANEAL BASAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 565,
+      "end": 581
+    },
+    {
+      "text": "TC PERFUSIÓN",
+      "type": "TECNICA_IMAGEN",
+      "start": 1056,
+      "end": 1068
+    },
+    {
+      "text": "ANGIO-TC EXTRA E INTRACRANEAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 1427,
+      "end": 1456
+    }
+  ]
+}

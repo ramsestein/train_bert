@@ -1,0 +1,101 @@
+{
+  "document_id": "informe_sintetico_20250804195045_00319",
+  "entities": [
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 267,
+      "end": 281
+    },
+    {
+      "text": "territorio vertebrobasilar",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 285,
+      "end": 311
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 332,
+      "end": 348
+    },
+    {
+      "text": "No se identifican hemorragias intraparenquimatosas ni hematomas subaracnoideos ni extraaxiales.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 548,
+      "end": 643
+    },
+    {
+      "text": "No se observan lesiones focales densas ni signos de signo del núcleo hiperdenso en arterias intracraneales.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 644,
+      "end": 751
+    },
+    {
+      "text": "discreta hipodensidad",
+      "type": "PATOLOGIA",
+      "start": 854,
+      "end": 875
+    },
+    {
+      "text": "región del puente anterior derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 882,
+      "end": 916
+    },
+    {
+      "text": "territorio vertebrobasilar",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 285,
+      "end": 311
+    },
+    {
+      "text": "bulbo, puente y cerebelo derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1244,
+      "end": 1276
+    },
+    {
+      "text": "área de penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1376,
+      "end": 1402
+    },
+    {
+      "text": "Oclusión completa proximal de la arteria vertebral derecha",
+      "type": "PATOLOGIA",
+      "start": 1526,
+      "end": 1584
+    },
+    {
+      "text": "arteria vertebral derecha",
+      "type": "ARTERIA",
+      "start": 1559,
+      "end": 1584
+    },
+    {
+      "text": "tronco basilar",
+      "type": "ARTERIA",
+      "start": 2214,
+      "end": 2228
+    },
+    {
+      "text": "estenosis severa del 80%",
+      "type": "MEDIDA",
+      "start": 1721,
+      "end": 1745
+    },
+    {
+      "text": "No se visualizan otras estenosis significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1840,
+      "end": 1887
+    },
+    {
+      "text": "No evidencia de hemorragia intracraneal ni edema significativo.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2327,
+      "end": 2390
+    }
+  ]
+}

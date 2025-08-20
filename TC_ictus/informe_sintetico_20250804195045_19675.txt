@@ -1,0 +1,38 @@
+UO_PACN (Unidad Organizativa Médica): RADIO
+
+PRUEB (Prueba solicitada): TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANG IOTC ARTERIAL INTRACRANEAL)
+
+CLIN (Resumen clínico): Paciente con cuadro de deterioro neurológico progresivo, debilidad en extremidades superiores y alteración del nivel de conciencia. Sospecha clínica de accidente cerebrovascular isquémico, posible infarto en territorio de frontera.
+
+OBSR (Protocolo): TC craneal basal sin contraste, estudio de perfusión cerebral y angio-TC arterial intracraneal con reconstrucciones multiplanares.
+
+RESL (Resultados): 
+
+TC craneal basal:
+- Ausencia de hemorragia intra ni extraaxial.
+- Se evidencia área hipodensa bilateral y simétrica, localizada en las zonas de frontera cortical entre irrigación de arterias cerebrales anterior y media, así como entre posterior y media, compatible con infarto tipo watershed.
+- No se aprecian signos de edema cerebral significativo ni desplazamiento de las estructuras de la línea media.
+- Sistema ventricular de tamaño y morfología conservados.
+- Cisternas basales y perimesencefálicas libres.
+
+TC perfusión cerebral:
+- Aumento del tiempo de tránsito medio (TTP) y reducción del flujo cerebral sanguíneo (CBF) en las zonas mencionadas, con volumen cerebral sanguíneo (CBV) relativamente conservado, patrón típico de penumbra isquémica en territorio watershed.
+
+Angio-TC arterial intracraneal:
+- Segmentos principales de arterias cerebrales (ACAs, ACMs, ACPs) permeables, sin estenosis ni oclusiones demostrables.
+- No se identifican trombos ni placas ateromatosas significativas en el árbol arterial intracraneal.
+- Arco aórtico y troncos supraórticos sin alteraciones significativas.
+
+CONCL (Conclusiones): 
+
+Hallazgos compatibles con infarto en zonas de watershed cortical bilateral entre territorios de arterias cerebrales anterior, media y posterior. No se identifican oclusiones arteriales intracraneales ni hemorragia cerebral. Patrón de perfusión compatible con isquemia en territorio de frontera con posible tejido penumbra. Se recomienda evaluación clínica y neurológica urgente para considerar tratamiento según protocolo ictus.
+
+ACTI_ADICI (Actividad adicional): Seguimiento clínico y valoración por neurología para manejo integral.
+
+ICON (Estudio): @RADIO_TC_IC@ 
+
+X00DIATXT (Texto del diagnóstico ACR): Infarto isquémico tipo watershed bilateral sin evidencia de hemorragia intracraneal o oclusión arterial intracraneal.
+
+EST_T_DES (Descripción): TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANGIOTC ARTERIAL INTRACRANEAL)
+
+ZVASOS_D (Der.): Conforme con estudio de perfusión y angio-TC realizado.

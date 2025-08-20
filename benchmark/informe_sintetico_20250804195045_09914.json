@@ -1,0 +1,125 @@
+{
+  "document_id": "informe_sintetico_20250804195045_09914",
+  "entities": [
+    {
+      "text": "hemiparesia derecha",
+      "type": "PATOLOGIA",
+      "start": 179,
+      "end": 198
+    },
+    {
+      "text": "infarto lacunar",
+      "type": "PATOLOGIA",
+      "start": 243,
+      "end": 258
+    },
+    {
+      "text": "lesión hipodensa puntual focal, redondeada, de aproximadamente 10 mm",
+      "type": "PATOLOGIA",
+      "start": 551,
+      "end": 619
+    },
+    {
+      "text": "núcleo lenticular izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 626,
+      "end": 653
+    },
+    {
+      "text": "infarto lacunar agudo",
+      "type": "PATOLOGIA",
+      "start": 670,
+      "end": 691
+    },
+    {
+      "text": "isquemia aguda focal de pequeño tamaño",
+      "type": "PATOLOGIA",
+      "start": 1221,
+      "end": 1259
+    },
+    {
+      "text": "núcleo lenticular izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 626,
+      "end": 653
+    },
+    {
+      "text": "TTP",
+      "type": "MEDIDA",
+      "start": 1030,
+      "end": 1033
+    },
+    {
+      "text": "Tmax",
+      "type": "MEDIDA",
+      "start": 1068,
+      "end": 1072
+    },
+    {
+      "text": "CBF",
+      "type": "MEDIDA",
+      "start": 1161,
+      "end": 1164
+    },
+    {
+      "text": "CBV",
+      "type": "MEDIDA",
+      "start": 1186,
+      "end": 1189
+    },
+    {
+      "text": "isquemia focal limitada",
+      "type": "PATOLOGIA",
+      "start": 1881,
+      "end": 1904
+    },
+    {
+      "text": "sin afectación extensa ni mismatch significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1906,
+      "end": 1954
+    },
+    {
+      "text": "sin evidencias de estenosis ni trombosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1988,
+      "end": 2028
+    },
+    {
+      "text": "sin signos de estenosis ni placas complicadas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1479,
+      "end": 1524
+    },
+    {
+      "text": "sin alteraciones de calibre ni flujo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1613,
+      "end": 1649
+    },
+    {
+      "text": "sin dilatación ni signos de hipertensión intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 879,
+      "end": 932
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 309,
+      "end": 325
+    },
+    {
+      "text": "perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 352,
+      "end": 370
+    },
+    {
+      "text": "angiografía TC arterial intra y extracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 373,
+      "end": 417
+    }
+  ]
+}

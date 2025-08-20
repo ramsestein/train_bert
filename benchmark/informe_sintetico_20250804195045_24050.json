@@ -1,0 +1,205 @@
+{
+  "document_id": "informe_sintetico_20250804195045_24050",
+  "entities": [
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 222,
+      "end": 236
+    },
+    {
+      "text": "territorio de arteria cerebral anterior (ACA) derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 240,
+      "end": 293
+    },
+    {
+      "text": "arteria cerebral anterior (ACA)",
+      "type": "ARTERIA",
+      "start": 254,
+      "end": 285
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 286,
+      "end": 293
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 314,
+      "end": 330
+    },
+    {
+      "text": "TC de perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 341,
+      "end": 365
+    },
+    {
+      "text": "Angiografía por TC de troncos supraórticos y circulación intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 396,
+      "end": 465
+    },
+    {
+      "text": "hipodensidad tenue",
+      "type": "PATOLOGIA",
+      "start": 600,
+      "end": 618
+    },
+    {
+      "text": "pérdida de la diferenciación cortico-subcortical",
+      "type": "PATOLOGIA",
+      "start": 623,
+      "end": 671
+    },
+    {
+      "text": "territorio medial frontal derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 678,
+      "end": 711
+    },
+    {
+      "text": "cuerpo calloso anterior",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 728,
+      "end": 751
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 222,
+      "end": 236
+    },
+    {
+      "text": "ACA derecha",
+      "type": "ARTERIA",
+      "start": 826,
+      "end": 837
+    },
+    {
+      "text": "ASPECTS modificados específicos para ACA",
+      "type": "PUNTUACION_CLINICA",
+      "start": 839,
+      "end": 879
+    },
+    {
+      "text": "7/10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 914,
+      "end": 918
+    },
+    {
+      "text": "Cisternas basales libres",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1002,
+      "end": 1026
+    },
+    {
+      "text": "aumento del tiempo de tránsito medio (MTT)",
+      "type": "PATOLOGIA",
+      "start": 1059,
+      "end": 1101
+    },
+    {
+      "text": "tiempo hasta el pico (TTP) prolongado",
+      "type": "PATOLOGIA",
+      "start": 1104,
+      "end": 1141
+    },
+    {
+      "text": "territorio vascular irrigado por la ACA derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1148,
+      "end": 1195
+    },
+    {
+      "text": "reducción marcada del flujo cerebral (CBF)",
+      "type": "PATOLOGIA",
+      "start": 1201,
+      "end": 1243
+    },
+    {
+      "text": "volumen cerebral (CBV)",
+      "type": "PATOLOGIA",
+      "start": 1246,
+      "end": 1268
+    },
+    {
+      "text": "área de infarto isquémico establecida",
+      "type": "PATOLOGIA",
+      "start": 1299,
+      "end": 1336
+    },
+    {
+      "text": "sin zona de penumbra viable significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1337,
+      "end": 1378
+    },
+    {
+      "text": "Oclusión completa de la rama proximal de la ACA derecha (A2 segment)",
+      "type": "PATOLOGIA",
+      "start": 1415,
+      "end": 1483
+    },
+    {
+      "text": "ausencia de contraste en el segmento distal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1488,
+      "end": 1531
+    },
+    {
+      "text": "Vasos intracraneales restantes sin estenosis significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1533,
+      "end": 1592
+    },
+    {
+      "text": "sin estenosis hemodinámicamente relevantes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1639,
+      "end": 1681
+    },
+    {
+      "text": "sin alteraciones",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1719,
+      "end": 1735
+    },
+    {
+      "text": "valoración para tratamiento endovascular",
+      "type": "PATOLOGIA",
+      "start": 2219,
+      "end": 2259
+    },
+    {
+      "text": "Isquemia aguda en territorio de arteria cerebral anterior derecha",
+      "type": "PATOLOGIA",
+      "start": 2346,
+      "end": 2411
+    },
+    {
+      "text": "oclusión proximal de segmento A2",
+      "type": "PATOLOGIA",
+      "start": 2416,
+      "end": 2448
+    },
+    {
+      "text": "área de infarto establecida sin penumbra viable",
+      "type": "PATOLOGIA",
+      "start": 2451,
+      "end": 2498
+    },
+    {
+      "text": "TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANGIOTC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 2526,
+      "end": 2593
+    }
+  ],
+  "regenerado": true,
+  "fecha_regeneracion": "2025-08-06T04:19:33.486345"
+}

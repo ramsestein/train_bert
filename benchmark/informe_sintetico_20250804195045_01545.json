@@ -1,0 +1,83 @@
+{
+  "document_id": "informe_sintetico_20250804195045_01545",
+  "entities": [
+    {
+      "text": "infarto cerebral",
+      "type": "PATOLOGIA",
+      "start": 260,
+      "end": 276
+    },
+    {
+      "text": "watershed",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 309,
+      "end": 318
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 340,
+      "end": 356
+    },
+    {
+      "text": "No evidencia de hemorragia intra o extraaxial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 527,
+      "end": 572
+    },
+    {
+      "text": "infarto de tipo watershed",
+      "type": "PATOLOGIA",
+      "start": 807,
+      "end": 832
+    },
+    {
+      "text": "ASPECTS 8",
+      "type": "PUNTUACION_CLINICA",
+      "start": 915,
+      "end": 924
+    },
+    {
+      "text": "isquemia penumbra",
+      "type": "PATOLOGIA",
+      "start": 1360,
+      "end": 1377
+    },
+    {
+      "text": "No se observa área de infarto establecido",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1395,
+      "end": 1436
+    },
+    {
+      "text": "estenosis moderada bilateral de las arterias carótidas internas cervicales",
+      "type": "PATOLOGIA",
+      "start": 1518,
+      "end": 1592
+    },
+    {
+      "text": "ACAs, ACMs, ACPs",
+      "type": "ARTERIA",
+      "start": 1669,
+      "end": 1685
+    },
+    {
+      "text": "sin oclusión ni estenosis severas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1698,
+      "end": 1731
+    },
+    {
+      "text": "infarto watershed bilateral",
+      "type": "PATOLOGIA",
+      "start": 1892,
+      "end": 1919
+    },
+    {
+      "text": "estenosis carotídea bilateral",
+      "type": "PATOLOGIA",
+      "start": 2539,
+      "end": 2568
+    }
+  ]
+}

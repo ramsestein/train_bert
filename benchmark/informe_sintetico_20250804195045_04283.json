@@ -1,0 +1,101 @@
+{
+  "document_id": "informe_sintetico_20250804195045_04283",
+  "entities": [
+    {
+      "text": "hematoma",
+      "type": "PATOLOGIA",
+      "start": 239,
+      "end": 247
+    },
+    {
+      "text": "lobar",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 435,
+      "end": 440
+    },
+    {
+      "text": "región frontal izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 444,
+      "end": 468
+    },
+    {
+      "text": "3.2 cm",
+      "type": "MEDIDA",
+      "start": 504,
+      "end": 510
+    },
+    {
+      "text": "4 mm",
+      "type": "MEDIDA",
+      "start": 779,
+      "end": 783
+    },
+    {
+      "text": "aguda",
+      "type": "TEMPORALIDAD",
+      "start": 657,
+      "end": 662
+    },
+    {
+      "text": "sin evidencia de malformaciones arteriovenosas o aneurismas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1301,
+      "end": 1360
+    },
+    {
+      "text": "efecto masa",
+      "type": "PATOLOGIA",
+      "start": 714,
+      "end": 725
+    },
+    {
+      "text": "desviación de línea media",
+      "type": "PATOLOGIA",
+      "start": 1580,
+      "end": 1605
+    },
+    {
+      "text": "4 mm",
+      "type": "MEDIDA",
+      "start": 779,
+      "end": 783
+    },
+    {
+      "text": "Cisternas basales sin compromiso",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 980,
+      "end": 1012
+    },
+    {
+      "text": "aumento del tiempo de tránsito (TTP)",
+      "type": "PATOLOGIA",
+      "start": 1069,
+      "end": 1105
+    },
+    {
+      "text": "sin hallazgos patológicos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1688,
+      "end": 1713
+    },
+    {
+      "text": "TC craneal basal sin contraste",
+      "type": "TECNICA_IMAGEN",
+      "start": 281,
+      "end": 311
+    },
+    {
+      "text": "perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 313,
+      "end": 331
+    },
+    {
+      "text": "angio-TC arterial intracraneal urgente",
+      "type": "TECNICA_IMAGEN",
+      "start": 334,
+      "end": 372
+    }
+  ]
+}

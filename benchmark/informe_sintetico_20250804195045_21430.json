@@ -1,0 +1,293 @@
+{
+  "document_id": "informe_sintetico_20250804195045_21430",
+  "entities": [
+    {
+      "text": "infarto cerebral",
+      "type": "PATOLOGIA",
+      "start": 194,
+      "end": 210
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "ARTERIA",
+      "start": 231,
+      "end": 261
+    },
+    {
+      "text": "deterioro neurológico reciente",
+      "type": "PATOLOGIA",
+      "start": 272,
+      "end": 302
+    },
+    {
+      "text": "transformación hemorrágica",
+      "type": "PATOLOGIA",
+      "start": 317,
+      "end": 343
+    },
+    {
+      "text": "TC craneal urgente basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 364,
+      "end": 388
+    },
+    {
+      "text": "contraste",
+      "type": "TECNICA_IMAGEN",
+      "start": 395,
+      "end": 404
+    },
+    {
+      "text": "perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 425,
+      "end": 443
+    },
+    {
+      "text": "angioTC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 446,
+      "end": 475
+    },
+    {
+      "text": "área hipodensa extensa",
+      "type": "PATOLOGIA",
+      "start": 553,
+      "end": 575
+    },
+    {
+      "text": "territorio superficial derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 579,
+      "end": 609
+    },
+    {
+      "text": "arteria cerebral media",
+      "type": "ARTERIA",
+      "start": 231,
+      "end": 253
+    },
+    {
+      "text": "infarto cerebral extenso subagudo",
+      "type": "PATOLOGIA",
+      "start": 651,
+      "end": 684
+    },
+    {
+      "text": "colección hemorrágica heterogénea",
+      "type": "PATOLOGIA",
+      "start": 721,
+      "end": 754
+    },
+    {
+      "text": "40%",
+      "type": "MEDIDA",
+      "start": 784,
+      "end": 787
+    },
+    {
+      "text": "sustancia blanca",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 836,
+      "end": 852
+    },
+    {
+      "text": "corteza",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 855,
+      "end": 862
+    },
+    {
+      "text": "transformación hemorrágica tipo PH2",
+      "type": "PATOLOGIA",
+      "start": 879,
+      "end": 914
+    },
+    {
+      "text": "edema perilesional",
+      "type": "PATOLOGIA",
+      "start": 936,
+      "end": 954
+    },
+    {
+      "text": "borramiento de surcos corticales",
+      "type": "PATOLOGIA",
+      "start": 959,
+      "end": 991
+    },
+    {
+      "text": "efecto de masa discreto",
+      "type": "PATOLOGIA",
+      "start": 994,
+      "end": 1017
+    },
+    {
+      "text": "desviación contralateral de la línea media",
+      "type": "PATOLOGIA",
+      "start": 1035,
+      "end": 1077
+    },
+    {
+      "text": "5 mm",
+      "type": "MEDIDA",
+      "start": 1095,
+      "end": 1099
+    },
+    {
+      "text": "signos de herniación transtentorial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1105,
+      "end": 1140
+    },
+    {
+      "text": "Sistema ventricular simétrico",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1142,
+      "end": 1171
+    },
+    {
+      "text": "signos de hidrocefalia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1177,
+      "end": 1199
+    },
+    {
+      "text": "discreta congestión vascular",
+      "type": "PATOLOGIA",
+      "start": 1241,
+      "end": 1269
+    },
+    {
+      "text": "Área de perfusión alterada",
+      "type": "PATOLOGIA",
+      "start": 1285,
+      "end": 1311
+    },
+    {
+      "text": "aumento del tiempo de tránsito",
+      "type": "PATOLOGIA",
+      "start": 1316,
+      "end": 1346
+    },
+    {
+      "text": "disminución del flujo cerebral",
+      "type": "PATOLOGIA",
+      "start": 1348,
+      "end": 1378
+    },
+    {
+      "text": "reducción del volumen",
+      "type": "PATOLOGIA",
+      "start": 1381,
+      "end": 1402
+    },
+    {
+      "text": "territorio correspondiente a la arteria cerebral media derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1409,
+      "end": 1471
+    },
+    {
+      "text": "Oclusión completa",
+      "type": "PATOLOGIA",
+      "start": 1496,
+      "end": 1513
+    },
+    {
+      "text": "segmento proximal de la arteria cerebral media derecha",
+      "type": "ARTERIA",
+      "start": 1517,
+      "end": 1571
+    },
+    {
+      "text": "M1",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1573,
+      "end": 1575
+    },
+    {
+      "text": "Vasos colaterales levemente aumentados",
+      "type": "PATOLOGIA",
+      "start": 1578,
+      "end": 1616
+    },
+    {
+      "text": "Arterias carótidas internas",
+      "type": "ARTERIA",
+      "start": 1618,
+      "end": 1645
+    },
+    {
+      "text": "arterias cerebrales anteriores",
+      "type": "ARTERIA",
+      "start": 1647,
+      "end": 1677
+    },
+    {
+      "text": "circula vertebrobasilar",
+      "type": "ARTERIA",
+      "start": 1680,
+      "end": 1703
+    },
+    {
+      "text": "permeables",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1704,
+      "end": 1714
+    },
+    {
+      "text": "signos de disección ni estenosis relevantes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1720,
+      "end": 1763
+    },
+    {
+      "text": "Transformación hemorrágica tipo PH2",
+      "type": "PATOLOGIA",
+      "start": 1788,
+      "end": 1823
+    },
+    {
+      "text": "infarto extenso del territorio superficial de la arteria cerebral media derecha",
+      "type": "PATOLOGIA",
+      "start": 1827,
+      "end": 1906
+    },
+    {
+      "text": "moderado edema perilesional",
+      "type": "PATOLOGIA",
+      "start": 927,
+      "end": 954
+    },
+    {
+      "text": "efecto de masa",
+      "type": "PATOLOGIA",
+      "start": 994,
+      "end": 1008
+    },
+    {
+      "text": "desviación de línea media de 5 mm",
+      "type": "PATOLOGIA",
+      "start": 1968,
+      "end": 2001
+    },
+    {
+      "text": "Oclusión proximal de ACM derecha",
+      "type": "PATOLOGIA",
+      "start": 2003,
+      "end": 2035
+    },
+    {
+      "text": "sin reperfusión",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2036,
+      "end": 2051
+    },
+    {
+      "text": "signos radiológicos de herniación ni hidrocefalia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2060,
+      "end": 2109
+    }
+  ]
+}

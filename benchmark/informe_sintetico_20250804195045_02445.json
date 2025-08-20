@@ -1,0 +1,149 @@
+{
+  "document_id": "informe_sintetico_20250804195045_02445",
+  "entities": [
+    {
+      "text": "ictus isquémico",
+      "type": "PATOLOGIA",
+      "start": 271,
+      "end": 286
+    },
+    {
+      "text": "hemiparesia derecha",
+      "type": "PATOLOGIA",
+      "start": 196,
+      "end": 215
+    },
+    {
+      "text": "disfasia",
+      "type": "PATOLOGIA",
+      "start": 218,
+      "end": 226
+    },
+    {
+      "text": "isquémicas agudas recientes",
+      "type": "PATOLOGIA",
+      "start": 633,
+      "end": 660
+    },
+    {
+      "text": "lóbulo frontal izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1151,
+      "end": 1175
+    },
+    {
+      "text": "parietal derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1177,
+      "end": 1193
+    },
+    {
+      "text": "occipital bilateral",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1196,
+      "end": 1215
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "ARTERIA",
+      "start": 1350,
+      "end": 1382
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "ARTERIA",
+      "start": 1350,
+      "end": 1382
+    },
+    {
+      "text": "arterias cerebrales anteriores bilaterales",
+      "type": "ARTERIA",
+      "start": 1539,
+      "end": 1581
+    },
+    {
+      "text": "arterias carótidas internas",
+      "type": "ARTERIA",
+      "start": 1612,
+      "end": 1639
+    },
+    {
+      "text": "bilaterales",
+      "type": "LATERALIDAD",
+      "start": 1570,
+      "end": 1581
+    },
+    {
+      "text": "multiterritorial",
+      "type": "LATERALIDAD",
+      "start": 677,
+      "end": 693
+    },
+    {
+      "text": "TTP",
+      "type": "MEDIDA",
+      "start": 1048,
+      "end": 1051
+    },
+    {
+      "text": "CBF",
+      "type": "MEDIDA",
+      "start": 1087,
+      "end": 1090
+    },
+    {
+      "text": "CBV",
+      "type": "MEDIDA",
+      "start": 1235,
+      "end": 1238
+    },
+    {
+      "text": "agudo",
+      "type": "TEMPORALIDAD",
+      "start": 186,
+      "end": 191
+    },
+    {
+      "text": "recientes",
+      "type": "TEMPORALIDAD",
+      "start": 651,
+      "end": 660
+    },
+    {
+      "text": "moderado",
+      "type": "TEMPORALIDAD",
+      "start": 1527,
+      "end": 1535
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 356,
+      "end": 372
+    },
+    {
+      "text": "angiografía TC",
+      "type": "TECNICA_IMAGEN",
+      "start": 406,
+      "end": 420
+    },
+    {
+      "text": "No se evidencian signos de hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 695,
+      "end": 745
+    },
+    {
+      "text": "No desviación de la línea media",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 838,
+      "end": 869
+    },
+    {
+      "text": "No se evidencia hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2174,
+      "end": 2213
+    }
+  ]
+}

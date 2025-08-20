@@ -1,0 +1,83 @@
+{
+  "document_id": "informe_sintetico_20250804195045_00893",
+  "entities": [
+    {
+      "text": "isquemia",
+      "type": "PATOLOGIA",
+      "start": 603,
+      "end": 611
+    },
+    {
+      "text": "región occipital derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 506,
+      "end": 530
+    },
+    {
+      "text": "arteria cerebral posterior derecha",
+      "type": "ARTERIA",
+      "start": 219,
+      "end": 253
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 246,
+      "end": 253
+    },
+    {
+      "text": "8",
+      "type": "MEDIDA",
+      "start": 830,
+      "end": 831
+    },
+    {
+      "text": "aguda",
+      "type": "TEMPORALIDAD",
+      "start": 1713,
+      "end": 1718
+    },
+    {
+      "text": "ASPECTS posterior 8",
+      "type": "PUNTUACION_CLINICA",
+      "start": 1882,
+      "end": 1901
+    },
+    {
+      "text": "TC craneal basal sin contraste",
+      "type": "TECNICA_IMAGEN",
+      "start": 274,
+      "end": 304
+    },
+    {
+      "text": "No se observan signos de hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 633,
+      "end": 681
+    },
+    {
+      "text": "Oclusión completa del segmento P2 de la ACP derecha",
+      "type": "PATOLOGIA",
+      "start": 1242,
+      "end": 1293
+    },
+    {
+      "text": "ACP derecha",
+      "type": "ARTERIA",
+      "start": 1282,
+      "end": 1293
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 246,
+      "end": 253
+    },
+    {
+      "text": "No hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1854,
+      "end": 1880
+    }
+  ]
+}

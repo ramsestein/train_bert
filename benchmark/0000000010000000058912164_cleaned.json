@@ -1,0 +1,65 @@
+{
+  "document_id": "0000000010000000058912164_cleaned",
+  "entities": [
+    {
+      "text": "Infart cerebral causat per oclusió o estenosi no especificades",
+      "type": "PATOLOGIA",
+      "start": 249,
+      "end": 311
+    },
+    {
+      "text": "artèria cerebral mitjana esquerra",
+      "type": "ARTERIA",
+      "start": 313,
+      "end": 346
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 575,
+      "end": 584
+    },
+    {
+      "text": "No signos de sangrado agudo intra/extra-axial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 460,
+      "end": 505
+    },
+    {
+      "text": "isquemia establecida aguda",
+      "type": "PATOLOGIA",
+      "start": 598,
+      "end": 624
+    },
+    {
+      "text": "Discretas áreas hipodensas en sustancia blanca periventricular en relación con patología de pequeño vaso, leve",
+      "type": "PATOLOGIA",
+      "start": 768,
+      "end": 878
+    },
+    {
+      "text": "No signos transformación hemorrágica intra/extra-axial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 957,
+      "end": 1011
+    },
+    {
+      "text": "Signos de infarto isquémico establecido en gran parte del territorio periférico de ACM izquierda",
+      "type": "PATOLOGIA",
+      "start": 1013,
+      "end": 1109
+    },
+    {
+      "text": "Sin efecto masa significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1111,
+      "end": 1140
+    },
+    {
+      "text": "TC BASAL DUAL (+PERFUSIÓN)",
+      "type": "TECNICA_IMAGEN",
+      "start": 366,
+      "end": 392
+    }
+  ]
+}

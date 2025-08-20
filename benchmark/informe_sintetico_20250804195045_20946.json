@@ -1,0 +1,77 @@
+{
+  "document_id": "informe_sintetico_20250804195045_20946",
+  "entities": [
+    {
+      "text": "infarto isquémico",
+      "type": "PATOLOGIA",
+      "start": 726,
+      "end": 743
+    },
+    {
+      "text": "arteria carótida interna derecha",
+      "type": "ARTERIA",
+      "start": 510,
+      "end": 542
+    },
+    {
+      "text": "lóbulo frontal",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 558,
+      "end": 572
+    },
+    {
+      "text": "parietal",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 574,
+      "end": 582
+    },
+    {
+      "text": "temporal",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 595,
+      "end": 603
+    },
+    {
+      "text": "5 mm",
+      "type": "MEDIDA",
+      "start": 852,
+      "end": 856
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 187,
+      "end": 196
+    },
+    {
+      "text": "Oclusión completa de la arteria carótida interna derecha",
+      "type": "PATOLOGIA",
+      "start": 1341,
+      "end": 1397
+    },
+    {
+      "text": "arteria carótida interna derecha",
+      "type": "ARTERIA",
+      "start": 510,
+      "end": 542
+    },
+    {
+      "text": "penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1289,
+      "end": 1307
+    },
+    {
+      "text": "No se observan hematomas ni hemorragias secundarias",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 757,
+      "end": 808
+    },
+    {
+      "text": "No se detectan hemorragias asociadas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2036,
+      "end": 2072
+    }
+  ]
+}

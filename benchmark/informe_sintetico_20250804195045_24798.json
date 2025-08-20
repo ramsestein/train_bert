@@ -1,0 +1,95 @@
+{
+  "document_id": "informe_sintetico_20250804195045_24798",
+  "entities": [
+    {
+      "text": "isquémica aguda",
+      "type": "PATOLOGIA",
+      "start": 265,
+      "end": 280
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "PATOLOGIA",
+      "start": 574,
+      "end": 597
+    },
+    {
+      "text": "lesiones expansivas",
+      "type": "PATOLOGIA",
+      "start": 604,
+      "end": 623
+    },
+    {
+      "text": "isquemia",
+      "type": "PATOLOGIA",
+      "start": 1021,
+      "end": 1029
+    },
+    {
+      "text": "ASPECTS = 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 1031,
+      "end": 1043
+    },
+    {
+      "text": "ACAs",
+      "type": "ARTERIA",
+      "start": 1138,
+      "end": 1142
+    },
+    {
+      "text": "ACMs",
+      "type": "ARTERIA",
+      "start": 1144,
+      "end": 1148
+    },
+    {
+      "text": "ACPs",
+      "type": "ARTERIA",
+      "start": 1150,
+      "end": 1154
+    },
+    {
+      "text": "sistema vertebrobasilar",
+      "type": "ARTERIA",
+      "start": 1161,
+      "end": 1184
+    },
+    {
+      "text": "sin signos de estenosis u oclusión",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1186,
+      "end": 1220
+    },
+    {
+      "text": "No se observan aneurismas ni malformaciones vasculares",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1222,
+      "end": 1276
+    },
+    {
+      "text": "sin hallazgos agudos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1383,
+      "end": 1403
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 301,
+      "end": 317
+    },
+    {
+      "text": "estudio de perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 319,
+      "end": 348
+    },
+    {
+      "text": "angio-TC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 351,
+      "end": 381
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "document_id": "informe_sintetico_20250804195045_16587",
+  "entities": [
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 925,
+      "end": 939
+    },
+    {
+      "text": "región bulbar derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 741,
+      "end": 762
+    },
+    {
+      "text": "arteria basilar distal",
+      "type": "ARTERIA",
+      "start": 816,
+      "end": 838
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 755,
+      "end": 762
+    },
+    {
+      "text": "aguda",
+      "type": "TEMPORALIDAD",
+      "start": 934,
+      "end": 939
+    },
+    {
+      "text": "isquemia crítica",
+      "type": "PATOLOGIA",
+      "start": 1226,
+      "end": 1242
+    },
+    {
+      "text": "arteria basilar proximal a media",
+      "type": "ARTERIA",
+      "start": 1440,
+      "end": 1472
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 1567,
+      "end": 1576
+    },
+    {
+      "text": "No se identifican hemorragias intracraneales ni masas expansivas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 546,
+      "end": 610
+    },
+    {
+      "text": "No se visualizan oclusiones en las arterias cerebrales anteriores, medias ni posteriores",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1578,
+      "end": 1666
+    },
+    {
+      "text": "Sin estenosis significativas en carótidas ni troncos supraórticos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1668,
+      "end": 1733
+    }
+  ]
+}

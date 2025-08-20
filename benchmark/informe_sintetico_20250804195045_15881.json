@@ -1,0 +1,107 @@
+{
+  "document_id": "informe_sintetico_20250804195045_15881",
+  "entities": [
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 255,
+      "end": 269
+    },
+    {
+      "text": "territorio vertebrobasilar",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 273,
+      "end": 299
+    },
+    {
+      "text": "mesencéfalo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 636,
+      "end": 647
+    },
+    {
+      "text": "tronco encefálico",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 902,
+      "end": 919
+    },
+    {
+      "text": "cerebelo izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 922,
+      "end": 940
+    },
+    {
+      "text": "penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1067,
+      "end": 1085
+    },
+    {
+      "text": "oclusión subtotal",
+      "type": "PATOLOGIA",
+      "start": 1136,
+      "end": 1153
+    },
+    {
+      "text": "segmento V4",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1157,
+      "end": 1168
+    },
+    {
+      "text": "arteria vertebral izquierda",
+      "type": "ARTERIA",
+      "start": 1172,
+      "end": 1199
+    },
+    {
+      "text": "arteria basilar",
+      "type": "ARTERIA",
+      "start": 1768,
+      "end": 1783
+    },
+    {
+      "text": ">70%",
+      "type": "MEDIDA",
+      "start": 1264,
+      "end": 1268
+    },
+    {
+      "text": "No se evidencian hemorragias agudas intra o extraaxiales.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 496,
+      "end": 553
+    },
+    {
+      "text": "No se identifican aneurismas ni malformaciones vasculares.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1367,
+      "end": 1425
+    },
+    {
+      "text": "No se observan hemorragias ni otras lesiones intracraneales significativas.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1798,
+      "end": 1873
+    },
+    {
+      "text": "TC Craneo basal sin contraste",
+      "type": "TECNICA_IMAGEN",
+      "start": 320,
+      "end": 349
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 351,
+      "end": 372
+    },
+    {
+      "text": "AngioTC de troncos supraaórticos e intracraneal con reconstrucción multiplanar",
+      "type": "TECNICA_IMAGEN",
+      "start": 374,
+      "end": 452
+    }
+  ]
+}

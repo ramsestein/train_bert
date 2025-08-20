@@ -1,0 +1,65 @@
+{
+  "document_id": "0000000010000000060591545_cleaned",
+  "entities": [
+    {
+      "text": "Infart cerebral causat per oclusió o estenosi no especificades d'artèria cerebral no especificada",
+      "type": "PATOLOGIA",
+      "start": 166,
+      "end": 263
+    },
+    {
+      "text": "No se observa hemorragia intra ni extraaxial.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 393,
+      "end": 438
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 540,
+      "end": 550
+    },
+    {
+      "text": "Aumento en los mapas de volumen en territorio ACM izquierda",
+      "type": "PATOLOGIA",
+      "start": 684,
+      "end": 743
+    },
+    {
+      "text": "ACM izquierda",
+      "type": "ARTERIA",
+      "start": 730,
+      "end": 743
+    },
+    {
+      "text": "stop en el paso de contraste",
+      "type": "PATOLOGIA",
+      "start": 986,
+      "end": 1014
+    },
+    {
+      "text": "disección carotídea",
+      "type": "PATOLOGIA",
+      "start": 1045,
+      "end": 1064
+    },
+    {
+      "text": "oclusión de ACM en segmento M1 izquierda",
+      "type": "PATOLOGIA",
+      "start": 1371,
+      "end": 1411
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 540,
+      "end": 550
+    },
+    {
+      "text": "No hay hemorragia intracraneal.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1495,
+      "end": 1526
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "document_id": "informe_sintetico_20250804195045_20172",
+  "entities": [
+    {
+      "text": "infarto agudo",
+      "type": "PATOLOGIA",
+      "start": 744,
+      "end": 757
+    },
+    {
+      "text": "discreta hipodensidad",
+      "type": "PATOLOGIA",
+      "start": 695,
+      "end": 716
+    },
+    {
+      "text": "penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1141,
+      "end": 1159
+    },
+    {
+      "text": "oclusión completa",
+      "type": "PATOLOGIA",
+      "start": 1209,
+      "end": 1226
+    },
+    {
+      "text": "arteria basilar",
+      "type": "ARTERIA",
+      "start": 1233,
+      "end": 1248
+    },
+    {
+      "text": "tronco encefálico",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1055,
+      "end": 1072
+    },
+    {
+      "text": "región pontina",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1652,
+      "end": 1666
+    },
+    {
+      "text": "aguda",
+      "type": "TEMPORALIDAD",
+      "start": 1594,
+      "end": 1599
+    },
+    {
+      "text": "hemorragias intraparenquimatosas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 618,
+      "end": 650
+    },
+    {
+      "text": "hemorragias subaracnoideas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 654,
+      "end": 680
+    },
+    {
+      "text": "No evidencias de hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1757,
+      "end": 1797
+    },
+    {
+      "text": "calibre conservado",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1362,
+      "end": 1380
+    },
+    {
+      "text": "TC craneal urgente",
+      "type": "TECNICA_IMAGEN",
+      "start": 372,
+      "end": 390
+    },
+    {
+      "text": "TC basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 433,
+      "end": 441
+    },
+    {
+      "text": "perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 443,
+      "end": 461
+    },
+    {
+      "text": "angiografía por TC de arterias intracraneales y extracraneales",
+      "type": "TECNICA_IMAGEN",
+      "start": 464,
+      "end": 526
+    },
+    {
+      "text": "TC PERFUSIÓN CEREBRAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 896,
+      "end": 917
+    },
+    {
+      "text": "ANGIO-TC ARTERIAL INTRACRANEAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 1164,
+      "end": 1194
+    }
+  ]
+}

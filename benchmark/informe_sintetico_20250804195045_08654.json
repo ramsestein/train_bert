@@ -1,0 +1,107 @@
+{
+  "document_id": "informe_sintetico_20250804195045_08654",
+  "entities": [
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 232,
+      "end": 246
+    },
+    {
+      "text": "arteria cerebral posterior izquierda",
+      "type": "ARTERIA",
+      "start": 264,
+      "end": 300
+    },
+    {
+      "text": "hemicuerpo derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 190,
+      "end": 208
+    },
+    {
+      "text": "región occipital izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 498,
+      "end": 524
+    },
+    {
+      "text": "hipodensidad",
+      "type": "PATOLOGIA",
+      "start": 482,
+      "end": 494
+    },
+    {
+      "text": "edema citotóxico",
+      "type": "PATOLOGIA",
+      "start": 550,
+      "end": 566
+    },
+    {
+      "text": "No hay evidencia de sangrado intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 568,
+      "end": 609
+    },
+    {
+      "text": "No signos de hemorragia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1600,
+      "end": 1623
+    },
+    {
+      "text": "ASPECTS modificada para territorio ACP: 7",
+      "type": "PUNTUACION_CLINICA",
+      "start": 637,
+      "end": 678
+    },
+    {
+      "text": "Oclusión segmentaria proximal de la arteria cerebral posterior izquierda (P1-P2)",
+      "type": "PATOLOGIA",
+      "start": 1105,
+      "end": 1185
+    },
+    {
+      "text": "arteria cerebral posterior izquierda",
+      "type": "ARTERIA",
+      "start": 264,
+      "end": 300
+    },
+    {
+      "text": "penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1050,
+      "end": 1068
+    },
+    {
+      "text": "ASPECTS adaptada 7",
+      "type": "PUNTUACION_CLINICA",
+      "start": 1625,
+      "end": 1643
+    },
+    {
+      "text": "TC craneal basal sin contraste",
+      "type": "TECNICA_IMAGEN",
+      "start": 321,
+      "end": 351
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 354,
+      "end": 375
+    },
+    {
+      "text": "angioTC intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 378,
+      "end": 398
+    },
+    {
+      "text": "TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANG IOTC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 72,
+      "end": 140
+    }
+  ]
+}

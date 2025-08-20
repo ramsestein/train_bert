@@ -1,0 +1,30 @@
+UO_PACN (Unidad Organizativa Médica): RADIO
+
+PRUEB (Prueba solicitada): TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANG IOTC ARTERIAL INTRACRANEAL)
+
+CLIN (Resumen clínico): Paciente con cuadro súbito de mareo intenso, diplopía y debilidad progresiva en miembros inferiores, sospecha clínica de trombosis de arteria basilar.
+
+OBSR (Protocolo): Protocolo de Código Ictus urgente que incluye TC craneal basal sin contraste, angioTC de vasos intracraneales y perfusión cerebral para valoración de áreas isquémicas y viabilidad tisular.
+
+RESL (Resultados):
+
+TC CRANEAL BASAL:
+No se identifica hemorragia intraparenquimatosa ni hemorragia subaracnoidea. No hay desviación de las estructuras de la línea media. Se observan signos iniciles de hipodensidad en el tronco encefálico compatible con lesión isquémica temprana. Sistema ventricular y cisternas basales sin alteraciones significativas.
+
+TC PERFUSIÓN:
+Mapas de tiempo de tránsito (TTP) muestran prolongación marcada en territorio del tronco encefálico postero-inferior y cerebelo en relación con compromiso vascular. El flujo cerebral (CBF) y el volumen cerebral (CBV) están notablemente disminuidos en la misma área, sugiriendo área isquémica establecida con posible núcleo de infarto en la región pontina.
+
+ANGIO-TC EXTRA E INTRACRANEAL:
+Se evidencia oclusión completa del segmento proximal y medio de la arteria basilar, sin opacificación distal visible. Ramas vertebrales permeables. Circulación colateral limitada a nivel de cerebelo y tronco. No se identifican estenosis significativas en arterias cerebrales anteriores ni medias. Sistema carotídeo sin hallazgos relevantes.
+
+CONCL (Conclusiones): Oclusión completa de arteria basilar proximal y media con zonas de isquemia en tronco encefálico y cerebelo posterior. No se evidencia hemorragia intracraneal. Hallazgos compatibles con infarto isquémico en territorio vertebro-basilar en fase aguda.
+
+ACTI_ADICI (Actividad adicional): Monitorización estrecha y valoración neurovascular urgente para posible tratamiento trombolítico o intervención endovascular.
+
+ICON (Estudio): @RADIO_IC@ 
+
+X00DIATXT (Texto del diagnóstico ACR): Oclusión aguda de arteria basilar con infarto isquémico en tronco encefálico y territorio cerebeloso posterior.
+
+EST_T_DES (Descripción): TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANGIOTC ARTERIAL INTRACRANEAL)
+
+ZVASOS_D (Der.): Estudio realizado y dictado por Dr. Martínez, servicio de Radiología.

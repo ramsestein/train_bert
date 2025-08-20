@@ -1,0 +1,41 @@
+{
+  "document_id": "informe_sintetico_20250804195045_24102",
+  "entities": [
+    {
+      "text": "edema vasogénico",
+      "type": "PATOLOGIA",
+      "start": 724,
+      "end": 740
+    },
+    {
+      "text": "lóbulos occipitales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 650,
+      "end": 669
+    },
+    {
+      "text": "bilaterales",
+      "type": "LATERALIDAD",
+      "start": 556,
+      "end": 567
+    },
+    {
+      "text": "sin reducción significativa del flujo cerebral (CBF)",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1125,
+      "end": 1177
+    },
+    {
+      "text": "sin evidencia de estenosis, oclusión o vasculitis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1307,
+      "end": 1356
+    },
+    {
+      "text": "sin signos de isquemia ni hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1695,
+      "end": 1744
+    }
+  ]
+}

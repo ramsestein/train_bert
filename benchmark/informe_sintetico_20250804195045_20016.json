@@ -1,0 +1,95 @@
+{
+  "document_id": "informe_sintetico_20250804195045_20016",
+  "entities": [
+    {
+      "text": "hemorragia subaracnoidea focal",
+      "type": "PATOLOGIA",
+      "start": 273,
+      "end": 303
+    },
+    {
+      "text": "cisura silviana derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 659,
+      "end": 682
+    },
+    {
+      "text": "hemorragia intraventricular asociada",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 780,
+      "end": 816
+    },
+    {
+      "text": "infarto agudo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1022,
+      "end": 1035
+    },
+    {
+      "text": "lesiones isquémicas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1039,
+      "end": 1058
+    },
+    {
+      "text": "aneurisma sacular de aproximadamente 6 mm",
+      "type": "PATOLOGIA",
+      "start": 1273,
+      "end": 1314
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "ARTERIA",
+      "start": 1318,
+      "end": 1348
+    },
+    {
+      "text": "hemorragia subaracnoidea",
+      "type": "PATOLOGIA",
+      "start": 273,
+      "end": 297
+    },
+    {
+      "text": "arteria cerebral media",
+      "type": "ARTERIA",
+      "start": 1318,
+      "end": 1340
+    },
+    {
+      "text": "mismo lado",
+      "type": "LATERALIDAD",
+      "start": 1705,
+      "end": 1715
+    },
+    {
+      "text": "complicaciones hemorrágicas adicionales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1733,
+      "end": 1772
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1786,
+      "end": 1800
+    },
+    {
+      "text": "TC craneal urgente basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 413,
+      "end": 437
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 443,
+      "end": 464
+    },
+    {
+      "text": "angio-TC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 467,
+      "end": 497
+    }
+  ]
+}

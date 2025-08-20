@@ -1,0 +1,89 @@
+{
+  "document_id": "informe_sintetico_20250804195045_04695",
+  "entities": [
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 238,
+      "end": 252
+    },
+    {
+      "text": "arteria cerebral anterior",
+      "type": "ARTERIA",
+      "start": 273,
+      "end": 298
+    },
+    {
+      "text": "hemisferio cerebral izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 570,
+      "end": 599
+    },
+    {
+      "text": "izquierdo",
+      "type": "LATERALIDAD",
+      "start": 590,
+      "end": 599
+    },
+    {
+      "text": "hipodensidad focal",
+      "type": "PATOLOGIA",
+      "start": 523,
+      "end": 541
+    },
+    {
+      "text": "lesión isquémica aguda",
+      "type": "PATOLOGIA",
+      "start": 668,
+      "end": 690
+    },
+    {
+      "text": "aumento significativo del tiempo de tránsito medio (MTT)",
+      "type": "MEDIDA",
+      "start": 950,
+      "end": 1006
+    },
+    {
+      "text": "disminución del volumen cerebral de flujo (CBF)",
+      "type": "MEDIDA",
+      "start": 1009,
+      "end": 1056
+    },
+    {
+      "text": "penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1139,
+      "end": 1157
+    },
+    {
+      "text": "arteria cerebral anterior izquierda",
+      "type": "ARTERIA",
+      "start": 1090,
+      "end": 1125
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 1116,
+      "end": 1125
+    },
+    {
+      "text": "sin evidencia de estenosis o placas ateromatosas significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1475,
+      "end": 1538
+    },
+    {
+      "text": "No se observan malformaciones vasculares ni aneurismas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1540,
+      "end": 1594
+    },
+    {
+      "text": "No se observan complicaciones hemorrágicas ni efecto masa asociado",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1940,
+      "end": 2006
+    }
+  ]
+}

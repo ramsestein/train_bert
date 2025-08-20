@@ -1,0 +1,71 @@
+{
+  "document_id": "informe_sintetico_20250804195045_21963",
+  "entities": [
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 307,
+      "end": 321
+    },
+    {
+      "text": "arteria cerebral posterior derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 339,
+      "end": 373
+    },
+    {
+      "text": "ACP",
+      "type": "ARTERIA",
+      "start": 853,
+      "end": 856
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 366,
+      "end": 373
+    },
+    {
+      "text": "2 horas",
+      "type": "TEMPORALIDAD",
+      "start": 278,
+      "end": 285
+    },
+    {
+      "text": "prolongación del tiempo de tránsito medio (TTM)",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 986,
+      "end": 1033
+    },
+    {
+      "text": "aumento del tiempo hasta el pico (Tmax)",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1036,
+      "end": 1075
+    },
+    {
+      "text": "reducción completa del CBV",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1251,
+      "end": 1277
+    },
+    {
+      "text": "sin evidencia de estenosis significativa ni placas calcificadas relevantes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1492,
+      "end": 1566
+    },
+    {
+      "text": "sin signos de infarto establecido extenso o hemorragia asociada",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1883,
+      "end": 1946
+    },
+    {
+      "text": "sin alteraciones significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2005,
+      "end": 2036
+    }
+  ]
+}

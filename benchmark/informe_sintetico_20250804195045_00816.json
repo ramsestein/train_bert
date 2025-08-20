@@ -1,0 +1,65 @@
+{
+  "document_id": "informe_sintetico_20250804195045_00816",
+  "entities": [
+    {
+      "text": "hemorragia intraparenquimal",
+      "type": "PATOLOGIA",
+      "start": 481,
+      "end": 508
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 610,
+      "end": 624
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 633,
+      "end": 643
+    },
+    {
+      "text": "cerebral",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 323,
+      "end": 331
+    },
+    {
+      "text": "arterias cerebrales anteriores",
+      "type": "ARTERIA",
+      "start": 1351,
+      "end": 1381
+    },
+    {
+      "text": "sin signos de estenosis ni oclusión",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1416,
+      "end": 1451
+    },
+    {
+      "text": "sin signos de enfermedad aterosclerótica significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1511,
+      "end": 1565
+    },
+    {
+      "text": "sin evidencia de lesión isquémica o hemorrágica aguda",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1682,
+      "end": 1735
+    },
+    {
+      "text": "sin áreas de hipoperfusión",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1777,
+      "end": 1803
+    },
+    {
+      "text": "sin signos de estenosis u oclusión arterial intracraneal o extracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1813,
+      "end": 1884
+    }
+  ]
+}

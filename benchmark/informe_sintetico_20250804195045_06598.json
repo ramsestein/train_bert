@@ -1,0 +1,71 @@
+{
+  "document_id": "informe_sintetico_20250804195045_06598",
+  "entities": [
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 524,
+      "end": 534
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 604,
+      "end": 618
+    },
+    {
+      "text": "hemorragia intra o extraaxial",
+      "type": "PATOLOGIA",
+      "start": 637,
+      "end": 666
+    },
+    {
+      "text": "calcificaciones puntuales en los núcleos de la base",
+      "type": "PATOLOGIA",
+      "start": 811,
+      "end": 862
+    },
+    {
+      "text": "crónico",
+      "type": "TEMPORALIDAD",
+      "start": 876,
+      "end": 883
+    },
+    {
+      "text": "sin evidencia de zonas de hipoperfusión o mismatch significativos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1064,
+      "end": 1129
+    },
+    {
+      "text": "sin signos de estenosis, dilataciones ni oclusiones",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1366,
+      "end": 1417
+    },
+    {
+      "text": "sin alteraciones estructurales ni hemodinámicas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1443,
+      "end": 1490
+    },
+    {
+      "text": "sin hallazgos agudos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1524,
+      "end": 1544
+    },
+    {
+      "text": "sin evidencia de estenosis ni alteraciones vasculares",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1676,
+      "end": 1729
+    },
+    {
+      "text": "ACAs, ACMs, ACPs",
+      "type": "ARTERIA",
+      "start": 1336,
+      "end": 1352
+    }
+  ]
+}

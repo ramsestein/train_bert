@@ -1,0 +1,179 @@
+{
+  "document_id": "informe_sintetico_20250804195045_16690",
+  "entities": [
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 249,
+      "end": 263
+    },
+    {
+      "text": "arteria cerebral posterior derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 281,
+      "end": 315
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 562,
+      "end": 585
+    },
+    {
+      "text": "hipodensidad",
+      "type": "PATOLOGIA",
+      "start": 641,
+      "end": 653
+    },
+    {
+      "text": "territorio occipital derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 688,
+      "end": 716
+    },
+    {
+      "text": "isquemia temprana",
+      "type": "PATOLOGIA",
+      "start": 749,
+      "end": 766
+    },
+    {
+      "text": "ASPECTS",
+      "type": "PUNTUACION_CLINICA",
+      "start": 768,
+      "end": 775
+    },
+    {
+      "text": "ACP 8/10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 792,
+      "end": 800
+    },
+    {
+      "text": "desplazamiento de línea media",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 861,
+      "end": 890
+    },
+    {
+      "text": "edema asociado relevante",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 894,
+      "end": 918
+    },
+    {
+      "text": "TC PERFUSIÓN",
+      "type": "TECNICA_IMAGEN",
+      "start": 975,
+      "end": 987
+    },
+    {
+      "text": "tiempo de tránsito medio (MTT)",
+      "type": "MEDIDA",
+      "start": 1017,
+      "end": 1047
+    },
+    {
+      "text": "tiempo hasta el pico (TTP)",
+      "type": "MEDIDA",
+      "start": 1062,
+      "end": 1088
+    },
+    {
+      "text": "lóbulo occipital derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1095,
+      "end": 1119
+    },
+    {
+      "text": "flujo sanguíneo cerebral (CBF)",
+      "type": "MEDIDA",
+      "start": 1124,
+      "end": 1154
+    },
+    {
+      "text": "penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1194,
+      "end": 1212
+    },
+    {
+      "text": "Volumen cerebral (CBV)",
+      "type": "MEDIDA",
+      "start": 1214,
+      "end": 1236
+    },
+    {
+      "text": "núcleo isquémico (core)",
+      "type": "PATOLOGIA",
+      "start": 1335,
+      "end": 1358
+    },
+    {
+      "text": "isquemia subaguda",
+      "type": "PATOLOGIA",
+      "start": 1386,
+      "end": 1403
+    },
+    {
+      "text": "territorio de ACP derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1407,
+      "end": 1432
+    },
+    {
+      "text": "oclusión parcial",
+      "type": "PATOLOGIA",
+      "start": 1508,
+      "end": 1524
+    },
+    {
+      "text": "estenosis crítica",
+      "type": "PATOLOGIA",
+      "start": 1527,
+      "end": 1544
+    },
+    {
+      "text": "segmento P2",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1548,
+      "end": 1559
+    },
+    {
+      "text": "arteria cerebral posterior derecha",
+      "type": "ARTERIA",
+      "start": 281,
+      "end": 315
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 562,
+      "end": 585
+    },
+    {
+      "text": "Oclusión parcial o estenosis crítica",
+      "type": "PATOLOGIA",
+      "start": 2140,
+      "end": 2176
+    },
+    {
+      "text": "segmento P2 de ACP derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 2180,
+      "end": 2206
+    },
+    {
+      "text": "ASPECTS ACP 8/10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 2084,
+      "end": 2100
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 562,
+      "end": 585
+    }
+  ]
+}

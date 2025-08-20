@@ -1,0 +1,65 @@
+{
+  "document_id": "informe_sintetico_20250804195045_11531",
+  "entities": [
+    {
+      "text": "infarto lacunar agudo",
+      "type": "PATOLOGIA",
+      "start": 572,
+      "end": 593
+    },
+    {
+      "text": "núcleo lenticular izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 528,
+      "end": 555
+    },
+    {
+      "text": "6 mm",
+      "type": "MEDIDA",
+      "start": 493,
+      "end": 497
+    },
+    {
+      "text": "izquierdo",
+      "type": "LATERALIDAD",
+      "start": 546,
+      "end": 555
+    },
+    {
+      "text": "hemorragias intracraneales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 612,
+      "end": 638
+    },
+    {
+      "text": "sin evidencia de penumbra isquémica",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1029,
+      "end": 1064
+    },
+    {
+      "text": "sin signos de estenosis ni trombosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1267,
+      "end": 1303
+    },
+    {
+      "text": "TC cerebral basal sin contraste",
+      "type": "TECNICA_IMAGEN",
+      "start": 256,
+      "end": 287
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 300,
+      "end": 321
+    },
+    {
+      "text": "angio-TC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 324,
+      "end": 354
+    }
+  ]
+}

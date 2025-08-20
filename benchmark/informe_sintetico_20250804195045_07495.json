@@ -1,0 +1,101 @@
+{
+  "document_id": "informe_sintetico_20250804195045_07495",
+  "entities": [
+    {
+      "text": "hemorragia cerebral",
+      "type": "PATOLOGIA",
+      "start": 365,
+      "end": 384
+    },
+    {
+      "text": "microhemorragias múltiples",
+      "type": "PATOLOGIA",
+      "start": 736,
+      "end": 762
+    },
+    {
+      "text": "hemorragia parenquimatosa reciente",
+      "type": "PATOLOGIA",
+      "start": 816,
+      "end": 850
+    },
+    {
+      "text": "12 mm",
+      "type": "MEDIDA",
+      "start": 870,
+      "end": 875
+    },
+    {
+      "text": "región cortical parietal derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 879,
+      "end": 911
+    },
+    {
+      "text": "bilaterales",
+      "type": "LATERALIDAD",
+      "start": 710,
+      "end": 721
+    },
+    {
+      "text": "No se observan signos de hidrocefalia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 988,
+      "end": 1025
+    },
+    {
+      "text": "No se identifican aneurismas ni malformaciones arteriovenosas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1533,
+      "end": 1594
+    },
+    {
+      "text": "No se objetivan alteraciones hemodinámicas significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1221,
+      "end": 1278
+    },
+    {
+      "text": "angiopatía amiloide",
+      "type": "PATOLOGIA",
+      "start": 333,
+      "end": 352
+    },
+    {
+      "text": "angiopatía amiloide cerebral",
+      "type": "PATOLOGIA",
+      "start": 1745,
+      "end": 1773
+    },
+    {
+      "text": "sin efecto masa significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 957,
+      "end": 986
+    },
+    {
+      "text": "sin hematoma voluminoso ni efecto compresivo significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1907,
+      "end": 1965
+    },
+    {
+      "text": "TC craneal sin contraste",
+      "type": "TECNICA_IMAGEN",
+      "start": 405,
+      "end": 429
+    },
+    {
+      "text": "TC perfusión",
+      "type": "TECNICA_IMAGEN",
+      "start": 1207,
+      "end": 1219
+    },
+    {
+      "text": "ANGIO-TC arterial intra e intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 1359,
+      "end": 1397
+    }
+  ]
+}

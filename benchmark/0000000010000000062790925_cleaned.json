@@ -1,0 +1,235 @@
+{
+  "document_id": "0000000010000000062790925_cleaned",
+  "entities": [
+    {
+      "text": "embòlia",
+      "type": "PATOLOGIA",
+      "start": 193,
+      "end": 200
+    },
+    {
+      "text": "artèria caròtide",
+      "type": "PATOLOGIA",
+      "start": 202,
+      "end": 218
+    },
+    {
+      "text": "lesiones hemorrágicas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 337,
+      "end": 358
+    },
+    {
+      "text": "signos de isquemia aguda intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 372,
+      "end": 409
+    },
+    {
+      "text": "ASPECTS 10/10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 411,
+      "end": 424
+    },
+    {
+      "text": "sistema ventricular",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 499,
+      "end": 518
+    },
+    {
+      "text": "surcos corticales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 543,
+      "end": 560
+    },
+    {
+      "text": "corona radiada frontal izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 643,
+      "end": 675
+    },
+    {
+      "text": "mapas de tiempo",
+      "type": "TECNICA_IMAGEN",
+      "start": 830,
+      "end": 845
+    },
+    {
+      "text": "flujo",
+      "type": "TECNICA_IMAGEN",
+      "start": 847,
+      "end": 852
+    },
+    {
+      "text": "volumen",
+      "type": "TECNICA_IMAGEN",
+      "start": 855,
+      "end": 862
+    },
+    {
+      "text": "área focal parietal superior izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 886,
+      "end": 924
+    },
+    {
+      "text": "CBV",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 994,
+      "end": 997
+    },
+    {
+      "text": "Aorta",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1008,
+      "end": 1013
+    },
+    {
+      "text": "calibre preservado",
+      "type": "PATOLOGIA",
+      "start": 1017,
+      "end": 1035
+    },
+    {
+      "text": "ateromatosa",
+      "type": "PATOLOGIA",
+      "start": 1051,
+      "end": 1062
+    },
+    {
+      "text": "TBC",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1081,
+      "end": 1084
+    },
+    {
+      "text": "ACC izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1087,
+      "end": 1100
+    },
+    {
+      "text": "endarterectomía reciente",
+      "type": "PATOLOGIA",
+      "start": 2234,
+      "end": 2258
+    },
+    {
+      "text": "enfisema en tejido graso",
+      "type": "PATOLOGIA",
+      "start": 1159,
+      "end": 1183
+    },
+    {
+      "text": "espacio carotídeo izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1197,
+      "end": 1224
+    },
+    {
+      "text": "espacio retrofaringeo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1244,
+      "end": 1265
+    },
+    {
+      "text": "ACI izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1322,
+      "end": 1335
+    },
+    {
+      "text": "permeable",
+      "type": "PATOLOGIA",
+      "start": 1336,
+      "end": 1345
+    },
+    {
+      "text": "reccorido",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1357,
+      "end": 1366
+    },
+    {
+      "text": "irregularidades murales",
+      "type": "PATOLOGIA",
+      "start": 1371,
+      "end": 1394
+    },
+    {
+      "text": "clampaje quirúrgico reciente",
+      "type": "PATOLOGIA",
+      "start": 1410,
+      "end": 1438
+    },
+    {
+      "text": "permeable",
+      "type": "PATOLOGIA",
+      "start": 1336,
+      "end": 1345
+    },
+    {
+      "text": "discreta ateromatosis",
+      "type": "PATOLOGIA",
+      "start": 1477,
+      "end": 1498
+    },
+    {
+      "text": "bifurcación carotídea",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1502,
+      "end": 1523
+    },
+    {
+      "text": "estenosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1542,
+      "end": 1551
+    },
+    {
+      "text": "permeables",
+      "type": "PATOLOGIA",
+      "start": 1589,
+      "end": 1599
+    },
+    {
+      "text": "sin alteraciones",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1626,
+      "end": 1642
+    },
+    {
+      "text": "parénquima cerebral",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1915,
+      "end": 1934
+    },
+    {
+      "text": "áreas de leucoaraiosis",
+      "type": "PATOLOGIA",
+      "start": 1937,
+      "end": 1959
+    },
+    {
+      "text": "pequeña área focal parietal superior izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 878,
+      "end": 924
+    },
+    {
+      "text": "sin repercusión en CBV",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 975,
+      "end": 997
+    },
+    {
+      "text": "zona de hipoperfusión con penumbra",
+      "type": "PATOLOGIA",
+      "start": 2161,
+      "end": 2195
+    }
+  ],
+  "regenerado": true,
+  "fecha_regeneracion": "2025-08-06T12:38:36.850420"
+}

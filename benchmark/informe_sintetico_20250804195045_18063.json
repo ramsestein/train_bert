@@ -1,0 +1,235 @@
+{
+  "document_id": "informe_sintetico_20250804195045_18063",
+  "entities": [
+    {
+      "text": "afasia",
+      "type": "PATOLOGIA",
+      "start": 209,
+      "end": 215
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 235,
+      "end": 251
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 262,
+      "end": 283
+    },
+    {
+      "text": "Angio-TC intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 286,
+      "end": 307
+    },
+    {
+      "text": "área de baja atenuación",
+      "type": "PATOLOGIA",
+      "start": 377,
+      "end": 400
+    },
+    {
+      "text": "territorio de la arteria cerebral media derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 419,
+      "end": 466
+    },
+    {
+      "text": "segmentos frontoparietal e insular",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 474,
+      "end": 508
+    },
+    {
+      "text": "puntuación ASPECTS",
+      "type": "PUNTUACION_CLINICA",
+      "start": 518,
+      "end": 536
+    },
+    {
+      "text": "6",
+      "type": "MEDIDA",
+      "start": 540,
+      "end": 541
+    },
+    {
+      "text": "signo de arteria hiperdensa",
+      "type": "PATOLOGIA",
+      "start": 554,
+      "end": 581
+    },
+    {
+      "text": "segmento M1 de la arteria cerebral media derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 588,
+      "end": 636
+    },
+    {
+      "text": "trombo",
+      "type": "PATOLOGIA",
+      "start": 651,
+      "end": 657
+    },
+    {
+      "text": "hemorragias intra ni extraaxiales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 677,
+      "end": 710
+    },
+    {
+      "text": "Línea media",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 712,
+      "end": 723
+    },
+    {
+      "text": "desplazada hacia la izquierda",
+      "type": "PATOLOGIA",
+      "start": 736,
+      "end": 765
+    },
+    {
+      "text": "ventrículo lateral derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 811,
+      "end": 837
+    },
+    {
+      "text": "discretamente aplanadas",
+      "type": "PATOLOGIA",
+      "start": 857,
+      "end": 880
+    },
+    {
+      "text": "tiempo máximo (Tmax)",
+      "type": "TECNICA_IMAGEN",
+      "start": 935,
+      "end": 955
+    },
+    {
+      "text": "prolongación en la región frontoparietal derecha",
+      "type": "PATOLOGIA",
+      "start": 965,
+      "end": 1013
+    },
+    {
+      "text": "reducción significativa del volumen cerebral sanguíneo (CBV)",
+      "type": "PATOLOGIA",
+      "start": 1019,
+      "end": 1079
+    },
+    {
+      "text": "flujo cerebral sanguíneo (CBF)",
+      "type": "PATOLOGIA",
+      "start": 1082,
+      "end": 1112
+    },
+    {
+      "text": "área de penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1128,
+      "end": 1154
+    },
+    {
+      "text": "núcleo isquémico",
+      "type": "PATOLOGIA",
+      "start": 1157,
+      "end": 1173
+    },
+    {
+      "text": "territorio afectado",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1180,
+      "end": 1199
+    },
+    {
+      "text": "Oclusión completa",
+      "type": "PATOLOGIA",
+      "start": 1235,
+      "end": 1252
+    },
+    {
+      "text": "segmento M1 de la arteria cerebral media derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 588,
+      "end": 636
+    },
+    {
+      "text": "permeabilidad adecuada",
+      "type": "PATOLOGIA",
+      "start": 1343,
+      "end": 1365
+    },
+    {
+      "text": "estenosis relevantes en otros segmentos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1371,
+      "end": 1410
+    },
+    {
+      "text": "sin alteraciones significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1433,
+      "end": 1464
+    },
+    {
+      "text": "permeable",
+      "type": "PATOLOGIA",
+      "start": 1490,
+      "end": 1499
+    },
+    {
+      "text": "isquemia cerebral aguda",
+      "type": "PATOLOGIA",
+      "start": 1554,
+      "end": 1577
+    },
+    {
+      "text": "territorio de la arteria cerebral media derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 419,
+      "end": 466
+    },
+    {
+      "text": "oclusión proximal en segmento M1",
+      "type": "PATOLOGIA",
+      "start": 1634,
+      "end": 1666
+    },
+    {
+      "text": "ASPECTS 6",
+      "type": "PUNTUACION_CLINICA",
+      "start": 1672,
+      "end": 1681
+    },
+    {
+      "text": "presencia de arteria hiperdensa en M1",
+      "type": "PATOLOGIA",
+      "start": 1683,
+      "end": 1720
+    },
+    {
+      "text": "visualizada en perfusión",
+      "type": "PATOLOGIA",
+      "start": 1767,
+      "end": 1791
+    },
+    {
+      "text": "valoración urgente",
+      "type": "TEMPORALIDAD",
+      "start": 1849,
+      "end": 1867
+    },
+    {
+      "text": "tratamiento de reperfusión",
+      "type": "PATOLOGIA",
+      "start": 1873,
+      "end": 1899
+    }
+  ],
+  "regenerado": true,
+  "fecha_regeneracion": "2025-08-06T02:55:35.558938"
+}

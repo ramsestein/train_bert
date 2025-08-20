@@ -1,0 +1,65 @@
+{
+  "document_id": "informe_sintetico_20250804195045_06269",
+  "entities": [
+    {
+      "text": "infarto isquémico subagudo",
+      "type": "PATOLOGIA",
+      "start": 654,
+      "end": 680
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "ARTERIA",
+      "start": 1200,
+      "end": 1232
+    },
+    {
+      "text": "izquierdo",
+      "type": "LATERALIDAD",
+      "start": 629,
+      "end": 638
+    },
+    {
+      "text": ">30%",
+      "type": "MEDIDA",
+      "start": 843,
+      "end": 847
+    },
+    {
+      "text": "subagudo",
+      "type": "TEMPORALIDAD",
+      "start": 672,
+      "end": 680
+    },
+    {
+      "text": "HI2",
+      "type": "PUNTUACION_CLINICA",
+      "start": 822,
+      "end": 825
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 452,
+      "end": 468
+    },
+    {
+      "text": "No se visualizan desplazamientos significativos de la línea media",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 965,
+      "end": 1030
+    },
+    {
+      "text": "sin evidencia de trombosis en grandes vasos intracraneales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1345,
+      "end": 1403
+    },
+    {
+      "text": "sin complicaciones adicionales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2114,
+      "end": 2144
+    }
+  ]
+}

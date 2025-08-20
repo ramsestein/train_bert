@@ -1,0 +1,295 @@
+{
+  "document_id": "informe_sintetico_20250804195045_20734",
+  "entities": [
+    {
+      "text": "ictus isquémico agudo",
+      "type": "PATOLOGIA",
+      "start": 448,
+      "end": 469
+    },
+    {
+      "text": "hemiparesia derecha",
+      "type": "PATOLOGIA",
+      "start": 292,
+      "end": 311
+    },
+    {
+      "text": "afasia",
+      "type": "PATOLOGIA",
+      "start": 314,
+      "end": 320
+    },
+    {
+      "text": "hipertensión arterial",
+      "type": "PATOLOGIA",
+      "start": 216,
+      "end": 237
+    },
+    {
+      "text": "fibrilación auricular",
+      "type": "PATOLOGIA",
+      "start": 240,
+      "end": 261
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 341,
+      "end": 357
+    },
+    {
+      "text": "perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 359,
+      "end": 377
+    },
+    {
+      "text": "angio TC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 380,
+      "end": 410
+    },
+    {
+      "text": "signo de arteria hiperdensa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 528,
+      "end": 555
+    },
+    {
+      "text": "segmento M1 izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 559,
+      "end": 580
+    },
+    {
+      "text": "arteria cerebral media",
+      "type": "ARTERIA",
+      "start": 587,
+      "end": 609
+    },
+    {
+      "text": "hemorragias intraparenquimatosas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 628,
+      "end": 660
+    },
+    {
+      "text": "hipodensidad cortical",
+      "type": "PATOLOGIA",
+      "start": 694,
+      "end": 715
+    },
+    {
+      "text": "territorio parietal izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 719,
+      "end": 748
+    },
+    {
+      "text": "área de isquemia temprana",
+      "type": "PATOLOGIA",
+      "start": 764,
+      "end": 789
+    },
+    {
+      "text": "dicha región",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 840,
+      "end": 852
+    },
+    {
+      "text": "efecto de masa significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 879,
+      "end": 907
+    },
+    {
+      "text": "cisternas basales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 931,
+      "end": 948
+    },
+    {
+      "text": "morfología y tamaño normales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 952,
+      "end": 980
+    },
+    {
+      "text": "Mapas de flujo sanguíneo cerebral (CBF)",
+      "type": "TECNICA_IMAGEN",
+      "start": 1009,
+      "end": 1048
+    },
+    {
+      "text": "marcada reducción",
+      "type": "PATOLOGIA",
+      "start": 1058,
+      "end": 1075
+    },
+    {
+      "text": "territorio dependiente de la ACM izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1082,
+      "end": 1124
+    },
+    {
+      "text": "corteza frontal y parietal",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1147,
+      "end": 1173
+    },
+    {
+      "text": "aumento del tiempo de tránsito medio (MTT)",
+      "type": "MEDIDA",
+      "start": 1179,
+      "end": 1221
+    },
+    {
+      "text": "tiempo hasta el pico (TTP)",
+      "type": "MEDIDA",
+      "start": 1224,
+      "end": 1250
+    },
+    {
+      "text": "área de penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1265,
+      "end": 1291
+    },
+    {
+      "text": "volumen sanguíneo cerebral (CBV)",
+      "type": "MEDIDA",
+      "start": 1296,
+      "end": 1328
+    },
+    {
+      "text": "relativamente conservado",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1342,
+      "end": 1366
+    },
+    {
+      "text": "Angio TC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 1431,
+      "end": 1461
+    },
+    {
+      "text": "Oclusión completa",
+      "type": "PATOLOGIA",
+      "start": 1465,
+      "end": 1482
+    },
+    {
+      "text": "segmento M1 izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 559,
+      "end": 580
+    },
+    {
+      "text": "arteria cerebral media",
+      "type": "ARTERIA",
+      "start": 587,
+      "end": 609
+    },
+    {
+      "text": "estenosis significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1554,
+      "end": 1578
+    },
+    {
+      "text": "Arco aórtico",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1595,
+      "end": 1607
+    },
+    {
+      "text": "troncos supraaórticos",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1610,
+      "end": 1631
+    },
+    {
+      "text": "lesiones estenosantes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1636,
+      "end": 1657
+    },
+    {
+      "text": "Arterias vertebrales y basilar",
+      "type": "ARTERIA",
+      "start": 1659,
+      "end": 1689
+    },
+    {
+      "text": "permeables",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1690,
+      "end": 1700
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 1737,
+      "end": 1751
+    },
+    {
+      "text": "territorio de la arteria cerebral media izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1755,
+      "end": 1804
+    },
+    {
+      "text": "oclusión proximal del segmento M1",
+      "type": "PATOLOGIA",
+      "start": 1822,
+      "end": 1855
+    },
+    {
+      "text": "área de penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1265,
+      "end": 1291
+    },
+    {
+      "text": "posible tejido viable",
+      "type": "PATOLOGIA",
+      "start": 1888,
+      "end": 1909
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1925,
+      "end": 1948
+    },
+    {
+      "text": "ictus isquémico agudo",
+      "type": "PATOLOGIA",
+      "start": 448,
+      "end": 469
+    },
+    {
+      "text": "oclusión proximal de arteria cerebral media segment M1 izquierdo",
+      "type": "PATOLOGIA",
+      "start": 2181,
+      "end": 2245
+    },
+    {
+      "text": "área de penumbra detectable en perfusión",
+      "type": "PATOLOGIA",
+      "start": 2250,
+      "end": 2290
+    },
+    {
+      "text": "TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANGIOTC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 2318,
+      "end": 2385
+    }
+  ],
+  "regenerado": true,
+  "fecha_regeneracion": "2025-08-06T03:20:16.699756"
+}

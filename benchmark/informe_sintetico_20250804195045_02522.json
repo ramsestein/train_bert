@@ -1,0 +1,203 @@
+{
+  "document_id": "informe_sintetico_20250804195045_02522",
+  "entities": [
+    {
+      "text": "infarto cerebral",
+      "type": "PATOLOGIA",
+      "start": 238,
+      "end": 254
+    },
+    {
+      "text": "oclusión carotídea izquierda",
+      "type": "PATOLOGIA",
+      "start": 259,
+      "end": 287
+    },
+    {
+      "text": "extensa hipodensidad",
+      "type": "PATOLOGIA",
+      "start": 446,
+      "end": 466
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "ARTERIA",
+      "start": 499,
+      "end": 531
+    },
+    {
+      "text": "corteza insular",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 547,
+      "end": 562
+    },
+    {
+      "text": "áreas frontoparietales externas",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 576,
+      "end": 607
+    },
+    {
+      "text": "ASPECTS 4",
+      "type": "PUNTUACION_CLINICA",
+      "start": 685,
+      "end": 694
+    },
+    {
+      "text": "hemorragias intracraneales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 713,
+      "end": 739
+    },
+    {
+      "text": "desplazamientos significativos de estructuras de la línea media",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 743,
+      "end": 806
+    },
+    {
+      "text": "tiempo de tránsito medio (MTT)",
+      "type": "MEDIDA",
+      "start": 925,
+      "end": 955
+    },
+    {
+      "text": "tiempo hasta el pico (TTP)",
+      "type": "MEDIDA",
+      "start": 958,
+      "end": 984
+    },
+    {
+      "text": "hemisferio cerebral izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 991,
+      "end": 1020
+    },
+    {
+      "text": "flujo cerebral (CBF)",
+      "type": "MEDIDA",
+      "start": 1048,
+      "end": 1068
+    },
+    {
+      "text": "volumen sanguíneo cerebral (CBV)",
+      "type": "MEDIDA",
+      "start": 1071,
+      "end": 1103
+    },
+    {
+      "text": "área de infarto establecida",
+      "type": "PATOLOGIA",
+      "start": 1140,
+      "end": 1167
+    },
+    {
+      "text": "penumbra isquémica periinfartual",
+      "type": "PATOLOGIA",
+      "start": 1170,
+      "end": 1202
+    },
+    {
+      "text": "oclusión completa de la arteria carótida interna izquierda",
+      "type": "PATOLOGIA",
+      "start": 1857,
+      "end": 1915
+    },
+    {
+      "text": "ausencia de flujo distal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1319,
+      "end": 1343
+    },
+    {
+      "text": "arterias cerebrales medias derecha",
+      "type": "ARTERIA",
+      "start": 1398,
+      "end": 1432
+    },
+    {
+      "text": "cerebrales anteriores bilateral",
+      "type": "ARTERIA",
+      "start": 1434,
+      "end": 1465
+    },
+    {
+      "text": "sistema vertebrobasilar",
+      "type": "ARTERIA",
+      "start": 1468,
+      "end": 1491
+    },
+    {
+      "text": "ateromatosis calcificada moderada",
+      "type": "PATOLOGIA",
+      "start": 1530,
+      "end": 1563
+    },
+    {
+      "text": "arco aórtico",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1570,
+      "end": 1582
+    },
+    {
+      "text": "bifurcaciones carotídeas",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1585,
+      "end": 1609
+    },
+    {
+      "text": "signos significativos de estenosis en el sistema carotídeo derecho",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1621,
+      "end": 1687
+    },
+    {
+      "text": "infarto extenso en territorio de la arteria cerebral media izquierda",
+      "type": "PATOLOGIA",
+      "start": 1762,
+      "end": 1830
+    },
+    {
+      "text": "ASPECTS 4",
+      "type": "PUNTUACION_CLINICA",
+      "start": 685,
+      "end": 694
+    },
+    {
+      "text": "oclusión completa de la arteria carótida interna izquierda",
+      "type": "PATOLOGIA",
+      "start": 1857,
+      "end": 1915
+    },
+    {
+      "text": "edema cerebral inicial",
+      "type": "PATOLOGIA",
+      "start": 1927,
+      "end": 1949
+    },
+    {
+      "text": "hemorragia asociada",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1954,
+      "end": 1973
+    },
+    {
+      "text": "área de infarto establecida",
+      "type": "PATOLOGIA",
+      "start": 1140,
+      "end": 1167
+    },
+    {
+      "text": "zona de penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 2037,
+      "end": 2063
+    },
+    {
+      "text": "sistema vascular intracraneal permeable",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2075,
+      "end": 2114
+    }
+  ]
+}

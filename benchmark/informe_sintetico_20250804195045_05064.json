@@ -1,0 +1,113 @@
+{
+  "document_id": "informe_sintetico_20250804195045_05064",
+  "entities": [
+    {
+      "text": "hemiparesia izquierda",
+      "type": "PATOLOGIA",
+      "start": 200,
+      "end": 221
+    },
+    {
+      "text": "accidente cerebrovascular isquémico",
+      "type": "PATOLOGIA",
+      "start": 326,
+      "end": 361
+    },
+    {
+      "text": "transformación hemorrágica PH2",
+      "type": "PATOLOGIA",
+      "start": 619,
+      "end": 649
+    },
+    {
+      "text": "infarto isquémico extenso",
+      "type": "PATOLOGIA",
+      "start": 656,
+      "end": 681
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "ARTERIA",
+      "start": 702,
+      "end": 732
+    },
+    {
+      "text": "sangrado parenquimatosos",
+      "type": "PATOLOGIA",
+      "start": 753,
+      "end": 777
+    },
+    {
+      "text": "edema cerebral",
+      "type": "PATOLOGIA",
+      "start": 836,
+      "end": 850
+    },
+    {
+      "text": "efecto de masa",
+      "type": "PATOLOGIA",
+      "start": 876,
+      "end": 890
+    },
+    {
+      "text": "4 mm",
+      "type": "MEDIDA",
+      "start": 935,
+      "end": 939
+    },
+    {
+      "text": "hemorragias subaracnoideas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 975,
+      "end": 1001
+    },
+    {
+      "text": "territorio derecho de arteria cerebral media",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1230,
+      "end": 1274
+    },
+    {
+      "text": "zona isquémica extensa",
+      "type": "PATOLOGIA",
+      "start": 1360,
+      "end": 1382
+    },
+    {
+      "text": "ausencia de flujo distal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1559,
+      "end": 1583
+    },
+    {
+      "text": "trombosis",
+      "type": "PATOLOGIA",
+      "start": 1599,
+      "end": 1608
+    },
+    {
+      "text": "sin signos de estenosis significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1651,
+      "end": 1689
+    },
+    {
+      "text": "edema y efecto de masa significativo",
+      "type": "PATOLOGIA",
+      "start": 1882,
+      "end": 1918
+    },
+    {
+      "text": "neuroimagen",
+      "type": "TECNICA_IMAGEN",
+      "start": 2177,
+      "end": 2188
+    },
+    {
+      "text": "infarto isquémico en territorio ACM derecho",
+      "type": "PATOLOGIA",
+      "start": 2471,
+      "end": 2514
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "document_id": "informe_sintetico_20250804195045_20227",
+  "entities": [
+    {
+      "text": "contusión hemorrágica",
+      "type": "PATOLOGIA",
+      "start": 578,
+      "end": 599
+    },
+    {
+      "text": "región frontotemporal derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 603,
+      "end": 632
+    },
+    {
+      "text": "12 x 8 mm",
+      "type": "MEDIDA",
+      "start": 672,
+      "end": 681
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 625,
+      "end": 632
+    },
+    {
+      "text": "No se observan hematomas subdurales ni epidurales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 784,
+      "end": 833
+    },
+    {
+      "text": "No hay fracturas óseas visibles en el estudio",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 835,
+      "end": 880
+    },
+    {
+      "text": "disminución moderada de flujo sanguíneo cerebral (CBF)",
+      "type": "PATOLOGIA",
+      "start": 960,
+      "end": 1014
+    },
+    {
+      "text": "sin evidencia de isquemia extensa ni área en riesgo de infarcto",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1048,
+      "end": 1111
+    },
+    {
+      "text": "sin signos de estenosis ni vasoespasmo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1267,
+      "end": 1305
+    },
+    {
+      "text": "Contusión hemorrágica traumática frontotemporal derecha",
+      "type": "PATOLOGIA",
+      "start": 1406,
+      "end": 1461
+    },
+    {
+      "text": "sin signos de isquemia isquémica",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1612,
+      "end": 1644
+    },
+    {
+      "text": "Angio-TC sin alteraciones vasculares significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1646,
+      "end": 1697
+    },
+    {
+      "text": "TC craneal urgente basal, perfusión cerebral y angiografía por angio-TC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 432,
+      "end": 525
+    }
+  ]
+}

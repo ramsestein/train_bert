@@ -1,0 +1,83 @@
+{
+  "document_id": "informe_sintetico_20250804195045_21696",
+  "entities": [
+    {
+      "text": "hematoma lobar parietal izquierdo",
+      "type": "PATOLOGIA",
+      "start": 400,
+      "end": 433
+    },
+    {
+      "text": "25 x 20 x 15 mm",
+      "type": "MEDIDA",
+      "start": 506,
+      "end": 521
+    },
+    {
+      "text": "3 mm",
+      "type": "MEDIDA",
+      "start": 647,
+      "end": 651
+    },
+    {
+      "text": "hipoperfusión circundante al hematoma",
+      "type": "PATOLOGIA",
+      "start": 863,
+      "end": 900
+    },
+    {
+      "text": "reducción moderada del flujo sanguíneo cerebral",
+      "type": "PATOLOGIA",
+      "start": 906,
+      "end": 953
+    },
+    {
+      "text": "sin evidencia de penumbra isquémica franca",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 986,
+      "end": 1028
+    },
+    {
+      "text": "permeabilidad de los principales vasos cerebrales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1072,
+      "end": 1121
+    },
+    {
+      "text": "sin estenosis significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1274,
+      "end": 1301
+    },
+    {
+      "text": "edema perilesional",
+      "type": "PATOLOGIA",
+      "start": 804,
+      "end": 822
+    },
+    {
+      "text": "sin evidencia clara de isquemia reversible",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1533,
+      "end": 1575
+    },
+    {
+      "text": "TC craneal no contrastada urgente",
+      "type": "TECNICA_IMAGEN",
+      "start": 254,
+      "end": 287
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 300,
+      "end": 321
+    },
+    {
+      "text": "angio-TC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 324,
+      "end": 354
+    }
+  ]
+}

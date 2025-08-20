@@ -1,0 +1,59 @@
+{
+  "document_id": "informe_sintetico_20250804195045_22137",
+  "entities": [
+    {
+      "text": "hematoma agudo lobar",
+      "type": "PATOLOGIA",
+      "start": 543,
+      "end": 563
+    },
+    {
+      "text": "región parietal izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 567,
+      "end": 592
+    },
+    {
+      "text": "18 ml",
+      "type": "MEDIDA",
+      "start": 623,
+      "end": 628
+    },
+    {
+      "text": "3 mm",
+      "type": "MEDIDA",
+      "start": 827,
+      "end": 831
+    },
+    {
+      "text": "No hay evidencia de hemorragia intraventricular",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 833,
+      "end": 880
+    },
+    {
+      "text": "No se identifican signos de estenosis significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1373,
+      "end": 1424
+    },
+    {
+      "text": "Arterias intracraneales permeables",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1460,
+      "end": 1494
+    },
+    {
+      "text": "cerebral (CBF)",
+      "type": "TECNICA_IMAGEN",
+      "start": 1116,
+      "end": 1130
+    },
+    {
+      "text": "cerebral (CBV)",
+      "type": "TECNICA_IMAGEN",
+      "start": 1150,
+      "end": 1164
+    }
+  ]
+}

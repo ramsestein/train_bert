@@ -1,0 +1,83 @@
+{
+  "document_id": "informe_sintetico_20250804195045_10451",
+  "entities": [
+    {
+      "text": "hipodensidad",
+      "type": "PATOLOGIA",
+      "start": 446,
+      "end": 458
+    },
+    {
+      "text": "encefalopatía hipóxico-isquémica",
+      "type": "PATOLOGIA",
+      "start": 246,
+      "end": 278
+    },
+    {
+      "text": "corteza cerebral",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 476,
+      "end": 492
+    },
+    {
+      "text": "núcleos basales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 502,
+      "end": 517
+    },
+    {
+      "text": "arteria cerebral media",
+      "type": "ARTERIA",
+      "start": 559,
+      "end": 581
+    },
+    {
+      "text": "bilateral",
+      "type": "LATERALIDAD",
+      "start": 582,
+      "end": 591
+    },
+    {
+      "text": "región frontoparietal",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 737,
+      "end": 758
+    },
+    {
+      "text": "hipoperfusión global",
+      "type": "PATOLOGIA",
+      "start": 1072,
+      "end": 1092
+    },
+    {
+      "text": "TC PERFUSIÓN",
+      "type": "TECNICA_IMAGEN",
+      "start": 881,
+      "end": 893
+    },
+    {
+      "text": "ACAs, ACMs y ACPs",
+      "type": "ARTERIA",
+      "start": 1256,
+      "end": 1273
+    },
+    {
+      "text": "sin signos de oclusión o estenosis significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1292,
+      "end": 1340
+    },
+    {
+      "text": "sin evidencia de trombosis arterial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2156,
+      "end": 2191
+    },
+    {
+      "text": "sin evidencia de hidrocefalia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 824,
+      "end": 853
+    }
+  ]
+}

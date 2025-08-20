@@ -1,0 +1,125 @@
+{
+  "document_id": "informe_sintetico_20250804195045_17749",
+  "entities": [
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 237,
+      "end": 251
+    },
+    {
+      "text": "arteria cerebral posterior derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 269,
+      "end": 303
+    },
+    {
+      "text": "arteria cerebral posterior (ACP)",
+      "type": "ARTERIA",
+      "start": 577,
+      "end": 609
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 296,
+      "end": 303
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 621,
+      "end": 630
+    },
+    {
+      "text": "edema citotóxico",
+      "type": "PATOLOGIA",
+      "start": 704,
+      "end": 720
+    },
+    {
+      "text": "TTP",
+      "type": "TECNICA_IMAGEN",
+      "start": 855,
+      "end": 858
+    },
+    {
+      "text": "MTT",
+      "type": "TECNICA_IMAGEN",
+      "start": 881,
+      "end": 884
+    },
+    {
+      "text": "disminución moderada del flujo cerebral regional (CBF)",
+      "type": "PATOLOGIA",
+      "start": 1027,
+      "end": 1081
+    },
+    {
+      "text": "volumen cerebral (CBV)",
+      "type": "MEDIDA",
+      "start": 1086,
+      "end": 1108
+    },
+    {
+      "text": "penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1152,
+      "end": 1170
+    },
+    {
+      "text": "Oclusión segmentaria proximal de la arteria cerebral posterior derecha (P1 segment)",
+      "type": "PATOLOGIA",
+      "start": 1231,
+      "end": 1314
+    },
+    {
+      "text": "cerebrales anterior y medias",
+      "type": "ARTERIA",
+      "start": 1387,
+      "end": 1415
+    },
+    {
+      "text": "sin estenosis significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1427,
+      "end": 1455
+    },
+    {
+      "text": "No se observan aneurismas ni malformaciones vasculares",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1457,
+      "end": 1511
+    },
+    {
+      "text": "sin estenosis ni placas significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1536,
+      "end": 1574
+    },
+    {
+      "text": "Oclusión proximal de la arteria cerebral posterior derecha",
+      "type": "PATOLOGIA",
+      "start": 1638,
+      "end": 1696
+    },
+    {
+      "text": "penumbra isquémica en territorio parietooccipital derecho",
+      "type": "PATOLOGIA",
+      "start": 1724,
+      "end": 1781
+    },
+    {
+      "text": "sin signos de infarto establecido en TC basal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1782,
+      "end": 1827
+    },
+    {
+      "text": "Ausencia de hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1833,
+      "end": 1868
+    }
+  ]
+}

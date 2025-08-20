@@ -1,0 +1,47 @@
+{
+  "document_id": "informe_sintetico_20250804195045_20628",
+  "entities": [
+    {
+      "text": "hemorragia intraventricular primaria",
+      "type": "PATOLOGIA",
+      "start": 502,
+      "end": 538
+    },
+    {
+      "text": "ventrículos laterales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 570,
+      "end": 591
+    },
+    {
+      "text": "sistema ventricular izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 614,
+      "end": 643
+    },
+    {
+      "text": "distensión ventricular bilateral",
+      "type": "PATOLOGIA",
+      "start": 654,
+      "end": 686
+    },
+    {
+      "text": "sin afectación parenquimatosa ni efecto de masa importante",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1635,
+      "end": 1693
+    },
+    {
+      "text": "sin evidencia de isquemia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1724,
+      "end": 1749
+    },
+    {
+      "text": "TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANGIOTC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 2094,
+      "end": 2161
+    }
+  ]
+}

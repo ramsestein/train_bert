@@ -1,0 +1,107 @@
+{
+  "document_id": "informe_sintetico_20250804195045_18909",
+  "entities": [
+    {
+      "text": "infartos isquémicos agudos",
+      "type": "PATOLOGIA",
+      "start": 742,
+      "end": 768
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 798,
+      "end": 821
+    },
+    {
+      "text": "edema significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 825,
+      "end": 844
+    },
+    {
+      "text": "territorios de arterias cerebrales media derecha e izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 620,
+      "end": 680
+    },
+    {
+      "text": "territorio posterior izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 694,
+      "end": 724
+    },
+    {
+      "text": "isquemia aguda multiterritorial",
+      "type": "PATOLOGIA",
+      "start": 1286,
+      "end": 1317
+    },
+    {
+      "text": "arterias cerebrales media bilateral",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1335,
+      "end": 1370
+    },
+    {
+      "text": "arteria cerebral posterior izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1638,
+      "end": 1674
+    },
+    {
+      "text": "oclusión completa en la arteria cerebral media derecha en segmento M1",
+      "type": "PATOLOGIA",
+      "start": 1441,
+      "end": 1510
+    },
+    {
+      "text": "estenosis severa (>70%) en segmento M2 de arteria cerebral media izquierda",
+      "type": "PATOLOGIA",
+      "start": 1513,
+      "end": 1587
+    },
+    {
+      "text": "estenosis irregular de grado moderado en arteria cerebral posterior izquierda P2",
+      "type": "PATOLOGIA",
+      "start": 1597,
+      "end": 1677
+    },
+    {
+      "text": "ateromatosis calcificada de grado leve",
+      "type": "PATOLOGIA",
+      "start": 1770,
+      "end": 1808
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 338,
+      "end": 354
+    },
+    {
+      "text": "perfusión cerebral dinámica",
+      "type": "TECNICA_IMAGEN",
+      "start": 381,
+      "end": 408
+    },
+    {
+      "text": "angio-TC arterial intra- y extracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 411,
+      "end": 450
+    },
+    {
+      "text": "reducción moderada de volumen sanguíneo cerebral (CBV)",
+      "type": "PATOLOGIA",
+      "start": 1175,
+      "end": 1229
+    },
+    {
+      "text": "flujo sanguíneo cerebral (CBF)",
+      "type": "PATOLOGIA",
+      "start": 1232,
+      "end": 1262
+    }
+  ]
+}

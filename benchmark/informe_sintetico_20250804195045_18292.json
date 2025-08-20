@@ -1,0 +1,143 @@
+{
+  "document_id": "informe_sintetico_20250804195045_18292",
+  "entities": [
+    {
+      "text": "isquémico antiguo",
+      "type": "TEMPORALIDAD",
+      "start": 188,
+      "end": 205
+    },
+    {
+      "text": "patología aguda",
+      "type": "PATOLOGIA",
+      "start": 233,
+      "end": 248
+    },
+    {
+      "text": "No se identifica hemorragia intra ni extraaxial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 402,
+      "end": 449
+    },
+    {
+      "text": "sin signos de edema o infarto agudo",
+      "type": "PATOLOGIA",
+      "start": 497,
+      "end": 532
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 534,
+      "end": 544
+    },
+    {
+      "text": "microangiopatía crónica",
+      "type": "PATOLOGIA",
+      "start": 666,
+      "end": 689
+    },
+    {
+      "text": "lesiones lacunares",
+      "type": "PATOLOGIA",
+      "start": 700,
+      "end": 718
+    },
+    {
+      "text": "bilaterales",
+      "type": "LATERALIDAD",
+      "start": 738,
+      "end": 749
+    },
+    {
+      "text": "Línea media centrada",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 779,
+      "end": 799
+    },
+    {
+      "text": "Sistema ventricular con morfología y tamaño conservados",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 801,
+      "end": 856
+    },
+    {
+      "text": "Cisternas basales y surcos corticales discretamente ensanchados",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 858,
+      "end": 921
+    },
+    {
+      "text": "atrofia cortical leve de carácter crónico",
+      "type": "PATOLOGIA",
+      "start": 950,
+      "end": 991
+    },
+    {
+      "text": "Parámetros de perfusión (TTP, CBV y CBF) dentro de límites normales",
+      "type": "MEDIDA",
+      "start": 1008,
+      "end": 1075
+    },
+    {
+      "text": "No se observan áreas de perfusión alterada ni mismatch significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1077,
+      "end": 1145
+    },
+    {
+      "text": "Arterias carotídeas internas y ejes vertebrobasilares permeables",
+      "type": "ARTERIA",
+      "start": 1179,
+      "end": 1243
+    },
+    {
+      "text": "sin signos de estenosis ni placas ateromatosas de consideración",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1244,
+      "end": 1307
+    },
+    {
+      "text": "Arco aórtico sin alteraciones significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1309,
+      "end": 1353
+    },
+    {
+      "text": "Vasos intracraneales principales (ACAs, ACMs, ACPs y arterias vertebrales) permeables",
+      "type": "ARTERIA",
+      "start": 1355,
+      "end": 1440
+    },
+    {
+      "text": "sin evidencia de estenosis ni oclusión",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1443,
+      "end": 1481
+    },
+    {
+      "text": "sin evidencia de hemorragia ni isquemia aguda",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1522,
+      "end": 1567
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 534,
+      "end": 544
+    },
+    {
+      "text": "signos leves de atrofia cortical involutiva",
+      "type": "PATOLOGIA",
+      "start": 1743,
+      "end": 1786
+    },
+    {
+      "text": "sin alteraciones significativas en los vasos extra e intracraneales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1799,
+      "end": 1866
+    }
+  ]
+}

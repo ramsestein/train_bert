@@ -1,0 +1,95 @@
+{
+  "document_id": "informe_sintetico_20250804195045_13028",
+  "entities": [
+    {
+      "text": "hipodensidad",
+      "type": "PATOLOGIA",
+      "start": 555,
+      "end": 567
+    },
+    {
+      "text": "regiones parietooccipitales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 582,
+      "end": 609
+    },
+    {
+      "text": "sustancia blanca",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 644,
+      "end": 660
+    },
+    {
+      "text": "edema vasogénico",
+      "type": "PATOLOGIA",
+      "start": 474,
+      "end": 490
+    },
+    {
+      "text": "volumen sanguíneo cerebral",
+      "type": "MEDIDA",
+      "start": 1000,
+      "end": 1026
+    },
+    {
+      "text": "tiempo de tránsito medio",
+      "type": "MEDIDA",
+      "start": 1035,
+      "end": 1059
+    },
+    {
+      "text": "flujo cerebral",
+      "type": "MEDIDA",
+      "start": 1123,
+      "end": 1137
+    },
+    {
+      "text": "bilateral",
+      "type": "LATERALIDAD",
+      "start": 610,
+      "end": 619
+    },
+    {
+      "text": "sin signos de isquemia ni hemorragia asociada",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1709,
+      "end": 1754
+    },
+    {
+      "text": "sin evidencia de vasculopatía obstructiva o vasoespástica",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1765,
+      "end": 1822
+    },
+    {
+      "text": "sin signos de vasoconstricción reversible",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1432,
+      "end": 1473
+    },
+    {
+      "text": "leucoencefalopatía posterior reversible",
+      "type": "PATOLOGIA",
+      "start": 269,
+      "end": 308
+    },
+    {
+      "text": "TC craneal sin contraste",
+      "type": "TECNICA_IMAGEN",
+      "start": 336,
+      "end": 360
+    },
+    {
+      "text": "AngioTC intra y extracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 363,
+      "end": 391
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 394,
+      "end": 415
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "document_id": "informe_sintetico_20250804195045_09042",
+  "entities": [
+    {
+      "text": "infarto cerebral",
+      "type": "PATOLOGIA",
+      "start": 240,
+      "end": 256
+    },
+    {
+      "text": "hemorragias intra ni extraaxiales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 436,
+      "end": 469
+    },
+    {
+      "text": "hipodensidad cortical y subcortical",
+      "type": "PATOLOGIA",
+      "start": 487,
+      "end": 522
+    },
+    {
+      "text": "compromiso isquémico",
+      "type": "PATOLOGIA",
+      "start": 648,
+      "end": 668
+    },
+    {
+      "text": "zonas watershed",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 672,
+      "end": 687
+    },
+    {
+      "text": "efecto masa significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 771,
+      "end": 796
+    },
+    {
+      "text": "edema cerebral grave",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 825,
+      "end": 845
+    },
+    {
+      "text": "aumento del tiempo de tránsito medio (TTP)",
+      "type": "PATOLOGIA",
+      "start": 982,
+      "end": 1024
+    },
+    {
+      "text": "tiempo hasta el pico (TTPe)",
+      "type": "PATOLOGIA",
+      "start": 1027,
+      "end": 1054
+    },
+    {
+      "text": "disminución moderada del flujo cerebral (CBF)",
+      "type": "PATOLOGIA",
+      "start": 1120,
+      "end": 1165
+    },
+    {
+      "text": "infarto establecido",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1785,
+      "end": 1804
+    },
+    {
+      "text": "hipoperfusión en territorio watershed bilateral",
+      "type": "PATOLOGIA",
+      "start": 1261,
+      "end": 1308
+    },
+    {
+      "text": "estenosis significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1381,
+      "end": 1405
+    },
+    {
+      "text": "Arterias cerebrales anteriores (ACAs)",
+      "type": "ARTERIA",
+      "start": 1456,
+      "end": 1493
+    },
+    {
+      "text": "medias (ACMs)",
+      "type": "ARTERIA",
+      "start": 1495,
+      "end": 1508
+    },
+    {
+      "text": "posteriores (ACPs)",
+      "type": "ARTERIA",
+      "start": 1511,
+      "end": 1529
+    },
+    {
+      "text": "permeables",
+      "type": "PATOLOGIA",
+      "start": 1530,
+      "end": 1540
+    },
+    {
+      "text": "defectos de repleción",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1557,
+      "end": 1578
+    },
+    {
+      "text": "signos de trombosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1582,
+      "end": 1601
+    },
+    {
+      "text": "infarto cerebral en territorios watershed corticales bilaterales",
+      "type": "PATOLOGIA",
+      "start": 1652,
+      "end": 1716
+    }
+  ]
+}

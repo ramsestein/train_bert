@@ -1,0 +1,59 @@
+{
+  "document_id": "informe_sintetico_20250804195045_07804",
+  "entities": [
+    {
+      "text": "hematoma intraparenquimatoso",
+      "type": "PATOLOGIA",
+      "start": 461,
+      "end": 489
+    },
+    {
+      "text": "putamen derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 508,
+      "end": 523
+    },
+    {
+      "text": "3,5 x 3,0 x 3,2 cm",
+      "type": "MEDIDA",
+      "start": 549,
+      "end": 567
+    },
+    {
+      "text": "aguda",
+      "type": "TEMPORALIDAD",
+      "start": 694,
+      "end": 699
+    },
+    {
+      "text": "7 mm",
+      "type": "MEDIDA",
+      "start": 866,
+      "end": 870
+    },
+    {
+      "text": "sin áreas de isquemia cortical remanente detectables",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1338,
+      "end": 1390
+    },
+    {
+      "text": "sin estenosis de grado significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1698,
+      "end": 1734
+    },
+    {
+      "text": "ACM, ACA, ACP",
+      "type": "ARTERIA",
+      "start": 1769,
+      "end": 1782
+    },
+    {
+      "text": "sin hallazgos vasculares obstructivos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2592,
+      "end": 2629
+    }
+  ]
+}

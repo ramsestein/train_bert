@@ -1,0 +1,133 @@
+{
+  "document_id": "informe_sintetico_20250804195045_14604",
+  "entities": [
+    {
+      "text": "hemorragia aguda",
+      "type": "PATOLOGIA",
+      "start": 430,
+      "end": 446
+    },
+    {
+      "text": "infarto reciente",
+      "type": "PATOLOGIA",
+      "start": 450,
+      "end": 466
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 609,
+      "end": 623
+    },
+    {
+      "text": "microangiopatía",
+      "type": "PATOLOGIA",
+      "start": 678,
+      "end": 693
+    },
+    {
+      "text": "calcificaciones puntiformes",
+      "type": "PATOLOGIA",
+      "start": 708,
+      "end": 735
+    },
+    {
+      "text": "línea media",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 866,
+      "end": 877
+    },
+    {
+      "text": "surcos corticales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 899,
+      "end": 916
+    },
+    {
+      "text": "volumen sanguíneo cerebral",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1090,
+      "end": 1116
+    },
+    {
+      "text": "tiempo de tránsito medio",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1125,
+      "end": 1149
+    },
+    {
+      "text": "vasos supraaórticos",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1252,
+      "end": 1271
+    },
+    {
+      "text": "carótidas internas",
+      "type": "ARTERIA",
+      "start": 1384,
+      "end": 1402
+    },
+    {
+      "text": "arterias cerebrales anterior",
+      "type": "ARTERIA",
+      "start": 1404,
+      "end": 1432
+    },
+    {
+      "text": "10",
+      "type": "MEDIDA",
+      "start": 1711,
+      "end": 1713
+    },
+    {
+      "text": "sin déficit persistente",
+      "type": "TEMPORALIDAD",
+      "start": 213,
+      "end": 236
+    },
+    {
+      "text": "sin alteraciones significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1025,
+      "end": 1056
+    },
+    {
+      "text": "sin evidencia de mismatch",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1183,
+      "end": 1208
+    },
+    {
+      "text": "sin estenosis significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1272,
+      "end": 1300
+    },
+    {
+      "text": "sin signos de oclusión ni estenosis destacables",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1464,
+      "end": 1511
+    },
+    {
+      "text": "sin alteraciones hemodinámicas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1548,
+      "end": 1578
+    },
+    {
+      "text": "sin signos de patología aguda",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1616,
+      "end": 1645
+    },
+    {
+      "text": "sin evidencia de isquemia o hemorragia reciente",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1715,
+      "end": 1762
+    }
+  ],
+  "regenerado": true,
+  "fecha_regeneracion": "2025-08-06T14:49:19.184329"
+}

@@ -1,0 +1,113 @@
+{
+  "document_id": "informe_sintetico_20250804195045_19459",
+  "entities": [
+    {
+      "text": "ictus isquémico",
+      "type": "PATOLOGIA",
+      "start": 253,
+      "end": 268
+    },
+    {
+      "text": "arteria cerebral anterior",
+      "type": "ARTERIA",
+      "start": 286,
+      "end": 311
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 656,
+      "end": 665
+    },
+    {
+      "text": "hipodensidad cortical y subcortical",
+      "type": "PATOLOGIA",
+      "start": 556,
+      "end": 591
+    },
+    {
+      "text": "arteria cerebral anterior (ACA)",
+      "type": "ARTERIA",
+      "start": 624,
+      "end": 655
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 656,
+      "end": 665
+    },
+    {
+      "text": "ASPECTS 9",
+      "type": "PUNTUACION_CLINICA",
+      "start": 812,
+      "end": 821
+    },
+    {
+      "text": "No se detectan hemorragias intra ni extraaxiales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 843,
+      "end": 891
+    },
+    {
+      "text": "hemisferio izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1143,
+      "end": 1163
+    },
+    {
+      "text": "arteria cerebral anterior",
+      "type": "ARTERIA",
+      "start": 286,
+      "end": 311
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 656,
+      "end": 665
+    },
+    {
+      "text": "volumen cerebral (CBV)",
+      "type": "MEDIDA",
+      "start": 1287,
+      "end": 1309
+    },
+    {
+      "text": "penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1355,
+      "end": 1373
+    },
+    {
+      "text": "oclusión distal en el segmento proximal de la arteria cerebral anterior izquierda",
+      "type": "PATOLOGIA",
+      "start": 1521,
+      "end": 1602
+    },
+    {
+      "text": "A2",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1644,
+      "end": 1646
+    },
+    {
+      "text": "No se visualizan signos de hemorragia ni edema cerebral significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2173,
+      "end": 2242
+    },
+    {
+      "text": "ASPECTS 9",
+      "type": "PUNTUACION_CLINICA",
+      "start": 812,
+      "end": 821
+    },
+    {
+      "text": "agudo",
+      "type": "TEMPORALIDAD",
+      "start": 2002,
+      "end": 2007
+    }
+  ]
+}

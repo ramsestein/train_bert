@@ -1,0 +1,289 @@
+{
+  "document_id": "0000000010000000062344815_cleaned",
+  "entities": [
+    {
+      "text": "Cardiopatia isquèmica aguda no especificada",
+      "type": "PATOLOGIA",
+      "start": 166,
+      "end": 209
+    },
+    {
+      "text": "TC CODIGO ICTUS",
+      "type": "TECNICA_IMAGEN",
+      "start": 72,
+      "end": 87
+    },
+    {
+      "text": "PERFUSION CEREBRAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 89,
+      "end": 107
+    },
+    {
+      "text": "ANG IOTC ARTERIAL INTRACRANEAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 109,
+      "end": 139
+    },
+    {
+      "text": "TC CODIGO ICTUS",
+      "type": "TECNICA_IMAGEN",
+      "start": 72,
+      "end": 87
+    },
+    {
+      "text": "CRÁNEO BASAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 246,
+      "end": 258
+    },
+    {
+      "text": "ANGIO TC DE TSA E INTRACRANEAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 261,
+      "end": 291
+    },
+    {
+      "text": "Extensa hipodensidad",
+      "type": "PATOLOGIA",
+      "start": 331,
+      "end": 351
+    },
+    {
+      "text": "hemisferio cerebeloso izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 437,
+      "end": 468
+    },
+    {
+      "text": "predominio superior",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 473,
+      "end": 492
+    },
+    {
+      "text": "isquemia establecida",
+      "type": "PATOLOGIA",
+      "start": 519,
+      "end": 539
+    },
+    {
+      "text": "territorios de SCA y AICA",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 557,
+      "end": 582
+    },
+    {
+      "text": "edema citotóxico y vasogénico",
+      "type": "PATOLOGIA",
+      "start": 602,
+      "end": 631
+    },
+    {
+      "text": "efecto de masa",
+      "type": "PATOLOGIA",
+      "start": 658,
+      "end": 672
+    },
+    {
+      "text": "desplazamiento de la línea media",
+      "type": "PATOLOGIA",
+      "start": 677,
+      "end": 709
+    },
+    {
+      "text": "aproximadamente 6 mm",
+      "type": "MEDIDA",
+      "start": 731,
+      "end": 751
+    },
+    {
+      "text": "hacia la derecha",
+      "type": "LATERALIDAD",
+      "start": 752,
+      "end": 768
+    },
+    {
+      "text": "Hiperdensidades focales",
+      "type": "PATOLOGIA",
+      "start": 770,
+      "end": 793
+    },
+    {
+      "text": "área infartada",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 809,
+      "end": 823
+    },
+    {
+      "text": "pequeños hematomas milimétricos",
+      "type": "PATOLOGIA",
+      "start": 853,
+      "end": 884
+    },
+    {
+      "text": "transformación hemorrágica del infarto cerebeloso",
+      "type": "PATOLOGIA",
+      "start": 899,
+      "end": 948
+    },
+    {
+      "text": "Sin hemorragia a distancia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 959,
+      "end": 985
+    },
+    {
+      "text": "Sin captaciones anómalas de contraste",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 987,
+      "end": 1024
+    },
+    {
+      "text": "LOEs subyacentes al área infartada",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1054,
+      "end": 1088
+    },
+    {
+      "text": "Amígdalas cerebelosas normoposicionadas",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1090,
+      "end": 1129
+    },
+    {
+      "text": "Sistema ventricular de tamaño y morfología normal",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1131,
+      "end": 1180
+    },
+    {
+      "text": "Cisternas basales libres",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1182,
+      "end": 1206
+    },
+    {
+      "text": "Principales arterias cerebrales permeables",
+      "type": "PATOLOGIA",
+      "start": 1239,
+      "end": 1281
+    },
+    {
+      "text": "ACAs, ACMs y ACPs",
+      "type": "ARTERIA",
+      "start": 1283,
+      "end": 1300
+    },
+    {
+      "text": "Sistema vertebrobasilar permeable",
+      "type": "PATOLOGIA",
+      "start": 1303,
+      "end": 1336
+    },
+    {
+      "text": "SCAs, AICAS y PICAs",
+      "type": "ARTERIA",
+      "start": 1372,
+      "end": 1391
+    },
+    {
+      "text": "Ateromatosis calcificada de ambas arterias carótidas internas",
+      "type": "PATOLOGIA",
+      "start": 1405,
+      "end": 1466
+    },
+    {
+      "text": "a nivel de la bifurcación",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1467,
+      "end": 1492
+    },
+    {
+      "text": "sin estenosis significativa de su luz",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1493,
+      "end": 1530
+    },
+    {
+      "text": "Ateromatosis calcificada de segmentos intracavernoso y supraclinoideo de ambas arterias carótidas internas",
+      "type": "PATOLOGIA",
+      "start": 1532,
+      "end": 1638
+    },
+    {
+      "text": "sin estenosis significativa de su luz",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1493,
+      "end": 1530
+    },
+    {
+      "text": "Ateromatosis calcificada del origen de la arteria vertebral derecha",
+      "type": "PATOLOGIA",
+      "start": 1678,
+      "end": 1745
+    },
+    {
+      "text": "sin estenosis significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1493,
+      "end": 1520
+    },
+    {
+      "text": "Origen de la arteria vertebral izquierda sin ateromatosis ni signos de estenosis",
+      "type": "PATOLOGIA",
+      "start": 1776,
+      "end": 1856
+    },
+    {
+      "text": "Arco aórtico y segmentos proximales de troncos supraórticos",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1858,
+      "end": 1917
+    },
+    {
+      "text": "sin ateromatosis destacable ni signos de estenosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1918,
+      "end": 1968
+    },
+    {
+      "text": "Infarto establecido en hemisferio cerebeloso izquierdo",
+      "type": "PATOLOGIA",
+      "start": 1993,
+      "end": 2047
+    },
+    {
+      "text": "transformación hemorrágica",
+      "type": "PATOLOGIA",
+      "start": 899,
+      "end": 925
+    },
+    {
+      "text": "(1c Heidelberg)",
+      "type": "PUNTUACION_CLINICA",
+      "start": 2078,
+      "end": 2093
+    },
+    {
+      "text": "importante efecto de masa",
+      "type": "PATOLOGIA",
+      "start": 647,
+      "end": 672
+    },
+    {
+      "text": "desviación de línea media a nivel posterior",
+      "type": "PATOLOGIA",
+      "start": 2126,
+      "end": 2169
+    },
+    {
+      "text": "Principales arterias cerebrales y cerebelosas permeables",
+      "type": "PATOLOGIA",
+      "start": 2171,
+      "end": 2227
+    }
+  ],
+  "regenerado": true,
+  "fecha_regeneracion": "2025-08-06T16:59:52.133440"
+}

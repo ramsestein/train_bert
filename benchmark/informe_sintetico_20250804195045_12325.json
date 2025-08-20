@@ -1,0 +1,65 @@
+{
+  "document_id": "informe_sintetico_20250804195045_12325",
+  "entities": [
+    {
+      "text": "infarto cerebral",
+      "type": "PATOLOGIA",
+      "start": 245,
+      "end": 261
+    },
+    {
+      "text": "territorios watershed",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1255,
+      "end": 1276
+    },
+    {
+      "text": "arterias cerebral anterior y media",
+      "type": "ARTERIA",
+      "start": 756,
+      "end": 790
+    },
+    {
+      "text": "bilaterales",
+      "type": "LATERALIDAD",
+      "start": 617,
+      "end": 628
+    },
+    {
+      "text": "70%",
+      "type": "MEDIDA",
+      "start": 1445,
+      "end": 1448
+    },
+    {
+      "text": "agudas",
+      "type": "TEMPORALIDAD",
+      "start": 559,
+      "end": 565
+    },
+    {
+      "text": "infarto tipo watershed",
+      "type": "PATOLOGIA",
+      "start": 808,
+      "end": 830
+    },
+    {
+      "text": "sin evidencia de oclusión completa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1512,
+      "end": 1546
+    },
+    {
+      "text": "sin estenosis importante",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1613,
+      "end": 1637
+    },
+    {
+      "text": "sin alteraciones",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1663,
+      "end": 1679
+    }
+  ]
+}

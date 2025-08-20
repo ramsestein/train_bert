@@ -1,0 +1,89 @@
+{
+  "document_id": "informe_sintetico_20250804195045_14178",
+  "entities": [
+    {
+      "text": "infarto ischemico establecido",
+      "type": "PATOLOGIA",
+      "start": 550,
+      "end": 579
+    },
+    {
+      "text": "transformación hemorrágica grado PH2",
+      "type": "PATOLOGIA",
+      "start": 653,
+      "end": 689
+    },
+    {
+      "text": "región frontoparietal derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 504,
+      "end": 533
+    },
+    {
+      "text": "5 mm",
+      "type": "MEDIDA",
+      "start": 812,
+      "end": 816
+    },
+    {
+      "text": "ventrículo lateral derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 881,
+      "end": 907
+    },
+    {
+      "text": "hematomas extraaxiales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 927,
+      "end": 949
+    },
+    {
+      "text": "perfusión reducida",
+      "type": "PATOLOGIA",
+      "start": 1039,
+      "end": 1057
+    },
+    {
+      "text": "infartada",
+      "type": "PATOLOGIA",
+      "start": 1174,
+      "end": 1183
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "ARTERIA",
+      "start": 1391,
+      "end": 1421
+    },
+    {
+      "text": "arterias intracraneales",
+      "type": "ARTERIA",
+      "start": 1434,
+      "end": 1457
+    },
+    {
+      "text": "neurológica y neuroquirúrgica urgente",
+      "type": "TEMPORALIDAD",
+      "start": 1805,
+      "end": 1842
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 304,
+      "end": 320
+    },
+    {
+      "text": "TC perfusión cerebral con contraste",
+      "type": "TECNICA_IMAGEN",
+      "start": 334,
+      "end": 369
+    },
+    {
+      "text": "angio-TC de arterias supraórticas e intracraneales",
+      "type": "TECNICA_IMAGEN",
+      "start": 371,
+      "end": 421
+    }
+  ]
+}

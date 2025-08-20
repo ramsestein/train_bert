@@ -1,0 +1,125 @@
+{
+  "document_id": "informe_sintetico_20250804195045_08280",
+  "entities": [
+    {
+      "text": "hemorragia intraventricular primaria",
+      "type": "PATOLOGIA",
+      "start": 530,
+      "end": 566
+    },
+    {
+      "text": "ventrículos laterales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 610,
+      "end": 631
+    },
+    {
+      "text": "tercer ventrículo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 636,
+      "end": 653
+    },
+    {
+      "text": "cuarto ventrículo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 672,
+      "end": 689
+    },
+    {
+      "text": "bilateral",
+      "type": "LATERALIDAD",
+      "start": 1570,
+      "end": 1579
+    },
+    {
+      "text": "sin foco hemorragico parenquimatoso visible",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 691,
+      "end": 734
+    },
+    {
+      "text": "No se identifican fracturas óseas ni lesiones arquitecturales asociadas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 777,
+      "end": 848
+    },
+    {
+      "text": "sin desplazamiento de la línea media ni edema cerebral asociado",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 954,
+      "end": 1017
+    },
+    {
+      "text": "No hay signos de herniación ni compromiso grosso de las cisternas basales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1019,
+      "end": 1092
+    },
+    {
+      "text": "No se identifican alteraciones focales en el tiempo de tránsito, volumen ni flujo cerebral que sugieran área isquémica",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1109,
+      "end": 1227
+    },
+    {
+      "text": "Perfusión global conservada",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1229,
+      "end": 1256
+    },
+    {
+      "text": "sin estenosis ni lesiones ateromatosas significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1326,
+      "end": 1379
+    },
+    {
+      "text": "sin evidencias de aneurismas, malformaciones arterio-venosas ni estenosis de vasos principales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1414,
+      "end": 1508
+    },
+    {
+      "text": "sin evidencia de hemorragia parenquimatosa o subaracnoidea asociada",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1645,
+      "end": 1712
+    },
+    {
+      "text": "No se identifican causas vasculares estructurales en el estudio angiográfico",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1714,
+      "end": 1790
+    },
+    {
+      "text": "No signos de herniación ni efecto masa significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1792,
+      "end": 1844
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 286,
+      "end": 302
+    },
+    {
+      "text": "angiografía por TC de troncos supraórticos y vasos intracraneales",
+      "type": "TECNICA_IMAGEN",
+      "start": 412,
+      "end": 477
+    },
+    {
+      "text": "TC PERFUSIÓN",
+      "type": "TECNICA_IMAGEN",
+      "start": 1095,
+      "end": 1107
+    },
+    {
+      "text": "ANGIO-TC EXTRA E INTRACRANEAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 1259,
+      "end": 1288
+    }
+  ]
+}

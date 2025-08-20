@@ -1,0 +1,77 @@
+{
+  "document_id": "informe_sintetico_20250804195045_11521",
+  "entities": [
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 244,
+      "end": 258
+    },
+    {
+      "text": "lóbulo frontal izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 856,
+      "end": 880
+    },
+    {
+      "text": "flujo cerebral sanguíneo (CBF)",
+      "type": "PATOLOGIA",
+      "start": 900,
+      "end": 930
+    },
+    {
+      "text": "volumen cerebral sanguíneo (CBV)",
+      "type": "PATOLOGIA",
+      "start": 933,
+      "end": 965
+    },
+    {
+      "text": "arteria cerebral anterior (ACA)",
+      "type": "ARTERIA",
+      "start": 1069,
+      "end": 1100
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 1101,
+      "end": 1110
+    },
+    {
+      "text": "Oclusión segmentaria",
+      "type": "PATOLOGIA",
+      "start": 1147,
+      "end": 1167
+    },
+    {
+      "text": "segmento A2",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1174,
+      "end": 1185
+    },
+    {
+      "text": "arteria cerebral anterior izquierda",
+      "type": "ARTERIA",
+      "start": 1192,
+      "end": 1227
+    },
+    {
+      "text": "No se observa hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 450,
+      "end": 487
+    },
+    {
+      "text": "No se aprecian signos evidentes de infarto establecido",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 564,
+      "end": 618
+    },
+    {
+      "text": "No hay evidencia de hemorragia ni infarto establecido",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1567,
+      "end": 1620
+    }
+  ]
+}

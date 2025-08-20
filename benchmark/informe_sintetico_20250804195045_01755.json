@@ -1,0 +1,65 @@
+{
+  "document_id": "informe_sintetico_20250804195045_01755",
+  "entities": [
+    {
+      "text": "isquemia",
+      "type": "PATOLOGIA",
+      "start": 237,
+      "end": 245
+    },
+    {
+      "text": "arteria cerebral anterior izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 621,
+      "end": 656
+    },
+    {
+      "text": "arteria cerebral anterior izquierda",
+      "type": "ARTERIA",
+      "start": 621,
+      "end": 656
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 647,
+      "end": 656
+    },
+    {
+      "text": "ASPECTS modificado para ACA: 8",
+      "type": "PUNTUACION_CLINICA",
+      "start": 775,
+      "end": 805
+    },
+    {
+      "text": "aguda",
+      "type": "TEMPORALIDAD",
+      "start": 1557,
+      "end": 1562
+    },
+    {
+      "text": "oclusión",
+      "type": "PATOLOGIA",
+      "start": 1232,
+      "end": 1240
+    },
+    {
+      "text": "oclusión del segmento A2 distal de la arteria cerebral anterior izquierda",
+      "type": "PATOLOGIA",
+      "start": 1232,
+      "end": 1305
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1718,
+      "end": 1741
+    },
+    {
+      "text": "segmento distal A2",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 2034,
+      "end": 2052
+    }
+  ]
+}

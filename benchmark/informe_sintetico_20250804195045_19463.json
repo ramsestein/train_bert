@@ -1,0 +1,65 @@
+{
+  "document_id": "informe_sintetico_20250804195045_19463",
+  "entities": [
+    {
+      "text": "hematoma intraparenquimatoso",
+      "type": "PATOLOGIA",
+      "start": 536,
+      "end": 564
+    },
+    {
+      "text": "región del cerebelo izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 490,
+      "end": 519
+    },
+    {
+      "text": "3,5 x 3 cm",
+      "type": "MEDIDA",
+      "start": 584,
+      "end": 594
+    },
+    {
+      "text": "cuarto ventrículo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 661,
+      "end": 678
+    },
+    {
+      "text": "hidrocefalia obstructiva incipiente",
+      "type": "PATOLOGIA",
+      "start": 758,
+      "end": 793
+    },
+    {
+      "text": "No se observan signos de hemorragia subaracnoidea",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 795,
+      "end": 844
+    },
+    {
+      "text": "No se identifican áreas con alteración hemodinámica significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1051,
+      "end": 1116
+    },
+    {
+      "text": "No se identifican otras lesiones isquémicas o vasculares asociadas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1651,
+      "end": 1717
+    },
+    {
+      "text": "Arterias cerebrales mayores",
+      "type": "ARTERIA",
+      "start": 1345,
+      "end": 1372
+    },
+    {
+      "text": "Sistema vertebrobasilar",
+      "type": "ARTERIA",
+      "start": 1424,
+      "end": 1447
+    }
+  ]
+}

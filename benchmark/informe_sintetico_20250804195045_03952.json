@@ -1,0 +1,113 @@
+{
+  "document_id": "informe_sintetico_20250804195045_03952",
+  "entities": [
+    {
+      "text": "hematomas intracraneales",
+      "type": "PATOLOGIA",
+      "start": 378,
+      "end": 402
+    },
+    {
+      "text": "colecciones extraaxiales",
+      "type": "PATOLOGIA",
+      "start": 406,
+      "end": 430
+    },
+    {
+      "text": "edema citotóxico",
+      "type": "PATOLOGIA",
+      "start": 508,
+      "end": 524
+    },
+    {
+      "text": "lesiones isquémicas agudas",
+      "type": "PATOLOGIA",
+      "start": 551,
+      "end": 577
+    },
+    {
+      "text": "enfermedad microangiopática leve",
+      "type": "PATOLOGIA",
+      "start": 708,
+      "end": 740
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 526,
+      "end": 536
+    },
+    {
+      "text": "línea media",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 799,
+      "end": 810
+    },
+    {
+      "text": "perimesencefálicas",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 841,
+      "end": 859
+    },
+    {
+      "text": "Mapas de tiempo de tránsito (TTP)",
+      "type": "TECNICA_IMAGEN",
+      "start": 883,
+      "end": 916
+    },
+    {
+      "text": "volumen cerebral sanguíneo (CBV)",
+      "type": "TECNICA_IMAGEN",
+      "start": 918,
+      "end": 950
+    },
+    {
+      "text": "flujo cerebral sanguíneo (CBF)",
+      "type": "TECNICA_IMAGEN",
+      "start": 953,
+      "end": 983
+    },
+    {
+      "text": "ACAs, ACMs, ACPs, y sistema vertebrobasilar",
+      "type": "ARTERIA",
+      "start": 1348,
+      "end": 1391
+    },
+    {
+      "text": "sin estenosis significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1167,
+      "end": 1194
+    },
+    {
+      "text": "sin estenosis ni placas ateromatosas complicadas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1264,
+      "end": 1312
+    },
+    {
+      "text": "sin defectos de repleción ni estenosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1405,
+      "end": 1443
+    },
+    {
+      "text": "sin hallazgos de patología intracraneal aguda",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1489,
+      "end": 1534
+    },
+    {
+      "text": "Ausencia de hemorragia o isquemia aguda",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1548,
+      "end": 1587
+    },
+    {
+      "text": "sin alteraciones significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1681,
+      "end": 1712
+    }
+  ]
+}

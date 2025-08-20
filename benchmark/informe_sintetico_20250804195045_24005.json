@@ -1,0 +1,89 @@
+{
+  "document_id": "informe_sintetico_20250804195045_24005",
+  "entities": [
+    {
+      "text": "infartos isquémicos agudos",
+      "type": "PATOLOGIA",
+      "start": 742,
+      "end": 768
+    },
+    {
+      "text": "corticales y subcorticales frontales, parietales y temporales bilaterales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 651,
+      "end": 724
+    },
+    {
+      "text": "arterias cerebrales medias y anteriores",
+      "type": "ARTERIA",
+      "start": 1405,
+      "end": 1444
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 216,
+      "end": 223
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 1614,
+      "end": 1623
+    },
+    {
+      "text": "completa",
+      "type": "MEDIDA",
+      "start": 1502,
+      "end": 1510
+    },
+    {
+      "text": "severa",
+      "type": "MEDIDA",
+      "start": 1581,
+      "end": 1587
+    },
+    {
+      "text": "moderada",
+      "type": "MEDIDA",
+      "start": 1804,
+      "end": 1812
+    },
+    {
+      "text": "aguda",
+      "type": "TEMPORALIDAD",
+      "start": 1914,
+      "end": 1919
+    },
+    {
+      "text": "multiterritorial",
+      "type": "TEMPORALIDAD",
+      "start": 785,
+      "end": 801
+    },
+    {
+      "text": "No se evidencian signos de hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 803,
+      "end": 853
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 355,
+      "end": 371
+    },
+    {
+      "text": "TC PERFUSIÓN",
+      "type": "TECNICA_IMAGEN",
+      "start": 1042,
+      "end": 1054
+    },
+    {
+      "text": "ANGIO-TC EXTRA E INTRACRANEAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 1447,
+      "end": 1476
+    }
+  ]
+}

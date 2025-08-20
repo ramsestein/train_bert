@@ -1,0 +1,83 @@
+{
+  "document_id": "0000000010000000059592443_cleaned",
+  "entities": [
+    {
+      "text": "isquemia establecida",
+      "type": "PATOLOGIA",
+      "start": 552,
+      "end": 572
+    },
+    {
+      "text": "ASPECTS 9/10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 574,
+      "end": 586
+    },
+    {
+      "text": "giro precentral izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 512,
+      "end": 537
+    },
+    {
+      "text": "ACMi",
+      "type": "ARTERIA",
+      "start": 800,
+      "end": 804
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 824,
+      "end": 833
+    },
+    {
+      "text": "TMax, TTD, TTM",
+      "type": "MEDIDA",
+      "start": 760,
+      "end": 774
+    },
+    {
+      "text": "ACAs, ACMs, ACPs",
+      "type": "ARTERIA",
+      "start": 1309,
+      "end": 1325
+    },
+    {
+      "text": "ACM izquierda",
+      "type": "ARTERIA",
+      "start": 1381,
+      "end": 1394
+    },
+    {
+      "text": "No se observa hemorragia aguda intra ni extraaxial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 400,
+      "end": 450
+    },
+    {
+      "text": "No existe discordancia significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 965,
+      "end": 1001
+    },
+    {
+      "text": "sin signos de ateromatosis ni estenosis visibles",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1197,
+      "end": 1245
+    },
+    {
+      "text": "sin signos de ateromatosis ni estenosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1197,
+      "end": 1236
+    },
+    {
+      "text": "sin poder descartar obstrucción de ramas distales de ACM izquierda",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1328,
+      "end": 1394
+    }
+  ]
+}

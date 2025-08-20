@@ -1,0 +1,143 @@
+{
+  "document_id": "informe_sintetico_20250804195045_05915",
+  "entities": [
+    {
+      "text": "isquemia",
+      "type": "PATOLOGIA",
+      "start": 249,
+      "end": 257
+    },
+    {
+      "text": "territorio medio cerebral izquierdo distal",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 261,
+      "end": 303
+    },
+    {
+      "text": "TC craneal no contrastada basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 324,
+      "end": 355
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 357,
+      "end": 378
+    },
+    {
+      "text": "angio-TC intra y extracraneal urgente",
+      "type": "TECNICA_IMAGEN",
+      "start": 380,
+      "end": 417
+    },
+    {
+      "text": "No se identifica hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 461,
+      "end": 501
+    },
+    {
+      "text": "No hay efecto de masa ni desplazamiento de la línea media",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 691,
+      "end": 748
+    },
+    {
+      "text": "ASPECTS 9",
+      "type": "PUNTUACION_CLINICA",
+      "start": 679,
+      "end": 688
+    },
+    {
+      "text": "tiempo hasta el pico (TTPe)",
+      "type": "PATOLOGIA",
+      "start": 869,
+      "end": 896
+    },
+    {
+      "text": "reducción moderada del flujo cerebral (CBF)",
+      "type": "PATOLOGIA",
+      "start": 949,
+      "end": 992
+    },
+    {
+      "text": "volumen cerebral (CBV)",
+      "type": "PATOLOGIA",
+      "start": 995,
+      "end": 1017
+    },
+    {
+      "text": "mismatch significativo entre áreas de perfusión alterada y tejido con CBF reducido",
+      "type": "PATOLOGIA",
+      "start": 1075,
+      "end": 1157
+    },
+    {
+      "text": "Defecto de repleción en la rama M2 distal de la arteria cerebral media izquierda",
+      "type": "PATOLOGIA",
+      "start": 1193,
+      "end": 1273
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "ARTERIA",
+      "start": 1241,
+      "end": 1273
+    },
+    {
+      "text": "oclusión trombótica",
+      "type": "PATOLOGIA",
+      "start": 1290,
+      "end": 1309
+    },
+    {
+      "text": "sin estenosis significativa ni placas ateromatosas relevantes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1361,
+      "end": 1422
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 1475,
+      "end": 1489
+    },
+    {
+      "text": "territorio distal de la arteria cerebral media izquierda (M2)",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1493,
+      "end": 1554
+    },
+    {
+      "text": "ASPECTS 9",
+      "type": "PUNTUACION_CLINICA",
+      "start": 679,
+      "end": 688
+    },
+    {
+      "text": "hipoperfusión",
+      "type": "PATOLOGIA",
+      "start": 1580,
+      "end": 1593
+    },
+    {
+      "text": "mismatch sugestivo de tejido potencialmente salvable",
+      "type": "PATOLOGIA",
+      "start": 1598,
+      "end": 1650
+    },
+    {
+      "text": "No se evidencia hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1652,
+      "end": 1691
+    },
+    {
+      "text": "Resto del árbol arterial sin hallazgos significativos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1743,
+      "end": 1796
+    }
+  ]
+}

@@ -1,0 +1,215 @@
+{
+  "document_id": "informe_sintetico_20250804195045_06033",
+  "entities": [
+    {
+      "text": "hemiparesia derecha",
+      "type": "PATOLOGIA",
+      "start": 217,
+      "end": 236
+    },
+    {
+      "text": "disartria",
+      "type": "PATOLOGIA",
+      "start": 238,
+      "end": 247
+    },
+    {
+      "text": "alteración en la marcha",
+      "type": "PATOLOGIA",
+      "start": 250,
+      "end": 273
+    },
+    {
+      "text": "déficit motor",
+      "type": "PATOLOGIA",
+      "start": 290,
+      "end": 303
+    },
+    {
+      "text": "arteria cerebral anterior",
+      "type": "ARTERIA",
+      "start": 321,
+      "end": 346
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 367,
+      "end": 383
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 572,
+      "end": 595
+    },
+    {
+      "text": "colecciones extraaxiales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 599,
+      "end": 623
+    },
+    {
+      "text": "hipodensidad",
+      "type": "PATOLOGIA",
+      "start": 642,
+      "end": 654
+    },
+    {
+      "text": "cuerpo calloso anterior",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 661,
+      "end": 684
+    },
+    {
+      "text": "corteza medial frontal izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 687,
+      "end": 719
+    },
+    {
+      "text": "arteria cerebral anterior",
+      "type": "ARTERIA",
+      "start": 321,
+      "end": 346
+    },
+    {
+      "text": "borramiento de surcos corticales adyacentes",
+      "type": "PATOLOGIA",
+      "start": 802,
+      "end": 845
+    },
+    {
+      "text": "lesión isquémica aguda temprana",
+      "type": "PATOLOGIA",
+      "start": 860,
+      "end": 891
+    },
+    {
+      "text": "signos claros de infarto establecido",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 908,
+      "end": 944
+    },
+    {
+      "text": "Mapas de tiempo de tránsito (TTP)",
+      "type": "TECNICA_IMAGEN",
+      "start": 961,
+      "end": 994
+    },
+    {
+      "text": "tiempo máximo (Tmax)",
+      "type": "TECNICA_IMAGEN",
+      "start": 997,
+      "end": 1017
+    },
+    {
+      "text": "prolongación",
+      "type": "PATOLOGIA",
+      "start": 1027,
+      "end": 1039
+    },
+    {
+      "text": "territorio vascular correspondiente a la ACA izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1046,
+      "end": 1100
+    },
+    {
+      "text": "reducción del flujo cerebral cerebral (CBF)",
+      "type": "PATOLOGIA",
+      "start": 1106,
+      "end": 1149
+    },
+    {
+      "text": "volumen cerebral (CBV)",
+      "type": "PATOLOGIA",
+      "start": 1152,
+      "end": 1174
+    },
+    {
+      "text": "región mediofrontal",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1181,
+      "end": 1200
+    },
+    {
+      "text": "hipoperfusión",
+      "type": "PATOLOGIA",
+      "start": 1222,
+      "end": 1235
+    },
+    {
+      "text": "mismatch significativo",
+      "type": "PATOLOGIA",
+      "start": 1250,
+      "end": 1272
+    },
+    {
+      "text": "zona de penumbra isquémica viable",
+      "type": "PATOLOGIA",
+      "start": 1284,
+      "end": 1317
+    },
+    {
+      "text": "estenosis crítica",
+      "type": "PATOLOGIA",
+      "start": 1365,
+      "end": 1382
+    },
+    {
+      "text": "posible oclusión",
+      "type": "PATOLOGIA",
+      "start": 1385,
+      "end": 1401
+    },
+    {
+      "text": "segmentación proximal de la arteria cerebral anterior izquierda (A2 segment)",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1405,
+      "end": 1481
+    },
+    {
+      "text": "Resto del árbol arterial intracraneal sin estenosis ni oclusiones relevantes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1483,
+      "end": 1559
+    },
+    {
+      "text": "territorio de arteria cerebral anterior izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1677,
+      "end": 1726
+    },
+    {
+      "text": "lesión hipodensa en corteza medial frontal y cuerpo calloso anterior",
+      "type": "PATOLOGIA",
+      "start": 1732,
+      "end": 1800
+    },
+    {
+      "text": "mismatch significativo en estudio de perfusión",
+      "type": "PATOLOGIA",
+      "start": 1926,
+      "end": 1972
+    },
+    {
+      "text": "área de penumbra isquémica potencialmente reversible",
+      "type": "PATOLOGIA",
+      "start": 1985,
+      "end": 2037
+    },
+    {
+      "text": "Control evolutivo con TC de perfusión",
+      "type": "TECNICA_IMAGEN",
+      "start": 2074,
+      "end": 2111
+    },
+    {
+      "text": "correlación clínica inmediata con neurología para manejo urgente",
+      "type": "PATOLOGIA",
+      "start": 2171,
+      "end": 2235
+    }
+  ]
+}

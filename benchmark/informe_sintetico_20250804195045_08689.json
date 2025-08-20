@@ -1,0 +1,65 @@
+{
+  "document_id": "informe_sintetico_20250804195045_08689",
+  "entities": [
+    {
+      "text": "infarto lacunar agudo",
+      "type": "PATOLOGIA",
+      "start": 498,
+      "end": 519
+    },
+    {
+      "text": "cápsula interna izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 456,
+      "end": 481
+    },
+    {
+      "text": "ASPECTS 9",
+      "type": "PUNTUACION_CLINICA",
+      "start": 660,
+      "end": 669
+    },
+    {
+      "text": "cápsula interna izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 456,
+      "end": 481
+    },
+    {
+      "text": "arteria cerebral media",
+      "type": "ARTERIA",
+      "start": 1204,
+      "end": 1226
+    },
+    {
+      "text": "ASPECTS 9",
+      "type": "PUNTUACION_CLINICA",
+      "start": 660,
+      "end": 669
+    },
+    {
+      "text": "No se observan otras lesiones isquémicas o hemorragias",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 521,
+      "end": 575
+    },
+    {
+      "text": "No se identifican áreas de penumbra extensa ni discordancia importante en mapas de perfusión",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 998,
+      "end": 1090
+    },
+    {
+      "text": "No se evidencian estenosis ni oclusiones",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1157,
+      "end": 1197
+    },
+    {
+      "text": "No signos de hemorragia ni grandes oclusiones arteriales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1919,
+      "end": 1975
+    }
+  ]
+}

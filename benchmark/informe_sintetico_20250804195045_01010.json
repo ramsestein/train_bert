@@ -1,0 +1,131 @@
+{
+  "document_id": "informe_sintetico_20250804195045_01010",
+  "entities": [
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 245,
+      "end": 259
+    },
+    {
+      "text": "arteria cerebral posterior derecha",
+      "type": "ARTERIA",
+      "start": 277,
+      "end": 311
+    },
+    {
+      "text": "hemicuerpo izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 189,
+      "end": 209
+    },
+    {
+      "text": "lóbulo occipital",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 704,
+      "end": 720
+    },
+    {
+      "text": "región posteromedial del lóbulo temporal",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 723,
+      "end": 763
+    },
+    {
+      "text": "isquemia establecida incipiente",
+      "type": "PATOLOGIA",
+      "start": 781,
+      "end": 812
+    },
+    {
+      "text": "arteria cerebral posterior derecha",
+      "type": "ARTERIA",
+      "start": 277,
+      "end": 311
+    },
+    {
+      "text": "segmento P2",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1408,
+      "end": 1419
+    },
+    {
+      "text": "ACP derecha",
+      "type": "ARTERIA",
+      "start": 1122,
+      "end": 1133
+    },
+    {
+      "text": "penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1217,
+      "end": 1235
+    },
+    {
+      "text": "No se identifican hemorragias intra ni extraaxiales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 488,
+      "end": 539
+    },
+    {
+      "text": "No se observan desplazamientos de línea media ni signos de edema cerebral significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 814,
+      "end": 901
+    },
+    {
+      "text": "No se detectan aneurismas ni malformaciones vasculares",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1711,
+      "end": 1765
+    },
+    {
+      "text": "No se evidencian signos de hemorragia ni lesiones crónicas asociadas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1977,
+      "end": 2045
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 332,
+      "end": 348
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 375,
+      "end": 396
+    },
+    {
+      "text": "angiografía por TC arterial intracraneal urgente",
+      "type": "TECNICA_IMAGEN",
+      "start": 399,
+      "end": 447
+    },
+    {
+      "text": "aumento del tiempo medio de tránsito (MTT)",
+      "type": "MEDIDA",
+      "start": 998,
+      "end": 1040
+    },
+    {
+      "text": "reducción del volumen cerebral sanguíneo (CBV)",
+      "type": "MEDIDA",
+      "start": 1043,
+      "end": 1089
+    },
+    {
+      "text": "discreta reducción del flujo cerebral sanguíneo (CBF)",
+      "type": "MEDIDA",
+      "start": 1139,
+      "end": 1192
+    },
+    {
+      "text": "24-48 horas",
+      "type": "TEMPORALIDAD",
+      "start": 2335,
+      "end": 2346
+    }
+  ]
+}

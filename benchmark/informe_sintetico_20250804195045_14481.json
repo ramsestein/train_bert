@@ -1,0 +1,95 @@
+{
+  "document_id": "informe_sintetico_20250804195045_14481",
+  "entities": [
+    {
+      "text": "infartos",
+      "type": "PATOLOGIA",
+      "start": 880,
+      "end": 888
+    },
+    {
+      "text": "corticales y subcorticales bilaterales",
+      "type": "PATOLOGIA",
+      "start": 1796,
+      "end": 1834
+    },
+    {
+      "text": "territorios frontera (watershed) frontoparietales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1838,
+      "end": 1887
+    },
+    {
+      "text": "hipoperfusión global",
+      "type": "PATOLOGIA",
+      "start": 1903,
+      "end": 1923
+    },
+    {
+      "text": "penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1432,
+      "end": 1450
+    },
+    {
+      "text": "Aumento persistente del tiempo de tránsito medio (MTT)",
+      "type": "MEDIDA",
+      "start": 1117,
+      "end": 1171
+    },
+    {
+      "text": "retraso en el tiempo hasta el pico (TTP)",
+      "type": "MEDIDA",
+      "start": 1174,
+      "end": 1214
+    },
+    {
+      "text": "disminución moderada del flujo sanguíneo cerebral (CBF)",
+      "type": "MEDIDA",
+      "start": 1290,
+      "end": 1345
+    },
+    {
+      "text": "conservación relativa del volumen sanguíneo cerebral (CBV)",
+      "type": "MEDIDA",
+      "start": 1348,
+      "end": 1406
+    },
+    {
+      "text": "ASPECTS: 8",
+      "type": "PUNTUACION_CLINICA",
+      "start": 918,
+      "end": 928
+    },
+    {
+      "text": "arteria cerebral anterior",
+      "type": "ARTERIA",
+      "start": 829,
+      "end": 854
+    },
+    {
+      "text": "bilateralmente",
+      "type": "LATERALIDAD",
+      "start": 1578,
+      "end": 1592
+    },
+    {
+      "text": "No se evidencian hemorragias intracraneales ni colecciones anormales.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 508,
+      "end": 577
+    },
+    {
+      "text": "No se observan placas ateromatosas calcificadas significativas ni signos de vasculitis.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1672,
+      "end": 1759
+    },
+    {
+      "text": "Angiografía TC sin signos de oclusión arterial mayor ni estenosis significativas.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2004,
+      "end": 2085
+    }
+  ]
+}

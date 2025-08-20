@@ -1,0 +1,125 @@
+{
+  "document_id": "informe_sintetico_20250804195045_13262",
+  "entities": [
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 480,
+      "end": 503
+    },
+    {
+      "text": "hemorragia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 480,
+      "end": 490
+    },
+    {
+      "text": "isquemia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1060,
+      "end": 1068
+    },
+    {
+      "text": "lesiones estructurales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1640,
+      "end": 1662
+    },
+    {
+      "text": "ASPECTS 10/10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 621,
+      "end": 634
+    },
+    {
+      "text": "isquemia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1060,
+      "end": 1068
+    },
+    {
+      "text": "hemorragia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 480,
+      "end": 490
+    },
+    {
+      "text": "lesiones estructurales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1640,
+      "end": 1662
+    },
+    {
+      "text": "ACIs, ACMs, ACAs, ACPs y sistema vertebrobasilar",
+      "type": "ARTERIA",
+      "start": 1363,
+      "end": 1411
+    },
+    {
+      "text": "arterias cerebrales",
+      "type": "ARTERIA",
+      "start": 1090,
+      "end": 1109
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 285,
+      "end": 301
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 318,
+      "end": 339
+    },
+    {
+      "text": "angio-TC arterial intracraneal y extracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 342,
+      "end": 387
+    },
+    {
+      "text": "arco aórtico",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1156,
+      "end": 1168
+    },
+    {
+      "text": "troncos supraaórticos",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1175,
+      "end": 1196
+    },
+    {
+      "text": "arterias intracraneales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1338,
+      "end": 1361
+    },
+    {
+      "text": "morfología y tamaño normales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 777,
+      "end": 805
+    },
+    {
+      "text": "sin evidencias de placas ateromatosas significativas ni estenosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1255,
+      "end": 1320
+    },
+    {
+      "text": "sin signos de estenosis o trombosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1430,
+      "end": 1465
+    },
+    {
+      "text": "sin hallazgos agudos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1566,
+      "end": 1586
+    }
+  ]
+}

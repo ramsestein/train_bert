@@ -1,0 +1,95 @@
+{
+  "document_id": "informe_sintetico_20250804195045_02072",
+  "entities": [
+    {
+      "text": "edema cerebral difuso",
+      "type": "PATOLOGIA",
+      "start": 575,
+      "end": 596
+    },
+    {
+      "text": "sustancia blanca periventricular",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 635,
+      "end": 667
+    },
+    {
+      "text": "corteza cerebral",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 676,
+      "end": 692
+    },
+    {
+      "text": "lóbulos frontales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 777,
+      "end": 794
+    },
+    {
+      "text": "tiempo de tránsito medio (TTP)",
+      "type": "MEDIDA",
+      "start": 1013,
+      "end": 1043
+    },
+    {
+      "text": "volumen cerebral cerebral (CBV)",
+      "type": "MEDIDA",
+      "start": 1060,
+      "end": 1091
+    },
+    {
+      "text": "región frontoparietal bilateral",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1116,
+      "end": 1147
+    },
+    {
+      "text": "flujo cerebral (CBF)",
+      "type": "MEDIDA",
+      "start": 1199,
+      "end": 1219
+    },
+    {
+      "text": "Arterias cerebrales principales (ACAs, ACMs y ACPs)",
+      "type": "ARTERIA",
+      "start": 1397,
+      "end": 1448
+    },
+    {
+      "text": "sistema vertebrobasilar",
+      "type": "ARTERIA",
+      "start": 1464,
+      "end": 1487
+    },
+    {
+      "text": "oclusión arterial aguda",
+      "type": "PATOLOGIA",
+      "start": 1550,
+      "end": 1573
+    },
+    {
+      "text": "encefalopatía hipóxico-isquémica difusa",
+      "type": "PATOLOGIA",
+      "start": 1673,
+      "end": 1712
+    },
+    {
+      "text": "edema cerebral leve",
+      "type": "PATOLOGIA",
+      "start": 1718,
+      "end": 1737
+    },
+    {
+      "text": "alteraciones difusas en perfusión cerebral",
+      "type": "PATOLOGIA",
+      "start": 2128,
+      "end": 2170
+    },
+    {
+      "text": "No evidencia de oclusión arterial intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2172,
+      "end": 2218
+    }
+  ]
+}

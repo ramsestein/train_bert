@@ -1,0 +1,59 @@
+{
+  "document_id": "informe_sintetico_20250804195045_09432",
+  "entities": [
+    {
+      "text": "hemorragia subaracnoidea focal",
+      "type": "PATOLOGIA",
+      "start": 481,
+      "end": 511
+    },
+    {
+      "text": "cisterna ambiens izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 438,
+      "end": 464
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 695,
+      "end": 705
+    },
+    {
+      "text": "sistema arterial intracraneal",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1157,
+      "end": 1186
+    },
+    {
+      "text": "arterias cerebrales anteriores, medias y posteriores",
+      "type": "ARTERIA",
+      "start": 1222,
+      "end": 1274
+    },
+    {
+      "text": "ACA, ACM, ACP",
+      "type": "ARTERIA",
+      "start": 1276,
+      "end": 1289
+    },
+    {
+      "text": "sin obstrucción",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1447,
+      "end": 1462
+    },
+    {
+      "text": "sin evidencia de aneurisma ni malformación",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1673,
+      "end": 1715
+    },
+    {
+      "text": "sin alteraciones compatibles con daño isquémico asociado",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1740,
+      "end": 1796
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "document_id": "informe_sintetico_20250804195045_04499",
+  "entities": [
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 638,
+      "end": 652
+    },
+    {
+      "text": "arteria cerebral anterior",
+      "type": "ARTERIA",
+      "start": 673,
+      "end": 698
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 560,
+      "end": 567
+    },
+    {
+      "text": "ASPECTS modificado para ACA: 7",
+      "type": "PUNTUACION_CLINICA",
+      "start": 714,
+      "end": 744
+    },
+    {
+      "text": "disminución del flujo sanguíneo cerebral (CBF)",
+      "type": "MEDIDA",
+      "start": 1008,
+      "end": 1054
+    },
+    {
+      "text": "Oclusión segmentaria en el segmento A2 de la arteria cerebral anterior derecha",
+      "type": "PATOLOGIA",
+      "start": 1275,
+      "end": 1353
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 560,
+      "end": 567
+    },
+    {
+      "text": "No se identifican focos hemorrágicos intra ni extraaxiales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 441,
+      "end": 499
+    },
+    {
+      "text": "No se identifica hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1741,
+      "end": 1781
+    }
+  ]
+}

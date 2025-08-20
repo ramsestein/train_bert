@@ -1,0 +1,191 @@
+{
+  "document_id": "informe_sintetico_20250804195045_23551",
+  "entities": [
+    {
+      "text": "hiperdensidad",
+      "type": "PATOLOGIA",
+      "start": 403,
+      "end": 416
+    },
+    {
+      "text": "trombo intraluminal",
+      "type": "PATOLOGIA",
+      "start": 506,
+      "end": 525
+    },
+    {
+      "text": "isquemia",
+      "type": "PATOLOGIA",
+      "start": 559,
+      "end": 567
+    },
+    {
+      "text": "corteza frontal y parietal izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 574,
+      "end": 610
+    },
+    {
+      "text": "ASPECTS",
+      "type": "PUNTUACION_CLINICA",
+      "start": 672,
+      "end": 679
+    },
+    {
+      "text": "7/10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 683,
+      "end": 687
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 696,
+      "end": 719
+    },
+    {
+      "text": "estructuras de línea media",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 735,
+      "end": 761
+    },
+    {
+      "text": "TC perfusión",
+      "type": "TECNICA_IMAGEN",
+      "start": 301,
+      "end": 313
+    },
+    {
+      "text": "tiempo de tránsito medio (TTM)",
+      "type": "MEDIDA",
+      "start": 835,
+      "end": 865
+    },
+    {
+      "text": "flujo cerebral (CBF)",
+      "type": "MEDIDA",
+      "start": 881,
+      "end": 901
+    },
+    {
+      "text": "volumen cerebral de sangre (CBV)",
+      "type": "MEDIDA",
+      "start": 941,
+      "end": 973
+    },
+    {
+      "text": "zona de penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1000,
+      "end": 1026
+    },
+    {
+      "text": "oclusión completa",
+      "type": "PATOLOGIA",
+      "start": 1046,
+      "end": 1063
+    },
+    {
+      "text": "arteria cerebral media izquierda segmento M1",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1070,
+      "end": 1114
+    },
+    {
+      "text": "ausencia de flujo distal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1120,
+      "end": 1144
+    },
+    {
+      "text": "resto del árbol arterial intracraneal y cervical",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1149,
+      "end": 1197
+    },
+    {
+      "text": "estenosis significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1225,
+      "end": 1249
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 1300,
+      "end": 1314
+    },
+    {
+      "text": "arteria cerebral media izquierda proximal (M1)",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1335,
+      "end": 1381
+    },
+    {
+      "text": "oclusión arterial confirmada",
+      "type": "PATOLOGIA",
+      "start": 1386,
+      "end": 1414
+    },
+    {
+      "text": "ASPECTS 7/10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 1416,
+      "end": 1428
+    },
+    {
+      "text": "zona de penumbra viable",
+      "type": "PATOLOGIA",
+      "start": 1463,
+      "end": 1486
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 696,
+      "end": 719
+    },
+    {
+      "text": "Isquemia aguda por oclusión proximal de ACM izquierda (M1)",
+      "type": "PATOLOGIA",
+      "start": 1787,
+      "end": 1845
+    },
+    {
+      "text": "sin hemorragia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1847,
+      "end": 1861
+    },
+    {
+      "text": "ASPECTS 7/10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 1416,
+      "end": 1428
+    },
+    {
+      "text": "penumbra isquémica presente",
+      "type": "PATOLOGIA",
+      "start": 1877,
+      "end": 1904
+    },
+    {
+      "text": "Oclusión arterial M1 izquierda",
+      "type": "PATOLOGIA",
+      "start": 2018,
+      "end": 2048
+    },
+    {
+      "text": "área de penumbra evidente",
+      "type": "PATOLOGIA",
+      "start": 2053,
+      "end": 2078
+    },
+    {
+      "text": "resto del árbol vascular sin alteraciones",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2080,
+      "end": 2121
+    }
+  ]
+}

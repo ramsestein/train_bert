@@ -1,0 +1,113 @@
+{
+  "document_id": "informe_sintetico_20250804195045_11080",
+  "entities": [
+    {
+      "text": "ictus isquémico",
+      "type": "PATOLOGIA",
+      "start": 233,
+      "end": 248
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 752,
+      "end": 766
+    },
+    {
+      "text": "isquemia en fase aguda",
+      "type": "PATOLOGIA",
+      "start": 1246,
+      "end": 1268
+    },
+    {
+      "text": "arteria cerebral anterior",
+      "type": "ARTERIA",
+      "start": 266,
+      "end": 291
+    },
+    {
+      "text": "arteria cerebral anterior (ACA)",
+      "type": "ARTERIA",
+      "start": 704,
+      "end": 735
+    },
+    {
+      "text": "A2",
+      "type": "ARTERIA",
+      "start": 1380,
+      "end": 1382
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 621,
+      "end": 628
+    },
+    {
+      "text": "derecho",
+      "type": "LATERALIDAD",
+      "start": 1125,
+      "end": 1132
+    },
+    {
+      "text": "prolongados",
+      "type": "MEDIDA",
+      "start": 1096,
+      "end": 1107
+    },
+    {
+      "text": "completa",
+      "type": "MEDIDA",
+      "start": 1350,
+      "end": 1358
+    },
+    {
+      "text": "aguda",
+      "type": "TEMPORALIDAD",
+      "start": 761,
+      "end": 766
+    },
+    {
+      "text": "aguda",
+      "type": "TEMPORALIDAD",
+      "start": 761,
+      "end": 766
+    },
+    {
+      "text": "sin evidencia clara de infarto establecido aún",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1269,
+      "end": 1315
+    },
+    {
+      "text": "No se detectan hemorragias intracraneales ni lesiones expansivas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 506,
+      "end": 570
+    },
+    {
+      "text": "No hemorragias intracraneales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1841,
+      "end": 1870
+    },
+    {
+      "text": "TC craneal sin contraste basal inmediato",
+      "type": "TECNICA_IMAGEN",
+      "start": 336,
+      "end": 376
+    },
+    {
+      "text": "angio-TC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 389,
+      "end": 419
+    },
+    {
+      "text": "perfusión cerebral con contraste endovenoso",
+      "type": "TECNICA_IMAGEN",
+      "start": 422,
+      "end": 465
+    }
+  ]
+}

@@ -1,0 +1,137 @@
+{
+  "document_id": "informe_sintetico_20250804195045_11587",
+  "entities": [
+    {
+      "text": "infarto cerebral",
+      "type": "PATOLOGIA",
+      "start": 230,
+      "end": 246
+    },
+    {
+      "text": "oclusión carotídea",
+      "type": "PATOLOGIA",
+      "start": 251,
+      "end": 269
+    },
+    {
+      "text": "hipodensidad cortical extensa",
+      "type": "PATOLOGIA",
+      "start": 492,
+      "end": 521
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 542,
+      "end": 574
+    },
+    {
+      "text": "corteza y sustancia blanca de la región frontoparietal",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 590,
+      "end": 644
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 757,
+      "end": 780
+    },
+    {
+      "text": "área extensa con aumento del tiempo de tránsito medio (TTM)",
+      "type": "PATOLOGIA",
+      "start": 924,
+      "end": 983
+    },
+    {
+      "text": "tiempo hasta el pico (TTP)",
+      "type": "PATOLOGIA",
+      "start": 986,
+      "end": 1012
+    },
+    {
+      "text": "reducción marcada del volumen de sangre cerebral (VSC)",
+      "type": "PATOLOGIA",
+      "start": 1014,
+      "end": 1068
+    },
+    {
+      "text": "flujo sanguíneo cerebral (FSC)",
+      "type": "PATOLOGIA",
+      "start": 1075,
+      "end": 1105
+    },
+    {
+      "text": "penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1180,
+      "end": 1198
+    },
+    {
+      "text": "núcleo infarto establecido",
+      "type": "PATOLOGIA",
+      "start": 1201,
+      "end": 1227
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "ARTERIA",
+      "start": 542,
+      "end": 574
+    },
+    {
+      "text": "circulación posterior",
+      "type": "ARTERIA",
+      "start": 1499,
+      "end": 1520
+    },
+    {
+      "text": "estenosis significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1551,
+      "end": 1575
+    },
+    {
+      "text": "oclusión total de arteria carótida interna izquierda",
+      "type": "PATOLOGIA",
+      "start": 1734,
+      "end": 1786
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 757,
+      "end": 780
+    },
+    {
+      "text": "área de penumbra",
+      "type": "PATOLOGIA",
+      "start": 1172,
+      "end": 1188
+    },
+    {
+      "text": "núcleo isquémico definido",
+      "type": "PATOLOGIA",
+      "start": 1875,
+      "end": 1900
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 290,
+      "end": 306
+    },
+    {
+      "text": "perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 308,
+      "end": 326
+    },
+    {
+      "text": "angiografía TC arterial intra y extracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 329,
+      "end": 373
+    }
+  ]
+}

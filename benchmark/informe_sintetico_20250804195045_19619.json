@@ -1,0 +1,59 @@
+{
+  "document_id": "informe_sintetico_20250804195045_19619",
+  "entities": [
+    {
+      "text": "hematoma lobar",
+      "type": "PATOLOGIA",
+      "start": 487,
+      "end": 501
+    },
+    {
+      "text": "lóbulo frontal izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 516,
+      "end": 540
+    },
+    {
+      "text": "25 cc",
+      "type": "MEDIDA",
+      "start": 610,
+      "end": 615
+    },
+    {
+      "text": "agudo",
+      "type": "TEMPORALIDAD",
+      "start": 685,
+      "end": 690
+    },
+    {
+      "text": "3 mm",
+      "type": "MEDIDA",
+      "start": 902,
+      "end": 906
+    },
+    {
+      "text": "No se identifican signos de sangrado intraventricular",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 908,
+      "end": 961
+    },
+    {
+      "text": "ni hemorragias subaracnoideas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 962,
+      "end": 991
+    },
+    {
+      "text": "sin estenosis, oclusiones ni malformaciones vasculares evidentes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1310,
+      "end": 1374
+    },
+    {
+      "text": "sin hallazgos vasculares patológicos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1708,
+      "end": 1744
+    }
+  ]
+}

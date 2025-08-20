@@ -1,0 +1,101 @@
+{
+  "document_id": "informe_sintetico_20250804195045_17975",
+  "entities": [
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 309,
+      "end": 323
+    },
+    {
+      "text": "arteria cerebral media",
+      "type": "ARTERIA",
+      "start": 341,
+      "end": 363
+    },
+    {
+      "text": "izquierdo",
+      "type": "LATERALIDAD",
+      "start": 224,
+      "end": 233
+    },
+    {
+      "text": "ASPECTS 9",
+      "type": "PUNTUACION_CLINICA",
+      "start": 694,
+      "end": 703
+    },
+    {
+      "text": "hemorragias intra ni extraaxiales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 590,
+      "end": 623
+    },
+    {
+      "text": "infarto establecido extenso",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 811,
+      "end": 838
+    },
+    {
+      "text": "Oclusión completa del segmento M2 distal de la arteria cerebral media derecha",
+      "type": "PATOLOGIA",
+      "start": 1534,
+      "end": 1611
+    },
+    {
+      "text": "territorio distal de ACM derecha (segmentos M2/M3)",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1446,
+      "end": 1496
+    },
+    {
+      "text": "Oclusión arterial en segmento M2 de la ACM derecha",
+      "type": "PATOLOGIA",
+      "start": 2064,
+      "end": 2114
+    },
+    {
+      "text": "isquemia aguda focal en territorio cerebral medio distal",
+      "type": "PATOLOGIA",
+      "start": 2170,
+      "end": 2226
+    },
+    {
+      "text": "TC basal sin hemorragia ni infarto establecido de gran extensión",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1853,
+      "end": 1917
+    },
+    {
+      "text": "aumento del tiempo de tránsito medio (MTT)",
+      "type": "MEDIDA",
+      "start": 1118,
+      "end": 1160
+    },
+    {
+      "text": "tiempo hasta el pico (TTP)",
+      "type": "MEDIDA",
+      "start": 1167,
+      "end": 1193
+    },
+    {
+      "text": "caída moderada del flujo cerebral (CBF)",
+      "type": "MEDIDA",
+      "start": 1199,
+      "end": 1238
+    },
+    {
+      "text": "volumen cerebral (CBV)",
+      "type": "MEDIDA",
+      "start": 1272,
+      "end": 1294
+    },
+    {
+      "text": "preservado en la mayoría del territorio afectado",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1300,
+      "end": 1348
+    }
+  ]
+}

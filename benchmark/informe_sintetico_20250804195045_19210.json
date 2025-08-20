@@ -1,0 +1,137 @@
+{
+  "document_id": "informe_sintetico_20250804195045_19210",
+  "entities": [
+    {
+      "text": "edema",
+      "type": "PATOLOGIA",
+      "start": 488,
+      "end": 493
+    },
+    {
+      "text": "sangrado",
+      "type": "PATOLOGIA",
+      "start": 496,
+      "end": 504
+    },
+    {
+      "text": "hipodensidad aguda",
+      "type": "PATOLOGIA",
+      "start": 533,
+      "end": 551
+    },
+    {
+      "text": "signos de infarto reciente",
+      "type": "PATOLOGIA",
+      "start": 555,
+      "end": 581
+    },
+    {
+      "text": "cambios crónicos leves compatibles con microangiopatía",
+      "type": "PATOLOGIA",
+      "start": 716,
+      "end": 770
+    },
+    {
+      "text": "pequeñas áreas hipodensas periventriculares y en sustancia blanca profunda",
+      "type": "PATOLOGIA",
+      "start": 789,
+      "end": 863
+    },
+    {
+      "text": "permeabilidad",
+      "type": "PATOLOGIA",
+      "start": 1044,
+      "end": 1057
+    },
+    {
+      "text": "estenosis",
+      "type": "PATOLOGIA",
+      "start": 1139,
+      "end": 1148
+    },
+    {
+      "text": "placas ateromatosas relevantes",
+      "type": "PATOLOGIA",
+      "start": 1152,
+      "end": 1182
+    },
+    {
+      "text": "TC craneal",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 275,
+      "end": 285
+    },
+    {
+      "text": "sustancia blanca",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 838,
+      "end": 854
+    },
+    {
+      "text": "ventrículos",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 587,
+      "end": 598
+    },
+    {
+      "text": "arterias intracraneales",
+      "type": "ARTERIA",
+      "start": 1097,
+      "end": 1120
+    },
+    {
+      "text": "izquierdo",
+      "type": "LATERALIDAD",
+      "start": 245,
+      "end": 254
+    },
+    {
+      "text": "aguda",
+      "type": "TEMPORALIDAD",
+      "start": 546,
+      "end": 551
+    },
+    {
+      "text": "crónicos",
+      "type": "TEMPORALIDAD",
+      "start": 724,
+      "end": 732
+    },
+    {
+      "text": "leves",
+      "type": "TEMPORALIDAD",
+      "start": 733,
+      "end": 738
+    },
+    {
+      "text": "sin evidencia de edema o sangrado",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 471,
+      "end": 504
+    },
+    {
+      "text": "sin desviación de línea media ni hallazgos obstructivos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 647,
+      "end": 702
+    },
+    {
+      "text": "sin evidencia de estenosis ni placas ateromatosas relevantes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1122,
+      "end": 1182
+    },
+    {
+      "text": "sin evidencias de patología isquémica o hemorrágica aguda",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1234,
+      "end": 1291
+    },
+    {
+      "text": "TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANG IOTC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 72,
+      "end": 140
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "document_id": "informe_sintetico_20250804195045_12566",
+  "entities": [
+    {
+      "text": "infarto cerebral",
+      "type": "PATOLOGIA",
+      "start": 203,
+      "end": 219
+    },
+    {
+      "text": "ACM izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 237,
+      "end": 250
+    },
+    {
+      "text": "infarto isquémico reciente",
+      "type": "PATOLOGIA",
+      "start": 641,
+      "end": 667
+    },
+    {
+      "text": "hemorragia petequial focal",
+      "type": "PATOLOGIA",
+      "start": 790,
+      "end": 816
+    },
+    {
+      "text": "HI1",
+      "type": "PUNTUACION_CLINICA",
+      "start": 832,
+      "end": 835
+    },
+    {
+      "text": "No se observan hematomas mayores",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 838,
+      "end": 870
+    },
+    {
+      "text": "ACM izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 237,
+      "end": 250
+    },
+    {
+      "text": "isquemia subaguda",
+      "type": "PATOLOGIA",
+      "start": 1238,
+      "end": 1255
+    },
+    {
+      "text": "Oclusión parcial",
+      "type": "PATOLOGIA",
+      "start": 1289,
+      "end": 1305
+    },
+    {
+      "text": "ACM izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 237,
+      "end": 250
+    },
+    {
+      "text": "No signos de edema cerebral severo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1865,
+      "end": 1899
+    },
+    {
+      "text": "No se identifican defectos de repleción trombóticos nuevos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1399,
+      "end": 1457
+    },
+    {
+      "text": "TC CRANEAL BASAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 361,
+      "end": 377
+    },
+    {
+      "text": "TC PERFUSIÓN",
+      "type": "TECNICA_IMAGEN",
+      "start": 1054,
+      "end": 1066
+    },
+    {
+      "text": "ANGIO-TC EXTRA E INTRACRANEAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 1258,
+      "end": 1287
+    }
+  ]
+}

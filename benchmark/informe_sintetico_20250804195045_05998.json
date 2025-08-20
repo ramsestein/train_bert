@@ -1,0 +1,53 @@
+{
+  "document_id": "informe_sintetico_20250804195045_05998",
+  "entities": [
+    {
+      "text": "hematoma lobar frontal derecho",
+      "type": "PATOLOGIA",
+      "start": 399,
+      "end": 429
+    },
+    {
+      "text": "3,5 x 2,8 x 2,6 cm",
+      "type": "MEDIDA",
+      "start": 502,
+      "end": 520
+    },
+    {
+      "text": "4 mm",
+      "type": "MEDIDA",
+      "start": 716,
+      "end": 720
+    },
+    {
+      "text": "edema vasogénico",
+      "type": "PATOLOGIA",
+      "start": 849,
+      "end": 865
+    },
+    {
+      "text": "volumen cerebral (CBV)",
+      "type": "PATOLOGIA",
+      "start": 1039,
+      "end": 1061
+    },
+    {
+      "text": "región frontal derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1065,
+      "end": 1087
+    },
+    {
+      "text": "No se identifican aneurismas, malformaciones vasculares ni signos de ruptura vascular",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1286,
+      "end": 1371
+    },
+    {
+      "text": "sin signos de estenosis o trombosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1421,
+      "end": 1456
+    }
+  ]
+}

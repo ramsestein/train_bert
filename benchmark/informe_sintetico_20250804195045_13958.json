@@ -1,0 +1,89 @@
+{
+  "document_id": "informe_sintetico_20250804195045_13958",
+  "entities": [
+    {
+      "text": "infarto cerebral reciente",
+      "type": "PATOLOGIA",
+      "start": 179,
+      "end": 204
+    },
+    {
+      "text": "territorio de ACM izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 208,
+      "end": 235
+    },
+    {
+      "text": "infarto establecido",
+      "type": "PATOLOGIA",
+      "start": 631,
+      "end": 650
+    },
+    {
+      "text": "24-48 horas",
+      "type": "TEMPORALIDAD",
+      "start": 670,
+      "end": 681
+    },
+    {
+      "text": "ASPECTS 6",
+      "type": "PUNTUACION_CLINICA",
+      "start": 696,
+      "end": 705
+    },
+    {
+      "text": "microhemorragias en fase temprana",
+      "type": "PATOLOGIA",
+      "start": 869,
+      "end": 902
+    },
+    {
+      "text": "Transformación Hemorrágica tipo PH1",
+      "type": "PATOLOGIA",
+      "start": 904,
+      "end": 939
+    },
+    {
+      "text": "No se observan hematomas parenquimatosos de gran tamaño",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 942,
+      "end": 997
+    },
+    {
+      "text": "Oclusión proximal del segmento M1 de ACM izquierda",
+      "type": "PATOLOGIA",
+      "start": 1510,
+      "end": 1560
+    },
+    {
+      "text": "ACM izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 222,
+      "end": 235
+    },
+    {
+      "text": "No se visualizan hematomas intraparenquimatosos voluminosos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1940,
+      "end": 1999
+    },
+    {
+      "text": "TC Craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 335,
+      "end": 351
+    },
+    {
+      "text": "TC Perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 353,
+      "end": 374
+    },
+    {
+      "text": "AngioTC arterial intra- y extracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 377,
+      "end": 415
+    }
+  ]
+}

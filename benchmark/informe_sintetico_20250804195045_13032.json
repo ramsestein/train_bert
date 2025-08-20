@@ -1,0 +1,77 @@
+{
+  "document_id": "informe_sintetico_20250804195045_13032",
+  "entities": [
+    {
+      "text": "hematomas corticales y subcorticales",
+      "type": "PATOLOGIA",
+      "start": 664,
+      "end": 700
+    },
+    {
+      "text": "lóbulos occipitales y parietales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 730,
+      "end": 762
+    },
+    {
+      "text": "edema vasogénico leve",
+      "type": "PATOLOGIA",
+      "start": 811,
+      "end": 832
+    },
+    {
+      "text": "hemorragias corticales múltiples",
+      "type": "PATOLOGIA",
+      "start": 1191,
+      "end": 1223
+    },
+    {
+      "text": "isquemia aguda significativa",
+      "type": "PATOLOGIA",
+      "start": 1388,
+      "end": 1416
+    },
+    {
+      "text": "ACAs, ACMs y ACPs",
+      "type": "ARTERIA",
+      "start": 1568,
+      "end": 1585
+    },
+    {
+      "text": "bilaterales",
+      "type": "LATERALIDAD",
+      "start": 701,
+      "end": 712
+    },
+    {
+      "text": "sin evidencia de hemorragia masiva",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2008,
+      "end": 2042
+    },
+    {
+      "text": "sin estenosis significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2114,
+      "end": 2142
+    },
+    {
+      "text": "TC craneal sin contraste basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 385,
+      "end": 415
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 418,
+      "end": 439
+    },
+    {
+      "text": "angiografía TC intra y extracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 442,
+      "end": 477
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "document_id": "informe_sintetico_20250804195045_15401",
+  "entities": [
+    {
+      "text": "isquemia",
+      "type": "PATOLOGIA",
+      "start": 674,
+      "end": 682
+    },
+    {
+      "text": "aguda",
+      "type": "TEMPORALIDAD",
+      "start": 683,
+      "end": 688
+    },
+    {
+      "text": "cambios microangiopáticos crónicos pequeños",
+      "type": "PATOLOGIA",
+      "start": 850,
+      "end": 893
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 1196,
+      "end": 1206
+    },
+    {
+      "text": "sin evidencia de edema o isquemia aguda",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 649,
+      "end": 688
+    },
+    {
+      "text": "sin signos de hipertensión intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 937,
+      "end": 976
+    },
+    {
+      "text": "sin alteraciones en tiempos de tránsito ni flujo cerebral",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1137,
+      "end": 1194
+    },
+    {
+      "text": "sin estenosis ni placas ateromatosas de relevancia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1305,
+      "end": 1355
+    },
+    {
+      "text": "sin estenosis ni tortuosidades mórbidas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1473,
+      "end": 1512
+    },
+    {
+      "text": "sin defectos de repleción ni signos de estenosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1574,
+      "end": 1622
+    },
+    {
+      "text": "sin hallazgos de patología aguda isquémica o hemorrágica",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1717,
+      "end": 1773
+    },
+    {
+      "text": "permeable",
+      "type": "PATOLOGIA",
+      "start": 1385,
+      "end": 1394
+    },
+    {
+      "text": "sin estenosis significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1915,
+      "end": 1943
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 378,
+      "end": 394
+    },
+    {
+      "text": "estudio de perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 410,
+      "end": 439
+    },
+    {
+      "text": "angiografía TC arterial intra y extracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 442,
+      "end": 486
+    }
+  ]
+}

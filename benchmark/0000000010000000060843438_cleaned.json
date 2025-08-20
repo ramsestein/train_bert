@@ -1,0 +1,53 @@
+{
+  "document_id": "0000000010000000060843438_cleaned",
+  "entities": [
+    {
+      "text": "hemorragia intra ni extraaxial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 341,
+      "end": 371
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 420,
+      "end": 430
+    },
+    {
+      "text": "Imagen lacunar con calcificación asociada en centro semioval izquierdo",
+      "type": "PATOLOGIA",
+      "start": 433,
+      "end": 503
+    },
+    {
+      "text": "Atrofia cerebral",
+      "type": "PATOLOGIA",
+      "start": 519,
+      "end": 535
+    },
+    {
+      "text": "No se observan alteraciones valorables en el TTP, CBV y CBF",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 669,
+      "end": 728
+    },
+    {
+      "text": "ACAs, ACMs y ACPs",
+      "type": "ARTERIA",
+      "start": 852,
+      "end": 869
+    },
+    {
+      "text": "Seno transverso izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1237,
+      "end": 1262
+    },
+    {
+      "text": "No se observan signos de hemorragia ni isquiemia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1590,
+      "end": 1651
+    }
+  ]
+}

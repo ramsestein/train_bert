@@ -1,0 +1,89 @@
+{
+  "document_id": "informe_sintetico_20250804195045_19838",
+  "entities": [
+    {
+      "text": "infarto cerebral isquémico agudo",
+      "type": "PATOLOGIA",
+      "start": 194,
+      "end": 226
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "ARTERIA",
+      "start": 244,
+      "end": 276
+    },
+    {
+      "text": "35 x 28 x 30 mm",
+      "type": "MEDIDA",
+      "start": 655,
+      "end": 670
+    },
+    {
+      "text": "transformación hemorrágica tipo PH1",
+      "type": "PATOLOGIA",
+      "start": 687,
+      "end": 722
+    },
+    {
+      "text": "sangrado intraparenquimal",
+      "type": "PATOLOGIA",
+      "start": 762,
+      "end": 787
+    },
+    {
+      "text": "edema perilesional leve",
+      "type": "PATOLOGIA",
+      "start": 1776,
+      "end": 1799
+    },
+    {
+      "text": "No se observan hemorragias intraventriculares ni extraaxiales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 873,
+      "end": 934
+    },
+    {
+      "text": "No signos de sangrado activo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1023,
+      "end": 1051
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "ARTERIA",
+      "start": 244,
+      "end": 276
+    },
+    {
+      "text": "sangrado intraparenquimal focal",
+      "type": "PATOLOGIA",
+      "start": 1742,
+      "end": 1773
+    },
+    {
+      "text": "No evidencia de sangrado activo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1801,
+      "end": 1832
+    },
+    {
+      "text": "TC craneal basal urgente",
+      "type": "TECNICA_IMAGEN",
+      "start": 344,
+      "end": 368
+    },
+    {
+      "text": "perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 393,
+      "end": 411
+    },
+    {
+      "text": "angio-TC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 414,
+      "end": 444
+    }
+  ]
+}

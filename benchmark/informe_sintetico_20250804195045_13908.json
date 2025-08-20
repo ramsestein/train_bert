@@ -1,0 +1,89 @@
+{
+  "document_id": "informe_sintetico_20250804195045_13908",
+  "entities": [
+    {
+      "text": "ictus isquémico",
+      "type": "PATOLOGIA",
+      "start": 242,
+      "end": 257
+    },
+    {
+      "text": "parietal derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 743,
+      "end": 759
+    },
+    {
+      "text": "ASPECTS 9",
+      "type": "PUNTUACION_CLINICA",
+      "start": 689,
+      "end": 698
+    },
+    {
+      "text": "TTP",
+      "type": "MEDIDA",
+      "start": 942,
+      "end": 945
+    },
+    {
+      "text": "CBF",
+      "type": "MEDIDA",
+      "start": 994,
+      "end": 997
+    },
+    {
+      "text": "CBV",
+      "type": "MEDIDA",
+      "start": 1097,
+      "end": 1100
+    },
+    {
+      "text": "M2",
+      "type": "ARTERIA",
+      "start": 1285,
+      "end": 1287
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "ARTERIA",
+      "start": 1301,
+      "end": 1331
+    },
+    {
+      "text": "M3",
+      "type": "ARTERIA",
+      "start": 1385,
+      "end": 1387
+    },
+    {
+      "text": "aguda",
+      "type": "TEMPORALIDAD",
+      "start": 1535,
+      "end": 1540
+    },
+    {
+      "text": "Oclusión aguda del segmento distal M2 de arteria cerebral media derecha",
+      "type": "PATOLOGIA",
+      "start": 1526,
+      "end": 1597
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1721,
+      "end": 1744
+    },
+    {
+      "text": "Isquemia cerebral aguda en territorio distal de arteria cerebral media derecha (segmento M2/M3) sin infarto establecido",
+      "type": "PATOLOGIA",
+      "start": 1951,
+      "end": 2070
+    },
+    {
+      "text": "sin infarto establecido",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2047,
+      "end": 2070
+    }
+  ]
+}

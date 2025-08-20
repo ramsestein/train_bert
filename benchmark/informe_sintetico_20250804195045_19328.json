@@ -1,0 +1,143 @@
+{
+  "document_id": "informe_sintetico_20250804195045_19328",
+  "entities": [
+    {
+      "text": "infarto isquémico reciente",
+      "type": "PATOLOGIA",
+      "start": 590,
+      "end": 616
+    },
+    {
+      "text": "ASPECTS 8",
+      "type": "PUNTUACION_CLINICA",
+      "start": 618,
+      "end": 627
+    },
+    {
+      "text": "microhemorragias puntiformes",
+      "type": "PATOLOGIA",
+      "start": 777,
+      "end": 805
+    },
+    {
+      "text": "menores de 10 mm",
+      "type": "MEDIDA",
+      "start": 745,
+      "end": 761
+    },
+    {
+      "text": "transformación hemorrágica tipo HI1",
+      "type": "PATOLOGIA",
+      "start": 822,
+      "end": 857
+    },
+    {
+      "text": "No se observan hemorragias parenquimatosas mayores",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 859,
+      "end": 909
+    },
+    {
+      "text": "No se observan hemorragias masivas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2121,
+      "end": 2155
+    },
+    {
+      "text": "territorio de la arteria cerebral media (ACM) derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 520,
+      "end": 573
+    },
+    {
+      "text": "ACM",
+      "type": "ARTERIA",
+      "start": 561,
+      "end": 564
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 566,
+      "end": 573
+    },
+    {
+      "text": "prolongación del tiempo de tránsito medio (TTP)",
+      "type": "PATOLOGIA",
+      "start": 1105,
+      "end": 1152
+    },
+    {
+      "text": "aumento del Tmax",
+      "type": "PATOLOGIA",
+      "start": 1155,
+      "end": 1171
+    },
+    {
+      "text": "reducción moderada del flujo cerebral (CBF)",
+      "type": "PATOLOGIA",
+      "start": 1209,
+      "end": 1252
+    },
+    {
+      "text": "volumen cerebral (CBV) preservado",
+      "type": "PATOLOGIA",
+      "start": 1255,
+      "end": 1288
+    },
+    {
+      "text": "penumbra isquémica residual",
+      "type": "PATOLOGIA",
+      "start": 1337,
+      "end": 1364
+    },
+    {
+      "text": "Oclusión segmentaria del M2 derecho de la ACM",
+      "type": "PATOLOGIA",
+      "start": 1449,
+      "end": 1494
+    },
+    {
+      "text": "M2 derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1474,
+      "end": 1484
+    },
+    {
+      "text": "ACM",
+      "type": "ARTERIA",
+      "start": 561,
+      "end": 564
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 566,
+      "end": 573
+    },
+    {
+      "text": "Sistema vertebrobasilar sin alteraciones hemodinámicas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1738,
+      "end": 1792
+    },
+    {
+      "text": "Infarto isquémico en territorio de la ACM derecha",
+      "type": "PATOLOGIA",
+      "start": 1844,
+      "end": 1893
+    },
+    {
+      "text": "transformación hemorrágica petequial tipo HI1",
+      "type": "PATOLOGIA",
+      "start": 1898,
+      "end": 1943
+    },
+    {
+      "text": "penumbra isquémica residual",
+      "type": "PATOLOGIA",
+      "start": 1337,
+      "end": 1364
+    }
+  ]
+}

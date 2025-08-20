@@ -1,0 +1,59 @@
+{
+  "document_id": "informe_sintetico_20250804195045_12399",
+  "entities": [
+    {
+      "text": "hemorragia aguda",
+      "type": "PATOLOGIA",
+      "start": 532,
+      "end": 548
+    },
+    {
+      "text": "infarto agudo",
+      "type": "PATOLOGIA",
+      "start": 706,
+      "end": 719
+    },
+    {
+      "text": "cambios isquémicos crónicos",
+      "type": "PATOLOGIA",
+      "start": 825,
+      "end": 852
+    },
+    {
+      "text": "pequeñas áreas de hipodensidad periventricular y subcortical",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 748,
+      "end": 808
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 721,
+      "end": 731
+    },
+    {
+      "text": "ACAs, ACMs, ACPs",
+      "type": "ARTERIA",
+      "start": 1508,
+      "end": 1524
+    },
+    {
+      "text": "bilateral",
+      "type": "LATERALIDAD",
+      "start": 1229,
+      "end": 1238
+    },
+    {
+      "text": "sin estenosis hemodinámicamente significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1360,
+      "end": 1406
+    },
+    {
+      "text": "sin estenosis visibles ni oclusiones",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1537,
+      "end": 1573
+    }
+  ]
+}

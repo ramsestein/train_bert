@@ -1,0 +1,137 @@
+{
+  "document_id": "informe_sintetico_20250804195045_24036",
+  "entities": [
+    {
+      "text": "infarto",
+      "type": "PATOLOGIA",
+      "start": 254,
+      "end": 261
+    },
+    {
+      "text": "watershed",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 276,
+      "end": 285
+    },
+    {
+      "text": "parietales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 619,
+      "end": 629
+    },
+    {
+      "text": "bilaterales",
+      "type": "LATERALIDAD",
+      "start": 630,
+      "end": 641
+    },
+    {
+      "text": "arterias cerebral anterior y media",
+      "type": "ARTERIA",
+      "start": 720,
+      "end": 754
+    },
+    {
+      "text": "perieto-occipitales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 772,
+      "end": 791
+    },
+    {
+      "text": "ACM y ACP",
+      "type": "ARTERIA",
+      "start": 838,
+      "end": 847
+    },
+    {
+      "text": "ASPECTS 9/10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 963,
+      "end": 975
+    },
+    {
+      "text": "disminución del flujo cerebral (CBF)",
+      "type": "PATOLOGIA",
+      "start": 1061,
+      "end": 1097
+    },
+    {
+      "text": "prolongación del tiempo de tránsito medio (MTT)",
+      "type": "MEDIDA",
+      "start": 1102,
+      "end": 1149
+    },
+    {
+      "text": "aumento del tiempo hasta el pico (TTP)",
+      "type": "MEDIDA",
+      "start": 1152,
+      "end": 1190
+    },
+    {
+      "text": "preservación moderada del volumen cerebral (CBV)",
+      "type": "MEDIDA",
+      "start": 1203,
+      "end": 1251
+    },
+    {
+      "text": "penumbra",
+      "type": "PATOLOGIA",
+      "start": 1276,
+      "end": 1284
+    },
+    {
+      "text": "watershed bilateral",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1299,
+      "end": 1318
+    },
+    {
+      "text": "Sistema arterial intracraneal permeable",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1356,
+      "end": 1395
+    },
+    {
+      "text": "sin defectos de repleción ni estenosis significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1396,
+      "end": 1449
+    },
+    {
+      "text": "pequeñas placas ateromatosas no estenosantes",
+      "type": "PATOLOGIA",
+      "start": 1545,
+      "end": 1589
+    },
+    {
+      "text": "Sistema vertebrobasilar sin alteraciones",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1643,
+      "end": 1683
+    },
+    {
+      "text": "isquemia",
+      "type": "PATOLOGIA",
+      "start": 1937,
+      "end": 1945
+    },
+    {
+      "text": "disminución de CBF",
+      "type": "PATOLOGIA",
+      "start": 1987,
+      "end": 2005
+    },
+    {
+      "text": "prolongación del MTT y TTP",
+      "type": "MEDIDA",
+      "start": 2008,
+      "end": 2034
+    },
+    {
+      "text": "sin caída marcada del CBV",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2036,
+      "end": 2061
+    }
+  ]
+}

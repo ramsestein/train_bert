@@ -1,0 +1,113 @@
+{
+  "document_id": "informe_sintetico_20250804195045_15924",
+  "entities": [
+    {
+      "text": "hemorragia intraventricular primaria",
+      "type": "PATOLOGIA",
+      "start": 309,
+      "end": 345
+    },
+    {
+      "text": "ventrículos laterales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 610,
+      "end": 631
+    },
+    {
+      "text": "tercer ventrículo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 633,
+      "end": 650
+    },
+    {
+      "text": "cuarto ventrículo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 671,
+      "end": 688
+    },
+    {
+      "text": "hidrocefalia obstructiva",
+      "type": "PATOLOGIA",
+      "start": 916,
+      "end": 940
+    },
+    {
+      "text": "infarto cerebral agudo",
+      "type": "PATOLOGIA",
+      "start": 1003,
+      "end": 1025
+    },
+    {
+      "text": "estenosis significativas",
+      "type": "PATOLOGIA",
+      "start": 1379,
+      "end": 1403
+    },
+    {
+      "text": "aneurismas",
+      "type": "PATOLOGIA",
+      "start": 1422,
+      "end": 1432
+    },
+    {
+      "text": "malformaciones vasculares",
+      "type": "PATOLOGIA",
+      "start": 1436,
+      "end": 1461
+    },
+    {
+      "text": "hemorragias parenquimatosas asociadas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1781,
+      "end": 1818
+    },
+    {
+      "text": "infarto cerebral agudo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1003,
+      "end": 1025
+    },
+    {
+      "text": "aneurismas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1422,
+      "end": 1432
+    },
+    {
+      "text": "malformaciones vasculares intracraneales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1899,
+      "end": 1939
+    },
+    {
+      "text": "isquemia detectables",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1989,
+      "end": 2009
+    },
+    {
+      "text": "TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANG IOTC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 72,
+      "end": 140
+    },
+    {
+      "text": "TC CÓDIGO ICTUS",
+      "type": "TECNICA_IMAGEN",
+      "start": 366,
+      "end": 381
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 417,
+      "end": 438
+    },
+    {
+      "text": "AngioTC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 441,
+      "end": 470
+    }
+  ]
+}

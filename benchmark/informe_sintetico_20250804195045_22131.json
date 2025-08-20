@@ -1,0 +1,59 @@
+{
+  "document_id": "informe_sintetico_20250804195045_22131",
+  "entities": [
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 511,
+      "end": 525
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 585,
+      "end": 595
+    },
+    {
+      "text": "cerebral",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 311,
+      "end": 319
+    },
+    {
+      "text": "cerebrales principales (ACM, ACA, ACP)",
+      "type": "ARTERIA",
+      "start": 1226,
+      "end": 1264
+    },
+    {
+      "text": "sin lesiones significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1144,
+      "end": 1171
+    },
+    {
+      "text": "sin evidencia de estenosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1278,
+      "end": 1304
+    },
+    {
+      "text": "sin hallazgos agudos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1426,
+      "end": 1446
+    },
+    {
+      "text": "sin lesiones isquémicas ni hemorrágicas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1468,
+      "end": 1507
+    },
+    {
+      "text": "sin estenosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1590,
+      "end": 1603
+    }
+  ]
+}

@@ -1,0 +1,179 @@
+{
+  "document_id": "informe_sintetico_20250804195045_19095",
+  "entities": [
+    {
+      "text": "hemorragia subaracnoidea",
+      "type": "PATOLOGIA",
+      "start": 264,
+      "end": 288
+    },
+    {
+      "text": "cisternas basales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 489,
+      "end": 506
+    },
+    {
+      "text": "surcos corticales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 538,
+      "end": 555
+    },
+    {
+      "text": "hematomas intracerebrales",
+      "type": "PATOLOGIA",
+      "start": 623,
+      "end": 648
+    },
+    {
+      "text": "sangrado intraventricular",
+      "type": "PATOLOGIA",
+      "start": 652,
+      "end": 677
+    },
+    {
+      "text": "desplazamiento de línea media",
+      "type": "PATOLOGIA",
+      "start": 695,
+      "end": 724
+    },
+    {
+      "text": "hematomas focales",
+      "type": "PATOLOGIA",
+      "start": 741,
+      "end": 758
+    },
+    {
+      "text": "ventrículos laterales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 764,
+      "end": 785
+    },
+    {
+      "text": "tiempo de tránsito medio (MTT)",
+      "type": "MEDIDA",
+      "start": 883,
+      "end": 913
+    },
+    {
+      "text": "regiones frontales bilaterales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 917,
+      "end": 947
+    },
+    {
+      "text": "flujo sanguíneo cerebral (CBF)",
+      "type": "MEDIDA",
+      "start": 991,
+      "end": 1021
+    },
+    {
+      "text": "volumen cerebral (CBV)",
+      "type": "MEDIDA",
+      "start": 1025,
+      "end": 1047
+    },
+    {
+      "text": "permeabilidad en el árbol arterial intracraneal",
+      "type": "PATOLOGIA",
+      "start": 1079,
+      "end": 1126
+    },
+    {
+      "text": "signos aparentes de aneurisma",
+      "type": "PATOLOGIA",
+      "start": 1131,
+      "end": 1160
+    },
+    {
+      "text": "malformación vascular",
+      "type": "PATOLOGIA",
+      "start": 1163,
+      "end": 1184
+    },
+    {
+      "text": "signos de estenosis",
+      "type": "PATOLOGIA",
+      "start": 1198,
+      "end": 1217
+    },
+    {
+      "text": "disección vascular",
+      "type": "PATOLOGIA",
+      "start": 1220,
+      "end": 1238
+    },
+    {
+      "text": "hemorragia subaracnoidea difusa",
+      "type": "PATOLOGIA",
+      "start": 572,
+      "end": 603
+    },
+    {
+      "text": "hematomas focales asociados",
+      "type": "PATOLOGIA",
+      "start": 1352,
+      "end": 1379
+    },
+    {
+      "text": "alteraciones relevantes",
+      "type": "PATOLOGIA",
+      "start": 1404,
+      "end": 1427
+    },
+    {
+      "text": "hallazgos vascular sospechosos",
+      "type": "PATOLOGIA",
+      "start": 1455,
+      "end": 1485
+    },
+    {
+      "text": "aneurismas ocultos",
+      "type": "PATOLOGIA",
+      "start": 1790,
+      "end": 1808
+    },
+    {
+      "text": "TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANGIOTC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 1972,
+      "end": 2039
+    },
+    {
+      "text": "No se identifican hematomas intracerebrales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 605,
+      "end": 648
+    },
+    {
+      "text": "No se evidencia desplazamiento de línea media",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 679,
+      "end": 724
+    },
+    {
+      "text": "Los ventrículos laterales mantienen tamaño y morfología normales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 760,
+      "end": 824
+    },
+    {
+      "text": "sin déficit significativo en los mapas de flujo sanguíneo cerebral (CBF)",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 949,
+      "end": 1021
+    },
+    {
+      "text": "sin signos aparentes de aneurisma o malformación vascular",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1127,
+      "end": 1184
+    },
+    {
+      "text": "Ausencia de signos de estenosis o disección vascular",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1186,
+      "end": 1238
+    }
+  ]
+}

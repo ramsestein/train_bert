@@ -1,0 +1,269 @@
+{
+  "document_id": "0000000010000000058734111_cleaned",
+  "entities": [
+    {
+      "text": "aneurisma de comunicante anterior",
+      "type": "PATOLOGIA",
+      "start": 179,
+      "end": 212
+    },
+    {
+      "text": "HSA ANEURISMATICA",
+      "type": "PATOLOGIA",
+      "start": 329,
+      "end": 346
+    },
+    {
+      "text": "TC BASAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 522,
+      "end": 530
+    },
+    {
+      "text": "Catéter de derivación ventricular",
+      "type": "PATOLOGIA",
+      "start": 532,
+      "end": 565
+    },
+    {
+      "text": "frontal derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 578,
+      "end": 593
+    },
+    {
+      "text": "VLD",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 645,
+      "end": 648
+    },
+    {
+      "text": "Craneostomía frontal izquierda",
+      "type": "PATOLOGIA",
+      "start": 651,
+      "end": 681
+    },
+    {
+      "text": "neumoencéfalo",
+      "type": "PATOLOGIA",
+      "start": 745,
+      "end": 758
+    },
+    {
+      "text": "Material de embolización",
+      "type": "PATOLOGIA",
+      "start": 794,
+      "end": 818
+    },
+    {
+      "text": "ACoA",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 836,
+      "end": 840
+    },
+    {
+      "text": "HSA",
+      "type": "PATOLOGIA",
+      "start": 329,
+      "end": 332
+    },
+    {
+      "text": "VLI",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1010,
+      "end": 1013
+    },
+    {
+      "text": "asta occipital derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1059,
+      "end": 1081
+    },
+    {
+      "text": "infartos lacunares crónicos",
+      "type": "PATOLOGIA",
+      "start": 1218,
+      "end": 1245
+    },
+    {
+      "text": "Sistema ventricular",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1247,
+      "end": 1266
+    },
+    {
+      "text": "hidrocefalia activa",
+      "type": "PATOLOGIA",
+      "start": 1310,
+      "end": 1329
+    },
+    {
+      "text": "grosor de los HSD agudos",
+      "type": "MEDIDA",
+      "start": 1363,
+      "end": 1387
+    },
+    {
+      "text": "6 mm",
+      "type": "MEDIDA",
+      "start": 1491,
+      "end": 1495
+    },
+    {
+      "text": "4 mm",
+      "type": "MEDIDA",
+      "start": 1514,
+      "end": 1518
+    },
+    {
+      "text": "3 mm",
+      "type": "MEDIDA",
+      "start": 1559,
+      "end": 1563
+    },
+    {
+      "text": "TC PERFUSIÓN",
+      "type": "TECNICA_IMAGEN",
+      "start": 1608,
+      "end": 1620
+    },
+    {
+      "text": "retraso en mapas de tiempo",
+      "type": "PATOLOGIA",
+      "start": 1646,
+      "end": 1672
+    },
+    {
+      "text": "MTT, TTD, TTP",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1674,
+      "end": 1687
+    },
+    {
+      "text": "isquemia",
+      "type": "PATOLOGIA",
+      "start": 1848,
+      "end": 1856
+    },
+    {
+      "text": "ANGIO-TC",
+      "type": "TECNICA_IMAGEN",
+      "start": 1858,
+      "end": 1866
+    },
+    {
+      "text": "Ateromatosis calcificada",
+      "type": "PATOLOGIA",
+      "start": 1868,
+      "end": 1892
+    },
+    {
+      "text": "sifones carotideos",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1902,
+      "end": 1920
+    },
+    {
+      "text": "irregularidad parietal",
+      "type": "PATOLOGIA",
+      "start": 1934,
+      "end": 1956
+    },
+    {
+      "text": "disminución de calibre",
+      "type": "PATOLOGIA",
+      "start": 1959,
+      "end": 1981
+    },
+    {
+      "text": "trayecto proximal de ACMi",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1986,
+      "end": 2011
+    },
+    {
+      "text": "cambios de calibre segmentarios",
+      "type": "PATOLOGIA",
+      "start": 2024,
+      "end": 2055
+    },
+    {
+      "text": "ACAd",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 2062,
+      "end": 2066
+    },
+    {
+      "text": "arterias intracraneales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 2106,
+      "end": 2129
+    },
+    {
+      "text": "ACA, ACM, ACP",
+      "type": "ARTERIA",
+      "start": 2142,
+      "end": 2155
+    },
+    {
+      "text": "Sistema vertebrobasilar",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 2157,
+      "end": 2180
+    },
+    {
+      "text": "CVC en VCS",
+      "type": "PATOLOGIA",
+      "start": 2192,
+      "end": 2202
+    },
+    {
+      "text": "SNG",
+      "type": "PATOLOGIA",
+      "start": 2204,
+      "end": 2207
+    },
+    {
+      "text": "grosor de ambos HSD agudos",
+      "type": "MEDIDA",
+      "start": 2245,
+      "end": 2271
+    },
+    {
+      "text": "HSA difusa conocida",
+      "type": "PATOLOGIA",
+      "start": 2343,
+      "end": 2362
+    },
+    {
+      "text": "contaminación del VLD",
+      "type": "PATOLOGIA",
+      "start": 2381,
+      "end": 2402
+    },
+    {
+      "text": "foco hemático en asta occipital del VLI",
+      "type": "PATOLOGIA",
+      "start": 2424,
+      "end": 2463
+    },
+    {
+      "text": "cateter de derivación ventricular",
+      "type": "PATOLOGIA",
+      "start": 2493,
+      "end": 2526
+    },
+    {
+      "text": "VLD",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 645,
+      "end": 648
+    },
+    {
+      "text": "Angio-TC sin cambios significativos",
+      "type": "PATOLOGIA",
+      "start": 2571,
+      "end": 2606
+    }
+  ]
+}

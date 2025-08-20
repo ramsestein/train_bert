@@ -1,0 +1,59 @@
+{
+  "document_id": "informe_sintetico_20250804195045_20453",
+  "entities": [
+    {
+      "text": "hematoma lobar",
+      "type": "PATOLOGIA",
+      "start": 550,
+      "end": 564
+    },
+    {
+      "text": "frontal izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 394,
+      "end": 411
+    },
+    {
+      "text": "2,5 cm",
+      "type": "MEDIDA",
+      "start": 474,
+      "end": 480
+    },
+    {
+      "text": "3 mm",
+      "type": "MEDIDA",
+      "start": 678,
+      "end": 682
+    },
+    {
+      "text": "edema vasogénico",
+      "type": "PATOLOGIA",
+      "start": 1482,
+      "end": 1498
+    },
+    {
+      "text": "No se observan fracturas óseas evidentes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 725,
+      "end": 765
+    },
+    {
+      "text": "No evidencia de áreas isquémicas distantes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1177,
+      "end": 1219
+    },
+    {
+      "text": "Vasos intracraneales permeables sin alteraciones",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1629,
+      "end": 1677
+    },
+    {
+      "text": "TC craneal basal sin contraste + perfusión cerebral + Angio-TC arterial intracraneal urgente",
+      "type": "TECNICA_IMAGEN",
+      "start": 238,
+      "end": 330
+    }
+  ]
+}

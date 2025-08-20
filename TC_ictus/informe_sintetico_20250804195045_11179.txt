@@ -1,0 +1,31 @@
+UO_PACN (Unidad Organizativa Médica): RADIO
+
+PRUEB (Prueba solicitada): TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANG IOTC ARTERIAL INTRACRANEAL)
+
+CLIN (Resumen clínico): Déficit neurológico agudo con hemiparesia y afasia en paciente con factores de riesgo cardiovascular.
+
+OBSR (Protocolo): TC craneal basal sin contraste, seguido de administración de contraste EV para realización simultánea de TC perfusión cerebral y AngioTC arterial intracraneal y extracraneal.
+
+RESL (Resultados):  
+TC CRANEAL BASAL: Se identifica signo de arteria hiperdensa en el segmento proximal M1 de la arteria cerebral media derecha, compatible con trombo intraluminal. Presencia de hipodensidad en la corteza y sustancia blanca insular derecha y región opercular, con pérdida de la diferenciación cortico-subcortical, afectando un total de 5 a 6 territorios según puntuación ASPECTS (ASPECTS 6), sugestivo de isquemia aguda. No se observan áreas de hemorragia intraparenquimatosa ni hemorragia subaracnoidea. Estructuras de la línea media centradas, sin edema significativo ni herniaciones.
+
+TC PERFUSIÓN: Mapas de tiempo de tránsito prolongado (TTP) y reducción marcada en volumen cerebral sanguíneo (CBV) y flujo cerebral sanguíneo (CBF) en territorio irrigado por la ACM derecha, compatible con área de penumbra isquémica en región frontal y parietal derecha. Zona de reducción severa en CBV en núcleo lenticular y corona radiada, representando área de núcleo isquémico establecido.
+
+ANGIO-TC INTRACRANEAL: Oclusión completa del segmento proximal M1 de la arteria cerebral media derecha. Tracto distal de la ACM con flujo colateral lento. Arterias intracraneales restantes permeables sin estenosis significativas. Ateromatosis calcificada leve en ambos segmentos supraclinoideos de las ACIs.
+
+ANGIO-TC EXTRACRANEAL: Carótidas comunes y carótidas internas sin estenosis significativas. Arco aórtico con ateromatosis calcificada sin placas ulceradas.
+
+CONCL (Conclusiones):  
+Isquemia aguda en territorio de la arteria cerebral media derecha secundaria a oclusión proximal del segmento M1. ASPECTS 6. Áreas mixtas de núcleo isquémico y penumbra. No evidencia de hemorragia intracraneal. Se recomienda valoración urgente para posible tratamiento trombolítico o trombectomía mecánica.
+
+ACTI_ADICI (Actividad adicional): Seguimiento neurológico y control radiológico evolutivo con imagen de perfusión.
+
+DKTXT (Descripció): TC CRANEAL BASAL + PERFUSIÓN CEREBRAL + ANGIO-TC INTRA/EXTRACRANEAL
+
+ICON (Estudio): @TC_ictus_M1@
+
+X00DIATXT (Texto del diagnóstico ACR): Isquemia cerebral aguda en territorio ACM derecha secundaria a oclusión proximal del segmento M1.
+
+EST_T_DES (Descripción): TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANGIOTC ARTERIAL INTRACRANEAL)
+
+ZVASOS_D (Der.): Oclusión proximal segmento M1 ACM derecha. Arterias intracraneales restantes permeables. No estenosis extracraneales significativas.

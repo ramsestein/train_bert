@@ -1,0 +1,65 @@
+{
+  "document_id": "0000000010000000061159244_cleaned",
+  "entities": [
+    {
+      "text": "ICTUS ACMI",
+      "type": "PATOLOGIA",
+      "start": 166,
+      "end": 176
+    },
+    {
+      "text": "TC PERFUSIÓN",
+      "type": "TECNICA_IMAGEN",
+      "start": 235,
+      "end": 247
+    },
+    {
+      "text": "TC BASAL DE CONTROL",
+      "type": "TECNICA_IMAGEN",
+      "start": 250,
+      "end": 269
+    },
+    {
+      "text": "TC CRANEAL BASAL DUAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 335,
+      "end": 356
+    },
+    {
+      "text": "TC previo de hace dos días",
+      "type": "TEMPORALIDAD",
+      "start": 426,
+      "end": 452
+    },
+    {
+      "text": "hiperdensidades que sugieran complicación hemorrágica",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 471,
+      "end": 524
+    },
+    {
+      "text": "Tenue hipodensidad en ínsula, núcleo lenticular y caudado izquierdos",
+      "type": "PATOLOGIA",
+      "start": 545,
+      "end": 613
+    },
+    {
+      "text": "territorio de ACM izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 615,
+      "end": 642
+    },
+    {
+      "text": "signos de isquemia subagudas establecida",
+      "type": "PATOLOGIA",
+      "start": 668,
+      "end": 708
+    },
+    {
+      "text": "Resto sin cambios significativos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 710,
+      "end": 742
+    }
+  ]
+}

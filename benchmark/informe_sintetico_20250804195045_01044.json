@@ -1,0 +1,65 @@
+{
+  "document_id": "informe_sintetico_20250804195045_01044",
+  "entities": [
+    {
+      "text": "hemorragia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 434,
+      "end": 444
+    },
+    {
+      "text": "edema vasogénico",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 462,
+      "end": 478
+    },
+    {
+      "text": "cambios crónicos vasculares",
+      "type": "PATOLOGIA",
+      "start": 733,
+      "end": 760
+    },
+    {
+      "text": "penumbra isquémica",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1023,
+      "end": 1041
+    },
+    {
+      "text": "alteraciones hemodinámicas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1045,
+      "end": 1071
+    },
+    {
+      "text": "ACAs",
+      "type": "ARTERIA",
+      "start": 1139,
+      "end": 1143
+    },
+    {
+      "text": "ACMs",
+      "type": "ARTERIA",
+      "start": 1145,
+      "end": 1149
+    },
+    {
+      "text": "ACPs",
+      "type": "ARTERIA",
+      "start": 1152,
+      "end": 1156
+    },
+    {
+      "text": "patología aguda isquémica",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1463,
+      "end": 1488
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 1640,
+      "end": 1650
+    }
+  ]
+}

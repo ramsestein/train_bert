@@ -1,0 +1,83 @@
+{
+  "document_id": "informe_sintetico_20250804195045_20267",
+  "entities": [
+    {
+      "text": "evento isquémico agudo",
+      "type": "PATOLOGIA",
+      "start": 259,
+      "end": 281
+    },
+    {
+      "text": "arteria cerebral posterior",
+      "type": "ARTERIA",
+      "start": 302,
+      "end": 328
+    },
+    {
+      "text": "2 horas",
+      "type": "TEMPORALIDAD",
+      "start": 238,
+      "end": 245
+    },
+    {
+      "text": "ASPECTS 10/10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 706,
+      "end": 719
+    },
+    {
+      "text": "No se observan signos de hemorragia intraparenquimal ni hemorragia subaracnoidea",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 532,
+      "end": 612
+    },
+    {
+      "text": "No se identifican signos evidentes de infarto establecido",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 721,
+      "end": 778
+    },
+    {
+      "text": "Oclusión parcial segmentaria en la porción P2 de la arteria cerebral posterior izquierda",
+      "type": "PATOLOGIA",
+      "start": 1134,
+      "end": 1222
+    },
+    {
+      "text": "arteria cerebral posterior izquierda",
+      "type": "ARTERIA",
+      "start": 940,
+      "end": 976
+    },
+    {
+      "text": "Oclusión parcial en segmento P2 de ACP izquierda",
+      "type": "PATOLOGIA",
+      "start": 1658,
+      "end": 1706
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 355,
+      "end": 371
+    },
+    {
+      "text": "TC de perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 387,
+      "end": 411
+    },
+    {
+      "text": "angio-TC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 414,
+      "end": 444
+    },
+    {
+      "text": "No se observan otras estenosis significativas en la circulación posterior ni anterior",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1296,
+      "end": 1381
+    }
+  ]
+}

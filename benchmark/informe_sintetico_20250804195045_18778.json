@@ -1,0 +1,83 @@
+{
+  "document_id": "informe_sintetico_20250804195045_18778",
+  "entities": [
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 230,
+      "end": 244
+    },
+    {
+      "text": "arteria cerebral posterior izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 262,
+      "end": 298
+    },
+    {
+      "text": "arteria cerebral posterior izquierda",
+      "type": "ARTERIA",
+      "start": 262,
+      "end": 298
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 289,
+      "end": 298
+    },
+    {
+      "text": "P2",
+      "type": "MEDIDA",
+      "start": 1216,
+      "end": 1218
+    },
+    {
+      "text": "aguda",
+      "type": "TEMPORALIDAD",
+      "start": 239,
+      "end": 244
+    },
+    {
+      "text": "penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1087,
+      "end": 1105
+    },
+    {
+      "text": "Oclusión subtotal de la arteria cerebral posterior izquierda en su segmento P2",
+      "type": "PATOLOGIA",
+      "start": 1140,
+      "end": 1218
+    },
+    {
+      "text": "No se identifican hemorragias intra ni extraaxiales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 499,
+      "end": 550
+    },
+    {
+      "text": "No hay evidencias de hemorragia intracraneal ni infarto establecido en imágenes basal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1697,
+      "end": 1782
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 319,
+      "end": 335
+    },
+    {
+      "text": "TC PERFUSIÓN",
+      "type": "TECNICA_IMAGEN",
+      "start": 740,
+      "end": 752
+    },
+    {
+      "text": "ANGIO-TC EXTRA E INTRACRANEAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 1109,
+      "end": 1138
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "document_id": "informe_sintetico_20250804195045_00318",
+  "entities": [
+    {
+      "text": "hemorragia subaracnoidea",
+      "type": "PATOLOGIA",
+      "start": 262,
+      "end": 286
+    },
+    {
+      "text": "cisterna supraselar",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 619,
+      "end": 638
+    },
+    {
+      "text": "surco silviano derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 641,
+      "end": 663
+    },
+    {
+      "text": "hemorragia subaracnoidea focal",
+      "type": "PATOLOGIA",
+      "start": 680,
+      "end": 710
+    },
+    {
+      "text": "5 mm",
+      "type": "MEDIDA",
+      "start": 1145,
+      "end": 1149
+    },
+    {
+      "text": "arteria comunicante anterior derecha",
+      "type": "ARTERIA",
+      "start": 1156,
+      "end": 1192
+    },
+    {
+      "text": "hemorragia subaracnoidea focal",
+      "type": "PATOLOGIA",
+      "start": 680,
+      "end": 710
+    },
+    {
+      "text": "arteria comunicante anterior",
+      "type": "ARTERIA",
+      "start": 1156,
+      "end": 1184
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 1185,
+      "end": 1192
+    },
+    {
+      "text": "No se identifican hematomas intraparenquimatosos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 712,
+      "end": 760
+    },
+    {
+      "text": "No se evidencian fracturas óseas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 889,
+      "end": 921
+    },
+    {
+      "text": "No se aprecian alteraciones en los mapas de flujo cerebral (CBF), volumen (CBV) o tiempo de tránsito (TTP)",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 938,
+      "end": 1044
+    },
+    {
+      "text": "sin estenosis ni otras malformaciones vasculares evidentes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1288,
+      "end": 1346
+    },
+    {
+      "text": "No signos de hipertensión intracraneal ni complicaciones asociadas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1554,
+      "end": 1620
+    }
+  ]
+}

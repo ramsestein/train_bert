@@ -1,0 +1,107 @@
+{
+  "document_id": "informe_sintetico_20250804195045_03651",
+  "entities": [
+    {
+      "text": "isquemia",
+      "type": "PATOLOGIA",
+      "start": 1614,
+      "end": 1622
+    },
+    {
+      "text": "bulbo raquídeo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 642,
+      "end": 656
+    },
+    {
+      "text": "tronco cerebral",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 393,
+      "end": 408
+    },
+    {
+      "text": "cerebelo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 380,
+      "end": 388
+    },
+    {
+      "text": "vertebrobasilar",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 286,
+      "end": 301
+    },
+    {
+      "text": "arteria vertebral izquierda",
+      "type": "ARTERIA",
+      "start": 1735,
+      "end": 1762
+    },
+    {
+      "text": "V3 izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1331,
+      "end": 1343
+    },
+    {
+      "text": "basilar proximal",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1379,
+      "end": 1395
+    },
+    {
+      "text": "90%",
+      "type": "MEDIDA",
+      "start": 1314,
+      "end": 1317
+    },
+    {
+      "text": "aguda",
+      "type": "TEMPORALIDAD",
+      "start": 1623,
+      "end": 1628
+    },
+    {
+      "text": "hemorragias intracraneales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 548,
+      "end": 574
+    },
+    {
+      "text": "lesiones expansivas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 578,
+      "end": 597
+    },
+    {
+      "text": "No se evidencian otras estenosis significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1397,
+      "end": 1444
+    },
+    {
+      "text": "permeabilidad conservada",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1539,
+      "end": 1563
+    },
+    {
+      "text": "Área de penumbra",
+      "type": "PATOLOGIA",
+      "start": 1866,
+      "end": 1882
+    },
+    {
+      "text": "penumbra isquémica activa",
+      "type": "PATOLOGIA",
+      "start": 1197,
+      "end": 1222
+    },
+    {
+      "text": "TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANG IOTC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 72,
+      "end": 140
+    }
+  ]
+}

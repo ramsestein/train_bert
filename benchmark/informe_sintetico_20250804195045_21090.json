@@ -1,0 +1,47 @@
+{
+  "document_id": "informe_sintetico_20250804195045_21090",
+  "entities": [
+    {
+      "text": "hematoma intraparenquimatoso lobar",
+      "type": "PATOLOGIA",
+      "start": 489,
+      "end": 523
+    },
+    {
+      "text": "lóbulo frontal derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 452,
+      "end": 474
+    },
+    {
+      "text": "28 x 20 x 15 mm",
+      "type": "MEDIDA",
+      "start": 578,
+      "end": 593
+    },
+    {
+      "text": "aguda",
+      "type": "TEMPORALIDAD",
+      "start": 547,
+      "end": 552
+    },
+    {
+      "text": "3 mm",
+      "type": "MEDIDA",
+      "start": 752,
+      "end": 756
+    },
+    {
+      "text": "No se observan signos de sangrado subaracnoideo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 759,
+      "end": 806
+    },
+    {
+      "text": "sin signos de hipertensión intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 951,
+      "end": 990
+    }
+  ]
+}

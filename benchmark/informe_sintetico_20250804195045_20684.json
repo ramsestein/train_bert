@@ -1,0 +1,131 @@
+{
+  "document_id": "informe_sintetico_20250804195045_20684",
+  "entities": [
+    {
+      "text": "hemiparesia derecha",
+      "type": "PATOLOGIA",
+      "start": 217,
+      "end": 236
+    },
+    {
+      "text": "afasia progresiva",
+      "type": "PATOLOGIA",
+      "start": 239,
+      "end": 256
+    },
+    {
+      "text": "evento isquémico agudo",
+      "type": "PATOLOGIA",
+      "start": 270,
+      "end": 292
+    },
+    {
+      "text": "arteria cerebral anterior izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 681,
+      "end": 716
+    },
+    {
+      "text": "edema citotóxico temprano",
+      "type": "PATOLOGIA",
+      "start": 823,
+      "end": 848
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 1308,
+      "end": 1322
+    },
+    {
+      "text": "arteria cerebral anterior",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 681,
+      "end": 706
+    },
+    {
+      "text": "arteria cerebral anterior izquierda",
+      "type": "ARTERIA",
+      "start": 681,
+      "end": 716
+    },
+    {
+      "text": "Oclusión total o subtotál de segmento proximal de arteria cerebral anterior izquierda (A1)",
+      "type": "PATOLOGIA",
+      "start": 1388,
+      "end": 1478
+    },
+    {
+      "text": "sin estenosis significativas ni placas inestables",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1573,
+      "end": 1622
+    },
+    {
+      "text": "No se observan signos de disección ni aneurismas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1624,
+      "end": 1672
+    },
+    {
+      "text": "sin estenosis hemodinámicamente relevantes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1748,
+      "end": 1790
+    },
+    {
+      "text": "isquemia aguda en el territorio de la arteria cerebral anterior izquierda",
+      "type": "PATOLOGIA",
+      "start": 1837,
+      "end": 1910
+    },
+    {
+      "text": "hipodensidad temprana en TC basal",
+      "type": "PATOLOGIA",
+      "start": 1928,
+      "end": 1961
+    },
+    {
+      "text": "alteraciones de perfusión con reducción del flujo y volumen sanguíneo",
+      "type": "PATOLOGIA",
+      "start": 1964,
+      "end": 2033
+    },
+    {
+      "text": "oclusión proximal de la arteria cerebral anterior izquierda",
+      "type": "PATOLOGIA",
+      "start": 2047,
+      "end": 2106
+    },
+    {
+      "text": "No hemorragias ni efectos de masa asociados",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2143,
+      "end": 2186
+    },
+    {
+      "text": "TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANG IOTC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 72,
+      "end": 140
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 345,
+      "end": 361
+    },
+    {
+      "text": "perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 363,
+      "end": 381
+    },
+    {
+      "text": "Angio-TC arterial intracraneal y extracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 409,
+      "end": 454
+    }
+  ]
+}

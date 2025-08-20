@@ -1,0 +1,65 @@
+{
+  "document_id": "informe_sintetico_20250804195045_02104",
+  "entities": [
+    {
+      "text": "infarto cerebral isquémico",
+      "type": "PATOLOGIA",
+      "start": 231,
+      "end": 257
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 541,
+      "end": 571
+    },
+    {
+      "text": "arteria cerebral media",
+      "type": "ARTERIA",
+      "start": 541,
+      "end": 563
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 564,
+      "end": 571
+    },
+    {
+      "text": "tipo HI2",
+      "type": "PUNTUACION_CLINICA",
+      "start": 840,
+      "end": 848
+    },
+    {
+      "text": "discreto edema perilesional",
+      "type": "PATOLOGIA",
+      "start": 982,
+      "end": 1009
+    },
+    {
+      "text": "infarto establecido",
+      "type": "PATOLOGIA",
+      "start": 1321,
+      "end": 1340
+    },
+    {
+      "text": "sin placas de ateroma significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1477,
+      "end": 1513
+    },
+    {
+      "text": "sin estenosis ni oclusiones evidentes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1597,
+      "end": 1634
+    },
+    {
+      "text": "sin efecto de masa significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1833,
+      "end": 1865
+    }
+  ]
+}

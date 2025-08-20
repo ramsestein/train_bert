@@ -1,0 +1,89 @@
+{
+  "document_id": "informe_sintetico_20250804195045_14333",
+  "entities": [
+    {
+      "text": "ictus vertebrobasilar agudo",
+      "type": "PATOLOGIA",
+      "start": 274,
+      "end": 301
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 1827,
+      "end": 1841
+    },
+    {
+      "text": "tronco encefálico",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 877,
+      "end": 894
+    },
+    {
+      "text": "cerebelo posterior",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1924,
+      "end": 1942
+    },
+    {
+      "text": "penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1980,
+      "end": 1998
+    },
+    {
+      "text": "arteria vertebral izquierda",
+      "type": "ARTERIA",
+      "start": 1310,
+      "end": 1337
+    },
+    {
+      "text": "arteria basilar",
+      "type": "ARTERIA",
+      "start": 1393,
+      "end": 1408
+    },
+    {
+      "text": "aguda",
+      "type": "TEMPORALIDAD",
+      "start": 1123,
+      "end": 1128
+    },
+    {
+      "text": "No se identifican signos de hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 556,
+      "end": 607
+    },
+    {
+      "text": "No se evidencian aneurismas ni malformaciones vasculares",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1616,
+      "end": 1672
+    },
+    {
+      "text": "No hay hemorragia intracraneal asociada ni edema masivo al momento del estudio",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2134,
+      "end": 2212
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 322,
+      "end": 338
+    },
+    {
+      "text": "TC perfusión",
+      "type": "TECNICA_IMAGEN",
+      "start": 796,
+      "end": 808
+    },
+    {
+      "text": "Angio-TC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 431,
+      "end": 461
+    }
+  ]
+}

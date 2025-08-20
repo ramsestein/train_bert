@@ -1,0 +1,59 @@
+{
+  "document_id": "informe_sintetico_20250804195045_18448",
+  "entities": [
+    {
+      "text": "hemorragia subaracnoidea",
+      "type": "PATOLOGIA",
+      "start": 210,
+      "end": 234
+    },
+    {
+      "text": "cisterna silviana derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 476,
+      "end": 501
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "ARTERIA",
+      "start": 575,
+      "end": 605
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 494,
+      "end": 501
+    },
+    {
+      "text": "5 mm",
+      "type": "MEDIDA",
+      "start": 1083,
+      "end": 1087
+    },
+    {
+      "text": "focal",
+      "type": "TEMPORALIDAD",
+      "start": 1384,
+      "end": 1389
+    },
+    {
+      "text": "sin alteraciones",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1566,
+      "end": 1582
+    },
+    {
+      "text": "sin signos de trombosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1182,
+      "end": 1205
+    },
+    {
+      "text": "sin evidencias de hidrocefalia obstructiva",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 785,
+      "end": 827
+    }
+  ]
+}

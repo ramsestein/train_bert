@@ -1,0 +1,131 @@
+{
+  "document_id": "informe_sintetico_20250804195045_09540",
+  "entities": [
+    {
+      "text": "hemorragia subaracnoidea difusa",
+      "type": "PATOLOGIA",
+      "start": 493,
+      "end": 524
+    },
+    {
+      "text": "cisternas basales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 558,
+      "end": 575
+    },
+    {
+      "text": "surcos corticales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 577,
+      "end": 594
+    },
+    {
+      "text": "espacios perimesencefálicos",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 597,
+      "end": 624
+    },
+    {
+      "text": "ventrículos laterales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 655,
+      "end": 676
+    },
+    {
+      "text": "hidrocefalia aguda",
+      "type": "PATOLOGIA",
+      "start": 700,
+      "end": 718
+    },
+    {
+      "text": "hemorragias intraventriculares extensas",
+      "type": "PATOLOGIA",
+      "start": 772,
+      "end": 811
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 1199,
+      "end": 1213
+    },
+    {
+      "text": "arterias cerebrales",
+      "type": "ARTERIA",
+      "start": 1282,
+      "end": 1301
+    },
+    {
+      "text": "aneurismas evidentes",
+      "type": "PATOLOGIA",
+      "start": 1356,
+      "end": 1376
+    },
+    {
+      "text": "círculo de Willis",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1446,
+      "end": 1463
+    },
+    {
+      "text": "vasoespasmo arterial significativo",
+      "type": "PATOLOGIA",
+      "start": 1482,
+      "end": 1516
+    },
+    {
+      "text": "hemorragia subaracnoidea difusa",
+      "type": "PATOLOGIA",
+      "start": 493,
+      "end": 524
+    },
+    {
+      "text": "complicaciones isquémicas",
+      "type": "PATOLOGIA",
+      "start": 1680,
+      "end": 1705
+    },
+    {
+      "text": "hematomas intraparenquimatosos",
+      "type": "PATOLOGIA",
+      "start": 738,
+      "end": 768
+    },
+    {
+      "text": "aneurisma",
+      "type": "PATOLOGIA",
+      "start": 426,
+      "end": 435
+    },
+    {
+      "text": "vasoespasmo significativo",
+      "type": "PATOLOGIA",
+      "start": 1788,
+      "end": 1813
+    },
+    {
+      "text": "TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANGIOTC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 2018,
+      "end": 2085
+    },
+    {
+      "text": "No se identifican hematomas intraparenquimatosos ni hemorragias intraventriculares extensas.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 720,
+      "end": 812
+    },
+    {
+      "text": "No se detectan aneurismas evidentes en las arterias cerebrales anteriores, medias o posteriores ni en el círculo de Willis.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1341,
+      "end": 1464
+    },
+    {
+      "text": "No hay signos de vasoespasmo arterial significativo en el momento del estudio.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1465,
+      "end": 1543
+    }
+  ]
+}

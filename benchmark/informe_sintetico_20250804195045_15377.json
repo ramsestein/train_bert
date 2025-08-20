@@ -1,0 +1,107 @@
+{
+  "document_id": "informe_sintetico_20250804195045_15377",
+  "entities": [
+    {
+      "text": "hemiparesia derecha",
+      "type": "PATOLOGIA",
+      "start": 204,
+      "end": 223
+    },
+    {
+      "text": "alteración de la sensibilidad contralateral",
+      "type": "PATOLOGIA",
+      "start": 226,
+      "end": 269
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 769,
+      "end": 783
+    },
+    {
+      "text": "arteria cerebral anterior izquierda",
+      "type": "ARTERIA",
+      "start": 801,
+      "end": 836
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 661,
+      "end": 670
+    },
+    {
+      "text": "aumento del tiempo de tránsito medio (TTM)",
+      "type": "MEDIDA",
+      "start": 1026,
+      "end": 1068
+    },
+    {
+      "text": "Tmax",
+      "type": "MEDIDA",
+      "start": 1071,
+      "end": 1075
+    },
+    {
+      "text": "disminución del flujo cerebral (CBF)",
+      "type": "MEDIDA",
+      "start": 1120,
+      "end": 1156
+    },
+    {
+      "text": "volumen cerebral (CBV) conservado",
+      "type": "MEDIDA",
+      "start": 1159,
+      "end": 1192
+    },
+    {
+      "text": "zona de penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1216,
+      "end": 1242
+    },
+    {
+      "text": "oclusión en segmento proximal de arteria cerebral anterior izquierda (A2)",
+      "type": "PATOLOGIA",
+      "start": 1319,
+      "end": 1392
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 661,
+      "end": 670
+    },
+    {
+      "text": "sin estenosis significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1490,
+      "end": 1518
+    },
+    {
+      "text": "sin placas de ateroma significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1533,
+      "end": 1569
+    },
+    {
+      "text": "TC craneal simple basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 346,
+      "end": 369
+    },
+    {
+      "text": "estudio de perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 371,
+      "end": 400
+    },
+    {
+      "text": "AngioTC extra e intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 403,
+      "end": 431
+    }
+  ]
+}

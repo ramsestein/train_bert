@@ -1,0 +1,119 @@
+{
+  "document_id": "informe_sintetico_20250804195045_23004",
+  "entities": [
+    {
+      "text": "hipodensidad",
+      "type": "PATOLOGIA",
+      "start": 445,
+      "end": 457
+    },
+    {
+      "text": "infarto cerebral",
+      "type": "PATOLOGIA",
+      "start": 625,
+      "end": 641
+    },
+    {
+      "text": "edema cerebral",
+      "type": "PATOLOGIA",
+      "start": 677,
+      "end": 691
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 752,
+      "end": 775
+    },
+    {
+      "text": "lesiones crónicas significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 904,
+      "end": 936
+    },
+    {
+      "text": "prolongación del tiempo de tránsito medio (MTT)",
+      "type": "PATOLOGIA",
+      "start": 966,
+      "end": 1013
+    },
+    {
+      "text": "reducción significativa del flujo cerebral de sangre (CBF)",
+      "type": "PATOLOGIA",
+      "start": 1016,
+      "end": 1074
+    },
+    {
+      "text": "disminución del volumen cerebral de sangre (CBV)",
+      "type": "PATOLOGIA",
+      "start": 1109,
+      "end": 1157
+    },
+    {
+      "text": "oclusión completa de la arteria carótida interna derecha",
+      "type": "PATOLOGIA",
+      "start": 1344,
+      "end": 1400
+    },
+    {
+      "text": "arteria carótida interna derecha",
+      "type": "ARTERIA",
+      "start": 1368,
+      "end": 1400
+    },
+    {
+      "text": "arteria carótida interna izquierda",
+      "type": "ARTERIA",
+      "start": 1473,
+      "end": 1507
+    },
+    {
+      "text": "infarto cerebral agudo",
+      "type": "PATOLOGIA",
+      "start": 1867,
+      "end": 1889
+    },
+    {
+      "text": "territorio de la arteria cerebral media derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1893,
+      "end": 1940
+    },
+    {
+      "text": "penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1263,
+      "end": 1281
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 290,
+      "end": 306
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 323,
+      "end": 344
+    },
+    {
+      "text": "Angio-TC de troncos supraórticos e intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 347,
+      "end": 394
+    },
+    {
+      "text": "TC perfusión",
+      "type": "TECNICA_IMAGEN",
+      "start": 323,
+      "end": 335
+    },
+    {
+      "text": "Angio-TC troncos supraórticos e intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 1284,
+      "end": 1328
+    }
+  ]
+}

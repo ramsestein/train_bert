@@ -1,0 +1,33 @@
+UO_PACN (Unidad Organizativa Médica): RADIO
+
+PRUEB (Prueba solicitada): TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANG IOTC ARTERIAL INTRACRANEAL)
+
+CLIN (Resumen clínico): Déficit hemiparético izquierdo brusco de 2 horas de evolución. Sospecha de evento isquémico cerebral.
+
+OBSR (Protocolo): Estudio urgente siguiendo protocolo de código ictus: TC craneal basal sin contraste, estudio de perfusión cerebral y angio-TC de troncos supraórticos y vasculatura intracraneal.
+
+RESL (Resultados): 
+-TC CRANEAL BASAL: 
+Se observa área hipodensa en territorio de la arteria cerebral media derecha que afecta la corona radiada y la cápsula interna, con borramiento de surcos adyacentes y leve pérdida de diferenciación cortico-subcortical. No hay evidencias de hemorragia intraparenquimatosa ni extraaxial.
+La línea media está centrada. No se observan signos de herniación ni colapso ventricular.
+
+-TC PERFUSIÓN: 
+Retraso significativo en el tiempo hasta el pico (TTP) en territorio de ACM derecha, con reducción marcada del flujo sanguíneo cerebral (CBF) y volumen sanguíneo cerebral (CBV) en dicha área, compatible con tejido infartado. Presencia de mismatch entre déficit de perfusión y área infartada sugiere territorio en riesgo.
+
+-ANGIO-TC EXTRA E INTRACRANEAL: 
+Oclusión completa del segmento cervical de la arteria carótida interna derecha. 
+Tronco braquiocefálico y arco aórtico sin alteraciones relevantes. 
+Segmentos proximales de las arterias vertebrales permeables.
+Resto de arterias intracraneales del hemisferio derecho con flujo comprometido distal a la oclusión, sin otras estenosis significativas.
+
+CONCL (Conclusiones): Oclusión completa en segmento cervical derecho de arteria carótida interna con infarto establecido en territorio de arteria cerebral media derecha. Presencia de área en riesgo de isquemia según estudio de perfusión. No signos de hemorragia intracraneal.
+
+ACTI_ADICI (Actividad adicional): Se recomienda valoración neurológica urgente para considerar tratamiento endovascular y evitar extensión del infarto.
+
+ICON (Estudio): @TC_CRANEO@ @ANGIO_TC@ @PERFUSION@
+
+X00DIATXT (Texto del diagnóstico ACR): Infarto cerebral en territorio ACM derecha asociado a oclusión de arteria carótida interna derecha.
+
+EST_T_DES (Descripción): TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANGIOTC ARTERIAL INTRACRANEAL)
+
+ZVASOS_D (Der.): Oclusión carotídea interna derecha con infarto cerebral asociado.

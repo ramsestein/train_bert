@@ -1,0 +1,53 @@
+{
+  "document_id": "informe_sintetico_20250804195045_04736",
+  "entities": [
+    {
+      "text": "hipodensidad",
+      "type": "PATOLOGIA",
+      "start": 575,
+      "end": 587
+    },
+    {
+      "text": "hemorragias",
+      "type": "PATOLOGIA",
+      "start": 591,
+      "end": 602
+    },
+    {
+      "text": "ASPECTS completo (10/10)",
+      "type": "PUNTUACION_CLINICA",
+      "start": 794,
+      "end": 818
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 1522,
+      "end": 1532
+    },
+    {
+      "text": "ausencia de patología aguda isquémica o hemorrágica",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1360,
+      "end": 1411
+    },
+    {
+      "text": "sin signos de alteración vascular en angiografía TC intracraneal y extracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1441,
+      "end": 1520
+    },
+    {
+      "text": "sin evidencia de estenosis ni oclusión",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1051,
+      "end": 1089
+    },
+    {
+      "text": "sin signos de irregularidades luminales ni trombosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1192,
+      "end": 1244
+    }
+  ]
+}

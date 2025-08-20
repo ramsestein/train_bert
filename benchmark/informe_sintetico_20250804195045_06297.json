@@ -1,0 +1,223 @@
+{
+  "document_id": "informe_sintetico_20250804195045_06297",
+  "entities": [
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 357,
+      "end": 371
+    },
+    {
+      "text": "territorio vertebrobasilar",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 375,
+      "end": 401
+    },
+    {
+      "text": "hemicuerpo derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 317,
+      "end": 335
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 422,
+      "end": 438
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 454,
+      "end": 475
+    },
+    {
+      "text": "angioTC extremo intra y extracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 477,
+      "end": 513
+    },
+    {
+      "text": "hemorragias intracraneales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 603,
+      "end": 629
+    },
+    {
+      "text": "signos de hipodensidad isquémica",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 633,
+      "end": 665
+    },
+    {
+      "text": "Sistema ventricular",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 696,
+      "end": 715
+    },
+    {
+      "text": "lesiones expansivas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 773,
+      "end": 792
+    },
+    {
+      "text": "disminución significativa del flujo cerebral cerebral (CBF)",
+      "type": "PATOLOGIA",
+      "start": 821,
+      "end": 880
+    },
+    {
+      "text": "aumento del tiempo de tránsito medio (MTT)",
+      "type": "PATOLOGIA",
+      "start": 883,
+      "end": 925
+    },
+    {
+      "text": "territorio cerebeloso izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 929,
+      "end": 960
+    },
+    {
+      "text": "pedúnculo cerebral",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 963,
+      "end": 981
+    },
+    {
+      "text": "hipoperfusión aguda",
+      "type": "PATOLOGIA",
+      "start": 998,
+      "end": 1017
+    },
+    {
+      "text": "restricción del volumen cerebral sanguíneo (CBV)",
+      "type": "PATOLOGIA",
+      "start": 1022,
+      "end": 1070
+    },
+    {
+      "text": "segmento distal de la arteria vertebral izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1241,
+      "end": 1290
+    },
+    {
+      "text": "unión bulbo-pontina",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1305,
+      "end": 1324
+    },
+    {
+      "text": "arteria basilar",
+      "type": "ARTERIA",
+      "start": 1329,
+      "end": 1344
+    },
+    {
+      "text": "flujo disminuido",
+      "type": "PATOLOGIA",
+      "start": 1353,
+      "end": 1369
+    },
+    {
+      "text": "arteria vertebral derecha",
+      "type": "ARTERIA",
+      "start": 1499,
+      "end": 1524
+    },
+    {
+      "text": "isquemia aguda en territorio vertebrobasilar",
+      "type": "PATOLOGIA",
+      "start": 357,
+      "end": 401
+    },
+    {
+      "text": "oclusión de la arteria vertebral izquierda proximal",
+      "type": "PATOLOGIA",
+      "start": 1727,
+      "end": 1778
+    },
+    {
+      "text": "alteración de perfusión en territorio cerebeloso y protuberancial izquierdo",
+      "type": "PATOLOGIA",
+      "start": 1781,
+      "end": 1856
+    },
+    {
+      "text": "signos radiológicos de infarto establecido en TC basal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1908,
+      "end": 1962
+    },
+    {
+      "text": "monitorización neurológica estrecha",
+      "type": "PATOLOGIA",
+      "start": 2102,
+      "end": 2137
+    },
+    {
+      "text": "seguimiento clínico-imagenológico",
+      "type": "PATOLOGIA",
+      "start": 2140,
+      "end": 2173
+    },
+    {
+      "text": "estudio neurovascular complementario",
+      "type": "PATOLOGIA",
+      "start": 2198,
+      "end": 2234
+    },
+    {
+      "text": "repetición de perfusión",
+      "type": "PATOLOGIA",
+      "start": 2237,
+      "end": 2260
+    },
+    {
+      "text": "Isquemia aguda vertebrobasilar",
+      "type": "PATOLOGIA",
+      "start": 2355,
+      "end": 2385
+    },
+    {
+      "text": "oclusión de arteria vertebral izquierda",
+      "type": "PATOLOGIA",
+      "start": 2390,
+      "end": 2429
+    },
+    {
+      "text": "señal de hipoperfusión en territorio cerebeloso y pedúnculo cerebral izquierdo",
+      "type": "PATOLOGIA",
+      "start": 2431,
+      "end": 2509
+    },
+    {
+      "text": "sin evidencias de hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2511,
+      "end": 2552
+    },
+    {
+      "text": "TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANGIOTC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 2580,
+      "end": 2647
+    },
+    {
+      "text": "oclusión proximal izquierda",
+      "type": "PATOLOGIA",
+      "start": 2702,
+      "end": 2729
+    },
+    {
+      "text": "circulación colateral compensatoria",
+      "type": "PATOLOGIA",
+      "start": 2732,
+      "end": 2767
+    }
+  ],
+  "regenerado": true,
+  "fecha_regeneracion": "2025-08-06T12:05:02.482036"
+}

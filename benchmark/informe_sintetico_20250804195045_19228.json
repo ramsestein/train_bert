@@ -1,0 +1,83 @@
+{
+  "document_id": "informe_sintetico_20250804195045_19228",
+  "entities": [
+    {
+      "text": "hematoma lobar frontal derecho",
+      "type": "PATOLOGIA",
+      "start": 436,
+      "end": 466
+    },
+    {
+      "text": "7 x 4 x 5 cm",
+      "type": "MEDIDA",
+      "start": 486,
+      "end": 498
+    },
+    {
+      "text": "subaguda",
+      "type": "TEMPORALIDAD",
+      "start": 542,
+      "end": 550
+    },
+    {
+      "text": "5 mm",
+      "type": "MEDIDA",
+      "start": 749,
+      "end": 753
+    },
+    {
+      "text": "lado contralateral",
+      "type": "LATERALIDAD",
+      "start": 763,
+      "end": 781
+    },
+    {
+      "text": "hipoperfusión focal",
+      "type": "PATOLOGIA",
+      "start": 1010,
+      "end": 1029
+    },
+    {
+      "text": "sin territorio isquémico extenso",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1064,
+      "end": 1096
+    },
+    {
+      "text": "permeabilidad de las principales arterias cerebrales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1136,
+      "end": 1188
+    },
+    {
+      "text": "sin signos de estenosis o malformaciones vasculares",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1189,
+      "end": 1240
+    },
+    {
+      "text": "sin compromiso ventricular importante",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1394,
+      "end": 1431
+    },
+    {
+      "text": "sin cambios isquémicos severos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1504,
+      "end": 1534
+    },
+    {
+      "text": "sin alteraciones vasculares relevantes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1559,
+      "end": 1597
+    },
+    {
+      "text": "TC craneal + perfusión cerebral + AngioTC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 1769,
+      "end": 1832
+    }
+  ]
+}

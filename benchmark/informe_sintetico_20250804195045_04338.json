@@ -1,0 +1,95 @@
+{
+  "document_id": "informe_sintetico_20250804195045_04338",
+  "entities": [
+    {
+      "text": "infarto cerebral",
+      "type": "PATOLOGIA",
+      "start": 235,
+      "end": 251
+    },
+    {
+      "text": "hipoperfusión",
+      "type": "PATOLOGIA",
+      "start": 256,
+      "end": 269
+    },
+    {
+      "text": "hemorragia intra ni extraaxial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 445,
+      "end": 475
+    },
+    {
+      "text": "áreas de hipodensidad lineal y difusa",
+      "type": "PATOLOGIA",
+      "start": 489,
+      "end": 526
+    },
+    {
+      "text": "regiones fronterizas (watershed)",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 534,
+      "end": 566
+    },
+    {
+      "text": "arterias cerebral anterior y media",
+      "type": "ARTERIA",
+      "start": 607,
+      "end": 641
+    },
+    {
+      "text": "arterias cerebral media y posterior",
+      "type": "ARTERIA",
+      "start": 681,
+      "end": 716
+    },
+    {
+      "text": "lóbulos frontales y parietales bilaterales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 739,
+      "end": 781
+    },
+    {
+      "text": "prolongación marcada del tiempo a la llegada del contraste (TTP y Tmax)",
+      "type": "MEDIDA",
+      "start": 1069,
+      "end": 1140
+    },
+    {
+      "text": "disminución del flujo cerebral (CBF)",
+      "type": "PATOLOGIA",
+      "start": 1179,
+      "end": 1215
+    },
+    {
+      "text": "volumen cerebral de sangre (CBV) mantenido o levemente reducido",
+      "type": "MEDIDA",
+      "start": 1218,
+      "end": 1281
+    },
+    {
+      "text": "tejido isquémico en riesgo con posible penumbra",
+      "type": "PATOLOGIA",
+      "start": 1298,
+      "end": 1345
+    },
+    {
+      "text": "ligera estenosis aterosclerótica no significativa en la arteria carótida interna derecha en segmento cervical proximal",
+      "type": "PATOLOGIA",
+      "start": 1560,
+      "end": 1678
+    },
+    {
+      "text": "infarto tipo watershed bilateral secundario a hipoperfusión cerebral",
+      "type": "PATOLOGIA",
+      "start": 1834,
+      "end": 1902
+    },
+    {
+      "text": "ASPECTS global 9",
+      "type": "PUNTUACION_CLINICA",
+      "start": 2160,
+      "end": 2176
+    }
+  ]
+}

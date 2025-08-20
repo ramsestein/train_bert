@@ -1,0 +1,113 @@
+{
+  "document_id": "informe_sintetico_20250804195045_13119",
+  "entities": [
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 215,
+      "end": 229
+    },
+    {
+      "text": "arteria cerebral media",
+      "type": "ARTERIA",
+      "start": 247,
+      "end": 269
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 1175,
+      "end": 1182
+    },
+    {
+      "text": "ASPECTS 9/10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 616,
+      "end": 628
+    },
+    {
+      "text": "No evidencia de hemorragia intra o extraaxial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 519,
+      "end": 564
+    },
+    {
+      "text": "hipoperfusión focal",
+      "type": "PATOLOGIA",
+      "start": 839,
+      "end": 858
+    },
+    {
+      "text": "parietal y opercular derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 873,
+      "end": 901
+    },
+    {
+      "text": "aumento de tiempo de tránsito promedio (TTP)",
+      "type": "MEDIDA",
+      "start": 906,
+      "end": 950
+    },
+    {
+      "text": "reducción marcada del flujo cerebral sanguíneo (CBF)",
+      "type": "MEDIDA",
+      "start": 952,
+      "end": 1004
+    },
+    {
+      "text": "volumen cerebral sanguíneo (CBV) conservado",
+      "type": "MEDIDA",
+      "start": 1007,
+      "end": 1050
+    },
+    {
+      "text": "penumbra isquémica activa",
+      "type": "PATOLOGIA",
+      "start": 1088,
+      "end": 1113
+    },
+    {
+      "text": "Oclusión parcial en rama M2 derecha de arteria cerebral media distal",
+      "type": "PATOLOGIA",
+      "start": 1147,
+      "end": 1215
+    },
+    {
+      "text": "M2",
+      "type": "ARTERIA",
+      "start": 1172,
+      "end": 1174
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 1175,
+      "end": 1182
+    },
+    {
+      "text": "ASPECTS 9/10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 616,
+      "end": 628
+    },
+    {
+      "text": "penumbra isquémica identificada",
+      "type": "PATOLOGIA",
+      "start": 1527,
+      "end": 1558
+    },
+    {
+      "text": "sin evidencia de hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1581,
+      "end": 1621
+    },
+    {
+      "text": "Oclusión parcial en ramo M2 derecho confirmada en AngioTC",
+      "type": "PATOLOGIA",
+      "start": 1623,
+      "end": 1680
+    }
+  ]
+}

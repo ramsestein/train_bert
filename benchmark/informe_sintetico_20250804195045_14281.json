@@ -1,0 +1,71 @@
+{
+  "document_id": "informe_sintetico_20250804195045_14281",
+  "entities": [
+    {
+      "text": "infarto isquémico subagudo",
+      "type": "PATOLOGIA",
+      "start": 535,
+      "end": 561
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 489,
+      "end": 519
+    },
+    {
+      "text": "arteria cerebral media",
+      "type": "ARTERIA",
+      "start": 489,
+      "end": 511
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 512,
+      "end": 519
+    },
+    {
+      "text": "subagudo",
+      "type": "TEMPORALIDAD",
+      "start": 553,
+      "end": 561
+    },
+    {
+      "text": "transformación hemorrágica tipo HI1",
+      "type": "PATOLOGIA",
+      "start": 705,
+      "end": 740
+    },
+    {
+      "text": "permeabilidad conservada de las principales ramas carotídeas y circulares",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1283,
+      "end": 1356
+    },
+    {
+      "text": "sin signos de trombosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1766,
+      "end": 1789
+    },
+    {
+      "text": "reducción del flujo sanguíneo cerebral (CBF) y volumen cerebral sanguíneo (CBV)",
+      "type": "PATOLOGIA",
+      "start": 1004,
+      "end": 1083
+    },
+    {
+      "text": "aumento leve del tiempo medio de tránsito (MTT)",
+      "type": "PATOLOGIA",
+      "start": 1109,
+      "end": 1156
+    },
+    {
+      "text": "sin componente importante de penumbra",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1201,
+      "end": 1238
+    }
+  ]
+}

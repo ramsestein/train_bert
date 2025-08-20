@@ -1,0 +1,95 @@
+{
+  "document_id": "informe_sintetico_20250804195045_00995",
+  "entities": [
+    {
+      "text": "hemorragia aguda",
+      "type": "PATOLOGIA",
+      "start": 455,
+      "end": 471
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 559,
+      "end": 573
+    },
+    {
+      "text": "microhipodensidades periventriculares",
+      "type": "PATOLOGIA",
+      "start": 651,
+      "end": 688
+    },
+    {
+      "text": "gliosis",
+      "type": "PATOLOGIA",
+      "start": 732,
+      "end": 739
+    },
+    {
+      "text": "atrofia cortical difusa",
+      "type": "PATOLOGIA",
+      "start": 797,
+      "end": 820
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 625,
+      "end": 635
+    },
+    {
+      "text": "tiempo máximo (TMAX)",
+      "type": "MEDIDA",
+      "start": 1088,
+      "end": 1108
+    },
+    {
+      "text": "volumen cerebral (CBV)",
+      "type": "MEDIDA",
+      "start": 1110,
+      "end": 1132
+    },
+    {
+      "text": "flujo cerebral (CBF)",
+      "type": "MEDIDA",
+      "start": 1135,
+      "end": 1155
+    },
+    {
+      "text": "hemorragia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 455,
+      "end": 465
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 559,
+      "end": 573
+    },
+    {
+      "text": "ACAs",
+      "type": "ARTERIA",
+      "start": 1595,
+      "end": 1599
+    },
+    {
+      "text": "ACMs",
+      "type": "ARTERIA",
+      "start": 1601,
+      "end": 1605
+    },
+    {
+      "text": "ACPs",
+      "type": "ARTERIA",
+      "start": 1608,
+      "end": 1612
+    },
+    {
+      "text": "sin estenosis relevante",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1525,
+      "end": 1548
+    }
+  ]
+}

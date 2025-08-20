@@ -1,0 +1,65 @@
+{
+  "document_id": "informe_sintetico_20250804195045_22305",
+  "entities": [
+    {
+      "text": "hematoma intracerebeloso agudo",
+      "type": "PATOLOGIA",
+      "start": 500,
+      "end": 530
+    },
+    {
+      "text": "12 cc",
+      "type": "MEDIDA",
+      "start": 550,
+      "end": 555
+    },
+    {
+      "text": "hemisferio cerebeloso derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 571,
+      "end": 600
+    },
+    {
+      "text": "cuarto ventrículo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 707,
+      "end": 724
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 967,
+      "end": 976
+    },
+    {
+      "text": "área cerebelosa derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1258,
+      "end": 1281
+    },
+    {
+      "text": "sin signos de isquemia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1381,
+      "end": 1403
+    },
+    {
+      "text": "sin evidencia de estenosis ni defectos de repleción",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1531,
+      "end": 1582
+    },
+    {
+      "text": "sin signos de disección ni trombosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1617,
+      "end": 1653
+    },
+    {
+      "text": "sin alteraciones significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1978,
+      "end": 2009
+    }
+  ]
+}

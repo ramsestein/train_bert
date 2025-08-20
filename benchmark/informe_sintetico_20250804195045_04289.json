@@ -1,0 +1,83 @@
+{
+  "document_id": "informe_sintetico_20250804195045_04289",
+  "entities": [
+    {
+      "text": "infarto por hipoperfusión",
+      "type": "PATOLOGIA",
+      "start": 678,
+      "end": 703
+    },
+    {
+      "text": "ASPECTS 9",
+      "type": "PUNTUACION_CLINICA",
+      "start": 787,
+      "end": 796
+    },
+    {
+      "text": "hipoperfusión",
+      "type": "PATOLOGIA",
+      "start": 690,
+      "end": 703
+    },
+    {
+      "text": "infarto isquémico",
+      "type": "PATOLOGIA",
+      "start": 1312,
+      "end": 1329
+    },
+    {
+      "text": "territorios watershed frontoparietales y parietooccipitales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 602,
+      "end": 661
+    },
+    {
+      "text": "bilaterales",
+      "type": "LATERALIDAD",
+      "start": 1104,
+      "end": 1115
+    },
+    {
+      "text": "prolongación del tiempo de tránsito medio (MTT)",
+      "type": "MEDIDA",
+      "start": 935,
+      "end": 982
+    },
+    {
+      "text": "aumento en los mapas de tiempo hasta el pico (TTP)",
+      "type": "MEDIDA",
+      "start": 985,
+      "end": 1035
+    },
+    {
+      "text": "flujo cerebral (CBF) y volumen cerebral (CBV) disminuidos",
+      "type": "MEDIDA",
+      "start": 1121,
+      "end": 1178
+    },
+    {
+      "text": "ASPECTS 9",
+      "type": "PUNTUACION_CLINICA",
+      "start": 787,
+      "end": 796
+    },
+    {
+      "text": "sin placas ateromatosas significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1565,
+      "end": 1603
+    },
+    {
+      "text": "sin alteraciones",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1638,
+      "end": 1654
+    },
+    {
+      "text": "sin hallazgos obstructivos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1894,
+      "end": 1920
+    }
+  ]
+}

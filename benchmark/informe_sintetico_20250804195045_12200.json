@@ -1,0 +1,163 @@
+{
+  "document_id": "informe_sintetico_20250804195045_12200",
+  "entities": [
+    {
+      "text": "hemorragia intracraneal",
+      "type": "PATOLOGIA",
+      "start": 222,
+      "end": 245
+    },
+    {
+      "text": "colección hiperdensa intraventricular",
+      "type": "PATOLOGIA",
+      "start": 443,
+      "end": 480
+    },
+    {
+      "text": "hemorragia intraventricular primaria",
+      "type": "PATOLOGIA",
+      "start": 616,
+      "end": 652
+    },
+    {
+      "text": "hematomas parenquimatosos adyacentes",
+      "type": "PATOLOGIA",
+      "start": 669,
+      "end": 705
+    },
+    {
+      "text": "sangrado subaracnoideo adicional",
+      "type": "PATOLOGIA",
+      "start": 709,
+      "end": 741
+    },
+    {
+      "text": "hidrocefalia obstructiva",
+      "type": "PATOLOGIA",
+      "start": 889,
+      "end": 913
+    },
+    {
+      "text": "edema cerebral focal",
+      "type": "PATOLOGIA",
+      "start": 943,
+      "end": 963
+    },
+    {
+      "text": "infartos agudos visibles",
+      "type": "PATOLOGIA",
+      "start": 967,
+      "end": 991
+    },
+    {
+      "text": "cisternas basales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 997,
+      "end": 1014
+    },
+    {
+      "text": "ventrículos laterales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 537,
+      "end": 558
+    },
+    {
+      "text": "sistema ventricular lateral derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 564,
+      "end": 599
+    },
+    {
+      "text": "ambos hemisferios",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1101,
+      "end": 1118
+    },
+    {
+      "text": "arterias carotídeas internas cervicales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1383,
+      "end": 1422
+    },
+    {
+      "text": "línea media",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 785,
+      "end": 796
+    },
+    {
+      "text": "ventrículos laterales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 537,
+      "end": 558
+    },
+    {
+      "text": "arterias carotídeas internas cervicales",
+      "type": "ARTERIA",
+      "start": 1383,
+      "end": 1422
+    },
+    {
+      "text": "derecho",
+      "type": "LATERALIDAD",
+      "start": 592,
+      "end": 599
+    },
+    {
+      "text": "moderada",
+      "type": "MEDIDA",
+      "start": 880,
+      "end": 888
+    },
+    {
+      "text": "sin contraste",
+      "type": "TECNICA_IMAGEN",
+      "start": 276,
+      "end": 289
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 292,
+      "end": 313
+    },
+    {
+      "text": "angioTC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 316,
+      "end": 345
+    },
+    {
+      "text": "TC CODIGO ICTUS",
+      "type": "TECNICA_IMAGEN",
+      "start": 72,
+      "end": 87
+    },
+    {
+      "text": "sin estenosis ni oclusiones",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1318,
+      "end": 1345
+    },
+    {
+      "text": "sin áreas de hipoperfusión o penumbra significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1119,
+      "end": 1170
+    },
+    {
+      "text": "urgente",
+      "type": "TEMPORALIDAD",
+      "start": 370,
+      "end": 377
+    },
+    {
+      "text": "súbito",
+      "type": "TEMPORALIDAD",
+      "start": 201,
+      "end": 207
+    }
+  ],
+  "regenerado": true,
+  "fecha_regeneracion": "2025-08-06T13:59:05.213777"
+}

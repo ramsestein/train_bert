@@ -1,0 +1,241 @@
+{
+  "document_id": "informe_sintetico_20250804195045_05349",
+  "entities": [
+    {
+      "text": "accidente cerebrovascular isquémico agudo",
+      "type": "PATOLOGIA",
+      "start": 239,
+      "end": 280
+    },
+    {
+      "text": "hemiparesia derecha",
+      "type": "PATOLOGIA",
+      "start": 197,
+      "end": 216
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 510,
+      "end": 542
+    },
+    {
+      "text": "segmento M1",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 544,
+      "end": 555
+    },
+    {
+      "text": "sustancia blanca",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 683,
+      "end": 699
+    },
+    {
+      "text": "corteza",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 702,
+      "end": 709
+    },
+    {
+      "text": "ASPECTS",
+      "type": "PUNTUACION_CLINICA",
+      "start": 718,
+      "end": 725
+    },
+    {
+      "text": "7/10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 738,
+      "end": 742
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 758,
+      "end": 781
+    },
+    {
+      "text": "desplazamiento de la línea media",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 785,
+      "end": 817
+    },
+    {
+      "text": "morfología y tamaño normales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 843,
+      "end": 871
+    },
+    {
+      "text": "prolongación del tiempo máximo de tránsito",
+      "type": "PATOLOGIA",
+      "start": 948,
+      "end": 990
+    },
+    {
+      "text": "flujo cerebral",
+      "type": "PATOLOGIA",
+      "start": 1028,
+      "end": 1042
+    },
+    {
+      "text": "CBF",
+      "type": "PATOLOGIA",
+      "start": 1044,
+      "end": 1047
+    },
+    {
+      "text": "volumen cerebral",
+      "type": "PATOLOGIA",
+      "start": 1098,
+      "end": 1114
+    },
+    {
+      "text": "infarto establecido",
+      "type": "PATOLOGIA",
+      "start": 1146,
+      "end": 1165
+    },
+    {
+      "text": "mismatch significativo",
+      "type": "PATOLOGIA",
+      "start": 1190,
+      "end": 1212
+    },
+    {
+      "text": "tejido en riesgo salvable",
+      "type": "PATOLOGIA",
+      "start": 1223,
+      "end": 1248
+    },
+    {
+      "text": "segmento proximal M1",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1306,
+      "end": 1326
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 510,
+      "end": 542
+    },
+    {
+      "text": "lesiones estenóticas relevantes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1424,
+      "end": 1455
+    },
+    {
+      "text": "carótidas extra craneales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1480,
+      "end": 1505
+    },
+    {
+      "text": "signos significativos de ateromatosis o estenosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1510,
+      "end": 1559
+    },
+    {
+      "text": "Oclusión aguda segmento proximal M1 de ACM izquierda",
+      "type": "PATOLOGIA",
+      "start": 1623,
+      "end": 1675
+    },
+    {
+      "text": "trombo arterial hiperdenso",
+      "type": "PATOLOGIA",
+      "start": 1680,
+      "end": 1706
+    },
+    {
+      "text": "ASPECTS 7/10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 1724,
+      "end": 1736
+    },
+    {
+      "text": "isquemia aguda en territorio de ACM izquierda",
+      "type": "PATOLOGIA",
+      "start": 1752,
+      "end": 1797
+    },
+    {
+      "text": "Perfusión cerebral",
+      "type": "PATOLOGIA",
+      "start": 1803,
+      "end": 1821
+    },
+    {
+      "text": "mismatch significativo",
+      "type": "PATOLOGIA",
+      "start": 1190,
+      "end": 1212
+    },
+    {
+      "text": "tejido penumbra en riesgo",
+      "type": "PATOLOGIA",
+      "start": 1867,
+      "end": 1892
+    },
+    {
+      "text": "potencialmente recuperable",
+      "type": "PATOLOGIA",
+      "start": 1894,
+      "end": 1920
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 758,
+      "end": 781
+    },
+    {
+      "text": "valoración urgente",
+      "type": "TEMPORALIDAD",
+      "start": 1997,
+      "end": 2015
+    },
+    {
+      "text": "tratamiento endovascular",
+      "type": "PATOLOGIA",
+      "start": 2021,
+      "end": 2045
+    },
+    {
+      "text": "trombolítico intravenoso",
+      "type": "PATOLOGIA",
+      "start": 2050,
+      "end": 2074
+    },
+    {
+      "text": "Oclusión arterial aguda en segmento proximal M1 de arteria cerebral media izquierda",
+      "type": "PATOLOGIA",
+      "start": 2291,
+      "end": 2374
+    },
+    {
+      "text": "segmento proximal M1",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1306,
+      "end": 1326
+    },
+    {
+      "text": "ACM izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 657,
+      "end": 670
+    },
+    {
+      "text": "trombo hiperdenso",
+      "type": "PATOLOGIA",
+      "start": 2615,
+      "end": 2632
+    }
+  ],
+  "regenerado": true,
+  "fecha_regeneracion": "2025-08-06T15:00:33.017477"
+}

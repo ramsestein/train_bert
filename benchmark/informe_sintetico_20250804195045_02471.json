@@ -1,0 +1,83 @@
+{
+  "document_id": "informe_sintetico_20250804195045_02471",
+  "entities": [
+    {
+      "text": "infarto isquémico subagudo",
+      "type": "PATOLOGIA",
+      "start": 611,
+      "end": 637
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 652,
+      "end": 675
+    },
+    {
+      "text": "edema significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 679,
+      "end": 698
+    },
+    {
+      "text": "región fronto-parietal izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 750,
+      "end": 782
+    },
+    {
+      "text": "territorio afectado",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 981,
+      "end": 1000
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "ARTERIA",
+      "start": 563,
+      "end": 595
+    },
+    {
+      "text": "disección de la arteria carótida interna izquierda",
+      "type": "PATOLOGIA",
+      "start": 1805,
+      "end": 1855
+    },
+    {
+      "text": "segmento cervical izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1274,
+      "end": 1301
+    },
+    {
+      "text": "disminución del calibre de la arteria cerebral media izquierda",
+      "type": "PATOLOGIA",
+      "start": 1401,
+      "end": 1463
+    },
+    {
+      "text": "sin oclusión completa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1500,
+      "end": 1521
+    },
+    {
+      "text": "sin estenosis ni placas ateromatosas significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1576,
+      "end": 1627
+    },
+    {
+      "text": "penumbra significativa",
+      "type": "PATOLOGIA",
+      "start": 1741,
+      "end": 1763
+    },
+    {
+      "text": "TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANGIOTC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 2296,
+      "end": 2363
+    }
+  ]
+}

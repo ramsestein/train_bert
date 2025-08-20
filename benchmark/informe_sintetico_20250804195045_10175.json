@@ -1,0 +1,107 @@
+{
+  "document_id": "informe_sintetico_20250804195045_10175",
+  "entities": [
+    {
+      "text": "accidente cerebrovascular isquémico",
+      "type": "PATOLOGIA",
+      "start": 202,
+      "end": 237
+    },
+    {
+      "text": "hemorragias",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 471,
+      "end": 482
+    },
+    {
+      "text": "colecciones extraaxiales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 486,
+      "end": 510
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 614,
+      "end": 624
+    },
+    {
+      "text": "infarto agudo",
+      "type": "PATOLOGIA",
+      "start": 666,
+      "end": 679
+    },
+    {
+      "text": "isquemia subcortical",
+      "type": "PATOLOGIA",
+      "start": 707,
+      "end": 727
+    },
+    {
+      "text": "enfermedad microangiopática",
+      "type": "PATOLOGIA",
+      "start": 745,
+      "end": 772
+    },
+    {
+      "text": "Cisternas basales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 849,
+      "end": 866
+    },
+    {
+      "text": "sin signos de presión intracraneal elevada",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 880,
+      "end": 922
+    },
+    {
+      "text": "Perfusión cerebral simétrica y adecuada para edad",
+      "type": "PATOLOGIA",
+      "start": 1183,
+      "end": 1232
+    },
+    {
+      "text": "ACAs, ACMs, ACPs",
+      "type": "ARTERIA",
+      "start": 1460,
+      "end": 1476
+    },
+    {
+      "text": "sin signos de estenosis o oclusión",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1489,
+      "end": 1523
+    },
+    {
+      "text": "sin aneurismas ni malformaciones vasculares",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1557,
+      "end": 1600
+    },
+    {
+      "text": "TC craneal sin hallazgos agudos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1625,
+      "end": 1656
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 614,
+      "end": 624
+    },
+    {
+      "text": "sin evidencia de hipoperfusión o isquemia aguda",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1740,
+      "end": 1787
+    },
+    {
+      "text": "sin estenosis ni alteraciones vasculares relevantes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1834,
+      "end": 1885
+    }
+  ]
+}

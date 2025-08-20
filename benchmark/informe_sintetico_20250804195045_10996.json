@@ -1,0 +1,83 @@
+{
+  "document_id": "informe_sintetico_20250804195045_10996",
+  "entities": [
+    {
+      "text": "hematoma lobar hemorrágico",
+      "type": "PATOLOGIA",
+      "start": 456,
+      "end": 482
+    },
+    {
+      "text": "lóbulo frontal derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 500,
+      "end": 522
+    },
+    {
+      "text": "25 ml",
+      "type": "MEDIDA",
+      "start": 553,
+      "end": 558
+    },
+    {
+      "text": "4 mm",
+      "type": "MEDIDA",
+      "start": 710,
+      "end": 714
+    },
+    {
+      "text": "sin colapso significativo de las cisternas basales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 876,
+      "end": 926
+    },
+    {
+      "text": "sin isquemia asociada",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1211,
+      "end": 1232
+    },
+    {
+      "text": "sin signos de estenosis ni oclusión",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1340,
+      "end": 1375
+    },
+    {
+      "text": "bifurcación carotídea derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1430,
+      "end": 1459
+    },
+    {
+      "text": "sin estenosis relevante",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1460,
+      "end": 1483
+    },
+    {
+      "text": "sin alteraciones significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1797,
+      "end": 1828
+    },
+    {
+      "text": "TC craneal sin contraste urgente",
+      "type": "TECNICA_IMAGEN",
+      "start": 306,
+      "end": 338
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 340,
+      "end": 361
+    },
+    {
+      "text": "angioTC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 364,
+      "end": 393
+    }
+  ]
+}

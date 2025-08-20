@@ -1,0 +1,30 @@
+UO_PACN (Unidad Organizativa Médica): RADIO
+
+PRUEB (Prueba solicitada): TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANG IOTC ARTERIAL INTRACRANEAL)
+
+CLIN (Resumen clínico): Paciente con inicio súbito de déficit motor hemicorporal derecho y alteración del nivel de conciencia, sospecha clínica de hemorragia intracerebral.
+
+OBSR (Protocolo): TC craneal basal sin contraste, seguida de TC perfusión cerebral y angiografía por TC arterial intracraneal y extracraneal.
+
+RESL (Resultados):  
+TC CRANEAL BASAL:  
+Se identifica hematoma intraparenquimoso localizado en el tálamo izquierdo, con diámetro máximo aproximado de 3.5 cm. Se observa leve extensión hacia el sistema ventricular lateral homolateral, sin signos de hemorragia subaracnoidea. Hay edema perilesional moderado que genera efecto de masa leve con desplazamiento de estructuras de línea media de 3 mm hacia la derecha. No se evidencia hidrocefalia obstructiva. Diferenciación córtico-subcortical preservada en áreas no afectadas.  
+TC PERFUSIÓN CEREBRAL:  
+La región del hematoma muestra marcada disminución de CBV y CBF con aumento del TTP, consistente con lesión hemorrágica y edema asociado, sin evidencia de tejido viable en la zona afectada. Resto del parénquima cerebral sin alteraciones perfusionales significativas.  
+ANGIO-TC ARTERIAL INTRACRANEAL Y EXTRACRANEAL:  
+No se identifican aneurismas ni malformaciones arteriovenosas. Troncos supraaórticos sin estenosis significativas. Vasculatura intracraneal permeable, sin evidencia de vasoespasmo ni trombosis arterial.
+
+CONCL (Conclusiones):  
+Hematoma intraparenquimoso talámico izquierdo con extensión ventricular leve y edema asociado. Efecto de masa moderado sin hidrocefalia obstructiva. Angiografía TC sin hallazgos vasculares asociados. Recomendable seguimiento clínico y neurológico urgente.
+
+ACTI_ADICI (Actividad adicional):  
+
+DKTXT (Descripción): Seguimiento neurológico y control imagenológico según evolución clínica.
+
+ICON (Estudio): @RADIO_TAL@
+
+X00DIATXT (Texto del diagnóstico ACR): Hematoma intracerebral talámico con extensión ventricular y edema perilesional sin hidrocefalia obstructiva.
+
+EST_T_DES (Descripción): TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANGIOTC ARTERIAL INTRACRANEAL)
+
+ZVASOS_D (Der.): Sin estenosis o lesiones vasculares arteriales detectadas.

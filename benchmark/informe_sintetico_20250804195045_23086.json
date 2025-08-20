@@ -1,0 +1,233 @@
+{
+  "document_id": "informe_sintetico_20250804195045_23086",
+  "entities": [
+    {
+      "text": "hemiparesia derecha",
+      "type": "PATOLOGIA",
+      "start": 196,
+      "end": 215
+    },
+    {
+      "text": "afasia",
+      "type": "PATOLOGIA",
+      "start": 218,
+      "end": 224
+    },
+    {
+      "text": "ictus isquémico",
+      "type": "PATOLOGIA",
+      "start": 246,
+      "end": 261
+    },
+    {
+      "text": "foco hiperdenso lineal",
+      "type": "PATOLOGIA",
+      "start": 442,
+      "end": 464
+    },
+    {
+      "text": "trombo intraluminal",
+      "type": "PATOLOGIA",
+      "start": 547,
+      "end": 566
+    },
+    {
+      "text": "signo del vaso hiperdenso",
+      "type": "PATOLOGIA",
+      "start": 568,
+      "end": 593
+    },
+    {
+      "text": "Área hipodensa",
+      "type": "PATOLOGIA",
+      "start": 596,
+      "end": 610
+    },
+    {
+      "text": "signo de infarto reciente",
+      "type": "PATOLOGIA",
+      "start": 754,
+      "end": 779
+    },
+    {
+      "text": "ASPECTS 7",
+      "type": "PUNTUACION_CLINICA",
+      "start": 781,
+      "end": 790
+    },
+    {
+      "text": "hemorragias",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 809,
+      "end": 820
+    },
+    {
+      "text": "efectos de masa significativos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 824,
+      "end": 854
+    },
+    {
+      "text": "Línea media centrada",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 856,
+      "end": 876
+    },
+    {
+      "text": "Sistema ventricular normal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 878,
+      "end": 904
+    },
+    {
+      "text": "tiempo de tránsito prolongado",
+      "type": "PATOLOGIA",
+      "start": 932,
+      "end": 961
+    },
+    {
+      "text": "reducción significativa en el flujo cerebral sanguíneo",
+      "type": "PATOLOGIA",
+      "start": 964,
+      "end": 1018
+    },
+    {
+      "text": "flujo cerebral cerebral relativo",
+      "type": "PATOLOGIA",
+      "start": 1027,
+      "end": 1059
+    },
+    {
+      "text": "territorio superficial izquierdo de la ACM",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1070,
+      "end": 1112
+    },
+    {
+      "text": "volumen cerebral sanguíneo",
+      "type": "PATOLOGIA",
+      "start": 1117,
+      "end": 1143
+    },
+    {
+      "text": "área penumbra isquémica viable",
+      "type": "PATOLOGIA",
+      "start": 1202,
+      "end": 1232
+    },
+    {
+      "text": "Oclusión completa",
+      "type": "PATOLOGIA",
+      "start": 1277,
+      "end": 1294
+    },
+    {
+      "text": "segmento proximal (M1) de la arteria cerebral media izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 471,
+      "end": 532
+    },
+    {
+      "text": "Arterias carótidas internas y carótidas comunes",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1362,
+      "end": 1409
+    },
+    {
+      "text": "estenosis significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1425,
+      "end": 1448
+    },
+    {
+      "text": "estenosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1425,
+      "end": 1434
+    },
+    {
+      "text": "alteraciones en los vasos intracraneales restantes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1486,
+      "end": 1536
+    },
+    {
+      "text": "Circulación colateral pobre",
+      "type": "PATOLOGIA",
+      "start": 1538,
+      "end": 1565
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 1641,
+      "end": 1655
+    },
+    {
+      "text": "territorio superficial de la arteria cerebral media izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1659,
+      "end": 1720
+    },
+    {
+      "text": "ASPECTS 7",
+      "type": "PUNTUACION_CLINICA",
+      "start": 781,
+      "end": 790
+    },
+    {
+      "text": "signo del vaso hiperdenso en M1 izquierdo",
+      "type": "PATOLOGIA",
+      "start": 1749,
+      "end": 1790
+    },
+    {
+      "text": "oclusión arterial proximal",
+      "type": "PATOLOGIA",
+      "start": 1804,
+      "end": 1830
+    },
+    {
+      "text": "penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1207,
+      "end": 1225
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1919,
+      "end": 1942
+    },
+    {
+      "text": "Infarto cerebral agudo",
+      "type": "PATOLOGIA",
+      "start": 2144,
+      "end": 2166
+    },
+    {
+      "text": "territorio de la arteria cerebral media izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 2170,
+      "end": 2219
+    },
+    {
+      "text": "oclusión del segmento proximal (M1)",
+      "type": "PATOLOGIA",
+      "start": 2224,
+      "end": 2259
+    },
+    {
+      "text": "área de penumbra isquémica relevante",
+      "type": "PATOLOGIA",
+      "start": 2262,
+      "end": 2298
+    },
+    {
+      "text": "Oclusión arterial M1 izquierda",
+      "type": "PATOLOGIA",
+      "start": 2414,
+      "end": 2444
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "document_id": "informe_sintetico_20250804195045_24952",
+  "entities": [
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 312,
+      "end": 326
+    },
+    {
+      "text": "arteria cerebral posterior",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 344,
+      "end": 370
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 216,
+      "end": 223
+    },
+    {
+      "text": "3 horas",
+      "type": "MEDIDA",
+      "start": 247,
+      "end": 254
+    },
+    {
+      "text": "TTP",
+      "type": "TECNICA_IMAGEN",
+      "start": 506,
+      "end": 509
+    },
+    {
+      "text": "CBF",
+      "type": "TECNICA_IMAGEN",
+      "start": 511,
+      "end": 514
+    },
+    {
+      "text": "CBV",
+      "type": "TECNICA_IMAGEN",
+      "start": 517,
+      "end": 520
+    },
+    {
+      "text": "Oclusión completa",
+      "type": "PATOLOGIA",
+      "start": 1245,
+      "end": 1262
+    },
+    {
+      "text": "segmento P2",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1267,
+      "end": 1278
+    },
+    {
+      "text": "arteria cerebral posterior derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1040,
+      "end": 1074
+    },
+    {
+      "text": "sin infarto establecido",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1199,
+      "end": 1222
+    },
+    {
+      "text": "No signos de hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1719,
+      "end": 1755
+    }
+  ]
+}

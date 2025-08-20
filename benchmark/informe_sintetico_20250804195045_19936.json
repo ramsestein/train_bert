@@ -1,0 +1,77 @@
+{
+  "document_id": "informe_sintetico_20250804195045_19936",
+  "entities": [
+    {
+      "text": "accidente cerebrovascular isquémico reciente",
+      "type": "PATOLOGIA",
+      "start": 179,
+      "end": 223
+    },
+    {
+      "text": "hemorragia parenquimatosa focal de tipo transformación hemorrágica PH1",
+      "type": "PATOLOGIA",
+      "start": 570,
+      "end": 640
+    },
+    {
+      "text": "diámetro máximo aproximado de 12 mm",
+      "type": "MEDIDA",
+      "start": 646,
+      "end": 681
+    },
+    {
+      "text": "edema perilesional",
+      "type": "PATOLOGIA",
+      "start": 703,
+      "end": 721
+    },
+    {
+      "text": "hemorragia intraventricular o subaracnoidea",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 804,
+      "end": 847
+    },
+    {
+      "text": "infarto isquémico",
+      "type": "PATOLOGIA",
+      "start": 922,
+      "end": 939
+    },
+    {
+      "text": "disminución moderada del flujo cerebral (CBF)",
+      "type": "PATOLOGIA",
+      "start": 1158,
+      "end": 1203
+    },
+    {
+      "text": "volumen cerebral de sangre (CBV)",
+      "type": "PATOLOGIA",
+      "start": 1206,
+      "end": 1238
+    },
+    {
+      "text": "sin signos de oclusión distal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1521,
+      "end": 1550
+    },
+    {
+      "text": "Transformación hemorrágica tipo PH1",
+      "type": "PATOLOGIA",
+      "start": 1614,
+      "end": 1649
+    },
+    {
+      "text": "sin hallazgos de oclusión arterial mayor",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1856,
+      "end": 1896
+    },
+    {
+      "text": "TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANG IOTC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 72,
+      "end": 140
+    }
+  ]
+}

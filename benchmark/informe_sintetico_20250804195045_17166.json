@@ -1,0 +1,59 @@
+{
+  "document_id": "informe_sintetico_20250804195045_17166",
+  "entities": [
+    {
+      "text": "infarto lacunar",
+      "type": "PATOLOGIA",
+      "start": 256,
+      "end": 271
+    },
+    {
+      "text": "región gangliobasal derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 550,
+      "end": 577
+    },
+    {
+      "text": "agudo",
+      "type": "TEMPORALIDAD",
+      "start": 610,
+      "end": 615
+    },
+    {
+      "text": "No se identifica hemorragia intra ni extraaxial.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 462,
+      "end": 510
+    },
+    {
+      "text": "sin evidencia de hemorragia ni edema asociado.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1438,
+      "end": 1484
+    },
+    {
+      "text": "discreta alteración hemodinámica local",
+      "type": "PATOLOGIA",
+      "start": 1508,
+      "end": 1546
+    },
+    {
+      "text": "ACAs, ACMs, ACPs",
+      "type": "ARTERIA",
+      "start": 1283,
+      "end": 1299
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 570,
+      "end": 577
+    },
+    {
+      "text": "sin estenosis ni placas ateromatosas relevantes.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1150,
+      "end": 1198
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "document_id": "informe_sintetico_20250804195045_08481",
+  "entities": [
+    {
+      "text": "hemorragias intra ni extraaxiales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 463,
+      "end": 496
+    },
+    {
+      "text": "infarto o hemorragia aguda",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 599,
+      "end": 625
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 683,
+      "end": 693
+    },
+    {
+      "text": "ventrículos cerebrales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 795,
+      "end": 817
+    },
+    {
+      "text": "línea media",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 874,
+      "end": 885
+    },
+    {
+      "text": "cisternas basales y silvianas",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 906,
+      "end": 935
+    },
+    {
+      "text": "TTP",
+      "type": "MEDIDA",
+      "start": 1022,
+      "end": 1025
+    },
+    {
+      "text": "CBV",
+      "type": "MEDIDA",
+      "start": 1056,
+      "end": 1059
+    },
+    {
+      "text": "CBF",
+      "type": "MEDIDA",
+      "start": 1089,
+      "end": 1092
+    },
+    {
+      "text": "mismatch",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1151,
+      "end": 1159
+    },
+    {
+      "text": "estenosis ni ateromatosis significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1270,
+      "end": 1309
+    },
+    {
+      "text": "ACM, ACA y ACP",
+      "type": "ARTERIA",
+      "start": 1400,
+      "end": 1414
+    },
+    {
+      "text": "permeables y sin signos de oclusión o estenosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1416,
+      "end": 1463
+    },
+    {
+      "text": "ausencia de patología aguda",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1551,
+      "end": 1578
+    },
+    {
+      "text": "infarto cerebral ni hemorragia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1594,
+      "end": 1624
+    },
+    {
+      "text": "hipoperfusión ni mismatch",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1666,
+      "end": 1691
+    },
+    {
+      "text": "estenosis ni oclusiones",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1730,
+      "end": 1753
+    },
+    {
+      "text": "relevancia aguda",
+      "type": "PATOLOGIA",
+      "start": 1783,
+      "end": 1799
+    }
+  ]
+}

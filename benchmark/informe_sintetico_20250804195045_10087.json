@@ -1,0 +1,227 @@
+{
+  "document_id": "informe_sintetico_20250804195045_10087",
+  "entities": [
+    {
+      "text": "infarto cerebral reciente",
+      "type": "PATOLOGIA",
+      "start": 179,
+      "end": 204
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "ARTERIA",
+      "start": 225,
+      "end": 255
+    },
+    {
+      "text": "deterioro neurológico progresivo",
+      "type": "PATOLOGIA",
+      "start": 261,
+      "end": 293
+    },
+    {
+      "text": "transformación hemorrágica",
+      "type": "PATOLOGIA",
+      "start": 308,
+      "end": 334
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 355,
+      "end": 371
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 388,
+      "end": 409
+    },
+    {
+      "text": "Angio-TC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 412,
+      "end": 442
+    },
+    {
+      "text": "área hipodensa",
+      "type": "PATOLOGIA",
+      "start": 539,
+      "end": 553
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "ARTERIA",
+      "start": 225,
+      "end": 255
+    },
+    {
+      "text": "infarto cerebral subagudo",
+      "type": "PATOLOGIA",
+      "start": 623,
+      "end": 648
+    },
+    {
+      "text": "sangrado parenquimatoso",
+      "type": "PATOLOGIA",
+      "start": 750,
+      "end": 773
+    },
+    {
+      "text": "transformación hemorrágica tipo PH1",
+      "type": "PATOLOGIA",
+      "start": 791,
+      "end": 826
+    },
+    {
+      "text": "sin efecto de masa significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 854,
+      "end": 886
+    },
+    {
+      "text": "No se identifican hemorragias extraaxiales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 888,
+      "end": 930
+    },
+    {
+      "text": "La línea media se encuentra centrada",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 933,
+      "end": 969
+    },
+    {
+      "text": "Sistema ventricular de morfología y tamaño normales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 971,
+      "end": 1022
+    },
+    {
+      "text": "Cisternas basales libres",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1024,
+      "end": 1048
+    },
+    {
+      "text": "Mínima reacción edematosa perilesional",
+      "type": "PATOLOGIA",
+      "start": 1050,
+      "end": 1088
+    },
+    {
+      "text": "No existen signos de herniación cerebral",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1091,
+      "end": 1131
+    },
+    {
+      "text": "No se identifican fracturas óseas ni alteraciones de partes blandas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1133,
+      "end": 1200
+    },
+    {
+      "text": "Reducción marcada del flujo cerebral (CBF)",
+      "type": "PATOLOGIA",
+      "start": 1217,
+      "end": 1259
+    },
+    {
+      "text": "volumen cerebral (CBV)",
+      "type": "PATOLOGIA",
+      "start": 1262,
+      "end": 1284
+    },
+    {
+      "text": "territorio de la ACM derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1291,
+      "end": 1319
+    },
+    {
+      "text": "aumento del tiempo de tránsito medio (MTT)",
+      "type": "PATOLOGIA",
+      "start": 1325,
+      "end": 1367
+    },
+    {
+      "text": "tiempo hasta el pico (TTP)",
+      "type": "PATOLOGIA",
+      "start": 1370,
+      "end": 1396
+    },
+    {
+      "text": "No se evidencian zonas de penumbra viable relevante",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1430,
+      "end": 1481
+    },
+    {
+      "text": "Oclusión segmentaria subaguda de la arteria cerebral media derecha (segmento M1)",
+      "type": "PATOLOGIA",
+      "start": 1516,
+      "end": 1596
+    },
+    {
+      "text": "No se observan estenosis significativas ni aneurismas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1598,
+      "end": 1651
+    },
+    {
+      "text": "Arterias intracraneales izquierdas",
+      "type": "ARTERIA",
+      "start": 1653,
+      "end": 1687
+    },
+    {
+      "text": "sistema vertebrobasilar permeables",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1690,
+      "end": 1724
+    },
+    {
+      "text": "sin alteraciones de su luz",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1726,
+      "end": 1752
+    },
+    {
+      "text": "Área infartada en territorio de ACM derecha",
+      "type": "PATOLOGIA",
+      "start": 1796,
+      "end": 1839
+    },
+    {
+      "text": "transformación hemorrágica tipo PH1 (focos hemorrágicos puntiformes sin efecto de masa)",
+      "type": "PATOLOGIA",
+      "start": 1844,
+      "end": 1931
+    },
+    {
+      "text": "Infarto establecido sin zonas de salvamento isquémico significativas",
+      "type": "PATOLOGIA",
+      "start": 1948,
+      "end": 2016
+    },
+    {
+      "text": "Oclusión subaguda del segmento M1 de la ACM derecha",
+      "type": "PATOLOGIA",
+      "start": 2042,
+      "end": 2093
+    },
+    {
+      "text": "resto de circulación intracraneal permeable",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2095,
+      "end": 2138
+    },
+    {
+      "text": "Infarto cerebral con transformación hemorrágica tipo PH1 en territorio de arteria cerebral media derecha",
+      "type": "PATOLOGIA",
+      "start": 2337,
+      "end": 2441
+    }
+  ]
+}

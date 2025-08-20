@@ -1,0 +1,89 @@
+{
+  "document_id": "informe_sintetico_20250804195045_02503",
+  "entities": [
+    {
+      "text": "hemorragia aguda",
+      "type": "PATOLOGIA",
+      "start": 465,
+      "end": 481
+    },
+    {
+      "text": "lesiones focales intra o extraaxiales",
+      "type": "PATOLOGIA",
+      "start": 485,
+      "end": 522
+    },
+    {
+      "text": "cambios crónicos compatibles con enfermedad microangiopática leve",
+      "type": "PATOLOGIA",
+      "start": 627,
+      "end": 692
+    },
+    {
+      "text": "sustancia blanca periventricular bilateral",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 696,
+      "end": 738
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 881,
+      "end": 891
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 924,
+      "end": 938
+    },
+    {
+      "text": "alteraciones significativas en los mapas de tiempo de tránsito (TTP), volumen cerebral sanguíneo (CBV) ni flujo cerebral sanguíneo (CBF)",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 974,
+      "end": 1110
+    },
+    {
+      "text": "zonas en penumbra o infarto establecido",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1124,
+      "end": 1163
+    },
+    {
+      "text": "estenosis ni ateromatosis significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1251,
+      "end": 1290
+    },
+    {
+      "text": "estenosis ni oclusión",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1359,
+      "end": 1380
+    },
+    {
+      "text": "ACAs, ACMs y ACPs",
+      "type": "ARTERIA",
+      "start": 1418,
+      "end": 1435
+    },
+    {
+      "text": "infarto",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1144,
+      "end": 1151
+    },
+    {
+      "text": "hemorragia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 465,
+      "end": 475
+    },
+    {
+      "text": "Perfusión cerebral y angiografía TC normales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1655,
+      "end": 1699
+    }
+  ]
+}

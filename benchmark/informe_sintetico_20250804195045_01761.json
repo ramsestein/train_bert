@@ -1,0 +1,119 @@
+{
+  "document_id": "informe_sintetico_20250804195045_01761",
+  "entities": [
+    {
+      "text": "ictus isquémico agudo",
+      "type": "PATOLOGIA",
+      "start": 189,
+      "end": 210
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 228,
+      "end": 258
+    },
+    {
+      "text": "arteria cerebral media",
+      "type": "ARTERIA",
+      "start": 228,
+      "end": 250
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 251,
+      "end": 258
+    },
+    {
+      "text": "24 horas",
+      "type": "TEMPORALIDAD",
+      "start": 302,
+      "end": 310
+    },
+    {
+      "text": "30-50%",
+      "type": "MEDIDA",
+      "start": 675,
+      "end": 681
+    },
+    {
+      "text": "4 mm",
+      "type": "MEDIDA",
+      "start": 960,
+      "end": 964
+    },
+    {
+      "text": "hemorragia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 639,
+      "end": 649
+    },
+    {
+      "text": "reducción marcada en el volumen cerebral sanguíneo (CBV) y flujo cerebral (CBF)",
+      "type": "PATOLOGIA",
+      "start": 1135,
+      "end": 1214
+    },
+    {
+      "text": "sin signos de oclusión residual",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1421,
+      "end": 1452
+    },
+    {
+      "text": "sin estenosis significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1505,
+      "end": 1532
+    },
+    {
+      "text": "Transformación hemorrágica grado HI2",
+      "type": "PATOLOGIA",
+      "start": 1592,
+      "end": 1628
+    },
+    {
+      "text": "isquémica derecha media",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1637,
+      "end": 1660
+    },
+    {
+      "text": "moderada",
+      "type": "PATOLOGIA",
+      "start": 1691,
+      "end": 1699
+    },
+    {
+      "text": "sin signos de herniación",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1740,
+      "end": 1764
+    },
+    {
+      "text": "evolución post-fibrinólisis de ictus isquémico agudo",
+      "type": "TEMPORALIDAD",
+      "start": 1789,
+      "end": 1841
+    },
+    {
+      "text": "TC craneal urgente basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 331,
+      "end": 355
+    },
+    {
+      "text": "estudio de perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 358,
+      "end": 387
+    },
+    {
+      "text": "angiografía por TC de los vasos intracraneales",
+      "type": "TECNICA_IMAGEN",
+      "start": 398,
+      "end": 444
+    }
+  ]
+}

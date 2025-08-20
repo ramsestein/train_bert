@@ -1,0 +1,83 @@
+{
+  "document_id": "informe_sintetico_20250804195045_14220",
+  "entities": [
+    {
+      "text": "hematoma",
+      "type": "PATOLOGIA",
+      "start": 443,
+      "end": 451
+    },
+    {
+      "text": "hemisferio cerebeloso derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 482,
+      "end": 511
+    },
+    {
+      "text": "15 ml",
+      "type": "MEDIDA",
+      "start": 542,
+      "end": 547
+    },
+    {
+      "text": "cuarto ventrículo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 598,
+      "end": 615
+    },
+    {
+      "text": "línea media",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 687,
+      "end": 698
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 1024,
+      "end": 1033
+    },
+    {
+      "text": "hidrocefalia obstructiva",
+      "type": "PATOLOGIA",
+      "start": 721,
+      "end": 745
+    },
+    {
+      "text": "No se visualizan fracturas ni otras áreas hemorrágicas adicionales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 812,
+      "end": 878
+    },
+    {
+      "text": "No se identifican aneurismas ni malformaciones vasculares",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1135,
+      "end": 1192
+    },
+    {
+      "text": "Arterias cerebrales",
+      "type": "ARTERIA",
+      "start": 1194,
+      "end": 1213
+    },
+    {
+      "text": "sin signos de estenosis o trombosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1226,
+      "end": 1261
+    },
+    {
+      "text": "sin áreas extensas de hipoperfusión isquémica",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1349,
+      "end": 1394
+    },
+    {
+      "text": "Hematoma intracerebeloso con efecto de masa y hidrocefalia obstructiva incipiente",
+      "type": "PATOLOGIA",
+      "start": 1749,
+      "end": 1830
+    }
+  ]
+}

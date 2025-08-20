@@ -1,0 +1,149 @@
+{
+  "document_id": "informe_sintetico_20250804195045_06214",
+  "entities": [
+    {
+      "text": "hemiparesia contralateral",
+      "type": "PATOLOGIA",
+      "start": 207,
+      "end": 232
+    },
+    {
+      "text": "ictus agudo",
+      "type": "TEMPORALIDAD",
+      "start": 280,
+      "end": 291
+    },
+    {
+      "text": "arteria cerebral anterior",
+      "type": "ARTERIA",
+      "start": 309,
+      "end": 334
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 361,
+      "end": 377
+    },
+    {
+      "text": "No se identifican signos de hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 526,
+      "end": 577
+    },
+    {
+      "text": "No se observan signos de infarto establecido",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 646,
+      "end": 690
+    },
+    {
+      "text": "ASPECTS en territorio anterior 9/10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 765,
+      "end": 800
+    },
+    {
+      "text": "aumento del tiempo de tránsito medio (TTM)",
+      "type": "PATOLOGIA",
+      "start": 908,
+      "end": 950
+    },
+    {
+      "text": "tiempo hasta el máximo (Tmax)",
+      "type": "PATOLOGIA",
+      "start": 953,
+      "end": 982
+    },
+    {
+      "text": "región frontal medial izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 989,
+      "end": 1020
+    },
+    {
+      "text": "preservación parcial del volumen cerebral sanguíneo (CBV)",
+      "type": "PATOLOGIA",
+      "start": 1132,
+      "end": 1189
+    },
+    {
+      "text": "penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1214,
+      "end": 1232
+    },
+    {
+      "text": "No se visualizan áreas de infarto establecido (área de core) significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1234,
+      "end": 1308
+    },
+    {
+      "text": "Oclusión subtotal proximal de la arteria cerebral anterior izquierda (segmento A2)",
+      "type": "PATOLOGIA",
+      "start": 1343,
+      "end": 1425
+    },
+    {
+      "text": "disminución del calibre vascular",
+      "type": "PATOLOGIA",
+      "start": 1431,
+      "end": 1463
+    },
+    {
+      "text": "ausencia parcial de contraste distal",
+      "type": "PATOLOGIA",
+      "start": 1466,
+      "end": 1502
+    },
+    {
+      "text": "Arterias intracraneales restantes permeables",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1504,
+      "end": 1548
+    },
+    {
+      "text": "sin signos de estenosis significativa ni placas ateroscleróticas relevantes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1550,
+      "end": 1625
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "TEMPORALIDAD",
+      "start": 1674,
+      "end": 1688
+    },
+    {
+      "text": "territorio de arteria cerebral anterior izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1692,
+      "end": 1741
+    },
+    {
+      "text": "penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1214,
+      "end": 1232
+    },
+    {
+      "text": "ausencia de infarto establecido en TC basal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1781,
+      "end": 1824
+    },
+    {
+      "text": "Oclusión subtotal en segmento A2 de ACA izquierda",
+      "type": "PATOLOGIA",
+      "start": 1826,
+      "end": 1875
+    },
+    {
+      "text": "ictus agudo en territorio ACA",
+      "type": "PATOLOGIA",
+      "start": 1907,
+      "end": 1936
+    }
+  ]
+}

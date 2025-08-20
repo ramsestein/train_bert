@@ -1,0 +1,239 @@
+{
+  "document_id": "informe_sintetico_20250804195045_09803",
+  "entities": [
+    {
+      "text": "hemiparesia derecha",
+      "type": "PATOLOGIA",
+      "start": 196,
+      "end": 215
+    },
+    {
+      "text": "alteración del nivel de conciencia",
+      "type": "PATOLOGIA",
+      "start": 218,
+      "end": 252
+    },
+    {
+      "text": "hemorragia intracerebral",
+      "type": "PATOLOGIA",
+      "start": 274,
+      "end": 298
+    },
+    {
+      "text": "colección hiperdensa heterogénea",
+      "type": "PATOLOGIA",
+      "start": 551,
+      "end": 583
+    },
+    {
+      "text": "25 x 20 x 18 mm",
+      "type": "MEDIDA",
+      "start": 603,
+      "end": 618
+    },
+    {
+      "text": "núcleo caudado izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 633,
+      "end": 657
+    },
+    {
+      "text": "efecto masa",
+      "type": "PATOLOGIA",
+      "start": 662,
+      "end": 673
+    },
+    {
+      "text": "3 mm",
+      "type": "MEDIDA",
+      "start": 721,
+      "end": 725
+    },
+    {
+      "text": "edema perilesional moderado",
+      "type": "PATOLOGIA",
+      "start": 757,
+      "end": 784
+    },
+    {
+      "text": "sustancia blanca adyacente",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 799,
+      "end": 825
+    },
+    {
+      "text": "hemorragia subaracnoidea",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 855,
+      "end": 879
+    },
+    {
+      "text": "hemorragias intraventriculares",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 883,
+      "end": 913
+    },
+    {
+      "text": "aumento del TTP",
+      "type": "PATOLOGIA",
+      "start": 1155,
+      "end": 1170
+    },
+    {
+      "text": "hipoperfusión secundaria al efecto masa",
+      "type": "PATOLOGIA",
+      "start": 1238,
+      "end": 1277
+    },
+    {
+      "text": "volumen cerebral (CBV)",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1282,
+      "end": 1304
+    },
+    {
+      "text": "discreta disminución focal",
+      "type": "PATOLOGIA",
+      "start": 1314,
+      "end": 1340
+    },
+    {
+      "text": "áreas de perfusión alteradas sugestivas de isquemia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1379,
+      "end": 1430
+    },
+    {
+      "text": "Arco aórtico y troncos supraórticos",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1499,
+      "end": 1534
+    },
+    {
+      "text": "lesiones ateromatosas significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1539,
+      "end": 1575
+    },
+    {
+      "text": "estenosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1579,
+      "end": 1588
+    },
+    {
+      "text": "Arterias carótidas internas y vertebrales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1590,
+      "end": 1631
+    },
+    {
+      "text": "permeables sin signos de estenosis ni disección",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1632,
+      "end": 1679
+    },
+    {
+      "text": "Arterias intracraneales principales (ACAs, ACMs, ACPs)",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1681,
+      "end": 1735
+    },
+    {
+      "text": "permeables con calibre conservado",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1736,
+      "end": 1769
+    },
+    {
+      "text": "malformaciones vasculares o aneurismas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1786,
+      "end": 1824
+    },
+    {
+      "text": "vasoespasmo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1842,
+      "end": 1853
+    },
+    {
+      "text": "Hematoma intracerebral agudo",
+      "type": "PATOLOGIA",
+      "start": 1880,
+      "end": 1908
+    },
+    {
+      "text": "núcleo caudado izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 633,
+      "end": 657
+    },
+    {
+      "text": "efecto masa moderado",
+      "type": "PATOLOGIA",
+      "start": 1941,
+      "end": 1961
+    },
+    {
+      "text": "edema perilesional",
+      "type": "PATOLOGIA",
+      "start": 757,
+      "end": 775
+    },
+    {
+      "text": "hemorragia subaracnoidea",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 855,
+      "end": 879
+    },
+    {
+      "text": "alteraciones isquémicas agudas significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2055,
+      "end": 2100
+    },
+    {
+      "text": "Arterias intracraneales permeables",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2102,
+      "end": 2136
+    },
+    {
+      "text": "estenosis ni malformaciones evidentes al Angio-TC",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2141,
+      "end": 2190
+    },
+    {
+      "text": "Hallazgos compatibles con hemorragia primaria del núcleo caudado",
+      "type": "PATOLOGIA",
+      "start": 2192,
+      "end": 2256
+    },
+    {
+      "text": "Hemorragia intracerebral aguda",
+      "type": "PATOLOGIA",
+      "start": 2352,
+      "end": 2382
+    },
+    {
+      "text": "núcleo caudado izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 633,
+      "end": 657
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2428,
+      "end": 2442
+    },
+    {
+      "text": "malformaciones vasculares",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1786,
+      "end": 1811
+    }
+  ]
+}

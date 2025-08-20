@@ -1,0 +1,107 @@
+{
+  "document_id": "informe_sintetico_20250804195045_03080",
+  "entities": [
+    {
+      "text": "ictus isquémico",
+      "type": "PATOLOGIA",
+      "start": 201,
+      "end": 216
+    },
+    {
+      "text": "izquierdo",
+      "type": "LATERALIDAD",
+      "start": 240,
+      "end": 249
+    },
+    {
+      "text": "hipodensidad",
+      "type": "PATOLOGIA",
+      "start": 487,
+      "end": 499
+    },
+    {
+      "text": "arteria cerebral media (ACM) izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 520,
+      "end": 558
+    },
+    {
+      "text": "infarto isquémico",
+      "type": "PATOLOGIA",
+      "start": 584,
+      "end": 601
+    },
+    {
+      "text": "hematoma hemático menor de 30% del volumen del infarto",
+      "type": "PATOLOGIA",
+      "start": 756,
+      "end": 810
+    },
+    {
+      "text": "30%",
+      "type": "MEDIDA",
+      "start": 783,
+      "end": 786
+    },
+    {
+      "text": "3 mm",
+      "type": "MEDIDA",
+      "start": 983,
+      "end": 987
+    },
+    {
+      "text": "disminución en flujo cerebral (CBF)",
+      "type": "PATOLOGIA",
+      "start": 1180,
+      "end": 1215
+    },
+    {
+      "text": "ACM izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1281,
+      "end": 1294
+    },
+    {
+      "text": "TTP y Tmax",
+      "type": "MEDIDA",
+      "start": 1340,
+      "end": 1350
+    },
+    {
+      "text": "mismatch",
+      "type": "PATOLOGIA",
+      "start": 1373,
+      "end": 1381
+    },
+    {
+      "text": "sin estenosis crítica",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1648,
+      "end": 1669
+    },
+    {
+      "text": "hematoma intraparenquimatoso menor al 30% del volumen infartado",
+      "type": "PATOLOGIA",
+      "start": 1893,
+      "end": 1956
+    },
+    {
+      "text": "30%",
+      "type": "MEDIDA",
+      "start": 783,
+      "end": 786
+    },
+    {
+      "text": "penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1406,
+      "end": 1424
+    },
+    {
+      "text": "hemorragia subaracnoidea o intraventricular",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2045,
+      "end": 2088
+    }
+  ]
+}

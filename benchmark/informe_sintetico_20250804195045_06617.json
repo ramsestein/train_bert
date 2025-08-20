@@ -1,0 +1,83 @@
+{
+  "document_id": "informe_sintetico_20250804195045_06617",
+  "entities": [
+    {
+      "text": "hemorragia aguda",
+      "type": "PATOLOGIA",
+      "start": 443,
+      "end": 459
+    },
+    {
+      "text": "leucoaraiosis",
+      "type": "PATOLOGIA",
+      "start": 671,
+      "end": 684
+    },
+    {
+      "text": "isquémicas",
+      "type": "PATOLOGIA",
+      "start": 717,
+      "end": 727
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 540,
+      "end": 550
+    },
+    {
+      "text": "izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 624,
+      "end": 633
+    },
+    {
+      "text": "ACAs",
+      "type": "ARTERIA",
+      "start": 1225,
+      "end": 1229
+    },
+    {
+      "text": "ACMs",
+      "type": "ARTERIA",
+      "start": 1231,
+      "end": 1235
+    },
+    {
+      "text": "ACPs",
+      "type": "ARTERIA",
+      "start": 1238,
+      "end": 1242
+    },
+    {
+      "text": "sin signos de hemorragia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1457,
+      "end": 1481
+    },
+    {
+      "text": "sin alteraciones",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1021,
+      "end": 1037
+    },
+    {
+      "text": "sin evidencias de ateromatosis significativa ni estenosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1365,
+      "end": 1422
+    },
+    {
+      "text": "sin signos de hemorragia ni isquemia aguda",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1457,
+      "end": 1499
+    },
+    {
+      "text": "sin modificación con respecto a estudios previos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1580,
+      "end": 1628
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "document_id": "informe_sintetico_20250804195045_08705",
+  "entities": [
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 454,
+      "end": 477
+    },
+    {
+      "text": "hemorragia subaracnoidea",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 481,
+      "end": 505
+    },
+    {
+      "text": "infarto agudo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 572,
+      "end": 585
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 634,
+      "end": 644
+    },
+    {
+      "text": "gliosis periventricular",
+      "type": "PATOLOGIA",
+      "start": 812,
+      "end": 835
+    },
+    {
+      "text": "crónico",
+      "type": "TEMPORALIDAD",
+      "start": 848,
+      "end": 855
+    },
+    {
+      "text": "hipoperfusión",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1133,
+      "end": 1146
+    },
+    {
+      "text": "discordancias perfusionales significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1150,
+      "end": 1192
+    },
+    {
+      "text": "arterias intracraneales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 336,
+      "end": 359
+    },
+    {
+      "text": "ACAs",
+      "type": "ARTERIA",
+      "start": 1492,
+      "end": 1496
+    },
+    {
+      "text": "ACMs",
+      "type": "ARTERIA",
+      "start": 1498,
+      "end": 1502
+    },
+    {
+      "text": "ACPs",
+      "type": "ARTERIA",
+      "start": 1504,
+      "end": 1508
+    },
+    {
+      "text": "Sistema vertebrobasilar",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1557,
+      "end": 1580
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 634,
+      "end": 644
+    },
+    {
+      "text": "isquémicos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1715,
+      "end": 1725
+    },
+    {
+      "text": "hemorrágicos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1728,
+      "end": 1740
+    },
+    {
+      "text": "estenosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1368,
+      "end": 1377
+    },
+    {
+      "text": "alteraciones vasculares significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1816,
+      "end": 1854
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 268,
+      "end": 284
+    },
+    {
+      "text": "angio-TC de troncos supraórticos y arterias intracraneales",
+      "type": "TECNICA_IMAGEN",
+      "start": 301,
+      "end": 359
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 362,
+      "end": 383
+    }
+  ]
+}

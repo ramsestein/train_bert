@@ -1,0 +1,113 @@
+{
+  "document_id": "informe_sintetico_20250804195045_20613",
+  "entities": [
+    {
+      "text": "oclusión de arteria basilar",
+      "type": "PATOLOGIA",
+      "start": 328,
+      "end": 355
+    },
+    {
+      "text": "tronco encefálico",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 709,
+      "end": 726
+    },
+    {
+      "text": "mesencéfalo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 764,
+      "end": 775
+    },
+    {
+      "text": "cerebelo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1161,
+      "end": 1169
+    },
+    {
+      "text": "arteria basilar",
+      "type": "ARTERIA",
+      "start": 340,
+      "end": 355
+    },
+    {
+      "text": "bilateral",
+      "type": "LATERALIDAD",
+      "start": 259,
+      "end": 268
+    },
+    {
+      "text": "isquemia crítica",
+      "type": "PATOLOGIA",
+      "start": 1268,
+      "end": 1284
+    },
+    {
+      "text": "penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1337,
+      "end": 1355
+    },
+    {
+      "text": "oclusión completa",
+      "type": "PATOLOGIA",
+      "start": 2116,
+      "end": 2133
+    },
+    {
+      "text": "arteria basilar proximal",
+      "type": "ARTERIA",
+      "start": 1896,
+      "end": 1920
+    },
+    {
+      "text": "sin circulación colateral satisfactoria",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2134,
+      "end": 2173
+    },
+    {
+      "text": "sin estenosis significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1692,
+      "end": 1719
+    },
+    {
+      "text": "sin alteraciones significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 987,
+      "end": 1018
+    },
+    {
+      "text": "sin presencia de efecto de masa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 886,
+      "end": 917
+    },
+    {
+      "text": "No se identifican signos de hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 568,
+      "end": 619
+    },
+    {
+      "text": "técnicas avanzadas de perfusión y angiografía TC",
+      "type": "TECNICA_IMAGEN",
+      "start": 2256,
+      "end": 2304
+    },
+    {
+      "text": "TC CODIGO ICTUS (PERFUSION CEREBRAL + ANGIO-TC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 72,
+      "end": 141
+    },
+    {
+      "text": "aguda",
+      "type": "TEMPORALIDAD",
+      "start": 1887,
+      "end": 1892
+    }
+  ]
+}

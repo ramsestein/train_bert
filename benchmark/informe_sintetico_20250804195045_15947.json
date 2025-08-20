@@ -1,0 +1,107 @@
+{
+  "document_id": "informe_sintetico_20250804195045_15947",
+  "entities": [
+    {
+      "text": "infarto cerebral",
+      "type": "PATOLOGIA",
+      "start": 203,
+      "end": 219
+    },
+    {
+      "text": "ACM izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 237,
+      "end": 250
+    },
+    {
+      "text": "transformación hemorrágica",
+      "type": "PATOLOGIA",
+      "start": 264,
+      "end": 290
+    },
+    {
+      "text": "hemorragia petequial",
+      "type": "PATOLOGIA",
+      "start": 635,
+      "end": 655
+    },
+    {
+      "text": "HI1",
+      "type": "PUNTUACION_CLINICA",
+      "start": 671,
+      "end": 674
+    },
+    {
+      "text": "5 mm",
+      "type": "MEDIDA",
+      "start": 561,
+      "end": 565
+    },
+    {
+      "text": "infarto subagudo",
+      "type": "PATOLOGIA",
+      "start": 845,
+      "end": 861
+    },
+    {
+      "text": "parietal izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 597,
+      "end": 615
+    },
+    {
+      "text": "disminución focal",
+      "type": "PATOLOGIA",
+      "start": 1085,
+      "end": 1102
+    },
+    {
+      "text": "parietal izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 597,
+      "end": 615
+    },
+    {
+      "text": "infarto irreversible extenso",
+      "type": "PATOLOGIA",
+      "start": 1225,
+      "end": 1253
+    },
+    {
+      "text": "ACM izquierda",
+      "type": "ARTERIA",
+      "start": 237,
+      "end": 250
+    },
+    {
+      "text": "disminución del calibre distal",
+      "type": "PATOLOGIA",
+      "start": 1495,
+      "end": 1525
+    },
+    {
+      "text": "isquémica previa",
+      "type": "PATOLOGIA",
+      "start": 1549,
+      "end": 1565
+    },
+    {
+      "text": "revascularización reciente",
+      "type": "TEMPORALIDAD",
+      "start": 1568,
+      "end": 1594
+    },
+    {
+      "text": "sin oclusiones residuales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2023,
+      "end": 2048
+    },
+    {
+      "text": "sin estenosis significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1306,
+      "end": 1334
+    }
+  ]
+}

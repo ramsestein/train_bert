@@ -1,0 +1,77 @@
+{
+  "document_id": "informe_sintetico_20250804195045_20953",
+  "entities": [
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 220,
+      "end": 234
+    },
+    {
+      "text": "arteria cerebral posterior derecha",
+      "type": "ARTERIA",
+      "start": 252,
+      "end": 286
+    },
+    {
+      "text": "izquierdo",
+      "type": "LATERALIDAD",
+      "start": 197,
+      "end": 206
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 793,
+      "end": 803
+    },
+    {
+      "text": "prolongación del tiempo de tránsito medio (MTT)",
+      "type": "MEDIDA",
+      "start": 1002,
+      "end": 1049
+    },
+    {
+      "text": "tiempo hasta el pico (TTP)",
+      "type": "MEDIDA",
+      "start": 1052,
+      "end": 1078
+    },
+    {
+      "text": "disminuido",
+      "type": "PATOLOGIA",
+      "start": 1199,
+      "end": 1209
+    },
+    {
+      "text": "infarto agudo",
+      "type": "PATOLOGIA",
+      "start": 1375,
+      "end": 1388
+    },
+    {
+      "text": "Oclusión completa del segmento proximal de la arteria cerebral posterior derecha (P1)",
+      "type": "PATOLOGIA",
+      "start": 1429,
+      "end": 1514
+    },
+    {
+      "text": "No se visualizan estenosis significativas en otras arterias intracraneales ni extracraneales.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1516,
+      "end": 1609
+    },
+    {
+      "text": "Dominancia vascular izquierda",
+      "type": "LATERALIDAD",
+      "start": 1723,
+      "end": 1752
+    },
+    {
+      "text": "Ausencia de hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2015,
+      "end": 2050
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "document_id": "informe_sintetico_20250804195045_18186",
+  "entities": [
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 593,
+      "end": 607
+    },
+    {
+      "text": "territorio fronto-parietal derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 611,
+      "end": 645
+    },
+    {
+      "text": "ASPECTS 7",
+      "type": "PUNTUACION_CLINICA",
+      "start": 690,
+      "end": 699
+    },
+    {
+      "text": "3 mm",
+      "type": "MEDIDA",
+      "start": 854,
+      "end": 858
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "ARTERIA",
+      "start": 530,
+      "end": 560
+    },
+    {
+      "text": "ACM derecha",
+      "type": "ARTERIA",
+      "start": 1119,
+      "end": 1130
+    },
+    {
+      "text": "TTP",
+      "type": "TEMPORALIDAD",
+      "start": 1207,
+      "end": 1210
+    },
+    {
+      "text": "Tmax",
+      "type": "TEMPORALIDAD",
+      "start": 1229,
+      "end": 1233
+    },
+    {
+      "text": "segmento proximal M1",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1429,
+      "end": 1449
+    },
+    {
+      "text": "No se observa sangrado intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 785,
+      "end": 820
+    },
+    {
+      "text": "No se identifican otras estenosis ni aneurismas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1574,
+      "end": 1621
+    },
+    {
+      "text": "No signos de hemorragia ni otras lesiones",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2042,
+      "end": 2083
+    }
+  ]
+}

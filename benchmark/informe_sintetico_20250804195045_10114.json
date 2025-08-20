@@ -1,0 +1,101 @@
+{
+  "document_id": "informe_sintetico_20250804195045_10114",
+  "entities": [
+    {
+      "text": "hematoma lobar",
+      "type": "PATOLOGIA",
+      "start": 450,
+      "end": 464
+    },
+    {
+      "text": "región frontal izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 468,
+      "end": 492
+    },
+    {
+      "text": "35 x 28 x 22 mm",
+      "type": "MEDIDA",
+      "start": 510,
+      "end": 525
+    },
+    {
+      "text": "11 cc",
+      "type": "MEDIDA",
+      "start": 571,
+      "end": 576
+    },
+    {
+      "text": "edema vasogénico",
+      "type": "PATOLOGIA",
+      "start": 1311,
+      "end": 1327
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 685,
+      "end": 692
+    },
+    {
+      "text": "No se observan signos de ruptura hacia sistema ventricular",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 720,
+      "end": 778
+    },
+    {
+      "text": "No se detectan aneurismas ni lesiones vasculares que expliquen la hemorragia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1523,
+      "end": 1599
+    },
+    {
+      "text": "sustancia blanca periventricular",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1024,
+      "end": 1056
+    },
+    {
+      "text": "sin signos de herniación",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 694,
+      "end": 718
+    },
+    {
+      "text": "sin isquemia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1328,
+      "end": 1340
+    },
+    {
+      "text": "sin hallazgos patológicos vasculares asociados",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1835,
+      "end": 1881
+    },
+    {
+      "text": "edema vasogénico circundante",
+      "type": "PATOLOGIA",
+      "start": 1908,
+      "end": 1936
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 307,
+      "end": 323
+    },
+    {
+      "text": "perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 345,
+      "end": 363
+    },
+    {
+      "text": "angio-TC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 366,
+      "end": 396
+    }
+  ]
+}

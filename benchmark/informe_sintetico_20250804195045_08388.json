@@ -1,0 +1,59 @@
+{
+  "document_id": "informe_sintetico_20250804195045_08388",
+  "entities": [
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 516,
+      "end": 539
+    },
+    {
+      "text": "infarto agudo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 712,
+      "end": 725
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 1553,
+      "end": 1563
+    },
+    {
+      "text": "arterias carótidas internas",
+      "type": "ARTERIA",
+      "start": 1255,
+      "end": 1282
+    },
+    {
+      "text": "cerebrales anteriores",
+      "type": "ARTERIA",
+      "start": 1284,
+      "end": 1305
+    },
+    {
+      "text": "medias",
+      "type": "ARTERIA",
+      "start": 1307,
+      "end": 1313
+    },
+    {
+      "text": "posteriores",
+      "type": "ARTERIA",
+      "start": 1316,
+      "end": 1327
+    },
+    {
+      "text": "sistema vertebrobasilar",
+      "type": "ARTERIA",
+      "start": 1344,
+      "end": 1367
+    },
+    {
+      "text": "permeabilidad conservada",
+      "type": "PATOLOGIA",
+      "start": 1223,
+      "end": 1247
+    }
+  ]
+}

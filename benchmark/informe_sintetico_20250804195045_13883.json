@@ -1,0 +1,77 @@
+{
+  "document_id": "informe_sintetico_20250804195045_13883",
+  "entities": [
+    {
+      "text": "infarto lacunar",
+      "type": "PATOLOGIA",
+      "start": 222,
+      "end": 237
+    },
+    {
+      "text": "núcleo lenticular derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 540,
+      "end": 565
+    },
+    {
+      "text": "6 mm",
+      "type": "MEDIDA",
+      "start": 517,
+      "end": 521
+    },
+    {
+      "text": "agudo",
+      "type": "TEMPORALIDAD",
+      "start": 596,
+      "end": 601
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 755,
+      "end": 765
+    },
+    {
+      "text": "isquemia incipiente lacunar",
+      "type": "PATOLOGIA",
+      "start": 1133,
+      "end": 1160
+    },
+    {
+      "text": "núcleo lenticular derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 540,
+      "end": 565
+    },
+    {
+      "text": "carótidas internas",
+      "type": "ARTERIA",
+      "start": 1275,
+      "end": 1293
+    },
+    {
+      "text": "arterias cerebrales anteriores, medias y posteriores",
+      "type": "ARTERIA",
+      "start": 1296,
+      "end": 1348
+    },
+    {
+      "text": "sin estenosis ni trombosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1349,
+      "end": 1375
+    },
+    {
+      "text": "sin signos de hemorragia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1633,
+      "end": 1657
+    },
+    {
+      "text": "No se observan otras lesiones isquémicas ni hemorragias",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1744,
+      "end": 1799
+    }
+  ]
+}

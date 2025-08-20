@@ -1,0 +1,59 @@
+{
+  "document_id": "informe_sintetico_20250804195045_12120",
+  "entities": [
+    {
+      "text": "infarto isquémico agudo",
+      "type": "PATOLOGIA",
+      "start": 583,
+      "end": 606
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 535,
+      "end": 567
+    },
+    {
+      "text": "ACM",
+      "type": "ARTERIA",
+      "start": 1393,
+      "end": 1396
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 558,
+      "end": 567
+    },
+    {
+      "text": "5 mm",
+      "type": "MEDIDA",
+      "start": 1121,
+      "end": 1125
+    },
+    {
+      "text": "agudo",
+      "type": "TEMPORALIDAD",
+      "start": 601,
+      "end": 606
+    },
+    {
+      "text": "PH2",
+      "type": "PUNTUACION_CLINICA",
+      "start": 873,
+      "end": 876
+    },
+    {
+      "text": "TC craneal sin contraste",
+      "type": "TECNICA_IMAGEN",
+      "start": 314,
+      "end": 338
+    },
+    {
+      "text": "No se aprecian aneurismas ni malformaciones arteriovenosas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1852,
+      "end": 1910
+    }
+  ]
+}

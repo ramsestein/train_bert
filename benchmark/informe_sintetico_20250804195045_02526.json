@@ -1,0 +1,65 @@
+{
+  "document_id": "informe_sintetico_20250804195045_02526",
+  "entities": [
+    {
+      "text": "hematoma subdural agudo",
+      "type": "PATOLOGIA",
+      "start": 501,
+      "end": 524
+    },
+    {
+      "text": "frontoparietal derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 462,
+      "end": 484
+    },
+    {
+      "text": "12 mm",
+      "type": "MEDIDA",
+      "start": 551,
+      "end": 556
+    },
+    {
+      "text": "7 mm",
+      "type": "MEDIDA",
+      "start": 660,
+      "end": 664
+    },
+    {
+      "text": "agudo",
+      "type": "TEMPORALIDAD",
+      "start": 519,
+      "end": 524
+    },
+    {
+      "text": "hemisferio derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1083,
+      "end": 1101
+    },
+    {
+      "text": "sin evidencia de infarto establecido",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1163,
+      "end": 1199
+    },
+    {
+      "text": "sin oclusiones ni estenosis significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1267,
+      "end": 1309
+    },
+    {
+      "text": "sin lesiones isquémicas ni compromiso vascular arterial intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2035,
+      "end": 2103
+    },
+    {
+      "text": "monitorización hemodinámica continua",
+      "type": "TECNICA_IMAGEN",
+      "start": 1846,
+      "end": 1882
+    }
+  ]
+}

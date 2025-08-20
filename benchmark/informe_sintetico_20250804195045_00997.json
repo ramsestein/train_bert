@@ -1,0 +1,95 @@
+{
+  "document_id": "informe_sintetico_20250804195045_00997",
+  "entities": [
+    {
+      "text": "infarto cerebral",
+      "type": "PATOLOGIA",
+      "start": 180,
+      "end": 196
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 217,
+      "end": 247
+    },
+    {
+      "text": "arteria cerebral media",
+      "type": "ARTERIA",
+      "start": 217,
+      "end": 239
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 240,
+      "end": 247
+    },
+    {
+      "text": "5 mm",
+      "type": "MEDIDA",
+      "start": 785,
+      "end": 789
+    },
+    {
+      "text": "más del 30%",
+      "type": "MEDIDA",
+      "start": 914,
+      "end": 925
+    },
+    {
+      "text": "PH2",
+      "type": "PATOLOGIA",
+      "start": 900,
+      "end": 903
+    },
+    {
+      "text": "hemorragias extraaxiales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 995,
+      "end": 1019
+    },
+    {
+      "text": "MTT",
+      "type": "PATOLOGIA",
+      "start": 1156,
+      "end": 1159
+    },
+    {
+      "text": "CBF",
+      "type": "PATOLOGIA",
+      "start": 1195,
+      "end": 1198
+    },
+    {
+      "text": "segmento M1 proximal de la arteria cerebral media derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1371,
+      "end": 1428
+    },
+    {
+      "text": "colaterales leptomeníngeos moderados",
+      "type": "PATOLOGIA",
+      "start": 1444,
+      "end": 1480
+    },
+    {
+      "text": "estenosis significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1500,
+      "end": 1524
+    },
+    {
+      "text": "bifurcación carotídea derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1593,
+      "end": 1622
+    },
+    {
+      "text": "sin estenosis significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1623,
+      "end": 1650
+    }
+  ]
+}

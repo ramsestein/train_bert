@@ -1,0 +1,199 @@
+{
+  "document_id": "informe_sintetico_20250804195045_04664",
+  "entities": [
+    {
+      "text": "cefalea",
+      "type": "PATOLOGIA",
+      "start": 179,
+      "end": 186
+    },
+    {
+      "text": "síncope",
+      "type": "PATOLOGIA",
+      "start": 196,
+      "end": 203
+    },
+    {
+      "text": "focalidad neurológica",
+      "type": "PATOLOGIA",
+      "start": 209,
+      "end": 230
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 260,
+      "end": 276
+    },
+    {
+      "text": "perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 297,
+      "end": 315
+    },
+    {
+      "text": "angiografía TC arterial intra y extracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 318,
+      "end": 362
+    },
+    {
+      "text": "parénquima cerebral",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 413,
+      "end": 432
+    },
+    {
+      "text": "córtico-subcortical",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 461,
+      "end": 480
+    },
+    {
+      "text": "cisternas supratentoriales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 568,
+      "end": 594
+    },
+    {
+      "text": "sistema ventricular",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 728,
+      "end": 747
+    },
+    {
+      "text": "línea media",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 811,
+      "end": 822
+    },
+    {
+      "text": "índice ASPECTS",
+      "type": "PUNTUACION_CLINICA",
+      "start": 827,
+      "end": 841
+    },
+    {
+      "text": "10",
+      "type": "MEDIDA",
+      "start": 848,
+      "end": 850
+    },
+    {
+      "text": "TC PERFUSIÓN",
+      "type": "TECNICA_IMAGEN",
+      "start": 913,
+      "end": 925
+    },
+    {
+      "text": "Mapas de flujo cerebral",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 927,
+      "end": 950
+    },
+    {
+      "text": "volumen",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 952,
+      "end": 959
+    },
+    {
+      "text": "tiempo medio de tránsito",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 961,
+      "end": 985
+    },
+    {
+      "text": "tiempo hasta el pico",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 988,
+      "end": 1008
+    },
+    {
+      "text": "angiografía TC",
+      "type": "TECNICA_IMAGEN",
+      "start": 318,
+      "end": 332
+    },
+    {
+      "text": "supraaórticas",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1163,
+      "end": 1176
+    },
+    {
+      "text": "circulación arterial intracraneal",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1291,
+      "end": 1324
+    },
+    {
+      "text": "patrón anatómico habitual",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1334,
+      "end": 1359
+    },
+    {
+      "text": "flujo simétrico",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1365,
+      "end": 1380
+    },
+    {
+      "text": "malformaciones vasculares",
+      "type": "PATOLOGIA",
+      "start": 1401,
+      "end": 1426
+    },
+    {
+      "text": "hallazgos agudos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1482,
+      "end": 1498
+    },
+    {
+      "text": "sistema ventricular sin alteraciones",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1522,
+      "end": 1558
+    },
+    {
+      "text": "perfusión cerebral normal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1043,
+      "end": 1068
+    },
+    {
+      "text": "zonas de isquemia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1590,
+      "end": 1607
+    },
+    {
+      "text": "hipoperfusión",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 865,
+      "end": 878
+    },
+    {
+      "text": "signos de enfermedad vascular obstructiva",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1644,
+      "end": 1685
+    },
+    {
+      "text": "aneurismas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1276,
+      "end": 1286
+    },
+    {
+      "text": "valoración neurológica",
+      "type": "TEMPORALIDAD",
+      "start": 1758,
+      "end": 1780
+    }
+  ],
+  "regenerado": true,
+  "fecha_regeneracion": "2025-08-06T12:27:15.754149"
+}

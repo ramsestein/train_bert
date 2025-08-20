@@ -1,0 +1,169 @@
+{
+  "document_id": "informe_sintetico_20250804195045_10111",
+  "entities": [
+    {
+      "text": "infarto cerebral",
+      "type": "PATOLOGIA",
+      "start": 194,
+      "end": 210
+    },
+    {
+      "text": "deterioro neurológico progresivo",
+      "type": "PATOLOGIA",
+      "start": 258,
+      "end": 290
+    },
+    {
+      "text": "lesión hiperdensa heterogénea",
+      "type": "PATOLOGIA",
+      "start": 455,
+      "end": 484
+    },
+    {
+      "text": "transformación hemorrágica parenquimatosa tipo PH2",
+      "type": "PATOLOGIA",
+      "start": 585,
+      "end": 635
+    },
+    {
+      "text": "edema perilesional significativo",
+      "type": "PATOLOGIA",
+      "start": 648,
+      "end": 680
+    },
+    {
+      "text": "hipodensidad circundante",
+      "type": "PATOLOGIA",
+      "start": 764,
+      "end": 788
+    },
+    {
+      "text": "infarto isquémico subagudo",
+      "type": "PATOLOGIA",
+      "start": 804,
+      "end": 830
+    },
+    {
+      "text": "lesión hiperdensa heterogénea",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 455,
+      "end": 484
+    },
+    {
+      "text": "territorio de arteria cerebral media derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 488,
+      "end": 532
+    },
+    {
+      "text": "sustancia blanca periventricular y subcortical",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1009,
+      "end": 1055
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "ARTERIA",
+      "start": 502,
+      "end": 532
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "ARTERIA",
+      "start": 502,
+      "end": 532
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 525,
+      "end": 532
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 739,
+      "end": 748
+    },
+    {
+      "text": "25 cc",
+      "type": "MEDIDA",
+      "start": 563,
+      "end": 568
+    },
+    {
+      "text": "6 mm",
+      "type": "MEDIDA",
+      "start": 728,
+      "end": 732
+    },
+    {
+      "text": "marcada",
+      "type": "TEMPORALIDAD",
+      "start": 1116,
+      "end": 1123
+    },
+    {
+      "text": "significativo",
+      "type": "TEMPORALIDAD",
+      "start": 667,
+      "end": 680
+    },
+    {
+      "text": "prolongación del tiempo de tránsito medio",
+      "type": "TEMPORALIDAD",
+      "start": 1231,
+      "end": 1272
+    },
+    {
+      "text": "tiempo hasta el pico",
+      "type": "TEMPORALIDAD",
+      "start": 1281,
+      "end": 1301
+    },
+    {
+      "text": "sin signos evidentes de hidrocefalia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 881,
+      "end": 917
+    },
+    {
+      "text": "sin estenosis significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1490,
+      "end": 1518
+    },
+    {
+      "text": "sin estenosis ni anomalías hemodinámicas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1621,
+      "end": 1661
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 311,
+      "end": 327
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 349,
+      "end": 370
+    },
+    {
+      "text": "angio-TC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 372,
+      "end": 402
+    },
+    {
+      "text": "TC CODIGO ICTUS",
+      "type": "TECNICA_IMAGEN",
+      "start": 72,
+      "end": 87
+    }
+  ],
+  "regenerado": true,
+  "fecha_regeneracion": "2025-08-06T17:19:53.497886"
+}

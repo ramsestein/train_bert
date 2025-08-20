@@ -1,0 +1,143 @@
+{
+  "document_id": "informe_sintetico_20250804195045_02766",
+  "entities": [
+    {
+      "text": "accidente cerebrovascular isquémico",
+      "type": "PATOLOGIA",
+      "start": 201,
+      "end": 236
+    },
+    {
+      "text": "foco hiperdenso puntiforme",
+      "type": "PATOLOGIA",
+      "start": 532,
+      "end": 558
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 579,
+      "end": 611
+    },
+    {
+      "text": "transformación hemorrágica tipo HI1",
+      "type": "PATOLOGIA",
+      "start": 627,
+      "end": 662
+    },
+    {
+      "text": "área hipodensa subaguda",
+      "type": "PATOLOGIA",
+      "start": 729,
+      "end": 752
+    },
+    {
+      "text": "infarto reciente",
+      "type": "PATOLOGIA",
+      "start": 798,
+      "end": 814
+    },
+    {
+      "text": "ASPECTS 8",
+      "type": "PUNTUACION_CLINICA",
+      "start": 899,
+      "end": 908
+    },
+    {
+      "text": "aumento focal del tiempo de tránsito medio (TTP)",
+      "type": "PATOLOGIA",
+      "start": 1113,
+      "end": 1161
+    },
+    {
+      "text": "retraso en el Tmax",
+      "type": "PATOLOGIA",
+      "start": 1164,
+      "end": 1182
+    },
+    {
+      "text": "reducción moderada del volumen cerebral sanguíneo (CBV)",
+      "type": "PATOLOGIA",
+      "start": 1211,
+      "end": 1266
+    },
+    {
+      "text": "flujo cerebral sanguíneo (CBF)",
+      "type": "PATOLOGIA",
+      "start": 1269,
+      "end": 1299
+    },
+    {
+      "text": "área isquémica subaguda",
+      "type": "PATOLOGIA",
+      "start": 1316,
+      "end": 1339
+    },
+    {
+      "text": "ausencia de flujo en segmentos distales",
+      "type": "PATOLOGIA",
+      "start": 1812,
+      "end": 1851
+    },
+    {
+      "text": "oclusión secundaria a trombosis",
+      "type": "PATOLOGIA",
+      "start": 1867,
+      "end": 1898
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 579,
+      "end": 611
+    },
+    {
+      "text": "hemorragias masivas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2130,
+      "end": 2149
+    },
+    {
+      "text": "efecto de masa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 688,
+      "end": 702
+    },
+    {
+      "text": "estenosis significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2260,
+      "end": 2283
+    },
+    {
+      "text": "troncos supraaórticos",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 2287,
+      "end": 2308
+    },
+    {
+      "text": "arterias intracraneales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 2311,
+      "end": 2334
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 370,
+      "end": 386
+    },
+    {
+      "text": "estudio de perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 388,
+      "end": 417
+    },
+    {
+      "text": "angiografía por TC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 420,
+      "end": 460
+    }
+  ]
+}

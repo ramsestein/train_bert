@@ -1,0 +1,131 @@
+{
+  "document_id": "informe_sintetico_20250804195045_07616",
+  "entities": [
+    {
+      "text": "hemiparesia derecha",
+      "type": "PATOLOGIA",
+      "start": 217,
+      "end": 236
+    },
+    {
+      "text": "afasia de instauración súbita",
+      "type": "PATOLOGIA",
+      "start": 239,
+      "end": 268
+    },
+    {
+      "text": "disección arterial carotídea",
+      "type": "PATOLOGIA",
+      "start": 290,
+      "end": 318
+    },
+    {
+      "text": "infarto isquémico subagudo",
+      "type": "PATOLOGIA",
+      "start": 713,
+      "end": 739
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 608,
+      "end": 640
+    },
+    {
+      "text": "núcleo lenticular",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 660,
+      "end": 677
+    },
+    {
+      "text": "cápsula interna",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 680,
+      "end": 695
+    },
+    {
+      "text": "ASPECTS 7/10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 862,
+      "end": 874
+    },
+    {
+      "text": "aumento del tiempo de tránsito medio (TTP)",
+      "type": "PATOLOGIA",
+      "start": 1048,
+      "end": 1090
+    },
+    {
+      "text": "disminución del flujo cerebral (CBF)",
+      "type": "PATOLOGIA",
+      "start": 1093,
+      "end": 1129
+    },
+    {
+      "text": "déficit de volumen cerebral (CBV)",
+      "type": "PATOLOGIA",
+      "start": 1169,
+      "end": 1202
+    },
+    {
+      "text": "infarto con penumbra isquémica adyacente",
+      "type": "PATOLOGIA",
+      "start": 1249,
+      "end": 1289
+    },
+    {
+      "text": "irregularidad y estrechamiento segmentario",
+      "type": "PATOLOGIA",
+      "start": 1338,
+      "end": 1380
+    },
+    {
+      "text": "arteria carótida interna izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1406,
+      "end": 1440
+    },
+    {
+      "text": "ACM izquierda",
+      "type": "ARTERIA",
+      "start": 1150,
+      "end": 1163
+    },
+    {
+      "text": "No hay edema cerebral significativo ni efecto de masa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 965,
+      "end": 1018
+    },
+    {
+      "text": "No se hallan otras estenosis significativas en los vasos supraaórticos ni intracraneales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1668,
+      "end": 1756
+    },
+    {
+      "text": "No se observan hemorragias intracraneales ni edema cerebral grave",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2040,
+      "end": 2105
+    },
+    {
+      "text": "TC craneal basal sin contraste",
+      "type": "TECNICA_IMAGEN",
+      "start": 339,
+      "end": 369
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 372,
+      "end": 393
+    },
+    {
+      "text": "Angio-TC de arterias intracraneales y troncos supraaórticos",
+      "type": "TECNICA_IMAGEN",
+      "start": 396,
+      "end": 455
+    }
+  ]
+}

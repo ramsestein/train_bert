@@ -1,0 +1,83 @@
+{
+  "document_id": "informe_sintetico_20250804195045_19744",
+  "entities": [
+    {
+      "text": "infarto cerebral",
+      "type": "PATOLOGIA",
+      "start": 179,
+      "end": 195
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 225,
+      "end": 257
+    },
+    {
+      "text": "infarto cerebral subagudo",
+      "type": "PATOLOGIA",
+      "start": 620,
+      "end": 645
+    },
+    {
+      "text": "transformación hemorrágica tipo HI2",
+      "type": "PATOLOGIA",
+      "start": 660,
+      "end": 695
+    },
+    {
+      "text": "múltiples focos hemorrágicos hiperdensos",
+      "type": "PATOLOGIA",
+      "start": 715,
+      "end": 755
+    },
+    {
+      "text": "15 cc",
+      "type": "MEDIDA",
+      "start": 888,
+      "end": 893
+    },
+    {
+      "text": "oclusión persistente del segmento M1",
+      "type": "PATOLOGIA",
+      "start": 1275,
+      "end": 1311
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 225,
+      "end": 257
+    },
+    {
+      "text": "sin estenosis significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2552,
+      "end": 2580
+    },
+    {
+      "text": "TC craneal basal inmediato",
+      "type": "TECNICA_IMAGEN",
+      "start": 321,
+      "end": 347
+    },
+    {
+      "text": "perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 350,
+      "end": 368
+    },
+    {
+      "text": "angio-TC arterial intracraneal urgente",
+      "type": "TECNICA_IMAGEN",
+      "start": 371,
+      "end": 409
+    },
+    {
+      "text": "24-48 horas",
+      "type": "TEMPORALIDAD",
+      "start": 2003,
+      "end": 2014
+    }
+  ]
+}

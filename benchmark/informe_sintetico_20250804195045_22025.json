@@ -1,0 +1,95 @@
+{
+  "document_id": "informe_sintetico_20250804195045_22025",
+  "entities": [
+    {
+      "text": "hemorragia subaracnoidea focal reciente",
+      "type": "PATOLOGIA",
+      "start": 513,
+      "end": 552
+    },
+    {
+      "text": "cisterna silviana derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 471,
+      "end": 496
+    },
+    {
+      "text": "hemorragias intraventriculares",
+      "type": "PATOLOGIA",
+      "start": 600,
+      "end": 630
+    },
+    {
+      "text": "sangre focal",
+      "type": "PATOLOGIA",
+      "start": 878,
+      "end": 890
+    },
+    {
+      "text": "isquemia cerebral",
+      "type": "PATOLOGIA",
+      "start": 1007,
+      "end": 1024
+    },
+    {
+      "text": "aneurisma sacular",
+      "type": "PATOLOGIA",
+      "start": 1100,
+      "end": 1117
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "ARTERIA",
+      "start": 1147,
+      "end": 1177
+    },
+    {
+      "text": "5 mm",
+      "type": "MEDIDA",
+      "start": 1209,
+      "end": 1213
+    },
+    {
+      "text": "ACM derecha",
+      "type": "ARTERIA",
+      "start": 1537,
+      "end": 1548
+    },
+    {
+      "text": "No se evidencian hematomas intracerebrales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 554,
+      "end": 596
+    },
+    {
+      "text": "No signos de fractura ósea ni desplazamientos significativos de la línea media",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 689,
+      "end": 767
+    },
+    {
+      "text": "No se observan vasoespasmos significativos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1367,
+      "end": 1409
+    },
+    {
+      "text": "TC CRANEAL BASAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 282,
+      "end": 298
+    },
+    {
+      "text": "TC PERFUSIÓN",
+      "type": "TECNICA_IMAGEN",
+      "start": 915,
+      "end": 927
+    },
+    {
+      "text": "ANGIO-TC EXTRA E INTRACRANEAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 1053,
+      "end": 1082
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "document_id": "informe_sintetico_20250804195045_06045",
+  "entities": [
+    {
+      "text": "trombosis venosa cerebral",
+      "type": "PATOLOGIA",
+      "start": 284,
+      "end": 309
+    },
+    {
+      "text": "edema cortical",
+      "type": "PATOLOGIA",
+      "start": 562,
+      "end": 576
+    },
+    {
+      "text": "región frontal bilateral",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 580,
+      "end": 604
+    },
+    {
+      "text": "sustancia blanca frontal derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 693,
+      "end": 725
+    },
+    {
+      "text": "congestión venosa",
+      "type": "PATOLOGIA",
+      "start": 912,
+      "end": 929
+    },
+    {
+      "text": "edema",
+      "type": "PATOLOGIA",
+      "start": 562,
+      "end": 567
+    },
+    {
+      "text": "seno sagital superior",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 991,
+      "end": 1012
+    },
+    {
+      "text": "seno longitudinal inferior medial",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1019,
+      "end": 1052
+    },
+    {
+      "text": "ausencia de flujo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1058,
+      "end": 1075
+    },
+    {
+      "text": "No se evidencian hemorragias intraparenquimatosas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 472,
+      "end": 521
+    },
+    {
+      "text": "No hay desplazamiento de línea media ni signos de herniación",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 606,
+      "end": 666
+    },
+    {
+      "text": "Arterias cerebrales permeables sin estenosis ni oclusiones",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1245,
+      "end": 1303
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 330,
+      "end": 346
+    },
+    {
+      "text": "TC PERFUSIÓN",
+      "type": "TECNICA_IMAGEN",
+      "start": 728,
+      "end": 740
+    },
+    {
+      "text": "ANGIO-TC VENOSO",
+      "type": "TECNICA_IMAGEN",
+      "start": 940,
+      "end": 955
+    },
+    {
+      "text": "TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANG IOTC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 72,
+      "end": 140
+    }
+  ]
+}

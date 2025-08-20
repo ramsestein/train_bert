@@ -1,0 +1,95 @@
+{
+  "document_id": "informe_sintetico_20250804195045_07910",
+  "entities": [
+    {
+      "text": "infarto isquémico agudo",
+      "type": "PATOLOGIA",
+      "start": 682,
+      "end": 705
+    },
+    {
+      "text": "región fronto-parietal derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 566,
+      "end": 596
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "ARTERIA",
+      "start": 723,
+      "end": 753
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 287,
+      "end": 294
+    },
+    {
+      "text": "ASPECTS 7",
+      "type": "PUNTUACION_CLINICA",
+      "start": 902,
+      "end": 911
+    },
+    {
+      "text": "infarto isquémico agudo",
+      "type": "PATOLOGIA",
+      "start": 682,
+      "end": 705
+    },
+    {
+      "text": "ASPECTS 7",
+      "type": "PUNTUACION_CLINICA",
+      "start": 902,
+      "end": 911
+    },
+    {
+      "text": "disección arterial",
+      "type": "PATOLOGIA",
+      "start": 258,
+      "end": 276
+    },
+    {
+      "text": "arteria carótida interna derecha",
+      "type": "ARTERIA",
+      "start": 1450,
+      "end": 1482
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 287,
+      "end": 294
+    },
+    {
+      "text": "hemorragias intracraneales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 770,
+      "end": 796
+    },
+    {
+      "text": "hemorragias agregadas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2282,
+      "end": 2303
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 368,
+      "end": 384
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 387,
+      "end": 408
+    },
+    {
+      "text": "angioTC extra e intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 411,
+      "end": 439
+    }
+  ]
+}

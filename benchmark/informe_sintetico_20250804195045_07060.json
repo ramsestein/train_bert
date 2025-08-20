@@ -1,0 +1,125 @@
+{
+  "document_id": "informe_sintetico_20250804195045_07060",
+  "entities": [
+    {
+      "text": "isquémico",
+      "type": "PATOLOGIA",
+      "start": 448,
+      "end": 457
+    },
+    {
+      "text": "hemorrágico",
+      "type": "PATOLOGIA",
+      "start": 460,
+      "end": 471
+    },
+    {
+      "text": "edema",
+      "type": "PATOLOGIA",
+      "start": 500,
+      "end": 505
+    },
+    {
+      "text": "efecto de masa",
+      "type": "PATOLOGIA",
+      "start": 510,
+      "end": 524
+    },
+    {
+      "text": "hidrocefalia",
+      "type": "PATOLOGIA",
+      "start": 679,
+      "end": 691
+    },
+    {
+      "text": "atrofia cerebral",
+      "type": "PATOLOGIA",
+      "start": 790,
+      "end": 806
+    },
+    {
+      "text": "isquemia",
+      "type": "PATOLOGIA",
+      "start": 1070,
+      "end": 1078
+    },
+    {
+      "text": "hipoperfusión",
+      "type": "PATOLOGIA",
+      "start": 957,
+      "end": 970
+    },
+    {
+      "text": "arterias cerebrales media",
+      "type": "ARTERIA",
+      "start": 1182,
+      "end": 1207
+    },
+    {
+      "text": "simétrica",
+      "type": "LATERALIDAD",
+      "start": 549,
+      "end": 558
+    },
+    {
+      "text": "simétrica",
+      "type": "LATERALIDAD",
+      "start": 549,
+      "end": 558
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 1630,
+      "end": 1640
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 226,
+      "end": 242
+    },
+    {
+      "text": "perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 279,
+      "end": 297
+    },
+    {
+      "text": "Angio-TC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 300,
+      "end": 330
+    },
+    {
+      "text": "No se observan áreas de hipodensidad",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 371,
+      "end": 407
+    },
+    {
+      "text": "No hay evidencias de edema",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 479,
+      "end": 505
+    },
+    {
+      "text": "sin signos de hidrocefalia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 665,
+      "end": 691
+    },
+    {
+      "text": "sin signos de isquemia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1056,
+      "end": 1078
+    },
+    {
+      "text": "sin evidencia de isquemia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1690,
+      "end": 1715
+    }
+  ]
+}

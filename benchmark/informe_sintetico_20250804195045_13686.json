@@ -1,0 +1,77 @@
+{
+  "document_id": "informe_sintetico_20250804195045_13686",
+  "entities": [
+    {
+      "text": "hemorragia aguda",
+      "type": "PATOLOGIA",
+      "start": 564,
+      "end": 580
+    },
+    {
+      "text": "infarto cerebral reciente",
+      "type": "PATOLOGIA",
+      "start": 584,
+      "end": 609
+    },
+    {
+      "text": "atrofia cortical leve a moderada",
+      "type": "PATOLOGIA",
+      "start": 684,
+      "end": 716
+    },
+    {
+      "text": "cambios crónicos",
+      "type": "TEMPORALIDAD",
+      "start": 828,
+      "end": 844
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 847,
+      "end": 857
+    },
+    {
+      "text": "cambios microangiopáticos crónicos",
+      "type": "PATOLOGIA",
+      "start": 1148,
+      "end": 1182
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 1343,
+      "end": 1357
+    },
+    {
+      "text": "sin estenosis ni oclusiones",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1456,
+      "end": 1483
+    },
+    {
+      "text": "sin evidencia de placas significativas ni malformaciones vasculares",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1612,
+      "end": 1679
+    },
+    {
+      "text": "sin hallazgos de patología aguda",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1721,
+      "end": 1753
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 847,
+      "end": 857
+    },
+    {
+      "text": "sin estenosis significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1923,
+      "end": 1951
+    }
+  ]
+}

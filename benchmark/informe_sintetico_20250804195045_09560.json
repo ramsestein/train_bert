@@ -1,0 +1,119 @@
+{
+  "document_id": "informe_sintetico_20250804195045_09560",
+  "entities": [
+    {
+      "text": "isquemia vertebrobasilar aguda",
+      "type": "PATOLOGIA",
+      "start": 270,
+      "end": 300
+    },
+    {
+      "text": "edema isquémico agudo",
+      "type": "PATOLOGIA",
+      "start": 688,
+      "end": 709
+    },
+    {
+      "text": "territorio del sistema vertebrobasilar",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1008,
+      "end": 1046
+    },
+    {
+      "text": "protuberancia",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 633,
+      "end": 646
+    },
+    {
+      "text": "cerebelo hemisférico derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1081,
+      "end": 1109
+    },
+    {
+      "text": "tronco encefálico",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1131,
+      "end": 1148
+    },
+    {
+      "text": "arteria vertebral derecha",
+      "type": "ARTERIA",
+      "start": 1604,
+      "end": 1629
+    },
+    {
+      "text": "arteria basilar",
+      "type": "ARTERIA",
+      "start": 1757,
+      "end": 1772
+    },
+    {
+      "text": "oclusión completa",
+      "type": "PATOLOGIA",
+      "start": 1564,
+      "end": 1581
+    },
+    {
+      "text": "estenosis moderada",
+      "type": "PATOLOGIA",
+      "start": 1699,
+      "end": 1717
+    },
+    {
+      "text": "flujo reducido",
+      "type": "PATOLOGIA",
+      "start": 1777,
+      "end": 1791
+    },
+    {
+      "text": "estenosis crítica",
+      "type": "PATOLOGIA",
+      "start": 1794,
+      "end": 1811
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 1981,
+      "end": 1995
+    },
+    {
+      "text": "isquémico potencialmente recuperable",
+      "type": "PATOLOGIA",
+      "start": 2135,
+      "end": 2171
+    },
+    {
+      "text": "sin estenosis significativas ni placas que condicionen flujo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1480,
+      "end": 1540
+    },
+    {
+      "text": "sin hallazgos patológicos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1889,
+      "end": 1914
+    },
+    {
+      "text": "TC Basal + TC Perfusión + AngioTC de troncos supraórticos e intracraneales",
+      "type": "TECNICA_IMAGEN",
+      "start": 386,
+      "end": 460
+    },
+    {
+      "text": "TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANG IOTC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 72,
+      "end": 140
+    },
+    {
+      "text": "TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANGIOTC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 2780,
+      "end": 2847
+    }
+  ]
+}

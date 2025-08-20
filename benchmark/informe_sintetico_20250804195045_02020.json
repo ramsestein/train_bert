@@ -1,0 +1,77 @@
+{
+  "document_id": "informe_sintetico_20250804195045_02020",
+  "entities": [
+    {
+      "text": "ictus isquémico",
+      "type": "PATOLOGIA",
+      "start": 220,
+      "end": 235
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 776,
+      "end": 790
+    },
+    {
+      "text": "arteria cerebral posterior derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 608,
+      "end": 642
+    },
+    {
+      "text": "segmento P2",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1220,
+      "end": 1231
+    },
+    {
+      "text": "arteria cerebral posterior derecha",
+      "type": "ARTERIA",
+      "start": 608,
+      "end": 642
+    },
+    {
+      "text": "ACP",
+      "type": "ARTERIA",
+      "start": 1051,
+      "end": 1054
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 635,
+      "end": 642
+    },
+    {
+      "text": "aguda",
+      "type": "TEMPORALIDAD",
+      "start": 785,
+      "end": 790
+    },
+    {
+      "text": "sin infarto establecido",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1704,
+      "end": 1727
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 305,
+      "end": 321
+    },
+    {
+      "text": "TC PERFUSIÓN",
+      "type": "TECNICA_IMAGEN",
+      "start": 866,
+      "end": 878
+    },
+    {
+      "text": "ANGIO-TC EXTRA E INTRACRANEAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 1166,
+      "end": 1195
+    }
+  ]
+}

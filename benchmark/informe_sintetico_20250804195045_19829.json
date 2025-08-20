@@ -1,0 +1,155 @@
+{
+  "document_id": "informe_sintetico_20250804195045_19829",
+  "entities": [
+    {
+      "text": "ictus isquémico",
+      "type": "PATOLOGIA",
+      "start": 306,
+      "end": 321
+    },
+    {
+      "text": "tallo cerebral",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 270,
+      "end": 284
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 352,
+      "end": 368
+    },
+    {
+      "text": "hemorragia intraparenquimal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 627,
+      "end": 654
+    },
+    {
+      "text": "masas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 684,
+      "end": 689
+    },
+    {
+      "text": "edema cerebral difuso",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 693,
+      "end": 714
+    },
+    {
+      "text": "infarto agudo",
+      "type": "PATOLOGIA",
+      "start": 805,
+      "end": 818
+    },
+    {
+      "text": "ASPECTS posterior no aplicable",
+      "type": "PUNTUACION_CLINICA",
+      "start": 843,
+      "end": 873
+    },
+    {
+      "text": "flujo cerebral (CBF)",
+      "type": "MEDIDA",
+      "start": 928,
+      "end": 948
+    },
+    {
+      "text": "volumen cerebral (CBV)",
+      "type": "MEDIDA",
+      "start": 951,
+      "end": 973
+    },
+    {
+      "text": "tallo cerebral",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 270,
+      "end": 284
+    },
+    {
+      "text": "tronco basilar",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1037,
+      "end": 1051
+    },
+    {
+      "text": "tiempo máximo de tránsito (TMAX)",
+      "type": "MEDIDA",
+      "start": 1069,
+      "end": 1101
+    },
+    {
+      "text": "isquemia",
+      "type": "PATOLOGIA",
+      "start": 1157,
+      "end": 1165
+    },
+    {
+      "text": "oclusión completa",
+      "type": "PATOLOGIA",
+      "start": 1202,
+      "end": 1219
+    },
+    {
+      "text": "arteria basilar",
+      "type": "ARTERIA",
+      "start": 1226,
+      "end": 1241
+    },
+    {
+      "text": "segmento proximal",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1248,
+      "end": 1265
+    },
+    {
+      "text": "flujo distal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1271,
+      "end": 1283
+    },
+    {
+      "text": "permeabilidad",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1360,
+      "end": 1373
+    },
+    {
+      "text": "aneurismas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1412,
+      "end": 1422
+    },
+    {
+      "text": "malformaciones vasculares",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1426,
+      "end": 1451
+    },
+    {
+      "text": "isquemia",
+      "type": "PATOLOGIA",
+      "start": 1157,
+      "end": 1165
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1640,
+      "end": 1663
+    },
+    {
+      "text": "Oclusión proximal de arteria basilar",
+      "type": "PATOLOGIA",
+      "start": 1952,
+      "end": 1988
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1640,
+      "end": 1663
+    }
+  ]
+}

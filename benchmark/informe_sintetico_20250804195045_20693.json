@@ -1,0 +1,113 @@
+{
+  "document_id": "informe_sintetico_20250804195045_20693",
+  "entities": [
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 518,
+      "end": 541
+    },
+    {
+      "text": "lesiones isquémicas recientes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 545,
+      "end": 574
+    },
+    {
+      "text": "discreta pérdida de volumen encefálico",
+      "type": "PATOLOGIA",
+      "start": 740,
+      "end": 778
+    },
+    {
+      "text": "cambios crónicos de tipo involutivo y envejecimiento cerebral",
+      "type": "PATOLOGIA",
+      "start": 870,
+      "end": 931
+    },
+    {
+      "text": "ASPECTS: 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 1050,
+      "end": 1061
+    },
+    {
+      "text": "sin áreas de perfusión alterada que sugieran compromiso isquémico agudo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1224,
+      "end": 1295
+    },
+    {
+      "text": "sin evidencias de estenosis ni placas significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1367,
+      "end": 1419
+    },
+    {
+      "text": "sin estenosis relevantes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1552,
+      "end": 1576
+    },
+    {
+      "text": "sin signos de estenosis ni dismorfismos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1712,
+      "end": 1751
+    },
+    {
+      "text": "sin evidencias de patología aguda isquémica o hemorrágica",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1788,
+      "end": 1845
+    },
+    {
+      "text": "cambios crónicos leves compatibles con envejecimiento cerebral",
+      "type": "PATOLOGIA",
+      "start": 1860,
+      "end": 1922
+    },
+    {
+      "text": "sin estenosis significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1954,
+      "end": 1982
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 1984,
+      "end": 1994
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 296,
+      "end": 312
+    },
+    {
+      "text": "estudio de perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 314,
+      "end": 343
+    },
+    {
+      "text": "angiografía por TC arterial intra y extracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 346,
+      "end": 394
+    },
+    {
+      "text": "Sistema vertebrobasilar",
+      "type": "ARTERIA",
+      "start": 1678,
+      "end": 1701
+    },
+    {
+      "text": "bilaterales",
+      "type": "LATERALIDAD",
+      "start": 1636,
+      "end": 1647
+    }
+  ]
+}

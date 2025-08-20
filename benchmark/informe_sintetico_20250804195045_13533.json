@@ -1,0 +1,71 @@
+{
+  "document_id": "informe_sintetico_20250804195045_13533",
+  "entities": [
+    {
+      "text": "hemorragia intracraneal aguda",
+      "type": "PATOLOGIA",
+      "start": 573,
+      "end": 602
+    },
+    {
+      "text": "infartos recientes",
+      "type": "PATOLOGIA",
+      "start": 606,
+      "end": 624
+    },
+    {
+      "text": "lesiones ocupantes de espacio",
+      "type": "PATOLOGIA",
+      "start": 644,
+      "end": 673
+    },
+    {
+      "text": "edema cerebral",
+      "type": "PATOLOGIA",
+      "start": 677,
+      "end": 691
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 763,
+      "end": 773
+    },
+    {
+      "text": "cambios atróficos de tipo crónico",
+      "type": "PATOLOGIA",
+      "start": 813,
+      "end": 846
+    },
+    {
+      "text": "sin áreas de hipoperfusión",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1059,
+      "end": 1085
+    },
+    {
+      "text": "sin evidencias de estenosis u oclusiones",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1199,
+      "end": 1239
+    },
+    {
+      "text": "sin hallazgos agudos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1381,
+      "end": 1401
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 763,
+      "end": 773
+    },
+    {
+      "text": "TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANGIOTC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 1697,
+      "end": 1764
+    }
+  ]
+}

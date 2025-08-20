@@ -1,0 +1,77 @@
+{
+  "document_id": "0000000010000000059272298_cleaned",
+  "entities": [
+    {
+      "text": "Infart cerebral causat per oclusió o estenosi no especificades d'artèria cerebral no especificada",
+      "type": "PATOLOGIA",
+      "start": 166,
+      "end": 263
+    },
+    {
+      "text": "No se observa hemorragia intra ni extraaxial.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 412,
+      "end": 457
+    },
+    {
+      "text": "Parénquima cerebral sin alteraciones densitométricas agudas.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 458,
+      "end": 518
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 566,
+      "end": 576
+    },
+    {
+      "text": "No se observan lesiones isquémicas parenquimatosas subagudas ni otras lesiones isquemicas crónicas.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 578,
+      "end": 677
+    },
+    {
+      "text": "Arco aórtico y segmentos proximales de troncos supraórticos sin ateromatosis ni signos de estenosis.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 972,
+      "end": 1072
+    },
+    {
+      "text": "Origen, bifurcación y segmentos cervicales de la arteria carótida interna sin ateromatosis ni signos de estenosis.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1073,
+      "end": 1187
+    },
+    {
+      "text": "Segmentos intracavernoso y supraclinoideo de la arteria carótida interna sin ateromatosis ni signos de estenosis.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1188,
+      "end": 1301
+    },
+    {
+      "text": "Origen de las arterias vertebrales sin ateromatosis ni signos de estenosis.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1302,
+      "end": 1377
+    },
+    {
+      "text": "Principales arterias cerebrales intracraneales permeables (ACAs, ACMs y ACPs).",
+      "type": "ARTERIA",
+      "start": 1378,
+      "end": 1456
+    },
+    {
+      "text": "Sistema vertebrobasilar permeable.",
+      "type": "ARTERIA",
+      "start": 1457,
+      "end": 1491
+    },
+    {
+      "text": "Estudio de código ictus sin hallazgos patológicos agudos.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1515,
+      "end": 1572
+    }
+  ]
+}

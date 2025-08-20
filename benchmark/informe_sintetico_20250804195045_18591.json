@@ -1,0 +1,89 @@
+{
+  "document_id": "informe_sintetico_20250804195045_18591",
+  "entities": [
+    {
+      "text": "hematoma intraparenquimatoso",
+      "type": "PATOLOGIA",
+      "start": 493,
+      "end": 521
+    },
+    {
+      "text": "frontal izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 428,
+      "end": 445
+    },
+    {
+      "text": "35 x 25 mm",
+      "type": "MEDIDA",
+      "start": 466,
+      "end": 476
+    },
+    {
+      "text": "3 mm",
+      "type": "MEDIDA",
+      "start": 696,
+      "end": 700
+    },
+    {
+      "text": "izquierdo",
+      "type": "LATERALIDAD",
+      "start": 877,
+      "end": 886
+    },
+    {
+      "text": "edema perilesional",
+      "type": "PATOLOGIA",
+      "start": 1523,
+      "end": 1541
+    },
+    {
+      "text": "efecto de masa",
+      "type": "PATOLOGIA",
+      "start": 644,
+      "end": 658
+    },
+    {
+      "text": "No se identifican signos de extensión intraventricular ni hemorragia subaracnoidea",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 523,
+      "end": 605
+    },
+    {
+      "text": "sin evidencia de estenosis ni malformaciones arteriovenosas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1254,
+      "end": 1313
+    },
+    {
+      "text": "No se identifican signos de aneurismas ni vascularización anómala",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1315,
+      "end": 1380
+    },
+    {
+      "text": "Perfusión cerebral alterada en territorio adyacente al hematoma",
+      "type": "PATOLOGIA",
+      "start": 1633,
+      "end": 1696
+    },
+    {
+      "text": "TC CRANEAL BASAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 273,
+      "end": 289
+    },
+    {
+      "text": "PERFUSIÓN CEREBRAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 292,
+      "end": 310
+    },
+    {
+      "text": "ANGIO-TC ARTERIAL INTRACRANEAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 313,
+      "end": 343
+    }
+  ]
+}

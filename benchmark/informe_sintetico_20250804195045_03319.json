@@ -1,0 +1,119 @@
+{
+  "document_id": "informe_sintetico_20250804195045_03319",
+  "entities": [
+    {
+      "text": "ictus isquémico agudo",
+      "type": "PATOLOGIA",
+      "start": 230,
+      "end": 251
+    },
+    {
+      "text": "No se evidencia hemorragia intra ni extraaxial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 463,
+      "end": 509
+    },
+    {
+      "text": "Parénquima cerebral sin alteraciones densitométricas agudas evidentes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 511,
+      "end": 580
+    },
+    {
+      "text": "ASPECTS 9",
+      "type": "PUNTUACION_CLINICA",
+      "start": 632,
+      "end": 641
+    },
+    {
+      "text": "aumento del tiempo hasta el pico (TTP)",
+      "type": "PATOLOGIA",
+      "start": 808,
+      "end": 846
+    },
+    {
+      "text": "reducción del flujo cerebral (CBF)",
+      "type": "PATOLOGIA",
+      "start": 849,
+      "end": 883
+    },
+    {
+      "text": "arteria cerebral media (ACM)",
+      "type": "ARTERIA",
+      "start": 916,
+      "end": 944
+    },
+    {
+      "text": "M2-M3",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 958,
+      "end": 963
+    },
+    {
+      "text": "hemisferio izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 968,
+      "end": 988
+    },
+    {
+      "text": "volumen cerebral (CBV) preservado",
+      "type": "PATOLOGIA",
+      "start": 994,
+      "end": 1027
+    },
+    {
+      "text": "penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1047,
+      "end": 1065
+    },
+    {
+      "text": "Oclusión focal en segmento M2 distal de la ACM izquierda",
+      "type": "PATOLOGIA",
+      "start": 1128,
+      "end": 1184
+    },
+    {
+      "text": "Sistema vertebrobasilar permeable",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1409,
+      "end": 1442
+    },
+    {
+      "text": "isquemia aguda en territorio distal de ACM izquierda (segmentos M2/M3)",
+      "type": "PATOLOGIA",
+      "start": 1495,
+      "end": 1565
+    },
+    {
+      "text": "ASPECTS 9",
+      "type": "PUNTUACION_CLINICA",
+      "start": 632,
+      "end": 641
+    },
+    {
+      "text": "Isquemia aguda en territorio de arteria cerebral media distal (M2/M3) izquierda",
+      "type": "PATOLOGIA",
+      "start": 1823,
+      "end": 1902
+    },
+    {
+      "text": "oclusión focal en segmento distal arterial",
+      "type": "PATOLOGIA",
+      "start": 1931,
+      "end": 1973
+    },
+    {
+      "text": "No evidencia de infarto consolidado ni hemorragia asociada",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1975,
+      "end": 2033
+    },
+    {
+      "text": "TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANGIOTC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 2061,
+      "end": 2128
+    }
+  ]
+}

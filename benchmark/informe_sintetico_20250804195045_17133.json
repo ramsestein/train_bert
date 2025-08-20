@@ -1,0 +1,95 @@
+{
+  "document_id": "informe_sintetico_20250804195045_17133",
+  "entities": [
+    {
+      "text": "hemorragia aguda",
+      "type": "PATOLOGIA",
+      "start": 602,
+      "end": 618
+    },
+    {
+      "text": "isquémico",
+      "type": "PATOLOGIA",
+      "start": 590,
+      "end": 599
+    },
+    {
+      "text": "edema cerebral",
+      "type": "PATOLOGIA",
+      "start": 702,
+      "end": 716
+    },
+    {
+      "text": "microangiopatía leve",
+      "type": "PATOLOGIA",
+      "start": 850,
+      "end": 870
+    },
+    {
+      "text": "hipoperfusión",
+      "type": "PATOLOGIA",
+      "start": 1044,
+      "end": 1057
+    },
+    {
+      "text": "trombosis",
+      "type": "PATOLOGIA",
+      "start": 1384,
+      "end": 1393
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 1834,
+      "end": 1844
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 319,
+      "end": 335
+    },
+    {
+      "text": "TC de perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 337,
+      "end": 361
+    },
+    {
+      "text": "Angio-TC arterial intra y extracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 364,
+      "end": 402
+    },
+    {
+      "text": "No se identifican áreas de hipodensidad focal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 515,
+      "end": 560
+    },
+    {
+      "text": "No hay signos de edema cerebral",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 685,
+      "end": 716
+    },
+    {
+      "text": "sin signos de estenosis, oclusión o trombosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1348,
+      "end": 1393
+    },
+    {
+      "text": "sin alteraciones relevantes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1558,
+      "end": 1585
+    },
+    {
+      "text": "sin repercusión aguda",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 872,
+      "end": 893
+    }
+  ]
+}

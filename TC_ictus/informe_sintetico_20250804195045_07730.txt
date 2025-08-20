@@ -1,0 +1,33 @@
+UO_PACN (Unidad Organizativa Médica): RADIO
+
+PRUEB (Prueba solicitada): TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANG IOTC ARTERIAL INTRACRANEAL)
+
+CLIN (Resumen clínico): Paciente con antecedentes de hipertensión arterial y cefalea persistente, se solicita estudio para descartar hemorragia intracraneal.
+
+OBSR (Protocolo): TC craneal basal sin contraste, TC de perfusión cerebral y Angio-TC arterial intracraneal urgente.
+
+RESL (Resultados): 
+TC CRANEAL BASAL:
+Se identifican múltiples focos hiperdensos puntiformes, dispersos en sustancia blanca supratentorial y núcleos profundos, compatibles con microhemorragias microglóbicas. No se observan hematomas ni hemorragias de mayor tamaño.
+Preservación de la diferenciación cortico-subcortical, sin evidencia de edema ni infarto agudo. ASPECTS 10/10.
+Sistema ventricular de tamaño y morfología normales, sin desplazamiento de la línea media. Cisternas basales libres.
+En focos dispersos se aprecian áreas hipodensas sugestivas de microangiopatía crónica.
+TC PERFUSIÓN:
+Parametros de tiempo de tránsito plasmático (TTP), volumen cerebral de sangre (CBV) y flujo cerebral sanguíneo (CBF) dentro de límites normales sin zonas de hipoperfusión ni alteraciones focales.
+ANGIO-TC INTRACRANEAL:
+Arterias cerebrales principales permeables, sin evidencias de estenosis ni malformaciones.
+Se aprecia leve ateromatosis en segmentos intracraneales de las arterias carótidas internas, sin compromiso significativo del flujo.
+Sistema vertebrobasilar patente.
+No se identifican aneurismas ni malformaciones arteriovenosas.
+
+CONCL (Conclusiones): Múltiples microhemorragias intracerebrales dispersas compatibles con microangiopatía hemorrágica. No signos de hemorragia macro o isquemia cerebral aguda. Vascularización intracraneal permeable sin estenosis significativas.
+
+ACTI_ADICI (Actividad adicional): Se recomienda valoración neurológica y seguimiento con RM para caracterización adicional de microhemorragias.
+
+ICON (Estudio): @RADIO_TCPERF@
+
+X00DIATXT (Texto del diagnóstico ACR): Microhemorragias cerebrales múltiples en contexto de microangiopatía crónica. Sin evidencia de hemorragia aguda ni isquemia.
+
+EST_T_DES (Descripción): TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANGIOTC ARTERIAL INTRACRANEAL)
+
+ZVASOS_D (Der.): Estudios vasculares intracraneales sin estenosis ni malformaciones significativas.

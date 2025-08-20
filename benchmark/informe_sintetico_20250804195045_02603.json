@@ -1,0 +1,101 @@
+{
+  "document_id": "informe_sintetico_20250804195045_02603",
+  "entities": [
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 228,
+      "end": 242
+    },
+    {
+      "text": "arteria cerebral anterior (ACA) izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 517,
+      "end": 558
+    },
+    {
+      "text": "ACA",
+      "type": "ARTERIA",
+      "start": 257,
+      "end": 260
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 549,
+      "end": 558
+    },
+    {
+      "text": "ASPECTS modificada para ACA: afectación leve-moderada",
+      "type": "PUNTUACION_CLINICA",
+      "start": 666,
+      "end": 719
+    },
+    {
+      "text": "aumento del tiempo de tránsito promedio (MTT)",
+      "type": "PATOLOGIA",
+      "start": 911,
+      "end": 956
+    },
+    {
+      "text": "isquemia en etapa aguda",
+      "type": "PATOLOGIA",
+      "start": 1069,
+      "end": 1092
+    },
+    {
+      "text": "Oclusión proximal o estenosis severa (>90%)",
+      "type": "PATOLOGIA",
+      "start": 1151,
+      "end": 1194
+    },
+    {
+      "text": "arteria cerebral anterior izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1201,
+      "end": 1236
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 549,
+      "end": 558
+    },
+    {
+      "text": "sin estenosis significativas en ACM y ACP",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1322,
+      "end": 1363
+    },
+    {
+      "text": "sin alteraciones",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1389,
+      "end": 1405
+    },
+    {
+      "text": "No se evidencian hemorragias agudas intra o extraaxiales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 387,
+      "end": 443
+    },
+    {
+      "text": "No hay efecto de masa ni desplazamiento de estructuras de la línea media",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 723,
+      "end": 795
+    },
+    {
+      "text": "Sistema ventricular en situación y morfología normales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 797,
+      "end": 851
+    },
+    {
+      "text": "Ausencia de hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1838,
+      "end": 1873
+    }
+  ]
+}

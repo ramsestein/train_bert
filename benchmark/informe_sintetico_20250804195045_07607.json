@@ -1,0 +1,95 @@
+{
+  "document_id": "informe_sintetico_20250804195045_07607",
+  "entities": [
+    {
+      "text": "infartos lacunares crónicos múltiples",
+      "type": "PATOLOGIA",
+      "start": 650,
+      "end": 687
+    },
+    {
+      "text": "núcleos de la base",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 572,
+      "end": 590
+    },
+    {
+      "text": "cápsula interna",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 592,
+      "end": 607
+    },
+    {
+      "text": "región periventricular",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 610,
+      "end": 632
+    },
+    {
+      "text": "ACAs",
+      "type": "ARTERIA",
+      "start": 1188,
+      "end": 1192
+    },
+    {
+      "text": "ACMs",
+      "type": "ARTERIA",
+      "start": 1194,
+      "end": 1198
+    },
+    {
+      "text": "ACPs",
+      "type": "ARTERIA",
+      "start": 1200,
+      "end": 1204
+    },
+    {
+      "text": "ateromatosis leve",
+      "type": "PATOLOGIA",
+      "start": 1261,
+      "end": 1278
+    },
+    {
+      "text": "sin estenosis significativas ni oclusiones",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1206,
+      "end": 1248
+    },
+    {
+      "text": "No hay hemorragia intra ni extraaxial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 727,
+      "end": 764
+    },
+    {
+      "text": "sin evidencia de isquemia cerebral aguda ni hemorragia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1560,
+      "end": 1614
+    },
+    {
+      "text": "sin estenosis hemodinámicamente relevantes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1323,
+      "end": 1365
+    },
+    {
+      "text": "<15 mm",
+      "type": "MEDIDA",
+      "start": 548,
+      "end": 554
+    },
+    {
+      "text": "crónicos",
+      "type": "TEMPORALIDAD",
+      "start": 669,
+      "end": 677
+    },
+    {
+      "text": "TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANG IOTC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 72,
+      "end": 140
+    }
+  ]
+}

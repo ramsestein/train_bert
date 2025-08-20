@@ -1,0 +1,259 @@
+{
+  "document_id": "informe_sintetico_20250804195045_07439",
+  "entities": [
+    {
+      "text": "ictus agudo",
+      "type": "PATOLOGIA",
+      "start": 323,
+      "end": 334
+    },
+    {
+      "text": "déficit motor súbito",
+      "type": "PATOLOGIA",
+      "start": 200,
+      "end": 220
+    },
+    {
+      "text": "hemicuerpo derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 224,
+      "end": 242
+    },
+    {
+      "text": "miembro inferior",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 258,
+      "end": 274
+    },
+    {
+      "text": "alteración del lenguaje",
+      "type": "PATOLOGIA",
+      "start": 278,
+      "end": 301
+    },
+    {
+      "text": "arteria cerebral anterior",
+      "type": "ARTERIA",
+      "start": 352,
+      "end": 377
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 404,
+      "end": 420
+    },
+    {
+      "text": "perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 441,
+      "end": 459
+    },
+    {
+      "text": "angiografía por TC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 462,
+      "end": 502
+    },
+    {
+      "text": "hipodensidad",
+      "type": "PATOLOGIA",
+      "start": 554,
+      "end": 566
+    },
+    {
+      "text": "territorio cortical y subcortical de la ACA izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 573,
+      "end": 626
+    },
+    {
+      "text": "sector medial del lóbulo frontal y parietal",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 656,
+      "end": 699
+    },
+    {
+      "text": "diferenciación córtico-subcortical",
+      "type": "PATOLOGIA",
+      "start": 715,
+      "end": 749
+    },
+    {
+      "text": "hemorragia intra ni extraaxial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 783,
+      "end": 813
+    },
+    {
+      "text": "morfología y tamaño conservados",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 912,
+      "end": 943
+    },
+    {
+      "text": "volumen cerebral sanguíneo",
+      "type": "PATOLOGIA",
+      "start": 1007,
+      "end": 1033
+    },
+    {
+      "text": "territorio medial frontal izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1046,
+      "end": 1081
+    },
+    {
+      "text": "aumento del tiempo de tránsito medio",
+      "type": "PATOLOGIA",
+      "start": 1087,
+      "end": 1123
+    },
+    {
+      "text": "tiempo a máximo",
+      "type": "PATOLOGIA",
+      "start": 1132,
+      "end": 1147
+    },
+    {
+      "text": "área isquémica establecida",
+      "type": "PATOLOGIA",
+      "start": 1170,
+      "end": 1196
+    },
+    {
+      "text": "prolongación de parámetros tiempo-perfusión",
+      "type": "PATOLOGIA",
+      "start": 1220,
+      "end": 1263
+    },
+    {
+      "text": "flujo disminuido",
+      "type": "PATOLOGIA",
+      "start": 1266,
+      "end": 1282
+    },
+    {
+      "text": "compatible con área en penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1284,
+      "end": 1325
+    },
+    {
+      "text": "Oclusión completa proximal de la arteria cerebral anterior izquierda",
+      "type": "PATOLOGIA",
+      "start": 1360,
+      "end": 1428
+    },
+    {
+      "text": "segmento A2",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1430,
+      "end": 1441
+    },
+    {
+      "text": "circulación intracraneal",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1456,
+      "end": 1480
+    },
+    {
+      "text": "estenosis ni oclusiones",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1485,
+      "end": 1508
+    },
+    {
+      "text": "permeable",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1534,
+      "end": 1543
+    },
+    {
+      "text": "evidencias de ateromatosis significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1550,
+      "end": 1590
+    },
+    {
+      "text": "Infarto agudo en territorio de arteria cerebral anterior izquierda",
+      "type": "PATOLOGIA",
+      "start": 1615,
+      "end": 1681
+    },
+    {
+      "text": "presencia de área isquémica establecida",
+      "type": "PATOLOGIA",
+      "start": 1686,
+      "end": 1725
+    },
+    {
+      "text": "zona de penumbra",
+      "type": "PATOLOGIA",
+      "start": 1728,
+      "end": 1744
+    },
+    {
+      "text": "Angio-TC",
+      "type": "TECNICA_IMAGEN",
+      "start": 1746,
+      "end": 1754
+    },
+    {
+      "text": "confirma oclusión proximal del segmento A2 de ACA izquierda",
+      "type": "PATOLOGIA",
+      "start": 1755,
+      "end": 1814
+    },
+    {
+      "text": "signos de hemorragia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1833,
+      "end": 1853
+    },
+    {
+      "text": "desplazamiento de estructuras",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1857,
+      "end": 1886
+    },
+    {
+      "text": "posible tratamiento endovascular",
+      "type": "PATOLOGIA",
+      "start": 1968,
+      "end": 2000
+    },
+    {
+      "text": "según criterios clínicos y tiempo de evolución",
+      "type": "TEMPORALIDAD",
+      "start": 2001,
+      "end": 2047
+    },
+    {
+      "text": "Infarto cerebral agudo",
+      "type": "PATOLOGIA",
+      "start": 2198,
+      "end": 2220
+    },
+    {
+      "text": "territorio de arteria cerebral anterior izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1632,
+      "end": 1681
+    },
+    {
+      "text": "oclusión proximal de segmento A2",
+      "type": "PATOLOGIA",
+      "start": 2278,
+      "end": 2310
+    },
+    {
+      "text": "signos compatibles con penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 2313,
+      "end": 2354
+    }
+  ],
+  "regenerado": true,
+  "fecha_regeneracion": "2025-08-06T14:01:20.435477"
+}

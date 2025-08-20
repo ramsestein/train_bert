@@ -1,0 +1,83 @@
+{
+  "document_id": "informe_sintetico_20250804195045_23740",
+  "entities": [
+    {
+      "text": "hemorragia subaracnoidea focal",
+      "type": "PATOLOGIA",
+      "start": 568,
+      "end": 598
+    },
+    {
+      "text": "cisterna supraselar",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 489,
+      "end": 508
+    },
+    {
+      "text": "lóbulo frontal derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 530,
+      "end": 552
+    },
+    {
+      "text": "hematomas intraparenquimatosos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 615,
+      "end": 645
+    },
+    {
+      "text": "sangrado intraventricular",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 649,
+      "end": 674
+    },
+    {
+      "text": "aneurisma sacular",
+      "type": "PATOLOGIA",
+      "start": 1077,
+      "end": 1094
+    },
+    {
+      "text": "arteria comunicante anterior",
+      "type": "ARTERIA",
+      "start": 1101,
+      "end": 1129
+    },
+    {
+      "text": "4 mm",
+      "type": "MEDIDA",
+      "start": 1158,
+      "end": 1162
+    },
+    {
+      "text": "vasoespasmo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 978,
+      "end": 989
+    },
+    {
+      "text": "complicaciones isquémicas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1591,
+      "end": 1616
+    },
+    {
+      "text": "TC craneal sin contraste basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 288,
+      "end": 318
+    },
+    {
+      "text": "estudio de perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 331,
+      "end": 360
+    },
+    {
+      "text": "angiografía por AngioTC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 363,
+      "end": 408
+    }
+  ]
+}

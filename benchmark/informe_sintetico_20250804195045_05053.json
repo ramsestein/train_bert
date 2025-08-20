@@ -1,0 +1,71 @@
+{
+  "document_id": "informe_sintetico_20250804195045_05053",
+  "entities": [
+    {
+      "text": "isquemia",
+      "type": "PATOLOGIA",
+      "start": 786,
+      "end": 794
+    },
+    {
+      "text": "arteria cerebral anterior derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 679,
+      "end": 712
+    },
+    {
+      "text": "arteria cerebral anterior",
+      "type": "ARTERIA",
+      "start": 295,
+      "end": 320
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 601,
+      "end": 608
+    },
+    {
+      "text": "A2",
+      "type": "ARTERIA",
+      "start": 1274,
+      "end": 1276
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "TEMPORALIDAD",
+      "start": 1526,
+      "end": 1540
+    },
+    {
+      "text": "penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1183,
+      "end": 1201
+    },
+    {
+      "text": "No se evidencian hemorragias intra ni extraaxiales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 489,
+      "end": 539
+    },
+    {
+      "text": "No hay desviación de la línea media ni signos de herniación",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 807,
+      "end": 866
+    },
+    {
+      "text": "No se detectan signos de embolias múltiples ni disecciones",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1429,
+      "end": 1487
+    },
+    {
+      "text": "sin evidencia de infarto completo ni edema significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1769,
+      "end": 1825
+    }
+  ]
+}

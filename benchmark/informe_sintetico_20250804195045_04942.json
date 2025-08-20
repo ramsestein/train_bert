@@ -1,0 +1,107 @@
+{
+  "document_id": "informe_sintetico_20250804195045_04942",
+  "entities": [
+    {
+      "text": "infarto isquémico",
+      "type": "PATOLOGIA",
+      "start": 576,
+      "end": 593
+    },
+    {
+      "text": "hemorragia petequial",
+      "type": "PATOLOGIA",
+      "start": 718,
+      "end": 738
+    },
+    {
+      "text": "transformación hemorrágica tipo PH1",
+      "type": "PATOLOGIA",
+      "start": 756,
+      "end": 791
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 528,
+      "end": 560
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 528,
+      "end": 560
+    },
+    {
+      "text": "M1",
+      "type": "ARTERIA",
+      "start": 1469,
+      "end": 1471
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 245,
+      "end": 254
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 245,
+      "end": 254
+    },
+    {
+      "text": "bilaterales",
+      "type": "LATERALIDAD",
+      "start": 1720,
+      "end": 1731
+    },
+    {
+      "text": "extenso",
+      "type": "MEDIDA",
+      "start": 1807,
+      "end": 1814
+    },
+    {
+      "text": "sin efecto de masa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1959,
+      "end": 1977
+    },
+    {
+      "text": "sin estenosis significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1732,
+      "end": 1759
+    },
+    {
+      "text": "sin lesiones",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1648,
+      "end": 1660
+    },
+    {
+      "text": "sin desplazamientos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 979,
+      "end": 998
+    },
+    {
+      "text": "TC Basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 367,
+      "end": 375
+    },
+    {
+      "text": "TC Perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 377,
+      "end": 398
+    },
+    {
+      "text": "AngioTC extra e intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 401,
+      "end": 429
+    }
+  ]
+}

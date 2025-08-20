@@ -1,0 +1,89 @@
+{
+  "document_id": "informe_sintetico_20250804195045_12335",
+  "entities": [
+    {
+      "text": "ictus isquémico",
+      "type": "PATOLOGIA",
+      "start": 244,
+      "end": 259
+    },
+    {
+      "text": "isquemia inicial",
+      "type": "PATOLOGIA",
+      "start": 651,
+      "end": 667
+    },
+    {
+      "text": "ASPECTS 9",
+      "type": "PUNTUACION_CLINICA",
+      "start": 669,
+      "end": 678
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "ARTERIA",
+      "start": 1165,
+      "end": 1197
+    },
+    {
+      "text": "segmentos M2/M3",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1468,
+      "end": 1483
+    },
+    {
+      "text": "Oclusión focal",
+      "type": "PATOLOGIA",
+      "start": 1129,
+      "end": 1143
+    },
+    {
+      "text": "M2",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1015,
+      "end": 1017
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 971,
+      "end": 980
+    },
+    {
+      "text": "sin evidencia de trombo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1207,
+      "end": 1230
+    },
+    {
+      "text": "No se observan estenosis significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1289,
+      "end": 1328
+    },
+    {
+      "text": "No hemorragia asociada",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1571,
+      "end": 1593
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 313,
+      "end": 329
+    },
+    {
+      "text": "TC PERFUSIÓN",
+      "type": "TECNICA_IMAGEN",
+      "start": 839,
+      "end": 851
+    },
+    {
+      "text": "ANGIO-TC EXTRA E INTRACRANEAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 1098,
+      "end": 1127
+    }
+  ]
+}

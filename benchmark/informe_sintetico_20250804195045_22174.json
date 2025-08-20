@@ -1,0 +1,125 @@
+{
+  "document_id": "informe_sintetico_20250804195045_22174",
+  "entities": [
+    {
+      "text": "infarto cerebral",
+      "type": "PATOLOGIA",
+      "start": 268,
+      "end": 284
+    },
+    {
+      "text": "hipoperfusión",
+      "type": "PATOLOGIA",
+      "start": 289,
+      "end": 302
+    },
+    {
+      "text": "hipodensidad bilateral",
+      "type": "PATOLOGIA",
+      "start": 575,
+      "end": 597
+    },
+    {
+      "text": "regiones fronto-parietales medias",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 645,
+      "end": 678
+    },
+    {
+      "text": "infarto por penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1427,
+      "end": 1457
+    },
+    {
+      "text": "estenosis moderada",
+      "type": "PATOLOGIA",
+      "start": 1554,
+      "end": 1572
+    },
+    {
+      "text": "arterias carótidas internas",
+      "type": "ARTERIA",
+      "start": 1603,
+      "end": 1630
+    },
+    {
+      "text": "ACAs",
+      "type": "ARTERIA",
+      "start": 1730,
+      "end": 1734
+    },
+    {
+      "text": "ACMs",
+      "type": "ARTERIA",
+      "start": 1736,
+      "end": 1740
+    },
+    {
+      "text": "ACPs",
+      "type": "ARTERIA",
+      "start": 1743,
+      "end": 1747
+    },
+    {
+      "text": "bilateral",
+      "type": "LATERALIDAD",
+      "start": 194,
+      "end": 203
+    },
+    {
+      "text": "bilateral",
+      "type": "LATERALIDAD",
+      "start": 194,
+      "end": 203
+    },
+    {
+      "text": "sin signos de hemorragia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2607,
+      "end": 2631
+    },
+    {
+      "text": "sin oclusiones completas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1632,
+      "end": 1656
+    },
+    {
+      "text": "sin estenosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1869,
+      "end": 1882
+    },
+    {
+      "text": "sin signos de hemorragia ni edema cerebral",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2607,
+      "end": 2649
+    },
+    {
+      "text": "TC de cráneo basal sin contraste",
+      "type": "TECNICA_IMAGEN",
+      "start": 323,
+      "end": 355
+    },
+    {
+      "text": "angiografía TC de vasos extra e intracraneales",
+      "type": "TECNICA_IMAGEN",
+      "start": 389,
+      "end": 435
+    },
+    {
+      "text": "TC PERFUSIÓN",
+      "type": "TECNICA_IMAGEN",
+      "start": 1038,
+      "end": 1050
+    },
+    {
+      "text": "TC CODIGO ICTUS",
+      "type": "TECNICA_IMAGEN",
+      "start": 72,
+      "end": 87
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "document_id": "informe_sintetico_20250804195045_14068",
+  "entities": [
+    {
+      "text": "isquemia vertebrobasilar aguda",
+      "type": "PATOLOGIA",
+      "start": 255,
+      "end": 285
+    },
+    {
+      "text": "hipodensidad sutil",
+      "type": "PATOLOGIA",
+      "start": 543,
+      "end": 561
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 636,
+      "end": 650
+    },
+    {
+      "text": "infarto establecido",
+      "type": "PATOLOGIA",
+      "start": 1203,
+      "end": 1222
+    },
+    {
+      "text": "aumento del tiempo de tránsito medio (TTM)",
+      "type": "MEDIDA",
+      "start": 889,
+      "end": 931
+    },
+    {
+      "text": "tiempo hasta el pico (TTP)",
+      "type": "MEDIDA",
+      "start": 934,
+      "end": 960
+    },
+    {
+      "text": "reducción del flujo cerebral (CBF)",
+      "type": "MEDIDA",
+      "start": 965,
+      "end": 999
+    },
+    {
+      "text": "volumen cerebral (CBV)",
+      "type": "MEDIDA",
+      "start": 1130,
+      "end": 1152
+    },
+    {
+      "text": "arteria basilar",
+      "type": "ARTERIA",
+      "start": 1312,
+      "end": 1327
+    },
+    {
+      "text": "trombosis subaguda",
+      "type": "PATOLOGIA",
+      "start": 1354,
+      "end": 1372
+    },
+    {
+      "text": "ambas arterias vertebrales",
+      "type": "ARTERIA",
+      "start": 1056,
+      "end": 1082
+    },
+    {
+      "text": "estenosis significativa proximal",
+      "type": "PATOLOGIA",
+      "start": 1411,
+      "end": 1443
+    },
+    {
+      "text": "aterosclerosis",
+      "type": "PATOLOGIA",
+      "start": 1481,
+      "end": 1495
+    },
+    {
+      "text": "sin lesiones obstructivas severas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1533,
+      "end": 1566
+    },
+    {
+      "text": "sin infarto establecido",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1842,
+      "end": 1865
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 636,
+      "end": 650
+    },
+    {
+      "text": "defecto de repleción en arteria basilar proximal",
+      "type": "PATOLOGIA",
+      "start": 1742,
+      "end": 1790
+    },
+    {
+      "text": "valoración neurológica urgente",
+      "type": "PATOLOGIA",
+      "start": 1895,
+      "end": 1925
+    },
+    {
+      "text": "TC craneal basal urgente",
+      "type": "TECNICA_IMAGEN",
+      "start": 306,
+      "end": 330
+    },
+    {
+      "text": "perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 332,
+      "end": 350
+    },
+    {
+      "text": "angio-TC de arterias extra e intracraneales",
+      "type": "TECNICA_IMAGEN",
+      "start": 353,
+      "end": 396
+    }
+  ]
+}

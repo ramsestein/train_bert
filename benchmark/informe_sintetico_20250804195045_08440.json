@@ -1,0 +1,113 @@
+{
+  "document_id": "informe_sintetico_20250804195045_08440",
+  "entities": [
+    {
+      "text": "infartos lacunares crónicos",
+      "type": "PATOLOGIA",
+      "start": 775,
+      "end": 802
+    },
+    {
+      "text": "núcleos lenticulares",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 682,
+      "end": 702
+    },
+    {
+      "text": "cápsula interna",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 716,
+      "end": 731
+    },
+    {
+      "text": "región talámica derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 734,
+      "end": 757
+    },
+    {
+      "text": "15 mm",
+      "type": "MEDIDA",
+      "start": 660,
+      "end": 665
+    },
+    {
+      "text": "crónica",
+      "type": "TEMPORALIDAD",
+      "start": 317,
+      "end": 324
+    },
+    {
+      "text": "No se observan signos de edema o efecto masa asociado",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 804,
+      "end": 857
+    },
+    {
+      "text": "No hemorragias ni colecciones intracraneales evidentes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 960,
+      "end": 1014
+    },
+    {
+      "text": "sin signos de hidrocefalia obstructiva",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1104,
+      "end": 1142
+    },
+    {
+      "text": "No se evidencian alteraciones significativas en parámetros de perfusión cerebral",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1164,
+      "end": 1244
+    },
+    {
+      "text": "No se observa mismatch",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1311,
+      "end": 1333
+    },
+    {
+      "text": "sin estenosis significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1408,
+      "end": 1436
+    },
+    {
+      "text": "sin placas de ateromatosis críticas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1466,
+      "end": 1501
+    },
+    {
+      "text": "sin evidencias de isquemia aguda o hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1818,
+      "end": 1876
+    },
+    {
+      "text": "sin otras lesiones focales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2044,
+      "end": 2070
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 393,
+      "end": 409
+    },
+    {
+      "text": "estudio de perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 411,
+      "end": 440
+    },
+    {
+      "text": "angio-TC arterial extra e intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 443,
+      "end": 481
+    }
+  ]
+}

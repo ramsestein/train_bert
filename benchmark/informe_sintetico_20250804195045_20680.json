@@ -1,0 +1,65 @@
+{
+  "document_id": "informe_sintetico_20250804195045_20680",
+  "entities": [
+    {
+      "text": "hemorragias",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 456,
+      "end": 467
+    },
+    {
+      "text": "lesiones isquémicas agudas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 471,
+      "end": 497
+    },
+    {
+      "text": "ASPECTS de 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 552,
+      "end": 565
+    },
+    {
+      "text": "cambios crónicos inespecíficos de sustancia blanca periventricular y subcortical",
+      "type": "PATOLOGIA",
+      "start": 589,
+      "end": 669
+    },
+    {
+      "text": "enfermedad crónica de pequeño vaso",
+      "type": "PATOLOGIA",
+      "start": 687,
+      "end": 721
+    },
+    {
+      "text": "atrofia cortical",
+      "type": "PATOLOGIA",
+      "start": 728,
+      "end": 744
+    },
+    {
+      "text": "cerebrales principales (ACAs, ACMs, ACPs)",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1260,
+      "end": 1301
+    },
+    {
+      "text": "ambas carótidas internas",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1403,
+      "end": 1427
+    },
+    {
+      "text": "Ateromatosis intracraneal leve no estenosante",
+      "type": "PATOLOGIA",
+      "start": 1700,
+      "end": 1745
+    },
+    {
+      "text": "Perfusión cerebral normal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1747,
+      "end": 1772
+    }
+  ]
+}

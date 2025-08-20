@@ -1,0 +1,119 @@
+{
+  "document_id": "informe_sintetico_20250804195045_07639",
+  "entities": [
+    {
+      "text": "áreas hipodensas",
+      "type": "PATOLOGIA",
+      "start": 471,
+      "end": 487
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 1390,
+      "end": 1404
+    },
+    {
+      "text": "arterias cerebrales medias",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 607,
+      "end": 633
+    },
+    {
+      "text": "arteria cerebral posterior",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1560,
+      "end": 1586
+    },
+    {
+      "text": "arteria cerebral anterior",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 710,
+      "end": 735
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "ARTERIA",
+      "start": 1527,
+      "end": 1557
+    },
+    {
+      "text": "arteria cerebral posterior izquierda",
+      "type": "ARTERIA",
+      "start": 1560,
+      "end": 1596
+    },
+    {
+      "text": "arteria carótida interna izquierda",
+      "type": "ARTERIA",
+      "start": 1641,
+      "end": 1675
+    },
+    {
+      "text": "bilateralmente",
+      "type": "LATERALIDAD",
+      "start": 648,
+      "end": 662
+    },
+    {
+      "text": "signos iniciales de ateromatosis calcificada leve",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1773,
+      "end": 1822
+    },
+    {
+      "text": "cerebral (CBV)",
+      "type": "MEDIDA",
+      "start": 1140,
+      "end": 1154
+    },
+    {
+      "text": "significativa",
+      "type": "MEDIDA",
+      "start": 1330,
+      "end": 1343
+    },
+    {
+      "text": "multiterritorial",
+      "type": "TEMPORALIDAD",
+      "start": 1938,
+      "end": 1954
+    },
+    {
+      "text": "aguda",
+      "type": "TEMPORALIDAD",
+      "start": 1399,
+      "end": 1404
+    },
+    {
+      "text": "TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANG IOTC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 72,
+      "end": 140
+    },
+    {
+      "text": "Protocolo emergencia código ictus",
+      "type": "TECNICA_IMAGEN",
+      "start": 274,
+      "end": 307
+    },
+    {
+      "text": "TC craneal basal sin contraste",
+      "type": "TECNICA_IMAGEN",
+      "start": 309,
+      "end": 339
+    },
+    {
+      "text": "TC perfusión cerebral dinámica",
+      "type": "TECNICA_IMAGEN",
+      "start": 341,
+      "end": 371
+    },
+    {
+      "text": "Angio-TC arterial intracraneal urgente",
+      "type": "TECNICA_IMAGEN",
+      "start": 374,
+      "end": 412
+    }
+  ]
+}

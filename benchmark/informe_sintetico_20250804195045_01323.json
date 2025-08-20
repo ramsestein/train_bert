@@ -1,0 +1,149 @@
+{
+  "document_id": "informe_sintetico_20250804195045_01323",
+  "entities": [
+    {
+      "text": "hemorragia intraventricular",
+      "type": "PATOLOGIA",
+      "start": 475,
+      "end": 502
+    },
+    {
+      "text": "sangre en los ventrículos laterales",
+      "type": "PATOLOGIA",
+      "start": 531,
+      "end": 566
+    },
+    {
+      "text": "tercer ventrículo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 568,
+      "end": 585
+    },
+    {
+      "text": "cuarto ventrículo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 588,
+      "end": 605
+    },
+    {
+      "text": "hidrocefalia incipiente",
+      "type": "PATOLOGIA",
+      "start": 666,
+      "end": 689
+    },
+    {
+      "text": "No se identifican colecciones hemorrágicas extraaxiales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 691,
+      "end": 746
+    },
+    {
+      "text": "hiperdensidad lineal en región periventricular derecha",
+      "type": "PATOLOGIA",
+      "start": 759,
+      "end": 813
+    },
+    {
+      "text": "región periventricular derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 783,
+      "end": 813
+    },
+    {
+      "text": "Cisternas basales libres",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 960,
+      "end": 984
+    },
+    {
+      "text": "reducción focal y discreta en el flujo sanguíneo cerebral (CBF)",
+      "type": "PATOLOGIA",
+      "start": 1047,
+      "end": 1110
+    },
+    {
+      "text": "sin cambios significativos en volumen cerebral (CBV)",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1149,
+      "end": 1201
+    },
+    {
+      "text": "Tiempo hasta el pico (TTP) ligeramente prolongado",
+      "type": "PATOLOGIA",
+      "start": 1203,
+      "end": 1252
+    },
+    {
+      "text": "hemorragia",
+      "type": "PATOLOGIA",
+      "start": 270,
+      "end": 280
+    },
+    {
+      "text": "No se observan signos de estenosis, oclusión ni malformaciones arteriovenosas intracraneales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1367,
+      "end": 1459
+    },
+    {
+      "text": "arterias cerebrales principales (ACAs, ACMs y ACPs)",
+      "type": "ARTERIA",
+      "start": 1465,
+      "end": 1516
+    },
+    {
+      "text": "Sistema vertebrobasilar",
+      "type": "ARTERIA",
+      "start": 1603,
+      "end": 1626
+    },
+    {
+      "text": "No se identifican aneurismas evidentes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1654,
+      "end": 1692
+    },
+    {
+      "text": "Hemorragia intraventricular con extensión en los ventrículos laterales, tercer y cuarto ventrículo",
+      "type": "PATOLOGIA",
+      "start": 1717,
+      "end": 1815
+    },
+    {
+      "text": "leve hidrocefalia incipiente",
+      "type": "PATOLOGIA",
+      "start": 1828,
+      "end": 1856
+    },
+    {
+      "text": "No se identifican lesiones extraaxiales ni hematomas parenquimatosos mayores",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1858,
+      "end": 1934
+    },
+    {
+      "text": "Perfusión cerebral alterada de forma focal en región periventricular derecha",
+      "type": "PATOLOGIA",
+      "start": 1936,
+      "end": 2012
+    },
+    {
+      "text": "sin evidencias de infarto isquémico",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2013,
+      "end": 2048
+    },
+    {
+      "text": "AngioTC intracraneal sin anomalías vasculares oclusivas o aneurismáticas detectables",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2050,
+      "end": 2134
+    },
+    {
+      "text": "TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANGIOTC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 2478,
+      "end": 2545
+    }
+  ]
+}

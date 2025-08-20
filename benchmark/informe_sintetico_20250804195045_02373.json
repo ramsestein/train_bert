@@ -1,0 +1,89 @@
+{
+  "document_id": "informe_sintetico_20250804195045_02373",
+  "entities": [
+    {
+      "text": "infarto isquémico subagudo",
+      "type": "PATOLOGIA",
+      "start": 653,
+      "end": 679
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 695,
+      "end": 718
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "ARTERIA",
+      "start": 579,
+      "end": 611
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 602,
+      "end": 611
+    },
+    {
+      "text": "aumento significativo del tiempo de tránsito medio (TTP)",
+      "type": "MEDIDA",
+      "start": 964,
+      "end": 1020
+    },
+    {
+      "text": "reducción del flujo cerebral (CBF)",
+      "type": "MEDIDA",
+      "start": 1023,
+      "end": 1057
+    },
+    {
+      "text": "caída del volumen cerebral (CBV)",
+      "type": "MEDIDA",
+      "start": 1101,
+      "end": 1133
+    },
+    {
+      "text": "disección arterial",
+      "type": "PATOLOGIA",
+      "start": 254,
+      "end": 272
+    },
+    {
+      "text": "arteria carótida interna izquierda",
+      "type": "ARTERIA",
+      "start": 1372,
+      "end": 1406
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 602,
+      "end": 611
+    },
+    {
+      "text": "infarto cerebral en territorio de la arteria cerebral media izquierda",
+      "type": "PATOLOGIA",
+      "start": 1855,
+      "end": 1924
+    },
+    {
+      "text": "isquémico",
+      "type": "TEMPORALIDAD",
+      "start": 661,
+      "end": 670
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 695,
+      "end": 718
+    },
+    {
+      "text": "disección de arteria carótida interna izquierda",
+      "type": "PATOLOGIA",
+      "start": 2516,
+      "end": 2563
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "document_id": "informe_sintetico_20250804195045_02893",
+  "entities": [
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 478,
+      "end": 501
+    },
+    {
+      "text": "lesiones isquémicas agudas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 505,
+      "end": 531
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 588,
+      "end": 598
+    },
+    {
+      "text": "áreas de hipodensidad periventriculares bilaterales",
+      "type": "PATOLOGIA",
+      "start": 613,
+      "end": 664
+    },
+    {
+      "text": "cambios crónicos de la sustancia blanca",
+      "type": "PATOLOGIA",
+      "start": 682,
+      "end": 721
+    },
+    {
+      "text": "atrofia cerebral leve de carácter crónico",
+      "type": "PATOLOGIA",
+      "start": 863,
+      "end": 904
+    },
+    {
+      "text": "arterias cerebrales anteriores, medias y posteriores",
+      "type": "ARTERIA",
+      "start": 1538,
+      "end": 1590
+    },
+    {
+      "text": "sistema vertebrobasilar",
+      "type": "ARTERIA",
+      "start": 1607,
+      "end": 1630
+    },
+    {
+      "text": "TC PERFUSIÓN",
+      "type": "TECNICA_IMAGEN",
+      "start": 1009,
+      "end": 1021
+    },
+    {
+      "text": "TC Basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 326,
+      "end": 334
+    },
+    {
+      "text": "Angio-TC extra e intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 360,
+      "end": 389
+    },
+    {
+      "text": "sin estenosis significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1950,
+      "end": 1977
+    },
+    {
+      "text": "sin signos de lesión isquémica o hemorrágica aguda",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1669,
+      "end": 1719
+    }
+  ]
+}

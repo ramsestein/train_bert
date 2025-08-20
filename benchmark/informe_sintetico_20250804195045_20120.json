@@ -1,0 +1,107 @@
+{
+  "document_id": "informe_sintetico_20250804195045_20120",
+  "entities": [
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 256,
+      "end": 270
+    },
+    {
+      "text": "arteria cerebral posterior derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 288,
+      "end": 322
+    },
+    {
+      "text": "P2",
+      "type": "ARTERIA",
+      "start": 1298,
+      "end": 1300
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 315,
+      "end": 322
+    },
+    {
+      "text": "ASPECTS 8",
+      "type": "PUNTUACION_CLINICA",
+      "start": 714,
+      "end": 723
+    },
+    {
+      "text": "TTP",
+      "type": "MEDIDA",
+      "start": 976,
+      "end": 979
+    },
+    {
+      "text": "Tmax",
+      "type": "MEDIDA",
+      "start": 1005,
+      "end": 1009
+    },
+    {
+      "text": "moderada",
+      "type": "MEDIDA",
+      "start": 1058,
+      "end": 1066
+    },
+    {
+      "text": "isquemia precoz",
+      "type": "TEMPORALIDAD",
+      "start": 697,
+      "end": 712
+    },
+    {
+      "text": "Oclusión completa",
+      "type": "PATOLOGIA",
+      "start": 1267,
+      "end": 1284
+    },
+    {
+      "text": "arteria cerebral posterior derecha",
+      "type": "ARTERIA",
+      "start": 288,
+      "end": 322
+    },
+    {
+      "text": "sin estenosis ni placas ateromatosas significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1435,
+      "end": 1486
+    },
+    {
+      "text": "sin alteraciones significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1501,
+      "end": 1532
+    },
+    {
+      "text": "No se identifican hemorragias intracraneales ni signos de sangrado activo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 493,
+      "end": 566
+    },
+    {
+      "text": "No hay desplazamiento de la línea media ni edema significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 735,
+      "end": 797
+    },
+    {
+      "text": "No se visualizan zonas con pérdida irreversible del tejido cerebral",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1167,
+      "end": 1234
+    },
+    {
+      "text": "No se observan signos de lesión isquémica establecida irreversible en las imágenes realizadas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1742,
+      "end": 1835
+    }
+  ]
+}

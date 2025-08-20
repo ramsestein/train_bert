@@ -1,0 +1,59 @@
+{
+  "document_id": "informe_sintetico_20250804195045_14621",
+  "entities": [
+    {
+      "text": "hematoma lobar fronto-parietal izquierdo",
+      "type": "PATOLOGIA",
+      "start": 449,
+      "end": 489
+    },
+    {
+      "text": "25 x 18 x 15 mm",
+      "type": "MEDIDA",
+      "start": 493,
+      "end": 508
+    },
+    {
+      "text": "agudo",
+      "type": "TEMPORALIDAD",
+      "start": 533,
+      "end": 538
+    },
+    {
+      "text": "3 mm",
+      "type": "MEDIDA",
+      "start": 637,
+      "end": 641
+    },
+    {
+      "text": "hemorragias subaracnoideas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 675,
+      "end": 701
+    },
+    {
+      "text": "hemorragia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 267,
+      "end": 277
+    },
+    {
+      "text": "isquemia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1137,
+      "end": 1145
+    },
+    {
+      "text": "Vasos intracraneales y extracraneales sin alteraciones significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1633,
+      "end": 1702
+    },
+    {
+      "text": "TC craneal sin contraste + TC perfusión cerebral + Angio-TC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 312,
+      "end": 393
+    }
+  ]
+}

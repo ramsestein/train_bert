@@ -1,0 +1,95 @@
+{
+  "document_id": "informe_sintetico_20250804195045_18454",
+  "entities": [
+    {
+      "text": "isquemia aguda precoz",
+      "type": "PATOLOGIA",
+      "start": 648,
+      "end": 669
+    },
+    {
+      "text": "ASPECTS 7",
+      "type": "PUNTUACION_CLINICA",
+      "start": 671,
+      "end": 680
+    },
+    {
+      "text": "microangiopatía crónica",
+      "type": "PATOLOGIA",
+      "start": 873,
+      "end": 896
+    },
+    {
+      "text": "tiempo de tránsito medio (MTT)",
+      "type": "MEDIDA",
+      "start": 976,
+      "end": 1006
+    },
+    {
+      "text": "tiempo de retraso (TTP)",
+      "type": "MEDIDA",
+      "start": 1009,
+      "end": 1032
+    },
+    {
+      "text": "flujo cerebral (CBF)",
+      "type": "MEDIDA",
+      "start": 1136,
+      "end": 1156
+    },
+    {
+      "text": "volumen cerebral (CBV)",
+      "type": "MEDIDA",
+      "start": 1159,
+      "end": 1181
+    },
+    {
+      "text": "mismatch positivo",
+      "type": "PATOLOGIA",
+      "start": 1396,
+      "end": 1413
+    },
+    {
+      "text": "Oclusión completa en el segmento M1 izquierdo de la arteria cerebral media",
+      "type": "PATOLOGIA",
+      "start": 1446,
+      "end": 1520
+    },
+    {
+      "text": "arteria cerebral media",
+      "type": "ARTERIA",
+      "start": 532,
+      "end": 554
+    },
+    {
+      "text": "Oclusión del segmento M1 de la ACM izquierda",
+      "type": "PATOLOGIA",
+      "start": 1976,
+      "end": 2020
+    },
+    {
+      "text": "No hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2022,
+      "end": 2048
+    },
+    {
+      "text": "territorio superficial y profunda de la arteria cerebral media izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1036,
+      "end": 1108
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 555,
+      "end": 564
+    },
+    {
+      "text": "izquierdo",
+      "type": "LATERALIDAD",
+      "start": 1482,
+      "end": 1491
+    }
+  ]
+}

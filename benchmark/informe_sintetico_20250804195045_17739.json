@@ -1,0 +1,71 @@
+{
+  "document_id": "informe_sintetico_20250804195045_17739",
+  "entities": [
+    {
+      "text": "infarto lacunar agudo",
+      "type": "PATOLOGIA",
+      "start": 609,
+      "end": 630
+    },
+    {
+      "text": "región capsulotalámica izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 484,
+      "end": 516
+    },
+    {
+      "text": "8 mm",
+      "type": "MEDIDA",
+      "start": 576,
+      "end": 580
+    },
+    {
+      "text": "isquemia lacunar aguda",
+      "type": "PATOLOGIA",
+      "start": 952,
+      "end": 974
+    },
+    {
+      "text": "CBF",
+      "type": "TECNICA_IMAGEN",
+      "start": 853,
+      "end": 856
+    },
+    {
+      "text": "MTT",
+      "type": "TECNICA_IMAGEN",
+      "start": 898,
+      "end": 901
+    },
+    {
+      "text": "ACAs, ACMs y ACPs",
+      "type": "ARTERIA",
+      "start": 1345,
+      "end": 1362
+    },
+    {
+      "text": "isquemia focal",
+      "type": "PATOLOGIA",
+      "start": 1728,
+      "end": 1742
+    },
+    {
+      "text": "No evidencia de hemorragia intra o extraaxial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 420,
+      "end": 465
+    },
+    {
+      "text": "No se observan áreas de penumbra extensa ni alteraciones perfusionales en otras regiones cerebrales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1043,
+      "end": 1142
+    },
+    {
+      "text": "No signos de hemorragia intracraneal ni estenosis arterial significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1628,
+      "end": 1700
+    }
+  ]
+}

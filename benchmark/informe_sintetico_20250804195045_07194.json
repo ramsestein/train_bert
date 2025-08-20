@@ -1,0 +1,53 @@
+{
+  "document_id": "informe_sintetico_20250804195045_07194",
+  "entities": [
+    {
+      "text": "isquemia",
+      "type": "PATOLOGIA",
+      "start": 214,
+      "end": 222
+    },
+    {
+      "text": "lóbulo frontal medial izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 510,
+      "end": 541
+    },
+    {
+      "text": "arteria cerebral anterior (ACA)",
+      "type": "ARTERIA",
+      "start": 1040,
+      "end": 1071
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 1072,
+      "end": 1081
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "TEMPORALIDAD",
+      "start": 1792,
+      "end": 1806
+    },
+    {
+      "text": "A2",
+      "type": "MEDIDA",
+      "start": 1460,
+      "end": 1462
+    },
+    {
+      "text": "sin signos evidentes de hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 615,
+      "end": 662
+    },
+    {
+      "text": "sin complicaciones hemorrágicas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1824,
+      "end": 1855
+    }
+  ]
+}

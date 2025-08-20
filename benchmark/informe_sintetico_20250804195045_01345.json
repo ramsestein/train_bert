@@ -1,0 +1,113 @@
+{
+  "document_id": "informe_sintetico_20250804195045_01345",
+  "entities": [
+    {
+      "text": "infarto isquémico agudo",
+      "type": "PATOLOGIA",
+      "start": 576,
+      "end": 599
+    },
+    {
+      "text": "foco hemorrágico puntual",
+      "type": "PATOLOGIA",
+      "start": 612,
+      "end": 636
+    },
+    {
+      "text": "menor de 5 mm",
+      "type": "MEDIDA",
+      "start": 638,
+      "end": 651
+    },
+    {
+      "text": "transformación hemorrágica tipo HI1",
+      "type": "PATOLOGIA",
+      "start": 753,
+      "end": 788
+    },
+    {
+      "text": "hemorragias intra o extraaxiales mayores",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 807,
+      "end": 847
+    },
+    {
+      "text": "disminución focal del flujo cerebral",
+      "type": "PATOLOGIA",
+      "start": 1045,
+      "end": 1081
+    },
+    {
+      "text": "volumen cerebral",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1090,
+      "end": 1106
+    },
+    {
+      "text": "tiempo de tránsito",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1165,
+      "end": 1183
+    },
+    {
+      "text": "Tmax aumentado",
+      "type": "PATOLOGIA",
+      "start": 1192,
+      "end": 1206
+    },
+    {
+      "text": "penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1251,
+      "end": 1269
+    },
+    {
+      "text": "Oclusión segmentaria proximal de la arteria cerebral media derecha (M1)",
+      "type": "PATOLOGIA",
+      "start": 1307,
+      "end": 1378
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "ARTERIA",
+      "start": 529,
+      "end": 559
+    },
+    {
+      "text": "Sistema vertebrobasilar",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1488,
+      "end": 1511
+    },
+    {
+      "text": "Oclusión parcial de M1 derecha",
+      "type": "PATOLOGIA",
+      "start": 1865,
+      "end": 1895
+    },
+    {
+      "text": "sin afectación hemodinámica importante de otros vasos intracraneales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1897,
+      "end": 1965
+    },
+    {
+      "text": "TC craneal basal urgente",
+      "type": "TECNICA_IMAGEN",
+      "start": 320,
+      "end": 344
+    },
+    {
+      "text": "secuencias de perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 347,
+      "end": 379
+    },
+    {
+      "text": "angio-TC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 382,
+      "end": 412
+    }
+  ]
+}

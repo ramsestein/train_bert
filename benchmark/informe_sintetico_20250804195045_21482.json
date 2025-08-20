@@ -1,0 +1,65 @@
+{
+  "document_id": "informe_sintetico_20250804195045_21482",
+  "entities": [
+    {
+      "text": "hematoma lobar frontal izquierdo",
+      "type": "PATOLOGIA",
+      "start": 481,
+      "end": 513
+    },
+    {
+      "text": "frontal izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 496,
+      "end": 513
+    },
+    {
+      "text": "38 x 25 x 30 mm",
+      "type": "MEDIDA",
+      "start": 582,
+      "end": 597
+    },
+    {
+      "text": "aguda",
+      "type": "TEMPORALIDAD",
+      "start": 266,
+      "end": 271
+    },
+    {
+      "text": "hipoperfusión leve",
+      "type": "PATOLOGIA",
+      "start": 894,
+      "end": 912
+    },
+    {
+      "text": "frontal izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 926,
+      "end": 943
+    },
+    {
+      "text": "Angio-TC intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 1000,
+      "end": 1021
+    },
+    {
+      "text": "sin evidencias de malformaciones vasculares, aneurismas ni signos de vasoespasmo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1022,
+      "end": 1102
+    },
+    {
+      "text": "Arterias cerebrales principales permeables",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1104,
+      "end": 1146
+    },
+    {
+      "text": "No se observan signos de isquemia establecida",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1148,
+      "end": 1193
+    }
+  ]
+}

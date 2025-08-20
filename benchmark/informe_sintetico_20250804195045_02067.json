@@ -1,0 +1,101 @@
+{
+  "document_id": "informe_sintetico_20250804195045_02067",
+  "entities": [
+    {
+      "text": "isquemia",
+      "type": "PATOLOGIA",
+      "start": 533,
+      "end": 541
+    },
+    {
+      "text": "hemorragia aguda",
+      "type": "PATOLOGIA",
+      "start": 544,
+      "end": 560
+    },
+    {
+      "text": "cambios microangiopáticos crónicos",
+      "type": "PATOLOGIA",
+      "start": 910,
+      "end": 944
+    },
+    {
+      "text": "TTP",
+      "type": "MEDIDA",
+      "start": 1032,
+      "end": 1035
+    },
+    {
+      "text": "CBV",
+      "type": "MEDIDA",
+      "start": 1066,
+      "end": 1069
+    },
+    {
+      "text": "CBF",
+      "type": "MEDIDA",
+      "start": 1099,
+      "end": 1102
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 1956,
+      "end": 1966
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 252,
+      "end": 268
+    },
+    {
+      "text": "perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 292,
+      "end": 310
+    },
+    {
+      "text": "angio-TC de troncos supraórticos e intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 313,
+      "end": 360
+    },
+    {
+      "text": "sin evidencia de áreas hipodensas ni hiperdensas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 471,
+      "end": 519
+    },
+    {
+      "text": "sin desviación de la línea media",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 688,
+      "end": 720
+    },
+    {
+      "text": "sin placas ateromatosas significativas ni estenosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1416,
+      "end": 1467
+    },
+    {
+      "text": "sin signos de estenosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1536,
+      "end": 1559
+    },
+    {
+      "text": "sin hallazgos agudos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1825,
+      "end": 1845
+    },
+    {
+      "text": "cerebrales anteriores",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1602,
+      "end": 1623
+    }
+  ]
+}

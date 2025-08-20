@@ -1,0 +1,89 @@
+{
+  "document_id": "informe_sintetico_20250804195045_01531",
+  "entities": [
+    {
+      "text": "infartos lacunares crónicos",
+      "type": "PATOLOGIA",
+      "start": 351,
+      "end": 378
+    },
+    {
+      "text": "núcleos lenticulares",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 704,
+      "end": 724
+    },
+    {
+      "text": "cápsula interna",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 726,
+      "end": 741
+    },
+    {
+      "text": "sustancia blanca periventricular",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 744,
+      "end": 776
+    },
+    {
+      "text": "bilateral",
+      "type": "LATERALIDAD",
+      "start": 777,
+      "end": 786
+    },
+    {
+      "text": "regiones frontales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1042,
+      "end": 1060
+    },
+    {
+      "text": "sin hallazgos que sugieran isquemia aguda o penumbra",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1362,
+      "end": 1414
+    },
+    {
+      "text": "sin signos de placas ateromatosas significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1620,
+      "end": 1668
+    },
+    {
+      "text": "sin evidencia de infarto agudo ni hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1847,
+      "end": 1904
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 399,
+      "end": 415
+    },
+    {
+      "text": "perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 442,
+      "end": 460
+    },
+    {
+      "text": "angioTC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 463,
+      "end": 492
+    },
+    {
+      "text": "TC PERFUSIÓN",
+      "type": "TECNICA_IMAGEN",
+      "start": 1193,
+      "end": 1205
+    },
+    {
+      "text": "ANGIO-TC EXTRA E INTRACRANEAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 1417,
+      "end": 1446
+    }
+  ]
+}

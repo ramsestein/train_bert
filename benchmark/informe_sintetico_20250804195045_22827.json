@@ -1,0 +1,101 @@
+{
+  "document_id": "informe_sintetico_20250804195045_22827",
+  "entities": [
+    {
+      "text": "infarto isquémico subagudo",
+      "type": "PATOLOGIA",
+      "start": 500,
+      "end": 526
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "ARTERIA",
+      "start": 451,
+      "end": 483
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 474,
+      "end": 483
+    },
+    {
+      "text": "PH1",
+      "type": "PUNTUACION_CLINICA",
+      "start": 658,
+      "end": 661
+    },
+    {
+      "text": "hematomas lobares extensos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 680,
+      "end": 706
+    },
+    {
+      "text": "hemorragias subaracnoideas asociadas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 710,
+      "end": 746
+    },
+    {
+      "text": "sin desplazamiento de la línea media",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 789,
+      "end": 825
+    },
+    {
+      "text": "sin áreas de penumbra significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1067,
+      "end": 1102
+    },
+    {
+      "text": "Oclusión parcial de la arteria cerebral media izquierda en segmento M2 proximal",
+      "type": "PATOLOGIA",
+      "start": 1129,
+      "end": 1208
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 474,
+      "end": 483
+    },
+    {
+      "text": "segmento M2",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1188,
+      "end": 1199
+    },
+    {
+      "text": "sin estenosis significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1350,
+      "end": 1378
+    },
+    {
+      "text": "ateromatosis calcificada mínima",
+      "type": "PATOLOGIA",
+      "start": 1384,
+      "end": 1415
+    },
+    {
+      "text": "Transformación hemorrágica focal (PH1)",
+      "type": "PATOLOGIA",
+      "start": 2000,
+      "end": 2038
+    },
+    {
+      "text": "evento isquémico cerebral en territorio ACM izquierda",
+      "type": "PATOLOGIA",
+      "start": 2044,
+      "end": 2097
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 474,
+      "end": 483
+    }
+  ]
+}

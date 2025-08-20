@@ -1,0 +1,101 @@
+{
+  "document_id": "informe_sintetico_20250804195045_21863",
+  "entities": [
+    {
+      "text": "hemorragias intra o extraaxiales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 432,
+      "end": 464
+    },
+    {
+      "text": "densidad normal",
+      "type": "PATOLOGIA",
+      "start": 490,
+      "end": 505
+    },
+    {
+      "text": "signos de lesión isquémica aguda",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 570,
+      "end": 602
+    },
+    {
+      "text": "ASPECTS: 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 604,
+      "end": 615
+    },
+    {
+      "text": "focos de gliosis periventricular",
+      "type": "PATOLOGIA",
+      "start": 808,
+      "end": 840
+    },
+    {
+      "text": "alteración en CBF, CBV, MTT o Tmax",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 985,
+      "end": 1019
+    },
+    {
+      "text": "focos de hipoperfusión ni isquemia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1036,
+      "end": 1070
+    },
+    {
+      "text": "Arterias cerebrales principales (ACM, ACA, ACP)",
+      "type": "ARTERIA",
+      "start": 1213,
+      "end": 1260
+    },
+    {
+      "text": "sin defectos de repleción ni estenosis significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1273,
+      "end": 1326
+    },
+    {
+      "text": "aneurismas ni malformaciones vasculares",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1346,
+      "end": 1385
+    },
+    {
+      "text": "sin signos de vasoespasmo ni trombosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1440,
+      "end": 1478
+    },
+    {
+      "text": "sin evidencia de hemorragia o lesión isquémica aguda",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1535,
+      "end": 1587
+    },
+    {
+      "text": "Perfusión cerebral preservada en todos los territorios",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1589,
+      "end": 1643
+    },
+    {
+      "text": "sin hallazgos patológicos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1687,
+      "end": 1712
+    },
+    {
+      "text": "cambios crónicos vasculares leves",
+      "type": "PATOLOGIA",
+      "start": 1727,
+      "end": 1760
+    },
+    {
+      "text": "sin repercusión clínica aguda",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1761,
+      "end": 1790
+    }
+  ]
+}

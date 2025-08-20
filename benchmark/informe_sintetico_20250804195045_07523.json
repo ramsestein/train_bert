@@ -1,0 +1,89 @@
+{
+  "document_id": "informe_sintetico_20250804195045_07523",
+  "entities": [
+    {
+      "text": "infarto cerebral",
+      "type": "PATOLOGIA",
+      "start": 209,
+      "end": 225
+    },
+    {
+      "text": "infarto de tipo watershed",
+      "type": "PATOLOGIA",
+      "start": 646,
+      "end": 671
+    },
+    {
+      "text": "isquemia",
+      "type": "PATOLOGIA",
+      "start": 1669,
+      "end": 1677
+    },
+    {
+      "text": "arteria cerebral media",
+      "type": "ARTERIA",
+      "start": 565,
+      "end": 587
+    },
+    {
+      "text": "arterias cerebral anterior",
+      "type": "ARTERIA",
+      "start": 590,
+      "end": 616
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 1478,
+      "end": 1485
+    },
+    {
+      "text": "subaguda",
+      "type": "TEMPORALIDAD",
+      "start": 1686,
+      "end": 1694
+    },
+    {
+      "text": "No se evidencian hemorragias intra o extraaxiales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 394,
+      "end": 443
+    },
+    {
+      "text": "No se identifican signos de edema significativo ni desplazamiento de la línea media",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 750,
+      "end": 833
+    },
+    {
+      "text": "No se detectan estenosis ni oclusiones en segmentos proximales de ACM, ACA ni ACP",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1348,
+      "end": 1429
+    },
+    {
+      "text": "No evidencias de hemorragia ni oclusión arterial mayor",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1696,
+      "end": 1750
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 270,
+      "end": 286
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 289,
+      "end": 310
+    },
+    {
+      "text": "Angio-TC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 313,
+      "end": 343
+    }
+  ]
+}

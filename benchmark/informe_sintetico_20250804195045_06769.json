@@ -1,0 +1,227 @@
+{
+  "document_id": "informe_sintetico_20250804195045_06769",
+  "entities": [
+    {
+      "text": "hemiparesia izquierda",
+      "type": "PATOLOGIA",
+      "start": 196,
+      "end": 217
+    },
+    {
+      "text": "ictus isquémico",
+      "type": "PATOLOGIA",
+      "start": 240,
+      "end": 255
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 273,
+      "end": 303
+    },
+    {
+      "text": "hipodensidad focal",
+      "type": "PATOLOGIA",
+      "start": 475,
+      "end": 493
+    },
+    {
+      "text": "núcleo lenticular derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 517,
+      "end": 542
+    },
+    {
+      "text": "corona radiada",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 545,
+      "end": 559
+    },
+    {
+      "text": "signo de arteria hiperdensa",
+      "type": "PATOLOGIA",
+      "start": 604,
+      "end": 631
+    },
+    {
+      "text": "segmento M1 de arteria cerebral media derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 635,
+      "end": 680
+    },
+    {
+      "text": "ASPECTS",
+      "type": "PUNTUACION_CLINICA",
+      "start": 682,
+      "end": 689
+    },
+    {
+      "text": "7",
+      "type": "MEDIDA",
+      "start": 703,
+      "end": 704
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 733,
+      "end": 756
+    },
+    {
+      "text": "edema significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 760,
+      "end": 779
+    },
+    {
+      "text": "territorio irrigado por la ACM derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 953,
+      "end": 991
+    },
+    {
+      "text": "Tmax",
+      "type": "MEDIDA",
+      "start": 1022,
+      "end": 1026
+    },
+    {
+      "text": "flujo cerebral",
+      "type": "MEDIDA",
+      "start": 1053,
+      "end": 1067
+    },
+    {
+      "text": "segmento proximal (M1)",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1071,
+      "end": 1093
+    },
+    {
+      "text": "volumen de tejido en riesgo",
+      "type": "MEDIDA",
+      "start": 1099,
+      "end": 1126
+    },
+    {
+      "text": "área afectada",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1137,
+      "end": 1150
+    },
+    {
+      "text": "penumbra isquémica significativa",
+      "type": "PATOLOGIA",
+      "start": 1170,
+      "end": 1202
+    },
+    {
+      "text": "Oclusión completa",
+      "type": "PATOLOGIA",
+      "start": 1238,
+      "end": 1255
+    },
+    {
+      "text": "segmento M1 derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1259,
+      "end": 1278
+    },
+    {
+      "text": "arteria cerebral media proximal",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1285,
+      "end": 1316
+    },
+    {
+      "text": "ACAs",
+      "type": "ARTERIA",
+      "start": 1379,
+      "end": 1383
+    },
+    {
+      "text": "ACM izquierda",
+      "type": "ARTERIA",
+      "start": 1385,
+      "end": 1398
+    },
+    {
+      "text": "ACPs",
+      "type": "ARTERIA",
+      "start": 1400,
+      "end": 1404
+    },
+    {
+      "text": "estenosis asociada",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1432,
+      "end": 1450
+    },
+    {
+      "text": "placas ateromatosas significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1454,
+      "end": 1488
+    },
+    {
+      "text": "Sistema vertebrobasilar",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1490,
+      "end": 1513
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 1567,
+      "end": 1581
+    },
+    {
+      "text": "territorio de arteria cerebral media derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 259,
+      "end": 303
+    },
+    {
+      "text": "ASPECTS 7",
+      "type": "PUNTUACION_CLINICA",
+      "start": 1634,
+      "end": 1643
+    },
+    {
+      "text": "signo de arteria hiperdensa en M1 derecha",
+      "type": "PATOLOGIA",
+      "start": 1660,
+      "end": 1701
+    },
+    {
+      "text": "oclusión confirmada",
+      "type": "PATOLOGIA",
+      "start": 1704,
+      "end": 1723
+    },
+    {
+      "text": "AngioTC intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 1727,
+      "end": 1747
+    },
+    {
+      "text": "TC perfusión compatible con área de penumbra isquémica extensa",
+      "type": "PATOLOGIA",
+      "start": 1751,
+      "end": 1813
+    },
+    {
+      "text": "hemorragia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 733,
+      "end": 743
+    },
+    {
+      "text": "edema cerebral significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1844,
+      "end": 1872
+    }
+  ]
+}

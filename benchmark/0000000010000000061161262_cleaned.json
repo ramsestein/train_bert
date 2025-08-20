@@ -1,0 +1,131 @@
+{
+  "document_id": "0000000010000000061161262_cleaned",
+  "entities": [
+    {
+      "text": "oclusió",
+      "type": "PATOLOGIA",
+      "start": 193,
+      "end": 200
+    },
+    {
+      "text": "estenosi",
+      "type": "PATOLOGIA",
+      "start": 203,
+      "end": 211
+    },
+    {
+      "text": "artèria cerebral",
+      "type": "ARTERIA",
+      "start": 231,
+      "end": 247
+    },
+    {
+      "text": "hemorragia aguda",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 432,
+      "end": 448
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 536,
+      "end": 550
+    },
+    {
+      "text": "ASPECTS 10/10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 599,
+      "end": 612
+    },
+    {
+      "text": "quiste de retención mucosa",
+      "type": "PATOLOGIA",
+      "start": 889,
+      "end": 915
+    },
+    {
+      "text": "TTP",
+      "type": "TECNICA_IMAGEN",
+      "start": 1033,
+      "end": 1036
+    },
+    {
+      "text": "CBV",
+      "type": "TECNICA_IMAGEN",
+      "start": 1038,
+      "end": 1041
+    },
+    {
+      "text": "CBF",
+      "type": "TECNICA_IMAGEN",
+      "start": 1044,
+      "end": 1047
+    },
+    {
+      "text": "ateromatosis",
+      "type": "PATOLOGIA",
+      "start": 1177,
+      "end": 1189
+    },
+    {
+      "text": "estenosis",
+      "type": "PATOLOGIA",
+      "start": 1203,
+      "end": 1212
+    },
+    {
+      "text": "arterias carótidas internas",
+      "type": "ARTERIA",
+      "start": 1268,
+      "end": 1295
+    },
+    {
+      "text": "arterias cerebrales intracraneales",
+      "type": "ARTERIA",
+      "start": 1349,
+      "end": 1383
+    },
+    {
+      "text": "ACA",
+      "type": "ARTERIA",
+      "start": 1396,
+      "end": 1399
+    },
+    {
+      "text": "ACMs",
+      "type": "ARTERIA",
+      "start": 1401,
+      "end": 1405
+    },
+    {
+      "text": "ACPs",
+      "type": "ARTERIA",
+      "start": 1408,
+      "end": 1412
+    },
+    {
+      "text": "arterias vertebrales",
+      "type": "ARTERIA",
+      "start": 1429,
+      "end": 1449
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 599,
+      "end": 609
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1596,
+      "end": 1619
+    },
+    {
+      "text": "permeabilidad de principales vasos intracraneales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1681,
+      "end": 1730
+    }
+  ]
+}

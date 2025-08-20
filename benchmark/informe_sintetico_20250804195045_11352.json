@@ -1,0 +1,101 @@
+{
+  "document_id": "informe_sintetico_20250804195045_11352",
+  "entities": [
+    {
+      "text": "hemorragia aguda",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 571,
+      "end": 587
+    },
+    {
+      "text": "infarto agudo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 644,
+      "end": 657
+    },
+    {
+      "text": "corteza cerebelosa",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 664,
+      "end": 682
+    },
+    {
+      "text": "tronco cerebral",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 685,
+      "end": 700
+    },
+    {
+      "text": "Aspects 10/10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 749,
+      "end": 762
+    },
+    {
+      "text": "tronco basilar",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1040,
+      "end": 1054
+    },
+    {
+      "text": "puente",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1081,
+      "end": 1087
+    },
+    {
+      "text": "mesencéfalo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1090,
+      "end": 1101
+    },
+    {
+      "text": "penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1165,
+      "end": 1183
+    },
+    {
+      "text": "arteria basilar proximal",
+      "type": "ARTERIA",
+      "start": 1455,
+      "end": 1479
+    },
+    {
+      "text": "oclusión completa",
+      "type": "PATOLOGIA",
+      "start": 1431,
+      "end": 1448
+    },
+    {
+      "text": "circulación colateral pobre",
+      "type": "PATOLOGIA",
+      "start": 1568,
+      "end": 1595
+    },
+    {
+      "text": "arterias cerebrales anteriores",
+      "type": "ARTERIA",
+      "start": 1633,
+      "end": 1663
+    },
+    {
+      "text": "infarto consolidado",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1904,
+      "end": 1923
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1927,
+      "end": 1950
+    },
+    {
+      "text": "tiempo adecuado",
+      "type": "TEMPORALIDAD",
+      "start": 1994,
+      "end": 2009
+    }
+  ]
+}

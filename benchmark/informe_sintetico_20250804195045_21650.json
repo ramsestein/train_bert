@@ -1,0 +1,65 @@
+{
+  "document_id": "informe_sintetico_20250804195045_21650",
+  "entities": [
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 1207,
+      "end": 1221
+    },
+    {
+      "text": "territorio distal de la arteria cerebral media derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1225,
+      "end": 1279
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "ARTERIA",
+      "start": 1030,
+      "end": 1060
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 752,
+      "end": 759
+    },
+    {
+      "text": "ASPECTS 9/10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 534,
+      "end": 546
+    },
+    {
+      "text": "ASPECTS 9",
+      "type": "PUNTUACION_CLINICA",
+      "start": 534,
+      "end": 543
+    },
+    {
+      "text": "sin evidencia de hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 474,
+      "end": 514
+    },
+    {
+      "text": "sin evidencia de infarto establecido",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1339,
+      "end": 1375
+    },
+    {
+      "text": "TC craneal simple sin evidencia de hemorragia intracraneal ni edema cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 456,
+      "end": 532
+    },
+    {
+      "text": "Oclusión completa de rama distal del segmento M2 de la arteria cerebral media derecha",
+      "type": "PATOLOGIA",
+      "start": 975,
+      "end": 1060
+    }
+  ]
+}

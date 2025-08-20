@@ -1,0 +1,32 @@
+UO_PACN (Unidad Organizativa Médica): RADIO
+
+PRUEB (Prueba solicitada): TC CODIGO ICTUS (PERFUSION CEREBRAL + ANG IOTC ARTERIAL INTRACRANEAL)
+
+CLIN (Resumen clínico): Paciente masculino de 68 años con cuadro agudo de mareo intenso, diplopía y debilidad en extremidades, sospecha clínica de ictus vertebrobasilar.
+
+OBSR (Protocolo): TC craneal basal sin contraste, seguida de angio-TC arterial intracraneal y perfusión cerebral dinámica con contraste endovenoso, para evaluación rápida de código ictus.
+
+RESL (Resultados):  
+TC CRANEAL BASAL:  
+No se evidencian hemorragias intracraneales ni lesiones expansivas. Se observa hipodensidad en el tronco encefálico, especialmente en la protuberancia, compatible con edema citotóxico. No se identifican signos tardíos de infarto cortical supratentorial.
+
+TC PERFUSIÓN:  
+Mapas de tiempo de tránsito (TTP) incrementados y disminución significativa del volumen sanguíneo cerebral (CBV) en territorio del tronco encefálico y cerebelo bilateral, indicando área de penumbra isquémica extensa con reducido aporte vascular.
+
+ANGIO-TC ARTERIAL INTRACRANEAL:  
+Oclusión completa de la arteria basilar en su segmento proximal, sin visualización de flujo distal. Arterias vertebrales bilaterales permeables, con flujo disminuido en segmento distal derecho. Circulación colateral pobre a nivel de la circulación posterior.
+
+CONCL (Conclusiones):  
+Oclusión completa de arteria basilar proximal con daño isquémico evidente en tronco encefálico y cerebelo. Hallazgos compatibles con ictus vertebrobasilar agudo. Se recomienda evaluación neuroquirúrgica urgente y consideración de tratamiento endovascular.
+
+ACTI_ADICI (Actividad adicional):  
+Se sugiere seguimiento clínico y control con RM cerebral para valoración evolutiva y extensión de lesión isquémica.
+
+ICON (Estudio): @RADIO_TC@  
+
+X00DIATXT (Texto del diagnóstico ACR):  
+Isquemia aguda en territorio de arteria basilar con oclusión proximal demostrada en angio-TC. Ausencia de hemorragia intracraneal. Áreas de penumbra isquémica en perfusión.
+
+EST_T_DES (Descripción): TC CODIGO ICTUS (PERFUSION CEREBRAL + ANGIOTC ARTERIAL INTRACRANEAL)
+
+ZVASOS_D (Der.): Oclusión proximal arteria basilar, circulación vertebrobasilar comprometida, sin estenosis relevantes en arterias vertebrales proximales.

@@ -1,0 +1,83 @@
+{
+  "document_id": "informe_sintetico_20250804195045_15344",
+  "entities": [
+    {
+      "text": "ictus isquémico agudo",
+      "type": "PATOLOGIA",
+      "start": 256,
+      "end": 277
+    },
+    {
+      "text": "arteria cerebral media (ACM) izquierda",
+      "type": "ARTERIA",
+      "start": 490,
+      "end": 528
+    },
+    {
+      "text": "segmento M1",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 532,
+      "end": 543
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 519,
+      "end": 528
+    },
+    {
+      "text": "90 minutos",
+      "type": "MEDIDA",
+      "start": 219,
+      "end": 229
+    },
+    {
+      "text": "agudo",
+      "type": "TEMPORALIDAD",
+      "start": 272,
+      "end": 277
+    },
+    {
+      "text": "ASPECTS 7",
+      "type": "PUNTUACION_CLINICA",
+      "start": 1604,
+      "end": 1613
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 325,
+      "end": 341
+    },
+    {
+      "text": "No se evidencian hemorragias intra ni extraaxiales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 693,
+      "end": 743
+    },
+    {
+      "text": "Oclusión completa del segmento M1 de ACM izquierda",
+      "type": "PATOLOGIA",
+      "start": 1172,
+      "end": 1222
+    },
+    {
+      "text": "Oclusión arterial proximal (segmento M1) de la arteria cerebral media izquierda",
+      "type": "PATOLOGIA",
+      "start": 1864,
+      "end": 1943
+    },
+    {
+      "text": "ASPECTS 7",
+      "type": "PUNTUACION_CLINICA",
+      "start": 1604,
+      "end": 1613
+    },
+    {
+      "text": "No hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1729,
+      "end": 1755
+    }
+  ]
+}

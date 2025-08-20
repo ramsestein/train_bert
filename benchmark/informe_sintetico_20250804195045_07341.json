@@ -1,0 +1,83 @@
+{
+  "document_id": "informe_sintetico_20250804195045_07341",
+  "entities": [
+    {
+      "text": "ictus isquémico",
+      "type": "PATOLOGIA",
+      "start": 248,
+      "end": 263
+    },
+    {
+      "text": "arteria cerebral anterior",
+      "type": "ARTERIA",
+      "start": 281,
+      "end": 306
+    },
+    {
+      "text": "2 horas",
+      "type": "TEMPORALIDAD",
+      "start": 354,
+      "end": 361
+    },
+    {
+      "text": "hemisferio cerebral izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 677,
+      "end": 706
+    },
+    {
+      "text": "lesión isquémica",
+      "type": "PATOLOGIA",
+      "start": 723,
+      "end": 739
+    },
+    {
+      "text": "ASPECTS 9",
+      "type": "PUNTUACION_CLINICA",
+      "start": 864,
+      "end": 873
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 1299,
+      "end": 1313
+    },
+    {
+      "text": "arteria cerebral anterior izquierda",
+      "type": "ARTERIA",
+      "start": 1464,
+      "end": 1499
+    },
+    {
+      "text": "A1",
+      "type": "ARTERIA",
+      "start": 1501,
+      "end": 1503
+    },
+    {
+      "text": "ausencia de flujo distal",
+      "type": "PATOLOGIA",
+      "start": 1510,
+      "end": 1534
+    },
+    {
+      "text": "sin evidencia de infarto establecido",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1349,
+      "end": 1385
+    },
+    {
+      "text": "No se evidencian signos de hemorragia intracraneal ni hematomas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 530,
+      "end": 593
+    },
+    {
+      "text": "sin signos de estenosis ni trombosis adicionales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1653,
+      "end": 1701
+    }
+  ]
+}

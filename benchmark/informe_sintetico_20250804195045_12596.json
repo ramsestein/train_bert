@@ -1,0 +1,65 @@
+{
+  "document_id": "informe_sintetico_20250804195045_12596",
+  "entities": [
+    {
+      "text": "hematoma intracerebral",
+      "type": "PATOLOGIA",
+      "start": 274,
+      "end": 296
+    },
+    {
+      "text": "núcleo caudado izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 633,
+      "end": 657
+    },
+    {
+      "text": "2,5 x 2,0 x 2,2 cm",
+      "type": "MEDIDA",
+      "start": 582,
+      "end": 600
+    },
+    {
+      "text": "agudo",
+      "type": "TEMPORALIDAD",
+      "start": 697,
+      "end": 702
+    },
+    {
+      "text": "3 mm",
+      "type": "MEDIDA",
+      "start": 864,
+      "end": 868
+    },
+    {
+      "text": "hemorragias subaracnoideas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 995,
+      "end": 1021
+    },
+    {
+      "text": "trombosis o estenosis significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1454,
+      "end": 1490
+    },
+    {
+      "text": "TC CRANEAL BASAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 317,
+      "end": 333
+    },
+    {
+      "text": "TC PERFUSIÓN CEREBRAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 350,
+      "end": 371
+    },
+    {
+      "text": "ANGIO-TC ARTERIAL INTRACRANEAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 374,
+      "end": 404
+    }
+  ]
+}

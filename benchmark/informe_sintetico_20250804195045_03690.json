@@ -1,0 +1,217 @@
+{
+  "document_id": "informe_sintetico_20250804195045_03690",
+  "entities": [
+    {
+      "text": "hipertensión",
+      "type": "PATOLOGIA",
+      "start": 216,
+      "end": 228
+    },
+    {
+      "text": "dislipidemia",
+      "type": "PATOLOGIA",
+      "start": 231,
+      "end": 243
+    },
+    {
+      "text": "déficit motor izquierdo",
+      "type": "PATOLOGIA",
+      "start": 284,
+      "end": 307
+    },
+    {
+      "text": "hemorragia intracraneal aguda",
+      "type": "PATOLOGIA",
+      "start": 511,
+      "end": 540
+    },
+    {
+      "text": "hematomas",
+      "type": "PATOLOGIA",
+      "start": 544,
+      "end": 553
+    },
+    {
+      "text": "hipodensidad recientes",
+      "type": "PATOLOGIA",
+      "start": 638,
+      "end": 660
+    },
+    {
+      "text": "edema cerebral",
+      "type": "PATOLOGIA",
+      "start": 664,
+      "end": 678
+    },
+    {
+      "text": "focos de gliosis periventricular",
+      "type": "PATOLOGIA",
+      "start": 693,
+      "end": 725
+    },
+    {
+      "text": "leucoaraiosis de grado leve a moderado",
+      "type": "PATOLOGIA",
+      "start": 728,
+      "end": 766
+    },
+    {
+      "text": "cambios crónicos de enfermedad microvascular",
+      "type": "PATOLOGIA",
+      "start": 783,
+      "end": 827
+    },
+    {
+      "text": "lesiones expansivas",
+      "type": "PATOLOGIA",
+      "start": 942,
+      "end": 961
+    },
+    {
+      "text": "calcificaciones patológicas",
+      "type": "PATOLOGIA",
+      "start": 965,
+      "end": 992
+    },
+    {
+      "text": "hipoperfusión",
+      "type": "PATOLOGIA",
+      "start": 1103,
+      "end": 1116
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 1149,
+      "end": 1163
+    },
+    {
+      "text": "aterosclerosis calcificada",
+      "type": "PATOLOGIA",
+      "start": 1286,
+      "end": 1312
+    },
+    {
+      "text": "estenosis significativa",
+      "type": "PATOLOGIA",
+      "start": 1317,
+      "end": 1340
+    },
+    {
+      "text": "aneurismas",
+      "type": "PATOLOGIA",
+      "start": 1528,
+      "end": 1538
+    },
+    {
+      "text": "malformaciones vasculares",
+      "type": "PATOLOGIA",
+      "start": 1542,
+      "end": 1567
+    },
+    {
+      "text": "patología aguda isquémica",
+      "type": "PATOLOGIA",
+      "start": 1619,
+      "end": 1644
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 601,
+      "end": 611
+    },
+    {
+      "text": "TC CODIGO ICTUS",
+      "type": "TECNICA_IMAGEN",
+      "start": 72,
+      "end": 87
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 356,
+      "end": 372
+    },
+    {
+      "text": "mapas de perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 374,
+      "end": 401
+    },
+    {
+      "text": "angiografía por TC",
+      "type": "TECNICA_IMAGEN",
+      "start": 404,
+      "end": 422
+    },
+    {
+      "text": "TC PERFUSIÓN",
+      "type": "TECNICA_IMAGEN",
+      "start": 995,
+      "end": 1007
+    },
+    {
+      "text": "ANGIO-TC EXTRA E INTRACRANEAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 1166,
+      "end": 1195
+    },
+    {
+      "text": "Sistema ventricular",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 829,
+      "end": 848
+    },
+    {
+      "text": "cisternas basales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 851,
+      "end": 868
+    },
+    {
+      "text": "vasos supraaórticos",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1822,
+      "end": 1841
+    },
+    {
+      "text": "72 años",
+      "type": "MEDIDA",
+      "start": 188,
+      "end": 195
+    },
+    {
+      "text": "grado leve a moderado",
+      "type": "MEDIDA",
+      "start": 745,
+      "end": 766
+    },
+    {
+      "text": "sin estenosis significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1313,
+      "end": 1340
+    },
+    {
+      "text": "sin defectos de repleción",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1408,
+      "end": 1433
+    },
+    {
+      "text": "sin áreas de hipoperfusión",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1090,
+      "end": 1116
+    },
+    {
+      "text": "sin evidencias de patología aguda isquémica o hemorrágica",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1601,
+      "end": 1658
+    }
+  ],
+  "regenerado": true,
+  "fecha_regeneracion": "2025-08-06T16:45:07.353517"
+}

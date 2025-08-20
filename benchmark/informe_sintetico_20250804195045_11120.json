@@ -1,0 +1,245 @@
+{
+  "document_id": "informe_sintetico_20250804195045_11120",
+  "entities": [
+    {
+      "text": "infarto cerebral",
+      "type": "PATOLOGIA",
+      "start": 203,
+      "end": 219
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 237,
+      "end": 267
+    },
+    {
+      "text": "empeoramiento neurológico súbito",
+      "type": "PATOLOGIA",
+      "start": 278,
+      "end": 310
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 331,
+      "end": 347
+    },
+    {
+      "text": "cortes finos",
+      "type": "TECNICA_IMAGEN",
+      "start": 352,
+      "end": 364
+    },
+    {
+      "text": "contraste endovenoso",
+      "type": "TECNICA_IMAGEN",
+      "start": 417,
+      "end": 437
+    },
+    {
+      "text": "angiografía TC intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 443,
+      "end": 470
+    },
+    {
+      "text": "perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 483,
+      "end": 501
+    },
+    {
+      "text": "zona hipodensa extensa",
+      "type": "PATOLOGIA",
+      "start": 638,
+      "end": 660
+    },
+    {
+      "text": "infarto cerebral subagudo",
+      "type": "PATOLOGIA",
+      "start": 676,
+      "end": 701
+    },
+    {
+      "text": "transformación hemorrágica tipo HI2",
+      "type": "PATOLOGIA",
+      "start": 794,
+      "end": 829
+    },
+    {
+      "text": "sangrado parenquimatoso confluyente",
+      "type": "PATOLOGIA",
+      "start": 835,
+      "end": 870
+    },
+    {
+      "text": "línea media",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 907,
+      "end": 918
+    },
+    {
+      "text": "efecto masa significativo",
+      "type": "PATOLOGIA",
+      "start": 929,
+      "end": 954
+    },
+    {
+      "text": "hemorragia subaracnoidea",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 976,
+      "end": 1000
+    },
+    {
+      "text": "sangrado en otras localizaciones",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1004,
+      "end": 1036
+    },
+    {
+      "text": "desviación ni compresión",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1103,
+      "end": 1127
+    },
+    {
+      "text": "Cisternas basales libres",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1129,
+      "end": 1153
+    },
+    {
+      "text": "disminución marcada del flujo sanguíneo cerebral",
+      "type": "PATOLOGIA",
+      "start": 1178,
+      "end": 1226
+    },
+    {
+      "text": "volumen sanguíneo cerebral",
+      "type": "PATOLOGIA",
+      "start": 1235,
+      "end": 1261
+    },
+    {
+      "text": "territorio afectado de la ACM derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1274,
+      "end": 1311
+    },
+    {
+      "text": "incremento en el tiempo de tránsito medio",
+      "type": "PATOLOGIA",
+      "start": 1324,
+      "end": 1365
+    },
+    {
+      "text": "tiempo hasta el pico",
+      "type": "PATOLOGIA",
+      "start": 1374,
+      "end": 1394
+    },
+    {
+      "text": "tejido infartado",
+      "type": "PATOLOGIA",
+      "start": 1417,
+      "end": 1433
+    },
+    {
+      "text": "áreas con penumbra isquémica viable",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1453,
+      "end": 1488
+    },
+    {
+      "text": "Oclusión completa del segmento proximal de la arteria cerebral media derecha",
+      "type": "PATOLOGIA",
+      "start": 1520,
+      "end": 1596
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "ARTERIA",
+      "start": 237,
+      "end": 267
+    },
+    {
+      "text": "vasos intracraneales y extracraneales",
+      "type": "ARTERIA",
+      "start": 1604,
+      "end": 1641
+    },
+    {
+      "text": "estenosis significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1646,
+      "end": 1670
+    },
+    {
+      "text": "signos de vasoespasmo o trombosis adicional",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1684,
+      "end": 1727
+    },
+    {
+      "text": "Transformación hemorrágica tipo HI2 secundaria a infarto cerebral extenso en territorio de arteria cerebral media derecha",
+      "type": "PATOLOGIA",
+      "start": 1752,
+      "end": 1873
+    },
+    {
+      "text": "Oclusión proximal de dicha arteria confirmada",
+      "type": "PATOLOGIA",
+      "start": 1875,
+      "end": 1920
+    },
+    {
+      "text": "efecto masa importante",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1929,
+      "end": 1951
+    },
+    {
+      "text": "desplazamiento de línea media",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1955,
+      "end": 1984
+    },
+    {
+      "text": "Riesgo de evolución clínica desfavorable",
+      "type": "PATOLOGIA",
+      "start": 1986,
+      "end": 2026
+    },
+    {
+      "text": "Control clínico y neuroimágenes seriadas",
+      "type": "TECNICA_IMAGEN",
+      "start": 2128,
+      "end": 2168
+    },
+    {
+      "text": "monitorizar evolución hematológica y edema cerebral",
+      "type": "PATOLOGIA",
+      "start": 2174,
+      "end": 2225
+    },
+    {
+      "text": "Transformación hemorrágica tipo HI2 en infarto cerebral derecho en territorio de arteria cerebral media",
+      "type": "PATOLOGIA",
+      "start": 2367,
+      "end": 2470
+    },
+    {
+      "text": "Oclusión proximal ACM derecha",
+      "type": "PATOLOGIA",
+      "start": 2584,
+      "end": 2613
+    },
+    {
+      "text": "resto de vasos permeables",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2615,
+      "end": 2640
+    }
+  ]
+}

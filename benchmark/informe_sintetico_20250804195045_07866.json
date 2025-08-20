@@ -1,0 +1,119 @@
+{
+  "document_id": "informe_sintetico_20250804195045_07866",
+  "entities": [
+    {
+      "text": "infarto cerebral",
+      "type": "PATOLOGIA",
+      "start": 295,
+      "end": 311
+    },
+    {
+      "text": "watershed",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 336,
+      "end": 345
+    },
+    {
+      "text": "hipodensidad bilateral",
+      "type": "PATOLOGIA",
+      "start": 619,
+      "end": 641
+    },
+    {
+      "text": "edema citotóxico",
+      "type": "PATOLOGIA",
+      "start": 886,
+      "end": 902
+    },
+    {
+      "text": "ASPECTS 8",
+      "type": "PUNTUACION_CLINICA",
+      "start": 1052,
+      "end": 1061
+    },
+    {
+      "text": "isquemia",
+      "type": "PATOLOGIA",
+      "start": 1442,
+      "end": 1450
+    },
+    {
+      "text": "infarto",
+      "type": "PATOLOGIA",
+      "start": 295,
+      "end": 302
+    },
+    {
+      "text": "bilateral",
+      "type": "LATERALIDAD",
+      "start": 632,
+      "end": 641
+    },
+    {
+      "text": "sin alteraciones significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1822,
+      "end": 1853
+    },
+    {
+      "text": "sin evidencia de hemorragia ni oclusiones vasculares",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2586,
+      "end": 2638
+    },
+    {
+      "text": "tiempo de tránsito medio (MTT)",
+      "type": "MEDIDA",
+      "start": 1174,
+      "end": 1204
+    },
+    {
+      "text": "tiempo hasta el pico (TTP)",
+      "type": "MEDIDA",
+      "start": 1207,
+      "end": 1233
+    },
+    {
+      "text": "reducción moderada del flujo cerebral sanguíneo (CBF)",
+      "type": "MEDIDA",
+      "start": 1294,
+      "end": 1347
+    },
+    {
+      "text": "volumen cerebral sanguíneo (CBV) conservado o ligeramente disminuido",
+      "type": "MEDIDA",
+      "start": 1350,
+      "end": 1418
+    },
+    {
+      "text": "carótida interna",
+      "type": "ARTERIA",
+      "start": 1698,
+      "end": 1714
+    },
+    {
+      "text": "troncos supraaórticos",
+      "type": "ARTERIA",
+      "start": 1672,
+      "end": 1693
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 395,
+      "end": 411
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 414,
+      "end": 435
+    },
+    {
+      "text": "angio-TC intra/extracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 438,
+      "end": 465
+    }
+  ]
+}

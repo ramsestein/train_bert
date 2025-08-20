@@ -1,0 +1,65 @@
+{
+  "document_id": "informe_sintetico_20250804195045_21615",
+  "entities": [
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 432,
+      "end": 455
+    },
+    {
+      "text": "signos tempranos apreciables de infarto",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 459,
+      "end": 498
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 500,
+      "end": 510
+    },
+    {
+      "text": "surco cingulado izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 538,
+      "end": 563
+    },
+    {
+      "text": "arteria cerebral anterior (ACA) izquierda",
+      "type": "ARTERIA",
+      "start": 799,
+      "end": 840
+    },
+    {
+      "text": "lóbulo frontal y parietal izquierdos",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 983,
+      "end": 1019
+    },
+    {
+      "text": "Oclusión segmentaria en la porción proximal de la arteria cerebral anterior izquierda (A2)",
+      "type": "PATOLOGIA",
+      "start": 1053,
+      "end": 1143
+    },
+    {
+      "text": "penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 942,
+      "end": 960
+    },
+    {
+      "text": "Sistema vertebrobasilar y arterias carótidas intracraneales sin alteraciones relevantes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1284,
+      "end": 1371
+    },
+    {
+      "text": "territorio de penumbra isquémica asociado",
+      "type": "PATOLOGIA",
+      "start": 1978,
+      "end": 2019
+    }
+  ]
+}

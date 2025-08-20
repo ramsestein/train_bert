@@ -1,0 +1,89 @@
+{
+  "document_id": "informe_sintetico_20250804195045_12235",
+  "entities": [
+    {
+      "text": "hemorragia subaracnoidea",
+      "type": "PATOLOGIA",
+      "start": 260,
+      "end": 284
+    },
+    {
+      "text": "hiperdensidad difusa",
+      "type": "PATOLOGIA",
+      "start": 493,
+      "end": 513
+    },
+    {
+      "text": "focos hemorrágicos intraaxiales",
+      "type": "PATOLOGIA",
+      "start": 645,
+      "end": 676
+    },
+    {
+      "text": "hematomas intraparenquimatosos",
+      "type": "PATOLOGIA",
+      "start": 680,
+      "end": 710
+    },
+    {
+      "text": "hidrocefalia aguda",
+      "type": "PATOLOGIA",
+      "start": 851,
+      "end": 869
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 1038,
+      "end": 1052
+    },
+    {
+      "text": "aneurisma sacular",
+      "type": "PATOLOGIA",
+      "start": 1101,
+      "end": 1118
+    },
+    {
+      "text": "arteria comunicante anterior",
+      "type": "ARTERIA",
+      "start": 1149,
+      "end": 1177
+    },
+    {
+      "text": "6 mm",
+      "type": "MEDIDA",
+      "start": 1138,
+      "end": 1142
+    },
+    {
+      "text": "sin desplazamiento significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 750,
+      "end": 782
+    },
+    {
+      "text": "sin signos de hidrocefalia aguda",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 837,
+      "end": 869
+    },
+    {
+      "text": "TC craneal sin contraste",
+      "type": "TECNICA_IMAGEN",
+      "start": 305,
+      "end": 329
+    },
+    {
+      "text": "estudio de perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 335,
+      "end": 364
+    },
+    {
+      "text": "angioTC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 367,
+      "end": 396
+    }
+  ]
+}

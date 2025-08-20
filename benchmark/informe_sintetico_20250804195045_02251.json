@@ -1,0 +1,233 @@
+{
+  "document_id": "informe_sintetico_20250804195045_02251",
+  "entities": [
+    {
+      "text": "infarto cerebral reciente",
+      "type": "PATOLOGIA",
+      "start": 195,
+      "end": 220
+    },
+    {
+      "text": "empeoramiento neurológico agudo",
+      "type": "PATOLOGIA",
+      "start": 231,
+      "end": 262
+    },
+    {
+      "text": "TC CRANEAL BASAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 420,
+      "end": 436
+    },
+    {
+      "text": "área hipodensa extensa",
+      "type": "PATOLOGIA",
+      "start": 451,
+      "end": 473
+    },
+    {
+      "text": "territorio medio cerebral derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 477,
+      "end": 510
+    },
+    {
+      "text": "infarto cerebral establecido",
+      "type": "PATOLOGIA",
+      "start": 582,
+      "end": 610
+    },
+    {
+      "text": "múltiples focos hiperdensos difusos",
+      "type": "PATOLOGIA",
+      "start": 662,
+      "end": 697
+    },
+    {
+      "text": "transformación hemorrágica tipo HI2",
+      "type": "PATOLOGIA",
+      "start": 745,
+      "end": 780
+    },
+    {
+      "text": "hemorragias intraventriculares",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 833,
+      "end": 863
+    },
+    {
+      "text": "desplazamientos de línea media",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 890,
+      "end": 920
+    },
+    {
+      "text": "signos de herniación cerebral",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 924,
+      "end": 953
+    },
+    {
+      "text": "Sistema ventricular normotráfico",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 955,
+      "end": 987
+    },
+    {
+      "text": "Cisternas basales libres",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 989,
+      "end": 1013
+    },
+    {
+      "text": "TC PERFUSIÓN",
+      "type": "TECNICA_IMAGEN",
+      "start": 1016,
+      "end": 1028
+    },
+    {
+      "text": "disminución significativa del flujo cerebral",
+      "type": "PATOLOGIA",
+      "start": 1044,
+      "end": 1088
+    },
+    {
+      "text": "volumen cerebral",
+      "type": "MEDIDA",
+      "start": 1097,
+      "end": 1113
+    },
+    {
+      "text": "territorio afectado",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1126,
+      "end": 1145
+    },
+    {
+      "text": "prolongación del tiempo de tránsito",
+      "type": "PATOLOGIA",
+      "start": 1151,
+      "end": 1186
+    },
+    {
+      "text": "infarto isquémico establecido",
+      "type": "PATOLOGIA",
+      "start": 1205,
+      "end": 1234
+    },
+    {
+      "text": "áreas con discordancia significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1251,
+      "end": 1287
+    },
+    {
+      "text": "ANGIO-TC EXTRA E INTRACRANEAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 1327,
+      "end": 1356
+    },
+    {
+      "text": "Arco aórtico y troncos supraórticos",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1360,
+      "end": 1395
+    },
+    {
+      "text": "lesiones ateromatosas relevantes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1400,
+      "end": 1432
+    },
+    {
+      "text": "estenosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1436,
+      "end": 1445
+    },
+    {
+      "text": "Arterias carótidas internas y vertebrales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1447,
+      "end": 1488
+    },
+    {
+      "text": "permeabilidad conservada",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1493,
+      "end": 1517
+    },
+    {
+      "text": "signos de trombosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1523,
+      "end": 1542
+    },
+    {
+      "text": "Principales arterias cerebrales intracraneales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1544,
+      "end": 1590
+    },
+    {
+      "text": "permeables",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1591,
+      "end": 1601
+    },
+    {
+      "text": "evidencias de oclusiones",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1607,
+      "end": 1631
+    },
+    {
+      "text": "estenosis significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1635,
+      "end": 1659
+    },
+    {
+      "text": "Infarto cerebral establecido",
+      "type": "PATOLOGIA",
+      "start": 1686,
+      "end": 1714
+    },
+    {
+      "text": "territorio medio cerebral derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 477,
+      "end": 510
+    },
+    {
+      "text": "transformación hemorrágica tipo HI2",
+      "type": "PATOLOGIA",
+      "start": 745,
+      "end": 780
+    },
+    {
+      "text": "complicaciones graves asociadas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1796,
+      "end": 1827
+    },
+    {
+      "text": "Angiografía TC sin hallazgos obstructivos arteriales intracraneales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1829,
+      "end": 1896
+    },
+    {
+      "text": "signos de efecto masa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1901,
+      "end": 1922
+    },
+    {
+      "text": "herniación",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 934,
+      "end": 944
+    }
+  ]
+}

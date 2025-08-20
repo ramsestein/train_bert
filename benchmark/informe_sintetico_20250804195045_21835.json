@@ -1,0 +1,271 @@
+{
+  "document_id": "informe_sintetico_20250804195045_21835",
+  "entities": [
+    {
+      "text": "hemiparesia derecha",
+      "type": "PATOLOGIA",
+      "start": 217,
+      "end": 236
+    },
+    {
+      "text": "afasia",
+      "type": "PATOLOGIA",
+      "start": 239,
+      "end": 245
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 259,
+      "end": 273
+    },
+    {
+      "text": "arteria cerebral posterior izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 291,
+      "end": 327
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 383,
+      "end": 399
+    },
+    {
+      "text": "hemorragias intra o extraaxiales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 527,
+      "end": 559
+    },
+    {
+      "text": "Parénquima cerebral",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 561,
+      "end": 580
+    },
+    {
+      "text": "sustancia gris-blanca",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 600,
+      "end": 621
+    },
+    {
+      "text": "signos evidentes de infarto establecido",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 646,
+      "end": 685
+    },
+    {
+      "text": "Sistema ventricular",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 750,
+      "end": 769
+    },
+    {
+      "text": "cisternas",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 772,
+      "end": 781
+    },
+    {
+      "text": "línea media",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 792,
+      "end": 803
+    },
+    {
+      "text": "TC perfusión",
+      "type": "TECNICA_IMAGEN",
+      "start": 415,
+      "end": 427
+    },
+    {
+      "text": "tiempo de tránsito medio (TTM)",
+      "type": "MEDIDA",
+      "start": 879,
+      "end": 909
+    },
+    {
+      "text": "tiempo hasta el máximo (Tmax)",
+      "type": "MEDIDA",
+      "start": 912,
+      "end": 941
+    },
+    {
+      "text": "territorio de la ACP izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 945,
+      "end": 975
+    },
+    {
+      "text": "descenso marcado del flujo sanguíneo cerebral (CBF)",
+      "type": "PATOLOGIA",
+      "start": 991,
+      "end": 1042
+    },
+    {
+      "text": "volumen sanguíneo cerebral (CBV)",
+      "type": "MEDIDA",
+      "start": 1045,
+      "end": 1077
+    },
+    {
+      "text": "zona de hipoperfusión",
+      "type": "PATOLOGIA",
+      "start": 1094,
+      "end": 1115
+    },
+    {
+      "text": "área de penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1118,
+      "end": 1144
+    },
+    {
+      "text": "infarto irreversible",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1173,
+      "end": 1193
+    },
+    {
+      "text": "no pérdida notoria de CBV",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1195,
+      "end": 1220
+    },
+    {
+      "text": "AngioTC intra y extracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 439,
+      "end": 467
+    },
+    {
+      "text": "Arco aórtico",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1254,
+      "end": 1266
+    },
+    {
+      "text": "troncos supraórticos",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1269,
+      "end": 1289
+    },
+    {
+      "text": "estenosis significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1294,
+      "end": 1318
+    },
+    {
+      "text": "arteria cerebral posterior izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 291,
+      "end": 327
+    },
+    {
+      "text": "defecto de repleción subsegmentario",
+      "type": "PATOLOGIA",
+      "start": 1361,
+      "end": 1396
+    },
+    {
+      "text": "segmento P2",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1400,
+      "end": 1411
+    },
+    {
+      "text": "oclusión parcial trombótica",
+      "type": "PATOLOGIA",
+      "start": 1426,
+      "end": 1453
+    },
+    {
+      "text": "flujo conservado",
+      "type": "PATOLOGIA",
+      "start": 1496,
+      "end": 1512
+    },
+    {
+      "text": "estenosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1294,
+      "end": 1303
+    },
+    {
+      "text": "aneurismas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1548,
+      "end": 1558
+    },
+    {
+      "text": "TC basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 1587,
+      "end": 1595
+    },
+    {
+      "text": "hemorragia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 527,
+      "end": 537
+    },
+    {
+      "text": "infarto establecido",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 666,
+      "end": 685
+    },
+    {
+      "text": "territorio de la ACP izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 945,
+      "end": 975
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 259,
+      "end": 273
+    },
+    {
+      "text": "área de penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1118,
+      "end": 1144
+    },
+    {
+      "text": "infarto irreversible",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1173,
+      "end": 1193
+    },
+    {
+      "text": "defecto luminal",
+      "type": "PATOLOGIA",
+      "start": 1867,
+      "end": 1882
+    },
+    {
+      "text": "segmento P2",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1400,
+      "end": 1411
+    },
+    {
+      "text": "trombosis parcial",
+      "type": "PATOLOGIA",
+      "start": 1934,
+      "end": 1951
+    },
+    {
+      "text": "alteraciones significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2004,
+      "end": 2031
+    }
+  ],
+  "regenerado": true,
+  "fecha_regeneracion": "2025-08-06T15:19:07.149989"
+}

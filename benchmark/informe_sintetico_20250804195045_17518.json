@@ -1,0 +1,197 @@
+{
+  "document_id": "informe_sintetico_20250804195045_17518",
+  "entities": [
+    {
+      "text": "isquemia",
+      "type": "PATOLOGIA",
+      "start": 272,
+      "end": 280
+    },
+    {
+      "text": "territorio vertebrobasilar",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 284,
+      "end": 310
+    },
+    {
+      "text": "hemicuerpo derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 232,
+      "end": 250
+    },
+    {
+      "text": "TC Basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 355,
+      "end": 363
+    },
+    {
+      "text": "TC Perfusión",
+      "type": "TECNICA_IMAGEN",
+      "start": 366,
+      "end": 378
+    },
+    {
+      "text": "AngioTC extra- e intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 381,
+      "end": 410
+    },
+    {
+      "text": "hemorragia intra ni extraaxial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 525,
+      "end": 555
+    },
+    {
+      "text": "lesiones isquémicas agudas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 648,
+      "end": 674
+    },
+    {
+      "text": "TTP",
+      "type": "MEDIDA",
+      "start": 917,
+      "end": 920
+    },
+    {
+      "text": "MTT",
+      "type": "MEDIDA",
+      "start": 950,
+      "end": 953
+    },
+    {
+      "text": "bilateral",
+      "type": "LATERALIDAD",
+      "start": 986,
+      "end": 995
+    },
+    {
+      "text": "cerebeloso derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1048,
+      "end": 1066
+    },
+    {
+      "text": "vermis",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1028,
+      "end": 1034
+    },
+    {
+      "text": "flujo cerebral (CBF)",
+      "type": "MEDIDA",
+      "start": 1097,
+      "end": 1117
+    },
+    {
+      "text": "volumen cerebral (CBV)",
+      "type": "MEDIDA",
+      "start": 1120,
+      "end": 1142
+    },
+    {
+      "text": "penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1173,
+      "end": 1191
+    },
+    {
+      "text": "Oclusión completa",
+      "type": "PATOLOGIA",
+      "start": 1229,
+      "end": 1246
+    },
+    {
+      "text": "segmento V4 de la arteria vertebral derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1251,
+      "end": 1294
+    },
+    {
+      "text": "arteria basilar",
+      "type": "ARTERIA",
+      "start": 1360,
+      "end": 1375
+    },
+    {
+      "text": "arteria vertebral izquierda",
+      "type": "ARTERIA",
+      "start": 1428,
+      "end": 1455
+    },
+    {
+      "text": "hipoplásica",
+      "type": "PATOLOGIA",
+      "start": 1495,
+      "end": 1506
+    },
+    {
+      "text": "estenosis significativas",
+      "type": "PATOLOGIA",
+      "start": 1566,
+      "end": 1590
+    },
+    {
+      "text": "trombosis o estenosis en troncos supra-aórticos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1612,
+      "end": 1659
+    },
+    {
+      "text": "hemorragia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 525,
+      "end": 535
+    },
+    {
+      "text": "infarto establecido",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1733,
+      "end": 1752
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 1819,
+      "end": 1833
+    },
+    {
+      "text": "territorio vertebrobasilar",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 284,
+      "end": 310
+    },
+    {
+      "text": "cerebelo derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1890,
+      "end": 1906
+    },
+    {
+      "text": "segmento distal de la arteria vertebral derecha",
+      "type": "ARTERIA",
+      "start": 1932,
+      "end": 1979
+    },
+    {
+      "text": "estenosis funcional en segmento proximal de arteria basilar",
+      "type": "PATOLOGIA",
+      "start": 1982,
+      "end": 2041
+    },
+    {
+      "text": "Vertebral izquierda hipoplásica",
+      "type": "PATOLOGIA",
+      "start": 2043,
+      "end": 2074
+    },
+    {
+      "text": "elevado de evolución isquémica",
+      "type": "PATOLOGIA",
+      "start": 2083,
+      "end": 2113
+    }
+  ]
+}

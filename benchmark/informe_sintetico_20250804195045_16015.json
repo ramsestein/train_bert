@@ -1,0 +1,83 @@
+{
+  "document_id": "informe_sintetico_20250804195045_16015",
+  "entities": [
+    {
+      "text": "ictus isquémico",
+      "type": "PATOLOGIA",
+      "start": 246,
+      "end": 261
+    },
+    {
+      "text": "arteria cerebral media",
+      "type": "ARTERIA",
+      "start": 279,
+      "end": 301
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 667,
+      "end": 676
+    },
+    {
+      "text": "ASPECTS 9",
+      "type": "PUNTUACION_CLINICA",
+      "start": 741,
+      "end": 750
+    },
+    {
+      "text": "prolongación del tiempo de tránsito medio (TTP)",
+      "type": "MEDIDA",
+      "start": 950,
+      "end": 997
+    },
+    {
+      "text": "tiempo hasta el pico (Tmax)",
+      "type": "MEDIDA",
+      "start": 1000,
+      "end": 1027
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "ARTERIA",
+      "start": 1075,
+      "end": 1107
+    },
+    {
+      "text": "segmentos M2/M3",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1116,
+      "end": 1131
+    },
+    {
+      "text": "oclusión focal",
+      "type": "PATOLOGIA",
+      "start": 1740,
+      "end": 1754
+    },
+    {
+      "text": "territorio ACM distal izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 2112,
+      "end": 2143
+    },
+    {
+      "text": "segmentos M2/M3",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1116,
+      "end": 1131
+    },
+    {
+      "text": "oclusión arterial",
+      "type": "PATOLOGIA",
+      "start": 2156,
+      "end": 2173
+    },
+    {
+      "text": "área de penumbra viable",
+      "type": "PATOLOGIA",
+      "start": 2176,
+      "end": 2199
+    }
+  ]
+}

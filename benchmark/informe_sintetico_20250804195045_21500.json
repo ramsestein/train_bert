@@ -1,0 +1,53 @@
+{
+  "document_id": "informe_sintetico_20250804195045_21500",
+  "entities": [
+    {
+      "text": "hematoma lobar",
+      "type": "PATOLOGIA",
+      "start": 505,
+      "end": 519
+    },
+    {
+      "text": "región parietal izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 523,
+      "end": 548
+    },
+    {
+      "text": "45 x 38 x 30 mm",
+      "type": "MEDIDA",
+      "start": 581,
+      "end": 596
+    },
+    {
+      "text": "aguda",
+      "type": "TEMPORALIDAD",
+      "start": 652,
+      "end": 657
+    },
+    {
+      "text": "6 mm",
+      "type": "MEDIDA",
+      "start": 796,
+      "end": 800
+    },
+    {
+      "text": "No se observan signos de fractura ósea",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 802,
+      "end": 840
+    },
+    {
+      "text": "No se observan malformaciones vasculares ni aneurismas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1349,
+      "end": 1403
+    },
+    {
+      "text": "sin evidencia de trombosis ni estenosis significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1293,
+      "end": 1347
+    }
+  ]
+}

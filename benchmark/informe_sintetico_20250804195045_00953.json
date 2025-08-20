@@ -1,0 +1,119 @@
+{
+  "document_id": "informe_sintetico_20250804195045_00953",
+  "entities": [
+    {
+      "text": "infarto cerebral",
+      "type": "PATOLOGIA",
+      "start": 250,
+      "end": 266
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "ARTERIA",
+      "start": 287,
+      "end": 317
+    },
+    {
+      "text": "transformación hemorrágica",
+      "type": "PATOLOGIA",
+      "start": 343,
+      "end": 369
+    },
+    {
+      "text": "subagudo",
+      "type": "TEMPORALIDAD",
+      "start": 667,
+      "end": 675
+    },
+    {
+      "text": "área hipodensa",
+      "type": "PATOLOGIA",
+      "start": 568,
+      "end": 582
+    },
+    {
+      "text": "infarto cerebral subagudo",
+      "type": "PATOLOGIA",
+      "start": 650,
+      "end": 675
+    },
+    {
+      "text": "foco hiperdenso pequeño",
+      "type": "PATOLOGIA",
+      "start": 721,
+      "end": 744
+    },
+    {
+      "text": "grado HI1",
+      "type": "PUNTUACION_CLINICA",
+      "start": 788,
+      "end": 797
+    },
+    {
+      "text": "aumento del tiempo de tránsito medio (MTT)",
+      "type": "MEDIDA",
+      "start": 1142,
+      "end": 1184
+    },
+    {
+      "text": "tiempo hasta el pico (TTP)",
+      "type": "MEDIDA",
+      "start": 1187,
+      "end": 1213
+    },
+    {
+      "text": "reducción del flujo sanguíneo cerebral (CBF)",
+      "type": "MEDIDA",
+      "start": 1265,
+      "end": 1309
+    },
+    {
+      "text": "volumen cerebral (CBV)",
+      "type": "MEDIDA",
+      "start": 1312,
+      "end": 1334
+    },
+    {
+      "text": "isquemia subaguda",
+      "type": "PATOLOGIA",
+      "start": 2035,
+      "end": 2052
+    },
+    {
+      "text": "arteria cerebral media derecha distal",
+      "type": "ARTERIA",
+      "start": 1524,
+      "end": 1561
+    },
+    {
+      "text": "bifurcación carotídea derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1739,
+      "end": 1768
+    },
+    {
+      "text": "sin repercusión hemodinámica",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1769,
+      "end": 1797
+    },
+    {
+      "text": "transformación hemorrágica grado HI1",
+      "type": "PATOLOGIA",
+      "start": 761,
+      "end": 797
+    },
+    {
+      "text": "reperfusión vascular distal",
+      "type": "PATOLOGIA",
+      "start": 2101,
+      "end": 2128
+    },
+    {
+      "text": "circulación colateral funcional",
+      "type": "PATOLOGIA",
+      "start": 2133,
+      "end": 2164
+    }
+  ]
+}

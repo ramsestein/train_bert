@@ -1,0 +1,95 @@
+{
+  "document_id": "informe_sintetico_20250804195045_21247",
+  "entities": [
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 246,
+      "end": 260
+    },
+    {
+      "text": "arteria cerebral posterior derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 278,
+      "end": 312
+    },
+    {
+      "text": "arteria cerebral posterior derecha",
+      "type": "ARTERIA",
+      "start": 278,
+      "end": 312
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 305,
+      "end": 312
+    },
+    {
+      "text": "TTP",
+      "type": "MEDIDA",
+      "start": 372,
+      "end": 375
+    },
+    {
+      "text": "CBF",
+      "type": "MEDIDA",
+      "start": 382,
+      "end": 385
+    },
+    {
+      "text": "CBV",
+      "type": "MEDIDA",
+      "start": 377,
+      "end": 380
+    },
+    {
+      "text": "zona de penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1075,
+      "end": 1101
+    },
+    {
+      "text": "Oclusión subtotal focal",
+      "type": "PATOLOGIA",
+      "start": 1135,
+      "end": 1158
+    },
+    {
+      "text": "segmento P2",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1162,
+      "end": 1173
+    },
+    {
+      "text": "arteria cerebral posterior derecha",
+      "type": "ARTERIA",
+      "start": 278,
+      "end": 312
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 305,
+      "end": 312
+    },
+    {
+      "text": "No se identifican focos de hemorragia intra o extraaxial.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 487,
+      "end": 544
+    },
+    {
+      "text": "No se observan malformaciones vasculares ni aneurismas.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1276,
+      "end": 1331
+    },
+    {
+      "text": "No evidencia de hemorragia ni edema con efecto de masa significativo.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1538,
+      "end": 1607
+    }
+  ]
+}

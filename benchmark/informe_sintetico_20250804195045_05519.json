@@ -1,0 +1,247 @@
+{
+  "document_id": "informe_sintetico_20250804195045_05519",
+  "entities": [
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 1493,
+      "end": 1507
+    },
+    {
+      "text": "hemiparesia derecha",
+      "type": "PATOLOGIA",
+      "start": 216,
+      "end": 235
+    },
+    {
+      "text": "afasia",
+      "type": "PATOLOGIA",
+      "start": 238,
+      "end": 244
+    },
+    {
+      "text": "3 horas",
+      "type": "TEMPORALIDAD",
+      "start": 280,
+      "end": 287
+    },
+    {
+      "text": "TC craneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 308,
+      "end": 318
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 345,
+      "end": 366
+    },
+    {
+      "text": "angio TC",
+      "type": "TECNICA_IMAGEN",
+      "start": 369,
+      "end": 377
+    },
+    {
+      "text": "arteria hiperdensa",
+      "type": "PATOLOGIA",
+      "start": 466,
+      "end": 484
+    },
+    {
+      "text": "segmento proximal M1",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 488,
+      "end": 508
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 515,
+      "end": 547
+    },
+    {
+      "text": "hipodensidad incipiente",
+      "type": "PATOLOGIA",
+      "start": 560,
+      "end": 583
+    },
+    {
+      "text": "región insular",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 587,
+      "end": 601
+    },
+    {
+      "text": "núcleos basales izquierdos",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 604,
+      "end": 630
+    },
+    {
+      "text": "diferenciación cortico-subcortical",
+      "type": "PATOLOGIA",
+      "start": 654,
+      "end": 688
+    },
+    {
+      "text": "ASPECTS",
+      "type": "PUNTUACION_CLINICA",
+      "start": 690,
+      "end": 697
+    },
+    {
+      "text": "7",
+      "type": "MEDIDA",
+      "start": 711,
+      "end": 712
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 739,
+      "end": 762
+    },
+    {
+      "text": "desplazamiento de estructuras de la línea media",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 766,
+      "end": 813
+    },
+    {
+      "text": "límites normales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 845,
+      "end": 861
+    },
+    {
+      "text": "CBF",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 930,
+      "end": 933
+    },
+    {
+      "text": "volumen cerebral",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 941,
+      "end": 957
+    },
+    {
+      "text": "territorio vascular de la ACM izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 970,
+      "end": 1009
+    },
+    {
+      "text": "tiempo de tránsito medio",
+      "type": "MEDIDA",
+      "start": 1032,
+      "end": 1056
+    },
+    {
+      "text": "MTT",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1058,
+      "end": 1061
+    },
+    {
+      "text": "Tmax",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1076,
+      "end": 1080
+    },
+    {
+      "text": "área de infarto penumbra extensa",
+      "type": "PATOLOGIA",
+      "start": 1095,
+      "end": 1127
+    },
+    {
+      "text": "segmento proximal M1",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 488,
+      "end": 508
+    },
+    {
+      "text": "ACM izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 996,
+      "end": 1009
+    },
+    {
+      "text": "árbol arterial cerebral",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1237,
+      "end": 1260
+    },
+    {
+      "text": "estenosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1265,
+      "end": 1274
+    },
+    {
+      "text": "anomalías detectables",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1278,
+      "end": 1299
+    },
+    {
+      "text": "territorio afectado",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1335,
+      "end": 1354
+    },
+    {
+      "text": "permeable",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1421,
+      "end": 1430
+    },
+    {
+      "text": "territorio de la arteria cerebral media izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1511,
+      "end": 1560
+    },
+    {
+      "text": "oclusión proximal de M1",
+      "type": "PATOLOGIA",
+      "start": 1566,
+      "end": 1589
+    },
+    {
+      "text": "evidenciada por arteria hiperdensa",
+      "type": "PATOLOGIA",
+      "start": 1590,
+      "end": 1624
+    },
+    {
+      "text": "ausencia de flujo en angio-TC",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1627,
+      "end": 1656
+    },
+    {
+      "text": "ASPECTS 7",
+      "type": "PUNTUACION_CLINICA",
+      "start": 1658,
+      "end": 1667
+    },
+    {
+      "text": "área de infarto parcial",
+      "type": "PATOLOGIA",
+      "start": 1675,
+      "end": 1698
+    },
+    {
+      "text": "tratamiento endovascular urgente",
+      "type": "PATOLOGIA",
+      "start": 1755,
+      "end": 1787
+    }
+  ],
+  "regenerado": true,
+  "fecha_regeneracion": "2025-08-06T03:21:03.905862"
+}

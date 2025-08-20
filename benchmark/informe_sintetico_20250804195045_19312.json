@@ -1,0 +1,125 @@
+{
+  "document_id": "informe_sintetico_20250804195045_19312",
+  "entities": [
+    {
+      "text": "ictus agudo",
+      "type": "TEMPORALIDAD",
+      "start": 258,
+      "end": 269
+    },
+    {
+      "text": "arteria cerebral anterior",
+      "type": "ARTERIA",
+      "start": 290,
+      "end": 315
+    },
+    {
+      "text": "hemicuerpo derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 206,
+      "end": 224
+    },
+    {
+      "text": "hipodensidad",
+      "type": "PATOLOGIA",
+      "start": 534,
+      "end": 546
+    },
+    {
+      "text": "pérdida de la diferenciación córtico-subcortical",
+      "type": "PATOLOGIA",
+      "start": 549,
+      "end": 597
+    },
+    {
+      "text": "territorio cortical y subcortical de la arteria cerebral anterior izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 604,
+      "end": 679
+    },
+    {
+      "text": "segmento anterior del cuerpo calloso",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 736,
+      "end": 772
+    },
+    {
+      "text": "ASPECTS 8",
+      "type": "PUNTUACION_CLINICA",
+      "start": 774,
+      "end": 783
+    },
+    {
+      "text": "hemorragias intra ni extraaxiales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 821,
+      "end": 854
+    },
+    {
+      "text": "prolongación del tiempo de tránsito medio (Tmax)",
+      "type": "PATOLOGIA",
+      "start": 1003,
+      "end": 1051
+    },
+    {
+      "text": "aumento del tiempo de retraso",
+      "type": "PATOLOGIA",
+      "start": 1054,
+      "end": 1083
+    },
+    {
+      "text": "reducción significativa del flujo cerebral (CBF)",
+      "type": "PATOLOGIA",
+      "start": 1126,
+      "end": 1174
+    },
+    {
+      "text": "caída leve del volumen cerebral (CBV)",
+      "type": "PATOLOGIA",
+      "start": 1177,
+      "end": 1214
+    },
+    {
+      "text": "zona en riesgo de isquemia (área penumbra)",
+      "type": "PATOLOGIA",
+      "start": 1265,
+      "end": 1307
+    },
+    {
+      "text": "Ateromatosis moderada",
+      "type": "PATOLOGIA",
+      "start": 1345,
+      "end": 1366
+    },
+    {
+      "text": "bifurcación carotídea izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1370,
+      "end": 1401
+    },
+    {
+      "text": "aneurismas ni malformaciones vasculares",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1627,
+      "end": 1666
+    },
+    {
+      "text": "oclusión trombótica en segmento A2 proximal",
+      "type": "PATOLOGIA",
+      "start": 1777,
+      "end": 1820
+    },
+    {
+      "text": "signo de penumbra en perfusión cerebral",
+      "type": "PATOLOGIA",
+      "start": 1891,
+      "end": 1930
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1952,
+      "end": 1975
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "document_id": "0000000010000000057278709_cleaned",
+  "entities": [
+    {
+      "text": "Infart cerebral causat per oclusió o estenosi no especificades d'artèria cerebral no especificada",
+      "type": "PATOLOGIA",
+      "start": 166,
+      "end": 263
+    },
+    {
+      "text": "isquemia establecida",
+      "type": "PATOLOGIA",
+      "start": 572,
+      "end": 592
+    },
+    {
+      "text": "isquemia crónica",
+      "type": "PATOLOGIA",
+      "start": 683,
+      "end": 699
+    },
+    {
+      "text": "hemisferio cerebeloso derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 520,
+      "end": 549
+    },
+    {
+      "text": "hemicerebelo izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 636,
+      "end": 658
+    },
+    {
+      "text": "fosa posterior",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 948,
+      "end": 962
+    },
+    {
+      "text": "arterias cereberales posteriores",
+      "type": "ARTERIA",
+      "start": 971,
+      "end": 1003
+    },
+    {
+      "text": "arterias carótidas",
+      "type": "ARTERIA",
+      "start": 1249,
+      "end": 1267
+    },
+    {
+      "text": "arterias vertebrales",
+      "type": "ARTERIA",
+      "start": 1404,
+      "end": 1424
+    },
+    {
+      "text": "arteria basilar",
+      "type": "ARTERIA",
+      "start": 1626,
+      "end": 1641
+    },
+    {
+      "text": "20-30%",
+      "type": "MEDIDA",
+      "start": 1337,
+      "end": 1343
+    },
+    {
+      "text": "15 mm",
+      "type": "MEDIDA",
+      "start": 1773,
+      "end": 1778
+    },
+    {
+      "text": "agudo",
+      "type": "TEMPORALIDAD",
+      "start": 464,
+      "end": 469
+    },
+    {
+      "text": "Oclusión de ambas arterias vertebrales y basilar con signos de isquemia establecida en territorio cerebeloso derecho.",
+      "type": "PATOLOGIA",
+      "start": 1907,
+      "end": 2024
+    },
+    {
+      "text": "No se observa sangrado agudo intracraneal.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 441,
+      "end": 483
+    },
+    {
+      "text": "TC CRANEAL BASAL, PERFUSIÓN Y ANGIO-TC INTRA/EXTRACRANEAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 343,
+      "end": 400
+    },
+    {
+      "text": "TC PERFUSIÓN",
+      "type": "TECNICA_IMAGEN",
+      "start": 894,
+      "end": 906
+    },
+    {
+      "text": "ANGIO TC EXTRA E INTRACRANEAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 1157,
+      "end": 1186
+    }
+  ]
+}

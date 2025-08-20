@@ -1,0 +1,107 @@
+{
+  "document_id": "informe_sintetico_20250804195045_19925",
+  "entities": [
+    {
+      "text": "ictus isquémico",
+      "type": "PATOLOGIA",
+      "start": 238,
+      "end": 253
+    },
+    {
+      "text": "segmento M1",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 449,
+      "end": 460
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "ARTERIA",
+      "start": 467,
+      "end": 499
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 490,
+      "end": 499
+    },
+    {
+      "text": "6",
+      "type": "MEDIDA",
+      "start": 671,
+      "end": 672
+    },
+    {
+      "text": "8/10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 697,
+      "end": 701
+    },
+    {
+      "text": "hemorragia intra ni extraaxial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 732,
+      "end": 762
+    },
+    {
+      "text": "ACM izquierda",
+      "type": "ARTERIA",
+      "start": 960,
+      "end": 973
+    },
+    {
+      "text": "penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1053,
+      "end": 1071
+    },
+    {
+      "text": "núcleo isquémico",
+      "type": "PATOLOGIA",
+      "start": 1107,
+      "end": 1123
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 1453,
+      "end": 1467
+    },
+    {
+      "text": "oclusión proximal de la arteria cerebral media izquierda (M1)",
+      "type": "PATOLOGIA",
+      "start": 1472,
+      "end": 1533
+    },
+    {
+      "text": "ASPECTS 8/10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 1568,
+      "end": 1580
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1598,
+      "end": 1621
+    },
+    {
+      "text": "TC craneal basal urgente",
+      "type": "TECNICA_IMAGEN",
+      "start": 273,
+      "end": 297
+    },
+    {
+      "text": "perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 299,
+      "end": 317
+    },
+    {
+      "text": "angio-TC intra y extracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 320,
+      "end": 349
+    }
+  ]
+}

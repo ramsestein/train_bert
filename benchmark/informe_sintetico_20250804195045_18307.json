@@ -1,0 +1,119 @@
+{
+  "document_id": "informe_sintetico_20250804195045_18307",
+  "entities": [
+    {
+      "text": "ictus isquémico",
+      "type": "PATOLOGIA",
+      "start": 210,
+      "end": 225
+    },
+    {
+      "text": "isquemia aguda temprana",
+      "type": "PATOLOGIA",
+      "start": 668,
+      "end": 691
+    },
+    {
+      "text": "zona en penumbra isquémica significativa",
+      "type": "PATOLOGIA",
+      "start": 1115,
+      "end": 1155
+    },
+    {
+      "text": "tejido infartado precoz",
+      "type": "PATOLOGIA",
+      "start": 1246,
+      "end": 1269
+    },
+    {
+      "text": "oclusión completa",
+      "type": "PATOLOGIA",
+      "start": 1318,
+      "end": 1335
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 243,
+      "end": 273
+    },
+    {
+      "text": "territorio frontoparietal derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 620,
+      "end": 653
+    },
+    {
+      "text": "segmento proximal (M1)",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1340,
+      "end": 1362
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "ARTERIA",
+      "start": 243,
+      "end": 273
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 266,
+      "end": 273
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 266,
+      "end": 273
+    },
+    {
+      "text": "prolongación del tiempo de tránsito medio (TTP)",
+      "type": "MEDIDA",
+      "start": 885,
+      "end": 932
+    },
+    {
+      "text": "reducción del flujo sanguíneo cerebral (CBF)",
+      "type": "MEDIDA",
+      "start": 935,
+      "end": 979
+    },
+    {
+      "text": "preservación del volumen sanguíneo cerebral (CBV)",
+      "type": "MEDIDA",
+      "start": 1054,
+      "end": 1103
+    },
+    {
+      "text": "pequeña área con reducción del volumen cerebral (core)",
+      "type": "MEDIDA",
+      "start": 1175,
+      "end": 1229
+    },
+    {
+      "text": "sin estenosis significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1440,
+      "end": 1467
+    },
+    {
+      "text": "TC cráneo basal sin contraste",
+      "type": "TECNICA_IMAGEN",
+      "start": 294,
+      "end": 323
+    },
+    {
+      "text": "estudio de perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 325,
+      "end": 354
+    },
+    {
+      "text": "angiografía por TC de troncos supraórticos y vasos intracraneales",
+      "type": "TECNICA_IMAGEN",
+      "start": 357,
+      "end": 422
+    }
+  ]
+}

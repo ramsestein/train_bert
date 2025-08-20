@@ -1,0 +1,71 @@
+{
+  "document_id": "informe_sintetico_20250804195045_14464",
+  "entities": [
+    {
+      "text": "hemorragia aguda",
+      "type": "PATOLOGIA",
+      "start": 450,
+      "end": 466
+    },
+    {
+      "text": "infarto reciente",
+      "type": "PATOLOGIA",
+      "start": 480,
+      "end": 496
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 557,
+      "end": 567
+    },
+    {
+      "text": "ACAs",
+      "type": "ARTERIA",
+      "start": 1111,
+      "end": 1115
+    },
+    {
+      "text": "ACMs",
+      "type": "ARTERIA",
+      "start": 1117,
+      "end": 1121
+    },
+    {
+      "text": "ACPs",
+      "type": "ARTERIA",
+      "start": 1123,
+      "end": 1127
+    },
+    {
+      "text": "sistema vertebrobasilar",
+      "type": "ARTERIA",
+      "start": 1130,
+      "end": 1153
+    },
+    {
+      "text": "hemorragia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 450,
+      "end": 460
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1441,
+      "end": 1455
+    },
+    {
+      "text": "alteraciones vasculares significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1458,
+      "end": 1496
+    },
+    {
+      "text": "Perfusión cerebral y angiografía intracraneal normales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1498,
+      "end": 1552
+    }
+  ]
+}

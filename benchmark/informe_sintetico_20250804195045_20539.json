@@ -1,0 +1,215 @@
+{
+  "document_id": "informe_sintetico_20250804195045_20539",
+  "entities": [
+    {
+      "text": "hemiplejia derecha",
+      "type": "PATOLOGIA",
+      "start": 205,
+      "end": 223
+    },
+    {
+      "text": "ictus isquémico",
+      "type": "PATOLOGIA",
+      "start": 254,
+      "end": 269
+    },
+    {
+      "text": "área de hipodensidad",
+      "type": "PATOLOGIA",
+      "start": 425,
+      "end": 445
+    },
+    {
+      "text": "región insular izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 452,
+      "end": 476
+    },
+    {
+      "text": "núcleo lenticular",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 479,
+      "end": 496
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "ARTERIA",
+      "start": 573,
+      "end": 605
+    },
+    {
+      "text": "segmento M1",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 607,
+      "end": 618
+    },
+    {
+      "text": "trombo intraluminal",
+      "type": "PATOLOGIA",
+      "start": 646,
+      "end": 665
+    },
+    {
+      "text": "ASPECTS 6",
+      "type": "PUNTUACION_CLINICA",
+      "start": 667,
+      "end": 676
+    },
+    {
+      "text": "No hay hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 678,
+      "end": 708
+    },
+    {
+      "text": "Línea media centrada",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 710,
+      "end": 730
+    },
+    {
+      "text": "sin efecto de masa significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 731,
+      "end": 763
+    },
+    {
+      "text": "Sistema ventricular de tamaño y morfología conservados",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 765,
+      "end": 819
+    },
+    {
+      "text": "Cisternas basales libres",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 821,
+      "end": 845
+    },
+    {
+      "text": "marcada reducción del flujo cerebral",
+      "type": "PATOLOGIA",
+      "start": 877,
+      "end": 913
+    },
+    {
+      "text": "volumen sanguíneo cerebral",
+      "type": "PATOLOGIA",
+      "start": 922,
+      "end": 948
+    },
+    {
+      "text": "territorio de la arteria cerebral media izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 961,
+      "end": 1010
+    },
+    {
+      "text": "prolongación del tiempo de tránsito",
+      "type": "PATOLOGIA",
+      "start": 1016,
+      "end": 1051
+    },
+    {
+      "text": "MTT y Tmax",
+      "type": "MEDIDA",
+      "start": 1053,
+      "end": 1063
+    },
+    {
+      "text": "penumbra isquémica extensa",
+      "type": "PATOLOGIA",
+      "start": 1084,
+      "end": 1110
+    },
+    {
+      "text": "Oclusión completa del segmento proximal M1",
+      "type": "PATOLOGIA",
+      "start": 1145,
+      "end": 1187
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "ARTERIA",
+      "start": 573,
+      "end": 605
+    },
+    {
+      "text": "Las arterias colaterales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1228,
+      "end": 1252
+    },
+    {
+      "text": "ausencia de circulación arterial distal a la oclusión",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1293,
+      "end": 1346
+    },
+    {
+      "text": "No se evidencian estenosis significativas en otras arterias supraórticas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1348,
+      "end": 1420
+    },
+    {
+      "text": "Infarto cerebral isquémico agudo",
+      "type": "PATOLOGIA",
+      "start": 1445,
+      "end": 1477
+    },
+    {
+      "text": "territorio de arteria cerebral media izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1481,
+      "end": 1527
+    },
+    {
+      "text": "oclusión proximal de segmento M1",
+      "type": "PATOLOGIA",
+      "start": 1532,
+      "end": 1564
+    },
+    {
+      "text": "ASPECTS 6",
+      "type": "PUNTUACION_CLINICA",
+      "start": 667,
+      "end": 676
+    },
+    {
+      "text": "Área extensa de penumbra en TC perfusión",
+      "type": "PATOLOGIA",
+      "start": 1577,
+      "end": 1617
+    },
+    {
+      "text": "No signos de hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1619,
+      "end": 1655
+    },
+    {
+      "text": "Infarto cerebral agudo por oclusión proximal de arteria cerebral media (M1)",
+      "type": "PATOLOGIA",
+      "start": 1822,
+      "end": 1897
+    },
+    {
+      "text": "ASPECTS 6",
+      "type": "PUNTUACION_CLINICA",
+      "start": 667,
+      "end": 676
+    },
+    {
+      "text": "Área penumbra extensa en perfusión",
+      "type": "PATOLOGIA",
+      "start": 1910,
+      "end": 1944
+    },
+    {
+      "text": "Sin hemorragia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1946,
+      "end": 1960
+    }
+  ]
+}

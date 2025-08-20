@@ -1,0 +1,77 @@
+{
+  "document_id": "informe_sintetico_20250804195045_01844",
+  "entities": [
+    {
+      "text": "accidente cerebrovascular isquémico",
+      "type": "PATOLOGIA",
+      "start": 250,
+      "end": 285
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 522,
+      "end": 554
+    },
+    {
+      "text": "arteria cerebral media",
+      "type": "ARTERIA",
+      "start": 522,
+      "end": 544
+    },
+    {
+      "text": "izquierdo",
+      "type": "LATERALIDAD",
+      "start": 1090,
+      "end": 1099
+    },
+    {
+      "text": "6",
+      "type": "MEDIDA",
+      "start": 754,
+      "end": 755
+    },
+    {
+      "text": "10",
+      "type": "MEDIDA",
+      "start": 763,
+      "end": 765
+    },
+    {
+      "text": "aguda",
+      "type": "TEMPORALIDAD",
+      "start": 1154,
+      "end": 1159
+    },
+    {
+      "text": "ASPECTS 6",
+      "type": "PUNTUACION_CLINICA",
+      "start": 1752,
+      "end": 1761
+    },
+    {
+      "text": "TC craneal urgente",
+      "type": "TECNICA_IMAGEN",
+      "start": 306,
+      "end": 324
+    },
+    {
+      "text": "No se evidencian hemorragias ni masas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 787,
+      "end": 824
+    },
+    {
+      "text": "No se observan estenosis significativas en otras arterias cerebrales intracraneales ni signos de disección",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1468,
+      "end": 1574
+    },
+    {
+      "text": "No se evidencian complicaciones hemorrágicas ni desplazamientos en la línea media",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1846,
+      "end": 1927
+    }
+  ]
+}

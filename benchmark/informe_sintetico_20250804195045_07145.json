@@ -1,0 +1,107 @@
+{
+  "document_id": "informe_sintetico_20250804195045_07145",
+  "entities": [
+    {
+      "text": "ictus isquémico agudo",
+      "type": "PATOLOGIA",
+      "start": 228,
+      "end": 249
+    },
+    {
+      "text": "arteria cerebral anterior izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 522,
+      "end": 557
+    },
+    {
+      "text": "arteria cerebral anterior izquierda",
+      "type": "ARTERIA",
+      "start": 522,
+      "end": 557
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 548,
+      "end": 557
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 1119,
+      "end": 1133
+    },
+    {
+      "text": "A2",
+      "type": "ARTERIA",
+      "start": 1277,
+      "end": 1279
+    },
+    {
+      "text": "arteria cerebral anterior izquierda",
+      "type": "ARTERIA",
+      "start": 522,
+      "end": 557
+    },
+    {
+      "text": "completa",
+      "type": "MEDIDA",
+      "start": 1255,
+      "end": 1263
+    },
+    {
+      "text": "agudo",
+      "type": "TEMPORALIDAD",
+      "start": 244,
+      "end": 249
+    },
+    {
+      "text": "sin evidencia de hemorragia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 608,
+      "end": 635
+    },
+    {
+      "text": "sin evidencias de estenosis ni placas ateromatosas significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1369,
+      "end": 1434
+    },
+    {
+      "text": "arteria cerebral anterior izquierda",
+      "type": "ARTERIA",
+      "start": 522,
+      "end": 557
+    },
+    {
+      "text": "segmentaria",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 2106,
+      "end": 2117
+    },
+    {
+      "text": "alteraciones en perfusión cerebral",
+      "type": "PATOLOGIA",
+      "start": 2120,
+      "end": 2154
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 301,
+      "end": 317
+    },
+    {
+      "text": "TC de perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 344,
+      "end": 368
+    },
+    {
+      "text": "Angio-TC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 371,
+      "end": 401
+    }
+  ]
+}

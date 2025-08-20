@@ -1,0 +1,59 @@
+{
+  "document_id": "informe_sintetico_20250804195045_21484",
+  "entities": [
+    {
+      "text": "infarto isquémico subagudo",
+      "type": "PATOLOGIA",
+      "start": 655,
+      "end": 681
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "ARTERIA",
+      "start": 590,
+      "end": 620
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 613,
+      "end": 620
+    },
+    {
+      "text": "microhemorragias petequiales",
+      "type": "PATOLOGIA",
+      "start": 825,
+      "end": 853
+    },
+    {
+      "text": "transformación hemorrágica tipo HI1",
+      "type": "PATOLOGIA",
+      "start": 788,
+      "end": 823
+    },
+    {
+      "text": "sin estenosis ni trombosis residuales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1853,
+      "end": 1890
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 335,
+      "end": 351
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 404,
+      "end": 425
+    },
+    {
+      "text": "angio-TC de troncos supraaórticos e intracraneales",
+      "type": "TECNICA_IMAGEN",
+      "start": 428,
+      "end": 478
+    }
+  ]
+}

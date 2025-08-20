@@ -1,0 +1,101 @@
+{
+  "document_id": "informe_sintetico_20250804195045_20810",
+  "entities": [
+    {
+      "text": "hemorragia subaracnoidea",
+      "type": "PATOLOGIA",
+      "start": 255,
+      "end": 279
+    },
+    {
+      "text": "hemorragia subaracnoidea difusa",
+      "type": "PATOLOGIA",
+      "start": 735,
+      "end": 766
+    },
+    {
+      "text": "hemorragias intraventriculares",
+      "type": "PATOLOGIA",
+      "start": 820,
+      "end": 850
+    },
+    {
+      "text": "vasoespasmo temprano",
+      "type": "PATOLOGIA",
+      "start": 1218,
+      "end": 1238
+    },
+    {
+      "text": "infarto cerebral agudo",
+      "type": "PATOLOGIA",
+      "start": 1330,
+      "end": 1352
+    },
+    {
+      "text": "irregularidades y constricciones segmentarias",
+      "type": "PATOLOGIA",
+      "start": 1402,
+      "end": 1447
+    },
+    {
+      "text": "arterias cerebrales medias (ACM)",
+      "type": "ARTERIA",
+      "start": 1455,
+      "end": 1487
+    },
+    {
+      "text": "arteria comunicante anterior",
+      "type": "ARTERIA",
+      "start": 1508,
+      "end": 1536
+    },
+    {
+      "text": "bilaterales",
+      "type": "LATERALIDAD",
+      "start": 1488,
+      "end": 1499
+    },
+    {
+      "text": "sistema vertebrobasilar",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1746,
+      "end": 1769
+    },
+    {
+      "text": "sin estenosis ni trombosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1770,
+      "end": 1796
+    },
+    {
+      "text": "sin detección de aneurisma o lesión vascular hemorrágica",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2099,
+      "end": 2155
+    },
+    {
+      "text": "TC CRANEAL BASAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 300,
+      "end": 316
+    },
+    {
+      "text": "TC PERFUSIÓN CEREBRAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 1086,
+      "end": 1107
+    },
+    {
+      "text": "aguda",
+      "type": "TEMPORALIDAD",
+      "start": 371,
+      "end": 376
+    },
+    {
+      "text": "cerebrales principales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1284,
+      "end": 1306
+    }
+  ]
+}

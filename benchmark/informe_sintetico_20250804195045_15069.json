@@ -1,0 +1,131 @@
+{
+  "document_id": "informe_sintetico_20250804195045_15069",
+  "entities": [
+    {
+      "text": "infarto cerebral watershed",
+      "type": "PATOLOGIA",
+      "start": 359,
+      "end": 385
+    },
+    {
+      "text": "parietales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 705,
+      "end": 715
+    },
+    {
+      "text": "arterias cerebral media",
+      "type": "ARTERIA",
+      "start": 780,
+      "end": 803
+    },
+    {
+      "text": "anterior",
+      "type": "ARTERIA",
+      "start": 806,
+      "end": 814
+    },
+    {
+      "text": "posterior",
+      "type": "ARTERIA",
+      "start": 851,
+      "end": 860
+    },
+    {
+      "text": "bilaterales",
+      "type": "LATERALIDAD",
+      "start": 716,
+      "end": 727
+    },
+    {
+      "text": "moderada",
+      "type": "MEDIDA",
+      "start": 633,
+      "end": 641
+    },
+    {
+      "text": "moderada",
+      "type": "MEDIDA",
+      "start": 633,
+      "end": 641
+    },
+    {
+      "text": "normal",
+      "type": "MEDIDA",
+      "start": 1322,
+      "end": 1328
+    },
+    {
+      "text": "isquémica",
+      "type": "PATOLOGIA",
+      "start": 1362,
+      "end": 1371
+    },
+    {
+      "text": "bilateral",
+      "type": "LATERALIDAD",
+      "start": 210,
+      "end": 219
+    },
+    {
+      "text": "signos de sangrado",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1977,
+      "end": 1995
+    },
+    {
+      "text": "sin afectación de estructuras profundas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 862,
+      "end": 901
+    },
+    {
+      "text": "sin estenosis significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1698,
+      "end": 1726
+    },
+    {
+      "text": "sin infarto establecido extensivo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2097,
+      "end": 2130
+    },
+    {
+      "text": "TC CÓDIGO ICTUS",
+      "type": "TECNICA_IMAGEN",
+      "start": 439,
+      "end": 454
+    },
+    {
+      "text": "PERFUSIÓN CEREBRAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 464,
+      "end": 482
+    },
+    {
+      "text": "ANGIO-TC ARTERIAL INTRACRANEAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 485,
+      "end": 515
+    },
+    {
+      "text": "TC CRANEAL BASAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 539,
+      "end": 555
+    },
+    {
+      "text": "TC PERFUSIÓN",
+      "type": "TECNICA_IMAGEN",
+      "start": 1023,
+      "end": 1035
+    },
+    {
+      "text": "ANGIO-TC EXTRA E INTRACRANEAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 1459,
+      "end": 1488
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+UO_PACN (Unidad Organizativa Médica): RADIO
+
+PRUEB (Prueba solicitada): TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANG IOTC ARTERIAL INTRACRANEAL)
+
+CLIN (Resumen clínico): Paciente con inicio súbito de hemiparesia derecha, alteración del nivel de conciencia y antecedente hipertensivo.
+
+OBSR (Protocolo): Protocolo estándar código ictus, que incluye TC craneal basal sin contraste, estudio de perfusión cerebral y angiografía por angio-TC de vasos extra e intracraneales.
+
+RESL (Resultados): TC CRANEAL BASAL:
+Se evidencia hematoma intraparenquimatoso de 3,2 x 2,8 x 3,5 cm en región putaminal izquierda, con extensión parcial hacia la cápsula interna adyacente. El hematoma presenta bordes mal definidos y áreas de hiperdensidad heterogénea compatibles con coágulos frescos. Se observa edema perilesional moderado con hipodensidad en sustancia blanca circundante. Se identifica desviación de la línea media hacia la derecha de aproximadamente 6 mm. El sistema ventricular está con leve compresión del ventrículo lateral izquierdo, sin colapso completo. No se identifican colecciones extraaxiales ni hemorragias subaracnoideas.
+
+TC PERFUSIÓN:
+Zona perilesional con aumento del tiempo de tránsito medio (TTP) y reducción moderada del volumen cerebral de sangre (CBV), sin patrón compatible con infarto cerebral agudo establecido. No se aprecian áreas de hipoperfusión ni mismatch significativo.
+
+ANGIO-TC EXTRA E INTRACRANEAL:
+Arco aórtico y troncos supraaórticos sin estenosis significativas ni placas ateromatosas severas. Arterias carótidas internas, vertebrales y principales ramas intracraneales (ACAs, ACMs y ACPs) permeables y sin signos de trombosis o estenosis. No se identifican aneurismas ni malformaciones vasculares.
+
+CONCL (Conclusiones):
+Hematoma intraparenquimatoso agudo en región putaminal izquierda con compromiso de cápsula interna y edema perilesional moderado. Desviación de la línea media hacia la derecha de 6 mm. Sin evidencia de isquemia cerebral asociada ni compromiso vascular significativo en angio-TC.
+
+ACTI_ADICI (Actividad adicional): Monitorización radiológica recomendada para evaluar evolución del hematoma y posible efecto de masa.
+
+ICON (Estudio): @RADIO_CRANEAL@  
+
+X00DIATXT (Texto del diagnóstico ACR): Hematoma intracerebral putaminal con edema perilesional y desplazamiento de línea media.
+
+EST_T_DES (Descripción): TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANGIOTC ARTERIAL INTRACRANEAL)
+
+ZVASOS_D (Der.): Informe generado en base a imágenes obtenidas con protocolo estándar para código ictus, sin contraste endovenoso para TC basal y con contraste para perfusión y angiografía por angio-TC.

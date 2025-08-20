@@ -1,0 +1,95 @@
+{
+  "document_id": "informe_sintetico_20250804195045_23008",
+  "entities": [
+    {
+      "text": "hematoma subdural agudo",
+      "type": "PATOLOGIA",
+      "start": 423,
+      "end": 446
+    },
+    {
+      "text": "hemicráneo izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 451,
+      "end": 471
+    },
+    {
+      "text": "región frontoparietal",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 527,
+      "end": 548
+    },
+    {
+      "text": "temporooccipital",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 558,
+      "end": 574
+    },
+    {
+      "text": "12 mm",
+      "type": "MEDIDA",
+      "start": 612,
+      "end": 617
+    },
+    {
+      "text": "7 cm",
+      "type": "MEDIDA",
+      "start": 650,
+      "end": 654
+    },
+    {
+      "text": "5 mm",
+      "type": "MEDIDA",
+      "start": 946,
+      "end": 950
+    },
+    {
+      "text": "sin signos de hidrocefalia aguda",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1083,
+      "end": 1115
+    },
+    {
+      "text": "sin alteraciones significativas en el tiempo de tránsito medio (MTT)",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1311,
+      "end": 1379
+    },
+    {
+      "text": "sin evidencia de estenosis ni oclusión",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1492,
+      "end": 1530
+    },
+    {
+      "text": "Hematoma subdural agudo izquierdo",
+      "type": "PATOLOGIA",
+      "start": 1686,
+      "end": 1719
+    },
+    {
+      "text": "sin signos de hemorragia intraaxial ni alteraciones vasculares significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2199,
+      "end": 2276
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 279,
+      "end": 295
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 1186,
+      "end": 1207
+    },
+    {
+      "text": "Angio-TC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 1413,
+      "end": 1443
+    }
+  ]
+}

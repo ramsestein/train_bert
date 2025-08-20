@@ -1,0 +1,101 @@
+{
+  "document_id": "informe_sintetico_20250804195045_06169",
+  "entities": [
+    {
+      "text": "infartos recientes",
+      "type": "PATOLOGIA",
+      "start": 798,
+      "end": 816
+    },
+    {
+      "text": "isquemia aguda multiterritorial",
+      "type": "PATOLOGIA",
+      "start": 1772,
+      "end": 1803
+    },
+    {
+      "text": "arterias cerebrales medias",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1109,
+      "end": 1135
+    },
+    {
+      "text": "territorio posterior",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1169,
+      "end": 1189
+    },
+    {
+      "text": "M1",
+      "type": "ARTERIA",
+      "start": 1419,
+      "end": 1421
+    },
+    {
+      "text": "M2",
+      "type": "ARTERIA",
+      "start": 1480,
+      "end": 1482
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 1136,
+      "end": 1145
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 773,
+      "end": 780
+    },
+    {
+      "text": "severa",
+      "type": "MEDIDA",
+      "start": 1470,
+      "end": 1476
+    },
+    {
+      "text": "No se observan hemorragias intracraneales ni colecciones extraaxiales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 462,
+      "end": 531
+    },
+    {
+      "text": "No hay edema maligno ni efecto de masa significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 818,
+      "end": 870
+    },
+    {
+      "text": "No se identifican aneurismas ni malformaciones vasculares",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1676,
+      "end": 1733
+    },
+    {
+      "text": "No signos de hemorragia ni edema maligno",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2147,
+      "end": 2187
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 326,
+      "end": 342
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 359,
+      "end": 380
+    },
+    {
+      "text": "Angio-TC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 383,
+      "end": 413
+    }
+  ]
+}

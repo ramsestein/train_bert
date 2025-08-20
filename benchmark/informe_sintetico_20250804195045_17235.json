@@ -1,0 +1,125 @@
+{
+  "document_id": "informe_sintetico_20250804195045_17235",
+  "entities": [
+    {
+      "text": "hemiparesia derecha",
+      "type": "PATOLOGIA",
+      "start": 196,
+      "end": 215
+    },
+    {
+      "text": "dificultad del lenguaje",
+      "type": "PATOLOGIA",
+      "start": 218,
+      "end": 241
+    },
+    {
+      "text": "evento isquémico",
+      "type": "PATOLOGIA",
+      "start": 255,
+      "end": 271
+    },
+    {
+      "text": "isquemia",
+      "type": "PATOLOGIA",
+      "start": 783,
+      "end": 791
+    },
+    {
+      "text": "ASPECTS 9/10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 793,
+      "end": 805
+    },
+    {
+      "text": "hemorragias agudas intra ni extraaxiales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 531,
+      "end": 571
+    },
+    {
+      "text": "hipodensidad cortical y subcortical en región fronto-parietal profunda izquierda",
+      "type": "PATOLOGIA",
+      "start": 676,
+      "end": 756
+    },
+    {
+      "text": "alteración del flujo cerebral en territorio superficial de la arteria cerebral media izquierda",
+      "type": "PATOLOGIA",
+      "start": 938,
+      "end": 1032
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "ARTERIA",
+      "start": 1000,
+      "end": 1032
+    },
+    {
+      "text": "M2",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1348,
+      "end": 1350
+    },
+    {
+      "text": "oclusión segmentaria en rama distal M2 de la arteria cerebral media izquierda",
+      "type": "PATOLOGIA",
+      "start": 1312,
+      "end": 1389
+    },
+    {
+      "text": "sin extensión proximal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1391,
+      "end": 1413
+    },
+    {
+      "text": "sin signos de ateromatosis severa ni placas inestables",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1556,
+      "end": 1610
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 1777,
+      "end": 1791
+    },
+    {
+      "text": "territorio de ACM distal",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1875,
+      "end": 1899
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1915,
+      "end": 1938
+    },
+    {
+      "text": "penumbra viable",
+      "type": "PATOLOGIA",
+      "start": 1975,
+      "end": 1990
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 368,
+      "end": 384
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 400,
+      "end": 421
+    },
+    {
+      "text": "Angio-TC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 424,
+      "end": 454
+    }
+  ]
+}

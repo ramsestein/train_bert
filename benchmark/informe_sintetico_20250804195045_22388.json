@@ -1,0 +1,221 @@
+{
+  "document_id": "informe_sintetico_20250804195045_22388",
+  "entities": [
+    {
+      "text": "déficit neurológico agudo",
+      "type": "PATOLOGIA",
+      "start": 179,
+      "end": 204
+    },
+    {
+      "text": "fibrilación auricular",
+      "type": "PATOLOGIA",
+      "start": 248,
+      "end": 269
+    },
+    {
+      "text": "áreas hipodensas de baja densidad encefálica",
+      "type": "PATOLOGIA",
+      "start": 436,
+      "end": 480
+    },
+    {
+      "text": "territorios corticales y subcorticales multifocales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 484,
+      "end": 535
+    },
+    {
+      "text": "regiones frontales y parietales bilaterales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 552,
+      "end": 595
+    },
+    {
+      "text": "arteria cerebral posterior derecha",
+      "type": "ARTERIA",
+      "start": 626,
+      "end": 660
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 679,
+      "end": 702
+    },
+    {
+      "text": "signos de transformación hemorrágica",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 706,
+      "end": 742
+    },
+    {
+      "text": "ASPECTS global aproximadamente 6",
+      "type": "PUNTUACION_CLINICA",
+      "start": 816,
+      "end": 848
+    },
+    {
+      "text": "edema significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 935,
+      "end": 954
+    },
+    {
+      "text": "efecto de masa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 958,
+      "end": 972
+    },
+    {
+      "text": "aumento del tiempo de tránsito medio (TTP)",
+      "type": "PATOLOGIA",
+      "start": 1006,
+      "end": 1048
+    },
+    {
+      "text": "tiempo hasta el pico (Tmax)",
+      "type": "PATOLOGIA",
+      "start": 1051,
+      "end": 1078
+    },
+    {
+      "text": "áreas frontales izquierdas y derechas",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1127,
+      "end": 1164
+    },
+    {
+      "text": "región parieto-occipital derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1175,
+      "end": 1207
+    },
+    {
+      "text": "volumen cerebral (CBV)",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1212,
+      "end": 1234
+    },
+    {
+      "text": "reducción, sugerente de territorio isquémico establecido",
+      "type": "PATOLOGIA",
+      "start": 1302,
+      "end": 1358
+    },
+    {
+      "text": "penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1361,
+      "end": 1379
+    },
+    {
+      "text": "flujo cerebral (CBF)",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1404,
+      "end": 1424
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 1477,
+      "end": 1491
+    },
+    {
+      "text": "múltiples territorios vasculares",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1495,
+      "end": 1527
+    },
+    {
+      "text": "oclusión de segmento M1 de la arteria cerebral media izquierda",
+      "type": "PATOLOGIA",
+      "start": 1576,
+      "end": 1638
+    },
+    {
+      "text": "estenosis severas en segmentos proximales de la arteria cerebral anterior derecha",
+      "type": "PATOLOGIA",
+      "start": 1660,
+      "end": 1741
+    },
+    {
+      "text": "arteria cerebral posterior derecha",
+      "type": "ARTERIA",
+      "start": 626,
+      "end": 660
+    },
+    {
+      "text": "arteria carótida interna derecha",
+      "type": "ARTERIA",
+      "start": 1789,
+      "end": 1821
+    },
+    {
+      "text": "placas ateromatosas con estenosis moderada",
+      "type": "PATOLOGIA",
+      "start": 1830,
+      "end": 1872
+    },
+    {
+      "text": "trombo mural",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1891,
+      "end": 1903
+    },
+    {
+      "text": "Sistema vertebrobasilar permeable",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1905,
+      "end": 1938
+    },
+    {
+      "text": "estenosis significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1944,
+      "end": 1967
+    },
+    {
+      "text": "aneurismas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1984,
+      "end": 1994
+    },
+    {
+      "text": "malformaciones vasculares focales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1998,
+      "end": 2031
+    },
+    {
+      "text": "isquemia aguda multiterritorial",
+      "type": "PATOLOGIA",
+      "start": 2083,
+      "end": 2114
+    },
+    {
+      "text": "territorios frontales, parietales y occipitales bilaterales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 2118,
+      "end": 2177
+    },
+    {
+      "text": "defecto vascular principal en segment M1 izquierda",
+      "type": "PATOLOGIA",
+      "start": 2183,
+      "end": 2233
+    },
+    {
+      "text": "estenosis significativas en otras arterias cerebrales",
+      "type": "PATOLOGIA",
+      "start": 2236,
+      "end": 2289
+    },
+    {
+      "text": "hemorragia intracraneal visible",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2294,
+      "end": 2325
+    }
+  ]
+}

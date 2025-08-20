@@ -1,0 +1,119 @@
+{
+  "document_id": "informe_sintetico_20250804195045_13857",
+  "entities": [
+    {
+      "text": "lesión hiperdensa",
+      "type": "PATOLOGIA",
+      "start": 488,
+      "end": 505
+    },
+    {
+      "text": "12 x 9 mm",
+      "type": "MEDIDA",
+      "start": 509,
+      "end": 518
+    },
+    {
+      "text": "región frontotemporal izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 525,
+      "end": 556
+    },
+    {
+      "text": "contusión hemorrágica traumática",
+      "type": "PATOLOGIA",
+      "start": 573,
+      "end": 605
+    },
+    {
+      "text": "edema circundante",
+      "type": "PATOLOGIA",
+      "start": 616,
+      "end": 633
+    },
+    {
+      "text": "sin efecto masa significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 636,
+      "end": 665
+    },
+    {
+      "text": "No se observan hemorragias subdurales ni epidurales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 667,
+      "end": 718
+    },
+    {
+      "text": "sin evidencia de isquemia extendida",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1088,
+      "end": 1123
+    },
+    {
+      "text": "sin signos de vasoespasmo ni malformaciones vasculares",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1319,
+      "end": 1373
+    },
+    {
+      "text": "Contusión hemorrágica traumática frontotemporal izquierda",
+      "type": "PATOLOGIA",
+      "start": 1398,
+      "end": 1455
+    },
+    {
+      "text": "sin complicaciones vasculares asociadas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1903,
+      "end": 1942
+    },
+    {
+      "text": "24-48 horas",
+      "type": "TEMPORALIDAD",
+      "start": 1704,
+      "end": 1715
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 319,
+      "end": 335
+    },
+    {
+      "text": "estudio de perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 337,
+      "end": 366
+    },
+    {
+      "text": "angiografía por angio-TC de arterias extra e intracraneales",
+      "type": "TECNICA_IMAGEN",
+      "start": 369,
+      "end": 428
+    },
+    {
+      "text": "Cisternas basales libres",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 886,
+      "end": 910
+    },
+    {
+      "text": "flujo cerebral de sangre (CBF)",
+      "type": "PATOLOGIA",
+      "start": 986,
+      "end": 1016
+    },
+    {
+      "text": "Arterias cerebrales principales (ACAs, ACMs y ACPs)",
+      "type": "ARTERIA",
+      "start": 1229,
+      "end": 1280
+    },
+    {
+      "text": "sistema vertebrobasilar permeables",
+      "type": "PATOLOGIA",
+      "start": 1283,
+      "end": 1317
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "document_id": "informe_sintetico_20250804195045_07130",
+  "entities": [
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 929,
+      "end": 943
+    },
+    {
+      "text": "territorio vertebrobasilar",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 831,
+      "end": 857
+    },
+    {
+      "text": "arteria basilar",
+      "type": "ARTERIA",
+      "start": 1038,
+      "end": 1053
+    },
+    {
+      "text": "bilateral",
+      "type": "LATERALIDAD",
+      "start": 905,
+      "end": 914
+    },
+    {
+      "text": "oclusión completa proximal",
+      "type": "PATOLOGIA",
+      "start": 1005,
+      "end": 1031
+    },
+    {
+      "text": "sin flujo distal detectable",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1055,
+      "end": 1082
+    },
+    {
+      "text": "arteria vertebral derecha",
+      "type": "ARTERIA",
+      "start": 1197,
+      "end": 1222
+    },
+    {
+      "text": "hipoplásica",
+      "type": "PATOLOGIA",
+      "start": 1230,
+      "end": 1241
+    },
+    {
+      "text": "sin estenosis significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1294,
+      "end": 1322
+    },
+    {
+      "text": "isquemia aguda vertebrobasilar",
+      "type": "PATOLOGIA",
+      "start": 1497,
+      "end": 1527
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 322,
+      "end": 338
+    },
+    {
+      "text": "perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 365,
+      "end": 383
+    },
+    {
+      "text": "angiografía por TC de vasos intracraneales en fase arterial",
+      "type": "TECNICA_IMAGEN",
+      "start": 386,
+      "end": 445
+    },
+    {
+      "text": "signos tempranos de infarto",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 650,
+      "end": 677
+    }
+  ]
+}

@@ -1,0 +1,119 @@
+{
+  "document_id": "informe_sintetico_20250804195045_21448",
+  "entities": [
+    {
+      "text": "accidente cerebrovascular isquémico",
+      "type": "PATOLOGIA",
+      "start": 246,
+      "end": 281
+    },
+    {
+      "text": "arteria cerebral media",
+      "type": "ARTERIA",
+      "start": 299,
+      "end": 321
+    },
+    {
+      "text": "hemiparesia derecha",
+      "type": "PATOLOGIA",
+      "start": 205,
+      "end": 224
+    },
+    {
+      "text": "isquémica",
+      "type": "PATOLOGIA",
+      "start": 794,
+      "end": 803
+    },
+    {
+      "text": "segmentos M2/M3",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 681,
+      "end": 696
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 698,
+      "end": 707
+    },
+    {
+      "text": "ASPECTS 9/10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 812,
+      "end": 824
+    },
+    {
+      "text": "prolongación del tiempo hasta el pico (TTP)",
+      "type": "MEDIDA",
+      "start": 1023,
+      "end": 1066
+    },
+    {
+      "text": "tiempo medio de tránsito (MTT)",
+      "type": "MEDIDA",
+      "start": 1069,
+      "end": 1099
+    },
+    {
+      "text": "segmentos M2/M3 de la ACM izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1147,
+      "end": 1182
+    },
+    {
+      "text": "caída del flujo sanguíneo cerebral (CBF)",
+      "type": "PATOLOGIA",
+      "start": 1188,
+      "end": 1228
+    },
+    {
+      "text": "conservación parcial del volumen sanguíneo cerebral (CBV)",
+      "type": "PATOLOGIA",
+      "start": 1231,
+      "end": 1288
+    },
+    {
+      "text": "mismatch significativo",
+      "type": "PATOLOGIA",
+      "start": 1306,
+      "end": 1328
+    },
+    {
+      "text": "Oclusión trombótica",
+      "type": "PATOLOGIA",
+      "start": 1395,
+      "end": 1414
+    },
+    {
+      "text": "rama distal M2 de la arteria cerebral media izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1418,
+      "end": 1471
+    },
+    {
+      "text": "sin estenosis ni malformaciones evidentes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1533,
+      "end": 1574
+    },
+    {
+      "text": "No hemorragia ni edema cerebral significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1955,
+      "end": 2000
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 2028,
+      "end": 2042
+    },
+    {
+      "text": "territorio distal de arteria cerebral media izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1707,
+      "end": 1760
+    }
+  ]
+}

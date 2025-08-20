@@ -1,0 +1,53 @@
+{
+  "document_id": "informe_sintetico_20250804195045_14015",
+  "entities": [
+    {
+      "text": "infarto lacunar agudo",
+      "type": "PATOLOGIA",
+      "start": 552,
+      "end": 573
+    },
+    {
+      "text": "núcleo lenticular izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 508,
+      "end": 535
+    },
+    {
+      "text": "8 mm",
+      "type": "MEDIDA",
+      "start": 485,
+      "end": 489
+    },
+    {
+      "text": "ASPECTS 9",
+      "type": "PUNTUACION_CLINICA",
+      "start": 693,
+      "end": 702
+    },
+    {
+      "text": "infarto isquémico pequeño y reciente",
+      "type": "PATOLOGIA",
+      "start": 1085,
+      "end": 1121
+    },
+    {
+      "text": "arterias cerebrales anteriores, medias y posteriores",
+      "type": "ARTERIA",
+      "start": 1287,
+      "end": 1339
+    },
+    {
+      "text": "No se aprecian signos de hemorragia intra o extraaxial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 575,
+      "end": 629
+    },
+    {
+      "text": "No se observan signos hemorrágicos ni alteraciones vasculares obstructivas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1552,
+      "end": 1626
+    }
+  ]
+}

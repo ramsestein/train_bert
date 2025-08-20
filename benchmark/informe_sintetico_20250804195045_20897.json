@@ -1,0 +1,149 @@
+{
+  "document_id": "informe_sintetico_20250804195045_20897",
+  "entities": [
+    {
+      "text": "infarto cerebral establecido",
+      "type": "PATOLOGIA",
+      "start": 602,
+      "end": 630
+    },
+    {
+      "text": "arteria cerebral media (ACM) izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 492,
+      "end": 530
+    },
+    {
+      "text": "ACM",
+      "type": "ARTERIA",
+      "start": 516,
+      "end": 519
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 521,
+      "end": 530
+    },
+    {
+      "text": "edema cerebral leve",
+      "type": "PATOLOGIA",
+      "start": 2034,
+      "end": 2053
+    },
+    {
+      "text": "desplazamiento de línea media",
+      "type": "PATOLOGIA",
+      "start": 2063,
+      "end": 2092
+    },
+    {
+      "text": "Oclusión completa de la arteria carótida interna izquierda",
+      "type": "PATOLOGIA",
+      "start": 1404,
+      "end": 1462
+    },
+    {
+      "text": "arteria carótida interna izquierda",
+      "type": "ARTERIA",
+      "start": 1428,
+      "end": 1462
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 521,
+      "end": 530
+    },
+    {
+      "text": "sin flujo distal perceptible",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1497,
+      "end": 1525
+    },
+    {
+      "text": "No hay evidencia de hemorragia parenquimatosa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 734,
+      "end": 779
+    },
+    {
+      "text": "No hay hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2272,
+      "end": 2302
+    },
+    {
+      "text": "penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1350,
+      "end": 1368
+    },
+    {
+      "text": "cayado aórtico",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1864,
+      "end": 1878
+    },
+    {
+      "text": "bifurcaciones carotídeas contralaterales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1881,
+      "end": 1921
+    },
+    {
+      "text": "circulación colateral moderada",
+      "type": "PATOLOGIA",
+      "start": 1615,
+      "end": 1645
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 257,
+      "end": 273
+    },
+    {
+      "text": "Perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 300,
+      "end": 318
+    },
+    {
+      "text": "Angio-TC intra y extracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 321,
+      "end": 350
+    },
+    {
+      "text": "Mapas de tiempo de tránsito (MTT)",
+      "type": "TECNICA_IMAGEN",
+      "start": 986,
+      "end": 1019
+    },
+    {
+      "text": "tiempo hasta el pico (TTP)",
+      "type": "TECNICA_IMAGEN",
+      "start": 1022,
+      "end": 1048
+    },
+    {
+      "text": "volumen cerebral (CBV)",
+      "type": "MEDIDA",
+      "start": 1147,
+      "end": 1169
+    },
+    {
+      "text": "flujo cerebral (CBF)",
+      "type": "MEDIDA",
+      "start": 1172,
+      "end": 1192
+    },
+    {
+      "text": "disminución marcada",
+      "type": "MEDIDA",
+      "start": 1123,
+      "end": 1142
+    }
+  ]
+}

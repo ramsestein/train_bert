@@ -1,0 +1,83 @@
+{
+  "document_id": "informe_sintetico_20250804195045_23648",
+  "entities": [
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 263,
+      "end": 277
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 298,
+      "end": 330
+    },
+    {
+      "text": "TC craneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 351,
+      "end": 361
+    },
+    {
+      "text": "perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 399,
+      "end": 417
+    },
+    {
+      "text": "AngioTC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 1241,
+      "end": 1270
+    },
+    {
+      "text": "hemisferio izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 959,
+      "end": 979
+    },
+    {
+      "text": "arteria cerebral media",
+      "type": "ARTERIA",
+      "start": 298,
+      "end": 320
+    },
+    {
+      "text": "penumbra",
+      "type": "PATOLOGIA",
+      "start": 1179,
+      "end": 1187
+    },
+    {
+      "text": "Oclusión subtotal",
+      "type": "PATOLOGIA",
+      "start": 1274,
+      "end": 1291
+    },
+    {
+      "text": "segmento M1",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1315,
+      "end": 1326
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "ARTERIA",
+      "start": 298,
+      "end": 330
+    },
+    {
+      "text": "No se observan aneurismas ni malformaciones",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1413,
+      "end": 1456
+    },
+    {
+      "text": "No hemorragias ni otras complicaciones agudas detectadas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1864,
+      "end": 1920
+    }
+  ]
+}

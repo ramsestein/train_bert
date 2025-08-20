@@ -1,0 +1,257 @@
+{
+  "document_id": "informe_sintetico_20250804195045_03913",
+  "entities": [
+    {
+      "text": "infarto cerebral reciente",
+      "type": "PATOLOGIA",
+      "start": 195,
+      "end": 220
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "ARTERIA",
+      "start": 238,
+      "end": 268
+    },
+    {
+      "text": "deterioro neurológico agudo",
+      "type": "PATOLOGIA",
+      "start": 279,
+      "end": 306
+    },
+    {
+      "text": "transformación hemorrágica",
+      "type": "PATOLOGIA",
+      "start": 323,
+      "end": 349
+    },
+    {
+      "text": "TC CRANEAL BASAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 370,
+      "end": 386
+    },
+    {
+      "text": "TC PERFUSIÓN CEREBRAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 389,
+      "end": 410
+    },
+    {
+      "text": "ANGIO-TC INTRA Y EXTRACRANEAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 413,
+      "end": 442
+    },
+    {
+      "text": "área hipodensa",
+      "type": "PATOLOGIA",
+      "start": 510,
+      "end": 524
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "ARTERIA",
+      "start": 238,
+      "end": 268
+    },
+    {
+      "text": "infarto cerebral subagudo reciente",
+      "type": "PATOLOGIA",
+      "start": 588,
+      "end": 622
+    },
+    {
+      "text": "focos hiperdensos punteados",
+      "type": "PATOLOGIA",
+      "start": 638,
+      "end": 665
+    },
+    {
+      "text": "zona cortical y subcortical",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 669,
+      "end": 696
+    },
+    {
+      "text": "transformación hemorrágica tipo PH1",
+      "type": "PATOLOGIA",
+      "start": 733,
+      "end": 768
+    },
+    {
+      "text": "No se observa efecto masa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 814,
+      "end": 839
+    },
+    {
+      "text": "Sistema ventricular sin alteraciones de tamaño ni forma",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 892,
+      "end": 947
+    },
+    {
+      "text": "Cisternas basales libres",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 949,
+      "end": 973
+    },
+    {
+      "text": "No se aprecian hemorragias intraparenquimatosas extensas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 975,
+      "end": 1031
+    },
+    {
+      "text": "hemorragia subaracnoidea",
+      "type": "PATOLOGIA",
+      "start": 1035,
+      "end": 1059
+    },
+    {
+      "text": "Disminución localizada del flujo cerebral",
+      "type": "PATOLOGIA",
+      "start": 1076,
+      "end": 1117
+    },
+    {
+      "text": "volumen cerebral",
+      "type": "PATOLOGIA",
+      "start": 1126,
+      "end": 1142
+    },
+    {
+      "text": "región afectada de la arteria cerebral media derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1152,
+      "end": 1204
+    },
+    {
+      "text": "Tiempo de tránsito prolongado",
+      "type": "PATOLOGIA",
+      "start": 1206,
+      "end": 1235
+    },
+    {
+      "text": "No se observan zonas de perfusión comprometida",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1264,
+      "end": 1310
+    },
+    {
+      "text": "Oclusión segmentaria en el segmento M2 derecho de la arteria cerebral media",
+      "type": "PATOLOGIA",
+      "start": 1375,
+      "end": 1450
+    },
+    {
+      "text": "No se identifican otras estenosis oclusivas significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1452,
+      "end": 1510
+    },
+    {
+      "text": "Circulación colateral moderada",
+      "type": "PATOLOGIA",
+      "start": 1554,
+      "end": 1584
+    },
+    {
+      "text": "arteria comunicante anterior y posterior",
+      "type": "ARTERIA",
+      "start": 1594,
+      "end": 1634
+    },
+    {
+      "text": "Arco aórtico con ateromatosis calcificada",
+      "type": "PATOLOGIA",
+      "start": 1636,
+      "end": 1677
+    },
+    {
+      "text": "sin estenosis crítica",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1683,
+      "end": 1704
+    },
+    {
+      "text": "Área de infarto cerebral subagudo",
+      "type": "PATOLOGIA",
+      "start": 1732,
+      "end": 1765
+    },
+    {
+      "text": "territorio de ACM derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1769,
+      "end": 1794
+    },
+    {
+      "text": "presencia de microhemorragias periféricas",
+      "type": "PATOLOGIA",
+      "start": 1799,
+      "end": 1840
+    },
+    {
+      "text": "transformación hemorrágica tipo PH1",
+      "type": "PATOLOGIA",
+      "start": 733,
+      "end": 768
+    },
+    {
+      "text": "Sin evidencia de hemorragia intracraneal extensa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1882,
+      "end": 1930
+    },
+    {
+      "text": "ni efecto masa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1931,
+      "end": 1945
+    },
+    {
+      "text": "Oclusión segmentaria de arteria cerebral media M2 derecha",
+      "type": "PATOLOGIA",
+      "start": 1949,
+      "end": 2006
+    },
+    {
+      "text": "circulación colateral",
+      "type": "PATOLOGIA",
+      "start": 2011,
+      "end": 2032
+    },
+    {
+      "text": "Mapas de perfusión compatibles con infarto establecido",
+      "type": "PATOLOGIA",
+      "start": 2036,
+      "end": 2090
+    },
+    {
+      "text": "sin expansión significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2091,
+      "end": 2118
+    },
+    {
+      "text": "monitorización estrecha",
+      "type": "PATOLOGIA",
+      "start": 2149,
+      "end": 2172
+    },
+    {
+      "text": "valoración neurológica",
+      "type": "PATOLOGIA",
+      "start": 2175,
+      "end": 2197
+    },
+    {
+      "text": "manejo de transformación hemorrágica",
+      "type": "PATOLOGIA",
+      "start": 2203,
+      "end": 2239
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "document_id": "informe_sintetico_20250804195045_16104",
+  "entities": [
+    {
+      "text": "hematomas",
+      "type": "PATOLOGIA",
+      "start": 416,
+      "end": 425
+    },
+    {
+      "text": "hemorragias",
+      "type": "PATOLOGIA",
+      "start": 427,
+      "end": 438
+    },
+    {
+      "text": "colecciones extraaxiales",
+      "type": "PATOLOGIA",
+      "start": 442,
+      "end": 466
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 531,
+      "end": 541
+    },
+    {
+      "text": "infarto agudo",
+      "type": "PATOLOGIA",
+      "start": 565,
+      "end": 578
+    },
+    {
+      "text": "edema cerebral",
+      "type": "PATOLOGIA",
+      "start": 582,
+      "end": 596
+    },
+    {
+      "text": "cambios levemente crónicos compatibles con enfermedad microangiopática",
+      "type": "PATOLOGIA",
+      "start": 751,
+      "end": 821
+    },
+    {
+      "text": "sustancia blanca periventricular",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 828,
+      "end": 860
+    },
+    {
+      "text": "Parámetros de perfusión (CBV, CBF, TTP y MTT)",
+      "type": "TECNICA_IMAGEN",
+      "start": 904,
+      "end": 949
+    },
+    {
+      "text": "sin zonas de hipoperfusión ni retrasos de tiempo significativos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1013,
+      "end": 1076
+    },
+    {
+      "text": "Arco aórtico con configuración normal",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1114,
+      "end": 1151
+    },
+    {
+      "text": "sin placas ateromatosas significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1154,
+      "end": 1192
+    },
+    {
+      "text": "sin estenosis ni irregularidades luminales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1215,
+      "end": 1257
+    },
+    {
+      "text": "Ambas carótidas internas, vertebrales y principales arterias cerebrales (ACAs, ACMs, ACPs)",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1259,
+      "end": 1349
+    },
+    {
+      "text": "permeables sin estenosis ni malformaciones vasculares",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1350,
+      "end": 1403
+    },
+    {
+      "text": "sin estenosis ni alteraciones significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1649,
+      "end": 1693
+    },
+    {
+      "text": "sin hallazgos agudos ni signos de infarto o hemorragia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1503,
+      "end": 1557
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 531,
+      "end": 541
+    },
+    {
+      "text": "Perfusión cerebral normal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1571,
+      "end": 1596
+    },
+    {
+      "text": "Vasos intracraneales y extra craneales permeables",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1598,
+      "end": 1647
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "document_id": "informe_sintetico_20250804195045_04288",
+  "entities": [
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 242,
+      "end": 256
+    },
+    {
+      "text": "tronco encefálico",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 559,
+      "end": 576
+    },
+    {
+      "text": "bulbo raquídeo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 604,
+      "end": 618
+    },
+    {
+      "text": "puente",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 621,
+      "end": 627
+    },
+    {
+      "text": "sistema vertebrobasilar",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 967,
+      "end": 990
+    },
+    {
+      "text": "tiempo de tránsito medio (MTT)",
+      "type": "MEDIDA",
+      "start": 883,
+      "end": 913
+    },
+    {
+      "text": "tiempo hasta el pico (TTP)",
+      "type": "MEDIDA",
+      "start": 919,
+      "end": 945
+    },
+    {
+      "text": "flujo sanguíneo cerebral (CBF)",
+      "type": "MEDIDA",
+      "start": 1010,
+      "end": 1040
+    },
+    {
+      "text": "volumen cerebral (CBV)",
+      "type": "MEDIDA",
+      "start": 1043,
+      "end": 1065
+    },
+    {
+      "text": "arteria basilar proximal",
+      "type": "ARTERIA",
+      "start": 1245,
+      "end": 1269
+    },
+    {
+      "text": "arterias cerebelosas superiores",
+      "type": "ARTERIA",
+      "start": 1316,
+      "end": 1347
+    },
+    {
+      "text": "arterias vertebrales",
+      "type": "ARTERIA",
+      "start": 1353,
+      "end": 1373
+    },
+    {
+      "text": "estenosis crítica",
+      "type": "PATOLOGIA",
+      "start": 1384,
+      "end": 1401
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 1419,
+      "end": 1426
+    },
+    {
+      "text": "sin evidencia de placas cálcicas significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1506,
+      "end": 1553
+    },
+    {
+      "text": "No se observa hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1829,
+      "end": 1866
+    }
+  ]
+}

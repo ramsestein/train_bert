@@ -1,0 +1,31 @@
+UO_PACN (Unidad Organizativa Médica): RADIO
+
+PRUEB (Prueba solicitada): TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANG IOTC ARTERIAL INTRACRANEAL)
+
+CLIN (Resumen clínico): Paciente con déficit neurológico súbito compatible con isquemia aguda en territorio de arteria cerebral posterior derecha.
+
+OBSR (Protocolo): Protocolo Código Ictus que incluye TC craneal basal, estudio de perfusión cerebral y angiografía por TC extracraneal e intracraneal.
+
+RESL (Resultados):  
+TC CRANEAL BASAL:  
+No se evidencia hemorragia intra o extraaxial. Se observa hipodensidad precoz en el territorio de la arteria cerebral posterior derecha, principalmente en la región occipital y partes del tálamo ipsilateral, con pérdida de diferenciación córtico-subcortical, hallazgos compatibles con isquemia aguda. No se identifican signos de edema cerebral significativo ni efecto masa. Línea media centrada. Sistema ventricular de morfología y tamaño dentro de límites normales. Cisternas basales libres.  
+TC PERFUSIÓN:  
+Aumento del tiempo de tránsito medio (TTP) y tiempo de retraso (Tmax) en el territorio de la ACP derecha, con reducción leve de volumen cerebral de sangre (CBV) y flujo cerebral de sangre (CBF), consistente con área de penumbra isquémica y tejido en riesgo. No se observa área establecida de infarto con reducción definitiva de CBV que sugiera tejido necrótico extenso.  
+ANGIO-TC EXTRA E INTRACRANEAL:  
+Sistema arterial extracraneal sin placas ateromatosas significativas ni estenosis relevantes.  
+Oclusión distal segmentaria de la arteria cerebral posterior derecha (P2-P3). Arterias cerebrales anteriores y medias permeables. Sistema vertebrobasilar permeable sin estenosis ni malformaciones vascularessignificativas. No se identifican signos de disección arterial.
+
+CONCL (Conclusiones):  
+- Isquemia aguda en territorio de arteria cerebral posterior derecha con signos tempranos de afectación parenquimatosa y área de penumbra viable compatible con indicación para tratamiento endovascular o trombolítico según clínica y ventana temporal.  
+- Oclusión distal segmentaria de ACP derecha.  
+- Ausencia de hemorragia intracraneal ni edema cerebral significativo.
+
+ACTI_ADICI (Actividad adicional): Informe para valoración urgente en equipo multidisciplinar de código ictus y seguimiento clínico.
+
+ICON (Estudio): @RADIO_TC@
+
+X00DIATXT (Texto del diagnóstico ACR): Infarto cerebral agudo en territorio de arteria cerebral posterior derecha con oclusión distal segmentaria.
+
+EST_T_DES (Descripción): TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANGIOTC ARTERIAL INTRACRANEAL)
+
+ZVASOS_D (Der.): Oclusión distal ACP derecha; sistema vertebrobasilar permeable sin estenosis.

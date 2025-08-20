@@ -1,0 +1,33 @@
+UO_PACN (Unidad Organizativa Médica): RADIO
+
+PRUEB (Prueba solicitada): TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANG IOTC ARTERIAL INTRACRANEAL)
+
+CLIN (Resumen clínico): Débito súbito de nivel de conciencia y hemiparesia derecha
+
+OBSR (Protocolo): TC craneal basal urgente + angio-TC intracraneal y perfusión cerebral
+
+RESL (Resultados):
+TC CRANEAL BASAL:
+Se evidencia hematoma intraparenquimatoso de aproximadamente 4 cm de diámetro máximo en el putamen izquierdo, con extensión hacia la cápsula interna y afectación parcial del núcleo lenticular. El hematoma se muestra con densidad heterogénea hiperdensa, sin burbujas de aire ni signos de hemorragia intraventricular asociada.
+Desplazamiento de la línea media hacia la derecha de 6 mm y leve compresión del sistema ventricular lateral izquierdo, sin signos de hidrocéfalo obstructivo.
+No se identifican signos de edema perilesional significativo, aunque se observa leve hipodensidad sugestiva de reacción vasogénica periférica.
+Cisternas basales y surcos corticales de convexidad ligeramente comprimidos por efecto masa.
+
+TC PERFUSIÓN:
+Disminución significativa del flujo cerebral (CBF) y volumen sanguíneo cerebral (CBV) en hemisferio izquierdo, más marcada en territorio vascular de la arteria cerebral media (ACM) y zona contigua al hematoma, con aumento del tiempo de tránsito medio (MTT) y tiempo hasta el pico (TTP), indicativo de hipoperfusión.
+
+ANGIO-TC EXTRA E INTRACRANEAL:
+Arterias intracraneales permeables, sin signos de estenosis ni oclusión en los principales vasos. No se observan malformaciones vasculares ni aneurismas evidentes. Sistema venoso sin alteraciones destacables.
+
+CONCL (Conclusiones):
+Hematoma intraparenquimatoso putaminal izquierdo con afectación de la cápsula interna, causando desplazamiento de línea media de 6 mm y compresión ventricular leve. Hipoperfusión hemisférica izquierda circundante compatible con efecto masa y posible área de riesgo. No se identifican lesiones vasculares arteriales responsables en el angio-TC.
+
+ACTI_ADICI (Actividad adicional): Monitorización neurológica urgente y valoración neuroquirúrgica en contexto de hematoma putaminal.
+
+ICON (Estudio): @RADIO_TC_CRANEAL@
+
+X00DIATXT (Texto del diagnóstico ACR): Hematoma intraparenquimatoso putaminal izquierdo con efecto masa y desplazamiento de línea media. Ausencia de malformaciones vasculares en angio-TC.
+
+EST_T_DES (Descripción): TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANGIOTC ARTERIAL INTRACRANEAL)
+
+ZVASOS_D (Der.): Con arterias intracraneales patentemente permeables sin estenosis ni oclusión.

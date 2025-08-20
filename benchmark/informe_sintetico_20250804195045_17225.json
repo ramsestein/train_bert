@@ -1,0 +1,95 @@
+{
+  "document_id": "informe_sintetico_20250804195045_17225",
+  "entities": [
+    {
+      "text": "infarto",
+      "type": "PATOLOGIA",
+      "start": 340,
+      "end": 347
+    },
+    {
+      "text": "hipoperfusión",
+      "type": "PATOLOGIA",
+      "start": 352,
+      "end": 365
+    },
+    {
+      "text": "bilaterales",
+      "type": "LATERALIDAD",
+      "start": 722,
+      "end": 733
+    },
+    {
+      "text": "frontoparietales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 798,
+      "end": 814
+    },
+    {
+      "text": "occipitales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1171,
+      "end": 1182
+    },
+    {
+      "text": "estenosis moderada a severa (>70%)",
+      "type": "PATOLOGIA",
+      "start": 1392,
+      "end": 1426
+    },
+    {
+      "text": "arteria carótida interna derecha proximal",
+      "type": "ARTERIA",
+      "start": 1433,
+      "end": 1474
+    },
+    {
+      "text": "disminución moderada del flujo cerebral",
+      "type": "PATOLOGIA",
+      "start": 1188,
+      "end": 1227
+    },
+    {
+      "text": "sin trombosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1561,
+      "end": 1574
+    },
+    {
+      "text": "sin oclusiones",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1610,
+      "end": 1624
+    },
+    {
+      "text": "sin estenosis ni malformaciones",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1785,
+      "end": 1816
+    },
+    {
+      "text": "sin signos de necrosis establecida extensa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2123,
+      "end": 2165
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 411,
+      "end": 427
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 430,
+      "end": 451
+    },
+    {
+      "text": "Angio-TC de troncos supraaórticos e intracraneales",
+      "type": "TECNICA_IMAGEN",
+      "start": 454,
+      "end": 504
+    }
+  ]
+}

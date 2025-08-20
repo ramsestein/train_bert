@@ -1,0 +1,65 @@
+{
+  "document_id": "informe_sintetico_20250804195045_11323",
+  "entities": [
+    {
+      "text": "evento isquémico agudo",
+      "type": "PATOLOGIA",
+      "start": 247,
+      "end": 269
+    },
+    {
+      "text": "ASPECTS 10/10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 532,
+      "end": 545
+    },
+    {
+      "text": "microangiopatía",
+      "type": "PATOLOGIA",
+      "start": 877,
+      "end": 892
+    },
+    {
+      "text": "CBF, CBV, TTP, MTT",
+      "type": "MEDIDA",
+      "start": 969,
+      "end": 987
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 532,
+      "end": 542
+    },
+    {
+      "text": "sin hallazgos agudos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1508,
+      "end": 1528
+    },
+    {
+      "text": "sin estenosis ni oclusiones evidentes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1617,
+      "end": 1654
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 290,
+      "end": 306
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 322,
+      "end": 343
+    },
+    {
+      "text": "angiografía TC de vasos intracraneales y troncos supraaórticos",
+      "type": "TECNICA_IMAGEN",
+      "start": 346,
+      "end": 408
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "document_id": "informe_sintetico_20250804195045_23693",
+  "entities": [
+    {
+      "text": "infarto de tipo watershed",
+      "type": "PATOLOGIA",
+      "start": 678,
+      "end": 703
+    },
+    {
+      "text": "bilateral",
+      "type": "LATERALIDAD",
+      "start": 497,
+      "end": 506
+    },
+    {
+      "text": "parietales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 559,
+      "end": 569
+    },
+    {
+      "text": "ACAs",
+      "type": "ARTERIA",
+      "start": 1259,
+      "end": 1263
+    },
+    {
+      "text": "ACMs",
+      "type": "ARTERIA",
+      "start": 1265,
+      "end": 1269
+    },
+    {
+      "text": "ACPs",
+      "type": "ARTERIA",
+      "start": 1271,
+      "end": 1275
+    },
+    {
+      "text": "sin evidencia de estenosis oclusiva",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1630,
+      "end": 1665
+    }
+  ]
+}

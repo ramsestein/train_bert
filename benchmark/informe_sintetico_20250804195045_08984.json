@@ -1,0 +1,89 @@
+{
+  "document_id": "informe_sintetico_20250804195045_08984",
+  "entities": [
+    {
+      "text": "infarto cerebral en fase aguda",
+      "type": "PATOLOGIA",
+      "start": 539,
+      "end": 569
+    },
+    {
+      "text": "M1 derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 512,
+      "end": 522
+    },
+    {
+      "text": "30%",
+      "type": "MEDIDA",
+      "start": 818,
+      "end": 821
+    },
+    {
+      "text": "PH2",
+      "type": "PUNTUACION_CLINICA",
+      "start": 892,
+      "end": 895
+    },
+    {
+      "text": "M1 derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 512,
+      "end": 522
+    },
+    {
+      "text": "Oclusión completa del segmento M1 derecho de la arteria cerebral media",
+      "type": "PATOLOGIA",
+      "start": 1513,
+      "end": 1583
+    },
+    {
+      "text": "arteria cerebral media",
+      "type": "ARTERIA",
+      "start": 1561,
+      "end": 1583
+    },
+    {
+      "text": "M1",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 512,
+      "end": 514
+    },
+    {
+      "text": "sin estenosis significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1771,
+      "end": 1799
+    },
+    {
+      "text": "No se aprecian hemorragias extraaxiales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1045,
+      "end": 1084
+    },
+    {
+      "text": "agudo",
+      "type": "TEMPORALIDAD",
+      "start": 1904,
+      "end": 1909
+    },
+    {
+      "text": "TC craneal basal urgente",
+      "type": "TECNICA_IMAGEN",
+      "start": 338,
+      "end": 362
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 365,
+      "end": 386
+    },
+    {
+      "text": "Angio-TC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 389,
+      "end": 419
+    }
+  ]
+}

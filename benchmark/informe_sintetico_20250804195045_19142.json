@@ -1,0 +1,47 @@
+{
+  "document_id": "informe_sintetico_20250804195045_19142",
+  "entities": [
+    {
+      "text": "infarto agudo",
+      "type": "PATOLOGIA",
+      "start": 595,
+      "end": 608
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 610,
+      "end": 620
+    },
+    {
+      "text": "sin signos de hemorragia subaracnoidea",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 775,
+      "end": 813
+    },
+    {
+      "text": "sin áreas de isquemia o hipoperfusión",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1009,
+      "end": 1046
+    },
+    {
+      "text": "ACAs, ACMs, ACPs y sistema vertebrobasilar",
+      "type": "ARTERIA",
+      "start": 1207,
+      "end": 1249
+    },
+    {
+      "text": "sin hallazgos agudos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1354,
+      "end": 1374
+    },
+    {
+      "text": "dentro de parámetros normales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1528,
+      "end": 1557
+    }
+  ]
+}

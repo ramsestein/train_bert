@@ -1,0 +1,95 @@
+{
+  "document_id": "informe_sintetico_20250804195045_11551",
+  "entities": [
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 1596,
+      "end": 1610
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 908,
+      "end": 940
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "ARTERIA",
+      "start": 908,
+      "end": 940
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 931,
+      "end": 940
+    },
+    {
+      "text": "M2/M3",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 969,
+      "end": 974
+    },
+    {
+      "text": "M2/M3",
+      "type": "ARTERIA",
+      "start": 969,
+      "end": 974
+    },
+    {
+      "text": "ASPECTS 9",
+      "type": "PUNTUACION_CLINICA",
+      "start": 1361,
+      "end": 1370
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 257,
+      "end": 273
+    },
+    {
+      "text": "perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 300,
+      "end": 318
+    },
+    {
+      "text": "angio-TC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 321,
+      "end": 351
+    },
+    {
+      "text": "No se evidencian hemorragias intra o extraaxiales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 450,
+      "end": 499
+    },
+    {
+      "text": "No se identifican signos de infarto establecido ni efecto masa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 501,
+      "end": 563
+    },
+    {
+      "text": "sin evidencia de necrosis tisular establecida",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1018,
+      "end": 1063
+    },
+    {
+      "text": "sin hallazgos adicionales de estenosis ni malformaciones vasculares",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1235,
+      "end": 1302
+    },
+    {
+      "text": "sin visualización de infarto establecido ni hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1491,
+      "end": 1558
+    }
+  ]
+}

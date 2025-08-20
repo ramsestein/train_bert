@@ -1,0 +1,83 @@
+{
+  "document_id": "informe_sintetico_20250804195045_14217",
+  "entities": [
+    {
+      "text": "hiperdensidad",
+      "type": "PATOLOGIA",
+      "start": 401,
+      "end": 414
+    },
+    {
+      "text": "trombo intraluminal",
+      "type": "PATOLOGIA",
+      "start": 495,
+      "end": 514
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 729,
+      "end": 743
+    },
+    {
+      "text": "hemorragias intra ni extraaxiales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 762,
+      "end": 795
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 436,
+      "end": 468
+    },
+    {
+      "text": "segmento M1",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 469,
+      "end": 480
+    },
+    {
+      "text": "ACM izquierda proximal",
+      "type": "ARTERIA",
+      "start": 1014,
+      "end": 1036
+    },
+    {
+      "text": "núcleo isquémico",
+      "type": "PATOLOGIA",
+      "start": 1119,
+      "end": 1135
+    },
+    {
+      "text": "penumbra viable",
+      "type": "PATOLOGIA",
+      "start": 1138,
+      "end": 1153
+    },
+    {
+      "text": "Oclusión completa",
+      "type": "PATOLOGIA",
+      "start": 1189,
+      "end": 1206
+    },
+    {
+      "text": "segmento M1 de la arteria cerebral media izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1211,
+      "end": 1261
+    },
+    {
+      "text": "ASPECTS 6",
+      "type": "PUNTUACION_CLINICA",
+      "start": 693,
+      "end": 702
+    },
+    {
+      "text": "No hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1652,
+      "end": 1678
+    }
+  ]
+}

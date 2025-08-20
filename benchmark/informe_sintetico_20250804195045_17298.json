@@ -1,0 +1,89 @@
+{
+  "document_id": "informe_sintetico_20250804195045_17298",
+  "entities": [
+    {
+      "text": "infarto lacunar agudo",
+      "type": "PATOLOGIA",
+      "start": 510,
+      "end": 531
+    },
+    {
+      "text": "región ganglio lenticular derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 461,
+      "end": 494
+    },
+    {
+      "text": "ACAs",
+      "type": "ARTERIA",
+      "start": 1341,
+      "end": 1345
+    },
+    {
+      "text": "ACMs",
+      "type": "ARTERIA",
+      "start": 1347,
+      "end": 1351
+    },
+    {
+      "text": "ACPs",
+      "type": "ARTERIA",
+      "start": 1353,
+      "end": 1357
+    },
+    {
+      "text": "derecho",
+      "type": "LATERALIDAD",
+      "start": 487,
+      "end": 494
+    },
+    {
+      "text": "9/10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 702,
+      "end": 706
+    },
+    {
+      "text": "agudo",
+      "type": "TEMPORALIDAD",
+      "start": 526,
+      "end": 531
+    },
+    {
+      "text": "sin estenosis obstructiva",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1203,
+      "end": 1228
+    },
+    {
+      "text": "sin alteraciones de calibre",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1429,
+      "end": 1456
+    },
+    {
+      "text": "sin zona penumbra significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1073,
+      "end": 1104
+    },
+    {
+      "text": "TC craneal basal sin contraste",
+      "type": "TECNICA_IMAGEN",
+      "start": 255,
+      "end": 285
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 288,
+      "end": 309
+    },
+    {
+      "text": "AngioTC intra y extracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 312,
+      "end": 340
+    }
+  ]
+}

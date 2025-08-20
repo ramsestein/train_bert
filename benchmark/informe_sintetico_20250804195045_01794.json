@@ -1,0 +1,101 @@
+{
+  "document_id": "informe_sintetico_20250804195045_01794",
+  "entities": [
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 240,
+      "end": 254
+    },
+    {
+      "text": "arteria cerebral posterior izquierda",
+      "type": "ARTERIA",
+      "start": 272,
+      "end": 308
+    },
+    {
+      "text": "hemicuerpo derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 208,
+      "end": 226
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 299,
+      "end": 308
+    },
+    {
+      "text": "8/10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 891,
+      "end": 895
+    },
+    {
+      "text": "25 ml",
+      "type": "MEDIDA",
+      "start": 1212,
+      "end": 1217
+    },
+    {
+      "text": "agudo",
+      "type": "TEMPORALIDAD",
+      "start": 199,
+      "end": 204
+    },
+    {
+      "text": "Oclusión subtotal proximal de la arteria cerebral posterior izquierda (P1-P2)",
+      "type": "PATOLOGIA",
+      "start": 1333,
+      "end": 1410
+    },
+    {
+      "text": "No se evidencian hemorragias intracraneales agudas ni lesiones expansivas.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 571,
+      "end": 645
+    },
+    {
+      "text": "sin infarto establecido",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1915,
+      "end": 1938
+    },
+    {
+      "text": "sin evidencia clara de infarto establecido",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1219,
+      "end": 1261
+    },
+    {
+      "text": "sin visualización completa del segmento P2 distal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1412,
+      "end": 1461
+    },
+    {
+      "text": "sin otras alteraciones significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2524,
+      "end": 2561
+    },
+    {
+      "text": "TC craneal urgente basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 329,
+      "end": 353
+    },
+    {
+      "text": "angiografía por TC de arterias intra y extra craneales",
+      "type": "TECNICA_IMAGEN",
+      "start": 387,
+      "end": 441
+    },
+    {
+      "text": "TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANG IOTC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 72,
+      "end": 140
+    }
+  ]
+}

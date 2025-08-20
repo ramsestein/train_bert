@@ -1,0 +1,143 @@
+{
+  "document_id": "informe_sintetico_20250804195045_00369",
+  "entities": [
+    {
+      "text": "infarto",
+      "type": "PATOLOGIA",
+      "start": 319,
+      "end": 326
+    },
+    {
+      "text": "zonas limítrofes",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 330,
+      "end": 346
+    },
+    {
+      "text": "hemorragias",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 604,
+      "end": 615
+    },
+    {
+      "text": "lesiones ocupantes de espacio",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 619,
+      "end": 648
+    },
+    {
+      "text": "hipodensidad lineales y difusas",
+      "type": "PATOLOGIA",
+      "start": 671,
+      "end": 702
+    },
+    {
+      "text": "regiones corticales frontoparietales bilaterales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 710,
+      "end": 758
+    },
+    {
+      "text": "arteria cerebral media",
+      "type": "ARTERIA",
+      "start": 831,
+      "end": 853
+    },
+    {
+      "text": "arteria cerebral anterior",
+      "type": "ARTERIA",
+      "start": 856,
+      "end": 881
+    },
+    {
+      "text": "infartos watershed",
+      "type": "PATOLOGIA",
+      "start": 911,
+      "end": 929
+    },
+    {
+      "text": "ASPECTS 8",
+      "type": "PUNTUACION_CLINICA",
+      "start": 931,
+      "end": 940
+    },
+    {
+      "text": "disminución del volumen cerebral de sangre (CBV)",
+      "type": "PATOLOGIA",
+      "start": 1157,
+      "end": 1205
+    },
+    {
+      "text": "flujo cerebral de sangre (CBF)",
+      "type": "PATOLOGIA",
+      "start": 1208,
+      "end": 1238
+    },
+    {
+      "text": "aumento del tiempo al pico (TTP)",
+      "type": "PATOLOGIA",
+      "start": 1280,
+      "end": 1312
+    },
+    {
+      "text": "retraso medio (MTT)",
+      "type": "PATOLOGIA",
+      "start": 1329,
+      "end": 1348
+    },
+    {
+      "text": "hipoperfusión tisular",
+      "type": "PATOLOGIA",
+      "start": 1363,
+      "end": 1384
+    },
+    {
+      "text": "trombosis intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1650,
+      "end": 1672
+    },
+    {
+      "text": "signos de vasoespasmo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1721,
+      "end": 1742
+    },
+    {
+      "text": "disección",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1745,
+      "end": 1754
+    },
+    {
+      "text": "infartos watershed bilaterales",
+      "type": "PATOLOGIA",
+      "start": 1796,
+      "end": 1826
+    },
+    {
+      "text": "hipoperfusión cerebral",
+      "type": "PATOLOGIA",
+      "start": 1905,
+      "end": 1927
+    },
+    {
+      "text": "trombosis arterial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2016,
+      "end": 2034
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2038,
+      "end": 2061
+    },
+    {
+      "text": "estenosis significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1543,
+      "end": 1566
+    }
+  ]
+}

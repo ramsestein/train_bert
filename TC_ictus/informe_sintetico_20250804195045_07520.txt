@@ -1,0 +1,33 @@
+UO_PACN (Unidad Organizativa Médica): RADIO
+
+PRUEB (Prueba solicitada): TC CODIGO ICTUS (PERFUSIÓN CEREBRAL + ANG IOTC ARTERIAL INTRACRANEAL)
+
+CLIN (Resumen clínico): Paciente masculino de 68 años con cuadro súbito de hemiparesia derecha, afasia y pérdida de conciencia parcial. Sospecha clínica de accidente cerebrovascular isquémico.
+
+OBSR (Protocolo): TC craneal basal sin contraste + perfusión cerebral con estudio paramétrico (TTP, CBV, CBF) + angiografía por angio-TC intracraneal y cervical urgente.
+
+RESL (Resultados):
+
+TC CRANEAL BASAL:  
+Se evidencia extensa hipodensidad mal delimitada en territorio de la arteria cerebral media izquierda, afectando la región frontal, parietal y cápsula interna, compatible con infarto cerebral reciente. Desaparición de diferenciación cortico-subcortical en dichas áreas. Se observa leve edema cerebral con borramiento de surcos adyacentes y discreto efecto de masa sin desplazamiento significativo de la línea media. No se aprecian signos de hemorragia intraparenquimatosa ni sangrado subaracnoideo. Sistema ventricular levemente comprimido en el lado afectado.
+
+TC PERFUSIÓN CEREBRAL:  
+Disminución marcada del volumen cerebral (CBV) y del flujo sanguíneo cerebral (CBF) en el territorio de la ACM izquierda. Tiempo de tránsito medio (TTP) prolongado con aumento significativo en las zonas infartadas. Se identifica área de penumbra isquémica periférica con prolongación del TTP y reducción moderada del CBF, sugestiva de tejido viable en riesgo.
+
+ANGIO-TC EXTRA-INTRACRANEAL:  
+Oclusión completa en el segmento cervical proximal de la arteria carótida interna izquierda. Se observa ausencia de flujo distal en dicha arteria. Se identifican colaterales menores a través de la circulación leptomeníngea. No se visualizan signos de estenosis significativas en otras arterias cerebrales intracraneales (ACAs, ACPs). Arterias vertebrales y sistema vertebrobasilar permeables, sin alteraciones relevantes. Arco aórtico con ateromatosis calcificada leve, sin estenosis.
+
+CONCL (Conclusiones):  
+Infarto cerebral extenso en territorio de la arteria cerebral media izquierda con áreas de penumbra isquémica asociadas. Oclusión completa del segmento proximal de la arteria carótida interna izquierda. Ausencia de hemorragia intracraneal ni complicaciones hemorrágicas secundarias.
+
+ACTI_ADICI (Actividad adicional):  
+Se recomienda valoración neurológica urgente para posible tratamiento trombolítico o intervencionista endovascular. Seguimiento clínico y radiológico estricto.
+
+ICON (Estudio): @RADIO_TC_ICA_INFARTO@
+
+X00DIATXT (Texto del diagnóstico ACR):  
+CT brain stroke code with perfusion and intracranial arterial angio-CT demonstrates extensive left MCA territory infarction with proximal left ICA occlusion.
+
+EST_T_DES (Descripción): TC CODIGO ICTUS (PERFUSIÓN CEREBRAL + ANGIO-TC ARTERIAL INTRACRANEAL)
+
+ZVASOS_D (Der.): Oclusión proximal izquierda de arteria carótida interna, con flujo distal comprometido; colaterales leptomeníngeas presentes.

@@ -1,0 +1,71 @@
+{
+  "document_id": "informe_sintetico_20250804195045_18481",
+  "entities": [
+    {
+      "text": "infarto isquémico temprano",
+      "type": "PATOLOGIA",
+      "start": 813,
+      "end": 839
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 582,
+      "end": 614
+    },
+    {
+      "text": "ACM",
+      "type": "ARTERIA",
+      "start": 792,
+      "end": 795
+    },
+    {
+      "text": "izquierdos",
+      "type": "LATERALIDAD",
+      "start": 756,
+      "end": 766
+    },
+    {
+      "text": "ASPECTS 7",
+      "type": "PUNTUACION_CLINICA",
+      "start": 1887,
+      "end": 1896
+    },
+    {
+      "text": "aguda",
+      "type": "TEMPORALIDAD",
+      "start": 1709,
+      "end": 1714
+    },
+    {
+      "text": "Oclusión completa",
+      "type": "PATOLOGIA",
+      "start": 1393,
+      "end": 1410
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 582,
+      "end": 614
+    },
+    {
+      "text": "ASPECTS 7",
+      "type": "PUNTUACION_CLINICA",
+      "start": 1887,
+      "end": 1896
+    },
+    {
+      "text": "No se evidencian hemorragias intra ni extraaxiales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 864,
+      "end": 914
+    },
+    {
+      "text": "No se observan otras estenosis ni placas de ateroma significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1524,
+      "end": 1590
+    }
+  ]
+}

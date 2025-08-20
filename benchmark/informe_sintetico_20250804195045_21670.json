@@ -1,0 +1,155 @@
+{
+  "document_id": "informe_sintetico_20250804195045_21670",
+  "entities": [
+    {
+      "text": "infartos lacunares crónicos",
+      "type": "PATOLOGIA",
+      "start": 656,
+      "end": 683
+    },
+    {
+      "text": "substancia blanca periventricular",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 576,
+      "end": 609
+    },
+    {
+      "text": "núcleos lenticulares",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 615,
+      "end": 635
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 712,
+      "end": 726
+    },
+    {
+      "text": "hemorragias intracraneales",
+      "type": "PATOLOGIA",
+      "start": 730,
+      "end": 756
+    },
+    {
+      "text": "atrofia cerebral leve",
+      "type": "PATOLOGIA",
+      "start": 820,
+      "end": 841
+    },
+    {
+      "text": "hipoperfusión aguda",
+      "type": "PATOLOGIA",
+      "start": 964,
+      "end": 983
+    },
+    {
+      "text": "arterias cerebrales medias",
+      "type": "ARTERIA",
+      "start": 1279,
+      "end": 1305
+    },
+    {
+      "text": "bilaterales",
+      "type": "LATERALIDAD",
+      "start": 1306,
+      "end": 1317
+    },
+    {
+      "text": "estenosis",
+      "type": "PATOLOGIA",
+      "start": 1175,
+      "end": 1184
+    },
+    {
+      "text": "oclusiones significativas",
+      "type": "PATOLOGIA",
+      "start": 1188,
+      "end": 1213
+    },
+    {
+      "text": "ateromatosis leve",
+      "type": "PATOLOGIA",
+      "start": 1226,
+      "end": 1243
+    },
+    {
+      "text": "infarto isquémico agudo",
+      "type": "PATOLOGIA",
+      "start": 1462,
+      "end": 1485
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "PATOLOGIA",
+      "start": 1489,
+      "end": 1512
+    },
+    {
+      "text": "enfermedad microvascular",
+      "type": "PATOLOGIA",
+      "start": 1648,
+      "end": 1672
+    },
+    {
+      "text": "TC craneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 358,
+      "end": 368
+    },
+    {
+      "text": "TC de perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 394,
+      "end": 418
+    },
+    {
+      "text": "angiografía por AngioTC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 421,
+      "end": 466
+    },
+    {
+      "text": "TC craneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 358,
+      "end": 368
+    },
+    {
+      "text": "AngioTC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 437,
+      "end": 466
+    },
+    {
+      "text": "No se evidencian signos de isquemia aguda",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 685,
+      "end": 726
+    },
+    {
+      "text": "No hay desplazamientos de líneas medias",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 843,
+      "end": 882
+    },
+    {
+      "text": "sin evidencias de estenosis ni oclusiones significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1157,
+      "end": 1213
+    },
+    {
+      "text": "sin compromiso hemodinámico",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1319,
+      "end": 1346
+    },
+    {
+      "text": "sin signos de infarto isquémico agudo ni hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1448,
+      "end": 1512
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "document_id": "informe_sintetico_20250804195045_05597",
+  "entities": [
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 291,
+      "end": 305
+    },
+    {
+      "text": "arteria cerebral posterior",
+      "type": "ARTERIA",
+      "start": 326,
+      "end": 352
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 640,
+      "end": 649
+    },
+    {
+      "text": "2 horas",
+      "type": "TEMPORALIDAD",
+      "start": 270,
+      "end": 277
+    },
+    {
+      "text": "hipodensidad leve",
+      "type": "PATOLOGIA",
+      "start": 599,
+      "end": 616
+    },
+    {
+      "text": "región occipital izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 623,
+      "end": 649
+    },
+    {
+      "text": "ASPECTS 8",
+      "type": "PUNTUACION_CLINICA",
+      "start": 757,
+      "end": 766
+    },
+    {
+      "text": "arteria cerebral posterior izquierda",
+      "type": "ARTERIA",
+      "start": 1026,
+      "end": 1062
+    },
+    {
+      "text": "lóbulo occipital",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1091,
+      "end": 1107
+    },
+    {
+      "text": "región posteromedial temporal",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1113,
+      "end": 1142
+    },
+    {
+      "text": "isquemia",
+      "type": "PATOLOGIA",
+      "start": 291,
+      "end": 299
+    },
+    {
+      "text": "segmento P2",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1398,
+      "end": 1409
+    },
+    {
+      "text": "arteria cerebral posterior izquierda",
+      "type": "ARTERIA",
+      "start": 1026,
+      "end": 1062
+    },
+    {
+      "text": "sin hallazgos significativos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1491,
+      "end": 1519
+    },
+    {
+      "text": "isquemia aguda establecida",
+      "type": "PATOLOGIA",
+      "start": 1874,
+      "end": 1900
+    },
+    {
+      "text": "oclusión del segmento P2 de ACP izquierda",
+      "type": "PATOLOGIA",
+      "start": 1931,
+      "end": 1972
+    },
+    {
+      "text": "circulación colateral preservada",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2526,
+      "end": 2558
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 373,
+      "end": 389
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 416,
+      "end": 437
+    },
+    {
+      "text": "AngioTC de vasos intra y extracraneales",
+      "type": "TECNICA_IMAGEN",
+      "start": 440,
+      "end": 479
+    }
+  ]
+}

@@ -1,0 +1,251 @@
+{
+  "document_id": "informe_sintetico_20250804195045_24687",
+  "entities": [
+    {
+      "text": "hemiparesia contralateral",
+      "type": "PATOLOGIA",
+      "start": 179,
+      "end": 204
+    },
+    {
+      "text": "ictus",
+      "type": "PATOLOGIA",
+      "start": 271,
+      "end": 276
+    },
+    {
+      "text": "arteria cerebral anterior",
+      "type": "ARTERIA",
+      "start": 294,
+      "end": 319
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 561,
+      "end": 584
+    },
+    {
+      "text": "lesión ocupante de espacio",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 588,
+      "end": 614
+    },
+    {
+      "text": "hipodensidad cortical",
+      "type": "PATOLOGIA",
+      "start": 627,
+      "end": 648
+    },
+    {
+      "text": "blurry gray-white differentiation",
+      "type": "PATOLOGIA",
+      "start": 653,
+      "end": 686
+    },
+    {
+      "text": "prefrontal",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 704,
+      "end": 714
+    },
+    {
+      "text": "mesial de sustancia blanca",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 717,
+      "end": 743
+    },
+    {
+      "text": "hemisferio derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 748,
+      "end": 766
+    },
+    {
+      "text": "edema citotóxico",
+      "type": "PATOLOGIA",
+      "start": 793,
+      "end": 809
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 825,
+      "end": 839
+    },
+    {
+      "text": "arteria cerebral anterior",
+      "type": "ARTERIA",
+      "start": 294,
+      "end": 319
+    },
+    {
+      "text": "ASPECTS modificado para ACA: 9",
+      "type": "PUNTUACION_CLINICA",
+      "start": 897,
+      "end": 927
+    },
+    {
+      "text": "sistema ventricular",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 932,
+      "end": 951
+    },
+    {
+      "text": "morfología y tamaño conservados",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 961,
+      "end": 992
+    },
+    {
+      "text": "desplazamiento de línea media",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 998,
+      "end": 1027
+    },
+    {
+      "text": "edema vasogénico importante",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1031,
+      "end": 1058
+    },
+    {
+      "text": "Mapas de Tmax",
+      "type": "TECNICA_IMAGEN",
+      "start": 1075,
+      "end": 1088
+    },
+    {
+      "text": "retraso hemodinámico segmentario",
+      "type": "PATOLOGIA",
+      "start": 1100,
+      "end": 1132
+    },
+    {
+      "text": "región medial frontal derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1136,
+      "end": 1165
+    },
+    {
+      "text": "tiempo de tránsito medio (MTT)",
+      "type": "MEDIDA",
+      "start": 1182,
+      "end": 1212
+    },
+    {
+      "text": "tiempo a pico (TTP)",
+      "type": "MEDIDA",
+      "start": 1215,
+      "end": 1234
+    },
+    {
+      "text": "reducción moderada en flujo sanguíneo cerebral (CBF)",
+      "type": "PATOLOGIA",
+      "start": 1250,
+      "end": 1302
+    },
+    {
+      "text": "volumen cerebral sanguíneo (CBV)",
+      "type": "MEDIDA",
+      "start": 1305,
+      "end": 1337
+    },
+    {
+      "text": "zona de penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1365,
+      "end": 1391
+    },
+    {
+      "text": "territorio ACA derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1395,
+      "end": 1417
+    },
+    {
+      "text": "Oclusión parcial focal",
+      "type": "PATOLOGIA",
+      "start": 1448,
+      "end": 1470
+    },
+    {
+      "text": "segmento proximal de arteria cerebral anterior derecha (A2)",
+      "type": "ARTERIA",
+      "start": 1474,
+      "end": 1533
+    },
+    {
+      "text": "ausencia de contraste distal inmediato",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1539,
+      "end": 1577
+    },
+    {
+      "text": "trombosis o embolia",
+      "type": "PATOLOGIA",
+      "start": 1592,
+      "end": 1611
+    },
+    {
+      "text": "Resto de la circulación intracraneal y extra craneal sin estenosis relevantes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1613,
+      "end": 1690
+    },
+    {
+      "text": "evidencias de placas ateroscleróticas significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1696,
+      "end": 1748
+    },
+    {
+      "text": "carotídeas internas",
+      "type": "ARTERIA",
+      "start": 1752,
+      "end": 1771
+    },
+    {
+      "text": "circulación vertebrobasilar",
+      "type": "ARTERIA",
+      "start": 1778,
+      "end": 1805
+    },
+    {
+      "text": "No se identifican aneurismas ni malformaciones vasculares",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1807,
+      "end": 1864
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 825,
+      "end": 839
+    },
+    {
+      "text": "territorio de arteria cerebral anterior derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1929,
+      "end": 1976
+    },
+    {
+      "text": "oclusión arterial segmentaria",
+      "type": "PATOLOGIA",
+      "start": 2656,
+      "end": 2685
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 561,
+      "end": 584
+    },
+    {
+      "text": "signos de infarto establecido de gran tamaño",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2216,
+      "end": 2260
+    }
+  ]
+}

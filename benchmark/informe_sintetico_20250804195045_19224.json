@@ -1,0 +1,53 @@
+{
+  "document_id": "informe_sintetico_20250804195045_19224",
+  "entities": [
+    {
+      "text": "infarto lacunar agudo",
+      "type": "PATOLOGIA",
+      "start": 535,
+      "end": 556
+    },
+    {
+      "text": "núcleo lenticular izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 493,
+      "end": 520
+    },
+    {
+      "text": "6 mm",
+      "type": "MEDIDA",
+      "start": 462,
+      "end": 466
+    },
+    {
+      "text": "izquierdo",
+      "type": "LATERALIDAD",
+      "start": 511,
+      "end": 520
+    },
+    {
+      "text": "sin alteraciones significativas en el flujo cerebral (CBF) ni en el volumen cerebral (CBV)",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 988,
+      "end": 1078
+    },
+    {
+      "text": "sin estenosis ni oclusiones visibles en arterias cerebrales medias, anteriores ni posteriores",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1186,
+      "end": 1279
+    },
+    {
+      "text": "permeabilidad conservada de las principales arterias intracraneales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1117,
+      "end": 1184
+    },
+    {
+      "text": "TC craneal basal urgente",
+      "type": "TECNICA_IMAGEN",
+      "start": 282,
+      "end": 306
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "document_id": "informe_sintetico_20250804195045_04351",
+  "entities": [
+    {
+      "text": "contusión hemorrágica traumática",
+      "type": "PATOLOGIA",
+      "start": 552,
+      "end": 584
+    },
+    {
+      "text": "región frontotemporal derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 506,
+      "end": 535
+    },
+    {
+      "text": "edema perilesional",
+      "type": "PATOLOGIA",
+      "start": 589,
+      "end": 607
+    },
+    {
+      "text": "volumen cerebral (CBV) en la región contusa derecha",
+      "type": "PATOLOGIA",
+      "start": 899,
+      "end": 950
+    },
+    {
+      "text": "sin evidencia de área de isquemia cortical establecida",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1004,
+      "end": 1058
+    },
+    {
+      "text": "sin signo de oclusión ni estenosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1130,
+      "end": 1164
+    },
+    {
+      "text": "TC craneal basal sin contraste",
+      "type": "TECNICA_IMAGEN",
+      "start": 295,
+      "end": 325
+    },
+    {
+      "text": "angio-TC intracraneal arterial",
+      "type": "TECNICA_IMAGEN",
+      "start": 328,
+      "end": 358
+    },
+    {
+      "text": "perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 361,
+      "end": 379
+    }
+  ]
+}

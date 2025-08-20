@@ -1,0 +1,83 @@
+{
+  "document_id": "0000000010000000061192455_cleaned",
+  "entities": [
+    {
+      "text": "oclusió",
+      "type": "PATOLOGIA",
+      "start": 193,
+      "end": 200
+    },
+    {
+      "text": "estenosi",
+      "type": "PATOLOGIA",
+      "start": 203,
+      "end": 211
+    },
+    {
+      "text": "artèria cerebral",
+      "type": "ARTERIA",
+      "start": 231,
+      "end": 247
+    },
+    {
+      "text": "craneotomía pterional derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 462,
+      "end": 491
+    },
+    {
+      "text": "polo temporal derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 521,
+      "end": 542
+    },
+    {
+      "text": "hipodensidad periventricular confluente e insular",
+      "type": "PATOLOGIA",
+      "start": 607,
+      "end": 656
+    },
+    {
+      "text": "enfermedad de pequeño vaso grado severo",
+      "type": "PATOLOGIA",
+      "start": 672,
+      "end": 711
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 872,
+      "end": 882
+    },
+    {
+      "text": "territorio parieto-temporal derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1071,
+      "end": 1106
+    },
+    {
+      "text": "ACAs, ACMs y ACPs",
+      "type": "ARTERIA",
+      "start": 1911,
+      "end": 1928
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 872,
+      "end": 882
+    },
+    {
+      "text": "No se observa hemorragia intra ni extraaxial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 719,
+      "end": 763
+    },
+    {
+      "text": "No hay hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2001,
+      "end": 2031
+    }
+  ]
+}

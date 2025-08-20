@@ -1,0 +1,101 @@
+{
+  "document_id": "informe_sintetico_20250804195045_16373",
+  "entities": [
+    {
+      "text": "ictus isquémico",
+      "type": "PATOLOGIA",
+      "start": 252,
+      "end": 267
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "ARTERIA",
+      "start": 288,
+      "end": 320
+    },
+    {
+      "text": "hemicuerpo derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 203,
+      "end": 221
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 311,
+      "end": 320
+    },
+    {
+      "text": "ASPECTS 7",
+      "type": "PUNTUACION_CLINICA",
+      "start": 735,
+      "end": 744
+    },
+    {
+      "text": "signo de arteria hiperdensa",
+      "type": "PATOLOGIA",
+      "start": 760,
+      "end": 787
+    },
+    {
+      "text": "segmento M1 izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 794,
+      "end": 815
+    },
+    {
+      "text": "Oclusión completa",
+      "type": "PATOLOGIA",
+      "start": 1243,
+      "end": 1260
+    },
+    {
+      "text": "segmento proximal M1",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1265,
+      "end": 1285
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "ARTERIA",
+      "start": 288,
+      "end": 320
+    },
+    {
+      "text": "agudo",
+      "type": "TEMPORALIDAD",
+      "start": 1576,
+      "end": 1581
+    },
+    {
+      "text": "ASPECTS 7",
+      "type": "PUNTUACION_CLINICA",
+      "start": 735,
+      "end": 744
+    },
+    {
+      "text": "No se evidencian otras lesiones vasculares",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1493,
+      "end": 1535
+    },
+    {
+      "text": "TC craneal urgente basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 341,
+      "end": 365
+    },
+    {
+      "text": "angiografía por TC extra e intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 438,
+      "end": 477
+    },
+    {
+      "text": "estudio de perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 367,
+      "end": 396
+    }
+  ]
+}

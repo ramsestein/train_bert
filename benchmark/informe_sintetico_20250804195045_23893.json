@@ -1,0 +1,83 @@
+{
+  "document_id": "informe_sintetico_20250804195045_23893",
+  "entities": [
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 1142,
+      "end": 1156
+    },
+    {
+      "text": "arteria cerebral posterior derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 904,
+      "end": 938
+    },
+    {
+      "text": "P2",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1288,
+      "end": 1290
+    },
+    {
+      "text": "arteria cerebral posterior derecha",
+      "type": "ARTERIA",
+      "start": 904,
+      "end": 938
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 563,
+      "end": 570
+    },
+    {
+      "text": "puntuación ASPECTS 7",
+      "type": "PUNTUACION_CLINICA",
+      "start": 673,
+      "end": 693
+    },
+    {
+      "text": "aguda",
+      "type": "TEMPORALIDAD",
+      "start": 1151,
+      "end": 1156
+    },
+    {
+      "text": "No se identifican hemorragias intra ni extraaxiales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 440,
+      "end": 491
+    },
+    {
+      "text": "No se observan signos de efecto masa significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 695,
+      "end": 745
+    },
+    {
+      "text": "sin evidencia de hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1827,
+      "end": 1867
+    },
+    {
+      "text": "TC craneal basal sin contraste",
+      "type": "TECNICA_IMAGEN",
+      "start": 270,
+      "end": 300
+    },
+    {
+      "text": "estudio de perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 302,
+      "end": 331
+    },
+    {
+      "text": "angiografía por TC de arterias intracraneales y extracraneales",
+      "type": "TECNICA_IMAGEN",
+      "start": 334,
+      "end": 396
+    }
+  ]
+}

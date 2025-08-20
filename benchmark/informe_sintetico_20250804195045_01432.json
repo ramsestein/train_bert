@@ -1,0 +1,119 @@
+{
+  "document_id": "informe_sintetico_20250804195045_01432",
+  "entities": [
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 214,
+      "end": 228
+    },
+    {
+      "text": "arteria cerebral posterior",
+      "type": "ARTERIA",
+      "start": 246,
+      "end": 272
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 562,
+      "end": 572
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 472,
+      "end": 495
+    },
+    {
+      "text": "lesiones hipodensas corticales definidas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 499,
+      "end": 539
+    },
+    {
+      "text": "aumento predominante en el tiempo de tránsito medio (TTP)",
+      "type": "PATOLOGIA",
+      "start": 715,
+      "end": 772
+    },
+    {
+      "text": "reducción del flujo sanguíneo cerebral (CBF)",
+      "type": "PATOLOGIA",
+      "start": 775,
+      "end": 819
+    },
+    {
+      "text": "arteria cerebral posterior derecha",
+      "type": "ARTERIA",
+      "start": 840,
+      "end": 874
+    },
+    {
+      "text": "penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 899,
+      "end": 917
+    },
+    {
+      "text": "volumen sanguíneo cerebral (CBV)",
+      "type": "MEDIDA",
+      "start": 922,
+      "end": 954
+    },
+    {
+      "text": "Oclusión subsegmentaria distal de la arteria cerebral posterior derecha (P2-P3)",
+      "type": "PATOLOGIA",
+      "start": 1074,
+      "end": 1153
+    },
+    {
+      "text": "sin evidencia de trombo en segmentos proximales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1168,
+      "end": 1215
+    },
+    {
+      "text": "Resto de las arterias intracraneales de ambos hemisferios permeables",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1217,
+      "end": 1285
+    },
+    {
+      "text": "sin signos de estenosis significativas ni malformaciones vasculares",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1287,
+      "end": 1354
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 472,
+      "end": 495
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 562,
+      "end": 572
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 214,
+      "end": 228
+    },
+    {
+      "text": "territorio de arteria cerebral posterior derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1543,
+      "end": 1591
+    },
+    {
+      "text": "angioTC intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 1698,
+      "end": 1718
+    }
+  ]
+}

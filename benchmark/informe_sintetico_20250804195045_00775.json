@@ -1,0 +1,95 @@
+{
+  "document_id": "informe_sintetico_20250804195045_00775",
+  "entities": [
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 222,
+      "end": 236
+    },
+    {
+      "text": "arteria cerebral anterior (ACA) izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 257,
+      "end": 298
+    },
+    {
+      "text": "ACA",
+      "type": "ARTERIA",
+      "start": 284,
+      "end": 287
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 289,
+      "end": 298
+    },
+    {
+      "text": "6",
+      "type": "MEDIDA",
+      "start": 686,
+      "end": 687
+    },
+    {
+      "text": "aguda",
+      "type": "TEMPORALIDAD",
+      "start": 231,
+      "end": 236
+    },
+    {
+      "text": "ASPECTS",
+      "type": "PUNTUACION_CLINICA",
+      "start": 657,
+      "end": 664
+    },
+    {
+      "text": "TC craneal no contrastado basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 319,
+      "end": 350
+    },
+    {
+      "text": "No se observan signos de hemorragia intraparenquimal ni extraaxial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 689,
+      "end": 755
+    },
+    {
+      "text": "izquierdo",
+      "type": "LATERALIDAD",
+      "start": 1333,
+      "end": 1342
+    },
+    {
+      "text": "ACA",
+      "type": "ARTERIA",
+      "start": 284,
+      "end": 287
+    },
+    {
+      "text": "ACM",
+      "type": "ARTERIA",
+      "start": 1462,
+      "end": 1465
+    },
+    {
+      "text": "ACP",
+      "type": "ARTERIA",
+      "start": 1468,
+      "end": 1471
+    },
+    {
+      "text": "derechos y contralaterales",
+      "type": "LATERALIDAD",
+      "start": 1472,
+      "end": 1498
+    },
+    {
+      "text": "No se detectan hemorragias ni otras complicaciones",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1934,
+      "end": 1984
+    }
+  ]
+}

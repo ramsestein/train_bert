@@ -1,0 +1,77 @@
+{
+  "document_id": "informe_sintetico_20250804195045_22420",
+  "entities": [
+    {
+      "text": "hematoma subdural agudo",
+      "type": "PATOLOGIA",
+      "start": 352,
+      "end": 375
+    },
+    {
+      "text": "fronto-temporal izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 376,
+      "end": 401
+    },
+    {
+      "text": "15 mm",
+      "type": "MEDIDA",
+      "start": 421,
+      "end": 426
+    },
+    {
+      "text": "agudo",
+      "type": "TEMPORALIDAD",
+      "start": 370,
+      "end": 375
+    },
+    {
+      "text": "desplazamiento de la línea media",
+      "type": "PATOLOGIA",
+      "start": 550,
+      "end": 582
+    },
+    {
+      "text": "7 mm",
+      "type": "MEDIDA",
+      "start": 603,
+      "end": 607
+    },
+    {
+      "text": "izquierdo",
+      "type": "LATERALIDAD",
+      "start": 392,
+      "end": 401
+    },
+    {
+      "text": "sin signos de estenosis ni oclusiones",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 874,
+      "end": 911
+    },
+    {
+      "text": "sin alteraciones vasculares evidentes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1245,
+      "end": 1282
+    },
+    {
+      "text": "24-48 horas",
+      "type": "MEDIDA",
+      "start": 1393,
+      "end": 1404
+    },
+    {
+      "text": "TC CRANEAL BASAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 259,
+      "end": 275
+    },
+    {
+      "text": "ANGIO TC INTRACRANEAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 278,
+      "end": 299
+    }
+  ]
+}

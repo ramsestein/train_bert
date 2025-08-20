@@ -1,0 +1,149 @@
+{
+  "document_id": "0000000010000000058080132_cleaned",
+  "entities": [
+    {
+      "text": "hemorragia aguda intra ni extraaxial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 337,
+      "end": 373
+    },
+    {
+      "text": "signos de isquemia aguda",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 390,
+      "end": 414
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 416,
+      "end": 426
+    },
+    {
+      "text": "Infarto lacunar crónico en tálamo derecho",
+      "type": "PATOLOGIA",
+      "start": 428,
+      "end": 469
+    },
+    {
+      "text": "patología de pequeño vaso en grado moderado",
+      "type": "PATOLOGIA",
+      "start": 601,
+      "end": 644
+    },
+    {
+      "text": "Hipodensidad hemicerebelosa derecha en territorio de ACSd",
+      "type": "PATOLOGIA",
+      "start": 646,
+      "end": 703
+    },
+    {
+      "text": "hemicerebelo izquierdo en territorio de PICAi",
+      "type": "PATOLOGIA",
+      "start": 710,
+      "end": 755
+    },
+    {
+      "text": "infartos antiguos",
+      "type": "PATOLOGIA",
+      "start": 771,
+      "end": 788
+    },
+    {
+      "text": "Sistema ventricular de tamaño y morfología normal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 831,
+      "end": 880
+    },
+    {
+      "text": "Cisternas basales libres",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 882,
+      "end": 906
+    },
+    {
+      "text": "discretos signos de ateromatosis",
+      "type": "PATOLOGIA",
+      "start": 1410,
+      "end": 1442
+    },
+    {
+      "text": "Mínimas placas cálcicas en bifurcación de ambas arterias carótidas",
+      "type": "PATOLOGIA",
+      "start": 1468,
+      "end": 1534
+    },
+    {
+      "text": "sin ateromatosis significativa ni signos de estenosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1594,
+      "end": 1647
+    },
+    {
+      "text": "calcificaciones que no condicionan estenosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1732,
+      "end": 1776
+    },
+    {
+      "text": "sin ateromatosis ni signos de estenosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1813,
+      "end": 1852
+    },
+    {
+      "text": "Dominancia izquierda",
+      "type": "LATERALIDAD",
+      "start": 1854,
+      "end": 1874
+    },
+    {
+      "text": "Mínimas calcificaciones en segmento distal de arteria vertebral izquierda",
+      "type": "PATOLOGIA",
+      "start": 1876,
+      "end": 1949
+    },
+    {
+      "text": "Estenosis significativa en segmento P2 de ACP izquierda",
+      "type": "PATOLOGIA",
+      "start": 1951,
+      "end": 2006
+    },
+    {
+      "text": "Resto de principales arterias cerebrales intracraneales permeables (ACAs, ACMs y ACP derecha)",
+      "type": "PATOLOGIA",
+      "start": 2008,
+      "end": 2101
+    },
+    {
+      "text": "Sistema vertebrobasilar permeable",
+      "type": "PATOLOGIA",
+      "start": 2103,
+      "end": 2136
+    },
+    {
+      "text": "TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANGIOTC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 2339,
+      "end": 2406
+    },
+    {
+      "text": "TC CRANEAL BASAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 305,
+      "end": 321
+    },
+    {
+      "text": "TC PERFUSIÓN",
+      "type": "TECNICA_IMAGEN",
+      "start": 1099,
+      "end": 1111
+    },
+    {
+      "text": "ANGIO-TC EXTRA E INTRACRANEAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 1224,
+      "end": 1253
+    }
+  ]
+}

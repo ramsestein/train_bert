@@ -1,0 +1,149 @@
+{
+  "document_id": "informe_sintetico_20250804195045_24879",
+  "entities": [
+    {
+      "text": "isquemia cerebral aguda",
+      "type": "PATOLOGIA",
+      "start": 323,
+      "end": 346
+    },
+    {
+      "text": "hemorragias intracraneales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 584,
+      "end": 610
+    },
+    {
+      "text": "lesiones expansivas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 614,
+      "end": 633
+    },
+    {
+      "text": "edema cerebral",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 715,
+      "end": 729
+    },
+    {
+      "text": "desplazamiento de la línea media",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 733,
+      "end": 765
+    },
+    {
+      "text": "prolongación del tiempo hasta el pico (TTP)",
+      "type": "MEDIDA",
+      "start": 820,
+      "end": 863
+    },
+    {
+      "text": "reducción del flujo cerebral (CBF)",
+      "type": "MEDIDA",
+      "start": 866,
+      "end": 900
+    },
+    {
+      "text": "volumen cerebral (CBV)",
+      "type": "MEDIDA",
+      "start": 1037,
+      "end": 1059
+    },
+    {
+      "text": "penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1108,
+      "end": 1126
+    },
+    {
+      "text": "oclusión focal en rama distal M2",
+      "type": "PATOLOGIA",
+      "start": 1160,
+      "end": 1192
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "ARTERIA",
+      "start": 963,
+      "end": 995
+    },
+    {
+      "text": "permeabilidad normal del resto de ramas arteriales intracraneales y extracraneales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1237,
+      "end": 1319
+    },
+    {
+      "text": "estenosis significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1339,
+      "end": 1363
+    },
+    {
+      "text": "aneurismas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1367,
+      "end": 1377
+    },
+    {
+      "text": "ASPECTS basal es de 9",
+      "type": "PUNTUACION_CLINICA",
+      "start": 1384,
+      "end": 1405
+    },
+    {
+      "text": "infarto establecido",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1424,
+      "end": 1443
+    },
+    {
+      "text": "isquemia aguda en territorio de rama distal M2/M3 de la arteria cerebral media izquierda",
+      "type": "PATOLOGIA",
+      "start": 1493,
+      "end": 1581
+    },
+    {
+      "text": "área en penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1587,
+      "end": 1613
+    },
+    {
+      "text": "ausencia de infarto establecido",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1616,
+      "end": 1647
+    },
+    {
+      "text": "signos hemorrágicos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1667,
+      "end": 1686
+    },
+    {
+      "text": "alteraciones significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1696,
+      "end": 1723
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 387,
+      "end": 403
+    },
+    {
+      "text": "perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 405,
+      "end": 423
+    },
+    {
+      "text": "angiografía por TC de arterias intracraneales y extracraneales",
+      "type": "TECNICA_IMAGEN",
+      "start": 426,
+      "end": 488
+    }
+  ]
+}

@@ -1,0 +1,119 @@
+{
+  "document_id": "informe_sintetico_20250804195045_23152",
+  "entities": [
+    {
+      "text": "hemorragia subaracnoidea focal",
+      "type": "PATOLOGIA",
+      "start": 578,
+      "end": 608
+    },
+    {
+      "text": "hemorragia subaracnoidea",
+      "type": "PATOLOGIA",
+      "start": 228,
+      "end": 252
+    },
+    {
+      "text": "hematoma intraparenquimatoso",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 624,
+      "end": 652
+    },
+    {
+      "text": "sangrado intraventricular",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 656,
+      "end": 681
+    },
+    {
+      "text": "sangrado leve",
+      "type": "PATOLOGIA",
+      "start": 865,
+      "end": 878
+    },
+    {
+      "text": "infarto agudo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 897,
+      "end": 910
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 912,
+      "end": 922
+    },
+    {
+      "text": "5 mm",
+      "type": "MEDIDA",
+      "start": 1200,
+      "end": 1204
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "ARTERIA",
+      "start": 1230,
+      "end": 1260
+    },
+    {
+      "text": "cisterna silviana derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 537,
+      "end": 562
+    },
+    {
+      "text": "bifurcación de la arteria cerebral media derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1212,
+      "end": 1260
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 272,
+      "end": 288
+    },
+    {
+      "text": "TC PERFUSIÓN",
+      "type": "TECNICA_IMAGEN",
+      "start": 925,
+      "end": 937
+    },
+    {
+      "text": "ANGIO-TC EXTRA E INTRACRANEAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 1073,
+      "end": 1102
+    },
+    {
+      "text": "TC ANGIOCRANEAL CON PERFUSIÓN CEREBRAL CÓDIGO ICTUS",
+      "type": "TECNICA_IMAGEN",
+      "start": 1978,
+      "end": 2029
+    },
+    {
+      "text": "No se observa hematoma intraparenquimatoso",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 610,
+      "end": 652
+    },
+    {
+      "text": "No se evidencian áreas de hipoperfusión",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1019,
+      "end": 1058
+    },
+    {
+      "text": "No se identifican otras malformaciones vasculares",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1312,
+      "end": 1361
+    },
+    {
+      "text": "No signos de isquemia cerebral aguda",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1788,
+      "end": 1824
+    }
+  ]
+}

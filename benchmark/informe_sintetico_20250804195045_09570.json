@@ -1,0 +1,113 @@
+{
+  "document_id": "informe_sintetico_20250804195045_09570",
+  "entities": [
+    {
+      "text": "isquémico",
+      "type": "PATOLOGIA",
+      "start": 188,
+      "end": 197
+    },
+    {
+      "text": "hipertensión arterial",
+      "type": "PATOLOGIA",
+      "start": 226,
+      "end": 247
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 485,
+      "end": 508
+    },
+    {
+      "text": "edema cerebral agudo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 512,
+      "end": 532
+    },
+    {
+      "text": "ASPECTS 10/10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 611,
+      "end": 624
+    },
+    {
+      "text": "atrofia cerebral leve",
+      "type": "PATOLOGIA",
+      "start": 763,
+      "end": 784
+    },
+    {
+      "text": "lesiones isquémicas crónicas",
+      "type": "PATOLOGIA",
+      "start": 914,
+      "end": 942
+    },
+    {
+      "text": "aguda",
+      "type": "TEMPORALIDAD",
+      "start": 973,
+      "end": 978
+    },
+    {
+      "text": "dentro de parámetros normales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1187,
+      "end": 1216
+    },
+    {
+      "text": "sin evidencia de hipoperfusión ni mismatch",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1218,
+      "end": 1260
+    },
+    {
+      "text": "sin alteraciones hemodinámicas significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1487,
+      "end": 1532
+    },
+    {
+      "text": "sin signos de patología isquémica o hemorrágica aguda",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1565,
+      "end": 1618
+    },
+    {
+      "text": "microangiopatía cerebral",
+      "type": "PATOLOGIA",
+      "start": 1653,
+      "end": 1677
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 611,
+      "end": 621
+    },
+    {
+      "text": "sin hallazgos relevantes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1760,
+      "end": 1784
+    },
+    {
+      "text": "TC Basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 302,
+      "end": 310
+    },
+    {
+      "text": "TC Perfusión",
+      "type": "TECNICA_IMAGEN",
+      "start": 312,
+      "end": 324
+    },
+    {
+      "text": "AngioTC",
+      "type": "TECNICA_IMAGEN",
+      "start": 327,
+      "end": 334
+    }
+  ]
+}

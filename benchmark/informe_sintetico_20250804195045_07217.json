@@ -1,0 +1,131 @@
+{
+  "document_id": "informe_sintetico_20250804195045_07217",
+  "entities": [
+    {
+      "text": "edema cerebral difuso",
+      "type": "PATOLOGIA",
+      "start": 485,
+      "end": 506
+    },
+    {
+      "text": "regiones corticales frontoparietales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 525,
+      "end": 561
+    },
+    {
+      "text": "ganglios basales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 571,
+      "end": 587
+    },
+    {
+      "text": "pérdida de diferenciación cortico-subcortical",
+      "type": "PATOLOGIA",
+      "start": 593,
+      "end": 638
+    },
+    {
+      "text": "atenuación hipóxica difusa del parénquima cerebral",
+      "type": "PATOLOGIA",
+      "start": 641,
+      "end": 691
+    },
+    {
+      "text": "No se observan signos de hematoma",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 693,
+      "end": 726
+    },
+    {
+      "text": "edema cerebral global",
+      "type": "PATOLOGIA",
+      "start": 918,
+      "end": 939
+    },
+    {
+      "text": "Reducción significativa del volumen cerebral sanguíneo (CBV)",
+      "type": "PATOLOGIA",
+      "start": 957,
+      "end": 1017
+    },
+    {
+      "text": "flujo cerebral sanguíneo (CBF)",
+      "type": "PATOLOGIA",
+      "start": 1020,
+      "end": 1050
+    },
+    {
+      "text": "ambas hemisferios",
+      "type": "LATERALIDAD",
+      "start": 1054,
+      "end": 1071
+    },
+    {
+      "text": "Aumento del tiempo de tránsito medio (MTT)",
+      "type": "PATOLOGIA",
+      "start": 1141,
+      "end": 1183
+    },
+    {
+      "text": "hipoperfusión global",
+      "type": "PATOLOGIA",
+      "start": 1196,
+      "end": 1216
+    },
+    {
+      "text": "Arterias intracraneales permeables",
+      "type": "ARTERIA",
+      "start": 1243,
+      "end": 1277
+    },
+    {
+      "text": "sin evidencia de oclusiones ni estenosis significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1279,
+      "end": 1334
+    },
+    {
+      "text": "No se identifican signos de trombosis venosa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1336,
+      "end": 1380
+    },
+    {
+      "text": "ni vasoespasmo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1381,
+      "end": 1395
+    },
+    {
+      "text": "Hallazgos compatibles con encefalopatía hipóxico-isquémica global",
+      "type": "PATOLOGIA",
+      "start": 1420,
+      "end": 1485
+    },
+    {
+      "text": "edema cerebral difuso",
+      "type": "PATOLOGIA",
+      "start": 485,
+      "end": 506
+    },
+    {
+      "text": "alteraciones de perfusión cerebral indicativas de hipoperfusión generalizada",
+      "type": "PATOLOGIA",
+      "start": 1559,
+      "end": 1635
+    },
+    {
+      "text": "Sin evidencia de lesión hemorrágica",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1637,
+      "end": 1672
+    },
+    {
+      "text": "ni oclusiones vasculares arteriales intracraneales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1673,
+      "end": 1723
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "document_id": "informe_sintetico_20250804195045_02589",
+  "entities": [
+    {
+      "text": "ictus isquémico",
+      "type": "PATOLOGIA",
+      "start": 252,
+      "end": 267
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "ARTERIA",
+      "start": 285,
+      "end": 317
+    },
+    {
+      "text": "hemicuerpo derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 203,
+      "end": 221
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 308,
+      "end": 317
+    },
+    {
+      "text": "aguda",
+      "type": "TEMPORALIDAD",
+      "start": 522,
+      "end": 527
+    },
+    {
+      "text": "ASPECTS 9",
+      "type": "PUNTUACION_CLINICA",
+      "start": 635,
+      "end": 644
+    },
+    {
+      "text": "isquemia incipiente",
+      "type": "PATOLOGIA",
+      "start": 614,
+      "end": 633
+    },
+    {
+      "text": "Oclusión a nivel de rama distal M2 de la arteria cerebral media izquierda",
+      "type": "PATOLOGIA",
+      "start": 1106,
+      "end": 1179
+    },
+    {
+      "text": "M2",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 683,
+      "end": 685
+    },
+    {
+      "text": "sin infarto establecido extenso",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1590,
+      "end": 1621
+    },
+    {
+      "text": "No signos de hemorragia intracraneal aguda",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 485,
+      "end": 527
+    },
+    {
+      "text": "sin afectación significativa de M1",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1181,
+      "end": 1215
+    },
+    {
+      "text": "sin alteraciones",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1395,
+      "end": 1411
+    },
+    {
+      "text": "TC craneal basal nativo + TC perfusión cerebral + Angio-TC arterial intracraneal y extracraneal urgente",
+      "type": "TECNICA_IMAGEN",
+      "start": 338,
+      "end": 441
+    },
+    {
+      "text": "zona de penumbra viable en perfusión",
+      "type": "PATOLOGIA",
+      "start": 1553,
+      "end": 1589
+    }
+  ]
+}

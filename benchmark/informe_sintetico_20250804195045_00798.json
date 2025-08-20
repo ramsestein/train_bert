@@ -1,0 +1,137 @@
+{
+  "document_id": "informe_sintetico_20250804195045_00798",
+  "entities": [
+    {
+      "text": "paro cardiorrespiratorio",
+      "type": "PATOLOGIA",
+      "start": 179,
+      "end": 203
+    },
+    {
+      "text": "encefalopatía hipóxico-isquémica",
+      "type": "PATOLOGIA",
+      "start": 229,
+      "end": 261
+    },
+    {
+      "text": "edema cerebral generalizado",
+      "type": "PATOLOGIA",
+      "start": 487,
+      "end": 514
+    },
+    {
+      "text": "hemorragias intra ni extraaxiales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 534,
+      "end": 567
+    },
+    {
+      "text": "hipertensión intracraneal",
+      "type": "PATOLOGIA",
+      "start": 639,
+      "end": 664
+    },
+    {
+      "text": "desplazamiento de estructuras de la línea media hacia la derecha",
+      "type": "PATOLOGIA",
+      "start": 678,
+      "end": 742
+    },
+    {
+      "text": "hipoperfusión global secundaria a daño hipóxico-isquémico",
+      "type": "PATOLOGIA",
+      "start": 973,
+      "end": 1030
+    },
+    {
+      "text": "mismatch focales significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1058,
+      "end": 1089
+    },
+    {
+      "text": "arterias intracraneales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1142,
+      "end": 1165
+    },
+    {
+      "text": "ACAs, ACMs, ACPs",
+      "type": "ARTERIA",
+      "start": 1167,
+      "end": 1183
+    },
+    {
+      "text": "estenosis significativas",
+      "type": "PATOLOGIA",
+      "start": 1238,
+      "end": 1262
+    },
+    {
+      "text": "Ateromatosis leve en bifurcación carotídea derecha",
+      "type": "PATOLOGIA",
+      "start": 1264,
+      "end": 1314
+    },
+    {
+      "text": "permeable y simétrico",
+      "type": "PATOLOGIA",
+      "start": 1369,
+      "end": 1390
+    },
+    {
+      "text": "encefalopatía hipóxico-isquémica global",
+      "type": "PATOLOGIA",
+      "start": 1443,
+      "end": 1482
+    },
+    {
+      "text": "edema cerebral difuso",
+      "type": "PATOLOGIA",
+      "start": 1535,
+      "end": 1556
+    },
+    {
+      "text": "reducción global de la perfusión cerebral",
+      "type": "PATOLOGIA",
+      "start": 1605,
+      "end": 1646
+    },
+    {
+      "text": "lesiones focales isquémicas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1666,
+      "end": 1693
+    },
+    {
+      "text": "hemorragias intracraneales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1697,
+      "end": 1723
+    },
+    {
+      "text": "TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANG IOTC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 72,
+      "end": 140
+    },
+    {
+      "text": "TC craneal basal sin contraste",
+      "type": "TECNICA_IMAGEN",
+      "start": 282,
+      "end": 312
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 315,
+      "end": 336
+    },
+    {
+      "text": "angioTC arterial intracraneal urgente",
+      "type": "TECNICA_IMAGEN",
+      "start": 339,
+      "end": 376
+    }
+  ]
+}

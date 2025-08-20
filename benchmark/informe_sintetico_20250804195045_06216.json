@@ -1,0 +1,65 @@
+{
+  "document_id": "informe_sintetico_20250804195045_06216",
+  "entities": [
+    {
+      "text": "infarto",
+      "type": "PATOLOGIA",
+      "start": 677,
+      "end": 684
+    },
+    {
+      "text": "ACM izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 379,
+      "end": 392
+    },
+    {
+      "text": "ACM izquierda",
+      "type": "ARTERIA",
+      "start": 379,
+      "end": 392
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 383,
+      "end": 392
+    },
+    {
+      "text": "48 horas",
+      "type": "TEMPORALIDAD",
+      "start": 269,
+      "end": 277
+    },
+    {
+      "text": "PH1",
+      "type": "PUNTUACION_CLINICA",
+      "start": 894,
+      "end": 897
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 413,
+      "end": 429
+    },
+    {
+      "text": "sin efecto de masa significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 957,
+      "end": 989
+    },
+    {
+      "text": "sin reprofusión evidente",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1421,
+      "end": 1445
+    },
+    {
+      "text": "sin efecto de masa importante",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1987,
+      "end": 2016
+    }
+  ]
+}

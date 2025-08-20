@@ -1,0 +1,137 @@
+{
+  "document_id": "informe_sintetico_20250804195045_04048",
+  "entities": [
+    {
+      "text": "hemiplejia izquierda",
+      "type": "PATOLOGIA",
+      "start": 195,
+      "end": 215
+    },
+    {
+      "text": "accidente cerebrovascular isquémico agudo",
+      "type": "PATOLOGIA",
+      "start": 246,
+      "end": 287
+    },
+    {
+      "text": "hipodensidad",
+      "type": "PATOLOGIA",
+      "start": 567,
+      "end": 579
+    },
+    {
+      "text": "edema citotóxico",
+      "type": "PATOLOGIA",
+      "start": 624,
+      "end": 640
+    },
+    {
+      "text": "ASPECTS modificada para territorio PCA 7/10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 701,
+      "end": 744
+    },
+    {
+      "text": "hemorragia intraparenquimatosa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 775,
+      "end": 805
+    },
+    {
+      "text": "arteria cerebral posterior derecha",
+      "type": "ARTERIA",
+      "start": 1002,
+      "end": 1036
+    },
+    {
+      "text": "tiempo de tránsito medio (MTT)",
+      "type": "MEDIDA",
+      "start": 1065,
+      "end": 1095
+    },
+    {
+      "text": "tiempo hasta el pico (TTP)",
+      "type": "MEDIDA",
+      "start": 1098,
+      "end": 1124
+    },
+    {
+      "text": "flujo cerebral (CBF)",
+      "type": "MEDIDA",
+      "start": 1146,
+      "end": 1166
+    },
+    {
+      "text": "volumen cerebral (CBV)",
+      "type": "MEDIDA",
+      "start": 1185,
+      "end": 1207
+    },
+    {
+      "text": "CBV",
+      "type": "MEDIDA",
+      "start": 1203,
+      "end": 1206
+    },
+    {
+      "text": "arteria cerebral posterior derecha",
+      "type": "ARTERIA",
+      "start": 1002,
+      "end": 1036
+    },
+    {
+      "text": "infarto establecida en región occipital",
+      "type": "PATOLOGIA",
+      "start": 1844,
+      "end": 1883
+    },
+    {
+      "text": "penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1269,
+      "end": 1287
+    },
+    {
+      "text": "Oclusión parcial del segmento P2 derecho",
+      "type": "PATOLOGIA",
+      "start": 1922,
+      "end": 1962
+    },
+    {
+      "text": "hemorragias intracraneales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1980,
+      "end": 2006
+    },
+    {
+      "text": "ASPECTS específico PCA compatible con afectación moderada",
+      "type": "PUNTUACION_CLINICA",
+      "start": 2008,
+      "end": 2065
+    },
+    {
+      "text": "TC CÓDIGO ICTUS",
+      "type": "TECNICA_IMAGEN",
+      "start": 352,
+      "end": 367
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 380,
+      "end": 396
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 398,
+      "end": 419
+    },
+    {
+      "text": "AngioTC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 422,
+      "end": 451
+    }
+  ]
+}

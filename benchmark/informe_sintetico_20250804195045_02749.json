@@ -1,0 +1,167 @@
+{
+  "document_id": "informe_sintetico_20250804195045_02749",
+  "entities": [
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 300,
+      "end": 314
+    },
+    {
+      "text": "territorio vertebrobasilar",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 318,
+      "end": 344
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 365,
+      "end": 381
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 383,
+      "end": 404
+    },
+    {
+      "text": "angio-TC intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 441,
+      "end": 462
+    },
+    {
+      "text": "hemorragias intracraneales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 563,
+      "end": 589
+    },
+    {
+      "text": "hipodensidad cortical",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 603,
+      "end": 624
+    },
+    {
+      "text": "Sistema ventricular simétrico",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 672,
+      "end": 701
+    },
+    {
+      "text": "líneas medias centradas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 704,
+      "end": 727
+    },
+    {
+      "text": "Cisternas basales y ángulo pontocerebeloso libres",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 729,
+      "end": 778
+    },
+    {
+      "text": "prolongación del tiempo de tránsito medio (MTT)",
+      "type": "MEDIDA",
+      "start": 812,
+      "end": 859
+    },
+    {
+      "text": "aumento del tiempo hasta el pico (TTP)",
+      "type": "MEDIDA",
+      "start": 862,
+      "end": 900
+    },
+    {
+      "text": "territorio protuberancial y cerebeloso posterior izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 904,
+      "end": 962
+    },
+    {
+      "text": "reducción moderada del flujo cerebral (CBF)",
+      "type": "MEDIDA",
+      "start": 968,
+      "end": 1011
+    },
+    {
+      "text": "volumen cerebral (CBV) ligeramente preservado",
+      "type": "MEDIDA",
+      "start": 1014,
+      "end": 1059
+    },
+    {
+      "text": "penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1084,
+      "end": 1102
+    },
+    {
+      "text": "Oclusión focal en el segmento proximal de la arteria basilar",
+      "type": "PATOLOGIA",
+      "start": 1160,
+      "end": 1220
+    },
+    {
+      "text": "arteria basilar",
+      "type": "ARTERIA",
+      "start": 1205,
+      "end": 1220
+    },
+    {
+      "text": "vasos vertebrales",
+      "type": "ARTERIA",
+      "start": 1225,
+      "end": 1242
+    },
+    {
+      "text": "estenosis significativas en las arterias vertebrales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1298,
+      "end": 1350
+    },
+    {
+      "text": "aneurismas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1422,
+      "end": 1432
+    },
+    {
+      "text": "malformaciones vasculares",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1436,
+      "end": 1461
+    },
+    {
+      "text": "signos de trombo en circulación anterior",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1470,
+      "end": 1510
+    },
+    {
+      "text": "isquemia aguda en territorio vertebrobasilar",
+      "type": "PATOLOGIA",
+      "start": 300,
+      "end": 344
+    },
+    {
+      "text": "penumbra isquémica en protuberancia y cerebelo posterior izquierdo",
+      "type": "PATOLOGIA",
+      "start": 1621,
+      "end": 1687
+    },
+    {
+      "text": "oclusión proximal de arteria basilar",
+      "type": "PATOLOGIA",
+      "start": 1700,
+      "end": 1736
+    },
+    {
+      "text": "signos de hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1745,
+      "end": 1778
+    }
+  ]
+}

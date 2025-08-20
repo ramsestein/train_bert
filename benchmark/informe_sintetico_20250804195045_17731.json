@@ -1,0 +1,269 @@
+{
+  "document_id": "informe_sintetico_20250804195045_17731",
+  "entities": [
+    {
+      "text": "infarto cerebral",
+      "type": "PATOLOGIA",
+      "start": 194,
+      "end": 210
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 231,
+      "end": 261
+    },
+    {
+      "text": "deterioro neurológico súbito",
+      "type": "PATOLOGIA",
+      "start": 263,
+      "end": 291
+    },
+    {
+      "text": "transformación hemorrágica",
+      "type": "PATOLOGIA",
+      "start": 308,
+      "end": 334
+    },
+    {
+      "text": "hipodensidad",
+      "type": "PATOLOGIA",
+      "start": 491,
+      "end": 503
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 231,
+      "end": 261
+    },
+    {
+      "text": "infarto subagudo",
+      "type": "PATOLOGIA",
+      "start": 567,
+      "end": 583
+    },
+    {
+      "text": "foco hiperdenso",
+      "type": "PATOLOGIA",
+      "start": 598,
+      "end": 613
+    },
+    {
+      "text": "núcleo lenticular derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 620,
+      "end": 645
+    },
+    {
+      "text": "8 mm",
+      "type": "MEDIDA",
+      "start": 666,
+      "end": 670
+    },
+    {
+      "text": "sangrado intraparenquimatoso",
+      "type": "PATOLOGIA",
+      "start": 685,
+      "end": 713
+    },
+    {
+      "text": "transformación hemorrágica PH1",
+      "type": "PATOLOGIA",
+      "start": 722,
+      "end": 752
+    },
+    {
+      "text": "hemorragia intraventricular",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 779,
+      "end": 806
+    },
+    {
+      "text": "extensión subaracnoidea",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 810,
+      "end": 833
+    },
+    {
+      "text": "diferenciación cortico-subcortical",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 838,
+      "end": 872
+    },
+    {
+      "text": "zona infartada",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 893,
+      "end": 907
+    },
+    {
+      "text": "línea media",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 927,
+      "end": 938
+    },
+    {
+      "text": "configuración y tamaño preservados",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 992,
+      "end": 1026
+    },
+    {
+      "text": "Cisternas basales libres",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1028,
+      "end": 1052
+    },
+    {
+      "text": "CBF",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1121,
+      "end": 1124
+    },
+    {
+      "text": "volumen cerebral",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1128,
+      "end": 1144
+    },
+    {
+      "text": "territorio derecho hemisférico",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1157,
+      "end": 1187
+    },
+    {
+      "text": "infarto",
+      "type": "PATOLOGIA",
+      "start": 194,
+      "end": 201
+    },
+    {
+      "text": "Tiempo de tránsito prolongado",
+      "type": "PATOLOGIA",
+      "start": 1212,
+      "end": 1241
+    },
+    {
+      "text": "área de penumbra significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1257,
+      "end": 1287
+    },
+    {
+      "text": "Oclusión segmentaria distal",
+      "type": "PATOLOGIA",
+      "start": 1323,
+      "end": 1350
+    },
+    {
+      "text": "rama temporal superior",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1354,
+      "end": 1376
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 231,
+      "end": 261
+    },
+    {
+      "text": "Resto de arterias intracraneales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1415,
+      "end": 1447
+    },
+    {
+      "text": "permeables sin estenosis significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1448,
+      "end": 1487
+    },
+    {
+      "text": "Orígenes de arterias carótidas internas",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1489,
+      "end": 1528
+    },
+    {
+      "text": "libres de placas ateromatosas severas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1529,
+      "end": 1566
+    },
+    {
+      "text": "Sistema vertebrobasilar",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1568,
+      "end": 1591
+    },
+    {
+      "text": "permeable",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1448,
+      "end": 1457
+    },
+    {
+      "text": "Infarto cerebral subagudo",
+      "type": "PATOLOGIA",
+      "start": 1628,
+      "end": 1653
+    },
+    {
+      "text": "territorio de arteria cerebral media derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 507,
+      "end": 551
+    },
+    {
+      "text": "transformación hemorrágica focal tipo PH1",
+      "type": "PATOLOGIA",
+      "start": 1706,
+      "end": 1747
+    },
+    {
+      "text": "pequeño foco hiperdenso intraparenquimatoso",
+      "type": "PATOLOGIA",
+      "start": 1765,
+      "end": 1808
+    },
+    {
+      "text": "sin efecto de masa significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1809,
+      "end": 1841
+    },
+    {
+      "text": "desplazamiento de línea media",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1845,
+      "end": 1874
+    },
+    {
+      "text": "Oclusión distal segmentaria",
+      "type": "PATOLOGIA",
+      "start": 1876,
+      "end": 1903
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 231,
+      "end": 261
+    },
+    {
+      "text": "hemorragia intraventricular",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 779,
+      "end": 806
+    },
+    {
+      "text": "subaracnoidea",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 820,
+      "end": 833
+    }
+  ]
+}

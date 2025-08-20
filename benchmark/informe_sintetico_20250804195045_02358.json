@@ -1,0 +1,83 @@
+{
+  "document_id": "informe_sintetico_20250804195045_02358",
+  "entities": [
+    {
+      "text": "isquemia",
+      "type": "PATOLOGIA",
+      "start": 230,
+      "end": 238
+    },
+    {
+      "text": "arteria cerebral anterior",
+      "type": "ARTERIA",
+      "start": 256,
+      "end": 281
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 658,
+      "end": 667
+    },
+    {
+      "text": "hipodensidad",
+      "type": "PATOLOGIA",
+      "start": 577,
+      "end": 589
+    },
+    {
+      "text": "región frontal medial izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 636,
+      "end": 667
+    },
+    {
+      "text": "edema isquémico",
+      "type": "PATOLOGIA",
+      "start": 694,
+      "end": 709
+    },
+    {
+      "text": "aguda",
+      "type": "TEMPORALIDAD",
+      "start": 1227,
+      "end": 1232
+    },
+    {
+      "text": "arteria cerebral anterior izquierda",
+      "type": "ARTERIA",
+      "start": 1059,
+      "end": 1094
+    },
+    {
+      "text": "oclusión distal en segmento A2",
+      "type": "PATOLOGIA",
+      "start": 1961,
+      "end": 1991
+    },
+    {
+      "text": "penumbra",
+      "type": "PATOLOGIA",
+      "start": 1253,
+      "end": 1261
+    },
+    {
+      "text": "No se evidencian hemorragias intra ni extraaxiales.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 504,
+      "end": 555
+    },
+    {
+      "text": "No se identifican áreas de infarto establecido con volumen reducido.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1316,
+      "end": 1384
+    },
+    {
+      "text": "sin estenosis significativas ni placas ateromatosas relevantes.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1742,
+      "end": 1805
+    }
+  ]
+}

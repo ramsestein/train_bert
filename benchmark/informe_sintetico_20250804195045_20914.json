@@ -1,0 +1,221 @@
+{
+  "document_id": "informe_sintetico_20250804195045_20914",
+  "entities": [
+    {
+      "text": "hemiparesia contralateral",
+      "type": "PATOLOGIA",
+      "start": 172,
+      "end": 197
+    },
+    {
+      "text": "disartria",
+      "type": "PATOLOGIA",
+      "start": 200,
+      "end": 209
+    },
+    {
+      "text": "ictus",
+      "type": "PATOLOGIA",
+      "start": 245,
+      "end": 250
+    },
+    {
+      "text": "territorio ACA",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 254,
+      "end": 268
+    },
+    {
+      "text": "hemorragia intracraneal aguda",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 470,
+      "end": 499
+    },
+    {
+      "text": "sangrado subaracnoideo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 513,
+      "end": 535
+    },
+    {
+      "text": "hipodensidad sutil",
+      "type": "PATOLOGIA",
+      "start": 550,
+      "end": 568
+    },
+    {
+      "text": "región frontal medial izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 575,
+      "end": 606
+    },
+    {
+      "text": "sustancia blanca",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 628,
+      "end": 644
+    },
+    {
+      "text": "corteza adyacente",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 647,
+      "end": 664
+    },
+    {
+      "text": "arteria cerebral anterior (ACA)",
+      "type": "ARTERIA",
+      "start": 685,
+      "end": 716
+    },
+    {
+      "text": "masas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 736,
+      "end": 741
+    },
+    {
+      "text": "signos de desplazamiento de línea media",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 745,
+      "end": 784
+    },
+    {
+      "text": "Sistema ventricular y cisternas basales libres y simétricos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 786,
+      "end": 845
+    },
+    {
+      "text": "aumento significativo de tiempo de tránsito medio (MTT)",
+      "type": "PATOLOGIA",
+      "start": 873,
+      "end": 928
+    },
+    {
+      "text": "tiempo hasta el pico (TTP)",
+      "type": "PATOLOGIA",
+      "start": 931,
+      "end": 957
+    },
+    {
+      "text": "territorio frontal medial izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 964,
+      "end": 999
+    },
+    {
+      "text": "hipoperfusión",
+      "type": "PATOLOGIA",
+      "start": 1015,
+      "end": 1028
+    },
+    {
+      "text": "volumen cerebral (CBV)",
+      "type": "MEDIDA",
+      "start": 1033,
+      "end": 1055
+    },
+    {
+      "text": "penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1109,
+      "end": 1127
+    },
+    {
+      "text": "infarto establecido",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1132,
+      "end": 1151
+    },
+    {
+      "text": "Oclusión parcial en segmento proximal de la arteria cerebral anterior izquierda (A1)",
+      "type": "PATOLOGIA",
+      "start": 1187,
+      "end": 1271
+    },
+    {
+      "text": "relleno del vaso distal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1289,
+      "end": 1312
+    },
+    {
+      "text": "arterias intracraneales principales (ACM, ACP)",
+      "type": "ARTERIA",
+      "start": 1327,
+      "end": 1373
+    },
+    {
+      "text": "estenosis significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1389,
+      "end": 1413
+    },
+    {
+      "text": "Vasos extracraneales sin placas ateromatosas relevantes ni estenosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1415,
+      "end": 1483
+    },
+    {
+      "text": "variantes anatómicas significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1503,
+      "end": 1538
+    },
+    {
+      "text": "Sistema vertebrobasilar con flujo conservado",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1540,
+      "end": 1584
+    },
+    {
+      "text": "lesión isquémica aguda",
+      "type": "PATOLOGIA",
+      "start": 1622,
+      "end": 1644
+    },
+    {
+      "text": "territorio de la arteria cerebral anterior izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1648,
+      "end": 1700
+    },
+    {
+      "text": "área de penumbra isquémica bien definida",
+      "type": "PATOLOGIA",
+      "start": 1705,
+      "end": 1745
+    },
+    {
+      "text": "ausencia de infarto establecido",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1748,
+      "end": 1779
+    },
+    {
+      "text": "Oclusión parcial en segmento proximal de ACA izquierda",
+      "type": "PATOLOGIA",
+      "start": 1781,
+      "end": 1835
+    },
+    {
+      "text": "estudio angiográfico",
+      "type": "TECNICA_IMAGEN",
+      "start": 1850,
+      "end": 1870
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 470,
+      "end": 493
+    },
+    {
+      "text": "complicaciones",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1925,
+      "end": 1939
+    }
+  ]
+}

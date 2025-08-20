@@ -1,0 +1,89 @@
+{
+  "document_id": "informe_sintetico_20250804195045_13594",
+  "entities": [
+    {
+      "text": "infarto agudo subcortical y cortical",
+      "type": "PATOLOGIA",
+      "start": 707,
+      "end": 743
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 619,
+      "end": 651
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 619,
+      "end": 651
+    },
+    {
+      "text": "arteria carótida interna izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1322,
+      "end": 1356
+    },
+    {
+      "text": "arteria carótida interna izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1322,
+      "end": 1356
+    },
+    {
+      "text": "M1 izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1494,
+      "end": 1506
+    },
+    {
+      "text": "ACAs",
+      "type": "ARTERIA",
+      "start": 1539,
+      "end": 1543
+    },
+    {
+      "text": "ASPECTS 6",
+      "type": "PUNTUACION_CLINICA",
+      "start": 745,
+      "end": 754
+    },
+    {
+      "text": "agudo",
+      "type": "TEMPORALIDAD",
+      "start": 715,
+      "end": 720
+    },
+    {
+      "text": "No se visualizan signos de hemorragia intracraneal ni edema masivo.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 756,
+      "end": 823
+    },
+    {
+      "text": "No se identifican aneurismas ni malformaciones vasculares.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1621,
+      "end": 1679
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 403,
+      "end": 419
+    },
+    {
+      "text": "TC PERFUSIÓN",
+      "type": "TECNICA_IMAGEN",
+      "start": 895,
+      "end": 907
+    },
+    {
+      "text": "ANGIO-TC EXTRA E INTRACRANEAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 1212,
+      "end": 1241
+    }
+  ]
+}

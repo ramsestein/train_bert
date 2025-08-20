@@ -1,0 +1,83 @@
+{
+  "document_id": "0000000010000000057402933_cleaned",
+  "entities": [
+    {
+      "text": "sangrado intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 271,
+      "end": 292
+    },
+    {
+      "text": "lesiones ni alteraciones que sugieran lesión isquémica aguda",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 319,
+      "end": 379
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 417,
+      "end": 427
+    },
+    {
+      "text": "pc- ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 443,
+      "end": 457
+    },
+    {
+      "text": "segmento P2",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1026,
+      "end": 1037
+    },
+    {
+      "text": "ACPd",
+      "type": "ARTERIA",
+      "start": 977,
+      "end": 981
+    },
+    {
+      "text": "Oclusión de segmento P2",
+      "type": "PATOLOGIA",
+      "start": 1014,
+      "end": 1037
+    },
+    {
+      "text": "ACA",
+      "type": "ARTERIA",
+      "start": 1151,
+      "end": 1154
+    },
+    {
+      "text": "ACM",
+      "type": "ARTERIA",
+      "start": 1156,
+      "end": 1159
+    },
+    {
+      "text": "ACPi",
+      "type": "ARTERIA",
+      "start": 1161,
+      "end": 1165
+    },
+    {
+      "text": "sin estenosis significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1284,
+      "end": 1311
+    },
+    {
+      "text": "ambas bifurcaciones carotídeas",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1354,
+      "end": 1384
+    },
+    {
+      "text": "sifones carotídeos",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1526,
+      "end": 1544
+    }
+  ]
+}

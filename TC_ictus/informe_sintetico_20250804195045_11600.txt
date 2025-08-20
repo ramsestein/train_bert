@@ -1,0 +1,30 @@
+UO_PACN (Unidad Organizativa Médica): RADIO
+
+PRUEB (Prueba solicitada): TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANG IOTC ARTERIAL INTRACRANEAL)
+
+CLIN (Resumen clínico): Déficit motor hemicorporal derecho súbito, sospecha de evento isquémico cerebrovascular agudo.
+
+OBSR (Protocolo): TC craneal basal sin contraste, estudio de perfusión cerebral con contraste intravenoso y angio TC arterial intracraneal de urgencia.
+
+RESL (Resultados):  
+TC CRANEAL BASAL:  
+No se observa hemorragia intracraneal ni signos de lesión ocupante de espacio. Cortico-subcortical conservado con definición adecuada. No hay desplazamiento de líneas medias ni edema cerebral significativo. Sistema ventricular y cisternas normales.  
+
+PERFUSIÓN CEREBRAL:  
+En el territorio cortical correspondiente a la arteria cerebral media distal izquierda (segmentos M2/M3), se evidencia prolongación del tiempo de tránsito medio (MTT) y disminución del flujo cerebral (CBF) con volumen cerebral (CBV) preservado, compatible con área de penumbra isquémica. No se identifican zonas de infarto establecido (no hipodensidad en TC basal ni reducción del CBV). ASPECTS 9.  
+
+ANGIO TC ARTERIAL INTRACRANEAL:  
+Oclusión tardía segmentaria en rama distal de la arteria cerebral media izquierda (M2/M3). Carótidas internas y arteria cerebral media proximal permeables, sin estenosis significativa. Circulación colateral en territorio afectado.  
+
+CONCL (Conclusiones):  
+Oclusión distal en rama M2/M3 de la arteria cerebral media izquierda con imagen compatible con isquemia aguda en penumbra, sin infarto establecido. ASPECTS 9. No hemorragia intracraneal. Indicación de manejo urgente en contexto de código ictus.  
+
+ACTI_ADICI (Actividad adicional):  
+
+ICON (Estudio): @RADIO_TC_IC@
+
+X00DIATXT (Texto del diagnóstico ACR): Oclusión distal arteria cerebral media izquierda (M2/M3) con área de penumbra isquémica, ASPECTS 9, sin infarto establecido ni hemorragia intracraneal.  
+
+EST_T_DES (Descripción): TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANGIOTC ARTERIAL INTRACRANEAL)  
+
+ZVASOS_D (Der.): Oclusión arterial distal izquierda en segmento M2/M3, circulación colateral presente.

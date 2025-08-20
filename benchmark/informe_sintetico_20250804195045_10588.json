@@ -1,0 +1,77 @@
+{
+  "document_id": "informe_sintetico_20250804195045_10588",
+  "entities": [
+    {
+      "text": "hemorragia intra ni extraaxial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 478,
+      "end": 508
+    },
+    {
+      "text": "lesiones ocupantes de espacio",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 525,
+      "end": 554
+    },
+    {
+      "text": "infartos agudos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 558,
+      "end": 573
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 622,
+      "end": 632
+    },
+    {
+      "text": "enfermedad crónica leve de pequeño vaso",
+      "type": "PATOLOGIA",
+      "start": 706,
+      "end": 745
+    },
+    {
+      "text": "sin alteraciones significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 898,
+      "end": 929
+    },
+    {
+      "text": "sin evidencias de alteración isquémica",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1467,
+      "end": 1505
+    },
+    {
+      "text": "sin estenosis significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1569,
+      "end": 1597
+    },
+    {
+      "text": "TC craneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 280,
+      "end": 290
+    },
+    {
+      "text": "perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 299,
+      "end": 317
+    },
+    {
+      "text": "angioTC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 320,
+      "end": 349
+    },
+    {
+      "text": "ACAs, ACMs y ACPs",
+      "type": "ARTERIA",
+      "start": 1298,
+      "end": 1315
+    }
+  ]
+}

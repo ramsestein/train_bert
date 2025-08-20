@@ -1,0 +1,113 @@
+{
+  "document_id": "informe_sintetico_20250804195045_12080",
+  "entities": [
+    {
+      "text": "infarto cerebral",
+      "type": "PATOLOGIA",
+      "start": 249,
+      "end": 265
+    },
+    {
+      "text": "hipoperfusión",
+      "type": "PATOLOGIA",
+      "start": 270,
+      "end": 283
+    },
+    {
+      "text": "hipodensidad lineales y parcheadas",
+      "type": "PATOLOGIA",
+      "start": 471,
+      "end": 505
+    },
+    {
+      "text": "lesión isquémica",
+      "type": "PATOLOGIA",
+      "start": 1091,
+      "end": 1107
+    },
+    {
+      "text": "infarto watershed bilateral",
+      "type": "PATOLOGIA",
+      "start": 1559,
+      "end": 1586
+    },
+    {
+      "text": "hemisferio izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1607,
+      "end": 1627
+    },
+    {
+      "text": "territorios limítrofes entre ACM-ACA y ACM-ACP",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1647,
+      "end": 1693
+    },
+    {
+      "text": "ACM",
+      "type": "ARTERIA",
+      "start": 1676,
+      "end": 1679
+    },
+    {
+      "text": "ACA",
+      "type": "ARTERIA",
+      "start": 1680,
+      "end": 1683
+    },
+    {
+      "text": "ACP",
+      "type": "ARTERIA",
+      "start": 1690,
+      "end": 1693
+    },
+    {
+      "text": "bilaterales",
+      "type": "LATERALIDAD",
+      "start": 672,
+      "end": 683
+    },
+    {
+      "text": "izquierdo",
+      "type": "LATERALIDAD",
+      "start": 700,
+      "end": 709
+    },
+    {
+      "text": "moderada",
+      "type": "MEDIDA",
+      "start": 1013,
+      "end": 1021
+    },
+    {
+      "text": "moderado",
+      "type": "MEDIDA",
+      "start": 1153,
+      "end": 1161
+    },
+    {
+      "text": "significativa",
+      "type": "MEDIDA",
+      "start": 1294,
+      "end": 1307
+    },
+    {
+      "text": "TC craneal basal sin contraste",
+      "type": "TECNICA_IMAGEN",
+      "start": 303,
+      "end": 333
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 336,
+      "end": 357
+    },
+    {
+      "text": "angioTC arterias intracraneales y supraaórticas",
+      "type": "TECNICA_IMAGEN",
+      "start": 360,
+      "end": 407
+    }
+  ]
+}

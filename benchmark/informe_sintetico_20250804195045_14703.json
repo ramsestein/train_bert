@@ -1,0 +1,101 @@
+{
+  "document_id": "informe_sintetico_20250804195045_14703",
+  "entities": [
+    {
+      "text": "hematoma intraparenquimatoso",
+      "type": "PATOLOGIA",
+      "start": 449,
+      "end": 477
+    },
+    {
+      "text": "núcleo caudado derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 495,
+      "end": 517
+    },
+    {
+      "text": "15 mm",
+      "type": "MEDIDA",
+      "start": 561,
+      "end": 566
+    },
+    {
+      "text": "aguda",
+      "type": "TEMPORALIDAD",
+      "start": 692,
+      "end": 697
+    },
+    {
+      "text": "hemorragia subaracnoidea",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 727,
+      "end": 751
+    },
+    {
+      "text": "hemorragia intraventricular",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 755,
+      "end": 782
+    },
+    {
+      "text": "3 mm",
+      "type": "MEDIDA",
+      "start": 819,
+      "end": 823
+    },
+    {
+      "text": "isquemia",
+      "type": "PATOLOGIA",
+      "start": 1093,
+      "end": 1101
+    },
+    {
+      "text": "MTT",
+      "type": "PUNTUACION_CLINICA",
+      "start": 1138,
+      "end": 1141
+    },
+    {
+      "text": "hematoma",
+      "type": "PATOLOGIA",
+      "start": 449,
+      "end": 457
+    },
+    {
+      "text": "sin alteraciones significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1394,
+      "end": 1425
+    },
+    {
+      "text": "sin evidencia de isquemia secundaria",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1775,
+      "end": 1811
+    },
+    {
+      "text": "sin alteraciones visibles",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1830,
+      "end": 1855
+    },
+    {
+      "text": "TC craneal sin y con contraste",
+      "type": "TECNICA_IMAGEN",
+      "start": 307,
+      "end": 337
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 339,
+      "end": 360
+    },
+    {
+      "text": "angio-TC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 363,
+      "end": 393
+    }
+  ]
+}

@@ -1,0 +1,313 @@
+{
+  "document_id": "informe_sintetico_20250804195045_00564",
+  "entities": [
+    {
+      "text": "vértigo súbito",
+      "type": "PATOLOGIA",
+      "start": 179,
+      "end": 193
+    },
+    {
+      "text": "diplopía",
+      "type": "PATOLOGIA",
+      "start": 195,
+      "end": 203
+    },
+    {
+      "text": "ataxia",
+      "type": "PATOLOGIA",
+      "start": 206,
+      "end": 212
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 234,
+      "end": 248
+    },
+    {
+      "text": "territorio vertebrobasilar",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 252,
+      "end": 278
+    },
+    {
+      "text": "TC CRANEAL BASAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 427,
+      "end": 443
+    },
+    {
+      "text": "hemorragias intra ni extraaxiales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 463,
+      "end": 496
+    },
+    {
+      "text": "sustancia gris-blanca",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 513,
+      "end": 534
+    },
+    {
+      "text": "hemisferios cerebrales anteriores",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 549,
+      "end": 582
+    },
+    {
+      "text": "bulbo inferior derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 631,
+      "end": 653
+    },
+    {
+      "text": "puente pontino",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 666,
+      "end": 680
+    },
+    {
+      "text": "edema citotóxico incipiente",
+      "type": "PATOLOGIA",
+      "start": 695,
+      "end": 722
+    },
+    {
+      "text": "línea media",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 752,
+      "end": 763
+    },
+    {
+      "text": "efecto de masa significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 767,
+      "end": 795
+    },
+    {
+      "text": "morfología y tamaño conservados",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 820,
+      "end": 851
+    },
+    {
+      "text": "Cisternas basales libres",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 853,
+      "end": 877
+    },
+    {
+      "text": "TC PERFUSIÓN",
+      "type": "TECNICA_IMAGEN",
+      "start": 880,
+      "end": 892
+    },
+    {
+      "text": "volumen cerebral (CBV)",
+      "type": "MEDIDA",
+      "start": 919,
+      "end": 941
+    },
+    {
+      "text": "flujo cerebral (CBF)",
+      "type": "MEDIDA",
+      "start": 944,
+      "end": 964
+    },
+    {
+      "text": "territorio vertebrobasilar",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 252,
+      "end": 278
+    },
+    {
+      "text": "región del bulbo derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1017,
+      "end": 1041
+    },
+    {
+      "text": "protuberancia",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1044,
+      "end": 1057
+    },
+    {
+      "text": "tiempos de tránsito (TTP y Tmax)",
+      "type": "MEDIDA",
+      "start": 1078,
+      "end": 1110
+    },
+    {
+      "text": "hipoperfusión grave",
+      "type": "PATOLOGIA",
+      "start": 1126,
+      "end": 1145
+    },
+    {
+      "text": "isquemia aguda en curso",
+      "type": "PATOLOGIA",
+      "start": 1161,
+      "end": 1184
+    },
+    {
+      "text": "mismatch entre reducción de flujo y volumen",
+      "type": "PATOLOGIA",
+      "start": 1200,
+      "end": 1243
+    },
+    {
+      "text": "tejido potencialmente recuperable",
+      "type": "PATOLOGIA",
+      "start": 1255,
+      "end": 1288
+    },
+    {
+      "text": "ANGIO-TC INTRACRANEAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 1291,
+      "end": 1312
+    },
+    {
+      "text": "Oclusión completa",
+      "type": "PATOLOGIA",
+      "start": 1315,
+      "end": 1332
+    },
+    {
+      "text": "segmento V4 de la arteria vertebral derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1337,
+      "end": 1380
+    },
+    {
+      "text": "flujo conservado",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1462,
+      "end": 1478
+    },
+    {
+      "text": "irregularidades en su tercio distal",
+      "type": "PATOLOGIA",
+      "start": 1489,
+      "end": 1524
+    },
+    {
+      "text": "trombosis parcial",
+      "type": "PATOLOGIA",
+      "start": 1542,
+      "end": 1559
+    },
+    {
+      "text": "Arterias cerebelosas posteroinferiores derechas",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1561,
+      "end": 1608
+    },
+    {
+      "text": "no visualizadas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1609,
+      "end": 1624
+    },
+    {
+      "text": "probable oclusión secundaria",
+      "type": "PATOLOGIA",
+      "start": 1626,
+      "end": 1654
+    },
+    {
+      "text": "Arterias cerebrales anteriores",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1656,
+      "end": 1686
+    },
+    {
+      "text": "medianas y posteriores",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1688,
+      "end": 1710
+    },
+    {
+      "text": "sin estenosis significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1711,
+      "end": 1739
+    },
+    {
+      "text": "Tortuosidad leve de arterias supraaórticas",
+      "type": "PATOLOGIA",
+      "start": 1741,
+      "end": 1783
+    },
+    {
+      "text": "sin placas ateromatosas significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1785,
+      "end": 1823
+    },
+    {
+      "text": "isquemia aguda en territorio vertebrobasilar",
+      "type": "PATOLOGIA",
+      "start": 234,
+      "end": 278
+    },
+    {
+      "text": "bulbo y protuberancia derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1938,
+      "end": 1967
+    },
+    {
+      "text": "Oclusión del segmento distal derecho de la arteria vertebral",
+      "type": "PATOLOGIA",
+      "start": 1972,
+      "end": 2032
+    },
+    {
+      "text": "compromiso parcial de arteria basilar distal",
+      "type": "PATOLOGIA",
+      "start": 2035,
+      "end": 2079
+    },
+    {
+      "text": "Cambio hemodinámico significativo en perfusión",
+      "type": "PATOLOGIA",
+      "start": 2084,
+      "end": 2130
+    },
+    {
+      "text": "tejido potencialmente viable",
+      "type": "PATOLOGIA",
+      "start": 2135,
+      "end": 2163
+    },
+    {
+      "text": "hemorragias ni efecto de masa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2185,
+      "end": 2214
+    },
+    {
+      "text": "isquemia vertebrobasilar aguda",
+      "type": "PATOLOGIA",
+      "start": 2240,
+      "end": 2270
+    },
+    {
+      "text": "evaluación neurológica urgente",
+      "type": "PATOLOGIA",
+      "start": 2285,
+      "end": 2315
+    },
+    {
+      "text": "manejo endovascular",
+      "type": "PATOLOGIA",
+      "start": 2321,
+      "end": 2340
+    }
+  ],
+  "regenerado": true,
+  "fecha_regeneracion": "2025-08-06T10:24:17.745934"
+}

@@ -1,0 +1,131 @@
+{
+  "document_id": "informe_sintetico_20250804195045_13750",
+  "entities": [
+    {
+      "text": "ictus isquémico agudo",
+      "type": "PATOLOGIA",
+      "start": 352,
+      "end": 373
+    },
+    {
+      "text": "hemiparesia izquierda",
+      "type": "PATOLOGIA",
+      "start": 293,
+      "end": 314
+    },
+    {
+      "text": "afasia motora",
+      "type": "PATOLOGIA",
+      "start": 317,
+      "end": 330
+    },
+    {
+      "text": "arteria cerebral posterior derecha",
+      "type": "ARTERIA",
+      "start": 391,
+      "end": 425
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 418,
+      "end": 425
+    },
+    {
+      "text": "No se identifican hipodensidades ni signos de infarto",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 687,
+      "end": 740
+    },
+    {
+      "text": "No evidencias de hemorragia intracraneal ni edema cerebral significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 813,
+      "end": 885
+    },
+    {
+      "text": "aumento significativo del tiempo de tránsito medio (TTP)",
+      "type": "MEDIDA",
+      "start": 1014,
+      "end": 1070
+    },
+    {
+      "text": "disminución del flujo cerebral sanguíneo (CBF)",
+      "type": "MEDIDA",
+      "start": 1073,
+      "end": 1119
+    },
+    {
+      "text": "región occipital derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1123,
+      "end": 1147
+    },
+    {
+      "text": "volumen cerebral sanguíneo (CBV) se mantiene conservado",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1194,
+      "end": 1249
+    },
+    {
+      "text": "Oclusión segmentaria de la arteria cerebral posterior derecha en su segmento P2 proximal",
+      "type": "PATOLOGIA",
+      "start": 1321,
+      "end": 1409
+    },
+    {
+      "text": "arterias cerebrales anteriores y medianas",
+      "type": "ARTERIA",
+      "start": 1472,
+      "end": 1513
+    },
+    {
+      "text": "Sistema vertebrobasilar",
+      "type": "ARTERIA",
+      "start": 1558,
+      "end": 1581
+    },
+    {
+      "text": "No se identifican lesiones isquémicas establecidas por TC basal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1625,
+      "end": 1688
+    },
+    {
+      "text": "área de penumbra en territorio derecho de ACP",
+      "type": "PATOLOGIA",
+      "start": 1719,
+      "end": 1764
+    },
+    {
+      "text": "TTP aumentado",
+      "type": "MEDIDA",
+      "start": 1769,
+      "end": 1782
+    },
+    {
+      "text": "CBF disminuido",
+      "type": "MEDIDA",
+      "start": 1785,
+      "end": 1799
+    },
+    {
+      "text": "oclusión proximal en segmento P2 de arteria cerebral posterior derecha",
+      "type": "PATOLOGIA",
+      "start": 1835,
+      "end": 1905
+    },
+    {
+      "text": "isquemia aguda en territorio ACP derecho",
+      "type": "PATOLOGIA",
+      "start": 1933,
+      "end": 1973
+    },
+    {
+      "text": "derecho",
+      "type": "LATERALIDAD",
+      "start": 1750,
+      "end": 1757
+    }
+  ]
+}

@@ -1,0 +1,173 @@
+{
+  "document_id": "informe_sintetico_20250804195045_06530",
+  "entities": [
+    {
+      "text": "hemiparesia derecha",
+      "type": "PATOLOGIA",
+      "start": 196,
+      "end": 215
+    },
+    {
+      "text": "hemorragia intracerebral",
+      "type": "PATOLOGIA",
+      "start": 238,
+      "end": 262
+    },
+    {
+      "text": "colección hiperdensa bien delimitada",
+      "type": "PATOLOGIA",
+      "start": 419,
+      "end": 455
+    },
+    {
+      "text": "hematoma intraparenquimatoso",
+      "type": "PATOLOGIA",
+      "start": 538,
+      "end": 566
+    },
+    {
+      "text": "edema vasogénico circundante",
+      "type": "PATOLOGIA",
+      "start": 578,
+      "end": 606
+    },
+    {
+      "text": "desplazamiento de la línea media hacia la derecha",
+      "type": "PATOLOGIA",
+      "start": 624,
+      "end": 673
+    },
+    {
+      "text": "aproximadamente 35 x 30 x 28 mm",
+      "type": "MEDIDA",
+      "start": 490,
+      "end": 521
+    },
+    {
+      "text": "6 mm",
+      "type": "MEDIDA",
+      "start": 693,
+      "end": 697
+    },
+    {
+      "text": "borramiento de la diferenciación cortico-subcortical",
+      "type": "PATOLOGIA",
+      "start": 810,
+      "end": 862
+    },
+    {
+      "text": "No se observan signos de sangrado intraventricular",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 896,
+      "end": 946
+    },
+    {
+      "text": "volumen cerebral (CBV)",
+      "type": "PATOLOGIA",
+      "start": 1012,
+      "end": 1034
+    },
+    {
+      "text": "aumento del tiempo de tránsito medio (MTT)",
+      "type": "PATOLOGIA",
+      "start": 1076,
+      "end": 1118
+    },
+    {
+      "text": "tiempo hasta el pico (TTP)",
+      "type": "PATOLOGIA",
+      "start": 1121,
+      "end": 1147
+    },
+    {
+      "text": "área de penumbra perifocal",
+      "type": "PATOLOGIA",
+      "start": 1165,
+      "end": 1191
+    },
+    {
+      "text": "Arterias cerebrales principales permeables",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1219,
+      "end": 1261
+    },
+    {
+      "text": "sin signos de estenosis ni vasospasmo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1262,
+      "end": 1299
+    },
+    {
+      "text": "sin alteraciones significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1322,
+      "end": 1353
+    },
+    {
+      "text": "Hematoma intraparenquimatoso putaminal izquierdo",
+      "type": "PATOLOGIA",
+      "start": 1380,
+      "end": 1428
+    },
+    {
+      "text": "afectación secundaria de cápsula interna",
+      "type": "PATOLOGIA",
+      "start": 1433,
+      "end": 1473
+    },
+    {
+      "text": "desviación de la línea media",
+      "type": "PATOLOGIA",
+      "start": 1476,
+      "end": 1504
+    },
+    {
+      "text": "sin signos de oclusión arterial ni estenosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1561,
+      "end": 1605
+    },
+    {
+      "text": "déficit funcional asociado al área circundante al hematoma",
+      "type": "PATOLOGIA",
+      "start": 1634,
+      "end": 1692
+    },
+    {
+      "text": "Hematoma intraparenquimatoso putaminal",
+      "type": "PATOLOGIA",
+      "start": 1380,
+      "end": 1418
+    },
+    {
+      "text": "edema perilesional y efecto masa",
+      "type": "PATOLOGIA",
+      "start": 2000,
+      "end": 2032
+    },
+    {
+      "text": "TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANGIOTC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 1831,
+      "end": 1898
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 283,
+      "end": 299
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 311,
+      "end": 332
+    },
+    {
+      "text": "AngioTC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 335,
+      "end": 364
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "document_id": "informe_sintetico_20250804195045_04681",
+  "entities": [
+    {
+      "text": "infarto cerebral",
+      "type": "PATOLOGIA",
+      "start": 209,
+      "end": 225
+    },
+    {
+      "text": "zonas watershed",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 2162,
+      "end": 2177
+    },
+    {
+      "text": "frontoparietal",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 604,
+      "end": 618
+    },
+    {
+      "text": "bilateral",
+      "type": "LATERALIDAD",
+      "start": 286,
+      "end": 295
+    },
+    {
+      "text": "estenosis carotídea bilateral",
+      "type": "PATOLOGIA",
+      "start": 266,
+      "end": 295
+    },
+    {
+      "text": "isquemia tisular",
+      "type": "PATOLOGIA",
+      "start": 1091,
+      "end": 1107
+    },
+    {
+      "text": "mismtach perfusional",
+      "type": "PATOLOGIA",
+      "start": 1127,
+      "end": 1147
+    },
+    {
+      "text": "arterias carótidas internas cervicales",
+      "type": "ARTERIA",
+      "start": 1286,
+      "end": 1324
+    },
+    {
+      "text": "superior al 70%",
+      "type": "MEDIDA",
+      "start": 1360,
+      "end": 1375
+    },
+    {
+      "text": "sin estenosis ni oclusiones",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1411,
+      "end": 1438
+    },
+    {
+      "text": "infarto de tipo watershed bilateral frontoparietal",
+      "type": "PATOLOGIA",
+      "start": 1591,
+      "end": 1641
+    },
+    {
+      "text": "hipoperfusión cerebral",
+      "type": "PATOLOGIA",
+      "start": 1656,
+      "end": 1678
+    },
+    {
+      "text": "isquemia tisular",
+      "type": "PATOLOGIA",
+      "start": 1091,
+      "end": 1107
+    },
+    {
+      "text": "mismtach significativo",
+      "type": "PATOLOGIA",
+      "start": 1811,
+      "end": 1833
+    },
+    {
+      "text": "TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANG IOTC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 72,
+      "end": 140
+    },
+    {
+      "text": "TC craneal basal urgente",
+      "type": "TECNICA_IMAGEN",
+      "start": 316,
+      "end": 340
+    },
+    {
+      "text": "estudio de perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 342,
+      "end": 371
+    },
+    {
+      "text": "angiografía por TC de vasos extra e intracraneales",
+      "type": "TECNICA_IMAGEN",
+      "start": 374,
+      "end": 424
+    }
+  ]
+}

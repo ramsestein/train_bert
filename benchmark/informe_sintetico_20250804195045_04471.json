@@ -1,0 +1,95 @@
+{
+  "document_id": "informe_sintetico_20250804195045_04471",
+  "entities": [
+    {
+      "text": "infartos lacunares crónicos",
+      "type": "PATOLOGIA",
+      "start": 635,
+      "end": 662
+    },
+    {
+      "text": "sustancia blanca periventricular",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 533,
+      "end": 565
+    },
+    {
+      "text": "cápsula interna",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 567,
+      "end": 582
+    },
+    {
+      "text": "núcleos lenticulares",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 585,
+      "end": 605
+    },
+    {
+      "text": "bilaterales",
+      "type": "LATERALIDAD",
+      "start": 606,
+      "end": 617
+    },
+    {
+      "text": "isquémica aguda",
+      "type": "PATOLOGIA",
+      "start": 1266,
+      "end": 1281
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "PATOLOGIA",
+      "start": 740,
+      "end": 763
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 1884,
+      "end": 1894
+    },
+    {
+      "text": "TC craneal basal sin contraste",
+      "type": "TECNICA_IMAGEN",
+      "start": 292,
+      "end": 322
+    },
+    {
+      "text": "angio-TC intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 325,
+      "end": 346
+    },
+    {
+      "text": "perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 349,
+      "end": 367
+    },
+    {
+      "text": "No se observa edema peri-lesional",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 664,
+      "end": 697
+    },
+    {
+      "text": "No hay signos de hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 723,
+      "end": 763
+    },
+    {
+      "text": "No se evidencian signos de trombosis ni estenosis significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1525,
+      "end": 1588
+    },
+    {
+      "text": "sin estenosis ni trombosis arterial intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1764,
+      "end": 1812
+    }
+  ]
+}

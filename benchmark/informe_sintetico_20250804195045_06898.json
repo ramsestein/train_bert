@@ -1,0 +1,59 @@
+{
+  "document_id": "informe_sintetico_20250804195045_06898",
+  "entities": [
+    {
+      "text": "hematoma lobar en región parietal izquierda",
+      "type": "PATOLOGIA",
+      "start": 507,
+      "end": 550
+    },
+    {
+      "text": "parietal izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 532,
+      "end": 550
+    },
+    {
+      "text": "25 x 18 x 15 mm",
+      "type": "MEDIDA",
+      "start": 605,
+      "end": 620
+    },
+    {
+      "text": "3 mm",
+      "type": "MEDIDA",
+      "start": 745,
+      "end": 749
+    },
+    {
+      "text": "aguda",
+      "type": "TEMPORALIDAD",
+      "start": 242,
+      "end": 247
+    },
+    {
+      "text": "No se identifican signos de fractura craneal ni hemorragia subaracnoidea asociada",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 788,
+      "end": 869
+    },
+    {
+      "text": "No se identifican aneurismas, malformaciones arteriovenosas ni signos de vasoespasmo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1327,
+      "end": 1411
+    },
+    {
+      "text": "Vasos intracraneales permeables sin evidencias de estenosis ni trombosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1413,
+      "end": 1485
+    },
+    {
+      "text": "No se observan signos de ruptura vascular activa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1487,
+      "end": 1535
+    }
+  ]
+}

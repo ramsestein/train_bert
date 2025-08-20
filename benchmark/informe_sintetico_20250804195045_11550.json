@@ -1,0 +1,101 @@
+{
+  "document_id": "informe_sintetico_20250804195045_11550",
+  "entities": [
+    {
+      "text": "accidente isquémico",
+      "type": "PATOLOGIA",
+      "start": 242,
+      "end": 261
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 1135,
+      "end": 1149
+    },
+    {
+      "text": "edema citotóxico",
+      "type": "PATOLOGIA",
+      "start": 717,
+      "end": 733
+    },
+    {
+      "text": "territorio cortical de ramas distales de la arteria cerebral media izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 914,
+      "end": 990
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "ARTERIA",
+      "start": 958,
+      "end": 990
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 692,
+      "end": 701
+    },
+    {
+      "text": "segmentos M2-M3",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 992,
+      "end": 1007
+    },
+    {
+      "text": "ASPECTS 9",
+      "type": "PUNTUACION_CLINICA",
+      "start": 1667,
+      "end": 1676
+    },
+    {
+      "text": "No se evidencian hemorragias intracraneales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 478,
+      "end": 521
+    },
+    {
+      "text": "sin evidencia de hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2059,
+      "end": 2099
+    },
+    {
+      "text": "Oclusión segmentaria distal de ACM izquierda",
+      "type": "PATOLOGIA",
+      "start": 1717,
+      "end": 1761
+    },
+    {
+      "text": "Oclusión segmentaria de ramas distales (M2/M3) de la arteria cerebral media izquierda",
+      "type": "PATOLOGIA",
+      "start": 1239,
+      "end": 1324
+    },
+    {
+      "text": "isquemia aguda limitada al territorio distal de ACM",
+      "type": "PATOLOGIA",
+      "start": 1135,
+      "end": 1186
+    },
+    {
+      "text": "TC craneal basal sin contraste",
+      "type": "TECNICA_IMAGEN",
+      "start": 315,
+      "end": 345
+    },
+    {
+      "text": "perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 348,
+      "end": 366
+    },
+    {
+      "text": "angioTC intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 369,
+      "end": 389
+    }
+  ]
+}

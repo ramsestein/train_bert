@@ -1,0 +1,53 @@
+{
+  "document_id": "informe_sintetico_20250804195045_19959",
+  "entities": [
+    {
+      "text": "infarto lacunar agudo",
+      "type": "PATOLOGIA",
+      "start": 227,
+      "end": 248
+    },
+    {
+      "text": "cápsula interna izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 509,
+      "end": 534
+    },
+    {
+      "text": "6 mm",
+      "type": "MEDIDA",
+      "start": 593,
+      "end": 597
+    },
+    {
+      "text": "agudo",
+      "type": "TEMPORALIDAD",
+      "start": 243,
+      "end": 248
+    },
+    {
+      "text": "ASPECTS 9/10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 813,
+      "end": 825
+    },
+    {
+      "text": "infarto agudo pequeño",
+      "type": "PATOLOGIA",
+      "start": 1070,
+      "end": 1091
+    },
+    {
+      "text": "arteria penetrante",
+      "type": "ARTERIA",
+      "start": 1109,
+      "end": 1127
+    },
+    {
+      "text": "sin hemorragia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1978,
+      "end": 1992
+    }
+  ]
+}

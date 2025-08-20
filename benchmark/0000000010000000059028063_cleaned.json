@@ -1,0 +1,77 @@
+{
+  "document_id": "0000000010000000059028063_cleaned",
+  "entities": [
+    {
+      "text": "HEMATOMA CEREBELOSO DERECHO",
+      "type": "PATOLOGIA",
+      "start": 166,
+      "end": 193
+    },
+    {
+      "text": "CEREBELOSO",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 175,
+      "end": 185
+    },
+    {
+      "text": "DERECHO",
+      "type": "LATERALIDAD",
+      "start": 186,
+      "end": 193
+    },
+    {
+      "text": "balonización bilateral del sístema ventrícular",
+      "type": "PATOLOGIA",
+      "start": 338,
+      "end": 384
+    },
+    {
+      "text": "bilateral",
+      "type": "LATERALIDAD",
+      "start": 351,
+      "end": 360
+    },
+    {
+      "text": "contaminación hemática",
+      "type": "PATOLOGIA",
+      "start": 389,
+      "end": 411
+    },
+    {
+      "text": "No se observan cambios en el tamaño de los mismos.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 413,
+      "end": 463
+    },
+    {
+      "text": "No se observan cambios significativos.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 464,
+      "end": 502
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 213,
+      "end": 229
+    },
+    {
+      "text": "TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANG IOTC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 72,
+      "end": 140
+    },
+    {
+      "text": "TC CEREBRAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 560,
+      "end": 571
+    },
+    {
+      "text": "TC previo de hace unas horas",
+      "type": "TEMPORALIDAD",
+      "start": 299,
+      "end": 327
+    }
+  ]
+}

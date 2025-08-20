@@ -1,0 +1,113 @@
+{
+  "document_id": "informe_sintetico_20250804195045_21571",
+  "entities": [
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 236,
+      "end": 250
+    },
+    {
+      "text": "arteria cerebral posterior",
+      "type": "ARTERIA",
+      "start": 271,
+      "end": 297
+    },
+    {
+      "text": "izquierdo",
+      "type": "LATERALIDAD",
+      "start": 213,
+      "end": 222
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 602,
+      "end": 612
+    },
+    {
+      "text": "región occipital derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 738,
+      "end": 762
+    },
+    {
+      "text": "tiempo de tránsito medio (MTT)",
+      "type": "MEDIDA",
+      "start": 784,
+      "end": 814
+    },
+    {
+      "text": "tiempo de retraso (TTP)",
+      "type": "MEDIDA",
+      "start": 817,
+      "end": 840
+    },
+    {
+      "text": "flujo sanguíneo cerebral (CBF)",
+      "type": "MEDIDA",
+      "start": 864,
+      "end": 894
+    },
+    {
+      "text": "volumen cerebral (CBV)",
+      "type": "MEDIDA",
+      "start": 926,
+      "end": 948
+    },
+    {
+      "text": "penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 985,
+      "end": 1003
+    },
+    {
+      "text": "arteria cerebral posterior derecha",
+      "type": "ARTERIA",
+      "start": 1097,
+      "end": 1131
+    },
+    {
+      "text": "segmento P2-P3",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1133,
+      "end": 1147
+    },
+    {
+      "text": "Oclusión segmentaria completa",
+      "type": "PATOLOGIA",
+      "start": 1061,
+      "end": 1090
+    },
+    {
+      "text": "Oclusión segmentaria de arteria cerebral posterior derecha",
+      "type": "PATOLOGIA",
+      "start": 1632,
+      "end": 1690
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1426,
+      "end": 1449
+    },
+    {
+      "text": "edema cerebral significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1452,
+      "end": 1480
+    },
+    {
+      "text": "signos de arteriosclerosis severa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1331,
+      "end": 1364
+    },
+    {
+      "text": "placas complicadas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1368,
+      "end": 1386
+    }
+  ]
+}

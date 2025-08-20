@@ -1,0 +1,83 @@
+{
+  "document_id": "informe_sintetico_20250804195045_22282",
+  "entities": [
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 215,
+      "end": 229
+    },
+    {
+      "text": "lóbulo temporal y parietal derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 924,
+      "end": 958
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "ARTERIA",
+      "start": 1172,
+      "end": 1202
+    },
+    {
+      "text": "derecho",
+      "type": "LATERALIDAD",
+      "start": 951,
+      "end": 958
+    },
+    {
+      "text": "ASPECTS 9/10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 601,
+      "end": 613
+    },
+    {
+      "text": "TTP",
+      "type": "MEDIDA",
+      "start": 839,
+      "end": 842
+    },
+    {
+      "text": "CBF",
+      "type": "MEDIDA",
+      "start": 878,
+      "end": 881
+    },
+    {
+      "text": "CBV",
+      "type": "MEDIDA",
+      "start": 999,
+      "end": 1002
+    },
+    {
+      "text": "Oclusión segmentaria en rama distal de la arteria cerebral media derecha",
+      "type": "PATOLOGIA",
+      "start": 1130,
+      "end": 1202
+    },
+    {
+      "text": "segmentos M2/M3",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1582,
+      "end": 1597
+    },
+    {
+      "text": "sin evidencia de infarto establecido",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1702,
+      "end": 1738
+    },
+    {
+      "text": "sin alteraciones angiográficas significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1439,
+      "end": 1484
+    },
+    {
+      "text": "No se identifican signos de hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 445,
+      "end": 496
+    }
+  ]
+}

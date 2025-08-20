@@ -1,0 +1,113 @@
+{
+  "document_id": "informe_sintetico_20250804195045_23078",
+  "entities": [
+    {
+      "text": "hemorragia intraventricular primaria",
+      "type": "PATOLOGIA",
+      "start": 408,
+      "end": 444
+    },
+    {
+      "text": "sangre en los ventrículos laterales",
+      "type": "PATOLOGIA",
+      "start": 463,
+      "end": 498
+    },
+    {
+      "text": "asta posterior del ventrículo lateral izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 520,
+      "end": 567
+    },
+    {
+      "text": "tercer y cuarto ventrículo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 584,
+      "end": 610
+    },
+    {
+      "text": "No se observa hematoma intraparenquimatoso asociado",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 612,
+      "end": 663
+    },
+    {
+      "text": "No se evidencian lesiones isquémicas agudas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 900,
+      "end": 943
+    },
+    {
+      "text": "Cisternas basales libres",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1066,
+      "end": 1090
+    },
+    {
+      "text": "sin evidencias de hipoperfusión o área en riesgo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1214,
+      "end": 1262
+    },
+    {
+      "text": "sin estenosis ni signos de malformaciones vasculares",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1357,
+      "end": 1409
+    },
+    {
+      "text": "No se evidencian aneurismas ni malformaciones arteriovenosas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1411,
+      "end": 1471
+    },
+    {
+      "text": "Ateromatosis leve de ambas carótidas internas",
+      "type": "PATOLOGIA",
+      "start": 1473,
+      "end": 1518
+    },
+    {
+      "text": "Leve dilatación ventricular secundaria a obstrucción parcial del flujo ventricular",
+      "type": "PATOLOGIA",
+      "start": 1735,
+      "end": 1817
+    },
+    {
+      "text": "Perfusión cerebral conservada",
+      "type": "PATOLOGIA",
+      "start": 1819,
+      "end": 1848
+    },
+    {
+      "text": "Arterias intracraneales y extracraneales sin hallazgos patológicos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1850,
+      "end": 1916
+    },
+    {
+      "text": "agudo",
+      "type": "TEMPORALIDAD",
+      "start": 201,
+      "end": 206
+    },
+    {
+      "text": "TC craneal basal urgente",
+      "type": "TECNICA_IMAGEN",
+      "start": 264,
+      "end": 288
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 291,
+      "end": 312
+    },
+    {
+      "text": "angio-TC arterial intra y extracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 315,
+      "end": 353
+    }
+  ]
+}

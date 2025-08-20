@@ -1,0 +1,89 @@
+{
+  "document_id": "informe_sintetico_20250804195045_07486",
+  "entities": [
+    {
+      "text": "hemorragia lobar",
+      "type": "PATOLOGIA",
+      "start": 623,
+      "end": 639
+    },
+    {
+      "text": "localización parietal derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 643,
+      "end": 672
+    },
+    {
+      "text": "hematoma intraparenquimatoso",
+      "type": "PATOLOGIA",
+      "start": 715,
+      "end": 743
+    },
+    {
+      "text": "35 x 28 x 25 mm",
+      "type": "MEDIDA",
+      "start": 763,
+      "end": 778
+    },
+    {
+      "text": "desviación de la línea media hacia la izquierda de 5 mm",
+      "type": "MEDIDA",
+      "start": 856,
+      "end": 911
+    },
+    {
+      "text": "No hay signos de hemorragia subaracnoidea ni hematomas extraaxiales asociados",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 913,
+      "end": 990
+    },
+    {
+      "text": "sin evidencia de hidrocefalia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1031,
+      "end": 1060
+    },
+    {
+      "text": "sin signos de malformaciones o aneurismas asociados",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1490,
+      "end": 1541
+    },
+    {
+      "text": "Hematoma lobar parietal derecho de aproximadamente 3,5 cm",
+      "type": "PATOLOGIA",
+      "start": 1658,
+      "end": 1715
+    },
+    {
+      "text": "edema perilesional",
+      "type": "PATOLOGIA",
+      "start": 1720,
+      "end": 1738
+    },
+    {
+      "text": "efecto de masa moderado",
+      "type": "PATOLOGIA",
+      "start": 1741,
+      "end": 1764
+    },
+    {
+      "text": "compromiso tisular en zona hemorrágica",
+      "type": "PATOLOGIA",
+      "start": 1907,
+      "end": 1945
+    },
+    {
+      "text": "TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANGIOTC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 2332,
+      "end": 2399
+    },
+    {
+      "text": "TC CODE ICTUS",
+      "type": "TECNICA_IMAGEN",
+      "start": 2117,
+      "end": 2130
+    }
+  ]
+}

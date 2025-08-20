@@ -1,0 +1,89 @@
+{
+  "document_id": "informe_sintetico_20250804195045_14443",
+  "entities": [
+    {
+      "text": "microhemorragias",
+      "type": "PATOLOGIA",
+      "start": 613,
+      "end": 629
+    },
+    {
+      "text": "sustancia blanca periventricular",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 531,
+      "end": 563
+    },
+    {
+      "text": "ganglios basales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 569,
+      "end": 585
+    },
+    {
+      "text": "bilaterales",
+      "type": "LATERALIDAD",
+      "start": 586,
+      "end": 597
+    },
+    {
+      "text": "No se observan colecciones hemorrágicas expansivas ni hematomas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 631,
+      "end": 694
+    },
+    {
+      "text": "No hay evidencia de edema focal ni desplazamiento de línea media",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 697,
+      "end": 761
+    },
+    {
+      "text": "Sistema ventricular de tamaño normal, sin signos de hidrocefalia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 819,
+      "end": 883
+    },
+    {
+      "text": "sin evidencia de área isquémica o hipoperfusión focal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 962,
+      "end": 1015
+    },
+    {
+      "text": "sin evidencia de estenosis, oclusión o malformaciones vasculares",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1084,
+      "end": 1148
+    },
+    {
+      "text": "sin evidencia de hemorragia aguda mayor ni compromiso hemodinámico cerebral",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1366,
+      "end": 1441
+    },
+    {
+      "text": "angiopatía amiloide",
+      "type": "PATOLOGIA",
+      "start": 1558,
+      "end": 1577
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 246,
+      "end": 262
+    },
+    {
+      "text": "TC perfusión",
+      "type": "TECNICA_IMAGEN",
+      "start": 887,
+      "end": 899
+    },
+    {
+      "text": "Angio TC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 1019,
+      "end": 1049
+    }
+  ]
+}

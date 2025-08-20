@@ -1,0 +1,149 @@
+{
+  "document_id": "informe_sintetico_20250804195045_22027",
+  "entities": [
+    {
+      "text": "infarto",
+      "type": "PATOLOGIA",
+      "start": 282,
+      "end": 289
+    },
+    {
+      "text": "bilaterales",
+      "type": "LATERALIDAD",
+      "start": 574,
+      "end": 585
+    },
+    {
+      "text": "regiones fronto-parietales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 589,
+      "end": 615
+    },
+    {
+      "text": "zonas watershed",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 690,
+      "end": 705
+    },
+    {
+      "text": "infarto",
+      "type": "PATOLOGIA",
+      "start": 282,
+      "end": 289
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 520,
+      "end": 543
+    },
+    {
+      "text": "prolongación del tiempo de tránsito medio (MTT)",
+      "type": "MEDIDA",
+      "start": 1033,
+      "end": 1080
+    },
+    {
+      "text": "tiempo hasta el pico (TTP)",
+      "type": "MEDIDA",
+      "start": 1083,
+      "end": 1109
+    },
+    {
+      "text": "reducción moderada del flujo cerebral (CBF)",
+      "type": "MEDIDA",
+      "start": 1176,
+      "end": 1219
+    },
+    {
+      "text": "volumen cerebral (CBV)",
+      "type": "MEDIDA",
+      "start": 1222,
+      "end": 1244
+    },
+    {
+      "text": "hipoperfusión crítica",
+      "type": "PATOLOGIA",
+      "start": 1313,
+      "end": 1334
+    },
+    {
+      "text": "arterias carótidas internas",
+      "type": "ARTERIA",
+      "start": 1445,
+      "end": 1472
+    },
+    {
+      "text": "arterias cerebrales principales (ACAs, ACMs y ACPs)",
+      "type": "ARTERIA",
+      "start": 1475,
+      "end": 1526
+    },
+    {
+      "text": "estenosis hemodinámicamente significativas",
+      "type": "PATOLOGIA",
+      "start": 1542,
+      "end": 1584
+    },
+    {
+      "text": "trombos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1603,
+      "end": 1610
+    },
+    {
+      "text": "defectos de repleción",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1614,
+      "end": 1635
+    },
+    {
+      "text": "ateromatosis calcificada",
+      "type": "PATOLOGIA",
+      "start": 1656,
+      "end": 1680
+    },
+    {
+      "text": "estenosis crítica",
+      "type": "PATOLOGIA",
+      "start": 1713,
+      "end": 1730
+    },
+    {
+      "text": "aneurismas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1779,
+      "end": 1789
+    },
+    {
+      "text": "malformaciones vasculares",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1793,
+      "end": 1818
+    },
+    {
+      "text": "hipoperfusión global",
+      "type": "PATOLOGIA",
+      "start": 1918,
+      "end": 1938
+    },
+    {
+      "text": "estenosis arterial significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2019,
+      "end": 2051
+    },
+    {
+      "text": "estudio de perfusión",
+      "type": "TECNICA_IMAGEN",
+      "start": 381,
+      "end": 401
+    },
+    {
+      "text": "angiografía TC",
+      "type": "TECNICA_IMAGEN",
+      "start": 413,
+      "end": 427
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "document_id": "informe_sintetico_20250804195045_09414",
+  "entities": [
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 234,
+      "end": 248
+    },
+    {
+      "text": "arteria cerebral anterior",
+      "type": "ARTERIA",
+      "start": 266,
+      "end": 291
+    },
+    {
+      "text": "izquierdo",
+      "type": "LATERALIDAD",
+      "start": 180,
+      "end": 189
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 654,
+      "end": 661
+    },
+    {
+      "text": "ASPECTS 9",
+      "type": "PUNTUACION_CLINICA",
+      "start": 783,
+      "end": 792
+    },
+    {
+      "text": "isquémica aguda",
+      "type": "PATOLOGIA",
+      "start": 749,
+      "end": 764
+    },
+    {
+      "text": "TTP",
+      "type": "TECNICA_IMAGEN",
+      "start": 1163,
+      "end": 1166
+    },
+    {
+      "text": "arteria cerebral anterior derecha",
+      "type": "ARTERIA",
+      "start": 628,
+      "end": 661
+    },
+    {
+      "text": "CBF",
+      "type": "MEDIDA",
+      "start": 1295,
+      "end": 1298
+    },
+    {
+      "text": "CBV",
+      "type": "MEDIDA",
+      "start": 1361,
+      "end": 1364
+    },
+    {
+      "text": "ACM",
+      "type": "ARTERIA",
+      "start": 1994,
+      "end": 1997
+    },
+    {
+      "text": "ACP",
+      "type": "ARTERIA",
+      "start": 1999,
+      "end": 2002
+    },
+    {
+      "text": "A2",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1864,
+      "end": 1866
+    },
+    {
+      "text": "oclusión",
+      "type": "PATOLOGIA",
+      "start": 1918,
+      "end": 1926
+    },
+    {
+      "text": "estenosis severa",
+      "type": "PATOLOGIA",
+      "start": 1929,
+      "end": 1945
+    },
+    {
+      "text": "hemorragias intracraneales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2462,
+      "end": 2488
+    },
+    {
+      "text": "estenosis hemodinámicas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2534,
+      "end": 2557
+    }
+  ]
+}

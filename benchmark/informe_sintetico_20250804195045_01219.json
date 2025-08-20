@@ -1,0 +1,77 @@
+{
+  "document_id": "informe_sintetico_20250804195045_01219",
+  "entities": [
+    {
+      "text": "leucoencefalopatía posterior reversible",
+      "type": "PATOLOGIA",
+      "start": 274,
+      "end": 313
+    },
+    {
+      "text": "edema vasogénico",
+      "type": "PATOLOGIA",
+      "start": 631,
+      "end": 647
+    },
+    {
+      "text": "regiones occipitales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 581,
+      "end": 601
+    },
+    {
+      "text": "bilaterales",
+      "type": "LATERALIDAD",
+      "start": 602,
+      "end": 613
+    },
+    {
+      "text": "No se evidencian lesiones hemorrágicas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 649,
+      "end": 687
+    },
+    {
+      "text": "No hay desplazamiento significativo de la línea media",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 714,
+      "end": 767
+    },
+    {
+      "text": "sin reducción significativa del flujo sanguíneo cerebral",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1068,
+      "end": 1124
+    },
+    {
+      "text": "sin estenosis ni oclusiones significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1237,
+      "end": 1279
+    },
+    {
+      "text": "sin evidencia de infarto cerebral o hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1535,
+      "end": 1594
+    },
+    {
+      "text": "TC craneal sin contraste basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 341,
+      "end": 371
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 384,
+      "end": 405
+    },
+    {
+      "text": "angiografía TC intracraneal urgente",
+      "type": "TECNICA_IMAGEN",
+      "start": 408,
+      "end": 443
+    }
+  ]
+}

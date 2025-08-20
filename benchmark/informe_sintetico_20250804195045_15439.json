@@ -1,0 +1,107 @@
+{
+  "document_id": "informe_sintetico_20250804195045_15439",
+  "entities": [
+    {
+      "text": "hemorragias intra ni extraaxiales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 462,
+      "end": 495
+    },
+    {
+      "text": "hipodensidades agudas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 560,
+      "end": 581
+    },
+    {
+      "text": "pérdida de diferenciación cortico-subcortical",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 585,
+      "end": 630
+    },
+    {
+      "text": "ASPECTS es 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 652,
+      "end": 665
+    },
+    {
+      "text": "edema cerebral",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 692,
+      "end": 706
+    },
+    {
+      "text": "efecto masa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 710,
+      "end": 721
+    },
+    {
+      "text": "hidrocéfalo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 841,
+      "end": 852
+    },
+    {
+      "text": "calcificaciones puntiformes no patológicas",
+      "type": "PATOLOGIA",
+      "start": 937,
+      "end": 979
+    },
+    {
+      "text": "isquemia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1249,
+      "end": 1257
+    },
+    {
+      "text": "hemorragia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 462,
+      "end": 472
+    },
+    {
+      "text": "arterias carótidas internas y externas",
+      "type": "ARTERIA",
+      "start": 1491,
+      "end": 1529
+    },
+    {
+      "text": "ACAs, ACMs y ACPs",
+      "type": "ARTERIA",
+      "start": 1650,
+      "end": 1667
+    },
+    {
+      "text": "bilateralmente",
+      "type": "LATERALIDAD",
+      "start": 1545,
+      "end": 1559
+    },
+    {
+      "text": "Código Ictus",
+      "type": "TEMPORALIDAD",
+      "start": 300,
+      "end": 312
+    },
+    {
+      "text": "TC craneal simple",
+      "type": "TECNICA_IMAGEN",
+      "start": 314,
+      "end": 331
+    },
+    {
+      "text": "estudio de perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 333,
+      "end": 362
+    },
+    {
+      "text": "angiografía TC extra e intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 365,
+      "end": 400
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "document_id": "informe_sintetico_20250804195045_14166",
+  "entities": [
+    {
+      "text": "isquemia vertebrobasilar",
+      "type": "PATOLOGIA",
+      "start": 267,
+      "end": 291
+    },
+    {
+      "text": "lesión isquémica aguda",
+      "type": "PATOLOGIA",
+      "start": 609,
+      "end": 631
+    },
+    {
+      "text": "arteria basilar distal",
+      "type": "ARTERIA",
+      "start": 1051,
+      "end": 1073
+    },
+    {
+      "text": "arterias cerebelosas posteriores",
+      "type": "ARTERIA",
+      "start": 1076,
+      "end": 1108
+    },
+    {
+      "text": "arteria basilar proximal",
+      "type": "ARTERIA",
+      "start": 1237,
+      "end": 1261
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 1351,
+      "end": 1358
+    },
+    {
+      "text": ">70%",
+      "type": "MEDIDA",
+      "start": 1284,
+      "end": 1288
+    },
+    {
+      "text": "aguda",
+      "type": "TEMPORALIDAD",
+      "start": 626,
+      "end": 631
+    },
+    {
+      "text": "No se identifican signos de hemorragia intra ni extraaxial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 453,
+      "end": 511
+    },
+    {
+      "text": "disminuido",
+      "type": "PATOLOGIA",
+      "start": 1323,
+      "end": 1333
+    },
+    {
+      "text": "aterotrombosis",
+      "type": "PATOLOGIA",
+      "start": 1394,
+      "end": 1408
+    },
+    {
+      "text": "ateromatosis calcificada leve",
+      "type": "PATOLOGIA",
+      "start": 1527,
+      "end": 1556
+    },
+    {
+      "text": "sin signos de estenosis significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1462,
+      "end": 1499
+    },
+    {
+      "text": "tronco cerebral",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 932,
+      "end": 947
+    },
+    {
+      "text": "cerebelo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 950,
+      "end": 958
+    },
+    {
+      "text": "tronco cerebral",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 932,
+      "end": 947
+    },
+    {
+      "text": "cerebelo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 950,
+      "end": 958
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 312,
+      "end": 328
+    },
+    {
+      "text": "angio-TC de troncos supraaórticos e intracraneales",
+      "type": "TECNICA_IMAGEN",
+      "start": 330,
+      "end": 380
+    },
+    {
+      "text": "perfusión cerebral urgente",
+      "type": "TECNICA_IMAGEN",
+      "start": 383,
+      "end": 409
+    }
+  ]
+}

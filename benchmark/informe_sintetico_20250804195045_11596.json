@@ -1,0 +1,59 @@
+{
+  "document_id": "informe_sintetico_20250804195045_11596",
+  "entities": [
+    {
+      "text": "hemorragias intra o extraaxiales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 442,
+      "end": 474
+    },
+    {
+      "text": "infarto agudo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 496,
+      "end": 509
+    },
+    {
+      "text": "lesiones expansivas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 513,
+      "end": 532
+    },
+    {
+      "text": "sustancia blanca periventricular",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 759,
+      "end": 791
+    },
+    {
+      "text": "sin áreas de hipoperfusión o hiperperfusión",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 989,
+      "end": 1032
+    },
+    {
+      "text": "carótidas internas, cerebrales anteriores, medias y posteriores",
+      "type": "ARTERIA",
+      "start": 1095,
+      "end": 1158
+    },
+    {
+      "text": "sin estenosis ni oclusiones",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1173,
+      "end": 1200
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 1345,
+      "end": 1355
+    },
+    {
+      "text": "compatibles con edad",
+      "type": "TEMPORALIDAD",
+      "start": 1609,
+      "end": 1629
+    }
+  ]
+}

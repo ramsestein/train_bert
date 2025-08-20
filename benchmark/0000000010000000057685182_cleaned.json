@@ -1,0 +1,131 @@
+{
+  "document_id": "0000000010000000057685182_cleaned",
+  "entities": [
+    {
+      "text": "hemorragia aguda",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 347,
+      "end": 363
+    },
+    {
+      "text": "lesiones isquémicas parenquimatosas subagudas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 400,
+      "end": 445
+    },
+    {
+      "text": "lesiones isquémicas crónicas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 455,
+      "end": 483
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 485,
+      "end": 495
+    },
+    {
+      "text": "valle silviano",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 533,
+      "end": 547
+    },
+    {
+      "text": "ACM derecha",
+      "type": "ARTERIA",
+      "start": 564,
+      "end": 575
+    },
+    {
+      "text": "trombo",
+      "type": "PATOLOGIA",
+      "start": 613,
+      "end": 619
+    },
+    {
+      "text": "surcos cerebrales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 646,
+      "end": 663
+    },
+    {
+      "text": "atrofia cerebral",
+      "type": "PATOLOGIA",
+      "start": 704,
+      "end": 720
+    },
+    {
+      "text": "ACMd",
+      "type": "ARTERIA",
+      "start": 951,
+      "end": 955
+    },
+    {
+      "text": "hipoperfusión",
+      "type": "PATOLOGIA",
+      "start": 982,
+      "end": 995
+    },
+    {
+      "text": "parietal derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1006,
+      "end": 1022
+    },
+    {
+      "text": "ACM derecha rama M1",
+      "type": "ARTERIA",
+      "start": 1153,
+      "end": 1172
+    },
+    {
+      "text": "oclusión",
+      "type": "PATOLOGIA",
+      "start": 1189,
+      "end": 1197
+    },
+    {
+      "text": "trombo",
+      "type": "PATOLOGIA",
+      "start": 613,
+      "end": 619
+    },
+    {
+      "text": "ACAs",
+      "type": "ARTERIA",
+      "start": 1300,
+      "end": 1304
+    },
+    {
+      "text": "ACMi",
+      "type": "ARTERIA",
+      "start": 1306,
+      "end": 1310
+    },
+    {
+      "text": "ACPs",
+      "type": "ARTERIA",
+      "start": 1313,
+      "end": 1317
+    },
+    {
+      "text": "porción proximal de TBC y ACCI",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1378,
+      "end": 1408
+    },
+    {
+      "text": "volumen preservado",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1460,
+      "end": 1478
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 485,
+      "end": 495
+    }
+  ]
+}

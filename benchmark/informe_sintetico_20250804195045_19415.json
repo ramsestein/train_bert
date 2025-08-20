@@ -1,0 +1,65 @@
+{
+  "document_id": "informe_sintetico_20250804195045_19415",
+  "entities": [
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 620,
+      "end": 634
+    },
+    {
+      "text": "arteria cerebral posterior",
+      "type": "ARTERIA",
+      "start": 655,
+      "end": 681
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 596,
+      "end": 603
+    },
+    {
+      "text": "ASPECTS 9",
+      "type": "PUNTUACION_CLINICA",
+      "start": 697,
+      "end": 706
+    },
+    {
+      "text": "lóbulo occipital derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 979,
+      "end": 1003
+    },
+    {
+      "text": "isquemia penumbra",
+      "type": "PATOLOGIA",
+      "start": 1133,
+      "end": 1150
+    },
+    {
+      "text": "arteria cerebral posterior derecha (P2)",
+      "type": "ARTERIA",
+      "start": 1329,
+      "end": 1368
+    },
+    {
+      "text": "bilaterales",
+      "type": "LATERALIDAD",
+      "start": 1472,
+      "end": 1483
+    },
+    {
+      "text": "No se identifican hemorragias intra ni extraaxiales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 431,
+      "end": 482
+    },
+    {
+      "text": "No se observa hemorragia asociada ni compromiso estructural de línea media",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1796,
+      "end": 1870
+    }
+  ]
+}

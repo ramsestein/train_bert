@@ -1,0 +1,131 @@
+{
+  "document_id": "informe_sintetico_20250804195045_07930",
+  "entities": [
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 222,
+      "end": 236
+    },
+    {
+      "text": "arteria cerebral media",
+      "type": "ARTERIA",
+      "start": 254,
+      "end": 276
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 638,
+      "end": 647
+    },
+    {
+      "text": "ASPECTS 9",
+      "type": "PUNTUACION_CLINICA",
+      "start": 583,
+      "end": 592
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 638,
+      "end": 647
+    },
+    {
+      "text": "Tmax",
+      "type": "MEDIDA",
+      "start": 807,
+      "end": 811
+    },
+    {
+      "text": "TTP",
+      "type": "MEDIDA",
+      "start": 814,
+      "end": 817
+    },
+    {
+      "text": "CBF",
+      "type": "MEDIDA",
+      "start": 900,
+      "end": 903
+    },
+    {
+      "text": "CBV",
+      "type": "MEDIDA",
+      "start": 953,
+      "end": 956
+    },
+    {
+      "text": "penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 990,
+      "end": 1008
+    },
+    {
+      "text": "infarto establecido",
+      "type": "PATOLOGIA",
+      "start": 1039,
+      "end": 1058
+    },
+    {
+      "text": "Oclusión completa",
+      "type": "PATOLOGIA",
+      "start": 1109,
+      "end": 1126
+    },
+    {
+      "text": "M2 distal",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1135,
+      "end": 1144
+    },
+    {
+      "text": "arteria cerebral media",
+      "type": "ARTERIA",
+      "start": 254,
+      "end": 276
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 638,
+      "end": 647
+    },
+    {
+      "text": "sin estenosis significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1243,
+      "end": 1270
+    },
+    {
+      "text": "Sistema vertebrobasilar normal y permeable",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1306,
+      "end": 1348
+    },
+    {
+      "text": "Ausencia de hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1377,
+      "end": 1412
+    },
+    {
+      "text": "territorio parietotemporal izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1496,
+      "end": 1532
+    },
+    {
+      "text": "territorio isquémico limitado",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1549,
+      "end": 1578
+    },
+    {
+      "text": "sin evidencia de infarto establecido",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1581,
+      "end": 1617
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "document_id": "informe_sintetico_20250804195045_20940",
+  "entities": [
+    {
+      "text": "ictus isquémico reciente",
+      "type": "PATOLOGIA",
+      "start": 194,
+      "end": 218
+    },
+    {
+      "text": "transformación hemorrágica",
+      "type": "PATOLOGIA",
+      "start": 263,
+      "end": 289
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 309,
+      "end": 325
+    },
+    {
+      "text": "hemorragia",
+      "type": "PATOLOGIA",
+      "start": 363,
+      "end": 373
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "ARTERIA",
+      "start": 627,
+      "end": 659
+    },
+    {
+      "text": "transformación hemorrágica grado PH2",
+      "type": "PATOLOGIA",
+      "start": 687,
+      "end": 723
+    },
+    {
+      "text": "más del 30%",
+      "type": "MEDIDA",
+      "start": 782,
+      "end": 793
+    },
+    {
+      "text": "4 mm",
+      "type": "MEDIDA",
+      "start": 957,
+      "end": 961
+    },
+    {
+      "text": "ventrículo lateral izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1092,
+      "end": 1120
+    },
+    {
+      "text": "sin hidrocefalia obstructiva",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1122,
+      "end": 1150
+    },
+    {
+      "text": "desplazamiento contralateral de la línea media",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 896,
+      "end": 942
+    },
+    {
+      "text": "tiempo de tránsito medio (MTT)",
+      "type": "TEMPORALIDAD",
+      "start": 1376,
+      "end": 1406
+    },
+    {
+      "text": "tiempo hasta el pico (TTP)",
+      "type": "TEMPORALIDAD",
+      "start": 1409,
+      "end": 1435
+    },
+    {
+      "text": "sin defectos de repleción ni estenosis significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1595,
+      "end": 1648
+    },
+    {
+      "text": "sin estenosis relevante",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1757,
+      "end": 1780
+    },
+    {
+      "text": "infarto reciente",
+      "type": "PATOLOGIA",
+      "start": 2068,
+      "end": 2084
+    },
+    {
+      "text": "Transformación hemorrágica PH2 en región territorial de ACM izquierda",
+      "type": "PATOLOGIA",
+      "start": 2381,
+      "end": 2450
+    },
+    {
+      "text": "sin hemorragia extraaxial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2494,
+      "end": 2519
+    }
+  ]
+}

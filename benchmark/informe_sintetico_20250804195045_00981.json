@@ -1,0 +1,83 @@
+{
+  "document_id": "informe_sintetico_20250804195045_00981",
+  "entities": [
+    {
+      "text": "infarto lacunar agudo",
+      "type": "PATOLOGIA",
+      "start": 230,
+      "end": 251
+    },
+    {
+      "text": "núcleo caudado derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 489,
+      "end": 511
+    },
+    {
+      "text": "6 mm",
+      "type": "MEDIDA",
+      "start": 478,
+      "end": 482
+    },
+    {
+      "text": "derecho",
+      "type": "LATERALIDAD",
+      "start": 504,
+      "end": 511
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 744,
+      "end": 754
+    },
+    {
+      "text": "discretas áreas de reducción focal",
+      "type": "PATOLOGIA",
+      "start": 837,
+      "end": 871
+    },
+    {
+      "text": "núcleo caudado derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 489,
+      "end": 511
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 744,
+      "end": 754
+    },
+    {
+      "text": "infarto lacunar agudo",
+      "type": "PATOLOGIA",
+      "start": 230,
+      "end": 251
+    },
+    {
+      "text": "discreta reducción focal",
+      "type": "PATOLOGIA",
+      "start": 1526,
+      "end": 1550
+    },
+    {
+      "text": "AngioTC sin alteraciones significativas ni oclusiones mayores",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1592,
+      "end": 1653
+    },
+    {
+      "text": "sin signos de hidrocefalia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 688,
+      "end": 714
+    },
+    {
+      "text": "sin complicaciones hemorrágicas ni edema significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1435,
+      "end": 1489
+    }
+  ]
+}

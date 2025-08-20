@@ -1,0 +1,65 @@
+{
+  "document_id": "informe_sintetico_20250804195045_18672",
+  "entities": [
+    {
+      "text": "hematoma",
+      "type": "PATOLOGIA",
+      "start": 404,
+      "end": 412
+    },
+    {
+      "text": "15 x 12 mm",
+      "type": "MEDIDA",
+      "start": 432,
+      "end": 442
+    },
+    {
+      "text": "núcleo caudado izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 460,
+      "end": 484
+    },
+    {
+      "text": "hemorragia intracerebral",
+      "type": "PATOLOGIA",
+      "start": 219,
+      "end": 243
+    },
+    {
+      "text": "isquémica",
+      "type": "PATOLOGIA",
+      "start": 952,
+      "end": 961
+    },
+    {
+      "text": "sin extensión ventricular",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 515,
+      "end": 540
+    },
+    {
+      "text": "sin hallazgos vasculares relevantes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1430,
+      "end": 1465
+    },
+    {
+      "text": "TC craneal basal urgente",
+      "type": "TECNICA_IMAGEN",
+      "start": 264,
+      "end": 288
+    },
+    {
+      "text": "perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 293,
+      "end": 311
+    },
+    {
+      "text": "angiografía TC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 314,
+      "end": 350
+    }
+  ]
+}

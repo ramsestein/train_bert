@@ -1,0 +1,119 @@
+{
+  "document_id": "informe_sintetico_20250804195045_06967",
+  "entities": [
+    {
+      "text": "accidente cerebrovascular isquémico",
+      "type": "PATOLOGIA",
+      "start": 221,
+      "end": 256
+    },
+    {
+      "text": "hemorragias intraparenquimatosas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 496,
+      "end": 528
+    },
+    {
+      "text": "infarto agudo",
+      "type": "PATOLOGIA",
+      "start": 636,
+      "end": 649
+    },
+    {
+      "text": "sustancia gris",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 694,
+      "end": 708
+    },
+    {
+      "text": "edema cerebral",
+      "type": "PATOLOGIA",
+      "start": 774,
+      "end": 788
+    },
+    {
+      "text": "Cisternas basales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 846,
+      "end": 863
+    },
+    {
+      "text": "TTP",
+      "type": "TECNICA_IMAGEN",
+      "start": 926,
+      "end": 929
+    },
+    {
+      "text": "CBV",
+      "type": "TECNICA_IMAGEN",
+      "start": 931,
+      "end": 934
+    },
+    {
+      "text": "CBF",
+      "type": "TECNICA_IMAGEN",
+      "start": 936,
+      "end": 939
+    },
+    {
+      "text": "ACAs",
+      "type": "ARTERIA",
+      "start": 1282,
+      "end": 1286
+    },
+    {
+      "text": "ACMs",
+      "type": "ARTERIA",
+      "start": 1288,
+      "end": 1292
+    },
+    {
+      "text": "ACPs",
+      "type": "ARTERIA",
+      "start": 1294,
+      "end": 1298
+    },
+    {
+      "text": "sistema vertebrobasilar",
+      "type": "ARTERIA",
+      "start": 1300,
+      "end": 1323
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 1382,
+      "end": 1392
+    },
+    {
+      "text": "TC craneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 277,
+      "end": 287
+    },
+    {
+      "text": "estudio de perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 309,
+      "end": 338
+    },
+    {
+      "text": "angiografía TC",
+      "type": "TECNICA_IMAGEN",
+      "start": 1479,
+      "end": 1493
+    },
+    {
+      "text": "sin hallazgos agudos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1360,
+      "end": 1380
+    },
+    {
+      "text": "sin alteraciones hemodinámicas ni vasculares",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1502,
+      "end": 1546
+    }
+  ]
+}

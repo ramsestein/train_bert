@@ -1,0 +1,65 @@
+{
+  "document_id": "informe_sintetico_20250804195045_05123",
+  "entities": [
+    {
+      "text": "hematoma subdural agudo",
+      "type": "PATOLOGIA",
+      "start": 573,
+      "end": 596
+    },
+    {
+      "text": "temporal",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 539,
+      "end": 547
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 548,
+      "end": 557
+    },
+    {
+      "text": "12 mm",
+      "type": "MEDIDA",
+      "start": 638,
+      "end": 643
+    },
+    {
+      "text": "agudo",
+      "type": "TEMPORALIDAD",
+      "start": 591,
+      "end": 596
+    },
+    {
+      "text": "6 mm",
+      "type": "MEDIDA",
+      "start": 725,
+      "end": 729
+    },
+    {
+      "text": "No hay hemorragias intraparenquimatosas asociadas.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 785,
+      "end": 835
+    },
+    {
+      "text": "No se identifican fracturas óseas evidentes.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 836,
+      "end": 880
+    },
+    {
+      "text": "No signos de hemorragia intraparenquimatosa ni de fractura ósea.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1511,
+      "end": 1575
+    },
+    {
+      "text": "sin evidencias de estenosis ni signos de vasoespasmo.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1211,
+      "end": 1264
+    }
+  ]
+}

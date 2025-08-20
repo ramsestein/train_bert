@@ -1,0 +1,77 @@
+{
+  "document_id": "informe_sintetico_20250804195045_09329",
+  "entities": [
+    {
+      "text": "hematoma lobar",
+      "type": "PATOLOGIA",
+      "start": 422,
+      "end": 436
+    },
+    {
+      "text": "región frontal izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 443,
+      "end": 467
+    },
+    {
+      "text": "25 x 20 x 18 mm",
+      "type": "MEDIDA",
+      "start": 488,
+      "end": 503
+    },
+    {
+      "text": "edema circundante significativo",
+      "type": "PATOLOGIA",
+      "start": 591,
+      "end": 622
+    },
+    {
+      "text": "desplazamiento de la línea media hacia la derecha",
+      "type": "PATOLOGIA",
+      "start": 663,
+      "end": 712
+    },
+    {
+      "text": "4 mm",
+      "type": "MEDIDA",
+      "start": 732,
+      "end": 736
+    },
+    {
+      "text": "isquemia penumbra significativa",
+      "type": "PATOLOGIA",
+      "start": 967,
+      "end": 998
+    },
+    {
+      "text": "sin evidencias de estenosis u oclusiones",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1215,
+      "end": 1255
+    },
+    {
+      "text": "Vasos cerebrales permeables sin hallazgos de malformaciones vasculares",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1612,
+      "end": 1682
+    },
+    {
+      "text": "TC CRANEAL BASAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 295,
+      "end": 311
+    },
+    {
+      "text": "TC PERFUSIÓN",
+      "type": "TECNICA_IMAGEN",
+      "start": 870,
+      "end": 882
+    },
+    {
+      "text": "ANGIO-TC INTRA-EXTRACRANEAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 1100,
+      "end": 1127
+    }
+  ]
+}

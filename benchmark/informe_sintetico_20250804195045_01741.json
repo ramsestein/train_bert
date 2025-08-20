@@ -1,0 +1,221 @@
+{
+  "document_id": "informe_sintetico_20250804195045_01741",
+  "entities": [
+    {
+      "text": "isquemia cerebral",
+      "type": "PATOLOGIA",
+      "start": 229,
+      "end": 246
+    },
+    {
+      "text": "hipertensión arterial",
+      "type": "PATOLOGIA",
+      "start": 288,
+      "end": 309
+    },
+    {
+      "text": "fibrilación auricular",
+      "type": "PATOLOGIA",
+      "start": 312,
+      "end": 333
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 354,
+      "end": 370
+    },
+    {
+      "text": "perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 401,
+      "end": 419
+    },
+    {
+      "text": "angio-TC intra y extracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 448,
+      "end": 477
+    },
+    {
+      "text": "colecciones hemorrágicas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 596,
+      "end": 620
+    },
+    {
+      "text": "masas expansivas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 624,
+      "end": 640
+    },
+    {
+      "text": "áreas de hipodensidad difusa",
+      "type": "PATOLOGIA",
+      "start": 657,
+      "end": 685
+    },
+    {
+      "text": "bilaterales",
+      "type": "LATERALIDAD",
+      "start": 687,
+      "end": 698
+    },
+    {
+      "text": "región subcortical parieto-occipital",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 794,
+      "end": 830
+    },
+    {
+      "text": "frontal superior",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 833,
+      "end": 849
+    },
+    {
+      "text": "infarto tipo watershed",
+      "type": "PATOLOGIA",
+      "start": 867,
+      "end": 889
+    },
+    {
+      "text": "disminuida",
+      "type": "PATOLOGIA",
+      "start": 926,
+      "end": 936
+    },
+    {
+      "text": "desplazamiento de líneas medias",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 961,
+      "end": 992
+    },
+    {
+      "text": "edema significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 996,
+      "end": 1015
+    },
+    {
+      "text": "Cisternas basales libres",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1070,
+      "end": 1094
+    },
+    {
+      "text": "prolongación del tiempo de tránsito medio (TTP)",
+      "type": "PATOLOGIA",
+      "start": 1139,
+      "end": 1186
+    },
+    {
+      "text": "volumen cerebral sanguíneo (CBV)",
+      "type": "PATOLOGIA",
+      "start": 1205,
+      "end": 1237
+    },
+    {
+      "text": "disminución del flujo cerebral (CBF)",
+      "type": "PATOLOGIA",
+      "start": 1272,
+      "end": 1308
+    },
+    {
+      "text": "área en riesgo de isquemia o daño establecida",
+      "type": "PATOLOGIA",
+      "start": 1324,
+      "end": 1369
+    },
+    {
+      "text": "áreas de hipoperfusión",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1389,
+      "end": 1411
+    },
+    {
+      "text": "arterias carótidas internas",
+      "type": "ARTERIA",
+      "start": 1606,
+      "end": 1633
+    },
+    {
+      "text": "cerebrales medias",
+      "type": "ARTERIA",
+      "start": 1635,
+      "end": 1652
+    },
+    {
+      "text": "anteriores y posteriores",
+      "type": "ARTERIA",
+      "start": 1654,
+      "end": 1678
+    },
+    {
+      "text": "Arterias vertebrales",
+      "type": "ARTERIA",
+      "start": 1680,
+      "end": 1700
+    },
+    {
+      "text": "circulación basilar",
+      "type": "ARTERIA",
+      "start": 1703,
+      "end": 1722
+    },
+    {
+      "text": "Infarto tipo watershed bilateral",
+      "type": "PATOLOGIA",
+      "start": 1801,
+      "end": 1833
+    },
+    {
+      "text": "territorio limítrofe parieto-occipital",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1837,
+      "end": 1875
+    },
+    {
+      "text": "frontal superior",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 833,
+      "end": 849
+    },
+    {
+      "text": "daño isquémico subagudo",
+      "type": "PATOLOGIA",
+      "start": 1929,
+      "end": 1952
+    },
+    {
+      "text": "oclusión o estenosis arterial intracraneal significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1993,
+      "end": 2049
+    },
+    {
+      "text": "signos de hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2054,
+      "end": 2087
+    },
+    {
+      "text": "Infarto cerebral watershed bilateral",
+      "type": "PATOLOGIA",
+      "start": 2396,
+      "end": 2432
+    },
+    {
+      "text": "compromiso perfusional en áreas limítrofes",
+      "type": "PATOLOGIA",
+      "start": 2437,
+      "end": 2479
+    },
+    {
+      "text": "oclusión arterial mayor",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2497,
+      "end": 2520
+    }
+  ]
+}

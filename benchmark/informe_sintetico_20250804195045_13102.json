@@ -1,0 +1,53 @@
+{
+  "document_id": "informe_sintetico_20250804195045_13102",
+  "entities": [
+    {
+      "text": "25 x 20 mm",
+      "type": "MEDIDA",
+      "start": 620,
+      "end": 630
+    },
+    {
+      "text": "lóbulo frontal izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 545,
+      "end": 569
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 755,
+      "end": 762
+    },
+    {
+      "text": "isquemia",
+      "type": "PATOLOGIA",
+      "start": 1064,
+      "end": 1072
+    },
+    {
+      "text": "No se evidencian estenosis ni oclusiones en grandes vasos intracraneales ni extracraneales.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1120,
+      "end": 1211
+    },
+    {
+      "text": "Vasculatura intracraneal permeable.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1212,
+      "end": 1247
+    },
+    {
+      "text": "sin signos de extensión intraventricular ni hemorragia subaracnoidea.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 632,
+      "end": 701
+    },
+    {
+      "text": "sin áreas significativas de isquemia o penumbra.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1036,
+      "end": 1084
+    }
+  ]
+}

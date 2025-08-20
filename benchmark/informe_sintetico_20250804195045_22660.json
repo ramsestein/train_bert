@@ -1,0 +1,83 @@
+{
+  "document_id": "informe_sintetico_20250804195045_22660",
+  "entities": [
+    {
+      "text": "isquemia cerebral",
+      "type": "PATOLOGIA",
+      "start": 235,
+      "end": 252
+    },
+    {
+      "text": "infarto isquémico reciente",
+      "type": "PATOLOGIA",
+      "start": 566,
+      "end": 592
+    },
+    {
+      "text": "transformación hemorrágica",
+      "type": "PATOLOGIA",
+      "start": 266,
+      "end": 292
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 520,
+      "end": 550
+    },
+    {
+      "text": "foco de alta densidad punteado e irregular en región cortical lateral",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 608,
+      "end": 677
+    },
+    {
+      "text": "HI1",
+      "type": "PUNTUACION_CLINICA",
+      "start": 760,
+      "end": 763
+    },
+    {
+      "text": "hematomas mayores",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 814,
+      "end": 831
+    },
+    {
+      "text": "hemorragia intraparenquimatosa extensa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 835,
+      "end": 873
+    },
+    {
+      "text": "ACM derecha",
+      "type": "ARTERIA",
+      "start": 1234,
+      "end": 1245
+    },
+    {
+      "text": "segmento M2 de ACM derecha",
+      "type": "ARTERIA",
+      "start": 1365,
+      "end": 1391
+    },
+    {
+      "text": "tiempo de tránsito medio",
+      "type": "MEDIDA",
+      "start": 1169,
+      "end": 1193
+    },
+    {
+      "text": "penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1765,
+      "end": 1783
+    },
+    {
+      "text": "sin signos de estenosis ni trombosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1418,
+      "end": 1454
+    }
+  ]
+}

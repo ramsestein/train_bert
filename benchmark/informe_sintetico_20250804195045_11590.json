@@ -1,0 +1,113 @@
+{
+  "document_id": "informe_sintetico_20250804195045_11590",
+  "entities": [
+    {
+      "text": "infarto",
+      "type": "PATOLOGIA",
+      "start": 230,
+      "end": 237
+    },
+    {
+      "text": "zonas frontera",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 241,
+      "end": 255
+    },
+    {
+      "text": "arterias cerebrales anterior",
+      "type": "ARTERIA",
+      "start": 676,
+      "end": 704
+    },
+    {
+      "text": "media",
+      "type": "ARTERIA",
+      "start": 706,
+      "end": 711
+    },
+    {
+      "text": "posterior",
+      "type": "ARTERIA",
+      "start": 714,
+      "end": 723
+    },
+    {
+      "text": "bilaterales",
+      "type": "LATERALIDAD",
+      "start": 521,
+      "end": 532
+    },
+    {
+      "text": "edema citotóxico",
+      "type": "PATOLOGIA",
+      "start": 860,
+      "end": 876
+    },
+    {
+      "text": "hemorragia intra ni extraaxial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 741,
+      "end": 771
+    },
+    {
+      "text": "hipoperfusión",
+      "type": "PATOLOGIA",
+      "start": 1224,
+      "end": 1237
+    },
+    {
+      "text": "infarto isquémico",
+      "type": "PATOLOGIA",
+      "start": 1253,
+      "end": 1270
+    },
+    {
+      "text": "subagudo",
+      "type": "TEMPORALIDAD",
+      "start": 1281,
+      "end": 1289
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1872,
+      "end": 1895
+    },
+    {
+      "text": "sin estenosis ni oclusiones significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1926,
+      "end": 1968
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 312,
+      "end": 328
+    },
+    {
+      "text": "estudio de perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 339,
+      "end": 368
+    },
+    {
+      "text": "angiografía TC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 371,
+      "end": 407
+    },
+    {
+      "text": "TC PERFUSIÓN",
+      "type": "TECNICA_IMAGEN",
+      "start": 985,
+      "end": 997
+    },
+    {
+      "text": "angiografía TC intraarterial",
+      "type": "TECNICA_IMAGEN",
+      "start": 2152,
+      "end": 2180
+    }
+  ]
+}

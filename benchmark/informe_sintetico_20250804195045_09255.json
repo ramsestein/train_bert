@@ -1,0 +1,71 @@
+{
+  "document_id": "informe_sintetico_20250804195045_09255",
+  "entities": [
+    {
+      "text": "hemorragias intra ni extraaxiales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 443,
+      "end": 476
+    },
+    {
+      "text": "signos de infarto cerebral agudo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 490,
+      "end": 522
+    },
+    {
+      "text": "edema vasogénico",
+      "type": "PATOLOGIA",
+      "start": 725,
+      "end": 741
+    },
+    {
+      "text": "sustancia blanca parieto-occipital bilateral",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 592,
+      "end": 636
+    },
+    {
+      "text": "edema vasogénico reversible",
+      "type": "PATOLOGIA",
+      "start": 1157,
+      "end": 1184
+    },
+    {
+      "text": "ACAs, ACMs, ACPs",
+      "type": "ARTERIA",
+      "start": 1326,
+      "end": 1342
+    },
+    {
+      "text": "sin signos de infarto ni hemorragia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1717,
+      "end": 1752
+    },
+    {
+      "text": "bilateral",
+      "type": "LATERALIDAD",
+      "start": 627,
+      "end": 636
+    },
+    {
+      "text": "7-14 días",
+      "type": "MEDIDA",
+      "start": 1956,
+      "end": 1965
+    },
+    {
+      "text": "TC de cráneo basal sin contraste",
+      "type": "TECNICA_IMAGEN",
+      "start": 268,
+      "end": 300
+    },
+    {
+      "text": "angiografía por angioTC arterial intra y extracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 334,
+      "end": 387
+    }
+  ]
+}

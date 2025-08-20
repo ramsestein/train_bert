@@ -1,0 +1,65 @@
+{
+  "document_id": "informe_sintetico_20250804195045_08292",
+  "entities": [
+    {
+      "text": "ictus isquémico",
+      "type": "PATOLOGIA",
+      "start": 267,
+      "end": 282
+    },
+    {
+      "text": "arteria cerebral posterior",
+      "type": "ARTERIA",
+      "start": 300,
+      "end": 326
+    },
+    {
+      "text": "izquierdo",
+      "type": "LATERALIDAD",
+      "start": 206,
+      "end": 215
+    },
+    {
+      "text": "2 horas",
+      "type": "TEMPORALIDAD",
+      "start": 238,
+      "end": 245
+    },
+    {
+      "text": "Oclusión proximal subsegmento P2 derecho de arteria cerebral posterior",
+      "type": "PATOLOGIA",
+      "start": 1310,
+      "end": 1380
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 1073,
+      "end": 1080
+    },
+    {
+      "text": "Volumen cerebral (CBV) ligeramente reducido",
+      "type": "MEDIDA",
+      "start": 1156,
+      "end": 1199
+    },
+    {
+      "text": "No se detecta hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 596,
+      "end": 633
+    },
+    {
+      "text": "sin lesiones hipodensas agudas evidentes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 711,
+      "end": 751
+    },
+    {
+      "text": "sin signos de estenosis o embolias adicionales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1512,
+      "end": 1558
+    }
+  ]
+}

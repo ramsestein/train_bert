@@ -1,0 +1,95 @@
+{
+  "document_id": "informe_sintetico_20250804195045_23682",
+  "entities": [
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 504,
+      "end": 527
+    },
+    {
+      "text": "edema cerebral",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 531,
+      "end": 545
+    },
+    {
+      "text": "hipodensidades subcorticales periventriculares bilaterales",
+      "type": "PATOLOGIA",
+      "start": 704,
+      "end": 762
+    },
+    {
+      "text": "cambios crónicos isquémicos de pequeño vaso",
+      "type": "PATOLOGIA",
+      "start": 778,
+      "end": 821
+    },
+    {
+      "text": "atrofia cerebral leve",
+      "type": "PATOLOGIA",
+      "start": 884,
+      "end": 905
+    },
+    {
+      "text": "ASPECTS: 10/10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 976,
+      "end": 990
+    },
+    {
+      "text": "ACAs",
+      "type": "ARTERIA",
+      "start": 1304,
+      "end": 1308
+    },
+    {
+      "text": "ACMs",
+      "type": "ARTERIA",
+      "start": 1310,
+      "end": 1314
+    },
+    {
+      "text": "ACPs",
+      "type": "ARTERIA",
+      "start": 1316,
+      "end": 1320
+    },
+    {
+      "text": "carótidas internas cervicales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1502,
+      "end": 1531
+    },
+    {
+      "text": "ateromatosis crónica",
+      "type": "PATOLOGIA",
+      "start": 1548,
+      "end": 1568
+    },
+    {
+      "text": "hemorragia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 504,
+      "end": 514
+    },
+    {
+      "text": "infarto agudo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1636,
+      "end": 1649
+    },
+    {
+      "text": "estudio de perfusión",
+      "type": "TECNICA_IMAGEN",
+      "start": 380,
+      "end": 400
+    },
+    {
+      "text": "AngioTC cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 1785,
+      "end": 1801
+    }
+  ]
+}

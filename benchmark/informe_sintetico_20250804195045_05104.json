@@ -1,0 +1,137 @@
+{
+  "document_id": "informe_sintetico_20250804195045_05104",
+  "entities": [
+    {
+      "text": "hemiparesia izquierda",
+      "type": "PATOLOGIA",
+      "start": 217,
+      "end": 238
+    },
+    {
+      "text": "ictus isquémico agudo",
+      "type": "PATOLOGIA",
+      "start": 269,
+      "end": 290
+    },
+    {
+      "text": "hiperdensidad",
+      "type": "PATOLOGIA",
+      "start": 465,
+      "end": 478
+    },
+    {
+      "text": "trombo arterial",
+      "type": "PATOLOGIA",
+      "start": 550,
+      "end": 565
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 1105,
+      "end": 1119
+    },
+    {
+      "text": "segmento M1",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 522,
+      "end": 533
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "ARTERIA",
+      "start": 485,
+      "end": 515
+    },
+    {
+      "text": "ACM derecha",
+      "type": "ARTERIA",
+      "start": 647,
+      "end": 658
+    },
+    {
+      "text": "ASPECTS 7/10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 722,
+      "end": 734
+    },
+    {
+      "text": "Oclusión completa",
+      "type": "PATOLOGIA",
+      "start": 1187,
+      "end": 1204
+    },
+    {
+      "text": "segmento M1 de la arteria cerebral media derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1209,
+      "end": 1257
+    },
+    {
+      "text": "No hay signos de hemorragia intra ni extraaxial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 736,
+      "end": 783
+    },
+    {
+      "text": "No evidencia de hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1688,
+      "end": 1727
+    },
+    {
+      "text": "marcado descenso en el flujo cerebral",
+      "type": "PATOLOGIA",
+      "start": 899,
+      "end": 936
+    },
+    {
+      "text": "volumen cerebral",
+      "type": "MEDIDA",
+      "start": 945,
+      "end": 961
+    },
+    {
+      "text": "tiempo de tránsito",
+      "type": "MEDIDA",
+      "start": 1033,
+      "end": 1051
+    },
+    {
+      "text": "tiempo a pico",
+      "type": "MEDIDA",
+      "start": 1060,
+      "end": 1073
+    },
+    {
+      "text": "penumbra",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1142,
+      "end": 1150
+    },
+    {
+      "text": "Oclusión aguda",
+      "type": "TEMPORALIDAD",
+      "start": 1409,
+      "end": 1423
+    },
+    {
+      "text": "TC Basal cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 336,
+      "end": 353
+    },
+    {
+      "text": "TC Perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 355,
+      "end": 376
+    },
+    {
+      "text": "Angio-TC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 379,
+      "end": 409
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+UO_PACN (Unidad Organizativa Médica): RADIO
+
+PRUEB (Prueba solicitada): TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANG IOTC ARTERIAL INTRACRANEAL)
+
+CLIN (Resumen clínico): Paciente con cuadro súbito de debilidad bilateral y deterioro del estado de conciencia tras episodio prolongado de hipotensión arterial. Sospecha de infarto cerebral tipo watershed.
+
+OBSR (Protocolo): TC craneal basal urgente + estudio de perfusión cerebral + angiografía por TC de vasos intracraneales y extracraneales.
+
+RESL (Resultados):
+TC CRANEAL BASAL:
+No se identifican hemorragias intra o extraaxiales. Se observan áreas bilaterales, simétricas, difusas de hipodensidad cortical y subcortical en regiones fronto-parietales y parieto-occipitales, en territorio periventricular y en zonas de límite entre irrigación de las arterias cerebrales anterior y media, así como entre media y posterior, compatibles con lesiones isquémicas en zonas watershed. No hay efecto de masa significativo ni desviación de línea media. Diferenciación cortico-subcortical alterada en dichos territorios.
+
+TC PERFUSIÓN:
+Mapas de perfusión muestran prolongación de los tiempos de tránsito (TTP y Tmax) en las zonas watershed fronto-parieto-occipitales bilaterales. Volumen cerebral de flujo (CBF) disminuido moderadamente, con caída del volumen sanguíneo cerebral (CBV) levemente conservada, consistente con lesión isquémica en penumbra. No se observan grandes discrepancias que indiquen infarto establecido en otras áreas.
+
+ANGIO-TC INTRA Y EXTRACRANEAL:
+Sistema carotídeo y vertebrobasilar permeables sin evidencia de oclusiones ni estenosis importantes. Se identifican signos de ateromatosis leve no estenosante en bifurcación carotídea bilateral. No se visualizan trombos arteriales ni signos de disección. Vasos intracraneales de calibre y trayecto conservados.
+
+CONCL (Conclusiones): 
+Imágenes compatibles con infarto cerebral en áreas de watershed bilateral fronto-parietales y parieto-occipitales, probablemente secundario a un episodio prolongado de hipotensión arterial. No se identifican eventos trombóticos ni estenóticos arteriales relacionados. Perfusión acorde con isquemia en penumbra en dichas zonas. No hay signos de hemorragia ni compromiso de la línea media. Recomendación clínica y manejo hemodinámico urgente.
+
+ACTI_ADICI (Actividad adicional): 
+Se sugiere valoración neurológica inmediata y monitorización hemodinámica continua. Repetición de estudio de TC y perfusión en caso de cambios clínicos.
+
+ICON (Estudio): @TC_CODIGO_WATERSHED@
+
+X00DIATXT (Texto del diagnóstico ACR): Infarto cerebral tipo watershed bilateral por hipoperfusión prolongada sin evidencia de trombosis arterial.
+
+EST_T_DES (Descripción): TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANGIOTC ARTERIAL INTRACRANEAL)
+
+ZVASOS_D (Der.): Estudio excelente de la permeabilidad vascular con ausencia de trombosis o estenosis relevantes.

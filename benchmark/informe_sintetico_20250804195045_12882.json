@@ -1,0 +1,77 @@
+{
+  "document_id": "informe_sintetico_20250804195045_12882",
+  "entities": [
+    {
+      "text": "infartos isquémicos agudos",
+      "type": "PATOLOGIA",
+      "start": 581,
+      "end": 607
+    },
+    {
+      "text": "territorios vasculares frontales, parietales y occipitales bilaterales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 2234,
+      "end": 2304
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "ARTERIA",
+      "start": 1786,
+      "end": 1818
+    },
+    {
+      "text": "arteria cerebral anterior derecha",
+      "type": "ARTERIA",
+      "start": 1832,
+      "end": 1865
+    },
+    {
+      "text": "arteria carótida interna derecha",
+      "type": "ARTERIA",
+      "start": 1997,
+      "end": 2029
+    },
+    {
+      "text": "bilaterales",
+      "type": "LATERALIDAD",
+      "start": 2293,
+      "end": 2304
+    },
+    {
+      "text": "ASPECTS global reducido",
+      "type": "PUNTUACION_CLINICA",
+      "start": 905,
+      "end": 928
+    },
+    {
+      "text": "TC craneal basal urgente",
+      "type": "TECNICA_IMAGEN",
+      "start": 263,
+      "end": 287
+    },
+    {
+      "text": "No se visualiza hemorragia parenquimatosa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 810,
+      "end": 851
+    },
+    {
+      "text": "No se identifican signos de edema cerebral difuso significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1102,
+      "end": 1165
+    },
+    {
+      "text": "No se identifican aneurismas ni malformaciones vasculares",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2032,
+      "end": 2089
+    },
+    {
+      "text": "No se observan signos de hemorragia intracraneal ni edema cerebral masivo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2678,
+      "end": 2751
+    }
+  ]
+}

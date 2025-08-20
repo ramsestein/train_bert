@@ -1,0 +1,47 @@
+{
+  "document_id": "informe_sintetico_20250804195045_22084",
+  "entities": [
+    {
+      "text": "hemorragia subaracnoidea difusa",
+      "type": "PATOLOGIA",
+      "start": 633,
+      "end": 664
+    },
+    {
+      "text": "Fisher IV",
+      "type": "PUNTUACION_CLINICA",
+      "start": 666,
+      "end": 675
+    },
+    {
+      "text": "sin evidencia de isquemia aguda",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1240,
+      "end": 1271
+    },
+    {
+      "text": "aneurisma sacular de 6 mm",
+      "type": "PATOLOGIA",
+      "start": 1322,
+      "end": 1347
+    },
+    {
+      "text": "arteria comunicante anterior",
+      "type": "ARTERIA",
+      "start": 1354,
+      "end": 1382
+    },
+    {
+      "text": "bilateral",
+      "type": "LATERALIDAD",
+      "start": 1579,
+      "end": 1588
+    },
+    {
+      "text": "aneurisma sacular de arteria comunicante anterior",
+      "type": "PATOLOGIA",
+      "start": 2158,
+      "end": 2207
+    }
+  ]
+}

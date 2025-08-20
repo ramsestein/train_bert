@@ -1,0 +1,185 @@
+{
+  "document_id": "0000000010000000057250254_cleaned",
+  "entities": [
+    {
+      "text": "sangrado agudo intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 337,
+      "end": 364
+    },
+    {
+      "text": "territorios de ACM proximal",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 416,
+      "end": 443
+    },
+    {
+      "text": "Hipodensidad cuneiforme con pérdida de la diferenciación corticosubcortical parietal izquierda",
+      "type": "PATOLOGIA",
+      "start": 458,
+      "end": 552
+    },
+    {
+      "text": "defecto isquémico agudo",
+      "type": "PATOLOGIA",
+      "start": 565,
+      "end": 588
+    },
+    {
+      "text": "territorio superficial de ACMi",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 592,
+      "end": 622
+    },
+    {
+      "text": "signos de leucoencefalopatía microangiopática crónica en grado moderado",
+      "type": "PATOLOGIA",
+      "start": 693,
+      "end": 764
+    },
+    {
+      "text": "Sistema ventricular simétrico, de tamaño y morfología normal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 766,
+      "end": 826
+    },
+    {
+      "text": "Línea media centrada",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 828,
+      "end": 848
+    },
+    {
+      "text": "Cisternas basales no colapsadas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 850,
+      "end": 881
+    },
+    {
+      "text": "Retraso en mapas de tiempo (MTT, TTD) a nivel parieto-temporal izquierda",
+      "type": "PATOLOGIA",
+      "start": 897,
+      "end": 969
+    },
+    {
+      "text": "territorio de ACMi superficial",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 971,
+      "end": 1001
+    },
+    {
+      "text": "caída de flujo (CBFd) congruente con área de pérdida de volúmen",
+      "type": "PATOLOGIA",
+      "start": 1005,
+      "end": 1068
+    },
+    {
+      "text": "territorio parietal afectado",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1105,
+      "end": 1133
+    },
+    {
+      "text": "No hay missmatch significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1135,
+      "end": 1165
+    },
+    {
+      "text": "Arco aórtico y segmentos proximales de troncos supraórticos sin ateromatosis ni signos de estenosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1198,
+      "end": 1297
+    },
+    {
+      "text": "Origen, bifurcación y segmentos cervicales de arterias carótidas sin ateromatosis ni signos de estenosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1299,
+      "end": 1403
+    },
+    {
+      "text": "Segmentos intracavernoso y supraclinoideo de arterias carótidas internas sin ateromatosis ni signos de estenosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1405,
+      "end": 1517
+    },
+    {
+      "text": "Origen de las arterias vertebrales sin ateromatosis ni signos de estenosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1519,
+      "end": 1593
+    },
+    {
+      "text": "Cambio de calibre y defecto de repleción sugestivos de trombosis con distribución multifocal en segmento M2/M3 de ACMi",
+      "type": "PATOLOGIA",
+      "start": 1595,
+      "end": 1713
+    },
+    {
+      "text": "M2 proximal en rama pos-bifurcación y en rama cortical superficial del segmento M3",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1715,
+      "end": 1797
+    },
+    {
+      "text": "repermeabilización distal por adecuada colateralidad",
+      "type": "PATOLOGIA",
+      "start": 1813,
+      "end": 1865
+    },
+    {
+      "text": "Resto de principales arterias cerebrales intracraneales permeables (ACAs, ACMd y ACPs)",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1867,
+      "end": 1953
+    },
+    {
+      "text": "Sistema vertebrobasilar permeable",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1955,
+      "end": 1988
+    },
+    {
+      "text": "Ausencia de hemorragia intracraneal aguda",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2015,
+      "end": 2056
+    },
+    {
+      "text": "Hipodensidad con desdiferenciación corticosubcortical parietal izquierda sugestiva de isquemia en territorio superficial de ACMi",
+      "type": "PATOLOGIA",
+      "start": 2058,
+      "end": 2186
+    },
+    {
+      "text": "sin compromiso de territorio proximal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2188,
+      "end": 2225
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 445,
+      "end": 455
+    },
+    {
+      "text": "Foco de hipoaflujo parietotemporal izquierdo con traducción congruente en mapas de volumen a nivel parietal sugestivo de core isquémico",
+      "type": "PATOLOGIA",
+      "start": 2242,
+      "end": 2377
+    },
+    {
+      "text": "No hay missmatch significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1135,
+      "end": 1165
+    },
+    {
+      "text": "Oclusión de ACMi a nivel del segmento M2 proximal de ACMi pos- bifurcación y distalmente en rama cortical superficial del segmento M3i",
+      "type": "PATOLOGIA",
+      "start": 2414,
+      "end": 2548
+    }
+  ]
+}

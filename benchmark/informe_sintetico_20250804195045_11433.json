@@ -1,0 +1,83 @@
+{
+  "document_id": "informe_sintetico_20250804195045_11433",
+  "entities": [
+    {
+      "text": "infarto lacunar agudo",
+      "type": "PATOLOGIA",
+      "start": 672,
+      "end": 693
+    },
+    {
+      "text": "región cápsulo-lenticular izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 577,
+      "end": 612
+    },
+    {
+      "text": "cápsulo-lenticular izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 584,
+      "end": 612
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 603,
+      "end": 612
+    },
+    {
+      "text": "agudo",
+      "type": "TEMPORALIDAD",
+      "start": 688,
+      "end": 693
+    },
+    {
+      "text": "No se evidencia sangrado intracraneal ni lesiones ocupantes de espacio.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 394,
+      "end": 465
+    },
+    {
+      "text": "No otras anomalías isquémicas visibles.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 695,
+      "end": 734
+    },
+    {
+      "text": "No se detectan áreas de penumbra isquémica relevante.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1048,
+      "end": 1101
+    },
+    {
+      "text": "sin estenosis ni oclusiones significativas.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1171,
+      "end": 1214
+    },
+    {
+      "text": "sin compromiso de grandes vasos.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1470,
+      "end": 1502
+    },
+    {
+      "text": "disminución focal del volumen sanguíneo cerebral (CBV)",
+      "type": "PATOLOGIA",
+      "start": 839,
+      "end": 893
+    },
+    {
+      "text": "tiempo de tránsito medio (MTT)",
+      "type": "MEDIDA",
+      "start": 956,
+      "end": 986
+    },
+    {
+      "text": "sin afectación de flujo cerebral (CBF) ni perfusión global.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 988,
+      "end": 1047
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "document_id": "informe_sintetico_20250804195045_11056",
+  "entities": [
+    {
+      "text": "ictus isquémico agudo",
+      "type": "PATOLOGIA",
+      "start": 225,
+      "end": 246
+    },
+    {
+      "text": "arteria hiperdensa",
+      "type": "PATOLOGIA",
+      "start": 432,
+      "end": 450
+    },
+    {
+      "text": "trombosis arterial aguda",
+      "type": "PATOLOGIA",
+      "start": 516,
+      "end": 540
+    },
+    {
+      "text": "isquémica precoz",
+      "type": "PATOLOGIA",
+      "start": 724,
+      "end": 740
+    },
+    {
+      "text": "hemorragias intra o extraaxiales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 781,
+      "end": 813
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 469,
+      "end": 499
+    },
+    {
+      "text": "segmento M1 de arteria cerebral media derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 454,
+      "end": 499
+    },
+    {
+      "text": "ASPECTS 6",
+      "type": "PUNTUACION_CLINICA",
+      "start": 1853,
+      "end": 1862
+    },
+    {
+      "text": "flujo cerebral (CBF)",
+      "type": "MEDIDA",
+      "start": 1042,
+      "end": 1062
+    },
+    {
+      "text": "tiempo de tránsito medio (MTT)",
+      "type": "MEDIDA",
+      "start": 1137,
+      "end": 1167
+    },
+    {
+      "text": "tiempo hasta el pico (TTP)",
+      "type": "MEDIDA",
+      "start": 1170,
+      "end": 1196
+    },
+    {
+      "text": "oclusión completa del segmento M1 de arteria cerebral media derecha",
+      "type": "PATOLOGIA",
+      "start": 1324,
+      "end": 1391
+    },
+    {
+      "text": "sin signos de displasia ni disección arterial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1666,
+      "end": 1711
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 1772,
+      "end": 1786
+    },
+    {
+      "text": "ASPECTS 6",
+      "type": "PUNTUACION_CLINICA",
+      "start": 1853,
+      "end": 1862
+    },
+    {
+      "text": "sin evidencia de hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1894,
+      "end": 1934
+    },
+    {
+      "text": "segmento M1 derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 2072,
+      "end": 2091
+    },
+    {
+      "text": "angio-TC",
+      "type": "TECNICA_IMAGEN",
+      "start": 2095,
+      "end": 2103
+    },
+    {
+      "text": "TC craneal basal sin contraste",
+      "type": "TECNICA_IMAGEN",
+      "start": 267,
+      "end": 297
+    },
+    {
+      "text": "Angio-TC cerebral intra y extracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 300,
+      "end": 338
+    },
+    {
+      "text": "TC perfusión cerebral urgente",
+      "type": "TECNICA_IMAGEN",
+      "start": 341,
+      "end": 370
+    }
+  ]
+}

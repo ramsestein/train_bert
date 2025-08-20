@@ -1,0 +1,53 @@
+{
+  "document_id": "informe_sintetico_20250804195045_19933",
+  "entities": [
+    {
+      "text": "contusión hemorrágica",
+      "type": "PATOLOGIA",
+      "start": 567,
+      "end": 588
+    },
+    {
+      "text": "región frontoparietal derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 522,
+      "end": 551
+    },
+    {
+      "text": "18 x 12 x 15 mm",
+      "type": "MEDIDA",
+      "start": 608,
+      "end": 623
+    },
+    {
+      "text": "edema perilesional",
+      "type": "PATOLOGIA",
+      "start": 672,
+      "end": 690
+    },
+    {
+      "text": "efecto masa",
+      "type": "PATOLOGIA",
+      "start": 707,
+      "end": 718
+    },
+    {
+      "text": "ACAs, ACMs, ACPs",
+      "type": "ARTERIA",
+      "start": 1279,
+      "end": 1295
+    },
+    {
+      "text": "sin isquemia significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1577,
+      "end": 1603
+    },
+    {
+      "text": "sin alteraciones vasculares",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1636,
+      "end": 1663
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "document_id": "informe_sintetico_20250804195045_09646",
+  "entities": [
+    {
+      "text": "infarto isquémico",
+      "type": "PATOLOGIA",
+      "start": 670,
+      "end": 687
+    },
+    {
+      "text": "región frontoparietal izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 623,
+      "end": 654
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "ARTERIA",
+      "start": 1265,
+      "end": 1297
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 645,
+      "end": 654
+    },
+    {
+      "text": "PH1",
+      "type": "PUNTUACION_CLINICA",
+      "start": 840,
+      "end": 843
+    },
+    {
+      "text": "microhemorragias parenquimatosas",
+      "type": "PATOLOGIA",
+      "start": 849,
+      "end": 881
+    },
+    {
+      "text": "sin evidencias de oclusión arterial aguda",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1605,
+      "end": 1646
+    },
+    {
+      "text": "sin estenosis significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1724,
+      "end": 1751
+    },
+    {
+      "text": "mismatch reducido",
+      "type": "PATOLOGIA",
+      "start": 1436,
+      "end": 1453
+    }
+  ]
+}

@@ -1,0 +1,235 @@
+{
+  "document_id": "informe_sintetico_20250804195045_21566",
+  "entities": [
+    {
+      "text": "accidente cerebrovascular isquémico",
+      "type": "PATOLOGIA",
+      "start": 272,
+      "end": 307
+    },
+    {
+      "text": "dificultad para la marcha",
+      "type": "PATOLOGIA",
+      "start": 210,
+      "end": 235
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 533,
+      "end": 556
+    },
+    {
+      "text": "lesión ocupante de espacio",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 560,
+      "end": 586
+    },
+    {
+      "text": "hipodensidad",
+      "type": "PATOLOGIA",
+      "start": 604,
+      "end": 616
+    },
+    {
+      "text": "arteria cerebral anterior",
+      "type": "ARTERIA",
+      "start": 325,
+      "end": 350
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 697,
+      "end": 706
+    },
+    {
+      "text": "segmento medial del lóbulo frontal",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 732,
+      "end": 766
+    },
+    {
+      "text": "paracentral",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 769,
+      "end": 780
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 807,
+      "end": 821
+    },
+    {
+      "text": "tiempo de tránsito (TTP)",
+      "type": "TECNICA_IMAGEN",
+      "start": 853,
+      "end": 877
+    },
+    {
+      "text": "tiempo medio de tránsito (MTT)",
+      "type": "TECNICA_IMAGEN",
+      "start": 880,
+      "end": 910
+    },
+    {
+      "text": "territorio ACA izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 968,
+      "end": 992
+    },
+    {
+      "text": "flujo cerebral (CBF)",
+      "type": "PATOLOGIA",
+      "start": 1019,
+      "end": 1039
+    },
+    {
+      "text": "volumen cerebral (CBV)",
+      "type": "PATOLOGIA",
+      "start": 1068,
+      "end": 1090
+    },
+    {
+      "text": "penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1126,
+      "end": 1144
+    },
+    {
+      "text": "Angio-TC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 1147,
+      "end": 1177
+    },
+    {
+      "text": "oclusión",
+      "type": "PATOLOGIA",
+      "start": 2213,
+      "end": 2221
+    },
+    {
+      "text": "segmento proximal de la arteria cerebral anterior (A1)",
+      "type": "ARTERIA",
+      "start": 1191,
+      "end": 1245
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 697,
+      "end": 706
+    },
+    {
+      "text": "polígono de Willis",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1270,
+      "end": 1288
+    },
+    {
+      "text": "permeabilidad adecuada",
+      "type": "PATOLOGIA",
+      "start": 1298,
+      "end": 1320
+    },
+    {
+      "text": "estenosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1346,
+      "end": 1355
+    },
+    {
+      "text": "placas de ateroma significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1359,
+      "end": 1391
+    },
+    {
+      "text": "sin alteraciones",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1491,
+      "end": 1507
+    },
+    {
+      "text": "línea media",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1525,
+      "end": 1536
+    },
+    {
+      "text": "sin desplazamientos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1568,
+      "end": 1587
+    },
+    {
+      "text": "hidrocefalia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1591,
+      "end": 1603
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 807,
+      "end": 821
+    },
+    {
+      "text": "arteria cerebral anterior izquierda",
+      "type": "ARTERIA",
+      "start": 671,
+      "end": 706
+    },
+    {
+      "text": "Angio-TC intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 1852,
+      "end": 1873
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 533,
+      "end": 556
+    },
+    {
+      "text": "complicaciones secundarias",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1920,
+      "end": 1946
+    },
+    {
+      "text": "valoración neurológica urgente",
+      "type": "TEMPORALIDAD",
+      "start": 2005,
+      "end": 2035
+    },
+    {
+      "text": "posible tratamiento endovascular",
+      "type": "PATOLOGIA",
+      "start": 2041,
+      "end": 2073
+    },
+    {
+      "text": "territorio de arteria cerebral anterior izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1668,
+      "end": 1717
+    },
+    {
+      "text": "oclusión proximal",
+      "type": "PATOLOGIA",
+      "start": 2213,
+      "end": 2230
+    },
+    {
+      "text": "penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1126,
+      "end": 1144
+    }
+  ],
+  "regenerado": true,
+  "fecha_regeneracion": "2025-08-06T12:38:03.896101"
+}

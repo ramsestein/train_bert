@@ -1,0 +1,83 @@
+{
+  "document_id": "informe_sintetico_20250804195045_24968",
+  "entities": [
+    {
+      "text": "hematoma subdural agudo",
+      "type": "PATOLOGIA",
+      "start": 582,
+      "end": 605
+    },
+    {
+      "text": "localización frontotemporal izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 609,
+      "end": 646
+    },
+    {
+      "text": "12 mm",
+      "type": "MEDIDA",
+      "start": 691,
+      "end": 696
+    },
+    {
+      "text": "6 cm",
+      "type": "MEDIDA",
+      "start": 723,
+      "end": 727
+    },
+    {
+      "text": "5 mm",
+      "type": "MEDIDA",
+      "start": 857,
+      "end": 861
+    },
+    {
+      "text": "hemisferio izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1282,
+      "end": 1302
+    },
+    {
+      "text": "ACM",
+      "type": "ARTERIA",
+      "start": 1463,
+      "end": 1466
+    },
+    {
+      "text": "ACA",
+      "type": "ARTERIA",
+      "start": 1468,
+      "end": 1471
+    },
+    {
+      "text": "ACP",
+      "type": "ARTERIA",
+      "start": 1474,
+      "end": 1477
+    },
+    {
+      "text": "izquierdas",
+      "type": "LATERALIDAD",
+      "start": 1478,
+      "end": 1488
+    },
+    {
+      "text": "No se evidencian fracturas óseas visibles",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 863,
+      "end": 904
+    },
+    {
+      "text": "No se identifican aneurismas ni malformaciones vasculares",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1490,
+      "end": 1547
+    },
+    {
+      "text": "Sin evidencia de lesiones vasculares asociadas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2209,
+      "end": 2255
+    }
+  ]
+}

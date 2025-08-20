@@ -1,0 +1,53 @@
+{
+  "document_id": "informe_sintetico_20250804195045_16031",
+  "entities": [
+    {
+      "text": "isquemia precoz",
+      "type": "PATOLOGIA",
+      "start": 645,
+      "end": 660
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "ARTERIA",
+      "start": 489,
+      "end": 519
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 512,
+      "end": 519
+    },
+    {
+      "text": "ASPECTS 6",
+      "type": "PUNTUACION_CLINICA",
+      "start": 1724,
+      "end": 1733
+    },
+    {
+      "text": "No evidencia hemorragia intraparenquimatosa ni edema importante",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 760,
+      "end": 823
+    },
+    {
+      "text": "ACM derecha",
+      "type": "ARTERIA",
+      "start": 723,
+      "end": 734
+    },
+    {
+      "text": "ASPECTS 6",
+      "type": "PUNTUACION_CLINICA",
+      "start": 1724,
+      "end": 1733
+    },
+    {
+      "text": "No hemorragia ni edema importante en corte basal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1840,
+      "end": 1888
+    }
+  ]
+}

@@ -1,0 +1,221 @@
+{
+  "document_id": "informe_sintetico_20250804195045_00330",
+  "entities": [
+    {
+      "text": "ictus isquémico",
+      "type": "PATOLOGIA",
+      "start": 267,
+      "end": 282
+    },
+    {
+      "text": "hemiparesia derecha",
+      "type": "PATOLOGIA",
+      "start": 217,
+      "end": 236
+    },
+    {
+      "text": "afasia",
+      "type": "PATOLOGIA",
+      "start": 239,
+      "end": 245
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 303,
+      "end": 335
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 356,
+      "end": 372
+    },
+    {
+      "text": "hemorragias intra o extraaxiales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 653,
+      "end": 685
+    },
+    {
+      "text": "hipodensidad cortical",
+      "type": "PATOLOGIA",
+      "start": 709,
+      "end": 730
+    },
+    {
+      "text": "región frontoparietal izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 737,
+      "end": 768
+    },
+    {
+      "text": "territorio neocortical de la arteria cerebral media distal (M2/M3)",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 789,
+      "end": 855
+    },
+    {
+      "text": "ASPECTS 9",
+      "type": "PUNTUACION_CLINICA",
+      "start": 857,
+      "end": 866
+    },
+    {
+      "text": "edema cerebral",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 881,
+      "end": 895
+    },
+    {
+      "text": "desplazamiento de línea media",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 899,
+      "end": 928
+    },
+    {
+      "text": "Mapas de tiempo de tránsito (TTP)",
+      "type": "TECNICA_IMAGEN",
+      "start": 945,
+      "end": 978
+    },
+    {
+      "text": "prolongación focal",
+      "type": "PATOLOGIA",
+      "start": 988,
+      "end": 1006
+    },
+    {
+      "text": "división superior distal de ACM izquierda (M2/M3)",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1027,
+      "end": 1076
+    },
+    {
+      "text": "Imágenes de flujo cerebral (CBF)",
+      "type": "TECNICA_IMAGEN",
+      "start": 1078,
+      "end": 1110
+    },
+    {
+      "text": "volumen cerebral (CBV)",
+      "type": "TECNICA_IMAGEN",
+      "start": 445,
+      "end": 467
+    },
+    {
+      "text": "valores normales",
+      "type": "MEDIDA",
+      "start": 1146,
+      "end": 1162
+    },
+    {
+      "text": "penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1191,
+      "end": 1209
+    },
+    {
+      "text": "sin infarto establecido",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1210,
+      "end": 1233
+    },
+    {
+      "text": "Mismatch perfusión-difusión significativo",
+      "type": "PATOLOGIA",
+      "start": 1235,
+      "end": 1276
+    },
+    {
+      "text": "Oclusión focal",
+      "type": "PATOLOGIA",
+      "start": 1302,
+      "end": 1316
+    },
+    {
+      "text": "rama distal M2 izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1320,
+      "end": 1344
+    },
+    {
+      "text": "defecto parcial de repleción",
+      "type": "PATOLOGIA",
+      "start": 1349,
+      "end": 1377
+    },
+    {
+      "text": "arterias cerebrales intracraneales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1404,
+      "end": 1438
+    },
+    {
+      "text": "estenosis ni placas ateromatosas relevantes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1454,
+      "end": 1497
+    },
+    {
+      "text": "Sistema vertebrobasilar",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1499,
+      "end": 1522
+    },
+    {
+      "text": "sin alteraciones",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1523,
+      "end": 1539
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 1590,
+      "end": 1604
+    },
+    {
+      "text": "territorio distal de arteria cerebral media izquierda (M2/M3)",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1608,
+      "end": 1669
+    },
+    {
+      "text": "oclusión arterial focal confirmada",
+      "type": "PATOLOGIA",
+      "start": 1675,
+      "end": 1709
+    },
+    {
+      "text": "ASPECTS 9",
+      "type": "PUNTUACION_CLINICA",
+      "start": 857,
+      "end": 866
+    },
+    {
+      "text": "penumbra isquémica significativa",
+      "type": "PATOLOGIA",
+      "start": 1759,
+      "end": 1791
+    },
+    {
+      "text": "sin infarto establecido",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1210,
+      "end": 1233
+    },
+    {
+      "text": "hemorragia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 653,
+      "end": 663
+    },
+    {
+      "text": "edema cerebral",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 881,
+      "end": 895
+    }
+  ]
+}

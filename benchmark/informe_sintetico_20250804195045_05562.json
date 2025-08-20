@@ -1,0 +1,89 @@
+{
+  "document_id": "informe_sintetico_20250804195045_05562",
+  "entities": [
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 310,
+      "end": 324
+    },
+    {
+      "text": "territorio vertebrobasilar",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 328,
+      "end": 354
+    },
+    {
+      "text": "cerebelo izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 947,
+      "end": 965
+    },
+    {
+      "text": "tronco encefálico",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 968,
+      "end": 985
+    },
+    {
+      "text": "flujo cerebral (CBF)",
+      "type": "MEDIDA",
+      "start": 1014,
+      "end": 1034
+    },
+    {
+      "text": "volumen cerebral (CBV)",
+      "type": "MEDIDA",
+      "start": 1068,
+      "end": 1090
+    },
+    {
+      "text": "estenosis severa (>70%)",
+      "type": "PATOLOGIA",
+      "start": 1220,
+      "end": 1243
+    },
+    {
+      "text": "arteria vertebral izquierda",
+      "type": "ARTERIA",
+      "start": 1250,
+      "end": 1277
+    },
+    {
+      "text": "tronco basilar proximal",
+      "type": "ARTERIA",
+      "start": 1335,
+      "end": 1358
+    },
+    {
+      "text": "arterias cerebrales anteriores, medias y posteriores",
+      "type": "ARTERIA",
+      "start": 1425,
+      "end": 1477
+    },
+    {
+      "text": "sin estenosis significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1503,
+      "end": 1531
+    },
+    {
+      "text": "sin evidencia de hemorragia ni infarto establecido",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1648,
+      "end": 1698
+    },
+    {
+      "text": "estenosis severa en arteria vertebral izquierda",
+      "type": "PATOLOGIA",
+      "start": 1870,
+      "end": 1917
+    },
+    {
+      "text": "compromiso hemodinámico de tronco basilar",
+      "type": "PATOLOGIA",
+      "start": 2157,
+      "end": 2198
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "document_id": "informe_sintetico_20250804195045_07396",
+  "entities": [
+    {
+      "text": "infarto cerebral hemisférico izquierdo",
+      "type": "PATOLOGIA",
+      "start": 200,
+      "end": 238
+    },
+    {
+      "text": "infarto cerebral establecido",
+      "type": "PATOLOGIA",
+      "start": 618,
+      "end": 646
+    },
+    {
+      "text": "arteria cerebral media",
+      "type": "ARTERIA",
+      "start": 580,
+      "end": 602
+    },
+    {
+      "text": "izquierdo",
+      "type": "LATERALIDAD",
+      "start": 229,
+      "end": 238
+    },
+    {
+      "text": "30 mm",
+      "type": "MEDIDA",
+      "start": 875,
+      "end": 880
+    },
+    {
+      "text": "HI2",
+      "type": "PUNTUACION_CLINICA",
+      "start": 964,
+      "end": 967
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 366,
+      "end": 382
+    },
+    {
+      "text": "discreto aumento del volumen sanguíneo cerebral (CBV)",
+      "type": "PATOLOGIA",
+      "start": 1211,
+      "end": 1264
+    },
+    {
+      "text": "tiempo de tránsito medio (MTT)",
+      "type": "MEDIDA",
+      "start": 1318,
+      "end": 1348
+    },
+    {
+      "text": "tiempo hasta el máximo (Tmax)",
+      "type": "MEDIDA",
+      "start": 1351,
+      "end": 1380
+    },
+    {
+      "text": "izquierdo",
+      "type": "LATERALIDAD",
+      "start": 229,
+      "end": 238
+    },
+    {
+      "text": "permeabilidad parcial del segmento M1 de la arteria cerebral media izquierda",
+      "type": "PATOLOGIA",
+      "start": 1570,
+      "end": 1646
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 1637,
+      "end": 1646
+    },
+    {
+      "text": "sin signos de estenosis significativas ni oclusión",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1789,
+      "end": 1839
+    }
+  ]
+}

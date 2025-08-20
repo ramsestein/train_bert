@@ -1,0 +1,65 @@
+{
+  "document_id": "informe_sintetico_20250804195045_17229",
+  "entities": [
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 808,
+      "end": 822
+    },
+    {
+      "text": "territorio de arteria cerebral posterior derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 283,
+      "end": 331
+    },
+    {
+      "text": "ASPECTS modificada para ACP: 8/10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 824,
+      "end": 857
+    },
+    {
+      "text": "Oclusión parcial del segmento P2 de arteria cerebral posterior derecha",
+      "type": "PATOLOGIA",
+      "start": 1383,
+      "end": 1453
+    },
+    {
+      "text": "arteria cerebral posterior derecha",
+      "type": "ARTERIA",
+      "start": 297,
+      "end": 331
+    },
+    {
+      "text": "Oclusión segmentaria en P2 de ACP derecha",
+      "type": "PATOLOGIA",
+      "start": 1946,
+      "end": 1987
+    },
+    {
+      "text": "No se identifican colecciones hemorrágicas intraparenquimatosas ni extraaxiales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 497,
+      "end": 576
+    },
+    {
+      "text": "No hemorragia intraparenquimatosa ni signos de herniación",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1989,
+      "end": 2046
+    },
+    {
+      "text": "TC craneal basal urgente",
+      "type": "TECNICA_IMAGEN",
+      "start": 352,
+      "end": 376
+    },
+    {
+      "text": "angio-TC intra y extracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 410,
+      "end": 439
+    }
+  ]
+}

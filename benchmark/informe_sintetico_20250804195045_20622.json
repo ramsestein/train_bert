@@ -1,0 +1,95 @@
+{
+  "document_id": "informe_sintetico_20250804195045_20622",
+  "entities": [
+    {
+      "text": "infarto isquémico",
+      "type": "PATOLOGIA",
+      "start": 709,
+      "end": 726
+    },
+    {
+      "text": "transformación hemorrágica tipo PH1",
+      "type": "PATOLOGIA",
+      "start": 833,
+      "end": 868
+    },
+    {
+      "text": "hematomas intra o extraaxiales extensos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 951,
+      "end": 990
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 660,
+      "end": 692
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 660,
+      "end": 692
+    },
+    {
+      "text": "disminución del flujo cerebral (CBF)",
+      "type": "PATOLOGIA",
+      "start": 1198,
+      "end": 1234
+    },
+    {
+      "text": "sin signos de disección ni trombosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1772,
+      "end": 1808
+    },
+    {
+      "text": "aguda",
+      "type": "TEMPORALIDAD",
+      "start": 1906,
+      "end": 1911
+    },
+    {
+      "text": "3 horas",
+      "type": "MEDIDA",
+      "start": 325,
+      "end": 332
+    },
+    {
+      "text": "sin estenosis significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1505,
+      "end": 1532
+    },
+    {
+      "text": "reducción de calibre",
+      "type": "PATOLOGIA",
+      "start": 1604,
+      "end": 1624
+    },
+    {
+      "text": "signos de tejido viable",
+      "type": "PATOLOGIA",
+      "start": 2118,
+      "end": 2141
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 366,
+      "end": 382
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 384,
+      "end": 405
+    },
+    {
+      "text": "angio TC arterial intra y extracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 408,
+      "end": 446
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+UO_PACN (Unidad Organizativa Médica): RADIO
+
+PRUEB (Prueba solicitada): TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANG IOTC ARTERIAL INTRACRANEAL)
+
+CLIN (Resumen clínico): Varón de 72 años con historia de caída reciente y deterioro neurológico progresivo. Presenta cuadro de ataxia y vómitos. Se solicita estudio para descartar lesión hemorrágica intracraneal.
+
+OBSR (Protocolo): TC craneal basal con adquisición de cortes finos infratentoriales, perfusión cerebral y angioTC intracraneal de vasos principales.
+
+RESL (Resultados): Se observa hematoma hiperdenso en hemisferio cerebeloso derecho de aproximadamente 3.8 cm x 3.1 cm x 2.9 cm (AP x LL x CC), con volumen estimado de 17 cc. El hematoma produce compresión significativa del cuarto ventrículo con desplazamiento posterior y evidente hidrocefalia obstructiva ventricular con dilatación de ventrículo lateral y tercer ventrículo. Presencia de edema perilesional en la sustancia blanca cerebelosa adyacente. No se identifican vasos oclusos en el territorio posterior en la angioTC. La perfusión cerebral muestra hipoperfusión regional en el área del cerebelo derecho, compatible con lesión asociada a hematoma.
+
+CONCL (Conclusiones): Hematoma cerebeloso derecho de mediano tamaño con compresión obstructiva del cuarto ventrículo, hidrocefalia secundaria y edema perilesional. Se recomienda valoración neuroquirúrgica urgente y monitorización estrecha.
+
+ACTI_ADICI (Actividad adicional): Seguimiento control con TC de cráneo en 24-48 horas para evaluación evolución hematoma e hidrocefalia.
+
+ICON (Estudio): @RADIO_TC_IC@
+
+X00DIATXT (Texto del diagnóstico ACR): Hematoma intracerebeloso con efecto de masa y obstrucción ventricular. Ausencia de oclusión arterial significativa intracraneal. Hidrocefalia obstructiva.
+
+EST_T_DES (Descripción): TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANGIOTC ARTERIAL INTRACRANEAL)
+
+ZVASOS_D (Der.): No se evidencian estenosis ni oclusiones de vasos principales intracraneales.

@@ -1,0 +1,89 @@
+{
+  "document_id": "0000000010000000058218893_cleaned",
+  "entities": [
+    {
+      "text": "HSA",
+      "type": "PATOLOGIA",
+      "start": 166,
+      "end": 169
+    },
+    {
+      "text": "TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANG IOTC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 72,
+      "end": 140
+    },
+    {
+      "text": "TC CODIGO ICTUS (CRÁNEO BASAL + PERFUSIÓN CEREBRAL + ANGIO TC DE TSA E INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 189,
+      "end": 273
+    },
+    {
+      "text": "hipodensidad peritrayecto",
+      "type": "PATOLOGIA",
+      "start": 545,
+      "end": 570
+    },
+    {
+      "text": "edema cerebral",
+      "type": "PATOLOGIA",
+      "start": 594,
+      "end": 608
+    },
+    {
+      "text": "asta anterior de VLD",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 626,
+      "end": 646
+    },
+    {
+      "text": "clipaje de aneurisma en ACMi",
+      "type": "PATOLOGIA",
+      "start": 709,
+      "end": 737
+    },
+    {
+      "text": "disminución de la HSA ya conocida",
+      "type": "PATOLOGIA",
+      "start": 1424,
+      "end": 1457
+    },
+    {
+      "text": "contaminación ventricular",
+      "type": "PATOLOGIA",
+      "start": 852,
+      "end": 877
+    },
+    {
+      "text": "cambios evolutivos",
+      "type": "TEMPORALIDAD",
+      "start": 883,
+      "end": 901
+    },
+    {
+      "text": "clipaje del aneurisma en ACMi",
+      "type": "PATOLOGIA",
+      "start": 1274,
+      "end": 1303
+    },
+    {
+      "text": "sin cambios evidentes en relación a la angio-TC del xx/xx/xxxx",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1305,
+      "end": 1367
+    },
+    {
+      "text": "clipaje del aneurisma en ACMi",
+      "type": "PATOLOGIA",
+      "start": 1274,
+      "end": 1303
+    },
+    {
+      "text": "no hay cambios concluyentes en relación a la angio-TC del xx/xx/xxxx",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1717,
+      "end": 1785
+    }
+  ]
+}

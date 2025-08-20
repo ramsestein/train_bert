@@ -1,0 +1,77 @@
+{
+  "document_id": "0000000010000000058469731_cleaned",
+  "entities": [
+    {
+      "text": "Infart cerebral causat per oclusió o estenosi no especificades d'artèria cerebral no especificada",
+      "type": "PATOLOGIA",
+      "start": 166,
+      "end": 263
+    },
+    {
+      "text": "ASPECTS M1, M2, M4, M5, M6, ínsula y N. caudado derechos",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 488,
+      "end": 544
+    },
+    {
+      "text": "ACA frontal derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 577,
+      "end": 596
+    },
+    {
+      "text": "ACA",
+      "type": "ARTERIA",
+      "start": 577,
+      "end": 580
+    },
+    {
+      "text": "ACM",
+      "type": "ARTERIA",
+      "start": 972,
+      "end": 975
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 589,
+      "end": 596
+    },
+    {
+      "text": "30%",
+      "type": "MEDIDA",
+      "start": 1011,
+      "end": 1014
+    },
+    {
+      "text": "Oclusión total de la luz de TICA derecha en segmento supraclinoideo",
+      "type": "PATOLOGIA",
+      "start": 1047,
+      "end": 1114
+    },
+    {
+      "text": "ASPECTS 3",
+      "type": "PUNTUACION_CLINICA",
+      "start": 546,
+      "end": 555
+    },
+    {
+      "text": "No se observan signos de hemorragia aguda intra/extracraneal.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 364,
+      "end": 425
+    },
+    {
+      "text": "No hay hemorragia intracraneal.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1746,
+      "end": 1777
+    },
+    {
+      "text": "TC craneal basal + angio-TC + TC perfusión",
+      "type": "TECNICA_IMAGEN",
+      "start": 283,
+      "end": 325
+    }
+  ]
+}

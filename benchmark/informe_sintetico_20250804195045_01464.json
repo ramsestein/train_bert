@@ -1,0 +1,233 @@
+{
+  "document_id": "informe_sintetico_20250804195045_01464",
+  "entities": [
+    {
+      "text": "hipertensión arterial refractaria",
+      "type": "PATOLOGIA",
+      "start": 179,
+      "end": 212
+    },
+    {
+      "text": "cefalea intensa de reciente aparición",
+      "type": "PATOLOGIA",
+      "start": 215,
+      "end": 252
+    },
+    {
+      "text": "diplopía",
+      "type": "PATOLOGIA",
+      "start": 265,
+      "end": 273
+    },
+    {
+      "text": "alteración de estado mental",
+      "type": "PATOLOGIA",
+      "start": 276,
+      "end": 303
+    },
+    {
+      "text": "hipodensidad",
+      "type": "PATOLOGIA",
+      "start": 514,
+      "end": 526
+    },
+    {
+      "text": "sustancia blanca parietooccipital bilateral",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 530,
+      "end": 573
+    },
+    {
+      "text": "infarto agudo",
+      "type": "PATOLOGIA",
+      "start": 658,
+      "end": 671
+    },
+    {
+      "text": "hemorragias",
+      "type": "PATOLOGIA",
+      "start": 675,
+      "end": 686
+    },
+    {
+      "text": "cisternas basales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 692,
+      "end": 709
+    },
+    {
+      "text": "surcos corticales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 712,
+      "end": 729
+    },
+    {
+      "text": "línea media centrada",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 753,
+      "end": 773
+    },
+    {
+      "text": "sistema ventricular",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 776,
+      "end": 795
+    },
+    {
+      "text": "tiempo de tránsito medio (TTP)",
+      "type": "MEDIDA",
+      "start": 900,
+      "end": 930
+    },
+    {
+      "text": "regiones occipitales bilaterales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 934,
+      "end": 966
+    },
+    {
+      "text": "volumen sanguíneo cerebral (CBV)",
+      "type": "MEDIDA",
+      "start": 999,
+      "end": 1031
+    },
+    {
+      "text": "flujo sanguíneo cerebral (CBF)",
+      "type": "MEDIDA",
+      "start": 1039,
+      "end": 1069
+    },
+    {
+      "text": "edema vasogénico",
+      "type": "PATOLOGIA",
+      "start": 1086,
+      "end": 1102
+    },
+    {
+      "text": "estenosis",
+      "type": "PATOLOGIA",
+      "start": 1155,
+      "end": 1164
+    },
+    {
+      "text": "oclusiones",
+      "type": "PATOLOGIA",
+      "start": 1168,
+      "end": 1178
+    },
+    {
+      "text": "arterias cerebrales anteriores",
+      "type": "ARTERIA",
+      "start": 1230,
+      "end": 1260
+    },
+    {
+      "text": "vasculitis",
+      "type": "PATOLOGIA",
+      "start": 1352,
+      "end": 1362
+    },
+    {
+      "text": "trombosis",
+      "type": "PATOLOGIA",
+      "start": 1365,
+      "end": 1374
+    },
+    {
+      "text": "leucoencefalopatía posterior reversible (PRES)",
+      "type": "PATOLOGIA",
+      "start": 1427,
+      "end": 1473
+    },
+    {
+      "text": "lesiones hemorrágicas",
+      "type": "PATOLOGIA",
+      "start": 1551,
+      "end": 1572
+    },
+    {
+      "text": "infartos agudos",
+      "type": "PATOLOGIA",
+      "start": 1576,
+      "end": 1591
+    },
+    {
+      "text": "obstrucción",
+      "type": "PATOLOGIA",
+      "start": 1643,
+      "end": 1654
+    },
+    {
+      "text": "seguimiento clínico",
+      "type": "PATOLOGIA",
+      "start": 1729,
+      "end": 1748
+    },
+    {
+      "text": "control de presión arterial",
+      "type": "PATOLOGIA",
+      "start": 1751,
+      "end": 1778
+    },
+    {
+      "text": "evaluación radiológica de control posterior",
+      "type": "PATOLOGIA",
+      "start": 1784,
+      "end": 1827
+    },
+    {
+      "text": "resolución de las alteraciones",
+      "type": "PATOLOGIA",
+      "start": 1843,
+      "end": 1873
+    },
+    {
+      "text": "TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANG IOTC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 72,
+      "end": 140
+    },
+    {
+      "text": "TC craneal basal urgente",
+      "type": "TECNICA_IMAGEN",
+      "start": 324,
+      "end": 348
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 351,
+      "end": 372
+    },
+    {
+      "text": "estudio angiográfico intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 375,
+      "end": 408
+    },
+    {
+      "text": "troncos supraaórticos",
+      "type": "TECNICA_IMAGEN",
+      "start": 414,
+      "end": 435
+    },
+    {
+      "text": "No se observan signos de infarto agudo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 633,
+      "end": 671
+    },
+    {
+      "text": "No se evidencian estenosis ni oclusiones",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1138,
+      "end": 1178
+    },
+    {
+      "text": "No se evidencian lesiones hemorrágicas ni infartos agudos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1534,
+      "end": 1591
+    }
+  ]
+}

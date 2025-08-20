@@ -1,0 +1,77 @@
+{
+  "document_id": "informe_sintetico_20250804195045_22418",
+  "entities": [
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 253,
+      "end": 267
+    },
+    {
+      "text": "tronco cerebral",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 674,
+      "end": 689
+    },
+    {
+      "text": "cerebelo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 660,
+      "end": 668
+    },
+    {
+      "text": "bilateral",
+      "type": "LATERALIDAD",
+      "start": 1001,
+      "end": 1010
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 569,
+      "end": 579
+    },
+    {
+      "text": "arteria basilar proximal",
+      "type": "ARTERIA",
+      "start": 1268,
+      "end": 1292
+    },
+    {
+      "text": "arteria vertebral derecha",
+      "type": "ARTERIA",
+      "start": 1359,
+      "end": 1384
+    },
+    {
+      "text": "arteria vertebral izquierda",
+      "type": "ARTERIA",
+      "start": 1426,
+      "end": 1453
+    },
+    {
+      "text": "estenosis severa",
+      "type": "PATOLOGIA",
+      "start": 1392,
+      "end": 1408
+    },
+    {
+      "text": "No se identifican hemorragias agudas intra ni extraaxiales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 449,
+      "end": 507
+    },
+    {
+      "text": "No se identifican otras estenosis arteriales significativas en territorio carotídeo o intracraneal anterior",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1498,
+      "end": 1605
+    },
+    {
+      "text": "No hemorragia intracraneal aguda",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1632,
+      "end": 1664
+    }
+  ]
+}

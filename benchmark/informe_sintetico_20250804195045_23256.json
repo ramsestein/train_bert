@@ -1,0 +1,83 @@
+{
+  "document_id": "informe_sintetico_20250804195045_23256",
+  "entities": [
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 239,
+      "end": 253
+    },
+    {
+      "text": "arteria cerebral posterior izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 271,
+      "end": 307
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 328,
+      "end": 344
+    },
+    {
+      "text": "TC PERFUSIÓN",
+      "type": "TECNICA_IMAGEN",
+      "start": 898,
+      "end": 910
+    },
+    {
+      "text": "arteria cerebral posterior izquierda",
+      "type": "ARTERIA",
+      "start": 271,
+      "end": 307
+    },
+    {
+      "text": "P2",
+      "type": "ARTERIA",
+      "start": 1388,
+      "end": 1390
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 298,
+      "end": 307
+    },
+    {
+      "text": "No se evidencian hemorragias ni infartos establecidos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1876,
+      "end": 1929
+    },
+    {
+      "text": "reducción del flujo cerebral sanguíneo",
+      "type": "PATOLOGIA",
+      "start": 1076,
+      "end": 1114
+    },
+    {
+      "text": "aumento del volumen cerebral sanguíneo",
+      "type": "PATOLOGIA",
+      "start": 1123,
+      "end": 1161
+    },
+    {
+      "text": "edema citotóxico precoz",
+      "type": "PATOLOGIA",
+      "start": 552,
+      "end": 575
+    },
+    {
+      "text": "Oclusión subtotal del segmento P2",
+      "type": "PATOLOGIA",
+      "start": 1357,
+      "end": 1390
+    },
+    {
+      "text": "sin evidencias de estenosis significativas ni placas ateromatosas calcificadas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1495,
+      "end": 1573
+    }
+  ]
+}

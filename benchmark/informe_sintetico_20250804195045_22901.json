@@ -1,0 +1,143 @@
+{
+  "document_id": "informe_sintetico_20250804195045_22901",
+  "entities": [
+    {
+      "text": "hemorragias intracraneales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 475,
+      "end": 501
+    },
+    {
+      "text": "hematomas subaracnoideos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 505,
+      "end": 529
+    },
+    {
+      "text": "edema focal",
+      "type": "PATOLOGIA",
+      "start": 536,
+      "end": 547
+    },
+    {
+      "text": "región parasagital derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 551,
+      "end": 577
+    },
+    {
+      "text": "infartos isquémicos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 640,
+      "end": 659
+    },
+    {
+      "text": "desplazamiento de la línea media",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 685,
+      "end": 717
+    },
+    {
+      "text": "signos de herniación",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 721,
+      "end": 741
+    },
+    {
+      "text": "tiempo de tránsito medio (MTT)",
+      "type": "MEDIDA",
+      "start": 790,
+      "end": 820
+    },
+    {
+      "text": "flujo sanguíneo cerebral (CBF)",
+      "type": "MEDIDA",
+      "start": 837,
+      "end": 867
+    },
+    {
+      "text": "volumen cerebral (CBV)",
+      "type": "MEDIDA",
+      "start": 916,
+      "end": 938
+    },
+    {
+      "text": "segmento anterior y medio",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1307,
+      "end": 1332
+    },
+    {
+      "text": "ausencia de contraste",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1338,
+      "end": 1359
+    },
+    {
+      "text": "circulación venosa colateral compensatoria",
+      "type": "PATOLOGIA",
+      "start": 1448,
+      "end": 1490
+    },
+    {
+      "text": "trombos en venas cerebrales profundas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1558,
+      "end": 1595
+    },
+    {
+      "text": "Trombosis venosa cerebral",
+      "type": "PATOLOGIA",
+      "start": 1622,
+      "end": 1647
+    },
+    {
+      "text": "seno longitudinal superior",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1652,
+      "end": 1678
+    },
+    {
+      "text": "signos secundarios de congestión y edema cerebral derecho",
+      "type": "PATOLOGIA",
+      "start": 1717,
+      "end": 1774
+    },
+    {
+      "text": "complicaciones hemorrágicas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1779,
+      "end": 1806
+    },
+    {
+      "text": "TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANGIOTC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 2210,
+      "end": 2277
+    },
+    {
+      "text": "TC craneal simple",
+      "type": "TECNICA_IMAGEN",
+      "start": 333,
+      "end": 350
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 353,
+      "end": 374
+    },
+    {
+      "text": "Angio-TC venosa intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 377,
+      "end": 405
+    },
+    {
+      "text": "Angio-TC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 1036,
+      "end": 1066
+    }
+  ]
+}

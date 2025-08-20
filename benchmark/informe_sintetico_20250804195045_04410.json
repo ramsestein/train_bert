@@ -1,0 +1,83 @@
+{
+  "document_id": "informe_sintetico_20250804195045_04410",
+  "entities": [
+    {
+      "text": "hemorragia intraventricular",
+      "type": "PATOLOGIA",
+      "start": 405,
+      "end": 432
+    },
+    {
+      "text": "ventrículos laterales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 464,
+      "end": 485
+    },
+    {
+      "text": "tercera y cuarto ventrículo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 487,
+      "end": 514
+    },
+    {
+      "text": "hidrocefalia obstructiva inicial",
+      "type": "PATOLOGIA",
+      "start": 572,
+      "end": 604
+    },
+    {
+      "text": "hemorragias intraaxiales parenquimatosas significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 621,
+      "end": 676
+    },
+    {
+      "text": "hematomas focales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 680,
+      "end": 697
+    },
+    {
+      "text": "signos de herniación",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 870,
+      "end": 890
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1116,
+      "end": 1130
+    },
+    {
+      "text": "hemorragia parenquimatosa asociada",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1669,
+      "end": 1703
+    },
+    {
+      "text": "isquemia cerebral asociada",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2068,
+      "end": 2094
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 262,
+      "end": 278
+    },
+    {
+      "text": "angio-TC intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 295,
+      "end": 316
+    },
+    {
+      "text": "TC perfusión cerebral urgente",
+      "type": "TECNICA_IMAGEN",
+      "start": 319,
+      "end": 348
+    }
+  ]
+}

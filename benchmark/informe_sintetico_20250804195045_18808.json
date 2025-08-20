@@ -1,0 +1,101 @@
+{
+  "document_id": "informe_sintetico_20250804195045_18808",
+  "entities": [
+    {
+      "text": "ictus isquémico",
+      "type": "PATOLOGIA",
+      "start": 261,
+      "end": 276
+    },
+    {
+      "text": "hemicuerpo derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 203,
+      "end": 221
+    },
+    {
+      "text": "ASPECTS 9",
+      "type": "PUNTUACION_CLINICA",
+      "start": 625,
+      "end": 634
+    },
+    {
+      "text": "arteria cerebral media (ACM) izquierda",
+      "type": "ARTERIA",
+      "start": 691,
+      "end": 729
+    },
+    {
+      "text": "M2/M3",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 762,
+      "end": 767
+    },
+    {
+      "text": "territorio distal de la arteria cerebral media izquierda (segmentos M2/M3)",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1574,
+      "end": 1648
+    },
+    {
+      "text": "ASPECTS 9",
+      "type": "PUNTUACION_CLINICA",
+      "start": 625,
+      "end": 634
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 321,
+      "end": 337
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 339,
+      "end": 360
+    },
+    {
+      "text": "angio-TC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 363,
+      "end": 393
+    },
+    {
+      "text": "discreta hipodensidad",
+      "type": "PATOLOGIA",
+      "start": 640,
+      "end": 661
+    },
+    {
+      "text": "aumento en segmentos corticales",
+      "type": "PATOLOGIA",
+      "start": 993,
+      "end": 1024
+    },
+    {
+      "text": "disminución leve de volumen cerebral de sangre (CBV)",
+      "type": "PATOLOGIA",
+      "start": 1076,
+      "end": 1128
+    },
+    {
+      "text": "reducción moderada del flujo cerebral de sangre (CBF)",
+      "type": "PATOLOGIA",
+      "start": 1131,
+      "end": 1184
+    },
+    {
+      "text": "sin estenosis significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1421,
+      "end": 1448
+    },
+    {
+      "text": "sin infarto establecido amplio",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1712,
+      "end": 1742
+    }
+  ]
+}

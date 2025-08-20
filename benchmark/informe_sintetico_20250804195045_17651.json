@@ -1,0 +1,83 @@
+{
+  "document_id": "informe_sintetico_20250804195045_17651",
+  "entities": [
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 264,
+      "end": 278
+    },
+    {
+      "text": "arteria cerebral posterior",
+      "type": "ARTERIA",
+      "start": 296,
+      "end": 322
+    },
+    {
+      "text": "2 horas",
+      "type": "TEMPORALIDAD",
+      "start": 222,
+      "end": 229
+    },
+    {
+      "text": "hipodensidad cortical y subcortical",
+      "type": "PATOLOGIA",
+      "start": 548,
+      "end": 583
+    },
+    {
+      "text": "región occipital derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 590,
+      "end": 614
+    },
+    {
+      "text": "ASPECTS en territorio vascular posterior: 7/10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 827,
+      "end": 873
+    },
+    {
+      "text": "región occipital derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 590,
+      "end": 614
+    },
+    {
+      "text": "penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1127,
+      "end": 1145
+    },
+    {
+      "text": "Oclusión segmentaria distal de la arteria cerebral posterior derecha (segmento P2)",
+      "type": "PATOLOGIA",
+      "start": 1219,
+      "end": 1301
+    },
+    {
+      "text": "arterias comunicantes y demás vasos intracraneales principales (ACM, ACA, ACP contralateral)",
+      "type": "ARTERIA",
+      "start": 1331,
+      "end": 1423
+    },
+    {
+      "text": "No se identifican signos de hemorragia intra o extraaxial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 478,
+      "end": 535
+    },
+    {
+      "text": "No se evidencian focos hemorrágicos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1147,
+      "end": 1182
+    },
+    {
+      "text": "No signos de hemorragia intracraneal ni alteraciones adicionales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1768,
+      "end": 1832
+    }
+  ]
+}

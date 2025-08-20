@@ -1,0 +1,101 @@
+{
+  "document_id": "informe_sintetico_20250804195045_14021",
+  "entities": [
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 533,
+      "end": 547
+    },
+    {
+      "text": "región frontoparietal izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 488,
+      "end": 519
+    },
+    {
+      "text": "arteria cerebral media (ACM) izquierda",
+      "type": "ARTERIA",
+      "start": 625,
+      "end": 663
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 510,
+      "end": 519
+    },
+    {
+      "text": "ASPECTS 6",
+      "type": "PUNTUACION_CLINICA",
+      "start": 665,
+      "end": 674
+    },
+    {
+      "text": "2 mm",
+      "type": "MEDIDA",
+      "start": 906,
+      "end": 910
+    },
+    {
+      "text": "segmento proximal M1",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1070,
+      "end": 1090
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "ARTERIA",
+      "start": 1097,
+      "end": 1129
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 510,
+      "end": 519
+    },
+    {
+      "text": "FSC",
+      "type": "MEDIDA",
+      "start": 1403,
+      "end": 1406
+    },
+    {
+      "text": "VSC",
+      "type": "MEDIDA",
+      "start": 1438,
+      "end": 1441
+    },
+    {
+      "text": "ACM izquierda",
+      "type": "ARTERIA",
+      "start": 833,
+      "end": 846
+    },
+    {
+      "text": "isquémica",
+      "type": "PATOLOGIA",
+      "start": 1510,
+      "end": 1519
+    },
+    {
+      "text": "ASPECTS 6",
+      "type": "PUNTUACION_CLINICA",
+      "start": 665,
+      "end": 674
+    },
+    {
+      "text": "hemorragias",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1761,
+      "end": 1772
+    },
+    {
+      "text": "signos de herniación",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1776,
+      "end": 1796
+    }
+  ]
+}

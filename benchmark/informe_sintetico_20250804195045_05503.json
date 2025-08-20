@@ -1,0 +1,83 @@
+{
+  "document_id": "informe_sintetico_20250804195045_05503",
+  "entities": [
+    {
+      "text": "hemorragia aguda",
+      "type": "PATOLOGIA",
+      "start": 474,
+      "end": 490
+    },
+    {
+      "text": "ASPECTS 10/10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 564,
+      "end": 577
+    },
+    {
+      "text": "hipodensidades bilaterales y simétricas",
+      "type": "PATOLOGIA",
+      "start": 596,
+      "end": 635
+    },
+    {
+      "text": "sustancia blanca periventricular",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 639,
+      "end": 671
+    },
+    {
+      "text": "cambios crónicos de enfermedad microangiopática",
+      "type": "PATOLOGIA",
+      "start": 709,
+      "end": 756
+    },
+    {
+      "text": "sin signos de hidrocefalia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 856,
+      "end": 882
+    },
+    {
+      "text": "sin estenosis ni oclusiones significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1220,
+      "end": 1262
+    },
+    {
+      "text": "ACAs, ACMs, ACPs",
+      "type": "ARTERIA",
+      "start": 1299,
+      "end": 1315
+    },
+    {
+      "text": "sin repercusión hemodinámica",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1465,
+      "end": 1493
+    },
+    {
+      "text": "sin alteraciones isquémicas ni obstructivas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1792,
+      "end": 1835
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 288,
+      "end": 304
+    },
+    {
+      "text": "TC PERFUSIÓN",
+      "type": "TECNICA_IMAGEN",
+      "start": 929,
+      "end": 941
+    },
+    {
+      "text": "ANGIO-TC EXTRA E INTRACRANEAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 1152,
+      "end": 1181
+    }
+  ]
+}

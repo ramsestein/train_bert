@@ -1,0 +1,77 @@
+{
+  "document_id": "informe_sintetico_20250804195045_00611",
+  "entities": [
+    {
+      "text": "accidente cerebrovascular isquémico",
+      "type": "PATOLOGIA",
+      "start": 284,
+      "end": 319
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 602,
+      "end": 632
+    },
+    {
+      "text": "arteria carótida derecha",
+      "type": "ARTERIA",
+      "start": 337,
+      "end": 361
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 354,
+      "end": 361
+    },
+    {
+      "text": "4 mm",
+      "type": "MEDIDA",
+      "start": 774,
+      "end": 778
+    },
+    {
+      "text": "ASPECTS 5",
+      "type": "PUNTUACION_CLINICA",
+      "start": 904,
+      "end": 913
+    },
+    {
+      "text": "infarto establecido",
+      "type": "PATOLOGIA",
+      "start": 1168,
+      "end": 1187
+    },
+    {
+      "text": "arteria carótida interna derecha",
+      "type": "ARTERIA",
+      "start": 1314,
+      "end": 1346
+    },
+    {
+      "text": "Oclusión completa",
+      "type": "PATOLOGIA",
+      "start": 1261,
+      "end": 1278
+    },
+    {
+      "text": "sin estenosis significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1558,
+      "end": 1586
+    },
+    {
+      "text": "No se observan focos de hemorragia intraaxial ni extraaxial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 780,
+      "end": 839
+    },
+    {
+      "text": "No se evidencian hemorragias ni otras complicaciones hemorrágicas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2061,
+      "end": 2126
+    }
+  ]
+}

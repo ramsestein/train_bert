@@ -1,0 +1,125 @@
+{
+  "document_id": "informe_sintetico_20250804195045_00268",
+  "entities": [
+    {
+      "text": "hemiplejia derecha",
+      "type": "PATOLOGIA",
+      "start": 210,
+      "end": 228
+    },
+    {
+      "text": "ictus isquémico",
+      "type": "PATOLOGIA",
+      "start": 266,
+      "end": 281
+    },
+    {
+      "text": "área hipodensa extensa",
+      "type": "PATOLOGIA",
+      "start": 541,
+      "end": 563
+    },
+    {
+      "text": "infarto isquémico establecido",
+      "type": "PATOLOGIA",
+      "start": 679,
+      "end": 708
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "ARTERIA",
+      "start": 729,
+      "end": 761
+    },
+    {
+      "text": "ASPECTS 6",
+      "type": "PUNTUACION_CLINICA",
+      "start": 763,
+      "end": 772
+    },
+    {
+      "text": "hemisferio cerebral izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 567,
+      "end": 596
+    },
+    {
+      "text": "volumen cerebral (CBV)",
+      "type": "MEDIDA",
+      "start": 1093,
+      "end": 1115
+    },
+    {
+      "text": "flujo cerebral (CBF)",
+      "type": "MEDIDA",
+      "start": 1118,
+      "end": 1138
+    },
+    {
+      "text": "tiempo de tránsito medio (MTT)",
+      "type": "MEDIDA",
+      "start": 1204,
+      "end": 1234
+    },
+    {
+      "text": "tiempo hasta el pico (TTP)",
+      "type": "MEDIDA",
+      "start": 1237,
+      "end": 1263
+    },
+    {
+      "text": "zona penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1305,
+      "end": 1328
+    },
+    {
+      "text": "Oclusión completa",
+      "type": "PATOLOGIA",
+      "start": 1402,
+      "end": 1419
+    },
+    {
+      "text": "arteria carótida interna izquierda",
+      "type": "ARTERIA",
+      "start": 1426,
+      "end": 1460
+    },
+    {
+      "text": "cervical distal",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1469,
+      "end": 1484
+    },
+    {
+      "text": "ausencia de repleción distal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1489,
+      "end": 1517
+    },
+    {
+      "text": "No se observan signos de hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 775,
+      "end": 823
+    },
+    {
+      "text": "No hemorragia intracraneal ni edema con efecto de masa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2213,
+      "end": 2267
+    },
+    {
+      "text": "infarto cerebral en territorio medio izquierdo",
+      "type": "PATOLOGIA",
+      "start": 2618,
+      "end": 2664
+    },
+    {
+      "text": "Oclusión carotídea izquierda",
+      "type": "PATOLOGIA",
+      "start": 2820,
+      "end": 2848
+    }
+  ]
+}

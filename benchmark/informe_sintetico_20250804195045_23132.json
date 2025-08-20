@@ -1,0 +1,83 @@
+{
+  "document_id": "informe_sintetico_20250804195045_23132",
+  "entities": [
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 575,
+      "end": 589
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "PATOLOGIA",
+      "start": 593,
+      "end": 616
+    },
+    {
+      "text": "cambios crónicos de pequeña vasos",
+      "type": "PATOLOGIA",
+      "start": 864,
+      "end": 897
+    },
+    {
+      "text": "ASPECTS 10/10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 501,
+      "end": 514
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 501,
+      "end": 511
+    },
+    {
+      "text": "TC craneal simple urgente",
+      "type": "TECNICA_IMAGEN",
+      "start": 299,
+      "end": 324
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 327,
+      "end": 348
+    },
+    {
+      "text": "angiografía por TC arterial intra y extracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 351,
+      "end": 399
+    },
+    {
+      "text": "No se identifican focos de hipodensidad sugestivos de isquemia aguda ni hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 521,
+      "end": 616
+    },
+    {
+      "text": "No se evidencian áreas con mismatch significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1045,
+      "end": 1094
+    },
+    {
+      "text": "No se observan signos de trombosis, aneurismas ni malformaciones vasculares",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1363,
+      "end": 1438
+    },
+    {
+      "text": "sin hallazgos agudos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1513,
+      "end": 1533
+    },
+    {
+      "text": "sin estenosis ni lesiones significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1679,
+      "end": 1719
+    }
+  ]
+}

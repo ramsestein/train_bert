@@ -1,0 +1,233 @@
+{
+  "document_id": "informe_sintetico_20250804195045_24786",
+  "entities": [
+    {
+      "text": "hemiparesia derecha",
+      "type": "PATOLOGIA",
+      "start": 204,
+      "end": 223
+    },
+    {
+      "text": "afasia motora",
+      "type": "PATOLOGIA",
+      "start": 226,
+      "end": 239
+    },
+    {
+      "text": "ictus isquémico",
+      "type": "PATOLOGIA",
+      "start": 261,
+      "end": 276
+    },
+    {
+      "text": "isquemia",
+      "type": "PATOLOGIA",
+      "start": 856,
+      "end": 864
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 812,
+      "end": 821
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 451,
+      "end": 467
+    },
+    {
+      "text": "TC Perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 494,
+      "end": 515
+    },
+    {
+      "text": "Angio-TC intra y extracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 518,
+      "end": 547
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 678,
+      "end": 701
+    },
+    {
+      "text": "edema significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 705,
+      "end": 724
+    },
+    {
+      "text": "isquemia",
+      "type": "PATOLOGIA",
+      "start": 856,
+      "end": 864
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 812,
+      "end": 821
+    },
+    {
+      "text": "ASPECTS 9",
+      "type": "PUNTUACION_CLINICA",
+      "start": 866,
+      "end": 875
+    },
+    {
+      "text": "Tmax",
+      "type": "MEDIDA",
+      "start": 1013,
+      "end": 1017
+    },
+    {
+      "text": "CBF",
+      "type": "MEDIDA",
+      "start": 1053,
+      "end": 1056
+    },
+    {
+      "text": "ACM",
+      "type": "ARTERIA",
+      "start": 1102,
+      "end": 1105
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 812,
+      "end": 821
+    },
+    {
+      "text": "M2/M3",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1153,
+      "end": 1158
+    },
+    {
+      "text": "volumen de penumbra",
+      "type": "MEDIDA",
+      "start": 1164,
+      "end": 1183
+    },
+    {
+      "text": "CBV",
+      "type": "MEDIDA",
+      "start": 1240,
+      "end": 1243
+    },
+    {
+      "text": "ACM",
+      "type": "ARTERIA",
+      "start": 1102,
+      "end": 1105
+    },
+    {
+      "text": "M2",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1153,
+      "end": 1155
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 812,
+      "end": 821
+    },
+    {
+      "text": "sin presencia de flujo distal detectable",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1371,
+      "end": 1411
+    },
+    {
+      "text": "ACAs",
+      "type": "ARTERIA",
+      "start": 1459,
+      "end": 1463
+    },
+    {
+      "text": "ACPs",
+      "type": "ARTERIA",
+      "start": 1465,
+      "end": 1469
+    },
+    {
+      "text": "sistema vertebrobasilar",
+      "type": "ARTERIA",
+      "start": 1472,
+      "end": 1495
+    },
+    {
+      "text": "sin estenosis significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1510,
+      "end": 1538
+    },
+    {
+      "text": "sin evidencia de hemorragia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1620,
+      "end": 1647
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 1734,
+      "end": 1748
+    },
+    {
+      "text": "ACM distal",
+      "type": "ARTERIA",
+      "start": 1766,
+      "end": 1776
+    },
+    {
+      "text": "M2/M3",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1153,
+      "end": 1158
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 812,
+      "end": 821
+    },
+    {
+      "text": "volumen significativo de penumbra",
+      "type": "MEDIDA",
+      "start": 1808,
+      "end": 1841
+    },
+    {
+      "text": "oclusión de rama distal M2 izquierda",
+      "type": "PATOLOGIA",
+      "start": 1862,
+      "end": 1898
+    },
+    {
+      "text": "sin reflujo distal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1899,
+      "end": 1917
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 1734,
+      "end": 1748
+    },
+    {
+      "text": "territorio limitado",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1963,
+      "end": 1982
+    }
+  ]
+}

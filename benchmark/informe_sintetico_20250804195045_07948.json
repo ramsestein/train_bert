@@ -1,0 +1,77 @@
+{
+  "document_id": "informe_sintetico_20250804195045_07948",
+  "entities": [
+    {
+      "text": "hematoma agudo",
+      "type": "PATOLOGIA",
+      "start": 576,
+      "end": 590
+    },
+    {
+      "text": "región cerebelosa hemisférica derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 461,
+      "end": 498
+    },
+    {
+      "text": "3,5 x 2,8 x 3 cm",
+      "type": "MEDIDA",
+      "start": 617,
+      "end": 633
+    },
+    {
+      "text": "agudo",
+      "type": "TEMPORALIDAD",
+      "start": 585,
+      "end": 590
+    },
+    {
+      "text": "reducción localizada del flujo sanguíneo cerebral (CBF)",
+      "type": "PATOLOGIA",
+      "start": 1052,
+      "end": 1107
+    },
+    {
+      "text": "volumen sanguíneo cerebral (CBV)",
+      "type": "PATOLOGIA",
+      "start": 1114,
+      "end": 1146
+    },
+    {
+      "text": "sin lesiones aparentes ni signos de estenosis u oclusión",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1446,
+      "end": 1502
+    },
+    {
+      "text": "sin alteraciones vasculares obstructivas asociadas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2562,
+      "end": 2612
+    },
+    {
+      "text": "hidrocefalia obstructiva",
+      "type": "PATOLOGIA",
+      "start": 757,
+      "end": 781
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 308,
+      "end": 324
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 341,
+      "end": 362
+    },
+    {
+      "text": "angioTC arterial intra y extracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 365,
+      "end": 402
+    }
+  ]
+}

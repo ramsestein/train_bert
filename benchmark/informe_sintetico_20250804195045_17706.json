@@ -1,0 +1,95 @@
+{
+  "document_id": "informe_sintetico_20250804195045_17706",
+  "entities": [
+    {
+      "text": "infarto cerebral hemisférico izquierdo",
+      "type": "PATOLOGIA",
+      "start": 179,
+      "end": 217
+    },
+    {
+      "text": "infarto encefálico subagudo",
+      "type": "PATOLOGIA",
+      "start": 552,
+      "end": 579
+    },
+    {
+      "text": "hematoma mayor de 30% del área infarctada",
+      "type": "PATOLOGIA",
+      "start": 716,
+      "end": 757
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "ARTERIA",
+      "start": 504,
+      "end": 536
+    },
+    {
+      "text": "infarto establecido",
+      "type": "PATOLOGIA",
+      "start": 1262,
+      "end": 1281
+    },
+    {
+      "text": "Oclusión subtotal de la arteria cerebral media izquierda",
+      "type": "PATOLOGIA",
+      "start": 1368,
+      "end": 1424
+    },
+    {
+      "text": "sin áreas de penumbra",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1922,
+      "end": 1943
+    },
+    {
+      "text": "transformación hemorrágica tipo PH2",
+      "type": "PATOLOGIA",
+      "start": 1712,
+      "end": 1747
+    },
+    {
+      "text": "segmento M1",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1428,
+      "end": 1439
+    },
+    {
+      "text": "izquierdo",
+      "type": "LATERALIDAD",
+      "start": 208,
+      "end": 217
+    },
+    {
+      "text": "subagudo",
+      "type": "TEMPORALIDAD",
+      "start": 571,
+      "end": 579
+    },
+    {
+      "text": "PH2",
+      "type": "PUNTUACION_CLINICA",
+      "start": 711,
+      "end": 714
+    },
+    {
+      "text": "TC Basal + TC Perfusión + AngioTC extra e intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 314,
+      "end": 368
+    },
+    {
+      "text": "sin alteraciones",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 884,
+      "end": 900
+    },
+    {
+      "text": "sin estenosis relevantes ni placas ateromatosas significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1515,
+      "end": 1577
+    }
+  ]
+}

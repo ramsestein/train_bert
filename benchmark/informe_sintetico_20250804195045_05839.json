@@ -1,0 +1,239 @@
+{
+  "document_id": "informe_sintetico_20250804195045_05839",
+  "entities": [
+    {
+      "text": "evento isquémico cerebrovascular",
+      "type": "PATOLOGIA",
+      "start": 252,
+      "end": 284
+    },
+    {
+      "text": "hemorragias intracraneales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 514,
+      "end": 540
+    },
+    {
+      "text": "espacios extraaxiales ocupantes de espacio",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 544,
+      "end": 586
+    },
+    {
+      "text": "pérdida de diferenciación cortico-subcortical",
+      "type": "PATOLOGIA",
+      "start": 601,
+      "end": 646
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "ARTERIA",
+      "start": 667,
+      "end": 699
+    },
+    {
+      "text": "hipodensidad",
+      "type": "PATOLOGIA",
+      "start": 705,
+      "end": 717
+    },
+    {
+      "text": "ASPECTS 6",
+      "type": "PUNTUACION_CLINICA",
+      "start": 765,
+      "end": 774
+    },
+    {
+      "text": "hiperdensidad lineal",
+      "type": "PATOLOGIA",
+      "start": 788,
+      "end": 808
+    },
+    {
+      "text": "arteria cerebral media izquierda segmento M1",
+      "type": "ARTERIA",
+      "start": 815,
+      "end": 859
+    },
+    {
+      "text": "signo de arteria hiperdensa",
+      "type": "PATOLOGIA",
+      "start": 875,
+      "end": 902
+    },
+    {
+      "text": "línea media",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 926,
+      "end": 937
+    },
+    {
+      "text": "cambios en el tamaño del sistema ventricular",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 970,
+      "end": 1014
+    },
+    {
+      "text": "cisternas basales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1025,
+      "end": 1042
+    },
+    {
+      "text": "incremento del Tmax prolongado",
+      "type": "PATOLOGIA",
+      "start": 1075,
+      "end": 1105
+    },
+    {
+      "text": "territorio vascular cortical y subcortical",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1109,
+      "end": 1151
+    },
+    {
+      "text": "ACM izquierda",
+      "type": "ARTERIA",
+      "start": 1165,
+      "end": 1178
+    },
+    {
+      "text": "reducción del flujo cerebral",
+      "type": "PATOLOGIA",
+      "start": 1184,
+      "end": 1212
+    },
+    {
+      "text": "CBF",
+      "type": "MEDIDA",
+      "start": 387,
+      "end": 390
+    },
+    {
+      "text": "volumen sanguíneo cerebral",
+      "type": "MEDIDA",
+      "start": 1221,
+      "end": 1247
+    },
+    {
+      "text": "CBV",
+      "type": "MEDIDA",
+      "start": 381,
+      "end": 384
+    },
+    {
+      "text": "zona de penumbra isquémica extensa",
+      "type": "PATOLOGIA",
+      "start": 1267,
+      "end": 1301
+    },
+    {
+      "text": "discordancia entre área de perfusión alterada y zona de hipodensidad basal",
+      "type": "PATOLOGIA",
+      "start": 1318,
+      "end": 1392
+    },
+    {
+      "text": "hipoperfusión potencialmente salvable",
+      "type": "PATOLOGIA",
+      "start": 1417,
+      "end": 1454
+    },
+    {
+      "text": "segmento proximal M1",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1522,
+      "end": 1542
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "ARTERIA",
+      "start": 667,
+      "end": 699
+    },
+    {
+      "text": "oclusión trombótica aguda",
+      "type": "PATOLOGIA",
+      "start": 1596,
+      "end": 1621
+    },
+    {
+      "text": "estenosis significativas en carótidas extracraneales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1641,
+      "end": 1693
+    },
+    {
+      "text": "arterias vertebrales",
+      "type": "ARTERIA",
+      "start": 1697,
+      "end": 1717
+    },
+    {
+      "text": "flujo colateral moderado",
+      "type": "PATOLOGIA",
+      "start": 1759,
+      "end": 1783
+    },
+    {
+      "text": "circulación leptomeníngea",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1816,
+      "end": 1841
+    },
+    {
+      "text": "aneurismas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1860,
+      "end": 1870
+    },
+    {
+      "text": "malformaciones vasculares",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1874,
+      "end": 1899
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 1961,
+      "end": 1975
+    },
+    {
+      "text": "territorio dependiente",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 2683,
+      "end": 2705
+    },
+    {
+      "text": "ASPECTS 6",
+      "type": "PUNTUACION_CLINICA",
+      "start": 765,
+      "end": 774
+    },
+    {
+      "text": "signo de arteria hiperdensa",
+      "type": "PATOLOGIA",
+      "start": 875,
+      "end": 902
+    },
+    {
+      "text": "oclusión aguda de M1 de ACM izquierda",
+      "type": "PATOLOGIA",
+      "start": 2231,
+      "end": 2268
+    },
+    {
+      "text": "estenosis extracraneal asociada",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2273,
+      "end": 2304
+    },
+    {
+      "text": "circulación distal con flujo colateral moderado",
+      "type": "PATOLOGIA",
+      "start": 2909,
+      "end": 2956
+    }
+  ]
+}

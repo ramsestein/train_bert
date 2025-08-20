@@ -1,0 +1,65 @@
+{
+  "document_id": "informe_sintetico_20250804195045_01840",
+  "entities": [
+    {
+      "text": "hematoma subdural agudo",
+      "type": "PATOLOGIA",
+      "start": 430,
+      "end": 453
+    },
+    {
+      "text": "hemisférico derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 454,
+      "end": 473
+    },
+    {
+      "text": "frontoparietal",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 491,
+      "end": 505
+    },
+    {
+      "text": "15 mm",
+      "type": "MEDIDA",
+      "start": 532,
+      "end": 537
+    },
+    {
+      "text": "120 mm",
+      "type": "MEDIDA",
+      "start": 577,
+      "end": 583
+    },
+    {
+      "text": "6 mm",
+      "type": "MEDIDA",
+      "start": 688,
+      "end": 692
+    },
+    {
+      "text": "agudo",
+      "type": "TEMPORALIDAD",
+      "start": 448,
+      "end": 453
+    },
+    {
+      "text": "sin evidencia clara de herniación transtentorial o subfalcina",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 833,
+      "end": 894
+    },
+    {
+      "text": "No se visualizan hemorragias intraparenquimatosas ni lesiones isquémicas agudas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 896,
+      "end": 975
+    },
+    {
+      "text": "sin evidencia de estenosis ni trombosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1155,
+      "end": 1194
+    }
+  ]
+}

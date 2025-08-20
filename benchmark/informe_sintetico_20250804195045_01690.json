@@ -1,0 +1,59 @@
+{
+  "document_id": "informe_sintetico_20250804195045_01690",
+  "entities": [
+    {
+      "text": "hemorragia subaracnoidea",
+      "type": "PATOLOGIA",
+      "start": 247,
+      "end": 271
+    },
+    {
+      "text": "cisura silviana derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 535,
+      "end": 558
+    },
+    {
+      "text": "arteria cerebral media",
+      "type": "ARTERIA",
+      "start": 573,
+      "end": 595
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 551,
+      "end": 558
+    },
+    {
+      "text": "5 mm",
+      "type": "MEDIDA",
+      "start": 1235,
+      "end": 1239
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 799,
+      "end": 809
+    },
+    {
+      "text": "sin alteraciones significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1105,
+      "end": 1136
+    },
+    {
+      "text": "No se identifican hematomas intraparenquimatosos ni hemorragia intraventricular",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 644,
+      "end": 723
+    },
+    {
+      "text": "sin estenosis o trombosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1373,
+      "end": 1398
+    }
+  ]
+}

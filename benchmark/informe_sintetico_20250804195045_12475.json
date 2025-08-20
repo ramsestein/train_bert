@@ -1,0 +1,65 @@
+{
+  "document_id": "informe_sintetico_20250804195045_12475",
+  "entities": [
+    {
+      "text": "hematoma intraparenquimatoso",
+      "type": "PATOLOGIA",
+      "start": 488,
+      "end": 516
+    },
+    {
+      "text": "región talámica derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 548,
+      "end": 571
+    },
+    {
+      "text": "3.5 x 3.0 x 2.8 cm",
+      "type": "MEDIDA",
+      "start": 671,
+      "end": 689
+    },
+    {
+      "text": "aguda",
+      "type": "TEMPORALIDAD",
+      "start": 631,
+      "end": 636
+    },
+    {
+      "text": "hemorragia cerebral",
+      "type": "PATOLOGIA",
+      "start": 282,
+      "end": 301
+    },
+    {
+      "text": "ACAs, ACMs, ACPs",
+      "type": "ARTERIA",
+      "start": 1559,
+      "end": 1575
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 564,
+      "end": 571
+    },
+    {
+      "text": "No se identifican áreas de hipoperfusión",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1213,
+      "end": 1253
+    },
+    {
+      "text": "No se detectan anomalías vasculares asociadas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1809,
+      "end": 1854
+    },
+    {
+      "text": "No signos de isquemia cerebral",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1856,
+      "end": 1886
+    }
+  ]
+}

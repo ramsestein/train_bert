@@ -1,0 +1,83 @@
+{
+  "document_id": "informe_sintetico_20250804195045_08150",
+  "entities": [
+    {
+      "text": "pequeño foco hipodenso",
+      "type": "PATOLOGIA",
+      "start": 453,
+      "end": 475
+    },
+    {
+      "text": "6 mm",
+      "type": "MEDIDA",
+      "start": 496,
+      "end": 500
+    },
+    {
+      "text": "cápsula interna izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 529,
+      "end": 554
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 642,
+      "end": 665
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 705,
+      "end": 715
+    },
+    {
+      "text": "isquémica",
+      "type": "PATOLOGIA",
+      "start": 1042,
+      "end": 1051
+    },
+    {
+      "text": "cápsula interna izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 529,
+      "end": 554
+    },
+    {
+      "text": "sin signos de trombosis o placas ulceradas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1302,
+      "end": 1344
+    },
+    {
+      "text": "Infarto lacunar agudo",
+      "type": "PATOLOGIA",
+      "start": 1369,
+      "end": 1390
+    },
+    {
+      "text": "cápsula interna izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 529,
+      "end": 554
+    },
+    {
+      "text": "sin complicaciones hemorrágicas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1420,
+      "end": 1451
+    },
+    {
+      "text": "sin evidencia de penumbra significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1487,
+      "end": 1526
+    },
+    {
+      "text": "Angio-TC sin hallazgos de compromiso arterial mayor",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1528,
+      "end": 1579
+    }
+  ]
+}

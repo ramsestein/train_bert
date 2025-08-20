@@ -1,0 +1,107 @@
+{
+  "document_id": "informe_sintetico_20250804195045_11089",
+  "entities": [
+    {
+      "text": "hemorragia aguda",
+      "type": "PATOLOGIA",
+      "start": 457,
+      "end": 473
+    },
+    {
+      "text": "lesiones focales recientes",
+      "type": "PATOLOGIA",
+      "start": 496,
+      "end": 522
+    },
+    {
+      "text": "cambios atróficos corticales leves difusos",
+      "type": "PATOLOGIA",
+      "start": 536,
+      "end": 578
+    },
+    {
+      "text": "involución cerebral crónica",
+      "type": "PATOLOGIA",
+      "start": 696,
+      "end": 723
+    },
+    {
+      "text": "enfermedad crónica de pequeño vaso",
+      "type": "PATOLOGIA",
+      "start": 829,
+      "end": 863
+    },
+    {
+      "text": "atrofia cortical leve atribuibles a la edad",
+      "type": "PATOLOGIA",
+      "start": 1771,
+      "end": 1814
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 1626,
+      "end": 1636
+    },
+    {
+      "text": "arterias intra y extracraneales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1182,
+      "end": 1213
+    },
+    {
+      "text": "bifurcaciones carotídeas bilaterales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1324,
+      "end": 1360
+    },
+    {
+      "text": "arterias carótidas internas",
+      "type": "ARTERIA",
+      "start": 1421,
+      "end": 1448
+    },
+    {
+      "text": "arterias",
+      "type": "ARTERIA",
+      "start": 1182,
+      "end": 1190
+    },
+    {
+      "text": "bilaterales",
+      "type": "LATERALIDAD",
+      "start": 1349,
+      "end": 1360
+    },
+    {
+      "text": "sin estenosis significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1226,
+      "end": 1254
+    },
+    {
+      "text": "sin estenosis hemodinámicamente significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1856,
+      "end": 1902
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 267,
+      "end": 283
+    },
+    {
+      "text": "perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 310,
+      "end": 328
+    },
+    {
+      "text": "angio-TC intra y extracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 331,
+      "end": 360
+    }
+  ]
+}

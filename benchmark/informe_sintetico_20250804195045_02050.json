@@ -1,0 +1,83 @@
+{
+  "document_id": "informe_sintetico_20250804195045_02050",
+  "entities": [
+    {
+      "text": "ictus isquémico agudo",
+      "type": "PATOLOGIA",
+      "start": 253,
+      "end": 274
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 543,
+      "end": 575
+    },
+    {
+      "text": "M2/M3",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 590,
+      "end": 595
+    },
+    {
+      "text": "M2/M3",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 590,
+      "end": 595
+    },
+    {
+      "text": "ACM",
+      "type": "ARTERIA",
+      "start": 924,
+      "end": 927
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 566,
+      "end": 575
+    },
+    {
+      "text": "ASPECTS: 9/10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 766,
+      "end": 779
+    },
+    {
+      "text": "Oclusión focal",
+      "type": "PATOLOGIA",
+      "start": 1090,
+      "end": 1104
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "ARTERIA",
+      "start": 543,
+      "end": 575
+    },
+    {
+      "text": "M2/M3",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 590,
+      "end": 595
+    },
+    {
+      "text": "sin infarto establecido extenso",
+      "type": "PATOLOGIA",
+      "start": 1022,
+      "end": 1053
+    },
+    {
+      "text": "No se aprecian signos de hemorragia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 686,
+      "end": 721
+    },
+    {
+      "text": "No complicaciones hemorrágicas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1544,
+      "end": 1574
+    }
+  ]
+}

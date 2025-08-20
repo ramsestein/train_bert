@@ -1,0 +1,131 @@
+{
+  "document_id": "informe_sintetico_20250804195045_24924",
+  "entities": [
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 750,
+      "end": 764
+    },
+    {
+      "text": "hemorragias agudas intra ni extraaxiales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 582,
+      "end": 622
+    },
+    {
+      "text": "áreas de hipodensidad sugestivas de isquemia aguda",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 714,
+      "end": 764
+    },
+    {
+      "text": "enfermedad crónica microangiopática",
+      "type": "PATOLOGIA",
+      "start": 966,
+      "end": 1001
+    },
+    {
+      "text": "pequeñas áreas de hipodensidad periventricular y en centros semiovales",
+      "type": "PATOLOGIA",
+      "start": 1021,
+      "end": 1091
+    },
+    {
+      "text": "TTP",
+      "type": "MEDIDA",
+      "start": 1189,
+      "end": 1192
+    },
+    {
+      "text": "CBV",
+      "type": "MEDIDA",
+      "start": 1223,
+      "end": 1226
+    },
+    {
+      "text": "CBF",
+      "type": "MEDIDA",
+      "start": 1256,
+      "end": 1259
+    },
+    {
+      "text": "bilateralmente",
+      "type": "LATERALIDAD",
+      "start": 1301,
+      "end": 1315
+    },
+    {
+      "text": "ateromatosis calcificada leve a moderada",
+      "type": "PATOLOGIA",
+      "start": 1479,
+      "end": 1519
+    },
+    {
+      "text": "ACAs, ACMs y ACPs",
+      "type": "ARTERIA",
+      "start": 1669,
+      "end": 1686
+    },
+    {
+      "text": "sin estenosis ni oclusiones",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1732,
+      "end": 1759
+    },
+    {
+      "text": "sistema vertebrobasilar",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1764,
+      "end": 1787
+    },
+    {
+      "text": "sin alteraciones vasculares destacables",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1813,
+      "end": 1852
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 2011,
+      "end": 2021
+    },
+    {
+      "text": "sin estenosis significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1520,
+      "end": 1547
+    },
+    {
+      "text": "cerebral",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 407,
+      "end": 415
+    },
+    {
+      "text": "enfermedad microangiopática",
+      "type": "PATOLOGIA",
+      "start": 2187,
+      "end": 2214
+    },
+    {
+      "text": "sin evidencia de evento vascular cerebral agudo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2244,
+      "end": 2291
+    },
+    {
+      "text": "TC craneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 354,
+      "end": 364
+    },
+    {
+      "text": "Angio-TC",
+      "type": "TECNICA_IMAGEN",
+      "start": 418,
+      "end": 426
+    }
+  ]
+}

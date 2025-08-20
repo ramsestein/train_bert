@@ -1,0 +1,71 @@
+{
+  "document_id": "informe_sintetico_20250804195045_07718",
+  "entities": [
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 244,
+      "end": 258
+    },
+    {
+      "text": "tronco cerebral",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 582,
+      "end": 597
+    },
+    {
+      "text": "cerebelo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 629,
+      "end": 637
+    },
+    {
+      "text": "arteria basilar",
+      "type": "ARTERIA",
+      "start": 1333,
+      "end": 1348
+    },
+    {
+      "text": "arteria vertebral",
+      "type": "ARTERIA",
+      "start": 1563,
+      "end": 1580
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 1581,
+      "end": 1588
+    },
+    {
+      "text": "70%",
+      "type": "MEDIDA",
+      "start": 1537,
+      "end": 1540
+    },
+    {
+      "text": "aguda",
+      "type": "TEMPORALIDAD",
+      "start": 253,
+      "end": 258
+    },
+    {
+      "text": "No se evidencia hemorragia intra ni extraaxial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 476,
+      "end": 522
+    },
+    {
+      "text": "No se detectan aneurismas ni malformaciones vasculares asociadas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1590,
+      "end": 1654
+    },
+    {
+      "text": "sin hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2333,
+      "end": 2360
+    }
+  ]
+}

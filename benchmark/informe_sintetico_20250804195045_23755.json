@@ -1,0 +1,95 @@
+{
+  "document_id": "informe_sintetico_20250804195045_23755",
+  "entities": [
+    {
+      "text": "hemorragia parenquimatosa cortical izquierda",
+      "type": "PATOLOGIA",
+      "start": 651,
+      "end": 695
+    },
+    {
+      "text": "contusión hemorrágica",
+      "type": "PATOLOGIA",
+      "start": 718,
+      "end": 739
+    },
+    {
+      "text": "lóbulo frontal medio",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 743,
+      "end": 763
+    },
+    {
+      "text": "12 x 8 mm",
+      "type": "MEDIDA",
+      "start": 783,
+      "end": 792
+    },
+    {
+      "text": "3 mm",
+      "type": "MEDIDA",
+      "start": 886,
+      "end": 890
+    },
+    {
+      "text": "sin evidencia de isquemia en territorios adyacentes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1205,
+      "end": 1256
+    },
+    {
+      "text": "sin signos de estenosis o vasoespasmo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1375,
+      "end": 1412
+    },
+    {
+      "text": "edema asociado",
+      "type": "PATOLOGIA",
+      "start": 1575,
+      "end": 1589
+    },
+    {
+      "text": "efecto masa",
+      "type": "PATOLOGIA",
+      "start": 1597,
+      "end": 1608
+    },
+    {
+      "text": "zona de contusión",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1186,
+      "end": 1203
+    },
+    {
+      "text": "24-48 horas",
+      "type": "TEMPORALIDAD",
+      "start": 1881,
+      "end": 1892
+    },
+    {
+      "text": "TC CRANEAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 598,
+      "end": 608
+    },
+    {
+      "text": "TC PERFUSIÓN CEREBRAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 1967,
+      "end": 1988
+    },
+    {
+      "text": "ANGIOTC",
+      "type": "TECNICA_IMAGEN",
+      "start": 1323,
+      "end": 1330
+    },
+    {
+      "text": "sin lesiones vasculares",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2258,
+      "end": 2281
+    }
+  ]
+}

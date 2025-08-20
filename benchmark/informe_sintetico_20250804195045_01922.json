@@ -1,0 +1,137 @@
+{
+  "document_id": "informe_sintetico_20250804195045_01922",
+  "entities": [
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 249,
+      "end": 263
+    },
+    {
+      "text": "arteria cerebral posterior",
+      "type": "ARTERIA",
+      "start": 281,
+      "end": 307
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 226,
+      "end": 235
+    },
+    {
+      "text": "hipodensidad sutil",
+      "type": "PATOLOGIA",
+      "start": 563,
+      "end": 581
+    },
+    {
+      "text": "edema citotóxico precoz",
+      "type": "PATOLOGIA",
+      "start": 646,
+      "end": 669
+    },
+    {
+      "text": "ASPECTS modificado para ACP = 7",
+      "type": "PUNTUACION_CLINICA",
+      "start": 744,
+      "end": 775
+    },
+    {
+      "text": "aumento del tiempo de tránsito promedio (TTP)",
+      "type": "PATOLOGIA",
+      "start": 865,
+      "end": 910
+    },
+    {
+      "text": "reducción del volumen cerebral de sangre (CBV)",
+      "type": "PATOLOGIA",
+      "start": 913,
+      "end": 959
+    },
+    {
+      "text": "disminución del flujo cerebral de sangre (CBF)",
+      "type": "PATOLOGIA",
+      "start": 965,
+      "end": 1011
+    },
+    {
+      "text": "occlusión segmentaria",
+      "type": "PATOLOGIA",
+      "start": 1126,
+      "end": 1147
+    },
+    {
+      "text": "arteria cerebral posterior izquierda proximal (segmento P1)",
+      "type": "ARTERIA",
+      "start": 1177,
+      "end": 1236
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 226,
+      "end": 235
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 249,
+      "end": 263
+    },
+    {
+      "text": "arteria cerebral posterior izquierda",
+      "type": "ARTERIA",
+      "start": 815,
+      "end": 851
+    },
+    {
+      "text": "edema citotóxico precoz",
+      "type": "PATOLOGIA",
+      "start": 646,
+      "end": 669
+    },
+    {
+      "text": "área de penumbra delimitada",
+      "type": "PATOLOGIA",
+      "start": 1501,
+      "end": 1528
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 226,
+      "end": 235
+    },
+    {
+      "text": "TC craneal basal urgente sin contraste",
+      "type": "TECNICA_IMAGEN",
+      "start": 328,
+      "end": 366
+    },
+    {
+      "text": "estudio de perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 368,
+      "end": 397
+    },
+    {
+      "text": "angiografía por TC de troncos supraórticos e intracraneales",
+      "type": "TECNICA_IMAGEN",
+      "start": 400,
+      "end": 459
+    },
+    {
+      "text": "No se observan hemorragias intra o extraaxiales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 500,
+      "end": 547
+    },
+    {
+      "text": "No se evidencian otras estenosis críticas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1297,
+      "end": 1338
+    }
+  ]
+}

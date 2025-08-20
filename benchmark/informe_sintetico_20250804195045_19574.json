@@ -1,0 +1,215 @@
+{
+  "document_id": "informe_sintetico_20250804195045_19574",
+  "entities": [
+    {
+      "text": "hemiparesia izquierda",
+      "type": "PATOLOGIA",
+      "start": 196,
+      "end": 217
+    },
+    {
+      "text": "oclusión arterial cerebral",
+      "type": "PATOLOGIA",
+      "start": 269,
+      "end": 295
+    },
+    {
+      "text": "hipodensidad cortical y subcortical",
+      "type": "PATOLOGIA",
+      "start": 475,
+      "end": 510
+    },
+    {
+      "text": "infarto cerebral en fase inicial",
+      "type": "PATOLOGIA",
+      "start": 664,
+      "end": 696
+    },
+    {
+      "text": "signo de arteria hiperdensa",
+      "type": "PATOLOGIA",
+      "start": 711,
+      "end": 738
+    },
+    {
+      "text": "trombo intraluminal",
+      "type": "PATOLOGIA",
+      "start": 827,
+      "end": 846
+    },
+    {
+      "text": "prolongación significativa del tiempo de tránsito medio (MTT)",
+      "type": "PATOLOGIA",
+      "start": 878,
+      "end": 939
+    },
+    {
+      "text": "tiempo hasta el pico (TTP)",
+      "type": "PATOLOGIA",
+      "start": 942,
+      "end": 968
+    },
+    {
+      "text": "reducción del volumen y flujo cerebral (CBV y CBF)",
+      "type": "PATOLOGIA",
+      "start": 995,
+      "end": 1045
+    },
+    {
+      "text": "penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1081,
+      "end": 1099
+    },
+    {
+      "text": "oclusión completa de la arteria carótida interna derecha",
+      "type": "PATOLOGIA",
+      "start": 1130,
+      "end": 1186
+    },
+    {
+      "text": "circulación colateral adecuada",
+      "type": "PATOLOGIA",
+      "start": 1218,
+      "end": 1248
+    },
+    {
+      "text": "flujo decrementado distal a la oclusión",
+      "type": "PATOLOGIA",
+      "start": 1309,
+      "end": 1348
+    },
+    {
+      "text": "signos de hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1365,
+      "end": 1398
+    },
+    {
+      "text": "edema masivo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1402,
+      "end": 1414
+    },
+    {
+      "text": "infarto cerebral en territorio de la arteria cerebral media derecha",
+      "type": "PATOLOGIA",
+      "start": 1589,
+      "end": 1656
+    },
+    {
+      "text": "área de penumbra isquémica extensa",
+      "type": "PATOLOGIA",
+      "start": 2137,
+      "end": 2171
+    },
+    {
+      "text": "arteria carótida interna derecha",
+      "type": "ARTERIA",
+      "start": 745,
+      "end": 777
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "ARTERIA",
+      "start": 531,
+      "end": 561
+    },
+    {
+      "text": "arterias intracraneales derechas (ACM y ACA)",
+      "type": "ARTERIA",
+      "start": 1254,
+      "end": 1298
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 554,
+      "end": 561
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 208,
+      "end": 217
+    },
+    {
+      "text": "derecho",
+      "type": "LATERALIDAD",
+      "start": 983,
+      "end": 990
+    },
+    {
+      "text": "derecho",
+      "type": "LATERALIDAD",
+      "start": 983,
+      "end": 990
+    },
+    {
+      "text": "derecho",
+      "type": "LATERALIDAD",
+      "start": 983,
+      "end": 990
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 554,
+      "end": 561
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 554,
+      "end": 561
+    },
+    {
+      "text": "extensa",
+      "type": "MEDIDA",
+      "start": 1701,
+      "end": 1708
+    },
+    {
+      "text": "3 horas",
+      "type": "TEMPORALIDAD",
+      "start": 240,
+      "end": 247
+    },
+    {
+      "text": "agudo",
+      "type": "TEMPORALIDAD",
+      "start": 186,
+      "end": 191
+    },
+    {
+      "text": "fase inicial",
+      "type": "TEMPORALIDAD",
+      "start": 684,
+      "end": 696
+    },
+    {
+      "text": "sin contraste",
+      "type": "TECNICA_IMAGEN",
+      "start": 333,
+      "end": 346
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 348,
+      "end": 369
+    },
+    {
+      "text": "angio-TC intra y extracraneal con reconstrucción 3D",
+      "type": "TECNICA_IMAGEN",
+      "start": 371,
+      "end": 422
+    },
+    {
+      "text": "TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANG IOTC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 72,
+      "end": 140
+    }
+  ]
+}

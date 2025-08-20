@@ -1,0 +1,239 @@
+{
+  "document_id": "informe_sintetico_20250804195045_20209",
+  "entities": [
+    {
+      "text": "hemiparesia izquierda",
+      "type": "PATOLOGIA",
+      "start": 204,
+      "end": 225
+    },
+    {
+      "text": "afasia",
+      "type": "PATOLOGIA",
+      "start": 228,
+      "end": 234
+    },
+    {
+      "text": "disección arterial carotídea derecha",
+      "type": "PATOLOGIA",
+      "start": 248,
+      "end": 284
+    },
+    {
+      "text": "infarto cerebral asociado",
+      "type": "PATOLOGIA",
+      "start": 297,
+      "end": 322
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "ARTERIA",
+      "start": 552,
+      "end": 582
+    },
+    {
+      "text": "núcleo lenticular",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 597,
+      "end": 614
+    },
+    {
+      "text": "cápsula interna",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 616,
+      "end": 631
+    },
+    {
+      "text": "corteza frontoparietal adyacente",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 634,
+      "end": 666
+    },
+    {
+      "text": "infarto isquémico subagudo",
+      "type": "PATOLOGIA",
+      "start": 683,
+      "end": 709
+    },
+    {
+      "text": "hemorragias intracraneales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 726,
+      "end": 752
+    },
+    {
+      "text": "signos de transformación hemorrágica",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 756,
+      "end": 792
+    },
+    {
+      "text": "índice ASPECTS",
+      "type": "PUNTUACION_CLINICA",
+      "start": 797,
+      "end": 811
+    },
+    {
+      "text": "7",
+      "type": "MEDIDA",
+      "start": 815,
+      "end": 816
+    },
+    {
+      "text": "TC PERFUSIÓN",
+      "type": "TECNICA_IMAGEN",
+      "start": 914,
+      "end": 926
+    },
+    {
+      "text": "TTP",
+      "type": "MEDIDA",
+      "start": 968,
+      "end": 971
+    },
+    {
+      "text": "CBF",
+      "type": "MEDIDA",
+      "start": 988,
+      "end": 991
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "ARTERIA",
+      "start": 552,
+      "end": 582
+    },
+    {
+      "text": "CBV",
+      "type": "MEDIDA",
+      "start": 1061,
+      "end": 1064
+    },
+    {
+      "text": "isquemia irreversible",
+      "type": "PATOLOGIA",
+      "start": 1117,
+      "end": 1138
+    },
+    {
+      "text": "penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1233,
+      "end": 1251
+    },
+    {
+      "text": "irregularidad y estrechamiento segmentario",
+      "type": "PATOLOGIA",
+      "start": 1316,
+      "end": 1358
+    },
+    {
+      "text": "arteria carótida interna derecha",
+      "type": "ARTERIA",
+      "start": 1414,
+      "end": 1446
+    },
+    {
+      "text": "doble lumen",
+      "type": "PATOLOGIA",
+      "start": 1465,
+      "end": 1476
+    },
+    {
+      "text": "signo de colgajo intimal",
+      "type": "PATOLOGIA",
+      "start": 1479,
+      "end": 1503
+    },
+    {
+      "text": "defecto de repleción segmentario",
+      "type": "PATOLOGIA",
+      "start": 1552,
+      "end": 1584
+    },
+    {
+      "text": "arteria cerebral media derecha proximal",
+      "type": "ARTERIA",
+      "start": 1591,
+      "end": 1630
+    },
+    {
+      "text": "oclusión secundaria a disección",
+      "type": "PATOLOGIA",
+      "start": 1643,
+      "end": 1674
+    },
+    {
+      "text": "sistema arterial carotídeo izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1689,
+      "end": 1725
+    },
+    {
+      "text": "sin estenosis significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1761,
+      "end": 1789
+    },
+    {
+      "text": "alteraciones trombóticas aparentes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1793,
+      "end": 1827
+    },
+    {
+      "text": "aneurismas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1844,
+      "end": 1854
+    },
+    {
+      "text": "malformaciones vasculares",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1858,
+      "end": 1883
+    },
+    {
+      "text": "infarto isquémico subagudo",
+      "type": "PATOLOGIA",
+      "start": 683,
+      "end": 709
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "ARTERIA",
+      "start": 552,
+      "end": 582
+    },
+    {
+      "text": "estructuras subcorticales y corticales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 2008,
+      "end": 2046
+    },
+    {
+      "text": "penumbra isquémica perilesional",
+      "type": "PATOLOGIA",
+      "start": 2058,
+      "end": 2089
+    },
+    {
+      "text": "segmento cervical distal y petroso",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 2152,
+      "end": 2186
+    },
+    {
+      "text": "oclusión arterial secundaria",
+      "type": "PATOLOGIA",
+      "start": 2191,
+      "end": 2219
+    },
+    {
+      "text": "complicaciones hemorrágicas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2224,
+      "end": 2251
+    }
+  ]
+}

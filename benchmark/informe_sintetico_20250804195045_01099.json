@@ -1,0 +1,205 @@
+{
+  "document_id": "informe_sintetico_20250804195045_01099",
+  "entities": [
+    {
+      "text": "hemiparesia derecha",
+      "type": "PATOLOGIA",
+      "start": 207,
+      "end": 226
+    },
+    {
+      "text": "afasia",
+      "type": "PATOLOGIA",
+      "start": 229,
+      "end": 235
+    },
+    {
+      "text": "disección arterial cervical",
+      "type": "PATOLOGIA",
+      "start": 257,
+      "end": 284
+    },
+    {
+      "text": "infarto cerebral",
+      "type": "PATOLOGIA",
+      "start": 289,
+      "end": 305
+    },
+    {
+      "text": "área hipodensa",
+      "type": "PATOLOGIA",
+      "start": 515,
+      "end": 529
+    },
+    {
+      "text": "infarto isquémico agudo",
+      "type": "PATOLOGIA",
+      "start": 663,
+      "end": 686
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 725,
+      "end": 748
+    },
+    {
+      "text": "efecto masa significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 752,
+      "end": 777
+    },
+    {
+      "text": "estructuras de la línea media",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 783,
+      "end": 812
+    },
+    {
+      "text": "cisternas basales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 857,
+      "end": 874
+    },
+    {
+      "text": "volumen de sangre cerebral (CBV)",
+      "type": "MEDIDA",
+      "start": 934,
+      "end": 966
+    },
+    {
+      "text": "flujo cerebral (CBF)",
+      "type": "MEDIDA",
+      "start": 969,
+      "end": 989
+    },
+    {
+      "text": "tiempo medio de tránsito (MTT)",
+      "type": "MEDIDA",
+      "start": 1065,
+      "end": 1095
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "ARTERIA",
+      "start": 1010,
+      "end": 1042
+    },
+    {
+      "text": "arteria carótida interna izquierda",
+      "type": "ARTERIA",
+      "start": 1300,
+      "end": 1334
+    },
+    {
+      "text": "segmento cervical",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1342,
+      "end": 1359
+    },
+    {
+      "text": "segmento M1 de arteria cerebral media izquierda",
+      "type": "ARTERIA",
+      "start": 1481,
+      "end": 1528
+    },
+    {
+      "text": "distal",
+      "type": "LATERALIDAD",
+      "start": 1287,
+      "end": 1293
+    },
+    {
+      "text": "normal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1626,
+      "end": 1632
+    },
+    {
+      "text": "aneurismas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1651,
+      "end": 1661
+    },
+    {
+      "text": "malformaciones vasculares",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1665,
+      "end": 1690
+    },
+    {
+      "text": "disección arterial de la arteria carótida interna izquierda",
+      "type": "PATOLOGIA",
+      "start": 1743,
+      "end": 1802
+    },
+    {
+      "text": "estenosis secundaria significativa",
+      "type": "PATOLOGIA",
+      "start": 1842,
+      "end": 1876
+    },
+    {
+      "text": "infarto isquémico establecido",
+      "type": "PATOLOGIA",
+      "start": 1944,
+      "end": 1973
+    },
+    {
+      "text": "territorio frontoparietal",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1977,
+      "end": 2002
+    },
+    {
+      "text": "lesión isquémica con zona de penumbra",
+      "type": "PATOLOGIA",
+      "start": 2031,
+      "end": 2068
+    },
+    {
+      "text": "hemorragia asociada",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2074,
+      "end": 2093
+    },
+    {
+      "text": "seguimiento angiográfico",
+      "type": "TECNICA_IMAGEN",
+      "start": 2146,
+      "end": 2170
+    },
+    {
+      "text": "valoración neurovascular",
+      "type": "TECNICA_IMAGEN",
+      "start": 2173,
+      "end": 2197
+    },
+    {
+      "text": "RM con secuencias específicas de pared arterial",
+      "type": "TECNICA_IMAGEN",
+      "start": 2207,
+      "end": 2254
+    },
+    {
+      "text": "tratamiento anticoagulante",
+      "type": "PATOLOGIA",
+      "start": 2304,
+      "end": 2330
+    },
+    {
+      "text": "infarto isquémico en territorio de ACM izquierda",
+      "type": "PATOLOGIA",
+      "start": 2476,
+      "end": 2524
+    },
+    {
+      "text": "TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANGIOTC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 2552,
+      "end": 2619
+    }
+  ],
+  "regenerado": true,
+  "fecha_regeneracion": "2025-08-06T06:38:13.950084"
+}

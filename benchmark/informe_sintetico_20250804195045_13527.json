@@ -1,0 +1,149 @@
+{
+  "document_id": "informe_sintetico_20250804195045_13527",
+  "entities": [
+    {
+      "text": "hematoma intracerebral",
+      "type": "PATOLOGIA",
+      "start": 540,
+      "end": 562
+    },
+    {
+      "text": "3,5 x 3,0 x 2,8 cm",
+      "type": "MEDIDA",
+      "start": 566,
+      "end": 584
+    },
+    {
+      "text": "núcleo caudado izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 602,
+      "end": 626
+    },
+    {
+      "text": "agudas",
+      "type": "TEMPORALIDAD",
+      "start": 718,
+      "end": 724
+    },
+    {
+      "text": "4 mm",
+      "type": "MEDIDA",
+      "start": 844,
+      "end": 848
+    },
+    {
+      "text": "infarto isquémico agudo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1027,
+      "end": 1050
+    },
+    {
+      "text": "disminución significativa del flujo cerebral",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1171,
+      "end": 1215
+    },
+    {
+      "text": "volumen cerebral",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1225,
+      "end": 1241
+    },
+    {
+      "text": "TTP",
+      "type": "PATOLOGIA",
+      "start": 1337,
+      "end": 1340
+    },
+    {
+      "text": "edema",
+      "type": "PATOLOGIA",
+      "start": 730,
+      "end": 735
+    },
+    {
+      "text": "malformaciones vasculares",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1476,
+      "end": 1501
+    },
+    {
+      "text": "aneurismas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1505,
+      "end": 1515
+    },
+    {
+      "text": "oclusión arterial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1542,
+      "end": 1559
+    },
+    {
+      "text": "estenosis relevantes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1563,
+      "end": 1583
+    },
+    {
+      "text": "edema perilesional",
+      "type": "PATOLOGIA",
+      "start": 730,
+      "end": 748
+    },
+    {
+      "text": "desviación de línea media de 4 mm",
+      "type": "MEDIDA",
+      "start": 1834,
+      "end": 1867
+    },
+    {
+      "text": "lesiones vasculares arteriales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1887,
+      "end": 1917
+    },
+    {
+      "text": "aneurismas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1505,
+      "end": 1515
+    },
+    {
+      "text": "isquemia cerebral concomitante",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1980,
+      "end": 2010
+    },
+    {
+      "text": "TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANGIOTC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 2346,
+      "end": 2413
+    },
+    {
+      "text": "TC craneal basal sin contraste",
+      "type": "TECNICA_IMAGEN",
+      "start": 337,
+      "end": 367
+    },
+    {
+      "text": "angiografía por angioTC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 401,
+      "end": 446
+    },
+    {
+      "text": "TC PERFUSIÓN",
+      "type": "TECNICA_IMAGEN",
+      "start": 1117,
+      "end": 1129
+    },
+    {
+      "text": "TC cerebral urgente con perfusión y angioTC arterial",
+      "type": "TECNICA_IMAGEN",
+      "start": 2178,
+      "end": 2230
+    }
+  ]
+}

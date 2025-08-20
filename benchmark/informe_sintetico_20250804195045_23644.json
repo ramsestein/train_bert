@@ -1,0 +1,77 @@
+{
+  "document_id": "informe_sintetico_20250804195045_23644",
+  "entities": [
+    {
+      "text": "hipodensidad lineal y difusa",
+      "type": "PATOLOGIA",
+      "start": 740,
+      "end": 768
+    },
+    {
+      "text": "regiones corticales y subcorticales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 772,
+      "end": 807
+    },
+    {
+      "text": "territorios frontoparietales y parietooccipitales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 815,
+      "end": 864
+    },
+    {
+      "text": "bilaterales",
+      "type": "LATERALIDAD",
+      "start": 865,
+      "end": 876
+    },
+    {
+      "text": "arterias cerebrales anterior, media y posterior",
+      "type": "ARTERIA",
+      "start": 934,
+      "end": 981
+    },
+    {
+      "text": "No se visualizan signos de hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 983,
+      "end": 1033
+    },
+    {
+      "text": "prolongación en regiones watershed bilaterales frontoparietal y parietooccipital",
+      "type": "PATOLOGIA",
+      "start": 1228,
+      "end": 1308
+    },
+    {
+      "text": "flujo cerebral de sangre (CBF)",
+      "type": "PATOLOGIA",
+      "start": 1368,
+      "end": 1398
+    },
+    {
+      "text": "sin evidencia de infarto establecido irreversible",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1465,
+      "end": 1514
+    },
+    {
+      "text": "disminución del calibre en ramas distales compatibles con vasoconstricción reactiva",
+      "type": "PATOLOGIA",
+      "start": 1645,
+      "end": 1728
+    },
+    {
+      "text": "sin signos de trombosis o oclusión",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1766,
+      "end": 1800
+    },
+    {
+      "text": "infarto tipo watershed bilateral",
+      "type": "PATOLOGIA",
+      "start": 1850,
+      "end": 1882
+    }
+  ]
+}

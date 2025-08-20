@@ -1,0 +1,131 @@
+{
+  "document_id": "informe_sintetico_20250804195045_21596",
+  "entities": [
+    {
+      "text": "evento isquémico agudo",
+      "type": "PATOLOGIA",
+      "start": 231,
+      "end": 253
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 460,
+      "end": 483
+    },
+    {
+      "text": "infarto precoz",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 507,
+      "end": 521
+    },
+    {
+      "text": "ASPECTS 9/10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 530,
+      "end": 542
+    },
+    {
+      "text": "hipodensidad cortical en región frontal superior derecha",
+      "type": "PATOLOGIA",
+      "start": 553,
+      "end": 609
+    },
+    {
+      "text": "área de prolongación en tiempo de tránsito medio (MTT)",
+      "type": "PATOLOGIA",
+      "start": 786,
+      "end": 840
+    },
+    {
+      "text": "tiempo hasta el pico (TTP)",
+      "type": "PATOLOGIA",
+      "start": 843,
+      "end": 869
+    },
+    {
+      "text": "territorio vascular derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 873,
+      "end": 900
+    },
+    {
+      "text": "región fronto-parietal superior",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 920,
+      "end": 951
+    },
+    {
+      "text": "flujo cerebral (CBF)",
+      "type": "PATOLOGIA",
+      "start": 956,
+      "end": 976
+    },
+    {
+      "text": "volumen cerebral (CBV)",
+      "type": "PATOLOGIA",
+      "start": 1024,
+      "end": 1046
+    },
+    {
+      "text": "penumbra isquémica regional",
+      "type": "PATOLOGIA",
+      "start": 1114,
+      "end": 1141
+    },
+    {
+      "text": "oclusión focal en segmento distal M2 de la arteria cerebral media derecha",
+      "type": "PATOLOGIA",
+      "start": 1182,
+      "end": 1255
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "ARTERIA",
+      "start": 1225,
+      "end": 1255
+    },
+    {
+      "text": "polígono de Willis",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1270,
+      "end": 1288
+    },
+    {
+      "text": "isquemia aguda en territorio distal de arteria cerebral media derecha (segmento M2)",
+      "type": "PATOLOGIA",
+      "start": 1449,
+      "end": 1532
+    },
+    {
+      "text": "penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1114,
+      "end": 1132
+    },
+    {
+      "text": "ASPECTS conservado (9/10)",
+      "type": "PUNTUACION_CLINICA",
+      "start": 1581,
+      "end": 1606
+    },
+    {
+      "text": "oclusión segmentaria distal de M2 derecha",
+      "type": "PATOLOGIA",
+      "start": 1662,
+      "end": 1703
+    },
+    {
+      "text": "Infarto cerebral agudo en territorio distal de arteria cerebral media derecha con penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1907,
+      "end": 2007
+    },
+    {
+      "text": "TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANGIOTC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 2035,
+      "end": 2102
+    }
+  ]
+}

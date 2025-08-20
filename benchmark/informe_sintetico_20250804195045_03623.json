@@ -1,0 +1,113 @@
+{
+  "document_id": "informe_sintetico_20250804195045_03623",
+  "entities": [
+    {
+      "text": "infarto isquémico agudo",
+      "type": "PATOLOGIA",
+      "start": 673,
+      "end": 696
+    },
+    {
+      "text": "región frontoinsular",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 606,
+      "end": 626
+    },
+    {
+      "text": "núcleo lenticular izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 629,
+      "end": 656
+    },
+    {
+      "text": "arteria cerebral media",
+      "type": "ARTERIA",
+      "start": 717,
+      "end": 739
+    },
+    {
+      "text": "HI2",
+      "type": "PUNTUACION_CLINICA",
+      "start": 873,
+      "end": 876
+    },
+    {
+      "text": "30%",
+      "type": "MEDIDA",
+      "start": 903,
+      "end": 906
+    },
+    {
+      "text": "agudo",
+      "type": "TEMPORALIDAD",
+      "start": 691,
+      "end": 696
+    },
+    {
+      "text": "hipoperfusión severa",
+      "type": "PATOLOGIA",
+      "start": 1253,
+      "end": 1273
+    },
+    {
+      "text": "ACM izquierda",
+      "type": "ARTERIA",
+      "start": 1294,
+      "end": 1307
+    },
+    {
+      "text": "bulbo carotídeo izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1450,
+      "end": 1475
+    },
+    {
+      "text": "<30%",
+      "type": "MEDIDA",
+      "start": 1505,
+      "end": 1509
+    },
+    {
+      "text": "sin oclusiones ni estenosis significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1584,
+      "end": 1626
+    },
+    {
+      "text": "sin hematoma expansivo ni efecto de masa significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1869,
+      "end": 1923
+    },
+    {
+      "text": "sin estenosis relevante",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2028,
+      "end": 2051
+    },
+    {
+      "text": "sin alteraciones relevantes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1398,
+      "end": 1425
+    },
+    {
+      "text": "sin hemoventrículos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1089,
+      "end": 1108
+    },
+    {
+      "text": "Cisternas basales libres",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1110,
+      "end": 1134
+    },
+    {
+      "text": "Leve edema cerebral perilesional",
+      "type": "PATOLOGIA",
+      "start": 1136,
+      "end": 1168
+    }
+  ]
+}

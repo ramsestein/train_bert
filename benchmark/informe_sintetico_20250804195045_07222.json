@@ -1,0 +1,83 @@
+{
+  "document_id": "informe_sintetico_20250804195045_07222",
+  "entities": [
+    {
+      "text": "hematoma intraparenquimatoso lobar",
+      "type": "PATOLOGIA",
+      "start": 463,
+      "end": 497
+    },
+    {
+      "text": "lóbulo frontal derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 501,
+      "end": 523
+    },
+    {
+      "text": "4.5 x 3.2 x 3.0 cm",
+      "type": "MEDIDA",
+      "start": 575,
+      "end": 593
+    },
+    {
+      "text": "derecho",
+      "type": "LATERALIDAD",
+      "start": 516,
+      "end": 523
+    },
+    {
+      "text": "edema vasogénico",
+      "type": "PATOLOGIA",
+      "start": 685,
+      "end": 701
+    },
+    {
+      "text": "sin desplazamiento significativo de la línea media",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 743,
+      "end": 793
+    },
+    {
+      "text": "No hay evidencia de hemorragia subaracnoidea",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 795,
+      "end": 839
+    },
+    {
+      "text": "sin afectación isquémica extensa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1022,
+      "end": 1054
+    },
+    {
+      "text": "permeabilidad conservada de las principales arterias intracraneales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1073,
+      "end": 1140
+    },
+    {
+      "text": "sin hallazgos vasculares asociados",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1465,
+      "end": 1499
+    },
+    {
+      "text": "TC craneal basal urgente",
+      "type": "TECNICA_IMAGEN",
+      "start": 263,
+      "end": 287
+    },
+    {
+      "text": "perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 366,
+      "end": 384
+    },
+    {
+      "text": "angio-TC intra y extracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 387,
+      "end": 416
+    }
+  ]
+}

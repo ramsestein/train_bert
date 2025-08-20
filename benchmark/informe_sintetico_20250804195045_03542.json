@@ -1,0 +1,251 @@
+{
+  "document_id": "informe_sintetico_20250804195045_03542",
+  "entities": [
+    {
+      "text": "paro cardiorrespiratorio",
+      "type": "PATOLOGIA",
+      "start": 200,
+      "end": 224
+    },
+    {
+      "text": "coma persistente",
+      "type": "PATOLOGIA",
+      "start": 248,
+      "end": 264
+    },
+    {
+      "text": "encefalopatía hipóxico-isquémica",
+      "type": "PATOLOGIA",
+      "start": 278,
+      "end": 310
+    },
+    {
+      "text": "pérdida global de diferenciación cortico-subcortical",
+      "type": "PATOLOGIA",
+      "start": 518,
+      "end": 570
+    },
+    {
+      "text": "borramiento difuso de surcos corticales",
+      "type": "PATOLOGIA",
+      "start": 576,
+      "end": 615
+    },
+    {
+      "text": "aumento de la densidad de la sustancia blanca profunda",
+      "type": "PATOLOGIA",
+      "start": 618,
+      "end": 672
+    },
+    {
+      "text": "hemorragia aguda",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 694,
+      "end": 710
+    },
+    {
+      "text": "lesiones focales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 717,
+      "end": 733
+    },
+    {
+      "text": "infarto territorial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 747,
+      "end": 766
+    },
+    {
+      "text": "disminución del volumen encefálico global",
+      "type": "PATOLOGIA",
+      "start": 781,
+      "end": 822
+    },
+    {
+      "text": "edema cerebral difuso",
+      "type": "PATOLOGIA",
+      "start": 840,
+      "end": 861
+    },
+    {
+      "text": "sistema ventricular",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 904,
+      "end": 923
+    },
+    {
+      "text": "cisternas basales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 957,
+      "end": 974
+    },
+    {
+      "text": "calcificaciones",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1029,
+      "end": 1044
+    },
+    {
+      "text": "masas intracraneales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1048,
+      "end": 1068
+    },
+    {
+      "text": "disminución generalizada del flujo sanguíneo cerebral",
+      "type": "PATOLOGIA",
+      "start": 1096,
+      "end": 1149
+    },
+    {
+      "text": "volumen sanguíneo cerebral",
+      "type": "PATOLOGIA",
+      "start": 1162,
+      "end": 1188
+    },
+    {
+      "text": "tiempo de tránsito medio",
+      "type": "MEDIDA",
+      "start": 1238,
+      "end": 1262
+    },
+    {
+      "text": "tiempo hasta el pico",
+      "type": "MEDIDA",
+      "start": 1275,
+      "end": 1295
+    },
+    {
+      "text": "hipoperfusión global",
+      "type": "PATOLOGIA",
+      "start": 1318,
+      "end": 1338
+    },
+    {
+      "text": "áreas con perfusión normal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1358,
+      "end": 1384
+    },
+    {
+      "text": "incremento focal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1392,
+      "end": 1408
+    },
+    {
+      "text": "arterias intracraneales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1489,
+      "end": 1512
+    },
+    {
+      "text": "calibre conservado",
+      "type": "PATOLOGIA",
+      "start": 1578,
+      "end": 1596
+    },
+    {
+      "text": "permeables",
+      "type": "PATOLOGIA",
+      "start": 1599,
+      "end": 1609
+    },
+    {
+      "text": "estenosis significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1614,
+      "end": 1638
+    },
+    {
+      "text": "defectos de relleno",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1672,
+      "end": 1691
+    },
+    {
+      "text": "placas ateromatosas no obstructivas",
+      "type": "PATOLOGIA",
+      "start": 1738,
+      "end": 1773
+    },
+    {
+      "text": "estenosis relevante",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1806,
+      "end": 1825
+    },
+    {
+      "text": "alteraciones hemodinámicas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1855,
+      "end": 1881
+    },
+    {
+      "text": "signos de vasculitis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1897,
+      "end": 1917
+    },
+    {
+      "text": "disección",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1921,
+      "end": 1930
+    },
+    {
+      "text": "encefalopatía hipóxico-isquémica difusa",
+      "type": "PATOLOGIA",
+      "start": 1981,
+      "end": 2020
+    },
+    {
+      "text": "edema cerebral",
+      "type": "PATOLOGIA",
+      "start": 840,
+      "end": 854
+    },
+    {
+      "text": "disminución global de perfusión cerebral",
+      "type": "PATOLOGIA",
+      "start": 2677,
+      "end": 2717
+    },
+    {
+      "text": "paro cardiorrespiratorio",
+      "type": "PATOLOGIA",
+      "start": 200,
+      "end": 224
+    },
+    {
+      "text": "signos de infarto territorial focal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2217,
+      "end": 2252
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2256,
+      "end": 2279
+    },
+    {
+      "text": "arterias intra y extracraneales principales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 2285,
+      "end": 2328
+    },
+    {
+      "text": "permeables",
+      "type": "PATOLOGIA",
+      "start": 1599,
+      "end": 1609
+    },
+    {
+      "text": "estenosis significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1614,
+      "end": 1638
+    }
+  ]
+}

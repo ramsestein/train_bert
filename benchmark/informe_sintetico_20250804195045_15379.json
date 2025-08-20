@@ -1,0 +1,119 @@
+{
+  "document_id": "informe_sintetico_20250804195045_15379",
+  "entities": [
+    {
+      "text": "infarto isquémico subagudo",
+      "type": "PATOLOGIA",
+      "start": 658,
+      "end": 684
+    },
+    {
+      "text": "transformación hemorrágica tipo PH1",
+      "type": "PATOLOGIA",
+      "start": 790,
+      "end": 825
+    },
+    {
+      "text": "hemorragia extraaxial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 899,
+      "end": 920
+    },
+    {
+      "text": "edema de significativa repercusión",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 924,
+      "end": 958
+    },
+    {
+      "text": "aumento del tiempo de tránsito",
+      "type": "PATOLOGIA",
+      "start": 1138,
+      "end": 1168
+    },
+    {
+      "text": "hipoperfusión isquémica",
+      "type": "PATOLOGIA",
+      "start": 1221,
+      "end": 1244
+    },
+    {
+      "text": "oclusión o estenosis severa de segmento proximal de arteria cerebral media derecha",
+      "type": "PATOLOGIA",
+      "start": 1353,
+      "end": 1435
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "ARTERIA",
+      "start": 612,
+      "end": 642
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "ARTERIA",
+      "start": 612,
+      "end": 642
+    },
+    {
+      "text": "hemorragia intracraneal de mayor cuantía",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1888,
+      "end": 1928
+    },
+    {
+      "text": "territorio de arteria cerebral media derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 598,
+      "end": 642
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 635,
+      "end": 642
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 635,
+      "end": 642
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 635,
+      "end": 642
+    },
+    {
+      "text": "4 horas",
+      "type": "TEMPORALIDAD",
+      "start": 298,
+      "end": 305
+    },
+    {
+      "text": "PH1",
+      "type": "PUNTUACION_CLINICA",
+      "start": 822,
+      "end": 825
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 421,
+      "end": 437
+    },
+    {
+      "text": "angiografía TC intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 471,
+      "end": 498
+    },
+    {
+      "text": "angiografía TC",
+      "type": "TECNICA_IMAGEN",
+      "start": 471,
+      "end": 485
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "document_id": "informe_sintetico_20250804195045_00579",
+  "entities": [
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 233,
+      "end": 247
+    },
+    {
+      "text": "arteria cerebral anterior (ACA) derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 265,
+      "end": 304
+    },
+    {
+      "text": "TC Basal craneal + TC Perfusión cerebral + AngioTC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 342,
+      "end": 414
+    },
+    {
+      "text": "No se observan hemorragias intra ni extraaxiales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 502,
+      "end": 550
+    },
+    {
+      "text": "alterada en región frontal medial derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 591,
+      "end": 632
+    },
+    {
+      "text": "arteria cerebral anterior derecha",
+      "type": "ARTERIA",
+      "start": 699,
+      "end": 732
+    },
+    {
+      "text": "ASPECTS modificada con zona afectada correspondiente a 8",
+      "type": "PUNTUACION_CLINICA",
+      "start": 734,
+      "end": 790
+    },
+    {
+      "text": "Disminución marcada del flujo cerebral (CBF) y volumen cerebral (CBV)",
+      "type": "PATOLOGIA",
+      "start": 982,
+      "end": 1051
+    },
+    {
+      "text": "territorio frontal medial derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1055,
+      "end": 1088
+    },
+    {
+      "text": "hipoperfusión aguda",
+      "type": "PATOLOGIA",
+      "start": 1105,
+      "end": 1124
+    },
+    {
+      "text": "A2 de la arteria cerebral anterior derecha",
+      "type": "ARTERIA",
+      "start": 1402,
+      "end": 1444
+    },
+    {
+      "text": "Sin evidencia de hemorragia ni edema cerebral significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1871,
+      "end": 1930
+    },
+    {
+      "text": "infarto cerebral agudo en territorio ACA derecho",
+      "type": "PATOLOGIA",
+      "start": 1960,
+      "end": 2008
+    },
+    {
+      "text": "Oclusión segmentaria de A2 ACA derecha",
+      "type": "PATOLOGIA",
+      "start": 2521,
+      "end": 2559
+    }
+  ]
+}

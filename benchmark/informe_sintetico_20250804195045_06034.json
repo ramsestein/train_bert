@@ -1,0 +1,173 @@
+{
+  "document_id": "informe_sintetico_20250804195045_06034",
+  "entities": [
+    {
+      "text": "hemiparesia derecha",
+      "type": "PATOLOGIA",
+      "start": 217,
+      "end": 236
+    },
+    {
+      "text": "afasia motora",
+      "type": "PATOLOGIA",
+      "start": 239,
+      "end": 252
+    },
+    {
+      "text": "menor a 3 horas",
+      "type": "TEMPORALIDAD",
+      "start": 274,
+      "end": 289
+    },
+    {
+      "text": "imagen hiperdensa",
+      "type": "PATOLOGIA",
+      "start": 465,
+      "end": 482
+    },
+    {
+      "text": "segmento M1",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 486,
+      "end": 497
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "ARTERIA",
+      "start": 504,
+      "end": 536
+    },
+    {
+      "text": "trombo intraluminal",
+      "type": "PATOLOGIA",
+      "start": 553,
+      "end": 572
+    },
+    {
+      "text": "Hipodensidad cortical",
+      "type": "PATOLOGIA",
+      "start": 574,
+      "end": 595
+    },
+    {
+      "text": "territorio superficial de ACM izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 599,
+      "end": 638
+    },
+    {
+      "text": "ASPECTS 7/10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 663,
+      "end": 675
+    },
+    {
+      "text": "No se detectan signos de hemorragia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 677,
+      "end": 712
+    },
+    {
+      "text": "edema masivo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 716,
+      "end": 728
+    },
+    {
+      "text": "reducción significativa del flujo sanguíneo cerebral",
+      "type": "PATOLOGIA",
+      "start": 875,
+      "end": 927
+    },
+    {
+      "text": "volumen cerebral en territorio de la ACM izquierda proximal",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 930,
+      "end": 989
+    },
+    {
+      "text": "tiempo de tránsito medio",
+      "type": "MEDIDA",
+      "start": 1012,
+      "end": 1036
+    },
+    {
+      "text": "penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1056,
+      "end": 1074
+    },
+    {
+      "text": "déficit de perfusión crítica",
+      "type": "PATOLOGIA",
+      "start": 1077,
+      "end": 1105
+    },
+    {
+      "text": "Oclusión completa",
+      "type": "PATOLOGIA",
+      "start": 1140,
+      "end": 1157
+    },
+    {
+      "text": "segmento M1 de la arteria cerebral media izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 486,
+      "end": 536
+    },
+    {
+      "text": "Arterias intracraneales restantes permeables",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1214,
+      "end": 1258
+    },
+    {
+      "text": "sin estenosis ni placas ateromatosas significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1260,
+      "end": 1311
+    },
+    {
+      "text": "Sistema vertebrobasilar sin alteraciones",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1313,
+      "end": 1353
+    },
+    {
+      "text": "Imagen hiperdensa en M1 izquierda",
+      "type": "PATOLOGIA",
+      "start": 1378,
+      "end": 1411
+    },
+    {
+      "text": "ASPECTS 7/10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 663,
+      "end": 675
+    },
+    {
+      "text": "Oclusión proximal de arteria cerebral media izquierda",
+      "type": "PATOLOGIA",
+      "start": 1462,
+      "end": 1515
+    },
+    {
+      "text": "confirmada en Angio-TC",
+      "type": "TECNICA_IMAGEN",
+      "start": 1516,
+      "end": 1538
+    },
+    {
+      "text": "Evidencia de área de penumbra con hipoperfusión en TC perfusión",
+      "type": "PATOLOGIA",
+      "start": 1540,
+      "end": 1603
+    },
+    {
+      "text": "No signos de hemorragia ni edema masivo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1605,
+      "end": 1644
+    }
+  ]
+}

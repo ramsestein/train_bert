@@ -1,0 +1,71 @@
+{
+  "document_id": "informe_sintetico_20250804195045_03921",
+  "entities": [
+    {
+      "text": "infarto lacunar agudo",
+      "type": "PATOLOGIA",
+      "start": 264,
+      "end": 285
+    },
+    {
+      "text": "6 mm",
+      "type": "MEDIDA",
+      "start": 551,
+      "end": 555
+    },
+    {
+      "text": "región capsulonuclear izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 559,
+      "end": 590
+    },
+    {
+      "text": "ASPECTS 9",
+      "type": "PUNTUACION_CLINICA",
+      "start": 751,
+      "end": 760
+    },
+    {
+      "text": "núcleo lenticular izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 999,
+      "end": 1026
+    },
+    {
+      "text": "infarto isquémico de reperfusión limitada",
+      "type": "PATOLOGIA",
+      "start": 1112,
+      "end": 1153
+    },
+    {
+      "text": "ACAs, ACMs, ACPs",
+      "type": "ARTERIA",
+      "start": 1264,
+      "end": 1280
+    },
+    {
+      "text": "sin estenosis significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1337,
+      "end": 1364
+    },
+    {
+      "text": "No se evidencia hemorragia intracraneal ni signos de sangrado extraaxial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 428,
+      "end": 500
+    },
+    {
+      "text": "sin complicaciones hemorrágicas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1501,
+      "end": 1532
+    },
+    {
+      "text": "sin estenosis oclusivas visibles",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1701,
+      "end": 1733
+    }
+  ]
+}

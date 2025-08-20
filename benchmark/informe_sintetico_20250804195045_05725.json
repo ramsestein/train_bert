@@ -1,0 +1,227 @@
+{
+  "document_id": "informe_sintetico_20250804195045_05725",
+  "entities": [
+    {
+      "text": "hemiparesia derecha",
+      "type": "PATOLOGIA",
+      "start": 218,
+      "end": 237
+    },
+    {
+      "text": "afasia motora",
+      "type": "PATOLOGIA",
+      "start": 240,
+      "end": 253
+    },
+    {
+      "text": "ictus isquémico",
+      "type": "PATOLOGIA",
+      "start": 275,
+      "end": 290
+    },
+    {
+      "text": "hemorragias agudas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 599,
+      "end": 617
+    },
+    {
+      "text": "lesiones expansivas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 621,
+      "end": 640
+    },
+    {
+      "text": "región insular y opercular izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 702,
+      "end": 738
+    },
+    {
+      "text": "edema citotóxico",
+      "type": "PATOLOGIA",
+      "start": 770,
+      "end": 786
+    },
+    {
+      "text": "ASPECTS 9",
+      "type": "PUNTUACION_CLINICA",
+      "start": 788,
+      "end": 797
+    },
+    {
+      "text": "hipodensidad",
+      "type": "PATOLOGIA",
+      "start": 811,
+      "end": 823
+    },
+    {
+      "text": "arteria cerebral media (ACM)",
+      "type": "ARTERIA",
+      "start": 844,
+      "end": 872
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 729,
+      "end": 738
+    },
+    {
+      "text": "distal izquierda (segmentos M2/M3)",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 873,
+      "end": 907
+    },
+    {
+      "text": "Línea media sin desviación",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 909,
+      "end": 935
+    },
+    {
+      "text": "Sistema ventricular normal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 937,
+      "end": 963
+    },
+    {
+      "text": "Cisternas basales libres",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 965,
+      "end": 989
+    },
+    {
+      "text": "retraso focalizado",
+      "type": "PATOLOGIA",
+      "start": 1081,
+      "end": 1099
+    },
+    {
+      "text": "ACM distal izquierda (M2/M3)",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1117,
+      "end": 1145
+    },
+    {
+      "text": "aumento de tiempo y disminución del flujo cerebral (CBF)",
+      "type": "PATOLOGIA",
+      "start": 1150,
+      "end": 1206
+    },
+    {
+      "text": "Volumen cerebral (CBV) conservado",
+      "type": "PATOLOGIA",
+      "start": 1208,
+      "end": 1241
+    },
+    {
+      "text": "área de penumbra viable",
+      "type": "PATOLOGIA",
+      "start": 1257,
+      "end": 1280
+    },
+    {
+      "text": "No se identifica área establecida de infarto",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1282,
+      "end": 1326
+    },
+    {
+      "text": "Oclusión segmentaria en rama distal de ACM izquierda",
+      "type": "PATOLOGIA",
+      "start": 1392,
+      "end": 1444
+    },
+    {
+      "text": "segmento M2",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1449,
+      "end": 1460
+    },
+    {
+      "text": "ausencia de contraste distal a la lesión",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1466,
+      "end": 1506
+    },
+    {
+      "text": "Resto del sistema arterial intracraneal permeable",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1508,
+      "end": 1557
+    },
+    {
+      "text": "sin estenosis significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1559,
+      "end": 1587
+    },
+    {
+      "text": "No se observan malformaciones vasculares ni aneurismas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1589,
+      "end": 1643
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 1748,
+      "end": 1762
+    },
+    {
+      "text": "territorio de ACM distal izquierda (M2/M3)",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1103,
+      "end": 1145
+    },
+    {
+      "text": "ASPECTS 9",
+      "type": "PUNTUACION_CLINICA",
+      "start": 788,
+      "end": 797
+    },
+    {
+      "text": "Oclusión arterial distal confirmada en segmento M2 de ACM izquierda",
+      "type": "PATOLOGIA",
+      "start": 1824,
+      "end": 1891
+    },
+    {
+      "text": "área de penumbra con tejido potencialmente recuperable",
+      "type": "PATOLOGIA",
+      "start": 1911,
+      "end": 1965
+    },
+    {
+      "text": "No hemorragias ni edema significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1967,
+      "end": 2004
+    },
+    {
+      "text": "ictus isquémico agudo limitado a territorio distal de ACM",
+      "type": "PATOLOGIA",
+      "start": 2029,
+      "end": 2086
+    },
+    {
+      "text": "candidato a tratamiento endovascular",
+      "type": "PATOLOGIA",
+      "start": 2088,
+      "end": 2124
+    },
+    {
+      "text": "Oclusión segmentaria en ACM distal izquierda (M2)",
+      "type": "PATOLOGIA",
+      "start": 2459,
+      "end": 2508
+    },
+    {
+      "text": "Sistema arterial intracraneal permeable sin otras estenosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2510,
+      "end": 2569
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "document_id": "informe_sintetico_20250804195045_01236",
+  "entities": [
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 252,
+      "end": 266
+    },
+    {
+      "text": "arteria cerebral posterior izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 287,
+      "end": 323
+    },
+    {
+      "text": "ASPECTS-P 7",
+      "type": "PUNTUACION_CLINICA",
+      "start": 688,
+      "end": 699
+    },
+    {
+      "text": "aumento del tiempo medio de tránsito (MTT)",
+      "type": "MEDIDA",
+      "start": 842,
+      "end": 884
+    },
+    {
+      "text": "tiempo de retraso (TTP)",
+      "type": "MEDIDA",
+      "start": 887,
+      "end": 910
+    },
+    {
+      "text": "disminución del volumen cerebral de sangre (CBV)",
+      "type": "MEDIDA",
+      "start": 946,
+      "end": 994
+    },
+    {
+      "text": "descenso notorio en el flujo cerebral de sangre (CBF)",
+      "type": "MEDIDA",
+      "start": 1022,
+      "end": 1075
+    },
+    {
+      "text": "penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1096,
+      "end": 1114
+    },
+    {
+      "text": "Oclusión completa del segmento P2",
+      "type": "PATOLOGIA",
+      "start": 1233,
+      "end": 1266
+    },
+    {
+      "text": "arteria cerebral posterior izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 287,
+      "end": 323
+    },
+    {
+      "text": "sin hemorragia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2198,
+      "end": 2212
+    },
+    {
+      "text": "ASPECTS-P estimado en 7",
+      "type": "PUNTUACION_CLINICA",
+      "start": 1732,
+      "end": 1755
+    },
+    {
+      "text": "Oclusión segmentaria de P2 ACP izquierda",
+      "type": "PATOLOGIA",
+      "start": 2409,
+      "end": 2449
+    },
+    {
+      "text": "sin estenosis significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2451,
+      "end": 2478
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 344,
+      "end": 360
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 377,
+      "end": 398
+    },
+    {
+      "text": "angioTC intracraneal arterial urgente",
+      "type": "TECNICA_IMAGEN",
+      "start": 401,
+      "end": 438
+    }
+  ]
+}

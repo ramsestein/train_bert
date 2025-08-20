@@ -1,0 +1,101 @@
+{
+  "document_id": "informe_sintetico_20250804195045_15910",
+  "entities": [
+    {
+      "text": "hemorragia subaracnoidea",
+      "type": "PATOLOGIA",
+      "start": 255,
+      "end": 279
+    },
+    {
+      "text": "cisternas basales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 461,
+      "end": 478
+    },
+    {
+      "text": "cisterna supraselar",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 508,
+      "end": 527
+    },
+    {
+      "text": "cisternas perimesencefálicas",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 529,
+      "end": 557
+    },
+    {
+      "text": "surco silviano bilateral",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 563,
+      "end": 587
+    },
+    {
+      "text": "hematomas intraparenquimatosos",
+      "type": "PATOLOGIA",
+      "start": 655,
+      "end": 685
+    },
+    {
+      "text": "hemorragias intraventriculares",
+      "type": "PATOLOGIA",
+      "start": 689,
+      "end": 719
+    },
+    {
+      "text": "isquemia cerebral aguda",
+      "type": "PATOLOGIA",
+      "start": 1076,
+      "end": 1099
+    },
+    {
+      "text": "5 mm",
+      "type": "MEDIDA",
+      "start": 1290,
+      "end": 1294
+    },
+    {
+      "text": "arteria comunicante anterior",
+      "type": "ARTERIA",
+      "start": 1301,
+      "end": 1329
+    },
+    {
+      "text": "sin signos de oclusión",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1220,
+      "end": 1242
+    },
+    {
+      "text": "sin hematomas intraparenquimatosos ni hemorragia intraventricular",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1631,
+      "end": 1696
+    },
+    {
+      "text": "sin signos de desplazamiento ni herniación",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 788,
+      "end": 830
+    },
+    {
+      "text": "TC Basal craneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 300,
+      "end": 316
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 319,
+      "end": 340
+    },
+    {
+      "text": "AngioTC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 343,
+      "end": 372
+    }
+  ]
+}

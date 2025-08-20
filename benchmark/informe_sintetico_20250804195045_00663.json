@@ -1,0 +1,107 @@
+{
+  "document_id": "informe_sintetico_20250804195045_00663",
+  "entities": [
+    {
+      "text": "infarto cerebral",
+      "type": "PATOLOGIA",
+      "start": 337,
+      "end": 353
+    },
+    {
+      "text": "hipoperfusión",
+      "type": "PATOLOGIA",
+      "start": 358,
+      "end": 371
+    },
+    {
+      "text": "edema incipiente",
+      "type": "PATOLOGIA",
+      "start": 909,
+      "end": 925
+    },
+    {
+      "text": "hipoperfusión",
+      "type": "PATOLOGIA",
+      "start": 358,
+      "end": 371
+    },
+    {
+      "text": "infarto establecido",
+      "type": "PATOLOGIA",
+      "start": 1323,
+      "end": 1342
+    },
+    {
+      "text": "zonas corticales fronterizas frontoparietal derecha y occipital izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1785,
+      "end": 1858
+    },
+    {
+      "text": "arterias cerebrales anterior, media y posterior",
+      "type": "ARTERIA",
+      "start": 1416,
+      "end": 1463
+    },
+    {
+      "text": "bilateral",
+      "type": "LATERALIDAD",
+      "start": 1744,
+      "end": 1753
+    },
+    {
+      "text": "sin estenosis significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1582,
+      "end": 1609
+    },
+    {
+      "text": "sin evidencia de infarto establecido ni hemorragia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1860,
+      "end": 1910
+    },
+    {
+      "text": "sin estenosis que justifique el cuadro",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1944,
+      "end": 1982
+    },
+    {
+      "text": "TC CRANEAL BASAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 566,
+      "end": 582
+    },
+    {
+      "text": "TC PERFUSIÓN",
+      "type": "TECNICA_IMAGEN",
+      "start": 1008,
+      "end": 1020
+    },
+    {
+      "text": "ANGIO-TC EXTRA E INTRACRANEAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 1466,
+      "end": 1495
+    },
+    {
+      "text": "prolongación del tiempo de tránsito (TTP)",
+      "type": "MEDIDA",
+      "start": 1050,
+      "end": 1091
+    },
+    {
+      "text": "disminución leve a moderada del flujo cerebral (CBF)",
+      "type": "MEDIDA",
+      "start": 1165,
+      "end": 1217
+    },
+    {
+      "text": "volumen sanguíneo cerebral (CBV) conservado o ligeramente reducido",
+      "type": "MEDIDA",
+      "start": 1220,
+      "end": 1286
+    }
+  ]
+}

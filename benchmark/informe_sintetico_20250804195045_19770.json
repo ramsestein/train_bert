@@ -1,0 +1,83 @@
+{
+  "document_id": "informe_sintetico_20250804195045_19770",
+  "entities": [
+    {
+      "text": "infarto cerebral",
+      "type": "PATOLOGIA",
+      "start": 713,
+      "end": 729
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "ARTERIA",
+      "start": 588,
+      "end": 620
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 611,
+      "end": 620
+    },
+    {
+      "text": "aguda",
+      "type": "TEMPORALIDAD",
+      "start": 738,
+      "end": 743
+    },
+    {
+      "text": "área de penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1321,
+      "end": 1347
+    },
+    {
+      "text": "arteria carótida interna izquierda",
+      "type": "ARTERIA",
+      "start": 1434,
+      "end": 1468
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 611,
+      "end": 620
+    },
+    {
+      "text": "sin flujo distal visible",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1500,
+      "end": 1524
+    },
+    {
+      "text": "ausencia de contraste",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1576,
+      "end": 1597
+    },
+    {
+      "text": "sin alteraciones",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1795,
+      "end": 1811
+    },
+    {
+      "text": "infarto cerebral agudo",
+      "type": "PATOLOGIA",
+      "start": 1890,
+      "end": 1912
+    },
+    {
+      "text": "arteria cerebral media ipsilateral",
+      "type": "ARTERIA",
+      "start": 1933,
+      "end": 1967
+    },
+    {
+      "text": "TC perfusión",
+      "type": "TECNICA_IMAGEN",
+      "start": 365,
+      "end": 377
+    }
+  ]
+}

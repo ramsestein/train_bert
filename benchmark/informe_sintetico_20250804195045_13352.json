@@ -1,0 +1,83 @@
+{
+  "document_id": "informe_sintetico_20250804195045_13352",
+  "entities": [
+    {
+      "text": "hemorragia subaracnoidea focal",
+      "type": "PATOLOGIA",
+      "start": 240,
+      "end": 270
+    },
+    {
+      "text": "cisterna silviana derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 494,
+      "end": 519
+    },
+    {
+      "text": "hematomas intraparenquimatosos",
+      "type": "PATOLOGIA",
+      "start": 581,
+      "end": 611
+    },
+    {
+      "text": "sangrado intraventricular",
+      "type": "PATOLOGIA",
+      "start": 615,
+      "end": 640
+    },
+    {
+      "text": "edema perilesional",
+      "type": "PATOLOGIA",
+      "start": 668,
+      "end": 686
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "ARTERIA",
+      "start": 1291,
+      "end": 1321
+    },
+    {
+      "text": "4 mm",
+      "type": "MEDIDA",
+      "start": 1262,
+      "end": 1266
+    },
+    {
+      "text": "hemorragia subaracnoidea focal",
+      "type": "PATOLOGIA",
+      "start": 240,
+      "end": 270
+    },
+    {
+      "text": "isquemia cerebral",
+      "type": "PATOLOGIA",
+      "start": 1096,
+      "end": 1113
+    },
+    {
+      "text": "sin signos de isquemia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2243,
+      "end": 2265
+    },
+    {
+      "text": "TC craneal basal sin contraste",
+      "type": "TECNICA_IMAGEN",
+      "start": 290,
+      "end": 320
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 322,
+      "end": 343
+    },
+    {
+      "text": "angiografía por angio-TC arterial intracraneal con contraste endovenoso",
+      "type": "TECNICA_IMAGEN",
+      "start": 345,
+      "end": 416
+    }
+  ]
+}

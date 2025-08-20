@@ -1,0 +1,113 @@
+{
+  "document_id": "informe_sintetico_20250804195045_23925",
+  "entities": [
+    {
+      "text": "hematoma intraparenquimatoso",
+      "type": "PATOLOGIA",
+      "start": 435,
+      "end": 463
+    },
+    {
+      "text": "localización putaminal izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 467,
+      "end": 499
+    },
+    {
+      "text": "cápsula interna",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 552,
+      "end": 567
+    },
+    {
+      "text": "alta densidad compatible con sangre fresca",
+      "type": "PATOLOGIA",
+      "start": 602,
+      "end": 644
+    },
+    {
+      "text": "edema vasogénico perilesional moderado",
+      "type": "PATOLOGIA",
+      "start": 657,
+      "end": 695
+    },
+    {
+      "text": "desplazamiento de la línea media hacia la derecha de aproximadamente 6 mm",
+      "type": "PATOLOGIA",
+      "start": 698,
+      "end": 771
+    },
+    {
+      "text": "No hay evidencia de hemorragia subaracnoidea",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 773,
+      "end": 817
+    },
+    {
+      "text": "No se observa discordancia que sugiera territorio isquémico estrictamente definido fuera del hematoma",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1253,
+      "end": 1354
+    },
+    {
+      "text": "No se identifican estenosis oclusivas en arterias intracraneales principales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1391,
+      "end": 1467
+    },
+    {
+      "text": "Arterias cerebrales permeables",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1469,
+      "end": 1499
+    },
+    {
+      "text": "No se visualizan malformaciones vasculares, aneurismas ni signos de disección",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1501,
+      "end": 1578
+    },
+    {
+      "text": "ateromatosis moderada en bifurcación carotídea izquierda",
+      "type": "PATOLOGIA",
+      "start": 1593,
+      "end": 1649
+    },
+    {
+      "text": "Sistema vertebrobasilar sin alteraciones relevantes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1679,
+      "end": 1730
+    },
+    {
+      "text": "ASPECTS 6",
+      "type": "PUNTUACION_CLINICA",
+      "start": 921,
+      "end": 930
+    },
+    {
+      "text": "TC craneal basal no contrastada",
+      "type": "TECNICA_IMAGEN",
+      "start": 278,
+      "end": 309
+    },
+    {
+      "text": "TC PERFUSIÓN",
+      "type": "TECNICA_IMAGEN",
+      "start": 1075,
+      "end": 1087
+    },
+    {
+      "text": "ANGIO-TC EXTRA E INTRACRANEAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 1358,
+      "end": 1387
+    },
+    {
+      "text": "isquemia isquémica aguda",
+      "type": "PATOLOGIA",
+      "start": 1953,
+      "end": 1977
+    }
+  ]
+}

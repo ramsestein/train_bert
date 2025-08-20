@@ -1,0 +1,95 @@
+{
+  "document_id": "informe_sintetico_20250804195045_04490",
+  "entities": [
+    {
+      "text": "ictus isquémico agudo",
+      "type": "PATOLOGIA",
+      "start": 236,
+      "end": 257
+    },
+    {
+      "text": "pérdida de diferenciación cortico-subcortical",
+      "type": "PATOLOGIA",
+      "start": 496,
+      "end": 541
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 683,
+      "end": 697
+    },
+    {
+      "text": "territorio de la arteria cerebral media",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 614,
+      "end": 653
+    },
+    {
+      "text": "ACM",
+      "type": "ARTERIA",
+      "start": 655,
+      "end": 658
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 571,
+      "end": 578
+    },
+    {
+      "text": "ASPECTS 6",
+      "type": "PUNTUACION_CLINICA",
+      "start": 699,
+      "end": 708
+    },
+    {
+      "text": "signo de arteria hiperdensa",
+      "type": "PATOLOGIA",
+      "start": 724,
+      "end": 751
+    },
+    {
+      "text": "60%",
+      "type": "MEDIDA",
+      "start": 1221,
+      "end": 1224
+    },
+    {
+      "text": "Oclusión completa del segmento M1 de ACM derecha",
+      "type": "PATOLOGIA",
+      "start": 1261,
+      "end": 1309
+    },
+    {
+      "text": "sin evidencia de contraste distal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1310,
+      "end": 1343
+    },
+    {
+      "text": "No se observan hemorragias asociadas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1659,
+      "end": 1695
+    },
+    {
+      "text": "TC craneal basal sin contraste",
+      "type": "TECNICA_IMAGEN",
+      "start": 278,
+      "end": 308
+    },
+    {
+      "text": "perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 321,
+      "end": 339
+    },
+    {
+      "text": "angio-TC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 342,
+      "end": 372
+    }
+  ]
+}

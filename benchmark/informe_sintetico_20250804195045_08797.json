@@ -1,0 +1,227 @@
+{
+  "document_id": "informe_sintetico_20250804195045_08797",
+  "entities": [
+    {
+      "text": "infarto cerebral",
+      "type": "PATOLOGIA",
+      "start": 290,
+      "end": 306
+    },
+    {
+      "text": "hemorragias intracraneales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 513,
+      "end": 539
+    },
+    {
+      "text": "colecciones subdurales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 543,
+      "end": 565
+    },
+    {
+      "text": "epidurales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 568,
+      "end": 578
+    },
+    {
+      "text": "hipodensidad parcheada y mal delimitada",
+      "type": "PATOLOGIA",
+      "start": 591,
+      "end": 630
+    },
+    {
+      "text": "regiones corticales y subcorticales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 634,
+      "end": 669
+    },
+    {
+      "text": "zonas de frontera",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 310,
+      "end": 327
+    },
+    {
+      "text": "arterias cerebrales anterior, media y posterior",
+      "type": "ARTERIA",
+      "start": 735,
+      "end": 782
+    },
+    {
+      "text": "áreas parasagitales bilaterales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 809,
+      "end": 840
+    },
+    {
+      "text": "edema significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 869,
+      "end": 888
+    },
+    {
+      "text": "desplazamientos de líneas medias",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 892,
+      "end": 924
+    },
+    {
+      "text": "disminución difusa",
+      "type": "PATOLOGIA",
+      "start": 1057,
+      "end": 1075
+    },
+    {
+      "text": "zonas de watershed",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1083,
+      "end": 1101
+    },
+    {
+      "text": "volumen sanguíneo cerebral",
+      "type": "MEDIDA",
+      "start": 1140,
+      "end": 1166
+    },
+    {
+      "text": "preservado o levemente disminuido",
+      "type": "PATOLOGIA",
+      "start": 1184,
+      "end": 1217
+    },
+    {
+      "text": "tiempo de tránsito medio",
+      "type": "MEDIDA",
+      "start": 1248,
+      "end": 1272
+    },
+    {
+      "text": "prolongado",
+      "type": "PATOLOGIA",
+      "start": 1284,
+      "end": 1294
+    },
+    {
+      "text": "área de penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1332,
+      "end": 1358
+    },
+    {
+      "text": "caída brusca de CBV",
+      "type": "PATOLOGIA",
+      "start": 1392,
+      "end": 1411
+    },
+    {
+      "text": "infarto establecido",
+      "type": "PATOLOGIA",
+      "start": 1425,
+      "end": 1444
+    },
+    {
+      "text": "estenosis o lesiones ateromatosas significativas",
+      "type": "PATOLOGIA",
+      "start": 1552,
+      "end": 1600
+    },
+    {
+      "text": "sin estenosis ni oclusiones manifiestas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1665,
+      "end": 1704
+    },
+    {
+      "text": "sistema vertebrobasilar",
+      "type": "ARTERIA",
+      "start": 1709,
+      "end": 1732
+    },
+    {
+      "text": "sin alteraciones",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1747,
+      "end": 1763
+    },
+    {
+      "text": "aneurismas ni malformaciones vasculares",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1783,
+      "end": 1822
+    },
+    {
+      "text": "hallazgos compatibles con infarto de zonas de frontera",
+      "type": "PATOLOGIA",
+      "start": 1861,
+      "end": 1915
+    },
+    {
+      "text": "afectación parasagital entre territorios irrigados por las ACAs y ACMs",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1945,
+      "end": 2015
+    },
+    {
+      "text": "zonas posteriores entre ACMs y ACPs",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 2027,
+      "end": 2062
+    },
+    {
+      "text": "alteración hemodinámica",
+      "type": "PATOLOGIA",
+      "start": 2082,
+      "end": 2105
+    },
+    {
+      "text": "hipoperfusión",
+      "type": "PATOLOGIA",
+      "start": 2143,
+      "end": 2156
+    },
+    {
+      "text": "prolongación del MTT",
+      "type": "PATOLOGIA",
+      "start": 2161,
+      "end": 2181
+    },
+    {
+      "text": "reducción del CBF",
+      "type": "PATOLOGIA",
+      "start": 2184,
+      "end": 2201
+    },
+    {
+      "text": "reserva de volumen (CBV)",
+      "type": "PATOLOGIA",
+      "start": 2207,
+      "end": 2231
+    },
+    {
+      "text": "lesión isquémica potencialmente reversible",
+      "type": "PATOLOGIA",
+      "start": 2247,
+      "end": 2289
+    },
+    {
+      "text": "sin evidencia de obstrucción de grandes vasos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2332,
+      "end": 2377
+    },
+    {
+      "text": "déficit",
+      "type": "PATOLOGIA",
+      "start": 196,
+      "end": 203
+    },
+    {
+      "text": "mecanismo hemodinámico o hipoperfusión sistémica",
+      "type": "PATOLOGIA",
+      "start": 2416,
+      "end": 2464
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "document_id": "informe_sintetico_20250804195045_09566",
+  "entities": [
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 742,
+      "end": 756
+    },
+    {
+      "text": "arteria cerebral posterior (ACP)",
+      "type": "ARTERIA",
+      "start": 619,
+      "end": 651
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 652,
+      "end": 661
+    },
+    {
+      "text": "lóbulo occipital",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1810,
+      "end": 1826
+    },
+    {
+      "text": "lóbulos temporales mediales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1829,
+      "end": 1856
+    },
+    {
+      "text": "Oclusión completa",
+      "type": "PATOLOGIA",
+      "start": 1340,
+      "end": 1357
+    },
+    {
+      "text": "segmento P2 de arteria cerebral posterior izquierda",
+      "type": "ARTERIA",
+      "start": 1362,
+      "end": 1413
+    },
+    {
+      "text": "bilaterales",
+      "type": "LATERALIDAD",
+      "start": 1452,
+      "end": 1463
+    },
+    {
+      "text": "No se identifican signos de hemorragia intracraneal ni colecciones extraaxiales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 447,
+      "end": 526
+    },
+    {
+      "text": "No se observan estenosis significativas ni placas ateromatosas relevantes en arterias cervicales ni intracraneales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1476,
+      "end": 1590
+    },
+    {
+      "text": "No se identifican sangrados ni masas intracraneales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2099,
+      "end": 2150
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "document_id": "informe_sintetico_20250804195045_11881",
+  "entities": [
+    {
+      "text": "infarto reciente",
+      "type": "PATOLOGIA",
+      "start": 700,
+      "end": 716
+    },
+    {
+      "text": "signos de sangrado intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 735,
+      "end": 766
+    },
+    {
+      "text": "edema vasogénico",
+      "type": "PATOLOGIA",
+      "start": 775,
+      "end": 791
+    },
+    {
+      "text": "desplazamiento de la línea media hacia la izquierda",
+      "type": "PATOLOGIA",
+      "start": 829,
+      "end": 880
+    },
+    {
+      "text": "ASPECTS reducido a 6",
+      "type": "PUNTUACION_CLINICA",
+      "start": 882,
+      "end": 902
+    },
+    {
+      "text": "hipoperfusión",
+      "type": "PATOLOGIA",
+      "start": 946,
+      "end": 959
+    },
+    {
+      "text": "tiempo de tránsito (TTP)",
+      "type": "MEDIDA",
+      "start": 981,
+      "end": 1005
+    },
+    {
+      "text": "flujo cerebral (CBF)",
+      "type": "MEDIDA",
+      "start": 1035,
+      "end": 1055
+    },
+    {
+      "text": "volumen cerebral (CBV)",
+      "type": "MEDIDA",
+      "start": 1122,
+      "end": 1144
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "ARTERIA",
+      "start": 1076,
+      "end": 1106
+    },
+    {
+      "text": "Oclusión completa de la arteria carótida interna derecha",
+      "type": "PATOLOGIA",
+      "start": 1300,
+      "end": 1356
+    },
+    {
+      "text": "ausencia de opacificación distal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1395,
+      "end": 1427
+    },
+    {
+      "text": "circulación colateral eficaz a nivel intracraneal derecho",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1441,
+      "end": 1498
+    },
+    {
+      "text": "Infarto cerebral en territorio derecho de arteria cerebral media",
+      "type": "PATOLOGIA",
+      "start": 1704,
+      "end": 1768
+    },
+    {
+      "text": "edema asociado y efecto de masa leve",
+      "type": "PATOLOGIA",
+      "start": 1773,
+      "end": 1809
+    },
+    {
+      "text": "ASPECTS 6",
+      "type": "PUNTUACION_CLINICA",
+      "start": 1811,
+      "end": 1820
+    },
+    {
+      "text": "Área de penumbra viable adyacente sin caída significativa de CBV",
+      "type": "PATOLOGIA",
+      "start": 1916,
+      "end": 1980
+    },
+    {
+      "text": "No hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2012,
+      "end": 2038
+    }
+  ]
+}

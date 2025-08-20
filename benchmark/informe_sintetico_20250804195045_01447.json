@@ -1,0 +1,77 @@
+{
+  "document_id": "informe_sintetico_20250804195045_01447",
+  "entities": [
+    {
+      "text": "infarto isquémico",
+      "type": "PATOLOGIA",
+      "start": 653,
+      "end": 670
+    },
+    {
+      "text": "regiones corticales frontoparietales bilaterales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 492,
+      "end": 540
+    },
+    {
+      "text": "arterias cerebral anterior y media",
+      "type": "ARTERIA",
+      "start": 603,
+      "end": 637
+    },
+    {
+      "text": "bilaterales",
+      "type": "LATERALIDAD",
+      "start": 529,
+      "end": 540
+    },
+    {
+      "text": "prolongación marcada del tiempo de tránsito medio (TTP)",
+      "type": "MEDIDA",
+      "start": 899,
+      "end": 954
+    },
+    {
+      "text": "reducción del volumen sanguíneo cerebral (CBV)",
+      "type": "MEDIDA",
+      "start": 957,
+      "end": 1003
+    },
+    {
+      "text": "disminución moderada",
+      "type": "MEDIDA",
+      "start": 1141,
+      "end": 1161
+    },
+    {
+      "text": "estenosis moderada a severa",
+      "type": "PATOLOGIA",
+      "start": 1302,
+      "end": 1329
+    },
+    {
+      "text": "arteria carótida interna derecha",
+      "type": "ARTERIA",
+      "start": 1336,
+      "end": 1368
+    },
+    {
+      "text": "No se evidencian signos de hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 698,
+      "end": 748
+    },
+    {
+      "text": "No se observa área de penumbra significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1179,
+      "end": 1223
+    },
+    {
+      "text": "No hemorragias ni efecto de masa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1923,
+      "end": 1955
+    }
+  ]
+}

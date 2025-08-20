@@ -1,0 +1,53 @@
+{
+  "document_id": "informe_sintetico_20250804195045_13057",
+  "entities": [
+    {
+      "text": "infarto isquémico",
+      "type": "PATOLOGIA",
+      "start": 692,
+      "end": 709
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 561,
+      "end": 591
+    },
+    {
+      "text": "ACM",
+      "type": "ARTERIA",
+      "start": 1037,
+      "end": 1040
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 584,
+      "end": 591
+    },
+    {
+      "text": "completa",
+      "type": "MEDIDA",
+      "start": 1252,
+      "end": 1260
+    },
+    {
+      "text": "completa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1252,
+      "end": 1260
+    },
+    {
+      "text": "sin circulación colateral adecuada",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1334,
+      "end": 1368
+    },
+    {
+      "text": "sin estenosis significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1579,
+      "end": 1606
+    }
+  ]
+}

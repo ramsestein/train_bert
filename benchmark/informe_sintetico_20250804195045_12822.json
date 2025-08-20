@@ -1,0 +1,137 @@
+{
+  "document_id": "informe_sintetico_20250804195045_12822",
+  "entities": [
+    {
+      "text": "ictus vertebrobasilar",
+      "type": "PATOLOGIA",
+      "start": 291,
+      "end": 312
+    },
+    {
+      "text": "hemiparesia bilateral",
+      "type": "PATOLOGIA",
+      "start": 233,
+      "end": 254
+    },
+    {
+      "text": "hemorragias intracraneales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 533,
+      "end": 559
+    },
+    {
+      "text": "hematomas subaracnoideos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 563,
+      "end": 587
+    },
+    {
+      "text": "infarto isquémico agudo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 634,
+      "end": 657
+    },
+    {
+      "text": "prolongación significativa del tiempo de tránsito medio (TTM)",
+      "type": "PATOLOGIA",
+      "start": 921,
+      "end": 982
+    },
+    {
+      "text": "aumento del tiempo hasta el pico (TTP)",
+      "type": "PATOLOGIA",
+      "start": 985,
+      "end": 1023
+    },
+    {
+      "text": "disminución del flujo cerebral (CBF)",
+      "type": "PATOLOGIA",
+      "start": 1114,
+      "end": 1150
+    },
+    {
+      "text": "volumen cerebral (CBV)",
+      "type": "PATOLOGIA",
+      "start": 1153,
+      "end": 1175
+    },
+    {
+      "text": "segmento proximal",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1311,
+      "end": 1328
+    },
+    {
+      "text": "arteria basilar",
+      "type": "ARTERIA",
+      "start": 1289,
+      "end": 1304
+    },
+    {
+      "text": "arterias vertebrales",
+      "type": "ARTERIA",
+      "start": 1407,
+      "end": 1427
+    },
+    {
+      "text": "sistema vertebrobasilar",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 452,
+      "end": 475
+    },
+    {
+      "text": "arterias intracraneales supratentoriales",
+      "type": "ARTERIA",
+      "start": 1547,
+      "end": 1587
+    },
+    {
+      "text": "ACAs, ACMs, ACPs",
+      "type": "ARTERIA",
+      "start": 1589,
+      "end": 1605
+    },
+    {
+      "text": "tronco encefálico",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1042,
+      "end": 1059
+    },
+    {
+      "text": "signos radiológicos de infarto establecido",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1823,
+      "end": 1865
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1868,
+      "end": 1891
+    },
+    {
+      "text": "isquemia en el tronco encefálico",
+      "type": "PATOLOGIA",
+      "start": 2373,
+      "end": 2405
+    },
+    {
+      "text": "TC Código Ictus",
+      "type": "TECNICA_IMAGEN",
+      "start": 2145,
+      "end": 2160
+    },
+    {
+      "text": "angio-TC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 2175,
+      "end": 2205
+    },
+    {
+      "text": "perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 386,
+      "end": 404
+    }
+  ]
+}

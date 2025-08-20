@@ -1,0 +1,149 @@
+{
+  "document_id": "informe_sintetico_20250804195045_05238",
+  "entities": [
+    {
+      "text": "isquemia cerebral aguda multiterritorial",
+      "type": "PATOLOGIA",
+      "start": 289,
+      "end": 329
+    },
+    {
+      "text": "infartos agudos recientes",
+      "type": "PATOLOGIA",
+      "start": 679,
+      "end": 704
+    },
+    {
+      "text": "colecciones hemorrágicas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 723,
+      "end": 747
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 761,
+      "end": 784
+    },
+    {
+      "text": "lóbulo frontal izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1150,
+      "end": 1174
+    },
+    {
+      "text": "territorio parietal derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1186,
+      "end": 1213
+    },
+    {
+      "text": "región occipital izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1216,
+      "end": 1242
+    },
+    {
+      "text": "penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1266,
+      "end": 1284
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "ARTERIA",
+      "start": 1519,
+      "end": 1549
+    },
+    {
+      "text": "estenosis severa (>70%)",
+      "type": "PATOLOGIA",
+      "start": 1561,
+      "end": 1584
+    },
+    {
+      "text": "arteria cerebral posterior izquierda",
+      "type": "ARTERIA",
+      "start": 1591,
+      "end": 1627
+    },
+    {
+      "text": "carótidas internas bilaterales",
+      "type": "ARTERIA",
+      "start": 1678,
+      "end": 1708
+    },
+    {
+      "text": "aneurismas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1818,
+      "end": 1828
+    },
+    {
+      "text": "malformaciones vasculares",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1832,
+      "end": 1857
+    },
+    {
+      "text": "isquemia aguda multiterritorial",
+      "type": "PATOLOGIA",
+      "start": 1975,
+      "end": 2006
+    },
+    {
+      "text": "lesiones isquémicas agudas",
+      "type": "PATOLOGIA",
+      "start": 2058,
+      "end": 2084
+    },
+    {
+      "text": "alteración hemodinámica",
+      "type": "PATOLOGIA",
+      "start": 2133,
+      "end": 2156
+    },
+    {
+      "text": "ACM derecha proximal",
+      "type": "ARTERIA",
+      "start": 2221,
+      "end": 2241
+    },
+    {
+      "text": "estenosis severa en ACP izquierda",
+      "type": "PATOLOGIA",
+      "start": 2244,
+      "end": 2277
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 761,
+      "end": 784
+    },
+    {
+      "text": "edema cerebral",
+      "type": "PATOLOGIA",
+      "start": 2354,
+      "end": 2368
+    },
+    {
+      "text": "TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANG IOTC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 72,
+      "end": 140
+    },
+    {
+      "text": "RM cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 2607,
+      "end": 2618
+    },
+    {
+      "text": "ecografía Doppler carotídeo y vertebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 2621,
+      "end": 2660
+    }
+  ]
+}

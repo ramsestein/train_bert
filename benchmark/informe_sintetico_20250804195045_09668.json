@@ -1,0 +1,173 @@
+{
+  "document_id": "informe_sintetico_20250804195045_09668",
+  "entities": [
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 488,
+      "end": 511
+    },
+    {
+      "text": "hemorragia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 488,
+      "end": 498
+    },
+    {
+      "text": "ASPECTS 10/10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 574,
+      "end": 587
+    },
+    {
+      "text": "reducción del volumen encefálico",
+      "type": "PATOLOGIA",
+      "start": 594,
+      "end": 626
+    },
+    {
+      "text": "atrofia cerebral leve",
+      "type": "PATOLOGIA",
+      "start": 706,
+      "end": 727
+    },
+    {
+      "text": "cambios crónicos inespecíficos",
+      "type": "PATOLOGIA",
+      "start": 755,
+      "end": 785
+    },
+    {
+      "text": "hipodensidades puntiformes",
+      "type": "PATOLOGIA",
+      "start": 800,
+      "end": 826
+    },
+    {
+      "text": "cambios microangiopáticos crónicos",
+      "type": "PATOLOGIA",
+      "start": 904,
+      "end": 938
+    },
+    {
+      "text": "Cisternas basales libres",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1057,
+      "end": 1081
+    },
+    {
+      "text": "Patrón de perfusión cerebral simétrico",
+      "type": "PATOLOGIA",
+      "start": 1098,
+      "end": 1136
+    },
+    {
+      "text": "retrasos temporales",
+      "type": "PATOLOGIA",
+      "start": 1141,
+      "end": 1160
+    },
+    {
+      "text": "mismatch significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1287,
+      "end": 1309
+    },
+    {
+      "text": "hipoperfusión",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1322,
+      "end": 1335
+    },
+    {
+      "text": "estenosis",
+      "type": "PATOLOGIA",
+      "start": 1407,
+      "end": 1416
+    },
+    {
+      "text": "placas ateromatosas significativas",
+      "type": "PATOLOGIA",
+      "start": 1420,
+      "end": 1454
+    },
+    {
+      "text": "Arterias cerebrales principales (ACAs, ACMs, ACPs)",
+      "type": "ARTERIA",
+      "start": 1456,
+      "end": 1506
+    },
+    {
+      "text": "aneurismas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1644,
+      "end": 1654
+    },
+    {
+      "text": "malformaciones vasculares",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1658,
+      "end": 1683
+    },
+    {
+      "text": "patología aguda",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1752,
+      "end": 1767
+    },
+    {
+      "text": "isquemia reciente",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1781,
+      "end": 1798
+    },
+    {
+      "text": "atrofia cerebral leve",
+      "type": "PATOLOGIA",
+      "start": 706,
+      "end": 727
+    },
+    {
+      "text": "estenosis significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1957,
+      "end": 1981
+    },
+    {
+      "text": "TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANG IOTC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 72,
+      "end": 140
+    },
+    {
+      "text": "TC CRANEAL BASAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 445,
+      "end": 461
+    },
+    {
+      "text": "TC PERFUSIÓN",
+      "type": "TECNICA_IMAGEN",
+      "start": 1084,
+      "end": 1096
+    },
+    {
+      "text": "ANGIO-TC EXTRA E INTRACRANEAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 1338,
+      "end": 1367
+    },
+    {
+      "text": "Estudio TC en Código Ictus",
+      "type": "TECNICA_IMAGEN",
+      "start": 1708,
+      "end": 1734
+    },
+    {
+      "text": "TC craneal sin hallazgos agudos",
+      "type": "TECNICA_IMAGEN",
+      "start": 2154,
+      "end": 2185
+    }
+  ]
+}

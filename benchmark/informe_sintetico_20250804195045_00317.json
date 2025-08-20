@@ -1,0 +1,251 @@
+{
+  "document_id": "informe_sintetico_20250804195045_00317",
+  "entities": [
+    {
+      "text": "hemiparesia derecha",
+      "type": "PATOLOGIA",
+      "start": 216,
+      "end": 235
+    },
+    {
+      "text": "afasia",
+      "type": "PATOLOGIA",
+      "start": 238,
+      "end": 244
+    },
+    {
+      "text": "evento isquémico cerebral",
+      "type": "PATOLOGIA",
+      "start": 279,
+      "end": 304
+    },
+    {
+      "text": "obstrucción carotídea izquierda",
+      "type": "PATOLOGIA",
+      "start": 309,
+      "end": 340
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 361,
+      "end": 377
+    },
+    {
+      "text": "TC perfusión cerebral multiparamétrica",
+      "type": "TECNICA_IMAGEN",
+      "start": 393,
+      "end": 431
+    },
+    {
+      "text": "Angio-TC de vasos supraórticos e intracraneales con reconstrucción 3D",
+      "type": "TECNICA_IMAGEN",
+      "start": 433,
+      "end": 502
+    },
+    {
+      "text": "hipodensidad cortical y subcortical extensa",
+      "type": "PATOLOGIA",
+      "start": 605,
+      "end": 648
+    },
+    {
+      "text": "territorio vascular de arteria cerebral media izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 652,
+      "end": 707
+    },
+    {
+      "text": "región frontoparietal",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 722,
+      "end": 743
+    },
+    {
+      "text": "cápsula interna",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 749,
+      "end": 764
+    },
+    {
+      "text": "infarto isquémico establecido",
+      "type": "PATOLOGIA",
+      "start": 781,
+      "end": 810
+    },
+    {
+      "text": "Pérdida de diferenciación cortico-subcortical",
+      "type": "PATOLOGIA",
+      "start": 812,
+      "end": 857
+    },
+    {
+      "text": "leve edema cerebral",
+      "type": "PATOLOGIA",
+      "start": 860,
+      "end": 879
+    },
+    {
+      "text": "sin efecto de masa significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 880,
+      "end": 912
+    },
+    {
+      "text": "No se observan hemorragias ni lesiones adicionales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 914,
+      "end": 964
+    },
+    {
+      "text": "ASPECTS 5",
+      "type": "PUNTUACION_CLINICA",
+      "start": 966,
+      "end": 975
+    },
+    {
+      "text": "marcada disminución del flujo cerebral sanguíneo (CBF)",
+      "type": "PATOLOGIA",
+      "start": 1007,
+      "end": 1061
+    },
+    {
+      "text": "volumen cerebral sanguíneo (CBV)",
+      "type": "PATOLOGIA",
+      "start": 1064,
+      "end": 1096
+    },
+    {
+      "text": "aumento del tiempo hasta el pico (TTP)",
+      "type": "PATOLOGIA",
+      "start": 1125,
+      "end": 1163
+    },
+    {
+      "text": "tiempo de tránsito medio (MTT)",
+      "type": "PATOLOGIA",
+      "start": 1166,
+      "end": 1196
+    },
+    {
+      "text": "territorio MCA izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1200,
+      "end": 1224
+    },
+    {
+      "text": "área de penumbra isquémica extendida",
+      "type": "PATOLOGIA",
+      "start": 1238,
+      "end": 1274
+    },
+    {
+      "text": "Oclusión completa proximal de la arteria carótida interna izquierda",
+      "type": "PATOLOGIA",
+      "start": 1308,
+      "end": 1375
+    },
+    {
+      "text": "sin flujo distal visualizado",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1394,
+      "end": 1422
+    },
+    {
+      "text": "Ateromatosis calcificada en arco aórtico y troncos supraórticos con estenosis no significativas",
+      "type": "PATOLOGIA",
+      "start": 1424,
+      "end": 1519
+    },
+    {
+      "text": "Sistema vertebrobasilar permeable",
+      "type": "PATOLOGIA",
+      "start": 1521,
+      "end": 1554
+    },
+    {
+      "text": "Arterias cerebrales intracraneales con colaterales compensatorias leves",
+      "type": "PATOLOGIA",
+      "start": 1556,
+      "end": 1627
+    },
+    {
+      "text": "No se identifican aneurismas ni malformaciones vasculares",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1629,
+      "end": 1686
+    },
+    {
+      "text": "Arteria carótida derecha permeable sin estenosis relevante",
+      "type": "PATOLOGIA",
+      "start": 1688,
+      "end": 1746
+    },
+    {
+      "text": "Infarto isquémico establecido en territorio de arteria cerebral media izquierda",
+      "type": "PATOLOGIA",
+      "start": 1771,
+      "end": 1850
+    },
+    {
+      "text": "compromiso de la cápsula interna",
+      "type": "PATOLOGIA",
+      "start": 1855,
+      "end": 1887
+    },
+    {
+      "text": "ASPECTS 5",
+      "type": "PUNTUACION_CLINICA",
+      "start": 966,
+      "end": 975
+    },
+    {
+      "text": "Oclusión completa proximal de arteria carótida interna izquierda",
+      "type": "PATOLOGIA",
+      "start": 1901,
+      "end": 1965
+    },
+    {
+      "text": "sin flujo distal detectable",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1966,
+      "end": 1993
+    },
+    {
+      "text": "Perfusión cerebral compatible con área extensa de penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1995,
+      "end": 2063
+    },
+    {
+      "text": "No evidencia de hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2065,
+      "end": 2104
+    },
+    {
+      "text": "ictus isquémico por oclusión carotídea izquierda",
+      "type": "PATOLOGIA",
+      "start": 2129,
+      "end": 2177
+    },
+    {
+      "text": "Infarto cerebral en territorio de arteria cerebral media izquierda",
+      "type": "PATOLOGIA",
+      "start": 2374,
+      "end": 2440
+    },
+    {
+      "text": "oclusión proximal de arteria carótida interna ipsilateral",
+      "type": "PATOLOGIA",
+      "start": 2445,
+      "end": 2502
+    },
+    {
+      "text": "Perfusión alterada con área de penumbra isquémica extensa",
+      "type": "PATOLOGIA",
+      "start": 2504,
+      "end": 2561
+    }
+  ]
+}

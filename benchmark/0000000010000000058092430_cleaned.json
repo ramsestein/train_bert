@@ -1,0 +1,71 @@
+{
+  "document_id": "0000000010000000058092430_cleaned",
+  "entities": [
+    {
+      "text": "Infart cerebral causat per oclusió o estenosi no especificades d'artèria cerebral no especificada",
+      "type": "PATOLOGIA",
+      "start": 166,
+      "end": 263
+    },
+    {
+      "text": "No se observa hemorragia intra ni extraaxial.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 395,
+      "end": 440
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 488,
+      "end": 498
+    },
+    {
+      "text": "No se observan lesiones isquémicas parenquimatosas agudas ni subagudas.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 501,
+      "end": 572
+    },
+    {
+      "text": "No se observan alteraciones valorables en el TTP, CBV y CBF.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 705,
+      "end": 765
+    },
+    {
+      "text": "Sin discordancia significativa.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 766,
+      "end": 797
+    },
+    {
+      "text": "ACAs, ACMs y ACPs",
+      "type": "ARTERIA",
+      "start": 888,
+      "end": 905
+    },
+    {
+      "text": "Arteria subclavia izquierda",
+      "type": "ARTERIA",
+      "start": 1235,
+      "end": 1262
+    },
+    {
+      "text": "No se observan signos de patología intracraneal aguda.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1313,
+      "end": 1367
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 488,
+      "end": 498
+    },
+    {
+      "text": "No hay hemorragia iaguda intracraneal.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1417,
+      "end": 1455
+    }
+  ]
+}

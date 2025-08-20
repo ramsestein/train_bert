@@ -1,0 +1,30 @@
+UO_PACN (Unidad Organizativa Médica): RADIO
+
+PRUEB (Prueba solicitada): TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANG IOTC ARTERIAL INTRACRANEAL)
+
+CLIN (Resumen clínico): Paciente de 75 años con deterioro cognitivo progresivo y episodio de cefalea súbita asociado a hemiparesia derecha.
+
+OBSR (Protocolo): Protocolo Código Ictus: TC craneal basal sin contraste, estudio de perfusión cerebral y angiografía TC arterial intracraneal.
+
+RESL (Resultados):  
+TC CRANEAL BASAL:  
+Se identifica hemorragia intraparenquimatosa cortical lobar en la región parietal izquierda, con un tamaño aproximado de 18 x 12 x 15 mm (AP x T x CC), sin efecto de masa significativo ni desviación de la línea media. Se observan múltiples microhemorragias y focos de hiperdensidad breves en la sustancia blanca cortical y subcortical difusamente, compatibles con depósitos hemorrágicos múltiples. Áreas de hipodensidad perilesional sugerentes de edema vasogénico. No se aprecian lesiones isquémicas agudas ni infartos recientes. Sistema ventricular y cisternas basales de morfología y tamaño normales.
+
+TC PERFUSIÓN:  
+Mínimas alteraciones hemodinámicas en la zona cercana a la hemorragia, sin evidencia de isquemia penumbra ni clara alteración del flujo cerebral en territorios adyacentes. Parámetros de TTP, CBF y CBV dentro de límites esperados, sin discordancias significativas.
+
+ANGIO-TC ARTERIAL INTRACRANEAL:  
+No se identifican estenosis ni oclusiones arteriales relevantes en las principales ramas intracraneales (ACAs, ACMs, ACPs). No se visualizan malformaciones arteriovenosas ni aneurismas. Vascularización general conservada. No se aprecian signos de vasculitis o arteritis.
+
+CONCL (Conclusiones):  
+Hemorragia intraparenquimatosa lobar izquierda compatible con angiopatía amiloide cerebral, en contexto de múltiples microhemorragias corticales. Ausencia de lesiones isquémicas agudas. AngioTC intracraneal sin alteraciones arteriales significativas. Perfusión cerebral sin evidencia de isquemia asociada.
+
+ACTI_ADICI (Actividad adicional):  
+
+ICON (Estudio): @RADIO_TC_ANGIOAMI_001@
+
+X00DIATXT (Texto del diagnóstico ACR): Hemorragia lobar cortical izquierda compatible con angiopatía amiloide cerebral asociada a microhemorragias corticales; sin evidencia de isquemia cerebral ni alteraciones vasculares arteriales en estudio angiográfico.
+
+EST_T_DES (Descripción): TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANGIOTC ARTERIAL INTRACRANEAL)
+
+ZVASOS_D (Der.): Informe generado por radiólogo experto; recomendaciones clínicas para manejo neurológico y seguimiento por neuroimagen.

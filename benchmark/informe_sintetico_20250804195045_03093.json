@@ -1,0 +1,119 @@
+{
+  "document_id": "informe_sintetico_20250804195045_03093",
+  "entities": [
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 251,
+      "end": 265
+    },
+    {
+      "text": "isquemia incipiente",
+      "type": "PATOLOGIA",
+      "start": 683,
+      "end": 702
+    },
+    {
+      "text": "arteria cerebral anterior",
+      "type": "ARTERIA",
+      "start": 723,
+      "end": 748
+    },
+    {
+      "text": "izquierdo",
+      "type": "LATERALIDAD",
+      "start": 598,
+      "end": 607
+    },
+    {
+      "text": "ASPECTS 9",
+      "type": "PUNTUACION_CLINICA",
+      "start": 824,
+      "end": 833
+    },
+    {
+      "text": "TTP",
+      "type": "MEDIDA",
+      "start": 413,
+      "end": 416
+    },
+    {
+      "text": "CBF",
+      "type": "MEDIDA",
+      "start": 418,
+      "end": 421
+    },
+    {
+      "text": "CBV",
+      "type": "MEDIDA",
+      "start": 423,
+      "end": 426
+    },
+    {
+      "text": "Tmax",
+      "type": "MEDIDA",
+      "start": 428,
+      "end": 432
+    },
+    {
+      "text": "mismatch",
+      "type": "PATOLOGIA",
+      "start": 1266,
+      "end": 1274
+    },
+    {
+      "text": "oclusión parcial",
+      "type": "PATOLOGIA",
+      "start": 1971,
+      "end": 1987
+    },
+    {
+      "text": "segmento A2 proximal izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1381,
+      "end": 1411
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 1802,
+      "end": 1811
+    },
+    {
+      "text": "sin estenosis ni placas ateromatosas significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1491,
+      "end": 1542
+    },
+    {
+      "text": "sin hallazgos obstructivos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1565,
+      "end": 1591
+    },
+    {
+      "text": "sin alteraciones",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1629,
+      "end": 1645
+    },
+    {
+      "text": "TC craneal basal sin contraste",
+      "type": "TECNICA_IMAGEN",
+      "start": 318,
+      "end": 348
+    },
+    {
+      "text": "AngioTC intra y extracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 351,
+      "end": 379
+    },
+    {
+      "text": "Estudio de perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 382,
+      "end": 411
+    }
+  ]
+}

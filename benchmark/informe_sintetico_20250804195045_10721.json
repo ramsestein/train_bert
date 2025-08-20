@@ -1,0 +1,71 @@
+{
+  "document_id": "informe_sintetico_20250804195045_10721",
+  "entities": [
+    {
+      "text": "contusión hemorrágica traumática",
+      "type": "PATOLOGIA",
+      "start": 547,
+      "end": 579
+    },
+    {
+      "text": "temporal",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 515,
+      "end": 523
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 524,
+      "end": 531
+    },
+    {
+      "text": "15 x 10 mm",
+      "type": "MEDIDA",
+      "start": 599,
+      "end": 609
+    },
+    {
+      "text": "edema perilesional",
+      "type": "PATOLOGIA",
+      "start": 620,
+      "end": 638
+    },
+    {
+      "text": "No se evidencian hemorragias subdurales ni epidurales ni sangrado subaracnoideo difuso",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 640,
+      "end": 726
+    },
+    {
+      "text": "No se observan alteraciones significativas en mapas de perfusión (CBF, CBV, TTP, Tmax) en áreas adyacentes a la lesión que sugieran isquemia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 987,
+      "end": 1127
+    },
+    {
+      "text": "Perfusión global cerebral conservada",
+      "type": "PATOLOGIA",
+      "start": 1129,
+      "end": 1165
+    },
+    {
+      "text": "Arterias intracraneales principales con permeabilidad conservada, sin estenosis ni oclusiones arteriales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1195,
+      "end": 1299
+    },
+    {
+      "text": "sin estenosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1261,
+      "end": 1274
+    },
+    {
+      "text": "Arterias intracraneales permeables y sin estenosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1645,
+      "end": 1695
+    }
+  ]
+}

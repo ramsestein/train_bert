@@ -1,0 +1,125 @@
+{
+  "document_id": "informe_sintetico_20250804195045_07778",
+  "entities": [
+    {
+      "text": "isquemia cerebral",
+      "type": "PATOLOGIA",
+      "start": 278,
+      "end": 295
+    },
+    {
+      "text": "arteria cerebral media",
+      "type": "ARTERIA",
+      "start": 313,
+      "end": 335
+    },
+    {
+      "text": "agudo",
+      "type": "TEMPORALIDAD",
+      "start": 186,
+      "end": 191
+    },
+    {
+      "text": "menor a 4 horas",
+      "type": "TEMPORALIDAD",
+      "start": 249,
+      "end": 264
+    },
+    {
+      "text": "hemiparesia derecha",
+      "type": "PATOLOGIA",
+      "start": 204,
+      "end": 223
+    },
+    {
+      "text": "No se identifican hematomas ni hemorragias intra o extraaxiales.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 579,
+      "end": 643
+    },
+    {
+      "text": "sin signos de edema o hipodensidad isquémica extensa.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 664,
+      "end": 717
+    },
+    {
+      "text": "ASPECTS 9",
+      "type": "PUNTUACION_CLINICA",
+      "start": 786,
+      "end": 795
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 1121,
+      "end": 1130
+    },
+    {
+      "text": "ACM",
+      "type": "ARTERIA",
+      "start": 1180,
+      "end": 1183
+    },
+    {
+      "text": "M2-M3",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1202,
+      "end": 1207
+    },
+    {
+      "text": "penumbra isquémica viable sin infarto establecido",
+      "type": "PATOLOGIA",
+      "start": 1342,
+      "end": 1391
+    },
+    {
+      "text": "Oclusión segmentaria en rama distal M2 de la arteria cerebral media izquierda.",
+      "type": "PATOLOGIA",
+      "start": 1427,
+      "end": 1505
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 1121,
+      "end": 1130
+    },
+    {
+      "text": "sin estenosis significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1647,
+      "end": 1674
+    },
+    {
+      "text": "ASPECTS 9",
+      "type": "PUNTUACION_CLINICA",
+      "start": 786,
+      "end": 795
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1807,
+      "end": 1830
+    },
+    {
+      "text": "penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1342,
+      "end": 1360
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 1121,
+      "end": 1130
+    },
+    {
+      "text": "permeables",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1636,
+      "end": 1646
+    }
+  ]
+}

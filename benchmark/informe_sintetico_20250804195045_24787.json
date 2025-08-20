@@ -1,0 +1,119 @@
+{
+  "document_id": "informe_sintetico_20250804195045_24787",
+  "entities": [
+    {
+      "text": "ictus isquémico",
+      "type": "PATOLOGIA",
+      "start": 261,
+      "end": 276
+    },
+    {
+      "text": "infarto isquémico subagudo",
+      "type": "PATOLOGIA",
+      "start": 770,
+      "end": 796
+    },
+    {
+      "text": "microhemorragias",
+      "type": "PATOLOGIA",
+      "start": 915,
+      "end": 931
+    },
+    {
+      "text": "transformación hemorrágica tipo PH1",
+      "type": "PATOLOGIA",
+      "start": 952,
+      "end": 987
+    },
+    {
+      "text": "ACM",
+      "type": "ARTERIA",
+      "start": 723,
+      "end": 726
+    },
+    {
+      "text": "ACM",
+      "type": "ARTERIA",
+      "start": 723,
+      "end": 726
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 728,
+      "end": 735
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 728,
+      "end": 735
+    },
+    {
+      "text": "subagudo",
+      "type": "TEMPORALIDAD",
+      "start": 788,
+      "end": 796
+    },
+    {
+      "text": "sin presencia de hematoma lobar expansivo ni efecto masa significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1017,
+      "end": 1087
+    },
+    {
+      "text": "sin estenosis significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1607,
+      "end": 1634
+    },
+    {
+      "text": "prolongación del tiempo de tránsito medio (MTT)",
+      "type": "PATOLOGIA",
+      "start": 1298,
+      "end": 1345
+    },
+    {
+      "text": "aumento del tiempo hasta el pico (TTP)",
+      "type": "PATOLOGIA",
+      "start": 1348,
+      "end": 1386
+    },
+    {
+      "text": "reducción leve a moderada del flujo cerebral (CBF)",
+      "type": "PATOLOGIA",
+      "start": 1424,
+      "end": 1474
+    },
+    {
+      "text": "volumen cerebral (CBV)",
+      "type": "PATOLOGIA",
+      "start": 1477,
+      "end": 1499
+    },
+    {
+      "text": "penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1545,
+      "end": 1563
+    },
+    {
+      "text": "TC craneal urgente en cortes finos sin contraste",
+      "type": "TECNICA_IMAGEN",
+      "start": 445,
+      "end": 493
+    },
+    {
+      "text": "perfusión cerebral dinámica",
+      "type": "TECNICA_IMAGEN",
+      "start": 528,
+      "end": 555
+    },
+    {
+      "text": "angio-TC de troncos supraórticos y vasos intracraneales en fase arterial",
+      "type": "TECNICA_IMAGEN",
+      "start": 558,
+      "end": 630
+    }
+  ]
+}

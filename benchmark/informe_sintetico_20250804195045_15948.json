@@ -1,0 +1,113 @@
+{
+  "document_id": "informe_sintetico_20250804195045_15948",
+  "entities": [
+    {
+      "text": "ictus isquémico",
+      "type": "PATOLOGIA",
+      "start": 260,
+      "end": 275
+    },
+    {
+      "text": "oclusión carotídea derecha",
+      "type": "PATOLOGIA",
+      "start": 288,
+      "end": 314
+    },
+    {
+      "text": "hipodensidad",
+      "type": "PATOLOGIA",
+      "start": 513,
+      "end": 525
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 543,
+      "end": 573
+    },
+    {
+      "text": "sustancia blanca",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 605,
+      "end": 621
+    },
+    {
+      "text": "corteza parietal",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 624,
+      "end": 640
+    },
+    {
+      "text": "ASPECTS 6/10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 732,
+      "end": 744
+    },
+    {
+      "text": "hemorragias intracraneales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 761,
+      "end": 787
+    },
+    {
+      "text": "hipertensión intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 801,
+      "end": 826
+    },
+    {
+      "text": "territorio derecho de arteria cerebral media",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1003,
+      "end": 1047
+    },
+    {
+      "text": "carotídea interna",
+      "type": "ARTERIA",
+      "start": 1050,
+      "end": 1067
+    },
+    {
+      "text": "flujo cerebral (CBF)",
+      "type": "MEDIDA",
+      "start": 1095,
+      "end": 1115
+    },
+    {
+      "text": "volumen cerebral (CBV)",
+      "type": "MEDIDA",
+      "start": 1130,
+      "end": 1152
+    },
+    {
+      "text": "penumbra isquémica extensa",
+      "type": "PATOLOGIA",
+      "start": 1196,
+      "end": 1222
+    },
+    {
+      "text": "arteria carótida interna derecha",
+      "type": "ARTERIA",
+      "start": 1865,
+      "end": 1897
+    },
+    {
+      "text": "angio-TC",
+      "type": "TECNICA_IMAGEN",
+      "start": 1914,
+      "end": 1922
+    },
+    {
+      "text": "extensa área de penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1961,
+      "end": 1995
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2060,
+      "end": 2083
+    }
+  ]
+}

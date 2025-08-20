@@ -1,0 +1,89 @@
+{
+  "document_id": "informe_sintetico_20250804195045_05810",
+  "entities": [
+    {
+      "text": "hematoma",
+      "type": "PATOLOGIA",
+      "start": 417,
+      "end": 425
+    },
+    {
+      "text": "25 x 20 x 18 mm",
+      "type": "MEDIDA",
+      "start": 468,
+      "end": 483
+    },
+    {
+      "text": "putamen izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 502,
+      "end": 519
+    },
+    {
+      "text": "cápsula interna",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 544,
+      "end": 559
+    },
+    {
+      "text": "6 mm",
+      "type": "MEDIDA",
+      "start": 723,
+      "end": 727
+    },
+    {
+      "text": "No se observan colecciones extraaxiales ni hemorragias subaracnoideas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 729,
+      "end": 798
+    },
+    {
+      "text": "edema perilesional significativo",
+      "type": "PATOLOGIA",
+      "start": 584,
+      "end": 616
+    },
+    {
+      "text": "reducción notable en perfusión cerebral",
+      "type": "PATOLOGIA",
+      "start": 1015,
+      "end": 1054
+    },
+    {
+      "text": "aumento del tiempo de tránsito medio (TTP)",
+      "type": "PATOLOGIA",
+      "start": 1059,
+      "end": 1101
+    },
+    {
+      "text": "disminución del volumen cerebral (CBV)",
+      "type": "PATOLOGIA",
+      "start": 1104,
+      "end": 1142
+    },
+    {
+      "text": "flujo sanguíneo cerebral (CBF)",
+      "type": "PATOLOGIA",
+      "start": 1145,
+      "end": 1175
+    },
+    {
+      "text": "No se evidencian áreas de hiperperfusión",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1227,
+      "end": 1267
+    },
+    {
+      "text": "No se visualizan signos de estenosis, aneurismas ni malformaciones arteriovenosas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1356,
+      "end": 1437
+    },
+    {
+      "text": "ASPECTS no aplicable por hemorragia",
+      "type": "PUNTUACION_CLINICA",
+      "start": 1818,
+      "end": 1853
+    }
+  ]
+}

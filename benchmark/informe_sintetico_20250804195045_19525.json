@@ -1,0 +1,83 @@
+{
+  "document_id": "informe_sintetico_20250804195045_19525",
+  "entities": [
+    {
+      "text": "infarto isquémico",
+      "type": "PATOLOGIA",
+      "start": 602,
+      "end": 619
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 486,
+      "end": 518
+    },
+    {
+      "text": "corteza frontoparietal",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 533,
+      "end": 555
+    },
+    {
+      "text": "cápsula interna",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 570,
+      "end": 585
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 747,
+      "end": 770
+    },
+    {
+      "text": "ASPECTS 6",
+      "type": "PUNTUACION_CLINICA",
+      "start": 772,
+      "end": 781
+    },
+    {
+      "text": "tiempo de tránsito medio (TTP)",
+      "type": "MEDIDA",
+      "start": 844,
+      "end": 874
+    },
+    {
+      "text": "velocidad del flujo cerebral (CBF)",
+      "type": "MEDIDA",
+      "start": 893,
+      "end": 927
+    },
+    {
+      "text": "volumen cerebral (CBV)",
+      "type": "MEDIDA",
+      "start": 984,
+      "end": 1006
+    },
+    {
+      "text": "penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1032,
+      "end": 1050
+    },
+    {
+      "text": "oclusión completa de la arteria carótida interna izquierda",
+      "type": "PATOLOGIA",
+      "start": 1104,
+      "end": 1162
+    },
+    {
+      "text": "segmento cervical proximal",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1169,
+      "end": 1195
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 747,
+      "end": 770
+    }
+  ]
+}

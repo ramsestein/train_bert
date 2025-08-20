@@ -1,0 +1,65 @@
+{
+  "document_id": "informe_sintetico_20250804195045_19137",
+  "entities": [
+    {
+      "text": "hematoma subdural agudo fronto-parietal izquierdo",
+      "type": "PATOLOGIA",
+      "start": 381,
+      "end": 430
+    },
+    {
+      "text": "fronto-parietal izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 405,
+      "end": 430
+    },
+    {
+      "text": "12 mm",
+      "type": "MEDIDA",
+      "start": 495,
+      "end": 500
+    },
+    {
+      "text": "7 mm",
+      "type": "MEDIDA",
+      "start": 682,
+      "end": 686
+    },
+    {
+      "text": "izquierdo",
+      "type": "LATERALIDAD",
+      "start": 421,
+      "end": 430
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 655,
+      "end": 662
+    },
+    {
+      "text": "agudo",
+      "type": "TEMPORALIDAD",
+      "start": 399,
+      "end": 404
+    },
+    {
+      "text": "No hay evidencia de hemorragia intraparenquimatosa ni hemorragia subaracnoidea asociada",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 825,
+      "end": 912
+    },
+    {
+      "text": "Angio-TC",
+      "type": "TECNICA_IMAGEN",
+      "start": 970,
+      "end": 978
+    },
+    {
+      "text": "sin evidencia clara de zona isquémica establecida",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1148,
+      "end": 1197
+    }
+  ]
+}

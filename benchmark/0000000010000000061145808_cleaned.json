@@ -1,0 +1,41 @@
+{
+  "document_id": "0000000010000000061145808_cleaned",
+  "entities": [
+    {
+      "text": "hemorragia intra ni extraaxial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 353,
+      "end": 383
+    },
+    {
+      "text": "alteraciones concluyentes en el CBV, TTP y CBF",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 579,
+      "end": 625
+    },
+    {
+      "text": "Dudosa alteración en mapas de perfusión a nivel de hemisferio cerebeloso derecho",
+      "type": "PATOLOGIA",
+      "start": 627,
+      "end": 707
+    },
+    {
+      "text": "angio TC reciente",
+      "type": "TECNICA_IMAGEN",
+      "start": 857,
+      "end": 874
+    },
+    {
+      "text": "Sin sangrado agudo ni signos de isquemia aguda",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1155,
+      "end": 1201
+    },
+    {
+      "text": "Estudio de perfusión sin hallazgos concluyentes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1203,
+      "end": 1250
+    }
+  ]
+}

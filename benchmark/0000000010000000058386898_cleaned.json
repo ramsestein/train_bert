@@ -1,0 +1,59 @@
+{
+  "document_id": "0000000010000000058386898_cleaned",
+  "entities": [
+    {
+      "text": "Infart cerebral causat per oclusió o estenosi no especificades d'artèria cerebral no especificada",
+      "type": "PATOLOGIA",
+      "start": 166,
+      "end": 263
+    },
+    {
+      "text": "No s'observen signes d'hemorràgia aguda intra o extraaxial.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 384,
+      "end": 443
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 546,
+      "end": 556
+    },
+    {
+      "text": "Lleu ateromatosi calcificada a nivell de l'arc aòrtic, TSAs, bifurcacions carotídies i segments intracavernosos i supraclinoidals d'ambdues ACIs, sense estenosis.",
+      "type": "PATOLOGIA",
+      "start": 802,
+      "end": 964
+    },
+    {
+      "text": "Artèries vertebrals sense ateromatosi significativa ni signes d'estenosi.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 965,
+      "end": 1038
+    },
+    {
+      "text": "Principals artèries cerebrals intracranials permeables (ACAs, ACMs i ACPs).",
+      "type": "ARTERIA",
+      "start": 1039,
+      "end": 1114
+    },
+    {
+      "text": "ACPd d'origen fetal.",
+      "type": "ARTERIA",
+      "start": 1115,
+      "end": 1135
+    },
+    {
+      "text": "Sistema vertebrobasilar permeable.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1136,
+      "end": 1170
+    },
+    {
+      "text": "Sense signes d'isquèmia cerebral ni alteracions significatives a l'estudi de perfusió ni angio-tc.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1194,
+      "end": 1292
+    }
+  ]
+}

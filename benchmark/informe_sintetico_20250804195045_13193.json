@@ -1,0 +1,95 @@
+{
+  "document_id": "informe_sintetico_20250804195045_13193",
+  "entities": [
+    {
+      "text": "infartos lacunares crónicos",
+      "type": "PATOLOGIA",
+      "start": 615,
+      "end": 642
+    },
+    {
+      "text": "ganglios basales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 536,
+      "end": 552
+    },
+    {
+      "text": "cápsula interna",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 554,
+      "end": 569
+    },
+    {
+      "text": "región talámica",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 572,
+      "end": 587
+    },
+    {
+      "text": "bilateral",
+      "type": "LATERALIDAD",
+      "start": 588,
+      "end": 597
+    },
+    {
+      "text": "sin evidencia de hipoperfusión aguda",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1081,
+      "end": 1117
+    },
+    {
+      "text": "ACAs, ACMs, ACPs",
+      "type": "ARTERIA",
+      "start": 1192,
+      "end": 1208
+    },
+    {
+      "text": "sin estenosis ni oclusiones significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1222,
+      "end": 1264
+    },
+    {
+      "text": "sin estenosis crítica",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1380,
+      "end": 1401
+    },
+    {
+      "text": "sin signos de isquemia o hemorragia aguda",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1528,
+      "end": 1569
+    },
+    {
+      "text": "sin estenosis significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1611,
+      "end": 1638
+    },
+    {
+      "text": "sin evidencia de hipertensión intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1671,
+      "end": 1713
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 335,
+      "end": 351
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 367,
+      "end": 388
+    },
+    {
+      "text": "AngioTC intra y extracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 391,
+      "end": 419
+    }
+  ]
+}

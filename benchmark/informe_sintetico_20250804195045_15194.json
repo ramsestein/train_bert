@@ -1,0 +1,53 @@
+{
+  "document_id": "informe_sintetico_20250804195045_15194",
+  "entities": [
+    {
+      "text": "patología isquémica aguda",
+      "type": "PATOLOGIA",
+      "start": 319,
+      "end": 344
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 635,
+      "end": 645
+    },
+    {
+      "text": "hemorragia intra ni extraaxial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 541,
+      "end": 571
+    },
+    {
+      "text": "hipodensidad aguda",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 674,
+      "end": 692
+    },
+    {
+      "text": "Arterias cerebrales intracraneales (ACAs, ACMs y ACPs)",
+      "type": "ARTERIA",
+      "start": 1099,
+      "end": 1153
+    },
+    {
+      "text": "sin evidencia de oclusiones ni estenosis de importancia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1165,
+      "end": 1220
+    },
+    {
+      "text": "Sistema vertebrobasilar íntegro y permeable",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1222,
+      "end": 1265
+    },
+    {
+      "text": "patología aguda",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1330,
+      "end": 1345
+    }
+  ]
+}

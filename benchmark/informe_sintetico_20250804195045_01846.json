@@ -1,0 +1,161 @@
+{
+  "document_id": "informe_sintetico_20250804195045_01846",
+  "entities": [
+    {
+      "text": "ictus",
+      "type": "PATOLOGIA",
+      "start": 302,
+      "end": 307
+    },
+    {
+      "text": "déficit motor bilateral",
+      "type": "PATOLOGIA",
+      "start": 196,
+      "end": 219
+    },
+    {
+      "text": "dificultad para hablar",
+      "type": "PATOLOGIA",
+      "start": 221,
+      "end": 243
+    },
+    {
+      "text": "alteración del nivel de conciencia",
+      "type": "PATOLOGIA",
+      "start": 246,
+      "end": 280
+    },
+    {
+      "text": "hemorragias intracraneales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 617,
+      "end": 643
+    },
+    {
+      "text": "masas expansivas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 647,
+      "end": 663
+    },
+    {
+      "text": "signos de infarto agudo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 689,
+      "end": 712
+    },
+    {
+      "text": "hidrocefalia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 798,
+      "end": 810
+    },
+    {
+      "text": "desplazamiento de línea media",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 813,
+      "end": 842
+    },
+    {
+      "text": "ASPECTS posterior no aplicable",
+      "type": "PUNTUACION_CLINICA",
+      "start": 844,
+      "end": 874
+    },
+    {
+      "text": "reducción del flujo cerebral sanguíneo (CBF)",
+      "type": "MEDIDA",
+      "start": 940,
+      "end": 984
+    },
+    {
+      "text": "volumen cerebral blood volume (CBV) preservado o levemente disminuido",
+      "type": "MEDIDA",
+      "start": 1050,
+      "end": 1119
+    },
+    {
+      "text": "penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1155,
+      "end": 1173
+    },
+    {
+      "text": "Oclusión completa del segmento proximal del tronco basilar",
+      "type": "PATOLOGIA",
+      "start": 1238,
+      "end": 1296
+    },
+    {
+      "text": "sin flujo distal detectable",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1298,
+      "end": 1325
+    },
+    {
+      "text": "flujo colateral limitado",
+      "type": "PATOLOGIA",
+      "start": 1388,
+      "end": 1412
+    },
+    {
+      "text": "signos de disección arterial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1512,
+      "end": 1540
+    },
+    {
+      "text": "Oclusión completa del tronco basilar",
+      "type": "PATOLOGIA",
+      "start": 1565,
+      "end": 1601
+    },
+    {
+      "text": "alteraciones hemodinámicas compatibles con isquemia en territorio vertebrobasilar",
+      "type": "PATOLOGIA",
+      "start": 1606,
+      "end": 1687
+    },
+    {
+      "text": "predominando en la protuberancia y mesencéfalo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1689,
+      "end": 1735
+    },
+    {
+      "text": "sin evidencia de infarto establecido en la TC basal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1737,
+      "end": 1788
+    },
+    {
+      "text": "Oclusión del tronco basilar con alteración de la perfusión cerebral en territorio vertebrobasilar",
+      "type": "PATOLOGIA",
+      "start": 2075,
+      "end": 2172
+    },
+    {
+      "text": "sin infarto establecido en TC basal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2174,
+      "end": 2209
+    },
+    {
+      "text": "Tracto basilar ocluido en segmento proximal",
+      "type": "PATOLOGIA",
+      "start": 2323,
+      "end": 2366
+    },
+    {
+      "text": "flujo vertebral preservado proximalmente",
+      "type": "PATOLOGIA",
+      "start": 2368,
+      "end": 2408
+    },
+    {
+      "text": "circulación colateral limitada",
+      "type": "PATOLOGIA",
+      "start": 2410,
+      "end": 2440
+    }
+  ]
+}

@@ -1,0 +1,167 @@
+{
+  "document_id": "informe_sintetico_20250804195045_04473",
+  "entities": [
+    {
+      "text": "edema cerebral difuso",
+      "type": "PATOLOGIA",
+      "start": 466,
+      "end": 487
+    },
+    {
+      "text": "regiones corticales frontoparietales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 569,
+      "end": 605
+    },
+    {
+      "text": "ganglios basales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 608,
+      "end": 624
+    },
+    {
+      "text": "surcos corticales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 656,
+      "end": 673
+    },
+    {
+      "text": "sistema ventricular supratentorial",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 696,
+      "end": 730
+    },
+    {
+      "text": "hemorragias intra o extraaxiales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 786,
+      "end": 818
+    },
+    {
+      "text": "infartos establecidos visibles",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 822,
+      "end": 852
+    },
+    {
+      "text": "reducción global",
+      "type": "PATOLOGIA",
+      "start": 942,
+      "end": 958
+    },
+    {
+      "text": "hemisferios frontoparietales bilaterales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 976,
+      "end": 1016
+    },
+    {
+      "text": "tiempo de tránsito medio (MTT)",
+      "type": "MEDIDA",
+      "start": 1057,
+      "end": 1087
+    },
+    {
+      "text": "tiempo hasta el pico (TTP)",
+      "type": "MEDIDA",
+      "start": 1093,
+      "end": 1119
+    },
+    {
+      "text": "hipoperfusión difusa",
+      "type": "PATOLOGIA",
+      "start": 1132,
+      "end": 1152
+    },
+    {
+      "text": "áreas focales de exclusión vascular",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1157,
+      "end": 1192
+    },
+    {
+      "text": "estenosis ni trombosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1317,
+      "end": 1339
+    },
+    {
+      "text": "Arterias frontales, temporales y parietales",
+      "type": "ARTERIA",
+      "start": 1341,
+      "end": 1384
+    },
+    {
+      "text": "encefalopatía hipóxico-isquémica global",
+      "type": "PATOLOGIA",
+      "start": 1540,
+      "end": 1579
+    },
+    {
+      "text": "edema cerebral difuso y pérdida de diferenciación cortico-subcortical",
+      "type": "PATOLOGIA",
+      "start": 1599,
+      "end": 1668
+    },
+    {
+      "text": "hipoperfusión generalizada en perfusión cerebral",
+      "type": "PATOLOGIA",
+      "start": 1674,
+      "end": 1722
+    },
+    {
+      "text": "lesión vascular focal demostrable",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1727,
+      "end": 1760
+    },
+    {
+      "text": "hemorragias ni infartos establecidos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1780,
+      "end": 1816
+    },
+    {
+      "text": "signos de trombosis ni estenosis arterial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1843,
+      "end": 1884
+    },
+    {
+      "text": "Estado post-paro cardiorrespiratorio",
+      "type": "PATOLOGIA",
+      "start": 1886,
+      "end": 1922
+    },
+    {
+      "text": "repercusión encefálica",
+      "type": "PATOLOGIA",
+      "start": 1927,
+      "end": 1949
+    },
+    {
+      "text": "TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANG IOTC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 72,
+      "end": 140
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 280,
+      "end": 296
+    },
+    {
+      "text": "TC perfusión cerebral dinámica",
+      "type": "TECNICA_IMAGEN",
+      "start": 341,
+      "end": 371
+    },
+    {
+      "text": "angio-TC arterial intracraneal urgente",
+      "type": "TECNICA_IMAGEN",
+      "start": 374,
+      "end": 412
+    }
+  ]
+}

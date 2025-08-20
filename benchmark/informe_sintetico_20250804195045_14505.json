@@ -1,0 +1,155 @@
+{
+  "document_id": "informe_sintetico_20250804195045_14505",
+  "entities": [
+    {
+      "text": "hemicuerpo derecho",
+      "type": "LATERALIDAD",
+      "start": 190,
+      "end": 208
+    },
+    {
+      "text": "hipertensión arterial",
+      "type": "PATOLOGIA",
+      "start": 230,
+      "end": 251
+    },
+    {
+      "text": "diabetes mellitus tipo 2",
+      "type": "PATOLOGIA",
+      "start": 254,
+      "end": 278
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 299,
+      "end": 315
+    },
+    {
+      "text": "hemorragia aguda",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 486,
+      "end": 502
+    },
+    {
+      "text": "masas ocupantes de espacio",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 506,
+      "end": 532
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 620,
+      "end": 630
+    },
+    {
+      "text": "edema",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 747,
+      "end": 752
+    },
+    {
+      "text": "efecto de masa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 756,
+      "end": 770
+    },
+    {
+      "text": "TC perfusión",
+      "type": "TECNICA_IMAGEN",
+      "start": 773,
+      "end": 785
+    },
+    {
+      "text": "discreto aumento del tiempo de tránsito medio (TTM)",
+      "type": "PATOLOGIA",
+      "start": 822,
+      "end": 873
+    },
+    {
+      "text": "reducción del flujo sanguíneo cerebral (CBF)",
+      "type": "PATOLOGIA",
+      "start": 876,
+      "end": 920
+    },
+    {
+      "text": "región lenticular izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 927,
+      "end": 954
+    },
+    {
+      "text": "volumen cerebral sanguíneo (CBV) preservado",
+      "type": "PATOLOGIA",
+      "start": 960,
+      "end": 1003
+    },
+    {
+      "text": "infarto lacunar agudo",
+      "type": "PATOLOGIA",
+      "start": 1023,
+      "end": 1044
+    },
+    {
+      "text": "territorio perforante",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1048,
+      "end": 1069
+    },
+    {
+      "text": "Angio-TC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 1072,
+      "end": 1102
+    },
+    {
+      "text": "Flujo arterial preservado",
+      "type": "PATOLOGIA",
+      "start": 1104,
+      "end": 1129
+    },
+    {
+      "text": "arterias cerebrales anteriores, medias y posteriores bilaterales",
+      "type": "ARTERIA",
+      "start": 1137,
+      "end": 1201
+    },
+    {
+      "text": "estenosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1218,
+      "end": 1227
+    },
+    {
+      "text": "defectos de repleción significativos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1231,
+      "end": 1267
+    },
+    {
+      "text": "Infarto lacunar agudo",
+      "type": "PATOLOGIA",
+      "start": 1371,
+      "end": 1392
+    },
+    {
+      "text": "territorio perforante lenticular izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1396,
+      "end": 1438
+    },
+    {
+      "text": "hemorragia en TC basal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1504,
+      "end": 1526
+    },
+    {
+      "text": "estenosis ni oclusiones intracraneales significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1553,
+      "end": 1606
+    }
+  ]
+}

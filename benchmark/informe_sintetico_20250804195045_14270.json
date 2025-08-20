@@ -1,0 +1,95 @@
+{
+  "document_id": "informe_sintetico_20250804195045_14270",
+  "entities": [
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 246,
+      "end": 260
+    },
+    {
+      "text": "arteria cerebral posterior izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 278,
+      "end": 314
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 664,
+      "end": 674
+    },
+    {
+      "text": "tiempo medio de tránsito (TMT)",
+      "type": "MEDIDA",
+      "start": 885,
+      "end": 915
+    },
+    {
+      "text": "tiempo de retraso (TD)",
+      "type": "MEDIDA",
+      "start": 918,
+      "end": 940
+    },
+    {
+      "text": "flujo cerebral (CBF)",
+      "type": "MEDIDA",
+      "start": 1049,
+      "end": 1069
+    },
+    {
+      "text": "volumen cerebral de sangre (CBV)",
+      "type": "MEDIDA",
+      "start": 1072,
+      "end": 1104
+    },
+    {
+      "text": "penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1190,
+      "end": 1208
+    },
+    {
+      "text": "segmento P2",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1347,
+      "end": 1358
+    },
+    {
+      "text": "arteria cerebral posterior izquierda",
+      "type": "ARTERIA",
+      "start": 278,
+      "end": 314
+    },
+    {
+      "text": "oclusión trombótica",
+      "type": "PATOLOGIA",
+      "start": 1418,
+      "end": 1437
+    },
+    {
+      "text": "No se observan estenosis relevantes ni placas ateromatosas significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1439,
+      "end": 1512
+    },
+    {
+      "text": "No signos de hemorragia ni edema cerebral",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1850,
+      "end": 1891
+    },
+    {
+      "text": "arteria cerebral posterior izquierda",
+      "type": "ARTERIA",
+      "start": 278,
+      "end": 314
+    },
+    {
+      "text": "oclusión del segmento P2",
+      "type": "PATOLOGIA",
+      "start": 1719,
+      "end": 1743
+    }
+  ]
+}

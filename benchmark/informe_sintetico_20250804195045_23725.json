@@ -1,0 +1,95 @@
+{
+  "document_id": "informe_sintetico_20250804195045_23725",
+  "entities": [
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 375,
+      "end": 398
+    },
+    {
+      "text": "colecciones extraaxiales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 402,
+      "end": 426
+    },
+    {
+      "text": "infarto agudo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 496,
+      "end": 509
+    },
+    {
+      "text": "lesiones expansivas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 513,
+      "end": 532
+    },
+    {
+      "text": "signos de hipertensión intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 701,
+      "end": 736
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1035,
+      "end": 1049
+    },
+    {
+      "text": "vasoespasmo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1053,
+      "end": 1064
+    },
+    {
+      "text": "ACAs, ACMs, ACPs",
+      "type": "ARTERIA",
+      "start": 1130,
+      "end": 1146
+    },
+    {
+      "text": "aneurismas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1350,
+      "end": 1360
+    },
+    {
+      "text": "malformaciones arteriovenosas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1364,
+      "end": 1393
+    },
+    {
+      "text": "patología aguda",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1447,
+      "end": 1462
+    },
+    {
+      "text": "sin repercusión clínica inmediata",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1617,
+      "end": 1650
+    },
+    {
+      "text": "TC craneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 235,
+      "end": 245
+    },
+    {
+      "text": "perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 264,
+      "end": 282
+    },
+    {
+      "text": "AngioTC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 285,
+      "end": 314
+    }
+  ]
+}

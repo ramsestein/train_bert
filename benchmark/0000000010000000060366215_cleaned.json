@@ -1,0 +1,53 @@
+{
+  "document_id": "0000000010000000060366215_cleaned",
+  "entities": [
+    {
+      "text": "HSA",
+      "type": "PATOLOGIA",
+      "start": 208,
+      "end": 211
+    },
+    {
+      "text": "fisher IV",
+      "type": "PUNTUACION_CLINICA",
+      "start": 212,
+      "end": 221
+    },
+    {
+      "text": "aneurisma de l'ACA",
+      "type": "PATOLOGIA",
+      "start": 226,
+      "end": 244
+    },
+    {
+      "text": "ACA",
+      "type": "ARTERIA",
+      "start": 241,
+      "end": 244
+    },
+    {
+      "text": "PICs",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 282,
+      "end": 286
+    },
+    {
+      "text": "90mmHg",
+      "type": "MEDIDA",
+      "start": 314,
+      "end": 320
+    },
+    {
+      "text": "TC CRANEO HSA",
+      "type": "TECNICA_IMAGEN",
+      "start": 518,
+      "end": 531
+    },
+    {
+      "text": "HSA ANEURISMATICA FIV",
+      "type": "PATOLOGIA",
+      "start": 393,
+      "end": 414
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "document_id": "informe_sintetico_20250804195045_02304",
+  "entities": [
+    {
+      "text": "infarto lacunar",
+      "type": "PATOLOGIA",
+      "start": 232,
+      "end": 247
+    },
+    {
+      "text": "cápsula interna derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 551,
+      "end": 574
+    },
+    {
+      "text": "6 mm",
+      "type": "MEDIDA",
+      "start": 540,
+      "end": 544
+    },
+    {
+      "text": "agudo",
+      "type": "TEMPORALIDAD",
+      "start": 605,
+      "end": 610
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 1066,
+      "end": 1080
+    },
+    {
+      "text": "cápsula interna derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 551,
+      "end": 574
+    },
+    {
+      "text": "ACM",
+      "type": "ARTERIA",
+      "start": 1373,
+      "end": 1376
+    },
+    {
+      "text": "ACA",
+      "type": "ARTERIA",
+      "start": 1378,
+      "end": 1381
+    },
+    {
+      "text": "ACP",
+      "type": "ARTERIA",
+      "start": 1383,
+      "end": 1386
+    },
+    {
+      "text": "sin signos de oclusión o estenosis significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1388,
+      "end": 1436
+    },
+    {
+      "text": "sin evidencia de lesión hemorrágica",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1558,
+      "end": 1593
+    },
+    {
+      "text": "sin estenosis significativa ni oclusiones arteriales mayores",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1665,
+      "end": 1725
+    }
+  ]
+}

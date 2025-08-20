@@ -1,0 +1,95 @@
+{
+  "document_id": "informe_sintetico_20250804195045_24210",
+  "entities": [
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 459,
+      "end": 482
+    },
+    {
+      "text": "hemorragia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 459,
+      "end": 469
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 620,
+      "end": 634
+    },
+    {
+      "text": "atrofia cortical",
+      "type": "PATOLOGIA",
+      "start": 652,
+      "end": 668
+    },
+    {
+      "text": "cambios isquémicos crónicos mínimos",
+      "type": "PATOLOGIA",
+      "start": 671,
+      "end": 706
+    },
+    {
+      "text": "Línea media",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 753,
+      "end": 764
+    },
+    {
+      "text": "Cisternas basales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 837,
+      "end": 854
+    },
+    {
+      "text": "ACAs, ACMs, ACPs",
+      "type": "ARTERIA",
+      "start": 1248,
+      "end": 1264
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 1564,
+      "end": 1574
+    },
+    {
+      "text": "TC craneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 297,
+      "end": 307
+    },
+    {
+      "text": "perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 341,
+      "end": 359
+    },
+    {
+      "text": "angio-TC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 362,
+      "end": 392
+    },
+    {
+      "text": "TC PERFUSIÓN",
+      "type": "TECNICA_IMAGEN",
+      "start": 864,
+      "end": 876
+    },
+    {
+      "text": "calibre normal",
+      "type": "PATOLOGIA",
+      "start": 1381,
+      "end": 1395
+    },
+    {
+      "text": "flujo conservado",
+      "type": "PATOLOGIA",
+      "start": 1398,
+      "end": 1414
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "document_id": "informe_sintetico_20250804195045_14774",
+  "entities": [
+    {
+      "text": "isquemia",
+      "type": "PATOLOGIA",
+      "start": 271,
+      "end": 279
+    },
+    {
+      "text": "edema citotóxico incipiente",
+      "type": "PATOLOGIA",
+      "start": 750,
+      "end": 777
+    },
+    {
+      "text": "territorio vertebrobasilar",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 283,
+      "end": 309
+    },
+    {
+      "text": "tallo cerebral",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 669,
+      "end": 683
+    },
+    {
+      "text": "cerebelo derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 2064,
+      "end": 2080
+    },
+    {
+      "text": "arteria basilar",
+      "type": "ARTERIA",
+      "start": 1530,
+      "end": 1545
+    },
+    {
+      "text": "segmento medio",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1561,
+      "end": 1575
+    },
+    {
+      "text": "arteria vertebral derecha",
+      "type": "ARTERIA",
+      "start": 2312,
+      "end": 2337
+    },
+    {
+      "text": "estenosis significativa",
+      "type": "PATOLOGIA",
+      "start": 1652,
+      "end": 1675
+    },
+    {
+      "text": "prolongación de tiempos",
+      "type": "MEDIDA",
+      "start": 2105,
+      "end": 2128
+    },
+    {
+      "text": "reducción de flujo",
+      "type": "MEDIDA",
+      "start": 2131,
+      "end": 2149
+    },
+    {
+      "text": "No se observan hemorragias intra ni extraaxiales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 496,
+      "end": 544
+    },
+    {
+      "text": "No signos de hemorragia ni infartos recientes en territorio supratentorial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2339,
+      "end": 2413
+    }
+  ]
+}

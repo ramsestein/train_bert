@@ -1,0 +1,77 @@
+{
+  "document_id": "informe_sintetico_20250804195045_03337",
+  "entities": [
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 243,
+      "end": 257
+    },
+    {
+      "text": "tronco cerebral",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 607,
+      "end": 622
+    },
+    {
+      "text": "cerebelo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 946,
+      "end": 954
+    },
+    {
+      "text": "arteria basilar",
+      "type": "ARTERIA",
+      "start": 1178,
+      "end": 1193
+    },
+    {
+      "text": "bilaterales",
+      "type": "LATERALIDAD",
+      "start": 1260,
+      "end": 1271
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1719,
+      "end": 1742
+    },
+    {
+      "text": "Oclusión segmentaria parcial",
+      "type": "PATOLOGIA",
+      "start": 1143,
+      "end": 1171
+    },
+    {
+      "text": "Aumento del tiempo de tránsito medio (TTP)",
+      "type": "MEDIDA",
+      "start": 845,
+      "end": 887
+    },
+    {
+      "text": "reducción del flujo cerebral (CBF)",
+      "type": "MEDIDA",
+      "start": 890,
+      "end": 924
+    },
+    {
+      "text": "preservación parcial del volumen cerebral (CBV)",
+      "type": "MEDIDA",
+      "start": 986,
+      "end": 1033
+    },
+    {
+      "text": "sin estenosis significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1330,
+      "end": 1357
+    },
+    {
+      "text": "No se evidencian hemorragias intra ni extraaxiales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 501,
+      "end": 551
+    }
+  ]
+}

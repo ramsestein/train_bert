@@ -1,0 +1,131 @@
+{
+  "document_id": "informe_sintetico_20250804195045_12085",
+  "entities": [
+    {
+      "text": "hemiparesia derecha",
+      "type": "PATOLOGIA",
+      "start": 196,
+      "end": 215
+    },
+    {
+      "text": "afasia",
+      "type": "PATOLOGIA",
+      "start": 218,
+      "end": 224
+    },
+    {
+      "text": "accidente cerebrovascular isquémico",
+      "type": "PATOLOGIA",
+      "start": 238,
+      "end": 273
+    },
+    {
+      "text": "signo de arteria hiperdensa en segmento proximal M1 de la arteria cerebral media izquierda",
+      "type": "PATOLOGIA",
+      "start": 460,
+      "end": 550
+    },
+    {
+      "text": "Hipodensidad parenquimatosa con pérdida de diferenciación cortico-subcortical en ínsula y núcleo lenticular izquierdos",
+      "type": "PATOLOGIA",
+      "start": 552,
+      "end": 670
+    },
+    {
+      "text": "ASPECTS 6",
+      "type": "PUNTUACION_CLINICA",
+      "start": 672,
+      "end": 681
+    },
+    {
+      "text": "No hay evidencia de hemorragia intraparenquimatosa ni edema expansivo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 683,
+      "end": 752
+    },
+    {
+      "text": "ACM izquierda proximal",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1021,
+      "end": 1043
+    },
+    {
+      "text": "extensa penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1102,
+      "end": 1128
+    },
+    {
+      "text": "Oclusión completa del segmento proximal M1 de ACM izquierda",
+      "type": "PATOLOGIA",
+      "start": 1163,
+      "end": 1222
+    },
+    {
+      "text": "arterias cerebrales anteriores y posteriores",
+      "type": "ARTERIA",
+      "start": 1252,
+      "end": 1296
+    },
+    {
+      "text": "circulación colateral a través de la arteria comunicante anterior",
+      "type": "ARTERIA",
+      "start": 1302,
+      "end": 1367
+    },
+    {
+      "text": "Sistema vertebrobasilar permeable",
+      "type": "ARTERIA",
+      "start": 1455,
+      "end": 1488
+    },
+    {
+      "text": "Ausencia de hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1513,
+      "end": 1548
+    },
+    {
+      "text": "ASPECTS 6 en territorio de ACM izquierda",
+      "type": "PUNTUACION_CLINICA",
+      "start": 1550,
+      "end": 1590
+    },
+    {
+      "text": "Oclusión proximal de ACM izquierda",
+      "type": "PATOLOGIA",
+      "start": 1630,
+      "end": 1664
+    },
+    {
+      "text": "extensa área de penumbra isquémica detectada en perfusión",
+      "type": "PATOLOGIA",
+      "start": 1669,
+      "end": 1726
+    },
+    {
+      "text": "isquemia aguda en territorio de ACM proximal",
+      "type": "PATOLOGIA",
+      "start": 1754,
+      "end": 1798
+    },
+    {
+      "text": "TC craneal sin contraste",
+      "type": "TECNICA_IMAGEN",
+      "start": 294,
+      "end": 318
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 320,
+      "end": 341
+    },
+    {
+      "text": "angioTC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 344,
+      "end": 373
+    }
+  ]
+}

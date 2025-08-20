@@ -1,0 +1,83 @@
+{
+  "document_id": "informe_sintetico_20250804195045_23131",
+  "entities": [
+    {
+      "text": "hematoma intraparenquimatoso agudo",
+      "type": "PATOLOGIA",
+      "start": 382,
+      "end": 416
+    },
+    {
+      "text": "núcleo caudado izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 445,
+      "end": 469
+    },
+    {
+      "text": "3.5 x 3.0 x 2.8 cm",
+      "type": "MEDIDA",
+      "start": 502,
+      "end": 520
+    },
+    {
+      "text": "15 cc",
+      "type": "MEDIDA",
+      "start": 539,
+      "end": 544
+    },
+    {
+      "text": "4 mm",
+      "type": "MEDIDA",
+      "start": 682,
+      "end": 686
+    },
+    {
+      "text": "hematoma",
+      "type": "PATOLOGIA",
+      "start": 382,
+      "end": 390
+    },
+    {
+      "text": "núcleo caudado izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 445,
+      "end": 469
+    },
+    {
+      "text": "CBF",
+      "type": "TECNICA_IMAGEN",
+      "start": 1025,
+      "end": 1028
+    },
+    {
+      "text": "MTT",
+      "type": "TECNICA_IMAGEN",
+      "start": 1307,
+      "end": 1310
+    },
+    {
+      "text": "TTP",
+      "type": "TECNICA_IMAGEN",
+      "start": 1313,
+      "end": 1316
+    },
+    {
+      "text": "sin signos de estenosis ni oclusión",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1466,
+      "end": 1501
+    },
+    {
+      "text": "sin signos de hemoventrículo ni malformaciones vasculares asociadas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2414,
+      "end": 2481
+    },
+    {
+      "text": "sin estenosis ni malformaciones evidentes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2077,
+      "end": 2118
+    }
+  ]
+}

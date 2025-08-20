@@ -1,0 +1,107 @@
+{
+  "document_id": "informe_sintetico_20250804195045_19979",
+  "entities": [
+    {
+      "text": "isquemia cerebral aguda",
+      "type": "PATOLOGIA",
+      "start": 241,
+      "end": 264
+    },
+    {
+      "text": "hemiparesia izquierda",
+      "type": "PATOLOGIA",
+      "start": 197,
+      "end": 218
+    },
+    {
+      "text": "afasia",
+      "type": "PATOLOGIA",
+      "start": 221,
+      "end": 227
+    },
+    {
+      "text": "isquemia",
+      "type": "PATOLOGIA",
+      "start": 241,
+      "end": 249
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 979,
+      "end": 1009
+    },
+    {
+      "text": "M2/M3",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1021,
+      "end": 1026
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "ARTERIA",
+      "start": 979,
+      "end": 1009
+    },
+    {
+      "text": "M2/M3",
+      "type": "ARTERIA",
+      "start": 1021,
+      "end": 1026
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 678,
+      "end": 685
+    },
+    {
+      "text": "ASPECTS 9/10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 617,
+      "end": 629
+    },
+    {
+      "text": "aguda",
+      "type": "TEMPORALIDAD",
+      "start": 259,
+      "end": 264
+    },
+    {
+      "text": "No se identifica hemorragia intraparenquimatosa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 469,
+      "end": 516
+    },
+    {
+      "text": "sin evidencia de infarto establecido",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1649,
+      "end": 1685
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 285,
+      "end": 301
+    },
+    {
+      "text": "mapas de perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 324,
+      "end": 351
+    },
+    {
+      "text": "angiografía TC",
+      "type": "TECNICA_IMAGEN",
+      "start": 354,
+      "end": 368
+    },
+    {
+      "text": "angiografía TC",
+      "type": "TECNICA_IMAGEN",
+      "start": 354,
+      "end": 368
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "document_id": "informe_sintetico_20250804195045_02259",
+  "entities": [
+    {
+      "text": "isquemia vertebrobasilar aguda",
+      "type": "PATOLOGIA",
+      "start": 263,
+      "end": 293
+    },
+    {
+      "text": "tronco encefálico",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 566,
+      "end": 583
+    },
+    {
+      "text": "puente",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 611,
+      "end": 617
+    },
+    {
+      "text": "mesencéfalo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 620,
+      "end": 631
+    },
+    {
+      "text": "edema citotóxico temprano",
+      "type": "PATOLOGIA",
+      "start": 732,
+      "end": 757
+    },
+    {
+      "text": "flujo sanguíneo cerebral (CBF)",
+      "type": "PATOLOGIA",
+      "start": 892,
+      "end": 922
+    },
+    {
+      "text": "territorio que corresponde a la circulación vertebrobasilar",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 929,
+      "end": 988
+    },
+    {
+      "text": "tiempo hasta el pico (TTP)",
+      "type": "MEDIDA",
+      "start": 1011,
+      "end": 1037
+    },
+    {
+      "text": "oclusión segmentaria aguda",
+      "type": "PATOLOGIA",
+      "start": 1116,
+      "end": 1142
+    },
+    {
+      "text": "arteria basilar proximal",
+      "type": "ARTERIA",
+      "start": 1149,
+      "end": 1173
+    },
+    {
+      "text": "ausencia de contraste en dicho segmento",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1178,
+      "end": 1217
+    },
+    {
+      "text": "calibre conservado sin estenosis significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1253,
+      "end": 1299
+    },
+    {
+      "text": "isquemia aguda en territorio vertebrobasilar",
+      "type": "PATOLOGIA",
+      "start": 1474,
+      "end": 1518
+    },
+    {
+      "text": "oclusión de la arteria basilar proximal",
+      "type": "PATOLOGIA",
+      "start": 1524,
+      "end": 1563
+    },
+    {
+      "text": "TC de cráneo basal urgente",
+      "type": "TECNICA_IMAGEN",
+      "start": 314,
+      "end": 340
+    },
+    {
+      "text": "estudio de perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 342,
+      "end": 371
+    },
+    {
+      "text": "angio-TC de arterias extra e intracraneales",
+      "type": "TECNICA_IMAGEN",
+      "start": 374,
+      "end": 417
+    }
+  ]
+}

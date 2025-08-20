@@ -1,0 +1,83 @@
+{
+  "document_id": "informe_sintetico_20250804195045_21391",
+  "entities": [
+    {
+      "text": "hematoma subdural agudo",
+      "type": "PATOLOGIA",
+      "start": 509,
+      "end": 532
+    },
+    {
+      "text": "convexidad hemisférica derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 539,
+      "end": 569
+    },
+    {
+      "text": "12 mm",
+      "type": "MEDIDA",
+      "start": 595,
+      "end": 600
+    },
+    {
+      "text": "edema cerebral perifocal",
+      "type": "PATOLOGIA",
+      "start": 762,
+      "end": 786
+    },
+    {
+      "text": "desplazamiento de la línea media 8 mm hacia la izquierda",
+      "type": "PATOLOGIA",
+      "start": 893,
+      "end": 949
+    },
+    {
+      "text": "ventrículo lateral derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 993,
+      "end": 1019
+    },
+    {
+      "text": "cisternas supraselar y perimesencefálicas",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1051,
+      "end": 1092
+    },
+    {
+      "text": "disminución moderada del flujo cerebral",
+      "type": "PATOLOGIA",
+      "start": 1159,
+      "end": 1198
+    },
+    {
+      "text": "hipoperfusión moderada",
+      "type": "PATOLOGIA",
+      "start": 1705,
+      "end": 1727
+    },
+    {
+      "text": "No se observan fracturas ni malformaciones vasculares",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1616,
+      "end": 1669
+    },
+    {
+      "text": "TC craneal urgente",
+      "type": "TECNICA_IMAGEN",
+      "start": 285,
+      "end": 303
+    },
+    {
+      "text": "estudio de perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 371,
+      "end": 400
+    },
+    {
+      "text": "angioTC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 403,
+      "end": 432
+    }
+  ]
+}

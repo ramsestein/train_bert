@@ -1,0 +1,83 @@
+{
+  "document_id": "informe_sintetico_20250804195045_08470",
+  "entities": [
+    {
+      "text": "infarto cerebral",
+      "type": "PATOLOGIA",
+      "start": 285,
+      "end": 301
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 640,
+      "end": 672
+    },
+    {
+      "text": "8 x 6 mm",
+      "type": "MEDIDA",
+      "start": 829,
+      "end": 837
+    },
+    {
+      "text": "subaguda",
+      "type": "TEMPORALIDAD",
+      "start": 713,
+      "end": 721
+    },
+    {
+      "text": "transformación hemorrágica focal tipo PH1",
+      "type": "PATOLOGIA",
+      "start": 1040,
+      "end": 1081
+    },
+    {
+      "text": "hemorragias intraventriculares ni extraaxiales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1098,
+      "end": 1144
+    },
+    {
+      "text": "disminución del flujo cerebral (CBF)",
+      "type": "PATOLOGIA",
+      "start": 1174,
+      "end": 1210
+    },
+    {
+      "text": "lesión isquémica con reperfusión parcial",
+      "type": "PATOLOGIA",
+      "start": 1334,
+      "end": 1374
+    },
+    {
+      "text": "estenosis moderada",
+      "type": "PATOLOGIA",
+      "start": 1538,
+      "end": 1556
+    },
+    {
+      "text": "50%",
+      "type": "MEDIDA",
+      "start": 1574,
+      "end": 1577
+    },
+    {
+      "text": "arteria carótida interna izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1603,
+      "end": 1637
+    },
+    {
+      "text": "ausencia de oclusión completa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1676,
+      "end": 1705
+    },
+    {
+      "text": "reperfusión parcial del territorio afectado",
+      "type": "PATOLOGIA",
+      "start": 2139,
+      "end": 2182
+    }
+  ]
+}

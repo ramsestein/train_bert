@@ -1,0 +1,89 @@
+{
+  "document_id": "informe_sintetico_20250804195045_00041",
+  "entities": [
+    {
+      "text": "accidente isquémico cerebral",
+      "type": "PATOLOGIA",
+      "start": 225,
+      "end": 253
+    },
+    {
+      "text": "ASPECTS 9/10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 569,
+      "end": 581
+    },
+    {
+      "text": "territorio superficial distal de la arteria cerebral media",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 832,
+      "end": 890
+    },
+    {
+      "text": "arteria cerebral media",
+      "type": "ARTERIA",
+      "start": 868,
+      "end": 890
+    },
+    {
+      "text": "izquierdo",
+      "type": "LATERALIDAD",
+      "start": 909,
+      "end": 918
+    },
+    {
+      "text": "oclusión",
+      "type": "PATOLOGIA",
+      "start": 1320,
+      "end": 1328
+    },
+    {
+      "text": "segmento distal M2 de la arteria cerebral media izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1246,
+      "end": 1303
+    },
+    {
+      "text": "aguda",
+      "type": "TEMPORALIDAD",
+      "start": 1481,
+      "end": 1486
+    },
+    {
+      "text": "mismatch significativo",
+      "type": "PATOLOGIA",
+      "start": 1037,
+      "end": 1059
+    },
+    {
+      "text": "mismatch significativo",
+      "type": "PATOLOGIA",
+      "start": 1037,
+      "end": 1059
+    },
+    {
+      "text": "sin estenosis significativa ni ateromatosis relevante",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1131,
+      "end": 1184
+    },
+    {
+      "text": "permeables",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1205,
+      "end": 1215
+    },
+    {
+      "text": "sin estenosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1131,
+      "end": 1144
+    },
+    {
+      "text": "sin estenosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1131,
+      "end": 1144
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+UO_PACN (Unidad Organizativa Médica): RADIO
+
+PRUEB (Prueba solicitada): TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANG IOTC ARTERIAL INTRACRANEAL)
+
+CLIN (Resumen clínico): Paciente masculino de 65 años con hipertensión arterial descontrolada, ingresado por inicio súbito de hemiparesia derecha y alteración del estado de conciencia. Sospecha clínica de hemorragia cerebral.
+
+OBSR (Protocolo): TC craneal basal rápido, estudio de perfusión cerebral y angio-TC arterial intracraneal para valoración de circulación cerebral y posibles causas vasculares.
+
+RESL (Resultados):  
+TC CRANEAL BASAL:  
+Se identifica hematoma intracerebral hiperdenso en región putaminal izquierda que se extiende hacia la cápsula interna adyacente, con dimensiones aproximadas de 3.5 x 3.0 x 2.8 cm. Área de edema vasogénico circundante que genera efecto de masa notable con leve desviación de la línea media hacia la derecha de aproximadamente 6 mm. No se observan signos de hemorragia subaracnoidea ni hematocele ventricular. Sistema ventricular con ligero colapso del ventrículo lateral izquierdo. Cisternas basales parcialmente comprimidas.  
+
+TC PERFUSIÓN:  
+Disminución marcada del flujo sanguíneo cerebral (CBF) y aumento del tiempo de tránsito medio (MTT) en la región perihematomal izquierda, sugestivo de zona de penumbra isquémica secundaria al efecto masivo del hematoma.
+
+ANGIO-TC EXTRA E INTRACRANEAL:  
+No se evidencian malformaciones vasculares ni aneurismas. Vasos principales permeables sin signos de estenosis. Arco aórtico y troncos supraórticos sin alteraciones significativas.
+
+CONCL (Conclusiones):  
+Hematoma intraparenquimatoso localizado en putamen izquierdo con afectación de cápsula interna, asociado a edema vasogénico y efecto de masa con desviación de línea media. Sin evidencia de causa vascular subyacente obstructiva o malformativa. Hallazgos compatibles con hemorragia cerebral hipertensiva. Recomendable control neuroquirúrgico y seguimiento.
+
+ACTI_ADICI (Actividad adicional):  
+
+ICON (Estudio): @RADIO_TC_CODEICTUS@
+
+X00DIATXT (Texto del diagnóstico ACR): Hematoma intraparenquimatoso putaminal izquierdo con efecto de masa y edema perihematomal
+
+EST_T_DES (Descripción): TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANGIOTC ARTERIAL INTRACRANEAL)
+
+ZVASOS_D (Der.): Estudio completo de vasos extra e intracraneales sin hallazgos relevantes para estenosis o malformaciones.

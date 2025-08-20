@@ -1,0 +1,149 @@
+{
+  "document_id": "informe_sintetico_20250804195045_13535",
+  "entities": [
+    {
+      "text": "hemiparesia izquierda",
+      "type": "PATOLOGIA",
+      "start": 204,
+      "end": 225
+    },
+    {
+      "text": "afasia",
+      "type": "PATOLOGIA",
+      "start": 228,
+      "end": 234
+    },
+    {
+      "text": "accidente isquémico agudo",
+      "type": "PATOLOGIA",
+      "start": 256,
+      "end": 281
+    },
+    {
+      "text": "arteria cerebral posterior derecha",
+      "type": "ARTERIA",
+      "start": 302,
+      "end": 336
+    },
+    {
+      "text": "lóbulo occipital derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 745,
+      "end": 769
+    },
+    {
+      "text": "tiempo de tránsito medio (TTP)",
+      "type": "MEDIDA",
+      "start": 808,
+      "end": 838
+    },
+    {
+      "text": "tiempo de llegada del contraste (Tmax)",
+      "type": "MEDIDA",
+      "start": 841,
+      "end": 879
+    },
+    {
+      "text": "disminución marcada del flujo cerebral sanguíneo (CBF)",
+      "type": "PATOLOGIA",
+      "start": 885,
+      "end": 939
+    },
+    {
+      "text": "volumen cerebral sanguíneo (CBV)",
+      "type": "MEDIDA",
+      "start": 942,
+      "end": 974
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 991,
+      "end": 1005
+    },
+    {
+      "text": "arteria cerebral posterior derecha",
+      "type": "ARTERIA",
+      "start": 302,
+      "end": 336
+    },
+    {
+      "text": "mismatch entre CBV y CBF",
+      "type": "PATOLOGIA",
+      "start": 1073,
+      "end": 1097
+    },
+    {
+      "text": "Oclusión proximal suboclusiva en segmento P2 de la arteria cerebral posterior derecha",
+      "type": "PATOLOGIA",
+      "start": 1163,
+      "end": 1248
+    },
+    {
+      "text": "ACAs, ACMs y ACP contralaterales",
+      "type": "ARTERIA",
+      "start": 1281,
+      "end": 1313
+    },
+    {
+      "text": "Sistema vertebrobasilar",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1327,
+      "end": 1350
+    },
+    {
+      "text": "sin estenosis ni lesiones significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1351,
+      "end": 1391
+    },
+    {
+      "text": "Isquemia aguda en territorio de la arteria cerebral posterior derecha",
+      "type": "PATOLOGIA",
+      "start": 1417,
+      "end": 1486
+    },
+    {
+      "text": "mismatch en perfusión cortical occipital",
+      "type": "PATOLOGIA",
+      "start": 1505,
+      "end": 1545
+    },
+    {
+      "text": "Oclusión suboclusiva en segmento P2 de ACP derecha",
+      "type": "PATOLOGIA",
+      "start": 1547,
+      "end": 1597
+    },
+    {
+      "text": "No signos de hemorragia ni lesiones ocupantes de espacio",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1621,
+      "end": 1677
+    },
+    {
+      "text": "TC craneal basal sin contraste",
+      "type": "TECNICA_IMAGEN",
+      "start": 357,
+      "end": 387
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 389,
+      "end": 410
+    },
+    {
+      "text": "angioTC arterial intracraneal urgente",
+      "type": "TECNICA_IMAGEN",
+      "start": 413,
+      "end": 450
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 591,
+      "end": 601
+    }
+  ]
+}

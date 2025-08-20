@@ -1,0 +1,89 @@
+{
+  "document_id": "informe_sintetico_20250804195045_11717",
+  "entities": [
+    {
+      "text": "ictus isquémico",
+      "type": "PATOLOGIA",
+      "start": 237,
+      "end": 252
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 1636,
+      "end": 1650
+    },
+    {
+      "text": "arteria cerebral anterior",
+      "type": "ARTERIA",
+      "start": 270,
+      "end": 295
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 1065,
+      "end": 1074
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 1065,
+      "end": 1074
+    },
+    {
+      "text": "segmento A2",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1353,
+      "end": 1364
+    },
+    {
+      "text": "Oclusión proximal segmentaria de arteria cerebral anterior (ACA) izquierda",
+      "type": "PATOLOGIA",
+      "start": 1272,
+      "end": 1346
+    },
+    {
+      "text": "No se evidencian sangrados ni colecciones extra o intraaxiales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 482,
+      "end": 544
+    },
+    {
+      "text": "No se observan signos de lesiones crónicas relevantes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 868,
+      "end": 921
+    },
+    {
+      "text": "No evidencias de hemorragia intracraneal ni edema masivo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1816,
+      "end": 1872
+    },
+    {
+      "text": "área de penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1209,
+      "end": 1235
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 316,
+      "end": 332
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 359,
+      "end": 380
+    },
+    {
+      "text": "Angio TC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 383,
+      "end": 413
+    }
+  ]
+}

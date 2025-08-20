@@ -1,0 +1,59 @@
+{
+  "document_id": "informe_sintetico_20250804195045_19492",
+  "entities": [
+    {
+      "text": "contusión hemorrágica",
+      "type": "PATOLOGIA",
+      "start": 559,
+      "end": 580
+    },
+    {
+      "text": "región frontotemporal derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 587,
+      "end": 616
+    },
+    {
+      "text": "12 mm",
+      "type": "MEDIDA",
+      "start": 668,
+      "end": 673
+    },
+    {
+      "text": "agudo",
+      "type": "TEMPORALIDAD",
+      "start": 352,
+      "end": 357
+    },
+    {
+      "text": "sin evidencia de área isquémica extensa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1227,
+      "end": 1266
+    },
+    {
+      "text": "sin signos de oclusión ni estenosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1545,
+      "end": 1580
+    },
+    {
+      "text": "sin defectos de repleción ni aneurismas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1612,
+      "end": 1651
+    },
+    {
+      "text": "sin desplazamiento de línea media ni fracturas óseas visibles",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1902,
+      "end": 1963
+    },
+    {
+      "text": "sin signos de isquemia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2013,
+      "end": 2035
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "document_id": "informe_sintetico_20250804195045_11766",
+  "entities": [
+    {
+      "text": "ictus",
+      "type": "PATOLOGIA",
+      "start": 255,
+      "end": 260
+    },
+    {
+      "text": "arteria cerebral anterior",
+      "type": "ARTERIA",
+      "start": 278,
+      "end": 303
+    },
+    {
+      "text": "izquierdo",
+      "type": "LATERALIDAD",
+      "start": 209,
+      "end": 218
+    },
+    {
+      "text": "hemisferio derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 649,
+      "end": 667
+    },
+    {
+      "text": "edema isquémico incipiente",
+      "type": "PATOLOGIA",
+      "start": 683,
+      "end": 709
+    },
+    {
+      "text": "ASPECTS 9",
+      "type": "PUNTUACION_CLINICA",
+      "start": 726,
+      "end": 735
+    },
+    {
+      "text": "arteria cerebral anterior derecha",
+      "type": "ARTERIA",
+      "start": 1006,
+      "end": 1039
+    },
+    {
+      "text": "penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1128,
+      "end": 1146
+    },
+    {
+      "text": "segmento A2",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1252,
+      "end": 1263
+    },
+    {
+      "text": "sin evidencias de estenosis ni trombosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1296,
+      "end": 1336
+    },
+    {
+      "text": "sin ateromatosis destacable",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1385,
+      "end": 1412
+    },
+    {
+      "text": "sin alteraciones",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1450,
+      "end": 1466
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 1614,
+      "end": 1628
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 517,
+      "end": 540
+    },
+    {
+      "text": "edema cerebral significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1859,
+      "end": 1887
+    }
+  ]
+}

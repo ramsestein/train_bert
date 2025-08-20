@@ -1,0 +1,89 @@
+{
+  "document_id": "0000000010000000058666243_cleaned",
+  "entities": [
+    {
+      "text": "Infart cerebral causat per oclusió o estenosi no especificades d'artèria cerebral no especificada",
+      "type": "PATOLOGIA",
+      "start": 166,
+      "end": 263
+    },
+    {
+      "text": "No se observa hemorragia aguda intra ni extraaxial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 400,
+      "end": 450
+    },
+    {
+      "text": "Parénquima cerebral sin alteraciones densitométricas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 452,
+      "end": 504
+    },
+    {
+      "text": "Diferenciación cortico-subcortical conservada",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 506,
+      "end": 551
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 553,
+      "end": 563
+    },
+    {
+      "text": "No se observan lesiones isquémicas parenquimatosas subagudas ni otras lesiones isquemicas crónicas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 566,
+      "end": 664
+    },
+    {
+      "text": "tálamo derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1020,
+      "end": 1034
+    },
+    {
+      "text": "Dudoso retraso en los mapas de tiempo (Tmax, TTD) y mínima caída de flujo (CBF) a nivel de tálamo derecho",
+      "type": "PATOLOGIA",
+      "start": 929,
+      "end": 1034
+    },
+    {
+      "text": "irregularidad/dilatación focal",
+      "type": "PATOLOGIA",
+      "start": 1317,
+      "end": 1347
+    },
+    {
+      "text": "ACI izquierda",
+      "type": "ARTERIA",
+      "start": 1289,
+      "end": 1302
+    },
+    {
+      "text": "sin ateromatosis ni signos de estenosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1199,
+      "end": 1238
+    },
+    {
+      "text": "sin estenosis ni oclusiones en las principales arterias intra y extracraneales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1948,
+      "end": 2026
+    },
+    {
+      "text": "ACAs, ACMs y ACPs",
+      "type": "ARTERIA",
+      "start": 1581,
+      "end": 1598
+    },
+    {
+      "text": "Sistema vertebrobasilar permeable",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1601,
+      "end": 1634
+    }
+  ]
+}

@@ -1,0 +1,191 @@
+{
+  "document_id": "informe_sintetico_20250804195045_03941",
+  "entities": [
+    {
+      "text": "hemiparesia derecha",
+      "type": "PATOLOGIA",
+      "start": 218,
+      "end": 237
+    },
+    {
+      "text": "afasia",
+      "type": "PATOLOGIA",
+      "start": 240,
+      "end": 246
+    },
+    {
+      "text": "disección arterial cervical",
+      "type": "PATOLOGIA",
+      "start": 268,
+      "end": 295
+    },
+    {
+      "text": "evento isquémico cerebral",
+      "type": "PATOLOGIA",
+      "start": 300,
+      "end": 325
+    },
+    {
+      "text": "hipodensidad",
+      "type": "PATOLOGIA",
+      "start": 531,
+      "end": 543
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "ARTERIA",
+      "start": 564,
+      "end": 596
+    },
+    {
+      "text": "corteza frontal",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 611,
+      "end": 626
+    },
+    {
+      "text": "infarto cerebral agudo",
+      "type": "PATOLOGIA",
+      "start": 708,
+      "end": 730
+    },
+    {
+      "text": "No hay signos de hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 745,
+      "end": 785
+    },
+    {
+      "text": "ASPECTS 7",
+      "type": "PUNTUACION_CLINICA",
+      "start": 803,
+      "end": 812
+    },
+    {
+      "text": "Sistema ventricular dentro de parámetros normales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 815,
+      "end": 864
+    },
+    {
+      "text": "TC PERFUSIÓN",
+      "type": "TECNICA_IMAGEN",
+      "start": 973,
+      "end": 985
+    },
+    {
+      "text": "incremento del tiempo de tránsito medio (TTM)",
+      "type": "MEDIDA",
+      "start": 1015,
+      "end": 1060
+    },
+    {
+      "text": "tiempo hasta el pico (TTP)",
+      "type": "MEDIDA",
+      "start": 1063,
+      "end": 1089
+    },
+    {
+      "text": "ACV izquierda",
+      "type": "ARTERIA",
+      "start": 1107,
+      "end": 1120
+    },
+    {
+      "text": "flujo cerebral (CBF)",
+      "type": "MEDIDA",
+      "start": 1148,
+      "end": 1168
+    },
+    {
+      "text": "volumen cerebral de sangre (CBV)",
+      "type": "MEDIDA",
+      "start": 1171,
+      "end": 1203
+    },
+    {
+      "text": "infarto establecido",
+      "type": "PATOLOGIA",
+      "start": 1249,
+      "end": 1268
+    },
+    {
+      "text": "penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1394,
+      "end": 1412
+    },
+    {
+      "text": "ANGIO-TC ARTERIAL INTRACRANEAL Y CERVICAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 1415,
+      "end": 1456
+    },
+    {
+      "text": "estrechamiento filiforme irregular",
+      "type": "PATOLOGIA",
+      "start": 1472,
+      "end": 1506
+    },
+    {
+      "text": "calibre reducido",
+      "type": "PATOLOGIA",
+      "start": 1511,
+      "end": 1527
+    },
+    {
+      "text": "arteria carótida interna izquierda",
+      "type": "ARTERIA",
+      "start": 1534,
+      "end": 1568
+    },
+    {
+      "text": "segmento supraclinoideo de carótida interna izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1713,
+      "end": 1766
+    },
+    {
+      "text": "Circulación colateral activa",
+      "type": "PATOLOGIA",
+      "start": 1768,
+      "end": 1796
+    },
+    {
+      "text": "Resto de arterias intracraneales y cuello sin estenosis ni trombosis significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1846,
+      "end": 1929
+    },
+    {
+      "text": "No evidencia de hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2285,
+      "end": 2324
+    },
+    {
+      "text": "Infarto cerebral agudo en territorio de ACM izquierda",
+      "type": "PATOLOGIA",
+      "start": 2578,
+      "end": 2631
+    },
+    {
+      "text": "disección de arteria carótida interna izquierda",
+      "type": "PATOLOGIA",
+      "start": 2143,
+      "end": 2190
+    },
+    {
+      "text": "Disección arterial carotídea izquierda",
+      "type": "PATOLOGIA",
+      "start": 2804,
+      "end": 2842
+    },
+    {
+      "text": "infarto cerebral agudo en territorio MCA izquierda",
+      "type": "PATOLOGIA",
+      "start": 2847,
+      "end": 2897
+    }
+  ]
+}

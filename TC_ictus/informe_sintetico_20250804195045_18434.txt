@@ -1,0 +1,25 @@
+UO_PACN (Unidad Organizativa Médica): RADIO
+
+PRUEB (Prueba solicitada): TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANG IOTC ARTERIAL INTRACRANEAL)
+
+CLIN (Resumen clínico): Traumatismo craneal con deterioro del nivel de conciencia
+
+OBSR (Protocolo): TC craneal basal con estudio multimodal de perfusión cerebral y angiografía por TC extra e intracraneal, protocolo código ictus adaptado a urgencias traumáticas
+
+RESL (Resultados): TC CRANEAL BASAL: Se identifica una lesión hiperdensa heterogénea localizada en el hemisferio cerebeloso derecho, compatible con hematoma intraparenquimatoso cerebeloso de aproximadamente 3,2 x 2,8 cm. Existe efecto de masa con compresión significativa del cuarto ventrículo ocasionando desviación de la línea media en el tronco encefálico y dilatación triventricular sugestiva de hidrocefalia obstructiva. No se observan hemorragias subaracnoideas ni lesiones extraaxiales. El parénquima cerebral supratentorial muestra diferenciación córtico-subcortical conservada sin signos de isquemia aguda (ASPECTS 10). Estructuras de la línea media desviadas levemente hacia la izquierda.
+
+TC PERFUSIÓN: Se aprecia reducción del flujo cerebral regional en el territorio cerebeloso derecho correspondiente al hematoma y área circundante, con aumento del tiempo de tránsito medio (MTT) en dicha región. No se identifican alteraciones perfusionales en territorio supratentorial.
+
+ANGIO-TC EXTRA E INTRACRANEAL: Arco aórtico y troncos supraórticos sin estenosis ni ateromatosis significativa. Vasos intracraneales permeables sin evidencia de oclusiones o estenosis mayores. Sistema vertebrobasilar sin alteraciones relevantes.
+
+CONCL (Conclusiones): Hematoma cerebeloso derecho con efecto de masa significativo, compresión del cuarto ventrículo e hidrocefalia obstructiva secundaria. Ausencia de hemorragia supratentorial o lesiones isquémicas agudas. Se recomienda valoración neuroquirúrgica urgente.
+
+ACTI_ADICI (Actividad adicional): Monitorización neurológica intensiva y estudio de control para evaluar evolución del hematoma y posible aumento de la hidrocefalia.
+
+ICON (Estudio): @RADIO_TC_CRANEAL_HCEREB@
+
+X00DIATXT (Texto del diagnóstico ACR): Hematoma cerebeloso con efecto de masa y compresión ventricular. Hidrocefalia obstructiva. Sin evidencia de lesiones isquémicas agudas ni hemorragias adicionales.
+
+EST_T_DES (Descripción): TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANGIOTC ARTERIAL INTRACRANEAL)
+
+ZVASOS_D (Der.): Normalidad en el sistema arterial extracraneal e intracraneal. Sistema vertebrobasilar permeable.

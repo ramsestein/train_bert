@@ -1,0 +1,247 @@
+{
+  "document_id": "informe_sintetico_20250804195045_05667",
+  "entities": [
+    {
+      "text": "hemorragia aguda",
+      "type": "PATOLOGIA",
+      "start": 569,
+      "end": 585
+    },
+    {
+      "text": "extraaxial",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 595,
+      "end": 605
+    },
+    {
+      "text": "cortico-subcortical",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 655,
+      "end": 674
+    },
+    {
+      "text": "áreas hipodensas",
+      "type": "PATOLOGIA",
+      "start": 680,
+      "end": 696
+    },
+    {
+      "text": "isquemia",
+      "type": "PATOLOGIA",
+      "start": 726,
+      "end": 734
+    },
+    {
+      "text": "lesión hemorrágica",
+      "type": "PATOLOGIA",
+      "start": 737,
+      "end": 755
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 757,
+      "end": 767
+    },
+    {
+      "text": "morfología",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 814,
+      "end": 824
+    },
+    {
+      "text": "tamaño normales",
+      "type": "MEDIDA",
+      "start": 827,
+      "end": 842
+    },
+    {
+      "text": "surcos corticales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 864,
+      "end": 881
+    },
+    {
+      "text": "atrofia cortical leve",
+      "type": "PATOLOGIA",
+      "start": 907,
+      "end": 928
+    },
+    {
+      "text": "calcificaciones puntiformes",
+      "type": "PATOLOGIA",
+      "start": 939,
+      "end": 966
+    },
+    {
+      "text": "cuerpo estriado",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 973,
+      "end": 988
+    },
+    {
+      "text": "cambios crónicos",
+      "type": "PATOLOGIA",
+      "start": 1016,
+      "end": 1032
+    },
+    {
+      "text": "TC PERFUSIÓN",
+      "type": "TECNICA_IMAGEN",
+      "start": 1057,
+      "end": 1069
+    },
+    {
+      "text": "tiempo de tránsito (TTP)",
+      "type": "MEDIDA",
+      "start": 1082,
+      "end": 1106
+    },
+    {
+      "text": "volumen cerebral sanguíneo (CBV)",
+      "type": "MEDIDA",
+      "start": 1108,
+      "end": 1140
+    },
+    {
+      "text": "flujo cerebral sanguíneo (CBF)",
+      "type": "MEDIDA",
+      "start": 1143,
+      "end": 1173
+    },
+    {
+      "text": "rangos normales",
+      "type": "MEDIDA",
+      "start": 1184,
+      "end": 1199
+    },
+    {
+      "text": "áreas con retraso",
+      "type": "PATOLOGIA",
+      "start": 1252,
+      "end": 1269
+    },
+    {
+      "text": "disminución significativa de perfusión",
+      "type": "PATOLOGIA",
+      "start": 1272,
+      "end": 1310
+    },
+    {
+      "text": "ANGIO-TC EXTRA E INTRACRANEAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 1313,
+      "end": 1342
+    },
+    {
+      "text": "estenosis",
+      "type": "PATOLOGIA",
+      "start": 1372,
+      "end": 1381
+    },
+    {
+      "text": "placas significativas",
+      "type": "PATOLOGIA",
+      "start": 1385,
+      "end": 1406
+    },
+    {
+      "text": "ACA",
+      "type": "ARTERIA",
+      "start": 1433,
+      "end": 1436
+    },
+    {
+      "text": "ACM",
+      "type": "ARTERIA",
+      "start": 1438,
+      "end": 1441
+    },
+    {
+      "text": "ACP",
+      "type": "ARTERIA",
+      "start": 1443,
+      "end": 1446
+    },
+    {
+      "text": "permeables",
+      "type": "PATOLOGIA",
+      "start": 1448,
+      "end": 1458
+    },
+    {
+      "text": "calibre conservado",
+      "type": "PATOLOGIA",
+      "start": 1464,
+      "end": 1482
+    },
+    {
+      "text": "alteraciones",
+      "type": "PATOLOGIA",
+      "start": 1512,
+      "end": 1524
+    },
+    {
+      "text": "aneurismas",
+      "type": "PATOLOGIA",
+      "start": 1544,
+      "end": 1554
+    },
+    {
+      "text": "malformaciones",
+      "type": "PATOLOGIA",
+      "start": 1556,
+      "end": 1570
+    },
+    {
+      "text": "signos de vasoespasmo",
+      "type": "PATOLOGIA",
+      "start": 1574,
+      "end": 1595
+    },
+    {
+      "text": "TC craneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 367,
+      "end": 377
+    },
+    {
+      "text": "isquemia",
+      "type": "PATOLOGIA",
+      "start": 726,
+      "end": 734
+    },
+    {
+      "text": "hemorragia aguda",
+      "type": "PATOLOGIA",
+      "start": 569,
+      "end": 585
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 757,
+      "end": 767
+    },
+    {
+      "text": "evidencia de alteración hemodinámica",
+      "type": "PATOLOGIA",
+      "start": 1718,
+      "end": 1754
+    },
+    {
+      "text": "estenosis",
+      "type": "PATOLOGIA",
+      "start": 1372,
+      "end": 1381
+    },
+    {
+      "text": "lesiones vasculares significativas",
+      "type": "PATOLOGIA",
+      "start": 1796,
+      "end": 1830
+    }
+  ],
+  "regenerado": true,
+  "fecha_regeneracion": "2025-08-06T03:55:37.436725"
+}

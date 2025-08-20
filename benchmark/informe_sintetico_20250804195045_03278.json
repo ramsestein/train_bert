@@ -1,0 +1,125 @@
+{
+  "document_id": "informe_sintetico_20250804195045_03278",
+  "entities": [
+    {
+      "text": "isquemia aguda multiterritorial",
+      "type": "PATOLOGIA",
+      "start": 1566,
+      "end": 1597
+    },
+    {
+      "text": "hemiparesia derecha",
+      "type": "PATOLOGIA",
+      "start": 234,
+      "end": 253
+    },
+    {
+      "text": "territorios principalmente de las arterias cerebrales medias derecha e izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 698,
+      "end": 778
+    },
+    {
+      "text": "arterias cerebrales medias derecha e izquierda",
+      "type": "ARTERIA",
+      "start": 732,
+      "end": 778
+    },
+    {
+      "text": "ASPECTS bilateralmente reducido (7 en hemisferio izquierdo, 6 en derecho)",
+      "type": "PUNTUACION_CLINICA",
+      "start": 914,
+      "end": 987
+    },
+    {
+      "text": "isquemia aguda multiterritorial",
+      "type": "PATOLOGIA",
+      "start": 1566,
+      "end": 1597
+    },
+    {
+      "text": "Oclusión completa de la arteria cerebral media derecha en segmento M1",
+      "type": "PATOLOGIA",
+      "start": 1633,
+      "end": 1702
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "ARTERIA",
+      "start": 1657,
+      "end": 1687
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "ARTERIA",
+      "start": 1765,
+      "end": 1797
+    },
+    {
+      "text": "arteria cerebral posterior derecha",
+      "type": "ARTERIA",
+      "start": 2270,
+      "end": 2304
+    },
+    {
+      "text": "mismatch significativo compatible con áreas de isquemia potencialmente salvables en ambos hemisferios",
+      "type": "PATOLOGIA",
+      "start": 1417,
+      "end": 1518
+    },
+    {
+      "text": "TC de cráneo basal sin contraste",
+      "type": "TECNICA_IMAGEN",
+      "start": 327,
+      "end": 359
+    },
+    {
+      "text": "angiografía por TC de arterias intra y extracraneales",
+      "type": "TECNICA_IMAGEN",
+      "start": 443,
+      "end": 496
+    },
+    {
+      "text": "TC PERFUSIÓN",
+      "type": "TECNICA_IMAGEN",
+      "start": 1090,
+      "end": 1102
+    },
+    {
+      "text": "Mapas de tiempo hasta el pico (TTP) prolongados en múltiples territorios supratentoriales bilaterales",
+      "type": "PATOLOGIA",
+      "start": 1106,
+      "end": 1207
+    },
+    {
+      "text": "reducción marcada del flujo sanguíneo cerebral (CBF) y volumen cerebral (CBV)",
+      "type": "PATOLOGIA",
+      "start": 1213,
+      "end": 1290
+    },
+    {
+      "text": "ganglios basales derechos e izquierdos",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1367,
+      "end": 1405
+    },
+    {
+      "text": "Sistema ventricular sin desviación ni hidrocefalia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 989,
+      "end": 1039
+    },
+    {
+      "text": "Línea media centrada",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1041,
+      "end": 1061
+    },
+    {
+      "text": "Cisternas basales libres",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1063,
+      "end": 1087
+    }
+  ]
+}

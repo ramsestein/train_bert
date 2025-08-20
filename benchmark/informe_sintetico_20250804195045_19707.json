@@ -1,0 +1,113 @@
+{
+  "document_id": "informe_sintetico_20250804195045_19707",
+  "entities": [
+    {
+      "text": "hemorragia intra ni extraaxial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 411,
+      "end": 441
+    },
+    {
+      "text": "lesiones isquémicas agudas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 531,
+      "end": 557
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 662,
+      "end": 672
+    },
+    {
+      "text": "morfología y tamaño normales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 724,
+      "end": 752
+    },
+    {
+      "text": "signos de desplazamiento de la línea media",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 758,
+      "end": 800
+    },
+    {
+      "text": "signos de patología en la fosa posterior ni en el tronco encefálico",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 886,
+      "end": 953
+    },
+    {
+      "text": "permeabilidad de las principales arterias intracraneales y extracraneales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 975,
+      "end": 1048
+    },
+    {
+      "text": "estenosis, oclusiones ni aneurismas evidentes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1080,
+      "end": 1125
+    },
+    {
+      "text": "circulación carotídea, vertebral y basilar",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1153,
+      "end": 1195
+    },
+    {
+      "text": "arterias cerebrales anteriores, medias y posteriores",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1213,
+      "end": 1265
+    },
+    {
+      "text": "TC CODE ICTUS",
+      "type": "TECNICA_IMAGEN",
+      "start": 1290,
+      "end": 1303
+    },
+    {
+      "text": "PERFUSION CEREBRAL+ ANGIOTC ARTERIAL INTRACRANEAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 1599,
+      "end": 1648
+    },
+    {
+      "text": "TC craneal basal con cortes axiales y reconstrucciones multiplanares",
+      "type": "TECNICA_IMAGEN",
+      "start": 229,
+      "end": 297
+    },
+    {
+      "text": "perfusión cerebral y angio-TC intra/extracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 299,
+      "end": 347
+    },
+    {
+      "text": "TC CODE ICTUS sin hallazgos agudos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1290,
+      "end": 1324
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 662,
+      "end": 672
+    },
+    {
+      "text": "Perfusión cerebral normal sin evidencia de isquemia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1338,
+      "end": 1389
+    },
+    {
+      "text": "Angio-TC sin estenosis ni alteraciones vasculares significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1391,
+      "end": 1455
+    }
+  ]
+}

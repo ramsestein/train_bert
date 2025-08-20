@@ -1,0 +1,137 @@
+{
+  "document_id": "0000000010000000061192828_cleaned",
+  "entities": [
+    {
+      "text": "Infart cerebral causat per oclusió o estenosi no especificades d'artèria cerebral no especificada",
+      "type": "PATOLOGIA",
+      "start": 166,
+      "end": 263
+    },
+    {
+      "text": "No se observa hemorragia intra ni extraaxial.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 383,
+      "end": 428
+    },
+    {
+      "text": "Hipodensidad cortico-subcortical de aspecto crónico frontal derecha.",
+      "type": "PATOLOGIA",
+      "start": 429,
+      "end": 497
+    },
+    {
+      "text": "Hipodensidad corticosubcortical insular izquierda",
+      "type": "PATOLOGIA",
+      "start": 498,
+      "end": 547
+    },
+    {
+      "text": "ASPECTS 9",
+      "type": "PUNTUACION_CLINICA",
+      "start": 549,
+      "end": 558
+    },
+    {
+      "text": "Aumento en mapas de tiempo y caída en los de flujo a nivel frontoparieto temporalizquierda en territorio de la ACM",
+      "type": "PATOLOGIA",
+      "start": 693,
+      "end": 807
+    },
+    {
+      "text": "oclusión de la misma en relación a una placa de ateromatosis mixta",
+      "type": "PATOLOGIA",
+      "start": 1033,
+      "end": 1099
+    },
+    {
+      "text": "Oclusión de ACM izq en segmento M1 en su tercio distal postbifurcación.",
+      "type": "PATOLOGIA",
+      "start": 1101,
+      "end": 1172
+    },
+    {
+      "text": "Ateromatosis cálcica en origen de la arteria carótida interna derecha, aprox de 50%.",
+      "type": "PATOLOGIA",
+      "start": 1173,
+      "end": 1257
+    },
+    {
+      "text": "Oclusión de carótida interna izquierda en su origen y ACMizq en segmento M1",
+      "type": "PATOLOGIA",
+      "start": 1383,
+      "end": 1458
+    },
+    {
+      "text": "85% discordancia en los mapas de perfusión.",
+      "type": "MEDIDA",
+      "start": 1460,
+      "end": 1503
+    },
+    {
+      "text": "No hay hemorragia intracraneal.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1515,
+      "end": 1546
+    },
+    {
+      "text": "TC craneal basal + angio-TC intra/extracraneal + TC perfusión",
+      "type": "TECNICA_IMAGEN",
+      "start": 283,
+      "end": 344
+    },
+    {
+      "text": "arteria carótida izquierda",
+      "type": "ARTERIA",
+      "start": 991,
+      "end": 1017
+    },
+    {
+      "text": "ACM",
+      "type": "ARTERIA",
+      "start": 804,
+      "end": 807
+    },
+    {
+      "text": "arteria carótida interna derecha",
+      "type": "ARTERIA",
+      "start": 1210,
+      "end": 1242
+    },
+    {
+      "text": "ACMizq",
+      "type": "ARTERIA",
+      "start": 1437,
+      "end": 1443
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 538,
+      "end": 547
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 489,
+      "end": 496
+    },
+    {
+      "text": "izq",
+      "type": "LATERALIDAD",
+      "start": 538,
+      "end": 541
+    },
+    {
+      "text": "izq",
+      "type": "LATERALIDAD",
+      "start": 538,
+      "end": 541
+    },
+    {
+      "text": "crónico",
+      "type": "TEMPORALIDAD",
+      "start": 473,
+      "end": 480
+    }
+  ]
+}

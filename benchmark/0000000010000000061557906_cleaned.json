@@ -1,0 +1,59 @@
+{
+  "document_id": "0000000010000000061557906_cleaned",
+  "entities": [
+    {
+      "text": "No se observan alteraciones valorables en el TTP, CBV y CBF.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 299,
+      "end": 359
+    },
+    {
+      "text": "Arco aórtico con ateromatosis.",
+      "type": "PATOLOGIA",
+      "start": 423,
+      "end": 453
+    },
+    {
+      "text": "Troncos supraaórticos con marcada tortuosidad.",
+      "type": "PATOLOGIA",
+      "start": 454,
+      "end": 500
+    },
+    {
+      "text": "Placas de ateroma calcificada en ambas bifurcaciones carotídeas y segmentos intraóseos de ambas ACIs.",
+      "type": "PATOLOGIA",
+      "start": 501,
+      "end": 602
+    },
+    {
+      "text": "Origen de las arterias vertebrales sin ateromatosis ni signos de estenosis.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 603,
+      "end": 678
+    },
+    {
+      "text": "Principales arterias cerebrales intracraneales permeables (ACAs, ACMs y ACPs).",
+      "type": "PATOLOGIA",
+      "start": 679,
+      "end": 757
+    },
+    {
+      "text": "Sistema vertebrobasilar permeable.",
+      "type": "PATOLOGIA",
+      "start": 758,
+      "end": 792
+    },
+    {
+      "text": "Estudio de código ictus sin hallazgos patológicos agudos.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 816,
+      "end": 873
+    },
+    {
+      "text": "TC CEREBRAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 931,
+      "end": 942
+    }
+  ]
+}

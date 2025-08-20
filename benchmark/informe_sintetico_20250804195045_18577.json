@@ -1,0 +1,65 @@
+{
+  "document_id": "informe_sintetico_20250804195045_18577",
+  "entities": [
+    {
+      "text": "isquemia",
+      "type": "PATOLOGIA",
+      "start": 233,
+      "end": 241
+    },
+    {
+      "text": "arteria cerebral anterior izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 259,
+      "end": 294
+    },
+    {
+      "text": "arteria cerebral anterior (ACA) izquierda",
+      "type": "ARTERIA",
+      "start": 648,
+      "end": 689
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 285,
+      "end": 294
+    },
+    {
+      "text": "aguda",
+      "type": "TEMPORALIDAD",
+      "start": 1134,
+      "end": 1139
+    },
+    {
+      "text": "oclusión segmentaria proximal de la arteria cerebral anterior izquierda (segmento A2)",
+      "type": "PATOLOGIA",
+      "start": 1271,
+      "end": 1356
+    },
+    {
+      "text": "No se evidencia hemorragia intra ni extraaxial.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 439,
+      "end": 486
+    },
+    {
+      "text": "No se identifican estenosis significativas en el resto de las arterias intracraneales ni del círculo de Willis.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1408,
+      "end": 1519
+    },
+    {
+      "text": "No se evidencian signos de disección arterial ni trombos visibles.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1573,
+      "end": 1639
+    },
+    {
+      "text": "No se identifican hemorragias ni otras complicaciones asociadas.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1826,
+      "end": 1890
+    }
+  ]
+}

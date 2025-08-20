@@ -1,0 +1,131 @@
+{
+  "document_id": "informe_sintetico_20250804195045_01965",
+  "entities": [
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 234,
+      "end": 248
+    },
+    {
+      "text": "territorio vertebrobasilar",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 252,
+      "end": 278
+    },
+    {
+      "text": "TC craneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 299,
+      "end": 309
+    },
+    {
+      "text": "No se identifican hemorragias ni colecciones extraaxiales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 477,
+      "end": 534
+    },
+    {
+      "text": "infarto estable ni crónico",
+      "type": "PATOLOGIA",
+      "start": 600,
+      "end": 626
+    },
+    {
+      "text": "No hay edema enfático ni desplazamiento de estructuras de línea media",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 716,
+      "end": 785
+    },
+    {
+      "text": "prolongación significativa del tiempo de tránsito tisular (TTP)",
+      "type": "PATOLOGIA",
+      "start": 901,
+      "end": 964
+    },
+    {
+      "text": "reducción del volumen sanguíneo cerebral (CBV)",
+      "type": "PATOLOGIA",
+      "start": 967,
+      "end": 1013
+    },
+    {
+      "text": "territorio del tronco cerebral y cerebelo bilateral",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1017,
+      "end": 1068
+    },
+    {
+      "text": "bulbo y protuberancia",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1114,
+      "end": 1135
+    },
+    {
+      "text": "reducción del flujo sanguíneo cerebral (CBF)",
+      "type": "PATOLOGIA",
+      "start": 1140,
+      "end": 1184
+    },
+    {
+      "text": "hipoperfusión crítica",
+      "type": "PATOLOGIA",
+      "start": 1204,
+      "end": 1225
+    },
+    {
+      "text": "oclusión completa proximal de la arteria vertebral derecha",
+      "type": "PATOLOGIA",
+      "start": 1333,
+      "end": 1391
+    },
+    {
+      "text": "arteria vertebral derecha",
+      "type": "ARTERIA",
+      "start": 1366,
+      "end": 1391
+    },
+    {
+      "text": "disminución de calibre en su tercio proximal",
+      "type": "PATOLOGIA",
+      "start": 1467,
+      "end": 1511
+    },
+    {
+      "text": "flujo disminuido y signos compatibles con trombosis parcial",
+      "type": "PATOLOGIA",
+      "start": 1517,
+      "end": 1576
+    },
+    {
+      "text": "arteria basilar",
+      "type": "ARTERIA",
+      "start": 1442,
+      "end": 1457
+    },
+    {
+      "text": "No se evidencian aneurismas ni malformaciones vasculares",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1660,
+      "end": 1716
+    },
+    {
+      "text": "No complicaciones hemorrágicas asociadas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2076,
+      "end": 2116
+    },
+    {
+      "text": "oclusión proximal de arteria vertebral derecha",
+      "type": "PATOLOGIA",
+      "start": 1977,
+      "end": 2023
+    },
+    {
+      "text": "trombosis parcial de basilar",
+      "type": "PATOLOGIA",
+      "start": 2480,
+      "end": 2508
+    }
+  ]
+}

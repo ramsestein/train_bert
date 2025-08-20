@@ -1,0 +1,71 @@
+{
+  "document_id": "informe_sintetico_20250804195045_18782",
+  "entities": [
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 471,
+      "end": 494
+    },
+    {
+      "text": "lesiones expansivas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 498,
+      "end": 517
+    },
+    {
+      "text": "cambios crónicos por microangiopatía",
+      "type": "PATOLOGIA",
+      "start": 691,
+      "end": 727
+    },
+    {
+      "text": "infartos corticales recientes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 746,
+      "end": 775
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1120,
+      "end": 1134
+    },
+    {
+      "text": "ateromatosis calcificada leve",
+      "type": "PATOLOGIA",
+      "start": 1328,
+      "end": 1357
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 1840,
+      "end": 1850
+    },
+    {
+      "text": "TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANGIOTC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 2092,
+      "end": 2159
+    },
+    {
+      "text": "arterias cerebrales anteriores",
+      "type": "ARTERIA",
+      "start": 1540,
+      "end": 1570
+    },
+    {
+      "text": "sistema vertebrobasilar",
+      "type": "ARTERIA",
+      "start": 1609,
+      "end": 1632
+    },
+    {
+      "text": "ambas bifurcaciones carotídeas",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1361,
+      "end": 1391
+    }
+  ]
+}

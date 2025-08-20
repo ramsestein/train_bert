@@ -1,0 +1,71 @@
+{
+  "document_id": "informe_sintetico_20250804195045_12919",
+  "entities": [
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 409,
+      "end": 432
+    },
+    {
+      "text": "hemorragia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 409,
+      "end": 419
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 587,
+      "end": 601
+    },
+    {
+      "text": "cambios inespecíficos mínimos compatibles con microangiopatía crónica",
+      "type": "PATOLOGIA",
+      "start": 842,
+      "end": 911
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 548,
+      "end": 558
+    },
+    {
+      "text": "hipoperfusión",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1126,
+      "end": 1139
+    },
+    {
+      "text": "hipervascularización",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1142,
+      "end": 1162
+    },
+    {
+      "text": "arterias carótidas internas",
+      "type": "ARTERIA",
+      "start": 1336,
+      "end": 1363
+    },
+    {
+      "text": "ACAs, ACMs, ACPs",
+      "type": "ARTERIA",
+      "start": 1541,
+      "end": 1557
+    },
+    {
+      "text": "microangiopatía",
+      "type": "PATOLOGIA",
+      "start": 888,
+      "end": 903
+    },
+    {
+      "text": "sin repercusión aguda",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1924,
+      "end": 1945
+    }
+  ]
+}

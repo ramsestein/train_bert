@@ -1,0 +1,59 @@
+{
+  "document_id": "informe_sintetico_20250804195045_07023",
+  "entities": [
+    {
+      "text": "infarto lacunar agudo",
+      "type": "PATOLOGIA",
+      "start": 615,
+      "end": 636
+    },
+    {
+      "text": "núcleo lenticular izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 573,
+      "end": 600
+    },
+    {
+      "text": "6 mm",
+      "type": "MEDIDA",
+      "start": 562,
+      "end": 566
+    },
+    {
+      "text": "izquierdo",
+      "type": "LATERALIDAD",
+      "start": 591,
+      "end": 600
+    },
+    {
+      "text": "aguda",
+      "type": "TEMPORALIDAD",
+      "start": 455,
+      "end": 460
+    },
+    {
+      "text": "disminución localizada de flujo sanguíneo cerebral (CBF)",
+      "type": "PATOLOGIA",
+      "start": 833,
+      "end": 889
+    },
+    {
+      "text": "sin estenosis ni oclusiones significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1012,
+      "end": 1054
+    },
+    {
+      "text": "sin evidencia de hemorragia aguda ni lesiones expansivas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 427,
+      "end": 483
+    },
+    {
+      "text": "permeabilidad de las principales arterias cerebrales intracraneales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 943,
+      "end": 1010
+    }
+  ]
+}

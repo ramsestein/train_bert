@@ -1,0 +1,101 @@
+{
+  "document_id": "informe_sintetico_20250804195045_16718",
+  "entities": [
+    {
+      "text": "hemorragia intra ni extraaxial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 459,
+      "end": 489
+    },
+    {
+      "text": "edema ni hipodensidades que sugieran área isquémica aguda",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 511,
+      "end": 568
+    },
+    {
+      "text": "cortico-subcortical",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 588,
+      "end": 607
+    },
+    {
+      "text": "línea media",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 647,
+      "end": 658
+    },
+    {
+      "text": "sistema ventricular",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 703,
+      "end": 722
+    },
+    {
+      "text": "cisternas basales y surcos corticales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 766,
+      "end": 803
+    },
+    {
+      "text": "cambios crónicos inespecíficos en la sustancia blanca",
+      "type": "PATOLOGIA",
+      "start": 890,
+      "end": 943
+    },
+    {
+      "text": "pequeñas áreas de gliosis y microangiopatía crónica",
+      "type": "PATOLOGIA",
+      "start": 961,
+      "end": 1012
+    },
+    {
+      "text": "infarto establecido",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1271,
+      "end": 1290
+    },
+    {
+      "text": "valores perfusionales son simétricos y dentro de límites normales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1296,
+      "end": 1361
+    },
+    {
+      "text": "Arterias intracraneales principales (ACAs, ACMs, ACPs)",
+      "type": "ARTERIA",
+      "start": 1387,
+      "end": 1441
+    },
+    {
+      "text": "aneurismas ni malformaciones vasculares evidentes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1690,
+      "end": 1739
+    },
+    {
+      "text": "TC código ictus normal sin hallazgos de patología aguda ni isquemia cerebral",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1773,
+      "end": 1849
+    },
+    {
+      "text": "ASPECTS 10/10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 1920,
+      "end": 1933
+    },
+    {
+      "text": "TC craneal basal sin contraste",
+      "type": "TECNICA_IMAGEN",
+      "start": 275,
+      "end": 305
+    },
+    {
+      "text": "perfusión cerebral y AngioTC arterial intracraneal con contraste endovenoso",
+      "type": "TECNICA_IMAGEN",
+      "start": 318,
+      "end": 393
+    }
+  ]
+}

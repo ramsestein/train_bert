@@ -1,0 +1,95 @@
+{
+  "document_id": "informe_sintetico_20250804195045_11800",
+  "entities": [
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 252,
+      "end": 266
+    },
+    {
+      "text": "arteria cerebral anterior",
+      "type": "ARTERIA",
+      "start": 284,
+      "end": 309
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 216,
+      "end": 225
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 654,
+      "end": 664
+    },
+    {
+      "text": "hipoperfusión",
+      "type": "PATOLOGIA",
+      "start": 963,
+      "end": 976
+    },
+    {
+      "text": "territorio de ACA derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 980,
+      "end": 1005
+    },
+    {
+      "text": "volumen cerebral",
+      "type": "MEDIDA",
+      "start": 1010,
+      "end": 1026
+    },
+    {
+      "text": "penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1064,
+      "end": 1082
+    },
+    {
+      "text": "trombo endoluminal",
+      "type": "PATOLOGIA",
+      "start": 1226,
+      "end": 1244
+    },
+    {
+      "text": "segmento A2 de ACA derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1183,
+      "end": 1209
+    },
+    {
+      "text": "ACM",
+      "type": "ARTERIA",
+      "start": 1292,
+      "end": 1295
+    },
+    {
+      "text": "ACP",
+      "type": "ARTERIA",
+      "start": 1297,
+      "end": 1300
+    },
+    {
+      "text": "sin estenosis significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1809,
+      "end": 1837
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1543,
+      "end": 1566
+    },
+    {
+      "text": "edema cerebral",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1569,
+      "end": 1583
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "document_id": "0000000010000000059925602_cleaned",
+  "entities": [
+    {
+      "text": "No se observa hemorragia intra ni extraaxial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 446,
+      "end": 490
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 593,
+      "end": 603
+    },
+    {
+      "text": "sin ateromatosis ni signos de estenosis",
+      "type": "PATOLOGIA",
+      "start": 1032,
+      "end": 1071
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 593,
+      "end": 603
+    },
+    {
+      "text": "No hay hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1706,
+      "end": 1736
+    },
+    {
+      "text": "sin signos de estenosis significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1250,
+      "end": 1287
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 283,
+      "end": 299
+    },
+    {
+      "text": "angio-TC intra/extracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 302,
+      "end": 329
+    },
+    {
+      "text": "TC perfusión",
+      "type": "TECNICA_IMAGEN",
+      "start": 332,
+      "end": 344
+    }
+  ]
+}

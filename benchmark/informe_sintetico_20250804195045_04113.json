@@ -1,0 +1,161 @@
+{
+  "document_id": "informe_sintetico_20250804195045_04113",
+  "entities": [
+    {
+      "text": "infarto cerebral reciente",
+      "type": "PATOLOGIA",
+      "start": 194,
+      "end": 219
+    },
+    {
+      "text": "deterioro neurológico súbito",
+      "type": "PATOLOGIA",
+      "start": 230,
+      "end": 258
+    },
+    {
+      "text": "lesión hiperdensa heterogénea",
+      "type": "PATOLOGIA",
+      "start": 508,
+      "end": 537
+    },
+    {
+      "text": "transformación hemorrágica grado HI2",
+      "type": "PATOLOGIA",
+      "start": 619,
+      "end": 655
+    },
+    {
+      "text": "focos hemorrágicos mayores de 30% del área isquémica",
+      "type": "PATOLOGIA",
+      "start": 669,
+      "end": 721
+    },
+    {
+      "text": "infarto isquémico establecido",
+      "type": "PATOLOGIA",
+      "start": 1188,
+      "end": 1217
+    },
+    {
+      "text": "trombosis en segmento M1 de la arteria cerebral media derecha",
+      "type": "PATOLOGIA",
+      "start": 1385,
+      "end": 1446
+    },
+    {
+      "text": "ateromatosis moderada sin estenosis crítica",
+      "type": "PATOLOGIA",
+      "start": 1530,
+      "end": 1573
+    },
+    {
+      "text": "territorio de arteria cerebral media derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1755,
+      "end": 1799
+    },
+    {
+      "text": "infarto isquémico extenso",
+      "type": "PATOLOGIA",
+      "start": 1812,
+      "end": 1837
+    },
+    {
+      "text": "segmentaria de M1 derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1849,
+      "end": 1874
+    },
+    {
+      "text": "área infartada establecida",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1995,
+      "end": 2021
+    },
+    {
+      "text": "territorio vascular de la arteria cerebral media derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 447,
+      "end": 503
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "ARTERIA",
+      "start": 473,
+      "end": 503
+    },
+    {
+      "text": "arteria carótida interna derecha",
+      "type": "ARTERIA",
+      "start": 1489,
+      "end": 1521
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 496,
+      "end": 503
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 496,
+      "end": 503
+    },
+    {
+      "text": "30%",
+      "type": "MEDIDA",
+      "start": 699,
+      "end": 702
+    },
+    {
+      "text": "HI2",
+      "type": "PUNTUACION_CLINICA",
+      "start": 652,
+      "end": 655
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 296,
+      "end": 312
+    },
+    {
+      "text": "TC perfusión",
+      "type": "TECNICA_IMAGEN",
+      "start": 334,
+      "end": 346
+    },
+    {
+      "text": "AngioTC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 358,
+      "end": 387
+    },
+    {
+      "text": "No hay desplazamiento evidente de la línea media",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 813,
+      "end": 861
+    },
+    {
+      "text": "Sistema ventricular sin signos de hidrocefalia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 904,
+      "end": 950
+    },
+    {
+      "text": "sin evidenciar zonas de penumbra adicional significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1284,
+      "end": 1340
+    },
+    {
+      "text": "No se identifican malformaciones vasculares ni aneurismas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1634,
+      "end": 1691
+    }
+  ]
+}

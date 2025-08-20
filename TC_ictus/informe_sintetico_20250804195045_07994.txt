@@ -1,0 +1,34 @@
+UO_PACN (Unidad Organizativa Médica): RADIO
+
+PRUEB (Prueba solicitada): TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANG IOTC ARTERIAL INTRACRANEAL)
+
+CLIN (Resumen clínico): Paciente con inicio súbito de hemiparesia izquierda y afasia, sospecha clínica de ictus isquémico en territorio de arteria cerebral media derecha.
+
+OBSR (Protocolo): TC craneal basal sin contraste + TC perfusión cerebral + Angio-TC arterial intracraneal y extracraneal.
+
+RESL (Resultados): TC CRANEAL BASAL:  
+Se evidencia signo de arteria hiperdensa en segmento M1 de la arteria cerebral media derecha. Ausencia de hemorragia intra ni extraaxial. Hipodensidad cortical y subcortical en territorio de ACM derecha, predominante en región insular y opercular, compatible con lesión isquémica aguda incipiente. ASPECTS 6. No desplazamiento de línea media ni efecto masa significativo. Sistema ventricular y cisternas basales dentro de límites normales.
+
+TC PERFUSIÓN:  
+Mapas de tiempo de tránsito y Tmax muestran retraso significativo en perfusión en territorio de ACM derecha, con clara discordancia entre volumen cerebral (CBV) preservado y flujo cerebral reducido (CBF), indicando área de penumbra isquémica extensa. Volumen de lesión establecida de pequeño tamaño en región opercular.
+
+ANGIO-TC EXTRA E INTRACRANEAL:  
+Oclusión completa del segmento proximal M1 de arteria cerebral media derecha. Resto del sistema carotídeo interno y arterias intracraneales sin estenosis ni placas de alto riesgo. Circulación colateral inicial conservada. No se visualizan signos de aneurismas ni malformaciones vasculares.
+
+CONCL (Conclusiones):  
+- Hallazgos compatibles con infarto isquémico agudo en territorio de arteria cerebral media derecha, con signo de arteria hiperdensa en M1 y ASPECTS 6.  
+- Oclusión en segmento proximal M1 de ACM derecha.  
+- Extensa área en penumbra isquémica con volumen cerebral preservado en TC perfusión, indicativa de tejido potencialmente salvable.  
+- Sin hemorragia intracraneal ni edema masivo en el momento actual.
+
+ACTI_ADICI (Actividad adicional):  
+
+DKTXT (Descripció): TC CEREBRAL - CÓDIGO ICTUS (perfusión cerebral + angioTC arterial intracraneal)
+
+ICON (Estudio): @RADIO_CODE@
+
+X00DIATXT (Texto del diagnóstico ACR): TC CEREBRAL CON PERFUSIÓN Y ANGIO-TC: Oclusión proximal de ACM derecha (M1) con isquemia aguda y penumbra isquémica extensa. ASPECTS 6.
+
+EST_T_DES (Descripción): TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANGIOTC ARTERIAL INTRACRANEAL)
+
+ZVASOS_D (Der.): Oclusión segmento M1 ACM derecha; circulación colateral conservada. Arterias restantes permeables sin estenosis significativa.

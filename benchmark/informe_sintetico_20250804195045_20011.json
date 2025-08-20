@@ -1,0 +1,65 @@
+{
+  "document_id": "informe_sintetico_20250804195045_20011",
+  "entities": [
+    {
+      "text": "hematoma intracerebral lobar frontal",
+      "type": "PATOLOGIA",
+      "start": 272,
+      "end": 308
+    },
+    {
+      "text": "lóbulo frontal derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 541,
+      "end": 563
+    },
+    {
+      "text": "30 x 25 x 20 mm",
+      "type": "MEDIDA",
+      "start": 593,
+      "end": 608
+    },
+    {
+      "text": "3 mm",
+      "type": "MEDIDA",
+      "start": 798,
+      "end": 802
+    },
+    {
+      "text": "derecho",
+      "type": "LATERALIDAD",
+      "start": 556,
+      "end": 563
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 812,
+      "end": 821
+    },
+    {
+      "text": "sin signos de hipertensión intracraneal evidentes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 653,
+      "end": 702
+    },
+    {
+      "text": "sin hidrocefalia obstructiva",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 978,
+      "end": 1006
+    },
+    {
+      "text": "sin datos claros de isquemia extensa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1219,
+      "end": 1255
+    },
+    {
+      "text": "sin evidencias de estenosis, oclusión ni malformaciones vasculares",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1333,
+      "end": 1399
+    }
+  ]
+}

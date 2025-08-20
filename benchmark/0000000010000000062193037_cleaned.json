@@ -1,0 +1,29 @@
+{
+  "document_id": "0000000010000000062193037_cleaned",
+  "entities": [
+    {
+      "text": "Infart cerebral causat per oclusió o estenosi no especificades d'artèria cerebral no especificada",
+      "type": "PATOLOGIA",
+      "start": 166,
+      "end": 263
+    },
+    {
+      "text": "artèria cerebral no especificada",
+      "type": "ARTERIA",
+      "start": 231,
+      "end": 263
+    },
+    {
+      "text": "No se observan signos de sangrado agudo intra ni extraaxial ni lesiones ocupantes de espacio.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 375,
+      "end": 468
+    },
+    {
+      "text": "Sin signos de patología intracraneal aguda valorable por TC.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 668,
+      "end": 728
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+UO_PACN (Unidad Organizativa Médica): RADIO
+
+PRUEB (Prueba solicitada): TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANG IOTC ARTERIAL INTRACRANEAL)
+
+CLIN (Resumen clínico): Paciente masculino de 68 años con déficit motor hemicorporal derecho de instauración súbita hace 2 horas. Se solicita estudio urgente para descartar causa isquémica cerebral.
+
+OBSR (Protocolo): TC craneal basal, estudio de perfusión cerebral y angio-TC arterial intracraneal urgente en contexto de código ictus.
+
+RESL (Resultados): TC craneal basal:
+Se observa área hipodensa en territorio frontoinsular izquierdo con pérdida parcial de la diferenciación córtico-subcortical. ASPECTS 6. Se visualiza signo de arteria hiperdensa en el segmento proximal M1 de la arteria cerebral media izquierda.
+No se identifican hemorragias intra o extraaxiales. No desplazamiento de la línea media. Sistema ventricular de calibre conservado. Cisternas basales libres.
+
+TC perfusión:
+Se evidencia marcado aumento en los mapas de tiempo de tránsito (Tmax >6s), con reducción significativa del flujo cerebral (CBF disminuido) y del volumen cerebral (CBV reducido) en territorio frontoinsular izquierdo compatible con núcleo isquémico. Amplia área circundante con prolongación del tiempo de tránsito y disminución del flujo sin afectación del volumen, indicando penumbra isquémica.
+
+Angio-TC arterial intracraneal:
+Oclusión completa de la arteria cerebral media izquierda en su segmento proximal M1 con ausencia de reconstitución distal. Resto de las arterias intracraneales permeables sin estenosis significativas. Sistema vertebrobasilar sin alteraciones.
+
+CONCL (Conclusiones): Código ictus. Infarto agudo por oclusión trombótica proximal (M1) de la arteria cerebral media izquierda con núcleo isquémico establecido y extensa penumbra. ASPECTS 6. Signo de arteria hiperdensa presente. Ausencia de hemorragia asociada.
+
+ACTI_ADICI (Actividad adicional): Recomendación para valoración inmediata por neurología vascular para posible tratamiento de trombectomía mecánica.
+
+ICON (Estudio): @TC_ictus_M1@
+
+X00DIATXT (Texto del diagnóstico ACR): Infarto cerebral por oclusión arterial proximal (M1) de la arteria cerebral media izquierda con área de núcleo isquémico y extensa penumbra en TC perfusión. Ausencia de hemorragia intracraneal.
+
+EST_T_DES (Descripción): TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANGIOTC ARTERIAL INTRACRANEAL)
+
+ZVASOS_D (Der.): Oclusión de ACM proximal izquierda, compatible con isquemia aguda.

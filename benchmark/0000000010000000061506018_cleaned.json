@@ -1,0 +1,95 @@
+{
+  "document_id": "0000000010000000061506018_cleaned",
+  "entities": [
+    {
+      "text": "No se observan signos de hemorragia aguda intra o extraaxial.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 344,
+      "end": 405
+    },
+    {
+      "text": "No se observan aparentes signos de isquemia aguda establecida",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 406,
+      "end": 467
+    },
+    {
+      "text": "8ASPECTS 10/10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 468,
+      "end": 482
+    },
+    {
+      "text": "Hipodensidades en sustancia blanca periventricular",
+      "type": "PATOLOGIA",
+      "start": 485,
+      "end": 535
+    },
+    {
+      "text": "moderada enfermedad crónica de pequeño vaso",
+      "type": "PATOLOGIA",
+      "start": 552,
+      "end": 595
+    },
+    {
+      "text": "Lacunar crónico en caudado izquierdo",
+      "type": "PATOLOGIA",
+      "start": 597,
+      "end": 633
+    },
+    {
+      "text": "ACM derecha",
+      "type": "ARTERIA",
+      "start": 1064,
+      "end": 1075
+    },
+    {
+      "text": "Oclusión completa de la M1 distal-M2 proximal de la ACM derecha",
+      "type": "PATOLOGIA",
+      "start": 1560,
+      "end": 1623
+    },
+    {
+      "text": "ACA, ACM izquierdo y ACPs",
+      "type": "ARTERIA",
+      "start": 1697,
+      "end": 1722
+    },
+    {
+      "text": "sin signos de estenosis de su luz",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1725,
+      "end": 1758
+    },
+    {
+      "text": "Sistema vertebrobasilar permeable",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1836,
+      "end": 1869
+    },
+    {
+      "text": "cambios fibrocicatriciales biapicales de predominio en ápex izquierdo",
+      "type": "PATOLOGIA",
+      "start": 1917,
+      "end": 1986
+    },
+    {
+      "text": "ASPECTS 10/10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 469,
+      "end": 482
+    },
+    {
+      "text": "Área de hipoperfusión con missmatch significativo en territorio superficial de la ACM derecha",
+      "type": "PATOLOGIA",
+      "start": 2481,
+      "end": 2574
+    },
+    {
+      "text": "Defecto de repleción en segmento M1 distal /m2 proximal de la ACM derecha",
+      "type": "PATOLOGIA",
+      "start": 2576,
+      "end": 2649
+    }
+  ]
+}

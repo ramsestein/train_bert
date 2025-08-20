@@ -1,0 +1,113 @@
+{
+  "document_id": "informe_sintetico_20250804195045_23650",
+  "entities": [
+    {
+      "text": "hemorragia intra o extraaxial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 496,
+      "end": 525
+    },
+    {
+      "text": "infarto cerebral agudo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 547,
+      "end": 569
+    },
+    {
+      "text": "ASPECTS 10/10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 575,
+      "end": 588
+    },
+    {
+      "text": "sustancia blanca en regiones periventriculares",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 822,
+      "end": 868
+    },
+    {
+      "text": "cambios microangiopáticos crónicos",
+      "type": "PATOLOGIA",
+      "start": 883,
+      "end": 917
+    },
+    {
+      "text": "hipoperfusión",
+      "type": "PATOLOGIA",
+      "start": 1159,
+      "end": 1172
+    },
+    {
+      "text": "isquemia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1200,
+      "end": 1208
+    },
+    {
+      "text": "ACA",
+      "type": "ARTERIA",
+      "start": 1358,
+      "end": 1361
+    },
+    {
+      "text": "ACM",
+      "type": "ARTERIA",
+      "start": 1363,
+      "end": 1366
+    },
+    {
+      "text": "segmento basilar",
+      "type": "ARTERIA",
+      "start": 1453,
+      "end": 1469
+    },
+    {
+      "text": "aneurismas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1515,
+      "end": 1525
+    },
+    {
+      "text": "malformaciones vasculares",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1529,
+      "end": 1554
+    },
+    {
+      "text": "ASPECTS 10/10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 575,
+      "end": 588
+    },
+    {
+      "text": "hemorragia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 496,
+      "end": 506
+    },
+    {
+      "text": "isquemia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1200,
+      "end": 1208
+    },
+    {
+      "text": "TC craneal simple",
+      "type": "TECNICA_IMAGEN",
+      "start": 318,
+      "end": 335
+    },
+    {
+      "text": "estudio de perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 337,
+      "end": 366
+    },
+    {
+      "text": "Angio-TC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 369,
+      "end": 399
+    }
+  ]
+}

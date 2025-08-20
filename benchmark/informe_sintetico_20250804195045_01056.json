@@ -1,0 +1,89 @@
+{
+  "document_id": "informe_sintetico_20250804195045_01056",
+  "entities": [
+    {
+      "text": "hematoma subdural agudo",
+      "type": "PATOLOGIA",
+      "start": 561,
+      "end": 584
+    },
+    {
+      "text": "convexidad hemisférica izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 512,
+      "end": 544
+    },
+    {
+      "text": "12 mm",
+      "type": "MEDIDA",
+      "start": 611,
+      "end": 616
+    },
+    {
+      "text": "efecto masa",
+      "type": "PATOLOGIA",
+      "start": 636,
+      "end": 647
+    },
+    {
+      "text": "6 mm",
+      "type": "MEDIDA",
+      "start": 704,
+      "end": 708
+    },
+    {
+      "text": "ACM",
+      "type": "ARTERIA",
+      "start": 1332,
+      "end": 1335
+    },
+    {
+      "text": "ACA",
+      "type": "ARTERIA",
+      "start": 1337,
+      "end": 1340
+    },
+    {
+      "text": "ACP",
+      "type": "ARTERIA",
+      "start": 1342,
+      "end": 1345
+    },
+    {
+      "text": "6 mm",
+      "type": "MEDIDA",
+      "start": 704,
+      "end": 708
+    },
+    {
+      "text": "sin isquemia cerebral extensa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1799,
+      "end": 1828
+    },
+    {
+      "text": "sin hallazgos patológicos relevantes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1861,
+      "end": 1897
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 291,
+      "end": 307
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 334,
+      "end": 355
+    },
+    {
+      "text": "angio-TC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 358,
+      "end": 388
+    }
+  ]
+}

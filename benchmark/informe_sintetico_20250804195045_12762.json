@@ -1,0 +1,101 @@
+{
+  "document_id": "informe_sintetico_20250804195045_12762",
+  "entities": [
+    {
+      "text": "accidente cerebrovascular isquémico",
+      "type": "PATOLOGIA",
+      "start": 195,
+      "end": 230
+    },
+    {
+      "text": "ACM derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 248,
+      "end": 259
+    },
+    {
+      "text": "focos hiperdensos puntiformes y lineales",
+      "type": "PATOLOGIA",
+      "start": 491,
+      "end": 531
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "ARTERIA",
+      "start": 555,
+      "end": 585
+    },
+    {
+      "text": "hemorragia intraparenquimatosa leve",
+      "type": "PATOLOGIA",
+      "start": 603,
+      "end": 638
+    },
+    {
+      "text": "transformación hemorrágica tipo HI1",
+      "type": "PATOLOGIA",
+      "start": 662,
+      "end": 697
+    },
+    {
+      "text": "infarto isquémico subagudo",
+      "type": "PATOLOGIA",
+      "start": 825,
+      "end": 851
+    },
+    {
+      "text": "territorio centroparietal derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 855,
+      "end": 888
+    },
+    {
+      "text": "ACM derecha",
+      "type": "ARTERIA",
+      "start": 248,
+      "end": 259
+    },
+    {
+      "text": "hipoperfusión",
+      "type": "PATOLOGIA",
+      "start": 1117,
+      "end": 1130
+    },
+    {
+      "text": "tiempo de tránsito medio (TTP)",
+      "type": "MEDIDA",
+      "start": 1145,
+      "end": 1175
+    },
+    {
+      "text": "volumen cerebral sanguíneo (CBV)",
+      "type": "MEDIDA",
+      "start": 1258,
+      "end": 1290
+    },
+    {
+      "text": "lesión isquémica subaguda",
+      "type": "PATOLOGIA",
+      "start": 1308,
+      "end": 1333
+    },
+    {
+      "text": "sin signos de oclusión o disección",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1507,
+      "end": 1541
+    },
+    {
+      "text": "sin estenosis relevantes ni placas de ateromatosis significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1404,
+      "end": 1469
+    },
+    {
+      "text": "sin hematoma de relevancia ni efecto masa significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1693,
+      "end": 1748
+    }
+  ]
+}

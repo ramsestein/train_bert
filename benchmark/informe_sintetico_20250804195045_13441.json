@@ -1,0 +1,95 @@
+{
+  "document_id": "informe_sintetico_20250804195045_13441",
+  "entities": [
+    {
+      "text": "isquémica aguda",
+      "type": "PATOLOGIA",
+      "start": 269,
+      "end": 284
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 485,
+      "end": 508
+    },
+    {
+      "text": "edema cerebral",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 512,
+      "end": 526
+    },
+    {
+      "text": "ASPECTS 10/10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 587,
+      "end": 600
+    },
+    {
+      "text": "cambios crónicos microangiopáticos",
+      "type": "PATOLOGIA",
+      "start": 711,
+      "end": 745
+    },
+    {
+      "text": "lesiones isquémicas recientes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 754,
+      "end": 783
+    },
+    {
+      "text": "sin estenosis ni oclusiones relevantes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1165,
+      "end": 1203
+    },
+    {
+      "text": "calcificaciones arteriales leves",
+      "type": "PATOLOGIA",
+      "start": 1217,
+      "end": 1249
+    },
+    {
+      "text": "sin compromiso hemodinámico significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1305,
+      "end": 1346
+    },
+    {
+      "text": "sin signos de isquemia aguda ni hemorragia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1473,
+      "end": 1515
+    },
+    {
+      "text": "microangiopatía leve",
+      "type": "PATOLOGIA",
+      "start": 1550,
+      "end": 1570
+    },
+    {
+      "text": "ASPECTS 10/10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 587,
+      "end": 600
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 305,
+      "end": 321
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 337,
+      "end": 358
+    },
+    {
+      "text": "angio-TC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 361,
+      "end": 391
+    }
+  ]
+}

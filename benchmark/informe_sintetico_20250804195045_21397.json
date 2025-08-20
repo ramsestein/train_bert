@@ -1,0 +1,65 @@
+{
+  "document_id": "informe_sintetico_20250804195045_21397",
+  "entities": [
+    {
+      "text": "edema isquémico",
+      "type": "PATOLOGIA",
+      "start": 684,
+      "end": 699
+    },
+    {
+      "text": "isquemia grave",
+      "type": "PATOLOGIA",
+      "start": 1071,
+      "end": 1085
+    },
+    {
+      "text": "penumbra isquémica extensa",
+      "type": "PATOLOGIA",
+      "start": 1111,
+      "end": 1137
+    },
+    {
+      "text": "oclusión completa",
+      "type": "PATOLOGIA",
+      "start": 1203,
+      "end": 1220
+    },
+    {
+      "text": "arteria basilar",
+      "type": "ARTERIA",
+      "start": 857,
+      "end": 872
+    },
+    {
+      "text": "tronco cerebral",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1733,
+      "end": 1748
+    },
+    {
+      "text": "cerebelo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1751,
+      "end": 1759
+    },
+    {
+      "text": "ictus isquémico vertebrobasilar agudo",
+      "type": "TEMPORALIDAD",
+      "start": 1924,
+      "end": 1961
+    },
+    {
+      "text": "No se identifican hemorragias intracraneales ni colecciones extraaxiales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 543,
+      "end": 615
+    },
+    {
+      "text": "No hemorragias intracraneales ni lesiones adicionales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1843,
+      "end": 1896
+    }
+  ]
+}

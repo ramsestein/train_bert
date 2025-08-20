@@ -1,0 +1,101 @@
+{
+  "document_id": "informe_sintetico_20250804195045_19588",
+  "entities": [
+    {
+      "text": "microhemorragias múltiples",
+      "type": "PATOLOGIA",
+      "start": 602,
+      "end": 628
+    },
+    {
+      "text": "bilateral",
+      "type": "LATERALIDAD",
+      "start": 537,
+      "end": 546
+    },
+    {
+      "text": "sustancia blanca",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 550,
+      "end": 566
+    },
+    {
+      "text": "ganglios basales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 569,
+      "end": 585
+    },
+    {
+      "text": "enfermedad de pequeño vaso",
+      "type": "PATOLOGIA",
+      "start": 774,
+      "end": 800
+    },
+    {
+      "text": "hemorragia macroscópica",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1337,
+      "end": 1360
+    },
+    {
+      "text": "infarto agudo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1364,
+      "end": 1377
+    },
+    {
+      "text": "sin signos de estenosis ni trombosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1149,
+      "end": 1185
+    },
+    {
+      "text": "permeabilidad adecuada de los principales vasos intra y extracraneales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1078,
+      "end": 1148
+    },
+    {
+      "text": "TC craneal no contrastada",
+      "type": "TECNICA_IMAGEN",
+      "start": 291,
+      "end": 316
+    },
+    {
+      "text": "estudio de perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 318,
+      "end": 347
+    },
+    {
+      "text": "angio-TC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 350,
+      "end": 380
+    },
+    {
+      "text": "reconstrucciones multiplanares",
+      "type": "TECNICA_IMAGEN",
+      "start": 385,
+      "end": 415
+    },
+    {
+      "text": "TTP",
+      "type": "MEDIDA",
+      "start": 1024,
+      "end": 1027
+    },
+    {
+      "text": "CBV",
+      "type": "MEDIDA",
+      "start": 1029,
+      "end": 1032
+    },
+    {
+      "text": "CBF",
+      "type": "MEDIDA",
+      "start": 1035,
+      "end": 1038
+    }
+  ]
+}

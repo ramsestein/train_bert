@@ -1,0 +1,107 @@
+{
+  "document_id": "informe_sintetico_20250804195045_14476",
+  "entities": [
+    {
+      "text": "infarto isquémico agudo",
+      "type": "PATOLOGIA",
+      "start": 576,
+      "end": 599
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 614,
+      "end": 637
+    },
+    {
+      "text": "territorio subcortical profundo del segmento M2 izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 503,
+      "end": 560
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "ARTERIA",
+      "start": 946,
+      "end": 978
+    },
+    {
+      "text": "M1 proximal izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1309,
+      "end": 1330
+    },
+    {
+      "text": "flujo sanguíneo cerebral (CBF)",
+      "type": "PATOLOGIA",
+      "start": 895,
+      "end": 925
+    },
+    {
+      "text": "aumento significativo en el tiempo de tránsito medio (MTT)",
+      "type": "PATOLOGIA",
+      "start": 984,
+      "end": 1042
+    },
+    {
+      "text": "tiempo hasta el pico (TTP)",
+      "type": "PATOLOGIA",
+      "start": 1045,
+      "end": 1071
+    },
+    {
+      "text": "penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1136,
+      "end": 1154
+    },
+    {
+      "text": "signo de doble lumen y dilatación segmentaria irregular",
+      "type": "PATOLOGIA",
+      "start": 1213,
+      "end": 1268
+    },
+    {
+      "text": "defecto de repleción en el segmento M1 proximal izquierdo",
+      "type": "PATOLOGIA",
+      "start": 1273,
+      "end": 1330
+    },
+    {
+      "text": "sistema vertebrobasilar",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1509,
+      "end": 1532
+    },
+    {
+      "text": "extensa área de penumbra",
+      "type": "PATOLOGIA",
+      "start": 1638,
+      "end": 1662
+    },
+    {
+      "text": "disección arterial en segmento proximal M1 izquierdo",
+      "type": "PATOLOGIA",
+      "start": 1704,
+      "end": 1756
+    },
+    {
+      "text": "TC craneal basal sin contraste",
+      "type": "TECNICA_IMAGEN",
+      "start": 303,
+      "end": 333
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 335,
+      "end": 356
+    },
+    {
+      "text": "Angio TC arterial intracraneal y extracraneal con contraste intravenoso",
+      "type": "TECNICA_IMAGEN",
+      "start": 359,
+      "end": 430
+    }
+  ]
+}

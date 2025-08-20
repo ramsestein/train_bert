@@ -1,0 +1,131 @@
+{
+  "document_id": "informe_sintetico_20250804195045_18803",
+  "entities": [
+    {
+      "text": "isquemia",
+      "type": "PATOLOGIA",
+      "start": 719,
+      "end": 727
+    },
+    {
+      "text": "arteria cerebral media",
+      "type": "ARTERIA",
+      "start": 663,
+      "end": 685
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 693,
+      "end": 702
+    },
+    {
+      "text": "ASPECTS 9",
+      "type": "PUNTUACION_CLINICA",
+      "start": 748,
+      "end": 757
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 1593,
+      "end": 1607
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "ARTERIA",
+      "start": 1035,
+      "end": 1067
+    },
+    {
+      "text": "M2/M3",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1026,
+      "end": 1031
+    },
+    {
+      "text": "ASPECTS 9",
+      "type": "PUNTUACION_CLINICA",
+      "start": 748,
+      "end": 757
+    },
+    {
+      "text": "No hay sangrado intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1701,
+      "end": 1729
+    },
+    {
+      "text": "Oclusión parcial",
+      "type": "PATOLOGIA",
+      "start": 1217,
+      "end": 1233
+    },
+    {
+      "text": "segmento M2",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1238,
+      "end": 1249
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "ARTERIA",
+      "start": 1035,
+      "end": 1067
+    },
+    {
+      "text": "sin compromiso de las arterias proximales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1296,
+      "end": 1337
+    },
+    {
+      "text": "Sistema vertebrobasilar permeable",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1435,
+      "end": 1468
+    },
+    {
+      "text": "Arterias intracraneales permeables",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1470,
+      "end": 1504
+    },
+    {
+      "text": "segmento distal afectado",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1513,
+      "end": 1537
+    },
+    {
+      "text": "isquemia cerebral aguda",
+      "type": "PATOLOGIA",
+      "start": 2105,
+      "end": 2128
+    },
+    {
+      "text": "territorio distal de arteria cerebral media izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 2132,
+      "end": 2185
+    },
+    {
+      "text": "M2/M3",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1026,
+      "end": 1031
+    },
+    {
+      "text": "TC perfusión",
+      "type": "TECNICA_IMAGEN",
+      "start": 2209,
+      "end": 2221
+    },
+    {
+      "text": "angiografía TC",
+      "type": "TECNICA_IMAGEN",
+      "start": 382,
+      "end": 396
+    }
+  ]
+}

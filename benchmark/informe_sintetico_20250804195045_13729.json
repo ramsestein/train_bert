@@ -1,0 +1,71 @@
+{
+  "document_id": "informe_sintetico_20250804195045_13729",
+  "entities": [
+    {
+      "text": "isquémico agudo",
+      "type": "PATOLOGIA",
+      "start": 349,
+      "end": 364
+    },
+    {
+      "text": "hemorragia intracraneal aguda",
+      "type": "PATOLOGIA",
+      "start": 595,
+      "end": 624
+    },
+    {
+      "text": "lesiones isquémicas",
+      "type": "PATOLOGIA",
+      "start": 628,
+      "end": 647
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 831,
+      "end": 841
+    },
+    {
+      "text": "TTP",
+      "type": "TECNICA_IMAGEN",
+      "start": 889,
+      "end": 892
+    },
+    {
+      "text": "CBF",
+      "type": "TECNICA_IMAGEN",
+      "start": 911,
+      "end": 914
+    },
+    {
+      "text": "CBV",
+      "type": "TECNICA_IMAGEN",
+      "start": 936,
+      "end": 939
+    },
+    {
+      "text": "sin estenosis significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1096,
+      "end": 1124
+    },
+    {
+      "text": "sin evidencia de vasoespasmo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1184,
+      "end": 1212
+    },
+    {
+      "text": "sin hallazgos agudos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1369,
+      "end": 1389
+    },
+    {
+      "text": "sin evidencia de isquemia o hemorragia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1442,
+      "end": 1480
+    }
+  ]
+}

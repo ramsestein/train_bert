@@ -1,0 +1,39 @@
+UO_PACN (Unidad Organizativa Médica): RADIO
+
+PRUEB (Prueba solicitada): TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANG IOTC ARTERIAL INTRACRANEAL)
+
+CLIN (Resumen clínico): Paciente con debut súbito de hemiparesia izquierda y afasia motora, sospecha clínica de ictus isquémico agudo.
+
+OBSR (Protocolo): Protocolo Código Ictus: TC craneal basal, TC perfusión cerebral con mapas de TTP, CBF y CBV, AngioTC arterial intracraneal y extra craneal.
+
+RESL (Resultados):  
+TC CRANEAL BASAL:  
+No se observan colecciones hemáticas ni signos de sangrado intra o extraaxial.  
+Conservación de la diferenciación cortico-subcortical con ASPECTS 9/10, destacando una discreta hipodensidad en la región periinsular derecha, sin afectación extensa.  
+Sistema ventricular en límites normales, sin desviación de la línea media. Cisternas y surcos corticales conservados.  
+Cambios crónicos mínimos en sustancia blanca profunda, sin signos de edema cerebral.
+
+TC PERFUSIÓN:  
+Retraso focal y moderado en el tiempo de tránsito medio (TTP) en territorio de la arteria cerebral media (ACM) derecha, en segmentos M2/M3, asociado a disminución del flujo sanguíneo cerebral (CBF) sin caída significativa del volumen cerebral (CBV), indicando área de penumbra isquémica viable.  
+Mismatch significativo entre el área de retraso del TTP y la zona con disminución de CBV.
+
+ANGIO-TC EXTRA E INTRACRANEAL:  
+Oclusión segmentaria en división distal M2 de ACM derecha, sin visualización del flujo arterial en dicho segmento.  
+El resto del árbol arterial intracraneal, incluyendo ACAs y ACPs, muestra permeabilidad adecuada sin estenosis relevantes.  
+Arco aórtico y troncos supraórticos sin lesiones significativas.
+
+CONCL (Conclusiones):  
+- TC craneal sin signos de hemorragia ni infarto establecido de gran extensión (ASPECTS 9/10).  
+- Perfusión cerebral con área de penumbra isquémica en territorio distal derecho de ACM (M2/M3) con mismatch significativo.  
+- Oclusión distal en división M2 de ACM derecha confirmada en AngioTC.  
+- Hallazgos compatibles con isquemia aguda en territorio distal de ACM derecha con potencial beneficio de tratamiento revascularizante.
+
+ACTI_ADICI (Actividad adicional):  
+
+ICON (Estudio): @TC_ICHTUS@
+
+X00DIATXT (Texto del diagnóstico ACR): Isquemia aguda en territorio distal de ACM derecha (segmentos M2/M3) con oclusión arterial y área de penumbra viable en estudios de perfusión.
+
+EST_T_DES (Descripción): TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANGIOTC ARTERIAL INTRACRANEAL)
+
+ZVASOS_D (Der.): Oclusión segmentaria en arteria cerebral media distal derecha (M2)

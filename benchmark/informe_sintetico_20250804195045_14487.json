@@ -1,0 +1,115 @@
+{
+  "document_id": "informe_sintetico_20250804195045_14487",
+  "entities": [
+    {
+      "text": "cefalea intensa",
+      "type": "PATOLOGIA",
+      "start": 198,
+      "end": 213
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 399,
+      "end": 422
+    },
+    {
+      "text": "hemorragia",
+      "type": "PATOLOGIA",
+      "start": 399,
+      "end": 409
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 922,
+      "end": 936
+    },
+    {
+      "text": "lesiones estructurales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1359,
+      "end": 1381
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 552,
+      "end": 562
+    },
+    {
+      "text": "línea media",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 648,
+      "end": 659
+    },
+    {
+      "text": "perimesencefálicas",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 705,
+      "end": 723
+    },
+    {
+      "text": "arterias intracraneales principales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1024,
+      "end": 1059
+    },
+    {
+      "text": "ACAs",
+      "type": "ARTERIA",
+      "start": 1061,
+      "end": 1065
+    },
+    {
+      "text": "ACMs",
+      "type": "ARTERIA",
+      "start": 1067,
+      "end": 1071
+    },
+    {
+      "text": "ACPs",
+      "type": "ARTERIA",
+      "start": 1073,
+      "end": 1077
+    },
+    {
+      "text": "circulación vertebrobasilar",
+      "type": "ARTERIA",
+      "start": 1081,
+      "end": 1108
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 259,
+      "end": 275
+    },
+    {
+      "text": "perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 291,
+      "end": 309
+    },
+    {
+      "text": "Angio TC intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 312,
+      "end": 333
+    },
+    {
+      "text": "TC código ictus",
+      "type": "TECNICA_IMAGEN",
+      "start": 1277,
+      "end": 1292
+    },
+    {
+      "text": "seguimiento clínico",
+      "type": "TEMPORALIDAD",
+      "start": 1459,
+      "end": 1478
+    }
+  ],
+  "regenerado": true,
+  "fecha_regeneracion": "2025-08-06T04:17:08.515064"
+}

@@ -1,0 +1,83 @@
+{
+  "document_id": "informe_sintetico_20250804195045_23630",
+  "entities": [
+    {
+      "text": "infartos lacunares crónicos",
+      "type": "PATOLOGIA",
+      "start": 723,
+      "end": 750
+    },
+    {
+      "text": "sustancia blanca profunda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 614,
+      "end": 639
+    },
+    {
+      "text": "cápsula interna",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 643,
+      "end": 658
+    },
+    {
+      "text": "núcleo lenticular",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 660,
+      "end": 677
+    },
+    {
+      "text": "región talámica",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 680,
+      "end": 695
+    },
+    {
+      "text": "bilateral",
+      "type": "LATERALIDAD",
+      "start": 696,
+      "end": 705
+    },
+    {
+      "text": "leucoaraiosis moderada",
+      "type": "PATOLOGIA",
+      "start": 935,
+      "end": 957
+    },
+    {
+      "text": "sin alteraciones focales ni asimetrías significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1152,
+      "end": 1205
+    },
+    {
+      "text": "sin estenosis ni oclusiones en arterias cerebrales anteriores, medias o posteriores",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1339,
+      "end": 1422
+    },
+    {
+      "text": "sin repercusión luminal significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1535,
+      "end": 1572
+    },
+    {
+      "text": "TC craneal simple",
+      "type": "TECNICA_IMAGEN",
+      "start": 372,
+      "end": 389
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 391,
+      "end": 412
+    },
+    {
+      "text": "AngioTC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 415,
+      "end": 444
+    }
+  ]
+}

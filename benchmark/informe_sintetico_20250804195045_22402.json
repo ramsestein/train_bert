@@ -1,0 +1,77 @@
+{
+  "document_id": "informe_sintetico_20250804195045_22402",
+  "entities": [
+    {
+      "text": "hemorragia aguda",
+      "type": "PATOLOGIA",
+      "start": 406,
+      "end": 422
+    },
+    {
+      "text": "edema cerebral",
+      "type": "PATOLOGIA",
+      "start": 426,
+      "end": 440
+    },
+    {
+      "text": "ASPECTS 10/10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 511,
+      "end": 524
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 730,
+      "end": 744
+    },
+    {
+      "text": "Arterias carótidas internas",
+      "type": "ARTERIA",
+      "start": 953,
+      "end": 980
+    },
+    {
+      "text": "cerebrales anterior",
+      "type": "ARTERIA",
+      "start": 982,
+      "end": 1001
+    },
+    {
+      "text": "media",
+      "type": "ARTERIA",
+      "start": 609,
+      "end": 614
+    },
+    {
+      "text": "posterior",
+      "type": "ARTERIA",
+      "start": 1011,
+      "end": 1020
+    },
+    {
+      "text": "Sistema vertebrobasilar",
+      "type": "ARTERIA",
+      "start": 1083,
+      "end": 1106
+    },
+    {
+      "text": "sin hallazgos agudos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1281,
+      "end": 1301
+    },
+    {
+      "text": "sin indicios de isquemia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1386,
+      "end": 1410
+    },
+    {
+      "text": "sin lesiones significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1449,
+      "end": 1476
+    }
+  ]
+}

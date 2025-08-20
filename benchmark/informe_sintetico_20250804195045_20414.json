@@ -1,0 +1,119 @@
+{
+  "document_id": "informe_sintetico_20250804195045_20414",
+  "entities": [
+    {
+      "text": "ictus isquémico",
+      "type": "PATOLOGIA",
+      "start": 239,
+      "end": 254
+    },
+    {
+      "text": "arteria cerebral posterior derecha",
+      "type": "ARTERIA",
+      "start": 275,
+      "end": 309
+    },
+    {
+      "text": "agudo",
+      "type": "TEMPORALIDAD",
+      "start": 180,
+      "end": 185
+    },
+    {
+      "text": "hemicuerpo izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 189,
+      "end": 209
+    },
+    {
+      "text": "No se identifican hemorragias intra ni extraaxiales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 535,
+      "end": 586
+    },
+    {
+      "text": "No se evidencian signos de infarto establecido en parénquima encefálico",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 588,
+      "end": 659
+    },
+    {
+      "text": "prolongación focalizada en territorio posterior derecho",
+      "type": "PATOLOGIA",
+      "start": 859,
+      "end": 914
+    },
+    {
+      "text": "reducción del flujo cerebral",
+      "type": "PATOLOGIA",
+      "start": 920,
+      "end": 948
+    },
+    {
+      "text": "Oclusión segmentaria en arteria cerebral posterior derecha (P2 segment)",
+      "type": "PATOLOGIA",
+      "start": 1171,
+      "end": 1242
+    },
+    {
+      "text": "Resto de circulación intracraneal permeable",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1278,
+      "end": 1321
+    },
+    {
+      "text": "sin estenosis significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1379,
+      "end": 1407
+    },
+    {
+      "text": "No se evidencian signos de disección ni estenosis críticas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1452,
+      "end": 1510
+    },
+    {
+      "text": "isquemia aguda en territorio de la arteria cerebral posterior derecha",
+      "type": "PATOLOGIA",
+      "start": 1596,
+      "end": 1665
+    },
+    {
+      "text": "área de penumbra significativa en TC perfusión",
+      "type": "PATOLOGIA",
+      "start": 1671,
+      "end": 1717
+    },
+    {
+      "text": "Oclusión confirmada en segmento P2 de la ACP derecha",
+      "type": "PATOLOGIA",
+      "start": 1719,
+      "end": 1771
+    },
+    {
+      "text": "sin alteraciones hemodinámicas relevantes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1810,
+      "end": 1851
+    },
+    {
+      "text": "TC craneal basal sin contraste",
+      "type": "TECNICA_IMAGEN",
+      "start": 330,
+      "end": 360
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 363,
+      "end": 384
+    },
+    {
+      "text": "Angio-TC arterial intracraneal urgente",
+      "type": "TECNICA_IMAGEN",
+      "start": 387,
+      "end": 425
+    }
+  ]
+}

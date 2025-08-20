@@ -1,0 +1,107 @@
+{
+  "document_id": "informe_sintetico_20250804195045_04632",
+  "entities": [
+    {
+      "text": "infarto cerebral",
+      "type": "PATOLOGIA",
+      "start": 251,
+      "end": 267
+    },
+    {
+      "text": "hipoperfusión",
+      "type": "PATOLOGIA",
+      "start": 272,
+      "end": 285
+    },
+    {
+      "text": "hipodensidad lineales y parcheadas",
+      "type": "PATOLOGIA",
+      "start": 486,
+      "end": 520
+    },
+    {
+      "text": "isquemia penumbra",
+      "type": "PATOLOGIA",
+      "start": 1406,
+      "end": 1423
+    },
+    {
+      "text": "infarto watershed",
+      "type": "PATOLOGIA",
+      "start": 1434,
+      "end": 1451
+    },
+    {
+      "text": "región cortical y subcortical",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 527,
+      "end": 556
+    },
+    {
+      "text": "territorios fronto-parietal y parieto-occipital",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 564,
+      "end": 611
+    },
+    {
+      "text": "arteria cerebral anterior",
+      "type": "ARTERIA",
+      "start": 707,
+      "end": 732
+    },
+    {
+      "text": "arteria cerebral media",
+      "type": "ARTERIA",
+      "start": 744,
+      "end": 766
+    },
+    {
+      "text": "bilaterales",
+      "type": "LATERALIDAD",
+      "start": 613,
+      "end": 624
+    },
+    {
+      "text": "aguda",
+      "type": "TEMPORALIDAD",
+      "start": 1140,
+      "end": 1145
+    },
+    {
+      "text": "aumento del MTT",
+      "type": "MEDIDA",
+      "start": 1977,
+      "end": 1992
+    },
+    {
+      "text": "disminución de CBF",
+      "type": "MEDIDA",
+      "start": 1995,
+      "end": 2013
+    },
+    {
+      "text": "preservación de CBV",
+      "type": "MEDIDA",
+      "start": 2018,
+      "end": 2037
+    },
+    {
+      "text": "No se evidencian signos de hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 875,
+      "end": 925
+    },
+    {
+      "text": "sin oclusión arterial significativa en angio-TC",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2041,
+      "end": 2088
+    },
+    {
+      "text": "sin evidencia de trombosis ni embolia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1679,
+      "end": 1716
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "document_id": "informe_sintetico_20250804195045_08059",
+  "entities": [
+    {
+      "text": "infarto cerebral establecido",
+      "type": "PATOLOGIA",
+      "start": 572,
+      "end": 600
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 466,
+      "end": 498
+    },
+    {
+      "text": "arteria cerebral media",
+      "type": "ARTERIA",
+      "start": 466,
+      "end": 488
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 489,
+      "end": 498
+    },
+    {
+      "text": "ASPECTS 6",
+      "type": "PUNTUACION_CLINICA",
+      "start": 654,
+      "end": 663
+    },
+    {
+      "text": "75%",
+      "type": "MEDIDA",
+      "start": 1180,
+      "end": 1183
+    },
+    {
+      "text": "Oclusión completa",
+      "type": "PATOLOGIA",
+      "start": 1221,
+      "end": 1238
+    },
+    {
+      "text": "carótida interna izquierda",
+      "type": "ARTERIA",
+      "start": 1245,
+      "end": 1271
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 629,
+      "end": 652
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 629,
+      "end": 652
+    },
+    {
+      "text": "TC craneal basal sin contraste",
+      "type": "TECNICA_IMAGEN",
+      "start": 287,
+      "end": 317
+    },
+    {
+      "text": "TC PERFUSIÓN",
+      "type": "TECNICA_IMAGEN",
+      "start": 835,
+      "end": 847
+    },
+    {
+      "text": "ANGIO-TC EXTRA E INTRACRANEAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 1188,
+      "end": 1217
+    }
+  ]
+}

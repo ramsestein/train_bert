@@ -1,0 +1,101 @@
+{
+  "document_id": "informe_sintetico_20250804195045_02779",
+  "entities": [
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 1611,
+      "end": 1625
+    },
+    {
+      "text": "territorio distal",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1629,
+      "end": 1646
+    },
+    {
+      "text": "segmentos M2/M3",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1648,
+      "end": 1663
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "ARTERIA",
+      "start": 1019,
+      "end": 1049
+    },
+    {
+      "text": "M2",
+      "type": "ARTERIA",
+      "start": 1005,
+      "end": 1007
+    },
+    {
+      "text": "M3",
+      "type": "ARTERIA",
+      "start": 1010,
+      "end": 1012
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 1042,
+      "end": 1049
+    },
+    {
+      "text": "ASPECTS 9",
+      "type": "PUNTUACION_CLINICA",
+      "start": 664,
+      "end": 673
+    },
+    {
+      "text": "Oclusión focal",
+      "type": "PATOLOGIA",
+      "start": 1248,
+      "end": 1262
+    },
+    {
+      "text": "segmento distal M2",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1266,
+      "end": 1284
+    },
+    {
+      "text": "No se aprecia hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 485,
+      "end": 522
+    },
+    {
+      "text": "sin alteraciones significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1886,
+      "end": 1917
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 359,
+      "end": 375
+    },
+    {
+      "text": "perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 377,
+      "end": 395
+    },
+    {
+      "text": "angiografía TC arterial intra y extracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 398,
+      "end": 442
+    },
+    {
+      "text": "No hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1809,
+      "end": 1835
+    }
+  ]
+}

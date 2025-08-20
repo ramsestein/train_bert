@@ -1,0 +1,101 @@
+{
+  "document_id": "informe_sintetico_20250804195045_03307",
+  "entities": [
+    {
+      "text": "hemorragia subaracnoidea",
+      "type": "PATOLOGIA",
+      "start": 221,
+      "end": 245
+    },
+    {
+      "text": "cisura silviana derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 526,
+      "end": 549
+    },
+    {
+      "text": "cisterna supraselar",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 558,
+      "end": 577
+    },
+    {
+      "text": "hemorragia subaracnoidea localizada",
+      "type": "PATOLOGIA",
+      "start": 594,
+      "end": 629
+    },
+    {
+      "text": "No se observan hematomas intracerebrales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 631,
+      "end": 671
+    },
+    {
+      "text": "No evidencia de masa expansiva",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 702,
+      "end": 732
+    },
+    {
+      "text": "No signos de isquemia cerebral",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1607,
+      "end": 1637
+    },
+    {
+      "text": "aneurisma sacular",
+      "type": "PATOLOGIA",
+      "start": 1183,
+      "end": 1200
+    },
+    {
+      "text": "5 mm",
+      "type": "MEDIDA",
+      "start": 1220,
+      "end": 1224
+    },
+    {
+      "text": "arteria comunicante anterior derecha",
+      "type": "ARTERIA",
+      "start": 1231,
+      "end": 1267
+    },
+    {
+      "text": "No se evidencian otras malformaciones arteriovenosas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1269,
+      "end": 1321
+    },
+    {
+      "text": "Sistema vertebrobasilar permeable",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1387,
+      "end": 1420
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 808,
+      "end": 818
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 265,
+      "end": 281
+    },
+    {
+      "text": "TC PERFUSIÓN",
+      "type": "TECNICA_IMAGEN",
+      "start": 989,
+      "end": 1001
+    },
+    {
+      "text": "ANGIO-TC ARTERIAL INTRACRANEAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 1134,
+      "end": 1164
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "document_id": "informe_sintetico_20250804195045_06401",
+  "entities": [
+    {
+      "text": "hipodensidad difusa",
+      "type": "PATOLOGIA",
+      "start": 547,
+      "end": 566
+    },
+    {
+      "text": "infarto cerebral",
+      "type": "PATOLOGIA",
+      "start": 776,
+      "end": 792
+    },
+    {
+      "text": "arteria cerebral media (ACM) izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 703,
+      "end": 741
+    },
+    {
+      "text": "ACM",
+      "type": "ARTERIA",
+      "start": 727,
+      "end": 730
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 595,
+      "end": 604
+    },
+    {
+      "text": "ASPECTS 6",
+      "type": "PUNTUACION_CLINICA",
+      "start": 1494,
+      "end": 1503
+    },
+    {
+      "text": "ACM izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 843,
+      "end": 856
+    },
+    {
+      "text": "segmento M1",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 825,
+      "end": 836
+    },
+    {
+      "text": "Oclusión completa",
+      "type": "PATOLOGIA",
+      "start": 1173,
+      "end": 1190
+    },
+    {
+      "text": "segmento proximal M1",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1195,
+      "end": 1215
+    },
+    {
+      "text": "ACM izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 843,
+      "end": 856
+    },
+    {
+      "text": "área de penumbra",
+      "type": "PATOLOGIA",
+      "start": 1893,
+      "end": 1909
+    },
+    {
+      "text": "segmento M1",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 825,
+      "end": 836
+    },
+    {
+      "text": "ACM izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 843,
+      "end": 856
+    },
+    {
+      "text": "Oclusión completa segmento M1 ACM izquierda",
+      "type": "PATOLOGIA",
+      "start": 2058,
+      "end": 2101
+    },
+    {
+      "text": "circulación colateral minimal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2103,
+      "end": 2132
+    },
+    {
+      "text": "3 horas",
+      "type": "TEMPORALIDAD",
+      "start": 305,
+      "end": 312
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 408,
+      "end": 424
+    },
+    {
+      "text": "perfusión cerebral dinámica",
+      "type": "TECNICA_IMAGEN",
+      "start": 426,
+      "end": 453
+    },
+    {
+      "text": "angiografía TC arterial intracraneal urgente",
+      "type": "TECNICA_IMAGEN",
+      "start": 456,
+      "end": 500
+    }
+  ]
+}

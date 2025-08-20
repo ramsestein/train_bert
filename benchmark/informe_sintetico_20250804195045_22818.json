@@ -1,0 +1,65 @@
+{
+  "document_id": "informe_sintetico_20250804195045_22818",
+  "entities": [
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 651,
+      "end": 665
+    },
+    {
+      "text": "tronco cerebral",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 267,
+      "end": 282
+    },
+    {
+      "text": "cerebelo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 990,
+      "end": 998
+    },
+    {
+      "text": "arteria basilar",
+      "type": "ARTERIA",
+      "start": 1188,
+      "end": 1203
+    },
+    {
+      "text": "bilateral",
+      "type": "LATERALIDAD",
+      "start": 1011,
+      "end": 1020
+    },
+    {
+      "text": "aguda",
+      "type": "TEMPORALIDAD",
+      "start": 660,
+      "end": 665
+    },
+    {
+      "text": "hemorragia intraparenquimatosa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 504,
+      "end": 534
+    },
+    {
+      "text": "No se observan signos de herniación ni desplazamiento de línea media",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 678,
+      "end": 746
+    },
+    {
+      "text": "sin signos de hipertensión intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 771,
+      "end": 810
+    },
+    {
+      "text": "sin evidenciar flujo distal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1222,
+      "end": 1249
+    }
+  ]
+}

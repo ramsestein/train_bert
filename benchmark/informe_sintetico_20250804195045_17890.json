@@ -1,0 +1,59 @@
+{
+  "document_id": "informe_sintetico_20250804195045_17890",
+  "entities": [
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 309,
+      "end": 323
+    },
+    {
+      "text": "bulbo raquídeo derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 684,
+      "end": 706
+    },
+    {
+      "text": "cerebelo izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1172,
+      "end": 1190
+    },
+    {
+      "text": "arteria basilar proximal",
+      "type": "ARTERIA",
+      "start": 1559,
+      "end": 1583
+    },
+    {
+      "text": "75%",
+      "type": "MEDIDA",
+      "start": 1549,
+      "end": 1552
+    },
+    {
+      "text": "agudo",
+      "type": "TEMPORALIDAD",
+      "start": 208,
+      "end": 213
+    },
+    {
+      "text": "No evidencia de hemorragia intraparenquimatosa ni extraaxial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 565,
+      "end": 625
+    },
+    {
+      "text": "No se observan oclusiones completas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1671,
+      "end": 1706
+    },
+    {
+      "text": "No evidencias de hemorragia ni edema cerebral mayor",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2136,
+      "end": 2187
+    }
+  ]
+}

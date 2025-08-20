@@ -1,0 +1,101 @@
+{
+  "document_id": "informe_sintetico_20250804195045_18205",
+  "entities": [
+    {
+      "text": "infartos",
+      "type": "PATOLOGIA",
+      "start": 601,
+      "end": 609
+    },
+    {
+      "text": "regiones corticales fronterizas",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 472,
+      "end": 503
+    },
+    {
+      "text": "parietales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 541,
+      "end": 551
+    },
+    {
+      "text": "parieto-occipitales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 554,
+      "end": 573
+    },
+    {
+      "text": "bilaterales",
+      "type": "LATERALIDAD",
+      "start": 574,
+      "end": 585
+    },
+    {
+      "text": "ASPECTS 7",
+      "type": "PUNTUACION_CLINICA",
+      "start": 771,
+      "end": 780
+    },
+    {
+      "text": "hipoperfusión",
+      "type": "PATOLOGIA",
+      "start": 1114,
+      "end": 1127
+    },
+    {
+      "text": "infarto cerebral bilateral",
+      "type": "PATOLOGIA",
+      "start": 1683,
+      "end": 1709
+    },
+    {
+      "text": "zonas watershed",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 2363,
+      "end": 2378
+    },
+    {
+      "text": "hipoperfusión",
+      "type": "PATOLOGIA",
+      "start": 1114,
+      "end": 1127
+    },
+    {
+      "text": "sin evidencia de oclusión arterial mayor",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2414,
+      "end": 2454
+    },
+    {
+      "text": "sin estenosis significativas ni placas inestables",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1421,
+      "end": 1470
+    },
+    {
+      "text": "sin oclusiones ni estenosis relevantes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1541,
+      "end": 1579
+    },
+    {
+      "text": "sin alteraciones de flujo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1618,
+      "end": 1643
+    },
+    {
+      "text": "sin evidencia de mismatch importante",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1279,
+      "end": 1315
+    },
+    {
+      "text": "TC craneal con perfusión y angio-TC arterial",
+      "type": "TECNICA_IMAGEN",
+      "start": 2248,
+      "end": 2292
+    }
+  ]
+}

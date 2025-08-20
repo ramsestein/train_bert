@@ -1,0 +1,77 @@
+{
+  "document_id": "informe_sintetico_20250804195045_19263",
+  "entities": [
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 620,
+      "end": 634
+    },
+    {
+      "text": "arteria cerebral anterior",
+      "type": "ARTERIA",
+      "start": 250,
+      "end": 275
+    },
+    {
+      "text": "izquierdo",
+      "type": "LATERALIDAD",
+      "start": 594,
+      "end": 603
+    },
+    {
+      "text": "ASPECTS estimado en 9",
+      "type": "PUNTUACION_CLINICA",
+      "start": 748,
+      "end": 769
+    },
+    {
+      "text": "tiempo hasta el pico (TTP)",
+      "type": "PATOLOGIA",
+      "start": 963,
+      "end": 989
+    },
+    {
+      "text": "reducción del flujo cerebral (CBF)",
+      "type": "PATOLOGIA",
+      "start": 994,
+      "end": 1028
+    },
+    {
+      "text": "arteria cerebral anterior izquierda (segmento A2)",
+      "type": "ARTERIA",
+      "start": 1346,
+      "end": 1395
+    },
+    {
+      "text": "sin alteraciones significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1248,
+      "end": 1279
+    },
+    {
+      "text": "área de penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1171,
+      "end": 1197
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 320,
+      "end": 336
+    },
+    {
+      "text": "estudio de perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 338,
+      "end": 367
+    },
+    {
+      "text": "angioTC extra e intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 370,
+      "end": 398
+    }
+  ]
+}

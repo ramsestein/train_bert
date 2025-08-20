@@ -1,0 +1,71 @@
+{
+  "document_id": "informe_sintetico_20250804195045_11962",
+  "entities": [
+    {
+      "text": "isquemia",
+      "type": "PATOLOGIA",
+      "start": 262,
+      "end": 270
+    },
+    {
+      "text": "arteria cerebral anterior izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 288,
+      "end": 323
+    },
+    {
+      "text": "ACA",
+      "type": "ARTERIA",
+      "start": 836,
+      "end": 839
+    },
+    {
+      "text": "izquierdo",
+      "type": "LATERALIDAD",
+      "start": 766,
+      "end": 775
+    },
+    {
+      "text": "10",
+      "type": "MEDIDA",
+      "start": 700,
+      "end": 702
+    },
+    {
+      "text": "aguda",
+      "type": "TEMPORALIDAD",
+      "start": 1190,
+      "end": 1195
+    },
+    {
+      "text": "ASPECTS",
+      "type": "PUNTUACION_CLINICA",
+      "start": 689,
+      "end": 696
+    },
+    {
+      "text": "TC MULTIMODAL URGENTE CÓDIGO ICTUS",
+      "type": "TECNICA_IMAGEN",
+      "start": 344,
+      "end": 378
+    },
+    {
+      "text": "No se observan signos de hemorragia intracraneal ni extraaxial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 576,
+      "end": 638
+    },
+    {
+      "text": "No se evidencia hemorragia intracraneal ni edema significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2015,
+      "end": 2077
+    },
+    {
+      "text": "Oclusión segmentaria de la arteria cerebral anterior izquierda en su segmento A2",
+      "type": "PATOLOGIA",
+      "start": 1463,
+      "end": 1543
+    }
+  ]
+}

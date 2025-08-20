@@ -1,0 +1,149 @@
+{
+  "document_id": "informe_sintetico_20250804195045_12046",
+  "entities": [
+    {
+      "text": "accidente cerebrovascular isquémico",
+      "type": "PATOLOGIA",
+      "start": 232,
+      "end": 267
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 540,
+      "end": 563
+    },
+    {
+      "text": "hemorragia subaracnoidea",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 577,
+      "end": 601
+    },
+    {
+      "text": "hipodensidad cortical",
+      "type": "PATOLOGIA",
+      "start": 633,
+      "end": 654
+    },
+    {
+      "text": "territorio parietal superior",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 725,
+      "end": 753
+    },
+    {
+      "text": "opercular frontal derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 756,
+      "end": 781
+    },
+    {
+      "text": "ramas M2/M3 de la arteria cerebral media derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 821,
+      "end": 869
+    },
+    {
+      "text": "ASPECTS 9",
+      "type": "PUNTUACION_CLINICA",
+      "start": 871,
+      "end": 880
+    },
+    {
+      "text": "tiempo de tránsito medio (MTT)",
+      "type": "MEDIDA",
+      "start": 1011,
+      "end": 1041
+    },
+    {
+      "text": "Tmax",
+      "type": "MEDIDA",
+      "start": 390,
+      "end": 394
+    },
+    {
+      "text": "ACM distal derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1096,
+      "end": 1114
+    },
+    {
+      "text": "flujo cerebral (CBF)",
+      "type": "MEDIDA",
+      "start": 1150,
+      "end": 1170
+    },
+    {
+      "text": "volumen cerebral (CBV)",
+      "type": "MEDIDA",
+      "start": 1202,
+      "end": 1224
+    },
+    {
+      "text": "zona de penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1259,
+      "end": 1285
+    },
+    {
+      "text": "oclusión focal en el segmento M2 derecho",
+      "type": "PATOLOGIA",
+      "start": 1356,
+      "end": 1396
+    },
+    {
+      "text": "ausencia de flujo distal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1402,
+      "end": 1426
+    },
+    {
+      "text": "sin evidencia de trombo en segmentos proximales ni en la M1",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1428,
+      "end": 1487
+    },
+    {
+      "text": "sin estenosis ni anomalías adicionales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1532,
+      "end": 1570
+    },
+    {
+      "text": "Sistema vertebrobasilar sin alteraciones",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1572,
+      "end": 1612
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 1685,
+      "end": 1699
+    },
+    {
+      "text": "territorio M2/M3 de ACM derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1703,
+      "end": 1734
+    },
+    {
+      "text": "ASPECTS 9",
+      "type": "PUNTUACION_CLINICA",
+      "start": 871,
+      "end": 880
+    },
+    {
+      "text": "penumbra isquémica sin infarto establecido",
+      "type": "PATOLOGIA",
+      "start": 1267,
+      "end": 1309
+    },
+    {
+      "text": "isquemia aguda limitada a territorio distal de ACM",
+      "type": "PATOLOGIA",
+      "start": 1919,
+      "end": 1969
+    }
+  ]
+}

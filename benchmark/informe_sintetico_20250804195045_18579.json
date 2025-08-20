@@ -1,0 +1,127 @@
+{
+  "document_id": "informe_sintetico_20250804195045_18579",
+  "entities": [
+    {
+      "text": "ictus isquémico agudo",
+      "type": "PATOLOGIA",
+      "start": 267,
+      "end": 288
+    },
+    {
+      "text": "hemiparesia derecha",
+      "type": "PATOLOGIA",
+      "start": 217,
+      "end": 236
+    },
+    {
+      "text": "afasia",
+      "type": "PATOLOGIA",
+      "start": 239,
+      "end": 245
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 455,
+      "end": 487
+    },
+    {
+      "text": "segmento M1",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 489,
+      "end": 500
+    },
+    {
+      "text": "cápsula interna",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 710,
+      "end": 725
+    },
+    {
+      "text": "núcleo lenticular",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 728,
+      "end": 745
+    },
+    {
+      "text": "arteria cerebral media izquierda proximal",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1527,
+      "end": 1568
+    },
+    {
+      "text": "arteria cerebral media",
+      "type": "ARTERIA",
+      "start": 455,
+      "end": 477
+    },
+    {
+      "text": "segmento M1 izquierdo",
+      "type": "ARTERIA",
+      "start": 1292,
+      "end": 1313
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 478,
+      "end": 487
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 478,
+      "end": 487
+    },
+    {
+      "text": "izquierdo",
+      "type": "LATERALIDAD",
+      "start": 1304,
+      "end": 1313
+    },
+    {
+      "text": "6",
+      "type": "PUNTUACION_CLINICA",
+      "start": 188,
+      "end": 189
+    },
+    {
+      "text": "significativa",
+      "type": "TEMPORALIDAD",
+      "start": 974,
+      "end": 987
+    },
+    {
+      "text": "urgente",
+      "type": "TEMPORALIDAD",
+      "start": 327,
+      "end": 334
+    },
+    {
+      "text": "TC cerebral basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 309,
+      "end": 326
+    },
+    {
+      "text": "estudio de perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 337,
+      "end": 366
+    },
+    {
+      "text": "AngioTC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 369,
+      "end": 398
+    },
+    {
+      "text": "hemorragia intra ni extraaxial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 816,
+      "end": 846
+    }
+  ],
+  "regenerado": true,
+  "fecha_regeneracion": "2025-08-06T05:42:57.165360"
+}

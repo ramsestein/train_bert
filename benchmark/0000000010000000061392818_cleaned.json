@@ -1,0 +1,53 @@
+{
+  "document_id": "0000000010000000061392818_cleaned",
+  "entities": [
+    {
+      "text": "hemorragia aguda",
+      "type": "PATOLOGIA",
+      "start": 392,
+      "end": 408
+    },
+    {
+      "text": "craneotomía fronto-parietal",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 497,
+      "end": 524
+    },
+    {
+      "text": "área encefalomalácica parietal izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 527,
+      "end": 567
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 753,
+      "end": 763
+    },
+    {
+      "text": "ACAs, ACMs y ACPs",
+      "type": "ARTERIA",
+      "start": 1099,
+      "end": 1116
+    },
+    {
+      "text": "sin ateromatosis ni signos de estenosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1249,
+      "end": 1288
+    },
+    {
+      "text": "sin cambios significativos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1750,
+      "end": 1776
+    },
+    {
+      "text": "sin hallazgos significativos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1840,
+      "end": 1868
+    }
+  ]
+}

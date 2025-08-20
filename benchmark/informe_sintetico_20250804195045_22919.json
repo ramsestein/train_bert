@@ -1,0 +1,101 @@
+{
+  "document_id": "informe_sintetico_20250804195045_22919",
+  "entities": [
+    {
+      "text": "isquémico",
+      "type": "PATOLOGIA",
+      "start": 222,
+      "end": 231
+    },
+    {
+      "text": "arteria cerebral media",
+      "type": "ARTERIA",
+      "start": 258,
+      "end": 280
+    },
+    {
+      "text": "parietal derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 558,
+      "end": 574
+    },
+    {
+      "text": "derecho",
+      "type": "LATERALIDAD",
+      "start": 1051,
+      "end": 1058
+    },
+    {
+      "text": "M2",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 604,
+      "end": 606
+    },
+    {
+      "text": "M2/M3 derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1045,
+      "end": 1058
+    },
+    {
+      "text": "aguda",
+      "type": "TEMPORALIDAD",
+      "start": 1576,
+      "end": 1581
+    },
+    {
+      "text": "ASPECTS 9-10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 1719,
+      "end": 1731
+    },
+    {
+      "text": "Oclusión",
+      "type": "PATOLOGIA",
+      "start": 1239,
+      "end": 1247
+    },
+    {
+      "text": "M2",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 604,
+      "end": 606
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 567,
+      "end": 574
+    },
+    {
+      "text": "isquemia",
+      "type": "PATOLOGIA",
+      "start": 1134,
+      "end": 1142
+    },
+    {
+      "text": "sin infarto establecido",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1680,
+      "end": 1703
+    },
+    {
+      "text": "sin evidencias de trombo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1308,
+      "end": 1332
+    },
+    {
+      "text": "sin estenosis significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1476,
+      "end": 1504
+    },
+    {
+      "text": "sin infarto establecido significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1680,
+      "end": 1717
+    }
+  ]
+}

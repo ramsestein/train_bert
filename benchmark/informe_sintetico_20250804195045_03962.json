@@ -1,0 +1,271 @@
+{
+  "document_id": "informe_sintetico_20250804195045_03962",
+  "entities": [
+    {
+      "text": "infarto cerebral",
+      "type": "PATOLOGIA",
+      "start": 200,
+      "end": 216
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 237,
+      "end": 267
+    },
+    {
+      "text": "deterioro neurológico agudo",
+      "type": "PATOLOGIA",
+      "start": 278,
+      "end": 305
+    },
+    {
+      "text": "complicación hemorrágica",
+      "type": "PATOLOGIA",
+      "start": 322,
+      "end": 346
+    },
+    {
+      "text": "TC craneal urgente basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 367,
+      "end": 391
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 394,
+      "end": 415
+    },
+    {
+      "text": "AngioTC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 418,
+      "end": 447
+    },
+    {
+      "text": "área hipodensa",
+      "type": "PATOLOGIA",
+      "start": 503,
+      "end": 517
+    },
+    {
+      "text": "región parietotemporal derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 524,
+      "end": 554
+    },
+    {
+      "text": "infarto isquémico subagudo",
+      "type": "PATOLOGIA",
+      "start": 570,
+      "end": 596
+    },
+    {
+      "text": "foco hiperintenso heterogéneo",
+      "type": "PATOLOGIA",
+      "start": 609,
+      "end": 638
+    },
+    {
+      "text": "sangrado parenquimatoso de pequeño tamaño",
+      "type": "PATOLOGIA",
+      "start": 684,
+      "end": 725
+    },
+    {
+      "text": "transformación hemorrágica tipo PH1",
+      "type": "PATOLOGIA",
+      "start": 749,
+      "end": 784
+    },
+    {
+      "text": "sin efecto masa significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 786,
+      "end": 815
+    },
+    {
+      "text": "No hay hemorragia subaracnoidea",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 853,
+      "end": 884
+    },
+    {
+      "text": "ni hematomas extraaxiales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 885,
+      "end": 910
+    },
+    {
+      "text": "Sistema ventricular de tamaño y morfología normal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 912,
+      "end": 961
+    },
+    {
+      "text": "estructuras de la línea media centradas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 963,
+      "end": 1002
+    },
+    {
+      "text": "Disminución del flujo cerebral (CBF)",
+      "type": "PATOLOGIA",
+      "start": 1020,
+      "end": 1056
+    },
+    {
+      "text": "volumen cerebral (CBV)",
+      "type": "PATOLOGIA",
+      "start": 1059,
+      "end": 1081
+    },
+    {
+      "text": "área infartada derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1088,
+      "end": 1110
+    },
+    {
+      "text": "aumento del tiempo de tránsito (TTP)",
+      "type": "PATOLOGIA",
+      "start": 1115,
+      "end": 1151
+    },
+    {
+      "text": "sin regiones de penumbra viable",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1187,
+      "end": 1218
+    },
+    {
+      "text": "Permeabilidad mantenida",
+      "type": "PATOLOGIA",
+      "start": 1245,
+      "end": 1268
+    },
+    {
+      "text": "principales vasos intracraneales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1276,
+      "end": 1308
+    },
+    {
+      "text": "ACM",
+      "type": "ARTERIA",
+      "start": 1310,
+      "end": 1313
+    },
+    {
+      "text": "ACA",
+      "type": "ARTERIA",
+      "start": 1315,
+      "end": 1318
+    },
+    {
+      "text": "ACP",
+      "type": "ARTERIA",
+      "start": 1320,
+      "end": 1323
+    },
+    {
+      "text": "No se evidencian signos de oclusión aguda",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1326,
+      "end": 1367
+    },
+    {
+      "text": "ni estenosis severas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1368,
+      "end": 1388
+    },
+    {
+      "text": "Ausencia de aneurismas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1390,
+      "end": 1412
+    },
+    {
+      "text": "ni malformaciones vasculares",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1413,
+      "end": 1441
+    },
+    {
+      "text": "Transformación hemorrágica tipo PH1",
+      "type": "PATOLOGIA",
+      "start": 1468,
+      "end": 1503
+    },
+    {
+      "text": "localizada en región parietotemporal derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1504,
+      "end": 1548
+    },
+    {
+      "text": "área de infarto isquémico subagudo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1555,
+      "end": 1589
+    },
+    {
+      "text": "sin efecto masa significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 786,
+      "end": 815
+    },
+    {
+      "text": "No evidencia de hemorragia subaracnoidea",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1621,
+      "end": 1661
+    },
+    {
+      "text": "ni hematomas extraaxiales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 885,
+      "end": 910
+    },
+    {
+      "text": "Perfusión cerebral y estudio vascular sin hallazgos de compromiso hemodinámico mayor",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1689,
+      "end": 1773
+    },
+    {
+      "text": "seguimiento clínico y radiológico",
+      "type": "TEMPORALIDAD",
+      "start": 1788,
+      "end": 1821
+    },
+    {
+      "text": "Hemorragia intracerebral hemorrágica pequeña",
+      "type": "PATOLOGIA",
+      "start": 1916,
+      "end": 1960
+    },
+    {
+      "text": "transformación hemorrágica PH1",
+      "type": "PATOLOGIA",
+      "start": 1977,
+      "end": 2007
+    },
+    {
+      "text": "infarto cerebral isquémico reciente",
+      "type": "PATOLOGIA",
+      "start": 2011,
+      "end": 2046
+    },
+    {
+      "text": "TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANGIOTC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 2074,
+      "end": 2141
+    }
+  ],
+  "regenerado": true,
+  "fecha_regeneracion": "2025-08-06T05:20:10.405403"
+}

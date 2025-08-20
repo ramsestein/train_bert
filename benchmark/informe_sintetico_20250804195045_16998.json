@@ -1,0 +1,107 @@
+{
+  "document_id": "informe_sintetico_20250804195045_16998",
+  "entities": [
+    {
+      "text": "infarto agudo reciente",
+      "type": "PATOLOGIA",
+      "start": 706,
+      "end": 728
+    },
+    {
+      "text": "ASPECTS 7",
+      "type": "PUNTUACION_CLINICA",
+      "start": 730,
+      "end": 739
+    },
+    {
+      "text": "infartos en diferentes territorios vasculares",
+      "type": "PATOLOGIA",
+      "start": 1272,
+      "end": 1317
+    },
+    {
+      "text": "penumbra en región temporal izquierda",
+      "type": "PATOLOGIA",
+      "start": 1347,
+      "end": 1384
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "ARTERIA",
+      "start": 1485,
+      "end": 1517
+    },
+    {
+      "text": "arteria cerebral posterior derecha",
+      "type": "ARTERIA",
+      "start": 1554,
+      "end": 1588
+    },
+    {
+      "text": "ASPECTS 7",
+      "type": "PUNTUACION_CLINICA",
+      "start": 730,
+      "end": 739
+    },
+    {
+      "text": "No se identifican hemorragias intra ni extraaxiales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 538,
+      "end": 589
+    },
+    {
+      "text": "Ausencia de hemorragias asociadas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2136,
+      "end": 2169
+    },
+    {
+      "text": "territorio frontoparietal izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 638,
+      "end": 673
+    },
+    {
+      "text": "núcleo caudado izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1114,
+      "end": 1138
+    },
+    {
+      "text": "lóbulo occipital derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1141,
+      "end": 1165
+    },
+    {
+      "text": "regiones adyacentes",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 2036,
+      "end": 2055
+    },
+    {
+      "text": "TC CRANEAL BASAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 518,
+      "end": 534
+    },
+    {
+      "text": "TC PERFUSIÓN",
+      "type": "TECNICA_IMAGEN",
+      "start": 884,
+      "end": 896
+    },
+    {
+      "text": "ANGIO-TC EXTRA Y INTRACRANEAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 1406,
+      "end": 1435
+    },
+    {
+      "text": "TC CRANEAL CON PERFUSIÓN Y ANGIO-TC COMPLETO PARA EVALUACIÓN DE ICTUS AGUDO",
+      "type": "TECNICA_IMAGEN",
+      "start": 2229,
+      "end": 2304
+    }
+  ]
+}

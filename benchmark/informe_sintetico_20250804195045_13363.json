@@ -1,0 +1,179 @@
+{
+  "document_id": "informe_sintetico_20250804195045_13363",
+  "entities": [
+    {
+      "text": "hemiparesia derecha",
+      "type": "PATOLOGIA",
+      "start": 195,
+      "end": 214
+    },
+    {
+      "text": "afasia",
+      "type": "PATOLOGIA",
+      "start": 217,
+      "end": 223
+    },
+    {
+      "text": "ictus isquémico",
+      "type": "PATOLOGIA",
+      "start": 245,
+      "end": 260
+    },
+    {
+      "text": "izquierdo",
+      "type": "LATERALIDAD",
+      "start": 284,
+      "end": 293
+    },
+    {
+      "text": "No se identifican signos de hemorragia aguda intra ni extraaxial.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 506,
+      "end": 571
+    },
+    {
+      "text": "Área hipodensa leve en circunvoluciones temporoparietales izquierdas",
+      "type": "PATOLOGIA",
+      "start": 574,
+      "end": 642
+    },
+    {
+      "text": "ASPECTS evaluado en 9/10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 699,
+      "end": 723
+    },
+    {
+      "text": "No signos de edema cerebral importante ni desplazamiento de línea media.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 761,
+      "end": 833
+    },
+    {
+      "text": "Incremento significativo del tiempo de tránsito tisular (TTP)",
+      "type": "PATOLOGIA",
+      "start": 1011,
+      "end": 1072
+    },
+    {
+      "text": "tiempo hasta el pico (TTPe)",
+      "type": "PATOLOGIA",
+      "start": 1075,
+      "end": 1102
+    },
+    {
+      "text": "arteria cerebral media (ACM)",
+      "type": "ARTERIA",
+      "start": 1123,
+      "end": 1151
+    },
+    {
+      "text": "segmento distal (M2/M3) izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1152,
+      "end": 1185
+    },
+    {
+      "text": "Disminución moderada del flujo cerebral (CBF)",
+      "type": "PATOLOGIA",
+      "start": 1189,
+      "end": 1234
+    },
+    {
+      "text": "volumen sanguíneo cerebral (CBV)",
+      "type": "PATOLOGIA",
+      "start": 1237,
+      "end": 1269
+    },
+    {
+      "text": "zona de penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1337,
+      "end": 1363
+    },
+    {
+      "text": "Oclusión trombótica del segmento M2 de la ACM izquierda",
+      "type": "PATOLOGIA",
+      "start": 1401,
+      "end": 1456
+    },
+    {
+      "text": "Resto de la circulación intracraneal y extracraneal sin estenosis hemodinámicamente significativas.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1485,
+      "end": 1584
+    },
+    {
+      "text": "Sistema vertebrobasilar íntegro y permeable.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1587,
+      "end": 1631
+    },
+    {
+      "text": "Signos de isquemia cerebral aguda en territorio de la arteria cerebral media distal izquierda (segmentos M2/M3)",
+      "type": "PATOLOGIA",
+      "start": 1659,
+      "end": 1770
+    },
+    {
+      "text": "oclusión confirmada de segmento M2",
+      "type": "PATOLOGIA",
+      "start": 1776,
+      "end": 1810
+    },
+    {
+      "text": "área isquémica limitada con ASPECTS 9/10",
+      "type": "PATOLOGIA",
+      "start": 1812,
+      "end": 1852
+    },
+    {
+      "text": "patrón de perfusión compatible con tejido viable en zona de penumbra",
+      "type": "PATOLOGIA",
+      "start": 1855,
+      "end": 1923
+    },
+    {
+      "text": "Sin hemorragia asociada ni edema cerebral significativo.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1925,
+      "end": 1981
+    },
+    {
+      "text": "Isquemia cerebral aguda en territorio de arteria cerebral media distal izquierda",
+      "type": "PATOLOGIA",
+      "start": 2098,
+      "end": 2178
+    },
+    {
+      "text": "oclusión segmentaria de M2",
+      "type": "PATOLOGIA",
+      "start": 2184,
+      "end": 2210
+    },
+    {
+      "text": "Ausencia de hemorragia intracraneal.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2212,
+      "end": 2248
+    },
+    {
+      "text": "Área isquémica limitada con perfusión compatible con penumbra.",
+      "type": "PATOLOGIA",
+      "start": 2249,
+      "end": 2311
+    },
+    {
+      "text": "M2 izquierda ocluida",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 2428,
+      "end": 2448
+    },
+    {
+      "text": "perfusión alterada compatible con isquemia aguda.",
+      "type": "PATOLOGIA",
+      "start": 2450,
+      "end": 2499
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "document_id": "informe_sintetico_20250804195045_06446",
+  "entities": [
+    {
+      "text": "hematoma subdural agudo",
+      "type": "PATOLOGIA",
+      "start": 636,
+      "end": 659
+    },
+    {
+      "text": "región frontotemporal izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 588,
+      "end": 619
+    },
+    {
+      "text": "12 mm",
+      "type": "MEDIDA",
+      "start": 686,
+      "end": 691
+    },
+    {
+      "text": "6 mm",
+      "type": "MEDIDA",
+      "start": 793,
+      "end": 797
+    },
+    {
+      "text": "agudo",
+      "type": "TEMPORALIDAD",
+      "start": 654,
+      "end": 659
+    },
+    {
+      "text": "hemorragias intraparenquimatosas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 865,
+      "end": 897
+    },
+    {
+      "text": "signos de infarto",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 901,
+      "end": 918
+    },
+    {
+      "text": "sin signos claros de hipoperfusión isquémica",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1105,
+      "end": 1149
+    },
+    {
+      "text": "sin evidencia de oclusiones vasculares ni aneurismas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1182,
+      "end": 1234
+    },
+    {
+      "text": "sin afectación arterial significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2043,
+      "end": 2080
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 329,
+      "end": 345
+    },
+    {
+      "text": "angiografía TC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 390,
+      "end": 426
+    }
+  ]
+}

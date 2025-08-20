@@ -1,0 +1,131 @@
+{
+  "document_id": "informe_sintetico_20250804195045_19523",
+  "entities": [
+    {
+      "text": "hipodensidad",
+      "type": "PATOLOGIA",
+      "start": 549,
+      "end": 561
+    },
+    {
+      "text": "infarto agudo reciente",
+      "type": "PATOLOGIA",
+      "start": 645,
+      "end": 667
+    },
+    {
+      "text": "aumento del tiempo de tránsito medio (MTT)",
+      "type": "PATOLOGIA",
+      "start": 738,
+      "end": 780
+    },
+    {
+      "text": "disminución del flujo cerebral (CBF)",
+      "type": "PATOLOGIA",
+      "start": 783,
+      "end": 819
+    },
+    {
+      "text": "volumen cerebral (CBV) reducido",
+      "type": "PATOLOGIA",
+      "start": 860,
+      "end": 891
+    },
+    {
+      "text": "irregularidad en la pared",
+      "type": "PATOLOGIA",
+      "start": 963,
+      "end": 988
+    },
+    {
+      "text": "estenosis segmentaria",
+      "type": "PATOLOGIA",
+      "start": 991,
+      "end": 1012
+    },
+    {
+      "text": "dilatación sacular",
+      "type": "PATOLOGIA",
+      "start": 1149,
+      "end": 1167
+    },
+    {
+      "text": "pseudoaneurisma",
+      "type": "PATOLOGIA",
+      "start": 1190,
+      "end": 1205
+    },
+    {
+      "text": "arteria cerebral media (ACM)",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 601,
+      "end": 629
+    },
+    {
+      "text": "territorio derecho de la ACM",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 826,
+      "end": 854
+    },
+    {
+      "text": "carótida interna derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1061,
+      "end": 1085
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 587,
+      "end": 594
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 587,
+      "end": 594
+    },
+    {
+      "text": "agudo",
+      "type": "TEMPORALIDAD",
+      "start": 653,
+      "end": 658
+    },
+    {
+      "text": "agudo",
+      "type": "TEMPORALIDAD",
+      "start": 653,
+      "end": 658
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 326,
+      "end": 342
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 358,
+      "end": 379
+    },
+    {
+      "text": "angio-TC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 439,
+      "end": 469
+    },
+    {
+      "text": "No se evidencian otras alteraciones vasculares significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1324,
+      "end": 1385
+    },
+    {
+      "text": "sin desviación de la línea media",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1508,
+      "end": 1540
+    }
+  ]
+}

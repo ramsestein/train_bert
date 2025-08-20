@@ -1,0 +1,33 @@
+UO_PACN (Unidad Organizativa Médica): RADIO
+
+PRUEB (Prueba solicitada): TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANG IOTC ARTERIAL INTRACRANEAL)
+
+CLIN (Resumen clínico): Paciente con episodio reciente de accidente cerebrovascular isquémico en territorio de la arteria cerebral media derecha, con deterioro neurológico progresivo y sospecha de transformación hemorrágica.
+
+OBSR (Protocolo): Protocolo Código Ictus completo que incluye TC craneal basal, estudio de perfusión cerebral y angiografía TC de arterias extra e intracraneales.
+
+RESL (Resultados):
+
+TC CRANEAL BASAL:  
+Se identifica hemorragia parenquimatosa heterogénea en región temporal derecha, con áreas de alta densidad que se extienden y confluyen, compatibles con transformación hemorrágica tipo HI2. Se observan bordes mal definidos, con extensión hacia la sustancia blanca adyacente. No se aprecia efecto de masa significativo ni desplazamiento de la línea media. Diferenciación córtico-subcortical parcialmente alterada en el territorio afectado. No se evidencian colecciones extraaxiales ni hematomas subdurales ni epidurales. Sistema ventricular sin desplazamientos significativos. Cisternas basales libres.
+
+TC PERFUSIÓN CEREBRAL:  
+Se observa disminución de la perfusión (CBF y CBV reducidos) en el territorio de la arteria cerebral media derecha, con prolongación del tiempo de tránsito medio (TTP). Se identifican áreas compatibles con infarto establecido, algunas con perfusión residual. No se evidencia patrón de penumbra significativa salvo en áreas limítrofes.
+
+ANGIO-TC EXTRA E INTRACRANEAL:  
+Troncos supraaórticos permeables sin estenosis relevantes ni placas ateromatosas inestables. Arteria cerebral media derecha con signos de oclusión distal parcial. Flujo conservado en arterias cerebrales anteriores y posteriores. Sistema vertebrobasilar permeable. No se visualizan aneurismas ni malformaciones arterio-venosas.
+
+CONCL (Conclusiones):  
+Transformación hemorrágica tipo HI2 en territorio de arteria cerebral media derecha sobre infarto isquémico reciente. No signos de hemorragia subaracnoidea ni hematomas extraaxiales. Oclusión distal parcial de ACM derecha con perfusión cerebral comprometida en territorio afectado.
+
+ACTI_ADICI (Actividad adicional):  
+Se recomienda control clínico y neurológico urgente. Estudio angiográfico de seguimiento según evolución. Valorar tratamiento según riesgo hemorrágico y estado neurológico.
+
+ICON (Estudio): @RADIO_TC_
+
+X00DIATXT (Texto del diagnóstico ACR):  
+Hemorragia intracerebral en transformación hemorrágica tipo HI2, con infarto asociado en territorio cerebral media derecha.
+
+EST_T_DES (Descripción): TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANGIOTC ARTERIAL INTRACRANEAL)
+
+ZVASOS_D (Der.): Informe elaborado por Dr. [Nombre del radiólogo], especialista en neuroimagen.

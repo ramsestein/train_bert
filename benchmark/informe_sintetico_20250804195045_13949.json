@@ -1,0 +1,155 @@
+{
+  "document_id": "informe_sintetico_20250804195045_13949",
+  "entities": [
+    {
+      "text": "oclusión vascular",
+      "type": "PATOLOGIA",
+      "start": 290,
+      "end": 307
+    },
+    {
+      "text": "isquemia precoz",
+      "type": "PATOLOGIA",
+      "start": 751,
+      "end": 766
+    },
+    {
+      "text": "isquemia",
+      "type": "PATOLOGIA",
+      "start": 751,
+      "end": 759
+    },
+    {
+      "text": "puente cerebral",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 683,
+      "end": 698
+    },
+    {
+      "text": "cerebelo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1103,
+      "end": 1111
+    },
+    {
+      "text": "arteria basilar",
+      "type": "ARTERIA",
+      "start": 1389,
+      "end": 1404
+    },
+    {
+      "text": "arterias cerebrales posteriores",
+      "type": "ARTERIA",
+      "start": 1698,
+      "end": 1729
+    },
+    {
+      "text": "arterias cerebrales medias",
+      "type": "ARTERIA",
+      "start": 1776,
+      "end": 1802
+    },
+    {
+      "text": "bilaterales",
+      "type": "LATERALIDAD",
+      "start": 1536,
+      "end": 1547
+    },
+    {
+      "text": "signos de edema significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 775,
+      "end": 804
+    },
+    {
+      "text": "No se identifican hemorragias ni edema cerebral graves por el momento",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2122,
+      "end": 2191
+    },
+    {
+      "text": "No se identifica hemorragia intracraneal aguda ni masas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 557,
+      "end": 612
+    },
+    {
+      "text": "prolongación significativa del tiempo de tránsito medio (MTT)",
+      "type": "MEDIDA",
+      "start": 960,
+      "end": 1021
+    },
+    {
+      "text": "tiempo hasta el pico (TTP)",
+      "type": "MEDIDA",
+      "start": 1024,
+      "end": 1050
+    },
+    {
+      "text": "reducción del volumen sanguíneo cerebral (CBV)",
+      "type": "MEDIDA",
+      "start": 1117,
+      "end": 1163
+    },
+    {
+      "text": "flujo sanguíneo cerebral (CBF)",
+      "type": "MEDIDA",
+      "start": 1166,
+      "end": 1196
+    },
+    {
+      "text": "área de penumbra isquémica",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1213,
+      "end": 1239
+    },
+    {
+      "text": "hipoperfusión crítica",
+      "type": "PATOLOGIA",
+      "start": 1306,
+      "end": 1327
+    },
+    {
+      "text": "signos de disección arterial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1855,
+      "end": 1883
+    },
+    {
+      "text": "aguda",
+      "type": "TEMPORALIDAD",
+      "start": 598,
+      "end": 603
+    },
+    {
+      "text": "por el momento",
+      "type": "TEMPORALIDAD",
+      "start": 2177,
+      "end": 2191
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 402,
+      "end": 418
+    },
+    {
+      "text": "perfusión cerebral dinámica",
+      "type": "TECNICA_IMAGEN",
+      "start": 434,
+      "end": 461
+    },
+    {
+      "text": "angiografía TC de arterias extra e intracraneales",
+      "type": "TECNICA_IMAGEN",
+      "start": 464,
+      "end": 513
+    },
+    {
+      "text": "angio-TC",
+      "type": "TECNICA_IMAGEN",
+      "start": 1966,
+      "end": 1974
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "document_id": "informe_sintetico_20250804195045_14211",
+  "entities": [
+    {
+      "text": "infarto lacunar agudo",
+      "type": "PATOLOGIA",
+      "start": 566,
+      "end": 587
+    },
+    {
+      "text": "región capsuloputamen izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 518,
+      "end": 549
+    },
+    {
+      "text": "ASPECTS 9",
+      "type": "PUNTUACION_CLINICA",
+      "start": 733,
+      "end": 742
+    },
+    {
+      "text": "No se visualizan hemorragias intra ni extraaxiales.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 402,
+      "end": 453
+    },
+    {
+      "text": "No hay efecto de masa ni desplazamiento de la línea media.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 589,
+      "end": 647
+    },
+    {
+      "text": "No se evidencian estenosis ni oclusiones significativas en las grandes arterias intracraneales ni extracraneales.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 860,
+      "end": 973
+    },
+    {
+      "text": "ACAs, ACMs y ACPs",
+      "type": "ARTERIA",
+      "start": 1039,
+      "end": 1056
+    },
+    {
+      "text": "Leve aumento del tiempo de tránsito medio (TTM) focal",
+      "type": "PATOLOGIA",
+      "start": 1173,
+      "end": 1226
+    },
+    {
+      "text": "sin compromiso volumétrico",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1306,
+      "end": 1332
+    },
+    {
+      "text": "infarto lacunar agudo",
+      "type": "PATOLOGIA",
+      "start": 566,
+      "end": 587
+    },
+    {
+      "text": "región capsuloputamen izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 518,
+      "end": 549
+    },
+    {
+      "text": "sin evidencia de compromiso vascular mayor ni hemorragia intracraneal.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1454,
+      "end": 1524
+    },
+    {
+      "text": "Angio-TC sin alteraciones significativas.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1525,
+      "end": 1566
+    }
+  ]
+}

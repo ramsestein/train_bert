@@ -1,0 +1,95 @@
+{
+  "document_id": "informe_sintetico_20250804195045_04215",
+  "entities": [
+    {
+      "text": "infarto lacunar agudo",
+      "type": "PATOLOGIA",
+      "start": 557,
+      "end": 578
+    },
+    {
+      "text": "región interna",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 499,
+      "end": 513
+    },
+    {
+      "text": "cápsula interna derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 516,
+      "end": 539
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 532,
+      "end": 539
+    },
+    {
+      "text": "8 mm",
+      "type": "MEDIDA",
+      "start": 491,
+      "end": 495
+    },
+    {
+      "text": "agudo",
+      "type": "TEMPORALIDAD",
+      "start": 573,
+      "end": 578
+    },
+    {
+      "text": "sin evidencia de área de penumbra significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 965,
+      "end": 1012
+    },
+    {
+      "text": "sin estenosis relevante ni placas ateromatosas significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1213,
+      "end": 1274
+    },
+    {
+      "text": "sin evidencia de estenosis ni oclusiones",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1323,
+      "end": 1363
+    },
+    {
+      "text": "sin complicaciones hemorrágicas asociadas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1554,
+      "end": 1595
+    },
+    {
+      "text": "sin evidencias de estenosis que condicionen compromiso hemodinámico",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1719,
+      "end": 1786
+    },
+    {
+      "text": "Arterias cerebrales intracraneales",
+      "type": "ARTERIA",
+      "start": 1276,
+      "end": 1310
+    },
+    {
+      "text": "Arcos aórticos y troncos supraórticos",
+      "type": "ARTERIA",
+      "start": 1147,
+      "end": 1184
+    },
+    {
+      "text": "TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANGIOTC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 1914,
+      "end": 1981
+    },
+    {
+      "text": "TC CÓDIGO ICTUS (BASAL + PERFUSIÓN CEREBRAL + ANGIOTC TSA E INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 264,
+      "end": 337
+    }
+  ]
+}

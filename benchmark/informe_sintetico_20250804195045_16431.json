@@ -1,0 +1,107 @@
+{
+  "document_id": "informe_sintetico_20250804195045_16431",
+  "entities": [
+    {
+      "text": "infarto lacunar",
+      "type": "PATOLOGIA",
+      "start": 237,
+      "end": 252
+    },
+    {
+      "text": "cápsula interna derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 602,
+      "end": 625
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 444,
+      "end": 467
+    },
+    {
+      "text": "isquemia",
+      "type": "PATOLOGIA",
+      "start": 1636,
+      "end": 1644
+    },
+    {
+      "text": "cápsula interna derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 602,
+      "end": 625
+    },
+    {
+      "text": "Arteria cerebral media",
+      "type": "ARTERIA",
+      "start": 1268,
+      "end": 1290
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 618,
+      "end": 625
+    },
+    {
+      "text": "agudo",
+      "type": "TEMPORALIDAD",
+      "start": 490,
+      "end": 495
+    },
+    {
+      "text": "sin evidencia de hemorragia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1509,
+      "end": 1536
+    },
+    {
+      "text": "sin signos de estenosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1334,
+      "end": 1357
+    },
+    {
+      "text": "sin lesiones ateromatosas significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1122,
+      "end": 1162
+    },
+    {
+      "text": "sin estenosis ni oclusiones",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1239,
+      "end": 1266
+    },
+    {
+      "text": "sin signos de estenosis u oclusión arterial relevante",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1683,
+      "end": 1736
+    },
+    {
+      "text": "discreto aumento en el tiempo de tránsito medio (MTT)",
+      "type": "MEDIDA",
+      "start": 825,
+      "end": 878
+    },
+    {
+      "text": "tiempo hasta el pico (TTP)",
+      "type": "MEDIDA",
+      "start": 881,
+      "end": 907
+    },
+    {
+      "text": "sin alteración del volumen cerebral (CBV)",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 952,
+      "end": 993
+    },
+    {
+      "text": "ni del flujo sanguíneo cerebral (CBF)",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 994,
+      "end": 1031
+    }
+  ]
+}

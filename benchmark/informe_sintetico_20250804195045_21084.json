@@ -1,0 +1,131 @@
+{
+  "document_id": "informe_sintetico_20250804195045_21084",
+  "entities": [
+    {
+      "text": "edema cerebral vasogénico",
+      "type": "PATOLOGIA",
+      "start": 611,
+      "end": 636
+    },
+    {
+      "text": "infarto establecido",
+      "type": "PATOLOGIA",
+      "start": 673,
+      "end": 692
+    },
+    {
+      "text": "hemorragias intra o extraaxiales",
+      "type": "PATOLOGIA",
+      "start": 696,
+      "end": 728
+    },
+    {
+      "text": "hipoperfusión global",
+      "type": "PATOLOGIA",
+      "start": 1180,
+      "end": 1200
+    },
+    {
+      "text": "infarto tisular irreversible",
+      "type": "PATOLOGIA",
+      "start": 1251,
+      "end": 1279
+    },
+    {
+      "text": "Arterias carotídeas internas",
+      "type": "ARTERIA",
+      "start": 1313,
+      "end": 1341
+    },
+    {
+      "text": "cerebrales anteriores",
+      "type": "ARTERIA",
+      "start": 1343,
+      "end": 1364
+    },
+    {
+      "text": "medias",
+      "type": "ARTERIA",
+      "start": 1366,
+      "end": 1372
+    },
+    {
+      "text": "posteriores",
+      "type": "ARTERIA",
+      "start": 1375,
+      "end": 1386
+    },
+    {
+      "text": "sistema vertebrobasilar",
+      "type": "ARTERIA",
+      "start": 1397,
+      "end": 1420
+    },
+    {
+      "text": "sin evidencia de infarto establecido ni hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1738,
+      "end": 1801
+    },
+    {
+      "text": "sin signos de oclusión vascular",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1838,
+      "end": 1869
+    },
+    {
+      "text": "diferenciación cortico-subcortical",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 460,
+      "end": 494
+    },
+    {
+      "text": "regiones frontales y parietales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 564,
+      "end": 595
+    },
+    {
+      "text": "lóbulos frontales y parietales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1024,
+      "end": 1054
+    },
+    {
+      "text": "morfología y tamaño conservados",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 753,
+      "end": 784
+    },
+    {
+      "text": "línea media",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 849,
+      "end": 860
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 299,
+      "end": 315
+    },
+    {
+      "text": "secuencias de perfusión y AngioTC intra y extracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 320,
+      "end": 374
+    },
+    {
+      "text": "TC PERFUSIÓN",
+      "type": "TECNICA_IMAGEN",
+      "start": 879,
+      "end": 891
+    },
+    {
+      "text": "ANGIO-TC EXTRA E INTRACRANEAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 1282,
+      "end": 1311
+    }
+  ]
+}

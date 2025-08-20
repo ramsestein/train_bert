@@ -1,0 +1,24 @@
+UO_PACN (Unidad Organizativa Médica): RADIO
+
+PRUEB (Prueba solicitada): TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANG IOTC ARTERIAL INTRACRANEAL)
+
+CLIN (Resumen clínico): Varón de 47 años con inicio súbito de hemiparesia derecha y afasia motora, evolución en las últimas 4 horas. Sospecha de ictus isquémico de posible origen arterial.
+
+OBSR (Protocolo): TC craneal basal sin contraste, TC perfusión cerebral y Angio-TC arterial intracraneal con reconstrucción 3D urgente para valoración vascular.
+
+RESL (Resultados): 
+- TC craneal basal: Se evidencia leve hipodensidad en la región frontoparietal izquierda, con pérdida de la diferenciación cortico-subcortical y leve edema, compatible con área de infarto en territorio de la arteria cerebral media (ACM) izquierda.
+- TC perfusión: Se observa aumento del tiempo de tránsito medio (MTT) y tiempo de llegada de contraste (TTP), con disminución del flujo cerebral (CBF) y volumen cerebral (CBV) en territorio superficial izquierdo, consistente con área de penumbra isquémica. Áreas centrales con reducción marcada de CBV indican zona de infarto establecido.
+- Angio-TC arterial intracraneal: Se identifica irregularidad y doble luz en el segmento cervical proximal de la arteria carótida interna izquierda, con signo de "doble lumen" y estrechamiento luminal compatible con disección arterial. Se observa estenosis significativa que genera reducción del flujo distal. No se identifican otras estenosis ni oclusiones en el resto del árbol arterial intracraneal. El resto de las arterias cerebrales muestran permeabilidad conservada.
+
+CONCL (Conclusiones): Infarto isquémico en territorio superficial izquierdo de ACM con áreas compatibles con zona de penumbra y núcleo isquémico. Disección de la arteria carótida interna izquierda en segmento cervical proximal, con estenosis significativa que condiciona compromiso hemodinámico distal. No se evidencian otras estenosis ni oclusiones arteriales intracraneales. Informe urgente para valoración terapéutica.
+
+ACTI_ADICI (Actividad adicional): Seguimiento clínico y neurológico urgente. Considerar estudio Doppler carotídeo y tratamiento anticoagulante/antitrombótico según protocolo.
+
+ICON (Estudio): @RADIO@TC_Stroke_Code@
+
+X00DIATXT (Texto del diagnóstico ACR): Disección de arteria carótida interna izquierda con infarto cerebral en territorio superficial de ACM ipsilateral
+
+EST_T_DES (Descripción): TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANGIOTC ARTERIAL INTRACRANEAL)
+
+ZVASOS_D (Der.): Disección en segmento cervical proximal de arteria carótida interna izquierda con estenosis luminal y signo de doble lumen. Infarto isquémico en territorio superficial de ACM izquierda.

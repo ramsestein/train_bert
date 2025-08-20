@@ -1,0 +1,227 @@
+{
+  "document_id": "informe_sintetico_20250804195045_08864",
+  "entities": [
+    {
+      "text": "ictus isquémico",
+      "type": "PATOLOGIA",
+      "start": 209,
+      "end": 224
+    },
+    {
+      "text": "afectación multiterritorial",
+      "type": "PATOLOGIA",
+      "start": 249,
+      "end": 276
+    },
+    {
+      "text": "hemorragia intra ni extraaxial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 571,
+      "end": 601
+    },
+    {
+      "text": "múltiples áreas hipodensas tempranas",
+      "type": "PATOLOGIA",
+      "start": 615,
+      "end": 651
+    },
+    {
+      "text": "región frontal derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 725,
+      "end": 747
+    },
+    {
+      "text": "territorio ACA",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 749,
+      "end": 763
+    },
+    {
+      "text": "región parietal izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 778,
+      "end": 803
+    },
+    {
+      "text": "temporal derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 806,
+      "end": 822
+    },
+    {
+      "text": "territorios parietal y temporal de ACM",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 824,
+      "end": 862
+    },
+    {
+      "text": "Pérdida parcial de diferenciación córtico-subcortical",
+      "type": "PATOLOGIA",
+      "start": 865,
+      "end": 918
+    },
+    {
+      "text": "ligero edema local",
+      "type": "PATOLOGIA",
+      "start": 921,
+      "end": 939
+    },
+    {
+      "text": "ASPECTS global reducido a 6",
+      "type": "PUNTUACION_CLINICA",
+      "start": 941,
+      "end": 968
+    },
+    {
+      "text": "Sistema ventricular dentro de límites normales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1004,
+      "end": 1050
+    },
+    {
+      "text": "sin desplazamientos de línea media ni signos de herniación",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1052,
+      "end": 1110
+    },
+    {
+      "text": "aumento del Tiempo de Tránsito Promedio (TTP)",
+      "type": "PATOLOGIA",
+      "start": 1183,
+      "end": 1228
+    },
+    {
+      "text": "disminución del Flujo Cerebral (CBF)",
+      "type": "PATOLOGIA",
+      "start": 1231,
+      "end": 1267
+    },
+    {
+      "text": "regiones frontales bilaterales y parietales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1271,
+      "end": 1314
+    },
+    {
+      "text": "preservación parcial del Volumen Cerebral de Sangre (CBV)",
+      "type": "PATOLOGIA",
+      "start": 1320,
+      "end": 1377
+    },
+    {
+      "text": "penumbra isquémica dispersa en múltiples territorios",
+      "type": "PATOLOGIA",
+      "start": 1392,
+      "end": 1444
+    },
+    {
+      "text": "No se identifican áreas de infarto establecidas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1446,
+      "end": 1493
+    },
+    {
+      "text": "caída marcada de CBV",
+      "type": "PATOLOGIA",
+      "start": 1498,
+      "end": 1518
+    },
+    {
+      "text": "oclusión segmentaria en la arteria cerebral media derecha",
+      "type": "PATOLOGIA",
+      "start": 1567,
+      "end": 1624
+    },
+    {
+      "text": "nivel M2 superior",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1626,
+      "end": 1643
+    },
+    {
+      "text": "arteria cerebral anterior distal izquierda",
+      "type": "ARTERIA",
+      "start": 1653,
+      "end": 1695
+    },
+    {
+      "text": "segmento A3",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1697,
+      "end": 1708
+    },
+    {
+      "text": "estenosis severa en el segmento proximal de la arteria carotídea interna derecha",
+      "type": "PATOLOGIA",
+      "start": 1726,
+      "end": 1806
+    },
+    {
+      "text": "sin oclusión completa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1807,
+      "end": 1828
+    },
+    {
+      "text": "sistema vertebrobasilar se encuentra permeable",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1833,
+      "end": 1879
+    },
+    {
+      "text": "No se observan aneurismas ni malformaciones arterio-venosas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1881,
+      "end": 1940
+    },
+    {
+      "text": "isquemia aguda multiterritorial",
+      "type": "PATOLOGIA",
+      "start": 1994,
+      "end": 2025
+    },
+    {
+      "text": "afectación en territorios ACA y ACM bilateral",
+      "type": "PATOLOGIA",
+      "start": 2030,
+      "end": 2075
+    },
+    {
+      "text": "áreas de penumbra isquémica en perfusión cerebral en múltiples regiones cerebrales",
+      "type": "PATOLOGIA",
+      "start": 2094,
+      "end": 2176
+    },
+    {
+      "text": "ASPECTS disminuido",
+      "type": "PUNTUACION_CLINICA",
+      "start": 2182,
+      "end": 2200
+    },
+    {
+      "text": "ACA distal izquierda",
+      "type": "ARTERIA",
+      "start": 2262,
+      "end": 2282
+    },
+    {
+      "text": "estenosis carotídea interna derecha",
+      "type": "ARTERIA",
+      "start": 2294,
+      "end": 2329
+    },
+    {
+      "text": "origen embolígeno no descartado",
+      "type": "PATOLOGIA",
+      "start": 2362,
+      "end": 2393
+    },
+    {
+      "text": "probable cardioembólico o aterotrombótico multifocal",
+      "type": "PATOLOGIA",
+      "start": 2395,
+      "end": 2447
+    }
+  ]
+}

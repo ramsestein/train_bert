@@ -1,0 +1,95 @@
+{
+  "document_id": "informe_sintetico_20250804195045_05318",
+  "entities": [
+    {
+      "text": "infarto cerebral",
+      "type": "PATOLOGIA",
+      "start": 252,
+      "end": 268
+    },
+    {
+      "text": "infarto \"watershed\"",
+      "type": "PATOLOGIA",
+      "start": 828,
+      "end": 847
+    },
+    {
+      "text": "infarto watershed bilateral",
+      "type": "PATOLOGIA",
+      "start": 1914,
+      "end": 1941
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 575,
+      "end": 598
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 575,
+      "end": 598
+    },
+    {
+      "text": "arterias cerebrales anterior",
+      "type": "ARTERIA",
+      "start": 760,
+      "end": 788
+    },
+    {
+      "text": "arterias cerebral media y posterior",
+      "type": "ARTERIA",
+      "start": 1220,
+      "end": 1255
+    },
+    {
+      "text": "bilateralmente",
+      "type": "LATERALIDAD",
+      "start": 797,
+      "end": 811
+    },
+    {
+      "text": "moderada",
+      "type": "MEDIDA",
+      "start": 1293,
+      "end": 1301
+    },
+    {
+      "text": "prolongación del tiempo de tránsito medio (TTP)",
+      "type": "MEDIDA",
+      "start": 1021,
+      "end": 1068
+    },
+    {
+      "text": "disminución del flujo",
+      "type": "MEDIDA",
+      "start": 2093,
+      "end": 2114
+    },
+    {
+      "text": "conservado",
+      "type": "MEDIDA",
+      "start": 2164,
+      "end": 2174
+    },
+    {
+      "text": "TC",
+      "type": "TECNICA_IMAGEN",
+      "start": 72,
+      "end": 74
+    },
+    {
+      "text": "Angio-TC",
+      "type": "TECNICA_IMAGEN",
+      "start": 425,
+      "end": 433
+    },
+    {
+      "text": "TC PERFUSIÓN",
+      "type": "TECNICA_IMAGEN",
+      "start": 977,
+      "end": 989
+    }
+  ]
+}

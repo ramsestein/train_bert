@@ -1,0 +1,77 @@
+{
+  "document_id": "informe_sintetico_20250804195045_20009",
+  "entities": [
+    {
+      "text": "infarto cerebral agudo",
+      "type": "PATOLOGIA",
+      "start": 179,
+      "end": 201
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 222,
+      "end": 252
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "ARTERIA",
+      "start": 222,
+      "end": 252
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 245,
+      "end": 252
+    },
+    {
+      "text": "más del 30%",
+      "type": "MEDIDA",
+      "start": 751,
+      "end": 762
+    },
+    {
+      "text": "agudo",
+      "type": "TEMPORALIDAD",
+      "start": 196,
+      "end": 201
+    },
+    {
+      "text": "ASPECTS 4",
+      "type": "PUNTUACION_CLINICA",
+      "start": 1189,
+      "end": 1198
+    },
+    {
+      "text": "TC craneal basal urgente",
+      "type": "TECNICA_IMAGEN",
+      "start": 321,
+      "end": 345
+    },
+    {
+      "text": "No se observan hemorragias extraaxiales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1068,
+      "end": 1107
+    },
+    {
+      "text": "Oclusión completa del segmento proximal de la arteria cerebral media derecha",
+      "type": "PATOLOGIA",
+      "start": 1534,
+      "end": 1610
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "ARTERIA",
+      "start": 222,
+      "end": 252
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 245,
+      "end": 252
+    }
+  ]
+}

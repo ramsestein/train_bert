@@ -1,0 +1,53 @@
+{
+  "document_id": "informe_sintetico_20250804195045_16310",
+  "entities": [
+    {
+      "text": "infarto isquémico agudo",
+      "type": "PATOLOGIA",
+      "start": 665,
+      "end": 688
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 559,
+      "end": 589
+    },
+    {
+      "text": "arteria cerebral media",
+      "type": "ARTERIA",
+      "start": 559,
+      "end": 581
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 582,
+      "end": 589
+    },
+    {
+      "text": "PC-ASPECTS 8",
+      "type": "PUNTUACION_CLINICA",
+      "start": 968,
+      "end": 980
+    },
+    {
+      "text": "Oclusión parcial distal",
+      "type": "PATOLOGIA",
+      "start": 1389,
+      "end": 1412
+    },
+    {
+      "text": "segmento M2 derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1419,
+      "end": 1438
+    },
+    {
+      "text": "No se evidencian complicaciones hemorrágicas mayores",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1895,
+      "end": 1947
+    }
+  ]
+}

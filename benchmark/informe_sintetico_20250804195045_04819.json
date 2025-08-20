@@ -1,0 +1,95 @@
+{
+  "document_id": "informe_sintetico_20250804195045_04819",
+  "entities": [
+    {
+      "text": "ictus isquémico",
+      "type": "PATOLOGIA",
+      "start": 236,
+      "end": 251
+    },
+    {
+      "text": "infarto isquémico subagudo",
+      "type": "PATOLOGIA",
+      "start": 545,
+      "end": 571
+    },
+    {
+      "text": "hematoma intraparenquimatoso",
+      "type": "PATOLOGIA",
+      "start": 666,
+      "end": 694
+    },
+    {
+      "text": "más del 30%",
+      "type": "MEDIDA",
+      "start": 717,
+      "end": 728
+    },
+    {
+      "text": "4 mm",
+      "type": "MEDIDA",
+      "start": 914,
+      "end": 918
+    },
+    {
+      "text": "isquemia irreversiblemente establecida",
+      "type": "PATOLOGIA",
+      "start": 1155,
+      "end": 1193
+    },
+    {
+      "text": "Oclusión persistente de la arteria cerebral media izquierda",
+      "type": "PATOLOGIA",
+      "start": 1307,
+      "end": 1366
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "ARTERIA",
+      "start": 497,
+      "end": 529
+    },
+    {
+      "text": "segmento M1 proximal",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1373,
+      "end": 1393
+    },
+    {
+      "text": "ACM izquierda",
+      "type": "ARTERIA",
+      "start": 1626,
+      "end": 1639
+    },
+    {
+      "text": "Transformación hemorrágica PH2",
+      "type": "PATOLOGIA",
+      "start": 1570,
+      "end": 1600
+    },
+    {
+      "text": "infarto de arteria cerebral media izquierda",
+      "type": "PATOLOGIA",
+      "start": 2107,
+      "end": 2150
+    },
+    {
+      "text": "TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANGIOTC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 2178,
+      "end": 2245
+    },
+    {
+      "text": "No se identifican hemorragias subaracnoideas ni extraaxiales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 829,
+      "end": 889
+    },
+    {
+      "text": "No se identifican áreas de penumbra ni mismatch favorable para reperfusión",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1195,
+      "end": 1269
+    }
+  ]
+}

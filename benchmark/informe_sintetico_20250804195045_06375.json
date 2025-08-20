@@ -1,0 +1,89 @@
+{
+  "document_id": "informe_sintetico_20250804195045_06375",
+  "entities": [
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 281,
+      "end": 295
+    },
+    {
+      "text": "territorio vertebrobasilar",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 299,
+      "end": 325
+    },
+    {
+      "text": "arteria vertebral derecha",
+      "type": "ARTERIA",
+      "start": 1090,
+      "end": 1115
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 1108,
+      "end": 1115
+    },
+    {
+      "text": "3 horas",
+      "type": "TEMPORALIDAD",
+      "start": 252,
+      "end": 259
+    },
+    {
+      "text": "reducción significativa del volumen sanguíneo (CBV)",
+      "type": "MEDIDA",
+      "start": 767,
+      "end": 818
+    },
+    {
+      "text": "flujo sanguíneo cerebral (CBF)",
+      "type": "MEDIDA",
+      "start": 825,
+      "end": 855
+    },
+    {
+      "text": "Oclusión completa",
+      "type": "PATOLOGIA",
+      "start": 1066,
+      "end": 1083
+    },
+    {
+      "text": "arteria vertebral derecha",
+      "type": "ARTERIA",
+      "start": 1090,
+      "end": 1115
+    },
+    {
+      "text": "basilar",
+      "type": "ARTERIA",
+      "start": 318,
+      "end": 325
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 1294,
+      "end": 1303
+    },
+    {
+      "text": "No se identifican signos de hipodensidad aguda ni hemorragias intracraneales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 537,
+      "end": 613
+    },
+    {
+      "text": "No estenosis significativas en los vasos intracraneales restantes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1327,
+      "end": 1392
+    },
+    {
+      "text": "No se visualizan hemorragias ni lesiones crónicas agudas en el estudio basal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1605,
+      "end": 1681
+    }
+  ]
+}

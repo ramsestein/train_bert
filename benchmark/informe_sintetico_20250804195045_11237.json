@@ -1,0 +1,83 @@
+{
+  "document_id": "informe_sintetico_20250804195045_11237",
+  "entities": [
+    {
+      "text": "infarto lacunar agudo",
+      "type": "PATOLOGIA",
+      "start": 556,
+      "end": 577
+    },
+    {
+      "text": "cápsula interna izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 514,
+      "end": 539
+    },
+    {
+      "text": "8 mm",
+      "type": "MEDIDA",
+      "start": 468,
+      "end": 472
+    },
+    {
+      "text": "agudo",
+      "type": "TEMPORALIDAD",
+      "start": 236,
+      "end": 241
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 1032,
+      "end": 1046
+    },
+    {
+      "text": "cápsula interna izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 514,
+      "end": 539
+    },
+    {
+      "text": "arterias intracraneales",
+      "type": "ARTERIA",
+      "start": 1083,
+      "end": 1106
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 530,
+      "end": 539
+    },
+    {
+      "text": "ASPECTS 9",
+      "type": "PUNTUACION_CLINICA",
+      "start": 1557,
+      "end": 1566
+    },
+    {
+      "text": "No se observan signos de hemorragia intra ni extraaxial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 579,
+      "end": 634
+    },
+    {
+      "text": "No signos de edema cerebral significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 735,
+      "end": 776
+    },
+    {
+      "text": "sin estenosis significativa ni oclusiones evidentes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1158,
+      "end": 1209
+    },
+    {
+      "text": "sin evidencia de hemorragia intracraneal o estenosis arterial significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1913,
+      "end": 1988
+    }
+  ]
+}

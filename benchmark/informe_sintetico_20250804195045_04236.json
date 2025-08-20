@@ -1,0 +1,89 @@
+{
+  "document_id": "informe_sintetico_20250804195045_04236",
+  "entities": [
+    {
+      "text": "accidente cerebrovascular isquémico reciente",
+      "type": "PATOLOGIA",
+      "start": 189,
+      "end": 233
+    },
+    {
+      "text": "transformación hemorrágica",
+      "type": "PATOLOGIA",
+      "start": 276,
+      "end": 302
+    },
+    {
+      "text": "hiperdensidad focal, puntiforme, en región subcortical parietal derecha",
+      "type": "PATOLOGIA",
+      "start": 485,
+      "end": 556
+    },
+    {
+      "text": "microhemorragia de transformación hemorrágica tipo HI1",
+      "type": "PATOLOGIA",
+      "start": 572,
+      "end": 626
+    },
+    {
+      "text": "hematomas mayores",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 646,
+      "end": 663
+    },
+    {
+      "text": "masas ocupantes de espacio",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 667,
+      "end": 693
+    },
+    {
+      "text": "infarto isquémico subagudo",
+      "type": "PATOLOGIA",
+      "start": 771,
+      "end": 797
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "ARTERIA",
+      "start": 725,
+      "end": 755
+    },
+    {
+      "text": "ACM derecha",
+      "type": "ARTERIA",
+      "start": 1012,
+      "end": 1023
+    },
+    {
+      "text": "penumbra isquémica residual",
+      "type": "PATOLOGIA",
+      "start": 1129,
+      "end": 1156
+    },
+    {
+      "text": "oclusión parcial del segmento M1 de la ACM derecha",
+      "type": "PATOLOGIA",
+      "start": 1200,
+      "end": 1250
+    },
+    {
+      "text": "TC CRANEAL BASAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 451,
+      "end": 467
+    },
+    {
+      "text": "TC PERFUSIÓN",
+      "type": "TECNICA_IMAGEN",
+      "start": 913,
+      "end": 925
+    },
+    {
+      "text": "ANGIO-TC EXTRA E INTRACRANEAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 1158,
+      "end": 1187
+    }
+  ]
+}

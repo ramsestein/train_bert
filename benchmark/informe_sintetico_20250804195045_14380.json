@@ -1,0 +1,125 @@
+{
+  "document_id": "informe_sintetico_20250804195045_14380",
+  "entities": [
+    {
+      "text": "accidente cerebrovascular isquémico agudo",
+      "type": "PATOLOGIA",
+      "start": 277,
+      "end": 318
+    },
+    {
+      "text": "área hipodensa extensa",
+      "type": "PATOLOGIA",
+      "start": 544,
+      "end": 566
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 599,
+      "end": 631
+    },
+    {
+      "text": "núcleo lenticular",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 694,
+      "end": 711
+    },
+    {
+      "text": "corona radiada",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 714,
+      "end": 728
+    },
+    {
+      "text": "ASPECTS 5",
+      "type": "PUNTUACION_CLINICA",
+      "start": 730,
+      "end": 739
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 761,
+      "end": 784
+    },
+    {
+      "text": "desviación de la línea media hacia la derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 815,
+      "end": 860
+    },
+    {
+      "text": "4 mm",
+      "type": "MEDIDA",
+      "start": 880,
+      "end": 884
+    },
+    {
+      "text": "territorio de la ACM izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1099,
+      "end": 1129
+    },
+    {
+      "text": "tiempo de tránsito medio",
+      "type": "TEMPORALIDAD",
+      "start": 1147,
+      "end": 1171
+    },
+    {
+      "text": "tiempo hasta el pico",
+      "type": "TEMPORALIDAD",
+      "start": 1184,
+      "end": 1204
+    },
+    {
+      "text": "área infartada establecida",
+      "type": "PATOLOGIA",
+      "start": 1227,
+      "end": 1253
+    },
+    {
+      "text": "extensa penumbra isquémica periférica",
+      "type": "PATOLOGIA",
+      "start": 1256,
+      "end": 1293
+    },
+    {
+      "text": "oclusión completa de la arteria carótida interna izquierda",
+      "type": "PATOLOGIA",
+      "start": 1349,
+      "end": 1407
+    },
+    {
+      "text": "porción cervical",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1422,
+      "end": 1438
+    },
+    {
+      "text": "circulación colateral insuficiente",
+      "type": "PATOLOGIA",
+      "start": 1521,
+      "end": 1555
+    },
+    {
+      "text": "Arterias intracraneales derechas",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1557,
+      "end": 1589
+    },
+    {
+      "text": "sin estenosis significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1602,
+      "end": 1630
+    },
+    {
+      "text": "sin hemorragia secundaria",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1929,
+      "end": 1954
+    }
+  ]
+}

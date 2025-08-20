@@ -1,0 +1,77 @@
+{
+  "document_id": "informe_sintetico_20250804195045_14205",
+  "entities": [
+    {
+      "text": "isquemia aguda multifocal",
+      "type": "PATOLOGIA",
+      "start": 651,
+      "end": 676
+    },
+    {
+      "text": "isquemia en evolución",
+      "type": "PATOLOGIA",
+      "start": 1300,
+      "end": 1321
+    },
+    {
+      "text": "oclusiones trombóticas bilaterales",
+      "type": "PATOLOGIA",
+      "start": 1884,
+      "end": 1918
+    },
+    {
+      "text": "arterias cerebrales medias",
+      "type": "ARTERIA",
+      "start": 1070,
+      "end": 1096
+    },
+    {
+      "text": "arteria cerebral anterior derecha",
+      "type": "ARTERIA",
+      "start": 1484,
+      "end": 1517
+    },
+    {
+      "text": "bilaterales",
+      "type": "LATERALIDAD",
+      "start": 581,
+      "end": 592
+    },
+    {
+      "text": "ASPECTS global disminuido a 6",
+      "type": "PUNTUACION_CLINICA",
+      "start": 761,
+      "end": 790
+    },
+    {
+      "text": "TC craneal basal urgente",
+      "type": "TECNICA_IMAGEN",
+      "start": 291,
+      "end": 315
+    },
+    {
+      "text": "No se detectan hemorragias intra ni extraaxiales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 435,
+      "end": 483
+    },
+    {
+      "text": "No hay masas ni desviación de línea media",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 792,
+      "end": 833
+    },
+    {
+      "text": "sin signos de hidrocefalia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 867,
+      "end": 893
+    },
+    {
+      "text": "sin lesiones significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1725,
+      "end": 1752
+    }
+  ]
+}

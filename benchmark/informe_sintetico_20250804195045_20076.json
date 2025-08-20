@@ -1,0 +1,119 @@
+{
+  "document_id": "informe_sintetico_20250804195045_20076",
+  "entities": [
+    {
+      "text": "ictus isquémico",
+      "type": "PATOLOGIA",
+      "start": 255,
+      "end": 270
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "ARTERIA",
+      "start": 291,
+      "end": 321
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 314,
+      "end": 321
+    },
+    {
+      "text": "ASPECTS 9",
+      "type": "PUNTUACION_CLINICA",
+      "start": 1822,
+      "end": 1831
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 1607,
+      "end": 1621
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "ARTERIA",
+      "start": 291,
+      "end": 321
+    },
+    {
+      "text": "segmentos M2-M3",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1678,
+      "end": 1693
+    },
+    {
+      "text": "oclusión focal",
+      "type": "PATOLOGIA",
+      "start": 1699,
+      "end": 1713
+    },
+    {
+      "text": "segmento M2 derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1340,
+      "end": 1359
+    },
+    {
+      "text": "segmentos proximales de ACM, ACA y ACP",
+      "type": "ARTERIA",
+      "start": 1466,
+      "end": 1504
+    },
+    {
+      "text": "sin infarto establecido",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1263,
+      "end": 1286
+    },
+    {
+      "text": "sin hipodensidades netas definidas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 742,
+      "end": 776
+    },
+    {
+      "text": "TTP",
+      "type": "MEDIDA",
+      "start": 996,
+      "end": 999
+    },
+    {
+      "text": "CBF",
+      "type": "MEDIDA",
+      "start": 1153,
+      "end": 1156
+    },
+    {
+      "text": "CBV",
+      "type": "MEDIDA",
+      "start": 1198,
+      "end": 1201
+    },
+    {
+      "text": "TC craneal urgente",
+      "type": "TECNICA_IMAGEN",
+      "start": 349,
+      "end": 367
+    },
+    {
+      "text": "angiografía por TC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 412,
+      "end": 452
+    },
+    {
+      "text": "TC PERFUSIÓN",
+      "type": "TECNICA_IMAGEN",
+      "start": 927,
+      "end": 939
+    },
+    {
+      "text": "TC basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 1812,
+      "end": 1820
+    }
+  ]
+}

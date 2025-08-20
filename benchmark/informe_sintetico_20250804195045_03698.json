@@ -1,0 +1,65 @@
+{
+  "document_id": "informe_sintetico_20250804195045_03698",
+  "entities": [
+    {
+      "text": "infarto isquémico agudo",
+      "type": "PATOLOGIA",
+      "start": 713,
+      "end": 736
+    },
+    {
+      "text": "territorio de arteria cerebral media izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 740,
+      "end": 786
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "ARTERIA",
+      "start": 754,
+      "end": 786
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 777,
+      "end": 786
+    },
+    {
+      "text": "3 horas",
+      "type": "TEMPORALIDAD",
+      "start": 254,
+      "end": 261
+    },
+    {
+      "text": "oclusión completa",
+      "type": "PATOLOGIA",
+      "start": 2550,
+      "end": 2567
+    },
+    {
+      "text": "arteria carótida interna izquierda",
+      "type": "ARTERIA",
+      "start": 1390,
+      "end": 1424
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 777,
+      "end": 786
+    },
+    {
+      "text": "área de penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1281,
+      "end": 1307
+    },
+    {
+      "text": "TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANG IOTC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 72,
+      "end": 140
+    }
+  ]
+}

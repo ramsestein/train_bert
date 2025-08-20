@@ -1,0 +1,47 @@
+{
+  "document_id": "informe_sintetico_20250804195045_06932",
+  "entities": [
+    {
+      "text": "infarto",
+      "type": "PATOLOGIA",
+      "start": 682,
+      "end": 689
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 538,
+      "end": 568
+    },
+    {
+      "text": "arteria carótida interna derecha",
+      "type": "ARTERIA",
+      "start": 1381,
+      "end": 1413
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 561,
+      "end": 568
+    },
+    {
+      "text": "completa",
+      "type": "MEDIDA",
+      "start": 1366,
+      "end": 1374
+    },
+    {
+      "text": "significativa",
+      "type": "MEDIDA",
+      "start": 951,
+      "end": 964
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 788,
+      "end": 811
+    }
+  ]
+}

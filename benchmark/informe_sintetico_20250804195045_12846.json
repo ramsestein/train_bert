@@ -1,0 +1,215 @@
+{
+  "document_id": "informe_sintetico_20250804195045_12846",
+  "entities": [
+    {
+      "text": "afasia",
+      "type": "PATOLOGIA",
+      "start": 207,
+      "end": 213
+    },
+    {
+      "text": "90 minutos",
+      "type": "TEMPORALIDAD",
+      "start": 227,
+      "end": 237
+    },
+    {
+      "text": "TC craneal basal urgente",
+      "type": "TECNICA_IMAGEN",
+      "start": 257,
+      "end": 281
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 284,
+      "end": 305
+    },
+    {
+      "text": "AngioTC intra/extracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 308,
+      "end": 334
+    },
+    {
+      "text": "área de hipodensidad cortical y subcortical",
+      "type": "PATOLOGIA",
+      "start": 429,
+      "end": 472
+    },
+    {
+      "text": "arteria cerebral media izquierda (ACM)",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 493,
+      "end": 531
+    },
+    {
+      "text": "región insular y corona radiada",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 568,
+      "end": 599
+    },
+    {
+      "text": "ASPECTS 6",
+      "type": "PUNTUACION_CLINICA",
+      "start": 601,
+      "end": 610
+    },
+    {
+      "text": "señal de arteria hiperdensa en el segmento proximal M1 izquierdo de la ACM",
+      "type": "PATOLOGIA",
+      "start": 634,
+      "end": 708
+    },
+    {
+      "text": "trombo oclusivo",
+      "type": "PATOLOGIA",
+      "start": 725,
+      "end": 740
+    },
+    {
+      "text": "No hay evidencia de hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 742,
+      "end": 785
+    },
+    {
+      "text": "efecto masa significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 789,
+      "end": 814
+    },
+    {
+      "text": "Sistema ventricular y cisternas basales normales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 857,
+      "end": 905
+    },
+    {
+      "text": "Mapas de tiempo de tránsito prolongado (TTP)",
+      "type": "TECNICA_IMAGEN",
+      "start": 922,
+      "end": 966
+    },
+    {
+      "text": "tiempo medio de tránsito (MTT)",
+      "type": "TECNICA_IMAGEN",
+      "start": 969,
+      "end": 999
+    },
+    {
+      "text": "área extensa de penumbra funcional",
+      "type": "PATOLOGIA",
+      "start": 1004,
+      "end": 1038
+    },
+    {
+      "text": "territorio perfundido por la ACM izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1042,
+      "end": 1084
+    },
+    {
+      "text": "reducción marcada del flujo cerebral (CBF)",
+      "type": "PATOLOGIA",
+      "start": 1090,
+      "end": 1132
+    },
+    {
+      "text": "volumen cerebral de sangre (CBV) conservado o ligeramente disminuido",
+      "type": "PATOLOGIA",
+      "start": 1135,
+      "end": 1203
+    },
+    {
+      "text": "isquemia en zona de riesgo sin infarto establecido completo",
+      "type": "PATOLOGIA",
+      "start": 1220,
+      "end": 1279
+    },
+    {
+      "text": "Oclusión completa del segmento proximal M1 de la ACM izquierda",
+      "type": "PATOLOGIA",
+      "start": 1314,
+      "end": 1376
+    },
+    {
+      "text": "sin repleción distal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1377,
+      "end": 1397
+    },
+    {
+      "text": "No se visualizan signos de estenosis significativa en arterias carótidas internas cervicales ni en segmentos intracraneales evaluados",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1399,
+      "end": 1532
+    },
+    {
+      "text": "sin placas ateromatosas significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1565,
+      "end": 1603
+    },
+    {
+      "text": "Sistema vertebrobasilar permeable",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1605,
+      "end": 1638
+    },
+    {
+      "text": "Oclusión aguda del segmento proximal M1 de la arteria cerebral media izquierda",
+      "type": "PATOLOGIA",
+      "start": 1666,
+      "end": 1744
+    },
+    {
+      "text": "área de penumbra funcional extensa",
+      "type": "PATOLOGIA",
+      "start": 1749,
+      "end": 1783
+    },
+    {
+      "text": "signo de arteria hiperdensa compatible con trombo",
+      "type": "PATOLOGIA",
+      "start": 1786,
+      "end": 1835
+    },
+    {
+      "text": "ASPECTS 6",
+      "type": "PUNTUACION_CLINICA",
+      "start": 601,
+      "end": 610
+    },
+    {
+      "text": "sin signos de infarto establecido completo o hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1851,
+      "end": 1919
+    },
+    {
+      "text": "Oclusión proximal M1 arteria cerebral media izquierda",
+      "type": "PATOLOGIA",
+      "start": 2191,
+      "end": 2244
+    },
+    {
+      "text": "signo de arteria hiperdensa",
+      "type": "PATOLOGIA",
+      "start": 1786,
+      "end": 1813
+    },
+    {
+      "text": "Isquemia aguda con territorio en riesgo",
+      "type": "PATOLOGIA",
+      "start": 2278,
+      "end": 2317
+    },
+    {
+      "text": "Oclusión trombótica del segmento proximal izquierdo de la ACM (M1)",
+      "type": "PATOLOGIA",
+      "start": 2460,
+      "end": 2526
+    }
+  ]
+}

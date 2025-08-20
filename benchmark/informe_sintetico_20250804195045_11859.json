@@ -1,0 +1,71 @@
+{
+  "document_id": "informe_sintetico_20250804195045_11859",
+  "entities": [
+    {
+      "text": "infarto lacunar agudo",
+      "type": "PATOLOGIA",
+      "start": 334,
+      "end": 355
+    },
+    {
+      "text": "cápsula interna derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 706,
+      "end": 729
+    },
+    {
+      "text": "8 mm",
+      "type": "MEDIDA",
+      "start": 691,
+      "end": 695
+    },
+    {
+      "text": "agudo",
+      "type": "TEMPORALIDAD",
+      "start": 350,
+      "end": 355
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 903,
+      "end": 913
+    },
+    {
+      "text": "isquemia aguda lacunar",
+      "type": "PATOLOGIA",
+      "start": 1287,
+      "end": 1309
+    },
+    {
+      "text": "ACAs, ACMs y ACPs",
+      "type": "ARTERIA",
+      "start": 1447,
+      "end": 1464
+    },
+    {
+      "text": "sin signos de hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1862,
+      "end": 1899
+    },
+    {
+      "text": "sin alteración significativa del volumen cerebral sanguíneo (CBV)",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1197,
+      "end": 1262
+    },
+    {
+      "text": "sin placas ateromatosas de significancia hemodinámica",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1622,
+      "end": 1675
+    },
+    {
+      "text": "sin alteraciones",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1713,
+      "end": 1729
+    }
+  ]
+}

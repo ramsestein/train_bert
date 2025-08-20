@@ -1,0 +1,65 @@
+{
+  "document_id": "informe_sintetico_20250804195045_10683",
+  "entities": [
+    {
+      "text": "infarto lacunar agudo",
+      "type": "PATOLOGIA",
+      "start": 598,
+      "end": 619
+    },
+    {
+      "text": "cápsula interna derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 558,
+      "end": 581
+    },
+    {
+      "text": "hemorragias intra ni extraaxiales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 446,
+      "end": 479
+    },
+    {
+      "text": "penumbra isquémica significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1097,
+      "end": 1129
+    },
+    {
+      "text": "estenosis ni oclusión significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1743,
+      "end": 1778
+    },
+    {
+      "text": "ACAs, ACMs, ACPs",
+      "type": "ARTERIA",
+      "start": 1485,
+      "end": 1501
+    },
+    {
+      "text": "agudo",
+      "type": "TEMPORALIDAD",
+      "start": 272,
+      "end": 277
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 298,
+      "end": 314
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 317,
+      "end": 338
+    },
+    {
+      "text": "angioTC intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 341,
+      "end": 361
+    }
+  ]
+}

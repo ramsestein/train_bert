@@ -1,0 +1,33 @@
+UO_PACN (Unidad Organizativa Médica): RADIO
+
+PRUEB (Prueba solicitada): TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANG IOTC ARTERIAL INTRACRANEAL)
+
+CLIN (Resumen clínico): Déficit motor súbito en hemicuerpo izquierdo y alteración del lenguaje de instauración reciente. Sospecha de isquemia aguda en territorio de la arteria cerebral posterior derecha.
+
+OBSR (Protocolo): Protocolo Código Ictus: TC craneal basal sin contraste, TC perfusión cerebral, y angio-TC de troncos supraaórticos y vasos intracraneales.
+
+RESL (Resultados):  
+TC CRANEAL BASAL:  
+No se evidencian hemorragias intra ni extraaxiales. Se observa hipodensidad leve en la región occipital derecha compatible con edema citotóxico incipiente, sin compromiso significativo de la diferenciación cortico-subcortical. ASPECTS posterior 7/10. Las estructuras de la línea media permanecen centradas. Sistema ventricular sin alteraciones morfológicas. Cisternas basales libres.
+
+TC PERFUSIÓN:  
+Mapas de tiempo de tránsito prolongados (TTP y TTD) en territorio de la arteria cerebral posterior derecha, con disminución del flujo sanguíneo cerebral (CBF) y preservación parcial del volumen cerebral (CBV), sugestivo de área de penumbra isquémica.
+
+ANGIO-TC EXTRA E INTRACRANEAL:  
+Oclusión completa del segmento P2 de la arteria cerebral posterior derecha. Arterias vertebrales y basilar permeables; no signos de estenosis ni placas ateromatosas significativas en el resto de los vasos intracraneales. Troncos supraaórticos sin lesiones relevantes.
+
+CONCL (Conclusiones):  
+Signos de isquemia aguda en territorio de la arteria cerebral posterior derecha con área significativa de penumbra viable. Oclusión del segmento P2 de ACP derecha confirmada. No se identifican hemorragias. Recomendable valoración urgente para tratamiento trombolítico o endovascular según criterios clínicos.
+
+ACTI_ADICI (Actividad adicional):  
+
+DKTXT (Descripció): Monitoreo neurológico continuo y evaluación clínica estrecha para seguimiento del cuadro isquémico.
+
+ICON (Estudio): @RADIO_ACP@
+
+X00DIATXT (Texto del diagnóstico ACR):  
+Estimación de isquemia cerebral aguda en territorio de ACP derecha con área de penumbra en TC perfusión, y oclusión arterial confirmada en angio-TC.
+
+EST_T_DES (Descripción): TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANGIOTC ARTERIAL INTRACRANEAL)
+
+ZVASOS_D (Der.):  Oclusión segmento P2 arteria cerebral posterior derecha. Vascularización restante permeable y sin estenosis relevantes.

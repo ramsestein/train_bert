@@ -1,0 +1,133 @@
+{
+  "document_id": "informe_sintetico_20250804195045_18555",
+  "entities": [
+    {
+      "text": "oclusión de arteria basilar",
+      "type": "PATOLOGIA",
+      "start": 307,
+      "end": 334
+    },
+    {
+      "text": "tronco cerebral",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 270,
+      "end": 285
+    },
+    {
+      "text": "mesencéfalo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 612,
+      "end": 623
+    },
+    {
+      "text": "protuberancia",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 959,
+      "end": 972
+    },
+    {
+      "text": "arteria basilar",
+      "type": "ARTERIA",
+      "start": 319,
+      "end": 334
+    },
+    {
+      "text": "arterias vertebrales",
+      "type": "ARTERIA",
+      "start": 1235,
+      "end": 1255
+    },
+    {
+      "text": "segmento medio",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1189,
+      "end": 1203
+    },
+    {
+      "text": "segmentos cervicales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1286,
+      "end": 1306
+    },
+    {
+      "text": "polígono de Willis",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1376,
+      "end": 1394
+    },
+    {
+      "text": "isquemia crítica",
+      "type": "PATOLOGIA",
+      "start": 1089,
+      "end": 1105
+    },
+    {
+      "text": "hemorragias intraparenquimatosas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 540,
+      "end": 572
+    },
+    {
+      "text": "Cisternas basales libres",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 752,
+      "end": 776
+    },
+    {
+      "text": "tiempo hasta el pico (TTP)",
+      "type": "MEDIDA",
+      "start": 991,
+      "end": 1017
+    },
+    {
+      "text": "tiempo medio de tránsito (MTT)",
+      "type": "MEDIDA",
+      "start": 1024,
+      "end": 1054
+    },
+    {
+      "text": "urgente",
+      "type": "TEMPORALIDAD",
+      "start": 372,
+      "end": 379
+    },
+    {
+      "text": "aguda",
+      "type": "TEMPORALIDAD",
+      "start": 1492,
+      "end": 1497
+    },
+    {
+      "text": "TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANG IOTC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 72,
+      "end": 140
+    },
+    {
+      "text": "TC craneal basal urgente",
+      "type": "TECNICA_IMAGEN",
+      "start": 355,
+      "end": 379
+    },
+    {
+      "text": "TC PERFUSIÓN",
+      "type": "TECNICA_IMAGEN",
+      "start": 780,
+      "end": 792
+    },
+    {
+      "text": "ANGIO-TC ARTERIAL INTRACRANEAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 1109,
+      "end": 1139
+    },
+    {
+      "text": "Oclusión arterial aguda de arteria basilar con hipoperfusión en territorio del tronco cerebral",
+      "type": "PUNTUACION_CLINICA",
+      "start": 1875,
+      "end": 1969
+    }
+  ],
+  "regenerado": true,
+  "fecha_regeneracion": "2025-08-06T11:41:01.680702"
+}

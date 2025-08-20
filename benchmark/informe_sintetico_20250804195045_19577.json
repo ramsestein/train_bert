@@ -1,0 +1,113 @@
+{
+  "document_id": "informe_sintetico_20250804195045_19577",
+  "entities": [
+    {
+      "text": "infarto cerebral",
+      "type": "PATOLOGIA",
+      "start": 266,
+      "end": 282
+    },
+    {
+      "text": "hemorragias",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 462,
+      "end": 473
+    },
+    {
+      "text": "edema cerebral",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 487,
+      "end": 501
+    },
+    {
+      "text": "hipodensidad cortical y subcortical",
+      "type": "PATOLOGIA",
+      "start": 535,
+      "end": 570
+    },
+    {
+      "text": "arterias cerebrales anterior y media",
+      "type": "ARTERIA",
+      "start": 635,
+      "end": 671
+    },
+    {
+      "text": "arterias media y posterior",
+      "type": "ARTERIA",
+      "start": 685,
+      "end": 711
+    },
+    {
+      "text": "infarto de tipo watershed",
+      "type": "PATOLOGIA",
+      "start": 728,
+      "end": 753
+    },
+    {
+      "text": "lesiones antiguas significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 772,
+      "end": 804
+    },
+    {
+      "text": "disminuida",
+      "type": "PATOLOGIA",
+      "start": 841,
+      "end": 851
+    },
+    {
+      "text": "incremento del tiempo de tránsito medio (TTM)",
+      "type": "MEDIDA",
+      "start": 1061,
+      "end": 1106
+    },
+    {
+      "text": "disminución leve de flujo cerebral (CBF)",
+      "type": "MEDIDA",
+      "start": 1109,
+      "end": 1149
+    },
+    {
+      "text": "sin reducción significativa del volumen cerebral (CBV)",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1237,
+      "end": 1291
+    },
+    {
+      "text": "isquemia penumbra",
+      "type": "PATOLOGIA",
+      "start": 1319,
+      "end": 1336
+    },
+    {
+      "text": "estenosis moderada de la arteria carótida interna derecha",
+      "type": "PATOLOGIA",
+      "start": 1405,
+      "end": 1462
+    },
+    {
+      "text": "sin oclusión completa ni trombos visibles",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1495,
+      "end": 1536
+    },
+    {
+      "text": "sin signos de estenosis significativa ni disección",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1582,
+      "end": 1632
+    },
+    {
+      "text": "hipoperfusión secundaria a estenosis de arteria carótida interna derecha",
+      "type": "PATOLOGIA",
+      "start": 1719,
+      "end": 1791
+    },
+    {
+      "text": "área de isquemia en penumbra",
+      "type": "PATOLOGIA",
+      "start": 1868,
+      "end": 1896
+    }
+  ]
+}

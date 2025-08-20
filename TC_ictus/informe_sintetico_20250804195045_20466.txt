@@ -1,0 +1,42 @@
+UO_PACN (Unidad Organizativa Médica): RADIO
+
+PRUEB (Prueba solicitada): TC CODIGO ICTUS (PERFUSION CEREBRAL + ANG IOTC ARTERIAL INTRACRANEAL)
+
+CLIN (Resumen clínico): Paciente con síntomas sugestivos de compromiso del tronco encefálico, disartria, tetraparesia y alteración del estado de conciencia.
+
+OBSR (Protocolo): TC craneal basal urgente + perfusión cerebral dinámica + angio-TC arterial intracraneal orientado a estudio vascular posterior.
+
+RESL (Resultados):
+
+TC CRANEAL BASAL:  
+No se evidencian hemorragias intra ni extraaxiales.  
+Ausencia de signos densitométricos iniciales de infarto en territorio supratentorial.  
+Evaluación de la fosa posterior: hipodensidad sutil en el territorio de la protuberancia y médula oblonga compatibles con edema precoz.  
+Línea media centrada. Sistema ventricular conservado sin hidrocefalia.  
+Cisternas de la base y ángulo pontocerebeloso libres.
+
+TC PERFUSIÓN:  
+Incremento del tiempo de tránsito medio (TTM) y tiempo hasta el pico (TTP) prolongado en territorio vertebrobasilar, con reducción marcada del volumen cerebral (CBV) y flujo (CBF) en región pontina y bulbar, sugiriendo área de isquemia en penumbra con tejido en riesgo.
+
+ANGIO-TC EXTRA E INTRACRANEAL:  
+Defecto de repleción completo del lumen en la arteria basilar a nivel proximal, sin circulación colateral relevante a dicho nivel.  
+Arterias vertebrales permeables en sus trayectos, sin estenosis significativa.  
+Arterias cerebrales anteriores y medias permeables.  
+No se visualizan alteraciones en otros segmentos vasculares intracraneales.
+
+CONCL (Conclusiones):  
+Oclusión completa proximal de arteria basilar con signos de isquemia en territorio troncoencefálico.  
+Ausencia de hemorragia intracraneal. Edema precoz en protuberancia y bulbo compatible con daño isquémico en desarrollo.  
+Requiere valoración urgente de reperfusión endovascular.
+
+ACTI_ADICI (Actividad adicional):  
+
+DKTXT (Descripció): Estudio urgente para valoración de código ictus posterior con angio-TC y perfusión cerebral.
+
+ICON (Estudio): @RAD_BASILAR@
+
+X00DIATXT (Texto del diagnóstico ACR): Oclusión aguda proximal de arteria basilar con déficit perfusional en territorio troncoencefálico en TC código ictus.
+
+EST_T_DES (Descripción): TC CODIGO ICTUS (PERFUSION CEREBRAL + ANGIOTC ARTERIAL INTRACRANEAL)
+
+ZVASOS_D (Der.): Función arterial vertebrobasilar comprometida por oclusión proximal de arteria basilar.

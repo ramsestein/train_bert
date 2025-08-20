@@ -1,0 +1,65 @@
+{
+  "document_id": "informe_sintetico_20250804195045_07568",
+  "entities": [
+    {
+      "text": "infarto cerebral subagudo",
+      "type": "PATOLOGIA",
+      "start": 538,
+      "end": 563
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 492,
+      "end": 522
+    },
+    {
+      "text": "transformación hemorrágica grado HI1",
+      "type": "PATOLOGIA",
+      "start": 662,
+      "end": 698
+    },
+    {
+      "text": "hematomas expansivos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 715,
+      "end": 735
+    },
+    {
+      "text": "hemorragia extraaxial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 788,
+      "end": 809
+    },
+    {
+      "text": "edema cerebral masivo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 813,
+      "end": 834
+    },
+    {
+      "text": "ASPECTS 7/10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 899,
+      "end": 911
+    },
+    {
+      "text": "volumen cerebral (CBV)",
+      "type": "PATOLOGIA",
+      "start": 1105,
+      "end": 1127
+    },
+    {
+      "text": "territorio MCA derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1131,
+      "end": 1153
+    },
+    {
+      "text": "tiempo de tránsito medio (MTT)",
+      "type": "MEDIDA",
+      "start": 1179,
+      "end": 1209
+    }
+  ]
+}

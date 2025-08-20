@@ -1,0 +1,83 @@
+{
+  "document_id": "informe_sintetico_20250804195045_12210",
+  "entities": [
+    {
+      "text": "infarto agudo",
+      "type": "PATOLOGIA",
+      "start": 458,
+      "end": 471
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "PATOLOGIA",
+      "start": 473,
+      "end": 496
+    },
+    {
+      "text": "patología ocupante de espacio",
+      "type": "PATOLOGIA",
+      "start": 499,
+      "end": 528
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 607,
+      "end": 617
+    },
+    {
+      "text": "pequeñas focos de gliosis periventricular",
+      "type": "PATOLOGIA",
+      "start": 801,
+      "end": 842
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 607,
+      "end": 617
+    },
+    {
+      "text": "sin áreas de retraso o disminución sugestivas de penumbra isquémica",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 958,
+      "end": 1025
+    },
+    {
+      "text": "sin estenosis significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1126,
+      "end": 1154
+    },
+    {
+      "text": "sin defectos de repleción",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1308,
+      "end": 1333
+    },
+    {
+      "text": "sin relevancia clínica aguda",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1631,
+      "end": 1659
+    },
+    {
+      "text": "TC craneal sin contraste",
+      "type": "TECNICA_IMAGEN",
+      "start": 254,
+      "end": 278
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 280,
+      "end": 301
+    },
+    {
+      "text": "angioTC de vasos supraórticos e intracraneales",
+      "type": "TECNICA_IMAGEN",
+      "start": 304,
+      "end": 350
+    }
+  ]
+}

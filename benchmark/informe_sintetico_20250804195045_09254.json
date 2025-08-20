@@ -1,0 +1,95 @@
+{
+  "document_id": "informe_sintetico_20250804195045_09254",
+  "entities": [
+    {
+      "text": "infarto cerebral",
+      "type": "PATOLOGIA",
+      "start": 263,
+      "end": 279
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 498,
+      "end": 530
+    },
+    {
+      "text": "arteria cerebral media",
+      "type": "ARTERIA",
+      "start": 498,
+      "end": 520
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 521,
+      "end": 530
+    },
+    {
+      "text": "3 mm",
+      "type": "MEDIDA",
+      "start": 990,
+      "end": 994
+    },
+    {
+      "text": "subaguda",
+      "type": "TEMPORALIDAD",
+      "start": 584,
+      "end": 592
+    },
+    {
+      "text": "PH1",
+      "type": "PUNTUACION_CLINICA",
+      "start": 750,
+      "end": 753
+    },
+    {
+      "text": "TC de cráneo basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 300,
+      "end": 318
+    },
+    {
+      "text": "No se visualizan hemorragias intraparenquimatosas extensas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 755,
+      "end": 813
+    },
+    {
+      "text": "No se observa defecto de perfusión que sugiera extensión mayor al área infartada",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1330,
+      "end": 1410
+    },
+    {
+      "text": "No evidencia de hiperperfusión sugestiva de extravasación hemorrágica",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1412,
+      "end": 1481
+    },
+    {
+      "text": "Oclusión parcial en segmento M2 de la arteria cerebral media izquierda",
+      "type": "PATOLOGIA",
+      "start": 1516,
+      "end": 1586
+    },
+    {
+      "text": "segmento M2",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1536,
+      "end": 1547
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 521,
+      "end": 530
+    },
+    {
+      "text": "sin hematoma expansivo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1842,
+      "end": 1864
+    }
+  ]
+}

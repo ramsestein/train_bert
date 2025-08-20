@@ -1,0 +1,77 @@
+{
+  "document_id": "informe_sintetico_20250804195045_11210",
+  "entities": [
+    {
+      "text": "hematoma lobar agudo",
+      "type": "PATOLOGIA",
+      "start": 598,
+      "end": 618
+    },
+    {
+      "text": "región parietal derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 497,
+      "end": 520
+    },
+    {
+      "text": "25 x 20 x 18 mm",
+      "type": "MEDIDA",
+      "start": 540,
+      "end": 555
+    },
+    {
+      "text": "menos de 3 mm",
+      "type": "MEDIDA",
+      "start": 815,
+      "end": 828
+    },
+    {
+      "text": "aumento del tiempo de tránsito medio",
+      "type": "PATOLOGIA",
+      "start": 934,
+      "end": 970
+    },
+    {
+      "text": "sin evidencia de isquemia extensa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1052,
+      "end": 1085
+    },
+    {
+      "text": "libres de estenosis significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1242,
+      "end": 1276
+    },
+    {
+      "text": "leve efecto de masa",
+      "type": "PATOLOGIA",
+      "start": 1356,
+      "end": 1375
+    },
+    {
+      "text": "sin alteraciones vasculares relevantes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1472,
+      "end": 1510
+    },
+    {
+      "text": "TC craneal basal sin contraste",
+      "type": "TECNICA_IMAGEN",
+      "start": 306,
+      "end": 336
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 349,
+      "end": 370
+    },
+    {
+      "text": "angiografía por TC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 373,
+      "end": 413
+    }
+  ]
+}

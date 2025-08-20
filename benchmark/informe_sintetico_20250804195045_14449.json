@@ -1,0 +1,107 @@
+{
+  "document_id": "informe_sintetico_20250804195045_14449",
+  "entities": [
+    {
+      "text": "hemorragias intracraneales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 502,
+      "end": 528
+    },
+    {
+      "text": "infarto cerebral agudo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 575,
+      "end": 597
+    },
+    {
+      "text": "bilaterales",
+      "type": "LATERALIDAD",
+      "start": 781,
+      "end": 792
+    },
+    {
+      "text": "sustancia blanca subcortical",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 826,
+      "end": 854
+    },
+    {
+      "text": "lóbulos parietales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 862,
+      "end": 880
+    },
+    {
+      "text": "edema vasogénico",
+      "type": "PATOLOGIA",
+      "start": 944,
+      "end": 960
+    },
+    {
+      "text": "tiempo de tránsito medio (MTT)",
+      "type": "MEDIDA",
+      "start": 1026,
+      "end": 1056
+    },
+    {
+      "text": "tiempo al pico (TTP)",
+      "type": "MEDIDA",
+      "start": 1063,
+      "end": 1083
+    },
+    {
+      "text": "flujo sanguíneo cerebral (CBF)",
+      "type": "MEDIDA",
+      "start": 1105,
+      "end": 1135
+    },
+    {
+      "text": "volumen sanguíneo cerebral (CBV)",
+      "type": "MEDIDA",
+      "start": 1142,
+      "end": 1174
+    },
+    {
+      "text": "ACAs",
+      "type": "ARTERIA",
+      "start": 1330,
+      "end": 1334
+    },
+    {
+      "text": "ACMs",
+      "type": "ARTERIA",
+      "start": 1336,
+      "end": 1340
+    },
+    {
+      "text": "ACPs",
+      "type": "ARTERIA",
+      "start": 1342,
+      "end": 1346
+    },
+    {
+      "text": "Sistema vertebrobasilar",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1390,
+      "end": 1413
+    },
+    {
+      "text": "leucoencefalopatía posterior reversible (PRES)",
+      "type": "PATOLOGIA",
+      "start": 1481,
+      "end": 1527
+    },
+    {
+      "text": "infarto",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 575,
+      "end": 582
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1640,
+      "end": 1663
+    }
+  ]
+}

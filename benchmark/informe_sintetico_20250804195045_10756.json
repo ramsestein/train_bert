@@ -1,0 +1,131 @@
+{
+  "document_id": "informe_sintetico_20250804195045_10756",
+  "entities": [
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 248,
+      "end": 262
+    },
+    {
+      "text": "región bulbar derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 562,
+      "end": 583
+    },
+    {
+      "text": "puente",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 596,
+      "end": 602
+    },
+    {
+      "text": "isquémica aguda",
+      "type": "PATOLOGIA",
+      "start": 627,
+      "end": 642
+    },
+    {
+      "text": "Tmax",
+      "type": "MEDIDA",
+      "start": 964,
+      "end": 968
+    },
+    {
+      "text": "TTP",
+      "type": "MEDIDA",
+      "start": 971,
+      "end": 974
+    },
+    {
+      "text": "flujo cerebral (CBF)",
+      "type": "MEDIDA",
+      "start": 1010,
+      "end": 1030
+    },
+    {
+      "text": "volumen cerebral (CBV)",
+      "type": "MEDIDA",
+      "start": 1033,
+      "end": 1055
+    },
+    {
+      "text": "bulbar derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1070,
+      "end": 1084
+    },
+    {
+      "text": "vertebrobasilar",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 263,
+      "end": 278
+    },
+    {
+      "text": "Oclusión completa proximal de la arteria vertebral derecha",
+      "type": "PATOLOGIA",
+      "start": 1332,
+      "end": 1390
+    },
+    {
+      "text": "arteria vertebral derecha",
+      "type": "ARTERIA",
+      "start": 1365,
+      "end": 1390
+    },
+    {
+      "text": "Vertebral izquierda",
+      "type": "ARTERIA",
+      "start": 1417,
+      "end": 1436
+    },
+    {
+      "text": "arteria basilar",
+      "type": "ARTERIA",
+      "start": 2011,
+      "end": 2026
+    },
+    {
+      "text": "estenosis severa",
+      "type": "PATOLOGIA",
+      "start": 1531,
+      "end": 1547
+    },
+    {
+      "text": "proximal",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1097,
+      "end": 1105
+    },
+    {
+      "text": "No se identifican hemorragias intra ni extraaxiales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 464,
+      "end": 515
+    },
+    {
+      "text": "No evidencia de edema expansivo ni desplazamiento de línea media",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 734,
+      "end": 798
+    },
+    {
+      "text": "sin colapso de cisternas basales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 848,
+      "end": 880
+    },
+    {
+      "text": "No se evidencian alteraciones de perfusión en territorios supratentoriales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1222,
+      "end": 1296
+    },
+    {
+      "text": "No hemorragia ni edema expansivo asociados",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2041,
+      "end": 2083
+    }
+  ]
+}

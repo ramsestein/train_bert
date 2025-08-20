@@ -1,0 +1,95 @@
+{
+  "document_id": "informe_sintetico_20250804195045_23049",
+  "entities": [
+    {
+      "text": "hematoma lobar agudo",
+      "type": "PATOLOGIA",
+      "start": 461,
+      "end": 481
+    },
+    {
+      "text": "región frontal derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 485,
+      "end": 507
+    },
+    {
+      "text": "4.2 x 3.5 x 3.8 cm",
+      "type": "MEDIDA",
+      "start": 540,
+      "end": 558
+    },
+    {
+      "text": "4 mm",
+      "type": "MEDIDA",
+      "start": 654,
+      "end": 658
+    },
+    {
+      "text": "agudo",
+      "type": "TEMPORALIDAD",
+      "start": 476,
+      "end": 481
+    },
+    {
+      "text": "hipoperfusión marcada",
+      "type": "PATOLOGIA",
+      "start": 983,
+      "end": 1004
+    },
+    {
+      "text": "estenosis significativa",
+      "type": "PATOLOGIA",
+      "start": 1309,
+      "end": 1332
+    },
+    {
+      "text": "Ateromatosis leve en bifurcación carotídea bilateral",
+      "type": "PATOLOGIA",
+      "start": 1407,
+      "end": 1459
+    },
+    {
+      "text": "bilateral",
+      "type": "LATERALIDAD",
+      "start": 1450,
+      "end": 1459
+    },
+    {
+      "text": "No se observan otras lesiones hemorrágicas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 863,
+      "end": 905
+    },
+    {
+      "text": "No hay evidencia de hemorragia intraventricular ni otros focos hemorrágicos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1634,
+      "end": 1709
+    },
+    {
+      "text": "permeables sin estenosis significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1782,
+      "end": 1820
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 304,
+      "end": 320
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 341,
+      "end": 362
+    },
+    {
+      "text": "angio-TC arterial intra y extracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 365,
+      "end": 403
+    }
+  ]
+}

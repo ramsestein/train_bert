@@ -1,0 +1,227 @@
+{
+  "document_id": "informe_sintetico_20250804195045_20112",
+  "entities": [
+    {
+      "text": "infarto cerebral reciente",
+      "type": "PATOLOGIA",
+      "start": 202,
+      "end": 227
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "ARTERIA",
+      "start": 245,
+      "end": 275
+    },
+    {
+      "text": "deterioro clínico súbito",
+      "type": "PATOLOGIA",
+      "start": 290,
+      "end": 314
+    },
+    {
+      "text": "transformación hemorrágica",
+      "type": "PATOLOGIA",
+      "start": 355,
+      "end": 381
+    },
+    {
+      "text": "TC craneal urgente basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 402,
+      "end": 426
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 428,
+      "end": 449
+    },
+    {
+      "text": "angio-TC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 452,
+      "end": 482
+    },
+    {
+      "text": "área hiperdensa puntual",
+      "type": "PATOLOGIA",
+      "start": 606,
+      "end": 629
+    },
+    {
+      "text": "menor de 10 mm",
+      "type": "MEDIDA",
+      "start": 631,
+      "end": 645
+    },
+    {
+      "text": "región cortical y subcortical de la circunvolución frontoparietal derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 664,
+      "end": 737
+    },
+    {
+      "text": "transformación hemorrágica grado HI1",
+      "type": "PATOLOGIA",
+      "start": 754,
+      "end": 790
+    },
+    {
+      "text": "No se observan hematomas ni colecciones hemorrágicas extensas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 792,
+      "end": 853
+    },
+    {
+      "text": "signos de infarto isquémico",
+      "type": "PATOLOGIA",
+      "start": 865,
+      "end": 892
+    },
+    {
+      "text": "territorio de arteria cerebral media derecha",
+      "type": "ARTERIA",
+      "start": 231,
+      "end": 275
+    },
+    {
+      "text": "hipodensidad bien delimitada",
+      "type": "PATOLOGIA",
+      "start": 945,
+      "end": 973
+    },
+    {
+      "text": "sin efecto de masa significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 975,
+      "end": 1007
+    },
+    {
+      "text": "sistema ventricular se encuentra simétrico",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1044,
+      "end": 1086
+    },
+    {
+      "text": "sin signos de hidrocefalia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1089,
+      "end": 1115
+    },
+    {
+      "text": "No hay evidencia de hemorragia subaracnoidea",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1117,
+      "end": 1161
+    },
+    {
+      "text": "ni hemorragia extraaxial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1162,
+      "end": 1186
+    },
+    {
+      "text": "disminución del flujo cerebral (CBF)",
+      "type": "PATOLOGIA",
+      "start": 1210,
+      "end": 1246
+    },
+    {
+      "text": "volumen cerebral (CBV)",
+      "type": "PATOLOGIA",
+      "start": 1249,
+      "end": 1271
+    },
+    {
+      "text": "territorio afectado",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1278,
+      "end": 1297
+    },
+    {
+      "text": "prolongación leve del tiempo de tránsito (TTP)",
+      "type": "PATOLOGIA",
+      "start": 1303,
+      "end": 1349
+    },
+    {
+      "text": "sin nuevos focos de hipoperfusión",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1351,
+      "end": 1384
+    },
+    {
+      "text": "ni signos de reversión isquémica",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1385,
+      "end": 1417
+    },
+    {
+      "text": "Arterias cerebrales principales permeables",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1451,
+      "end": 1493
+    },
+    {
+      "text": "sin signos de oclusión ni estenosis significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1495,
+      "end": 1544
+    },
+    {
+      "text": "No se evidencian defectos de repleción ni malformaciones vasculares",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1546,
+      "end": 1613
+    },
+    {
+      "text": "No hay signos de vasoespasmo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1615,
+      "end": 1643
+    },
+    {
+      "text": "transformación hemorrágica leve (grado HI1)",
+      "type": "PATOLOGIA",
+      "start": 1679,
+      "end": 1722
+    },
+    {
+      "text": "territorio isquémico previo en arteria cerebral media derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1740,
+      "end": 1801
+    },
+    {
+      "text": "sin complicaciones hemorrágicas extensas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1803,
+      "end": 1843
+    },
+    {
+      "text": "sin efecto de masa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 975,
+      "end": 993
+    },
+    {
+      "text": "persistencia de alteraciones compatibles con infarto establecido",
+      "type": "PATOLOGIA",
+      "start": 1895,
+      "end": 1959
+    },
+    {
+      "text": "sin progresión",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1960,
+      "end": 1974
+    },
+    {
+      "text": "Angio-TC sin anomalías vasculares significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1976,
+      "end": 2024
+    }
+  ]
+}

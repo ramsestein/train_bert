@@ -1,0 +1,167 @@
+{
+  "document_id": "informe_sintetico_20250804195045_24808",
+  "entities": [
+    {
+      "text": "parada cardiorrespiratoria",
+      "type": "PATOLOGIA",
+      "start": 204,
+      "end": 230
+    },
+    {
+      "text": "lesiones hipóxico-isquémicas cerebrales",
+      "type": "PATOLOGIA",
+      "start": 354,
+      "end": 393
+    },
+    {
+      "text": "pérdida difusa y simétrica de la diferenciación cortico-subcortical",
+      "type": "PATOLOGIA",
+      "start": 687,
+      "end": 754
+    },
+    {
+      "text": "aumento de la atenuación en sustancia blanca profunda y cortices",
+      "type": "PATOLOGIA",
+      "start": 760,
+      "end": 824
+    },
+    {
+      "text": "regiones perirolándicas",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 843,
+      "end": 866
+    },
+    {
+      "text": "núcleos de la base",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 872,
+      "end": 890
+    },
+    {
+      "text": "hemorragias",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 910,
+      "end": 921
+    },
+    {
+      "text": "edema localizado",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 935,
+      "end": 951
+    },
+    {
+      "text": "disminución leve de volumen",
+      "type": "PATOLOGIA",
+      "start": 984,
+      "end": 1011
+    },
+    {
+      "text": "cisternas basales algo comprimidas",
+      "type": "PATOLOGIA",
+      "start": 1017,
+      "end": 1051
+    },
+    {
+      "text": "aumento de presión intracraneal",
+      "type": "PATOLOGIA",
+      "start": 1071,
+      "end": 1102
+    },
+    {
+      "text": "desplazamiento significativo de línea media",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1111,
+      "end": 1154
+    },
+    {
+      "text": "prolongación generalizada del tiempo hasta el pico (TTP)",
+      "type": "PATOLOGIA",
+      "start": 1185,
+      "end": 1241
+    },
+    {
+      "text": "aumento del tiempo medio de tránsito (MTT)",
+      "type": "PATOLOGIA",
+      "start": 1244,
+      "end": 1286
+    },
+    {
+      "text": "reducción del flujo cerebral (CBF)",
+      "type": "PATOLOGIA",
+      "start": 1292,
+      "end": 1326
+    },
+    {
+      "text": "ambos hemisferios",
+      "type": "LATERALIDAD",
+      "start": 1330,
+      "end": 1347
+    },
+    {
+      "text": "regiones corticales y profundidad subcortical",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1365,
+      "end": 1410
+    },
+    {
+      "text": "hipoperfusión global",
+      "type": "PATOLOGIA",
+      "start": 1427,
+      "end": 1447
+    },
+    {
+      "text": "volumen cerebral relativo (CBV)",
+      "type": "MEDIDA",
+      "start": 1452,
+      "end": 1483
+    },
+    {
+      "text": "sin áreas claras de infarto establecido",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1527,
+      "end": 1566
+    },
+    {
+      "text": "permeabilidad de todas las principales arterias cerebrales intracraneales",
+      "type": "PATOLOGIA",
+      "start": 1601,
+      "end": 1674
+    },
+    {
+      "text": "estenosis ni oclusiones evidentes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1680,
+      "end": 1713
+    },
+    {
+      "text": "malformaciones vasculares ni aneurismas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1733,
+      "end": 1772
+    },
+    {
+      "text": "encefalopatía hipóxico-isquémica",
+      "type": "PATOLOGIA",
+      "start": 1844,
+      "end": 1876
+    },
+    {
+      "text": "alteraciones tempranas en TC y perfusión cerebral",
+      "type": "PATOLOGIA",
+      "start": 2533,
+      "end": 2582
+    },
+    {
+      "text": "TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANGIOTC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 2610,
+      "end": 2677
+    },
+    {
+      "text": "signos de oclusión o estenosis significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2732,
+      "end": 2776
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "document_id": "informe_sintetico_20250804195045_23135",
+  "entities": [
+    {
+      "text": "trombo intraluminal",
+      "type": "PATOLOGIA",
+      "start": 554,
+      "end": 573
+    },
+    {
+      "text": "isquemia",
+      "type": "PATOLOGIA",
+      "start": 704,
+      "end": 712
+    },
+    {
+      "text": "ASPECTS",
+      "type": "PUNTUACION_CLINICA",
+      "start": 666,
+      "end": 673
+    },
+    {
+      "text": "6",
+      "type": "MEDIDA",
+      "start": 687,
+      "end": 688
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 763,
+      "end": 786
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "ARTERIA",
+      "start": 505,
+      "end": 537
+    },
+    {
+      "text": "M1",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 496,
+      "end": 498
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 528,
+      "end": 537
+    },
+    {
+      "text": "Oclusión completa del segmento M1 de ACM izquierda",
+      "type": "PATOLOGIA",
+      "start": 1211,
+      "end": 1261
+    },
+    {
+      "text": "Oclusión aguda de arteria cerebral media M1 izquierda",
+      "type": "PATOLOGIA",
+      "start": 2195,
+      "end": 2248
+    },
+    {
+      "text": "penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1156,
+      "end": 1174
+    },
+    {
+      "text": "trombo agudo",
+      "type": "PATOLOGIA",
+      "start": 1665,
+      "end": 1677
+    },
+    {
+      "text": "territorio superficial de ACM",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 716,
+      "end": 745
+    },
+    {
+      "text": "territorio correspondiente a la arteria cerebral media izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 978,
+      "end": 1042
+    },
+    {
+      "text": "sin estenosis significativa ni placas ateromatosas calcificadas destacables",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1323,
+      "end": 1398
+    },
+    {
+      "text": "No se observan vasos colaterales compensatorios prominentes en territorio afectado",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1497,
+      "end": 1579
+    },
+    {
+      "text": "No evidencia de hemorragia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 747,
+      "end": 773
+    },
+    {
+      "text": "TC craneal basal urgente",
+      "type": "TECNICA_IMAGEN",
+      "start": 286,
+      "end": 310
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 312,
+      "end": 333
+    },
+    {
+      "text": "angio-TC arterial intra y extracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 336,
+      "end": 374
+    },
+    {
+      "text": "protocolo Código Ictus",
+      "type": "TECNICA_IMAGEN",
+      "start": 376,
+      "end": 398
+    }
+  ]
+}

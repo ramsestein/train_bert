@@ -1,0 +1,59 @@
+{
+  "document_id": "informe_sintetico_20250804195045_05294",
+  "entities": [
+    {
+      "text": "hemorragia aguda",
+      "type": "PATOLOGIA",
+      "start": 475,
+      "end": 491
+    },
+    {
+      "text": "microangiopatía crónica",
+      "type": "PATOLOGIA",
+      "start": 588,
+      "end": 611
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 1105,
+      "end": 1119
+    },
+    {
+      "text": "ASPECTS 10/10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 559,
+      "end": 572
+    },
+    {
+      "text": "bilateral",
+      "type": "LATERALIDAD",
+      "start": 708,
+      "end": 717
+    },
+    {
+      "text": "TTP, CBF y CBV",
+      "type": "MEDIDA",
+      "start": 1017,
+      "end": 1031
+    },
+    {
+      "text": "sin evidencia de estenosis ni placas ateromatosas significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1211,
+      "end": 1275
+    },
+    {
+      "text": "sin estenosis ni irregularidades significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1391,
+      "end": 1438
+    },
+    {
+      "text": "sin signos de hemorragia ni isquemia aguda",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1522,
+      "end": 1564
+    }
+  ]
+}

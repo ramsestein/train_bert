@@ -1,0 +1,155 @@
+{
+  "document_id": "informe_sintetico_20250804195045_18310",
+  "entities": [
+    {
+      "text": "hemiparesia bilateral",
+      "type": "PATOLOGIA",
+      "start": 222,
+      "end": 243
+    },
+    {
+      "text": "disartria",
+      "type": "PATOLOGIA",
+      "start": 246,
+      "end": 255
+    },
+    {
+      "text": "hipodensidad parenquimatosa",
+      "type": "PATOLOGIA",
+      "start": 525,
+      "end": 552
+    },
+    {
+      "text": "infarto isquémico",
+      "type": "PATOLOGIA",
+      "start": 686,
+      "end": 703
+    },
+    {
+      "text": "tronco encefálico",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 559,
+      "end": 576
+    },
+    {
+      "text": "protuberancia",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 609,
+      "end": 622
+    },
+    {
+      "text": "territorio vertebrobasilar",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 707,
+      "end": 733
+    },
+    {
+      "text": "edema significativo",
+      "type": "PATOLOGIA",
+      "start": 763,
+      "end": 782
+    },
+    {
+      "text": "aumento marcado del tiempo de tránsito (TTP)",
+      "type": "PATOLOGIA",
+      "start": 940,
+      "end": 984
+    },
+    {
+      "text": "reducción del flujo cerebral sanguíneo (CBF)",
+      "type": "PATOLOGIA",
+      "start": 987,
+      "end": 1031
+    },
+    {
+      "text": "tronco basilar",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1053,
+      "end": 1067
+    },
+    {
+      "text": "protuberancia",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 609,
+      "end": 622
+    },
+    {
+      "text": "mesencéfalo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1096,
+      "end": 1107
+    },
+    {
+      "text": "volumen cerebral (CBV)",
+      "type": "MEDIDA",
+      "start": 1112,
+      "end": 1134
+    },
+    {
+      "text": "zona de infarto establecido",
+      "type": "PATOLOGIA",
+      "start": 1183,
+      "end": 1210
+    },
+    {
+      "text": "zonas frontales y posteriores corticales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1216,
+      "end": 1256
+    },
+    {
+      "text": "sin evidencia de penumbra significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1289,
+      "end": 1328
+    },
+    {
+      "text": "oclusión completa del tronco basilar",
+      "type": "PATOLOGIA",
+      "start": 1608,
+      "end": 1644
+    },
+    {
+      "text": "segmento medio de arteria basilar",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1944,
+      "end": 1977
+    },
+    {
+      "text": "infarto demostrado en tronco encefálico",
+      "type": "PATOLOGIA",
+      "start": 1983,
+      "end": 2022
+    },
+    {
+      "text": "sin zonas de penumbra relevantes para tratamiento",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2080,
+      "end": 2129
+    },
+    {
+      "text": "arteria basilar",
+      "type": "ARTERIA",
+      "start": 1962,
+      "end": 1977
+    },
+    {
+      "text": "TC de cráneo basal sin contraste",
+      "type": "TECNICA_IMAGEN",
+      "start": 276,
+      "end": 308
+    },
+    {
+      "text": "estudio dinámico de perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 310,
+      "end": 348
+    },
+    {
+      "text": "angiografía por TC de arterias intracraneales y extracraneales",
+      "type": "TECNICA_IMAGEN",
+      "start": 351,
+      "end": 413
+    }
+  ]
+}

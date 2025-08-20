@@ -1,0 +1,107 @@
+{
+  "document_id": "informe_sintetico_20250804195045_23557",
+  "entities": [
+    {
+      "text": "microhemorragias",
+      "type": "PATOLOGIA",
+      "start": 640,
+      "end": 656
+    },
+    {
+      "text": "sustancia blanca",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 550,
+      "end": 566
+    },
+    {
+      "text": "bilateral",
+      "type": "LATERALIDAD",
+      "start": 603,
+      "end": 612
+    },
+    {
+      "text": "hematomas mayores",
+      "type": "PATOLOGIA",
+      "start": 675,
+      "end": 692
+    },
+    {
+      "text": "edema asociado",
+      "type": "PATOLOGIA",
+      "start": 696,
+      "end": 710
+    },
+    {
+      "text": "infartos agudos",
+      "type": "PATOLOGIA",
+      "start": 859,
+      "end": 874
+    },
+    {
+      "text": "angiopatía microvascular",
+      "type": "PATOLOGIA",
+      "start": 1324,
+      "end": 1348
+    },
+    {
+      "text": "hipertensión arterial crónica",
+      "type": "PATOLOGIA",
+      "start": 1365,
+      "end": 1394
+    },
+    {
+      "text": "infartos isquémicos agudos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1408,
+      "end": 1434
+    },
+    {
+      "text": "hematomas mayores",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 675,
+      "end": 692
+    },
+    {
+      "text": "sin alteraciones significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 982,
+      "end": 1013
+    },
+    {
+      "text": "sin estenosis ni aneurismas evidentes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1115,
+      "end": 1152
+    },
+    {
+      "text": "sin signos de vasculitis o malformaciones arteriovenosas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1187,
+      "end": 1243
+    },
+    {
+      "text": "sin anomalías hemodinámicas ni vasculares",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1897,
+      "end": 1938
+    },
+    {
+      "text": "TC craneal sin contraste",
+      "type": "TECNICA_IMAGEN",
+      "start": 343,
+      "end": 367
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 369,
+      "end": 390
+    },
+    {
+      "text": "AngioTC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 393,
+      "end": 422
+    }
+  ]
+}

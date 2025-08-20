@@ -1,0 +1,95 @@
+{
+  "document_id": "0000000010000000062170453_cleaned",
+  "entities": [
+    {
+      "text": "hemorragia aguda",
+      "type": "PATOLOGIA",
+      "start": 477,
+      "end": 493
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 617,
+      "end": 631
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 633,
+      "end": 643
+    },
+    {
+      "text": "Sistema ventricular",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 646,
+      "end": 665
+    },
+    {
+      "text": "surcos encefálicos",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 740,
+      "end": 758
+    },
+    {
+      "text": "línea media",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 841,
+      "end": 852
+    },
+    {
+      "text": "Cisternas basales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 864,
+      "end": 881
+    },
+    {
+      "text": "bifurcaciones carotídeas",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1045,
+      "end": 1069
+    },
+    {
+      "text": "ACA",
+      "type": "ARTERIA",
+      "start": 1116,
+      "end": 1119
+    },
+    {
+      "text": "ACM",
+      "type": "ARTERIA",
+      "start": 1121,
+      "end": 1124
+    },
+    {
+      "text": "ACP",
+      "type": "ARTERIA",
+      "start": 1126,
+      "end": 1129
+    },
+    {
+      "text": "Sistema vertebrobasilar",
+      "type": "ARTERIA",
+      "start": 1131,
+      "end": 1154
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1347,
+      "end": 1370
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 617,
+      "end": 631
+    },
+    {
+      "text": "permeabilidad de grandes vasos intracraneales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1446,
+      "end": 1491
+    }
+  ]
+}

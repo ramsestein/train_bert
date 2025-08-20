@@ -1,0 +1,77 @@
+{
+  "document_id": "informe_sintetico_20250804195045_19114",
+  "entities": [
+    {
+      "text": "isquemia",
+      "type": "PATOLOGIA",
+      "start": 519,
+      "end": 527
+    },
+    {
+      "text": "hemorragia",
+      "type": "PATOLOGIA",
+      "start": 556,
+      "end": 566
+    },
+    {
+      "text": "ASPECTS",
+      "type": "PUNTUACION_CLINICA",
+      "start": 879,
+      "end": 886
+    },
+    {
+      "text": "10",
+      "type": "MEDIDA",
+      "start": 890,
+      "end": 892
+    },
+    {
+      "text": "sin hallazgos agudos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1124,
+      "end": 1144
+    },
+    {
+      "text": "normales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1179,
+      "end": 1187
+    },
+    {
+      "text": "ictus",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1229,
+      "end": 1234
+    },
+    {
+      "text": "otra patología intracraneal aguda",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1238,
+      "end": 1271
+    },
+    {
+      "text": "TC craneal basal urgente",
+      "type": "TECNICA_IMAGEN",
+      "start": 260,
+      "end": 284
+    },
+    {
+      "text": "perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 286,
+      "end": 304
+    },
+    {
+      "text": "angiografía por TC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 307,
+      "end": 347
+    },
+    {
+      "text": "angiografía",
+      "type": "TECNICA_IMAGEN",
+      "start": 307,
+      "end": 318
+    }
+  ]
+}

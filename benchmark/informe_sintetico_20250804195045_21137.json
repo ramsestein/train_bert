@@ -1,0 +1,89 @@
+{
+  "document_id": "informe_sintetico_20250804195045_21137",
+  "entities": [
+    {
+      "text": "trombosis venosa cerebral",
+      "type": "PATOLOGIA",
+      "start": 292,
+      "end": 317
+    },
+    {
+      "text": "seno sagital superior",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 564,
+      "end": 585
+    },
+    {
+      "text": "parietal",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 594,
+      "end": 602
+    },
+    {
+      "text": "seno sagital superior",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 564,
+      "end": 585
+    },
+    {
+      "text": "venas corticales adyacentes",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1018,
+      "end": 1045
+    },
+    {
+      "text": "parietal derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 786,
+      "end": 802
+    },
+    {
+      "text": "aumento focal del tiempo de tránsito medio (MTT)",
+      "type": "MEDIDA",
+      "start": 1208,
+      "end": 1256
+    },
+    {
+      "text": "tiempo hasta el pico (TTP)",
+      "type": "MEDIDA",
+      "start": 1259,
+      "end": 1285
+    },
+    {
+      "text": "reducción moderada del flujo sanguíneo cerebral (CBF)",
+      "type": "MEDIDA",
+      "start": 1317,
+      "end": 1370
+    },
+    {
+      "text": "sin reducción significativa del volumen sanguíneo cerebral (CBV)",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1372,
+      "end": 1436
+    },
+    {
+      "text": "sin evidencia de infarto establecido",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 804,
+      "end": 840
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 338,
+      "end": 354
+    },
+    {
+      "text": "AngioTC venoso",
+      "type": "TECNICA_IMAGEN",
+      "start": 403,
+      "end": 417
+    },
+    {
+      "text": "perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 448,
+      "end": 466
+    }
+  ]
+}

@@ -1,0 +1,203 @@
+{
+  "document_id": "informe_sintetico_20250804195045_22125",
+  "entities": [
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 473,
+      "end": 496
+    },
+    {
+      "text": "edema hemorrágico",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 500,
+      "end": 517
+    },
+    {
+      "text": "área de hipodensidad bilateral",
+      "type": "PATOLOGIA",
+      "start": 530,
+      "end": 560
+    },
+    {
+      "text": "simétrica",
+      "type": "LATERALIDAD",
+      "start": 562,
+      "end": 571
+    },
+    {
+      "text": "morfología lineal",
+      "type": "PATOLOGIA",
+      "start": 576,
+      "end": 593
+    },
+    {
+      "text": "en forma de cuña",
+      "type": "PATOLOGIA",
+      "start": 596,
+      "end": 612
+    },
+    {
+      "text": "zonas corticales y subcorticales frontoparietales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 616,
+      "end": 665
+    },
+    {
+      "text": "territorios de irrigación limítrofes (watershed)",
+      "type": "PATOLOGIA",
+      "start": 686,
+      "end": 734
+    },
+    {
+      "text": "arterias cerebrales anteriores y medias",
+      "type": "ARTERIA",
+      "start": 741,
+      "end": 780
+    },
+    {
+      "text": "signos de efecto de masa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 797,
+      "end": 821
+    },
+    {
+      "text": "desplazamiento de la línea media",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 825,
+      "end": 857
+    },
+    {
+      "text": "sistema ventricular",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 862,
+      "end": 881
+    },
+    {
+      "text": "tamaño y morfología normal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 898,
+      "end": 924
+    },
+    {
+      "text": "signos de herniación",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 946,
+      "end": 966
+    },
+    {
+      "text": "Disminución moderada del flujo cerebral sanguíneo (CBF)",
+      "type": "PATOLOGIA",
+      "start": 985,
+      "end": 1040
+    },
+    {
+      "text": "volumen cerebral sanguíneo (CBV)",
+      "type": "PATOLOGIA",
+      "start": 1043,
+      "end": 1075
+    },
+    {
+      "text": "aumento del tiempo de tránsito medio (TTP)",
+      "type": "PATOLOGIA",
+      "start": 1106,
+      "end": 1148
+    },
+    {
+      "text": "hipoperfusión en territorios watershed bilaterales",
+      "type": "PATOLOGIA",
+      "start": 1159,
+      "end": 1209
+    },
+    {
+      "text": "áreas con perfusión compatible con tejido en penumbra extenso",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1229,
+      "end": 1290
+    },
+    {
+      "text": "Arterias carótidas internas y vertebrales",
+      "type": "ARTERIA",
+      "start": 1326,
+      "end": 1367
+    },
+    {
+      "text": "estenosis u oclusión significativa",
+      "type": "PATOLOGIA",
+      "start": 1372,
+      "end": 1406
+    },
+    {
+      "text": "disminución difusa del calibre arterial",
+      "type": "PATOLOGIA",
+      "start": 1419,
+      "end": 1458
+    },
+    {
+      "text": "signos claros de trombosis o embolia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1463,
+      "end": 1499
+    },
+    {
+      "text": "aneurismas ni malformaciones vasculares",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1518,
+      "end": 1557
+    },
+    {
+      "text": "Arco aórtico y troncos supraaórticos",
+      "type": "ARTERIA",
+      "start": 1559,
+      "end": 1595
+    },
+    {
+      "text": "placas ateromatosas sin estenosis crítica",
+      "type": "PATOLOGIA",
+      "start": 1600,
+      "end": 1641
+    },
+    {
+      "text": "Infarto isquémico bilateral tipo watershed",
+      "type": "PATOLOGIA",
+      "start": 1668,
+      "end": 1710
+    },
+    {
+      "text": "territorios limítrofes entre las arterias cerebrales anterior y media",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1714,
+      "end": 1783
+    },
+    {
+      "text": "episodio de hipotensión prolongada",
+      "type": "TEMPORALIDAD",
+      "start": 1798,
+      "end": 1832
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 473,
+      "end": 496
+    },
+    {
+      "text": "patrón de perfusión",
+      "type": "PATOLOGIA",
+      "start": 1935,
+      "end": 1954
+    },
+    {
+      "text": "hipoperfusión en áreas afectadas",
+      "type": "PATOLOGIA",
+      "start": 1964,
+      "end": 1996
+    },
+    {
+      "text": "moderada reducción de flujo y volumen sanguíneo",
+      "type": "PATOLOGIA",
+      "start": 2001,
+      "end": 2048
+    }
+  ]
+}

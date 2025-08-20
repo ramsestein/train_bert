@@ -1,0 +1,65 @@
+{
+  "document_id": "informe_sintetico_20250804195045_00620",
+  "entities": [
+    {
+      "text": "isquemia",
+      "type": "PATOLOGIA",
+      "start": 497,
+      "end": 505
+    },
+    {
+      "text": "edema",
+      "type": "PATOLOGIA",
+      "start": 508,
+      "end": 513
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 515,
+      "end": 525
+    },
+    {
+      "text": "hemorragia intra ni extraaxial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 531,
+      "end": 561
+    },
+    {
+      "text": "tamaño y morfología normales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 628,
+      "end": 656
+    },
+    {
+      "text": "sin alteraciones que indiquen hipoperfusión o isquemia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 871,
+      "end": 925
+    },
+    {
+      "text": "sin ateromatosis ni estenosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1000,
+      "end": 1029
+    },
+    {
+      "text": "ACAs, ACMs, ACPs",
+      "type": "ARTERIA",
+      "start": 1104,
+      "end": 1120
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 515,
+      "end": 525
+    },
+    {
+      "text": "hemorragia, isquemia ni hipoperfusión",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1310,
+      "end": 1347
+    }
+  ]
+}

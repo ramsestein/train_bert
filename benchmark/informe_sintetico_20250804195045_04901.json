@@ -1,0 +1,83 @@
+{
+  "document_id": "informe_sintetico_20250804195045_04901",
+  "entities": [
+    {
+      "text": "infarto lacunar",
+      "type": "PATOLOGIA",
+      "start": 252,
+      "end": 267
+    },
+    {
+      "text": "núcleo lenticular izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 552,
+      "end": 579
+    },
+    {
+      "text": "infarto lacunar agudo",
+      "type": "PATOLOGIA",
+      "start": 596,
+      "end": 617
+    },
+    {
+      "text": "ASPECTS 9-10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 700,
+      "end": 712
+    },
+    {
+      "text": "infarto lacunar agudo",
+      "type": "PATOLOGIA",
+      "start": 596,
+      "end": 617
+    },
+    {
+      "text": "TTP",
+      "type": "MEDIDA",
+      "start": 908,
+      "end": 911
+    },
+    {
+      "text": "CBV",
+      "type": "MEDIDA",
+      "start": 1007,
+      "end": 1010
+    },
+    {
+      "text": "CBF",
+      "type": "MEDIDA",
+      "start": 1035,
+      "end": 1038
+    },
+    {
+      "text": "estenosis inferiores al 30%",
+      "type": "MEDIDA",
+      "start": 1367,
+      "end": 1394
+    },
+    {
+      "text": "sin estenosis significativas ni oclusiones",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1911,
+      "end": 1953
+    },
+    {
+      "text": "sin desviación de la línea media",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 761,
+      "end": 793
+    },
+    {
+      "text": "sin disminución relevante del volumen cerebral",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 959,
+      "end": 1005
+    },
+    {
+      "text": "sin alteraciones significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1539,
+      "end": 1570
+    }
+  ]
+}

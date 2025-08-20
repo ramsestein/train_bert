@@ -1,0 +1,181 @@
+{
+  "document_id": "informe_sintetico_20250804195045_15989",
+  "entities": [
+    {
+      "text": "hipertensión arterial",
+      "type": "PATOLOGIA",
+      "start": 210,
+      "end": 231
+    },
+    {
+      "text": "isquemia cerebral leve",
+      "type": "PATOLOGIA",
+      "start": 255,
+      "end": 277
+    },
+    {
+      "text": "hemorragia aguda",
+      "type": "PATOLOGIA",
+      "start": 427,
+      "end": 443
+    },
+    {
+      "text": "lesiones isquémicas recientes",
+      "type": "PATOLOGIA",
+      "start": 447,
+      "end": 476
+    },
+    {
+      "text": "cortico-subcortical",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 504,
+      "end": 523
+    },
+    {
+      "text": "hipodensidades periventriculares",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 564,
+      "end": 596
+    },
+    {
+      "text": "subcorticales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 599,
+      "end": 612
+    },
+    {
+      "text": "surcos corticales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 821,
+      "end": 838
+    },
+    {
+      "text": "tiempo de tránsito (TTP)",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 875,
+      "end": 899
+    },
+    {
+      "text": "flujo cerebral (CBF)",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 901,
+      "end": 921
+    },
+    {
+      "text": "volumen cerebral (CBV)",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 924,
+      "end": 946
+    },
+    {
+      "text": "circulación anterior",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1078,
+      "end": 1098
+    },
+    {
+      "text": "segmentos carotídeos",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1213,
+      "end": 1233
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 539,
+      "end": 549
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 539,
+      "end": 549
+    },
+    {
+      "text": "moderado",
+      "type": "MEDIDA",
+      "start": 683,
+      "end": 691
+    },
+    {
+      "text": "sin desplazamientos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 771,
+      "end": 790
+    },
+    {
+      "text": "sin alteraciones importantes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1299,
+      "end": 1327
+    },
+    {
+      "text": "sin estenosis ni oclusiones evidentes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1123,
+      "end": 1160
+    },
+    {
+      "text": "sin repercusión hemodinámica",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1247,
+      "end": 1275
+    },
+    {
+      "text": "sin evidencias de patología aguda",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1366,
+      "end": 1399
+    },
+    {
+      "text": "sin indicios de isquemia aguda",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1559,
+      "end": 1589
+    },
+    {
+      "text": "sin estenosis ni oclusiones significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1614,
+      "end": 1656
+    },
+    {
+      "text": "TC CODIGO ICTUS",
+      "type": "TECNICA_IMAGEN",
+      "start": 72,
+      "end": 87
+    },
+    {
+      "text": "TC Basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 313,
+      "end": 321
+    },
+    {
+      "text": "TC Perfusión",
+      "type": "TECNICA_IMAGEN",
+      "start": 324,
+      "end": 336
+    },
+    {
+      "text": "AngioTC intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 339,
+      "end": 359
+    },
+    {
+      "text": "cambios crónicos",
+      "type": "TEMPORALIDAD",
+      "start": 629,
+      "end": 645
+    },
+    {
+      "text": "antecedentes de hipertensión",
+      "type": "TEMPORALIDAD",
+      "start": 194,
+      "end": 222
+    }
+  ],
+  "regenerado": true,
+  "fecha_regeneracion": "2025-08-06T13:25:39.554633"
+}

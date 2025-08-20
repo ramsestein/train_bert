@@ -1,0 +1,101 @@
+{
+  "document_id": "informe_sintetico_20250804195045_06342",
+  "entities": [
+    {
+      "text": "hemiparesia derecha",
+      "type": "PATOLOGIA",
+      "start": 204,
+      "end": 223
+    },
+    {
+      "text": "afasia",
+      "type": "PATOLOGIA",
+      "start": 226,
+      "end": 232
+    },
+    {
+      "text": "infarto isquémico agudo",
+      "type": "PATOLOGIA",
+      "start": 766,
+      "end": 789
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "ARTERIA",
+      "start": 810,
+      "end": 842
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 648,
+      "end": 657
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 869,
+      "end": 892
+    },
+    {
+      "text": "edema significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 896,
+      "end": 915
+    },
+    {
+      "text": "incremento del tiempo de tránsito medio (TTM)",
+      "type": "MEDIDA",
+      "start": 958,
+      "end": 1003
+    },
+    {
+      "text": "disminución del flujo cerebral (CBF)",
+      "type": "MEDIDA",
+      "start": 1006,
+      "end": 1042
+    },
+    {
+      "text": "aumento del volumen cerebral (CBV) relativamente conservado",
+      "type": "MEDIDA",
+      "start": 1071,
+      "end": 1130
+    },
+    {
+      "text": "disección arterial",
+      "type": "PATOLOGIA",
+      "start": 324,
+      "end": 342
+    },
+    {
+      "text": "arteria carótida interna izquierda",
+      "type": "ARTERIA",
+      "start": 1278,
+      "end": 1312
+    },
+    {
+      "text": "pseudoaneurisma sacular",
+      "type": "PATOLOGIA",
+      "start": 1396,
+      "end": 1419
+    },
+    {
+      "text": "territorio izquierdo medial y lateral",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1511,
+      "end": 1548
+    },
+    {
+      "text": "infarto isquémico en territorio de ACM izquierda",
+      "type": "PATOLOGIA",
+      "start": 2314,
+      "end": 2362
+    },
+    {
+      "text": "sin hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2364,
+      "end": 2391
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "document_id": "informe_sintetico_20250804195045_24530",
+  "entities": [
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 241,
+      "end": 255
+    },
+    {
+      "text": "arteria cerebral posterior derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 273,
+      "end": 307
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 684,
+      "end": 694
+    },
+    {
+      "text": "retraso marcado del Tmax",
+      "type": "PATOLOGIA",
+      "start": 822,
+      "end": 846
+    },
+    {
+      "text": "arteria cerebral posterior derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 273,
+      "end": 307
+    },
+    {
+      "text": "CBF",
+      "type": "MEDIDA",
+      "start": 395,
+      "end": 398
+    },
+    {
+      "text": "CBV",
+      "type": "MEDIDA",
+      "start": 390,
+      "end": 393
+    },
+    {
+      "text": "Oclusión completa",
+      "type": "PATOLOGIA",
+      "start": 1131,
+      "end": 1148
+    },
+    {
+      "text": "segmento P2",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1152,
+      "end": 1163
+    },
+    {
+      "text": "arteria cerebral posterior derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 273,
+      "end": 307
+    },
+    {
+      "text": "ACAs, ACMs, ACP contralateral",
+      "type": "ARTERIA",
+      "start": 1238,
+      "end": 1267
+    },
+    {
+      "text": "No se identifican hemorragias intra ni extraaxiales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 488,
+      "end": 539
+    },
+    {
+      "text": "No se aprecian alteraciones en la perfusión contralateral ni en otros territorios",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1012,
+      "end": 1093
+    },
+    {
+      "text": "No evidencia de hemorragia ni infarto establecido en TC basal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1642,
+      "end": 1703
+    }
+  ]
+}

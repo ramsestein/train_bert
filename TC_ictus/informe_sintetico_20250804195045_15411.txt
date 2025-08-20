@@ -1,0 +1,33 @@
+UO_PACN (Unidad Organizativa Médica): RADIO
+
+PRUEB (Prueba solicitada): TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANG IOTC ARTERIAL INTRACRANEAL)
+
+CLIN (Resumen clínico): Mujer de 68 años con cuadro súbito de vértigo intenso, diplopía y paresia facial izquierda de 3 horas de evolución, sospecha de isquemia vertebrobasilar aguda.
+
+OBSR (Protocolo): Protocolo Código Ictus: TC craneal basal, estudio de perfusión y angio-TC extra e intracraneal centrado en territorio vertebrobasilar.
+
+RESL (Resultados):  
+TC CRANEAL BASAL:  
+No se evidencian hemorragias intra ni extraaxiales. No se identifican alteraciones densitométricas agudas en el parénquima cerebral. Diferenciación cortico-subcortical conservada. Estructuras de la línea media centradas. Sistema ventricular y cisternas basales sin alteraciones.
+
+TC PERFUSIÓN:  
+En territorio cerebeloso bilateral, especialmente en hemisferio izquierdo y tallo cerebral, se observa aumento del tiempo medio de tránsito (TMT) y tiempo hasta el pico (TTP) con descenso moderado del flujo cerebral (CBF), sin reperfusión significativa del volumen cerebral sanguíneo (CBV), patrón sugestivo de isquemia aguda reversible en territorio vertebrobasilar.
+
+ANGIO-TC EXTRA E INTRACRANEAL:  
+Arco aórtico con ateromatosis leve. Arterias carótidas con placas ateroescleróticas calcificadas no estenóticas. Arterias vertebrales: oclusión en segmento V2 distal de la arteria vertebral izquierda. Tracto basilar con estenosis significativa proximal al origen de la arteria cerebelosa superior izquierda. Resto del sistema vertebrobasilar permeable, sin defectos de repleción en arterias cerebelosas posteriores ni en segmentos de ambas ACPs. No se identifican aneurismas ni malformaciones vasculares.
+
+CONCL (Conclusiones):  
+- Ausencia de hemorragia intracraneal.  
+- Hallazgos perfusionales compatibles con isquemia aguda en territorio vertebrobasilar, principalmente en hemisferio cerebeloso izquierdo y tallo cerebral.  
+- Oclusión de la arteria vertebral izquierda en segmento V2 distal y estenosis severa del tronco basilar proximal, responsables del cuadro clínico.  
+- Resto del árbol arterial intracraneal sin estenosis relevantes.
+
+ACTI_ADICI (Actividad adicional): Seguimiento clínico estrecho y valoración neurológica continua. Considerar estudio angiográfico complementario y manejo neurointervencionista si procede.
+
+ICON (Estudio): @RADIO_VERTEBRO@
+
+X00DIATXT (Texto del diagnóstico ACR): Isquemia aguda en territorio vertebrobasilar con oclusión arterial y alteraciones de perfusión compatibles.
+
+EST_T_DES (Descripción): TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANGIOTC ARTERIAL INTRACRANEAL)
+
+ZVASOS_D (Der.): Informe elaborado en unidad RADIO, protocolo estándar para ictus con énfasis en circulación posterior.

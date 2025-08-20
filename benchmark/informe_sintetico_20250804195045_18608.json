@@ -1,0 +1,143 @@
+{
+  "document_id": "informe_sintetico_20250804195045_18608",
+  "entities": [
+    {
+      "text": "microhemorragias",
+      "type": "PATOLOGIA",
+      "start": 272,
+      "end": 288
+    },
+    {
+      "text": "sustancia blanca periventricular",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 523,
+      "end": 555
+    },
+    {
+      "text": "ganglios basales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 558,
+      "end": 574
+    },
+    {
+      "text": "hematomas",
+      "type": "PATOLOGIA",
+      "start": 625,
+      "end": 634
+    },
+    {
+      "text": "hemorragias subaracnoideas",
+      "type": "PATOLOGIA",
+      "start": 654,
+      "end": 680
+    },
+    {
+      "text": "arterias cerebrales principales",
+      "type": "ARTERIA",
+      "start": 1101,
+      "end": 1132
+    },
+    {
+      "text": "ACAs",
+      "type": "ARTERIA",
+      "start": 1134,
+      "end": 1138
+    },
+    {
+      "text": "ACMs",
+      "type": "ARTERIA",
+      "start": 1140,
+      "end": 1144
+    },
+    {
+      "text": "ACPs",
+      "type": "ARTERIA",
+      "start": 1147,
+      "end": 1151
+    },
+    {
+      "text": "aneurismas",
+      "type": "PATOLOGIA",
+      "start": 1205,
+      "end": 1215
+    },
+    {
+      "text": "malformaciones vasculares",
+      "type": "PATOLOGIA",
+      "start": 1219,
+      "end": 1244
+    },
+    {
+      "text": "signos de vasculitis",
+      "type": "PATOLOGIA",
+      "start": 1266,
+      "end": 1286
+    },
+    {
+      "text": "sistema vertebrobasilar",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1337,
+      "end": 1360
+    },
+    {
+      "text": "microhemorragias cerebrales",
+      "type": "PATOLOGIA",
+      "start": 272,
+      "end": 299
+    },
+    {
+      "text": "hemorragia intraparenquimatosa mayor",
+      "type": "PATOLOGIA",
+      "start": 1581,
+      "end": 1617
+    },
+    {
+      "text": "patología obstructiva",
+      "type": "PATOLOGIA",
+      "start": 1708,
+      "end": 1729
+    },
+    {
+      "text": "microangiopatía",
+      "type": "PATOLOGIA",
+      "start": 1538,
+      "end": 1553
+    },
+    {
+      "text": "TC Basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 363,
+      "end": 371
+    },
+    {
+      "text": "TC Perfusión",
+      "type": "TECNICA_IMAGEN",
+      "start": 374,
+      "end": 386
+    },
+    {
+      "text": "AngioTC intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 389,
+      "end": 409
+    },
+    {
+      "text": "sin alteraciones locales ni difusas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 958,
+      "end": 993
+    },
+    {
+      "text": "sin signos de estenosis o trombosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1153,
+      "end": 1188
+    },
+    {
+      "text": "sin signos de patología obstructiva",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1694,
+      "end": 1729
+    }
+  ]
+}

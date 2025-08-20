@@ -1,0 +1,125 @@
+{
+  "document_id": "informe_sintetico_20250804195045_12020",
+  "entities": [
+    {
+      "text": "hipodensidad aguda",
+      "type": "PATOLOGIA",
+      "start": 448,
+      "end": 466
+    },
+    {
+      "text": "hemorragia intra o extraaxial",
+      "type": "PATOLOGIA",
+      "start": 483,
+      "end": 512
+    },
+    {
+      "text": "atrofia cerebral leve",
+      "type": "PATOLOGIA",
+      "start": 536,
+      "end": 557
+    },
+    {
+      "text": "cambios crónicos",
+      "type": "PATOLOGIA",
+      "start": 649,
+      "end": 665
+    },
+    {
+      "text": "alteraciones focales recientes",
+      "type": "PATOLOGIA",
+      "start": 678,
+      "end": 708
+    },
+    {
+      "text": "hipoperfusión",
+      "type": "PATOLOGIA",
+      "start": 954,
+      "end": 967
+    },
+    {
+      "text": "mismatch",
+      "type": "PATOLOGIA",
+      "start": 1029,
+      "end": 1037
+    },
+    {
+      "text": "penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1050,
+      "end": 1068
+    },
+    {
+      "text": "estenosis",
+      "type": "PATOLOGIA",
+      "start": 1206,
+      "end": 1215
+    },
+    {
+      "text": "oclusión",
+      "type": "PATOLOGIA",
+      "start": 1305,
+      "end": 1313
+    },
+    {
+      "text": "calcificación arterial leve y difusa",
+      "type": "PATOLOGIA",
+      "start": 1340,
+      "end": 1376
+    },
+    {
+      "text": "arteriosclerosis crónica",
+      "type": "PATOLOGIA",
+      "start": 1393,
+      "end": 1417
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 1621,
+      "end": 1631
+    },
+    {
+      "text": "TC craneal sin contraste",
+      "type": "TECNICA_IMAGEN",
+      "start": 279,
+      "end": 303
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 305,
+      "end": 326
+    },
+    {
+      "text": "angio-TC de arterias intracraneales y supraaórticas",
+      "type": "TECNICA_IMAGEN",
+      "start": 329,
+      "end": 380
+    },
+    {
+      "text": "sin evidencia de patología isquémica o hemorrágica aguda",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1563,
+      "end": 1619
+    },
+    {
+      "text": "sin estenosis ni placas ateromatosas significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1202,
+      "end": 1253
+    },
+    {
+      "text": "sin signos de oclusión o estenosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1291,
+      "end": 1325
+    },
+    {
+      "text": "sin alteraciones morfológicas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1484,
+      "end": 1513
+    }
+  ]
+}

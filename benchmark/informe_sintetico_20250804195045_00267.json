@@ -1,0 +1,227 @@
+{
+  "document_id": "informe_sintetico_20250804195045_00267",
+  "entities": [
+    {
+      "text": "infarto cerebral",
+      "type": "PATOLOGIA",
+      "start": 215,
+      "end": 231
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "ARTERIA",
+      "start": 252,
+      "end": 284
+    },
+    {
+      "text": "48 horas",
+      "type": "TEMPORALIDAD",
+      "start": 285,
+      "end": 293
+    },
+    {
+      "text": "empeoramiento neurológico progresivo",
+      "type": "PATOLOGIA",
+      "start": 311,
+      "end": 347
+    },
+    {
+      "text": "transformación hemorrágica",
+      "type": "PATOLOGIA",
+      "start": 361,
+      "end": 387
+    },
+    {
+      "text": "TC CRANEAL BASAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 408,
+      "end": 424
+    },
+    {
+      "text": "hipodensidad extensa",
+      "type": "PATOLOGIA",
+      "start": 602,
+      "end": 622
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "ARTERIA",
+      "start": 252,
+      "end": 284
+    },
+    {
+      "text": "infarto establecido",
+      "type": "PATOLOGIA",
+      "start": 692,
+      "end": 711
+    },
+    {
+      "text": "focos hiperdensos puntiformes y lineales",
+      "type": "PATOLOGIA",
+      "start": 740,
+      "end": 780
+    },
+    {
+      "text": "sangrado intracerebral petequial",
+      "type": "PATOLOGIA",
+      "start": 810,
+      "end": 842
+    },
+    {
+      "text": "criterios de transformación hemorrágica tipo HI1",
+      "type": "PUNTUACION_CLINICA",
+      "start": 844,
+      "end": 892
+    },
+    {
+      "text": "signos de efecto de masa importante",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 910,
+      "end": 945
+    },
+    {
+      "text": "desplazamiento significativo de la línea media",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 949,
+      "end": 995
+    },
+    {
+      "text": "Cisternas basales libres",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 997,
+      "end": 1021
+    },
+    {
+      "text": "hemorragias extraaxiales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1040,
+      "end": 1064
+    },
+    {
+      "text": "lesiones focales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1074,
+      "end": 1090
+    },
+    {
+      "text": "TC PERFUSIÓN",
+      "type": "TECNICA_IMAGEN",
+      "start": 1095,
+      "end": 1107
+    },
+    {
+      "text": "Disminución significativa del flujo cerebral",
+      "type": "PATOLOGIA",
+      "start": 1111,
+      "end": 1155
+    },
+    {
+      "text": "volumen cerebral",
+      "type": "PATOLOGIA",
+      "start": 1168,
+      "end": 1184
+    },
+    {
+      "text": "territorio isquémico izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1197,
+      "end": 1227
+    },
+    {
+      "text": "penumbra isquémica residual",
+      "type": "PATOLOGIA",
+      "start": 1313,
+      "end": 1340
+    },
+    {
+      "text": "ANGIO-TC ARTERIAL INTRACRANEAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 1345,
+      "end": 1375
+    },
+    {
+      "text": "Oclusión parcial segmentaria",
+      "type": "PATOLOGIA",
+      "start": 1379,
+      "end": 1407
+    },
+    {
+      "text": "división superior de la arteria cerebral media izquierda",
+      "type": "ARTERIA",
+      "start": 1414,
+      "end": 1470
+    },
+    {
+      "text": "M2",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1472,
+      "end": 1474
+    },
+    {
+      "text": "permeabilidad adecuada",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1534,
+      "end": 1556
+    },
+    {
+      "text": "estenosis hemodinámicamente significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1573,
+      "end": 1615
+    },
+    {
+      "text": "aneurismas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1620,
+      "end": 1630
+    },
+    {
+      "text": "malformaciones vasculares",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1634,
+      "end": 1659
+    },
+    {
+      "text": "Transformación hemorrágica tipo HI1",
+      "type": "PATOLOGIA",
+      "start": 1688,
+      "end": 1723
+    },
+    {
+      "text": "territorio isquémico de arteria cerebral media izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1727,
+      "end": 1783
+    },
+    {
+      "text": "efecto de masa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 920,
+      "end": 934
+    },
+    {
+      "text": "desplazamiento de línea media",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1806,
+      "end": 1835
+    },
+    {
+      "text": "área de penumbra residual",
+      "type": "PATOLOGIA",
+      "start": 1851,
+      "end": 1876
+    },
+    {
+      "text": "Oclusión parcial en segmento M2 de ACM izquierda",
+      "type": "PATOLOGIA",
+      "start": 1878,
+      "end": 1926
+    },
+    {
+      "text": "complicaciones hemorrágicas extensas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1931,
+      "end": 1967
+    }
+  ]
+}

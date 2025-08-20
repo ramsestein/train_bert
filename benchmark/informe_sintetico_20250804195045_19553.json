@@ -1,0 +1,71 @@
+{
+  "document_id": "informe_sintetico_20250804195045_19553",
+  "entities": [
+    {
+      "text": "infarto agudo",
+      "type": "PATOLOGIA",
+      "start": 406,
+      "end": 419
+    },
+    {
+      "text": "hemorragia intra o extraaxial",
+      "type": "PATOLOGIA",
+      "start": 423,
+      "end": 452
+    },
+    {
+      "text": "leucoaraiosis leve",
+      "type": "PATOLOGIA",
+      "start": 593,
+      "end": 611
+    },
+    {
+      "text": "hidrocefalia",
+      "type": "PATOLOGIA",
+      "start": 694,
+      "end": 706
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 377,
+      "end": 387
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 377,
+      "end": 387
+    },
+    {
+      "text": "sustancia blanca",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 544,
+      "end": 560
+    },
+    {
+      "text": "sustancia gris",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 484,
+      "end": 498
+    },
+    {
+      "text": "arterias cerebrales",
+      "type": "ARTERIA",
+      "start": 971,
+      "end": 990
+    },
+    {
+      "text": "sin signos de patología aguda",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1176,
+      "end": 1205
+    },
+    {
+      "text": "sin estenosis relevante ni placas ateromatosas significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1014,
+      "end": 1075
+    }
+  ]
+}

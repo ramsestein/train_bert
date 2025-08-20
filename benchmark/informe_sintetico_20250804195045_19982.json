@@ -1,0 +1,53 @@
+{
+  "document_id": "informe_sintetico_20250804195045_19982",
+  "entities": [
+    {
+      "text": "contusión hemorrágica",
+      "type": "PATOLOGIA",
+      "start": 429,
+      "end": 450
+    },
+    {
+      "text": "lóbulo temporal izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 454,
+      "end": 479
+    },
+    {
+      "text": "25 x 18 x 20 mm",
+      "type": "MEDIDA",
+      "start": 508,
+      "end": 523
+    },
+    {
+      "text": "edema perilesional",
+      "type": "PATOLOGIA",
+      "start": 543,
+      "end": 561
+    },
+    {
+      "text": "región temporoparietal izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 939,
+      "end": 971
+    },
+    {
+      "text": "sin evidencia de isquemia extensa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1025,
+      "end": 1058
+    },
+    {
+      "text": "sin evidencia de estenosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1128,
+      "end": 1154
+    },
+    {
+      "text": "sin desplazamiento de línea media",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1400,
+      "end": 1433
+    }
+  ]
+}

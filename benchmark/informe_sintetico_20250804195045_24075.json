@@ -1,0 +1,59 @@
+{
+  "document_id": "informe_sintetico_20250804195045_24075",
+  "entities": [
+    {
+      "text": "infarto lacunar",
+      "type": "PATOLOGIA",
+      "start": 230,
+      "end": 245
+    },
+    {
+      "text": "región posterior del brazo posterior de la cápsula interna izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 541,
+      "end": 609
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 600,
+      "end": 609
+    },
+    {
+      "text": "agudo",
+      "type": "TEMPORALIDAD",
+      "start": 667,
+      "end": 672
+    },
+    {
+      "text": "No se evidencia hemorragia intra ni extraaxial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 437,
+      "end": 483
+    },
+    {
+      "text": "No se observan cambios significativos en los mapas de volumen cerebral (CBV), flujo cerebral (CBF) ni en los tiempos de tránsito (TTP y MTT), lo que sugiere ausencia de área de penumbra significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 834,
+      "end": 1033
+    },
+    {
+      "text": "sin estenosis significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1130,
+      "end": 1157
+    },
+    {
+      "text": "sin oclusiones ni estenosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1299,
+      "end": 1326
+    },
+    {
+      "text": "sin evidencia de afectación cortical ni área de penumbra en perfusión",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1415,
+      "end": 1484
+    }
+  ]
+}

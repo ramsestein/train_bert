@@ -1,0 +1,65 @@
+{
+  "document_id": "0000000010000000058094204_cleaned",
+  "entities": [
+    {
+      "text": "ictus isquémico extenso hemisférico izquierdo",
+      "type": "PATOLOGIA",
+      "start": 183,
+      "end": 228
+    },
+    {
+      "text": "Infart cerebral causat per oclusió o estenosi no especificades d'artèria cerebral no especificada",
+      "type": "PATOLOGIA",
+      "start": 271,
+      "end": 368
+    },
+    {
+      "text": "No se observa hemorragia intra ni extraaxial.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 482,
+      "end": 527
+    },
+    {
+      "text": "Discreta hipodensidad en región insular izquierda.",
+      "type": "PATOLOGIA",
+      "start": 528,
+      "end": 578
+    },
+    {
+      "text": "ASPECTS 9.",
+      "type": "PUNTUACION_CLINICA",
+      "start": 579,
+      "end": 589
+    },
+    {
+      "text": "No se observan lesiones isquémicas parenquimatosas subagudas ni otras lesiones isquemicas crónicas.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 590,
+      "end": 689
+    },
+    {
+      "text": "arteria carótida interna derecha",
+      "type": "ARTERIA",
+      "start": 1003,
+      "end": 1035
+    },
+    {
+      "text": "arteria carótida interna izquierda",
+      "type": "ARTERIA",
+      "start": 1237,
+      "end": 1271
+    },
+    {
+      "text": "segmento M1 de ACM izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1382,
+      "end": 1410
+    },
+    {
+      "text": "Sistema vertebrobasilar permeable.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1637,
+      "end": 1671
+    }
+  ]
+}

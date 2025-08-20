@@ -1,0 +1,71 @@
+{
+  "document_id": "informe_sintetico_20250804195045_00130",
+  "entities": [
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 430,
+      "end": 444
+    },
+    {
+      "text": "hemorragia subaracnoidea",
+      "type": "PATOLOGIA",
+      "start": 448,
+      "end": 472
+    },
+    {
+      "text": "ASPECTS 10/10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 552,
+      "end": 565
+    },
+    {
+      "text": "tamaño, morfología y localización normales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 654,
+      "end": 696
+    },
+    {
+      "text": "sin signos de sangrado ni hipertensión intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 724,
+      "end": 775
+    },
+    {
+      "text": "sin calcificaciones significativas ni estenosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1069,
+      "end": 1116
+    },
+    {
+      "text": "sin evidencia de estenosis ni aneurismas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1246,
+      "end": 1286
+    },
+    {
+      "text": "sin alteraciones",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1317,
+      "end": 1333
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 228,
+      "end": 244
+    },
+    {
+      "text": "angio-TC intra y extracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 247,
+      "end": 276
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 279,
+      "end": 300
+    }
+  ]
+}

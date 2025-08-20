@@ -1,0 +1,53 @@
+{
+  "document_id": "0000000010000000060322359_cleaned",
+  "entities": [
+    {
+      "text": "hemorragia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 286,
+      "end": 296
+    },
+    {
+      "text": "isquemia crónica",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 405,
+      "end": 421
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 470,
+      "end": 480
+    },
+    {
+      "text": "Cisternas basales libres",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 575,
+      "end": 599
+    },
+    {
+      "text": "ACAs, ACMs y ACPs",
+      "type": "ARTERIA",
+      "start": 1129,
+      "end": 1146
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1323,
+      "end": 1337
+    },
+    {
+      "text": "ASPECTS 10/10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 1339,
+      "end": 1352
+    },
+    {
+      "text": "discreta alteración en mapas de tiempo en regiones posteriores de ambos hemisferios cerebrales",
+      "type": "PATOLOGIA",
+      "start": 1422,
+      "end": 1516
+    }
+  ]
+}

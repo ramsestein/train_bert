@@ -1,0 +1,59 @@
+{
+  "document_id": "informe_sintetico_20250804195045_09054",
+  "entities": [
+    {
+      "text": "hematoma lobar extenso",
+      "type": "PATOLOGIA",
+      "start": 455,
+      "end": 477
+    },
+    {
+      "text": "lóbulo parietal izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 484,
+      "end": 509
+    },
+    {
+      "text": "38 x 27 x 22 mm",
+      "type": "MEDIDA",
+      "start": 609,
+      "end": 624
+    },
+    {
+      "text": "4 mm",
+      "type": "MEDIDA",
+      "start": 731,
+      "end": 735
+    },
+    {
+      "text": "agudo",
+      "type": "TEMPORALIDAD",
+      "start": 826,
+      "end": 831
+    },
+    {
+      "text": "No se evidencian focos de hipodensidad compatibles con infarto cerebral agudo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 754,
+      "end": 831
+    },
+    {
+      "text": "No se observan signos de estenosis ni oclusiones arteriales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1310,
+      "end": 1369
+    },
+    {
+      "text": "arterias cerebrales medias, anteriores y posteriores bilaterales",
+      "type": "ARTERIA",
+      "start": 1421,
+      "end": 1485
+    },
+    {
+      "text": "No se evidencian áreas isquémicas asociadas ni lesiones vasculares arteriales intracraneales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1690,
+      "end": 1782
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "document_id": "informe_sintetico_20250804195045_09442",
+  "entities": [
+    {
+      "text": "hemorragia subaracnoidea difusa",
+      "type": "PATOLOGIA",
+      "start": 510,
+      "end": 541
+    },
+    {
+      "text": "hemorragia subaracnoidea",
+      "type": "PATOLOGIA",
+      "start": 237,
+      "end": 261
+    },
+    {
+      "text": "infarto agudo",
+      "type": "PATOLOGIA",
+      "start": 838,
+      "end": 851
+    },
+    {
+      "text": "vasoespasmo temprano",
+      "type": "PATOLOGIA",
+      "start": 1055,
+      "end": 1075
+    },
+    {
+      "text": "aneurisma",
+      "type": "PATOLOGIA",
+      "start": 1332,
+      "end": 1341
+    },
+    {
+      "text": "arteria carótida interna derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1375,
+      "end": 1407
+    },
+    {
+      "text": "6 mm",
+      "type": "MEDIDA",
+      "start": 1428,
+      "end": 1432
+    },
+    {
+      "text": "ACAs, ACMs, ACPs",
+      "type": "ARTERIA",
+      "start": 1486,
+      "end": 1502
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 1400,
+      "end": 1407
+    },
+    {
+      "text": "sin oclusiones ni estenosis significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1515,
+      "end": 1557
+    },
+    {
+      "text": "TC CRANEAL BASAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 281,
+      "end": 297
+    },
+    {
+      "text": "TC PERFUSIÓN CEREBRAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 299,
+      "end": 320
+    },
+    {
+      "text": "ANGIO-TC ARTERIAL INTRACRANEAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 323,
+      "end": 353
+    },
+    {
+      "text": "agudo",
+      "type": "TEMPORALIDAD",
+      "start": 846,
+      "end": 851
+    }
+  ]
+}

@@ -1,0 +1,179 @@
+{
+  "document_id": "informe_sintetico_20250804195045_15936",
+  "entities": [
+    {
+      "text": "hemiparesia derecha",
+      "type": "PATOLOGIA",
+      "start": 196,
+      "end": 215
+    },
+    {
+      "text": "afasia",
+      "type": "PATOLOGIA",
+      "start": 218,
+      "end": 224
+    },
+    {
+      "text": "accidente cerebrovascular isquémico",
+      "type": "PATOLOGIA",
+      "start": 246,
+      "end": 281
+    },
+    {
+      "text": "arteria cerebral posterior izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 299,
+      "end": 335
+    },
+    {
+      "text": "No evidencia de hemorragia aguda intra ni extraaxial.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 567,
+      "end": 620
+    },
+    {
+      "text": "No se observan signos directos de infarto cerebral",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 621,
+      "end": 671
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 673,
+      "end": 683
+    },
+    {
+      "text": "prolongación significativa en la región occipital izquierda",
+      "type": "PATOLOGIA",
+      "start": 925,
+      "end": 984
+    },
+    {
+      "text": "hipoperfusión en territorio de la arteria cerebral posterior izquierda",
+      "type": "PATOLOGIA",
+      "start": 1001,
+      "end": 1071
+    },
+    {
+      "text": "flujo cerebral (CBF) está disminuido",
+      "type": "PATOLOGIA",
+      "start": 1076,
+      "end": 1112
+    },
+    {
+      "text": "volumen cerebral (CBV) se mantiene preservado",
+      "type": "PATOLOGIA",
+      "start": 1144,
+      "end": 1189
+    },
+    {
+      "text": "penumbra isquémica potencialmente viable",
+      "type": "PATOLOGIA",
+      "start": 1209,
+      "end": 1249
+    },
+    {
+      "text": "defecto de repleción en segmento P2 de la arteria cerebral posterior izquierda",
+      "type": "PATOLOGIA",
+      "start": 1298,
+      "end": 1376
+    },
+    {
+      "text": "oclusión parcial o trombo filiforme",
+      "type": "PATOLOGIA",
+      "start": 1391,
+      "end": 1426
+    },
+    {
+      "text": "No se observan estenosis significativas ni disección vascular en los demás segmentos.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1428,
+      "end": 1513
+    },
+    {
+      "text": "No hay evidencia de hemorragia intracraneal ni infarto establecido en TC basal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1707,
+      "end": 1785
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 673,
+      "end": 683
+    },
+    {
+      "text": "hipoperfusión en territorio de la arteria cerebral posterior izquierda",
+      "type": "PATOLOGIA",
+      "start": 1001,
+      "end": 1071
+    },
+    {
+      "text": "área de penumbra isquémica identificada",
+      "type": "PATOLOGIA",
+      "start": 1917,
+      "end": 1956
+    },
+    {
+      "text": "isquemia aguda en territorio de ACP izquierda",
+      "type": "PATOLOGIA",
+      "start": 2106,
+      "end": 2151
+    },
+    {
+      "text": "TC Basal craneal sin contraste",
+      "type": "TECNICA_IMAGEN",
+      "start": 356,
+      "end": 386
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 388,
+      "end": 409
+    },
+    {
+      "text": "AngioTC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 476,
+      "end": 505
+    },
+    {
+      "text": "TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANG IOTC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 72,
+      "end": 140
+    },
+    {
+      "text": "territorio de arteria cerebral posterior",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 285,
+      "end": 325
+    },
+    {
+      "text": "No hemorragia.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2583,
+      "end": 2597
+    },
+    {
+      "text": "hipoperfusión en territorio ACP izquierda",
+      "type": "PATOLOGIA",
+      "start": 2621,
+      "end": 2662
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 2106,
+      "end": 2120
+    },
+    {
+      "text": "territorio ACP izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 2638,
+      "end": 2662
+    }
+  ]
+}

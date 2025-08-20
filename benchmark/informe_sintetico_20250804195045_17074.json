@@ -1,0 +1,143 @@
+{
+  "document_id": "informe_sintetico_20250804195045_17074",
+  "entities": [
+    {
+      "text": "infarto cerebral hemisférico derecho",
+      "type": "PATOLOGIA",
+      "start": 203,
+      "end": 239
+    },
+    {
+      "text": "hemiparesia izquierda",
+      "type": "PATOLOGIA",
+      "start": 258,
+      "end": 279
+    },
+    {
+      "text": "transformación hemorrágica",
+      "type": "PATOLOGIA",
+      "start": 293,
+      "end": 319
+    },
+    {
+      "text": "área hipodensa",
+      "type": "PATOLOGIA",
+      "start": 533,
+      "end": 547
+    },
+    {
+      "text": "infarto cerebral isquémico subagudo",
+      "type": "PATOLOGIA",
+      "start": 598,
+      "end": 633
+    },
+    {
+      "text": "hemorragias petequiales",
+      "type": "PATOLOGIA",
+      "start": 782,
+      "end": 805
+    },
+    {
+      "text": "transformación hemorrágica tipo HI1",
+      "type": "PATOLOGIA",
+      "start": 822,
+      "end": 857
+    },
+    {
+      "text": "hematomas intraparenquimatosos mayores",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 876,
+      "end": 914
+    },
+    {
+      "text": "hemorragia subaracnoidea",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 918,
+      "end": 942
+    },
+    {
+      "text": "disminución del flujo sanguíneo cerebral",
+      "type": "PATOLOGIA",
+      "start": 1118,
+      "end": 1158
+    },
+    {
+      "text": "aumento del tiempo de tránsito",
+      "type": "PATOLOGIA",
+      "start": 1167,
+      "end": 1197
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "ARTERIA",
+      "start": 1225,
+      "end": 1255
+    },
+    {
+      "text": "mismtach persitente",
+      "type": "PATOLOGIA",
+      "start": 1270,
+      "end": 1289
+    },
+    {
+      "text": "penumbra viable",
+      "type": "PATOLOGIA",
+      "start": 1310,
+      "end": 1325
+    },
+    {
+      "text": "trombo",
+      "type": "PATOLOGIA",
+      "start": 1529,
+      "end": 1535
+    },
+    {
+      "text": "segmento proximal de arteria cerebral media derecha (M1)",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1456,
+      "end": 1512
+    },
+    {
+      "text": "sin hallazgos patológicos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1657,
+      "end": 1682
+    },
+    {
+      "text": "sin ateromatosis severa ni estenosis importantes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1721,
+      "end": 1769
+    },
+    {
+      "text": "control TC en 24-48 horas",
+      "type": "TEMPORALIDAD",
+      "start": 2315,
+      "end": 2340
+    },
+    {
+      "text": "TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANG IOTC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 72,
+      "end": 140
+    },
+    {
+      "text": "TC craneal basal urgente",
+      "type": "TECNICA_IMAGEN",
+      "start": 340,
+      "end": 364
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 367,
+      "end": 388
+    },
+    {
+      "text": "Angio-TC arterial intracraneal y supraaórtica",
+      "type": "TECNICA_IMAGEN",
+      "start": 391,
+      "end": 436
+    }
+  ]
+}

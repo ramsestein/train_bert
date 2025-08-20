@@ -1,0 +1,83 @@
+{
+  "document_id": "informe_sintetico_20250804195045_00791",
+  "entities": [
+    {
+      "text": "ictus isquémico hemisférico derecho",
+      "type": "PATOLOGIA",
+      "start": 242,
+      "end": 277
+    },
+    {
+      "text": "arteria hiperdensa",
+      "type": "PATOLOGIA",
+      "start": 496,
+      "end": 514
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 698,
+      "end": 712
+    },
+    {
+      "text": "ASPECTS 6",
+      "type": "PUNTUACION_CLINICA",
+      "start": 714,
+      "end": 723
+    },
+    {
+      "text": "hemorragia intra ni extraaxial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 745,
+      "end": 775
+    },
+    {
+      "text": "M1",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 536,
+      "end": 538
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "ARTERIA",
+      "start": 545,
+      "end": 575
+    },
+    {
+      "text": "territorio irrigado por la ACM derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 978,
+      "end": 1016
+    },
+    {
+      "text": "isquemia en evolución y penumbra isquémica extensa",
+      "type": "PATOLOGIA",
+      "start": 1146,
+      "end": 1196
+    },
+    {
+      "text": "ictus isquémico agudo por oclusión arterial",
+      "type": "PATOLOGIA",
+      "start": 1957,
+      "end": 2000
+    },
+    {
+      "text": "tiempo medio de tránsito (MTT)",
+      "type": "MEDIDA",
+      "start": 941,
+      "end": 971
+    },
+    {
+      "text": "reducción notable del flujo cerebral (CBF)",
+      "type": "MEDIDA",
+      "start": 1022,
+      "end": 1064
+    },
+    {
+      "text": "disminución moderada del volumen cerebral (CBV)",
+      "type": "MEDIDA",
+      "start": 1067,
+      "end": 1114
+    }
+  ]
+}

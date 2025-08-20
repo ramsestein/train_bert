@@ -1,0 +1,59 @@
+{
+  "document_id": "informe_sintetico_20250804195045_09825",
+  "entities": [
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 247,
+      "end": 261
+    },
+    {
+      "text": "tronco encefálico",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 643,
+      "end": 660
+    },
+    {
+      "text": "cerebelo hemisférico izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1071,
+      "end": 1101
+    },
+    {
+      "text": "arteria basilar",
+      "type": "ARTERIA",
+      "start": 1349,
+      "end": 1364
+    },
+    {
+      "text": "estenosis moderada (aprox. 50%)",
+      "type": "MEDIDA",
+      "start": 1451,
+      "end": 1482
+    },
+    {
+      "text": "isquemia en penumbra",
+      "type": "PATOLOGIA",
+      "start": 1236,
+      "end": 1256
+    },
+    {
+      "text": "hemorragias intra ni extraaxiales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 584,
+      "end": 617
+    },
+    {
+      "text": "signos de infarto establecido",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 837,
+      "end": 866
+    },
+    {
+      "text": "hemorragias ni infartos establecidos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1940,
+      "end": 1976
+    }
+  ]
+}

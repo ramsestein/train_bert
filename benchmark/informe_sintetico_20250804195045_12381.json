@@ -1,0 +1,101 @@
+{
+  "document_id": "informe_sintetico_20250804195045_12381",
+  "entities": [
+    {
+      "text": "oclusión arterial basilar",
+      "type": "PATOLOGIA",
+      "start": 304,
+      "end": 329
+    },
+    {
+      "text": "edema leve",
+      "type": "PATOLOGIA",
+      "start": 629,
+      "end": 639
+    },
+    {
+      "text": "infarto establecido",
+      "type": "PATOLOGIA",
+      "start": 677,
+      "end": 696
+    },
+    {
+      "text": "arteria basilar",
+      "type": "ARTERIA",
+      "start": 1220,
+      "end": 1235
+    },
+    {
+      "text": "segmento proximal",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1242,
+      "end": 1259
+    },
+    {
+      "text": "tronco cerebral",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 646,
+      "end": 661
+    },
+    {
+      "text": "hipoperfusión crítica",
+      "type": "PATOLOGIA",
+      "start": 1077,
+      "end": 1098
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 1770,
+      "end": 1784
+    },
+    {
+      "text": "territorio vertebrobasilar",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 496,
+      "end": 522
+    },
+    {
+      "text": "agudo",
+      "type": "TEMPORALIDAD",
+      "start": 186,
+      "end": 191
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 388,
+      "end": 404
+    },
+    {
+      "text": "angiografía por angio-TC",
+      "type": "TECNICA_IMAGEN",
+      "start": 438,
+      "end": 462
+    },
+    {
+      "text": "TC PERFUSIÓN CEREBRAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 882,
+      "end": 903
+    },
+    {
+      "text": "Flujo cerebral (CBF)",
+      "type": "MEDIDA",
+      "start": 1100,
+      "end": 1120
+    },
+    {
+      "text": "aumento del tiempo de tránsito medio (TTM)",
+      "type": "MEDIDA",
+      "start": 930,
+      "end": 972
+    },
+    {
+      "text": "disminución de volumen sanguíneo cerebral (CBV)",
+      "type": "MEDIDA",
+      "start": 975,
+      "end": 1022
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "document_id": "informe_sintetico_20250804195045_14600",
+  "entities": [
+    {
+      "text": "hemorragia intraparenquimatosa corticales y subcorticales",
+      "type": "PATOLOGIA",
+      "start": 500,
+      "end": 557
+    },
+    {
+      "text": "región parietal y occipital derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 583,
+      "end": 618
+    },
+    {
+      "text": "diámetros entre 5 y 12 mm",
+      "type": "MEDIDA",
+      "start": 624,
+      "end": 649
+    },
+    {
+      "text": "hemorragias intraventriculares",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 697,
+      "end": 727
+    },
+    {
+      "text": "hemorragias subaracnoideas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 731,
+      "end": 757
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1051,
+      "end": 1065
+    },
+    {
+      "text": "angiopatía amiloide",
+      "type": "PATOLOGIA",
+      "start": 292,
+      "end": 311
+    },
+    {
+      "text": "hemorragia activa",
+      "type": "PATOLOGIA",
+      "start": 1746,
+      "end": 1763
+    },
+    {
+      "text": "signos de isquemia aguda",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1777,
+      "end": 1801
+    },
+    {
+      "text": "lesiones vasculares mayores",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1821,
+      "end": 1848
+    },
+    {
+      "text": "atrofia leve",
+      "type": "PATOLOGIA",
+      "start": 1888,
+      "end": 1900
+    },
+    {
+      "text": "TC craneal sin contraste",
+      "type": "TECNICA_IMAGEN",
+      "start": 341,
+      "end": 365
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 368,
+      "end": 389
+    },
+    {
+      "text": "Angio-TC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 392,
+      "end": 422
+    }
+  ]
+}

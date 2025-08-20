@@ -1,0 +1,59 @@
+{
+  "document_id": "informe_sintetico_20250804195045_08300",
+  "entities": [
+    {
+      "text": "hematoma lobar frontal izquierdo",
+      "type": "PATOLOGIA",
+      "start": 515,
+      "end": 547
+    },
+    {
+      "text": "25 cc",
+      "type": "MEDIDA",
+      "start": 633,
+      "end": 638
+    },
+    {
+      "text": "aguda",
+      "type": "TEMPORALIDAD",
+      "start": 734,
+      "end": 739
+    },
+    {
+      "text": "4 mm",
+      "type": "MEDIDA",
+      "start": 943,
+      "end": 947
+    },
+    {
+      "text": "isquemia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1393,
+      "end": 1401
+    },
+    {
+      "text": "ACAs, ACMs, ACPs",
+      "type": "ARTERIA",
+      "start": 1635,
+      "end": 1651
+    },
+    {
+      "text": "sin evidencias de estenosis ni displasia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1556,
+      "end": 1596
+    },
+    {
+      "text": "No se observan fracturas óseas ni hematomas extraaxiales asociados",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1138,
+      "end": 1204
+    },
+    {
+      "text": "No evidencias de fractura craneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1991,
+      "end": 2024
+    }
+  ]
+}

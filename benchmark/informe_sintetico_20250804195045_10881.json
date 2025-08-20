@@ -1,0 +1,77 @@
+{
+  "document_id": "informe_sintetico_20250804195045_10881",
+  "entities": [
+    {
+      "text": "hematoma intraparenquimatoso agudo",
+      "type": "PATOLOGIA",
+      "start": 613,
+      "end": 647
+    },
+    {
+      "text": "núcleo caudado izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 572,
+      "end": 596
+    },
+    {
+      "text": "3 cm",
+      "type": "MEDIDA",
+      "start": 541,
+      "end": 545
+    },
+    {
+      "text": "3 mm",
+      "type": "MEDIDA",
+      "start": 718,
+      "end": 722
+    },
+    {
+      "text": "aguda",
+      "type": "TEMPORALIDAD",
+      "start": 265,
+      "end": 270
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "ARTERIA",
+      "start": 1387,
+      "end": 1419
+    },
+    {
+      "text": "No se observan signos de hemorragia subaracnoidea",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 724,
+      "end": 773
+    },
+    {
+      "text": "No se aprecian malformaciones arteriovenosas ni aneurismas asociados",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1421,
+      "end": 1489
+    },
+    {
+      "text": "sin datos de isquemia adicional",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1839,
+      "end": 1870
+    },
+    {
+      "text": "TC craneal sin contraste inicial",
+      "type": "TECNICA_IMAGEN",
+      "start": 291,
+      "end": 323
+    },
+    {
+      "text": "estudio de perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 336,
+      "end": 365
+    },
+    {
+      "text": "angioTC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 368,
+      "end": 397
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "document_id": "informe_sintetico_20250804195045_05985",
+  "entities": [
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 663,
+      "end": 677
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "ARTERIA",
+      "start": 491,
+      "end": 523
+    },
+    {
+      "text": "núcleo lenticular",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 543,
+      "end": 560
+    },
+    {
+      "text": "cápsula interna",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 562,
+      "end": 577
+    },
+    {
+      "text": "corteza insular",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 580,
+      "end": 595
+    },
+    {
+      "text": "ASPECTS 6",
+      "type": "PUNTUACION_CLINICA",
+      "start": 679,
+      "end": 688
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "ARTERIA",
+      "start": 491,
+      "end": 523
+    },
+    {
+      "text": "M1",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 773,
+      "end": 775
+    },
+    {
+      "text": "hemorragias intra ni extraaxiales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 829,
+      "end": 862
+    },
+    {
+      "text": "tiempo de retraso (Tmax)",
+      "type": "MEDIDA",
+      "start": 1033,
+      "end": 1057
+    },
+    {
+      "text": "flujo sanguíneo cerebral (CBF)",
+      "type": "MEDIDA",
+      "start": 1116,
+      "end": 1146
+    },
+    {
+      "text": "volumen sanguíneo cerebral (CBV)",
+      "type": "MEDIDA",
+      "start": 1149,
+      "end": 1181
+    },
+    {
+      "text": "territorio de ACM izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1212,
+      "end": 1239
+    },
+    {
+      "text": "trombosis",
+      "type": "PATOLOGIA",
+      "start": 1525,
+      "end": 1534
+    },
+    {
+      "text": "arterias cerebrales anteriores y posteriores",
+      "type": "ARTERIA",
+      "start": 1565,
+      "end": 1609
+    },
+    {
+      "text": "signos de ateromatosis severa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1668,
+      "end": 1697
+    },
+    {
+      "text": "hemorragias ni otras complicaciones",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2152,
+      "end": 2187
+    },
+    {
+      "text": "isquemia cerebral aguda",
+      "type": "PATOLOGIA",
+      "start": 1839,
+      "end": 1862
+    },
+    {
+      "text": "oclusión proximal de la arteria cerebral media segmento M1",
+      "type": "PATOLOGIA",
+      "start": 1899,
+      "end": 1957
+    },
+    {
+      "text": "signo de arteria hiperdensa en M1",
+      "type": "PATOLOGIA",
+      "start": 1984,
+      "end": 2017
+    },
+    {
+      "text": "penumbra isquémica significativa",
+      "type": "PATOLOGIA",
+      "start": 2027,
+      "end": 2059
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "document_id": "informe_sintetico_20250804195045_11003",
+  "entities": [
+    {
+      "text": "hematoma subdural agudo",
+      "type": "PATOLOGIA",
+      "start": 257,
+      "end": 280
+    },
+    {
+      "text": "temporal",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 506,
+      "end": 514
+    },
+    {
+      "text": "derecho",
+      "type": "LATERALIDAD",
+      "start": 515,
+      "end": 522
+    },
+    {
+      "text": "12 mm",
+      "type": "MEDIDA",
+      "start": 558,
+      "end": 563
+    },
+    {
+      "text": "7 mm",
+      "type": "MEDIDA",
+      "start": 673,
+      "end": 677
+    },
+    {
+      "text": "agudo",
+      "type": "TEMPORALIDAD",
+      "start": 275,
+      "end": 280
+    },
+    {
+      "text": "isquemia cortical",
+      "type": "PATOLOGIA",
+      "start": 1046,
+      "end": 1063
+    },
+    {
+      "text": "derecho",
+      "type": "LATERALIDAD",
+      "start": 515,
+      "end": 522
+    },
+    {
+      "text": "Arterias intracraneales",
+      "type": "ARTERIA",
+      "start": 1217,
+      "end": 1240
+    },
+    {
+      "text": "sin signos de estenosis ni trombosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1252,
+      "end": 1288
+    },
+    {
+      "text": "No se evidencian vascularizaciones anómalas ni rupturas vasculares en relación al hematoma",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1290,
+      "end": 1380
+    },
+    {
+      "text": "sin hallazgos vasculares asociados",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1704,
+      "end": 1738
+    }
+  ]
+}

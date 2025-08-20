@@ -1,0 +1,125 @@
+{
+  "document_id": "informe_sintetico_20250804195045_02181",
+  "entities": [
+    {
+      "text": "isquemia",
+      "type": "PATOLOGIA",
+      "start": 252,
+      "end": 260
+    },
+    {
+      "text": "infarto agudo isquémico",
+      "type": "PATOLOGIA",
+      "start": 644,
+      "end": 667
+    },
+    {
+      "text": "región del puente",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 534,
+      "end": 551
+    },
+    {
+      "text": "mesencéfalo derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 557,
+      "end": 576
+    },
+    {
+      "text": "territorio vertebrobasilar",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 264,
+      "end": 290
+    },
+    {
+      "text": "arteria basilar",
+      "type": "ARTERIA",
+      "start": 1201,
+      "end": 1216
+    },
+    {
+      "text": "arteria vertebral izquierda",
+      "type": "ARTERIA",
+      "start": 1353,
+      "end": 1380
+    },
+    {
+      "text": "derecho",
+      "type": "LATERALIDAD",
+      "start": 569,
+      "end": 576
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 1371,
+      "end": 1380
+    },
+    {
+      "text": "agudo",
+      "type": "TEMPORALIDAD",
+      "start": 652,
+      "end": 657
+    },
+    {
+      "text": "aguda",
+      "type": "TEMPORALIDAD",
+      "start": 1104,
+      "end": 1109
+    },
+    {
+      "text": "marcada",
+      "type": "MEDIDA",
+      "start": 862,
+      "end": 869
+    },
+    {
+      "text": "completa",
+      "type": "MEDIDA",
+      "start": 1177,
+      "end": 1185
+    },
+    {
+      "text": "distal",
+      "type": "MEDIDA",
+      "start": 1231,
+      "end": 1237
+    },
+    {
+      "text": "disminuido",
+      "type": "MEDIDA",
+      "start": 1302,
+      "end": 1312
+    },
+    {
+      "text": "permeable",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1384,
+      "end": 1393
+    },
+    {
+      "text": "No se evidencian signos de hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 699,
+      "end": 749
+    },
+    {
+      "text": "TC cráneo basal urgente",
+      "type": "TECNICA_IMAGEN",
+      "start": 311,
+      "end": 334
+    },
+    {
+      "text": "TC PERFUSIÓN",
+      "type": "TECNICA_IMAGEN",
+      "start": 836,
+      "end": 848
+    },
+    {
+      "text": "ANGIO-TC EXTRA E INTRACRANEAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 1135,
+      "end": 1164
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "document_id": "informe_sintetico_20250804195045_17694",
+  "entities": [
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 252,
+      "end": 266
+    },
+    {
+      "text": "territorio vertebrobasilar",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 270,
+      "end": 296
+    },
+    {
+      "text": "Oclusión subtotal",
+      "type": "PATOLOGIA",
+      "start": 1389,
+      "end": 1406
+    },
+    {
+      "text": "arteria vertebral derecha",
+      "type": "ARTERIA",
+      "start": 1433,
+      "end": 1458
+    },
+    {
+      "text": "arteria basilar proximal",
+      "type": "ARTERIA",
+      "start": 1525,
+      "end": 1549
+    },
+    {
+      "text": "arteria vertebral izquierda",
+      "type": "ARTERIA",
+      "start": 1554,
+      "end": 1581
+    },
+    {
+      "text": "sin estenosis significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1611,
+      "end": 1639
+    },
+    {
+      "text": "No se identifican colecciones hemorrágicas intra ni extraaxiales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 448,
+      "end": 512
+    },
+    {
+      "text": "No se evidencian evidencias de trombosis o disección",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1708,
+      "end": 1760
+    },
+    {
+      "text": "No se observa área claramente definida de déficit de volumen cerebral",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1218,
+      "end": 1287
+    },
+    {
+      "text": "cambios isquémicos incipientes",
+      "type": "PATOLOGIA",
+      "start": 764,
+      "end": 794
+    },
+    {
+      "text": "prolongación del tiempo de tránsito medio (TTM)",
+      "type": "MEDIDA",
+      "start": 922,
+      "end": 969
+    },
+    {
+      "text": "aumento del tiempo hasta el pico (TTP)",
+      "type": "MEDIDA",
+      "start": 972,
+      "end": 1010
+    },
+    {
+      "text": "reducción moderada del flujo cerebral (CBF)",
+      "type": "MEDIDA",
+      "start": 1105,
+      "end": 1148
+    },
+    {
+      "text": "volumen cerebral (CBV)",
+      "type": "MEDIDA",
+      "start": 1151,
+      "end": 1173
+    },
+    {
+      "text": "penumbra isquémica",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1198,
+      "end": 1216
+    },
+    {
+      "text": "tronco encefálico",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 2113,
+      "end": 2130
+    },
+    {
+      "text": "TC Basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 317,
+      "end": 325
+    },
+    {
+      "text": "TC Perfusión Cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 328,
+      "end": 349
+    },
+    {
+      "text": "AngioTC Arterial Intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 352,
+      "end": 381
+    },
+    {
+      "text": "TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANG IOTC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 72,
+      "end": 140
+    }
+  ]
+}

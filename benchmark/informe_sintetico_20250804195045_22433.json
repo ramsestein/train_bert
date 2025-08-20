@@ -1,0 +1,125 @@
+{
+  "document_id": "informe_sintetico_20250804195045_22433",
+  "entities": [
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 256,
+      "end": 270
+    },
+    {
+      "text": "arteria cerebral anterior",
+      "type": "ARTERIA",
+      "start": 288,
+      "end": 313
+    },
+    {
+      "text": "izquierdo",
+      "type": "LATERALIDAD",
+      "start": 677,
+      "end": 686
+    },
+    {
+      "text": "hipodensidad sutil y mal definida",
+      "type": "PATOLOGIA",
+      "start": 576,
+      "end": 609
+    },
+    {
+      "text": "región cortical y subcortical medial",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 616,
+      "end": 652
+    },
+    {
+      "text": "arteria cerebral anterior (ACA)",
+      "type": "ARTERIA",
+      "start": 718,
+      "end": 749
+    },
+    {
+      "text": "ASPECTS 9/10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 818,
+      "end": 830
+    },
+    {
+      "text": "prolongación del tiempo de tránsito",
+      "type": "PATOLOGIA",
+      "start": 1013,
+      "end": 1048
+    },
+    {
+      "text": "hemisferio cerebral izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 657,
+      "end": 686
+    },
+    {
+      "text": "penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1135,
+      "end": 1153
+    },
+    {
+      "text": "volumen cerebral (CBV)",
+      "type": "PATOLOGIA",
+      "start": 1193,
+      "end": 1215
+    },
+    {
+      "text": "estenosis crítica",
+      "type": "PATOLOGIA",
+      "start": 1390,
+      "end": 1407
+    },
+    {
+      "text": "segmento proximal de arteria cerebral anterior izquierda (A1)",
+      "type": "ARTERIA",
+      "start": 1411,
+      "end": 1472
+    },
+    {
+      "text": "ausencia de flujo distal visualizado",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1478,
+      "end": 1514
+    },
+    {
+      "text": "sin estenosis significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1574,
+      "end": 1602
+    },
+    {
+      "text": "sin alteraciones",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1628,
+      "end": 1644
+    },
+    {
+      "text": "No se visualiza hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1891,
+      "end": 1930
+    },
+    {
+      "text": "TC craneal basal sin contraste",
+      "type": "TECNICA_IMAGEN",
+      "start": 334,
+      "end": 364
+    },
+    {
+      "text": "estudio de perfusión cerebral (CBF, CBV, Tmax)",
+      "type": "TECNICA_IMAGEN",
+      "start": 366,
+      "end": 412
+    },
+    {
+      "text": "Angio-TC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 415,
+      "end": 445
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "document_id": "informe_sintetico_20250804195045_23171",
+  "entities": [
+    {
+      "text": "hipodensidad parcheadas",
+      "type": "PATOLOGIA",
+      "start": 500,
+      "end": 523
+    },
+    {
+      "text": "sustancia blanca subcortical y cortical",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 530,
+      "end": 569
+    },
+    {
+      "text": "lóbulos occipitales y parietales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 577,
+      "end": 609
+    },
+    {
+      "text": "bilaterales",
+      "type": "LATERALIDAD",
+      "start": 610,
+      "end": 621
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 669,
+      "end": 692
+    },
+    {
+      "text": "infarto cerebral",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 707,
+      "end": 723
+    },
+    {
+      "text": "edema vasogénico",
+      "type": "PATOLOGIA",
+      "start": 1186,
+      "end": 1202
+    },
+    {
+      "text": "bilateral occipito-parietal",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1604,
+      "end": 1631
+    },
+    {
+      "text": "sin infarto ni hemorragia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1632,
+      "end": 1657
+    },
+    {
+      "text": "TC craneal basal urgente",
+      "type": "TECNICA_IMAGEN",
+      "start": 330,
+      "end": 354
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 357,
+      "end": 378
+    },
+    {
+      "text": "Angio-TC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 381,
+      "end": 411
+    },
+    {
+      "text": "Arco aórtico",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1238,
+      "end": 1250
+    },
+    {
+      "text": "vasos supraaórticos",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1253,
+      "end": 1272
+    },
+    {
+      "text": "Arterias intracraneales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1337,
+      "end": 1360
+    },
+    {
+      "text": "sin evidencia de oclusión ni estenosis relevante",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1373,
+      "end": 1421
+    },
+    {
+      "text": "leucoencefalopatía posterior reversible",
+      "type": "PATOLOGIA",
+      "start": 270,
+      "end": 309
+    },
+    {
+      "text": "control evolutivo mediante neuroimagen",
+      "type": "TEMPORALIDAD",
+      "start": 1740,
+      "end": 1778
+    }
+  ]
+}

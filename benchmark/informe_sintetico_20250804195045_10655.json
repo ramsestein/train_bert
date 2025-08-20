@@ -1,0 +1,83 @@
+{
+  "document_id": "informe_sintetico_20250804195045_10655",
+  "entities": [
+    {
+      "text": "sangrado intraparenquimatoso",
+      "type": "PATOLOGIA",
+      "start": 568,
+      "end": 596
+    },
+    {
+      "text": "transformación hemorrágica leve",
+      "type": "PATOLOGIA",
+      "start": 600,
+      "end": 631
+    },
+    {
+      "text": "infarto isquémico reciente",
+      "type": "PATOLOGIA",
+      "start": 748,
+      "end": 774
+    },
+    {
+      "text": "núcleo lenticular derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 528,
+      "end": 553
+    },
+    {
+      "text": "región fronto-parietal derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 701,
+      "end": 731
+    },
+    {
+      "text": "territorio fronto-parietal derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1019,
+      "end": 1053
+    },
+    {
+      "text": "arterias carótida interna",
+      "type": "ARTERIA",
+      "start": 1493,
+      "end": 1518
+    },
+    {
+      "text": "cerebral media",
+      "type": "ARTERIA",
+      "start": 1521,
+      "end": 1535
+    },
+    {
+      "text": "transformación hemorrágica grado HI1",
+      "type": "PUNTUACION_CLINICA",
+      "start": 1692,
+      "end": 1728
+    },
+    {
+      "text": "48-72 horas",
+      "type": "MEDIDA",
+      "start": 2107,
+      "end": 2118
+    },
+    {
+      "text": "TC craneal basal urgente",
+      "type": "TECNICA_IMAGEN",
+      "start": 322,
+      "end": 346
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 349,
+      "end": 370
+    },
+    {
+      "text": "angioTC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 373,
+      "end": 402
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "document_id": "informe_sintetico_20250804195045_19168",
+  "entities": [
+    {
+      "text": "patología aguda",
+      "type": "PATOLOGIA",
+      "start": 373,
+      "end": 388
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 495,
+      "end": 505
+    },
+    {
+      "text": "hematomas",
+      "type": "PATOLOGIA",
+      "start": 526,
+      "end": 535
+    },
+    {
+      "text": "hemorragias subaracnoideas",
+      "type": "PATOLOGIA",
+      "start": 537,
+      "end": 563
+    },
+    {
+      "text": "lesiones ocupantes de espacio",
+      "type": "PATOLOGIA",
+      "start": 567,
+      "end": 596
+    },
+    {
+      "text": "morfología y tamaño dentro de límites normales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 643,
+      "end": 689
+    },
+    {
+      "text": "sin desviación de la línea media",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 691,
+      "end": 723
+    },
+    {
+      "text": "sin alteraciones sugestivas de isquemia o hipoperfusión",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 777,
+      "end": 832
+    },
+    {
+      "text": "circulación arterial intracraneal permeable",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 852,
+      "end": 895
+    },
+    {
+      "text": "sin signos de estenosis, oclusión ni anomalías vasculares evidentes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 897,
+      "end": 964
+    },
+    {
+      "text": "signos de fractura ósea",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 982,
+      "end": 1005
+    },
+    {
+      "text": "sin hallazgos agudos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1046,
+      "end": 1066
+    },
+    {
+      "text": "sin alteraciones",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 777,
+      "end": 793
+    },
+    {
+      "text": "TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANG IOTC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 72,
+      "end": 140
+    }
+  ]
+}

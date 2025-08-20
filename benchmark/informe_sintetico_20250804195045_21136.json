@@ -1,0 +1,77 @@
+{
+  "document_id": "informe_sintetico_20250804195045_21136",
+  "entities": [
+    {
+      "text": "infarto cerebral hemisférico izquierdo reciente",
+      "type": "PATOLOGIA",
+      "start": 179,
+      "end": 226
+    },
+    {
+      "text": "transformación hemorrágica tipo PH2",
+      "type": "PATOLOGIA",
+      "start": 641,
+      "end": 676
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "ARTERIA",
+      "start": 547,
+      "end": 579
+    },
+    {
+      "text": "45 x 38 x 30 mm",
+      "type": "MEDIDA",
+      "start": 609,
+      "end": 624
+    },
+    {
+      "text": "4 mm",
+      "type": "MEDIDA",
+      "start": 857,
+      "end": 861
+    },
+    {
+      "text": "hemorragia subaracnoidea",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 894,
+      "end": 918
+    },
+    {
+      "text": "hematoma subdural asociado",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 922,
+      "end": 948
+    },
+    {
+      "text": "oclusión persistente en segmento proximal de la arteria cerebral media izquierda",
+      "type": "PATOLOGIA",
+      "start": 1297,
+      "end": 1377
+    },
+    {
+      "text": "ACM izquierda",
+      "type": "ARTERIA",
+      "start": 1680,
+      "end": 1693
+    },
+    {
+      "text": "TC craneal basal sin contraste",
+      "type": "TECNICA_IMAGEN",
+      "start": 321,
+      "end": 351
+    },
+    {
+      "text": "estudio de perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 353,
+      "end": 382
+    },
+    {
+      "text": "AngioTC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 411,
+      "end": 440
+    }
+  ]
+}

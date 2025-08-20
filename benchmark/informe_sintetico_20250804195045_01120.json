@@ -1,0 +1,65 @@
+{
+  "document_id": "informe_sintetico_20250804195045_01120",
+  "entities": [
+    {
+      "text": "infarto cerebral reciente",
+      "type": "PATOLOGIA",
+      "start": 179,
+      "end": 204
+    },
+    {
+      "text": "infarto isquémico establecido",
+      "type": "PATOLOGIA",
+      "start": 527,
+      "end": 556
+    },
+    {
+      "text": "foco hiperdenso de 12 x 8 mm",
+      "type": "MEDIDA",
+      "start": 572,
+      "end": 600
+    },
+    {
+      "text": "transformación hemorrágica de tipo PH1",
+      "type": "PATOLOGIA",
+      "start": 629,
+      "end": 667
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "ARTERIA",
+      "start": 480,
+      "end": 510
+    },
+    {
+      "text": "tiempo medio de tránsito (MTT y Tmax)",
+      "type": "PATOLOGIA",
+      "start": 1082,
+      "end": 1119
+    },
+    {
+      "text": "arteria cerebral media",
+      "type": "ARTERIA",
+      "start": 480,
+      "end": 502
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 503,
+      "end": 510
+    },
+    {
+      "text": "sin compromiso hemodinámico grave",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1707,
+      "end": 1740
+    },
+    {
+      "text": "No signos de efecto de masa o hemorragia extensa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1742,
+      "end": 1790
+    }
+  ]
+}

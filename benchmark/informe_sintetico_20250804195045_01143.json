@@ -1,0 +1,47 @@
+{
+  "document_id": "informe_sintetico_20250804195045_01143",
+  "entities": [
+    {
+      "text": "infarto lacunar agudo",
+      "type": "PATOLOGIA",
+      "start": 587,
+      "end": 608
+    },
+    {
+      "text": "cápsula interna derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 547,
+      "end": 570
+    },
+    {
+      "text": "6 mm",
+      "type": "MEDIDA",
+      "start": 519,
+      "end": 523
+    },
+    {
+      "text": "agudo",
+      "type": "TEMPORALIDAD",
+      "start": 603,
+      "end": 608
+    },
+    {
+      "text": "sin complicaciones hemorrágicas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1460,
+      "end": 1491
+    },
+    {
+      "text": "sin área de penumbra detectable",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1535,
+      "end": 1566
+    },
+    {
+      "text": "sin signos de estenosis ni trombosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1238,
+      "end": 1274
+    }
+  ]
+}

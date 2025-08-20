@@ -1,0 +1,53 @@
+{
+  "document_id": "0000000010000000057500311_cleaned",
+  "entities": [
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 490,
+      "end": 500
+    },
+    {
+      "text": "microangiopatia crònica",
+      "type": "PATOLOGIA",
+      "start": 560,
+      "end": 583
+    },
+    {
+      "text": "No s'observen signes d'hemorràgia aguda intra o extraaxial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 384,
+      "end": 442
+    },
+    {
+      "text": "No s'observen alteracions valorables en els mapes de TTP, CBV i CBF",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 729,
+      "end": 796
+    },
+    {
+      "text": "Principals artèries cerebrals intracranials permeables (ACAs, ACMs i ACPs)",
+      "type": "ARTERIA",
+      "start": 1060,
+      "end": 1134
+    },
+    {
+      "text": "Sistema vertebrobasilar permeable",
+      "type": "ARTERIA",
+      "start": 1136,
+      "end": 1169
+    },
+    {
+      "text": "Sense signes d'isquèmia cerebral ni alteracions significatives a l'estudi de perfusió ni angio-tc",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1194,
+      "end": 1291
+    },
+    {
+      "text": "TC CRANIAL BASAL + TC PERFUSIÓ + ANGIO-TC INTRA I EXTRACRANIAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 283,
+      "end": 345
+    }
+  ]
+}

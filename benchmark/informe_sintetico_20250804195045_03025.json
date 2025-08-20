@@ -1,0 +1,59 @@
+{
+  "document_id": "informe_sintetico_20250804195045_03025",
+  "entities": [
+    {
+      "text": "hace 2 horas",
+      "type": "TEMPORALIDAD",
+      "start": 218,
+      "end": 230
+    },
+    {
+      "text": "TC craneal basal sin contraste",
+      "type": "TECNICA_IMAGEN",
+      "start": 251,
+      "end": 281
+    },
+    {
+      "text": "sin hemorragia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 500,
+      "end": 514
+    },
+    {
+      "text": "ASPECTS 9",
+      "type": "PUNTUACION_CLINICA",
+      "start": 539,
+      "end": 548
+    },
+    {
+      "text": "Oclusión segmentaria en rama distal M2 de la arteria cerebral media derecha",
+      "type": "PATOLOGIA",
+      "start": 1026,
+      "end": 1101
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "ARTERIA",
+      "start": 1071,
+      "end": 1101
+    },
+    {
+      "text": "sin estenosis significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1226,
+      "end": 1254
+    },
+    {
+      "text": "Oclusión aguda en rama distal M2 de la arteria cerebral media derecha",
+      "type": "PATOLOGIA",
+      "start": 1406,
+      "end": 1475
+    },
+    {
+      "text": "ASPECTS 9",
+      "type": "PUNTUACION_CLINICA",
+      "start": 539,
+      "end": 548
+    }
+  ]
+}

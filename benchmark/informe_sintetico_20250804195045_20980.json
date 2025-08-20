@@ -1,0 +1,251 @@
+{
+  "document_id": "informe_sintetico_20250804195045_20980",
+  "entities": [
+    {
+      "text": "ictus isquémico",
+      "type": "PATOLOGIA",
+      "start": 257,
+      "end": 272
+    },
+    {
+      "text": "hemiparesia izquierda",
+      "type": "PATOLOGIA",
+      "start": 196,
+      "end": 217
+    },
+    {
+      "text": "afasia de inicio súbito",
+      "type": "PATOLOGIA",
+      "start": 220,
+      "end": 243
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 293,
+      "end": 309
+    },
+    {
+      "text": "perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 336,
+      "end": 354
+    },
+    {
+      "text": "AngioTC intra y extracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 357,
+      "end": 385
+    },
+    {
+      "text": "área hipodensa",
+      "type": "PATOLOGIA",
+      "start": 480,
+      "end": 494
+    },
+    {
+      "text": "arteria cerebral media (ACM) derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 518,
+      "end": 554
+    },
+    {
+      "text": "cápsula interna",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 566,
+      "end": 581
+    },
+    {
+      "text": "núcleo lenticular",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 584,
+      "end": 601
+    },
+    {
+      "text": "ASPECTS de 6",
+      "type": "PUNTUACION_CLINICA",
+      "start": 607,
+      "end": 619
+    },
+    {
+      "text": "signo de arteria hiperdensa",
+      "type": "PATOLOGIA",
+      "start": 632,
+      "end": 659
+    },
+    {
+      "text": "segmento proximal M1 de la ACM derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 663,
+      "end": 701
+    },
+    {
+      "text": "trombo intraluminal",
+      "type": "PATOLOGIA",
+      "start": 718,
+      "end": 737
+    },
+    {
+      "text": "hemorragia intraparenquimatosa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 760,
+      "end": 790
+    },
+    {
+      "text": "hemorragia subaracnoidea",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 794,
+      "end": 818
+    },
+    {
+      "text": "desplazamientos de la línea media",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 835,
+      "end": 868
+    },
+    {
+      "text": "signos de edema masivo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 872,
+      "end": 894
+    },
+    {
+      "text": "Área extensa de retraso en el tiempo de tránsito (TTP)",
+      "type": "PATOLOGIA",
+      "start": 913,
+      "end": 967
+    },
+    {
+      "text": "aumento del tiempo medio de tránsito (MTT)",
+      "type": "PATOLOGIA",
+      "start": 970,
+      "end": 1012
+    },
+    {
+      "text": "territorio superficial y profundo de la ACM derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1016,
+      "end": 1067
+    },
+    {
+      "text": "marcada reducción del flujo sanguíneo cerebral (CBF)",
+      "type": "PATOLOGIA",
+      "start": 1073,
+      "end": 1125
+    },
+    {
+      "text": "disminución del volumen cerebral (CBV)",
+      "type": "PATOLOGIA",
+      "start": 1128,
+      "end": 1166
+    },
+    {
+      "text": "región capsuloganglionar derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1173,
+      "end": 1205
+    },
+    {
+      "text": "infarto establecido",
+      "type": "PATOLOGIA",
+      "start": 1230,
+      "end": 1249
+    },
+    {
+      "text": "penumbra isquémica circundante",
+      "type": "PATOLOGIA",
+      "start": 1252,
+      "end": 1282
+    },
+    {
+      "text": "hipoperfusión significativa",
+      "type": "PATOLOGIA",
+      "start": 1294,
+      "end": 1321
+    },
+    {
+      "text": "oclusión proximal",
+      "type": "PATOLOGIA",
+      "start": 1341,
+      "end": 1358
+    },
+    {
+      "text": "segmento proximal M1 de la arteria cerebral media derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1417,
+      "end": 1474
+    },
+    {
+      "text": "ausencia de relleno del contraste distal a dicha lesión",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1479,
+      "end": 1534
+    },
+    {
+      "text": "estenosis oclusivas en vasos intracraneales principales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1559,
+      "end": 1614
+    },
+    {
+      "text": "Sistema vertebrobasilar permeable",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1629,
+      "end": 1662
+    },
+    {
+      "text": "Arterias carótidas comunes y bifurcaciones sin estenosis significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1664,
+      "end": 1735
+    },
+    {
+      "text": "Leve ateromatosis calcificada en segmento cervical de la carótida interna derecha",
+      "type": "PATOLOGIA",
+      "start": 1737,
+      "end": 1818
+    },
+    {
+      "text": "sin compromiso hemodinámico",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1820,
+      "end": 1847
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 1886,
+      "end": 1900
+    },
+    {
+      "text": "territorio de la arteria cerebral media derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1904,
+      "end": 1951
+    },
+    {
+      "text": "oclusión proximal del segmento M1",
+      "type": "PATOLOGIA",
+      "start": 1956,
+      "end": 1989
+    },
+    {
+      "text": "ASPECTS de 6",
+      "type": "PUNTUACION_CLINICA",
+      "start": 607,
+      "end": 619
+    },
+    {
+      "text": "hallazgos compatibles con infarto en evolución con penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 2006,
+      "end": 2075
+    },
+    {
+      "text": "hemorragia asociada en el TC basal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2123,
+      "end": 2157
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "document_id": "informe_sintetico_20250804195045_23258",
+  "entities": [
+    {
+      "text": "isquemia",
+      "type": "PATOLOGIA",
+      "start": 590,
+      "end": 598
+    },
+    {
+      "text": "hemorragia",
+      "type": "PATOLOGIA",
+      "start": 601,
+      "end": 611
+    },
+    {
+      "text": "ASPECTS 10/10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 511,
+      "end": 524
+    },
+    {
+      "text": "hipodensas",
+      "type": "PATOLOGIA",
+      "start": 550,
+      "end": 560
+    },
+    {
+      "text": "hiperdensas",
+      "type": "PATOLOGIA",
+      "start": 564,
+      "end": 575
+    },
+    {
+      "text": "edema cerebral",
+      "type": "PATOLOGIA",
+      "start": 739,
+      "end": 753
+    },
+    {
+      "text": "calcificaciones benignas",
+      "type": "PATOLOGIA",
+      "start": 777,
+      "end": 801
+    },
+    {
+      "text": "cambios crónicos",
+      "type": "TEMPORALIDAD",
+      "start": 841,
+      "end": 857
+    },
+    {
+      "text": "TC PERFUSIÓN",
+      "type": "TECNICA_IMAGEN",
+      "start": 882,
+      "end": 894
+    },
+    {
+      "text": "ANGIO-TC EXTRA E INTRACRANEAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 1005,
+      "end": 1034
+    },
+    {
+      "text": "sin placas ateromatosas significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1106,
+      "end": 1144
+    },
+    {
+      "text": "sin signos de estenosis ni oclusión",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1231,
+      "end": 1266
+    },
+    {
+      "text": "sin alteraciones morfológicas ni flujo comprometido",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1292,
+      "end": 1343
+    },
+    {
+      "text": "No se observan malformaciones vasculares ni aneurismas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1345,
+      "end": 1399
+    },
+    {
+      "text": "sin hallazgos agudos ni signos de isquemia o hemorragia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1435,
+      "end": 1490
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 511,
+      "end": 521
+    },
+    {
+      "text": "sin estenosis ni lesiones vasculares relevantes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1553,
+      "end": 1600
+    },
+    {
+      "text": "No evidencia de patología intracraneal aguda",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1602,
+      "end": 1646
+    }
+  ]
+}

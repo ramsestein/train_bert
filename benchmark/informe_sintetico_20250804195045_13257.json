@@ -1,0 +1,137 @@
+{
+  "document_id": "informe_sintetico_20250804195045_13257",
+  "entities": [
+    {
+      "text": "hematoma subdural agudo",
+      "type": "PATOLOGIA",
+      "start": 443,
+      "end": 466
+    },
+    {
+      "text": "región frontoparietal derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 470,
+      "end": 499
+    },
+    {
+      "text": "efecto masa",
+      "type": "PATOLOGIA",
+      "start": 561,
+      "end": 572
+    },
+    {
+      "text": "desplazamiento de la línea media",
+      "type": "PATOLOGIA",
+      "start": 612,
+      "end": 644
+    },
+    {
+      "text": "6 mm",
+      "type": "MEDIDA",
+      "start": 683,
+      "end": 687
+    },
+    {
+      "text": "hemorragia intracerebral franca",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 717,
+      "end": 748
+    },
+    {
+      "text": "hemorragia subaracnoidea",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 752,
+      "end": 776
+    },
+    {
+      "text": "compresión del ventrículo lateral derecho",
+      "type": "PATOLOGIA",
+      "start": 809,
+      "end": 850
+    },
+    {
+      "text": "disminución del flujo cerebral (CBF)",
+      "type": "PATOLOGIA",
+      "start": 1014,
+      "end": 1050
+    },
+    {
+      "text": "volumen cerebral (CBV)",
+      "type": "PATOLOGIA",
+      "start": 1053,
+      "end": 1075
+    },
+    {
+      "text": "aumento del tiempo de tránsito (TTP)",
+      "type": "PATOLOGIA",
+      "start": 1081,
+      "end": 1117
+    },
+    {
+      "text": "compromiso hemodinámico focal",
+      "type": "PATOLOGIA",
+      "start": 1131,
+      "end": 1160
+    },
+    {
+      "text": "signos de estenosis ni oclusiones",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1244,
+      "end": 1277
+    },
+    {
+      "text": "aneurismas ni malformaciones vasculares",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1294,
+      "end": 1333
+    },
+    {
+      "text": "troncos supraaórticos",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1361,
+      "end": 1382
+    },
+    {
+      "text": "compromiso vascular secundario",
+      "type": "PATOLOGIA",
+      "start": 1631,
+      "end": 1661
+    },
+    {
+      "text": "complicaciones hemorrágicas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1687,
+      "end": 1714
+    },
+    {
+      "text": "lesiones vasculares",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1718,
+      "end": 1737
+    },
+    {
+      "text": "valoración neuroquirúrgica urgente",
+      "type": "PATOLOGIA",
+      "start": 1748,
+      "end": 1782
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 272,
+      "end": 288
+    },
+    {
+      "text": "angiografía por TC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 315,
+      "end": 355
+    },
+    {
+      "text": "estudio de perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 358,
+      "end": 387
+    }
+  ]
+}

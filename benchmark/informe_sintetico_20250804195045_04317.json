@@ -1,0 +1,95 @@
+{
+  "document_id": "informe_sintetico_20250804195045_04317",
+  "entities": [
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 191,
+      "end": 205
+    },
+    {
+      "text": "hemicorpórea derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 273,
+      "end": 293
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 314,
+      "end": 330
+    },
+    {
+      "text": "hemorragias intra ni extraaxiales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 534,
+      "end": 567
+    },
+    {
+      "text": "isquemia incipiente",
+      "type": "PATOLOGIA",
+      "start": 961,
+      "end": 980
+    },
+    {
+      "text": "tronco cerebral caudal",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1120,
+      "end": 1142
+    },
+    {
+      "text": "cerebelo hemisférico izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1145,
+      "end": 1175
+    },
+    {
+      "text": "arteria basilar proximal",
+      "type": "ARTERIA",
+      "start": 1432,
+      "end": 1456
+    },
+    {
+      "text": "estenosis severa",
+      "type": "PATOLOGIA",
+      "start": 1493,
+      "end": 1509
+    },
+    {
+      "text": "territorio posterior",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1659,
+      "end": 1679
+    },
+    {
+      "text": "hemisferio cerebeloso izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1939,
+      "end": 1970
+    },
+    {
+      "text": "ASPECTS posterior comprometido",
+      "type": "PUNTUACION_CLINICA",
+      "start": 1972,
+      "end": 2002
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2018,
+      "end": 2041
+    },
+    {
+      "text": "Oclusión arterial basilar proximal",
+      "type": "PATOLOGIA",
+      "start": 2306,
+      "end": 2340
+    },
+    {
+      "text": "signos precoces de isquemia cerebelosa izquierda",
+      "type": "PATOLOGIA",
+      "start": 2361,
+      "end": 2409
+    }
+  ]
+}

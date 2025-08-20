@@ -1,0 +1,65 @@
+{
+  "document_id": "informe_sintetico_20250804195045_03936",
+  "entities": [
+    {
+      "text": "infarto lacunar agudo",
+      "type": "PATOLOGIA",
+      "start": 255,
+      "end": 276
+    },
+    {
+      "text": "núcleo lenticular derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 562,
+      "end": 587
+    },
+    {
+      "text": "8 mm",
+      "type": "MEDIDA",
+      "start": 550,
+      "end": 554
+    },
+    {
+      "text": "ASPECTS 9",
+      "type": "PUNTUACION_CLINICA",
+      "start": 753,
+      "end": 762
+    },
+    {
+      "text": "arteria lenticuloestriada derecha",
+      "type": "ARTERIA",
+      "start": 1063,
+      "end": 1096
+    },
+    {
+      "text": "isquémica aguda",
+      "type": "PATOLOGIA",
+      "start": 1177,
+      "end": 1192
+    },
+    {
+      "text": "No se identifican hemorragias intra o extraaxiales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 441,
+      "end": 491
+    },
+    {
+      "text": "No se objetivan áreas de penumbra o hipoperfusión extensa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1212,
+      "end": 1269
+    },
+    {
+      "text": "No se identifican signos de estenosis, oclusión ni disección",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1599,
+      "end": 1659
+    },
+    {
+      "text": "sin complicaciones hemorrágicas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2213,
+      "end": 2244
+    }
+  ]
+}

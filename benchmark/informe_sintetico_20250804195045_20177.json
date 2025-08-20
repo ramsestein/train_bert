@@ -1,0 +1,65 @@
+{
+  "document_id": "informe_sintetico_20250804195045_20177",
+  "entities": [
+    {
+      "text": "hematoma",
+      "type": "PATOLOGIA",
+      "start": 330,
+      "end": 338
+    },
+    {
+      "text": "lobar",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 352,
+      "end": 357
+    },
+    {
+      "text": "parietal",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 358,
+      "end": 366
+    },
+    {
+      "text": "izquierdo",
+      "type": "LATERALIDAD",
+      "start": 367,
+      "end": 376
+    },
+    {
+      "text": "35 cc",
+      "type": "MEDIDA",
+      "start": 687,
+      "end": 692
+    },
+    {
+      "text": "4 mm",
+      "type": "MEDIDA",
+      "start": 931,
+      "end": 935
+    },
+    {
+      "text": "aguda",
+      "type": "TEMPORALIDAD",
+      "start": 1154,
+      "end": 1159
+    },
+    {
+      "text": "Hematoma lobar izquierdo en región parietal con volumen estimado de 35 cc",
+      "type": "PATOLOGIA",
+      "start": 2011,
+      "end": 2084
+    },
+    {
+      "text": "sin hidrocefalia asociada",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1244,
+      "end": 1269
+    },
+    {
+      "text": "sin evidencia de isquemia penumbra significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1568,
+      "end": 1616
+    }
+  ]
+}

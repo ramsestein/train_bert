@@ -1,0 +1,251 @@
+{
+  "document_id": "informe_sintetico_20250804195045_18852",
+  "entities": [
+    {
+      "text": "hemiparesia derecha",
+      "type": "PATOLOGIA",
+      "start": 183,
+      "end": 202
+    },
+    {
+      "text": "afasia motora",
+      "type": "PATOLOGIA",
+      "start": 205,
+      "end": 218
+    },
+    {
+      "text": "hipertensión arterial",
+      "type": "PATOLOGIA",
+      "start": 262,
+      "end": 283
+    },
+    {
+      "text": "hemorragias intracraneales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 488,
+      "end": 514
+    },
+    {
+      "text": "sangrado agudo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 528,
+      "end": 542
+    },
+    {
+      "text": "áreas hipodensas sutiles",
+      "type": "PATOLOGIA",
+      "start": 556,
+      "end": 580
+    },
+    {
+      "text": "territorio cortical y subcortical fronto-parietal izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 587,
+      "end": 646
+    },
+    {
+      "text": "ASPECTS 9",
+      "type": "PUNTUACION_CLINICA",
+      "start": 705,
+      "end": 714
+    },
+    {
+      "text": "Sistema ventricular",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 771,
+      "end": 790
+    },
+    {
+      "text": "morfología y tamaño conservados",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 795,
+      "end": 826
+    },
+    {
+      "text": "Línea media centrada",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 828,
+      "end": 848
+    },
+    {
+      "text": "Cisternas basales libres",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 850,
+      "end": 874
+    },
+    {
+      "text": "Mapas de tiempo de tránsito medio (TTP)",
+      "type": "TECNICA_IMAGEN",
+      "start": 892,
+      "end": 931
+    },
+    {
+      "text": "prolongación focalizada",
+      "type": "PATOLOGIA",
+      "start": 941,
+      "end": 964
+    },
+    {
+      "text": "territorio de ramas distales de la arteria cerebral media izquierda (segmentos M2/M3)",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 968,
+      "end": 1053
+    },
+    {
+      "text": "Volumen cerebral sanguíneo (CBV)",
+      "type": "MEDIDA",
+      "start": 1055,
+      "end": 1087
+    },
+    {
+      "text": "prácticamente conservado",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1100,
+      "end": 1124
+    },
+    {
+      "text": "Flujo cerebral sanguíneo (CBF)",
+      "type": "MEDIDA",
+      "start": 1148,
+      "end": 1178
+    },
+    {
+      "text": "reducido",
+      "type": "PATOLOGIA",
+      "start": 1179,
+      "end": 1187
+    },
+    {
+      "text": "áreas corticales frontoparietales izquierdas",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1191,
+      "end": 1235
+    },
+    {
+      "text": "territorio distal de la ACM",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1256,
+      "end": 1283
+    },
+    {
+      "text": "Asimetría evidente en la perfusión",
+      "type": "PATOLOGIA",
+      "start": 1285,
+      "end": 1319
+    },
+    {
+      "text": "isquemia en fase aguda",
+      "type": "PATOLOGIA",
+      "start": 1336,
+      "end": 1358
+    },
+    {
+      "text": "Oclusión parcial segmentaria",
+      "type": "PATOLOGIA",
+      "start": 1393,
+      "end": 1421
+    },
+    {
+      "text": "ramo distal M2 de la arteria cerebral media izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1425,
+      "end": 1478
+    },
+    {
+      "text": "No se evidencian estenosis significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1480,
+      "end": 1521
+    },
+    {
+      "text": "circulación intracraneal ni extracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1540,
+      "end": 1580
+    },
+    {
+      "text": "Arterias carótidas internas y vertebrales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1582,
+      "end": 1623
+    },
+    {
+      "text": "permeables y sin signos de ateromatosis severa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1624,
+      "end": 1670
+    },
+    {
+      "text": "Sistema vertebrobasilar",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1672,
+      "end": 1695
+    },
+    {
+      "text": "sin alteraciones",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1696,
+      "end": 1712
+    },
+    {
+      "text": "Isquemia aguda en territorio distal de arteria cerebral media izquierda (M2/M3)",
+      "type": "PATOLOGIA",
+      "start": 1737,
+      "end": 1816
+    },
+    {
+      "text": "oclusión segmentaria en rama distal M2",
+      "type": "PATOLOGIA",
+      "start": 1821,
+      "end": 1859
+    },
+    {
+      "text": "ASPECTS 9",
+      "type": "PUNTUACION_CLINICA",
+      "start": 705,
+      "end": 714
+    },
+    {
+      "text": "No se observan hemorragias intracraneales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1909,
+      "end": 1950
+    },
+    {
+      "text": "signos de sangrado",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 518,
+      "end": 536
+    },
+    {
+      "text": "Mapas de perfusión con prolongación del tiempo de tránsito",
+      "type": "TECNICA_IMAGEN",
+      "start": 1974,
+      "end": 2032
+    },
+    {
+      "text": "reducción de flujo en zona cortical izquierda",
+      "type": "PATOLOGIA",
+      "start": 2035,
+      "end": 2080
+    },
+    {
+      "text": "compatible con isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 2081,
+      "end": 2110
+    },
+    {
+      "text": "Resto de circulación intra y extracraneal permeable",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2112,
+      "end": 2163
+    },
+    {
+      "text": "sin estenosis significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2164,
+      "end": 2192
+    }
+  ]
+}

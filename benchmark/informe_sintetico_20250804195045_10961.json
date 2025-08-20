@@ -1,0 +1,83 @@
+{
+  "document_id": "informe_sintetico_20250804195045_10961",
+  "entities": [
+    {
+      "text": "hemorragia subaracnoidea difusa",
+      "type": "PATOLOGIA",
+      "start": 500,
+      "end": 531
+    },
+    {
+      "text": "cisternas basales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 549,
+      "end": 566
+    },
+    {
+      "text": "interhemisféricas",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 568,
+      "end": 585
+    },
+    {
+      "text": "surcos corticales frontales y temporales bilaterales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 588,
+      "end": 640
+    },
+    {
+      "text": "No se visualizan colecciones intraparenquimatosas ni hematomas intraaxiales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 642,
+      "end": 717
+    },
+    {
+      "text": "No se detecta desplazamiento de las estructuras de la línea media",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 719,
+      "end": 784
+    },
+    {
+      "text": "ventrículos laterales son de tamaño normal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 790,
+      "end": 832
+    },
+    {
+      "text": "sin signos de hidrocefalia obstructiva",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 833,
+      "end": 871
+    },
+    {
+      "text": "aneurisma sacular de aproximadamente 6 mm",
+      "type": "PATOLOGIA",
+      "start": 1020,
+      "end": 1061
+    },
+    {
+      "text": "arteria cerebral anterior derecha",
+      "type": "ARTERIA",
+      "start": 1097,
+      "end": 1130
+    },
+    {
+      "text": "ACM, ACP, ACAs",
+      "type": "ARTERIA",
+      "start": 1225,
+      "end": 1239
+    },
+    {
+      "text": "sin signos de isquemia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1880,
+      "end": 1902
+    },
+    {
+      "text": "fase aguda",
+      "type": "TEMPORALIDAD",
+      "start": 1591,
+      "end": 1601
+    }
+  ]
+}

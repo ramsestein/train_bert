@@ -1,0 +1,65 @@
+{
+  "document_id": "informe_sintetico_20250804195045_20257",
+  "entities": [
+    {
+      "text": "hematoma",
+      "type": "PATOLOGIA",
+      "start": 282,
+      "end": 290
+    },
+    {
+      "text": "lobar",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 499,
+      "end": 504
+    },
+    {
+      "text": "frontal izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 521,
+      "end": 538
+    },
+    {
+      "text": "35 ml",
+      "type": "MEDIDA",
+      "start": 569,
+      "end": 574
+    },
+    {
+      "text": "4 mm",
+      "type": "MEDIDA",
+      "start": 745,
+      "end": 749
+    },
+    {
+      "text": "aguda",
+      "type": "TEMPORALIDAD",
+      "start": 1483,
+      "end": 1488
+    },
+    {
+      "text": "No se visualizan signos de fractura craneal.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 752,
+      "end": 796
+    },
+    {
+      "text": "sin evidencia de hidrocefalia.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 851,
+      "end": 881
+    },
+    {
+      "text": "sin evidenciar áreas de hipoperfusión sugestivas de isquemia secundaria.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1079,
+      "end": 1151
+    },
+    {
+      "text": "sin evidenciar signos de estenosis, disección, aneurismas o malformaciones arteriovenosas.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1253,
+      "end": 1343
+    }
+  ]
+}

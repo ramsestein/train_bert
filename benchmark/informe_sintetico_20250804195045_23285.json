@@ -1,0 +1,47 @@
+{
+  "document_id": "informe_sintetico_20250804195045_23285",
+  "entities": [
+    {
+      "text": "hematoma hemorrágico",
+      "type": "PATOLOGIA",
+      "start": 498,
+      "end": 518
+    },
+    {
+      "text": "25 x 20 x 18 mm",
+      "type": "MEDIDA",
+      "start": 549,
+      "end": 564
+    },
+    {
+      "text": "hemisferio cerebeloso derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 568,
+      "end": 597
+    },
+    {
+      "text": "IV ventrículo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 659,
+      "end": 672
+    },
+    {
+      "text": "hidrocefalia obstructiva",
+      "type": "PATOLOGIA",
+      "start": 748,
+      "end": 772
+    },
+    {
+      "text": "No se identifican hematomas en otras localizaciones",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 843,
+      "end": 894
+    },
+    {
+      "text": "No se identifican lesiones isquémicas asociadas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1540,
+      "end": 1587
+    }
+  ]
+}

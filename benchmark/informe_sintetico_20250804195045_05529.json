@@ -1,0 +1,113 @@
+{
+  "document_id": "informe_sintetico_20250804195045_05529",
+  "entities": [
+    {
+      "text": "hemiparesia izquierda",
+      "type": "PATOLOGIA",
+      "start": 217,
+      "end": 238
+    },
+    {
+      "text": "ictus isquémico",
+      "type": "PATOLOGIA",
+      "start": 269,
+      "end": 284
+    },
+    {
+      "text": "hemorragia aguda",
+      "type": "PATOLOGIA",
+      "start": 511,
+      "end": 527
+    },
+    {
+      "text": "hipodensidad",
+      "type": "PATOLOGIA",
+      "start": 641,
+      "end": 653
+    },
+    {
+      "text": "arteria cerebral media (ACM) derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 683,
+      "end": 719
+    },
+    {
+      "text": "ASPECTS 9",
+      "type": "PUNTUACION_CLINICA",
+      "start": 721,
+      "end": 730
+    },
+    {
+      "text": "territorio de la ACM derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 973,
+      "end": 1001
+    },
+    {
+      "text": "segmentos distales M2/M3",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1022,
+      "end": 1046
+    },
+    {
+      "text": "ACM derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 990,
+      "end": 1001
+    },
+    {
+      "text": "sin evidencias de estenosis significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1286,
+      "end": 1328
+    },
+    {
+      "text": "sin alteraciones importantes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1400,
+      "end": 1428
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 1539,
+      "end": 1553
+    },
+    {
+      "text": "arteria cerebral media derecha (segmentos M2/M3)",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1581,
+      "end": 1629
+    },
+    {
+      "text": "ASPECTS 9",
+      "type": "PUNTUACION_CLINICA",
+      "start": 721,
+      "end": 730
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1764,
+      "end": 1787
+    },
+    {
+      "text": "TC Craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 305,
+      "end": 321
+    },
+    {
+      "text": "TC Perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 334,
+      "end": 355
+    },
+    {
+      "text": "AngioTC arterial intra y extracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 358,
+      "end": 395
+    }
+  ]
+}

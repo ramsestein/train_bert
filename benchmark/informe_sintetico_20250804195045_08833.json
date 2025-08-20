@@ -1,0 +1,83 @@
+{
+  "document_id": "informe_sintetico_20250804195045_08833",
+  "entities": [
+    {
+      "text": "hematoma intraparenquimatoso",
+      "type": "PATOLOGIA",
+      "start": 488,
+      "end": 516
+    },
+    {
+      "text": "región putaminal derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 520,
+      "end": 544
+    },
+    {
+      "text": "cápsula interna",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 581,
+      "end": 596
+    },
+    {
+      "text": "agudo",
+      "type": "TEMPORALIDAD",
+      "start": 675,
+      "end": 680
+    },
+    {
+      "text": "6 mm",
+      "type": "MEDIDA",
+      "start": 825,
+      "end": 829
+    },
+    {
+      "text": "hipoperfusión marcada",
+      "type": "PATOLOGIA",
+      "start": 1021,
+      "end": 1042
+    },
+    {
+      "text": "ipsilateral",
+      "type": "LATERALIDAD",
+      "start": 908,
+      "end": 919
+    },
+    {
+      "text": "TTP",
+      "type": "PATOLOGIA",
+      "start": 1236,
+      "end": 1239
+    },
+    {
+      "text": "sin signos de estenosis ni trombosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1450,
+      "end": 1486
+    },
+    {
+      "text": "sin obstrucciones",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1503,
+      "end": 1520
+    },
+    {
+      "text": "efecto masa",
+      "type": "PATOLOGIA",
+      "start": 744,
+      "end": 755
+    },
+    {
+      "text": "compromiso hemodinámico local",
+      "type": "PATOLOGIA",
+      "start": 1769,
+      "end": 1798
+    },
+    {
+      "text": "TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANG IOTC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 72,
+      "end": 140
+    }
+  ]
+}

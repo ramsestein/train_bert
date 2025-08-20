@@ -1,0 +1,215 @@
+{
+  "document_id": "informe_sintetico_20250804195045_03595",
+  "entities": [
+    {
+      "text": "hemorragia intracraneal aguda",
+      "type": "PATOLOGIA",
+      "start": 599,
+      "end": 628
+    },
+    {
+      "text": "signos de infarto cortical",
+      "type": "PATOLOGIA",
+      "start": 632,
+      "end": 658
+    },
+    {
+      "text": "edema",
+      "type": "PATOLOGIA",
+      "start": 676,
+      "end": 681
+    },
+    {
+      "text": "región frontoparietal derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 685,
+      "end": 714
+    },
+    {
+      "text": "discreta pérdida de diferenciación corticosubcortical",
+      "type": "PATOLOGIA",
+      "start": 719,
+      "end": 772
+    },
+    {
+      "text": "signos de herniación",
+      "type": "PATOLOGIA",
+      "start": 792,
+      "end": 812
+    },
+    {
+      "text": "desplazamiento significativo de la línea media",
+      "type": "PATOLOGIA",
+      "start": 816,
+      "end": 862
+    },
+    {
+      "text": "Sistema ventricular en rango normal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 864,
+      "end": 899
+    },
+    {
+      "text": "Cisternas basales libres",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 901,
+      "end": 925
+    },
+    {
+      "text": "volumen de sangre cerebral (CBV)",
+      "type": "PATOLOGIA",
+      "start": 999,
+      "end": 1031
+    },
+    {
+      "text": "territorio frontal derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1035,
+      "end": 1061
+    },
+    {
+      "text": "aumento del tiempo de tránsito medio (MTT)",
+      "type": "PATOLOGIA",
+      "start": 1067,
+      "end": 1109
+    },
+    {
+      "text": "congestión venosa",
+      "type": "PATOLOGIA",
+      "start": 1124,
+      "end": 1141
+    },
+    {
+      "text": "Arterias principales permeables",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1179,
+      "end": 1210
+    },
+    {
+      "text": "estenosis",
+      "type": "PATOLOGIA",
+      "start": 1215,
+      "end": 1224
+    },
+    {
+      "text": "oclusiones",
+      "type": "PATOLOGIA",
+      "start": 1228,
+      "end": 1238
+    },
+    {
+      "text": "Oclusión completa del seno longitudinal superior",
+      "type": "PATOLOGIA",
+      "start": 1261,
+      "end": 1309
+    },
+    {
+      "text": "seno transverso derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1316,
+      "end": 1339
+    },
+    {
+      "text": "ausencia de opacificación en dichos segmentos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1345,
+      "end": 1390
+    },
+    {
+      "text": "signo del delta vacío",
+      "type": "PATOLOGIA",
+      "start": 1406,
+      "end": 1427
+    },
+    {
+      "text": "Venas corticales adyacentes con engrosamiento",
+      "type": "PATOLOGIA",
+      "start": 1429,
+      "end": 1474
+    },
+    {
+      "text": "áreas de congestión",
+      "type": "PATOLOGIA",
+      "start": 1477,
+      "end": 1496
+    },
+    {
+      "text": "colecciones hemáticas",
+      "type": "PATOLOGIA",
+      "start": 1515,
+      "end": 1536
+    },
+    {
+      "text": "infartos hemorrágicos",
+      "type": "PATOLOGIA",
+      "start": 1539,
+      "end": 1560
+    },
+    {
+      "text": "trombosis venosa cerebral",
+      "type": "PATOLOGIA",
+      "start": 308,
+      "end": 333
+    },
+    {
+      "text": "seno longitudinal superior",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1283,
+      "end": 1309
+    },
+    {
+      "text": "seno transverso derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1316,
+      "end": 1339
+    },
+    {
+      "text": "edema cerebral focal",
+      "type": "PATOLOGIA",
+      "start": 1761,
+      "end": 1781
+    },
+    {
+      "text": "hemorragia intraparenquimatosa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1799,
+      "end": 1829
+    },
+    {
+      "text": "Perfusión alterada en área afectada",
+      "type": "PATOLOGIA",
+      "start": 1831,
+      "end": 1866
+    },
+    {
+      "text": "Arterias intracraneales permeables",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1868,
+      "end": 1902
+    },
+    {
+      "text": "valoración neurológica urgente",
+      "type": "PATOLOGIA",
+      "start": 1933,
+      "end": 1963
+    },
+    {
+      "text": "posible anticoagulación bajo control clínico",
+      "type": "PATOLOGIA",
+      "start": 1966,
+      "end": 2010
+    },
+    {
+      "text": "TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANG IOTC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 72,
+      "end": 140
+    },
+    {
+      "text": "TC CÓDIGO ICTUS con adquisición de cortes axiales craneales basales sin contraste, perfusión cerebral y angio-TC venosa y arterial intracraneal para valoración vascular completa.",
+      "type": "TECNICA_IMAGEN",
+      "start": 354,
+      "end": 532
+    }
+  ]
+}

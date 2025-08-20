@@ -1,0 +1,107 @@
+{
+  "document_id": "informe_sintetico_20250804195045_01986",
+  "entities": [
+    {
+      "text": "infarto cerebral",
+      "type": "PATOLOGIA",
+      "start": 248,
+      "end": 264
+    },
+    {
+      "text": "hipodensidades lineales corticales y subcorticales bilaterales",
+      "type": "PATOLOGIA",
+      "start": 540,
+      "end": 602
+    },
+    {
+      "text": "isquémico",
+      "type": "PATOLOGIA",
+      "start": 1160,
+      "end": 1169
+    },
+    {
+      "text": "arteria carótida interna izquierda",
+      "type": "ARTERIA",
+      "start": 1280,
+      "end": 1314
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 790,
+      "end": 799
+    },
+    {
+      "text": "moderada",
+      "type": "MEDIDA",
+      "start": 924,
+      "end": 932
+    },
+    {
+      "text": "moderado a severo",
+      "type": "MEDIDA",
+      "start": 1256,
+      "end": 1273
+    },
+    {
+      "text": "bilaterales",
+      "type": "LATERALIDAD",
+      "start": 591,
+      "end": 602
+    },
+    {
+      "text": "izquierdo",
+      "type": "LATERALIDAD",
+      "start": 1576,
+      "end": 1585
+    },
+    {
+      "text": "sin oclusiones intracraneales agudas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2369,
+      "end": 2405
+    },
+    {
+      "text": "No se evidencian hemorragias ni masas expansivas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 466,
+      "end": 514
+    },
+    {
+      "text": "sin reducción significativa del volumen cerebral cerebral",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1062,
+      "end": 1119
+    },
+    {
+      "text": "TC craneal urgente basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 285,
+      "end": 309
+    },
+    {
+      "text": "angiografía TC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 343,
+      "end": 379
+    },
+    {
+      "text": "TC PERFUSIÓN",
+      "type": "TECNICA_IMAGEN",
+      "start": 887,
+      "end": 899
+    },
+    {
+      "text": "TC CODE ICTUS",
+      "type": "TECNICA_IMAGEN",
+      "start": 1962,
+      "end": 1975
+    },
+    {
+      "text": "circulación colateral visualizada",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1422,
+      "end": 1455
+    }
+  ]
+}

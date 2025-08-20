@@ -1,0 +1,233 @@
+{
+  "document_id": "informe_sintetico_20250804195045_04263",
+  "entities": [
+    {
+      "text": "hemorragia intraventricular",
+      "type": "PATOLOGIA",
+      "start": 476,
+      "end": 503
+    },
+    {
+      "text": "ventrículos laterales bilaterales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 535,
+      "end": 568
+    },
+    {
+      "text": "sistema ventricular lateral izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 590,
+      "end": 627
+    },
+    {
+      "text": "tercer ventrículo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 636,
+      "end": 653
+    },
+    {
+      "text": "cuarto ventrículo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 678,
+      "end": 695
+    },
+    {
+      "text": "coágulo sanguíneo",
+      "type": "PATOLOGIA",
+      "start": 883,
+      "end": 900
+    },
+    {
+      "text": "hemorragia parenquimatosa focal definida",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 711,
+      "end": 751
+    },
+    {
+      "text": "hemorragia subaracnoidea significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 755,
+      "end": 793
+    },
+    {
+      "text": "desplazamiento de línea media",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 909,
+      "end": 938
+    },
+    {
+      "text": "densidad cerebral es simétrica",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 943,
+      "end": 973
+    },
+    {
+      "text": "signos de infarto agudo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 980,
+      "end": 1003
+    },
+    {
+      "text": "Cisternas basales libres",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1005,
+      "end": 1029
+    },
+    {
+      "text": "Mínimas alteraciones de perfusión",
+      "type": "PATOLOGIA",
+      "start": 1048,
+      "end": 1081
+    },
+    {
+      "text": "isquemia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1101,
+      "end": 1109
+    },
+    {
+      "text": "hipoperfusión focal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1112,
+      "end": 1131
+    },
+    {
+      "text": "Volumen cerebral (CBV)",
+      "type": "MEDIDA",
+      "start": 1133,
+      "end": 1155
+    },
+    {
+      "text": "flujo sanguíneo cerebral (CBF)",
+      "type": "MEDIDA",
+      "start": 1157,
+      "end": 1187
+    },
+    {
+      "text": "tiempo de tránsito (TTP)",
+      "type": "MEDIDA",
+      "start": 1190,
+      "end": 1214
+    },
+    {
+      "text": "rangos normales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1225,
+      "end": 1240
+    },
+    {
+      "text": "Arco aórtico",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1329,
+      "end": 1341
+    },
+    {
+      "text": "troncos supraórticos",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1344,
+      "end": 1364
+    },
+    {
+      "text": "placas ateromatosas",
+      "type": "PATOLOGIA",
+      "start": 1384,
+      "end": 1403
+    },
+    {
+      "text": "estenosis",
+      "type": "PATOLOGIA",
+      "start": 1407,
+      "end": 1416
+    },
+    {
+      "text": "Arterias carótidas internas",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1418,
+      "end": 1445
+    },
+    {
+      "text": "defectos de relleno",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1475,
+      "end": 1494
+    },
+    {
+      "text": "signos de oclusión",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1498,
+      "end": 1516
+    },
+    {
+      "text": "Arterias cerebrales intracraneales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1518,
+      "end": 1552
+    },
+    {
+      "text": "aneurismas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1571,
+      "end": 1581
+    },
+    {
+      "text": "malformaciones arteriovenosas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1583,
+      "end": 1612
+    },
+    {
+      "text": "estenosis relevantes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1616,
+      "end": 1636
+    },
+    {
+      "text": "Vascularización adecuada",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1638,
+      "end": 1662
+    },
+    {
+      "text": "Hemorragia intraventricular bilateral",
+      "type": "PATOLOGIA",
+      "start": 1689,
+      "end": 1726
+    },
+    {
+      "text": "tercer y cuarto ventrículo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1743,
+      "end": 1769
+    },
+    {
+      "text": "hemorragia parenquimatosa asociada",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1775,
+      "end": 1809
+    },
+    {
+      "text": "efecto masa significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1813,
+      "end": 1838
+    },
+    {
+      "text": "Sistema ventricular con leve dilatación",
+      "type": "PATOLOGIA",
+      "start": 1840,
+      "end": 1879
+    },
+    {
+      "text": "obstrucción",
+      "type": "PATOLOGIA",
+      "start": 1893,
+      "end": 1904
+    },
+    {
+      "text": "Angio-TC sin hallazgos vasculares relevantes asociados",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1956,
+      "end": 2010
+    }
+  ]
+}

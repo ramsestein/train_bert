@@ -1,0 +1,125 @@
+{
+  "document_id": "informe_sintetico_20250804195045_14989",
+  "entities": [
+    {
+      "text": "ictus isquémico",
+      "type": "PATOLOGIA",
+      "start": 248,
+      "end": 263
+    },
+    {
+      "text": "infartos agudos",
+      "type": "PATOLOGIA",
+      "start": 770,
+      "end": 785
+    },
+    {
+      "text": "áreas hipodensas multifocales",
+      "type": "PATOLOGIA",
+      "start": 550,
+      "end": 579
+    },
+    {
+      "text": "ACM izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 667,
+      "end": 680
+    },
+    {
+      "text": "ACM derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1472,
+      "end": 1483
+    },
+    {
+      "text": "arteria cerebral posterior derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 718,
+      "end": 752
+    },
+    {
+      "text": "ASPECTS aproximado de 6/10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 883,
+      "end": 909
+    },
+    {
+      "text": "prolongación del Tmax",
+      "type": "PATOLOGIA",
+      "start": 1052,
+      "end": 1073
+    },
+    {
+      "text": "reducción del flujo cerebral (CBF)",
+      "type": "PATOLOGIA",
+      "start": 1076,
+      "end": 1110
+    },
+    {
+      "text": "caída variable del volumen cerebral (CBV)",
+      "type": "PATOLOGIA",
+      "start": 1198,
+      "end": 1239
+    },
+    {
+      "text": "penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1264,
+      "end": 1282
+    },
+    {
+      "text": "core isquémico",
+      "type": "PATOLOGIA",
+      "start": 1310,
+      "end": 1324
+    },
+    {
+      "text": "defecto de repleción",
+      "type": "PATOLOGIA",
+      "start": 1432,
+      "end": 1452
+    },
+    {
+      "text": "segmentos M1 de ACM derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1456,
+      "end": 1483
+    },
+    {
+      "text": "segmento P2 de ACP derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1538,
+      "end": 1564
+    },
+    {
+      "text": "ACM bilateral",
+      "type": "LATERALIDAD",
+      "start": 1997,
+      "end": 2010
+    },
+    {
+      "text": "sin oclusiones",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1757,
+      "end": 1771
+    },
+    {
+      "text": "TC CRANEAL BASAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 453,
+      "end": 469
+    },
+    {
+      "text": "TC PERFUSIÓN",
+      "type": "TECNICA_IMAGEN",
+      "start": 992,
+      "end": 1004
+    },
+    {
+      "text": "ANGIO-TC EXTRA E INTRACRANEAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 1385,
+      "end": 1414
+    }
+  ]
+}

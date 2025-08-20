@@ -1,0 +1,113 @@
+{
+  "document_id": "informe_sintetico_20250804195045_17388",
+  "entities": [
+    {
+      "text": "infarto cerebral isquémico reciente",
+      "type": "PATOLOGIA",
+      "start": 179,
+      "end": 214
+    },
+    {
+      "text": "hipodensidad extensa",
+      "type": "PATOLOGIA",
+      "start": 446,
+      "end": 466
+    },
+    {
+      "text": "infarto isquémico en evolución",
+      "type": "PATOLOGIA",
+      "start": 538,
+      "end": 568
+    },
+    {
+      "text": "transformación hemorrágica tipo PH1",
+      "type": "PATOLOGIA",
+      "start": 683,
+      "end": 718
+    },
+    {
+      "text": "No se detectan hematomas intraparenquimatosos de gran tamaño",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 720,
+      "end": 780
+    },
+    {
+      "text": "No se observan otras áreas con alteración significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1115,
+      "end": 1170
+    },
+    {
+      "text": "disminución del flujo sanguíneo cerebral (CBF)",
+      "type": "PATOLOGIA",
+      "start": 962,
+      "end": 1008
+    },
+    {
+      "text": "aumento del tiempo de tránsito medio (MTT)",
+      "type": "PATOLOGIA",
+      "start": 1011,
+      "end": 1053
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "ARTERIA",
+      "start": 492,
+      "end": 522
+    },
+    {
+      "text": "arteria cerebral media proximal derecha",
+      "type": "ARTERIA",
+      "start": 1672,
+      "end": 1711
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 515,
+      "end": 522
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 515,
+      "end": 522
+    },
+    {
+      "text": "sin signos de compresión significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 871,
+      "end": 909
+    },
+    {
+      "text": "sin estenosis de grado significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1355,
+      "end": 1391
+    },
+    {
+      "text": "sin estenosis significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1748,
+      "end": 1776
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 270,
+      "end": 286
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 335,
+      "end": 356
+    },
+    {
+      "text": "angio TC intra y extracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 359,
+      "end": 388
+    }
+  ]
+}

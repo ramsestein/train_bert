@@ -1,0 +1,227 @@
+{
+  "document_id": "informe_sintetico_20250804195045_04382",
+  "entities": [
+    {
+      "text": "hemiparesia derecha",
+      "type": "PATOLOGIA",
+      "start": 206,
+      "end": 225
+    },
+    {
+      "text": "alteración del lenguaje",
+      "type": "PATOLOGIA",
+      "start": 228,
+      "end": 251
+    },
+    {
+      "text": "disección arterial",
+      "type": "PATOLOGIA",
+      "start": 273,
+      "end": 291
+    },
+    {
+      "text": "infarto cerebral",
+      "type": "PATOLOGIA",
+      "start": 296,
+      "end": 312
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 333,
+      "end": 349
+    },
+    {
+      "text": "TC perfusión cerebral dinámica",
+      "type": "TECNICA_IMAGEN",
+      "start": 365,
+      "end": 395
+    },
+    {
+      "text": "angio-TC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 398,
+      "end": 428
+    },
+    {
+      "text": "isquemia cerebral aguda",
+      "type": "PATOLOGIA",
+      "start": 503,
+      "end": 526
+    },
+    {
+      "text": "hipodensidad difusa",
+      "type": "PATOLOGIA",
+      "start": 577,
+      "end": 596
+    },
+    {
+      "text": "pérdida de diferenciación cortico-subcortical",
+      "type": "PATOLOGIA",
+      "start": 601,
+      "end": 646
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "ARTERIA",
+      "start": 667,
+      "end": 699
+    },
+    {
+      "text": "infarto cerebral en fase subaguda precoz",
+      "type": "PATOLOGIA",
+      "start": 716,
+      "end": 756
+    },
+    {
+      "text": "ASPECTS 7",
+      "type": "PUNTUACION_CLINICA",
+      "start": 758,
+      "end": 767
+    },
+    {
+      "text": "hemorragias intracraneales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 787,
+      "end": 813
+    },
+    {
+      "text": "espacios extraaxiales con sangrado",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 817,
+      "end": 851
+    },
+    {
+      "text": "estructuras de la línea media",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 857,
+      "end": 886
+    },
+    {
+      "text": "tiempo de tránsito (TTP)",
+      "type": "MEDIDA",
+      "start": 1042,
+      "end": 1066
+    },
+    {
+      "text": "flujo cerebral (CBF)",
+      "type": "MEDIDA",
+      "start": 1083,
+      "end": 1103
+    },
+    {
+      "text": "volumen cerebral (CBV)",
+      "type": "MEDIDA",
+      "start": 1185,
+      "end": 1207
+    },
+    {
+      "text": "arteria carótida interna",
+      "type": "ARTERIA",
+      "start": 1454,
+      "end": 1478
+    },
+    {
+      "text": "segmento cervical proximal izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1411,
+      "end": 1447
+    },
+    {
+      "text": "signo de doble lumen",
+      "type": "PATOLOGIA",
+      "start": 1484,
+      "end": 1504
+    },
+    {
+      "text": "engrosamiento mural",
+      "type": "PATOLOGIA",
+      "start": 1507,
+      "end": 1526
+    },
+    {
+      "text": "ausencia de flujo en la arteria cerebral media izquierda distal",
+      "type": "PATOLOGIA",
+      "start": 1651,
+      "end": 1714
+    },
+    {
+      "text": "oclusión trombótica secundaria",
+      "type": "PATOLOGIA",
+      "start": 1732,
+      "end": 1762
+    },
+    {
+      "text": "resto de las arterias intracraneales y extracraneales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1767,
+      "end": 1820
+    },
+    {
+      "text": "aneurismas ni malformaciones",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1848,
+      "end": 1876
+    },
+    {
+      "text": "signos de tromboembolismo en el sistema vertebrobasilar",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1885,
+      "end": 1940
+    },
+    {
+      "text": "Infarto cerebral agudo",
+      "type": "PATOLOGIA",
+      "start": 1965,
+      "end": 1987
+    },
+    {
+      "text": "territorio de la arteria cerebral media izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 650,
+      "end": 699
+    },
+    {
+      "text": "disección arterial cervical de arteria carótida interna izquierda",
+      "type": "PATOLOGIA",
+      "start": 2678,
+      "end": 2743
+    },
+    {
+      "text": "oclusión distal",
+      "type": "PATOLOGIA",
+      "start": 2748,
+      "end": 2763
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2274,
+      "end": 2297
+    },
+    {
+      "text": "Línea media centrada",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 2299,
+      "end": 2319
+    },
+    {
+      "text": "desplazamientos ni efecto masa significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2324,
+      "end": 2368
+    },
+    {
+      "text": "Disección arterial carotídea izquierda",
+      "type": "PATOLOGIA",
+      "start": 2905,
+      "end": 2943
+    },
+    {
+      "text": "trombosis secundaria en ACM izquierda",
+      "type": "PATOLOGIA",
+      "start": 2974,
+      "end": 3011
+    }
+  ]
+}

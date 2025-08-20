@@ -1,0 +1,77 @@
+{
+  "document_id": "informe_sintetico_20250804195045_02961",
+  "entities": [
+    {
+      "text": "infarto isquémico subagudo precoz",
+      "type": "PATOLOGIA",
+      "start": 584,
+      "end": 617
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 495,
+      "end": 525
+    },
+    {
+      "text": "arteria cerebral media",
+      "type": "ARTERIA",
+      "start": 495,
+      "end": 517
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 518,
+      "end": 525
+    },
+    {
+      "text": "ASPECTS 7",
+      "type": "PUNTUACION_CLINICA",
+      "start": 843,
+      "end": 852
+    },
+    {
+      "text": "isquemia activa",
+      "type": "PATOLOGIA",
+      "start": 1143,
+      "end": 1158
+    },
+    {
+      "text": "arteria carótida interna derecha",
+      "type": "ARTERIA",
+      "start": 1315,
+      "end": 1347
+    },
+    {
+      "text": "disección arterial",
+      "type": "PATOLOGIA",
+      "start": 1363,
+      "end": 1381
+    },
+    {
+      "text": "estenosis focal",
+      "type": "PATOLOGIA",
+      "start": 1899,
+      "end": 1914
+    },
+    {
+      "text": "TC craneal sin contraste",
+      "type": "TECNICA_IMAGEN",
+      "start": 321,
+      "end": 345
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 347,
+      "end": 368
+    },
+    {
+      "text": "AngioTC arterial intra y extracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 371,
+      "end": 408
+    }
+  ]
+}

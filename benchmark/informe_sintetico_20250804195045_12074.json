@@ -1,0 +1,89 @@
+{
+  "document_id": "informe_sintetico_20250804195045_12074",
+  "entities": [
+    {
+      "text": "hematoma intracerebral lobar",
+      "type": "PATOLOGIA",
+      "start": 602,
+      "end": 630
+    },
+    {
+      "text": "lóbulo frontal izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 531,
+      "end": 555
+    },
+    {
+      "text": "28 x 25 mm",
+      "type": "MEDIDA",
+      "start": 575,
+      "end": 585
+    },
+    {
+      "text": "3 mm",
+      "type": "MEDIDA",
+      "start": 741,
+      "end": 745
+    },
+    {
+      "text": "agudo",
+      "type": "TEMPORALIDAD",
+      "start": 186,
+      "end": 191
+    },
+    {
+      "text": "TC craneal sin contraste",
+      "type": "TECNICA_IMAGEN",
+      "start": 310,
+      "end": 334
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 336,
+      "end": 357
+    },
+    {
+      "text": "angioTC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 360,
+      "end": 389
+    },
+    {
+      "text": "No se identifican otras colecciones hemorrágicas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 748,
+      "end": 796
+    },
+    {
+      "text": "No hay evidencia de fracturas óseas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 826,
+      "end": 861
+    },
+    {
+      "text": "No se evidencian zonas de penumbra isquémica significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1224,
+      "end": 1282
+    },
+    {
+      "text": "sin signos de estenosis ni oclusiones",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1357,
+      "end": 1394
+    },
+    {
+      "text": "sin lesiones significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1545,
+      "end": 1572
+    },
+    {
+      "text": "sin áreas de isquemia distal significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1883,
+      "end": 1926
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "document_id": "informe_sintetico_20250804195045_16228",
+  "entities": [
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 596,
+      "end": 610
+    },
+    {
+      "text": "hemorragia intra ni extraaxial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 480,
+      "end": 510
+    },
+    {
+      "text": "sin áreas de hipodensidad sugestivas de isquemia aguda",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 556,
+      "end": 610
+    },
+    {
+      "text": "sin signos de patología estructural significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 800,
+      "end": 849
+    },
+    {
+      "text": "sin zonas de hipoperfusión ni alteraciones hemodinámicas que sugieran compromiso vascular agudo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 949,
+      "end": 1044
+    },
+    {
+      "text": "sin evidencia de oclusión ni estenosis de grado significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1285,
+      "end": 1346
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 1465,
+      "end": 1475
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 292,
+      "end": 308
+    },
+    {
+      "text": "estudio de perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 313,
+      "end": 342
+    },
+    {
+      "text": "angio-TC arterial intra y extracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 345,
+      "end": 383
+    },
+    {
+      "text": "TC PERFUSIÓN",
+      "type": "TECNICA_IMAGEN",
+      "start": 852,
+      "end": 864
+    },
+    {
+      "text": "ANGIO-TC EXTRA E INTRACRANEAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 1066,
+      "end": 1095
+    }
+  ]
+}

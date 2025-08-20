@@ -1,0 +1,137 @@
+{
+  "document_id": "informe_sintetico_20250804195045_21653",
+  "entities": [
+    {
+      "text": "isquemia aguda multiterritorial",
+      "type": "PATOLOGIA",
+      "start": 250,
+      "end": 281
+    },
+    {
+      "text": "hipodensidad temprana",
+      "type": "PATOLOGIA",
+      "start": 465,
+      "end": 486
+    },
+    {
+      "text": "infartos isquémicos en evolución",
+      "type": "PATOLOGIA",
+      "start": 1108,
+      "end": 1140
+    },
+    {
+      "text": "arterias cerebrales medias",
+      "type": "ARTERIA",
+      "start": 1334,
+      "end": 1360
+    },
+    {
+      "text": "bilaterales",
+      "type": "LATERALIDAD",
+      "start": 558,
+      "end": 569
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 589,
+      "end": 596
+    },
+    {
+      "text": "sin evidencia de sangrado intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 598,
+      "end": 636
+    },
+    {
+      "text": "TC craneal simple",
+      "type": "TECNICA_IMAGEN",
+      "start": 302,
+      "end": 319
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 793,
+      "end": 814
+    },
+    {
+      "text": "angio-TC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 342,
+      "end": 372
+    },
+    {
+      "text": "TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANG IOTC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 72,
+      "end": 140
+    },
+    {
+      "text": "territorios fronto-parietales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1859,
+      "end": 1888
+    },
+    {
+      "text": "región occipital derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 572,
+      "end": 596
+    },
+    {
+      "text": "territorios frontales superiores",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 942,
+      "end": 974
+    },
+    {
+      "text": "territorio frontal izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1188,
+      "end": 1216
+    },
+    {
+      "text": "cortical",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 502,
+      "end": 510
+    },
+    {
+      "text": "cerebral",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 331,
+      "end": 339
+    },
+    {
+      "text": "cerebrales",
+      "type": "ARTERIA",
+      "start": 1343,
+      "end": 1353
+    },
+    {
+      "text": "M2 y M3",
+      "type": "ARTERIA",
+      "start": 1374,
+      "end": 1381
+    },
+    {
+      "text": "P2",
+      "type": "ARTERIA",
+      "start": 1428,
+      "end": 1430
+    },
+    {
+      "text": "multiterritorial",
+      "type": "TEMPORALIDAD",
+      "start": 265,
+      "end": 281
+    },
+    {
+      "text": "aguda",
+      "type": "TEMPORALIDAD",
+      "start": 259,
+      "end": 264
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "document_id": "informe_sintetico_20250804195045_04024",
+  "entities": [
+    {
+      "text": "isquemia",
+      "type": "PATOLOGIA",
+      "start": 242,
+      "end": 250
+    },
+    {
+      "text": "arteria cerebral anterior izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 641,
+      "end": 676
+    },
+    {
+      "text": "A2",
+      "type": "ARTERIA",
+      "start": 1344,
+      "end": 1346
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 667,
+      "end": 676
+    },
+    {
+      "text": "ASPECTS 9",
+      "type": "PUNTUACION_CLINICA",
+      "start": 950,
+      "end": 959
+    },
+    {
+      "text": "aguda",
+      "type": "TEMPORALIDAD",
+      "start": 1619,
+      "end": 1624
+    },
+    {
+      "text": "No se evidencian hemorragias intra ni extraaxiales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 533,
+      "end": 583
+    },
+    {
+      "text": "No se detectan áreas de reducción de CBV que sugieran infarto establecido",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1197,
+      "end": 1270
+    },
+    {
+      "text": "Sin evidencia de hemorragia ni infarto establecido",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1789,
+      "end": 1839
+    },
+    {
+      "text": "TC CÓDIGO ICTUS (BASAL + PERFUSIÓN CEREBRAL + ANGIOTC TSA E INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 303,
+      "end": 376
+    }
+  ]
+}

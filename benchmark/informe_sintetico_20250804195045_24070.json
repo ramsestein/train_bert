@@ -1,0 +1,83 @@
+{
+  "document_id": "informe_sintetico_20250804195045_24070",
+  "entities": [
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 206,
+      "end": 220
+    },
+    {
+      "text": "arteria cerebral posterior derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 238,
+      "end": 272
+    },
+    {
+      "text": "ACP",
+      "type": "ARTERIA",
+      "start": 717,
+      "end": 720
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 265,
+      "end": 272
+    },
+    {
+      "text": "8/10",
+      "type": "MEDIDA",
+      "start": 886,
+      "end": 890
+    },
+    {
+      "text": "aguda",
+      "type": "TEMPORALIDAD",
+      "start": 215,
+      "end": 220
+    },
+    {
+      "text": "ASPECTS modificado",
+      "type": "PUNTUACION_CLINICA",
+      "start": 857,
+      "end": 875
+    },
+    {
+      "text": "TC craneal basal urgente",
+      "type": "TECNICA_IMAGEN",
+      "start": 293,
+      "end": 317
+    },
+    {
+      "text": "No se identifican colecciones hemorrágicas intra ni extraaxiales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 475,
+      "end": 539
+    },
+    {
+      "text": "oclusión completa",
+      "type": "PATOLOGIA",
+      "start": 1419,
+      "end": 1436
+    },
+    {
+      "text": "rama P2 derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1443,
+      "end": 1458
+    },
+    {
+      "text": "ACP",
+      "type": "ARTERIA",
+      "start": 717,
+      "end": 720
+    },
+    {
+      "text": "sin hallazgos patológicos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1671,
+      "end": 1696
+    }
+  ]
+}

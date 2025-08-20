@@ -1,0 +1,95 @@
+{
+  "document_id": "informe_sintetico_20250804195045_15624",
+  "entities": [
+    {
+      "text": "infarto isquémico subagudo",
+      "type": "PATOLOGIA",
+      "start": 595,
+      "end": 621
+    },
+    {
+      "text": "transformación hemorrágica tipo PH1",
+      "type": "PATOLOGIA",
+      "start": 693,
+      "end": 728
+    },
+    {
+      "text": "hemorragia petequial",
+      "type": "PATOLOGIA",
+      "start": 769,
+      "end": 789
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 549,
+      "end": 579
+    },
+    {
+      "text": "M2 derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1347,
+      "end": 1357
+    },
+    {
+      "text": "ACM derecha",
+      "type": "ARTERIA",
+      "start": 1137,
+      "end": 1148
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 572,
+      "end": 579
+    },
+    {
+      "text": "subagudo",
+      "type": "TEMPORALIDAD",
+      "start": 613,
+      "end": 621
+    },
+    {
+      "text": "PH1",
+      "type": "PUNTUACION_CLINICA",
+      "start": 725,
+      "end": 728
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 340,
+      "end": 356
+    },
+    {
+      "text": "angiografía TC",
+      "type": "TECNICA_IMAGEN",
+      "start": 395,
+      "end": 409
+    },
+    {
+      "text": "No se identifican colecciones hemáticas extraaxiales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 825,
+      "end": 877
+    },
+    {
+      "text": "No desplazamiento de línea media ni edema significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 879,
+      "end": 934
+    },
+    {
+      "text": "sin signos de hidrocefalia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 978,
+      "end": 1004
+    },
+    {
+      "text": "sin estenosis crítica",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1410,
+      "end": 1431
+    }
+  ]
+}

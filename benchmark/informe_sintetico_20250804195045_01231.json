@@ -1,0 +1,221 @@
+{
+  "document_id": "informe_sintetico_20250804195045_01231",
+  "entities": [
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 253,
+      "end": 267
+    },
+    {
+      "text": "arteria cerebral anterior",
+      "type": "ARTERIA",
+      "start": 285,
+      "end": 310
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 594,
+      "end": 603
+    },
+    {
+      "text": "hipodensidad",
+      "type": "PATOLOGIA",
+      "start": 532,
+      "end": 544
+    },
+    {
+      "text": "arteria cerebral anterior izquierda",
+      "type": "ARTERIA",
+      "start": 568,
+      "end": 603
+    },
+    {
+      "text": "lóbulo frontal",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 652,
+      "end": 666
+    },
+    {
+      "text": "núcleo caudado",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 683,
+      "end": 697
+    },
+    {
+      "text": "hemorragia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 728,
+      "end": 738
+    },
+    {
+      "text": "aumento del tiempo medio de tránsito (MTT)",
+      "type": "MEDIDA",
+      "start": 918,
+      "end": 960
+    },
+    {
+      "text": "tiempo de llegada del contraste (Tmax)",
+      "type": "MEDIDA",
+      "start": 963,
+      "end": 1001
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 594,
+      "end": 603
+    },
+    {
+      "text": "reducción leve a moderada del volumen sanguíneo cerebral (CBV)",
+      "type": "MEDIDA",
+      "start": 1044,
+      "end": 1106
+    },
+    {
+      "text": "flujo sanguíneo cerebral (CBF)",
+      "type": "MEDIDA",
+      "start": 1109,
+      "end": 1139
+    },
+    {
+      "text": "penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1156,
+      "end": 1174
+    },
+    {
+      "text": "oclusión subtotal",
+      "type": "PATOLOGIA",
+      "start": 1244,
+      "end": 1261
+    },
+    {
+      "text": "segmento A2",
+      "type": "ARTERIA",
+      "start": 1266,
+      "end": 1277
+    },
+    {
+      "text": "arteria cerebral anterior izquierda",
+      "type": "ARTERIA",
+      "start": 568,
+      "end": 603
+    },
+    {
+      "text": "ausencia de flujo distal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1325,
+      "end": 1349
+    },
+    {
+      "text": "ACM",
+      "type": "ARTERIA",
+      "start": 1455,
+      "end": 1458
+    },
+    {
+      "text": "ACP",
+      "type": "ARTERIA",
+      "start": 1460,
+      "end": 1463
+    },
+    {
+      "text": "circulación vertebrobasilar",
+      "type": "ARTERIA",
+      "start": 1467,
+      "end": 1494
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 253,
+      "end": 267
+    },
+    {
+      "text": "territorio de arteria cerebral anterior izquierda",
+      "type": "ARTERIA",
+      "start": 1665,
+      "end": 1714
+    },
+    {
+      "text": "segmento A2",
+      "type": "ARTERIA",
+      "start": 1266,
+      "end": 1277
+    },
+    {
+      "text": "penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1156,
+      "end": 1174
+    },
+    {
+      "text": "sin evidencia de infarto establecido",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1784,
+      "end": 1820
+    },
+    {
+      "text": "ASPECTS específico para ACA: 8",
+      "type": "PUNTUACION_CLINICA",
+      "start": 1841,
+      "end": 1871
+    },
+    {
+      "text": "oclusión subtotal",
+      "type": "PATOLOGIA",
+      "start": 1244,
+      "end": 1261
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 594,
+      "end": 603
+    },
+    {
+      "text": "control imagenológico",
+      "type": "TECNICA_IMAGEN",
+      "start": 2075,
+      "end": 2096
+    },
+    {
+      "text": "RM cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 2101,
+      "end": 2112
+    },
+    {
+      "text": "territorio de arteria cerebral anterior izquierda",
+      "type": "ARTERIA",
+      "start": 1665,
+      "end": 1714
+    },
+    {
+      "text": "oclusión del segmento A2",
+      "type": "PATOLOGIA",
+      "start": 2307,
+      "end": 2331
+    },
+    {
+      "text": "penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1156,
+      "end": 1174
+    },
+    {
+      "text": "angiográfica muestra oclusión subtotal en segmento A2 ACA izquierda",
+      "type": "PATOLOGIA",
+      "start": 2498,
+      "end": 2565
+    },
+    {
+      "text": "permeabilidad distal parcial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2571,
+      "end": 2599
+    }
+  ]
+}

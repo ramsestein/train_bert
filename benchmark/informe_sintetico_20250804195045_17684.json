@@ -1,0 +1,89 @@
+{
+  "document_id": "informe_sintetico_20250804195045_17684",
+  "entities": [
+    {
+      "text": "isquemia cerebral aguda",
+      "type": "PATOLOGIA",
+      "start": 250,
+      "end": 273
+    },
+    {
+      "text": "isquemia aguda reciente",
+      "type": "PATOLOGIA",
+      "start": 604,
+      "end": 627
+    },
+    {
+      "text": "isquemia",
+      "type": "PATOLOGIA",
+      "start": 250,
+      "end": 258
+    },
+    {
+      "text": "isquemia aguda multiterritorial",
+      "type": "PATOLOGIA",
+      "start": 1317,
+      "end": 1348
+    },
+    {
+      "text": "frontoparietales izquierdos",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 541,
+      "end": 568
+    },
+    {
+      "text": "occipital derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 571,
+      "end": 588
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "ARTERIA",
+      "start": 1429,
+      "end": 1461
+    },
+    {
+      "text": "ACM izquierda",
+      "type": "ARTERIA",
+      "start": 1463,
+      "end": 1476
+    },
+    {
+      "text": "ACM derecha",
+      "type": "ARTERIA",
+      "start": 1523,
+      "end": 1534
+    },
+    {
+      "text": "70%",
+      "type": "MEDIDA",
+      "start": 1499,
+      "end": 1502
+    },
+    {
+      "text": "multiterritorial",
+      "type": "TEMPORALIDAD",
+      "start": 1332,
+      "end": 1348
+    },
+    {
+      "text": "No se evidencian hemorragias intra ni extraaxiales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 697,
+      "end": 747
+    },
+    {
+      "text": "No se identifican aneurismas ni malformaciones vasculares",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1760,
+      "end": 1817
+    },
+    {
+      "text": "No evidencias de hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2140,
+      "end": 2180
+    }
+  ]
+}

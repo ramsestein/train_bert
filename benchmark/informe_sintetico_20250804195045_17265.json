@@ -1,0 +1,203 @@
+{
+  "document_id": "informe_sintetico_20250804195045_17265",
+  "entities": [
+    {
+      "text": "ACV isquémico",
+      "type": "PATOLOGIA",
+      "start": 179,
+      "end": 192
+    },
+    {
+      "text": "24 horas",
+      "type": "TEMPORALIDAD",
+      "start": 205,
+      "end": 213
+    },
+    {
+      "text": "deterioro neurológico súbito",
+      "type": "PATOLOGIA",
+      "start": 228,
+      "end": 256
+    },
+    {
+      "text": "TC craneal basal urgente",
+      "type": "TECNICA_IMAGEN",
+      "start": 319,
+      "end": 343
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 346,
+      "end": 367
+    },
+    {
+      "text": "angioTC intra y extracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 370,
+      "end": 398
+    },
+    {
+      "text": "extensa hiperdensidad hemorrágica",
+      "type": "PATOLOGIA",
+      "start": 488,
+      "end": 521
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "ARTERIA",
+      "start": 539,
+      "end": 569
+    },
+    {
+      "text": "más del 30%",
+      "type": "MEDIDA",
+      "start": 581,
+      "end": 592
+    },
+    {
+      "text": "signos de transformación hemorrágica tipo PH2",
+      "type": "PATOLOGIA",
+      "start": 617,
+      "end": 662
+    },
+    {
+      "text": "edema perilesional importante",
+      "type": "PATOLOGIA",
+      "start": 668,
+      "end": 697
+    },
+    {
+      "text": "efecto masa",
+      "type": "PATOLOGIA",
+      "start": 702,
+      "end": 713
+    },
+    {
+      "text": "desplazamiento de la línea media de aproximadamente 7 mm",
+      "type": "MEDIDA",
+      "start": 715,
+      "end": 771
+    },
+    {
+      "text": "No se visualizan hemorragias extraaxiales ni hematoencefalo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 792,
+      "end": 851
+    },
+    {
+      "text": "sistema ventricular está parcialmente comprimido en hemisferio derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 856,
+      "end": 926
+    },
+    {
+      "text": "sin signos de hemoventrículo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 927,
+      "end": 955
+    },
+    {
+      "text": "Disminución marcada del flujo cerebral (CBF)",
+      "type": "PATOLOGIA",
+      "start": 974,
+      "end": 1018
+    },
+    {
+      "text": "volumen cerebral (CBV)",
+      "type": "PATOLOGIA",
+      "start": 1021,
+      "end": 1043
+    },
+    {
+      "text": "en región parietotemporal derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1044,
+      "end": 1077
+    },
+    {
+      "text": "compatible con infarto establecido",
+      "type": "PATOLOGIA",
+      "start": 1078,
+      "end": 1112
+    },
+    {
+      "text": "Tiempo máximo (Tmax) prolongado",
+      "type": "PATOLOGIA",
+      "start": 1114,
+      "end": 1145
+    },
+    {
+      "text": "en zona periférica sugerente de penumbra isquémica residual limitada",
+      "type": "PATOLOGIA",
+      "start": 1146,
+      "end": 1214
+    },
+    {
+      "text": "Oclusión completa en segmento M1 de ACM derecha",
+      "type": "PATOLOGIA",
+      "start": 1250,
+      "end": 1297
+    },
+    {
+      "text": "Arterias intracraneales y extracraneales restantes permeables",
+      "type": "ARTERIA",
+      "start": 1299,
+      "end": 1360
+    },
+    {
+      "text": "sin estenosis ni ateromatosis significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1361,
+      "end": 1405
+    },
+    {
+      "text": "Sistema vertebrobasilar permeable",
+      "type": "ARTERIA",
+      "start": 1407,
+      "end": 1440
+    },
+    {
+      "text": "No se aprecian signos de disección ni anomalías vasculares accesorias",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1442,
+      "end": 1511
+    },
+    {
+      "text": "Transformación hemorrágica tipo PH2 en territorio de ACM derecha post infarto cerebral reciente",
+      "type": "PATOLOGIA",
+      "start": 1538,
+      "end": 1633
+    },
+    {
+      "text": "Edema cerebral con efecto masa y desplazamiento de línea media significativo",
+      "type": "PATOLOGIA",
+      "start": 1635,
+      "end": 1711
+    },
+    {
+      "text": "Oclusión persistente de ACM M1 derecha",
+      "type": "PATOLOGIA",
+      "start": 1713,
+      "end": 1751
+    },
+    {
+      "text": "Riesgo elevado de herniación",
+      "type": "PATOLOGIA",
+      "start": 1753,
+      "end": 1781
+    },
+    {
+      "text": "TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANGIOTC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 2233,
+      "end": 2300
+    },
+    {
+      "text": "Seguimiento clínico y radiológico estricto para valorar evolución hemorrágica y edema cerebral",
+      "type": "PATOLOGIA",
+      "start": 2319,
+      "end": 2413
+    }
+  ]
+}

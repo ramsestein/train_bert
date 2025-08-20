@@ -1,0 +1,173 @@
+{
+  "document_id": "informe_sintetico_20250804195045_03520",
+  "entities": [
+    {
+      "text": "hemiparesia derecha",
+      "type": "PATOLOGIA",
+      "start": 187,
+      "end": 206
+    },
+    {
+      "text": "ictus isquémico",
+      "type": "PATOLOGIA",
+      "start": 273,
+      "end": 288
+    },
+    {
+      "text": "hemorragias agudas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 492,
+      "end": 510
+    },
+    {
+      "text": "signos de transformación hemorrágica",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 514,
+      "end": 550
+    },
+    {
+      "text": "hipodensidad cortical",
+      "type": "PATOLOGIA",
+      "start": 568,
+      "end": 589
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "ARTERIA",
+      "start": 628,
+      "end": 660
+    },
+    {
+      "text": "porción opercular",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 676,
+      "end": 693
+    },
+    {
+      "text": "segmentos M2/M3",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 695,
+      "end": 710
+    },
+    {
+      "text": "edema cerebral masivo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 935,
+      "end": 956
+    },
+    {
+      "text": "efecto de masa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 960,
+      "end": 974
+    },
+    {
+      "text": "tiempo de tránsito medio (TTM)",
+      "type": "MEDIDA",
+      "start": 1033,
+      "end": 1063
+    },
+    {
+      "text": "tiempo hasta el pico (TTP)",
+      "type": "MEDIDA",
+      "start": 1066,
+      "end": 1092
+    },
+    {
+      "text": "disminución moderada de flujo sanguíneo cerebral (CBF)",
+      "type": "PATOLOGIA",
+      "start": 1136,
+      "end": 1190
+    },
+    {
+      "text": "preservación relativa del volumen cerebral sanguíneo (CBV)",
+      "type": "PATOLOGIA",
+      "start": 1197,
+      "end": 1255
+    },
+    {
+      "text": "territorio distal de ACM izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1321,
+      "end": 1355
+    },
+    {
+      "text": "oclusión abrupta",
+      "type": "PATOLOGIA",
+      "start": 1476,
+      "end": 1492
+    },
+    {
+      "text": "segmento M2 distal",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1505,
+      "end": 1523
+    },
+    {
+      "text": "ausencia de flujo distal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1528,
+      "end": 1552
+    },
+    {
+      "text": "Resto de la circulación intracraneal",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1554,
+      "end": 1590
+    },
+    {
+      "text": "ACAs, ACPs y sistema vertebrobasilar",
+      "type": "ARTERIA",
+      "start": 1592,
+      "end": 1628
+    },
+    {
+      "text": "estenosis ni trombosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1634,
+      "end": 1656
+    },
+    {
+      "text": "estenosis significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1684,
+      "end": 1708
+    },
+    {
+      "text": "territorio distales de la arteria cerebral media izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1814,
+      "end": 1872
+    },
+    {
+      "text": "segmentos M2/M3",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 695,
+      "end": 710
+    },
+    {
+      "text": "oclusión confirmada en angio-TC",
+      "type": "PATOLOGIA",
+      "start": 1895,
+      "end": 1926
+    },
+    {
+      "text": "ASPECTS estimado de 9",
+      "type": "PUNTUACION_CLINICA",
+      "start": 1928,
+      "end": 1949
+    },
+    {
+      "text": "afectación limitada sin signos de edema cerebral ni hemorragia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1951,
+      "end": 2013
+    },
+    {
+      "text": "posibilidad de tratamiento revascularizador",
+      "type": "PATOLOGIA",
+      "start": 2057,
+      "end": 2100
+    }
+  ]
+}

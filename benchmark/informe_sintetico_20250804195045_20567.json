@@ -1,0 +1,113 @@
+{
+  "document_id": "informe_sintetico_20250804195045_20567",
+  "entities": [
+    {
+      "text": "hemiparesia derecha",
+      "type": "PATOLOGIA",
+      "start": 213,
+      "end": 232
+    },
+    {
+      "text": "afasia",
+      "type": "PATOLOGIA",
+      "start": 235,
+      "end": 241
+    },
+    {
+      "text": "3 horas",
+      "type": "TEMPORALIDAD",
+      "start": 263,
+      "end": 270
+    },
+    {
+      "text": "No se evidencia hemorragia intraparenquimatosa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 466,
+      "end": 512
+    },
+    {
+      "text": "No se identifican lesiones hipodensas que sugieran infarto establecido",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 531,
+      "end": 601
+    },
+    {
+      "text": "ASPECTS 9/10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 650,
+      "end": 662
+    },
+    {
+      "text": "discreta hipodensidad en región insular izquierda",
+      "type": "PATOLOGIA",
+      "start": 668,
+      "end": 717
+    },
+    {
+      "text": "oligemia en territorio distal de la arteria cerebral media izquierda",
+      "type": "PATOLOGIA",
+      "start": 845,
+      "end": 913
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "ARTERIA",
+      "start": 881,
+      "end": 913
+    },
+    {
+      "text": "segmentos M2/M3",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 915,
+      "end": 930
+    },
+    {
+      "text": "aumento de los tiempos de tránsito (TTP)",
+      "type": "PATOLOGIA",
+      "start": 937,
+      "end": 977
+    },
+    {
+      "text": "disminución moderada del flujo cerebral (CBF)",
+      "type": "PATOLOGIA",
+      "start": 980,
+      "end": 1025
+    },
+    {
+      "text": "volumen cerebral (CBV) conservado",
+      "type": "PATOLOGIA",
+      "start": 1041,
+      "end": 1074
+    },
+    {
+      "text": "Isquemia aguda en territorio distal de la arteria cerebral media izquierda",
+      "type": "PATOLOGIA",
+      "start": 1560,
+      "end": 1634
+    },
+    {
+      "text": "segmentos M2/M3",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 915,
+      "end": 930
+    },
+    {
+      "text": "oclusión confirmada en rama distal",
+      "type": "PATOLOGIA",
+      "start": 1657,
+      "end": 1691
+    },
+    {
+      "text": "ASPECTS 9",
+      "type": "PUNTUACION_CLINICA",
+      "start": 650,
+      "end": 659
+    },
+    {
+      "text": "No evidencia de infarto establecido ni hemorragia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1760,
+      "end": 1809
+    }
+  ]
+}

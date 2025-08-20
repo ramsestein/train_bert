@@ -1,0 +1,251 @@
+{
+  "document_id": "informe_sintetico_20250804195045_12735",
+  "entities": [
+    {
+      "text": "isquemia cerebral aguda",
+      "type": "PATOLOGIA",
+      "start": 220,
+      "end": 243
+    },
+    {
+      "text": "hemorragia aguda intra o extraaxial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 505,
+      "end": 540
+    },
+    {
+      "text": "múltiples focos de hipodensidad",
+      "type": "PATOLOGIA",
+      "start": 554,
+      "end": 585
+    },
+    {
+      "text": "pérdida de diferenciación córtico-subcortical",
+      "type": "PATOLOGIA",
+      "start": 590,
+      "end": 635
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "ARTERIA",
+      "start": 670,
+      "end": 700
+    },
+    {
+      "text": "región frontal y parietal superior",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 702,
+      "end": 736
+    },
+    {
+      "text": "arteria cerebral posterior izquierda",
+      "type": "ARTERIA",
+      "start": 739,
+      "end": 775
+    },
+    {
+      "text": "lóbulos occipital y temporal medial",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 777,
+      "end": 812
+    },
+    {
+      "text": "territorio de ACM izquierda",
+      "type": "ARTERIA",
+      "start": 837,
+      "end": 864
+    },
+    {
+      "text": "opérculo parietal",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 866,
+      "end": 883
+    },
+    {
+      "text": "infartos isquémicos agudos recientes",
+      "type": "PATOLOGIA",
+      "start": 907,
+      "end": 943
+    },
+    {
+      "text": "desplazamiento de la línea media",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 996,
+      "end": 1028
+    },
+    {
+      "text": "Sistema ventricular y cisternas basales sin alteraciones",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1030,
+      "end": 1086
+    },
+    {
+      "text": "prolongación significativa en los territorios afectados",
+      "type": "PATOLOGIA",
+      "start": 1148,
+      "end": 1203
+    },
+    {
+      "text": "flujo cerebral (CBF)",
+      "type": "MEDIDA",
+      "start": 1227,
+      "end": 1247
+    },
+    {
+      "text": "volumen cerebral de sangre (CBV)",
+      "type": "MEDIDA",
+      "start": 1250,
+      "end": 1282
+    },
+    {
+      "text": "déficit de perfusión severo",
+      "type": "PATOLOGIA",
+      "start": 1356,
+      "end": 1383
+    },
+    {
+      "text": "tejido isquémico irreversiblemente dañado",
+      "type": "PATOLOGIA",
+      "start": 1399,
+      "end": 1440
+    },
+    {
+      "text": "penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1534,
+      "end": 1552
+    },
+    {
+      "text": "territorios supratentoriales múltiples",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1556,
+      "end": 1594
+    },
+    {
+      "text": "defectos de repleción en la arteria cerebral media derecha segmento M1",
+      "type": "PATOLOGIA",
+      "start": 1644,
+      "end": 1714
+    },
+    {
+      "text": "arteria cerebral posterior izquierda",
+      "type": "ARTERIA",
+      "start": 739,
+      "end": 775
+    },
+    {
+      "text": "estenosis significativa de la carótida interna izquierda",
+      "type": "PATOLOGIA",
+      "start": 1800,
+      "end": 1856
+    },
+    {
+      "text": "aproximadamente 70%",
+      "type": "MEDIDA",
+      "start": 1883,
+      "end": 1902
+    },
+    {
+      "text": "placa ateroesclerótica irregular",
+      "type": "PATOLOGIA",
+      "start": 1908,
+      "end": 1940
+    },
+    {
+      "text": "permeabilidad",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2005,
+      "end": 2018
+    },
+    {
+      "text": "signos de disección",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2024,
+      "end": 2043
+    },
+    {
+      "text": "trombos en otros segmentos principales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2062,
+      "end": 2100
+    },
+    {
+      "text": "vasos colaterales compensatorios importantes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2122,
+      "end": 2166
+    },
+    {
+      "text": "hemorragias detectables",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2214,
+      "end": 2237
+    },
+    {
+      "text": "infartos isquémicos agudos",
+      "type": "PATOLOGIA",
+      "start": 907,
+      "end": 933
+    },
+    {
+      "text": "distribución multiterritorial",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 2280,
+      "end": 2309
+    },
+    {
+      "text": "territorios de ACM derecha",
+      "type": "ARTERIA",
+      "start": 2313,
+      "end": 2339
+    },
+    {
+      "text": "ACP izquierda",
+      "type": "ARTERIA",
+      "start": 2341,
+      "end": 2354
+    },
+    {
+      "text": "ACM izquierda",
+      "type": "ARTERIA",
+      "start": 851,
+      "end": 864
+    },
+    {
+      "text": "compromiso hemodinámico significativo",
+      "type": "PATOLOGIA",
+      "start": 2404,
+      "end": 2441
+    },
+    {
+      "text": "zonas de penumbra en múltiples territorios vasculares",
+      "type": "PATOLOGIA",
+      "start": 2444,
+      "end": 2497
+    },
+    {
+      "text": "estenosis severa en carótida interna izquierda",
+      "type": "PATOLOGIA",
+      "start": 2548,
+      "end": 2594
+    },
+    {
+      "text": "ACM derecha M1",
+      "type": "ARTERIA",
+      "start": 2645,
+      "end": 2659
+    },
+    {
+      "text": "ramas distales de ACP izquierda",
+      "type": "ARTERIA",
+      "start": 2662,
+      "end": 2693
+    },
+    {
+      "text": "isquemia aguda multiterritorial",
+      "type": "PATOLOGIA",
+      "start": 2721,
+      "end": 2752
+    }
+  ]
+}

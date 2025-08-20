@@ -1,0 +1,107 @@
+{
+  "document_id": "informe_sintetico_20250804195045_04101",
+  "entities": [
+    {
+      "text": "hemorragia subaracnoidea difusa",
+      "type": "PATOLOGIA",
+      "start": 466,
+      "end": 497
+    },
+    {
+      "text": "cisternas basales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 531,
+      "end": 548
+    },
+    {
+      "text": "surcos corticales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 611,
+      "end": 628
+    },
+    {
+      "text": "espacios perimesencefálicos",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 562,
+      "end": 589
+    },
+    {
+      "text": "surcos corticales frontales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 611,
+      "end": 638
+    },
+    {
+      "text": "bilaterales",
+      "type": "LATERALIDAD",
+      "start": 652,
+      "end": 663
+    },
+    {
+      "text": "No se identifican hematomas intraparenquimatosos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 665,
+      "end": 713
+    },
+    {
+      "text": "No se observan signos de infarto cortical precoz",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 912,
+      "end": 960
+    },
+    {
+      "text": "No se detectan aneurismas evidentes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1217,
+      "end": 1252
+    },
+    {
+      "text": "No se visualizan estenosis críticas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1404,
+      "end": 1439
+    },
+    {
+      "text": "hemorragia subaracnoidea difusa",
+      "type": "PATOLOGIA",
+      "start": 466,
+      "end": 497
+    },
+    {
+      "text": "No se identifican signos de isquemia cerebral aguda",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1699,
+      "end": 1750
+    },
+    {
+      "text": "sin evidencia angiográfica de aneurisma",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2117,
+      "end": 2156
+    },
+    {
+      "text": "arteria carótida interna bilateral",
+      "type": "ARTERIA",
+      "start": 1368,
+      "end": 1402
+    },
+    {
+      "text": "TC CRANEAL BASAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 296,
+      "end": 312
+    },
+    {
+      "text": "PERFUSIÓN CEREBRAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 315,
+      "end": 333
+    },
+    {
+      "text": "ANGIOTC ARTERIAL INTRACRANEAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 336,
+      "end": 365
+    }
+  ]
+}

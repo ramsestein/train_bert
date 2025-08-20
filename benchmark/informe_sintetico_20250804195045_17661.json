@@ -1,0 +1,71 @@
+{
+  "document_id": "informe_sintetico_20250804195045_17661",
+  "entities": [
+    {
+      "text": "infarto cerebral subagudo",
+      "type": "PATOLOGIA",
+      "start": 511,
+      "end": 536
+    },
+    {
+      "text": "hemorragia intra ni extraaxial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 555,
+      "end": 585
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "ARTERIA",
+      "start": 462,
+      "end": 494
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 485,
+      "end": 494
+    },
+    {
+      "text": "TTP",
+      "type": "TECNICA_IMAGEN",
+      "start": 830,
+      "end": 833
+    },
+    {
+      "text": "Tmax",
+      "type": "TECNICA_IMAGEN",
+      "start": 861,
+      "end": 865
+    },
+    {
+      "text": "infarto cerebral",
+      "type": "PATOLOGIA",
+      "start": 238,
+      "end": 254
+    },
+    {
+      "text": "disección arterial",
+      "type": "PATOLOGIA",
+      "start": 259,
+      "end": 277
+    },
+    {
+      "text": "carótida interna ipsilateral",
+      "type": "ARTERIA",
+      "start": 1694,
+      "end": 1722
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1740,
+      "end": 1763
+    },
+    {
+      "text": "territorio de ACM izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 2197,
+      "end": 2224
+    }
+  ]
+}

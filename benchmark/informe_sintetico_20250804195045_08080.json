@@ -1,0 +1,179 @@
+{
+  "document_id": "informe_sintetico_20250804195045_08080",
+  "entities": [
+    {
+      "text": "infartos isquémicos recientes",
+      "type": "PATOLOGIA",
+      "start": 718,
+      "end": 747
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 765,
+      "end": 788
+    },
+    {
+      "text": "edema significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 792,
+      "end": 811
+    },
+    {
+      "text": "ASPECTS global disminuido",
+      "type": "PUNTUACION_CLINICA",
+      "start": 956,
+      "end": 981
+    },
+    {
+      "text": "tiempo de tránsito (TTP)",
+      "type": "MEDIDA",
+      "start": 1036,
+      "end": 1060
+    },
+    {
+      "text": "tiempo medio de tránsito (MTT)",
+      "type": "MEDIDA",
+      "start": 1063,
+      "end": 1093
+    },
+    {
+      "text": "flujo cerebral (CBF)",
+      "type": "MEDIDA",
+      "start": 1206,
+      "end": 1226
+    },
+    {
+      "text": "volumen cerebral (CBV)",
+      "type": "MEDIDA",
+      "start": 1229,
+      "end": 1251
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 1502,
+      "end": 1516
+    },
+    {
+      "text": "territorios de ACM derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 2151,
+      "end": 2177
+    },
+    {
+      "text": "ACP derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 2179,
+      "end": 2190
+    },
+    {
+      "text": "ACA izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 2193,
+      "end": 2206
+    },
+    {
+      "text": "oclusiones de segmento M1 de la arteria cerebral media derecha",
+      "type": "PATOLOGIA",
+      "start": 1662,
+      "end": 1724
+    },
+    {
+      "text": "segmento proximal de la arteria cerebral posterior derecha",
+      "type": "PATOLOGIA",
+      "start": 1731,
+      "end": 1789
+    },
+    {
+      "text": "estenosis severa (>70%) en segmento A2 izquierdo de la arteria cerebral anterior",
+      "type": "PATOLOGIA",
+      "start": 1799,
+      "end": 1879
+    },
+    {
+      "text": "sin signos de disección ni placas ulceradas activas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1957,
+      "end": 2008
+    },
+    {
+      "text": "aneurismas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2027,
+      "end": 2037
+    },
+    {
+      "text": "malformaciones vasculares",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2041,
+      "end": 2066
+    },
+    {
+      "text": "signos de hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2441,
+      "end": 2474
+    },
+    {
+      "text": "efecto masa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2478,
+      "end": 2489
+    },
+    {
+      "text": "ASPECTS 6",
+      "type": "PUNTUACION_CLINICA",
+      "start": 2491,
+      "end": 2500
+    },
+    {
+      "text": "TC craneal sin contraste",
+      "type": "TECNICA_IMAGEN",
+      "start": 283,
+      "end": 307
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 309,
+      "end": 330
+    },
+    {
+      "text": "angiografía TC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 381,
+      "end": 417
+    },
+    {
+      "text": "territorios fronto-parietal derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 625,
+      "end": 660
+    },
+    {
+      "text": "temporal izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 662,
+      "end": 680
+    },
+    {
+      "text": "occipital derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 683,
+      "end": 700
+    },
+    {
+      "text": "territorio de la arteria cerebral media derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1097,
+      "end": 1144
+    },
+    {
+      "text": "territorio de arteria cerebral media",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1396,
+      "end": 1432
+    }
+  ]
+}

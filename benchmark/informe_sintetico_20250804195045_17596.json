@@ -1,0 +1,131 @@
+{
+  "document_id": "informe_sintetico_20250804195045_17596",
+  "entities": [
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 279,
+      "end": 293
+    },
+    {
+      "text": "territorio vertebrobasilar",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 297,
+      "end": 323
+    },
+    {
+      "text": "hemisferio cerebeloso derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 651,
+      "end": 680
+    },
+    {
+      "text": "arteria cerebelosa posterior inferior derecha",
+      "type": "ARTERIA",
+      "start": 1012,
+      "end": 1057
+    },
+    {
+      "text": "arteria basilar",
+      "type": "ARTERIA",
+      "start": 1087,
+      "end": 1102
+    },
+    {
+      "text": "segmento V4 de arteria vertebral derecha",
+      "type": "ARTERIA",
+      "start": 1333,
+      "end": 1373
+    },
+    {
+      "text": "hemorragias",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1924,
+      "end": 1935
+    },
+    {
+      "text": "No se evidencian hemorragias ni signos de efecto masa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1907,
+      "end": 1960
+    },
+    {
+      "text": "Ausencia de hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2284,
+      "end": 2319
+    },
+    {
+      "text": "TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANGIOTC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 2349,
+      "end": 2416
+    },
+    {
+      "text": "TC basal sin contraste",
+      "type": "TECNICA_IMAGEN",
+      "start": 368,
+      "end": 390
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 392,
+      "end": 413
+    },
+    {
+      "text": "Angio-TC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 415,
+      "end": 445
+    },
+    {
+      "text": "aumento del tiempo de tránsito medio (TTM)",
+      "type": "MEDIDA",
+      "start": 909,
+      "end": 951
+    },
+    {
+      "text": "tiempo de retraso (TTP)",
+      "type": "MEDIDA",
+      "start": 954,
+      "end": 977
+    },
+    {
+      "text": "reducción del flujo cerebral (CBF)",
+      "type": "MEDIDA",
+      "start": 1108,
+      "end": 1142
+    },
+    {
+      "text": "leve disminución del volumen cerebral (CBV)",
+      "type": "MEDIDA",
+      "start": 1145,
+      "end": 1188
+    },
+    {
+      "text": "sin compromiso de la diferenciación cortico-subcortical",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 682,
+      "end": 737
+    },
+    {
+      "text": "sin alteraciones",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 860,
+      "end": 876
+    },
+    {
+      "text": "sin estenosis significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1605,
+      "end": 1633
+    },
+    {
+      "text": "sin ateromatosis obstructiva",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1657,
+      "end": 1685
+    }
+  ]
+}

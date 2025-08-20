@@ -1,0 +1,101 @@
+{
+  "document_id": "informe_sintetico_20250804193425_0001",
+  "entities": [
+    {
+      "text": "infarto isquémico",
+      "type": "PATOLOGIA",
+      "start": 507,
+      "end": 524
+    },
+    {
+      "text": "hemorragia petequial",
+      "type": "PATOLOGIA",
+      "start": 551,
+      "end": 571
+    },
+    {
+      "text": "menos del 30%",
+      "type": "MEDIDA",
+      "start": 583,
+      "end": 596
+    },
+    {
+      "text": "transformación hemorrágica PH1",
+      "type": "PATOLOGIA",
+      "start": 636,
+      "end": 666
+    },
+    {
+      "text": "efecto de masa local",
+      "type": "PATOLOGIA",
+      "start": 684,
+      "end": 704
+    },
+    {
+      "text": "región temporal izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 464,
+      "end": 489
+    },
+    {
+      "text": "arteria cerebral media (ACMi)",
+      "type": "ARTERIA",
+      "start": 1048,
+      "end": 1077
+    },
+    {
+      "text": "Oclusión del segmento proximal M1 de la arteria cerebral media izquierda",
+      "type": "PATOLOGIA",
+      "start": 1190,
+      "end": 1262
+    },
+    {
+      "text": "arterias cerebrales anteriores y posteriores",
+      "type": "ARTERIA",
+      "start": 1317,
+      "end": 1361
+    },
+    {
+      "text": "sin signos de estenosis significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1378,
+      "end": 1415
+    },
+    {
+      "text": "ateromatosis calcificada moderada",
+      "type": "PATOLOGIA",
+      "start": 1430,
+      "end": 1463
+    },
+    {
+      "text": "sin estenosis significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1508,
+      "end": 1535
+    },
+    {
+      "text": "TC Craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 302,
+      "end": 318
+    },
+    {
+      "text": "TC PERFUSIÓN",
+      "type": "TECNICA_IMAGEN",
+      "start": 892,
+      "end": 904
+    },
+    {
+      "text": "ANGIO-TC EXTRA E INTRACRANEAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 1159,
+      "end": 1188
+    },
+    {
+      "text": "agudas",
+      "type": "TEMPORALIDAD",
+      "start": 883,
+      "end": 889
+    }
+  ]
+}

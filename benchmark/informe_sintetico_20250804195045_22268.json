@@ -1,0 +1,89 @@
+{
+  "document_id": "informe_sintetico_20250804195045_22268",
+  "entities": [
+    {
+      "text": "accidente cerebrovascular isquémico agudo",
+      "type": "PATOLOGIA",
+      "start": 201,
+      "end": 242
+    },
+    {
+      "text": "transformación hemorrágica",
+      "type": "PATOLOGIA",
+      "start": 257,
+      "end": 283
+    },
+    {
+      "text": "pequeña área hiperdensa puntiforme",
+      "type": "PATOLOGIA",
+      "start": 442,
+      "end": 476
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 513,
+      "end": 543
+    },
+    {
+      "text": "transformación hemorrágica tipo HI1",
+      "type": "PATOLOGIA",
+      "start": 560,
+      "end": 595
+    },
+    {
+      "text": "10 mm",
+      "type": "MEDIDA",
+      "start": 656,
+      "end": 661
+    },
+    {
+      "text": "ASPECTS 9",
+      "type": "PUNTUACION_CLINICA",
+      "start": 831,
+      "end": 840
+    },
+    {
+      "text": "sin alteraciones significativas en volumen y flujo cerebral",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1093,
+      "end": 1152
+    },
+    {
+      "text": "sin estenosis significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1284,
+      "end": 1312
+    },
+    {
+      "text": "sin anomalías visibles",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1504,
+      "end": 1526
+    },
+    {
+      "text": "ASPECTS 9/10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 1688,
+      "end": 1700
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 304,
+      "end": 320
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 322,
+      "end": 343
+    },
+    {
+      "text": "angiografía TC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 346,
+      "end": 382
+    }
+  ]
+}

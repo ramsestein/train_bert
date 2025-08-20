@@ -1,0 +1,89 @@
+{
+  "document_id": "informe_sintetico_20250804195045_19918",
+  "entities": [
+    {
+      "text": "hemorragia subaracnoidea",
+      "type": "PATOLOGIA",
+      "start": 213,
+      "end": 237
+    },
+    {
+      "text": "cisterna supraselar",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 478,
+      "end": 497
+    },
+    {
+      "text": "cisterna ambiens derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 500,
+      "end": 524
+    },
+    {
+      "text": "hemorragia subaracnoidea focal",
+      "type": "PATOLOGIA",
+      "start": 541,
+      "end": 571
+    },
+    {
+      "text": "No se evidencian hematomas parenquimatosos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 573,
+      "end": 615
+    },
+    {
+      "text": "No se observan áreas con perfusión comprometida",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 999,
+      "end": 1046
+    },
+    {
+      "text": "aneurisma sacular de 4 mm",
+      "type": "PATOLOGIA",
+      "start": 1114,
+      "end": 1139
+    },
+    {
+      "text": "arteria comunicante anterior",
+      "type": "ARTERIA",
+      "start": 1146,
+      "end": 1174
+    },
+    {
+      "text": "sin estenosis ni oclusiones visibles",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1261,
+      "end": 1297
+    },
+    {
+      "text": "isquemia cerebral aguda",
+      "type": "PATOLOGIA",
+      "start": 1586,
+      "end": 1609
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 917,
+      "end": 927
+    },
+    {
+      "text": "TC craneal basal urgente",
+      "type": "TECNICA_IMAGEN",
+      "start": 257,
+      "end": 281
+    },
+    {
+      "text": "Angio-TC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 337,
+      "end": 367
+    },
+    {
+      "text": "TC PERFUSIÓN",
+      "type": "TECNICA_IMAGEN",
+      "start": 929,
+      "end": 941
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "document_id": "informe_sintetico_20250804195045_13231",
+  "entities": [
+    {
+      "text": "infarto lacunar",
+      "type": "PATOLOGIA",
+      "start": 217,
+      "end": 232
+    },
+    {
+      "text": "núcleo lenticular derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 742,
+      "end": 767
+    },
+    {
+      "text": "6 mm",
+      "type": "MEDIDA",
+      "start": 718,
+      "end": 722
+    },
+    {
+      "text": "agudo",
+      "type": "TEMPORALIDAD",
+      "start": 186,
+      "end": 191
+    },
+    {
+      "text": "ASPECTS 10/10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 631,
+      "end": 644
+    },
+    {
+      "text": "núcleo lenticular derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 742,
+      "end": 767
+    },
+    {
+      "text": "ACAs, ACMs y ACPs",
+      "type": "ARTERIA",
+      "start": 1325,
+      "end": 1342
+    },
+    {
+      "text": "sin signos de oclusión ni estenosis relevantes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1355,
+      "end": 1401
+    },
+    {
+      "text": "sin evidencia de hemorragia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1626,
+      "end": 1653
+    }
+  ]
+}

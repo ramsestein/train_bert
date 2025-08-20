@@ -1,0 +1,95 @@
+{
+  "document_id": "informe_sintetico_20250804195045_06462",
+  "entities": [
+    {
+      "text": "hipertensión arterial",
+      "type": "PATOLOGIA",
+      "start": 187,
+      "end": 208
+    },
+    {
+      "text": "cefalea intensa",
+      "type": "PATOLOGIA",
+      "start": 243,
+      "end": 258
+    },
+    {
+      "text": "visión borrosa",
+      "type": "PATOLOGIA",
+      "start": 260,
+      "end": 274
+    },
+    {
+      "text": "crisis convulsivas",
+      "type": "PATOLOGIA",
+      "start": 277,
+      "end": 295
+    },
+    {
+      "text": "leucoencefalopatía posterior reversible (LPR)",
+      "type": "PATOLOGIA",
+      "start": 317,
+      "end": 362
+    },
+    {
+      "text": "hipodensidad simétricas y bilaterales",
+      "type": "PATOLOGIA",
+      "start": 512,
+      "end": 549
+    },
+    {
+      "text": "regiones parieto-occipitales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 553,
+      "end": 581
+    },
+    {
+      "text": "sustancia blanca subcortical",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 607,
+      "end": 635
+    },
+    {
+      "text": "leucoencefalopatía posterior reversible",
+      "type": "PATOLOGIA",
+      "start": 317,
+      "end": 356
+    },
+    {
+      "text": "sustancia blanca parieto-occipital",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1423,
+      "end": 1457
+    },
+    {
+      "text": "sin evidencia de infarto ni sangrado",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1458,
+      "end": 1494
+    },
+    {
+      "text": "sin alteraciones vasculares significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1504,
+      "end": 1546
+    },
+    {
+      "text": "TC CODIGO ICTUS",
+      "type": "TECNICA_IMAGEN",
+      "start": 72,
+      "end": 87
+    },
+    {
+      "text": "ausencia de infarto isquémico o hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1943,
+      "end": 1998
+    },
+    {
+      "text": "sin estenosis ni oclusiones",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2145,
+      "end": 2172
+    }
+  ]
+}

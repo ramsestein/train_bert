@@ -1,0 +1,95 @@
+{
+  "document_id": "informe_sintetico_20250804195045_23885",
+  "entities": [
+    {
+      "text": "infarto isquémico subagudo",
+      "type": "PATOLOGIA",
+      "start": 582,
+      "end": 608
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 536,
+      "end": 566
+    },
+    {
+      "text": "ACM",
+      "type": "ARTERIA",
+      "start": 1599,
+      "end": 1602
+    },
+    {
+      "text": "ACA",
+      "type": "ARTERIA",
+      "start": 1604,
+      "end": 1607
+    },
+    {
+      "text": "ACP",
+      "type": "ARTERIA",
+      "start": 1609,
+      "end": 1612
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 559,
+      "end": 566
+    },
+    {
+      "text": "menos de 10 mm",
+      "type": "MEDIDA",
+      "start": 664,
+      "end": 678
+    },
+    {
+      "text": "subagudo",
+      "type": "TEMPORALIDAD",
+      "start": 600,
+      "end": 608
+    },
+    {
+      "text": "tipo HI1",
+      "type": "PUNTUACION_CLINICA",
+      "start": 754,
+      "end": 762
+    },
+    {
+      "text": "No evidencia hemorragia intraparenquimatosa extensa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 765,
+      "end": 816
+    },
+    {
+      "text": "No se detectan hemorragias extraaxiales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1026,
+      "end": 1065
+    },
+    {
+      "text": "sin estenosis hemodinámicamente significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1490,
+      "end": 1536
+    },
+    {
+      "text": "sin oclusiones visibles",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1626,
+      "end": 1649
+    },
+    {
+      "text": "sin tejido viable significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2026,
+      "end": 2057
+    },
+    {
+      "text": "sin estenosis ni oclusiones significativas en vasos principales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2071,
+      "end": 2134
+    }
+  ]
+}

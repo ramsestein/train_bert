@@ -1,0 +1,191 @@
+{
+  "document_id": "informe_sintetico_20250804195045_04614",
+  "entities": [
+    {
+      "text": "ictus isquémico agudo",
+      "type": "PATOLOGIA",
+      "start": 241,
+      "end": 262
+    },
+    {
+      "text": "hemiparesia derecha",
+      "type": "PATOLOGIA",
+      "start": 197,
+      "end": 216
+    },
+    {
+      "text": "disfasia",
+      "type": "PATOLOGIA",
+      "start": 219,
+      "end": 227
+    },
+    {
+      "text": "hipodensidad parenquimatosa",
+      "type": "PATOLOGIA",
+      "start": 451,
+      "end": 478
+    },
+    {
+      "text": "arteria cerebral media (ACM) izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 499,
+      "end": 537
+    },
+    {
+      "text": "región insular",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 563,
+      "end": 577
+    },
+    {
+      "text": "cápsula interna",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 579,
+      "end": 594
+    },
+    {
+      "text": "corona radiada",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 597,
+      "end": 611
+    },
+    {
+      "text": "ASPECTS estimado en 7",
+      "type": "PUNTUACION_CLINICA",
+      "start": 692,
+      "end": 713
+    },
+    {
+      "text": "signo de arteria hiperdensa en segmento M1 de ACM izquierda",
+      "type": "PATOLOGIA",
+      "start": 729,
+      "end": 788
+    },
+    {
+      "text": "disminución significativa del flujo cerebral (CBF)",
+      "type": "PATOLOGIA",
+      "start": 849,
+      "end": 899
+    },
+    {
+      "text": "volumen cerebral (CBV)",
+      "type": "PATOLOGIA",
+      "start": 902,
+      "end": 924
+    },
+    {
+      "text": "tiempo de tránsito medio (MTT)",
+      "type": "PATOLOGIA",
+      "start": 981,
+      "end": 1011
+    },
+    {
+      "text": "tiempo hasta el pico (TTP)",
+      "type": "PATOLOGIA",
+      "start": 1014,
+      "end": 1040
+    },
+    {
+      "text": "área de penumbra isquémica extensa",
+      "type": "PATOLOGIA",
+      "start": 1057,
+      "end": 1091
+    },
+    {
+      "text": "núcleo isquémico bien delimitado",
+      "type": "PATOLOGIA",
+      "start": 1094,
+      "end": 1126
+    },
+    {
+      "text": "Oclusión completa de la arteria cerebral media izquierda",
+      "type": "PATOLOGIA",
+      "start": 1163,
+      "end": 1219
+    },
+    {
+      "text": "segmento M1 proximal",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1221,
+      "end": 1241
+    },
+    {
+      "text": "Circulación colateral moderada por arterias leptomeníngeas de la arteria cerebral anterior ipsilateral",
+      "type": "PATOLOGIA",
+      "start": 1243,
+      "end": 1345
+    },
+    {
+      "text": "No se evidencian estenosis significativas en otras arterias intracraneales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1347,
+      "end": 1421
+    },
+    {
+      "text": "ni hallazgos aneurismáticos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1422,
+      "end": 1449
+    },
+    {
+      "text": "isquemia aguda en territorio de arteria cerebral media izquierda por oclusión proximal de segmento M1",
+      "type": "PATOLOGIA",
+      "start": 1502,
+      "end": 1603
+    },
+    {
+      "text": "ASPECTS de 7",
+      "type": "PUNTUACION_CLINICA",
+      "start": 1624,
+      "end": 1636
+    },
+    {
+      "text": "signo de arteria hiperdensa",
+      "type": "PATOLOGIA",
+      "start": 729,
+      "end": 756
+    },
+    {
+      "text": "Perfusión cerebral con amplio mismatch viable",
+      "type": "PATOLOGIA",
+      "start": 1681,
+      "end": 1726
+    },
+    {
+      "text": "posibilidad de tratamiento trombolítico o trombectomía",
+      "type": "PATOLOGIA",
+      "start": 1740,
+      "end": 1794
+    },
+    {
+      "text": "evaluación neurológica urgente",
+      "type": "PATOLOGIA",
+      "start": 1810,
+      "end": 1840
+    },
+    {
+      "text": "TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANG IOTC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 72,
+      "end": 140
+    },
+    {
+      "text": "TC craneal basal urgente",
+      "type": "TECNICA_IMAGEN",
+      "start": 283,
+      "end": 307
+    },
+    {
+      "text": "perfusión cerebral dinámica",
+      "type": "TECNICA_IMAGEN",
+      "start": 309,
+      "end": 336
+    },
+    {
+      "text": "angio-TC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 339,
+      "end": 369
+    }
+  ]
+}

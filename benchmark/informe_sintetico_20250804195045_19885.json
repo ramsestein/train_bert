@@ -1,0 +1,167 @@
+{
+  "document_id": "informe_sintetico_20250804195045_19885",
+  "entities": [
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 228,
+      "end": 242
+    },
+    {
+      "text": "arteria cerebral anterior",
+      "type": "ARTERIA",
+      "start": 260,
+      "end": 285
+    },
+    {
+      "text": "hipodensidad parenquimatosa",
+      "type": "PATOLOGIA",
+      "start": 474,
+      "end": 501
+    },
+    {
+      "text": "infarto agudo",
+      "type": "PATOLOGIA",
+      "start": 562,
+      "end": 575
+    },
+    {
+      "text": "arteria cerebral anterior",
+      "type": "ARTERIA",
+      "start": 260,
+      "end": 285
+    },
+    {
+      "text": "derecho",
+      "type": "LATERALIDAD",
+      "start": 538,
+      "end": 545
+    },
+    {
+      "text": "Aumento leve del volumen",
+      "type": "PATOLOGIA",
+      "start": 620,
+      "end": 644
+    },
+    {
+      "text": "borramiento de surcos corticales adyacentes",
+      "type": "PATOLOGIA",
+      "start": 647,
+      "end": 690
+    },
+    {
+      "text": "No evidencia de hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 692,
+      "end": 731
+    },
+    {
+      "text": "ASPECTS modificado 8",
+      "type": "PUNTUACION_CLINICA",
+      "start": 817,
+      "end": 837
+    },
+    {
+      "text": "aumento del tiempo máximo (TMAX)",
+      "type": "PATOLOGIA",
+      "start": 951,
+      "end": 983
+    },
+    {
+      "text": "tiempo de tránsito (TTD)",
+      "type": "PATOLOGIA",
+      "start": 986,
+      "end": 1010
+    },
+    {
+      "text": "reducción significativa del flujo cerebral (CBF)",
+      "type": "PATOLOGIA",
+      "start": 1015,
+      "end": 1063
+    },
+    {
+      "text": "volumen cerebral (CBV)",
+      "type": "PATOLOGIA",
+      "start": 1066,
+      "end": 1088
+    },
+    {
+      "text": "región medial frontal derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1092,
+      "end": 1121
+    },
+    {
+      "text": "penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1148,
+      "end": 1166
+    },
+    {
+      "text": "infarto en evolución",
+      "type": "PATOLOGIA",
+      "start": 1177,
+      "end": 1197
+    },
+    {
+      "text": "Oclusión segmentaria",
+      "type": "PATOLOGIA",
+      "start": 1230,
+      "end": 1250
+    },
+    {
+      "text": "estenosis grave",
+      "type": "PATOLOGIA",
+      "start": 1253,
+      "end": 1268
+    },
+    {
+      "text": "segmento proximal de arteria cerebral anterior derecha (A2)",
+      "type": "ARTERIA",
+      "start": 1272,
+      "end": 1331
+    },
+    {
+      "text": "Resto de vasos principales permeables",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1333,
+      "end": 1370
+    },
+    {
+      "text": "No hay signos de disección o anomalías vasculares adicionales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1426,
+      "end": 1487
+    },
+    {
+      "text": "Infarto agudo",
+      "type": "PATOLOGIA",
+      "start": 1512,
+      "end": 1525
+    },
+    {
+      "text": "territorio de arteria cerebral anterior derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1529,
+      "end": 1576
+    },
+    {
+      "text": "oclusión proximal confirmada",
+      "type": "PATOLOGIA",
+      "start": 2107,
+      "end": 2135
+    },
+    {
+      "text": "angio-TC",
+      "type": "TECNICA_IMAGEN",
+      "start": 394,
+      "end": 402
+    },
+    {
+      "text": "No se evidencian complicaciones hemorrágicas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2150,
+      "end": 2194
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "document_id": "informe_sintetico_20250804195045_17617",
+  "entities": [
+    {
+      "text": "infarto cerebral",
+      "type": "PATOLOGIA",
+      "start": 276,
+      "end": 292
+    },
+    {
+      "text": "área hipodensa bilateral",
+      "type": "PATOLOGIA",
+      "start": 488,
+      "end": 512
+    },
+    {
+      "text": "isquemia",
+      "type": "PATOLOGIA",
+      "start": 1153,
+      "end": 1161
+    },
+    {
+      "text": "zona watershed",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 735,
+      "end": 749
+    },
+    {
+      "text": "territorios limítrofes entre las arterias cerebrales anterior y media, y media y posterior",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 615,
+      "end": 705
+    },
+    {
+      "text": "bilateral",
+      "type": "LATERALIDAD",
+      "start": 503,
+      "end": 512
+    },
+    {
+      "text": "sin oclusiones ni estenosis relevantes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1285,
+      "end": 1323
+    },
+    {
+      "text": "No se observan hemorragias intra ni extraaxiales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 751,
+      "end": 799
+    },
+    {
+      "text": "No se evidencian hemorragias ni oclusiones arteriales mayores",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1630,
+      "end": 1691
+    },
+    {
+      "text": "patrón de isquemia subaguda",
+      "type": "TEMPORALIDAD",
+      "start": 1711,
+      "end": 1738
+    },
+    {
+      "text": "hipoperfusión",
+      "type": "PATOLOGIA",
+      "start": 297,
+      "end": 310
+    },
+    {
+      "text": "volumen cerebral (CBV) preservado o ligeramente disminuido",
+      "type": "MEDIDA",
+      "start": 1066,
+      "end": 1124
+    },
+    {
+      "text": "TC Basal, TC Perfusión cerebral y AngioTC arterial intracraneal y cervical",
+      "type": "TECNICA_IMAGEN",
+      "start": 357,
+      "end": 431
+    }
+  ]
+}

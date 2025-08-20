@@ -1,0 +1,137 @@
+{
+  "document_id": "informe_sintetico_20250804195045_04601",
+  "entities": [
+    {
+      "text": "infartos isquémicos recientes",
+      "type": "PATOLOGIA",
+      "start": 680,
+      "end": 709
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 1206,
+      "end": 1220
+    },
+    {
+      "text": "oclusión segmentaria de la arteria cerebral media derecha",
+      "type": "PATOLOGIA",
+      "start": 1438,
+      "end": 1495
+    },
+    {
+      "text": "estenosis crítica de la arteria cerebral anterior izquierda proximal",
+      "type": "PATOLOGIA",
+      "start": 1512,
+      "end": 1580
+    },
+    {
+      "text": "territorios supratentoriales bilaterales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 550,
+      "end": 590
+    },
+    {
+      "text": "áreas frontoparietales izquierdas",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 607,
+      "end": 640
+    },
+    {
+      "text": "áreas frontoparietales izquierdas",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 607,
+      "end": 640
+    },
+    {
+      "text": "regiones frontoparietales izquierdas",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1287,
+      "end": 1323
+    },
+    {
+      "text": "temporal derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1900,
+      "end": 1916
+    },
+    {
+      "text": "temporal derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1900,
+      "end": 1916
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "ARTERIA",
+      "start": 1465,
+      "end": 1495
+    },
+    {
+      "text": "arteria cerebral anterior izquierda",
+      "type": "ARTERIA",
+      "start": 1536,
+      "end": 1571
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 654,
+      "end": 661
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 630,
+      "end": 639
+    },
+    {
+      "text": "aguda",
+      "type": "TEMPORALIDAD",
+      "start": 1215,
+      "end": 1220
+    },
+    {
+      "text": "No se identifican signos de hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 711,
+      "end": 762
+    },
+    {
+      "text": "No hay desplazamiento de la línea media ni edema masivo asociado",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 862,
+      "end": 926
+    },
+    {
+      "text": "No se identifican trombos en la circulación extracraneal ni disección vascular",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1684,
+      "end": 1762
+    },
+    {
+      "text": "No evidencia de hemorragia ni complicaciones adicionales en el estudio",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2191,
+      "end": 2261
+    },
+    {
+      "text": "TC craneal basal urgente",
+      "type": "TECNICA_IMAGEN",
+      "start": 292,
+      "end": 316
+    },
+    {
+      "text": "perfusión cerebral dinámica",
+      "type": "TECNICA_IMAGEN",
+      "start": 318,
+      "end": 345
+    },
+    {
+      "text": "AngioTC intra y extracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 348,
+      "end": 376
+    }
+  ]
+}

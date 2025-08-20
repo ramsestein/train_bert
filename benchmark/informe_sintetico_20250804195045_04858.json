@@ -1,0 +1,113 @@
+{
+  "document_id": "informe_sintetico_20250804195045_04858",
+  "entities": [
+    {
+      "text": "ictus isquémico agudo",
+      "type": "PATOLOGIA",
+      "start": 238,
+      "end": 259
+    },
+    {
+      "text": "arteria hiperdensa en segmento M1 de la arteria cerebral media izquierda",
+      "type": "PATOLOGIA",
+      "start": 413,
+      "end": 485
+    },
+    {
+      "text": "trombo intraluminal",
+      "type": "PATOLOGIA",
+      "start": 501,
+      "end": 520
+    },
+    {
+      "text": "6 territorios",
+      "type": "MEDIDA",
+      "start": 685,
+      "end": 698
+    },
+    {
+      "text": "ASPECTS 7",
+      "type": "PUNTUACION_CLINICA",
+      "start": 721,
+      "end": 730
+    },
+    {
+      "text": "prolongación significativa del tiempo hasta el pico (TTP)",
+      "type": "PATOLOGIA",
+      "start": 927,
+      "end": 984
+    },
+    {
+      "text": "aumento del tiempo de tránsito medio (MTT)",
+      "type": "PATOLOGIA",
+      "start": 987,
+      "end": 1029
+    },
+    {
+      "text": "disminución marcada del volumen cerebral (CBV)",
+      "type": "PATOLOGIA",
+      "start": 1066,
+      "end": 1112
+    },
+    {
+      "text": "flujo sanguíneo cerebral (CBF)",
+      "type": "PATOLOGIA",
+      "start": 1118,
+      "end": 1148
+    },
+    {
+      "text": "penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1197,
+      "end": 1215
+    },
+    {
+      "text": "defecto de perfusión instalada",
+      "type": "PATOLOGIA",
+      "start": 1227,
+      "end": 1257
+    },
+    {
+      "text": "sin estenosis significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1632,
+      "end": 1660
+    },
+    {
+      "text": "ASPECTS basal 7",
+      "type": "PUNTUACION_CLINICA",
+      "start": 1767,
+      "end": 1782
+    },
+    {
+      "text": "hipodensidades isquémicas en territorio medio cerebral izquierdo de reciente instauración",
+      "type": "PATOLOGIA",
+      "start": 1788,
+      "end": 1877
+    },
+    {
+      "text": "área de penumbra significativa con mismatch favorable para tratamiento",
+      "type": "PATOLOGIA",
+      "start": 1910,
+      "end": 1980
+    },
+    {
+      "text": "TC Basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 304,
+      "end": 312
+    },
+    {
+      "text": "TC Perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 314,
+      "end": 335
+    },
+    {
+      "text": "AngioTC intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 338,
+      "end": 358
+    }
+  ]
+}

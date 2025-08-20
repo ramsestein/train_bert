@@ -1,0 +1,83 @@
+{
+  "document_id": "informe_sintetico_20250804195045_24331",
+  "entities": [
+    {
+      "text": "hematoma subdural agudo frontotemporal derecho",
+      "type": "PATOLOGIA",
+      "start": 495,
+      "end": 541
+    },
+    {
+      "text": "frontotemporal derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 519,
+      "end": 541
+    },
+    {
+      "text": "12 mm",
+      "type": "MEDIDA",
+      "start": 654,
+      "end": 659
+    },
+    {
+      "text": "7 cm",
+      "type": "MEDIDA",
+      "start": 688,
+      "end": 692
+    },
+    {
+      "text": "6 mm",
+      "type": "MEDIDA",
+      "start": 821,
+      "end": 825
+    },
+    {
+      "text": "TC CRANEAL BASAL URGENTE",
+      "type": "TECNICA_IMAGEN",
+      "start": 258,
+      "end": 282
+    },
+    {
+      "text": "perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 326,
+      "end": 344
+    },
+    {
+      "text": "angio-TC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 347,
+      "end": 377
+    },
+    {
+      "text": "isquemia secundaria",
+      "type": "PATOLOGIA",
+      "start": 1248,
+      "end": 1267
+    },
+    {
+      "text": "ACAs, ACMs y ACPs",
+      "type": "ARTERIA",
+      "start": 1510,
+      "end": 1527
+    },
+    {
+      "text": "sin hemorragia intraparenquimatosa ni subaracnoidea",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2355,
+      "end": 2406
+    },
+    {
+      "text": "sin indicios de infarcto establecido",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1328,
+      "end": 1364
+    },
+    {
+      "text": "sin signos de estenosis ni oclusión",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1544,
+      "end": 1579
+    }
+  ]
+}

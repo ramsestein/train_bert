@@ -1,0 +1,221 @@
+{
+  "document_id": "informe_sintetico_20250804195045_18424",
+  "entities": [
+    {
+      "text": "hemorragia intraventricular",
+      "type": "PATOLOGIA",
+      "start": 449,
+      "end": 476
+    },
+    {
+      "text": "sangre hiperdensa",
+      "type": "PATOLOGIA",
+      "start": 494,
+      "end": 511
+    },
+    {
+      "text": "ventrículos laterales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 519,
+      "end": 540
+    },
+    {
+      "text": "tercer y cuarto ventrículo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 542,
+      "end": 568
+    },
+    {
+      "text": "hidrocefalia obstructiva incipiente",
+      "type": "PATOLOGIA",
+      "start": 629,
+      "end": 664
+    },
+    {
+      "text": "edema periventricular moderado",
+      "type": "PATOLOGIA",
+      "start": 677,
+      "end": 707
+    },
+    {
+      "text": "hemorragia parenquimatosa focal",
+      "type": "PATOLOGIA",
+      "start": 730,
+      "end": 761
+    },
+    {
+      "text": "No se identifican fracturas óseas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 772,
+      "end": 805
+    },
+    {
+      "text": "sangrado subaracnoideo prominente",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 809,
+      "end": 842
+    },
+    {
+      "text": "signos de hipertensión intracraneal leve",
+      "type": "PATOLOGIA",
+      "start": 935,
+      "end": 975
+    },
+    {
+      "text": "discreta reducción del flujo sanguíneo cerebral",
+      "type": "PATOLOGIA",
+      "start": 1026,
+      "end": 1073
+    },
+    {
+      "text": "regiones periventriculares",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1077,
+      "end": 1103
+    },
+    {
+      "text": "isquemia tisular establecida",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1187,
+      "end": 1215
+    },
+    {
+      "text": "no existe core definido",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1217,
+      "end": 1240
+    },
+    {
+      "text": "volumen cerebral se mantiene",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1246,
+      "end": 1274
+    },
+    {
+      "text": "angiografía por TC",
+      "type": "TECNICA_IMAGEN",
+      "start": 330,
+      "end": 348
+    },
+    {
+      "text": "aneurismas intracraneales",
+      "type": "PATOLOGIA",
+      "start": 1345,
+      "end": 1370
+    },
+    {
+      "text": "malformaciones arteriovenosas",
+      "type": "PATOLOGIA",
+      "start": 1374,
+      "end": 1403
+    },
+    {
+      "text": "hemorragia",
+      "type": "PATOLOGIA",
+      "start": 449,
+      "end": 459
+    },
+    {
+      "text": "arterias permeables",
+      "type": "PATOLOGIA",
+      "start": 1445,
+      "end": 1464
+    },
+    {
+      "text": "estenosis",
+      "type": "PATOLOGIA",
+      "start": 1469,
+      "end": 1478
+    },
+    {
+      "text": "signos de trombosis",
+      "type": "PATOLOGIA",
+      "start": 1482,
+      "end": 1501
+    },
+    {
+      "text": "sin lesiones significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1539,
+      "end": 1566
+    },
+    {
+      "text": "sangre en ambos ventrículos laterales",
+      "type": "PATOLOGIA",
+      "start": 1637,
+      "end": 1674
+    },
+    {
+      "text": "tercer y cuarto ventrículo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 542,
+      "end": 568
+    },
+    {
+      "text": "hemorragia parenquimatosa focal identificable",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1708,
+      "end": 1753
+    },
+    {
+      "text": "malformaciones vasculares causales",
+      "type": "PATOLOGIA",
+      "start": 1815,
+      "end": 1849
+    },
+    {
+      "text": "hipoperfusión periventricular leve",
+      "type": "PATOLOGIA",
+      "start": 1898,
+      "end": 1932
+    },
+    {
+      "text": "edema circundante",
+      "type": "PATOLOGIA",
+      "start": 1964,
+      "end": 1981
+    },
+    {
+      "text": "control clínico estricto",
+      "type": "PUNTUACION_CLINICA",
+      "start": 2032,
+      "end": 2056
+    },
+    {
+      "text": "valoración neurológica urgente",
+      "type": "PUNTUACION_CLINICA",
+      "start": 2059,
+      "end": 2089
+    },
+    {
+      "text": "manejo de hidrocefalia",
+      "type": "PATOLOGIA",
+      "start": 2095,
+      "end": 2117
+    },
+    {
+      "text": "posible drenaje ventricular",
+      "type": "PATOLOGIA",
+      "start": 2120,
+      "end": 2147
+    },
+    {
+      "text": "evaluar evolución hemorrágica",
+      "type": "PUNTUACION_CLINICA",
+      "start": 2178,
+      "end": 2207
+    },
+    {
+      "text": "complicaciones",
+      "type": "PATOLOGIA",
+      "start": 2210,
+      "end": 2224
+    },
+    {
+      "text": "Hemorragia intraventricular con hidrocefalia obstructiva leve sin evidencia de lesión vascular causante",
+      "type": "PATOLOGIA",
+      "start": 2284,
+      "end": 2387
+    }
+  ]
+}

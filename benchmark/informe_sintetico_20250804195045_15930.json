@@ -1,0 +1,155 @@
+{
+  "document_id": "informe_sintetico_20250804195045_15930",
+  "entities": [
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 284,
+      "end": 298
+    },
+    {
+      "text": "territorio vertebrobasilar",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 302,
+      "end": 328
+    },
+    {
+      "text": "TC CRANEAL BASAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 623,
+      "end": 639
+    },
+    {
+      "text": "hemorragias intra o extraaxiales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 659,
+      "end": 691
+    },
+    {
+      "text": "Parénquima cerebral sin lesiones hipodensas visibles",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 693,
+      "end": 745
+    },
+    {
+      "text": "Cisternas basales conservadas sin edema perilesional",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 888,
+      "end": 940
+    },
+    {
+      "text": "Mapas de tiempo de tránsito (TTP) prolongados",
+      "type": "PATOLOGIA",
+      "start": 957,
+      "end": 1002
+    },
+    {
+      "text": "disminución significativa del flujo cerebral (CBF)",
+      "type": "PATOLOGIA",
+      "start": 1005,
+      "end": 1055
+    },
+    {
+      "text": "tronco del encéfalo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1107,
+      "end": 1126
+    },
+    {
+      "text": "cerebelo hemisférico bilateral",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1129,
+      "end": 1159
+    },
+    {
+      "text": "preservación parcial del volumen cerebral (CBV)",
+      "type": "PATOLOGIA",
+      "start": 1165,
+      "end": 1212
+    },
+    {
+      "text": "área de penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1230,
+      "end": 1256
+    },
+    {
+      "text": "infarto establecido",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1282,
+      "end": 1301
+    },
+    {
+      "text": "Oclusión completa del segmento distal de la arteria basilar proximal",
+      "type": "PATOLOGIA",
+      "start": 1362,
+      "end": 1430
+    },
+    {
+      "text": "arteria basilar proximal",
+      "type": "ARTERIA",
+      "start": 1406,
+      "end": 1430
+    },
+    {
+      "text": "Ambas arterias vertebrales",
+      "type": "ARTERIA",
+      "start": 1477,
+      "end": 1503
+    },
+    {
+      "text": "sin estenosis significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1516,
+      "end": 1543
+    },
+    {
+      "text": "No se observan malformaciones vasculares ni aneurismas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1545,
+      "end": 1599
+    },
+    {
+      "text": "Hallazgos compatibles con isquemia aguda en territorio vertebrobasilar",
+      "type": "PATOLOGIA",
+      "start": 1626,
+      "end": 1696
+    },
+    {
+      "text": "oclusión de arteria basilar proximal",
+      "type": "PATOLOGIA",
+      "start": 1702,
+      "end": 1738
+    },
+    {
+      "text": "alteraciones en los mapas de perfusión",
+      "type": "PATOLOGIA",
+      "start": 1784,
+      "end": 1822
+    },
+    {
+      "text": "prolongación TTP",
+      "type": "MEDIDA",
+      "start": 1824,
+      "end": 1840
+    },
+    {
+      "text": "reducción CBF",
+      "type": "MEDIDA",
+      "start": 1842,
+      "end": 1855
+    },
+    {
+      "text": "preservación CBV",
+      "type": "MEDIDA",
+      "start": 1860,
+      "end": 1876
+    },
+    {
+      "text": "No evidencia de hemorragia ni infarto establecido en TC basal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1881,
+      "end": 1942
+    }
+  ]
+}

@@ -1,0 +1,119 @@
+{
+  "document_id": "informe_sintetico_20250804195045_12060",
+  "entities": [
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 265,
+      "end": 279
+    },
+    {
+      "text": "arteria cerebral anterior",
+      "type": "ARTERIA",
+      "start": 300,
+      "end": 325
+    },
+    {
+      "text": "izquierdo",
+      "type": "LATERALIDAD",
+      "start": 655,
+      "end": 664
+    },
+    {
+      "text": "área de leve hipodensidad",
+      "type": "PATOLOGIA",
+      "start": 550,
+      "end": 575
+    },
+    {
+      "text": "territorio cortical y subcortical de la región medial del lóbulo frontal izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 582,
+      "end": 664
+    },
+    {
+      "text": "signo temprano de isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 681,
+      "end": 713
+    },
+    {
+      "text": "ACA",
+      "type": "ARTERIA",
+      "start": 327,
+      "end": 330
+    },
+    {
+      "text": "ASPECTS modificado para ACA 7-8",
+      "type": "PUNTUACION_CLINICA",
+      "start": 885,
+      "end": 916
+    },
+    {
+      "text": "retraso marcado en el territorio vascular irrigado por ACA izquierda",
+      "type": "PATOLOGIA",
+      "start": 1108,
+      "end": 1176
+    },
+    {
+      "text": "disminución significativa del flujo sanguíneo cerebral",
+      "type": "PATOLOGIA",
+      "start": 1182,
+      "end": 1236
+    },
+    {
+      "text": "área de isquemia en penumbra",
+      "type": "PATOLOGIA",
+      "start": 1303,
+      "end": 1331
+    },
+    {
+      "text": "Oclusión parcial en segmento A1 de ACA izquierda",
+      "type": "PATOLOGIA",
+      "start": 1560,
+      "end": 1608
+    },
+    {
+      "text": "sin compromiso evidente de ACM o ACP ipsilaterales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1639,
+      "end": 1689
+    },
+    {
+      "text": "Ausencia de hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1860,
+      "end": 1895
+    },
+    {
+      "text": "oclusión parcial del segmento A1",
+      "type": "PATOLOGIA",
+      "start": 2582,
+      "end": 2614
+    },
+    {
+      "text": "sin evidencia de hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2616,
+      "end": 2656
+    },
+    {
+      "text": "Área de penumbra isquémica extensa",
+      "type": "PATOLOGIA",
+      "start": 2658,
+      "end": 2692
+    },
+    {
+      "text": "TC craneal sin contraste",
+      "type": "TECNICA_IMAGEN",
+      "start": 351,
+      "end": 375
+    },
+    {
+      "text": "angioTC de arterias intracraneales",
+      "type": "TECNICA_IMAGEN",
+      "start": 409,
+      "end": 443
+    }
+  ]
+}

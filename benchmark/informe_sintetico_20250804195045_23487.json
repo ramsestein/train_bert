@@ -1,0 +1,83 @@
+{
+  "document_id": "informe_sintetico_20250804195045_23487",
+  "entities": [
+    {
+      "text": "hemiparesia izquierda",
+      "type": "PATOLOGIA",
+      "start": 179,
+      "end": 200
+    },
+    {
+      "text": "foco hipodenso",
+      "type": "PATOLOGIA",
+      "start": 439,
+      "end": 453
+    },
+    {
+      "text": "infarto lacunar agudo",
+      "type": "PATOLOGIA",
+      "start": 599,
+      "end": 620
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 1028,
+      "end": 1042
+    },
+    {
+      "text": "cápsula interna derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 488,
+      "end": 511
+    },
+    {
+      "text": "región periventricular derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 827,
+      "end": 857
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 504,
+      "end": 511
+    },
+    {
+      "text": "agudo",
+      "type": "TEMPORALIDAD",
+      "start": 615,
+      "end": 620
+    },
+    {
+      "text": "aguda",
+      "type": "TEMPORALIDAD",
+      "start": 1037,
+      "end": 1042
+    },
+    {
+      "text": "sin signos de obstrucción",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1560,
+      "end": 1585
+    },
+    {
+      "text": "sin complicaciones hemorrágicas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1875,
+      "end": 1906
+    },
+    {
+      "text": "TC Basal + TC Perfusión + AngioTC intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 278,
+      "end": 324
+    },
+    {
+      "text": "TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANG IOTC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 72,
+      "end": 140
+    }
+  ]
+}

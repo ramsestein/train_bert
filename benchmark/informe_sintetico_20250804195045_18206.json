@@ -1,0 +1,107 @@
+{
+  "document_id": "informe_sintetico_20250804195045_18206",
+  "entities": [
+    {
+      "text": "hematoma subdural agudo",
+      "type": "PATOLOGIA",
+      "start": 525,
+      "end": 548
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 469,
+      "end": 476
+    },
+    {
+      "text": "12 mm",
+      "type": "MEDIDA",
+      "start": 590,
+      "end": 595
+    },
+    {
+      "text": "6 mm",
+      "type": "MEDIDA",
+      "start": 672,
+      "end": 676
+    },
+    {
+      "text": "reducción moderada del volumen cerebral (CBV)",
+      "type": "PATOLOGIA",
+      "start": 1021,
+      "end": 1066
+    },
+    {
+      "text": "hemisferio derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1096,
+      "end": 1114
+    },
+    {
+      "text": "frontal y parietal",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1143,
+      "end": 1161
+    },
+    {
+      "text": "MTT",
+      "type": "PATOLOGIA",
+      "start": 1210,
+      "end": 1213
+    },
+    {
+      "text": "TTP",
+      "type": "PATOLOGIA",
+      "start": 1239,
+      "end": 1242
+    },
+    {
+      "text": "hipoperfusión secundaria",
+      "type": "PATOLOGIA",
+      "start": 1261,
+      "end": 1285
+    },
+    {
+      "text": "arterias cerebrales anteriores, medias y posteriores",
+      "type": "ARTERIA",
+      "start": 1397,
+      "end": 1449
+    },
+    {
+      "text": "sin signos de estenosis ni trombosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1468,
+      "end": 1504
+    },
+    {
+      "text": "efecto de masa significativo",
+      "type": "PATOLOGIA",
+      "start": 1622,
+      "end": 1650
+    },
+    {
+      "text": "desplazamiento de línea media",
+      "type": "PATOLOGIA",
+      "start": 2116,
+      "end": 2145
+    },
+    {
+      "text": "sin hallazgos vasculares asociados",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1787,
+      "end": 1821
+    },
+    {
+      "text": "control TC craneal a las 24-48 horas",
+      "type": "TEMPORALIDAD",
+      "start": 1967,
+      "end": 2003
+    },
+    {
+      "text": "TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANG IOTC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 72,
+      "end": 140
+    }
+  ]
+}

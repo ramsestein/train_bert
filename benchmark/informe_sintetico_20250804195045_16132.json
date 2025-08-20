@@ -1,0 +1,89 @@
+{
+  "document_id": "informe_sintetico_20250804195045_16132",
+  "entities": [
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 241,
+      "end": 255
+    },
+    {
+      "text": "arteria cerebral posterior derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 273,
+      "end": 307
+    },
+    {
+      "text": "arteria cerebral posterior derecha",
+      "type": "ARTERIA",
+      "start": 273,
+      "end": 307
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 209,
+      "end": 218
+    },
+    {
+      "text": "P2",
+      "type": "MEDIDA",
+      "start": 1403,
+      "end": 1405
+    },
+    {
+      "text": "agudo",
+      "type": "TEMPORALIDAD",
+      "start": 1615,
+      "end": 1620
+    },
+    {
+      "text": "penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1186,
+      "end": 1204
+    },
+    {
+      "text": "arteria cerebral posterior derecha",
+      "type": "ARTERIA",
+      "start": 273,
+      "end": 307
+    },
+    {
+      "text": "sin evidencia de infarto establecido extenso",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1766,
+      "end": 1810
+    },
+    {
+      "text": "sin calcificaciones significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1251,
+      "end": 1285
+    },
+    {
+      "text": "sin estenosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1321,
+      "end": 1334
+    },
+    {
+      "text": "TC craneal basal urgente",
+      "type": "TECNICA_IMAGEN",
+      "start": 328,
+      "end": 352
+    },
+    {
+      "text": "angio-TC de vasos extracraneales e intracraneales",
+      "type": "TECNICA_IMAGEN",
+      "start": 395,
+      "end": 444
+    },
+    {
+      "text": "TC PERFUSIÓN",
+      "type": "TECNICA_IMAGEN",
+      "start": 874,
+      "end": 886
+    }
+  ]
+}

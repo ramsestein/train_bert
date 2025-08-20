@@ -1,0 +1,83 @@
+{
+  "document_id": "informe_sintetico_20250804195045_07909",
+  "entities": [
+    {
+      "text": "hematoma intracerebral lobar frontal",
+      "type": "PATOLOGIA",
+      "start": 245,
+      "end": 281
+    },
+    {
+      "text": "lóbulo frontal derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 455,
+      "end": 477
+    },
+    {
+      "text": "hematoma lobar",
+      "type": "PATOLOGIA",
+      "start": 542,
+      "end": 556
+    },
+    {
+      "text": "18 ml",
+      "type": "MEDIDA",
+      "start": 582,
+      "end": 587
+    },
+    {
+      "text": "4 mm",
+      "type": "MEDIDA",
+      "start": 668,
+      "end": 672
+    },
+    {
+      "text": "No se aprecian signos de sangrado intraventricular ni hemorragia subaracnoidea asociada.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 693,
+      "end": 781
+    },
+    {
+      "text": "sin evidencia de isquemia penumbra ni área con déficit de perfusión.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1166,
+      "end": 1234
+    },
+    {
+      "text": "sin signos de estenosis ni oclusión.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1320,
+      "end": 1356
+    },
+    {
+      "text": "sin hallazgos vasculares relevantes.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1768,
+      "end": 1804
+    },
+    {
+      "text": "desviación de línea media leve",
+      "type": "PATOLOGIA",
+      "start": 1607,
+      "end": 1637
+    },
+    {
+      "text": "TC craneal basal urgente",
+      "type": "TECNICA_IMAGEN",
+      "start": 302,
+      "end": 326
+    },
+    {
+      "text": "angio-TC intra y extracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 329,
+      "end": 358
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 361,
+      "end": 382
+    }
+  ]
+}

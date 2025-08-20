@@ -1,0 +1,83 @@
+{
+  "document_id": "informe_sintetico_20250804195045_14794",
+  "entities": [
+    {
+      "text": "hematoma intraparenquimatoso",
+      "type": "PATOLOGIA",
+      "start": 444,
+      "end": 472
+    },
+    {
+      "text": "tálamo derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 491,
+      "end": 505
+    },
+    {
+      "text": "2.5 x 2.0 x 2.5 cm",
+      "type": "MEDIDA",
+      "start": 560,
+      "end": 578
+    },
+    {
+      "text": "ventrículo lateral derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 848,
+      "end": 874
+    },
+    {
+      "text": "infarto agudo",
+      "type": "PATOLOGIA",
+      "start": 902,
+      "end": 915
+    },
+    {
+      "text": "tálamo derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 491,
+      "end": 505
+    },
+    {
+      "text": "CBF",
+      "type": "PATOLOGIA",
+      "start": 1154,
+      "end": 1157
+    },
+    {
+      "text": "CBV",
+      "type": "PATOLOGIA",
+      "start": 1160,
+      "end": 1163
+    },
+    {
+      "text": "ACAs, ACMs y ACPs",
+      "type": "ARTERIA",
+      "start": 1408,
+      "end": 1425
+    },
+    {
+      "text": "sin evidencia de estenosis ni defectos de repleción",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1452,
+      "end": 1503
+    },
+    {
+      "text": "sin hidrocefalia obstructiva evidente",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1786,
+      "end": 1823
+    },
+    {
+      "text": "isquemia cerebral",
+      "type": "PATOLOGIA",
+      "start": 1853,
+      "end": 1870
+    },
+    {
+      "text": "angiografía TC",
+      "type": "TECNICA_IMAGEN",
+      "start": 1914,
+      "end": 1928
+    }
+  ]
+}

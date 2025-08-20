@@ -1,0 +1,137 @@
+{
+  "document_id": "informe_sintetico_20250804195045_24868",
+  "entities": [
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 378,
+      "end": 392
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "PATOLOGIA",
+      "start": 706,
+      "end": 729
+    },
+    {
+      "text": "retraso significativo del tiempo de tránsito medio (MTT)",
+      "type": "PATOLOGIA",
+      "start": 894,
+      "end": 950
+    },
+    {
+      "text": "aumento del tiempo hasta el pico (TTP)",
+      "type": "PATOLOGIA",
+      "start": 953,
+      "end": 991
+    },
+    {
+      "text": "reducción concomitante del flujo cerebral (CBF)",
+      "type": "PATOLOGIA",
+      "start": 1083,
+      "end": 1130
+    },
+    {
+      "text": "volumen cerebral (CBV) mantenido o levemente disminuido",
+      "type": "PATOLOGIA",
+      "start": 1133,
+      "end": 1188
+    },
+    {
+      "text": "penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1211,
+      "end": 1229
+    },
+    {
+      "text": "oclusión total subaguda del segmento distal de la arteria basilar",
+      "type": "PATOLOGIA",
+      "start": 1278,
+      "end": 1343
+    },
+    {
+      "text": "ausencia de flujo en su trayecto terminal",
+      "type": "PATOLOGIA",
+      "start": 1348,
+      "end": 1389
+    },
+    {
+      "text": "estenosis significativa de aproximadamente 70%",
+      "type": "PATOLOGIA",
+      "start": 1429,
+      "end": 1475
+    },
+    {
+      "text": "arteria vertebral derecha",
+      "type": "ARTERIA",
+      "start": 1394,
+      "end": 1419
+    },
+    {
+      "text": "arteria vertebral izquierda",
+      "type": "ARTERIA",
+      "start": 1498,
+      "end": 1525
+    },
+    {
+      "text": "sin signos de infarto isquémico establecido ni hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1708,
+      "end": 1778
+    },
+    {
+      "text": "isquemia aguda en territorio vertebrobasilar",
+      "type": "PATOLOGIA",
+      "start": 378,
+      "end": 422
+    },
+    {
+      "text": "tronco basilar distal",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1010,
+      "end": 1031
+    },
+    {
+      "text": "arterias cerebelosas posteriores izquierdas",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1034,
+      "end": 1077
+    },
+    {
+      "text": "segmento distal de arteria basilar",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1992,
+      "end": 2026
+    },
+    {
+      "text": "arteria vertebral derecha",
+      "type": "ARTERIA",
+      "start": 1394,
+      "end": 1419
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 443,
+      "end": 459
+    },
+    {
+      "text": "TC PERFUSIÓN",
+      "type": "TECNICA_IMAGEN",
+      "start": 867,
+      "end": 879
+    },
+    {
+      "text": "ANGIO-TC EXTRA-INTRACRANEAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 1234,
+      "end": 1261
+    },
+    {
+      "text": "TC código ictus con perfusión y angiografía intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 2218,
+      "end": 2274
+    }
+  ]
+}

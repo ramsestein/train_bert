@@ -1,0 +1,59 @@
+{
+  "document_id": "informe_sintetico_20250804195045_08350",
+  "entities": [
+    {
+      "text": "hematoma lobar",
+      "type": "PATOLOGIA",
+      "start": 471,
+      "end": 485
+    },
+    {
+      "text": "región frontal izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 503,
+      "end": 527
+    },
+    {
+      "text": "25 cc",
+      "type": "MEDIDA",
+      "start": 558,
+      "end": 563
+    },
+    {
+      "text": "4 mm",
+      "type": "MEDIDA",
+      "start": 817,
+      "end": 821
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 831,
+      "end": 838
+    },
+    {
+      "text": "isquemia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1292,
+      "end": 1300
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 341,
+      "end": 357
+    },
+    {
+      "text": "perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 359,
+      "end": 377
+    },
+    {
+      "text": "angio-TC arterial intra y extracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 380,
+      "end": 418
+    }
+  ]
+}

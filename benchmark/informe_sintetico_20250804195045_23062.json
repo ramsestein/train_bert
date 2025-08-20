@@ -1,0 +1,95 @@
+{
+  "document_id": "informe_sintetico_20250804195045_23062",
+  "entities": [
+    {
+      "text": "isquemia",
+      "type": "PATOLOGIA",
+      "start": 608,
+      "end": 616
+    },
+    {
+      "text": "hemorragia aguda",
+      "type": "PATOLOGIA",
+      "start": 619,
+      "end": 635
+    },
+    {
+      "text": "microangiopatía crónica",
+      "type": "PATOLOGIA",
+      "start": 790,
+      "end": 813
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 873,
+      "end": 883
+    },
+    {
+      "text": "hipoperfusión",
+      "type": "PATOLOGIA",
+      "start": 990,
+      "end": 1003
+    },
+    {
+      "text": "isquemia",
+      "type": "PATOLOGIA",
+      "start": 608,
+      "end": 616
+    },
+    {
+      "text": "estenosis",
+      "type": "PATOLOGIA",
+      "start": 1206,
+      "end": 1215
+    },
+    {
+      "text": "estenosis",
+      "type": "PATOLOGIA",
+      "start": 1206,
+      "end": 1215
+    },
+    {
+      "text": "TC craneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 312,
+      "end": 322
+    },
+    {
+      "text": "TC perfusión",
+      "type": "TECNICA_IMAGEN",
+      "start": 330,
+      "end": 342
+    },
+    {
+      "text": "angio-TC",
+      "type": "TECNICA_IMAGEN",
+      "start": 354,
+      "end": 362
+    },
+    {
+      "text": "No se identifican zonas de hipodensidad ni hiperdensidad",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 537,
+      "end": 593
+    },
+    {
+      "text": "No se visualizan áreas de hipoperfusión ni mismatch significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 964,
+      "end": 1029
+    },
+    {
+      "text": "sin estenosis significativas ni placas ateromatosas relevantes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1202,
+      "end": 1264
+    },
+    {
+      "text": "sin signos de estenosis ni oclusión",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1357,
+      "end": 1392
+    }
+  ]
+}

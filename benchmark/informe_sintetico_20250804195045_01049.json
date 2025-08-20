@@ -1,0 +1,53 @@
+{
+  "document_id": "informe_sintetico_20250804195045_01049",
+  "entities": [
+    {
+      "text": "hematoma lobar frontal izquierdo",
+      "type": "PATOLOGIA",
+      "start": 460,
+      "end": 492
+    },
+    {
+      "text": "frontal izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 475,
+      "end": 492
+    },
+    {
+      "text": "25 ml",
+      "type": "MEDIDA",
+      "start": 535,
+      "end": 540
+    },
+    {
+      "text": "4 mm",
+      "type": "MEDIDA",
+      "start": 652,
+      "end": 656
+    },
+    {
+      "text": "No se identifican signos de sangrado ventricular",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 658,
+      "end": 706
+    },
+    {
+      "text": "sin evidencias de áreas isquémicas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1119,
+      "end": 1153
+    },
+    {
+      "text": "No se visualizan aneurismas, malformaciones vasculares ni estenosis significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1211,
+      "end": 1293
+    },
+    {
+      "text": "Vasos permeables y de calibre conservado",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1338,
+      "end": 1378
+    }
+  ]
+}

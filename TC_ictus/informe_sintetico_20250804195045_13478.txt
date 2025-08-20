@@ -1,0 +1,31 @@
+UO_PACN (Unidad Organizativa Médica): RADIO
+
+PRUEB (Prueba solicitada): TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANG IOTC ARTERIAL INTRACRANEAL)
+
+CLIN (Resumen clínico): Paciente con cuadro súbito de hemiparesia derecha y alteración del nivel de conciencia, sospecha clínica de hemorragia intracraneal.
+
+OBSR (Protocolo): TC craneal basal sin y con contraste, TC perfusión cerebral, angiografía por TC arterial intracraneal.
+
+RESL (Resultados): 
+TC CRANEAL BASAL:
+Se visualiza hematoma intraparenquimatoso de 25 x 20 x 18 mm localizado en el núcleo caudado izquierdo, con extensión hacia la cápsula interna adyacente. Presencia de edema vasogénico perilesional que genera efecto de masa moderado y desplazamiento de la línea media en aproximadamente 5 mm hacia la derecha. No se identifican signos de hemorragia subaracnoidea ni ruptura ventricular franca, aunque se observa leve sangrado intraventricular en el asta frontal del ventrículo lateral ipsilateral. Parénquima cerebral adyacente con discreto compromiso por edema. No signos de infarto isquémico en otras áreas.
+
+TC PERFUSIÓN CEREBRAL:
+Alteración marcada en los parámetros de perfusión en la región del núcleo caudado y cápsula interna izquierda, con aumento del tiempo de tránsito medio (TTP) y disminución del volumen sanguíneo cerebral (CBV), sugestivo de compromiso vascular secundario al hematoma y edema circundante.
+
+ANGIO-TC INTRACRANEAL:
+No se evidencian estenosis ni oclusiones significativas en las arterias cerebrales principales. Sistema carotídeo y vertebrobasilar permeable sin alteraciones destacables. No se identifican malformaciones vasculares ni aneurismas asociados.
+
+CONCL (Conclusiones): Hematoma intraparenquimatoso de aproximadamente 25 mm localizado en núcleo caudado izquierdo con extensión a cápsula interna, edema circundante y leve sangrado intraventricular asociado. Efecto de masa moderado con desviación de la línea media. Perfusión cerebral alterada en territorio afectado, sin evidencia de estenosis arterial o malformaciones vasculares. Se recomienda manejo neuroquirúrgico urgente y control clínico estrecho.
+
+ACTI_ADICI (Actividad adicional):
+
+DKTXT (Descripció): TC CRANEAL urgencia para valoración de hematoma intracerebral.
+
+ICON (Estudio): @RADIO_HDE@
+
+X00DIATXT (Texto del diagnóstico ACR): Hematoma intraparenquimatoso del núcleo caudado con edema circundante y sangrado intraventricular leve. Sin lesiones vasculares obstructivas.
+
+EST_T_DES (Descripción): TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANGIOTC ARTERIAL INTRACRANEAL)
+
+ZVASOS_D (Der.): Se descartan lesiones vasculares obstructivas o malformativas en territorios estudiados.

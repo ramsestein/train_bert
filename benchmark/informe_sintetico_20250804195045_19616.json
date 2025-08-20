@@ -1,0 +1,95 @@
+{
+  "document_id": "informe_sintetico_20250804195045_19616",
+  "entities": [
+    {
+      "text": "infarto lacunar agudo",
+      "type": "PATOLOGIA",
+      "start": 575,
+      "end": 596
+    },
+    {
+      "text": "cápsula interna derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 535,
+      "end": 558
+    },
+    {
+      "text": "cápsulo-lenticular",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1076,
+      "end": 1094
+    },
+    {
+      "text": "hemisferio derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1057,
+      "end": 1075
+    },
+    {
+      "text": "arterias intracraneales",
+      "type": "ARTERIA",
+      "start": 1277,
+      "end": 1300
+    },
+    {
+      "text": "derecho",
+      "type": "LATERALIDAD",
+      "start": 1068,
+      "end": 1075
+    },
+    {
+      "text": "agudo",
+      "type": "TEMPORALIDAD",
+      "start": 591,
+      "end": 596
+    },
+    {
+      "text": "No se identifican colecciones hemorrágicas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 598,
+      "end": 640
+    },
+    {
+      "text": "No desplazamiento de línea media",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 764,
+      "end": 796
+    },
+    {
+      "text": "No se observan signos de estenosis significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1342,
+      "end": 1390
+    },
+    {
+      "text": "sin evidencia de estenosis ni trombosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1301,
+      "end": 1340
+    },
+    {
+      "text": "sin evidencia de infarto extenso ni hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1878,
+      "end": 1937
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 319,
+      "end": 335
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 352,
+      "end": 373
+    },
+    {
+      "text": "angiografía por TC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 376,
+      "end": 416
+    }
+  ]
+}

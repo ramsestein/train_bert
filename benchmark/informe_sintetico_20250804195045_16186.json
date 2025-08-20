@@ -1,0 +1,47 @@
+{
+  "document_id": "informe_sintetico_20250804195045_16186",
+  "entities": [
+    {
+      "text": "infarto lacunar agudo",
+      "type": "PATOLOGIA",
+      "start": 588,
+      "end": 609
+    },
+    {
+      "text": "cápsula interna izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 546,
+      "end": 571
+    },
+    {
+      "text": "6 mm",
+      "type": "MEDIDA",
+      "start": 506,
+      "end": 510
+    },
+    {
+      "text": "isquémico agudo",
+      "type": "TEMPORALIDAD",
+      "start": 1277,
+      "end": 1292
+    },
+    {
+      "text": "ACAs, ACMs y ACPs",
+      "type": "ARTERIA",
+      "start": 1551,
+      "end": 1568
+    },
+    {
+      "text": "sin estenosis ni placas ateromatosas significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1465,
+      "end": 1516
+    },
+    {
+      "text": "sin estenosis significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2014,
+      "end": 2041
+    }
+  ]
+}

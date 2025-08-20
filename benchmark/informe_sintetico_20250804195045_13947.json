@@ -1,0 +1,83 @@
+{
+  "document_id": "informe_sintetico_20250804195045_13947",
+  "entities": [
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 720,
+      "end": 734
+    },
+    {
+      "text": "ASPECTS 6",
+      "type": "PUNTUACION_CLINICA",
+      "start": 736,
+      "end": 745
+    },
+    {
+      "text": "hiperdensidad",
+      "type": "PATOLOGIA",
+      "start": 758,
+      "end": 771
+    },
+    {
+      "text": "segmento M1 de la arteria cerebral media izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 778,
+      "end": 828
+    },
+    {
+      "text": "trombo intraluminal",
+      "type": "PATOLOGIA",
+      "start": 845,
+      "end": 864
+    },
+    {
+      "text": "No se evidencian hemorragias intra ni extraaxiales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 866,
+      "end": 916
+    },
+    {
+      "text": "aumento del tiempo de tránsito medio (TTP)",
+      "type": "MEDIDA",
+      "start": 1047,
+      "end": 1089
+    },
+    {
+      "text": "reducción del volumen sanguíneo cerebral (CBV)",
+      "type": "MEDIDA",
+      "start": 1129,
+      "end": 1175
+    },
+    {
+      "text": "disminución del flujo sanguíneo cerebral (CBF)",
+      "type": "MEDIDA",
+      "start": 1187,
+      "end": 1233
+    },
+    {
+      "text": "oclusión del segmento proximal M1 de ACM izquierda",
+      "type": "PATOLOGIA",
+      "start": 1354,
+      "end": 1404
+    },
+    {
+      "text": "ASPECTS 6",
+      "type": "PUNTUACION_CLINICA",
+      "start": 736,
+      "end": 745
+    },
+    {
+      "text": "penumbra isquémica significativa en territorio de ACM izquierda",
+      "type": "PATOLOGIA",
+      "start": 1812,
+      "end": 1875
+    },
+    {
+      "text": "No evidencia de hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1881,
+      "end": 1920
+    }
+  ]
+}

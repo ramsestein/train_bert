@@ -1,0 +1,71 @@
+{
+  "document_id": "informe_sintetico_20250804195045_01735",
+  "entities": [
+    {
+      "text": "hematoma lobar de localización frontal izquierda",
+      "type": "PATOLOGIA",
+      "start": 425,
+      "end": 473
+    },
+    {
+      "text": "frontal izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 456,
+      "end": 473
+    },
+    {
+      "text": "3.2 x 2.8 x 2.5 cm",
+      "type": "MEDIDA",
+      "start": 494,
+      "end": 512
+    },
+    {
+      "text": "3 mm",
+      "type": "MEDIDA",
+      "start": 672,
+      "end": 676
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 275,
+      "end": 291
+    },
+    {
+      "text": "TC PERFUSIÓN",
+      "type": "TECNICA_IMAGEN",
+      "start": 982,
+      "end": 994
+    },
+    {
+      "text": "ANGIO-TC EXTRA E INTRACRANEAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 1242,
+      "end": 1271
+    },
+    {
+      "text": "No se identifican signos de hemorragia subaracnoidea ni hemoventrículos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 679,
+      "end": 750
+    },
+    {
+      "text": "No hay evidencia de fracturas óseas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 752,
+      "end": 787
+    },
+    {
+      "text": "sin estenosis ni oclusiones",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1291,
+      "end": 1318
+    },
+    {
+      "text": "sin repercusión hemodinámica",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1526,
+      "end": 1554
+    }
+  ]
+}

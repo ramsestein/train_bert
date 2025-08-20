@@ -1,0 +1,77 @@
+{
+  "document_id": "informe_sintetico_20250804195045_25000",
+  "entities": [
+    {
+      "text": "hematoma agudo",
+      "type": "PATOLOGIA",
+      "start": 590,
+      "end": 604
+    },
+    {
+      "text": "25 x 20 x 18 mm",
+      "type": "MEDIDA",
+      "start": 608,
+      "end": 623
+    },
+    {
+      "text": "hemisferio cerebeloso derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 653,
+      "end": 682
+    },
+    {
+      "text": "cuarto ventrículo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 733,
+      "end": 750
+    },
+    {
+      "text": "ventrículos laterales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 835,
+      "end": 856
+    },
+    {
+      "text": "III ventrículo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 863,
+      "end": 877
+    },
+    {
+      "text": "isquemia tisular",
+      "type": "PATOLOGIA",
+      "start": 1265,
+      "end": 1281
+    },
+    {
+      "text": "ACAs, ACMs, ACPs",
+      "type": "ARTERIA",
+      "start": 1395,
+      "end": 1411
+    },
+    {
+      "text": "sistema vertebrobasilar",
+      "type": "ARTERIA",
+      "start": 1414,
+      "end": 1437
+    },
+    {
+      "text": "No se visualizan otras hemorragias intraaxiales ni extraaxiales.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 917,
+      "end": 981
+    },
+    {
+      "text": "No se identifican áreas de estenosis significativas ni signos de extravasación activa de contraste.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1440,
+      "end": 1539
+    },
+    {
+      "text": "No se identifican lesiones vasculares que expliquen el origen hemorrágico en estudio angiográfico.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1815,
+      "end": 1913
+    }
+  ]
+}

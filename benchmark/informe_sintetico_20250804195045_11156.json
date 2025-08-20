@@ -1,0 +1,107 @@
+{
+  "document_id": "informe_sintetico_20250804195045_11156",
+  "entities": [
+    {
+      "text": "edema difuso",
+      "type": "PATOLOGIA",
+      "start": 610,
+      "end": 622
+    },
+    {
+      "text": "isquemia",
+      "type": "PATOLOGIA",
+      "start": 744,
+      "end": 752
+    },
+    {
+      "text": "aumento significativo del tiempo de tránsito medio (TTP)",
+      "type": "PATOLOGIA",
+      "start": 810,
+      "end": 866
+    },
+    {
+      "text": "retraso en el tiempo de llegada del contraste",
+      "type": "PATOLOGIA",
+      "start": 869,
+      "end": 914
+    },
+    {
+      "text": "isquemia crítica",
+      "type": "PATOLOGIA",
+      "start": 1096,
+      "end": 1112
+    },
+    {
+      "text": "Oclusión completa de la arteria basilar",
+      "type": "PATOLOGIA",
+      "start": 1138,
+      "end": 1177
+    },
+    {
+      "text": "territorio vertebrobasilar",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 756,
+      "end": 782
+    },
+    {
+      "text": "tronco encefálico",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 283,
+      "end": 300
+    },
+    {
+      "text": "cerebelo medial",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 953,
+      "end": 968
+    },
+    {
+      "text": "tálamos bilaterales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1623,
+      "end": 1642
+    },
+    {
+      "text": "arteria basilar",
+      "type": "ARTERIA",
+      "start": 1162,
+      "end": 1177
+    },
+    {
+      "text": "arterias cerebelosas superiores y posteriores",
+      "type": "ARTERIA",
+      "start": 1261,
+      "end": 1306
+    },
+    {
+      "text": "lado derecho",
+      "type": "LATERALIDAD",
+      "start": 1375,
+      "end": 1387
+    },
+    {
+      "text": "isquémico agudo",
+      "type": "TEMPORALIDAD",
+      "start": 1676,
+      "end": 1691
+    },
+    {
+      "text": "No se evidencian hemorragias intra ni extraaxiales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 547,
+      "end": 597
+    },
+    {
+      "text": "No se observan hemorragias intracraneales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1693,
+      "end": 1734
+    },
+    {
+      "text": "No se visualizan signos de trombosis en otras arterias intracraneales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1389,
+      "end": 1458
+    }
+  ]
+}

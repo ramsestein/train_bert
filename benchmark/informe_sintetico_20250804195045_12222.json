@@ -1,0 +1,101 @@
+{
+  "document_id": "informe_sintetico_20250804195045_12222",
+  "entities": [
+    {
+      "text": "infarto isquémico agudo",
+      "type": "PATOLOGIA",
+      "start": 672,
+      "end": 695
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 572,
+      "end": 604
+    },
+    {
+      "text": "ACM",
+      "type": "ARTERIA",
+      "start": 1140,
+      "end": 1143
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 595,
+      "end": 604
+    },
+    {
+      "text": "menos de 6 horas",
+      "type": "TEMPORALIDAD",
+      "start": 699,
+      "end": 715
+    },
+    {
+      "text": "ASPECTS 7",
+      "type": "PUNTUACION_CLINICA",
+      "start": 820,
+      "end": 829
+    },
+    {
+      "text": "disminución del volumen cerebral sanguíneo (CBV)",
+      "type": "PATOLOGIA",
+      "start": 867,
+      "end": 915
+    },
+    {
+      "text": "isquemia",
+      "type": "PATOLOGIA",
+      "start": 1103,
+      "end": 1111
+    },
+    {
+      "text": "disección arterial",
+      "type": "PATOLOGIA",
+      "start": 1335,
+      "end": 1353
+    },
+    {
+      "text": "arteria carótida interna izquierda",
+      "type": "ARTERIA",
+      "start": 1284,
+      "end": 1318
+    },
+    {
+      "text": "estenosis significativa",
+      "type": "PATOLOGIA",
+      "start": 1980,
+      "end": 2003
+    },
+    {
+      "text": "superior al 70%",
+      "type": "MEDIDA",
+      "start": 1410,
+      "end": 1425
+    },
+    {
+      "text": "hematoma intramural",
+      "type": "PATOLOGIA",
+      "start": 1578,
+      "end": 1597
+    },
+    {
+      "text": "repleción lineal alargado",
+      "type": "PATOLOGIA",
+      "start": 1521,
+      "end": 1546
+    },
+    {
+      "text": "No se observan signos de hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 717,
+      "end": 765
+    },
+    {
+      "text": "Sistema vertebrobasilar permeable y sin alteraciones",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1789,
+      "end": 1841
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "document_id": "informe_sintetico_20250804195045_13343",
+  "entities": [
+    {
+      "text": "hemorragia aguda",
+      "type": "PATOLOGIA",
+      "start": 445,
+      "end": 461
+    },
+    {
+      "text": "ASPECTS 10/10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 562,
+      "end": 575
+    },
+    {
+      "text": "cambios microangiopáticos crónicos leves",
+      "type": "PATOLOGIA",
+      "start": 673,
+      "end": 713
+    },
+    {
+      "text": "TTP, CBV y CBF dentro de rangos normales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 863,
+      "end": 903
+    },
+    {
+      "text": "sin evidencia de alteraciones focales ni discordancia significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 905,
+      "end": 972
+    },
+    {
+      "text": "estenosis hemodinámicamente significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1057,
+      "end": 1099
+    },
+    {
+      "text": "obstrucción mayor al 30%",
+      "type": "MEDIDA",
+      "start": 1159,
+      "end": 1183
+    },
+    {
+      "text": "sin signos de patología aguda",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1279,
+      "end": 1308
+    },
+    {
+      "text": "sin evidencia de isquemia aguda",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1429,
+      "end": 1460
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "document_id": "informe_sintetico_20250804195045_01913",
+  "entities": [
+    {
+      "text": "hemorragias intra o extraaxiales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 511,
+      "end": 543
+    },
+    {
+      "text": "lesiones isquémicas agudas o subagudas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 547,
+      "end": 585
+    },
+    {
+      "text": "ASPECTS de 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 675,
+      "end": 688
+    },
+    {
+      "text": "cambios crónicos compatibles con enfermedad de pequeño vaso",
+      "type": "PATOLOGIA",
+      "start": 702,
+      "end": 761
+    },
+    {
+      "text": "áreas de hipodensidad periventriculares y subcorticales bilaterales",
+      "type": "PATOLOGIA",
+      "start": 763,
+      "end": 830
+    },
+    {
+      "text": "atrofia cerebral leve de predominio fronto-temporal",
+      "type": "PATOLOGIA",
+      "start": 966,
+      "end": 1017
+    },
+    {
+      "text": "arterias cerebrales principales (ACAs, ACMs, ACPs)",
+      "type": "ARTERIA",
+      "start": 1425,
+      "end": 1475
+    },
+    {
+      "text": "ambas carótidas internas",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1598,
+      "end": 1622
+    }
+  ]
+}

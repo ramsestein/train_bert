@@ -1,0 +1,83 @@
+{
+  "document_id": "informe_sintetico_20250804195045_09017",
+  "entities": [
+    {
+      "text": "infarto lacunar agudo",
+      "type": "PATOLOGIA",
+      "start": 489,
+      "end": 510
+    },
+    {
+      "text": "núcleo lenticular derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 447,
+      "end": 472
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 1022,
+      "end": 1036
+    },
+    {
+      "text": "núcleo lenticular derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 447,
+      "end": 472
+    },
+    {
+      "text": "ACAs",
+      "type": "ARTERIA",
+      "start": 1255,
+      "end": 1259
+    },
+    {
+      "text": "ACMs",
+      "type": "ARTERIA",
+      "start": 1261,
+      "end": 1265
+    },
+    {
+      "text": "ACPs",
+      "type": "ARTERIA",
+      "start": 1268,
+      "end": 1272
+    },
+    {
+      "text": "bilaterales",
+      "type": "LATERALIDAD",
+      "start": 1273,
+      "end": 1284
+    },
+    {
+      "text": "sin hemorragia asociada",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1829,
+      "end": 1852
+    },
+    {
+      "text": "sin estenosis ni placas significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1131,
+      "end": 1169
+    },
+    {
+      "text": "sin estenosis significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1570,
+      "end": 1598
+    },
+    {
+      "text": "sin complicaciones hemorrágicas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1414,
+      "end": 1445
+    },
+    {
+      "text": "sin estenosis ni oclusiones visibles",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1206,
+      "end": 1242
+    }
+  ]
+}

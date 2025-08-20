@@ -1,0 +1,89 @@
+{
+  "document_id": "informe_sintetico_20250804195045_02556",
+  "entities": [
+    {
+      "text": "isquemia cerebral aguda",
+      "type": "PATOLOGIA",
+      "start": 245,
+      "end": 268
+    },
+    {
+      "text": "M1",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 451,
+      "end": 453
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "ARTERIA",
+      "start": 460,
+      "end": 492
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 483,
+      "end": 492
+    },
+    {
+      "text": "ASPECTS 6",
+      "type": "PUNTUACION_CLINICA",
+      "start": 748,
+      "end": 757
+    },
+    {
+      "text": "hemorragia intraparenquimatosa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 787,
+      "end": 817
+    },
+    {
+      "text": "Oclusión completa",
+      "type": "PATOLOGIA",
+      "start": 1384,
+      "end": 1401
+    },
+    {
+      "text": "M1",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 451,
+      "end": 453
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "ARTERIA",
+      "start": 460,
+      "end": 492
+    },
+    {
+      "text": "ASPECTS 6",
+      "type": "PUNTUACION_CLINICA",
+      "start": 748,
+      "end": 757
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1940,
+      "end": 1963
+    },
+    {
+      "text": "TC CRANEAL BASAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 289,
+      "end": 305
+    },
+    {
+      "text": "TC PERFUSIÓN",
+      "type": "TECNICA_IMAGEN",
+      "start": 308,
+      "end": 320
+    },
+    {
+      "text": "ANGIO-TC INTRACRANEAL Y EXTRACRANEAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 323,
+      "end": 359
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "document_id": "informe_sintetico_20250804195045_11124",
+  "entities": [
+    {
+      "text": "infarto lacunar agudo",
+      "type": "PATOLOGIA",
+      "start": 630,
+      "end": 651
+    },
+    {
+      "text": "núcleo lenticular izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 586,
+      "end": 613
+    },
+    {
+      "text": "6 mm",
+      "type": "MEDIDA",
+      "start": 554,
+      "end": 558
+    },
+    {
+      "text": "aguda",
+      "type": "TEMPORALIDAD",
+      "start": 529,
+      "end": 534
+    },
+    {
+      "text": "No evidencia de hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 653,
+      "end": 692
+    },
+    {
+      "text": "arterias cerebrales medias, anteriores y posteriores",
+      "type": "ARTERIA",
+      "start": 1377,
+      "end": 1429
+    },
+    {
+      "text": "carótida interna derecha",
+      "type": "ARTERIA",
+      "start": 1609,
+      "end": 1633
+    },
+    {
+      "text": "sin estenosis ni oclusiones significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1503,
+      "end": 1545
+    }
+  ]
+}

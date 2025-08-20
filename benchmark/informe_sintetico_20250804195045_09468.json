@@ -1,0 +1,107 @@
+{
+  "document_id": "informe_sintetico_20250804195045_09468",
+  "entities": [
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 209,
+      "end": 223
+    },
+    {
+      "text": "arteria cerebral posterior izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 227,
+      "end": 263
+    },
+    {
+      "text": "arteria cerebral posterior (ACP)",
+      "type": "ARTERIA",
+      "start": 731,
+      "end": 763
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 254,
+      "end": 263
+    },
+    {
+      "text": "ASPECTS modificada para ACP: 8",
+      "type": "PUNTUACION_CLINICA",
+      "start": 765,
+      "end": 795
+    },
+    {
+      "text": "infarto",
+      "type": "PATOLOGIA",
+      "start": 1172,
+      "end": 1179
+    },
+    {
+      "text": "zona de infarto establecida",
+      "type": "PATOLOGIA",
+      "start": 1164,
+      "end": 1191
+    },
+    {
+      "text": "penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1311,
+      "end": 1329
+    },
+    {
+      "text": "Oclusión completa de la arteria cerebral posterior izquierda en segmento P2 proximal",
+      "type": "PATOLOGIA",
+      "start": 1473,
+      "end": 1557
+    },
+    {
+      "text": "Oclusión proximal de ACP izquierda confirmada",
+      "type": "PATOLOGIA",
+      "start": 2055,
+      "end": 2100
+    },
+    {
+      "text": "No se identifican hemorragias intracraneales ni colecciones extraaxiales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 481,
+      "end": 553
+    },
+    {
+      "text": "No evidencias de hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2106,
+      "end": 2146
+    },
+    {
+      "text": "No se observan malformaciones vasculares ni otras lesiones vasculares intracraneales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1796,
+      "end": 1880
+    },
+    {
+      "text": "TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANG IOTC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 72,
+      "end": 140
+    },
+    {
+      "text": "TC CRANEAL BASAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 461,
+      "end": 477
+    },
+    {
+      "text": "TC PERFUSIÓN",
+      "type": "TECNICA_IMAGEN",
+      "start": 941,
+      "end": 953
+    },
+    {
+      "text": "ANGIO-TC ARTERIAL INTRACRANEAL Y EXTRACRANEAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 1424,
+      "end": 1469
+    }
+  ]
+}

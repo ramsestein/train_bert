@@ -1,0 +1,259 @@
+{
+  "document_id": "informe_sintetico_20250804195045_09466",
+  "entities": [
+    {
+      "text": "cefalea",
+      "type": "PATOLOGIA",
+      "start": 181,
+      "end": 188
+    },
+    {
+      "text": "mareo súbito",
+      "type": "PATOLOGIA",
+      "start": 191,
+      "end": 203
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 385,
+      "end": 408
+    },
+    {
+      "text": "Diferenciación cortico-subcortical",
+      "type": "PATOLOGIA",
+      "start": 425,
+      "end": 459
+    },
+    {
+      "text": "ASPECTS de 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 475,
+      "end": 488
+    },
+    {
+      "text": "infarto agudo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 542,
+      "end": 555
+    },
+    {
+      "text": "cambios periventriculares",
+      "type": "PATOLOGIA",
+      "start": 563,
+      "end": 588
+    },
+    {
+      "text": "sustancia blanca",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 595,
+      "end": 611
+    },
+    {
+      "text": "enfermedad crónica de pequeño vaso",
+      "type": "PATOLOGIA",
+      "start": 628,
+      "end": 662
+    },
+    {
+      "text": "Sistema ventricular",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 678,
+      "end": 697
+    },
+    {
+      "text": "línea media",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 752,
+      "end": 763
+    },
+    {
+      "text": "Cisternas basales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 765,
+      "end": 782
+    },
+    {
+      "text": "surcos corticales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 785,
+      "end": 802
+    },
+    {
+      "text": "tiempo de tránsito (TTP)",
+      "type": "TECNICA_IMAGEN",
+      "start": 848,
+      "end": 872
+    },
+    {
+      "text": "volumen cerebral de sangre (CBV)",
+      "type": "TECNICA_IMAGEN",
+      "start": 874,
+      "end": 906
+    },
+    {
+      "text": "flujo cerebral de sangre (CBF)",
+      "type": "TECNICA_IMAGEN",
+      "start": 909,
+      "end": 939
+    },
+    {
+      "text": "hemisféricas significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 983,
+      "end": 1010
+    },
+    {
+      "text": "hipoperfusión",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1023,
+      "end": 1036
+    },
+    {
+      "text": "Arco aórtico",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1071,
+      "end": 1083
+    },
+    {
+      "text": "troncos supra-aórticos",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1086,
+      "end": 1108
+    },
+    {
+      "text": "estenosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1113,
+      "end": 1122
+    },
+    {
+      "text": "placas significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1126,
+      "end": 1147
+    },
+    {
+      "text": "estenosis relevantes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1212,
+      "end": 1232
+    },
+    {
+      "text": "ACA",
+      "type": "ARTERIA",
+      "start": 1271,
+      "end": 1274
+    },
+    {
+      "text": "ACM",
+      "type": "ARTERIA",
+      "start": 1276,
+      "end": 1279
+    },
+    {
+      "text": "ACP",
+      "type": "ARTERIA",
+      "start": 1281,
+      "end": 1284
+    },
+    {
+      "text": "permeables",
+      "type": "PATOLOGIA",
+      "start": 1197,
+      "end": 1207
+    },
+    {
+      "text": "evidencia de oclusión",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1302,
+      "end": 1323
+    },
+    {
+      "text": "estenosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1113,
+      "end": 1122
+    },
+    {
+      "text": "íntegro",
+      "type": "PATOLOGIA",
+      "start": 1362,
+      "end": 1369
+    },
+    {
+      "text": "permeable",
+      "type": "PATOLOGIA",
+      "start": 1197,
+      "end": 1206
+    },
+    {
+      "text": "malformaciones vascular",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1399,
+      "end": 1422
+    },
+    {
+      "text": "aneurismas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1426,
+      "end": 1436
+    },
+    {
+      "text": "hallazgos agudos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1479,
+      "end": 1495
+    },
+    {
+      "text": "Perfusión cerebral normal",
+      "type": "PATOLOGIA",
+      "start": 1562,
+      "end": 1587
+    },
+    {
+      "text": "hipoperfusión",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1023,
+      "end": 1036
+    },
+    {
+      "text": "Angio-TC",
+      "type": "TECNICA_IMAGEN",
+      "start": 1618,
+      "end": 1626
+    },
+    {
+      "text": "permeabilidad de principales vasos",
+      "type": "PATOLOGIA",
+      "start": 1631,
+      "end": 1665
+    },
+    {
+      "text": "intra y extracraneales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1666,
+      "end": 1688
+    },
+    {
+      "text": "estenosis significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1694,
+      "end": 1717
+    },
+    {
+      "text": "enfermedad microvascular",
+      "type": "PATOLOGIA",
+      "start": 1760,
+      "end": 1784
+    },
+    {
+      "text": "repercusión aguda",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1789,
+      "end": 1806
+    }
+  ],
+  "regenerado": true,
+  "fecha_regeneracion": "2025-08-06T05:47:32.927902"
+}

@@ -1,0 +1,95 @@
+{
+  "document_id": "informe_sintetico_20250804195045_17303",
+  "entities": [
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 224,
+      "end": 238
+    },
+    {
+      "text": "arteria cerebral anterior",
+      "type": "ARTERIA",
+      "start": 256,
+      "end": 281
+    },
+    {
+      "text": "izquierdo",
+      "type": "LATERALIDAD",
+      "start": 667,
+      "end": 676
+    },
+    {
+      "text": "No se identifica hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 490,
+      "end": 530
+    },
+    {
+      "text": "cambios sutiles en región ACA izquierda",
+      "type": "PATOLOGIA",
+      "start": 739,
+      "end": 778
+    },
+    {
+      "text": "ASPECTS 8/10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 717,
+      "end": 729
+    },
+    {
+      "text": "prolongación del tiempo de desplazamiento (Tmax)",
+      "type": "PATOLOGIA",
+      "start": 928,
+      "end": 976
+    },
+    {
+      "text": "reducción del flujo sanguíneo cerebral (CBF)",
+      "type": "PATOLOGIA",
+      "start": 979,
+      "end": 1023
+    },
+    {
+      "text": "izquierdo",
+      "type": "LATERALIDAD",
+      "start": 667,
+      "end": 676
+    },
+    {
+      "text": "territorio de ACA",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1108,
+      "end": 1125
+    },
+    {
+      "text": "sin clara evidencia de infarto establecido",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1193,
+      "end": 1235
+    },
+    {
+      "text": "segmento A2 proximal",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1436,
+      "end": 1456
+    },
+    {
+      "text": "sin visualización distal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1458,
+      "end": 1482
+    },
+    {
+      "text": "Lesión isquémica aguda en territorio de arteria cerebral anterior izquierda",
+      "type": "PATOLOGIA",
+      "start": 1737,
+      "end": 1812
+    },
+    {
+      "text": "ASPECTS 8/10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 717,
+      "end": 729
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "document_id": "informe_sintetico_20250804195045_09997",
+  "entities": [
+    {
+      "text": "infarto lacunar",
+      "type": "PATOLOGIA",
+      "start": 235,
+      "end": 250
+    },
+    {
+      "text": "cápsula interna izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 587,
+      "end": 612
+    },
+    {
+      "text": "8 mm",
+      "type": "MEDIDA",
+      "start": 576,
+      "end": 580
+    },
+    {
+      "text": "agudo",
+      "type": "TEMPORALIDAD",
+      "start": 645,
+      "end": 650
+    },
+    {
+      "text": "isquemia",
+      "type": "PATOLOGIA",
+      "start": 1177,
+      "end": 1185
+    },
+    {
+      "text": "aguda",
+      "type": "TEMPORALIDAD",
+      "start": 1194,
+      "end": 1199
+    },
+    {
+      "text": "ACAs, ACMs y ACPs",
+      "type": "ARTERIA",
+      "start": 1640,
+      "end": 1657
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 603,
+      "end": 612
+    },
+    {
+      "text": "No se evidencia hemorragia intra ni extraaxial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 471,
+      "end": 517
+    },
+    {
+      "text": "No signos de edema circundante ni desplazamiento de estructuras de la línea media",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 735,
+      "end": 816
+    },
+    {
+      "text": "sin caída significativa del volumen cerebral",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1099,
+      "end": 1143
+    },
+    {
+      "text": "sin estenosis significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1926,
+      "end": 1953
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "document_id": "informe_sintetico_20250804195045_14448",
+  "entities": [
+    {
+      "text": "ictus isquémico",
+      "type": "PATOLOGIA",
+      "start": 237,
+      "end": 252
+    },
+    {
+      "text": "infarto cerebral agudo",
+      "type": "PATOLOGIA",
+      "start": 581,
+      "end": 603
+    },
+    {
+      "text": "sangrado hemorrágico de grado PH1",
+      "type": "PATOLOGIA",
+      "start": 690,
+      "end": 723
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "ARTERIA",
+      "start": 532,
+      "end": 564
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 555,
+      "end": 564
+    },
+    {
+      "text": "PH1",
+      "type": "PUNTUACION_CLINICA",
+      "start": 720,
+      "end": 723
+    },
+    {
+      "text": "edema vasogénico",
+      "type": "PATOLOGIA",
+      "start": 966,
+      "end": 982
+    },
+    {
+      "text": "subaguda",
+      "type": "TEMPORALIDAD",
+      "start": 2012,
+      "end": 2020
+    },
+    {
+      "text": "sin signos de trombosis ni estenosis destacables",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1490,
+      "end": 1538
+    },
+    {
+      "text": "sin alteraciones significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1591,
+      "end": 1622
+    },
+    {
+      "text": "sin oclusiones arteriales significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2021,
+      "end": 2061
+    },
+    {
+      "text": "TC craneal basal sin contraste",
+      "type": "TECNICA_IMAGEN",
+      "start": 312,
+      "end": 342
+    },
+    {
+      "text": "estudio de perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 344,
+      "end": 373
+    },
+    {
+      "text": "Angio TC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 376,
+      "end": 406
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "document_id": "informe_sintetico_20250804195045_00253",
+  "entities": [
+    {
+      "text": "hiperdensidad",
+      "type": "PATOLOGIA",
+      "start": 383,
+      "end": 396
+    },
+    {
+      "text": "trombo intraluminal",
+      "type": "PATOLOGIA",
+      "start": 479,
+      "end": 498
+    },
+    {
+      "text": "isquemia temprana",
+      "type": "PATOLOGIA",
+      "start": 638,
+      "end": 655
+    },
+    {
+      "text": "ASPECTS 6/10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 1703,
+      "end": 1715
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 700,
+      "end": 723
+    },
+    {
+      "text": "tiempo de tránsito medio (TTM)",
+      "type": "MEDIDA",
+      "start": 841,
+      "end": 871
+    },
+    {
+      "text": "tiempo hasta el pico (Tmax)",
+      "type": "MEDIDA",
+      "start": 874,
+      "end": 901
+    },
+    {
+      "text": "hipoperfusión extensa",
+      "type": "PATOLOGIA",
+      "start": 959,
+      "end": 980
+    },
+    {
+      "text": "flujo cerebral (CBF)",
+      "type": "MEDIDA",
+      "start": 1006,
+      "end": 1026
+    },
+    {
+      "text": "volumen cerebral de sangre (CBV)",
+      "type": "MEDIDA",
+      "start": 1029,
+      "end": 1061
+    },
+    {
+      "text": "mismatch significativo",
+      "type": "PATOLOGIA",
+      "start": 1088,
+      "end": 1110
+    },
+    {
+      "text": "penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1127,
+      "end": 1145
+    },
+    {
+      "text": "oclusión completa",
+      "type": "PATOLOGIA",
+      "start": 1303,
+      "end": 1320
+    },
+    {
+      "text": "segmento proximal M1",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 403,
+      "end": 423
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "ARTERIA",
+      "start": 430,
+      "end": 462
+    },
+    {
+      "text": "colaterales distales significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1431,
+      "end": 1466
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 1856,
+      "end": 1870
+    },
+    {
+      "text": "territorio de ACM proximal izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1874,
+      "end": 1910
+    }
+  ]
+}

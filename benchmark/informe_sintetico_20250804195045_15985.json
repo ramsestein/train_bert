@@ -1,0 +1,83 @@
+{
+  "document_id": "informe_sintetico_20250804195045_15985",
+  "entities": [
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 246,
+      "end": 260
+    },
+    {
+      "text": "arteria cerebral posterior",
+      "type": "ARTERIA",
+      "start": 281,
+      "end": 307
+    },
+    {
+      "text": "izquierdo",
+      "type": "LATERALIDAD",
+      "start": 214,
+      "end": 223
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 709,
+      "end": 719
+    },
+    {
+      "text": "hipoperfusión",
+      "type": "PATOLOGIA",
+      "start": 1003,
+      "end": 1016
+    },
+    {
+      "text": "zona parietoccipital derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1124,
+      "end": 1152
+    },
+    {
+      "text": "penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1219,
+      "end": 1237
+    },
+    {
+      "text": "segmento P2 derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1345,
+      "end": 1364
+    },
+    {
+      "text": "arteria cerebral posterior",
+      "type": "ARTERIA",
+      "start": 281,
+      "end": 307
+    },
+    {
+      "text": "sin evidencia de infarto isquémico",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1651,
+      "end": 1685
+    },
+    {
+      "text": "sin signos de disección ni estenosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1577,
+      "end": 1613
+    },
+    {
+      "text": "sin desviación de línea media",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 768,
+      "end": 797
+    },
+    {
+      "text": "volumen preservado",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1828,
+      "end": 1846
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "document_id": "informe_sintetico_20250804195045_18193",
+  "entities": [
+    {
+      "text": "paro cardiorrespiratorio",
+      "type": "PATOLOGIA",
+      "start": 189,
+      "end": 213
+    },
+    {
+      "text": "encefalopatía hipóxico-isquémica",
+      "type": "PATOLOGIA",
+      "start": 275,
+      "end": 307
+    },
+    {
+      "text": "disminución difusa de la diferenciación cortico-subcortical",
+      "type": "PATOLOGIA",
+      "start": 475,
+      "end": 534
+    },
+    {
+      "text": "edema cerebral",
+      "type": "PATOLOGIA",
+      "start": 652,
+      "end": 666
+    },
+    {
+      "text": "hemorragias",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 815,
+      "end": 826
+    },
+    {
+      "text": "focos de sangrado intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 830,
+      "end": 860
+    },
+    {
+      "text": "disminución del volumen ventricular",
+      "type": "PATOLOGIA",
+      "start": 1846,
+      "end": 1881
+    },
+    {
+      "text": "hipoperfusión global",
+      "type": "PATOLOGIA",
+      "start": 1204,
+      "end": 1224
+    },
+    {
+      "text": "oclusión arterial focal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1946,
+      "end": 1969
+    },
+    {
+      "text": "arterias cerebrales anteriores",
+      "type": "ARTERIA",
+      "start": 1450,
+      "end": 1480
+    },
+    {
+      "text": "encefalopatía hipóxico-isquémica",
+      "type": "PATOLOGIA",
+      "start": 275,
+      "end": 307
+    },
+    {
+      "text": "edema cerebral difuso",
+      "type": "PATOLOGIA",
+      "start": 2270,
+      "end": 2291
+    },
+    {
+      "text": "infarto territorial focal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2309,
+      "end": 2334
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2338,
+      "end": 2361
+    },
+    {
+      "text": "TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANG IOTC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 72,
+      "end": 140
+    },
+    {
+      "text": "TC craneal basal urgente",
+      "type": "TECNICA_IMAGEN",
+      "start": 327,
+      "end": 351
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 354,
+      "end": 375
+    },
+    {
+      "text": "AngioTC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 378,
+      "end": 407
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+UO_PACN (Unidad Organizativa Médica): RADIO
+
+PRUEB (Prueba solicitada): TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANG IOTC ARTERIAL INTRACRANEAL)
+
+CLIN (Resumen clínico): Paciente con cuadro súbito de vértigo intenso, dificultad para la marcha y diplopía, sospecha clínica de isquemia aguda en el territorio vertebrobasilar.
+
+OBSR (Protocolo): TC craneal basal sin contraste, seguido de perfusión cerebral y angiografía por TC de troncos supraaórticos y vasos intracraneales con contraste intravenoso en fase arterial.
+
+RESL (Resultados): TC craneal basal: No se identifican hemorragias intraparenquimatosas ni hematomas extraaxiales. Signos de edema leve en la región bulboprotuberancial derecha, con discreta hipodensidad cortical y subcortical compatible con lesión isquémica aguda. No se observan signos de infarto antiguo.
+
+TC perfusión cerebral: Se objetiva aumento del tiempo de tránsito medio (TTM) y tiempo hasta el pico (TTP) en la región del cerebelo derecho y parte del bulbo, con disminución de flujo sanguíneo cerebral (CBF) y volumen sanguíneo cerebral (CBV) compatibles con área de isquemia en territorio vertebral derecho y territorio distal basilar.
+
+Angio-TC arterial intracraneal y extra craneal: Oclusión casi completa del segmento distal de la arteria vertebral derecha en su entrada al cráneo, con colaterales compensadoras desde la vertebral izquierda. La arteria basilar muestra estenosis significativa proximal al segmento medio (aproximadamente 80%), causando reducción del flujo distal. Resto de las arterias cerebrales principales permeables sin estenosis relevantes. Troncos supraaórticos sin signos de ateromatosis severa. 
+
+CONCL (Conclusiones): Estudio compatible con isquemia aguda vertebrobasilar derecha, con áreas de hipoperfusión y lesión isquémica inicial en bulbo y cerebelo derecho. Oclusión del segmento distal de la arteria vertebral derecha y estenosis severa en arteria basilar proximal. No evidencia de hemorragia intracraneal. Se recomienda valoración neurológica urgente para manejo endovascular.
+
+ACTI_ADICI (Actividad adicional): Seguimiento clínico y posible estudio angiográfico invasivo para valorar recanalización.
+
+ICON (Estudio): @RADIO_TC@
+
+X00DIATXT (Texto del diagnóstico ACR): Isquemia aguda en territorio vertebrobasilar con compromiso hemodinámico y oclusión arterial.
+
+EST_T_DES (Descripción): TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANGIOTC ARTERIAL INTRACRANEAL)
+
+ZVASOS_D (Der.): Caso de isquemia vertebrobasilar aguda con compromiso vascular severo en arteria vertebral derecha y basilar proximal.

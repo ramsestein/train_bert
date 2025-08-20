@@ -1,0 +1,101 @@
+{
+  "document_id": "informe_sintetico_20250804195045_01847",
+  "entities": [
+    {
+      "text": "hemorragia subaracnoidea difusa",
+      "type": "PATOLOGIA",
+      "start": 469,
+      "end": 500
+    },
+    {
+      "text": "alta densidad en las cisternas basales, surcos corticales y espacio perimesencefálico",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 505,
+      "end": 590
+    },
+    {
+      "text": "sin signos de foco hematomal intraparenquimatoso",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 592,
+      "end": 640
+    },
+    {
+      "text": "No se observan hematomas intraventriculares",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 642,
+      "end": 685
+    },
+    {
+      "text": "ni evidencia de hidrocefalia aguda",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 686,
+      "end": 720
+    },
+    {
+      "text": "La línea media está centrada sin efecto de masa asociado",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 722,
+      "end": 778
+    },
+    {
+      "text": "No se identifican infartos cerebrales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 780,
+      "end": 817
+    },
+    {
+      "text": "Perfusión cerebral sin alteraciones regionales de tiempo de tránsito (TTP), volumen sanguíneo cerebral (CBV) ni flujo sanguíneo cerebral (CBF)",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 870,
+      "end": 1012
+    },
+    {
+      "text": "arteria comunicante anterior",
+      "type": "ARTERIA",
+      "start": 1206,
+      "end": 1234
+    },
+    {
+      "text": "4 mm",
+      "type": "MEDIDA",
+      "start": 1254,
+      "end": 1258
+    },
+    {
+      "text": "sin estenosis significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1131,
+      "end": 1158
+    },
+    {
+      "text": "No signos de hidrocefalia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1604,
+      "end": 1629
+    },
+    {
+      "text": "ni efecto de masa significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1630,
+      "end": 1661
+    },
+    {
+      "text": "Hemorragia subaracnoidea difusa secundaria a aneurisma sacular en arteria comunicante anterior",
+      "type": "PATOLOGIA",
+      "start": 1863,
+      "end": 1957
+    },
+    {
+      "text": "sin complicaciones hidrodinámicas ni infarto cerebral",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1959,
+      "end": 2012
+    },
+    {
+      "text": "TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANGIOTC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 2040,
+      "end": 2107
+    }
+  ]
+}

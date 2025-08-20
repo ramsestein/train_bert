@@ -1,0 +1,89 @@
+{
+  "document_id": "informe_sintetico_20250804195045_06146",
+  "entities": [
+    {
+      "text": "infarto isquémico",
+      "type": "PATOLOGIA",
+      "start": 691,
+      "end": 708
+    },
+    {
+      "text": "región subcortical parietal izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 551,
+      "end": 588
+    },
+    {
+      "text": "3 cm",
+      "type": "MEDIDA",
+      "start": 543,
+      "end": 547
+    },
+    {
+      "text": "aguda",
+      "type": "TEMPORALIDAD",
+      "start": 717,
+      "end": 722
+    },
+    {
+      "text": "arteria carótida interna izquierda",
+      "type": "ARTERIA",
+      "start": 968,
+      "end": 1002
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 579,
+      "end": 588
+    },
+    {
+      "text": "irregularidad y estrechamiento segmentario",
+      "type": "PATOLOGIA",
+      "start": 1179,
+      "end": 1221
+    },
+    {
+      "text": "arteria carótida interna izquierda proximal",
+      "type": "ARTERIA",
+      "start": 1716,
+      "end": 1759
+    },
+    {
+      "text": "sin signos de estenosis o trombosis adicionales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1496,
+      "end": 1543
+    },
+    {
+      "text": "No se identifican hemorragias intracraneales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 724,
+      "end": 768
+    },
+    {
+      "text": "No hemorragias aparentes ni complicaciones secundarias detectadas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1842,
+      "end": 1907
+    },
+    {
+      "text": "TC craneal basal sin contraste",
+      "type": "TECNICA_IMAGEN",
+      "start": 339,
+      "end": 369
+    },
+    {
+      "text": "TC perfusión cerebral dinámica",
+      "type": "TECNICA_IMAGEN",
+      "start": 371,
+      "end": 401
+    },
+    {
+      "text": "Angio-TC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 404,
+      "end": 434
+    }
+  ]
+}

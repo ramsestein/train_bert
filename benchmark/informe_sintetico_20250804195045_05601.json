@@ -1,0 +1,95 @@
+{
+  "document_id": "informe_sintetico_20250804195045_05601",
+  "entities": [
+    {
+      "text": "hemorragia aguda",
+      "type": "PATOLOGIA",
+      "start": 513,
+      "end": 529
+    },
+    {
+      "text": "lesiones isquémicas recientes",
+      "type": "PATOLOGIA",
+      "start": 533,
+      "end": 562
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 668,
+      "end": 678
+    },
+    {
+      "text": "hipodensidad subcortical",
+      "type": "PATOLOGIA",
+      "start": 710,
+      "end": 734
+    },
+    {
+      "text": "gliosis",
+      "type": "PATOLOGIA",
+      "start": 752,
+      "end": 759
+    },
+    {
+      "text": "cambios crónicos vasculares",
+      "type": "PATOLOGIA",
+      "start": 762,
+      "end": 789
+    },
+    {
+      "text": "arterias principales (ACA, ACM y ACP)",
+      "type": "ARTERIA",
+      "start": 1377,
+      "end": 1414
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 668,
+      "end": 678
+    },
+    {
+      "text": "patología aguda",
+      "type": "PATOLOGIA",
+      "start": 1578,
+      "end": 1593
+    },
+    {
+      "text": "estenosis",
+      "type": "PATOLOGIA",
+      "start": 1223,
+      "end": 1232
+    },
+    {
+      "text": "aneurismas",
+      "type": "PATOLOGIA",
+      "start": 1482,
+      "end": 1492
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 300,
+      "end": 316
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 343,
+      "end": 364
+    },
+    {
+      "text": "angio-TC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 367,
+      "end": 397
+    },
+    {
+      "text": "TC craneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 300,
+      "end": 310
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "document_id": "informe_sintetico_20250804195045_02090",
+  "entities": [
+    {
+      "text": "infarto",
+      "type": "PATOLOGIA",
+      "start": 696,
+      "end": 703
+    },
+    {
+      "text": "hemorragia",
+      "type": "PATOLOGIA",
+      "start": 706,
+      "end": 716
+    },
+    {
+      "text": "ACAs",
+      "type": "ARTERIA",
+      "start": 1163,
+      "end": 1167
+    },
+    {
+      "text": "ACMs",
+      "type": "ARTERIA",
+      "start": 1169,
+      "end": 1173
+    },
+    {
+      "text": "ACPs",
+      "type": "ARTERIA",
+      "start": 1175,
+      "end": 1179
+    },
+    {
+      "text": "sin signos de oclusión o estenosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1274,
+      "end": 1308
+    },
+    {
+      "text": "sin hallazgos agudos ni alteraciones hemodinámicas significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1369,
+      "end": 1434
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 1436,
+      "end": 1446
+    },
+    {
+      "text": "TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANGIOTC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 1644,
+      "end": 1711
+    },
+    {
+      "text": "TC de cráneo basal urgente con estudio de perfusión cerebral y angio-TC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 241,
+      "end": 334
+    }
+  ]
+}

@@ -1,0 +1,265 @@
+{
+  "document_id": "informe_sintetico_20250804195045_18645",
+  "entities": [
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 252,
+      "end": 266
+    },
+    {
+      "text": "territorio vertebrobasilar",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 270,
+      "end": 296
+    },
+    {
+      "text": "hemorragias intra o extraaxiales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 487,
+      "end": 519
+    },
+    {
+      "text": "hipodensidad",
+      "type": "PATOLOGIA",
+      "start": 532,
+      "end": 544
+    },
+    {
+      "text": "tronco encefálico",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 551,
+      "end": 568
+    },
+    {
+      "text": "protuberancia",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 587,
+      "end": 600
+    },
+    {
+      "text": "región pontina dorsal",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 603,
+      "end": 624
+    },
+    {
+      "text": "diferenciación cortico-subcortical",
+      "type": "PATOLOGIA",
+      "start": 652,
+      "end": 686
+    },
+    {
+      "text": "estructuras de la línea media",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 764,
+      "end": 793
+    },
+    {
+      "text": "CBV",
+      "type": "MEDIDA",
+      "start": 944,
+      "end": 947
+    },
+    {
+      "text": "flujo cerebral",
+      "type": "PATOLOGIA",
+      "start": 951,
+      "end": 965
+    },
+    {
+      "text": "CBF",
+      "type": "MEDIDA",
+      "start": 967,
+      "end": 970
+    },
+    {
+      "text": "tronco encefálico",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 551,
+      "end": 568
+    },
+    {
+      "text": "cerebelo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1010,
+      "end": 1018
+    },
+    {
+      "text": "tiempo hasta el pico",
+      "type": "MEDIDA",
+      "start": 1041,
+      "end": 1061
+    },
+    {
+      "text": "TTP",
+      "type": "MEDIDA",
+      "start": 1063,
+      "end": 1066
+    },
+    {
+      "text": "tiempo de tránsito medio",
+      "type": "MEDIDA",
+      "start": 1070,
+      "end": 1094
+    },
+    {
+      "text": "MTT",
+      "type": "MEDIDA",
+      "start": 1096,
+      "end": 1099
+    },
+    {
+      "text": "zona de penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1117,
+      "end": 1143
+    },
+    {
+      "text": "arteria basilar proximal",
+      "type": "ARTERIA",
+      "start": 1209,
+      "end": 1233
+    },
+    {
+      "text": "ausencia de contraste",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1239,
+      "end": 1260
+    },
+    {
+      "text": "segmento próximo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1267,
+      "end": 1283
+    },
+    {
+      "text": "disminución del calibre",
+      "type": "PATOLOGIA",
+      "start": 1286,
+      "end": 1309
+    },
+    {
+      "text": "arteria vertebral derecha",
+      "type": "ARTERIA",
+      "start": 1313,
+      "end": 1338
+    },
+    {
+      "text": "arteria vertebral izquierda",
+      "type": "ARTERIA",
+      "start": 1343,
+      "end": 1370
+    },
+    {
+      "text": "flujo disminuido",
+      "type": "PATOLOGIA",
+      "start": 1380,
+      "end": 1396
+    },
+    {
+      "text": "permeable",
+      "type": "PATOLOGIA",
+      "start": 1402,
+      "end": 1411
+    },
+    {
+      "text": "estenosis significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1428,
+      "end": 1452
+    },
+    {
+      "text": "polígono de Willis",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1482,
+      "end": 1500
+    },
+    {
+      "text": "segmento V2 de arteria vertebral derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1535,
+      "end": 1575
+    },
+    {
+      "text": "repercusión luminal destacable",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1580,
+      "end": 1610
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 252,
+      "end": 266
+    },
+    {
+      "text": "territorio vertebrobasilar",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 270,
+      "end": 296
+    },
+    {
+      "text": "afectación de tronco encefálico",
+      "type": "PATOLOGIA",
+      "start": 1732,
+      "end": 1763
+    },
+    {
+      "text": "cerebelo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1010,
+      "end": 1018
+    },
+    {
+      "text": "AngioTC",
+      "type": "TECNICA_IMAGEN",
+      "start": 358,
+      "end": 365
+    },
+    {
+      "text": "hemorragia intra o extraaxial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1844,
+      "end": 1873
+    },
+    {
+      "text": "territorio en riesgo",
+      "type": "PATOLOGIA",
+      "start": 1906,
+      "end": 1926
+    },
+    {
+      "text": "zona de penumbra significativa",
+      "type": "PATOLOGIA",
+      "start": 1931,
+      "end": 1961
+    },
+    {
+      "text": "valoración para posible intervención endovascular",
+      "type": "PATOLOGIA",
+      "start": 2020,
+      "end": 2069
+    },
+    {
+      "text": "Isquemia aguda vertebrobasilar",
+      "type": "PATOLOGIA",
+      "start": 2130,
+      "end": 2160
+    },
+    {
+      "text": "oclusión proximal de arteria basilar",
+      "type": "PATOLOGIA",
+      "start": 2165,
+      "end": 2201
+    },
+    {
+      "text": "afectación de tronco encefálico",
+      "type": "PATOLOGIA",
+      "start": 1732,
+      "end": 1763
+    }
+  ],
+  "regenerado": true,
+  "fecha_regeneracion": "2025-08-06T06:22:27.761949"
+}

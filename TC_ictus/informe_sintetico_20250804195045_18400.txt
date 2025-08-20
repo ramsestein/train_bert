@@ -1,0 +1,26 @@
+UO_PACN (Unidad Organizativa Médica): RADIO
+
+PRUEB (Prueba solicitada): TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANG IOTC ARTERIAL INTRACRANEAL)
+
+CLIN (Resumen clínico): Paciente con cuadro de ataxia, diplopía y mareo súbito, sospecha de isquemia aguda en territorio vertebrobasilar.
+
+OBSR (Protocolo): Estudio multimodal realizado bajo protocolo código ictus incluyendo TC craneal basal sin contraste, mapas de perfusión cerebral y angiografía por TC de arterias extra e intracraneales.
+
+RESL (Resultados): 
+TC CRANEAL BASAL: No se identifican hemorragias intra ni extraaxiales. Preservada diferenciación córtico-subcortical con ausencia de hipodensidades agudas en territorio supratentorial. Se observa hipodensidad leve en hemiprotuberancia derecha, sugestiva de inicio de infarto agudo. Línea media centrada. Sistema ventricular de características normales. Cisternas basales libres.
+
+TC PERFUSIÓN: Mapas de perfusión muestran prolongación del tiempo de tránsito medio (MTT) y descenso del flujo cerebral (CBF) con reducción moderada del volumen cerebral (CBV) en territorio dependiente del tronco basilar y hemiprotuberancia derecha, compatible con área en penumbra isquémica sin evidencia clara de core establecido salvo la hipodensidad basal.
+
+ANGIO-TC EXTRA E INTRACRANEAL: Arco aórtico sin alteraciones significativas. Arterias carótidas cervicales sin estenosis ni placas significativas. Oclusión completa del segmento distal V4 de la arteria vertebral derecha, en relación con trombo mural. Tronco basilar permeable pero con flujo disminuido en su tercio distal. Ambas arterias cerebelosas posteriores permeables, sin estenosis significativas en vasos intracraneales principales.
+
+CONCL (Conclusiones): Imagen compatible con isquemia aguda vertebrobasilar derecha con área en penumbra extensa en protuberancia y tronco basilar. Oclusión del segmento V4 de arteria vertebral derecha confirmada. No hemorragia intracraneal. Hallazgos acordes con cuadro clínico actual.
+
+ACTI_ADICI (Actividad adicional): Seguimiento con RM cerebral para mejor delineación del tejido infartado y valoración de evolución.
+
+ICON (Estudio): @RADIO_TC_XXXX@
+
+X00DIATXT (Texto del diagnóstico ACR): Isquemia aguda en territorio vertebrobasilar derecha con oclusión arterial vertebral distal. Perfusión disminuida en tronco basilar y protuberancia derecha.
+
+EST_T_DES (Descripción): TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANGIOTC ARTERIAL INTRACRANEAL)
+
+ZVASOS_D (Der.): Oclusión arterial vertebral derecha segmento V4; flujo disminuido en tronco basilar distal; circulación posterior dependiente parcialmente preservada.

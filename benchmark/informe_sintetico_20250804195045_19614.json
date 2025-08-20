@@ -1,0 +1,107 @@
+{
+  "document_id": "informe_sintetico_20250804195045_19614",
+  "entities": [
+    {
+      "text": "edema citotóxico",
+      "type": "PATOLOGIA",
+      "start": 655,
+      "end": 671
+    },
+    {
+      "text": "edema cerebral difuso leve",
+      "type": "PATOLOGIA",
+      "start": 839,
+      "end": 865
+    },
+    {
+      "text": "hipoperfusión secundaria a daño hipóxico-isquémico",
+      "type": "PATOLOGIA",
+      "start": 1257,
+      "end": 1307
+    },
+    {
+      "text": "infarto focal agudo",
+      "type": "PATOLOGIA",
+      "start": 1833,
+      "end": 1852
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "PATOLOGIA",
+      "start": 1856,
+      "end": 1879
+    },
+    {
+      "text": "lóbulos frontales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 599,
+      "end": 616
+    },
+    {
+      "text": "territorios frontales y parietales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1089,
+      "end": 1123
+    },
+    {
+      "text": "ACAs",
+      "type": "ARTERIA",
+      "start": 1462,
+      "end": 1466
+    },
+    {
+      "text": "ACMs",
+      "type": "ARTERIA",
+      "start": 1468,
+      "end": 1472
+    },
+    {
+      "text": "ACPs",
+      "type": "ARTERIA",
+      "start": 1474,
+      "end": 1478
+    },
+    {
+      "text": "bilaterales",
+      "type": "LATERALIDAD",
+      "start": 541,
+      "end": 552
+    },
+    {
+      "text": "sin signos de estenosis o trombosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1506,
+      "end": 1541
+    },
+    {
+      "text": "sin evidencia de infarto focal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2236,
+      "end": 2266
+    },
+    {
+      "text": "sin signos de oclusión",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1912,
+      "end": 1934
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 326,
+      "end": 342
+    },
+    {
+      "text": "TC PERFUSIÓN",
+      "type": "TECNICA_IMAGEN",
+      "start": 1018,
+      "end": 1030
+    },
+    {
+      "text": "ANGIO-TC INTRACRANEAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 1402,
+      "end": 1423
+    }
+  ]
+}

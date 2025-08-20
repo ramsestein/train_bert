@@ -1,0 +1,125 @@
+{
+  "document_id": "0000000010000000059320422_cleaned",
+  "entities": [
+    {
+      "text": "No hay sangrado intra o extra axial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 314,
+      "end": 349
+    },
+    {
+      "text": "No se evidencian hipodensidades ni perdidas de la diferenciación cortico-subcortical en relación con proceso isquémico establecido",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 351,
+      "end": 481
+    },
+    {
+      "text": "Estructura de la línea media centrada",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 483,
+      "end": 520
+    },
+    {
+      "text": "Sistema ventricular de tamaño y morfología normal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 522,
+      "end": 571
+    },
+    {
+      "text": "Cisternas de la base sin ocupaciones",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 573,
+      "end": 609
+    },
+    {
+      "text": "No se evidencian alteraciones de los tiempos de perfusión, ni en flujo o volumen que sugieran proceso isquémico u otros procesos evaluables por esta técnica",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 623,
+      "end": 779
+    },
+    {
+      "text": "Sin defectos de repleción en los vasos intra o extra craneales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 792,
+      "end": 854
+    },
+    {
+      "text": "No se evidencian signos de disección",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 856,
+      "end": 892
+    },
+    {
+      "text": "Ateromatosis calcificada de la carótida intracraneal bilateral sin estenosis significativa",
+      "type": "PATOLOGIA",
+      "start": 894,
+      "end": 984
+    },
+    {
+      "text": "Estenosis no crítica por placa blanda en el origen de la arteria subclavia izquierda",
+      "type": "PATOLOGIA",
+      "start": 1030,
+      "end": 1114
+    },
+    {
+      "text": "Derrame pleural bilateral",
+      "type": "PATOLOGIA",
+      "start": 1229,
+      "end": 1254
+    },
+    {
+      "text": "Sin evidencia de patología intracraneal aguda",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1279,
+      "end": 1324
+    },
+    {
+      "text": "Ateromatosis calcificada bilateral no estenosante de la carótida intracraneal",
+      "type": "PATOLOGIA",
+      "start": 1326,
+      "end": 1403
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 1105,
+      "end": 1114
+    },
+    {
+      "text": "bilateral",
+      "type": "LATERALIDAD",
+      "start": 947,
+      "end": 956
+    },
+    {
+      "text": "80 años",
+      "type": "MEDIDA",
+      "start": 175,
+      "end": 182
+    },
+    {
+      "text": "aguda",
+      "type": "TEMPORALIDAD",
+      "start": 1319,
+      "end": 1324
+    },
+    {
+      "text": "TC basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 236,
+      "end": 244
+    },
+    {
+      "text": "angio TC cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 246,
+      "end": 263
+    },
+    {
+      "text": "perfusión",
+      "type": "TECNICA_IMAGEN",
+      "start": 266,
+      "end": 275
+    }
+  ]
+}

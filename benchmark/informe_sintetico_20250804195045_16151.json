@@ -1,0 +1,77 @@
+{
+  "document_id": "informe_sintetico_20250804195045_16151",
+  "entities": [
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 272,
+      "end": 286
+    },
+    {
+      "text": "arteria cerebral posterior",
+      "type": "ARTERIA",
+      "start": 307,
+      "end": 333
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 215,
+      "end": 222
+    },
+    {
+      "text": "izquierdo",
+      "type": "LATERALIDAD",
+      "start": 766,
+      "end": 775
+    },
+    {
+      "text": "P2",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1358,
+      "end": 1360
+    },
+    {
+      "text": "sin estenosis significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1493,
+      "end": 1521
+    },
+    {
+      "text": "sin alteraciones",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1606,
+      "end": 1622
+    },
+    {
+      "text": "penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1245,
+      "end": 1263
+    },
+    {
+      "text": "24-48 horas",
+      "type": "TEMPORALIDAD",
+      "start": 2145,
+      "end": 2156
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 382,
+      "end": 398
+    },
+    {
+      "text": "TC PERFUSIÓN",
+      "type": "TECNICA_IMAGEN",
+      "start": 938,
+      "end": 950
+    },
+    {
+      "text": "ANGIO-TC EXTRA E INTRACRANEAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 1296,
+      "end": 1325
+    }
+  ]
+}

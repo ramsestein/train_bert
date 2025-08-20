@@ -1,0 +1,59 @@
+{
+  "document_id": "informe_sintetico_20250804195045_09434",
+  "entities": [
+    {
+      "text": "infarto isquémico",
+      "type": "PATOLOGIA",
+      "start": 787,
+      "end": 804
+    },
+    {
+      "text": "territorios corticales fronto-parietales bilaterales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 611,
+      "end": 663
+    },
+    {
+      "text": "arterias cerebrales anterior y media",
+      "type": "ARTERIA",
+      "start": 736,
+      "end": 772
+    },
+    {
+      "text": "bilaterales",
+      "type": "LATERALIDAD",
+      "start": 652,
+      "end": 663
+    },
+    {
+      "text": "50%",
+      "type": "MEDIDA",
+      "start": 1513,
+      "end": 1516
+    },
+    {
+      "text": "subaguda",
+      "type": "TEMPORALIDAD",
+      "start": 235,
+      "end": 243
+    },
+    {
+      "text": "sin estenosis significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1383,
+      "end": 1411
+    },
+    {
+      "text": "sin evidencia de trombosis ni estenosis hemodinámicamente relevantes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1586,
+      "end": 1654
+    },
+    {
+      "text": "sin signos de edema cerebral significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1975,
+      "end": 2017
+    }
+  ]
+}

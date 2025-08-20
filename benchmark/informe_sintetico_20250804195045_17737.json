@@ -1,0 +1,125 @@
+{
+  "document_id": "informe_sintetico_20250804195045_17737",
+  "entities": [
+    {
+      "text": "hemorragia intraventricular primaria",
+      "type": "PATOLOGIA",
+      "start": 444,
+      "end": 480
+    },
+    {
+      "text": "sangrado hiperdenso",
+      "type": "PATOLOGIA",
+      "start": 499,
+      "end": 518
+    },
+    {
+      "text": "sistema ventricular lateral",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 525,
+      "end": 552
+    },
+    {
+      "text": "ventrículo lateral izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 575,
+      "end": 603
+    },
+    {
+      "text": "hemorragia subaracnoidea",
+      "type": "PATOLOGIA",
+      "start": 645,
+      "end": 669
+    },
+    {
+      "text": "hemorragia extraaxial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 705,
+      "end": 726
+    },
+    {
+      "text": "sangrado",
+      "type": "PATOLOGIA",
+      "start": 499,
+      "end": 507
+    },
+    {
+      "text": "Cisternas basales libres",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 878,
+      "end": 902
+    },
+    {
+      "text": "isquemia cerebral aguda",
+      "type": "PATOLOGIA",
+      "start": 1090,
+      "end": 1113
+    },
+    {
+      "text": "arterias cerebrales anteriores",
+      "type": "ARTERIA",
+      "start": 1243,
+      "end": 1273
+    },
+    {
+      "text": "estenosis",
+      "type": "PATOLOGIA",
+      "start": 1326,
+      "end": 1335
+    },
+    {
+      "text": "aneurismas visibles",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1339,
+      "end": 1358
+    },
+    {
+      "text": "malformaciones vasculares",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1378,
+      "end": 1403
+    },
+    {
+      "text": "ruptura",
+      "type": "PATOLOGIA",
+      "start": 1417,
+      "end": 1424
+    },
+    {
+      "text": "hemorragia parenquimatosa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1546,
+      "end": 1571
+    },
+    {
+      "text": "compromiso isquémico cerebral asociado",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1599,
+      "end": 1637
+    },
+    {
+      "text": "alteraciones angiográficas evidentes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1644,
+      "end": 1680
+    },
+    {
+      "text": "TC Basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 322,
+      "end": 330
+    },
+    {
+      "text": "TC Perfusión Cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 333,
+      "end": 354
+    },
+    {
+      "text": "Angio-TC Arterial Intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 357,
+      "end": 387
+    }
+  ]
+}

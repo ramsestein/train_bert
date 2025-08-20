@@ -1,0 +1,101 @@
+{
+  "document_id": "informe_sintetico_20250804195045_19625",
+  "entities": [
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 241,
+      "end": 255
+    },
+    {
+      "text": "territorio vertebrobasilar",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 259,
+      "end": 285
+    },
+    {
+      "text": "tronco encefálico",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 649,
+      "end": 666
+    },
+    {
+      "text": "cerebelo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 669,
+      "end": 677
+    },
+    {
+      "text": "arteria basilar proximal",
+      "type": "ARTERIA",
+      "start": 1021,
+      "end": 1045
+    },
+    {
+      "text": "severa",
+      "type": "MEDIDA",
+      "start": 978,
+      "end": 984
+    },
+    {
+      "text": "trombosis subtotal",
+      "type": "PATOLOGIA",
+      "start": 996,
+      "end": 1014
+    },
+    {
+      "text": "calibre irregular",
+      "type": "MEDIDA",
+      "start": 1164,
+      "end": 1181
+    },
+    {
+      "text": "moderada",
+      "type": "MEDIDA",
+      "start": 703,
+      "end": 711
+    },
+    {
+      "text": "sin signos de edema vasogénico o vasogénico transpendimario",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1470,
+      "end": 1529
+    },
+    {
+      "text": "sin colecciones anómalas ni desplazamiento de línea media",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1587,
+      "end": 1644
+    },
+    {
+      "text": "sin signos de estenosis significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1382,
+      "end": 1419
+    },
+    {
+      "text": "alteraciones de perfusión",
+      "type": "PATOLOGIA",
+      "start": 1742,
+      "end": 1767
+    },
+    {
+      "text": "RM cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 2108,
+      "end": 2119
+    },
+    {
+      "text": "TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANG IOTC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 72,
+      "end": 140
+    },
+    {
+      "text": "ASPECTS",
+      "type": "PUNTUACION_CLINICA",
+      "start": 818,
+      "end": 825
+    }
+  ]
+}

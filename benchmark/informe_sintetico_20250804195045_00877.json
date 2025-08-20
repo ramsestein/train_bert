@@ -1,0 +1,107 @@
+{
+  "document_id": "informe_sintetico_20250804195045_00877",
+  "entities": [
+    {
+      "text": "isquemia cerebral aguda múltiple",
+      "type": "PATOLOGIA",
+      "start": 248,
+      "end": 280
+    },
+    {
+      "text": "hipodensidades corticales y subcorticales agudas",
+      "type": "PATOLOGIA",
+      "start": 512,
+      "end": 560
+    },
+    {
+      "text": "infartos isquémicos agudos",
+      "type": "PATOLOGIA",
+      "start": 704,
+      "end": 730
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 757,
+      "end": 780
+    },
+    {
+      "text": "ASPECTS variable según territorio",
+      "type": "PUNTUACION_CLINICA",
+      "start": 782,
+      "end": 815
+    },
+    {
+      "text": "6 en hemisferio derecho",
+      "type": "MEDIDA",
+      "start": 844,
+      "end": 867
+    },
+    {
+      "text": "7 en hemisferio izquierdo",
+      "type": "MEDIDA",
+      "start": 870,
+      "end": 895
+    },
+    {
+      "text": "penumbra isquémica activa",
+      "type": "PATOLOGIA",
+      "start": 1335,
+      "end": 1360
+    },
+    {
+      "text": "infarto establecida",
+      "type": "PATOLOGIA",
+      "start": 1371,
+      "end": 1390
+    },
+    {
+      "text": "retraso leve en territorio temporal izquierdo",
+      "type": "PATOLOGIA",
+      "start": 1422,
+      "end": 1467
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "ARTERIA",
+      "start": 1583,
+      "end": 1613
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "ARTERIA",
+      "start": 1758,
+      "end": 1790
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 757,
+      "end": 780
+    },
+    {
+      "text": "ASPECTS 6 en hemisferio derecho",
+      "type": "PUNTUACION_CLINICA",
+      "start": 2312,
+      "end": 2343
+    },
+    {
+      "text": "TC craneal basal sin contraste",
+      "type": "TECNICA_IMAGEN",
+      "start": 325,
+      "end": 355
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 358,
+      "end": 379
+    },
+    {
+      "text": "angioTC intra y extracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 382,
+      "end": 410
+    }
+  ]
+}

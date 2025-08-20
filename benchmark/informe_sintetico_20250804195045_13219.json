@@ -1,0 +1,71 @@
+{
+  "document_id": "informe_sintetico_20250804195045_13219",
+  "entities": [
+    {
+      "text": "hematoma intracraneal lobar",
+      "type": "PATOLOGIA",
+      "start": 293,
+      "end": 320
+    },
+    {
+      "text": "región lobar parietal izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 526,
+      "end": 557
+    },
+    {
+      "text": "3.5 x 2.8 cm",
+      "type": "MEDIDA",
+      "start": 610,
+      "end": 622
+    },
+    {
+      "text": "izquierdo",
+      "type": "LATERALIDAD",
+      "start": 1553,
+      "end": 1562
+    },
+    {
+      "text": "menos de 3 mm",
+      "type": "MEDIDA",
+      "start": 783,
+      "end": 796
+    },
+    {
+      "text": "edema vasogénico",
+      "type": "PATOLOGIA",
+      "start": 960,
+      "end": 976
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 341,
+      "end": 357
+    },
+    {
+      "text": "TC PERFUSIÓN",
+      "type": "TECNICA_IMAGEN",
+      "start": 1047,
+      "end": 1059
+    },
+    {
+      "text": "ANGIO-TC ARTERIAL INTRACRANEAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 1317,
+      "end": 1347
+    },
+    {
+      "text": "No se observan hemorragias intraventriculares ni subaracnoideas asociadas.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 799,
+      "end": 873
+    },
+    {
+      "text": "No signos de sangrado activo ni malformaciones vasculares visibles en angioTC.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1703,
+      "end": 1781
+    }
+  ]
+}

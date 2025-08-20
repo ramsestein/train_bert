@@ -1,0 +1,95 @@
+{
+  "document_id": "0000000010000000058652524_cleaned",
+  "entities": [
+    {
+      "text": "Infart cerebral causat per oclusió o estenosi no especificades d'artèria cerebral no especificada",
+      "type": "PATOLOGIA",
+      "start": 166,
+      "end": 263
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 613,
+      "end": 627
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 629,
+      "end": 639
+    },
+    {
+      "text": "frontal anterior derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 664,
+      "end": 688
+    },
+    {
+      "text": "convexidad frontal derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 712,
+      "end": 738
+    },
+    {
+      "text": "convexidad frontal izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 761,
+      "end": 789
+    },
+    {
+      "text": "13x10 mm",
+      "type": "MEDIDA",
+      "start": 692,
+      "end": 700
+    },
+    {
+      "text": "9x5 mm",
+      "type": "MEDIDA",
+      "start": 742,
+      "end": 748
+    },
+    {
+      "text": "8x3 mm",
+      "type": "MEDIDA",
+      "start": 793,
+      "end": 799
+    },
+    {
+      "text": "ACAs",
+      "type": "ARTERIA",
+      "start": 1166,
+      "end": 1170
+    },
+    {
+      "text": "ACMs",
+      "type": "ARTERIA",
+      "start": 1172,
+      "end": 1176
+    },
+    {
+      "text": "ACPs",
+      "type": "ARTERIA",
+      "start": 1179,
+      "end": 1183
+    },
+    {
+      "text": "ACI derecha",
+      "type": "ARTERIA",
+      "start": 1232,
+      "end": 1243
+    },
+    {
+      "text": "Sistema vertebro-basilar",
+      "type": "ARTERIA",
+      "start": 1307,
+      "end": 1331
+    },
+    {
+      "text": "sin hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1571,
+      "end": 1598
+    }
+  ]
+}

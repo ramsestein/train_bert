@@ -1,0 +1,101 @@
+{
+  "document_id": "informe_sintetico_20250804195045_01082",
+  "entities": [
+    {
+      "text": "hemorragia intra ni extraaxial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 455,
+      "end": 485
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 637,
+      "end": 651
+    },
+    {
+      "text": "tamaño y morfología normales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 755,
+      "end": 783
+    },
+    {
+      "text": "libres",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 820,
+      "end": 826
+    },
+    {
+      "text": "permeables",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1267,
+      "end": 1277
+    },
+    {
+      "text": "estenosis, oclusión o malformaciones vasculares",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1296,
+      "end": 1343
+    },
+    {
+      "text": "sin hallazgos patológicos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1407,
+      "end": 1432
+    },
+    {
+      "text": "sin evidencias de isquemia, hemorragia ni alteraciones vasculares relevantes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1616,
+      "end": 1692
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 1574,
+      "end": 1584
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 279,
+      "end": 295
+    },
+    {
+      "text": "perfusión cerebral con contraste intravenoso",
+      "type": "TECNICA_IMAGEN",
+      "start": 311,
+      "end": 355
+    },
+    {
+      "text": "angio-TC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 358,
+      "end": 388
+    },
+    {
+      "text": "Mapas de perfusión cerebral normales",
+      "type": "TECNICA_IMAGEN",
+      "start": 883,
+      "end": 919
+    },
+    {
+      "text": "índices de flujo sanguíneo cerebral (CBF), volumen sanguíneo cerebral (CBV) y tiempo medio de tránsito (MTT)",
+      "type": "MEDIDA",
+      "start": 924,
+      "end": 1032
+    },
+    {
+      "text": "en ambos hemisferios",
+      "type": "LATERALIDAD",
+      "start": 1063,
+      "end": 1083
+    },
+    {
+      "text": "sin hallazgos de patología aguda",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1540,
+      "end": 1572
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "document_id": "0000000010000000057305708_cleaned",
+  "entities": [
+    {
+      "text": "hemiparesia izquierda",
+      "type": "PATOLOGIA",
+      "start": 219,
+      "end": 240
+    },
+    {
+      "text": "sindrome hemisensitivo",
+      "type": "PATOLOGIA",
+      "start": 243,
+      "end": 265
+    },
+    {
+      "text": "No s'observen signes d'hemorràgia aguda intra o extraaxial.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 433,
+      "end": 492
+    },
+    {
+      "text": "Parènquima cerebral sense alteracions densitomètriques.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 493,
+      "end": 548
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 595,
+      "end": 605
+    },
+    {
+      "text": "No s'observen alteracions valorables en els mapes de TTP, CBV i CBF.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 751,
+      "end": 819
+    },
+    {
+      "text": "Lleu ateromatosi calcificada a nivell de l'arc aòrtic, bifurcacions carotídies i segments intracavernosos i supraclinoidals d'ambdues ACIs, sense estenosis destacable.",
+      "type": "PATOLOGIA",
+      "start": 872,
+      "end": 1039
+    },
+    {
+      "text": "Artèries vertebrals sense ateromatosi significativa ni signes d'estenosi.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1040,
+      "end": 1113
+    },
+    {
+      "text": "Principals artèries cerebrals intracranials permeables (ACAs, ACMs i ACPs).",
+      "type": "ARTERIA",
+      "start": 1114,
+      "end": 1189
+    },
+    {
+      "text": "Sistema vertebrobasilar permeable.",
+      "type": "ARTERIA",
+      "start": 1190,
+      "end": 1224
+    },
+    {
+      "text": "Lleu pneumotòrax dret.",
+      "type": "PATOLOGIA",
+      "start": 1225,
+      "end": 1247
+    },
+    {
+      "text": "Sense signes d'isquèmia cerebral ni alteracions significatives a l'estudi de perfusió ni angio-tc.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1273,
+      "end": 1371
+    },
+    {
+      "text": "Lleu pneumotòrax dret.",
+      "type": "PATOLOGIA",
+      "start": 1225,
+      "end": 1247
+    }
+  ]
+}

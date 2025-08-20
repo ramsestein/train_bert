@@ -1,0 +1,113 @@
+{
+  "document_id": "informe_sintetico_20250804195045_05633",
+  "entities": [
+    {
+      "text": "hemorragia cortical",
+      "type": "PATOLOGIA",
+      "start": 639,
+      "end": 658
+    },
+    {
+      "text": "lóbulos frontales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 676,
+      "end": 693
+    },
+    {
+      "text": "bilaterales",
+      "type": "LATERALIDAD",
+      "start": 707,
+      "end": 718
+    },
+    {
+      "text": "microhemorragias",
+      "type": "PATOLOGIA",
+      "start": 791,
+      "end": 807
+    },
+    {
+      "text": "hemorragias lobares superficiales",
+      "type": "PATOLOGIA",
+      "start": 741,
+      "end": 774
+    },
+    {
+      "text": "No se observan hematomas intraparenquimatosos de gran tamaño",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 833,
+      "end": 893
+    },
+    {
+      "text": "No se evidencia área de hipoperfusión focal que sugiera isquemia aguda",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1200,
+      "end": 1270
+    },
+    {
+      "text": "No se identifican signos de estenosis significativa, aneurismas ni malformaciones arteriovenosas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1400,
+      "end": 1496
+    },
+    {
+      "text": "ACAs, ACMs, ACPs",
+      "type": "ARTERIA",
+      "start": 1543,
+      "end": 1559
+    },
+    {
+      "text": "sistema vertebrobasilar",
+      "type": "ARTERIA",
+      "start": 1563,
+      "end": 1586
+    },
+    {
+      "text": "No hay evidencia de vasoespasmo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1619,
+      "end": 1650
+    },
+    {
+      "text": "angiopatía amiloide cerebral",
+      "type": "PATOLOGIA",
+      "start": 272,
+      "end": 300
+    },
+    {
+      "text": "microhemorragias lobares corticales y subcorticales bilaterales",
+      "type": "PATOLOGIA",
+      "start": 1746,
+      "end": 1809
+    },
+    {
+      "text": "No evidencias de hematoma intraparenquimatoso de gran volumen",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1811,
+      "end": 1872
+    },
+    {
+      "text": "signos de isquemia cerebral aguda",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1876,
+      "end": 1909
+    },
+    {
+      "text": "Estudio vascular sin alteraciones significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1911,
+      "end": 1959
+    },
+    {
+      "text": "TC craneal sin y con contraste",
+      "type": "TECNICA_IMAGEN",
+      "start": 387,
+      "end": 417
+    },
+    {
+      "text": "Adquisición complementaria de perfusión cerebral y Angio-TC intra y extracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 419,
+      "end": 499
+    }
+  ]
+}

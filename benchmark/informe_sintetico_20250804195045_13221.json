@@ -1,0 +1,155 @@
+{
+  "document_id": "informe_sintetico_20250804195045_13221",
+  "entities": [
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 207,
+      "end": 221
+    },
+    {
+      "text": "arteria cerebral anterior",
+      "type": "ARTERIA",
+      "start": 239,
+      "end": 264
+    },
+    {
+      "text": "3 horas",
+      "type": "TEMPORALIDAD",
+      "start": 278,
+      "end": 285
+    },
+    {
+      "text": "No se identifican hemorragias intra ni extraaxiales.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 493,
+      "end": 545
+    },
+    {
+      "text": "disminución sutil en la densidad cortical",
+      "type": "PATOLOGIA",
+      "start": 558,
+      "end": 599
+    },
+    {
+      "text": "región medial frontal izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 606,
+      "end": 637
+    },
+    {
+      "text": "arteria cerebral anterior (ACA)",
+      "type": "ARTERIA",
+      "start": 675,
+      "end": 706
+    },
+    {
+      "text": "ASPECTS 9/10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 764,
+      "end": 776
+    },
+    {
+      "text": "No desplazamiento de la línea media ni signos de efecto masa.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 779,
+      "end": 840
+    },
+    {
+      "text": "Mapas de tiempo de tránsito (TTP)",
+      "type": "TECNICA_IMAGEN",
+      "start": 921,
+      "end": 954
+    },
+    {
+      "text": "prolongación en el territorio de la ACA izquierda",
+      "type": "PATOLOGIA",
+      "start": 964,
+      "end": 1013
+    },
+    {
+      "text": "disminución en el flujo cerebral (CBF)",
+      "type": "PATOLOGIA",
+      "start": 1019,
+      "end": 1057
+    },
+    {
+      "text": "volumen cerebral (CBV)",
+      "type": "PATOLOGIA",
+      "start": 1060,
+      "end": 1082
+    },
+    {
+      "text": "hipoperfusión significativa",
+      "type": "PATOLOGIA",
+      "start": 1121,
+      "end": 1148
+    },
+    {
+      "text": "sin evidencia clara de tejido cerebral ya infartado",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1149,
+      "end": 1200
+    },
+    {
+      "text": "Oclusión segmentaria en el segmento A2 de la arteria cerebral anterior izquierda.",
+      "type": "PATOLOGIA",
+      "start": 1257,
+      "end": 1338
+    },
+    {
+      "text": "Resto de la circulación intracraneal permeable",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1340,
+      "end": 1386
+    },
+    {
+      "text": "sin estenosis significativas en arterias principales (ACM, ACP)",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1388,
+      "end": 1451
+    },
+    {
+      "text": "Sistema vertebrobasilar sin alteraciones.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1454,
+      "end": 1495
+    },
+    {
+      "text": "Oclusión segmentaria en A2 de ACA izquierda",
+      "type": "PATOLOGIA",
+      "start": 1519,
+      "end": 1562
+    },
+    {
+      "text": "evidencia de isquemia aguda en territorio medial frontal",
+      "type": "PATOLOGIA",
+      "start": 1567,
+      "end": 1623
+    },
+    {
+      "text": "compatible con fase inicial de infarto cerebral.",
+      "type": "PATOLOGIA",
+      "start": 1624,
+      "end": 1672
+    },
+    {
+      "text": "Ausencia de hemorragia intracraneal.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1673,
+      "end": 1709
+    },
+    {
+      "text": "ASPECTS 9",
+      "type": "PUNTUACION_CLINICA",
+      "start": 764,
+      "end": 773
+    },
+    {
+      "text": "Penumbra isquémica identificada en TC perfusión.",
+      "type": "PATOLOGIA",
+      "start": 1721,
+      "end": 1769
+    }
+  ]
+}

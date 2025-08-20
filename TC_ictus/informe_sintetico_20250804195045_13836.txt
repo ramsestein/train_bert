@@ -1,0 +1,33 @@
+UO_PACN (Unidad Organizativa Médica): RADIO
+
+PRUEB (Prueba solicitada): TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANG IOTC ARTERIAL INTRACRANEAL)
+
+CLIN (Resumen clínico): Paciente con cefalea intensa de reciente aparición, vómitos y síntomas neurológicos focales; sospecha de trombosis venosa cerebral.
+
+OBSR (Protocolo): Protocolo Código Ictus con énfasis en TC Basal, Perfusión cerebral y AngioTC venosa y arterial para valoración completa de vasos cerebrales.
+
+RESL (Resultados):  
+TC CRANEAL BASAL:  
+Se identifica leve hipodensidad en la región parasagital derecha en áreas frontales, sin signos de hemorragia intra ni extraaxial. No se observan masas ni desplazamientos de la línea media. Sistema ventricular simétrico y de morfología normal. Cisternas basales libres.  
+
+TC PERFUSIÓN:  
+Disminución del tiempo de tránsito medio (TTP) y aumento del volumen sanguíneo cerebral (CBV) en las áreas adyacentes al seno sagital superior derecho, con patrones compatibles con congestión venosa.  
+
+ANGIO-TC VENOSA:  
+Oclusión completa del seno sagital superior a nivel supratentorial derecho evidenciada por ausencia de contraste en trayecto de aproximadamente 3 cm. Se observa congestión y dilatación de venas corticales adyacentes, así como leve edema focal en la región parietofrontal derecha. El resto del sistema venoso cerebral presenta buen relleno y permeabilidad, sin evidencia de trombosis en senos laterales ni venas profundas.  
+
+ANGIO-TC ARTERIAL:  
+Arterias intracraneales principales (ACAs, ACMs y ACPs) permeables sin estenosis ni oclusiones.
+
+CONCL (Conclusiones):  
+Hallazgos compatibles con trombosis venosa cerebral del seno sagital superior derecho, con signos asociados de congestión venosa y edema parenquimatoso en región frontoparietal derecha. No evidencias de hemorragia cerebral secundaria ni complicaciones hemorrágicas. Recomendable correlacionar clínicamente y valorar tratamiento anticoagulante urgente.
+
+ACTI_ADICI (Actividad adicional): Seguimiento clínico y radiológico recomendado; posible complemento con RM venosa para mayor valoración de extensión.
+
+ICON (Estudio): @RADIO_TC_IC@
+
+X00DIATXT (Texto del diagnóstico ACR): Tromboembolismo en seno sagital superior derecho; signos de congestión venosa focal.
+
+EST_T_DES (Descripción): TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANGIOTC ARTERIAL INTRACRANEAL)
+
+ZVASOS_D (Der.): Imágenes compatibles con trombosis venosa cerebral confirmada en seno sagital superior derecho.

@@ -1,0 +1,95 @@
+{
+  "document_id": "informe_sintetico_20250804195045_00445",
+  "entities": [
+    {
+      "text": "hemorragia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 425,
+      "end": 435
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 560,
+      "end": 570
+    },
+    {
+      "text": "línea media",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 593,
+      "end": 604
+    },
+    {
+      "text": "surcos corticales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 640,
+      "end": 657
+    },
+    {
+      "text": "TC PERFUSIÓN",
+      "type": "TECNICA_IMAGEN",
+      "start": 856,
+      "end": 868
+    },
+    {
+      "text": "Flujo cerebral (CBF), volumen cerebral (CBV) y tiempo de tránsito (TTP) dentro de límites normales",
+      "type": "PATOLOGIA",
+      "start": 872,
+      "end": 970
+    },
+    {
+      "text": "hipoperfusión",
+      "type": "PATOLOGIA",
+      "start": 984,
+      "end": 997
+    },
+    {
+      "text": "Arterias cerebrales principales (ACAs, ACMs, ACPs)",
+      "type": "ARTERIA",
+      "start": 1137,
+      "end": 1187
+    },
+    {
+      "text": "estenosis",
+      "type": "PATOLOGIA",
+      "start": 1086,
+      "end": 1095
+    },
+    {
+      "text": "vasoespasmo",
+      "type": "PATOLOGIA",
+      "start": 1323,
+      "end": 1334
+    },
+    {
+      "text": "anomalías vasculares",
+      "type": "PATOLOGIA",
+      "start": 1338,
+      "end": 1358
+    },
+    {
+      "text": "Estudio normal sin hallazgos agudos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1383,
+      "end": 1418
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 560,
+      "end": 570
+    },
+    {
+      "text": "Perfusión cerebral normal sin signos de isquemia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1484,
+      "end": 1532
+    },
+    {
+      "text": "Arterias intracraneales permeables sin estenosis ni lesiones",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1536,
+      "end": 1596
+    }
+  ]
+}

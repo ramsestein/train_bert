@@ -1,0 +1,30 @@
+UO_PACN (Unidad Organizativa Médica): RADIO
+
+PRUEB (Prueba solicitada): TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANG IOTC ARTERIAL INTRACRANEAL)
+
+CLIN (Resumen clínico): Paciente masculino de 68 años con hipertensión arterial y cuadro súbito de hemiparesia derecha y afasia.
+
+OBSR (Protocolo): Protocolo Código Ictus: TC craneal basal, estudio de perfusión cerebral y angiografía por TC de arterias extra e intracraneales.
+
+RESL (Resultados):  
+TC CRANEAL BASAL:  
+Se evidencia hematoma hemorrágico hiperdenso de aproximadamente 18 x 15 mm localizado en el núcleo caudado izquierdo, con extensión hacia la cápsula interna adyacente, asociado a leve edema vasogénico circundante. No se identifican signos de sangrado intraventricular ni hemorragia subaracnoidea. La línea media está desplazada 3 mm hacia la derecha. El sistema ventricular presenta leve compresión del asta frontal del ventrículo lateral izquierdo. No se observa efecto de masa adicional. No se aprecian signos de infarto agudo.
+
+TC PERFUSIÓN:  
+Alteración en mapas de TTP y CBF compatibles con hipoperfusión focal adyacente al hematoma, probablemente relacionada con edema perilesional. No se identifican áreas de isquemia en territorios vasculares mayores.
+
+ANGIO-TC EXTRA E INTRACRANEAL:  
+Se observan arterias cerebrales permeables sin evidencia de estenosis ni trombosis. No se identifican malformaciones vasculares ni aneurismas en el territorio explorado. Troncos supraórticos sin estenosis significativas.
+
+CONCL (Conclusiones):  
+Hematoma intracerebral hipertensivo localizado en núcleo caudado izquierdo con leve efecto de masa y desplazamiento de línea media. No se evidencian signos de hemorragia intraventricular ni vascularización anómala. Ausencia de isquemia cerebral aguda. Requiere valoración neurológica urgente y seguimiento.
+
+ACTI_ADICI (Actividad adicional):  
+
+ICON (Estudio): @RADIO_TC_CRANEAL@
+
+X00DIATXT (Texto del diagnóstico ACR): Hematoma intracerebral en núcleo caudado izquierdo. Desplazamiento moderado de la línea media. Sin signos de hemorragia intraventricular. Arterias cerebrales permeables sin estenosis.
+
+EST_T_DES (Descripción): TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANGIOTC ARTERIAL INTRACRANEAL)
+
+ZVASOS_D (Der.): Informe realizado por Dr. [Nombre del radiólogo], especialista en neuroimagen.

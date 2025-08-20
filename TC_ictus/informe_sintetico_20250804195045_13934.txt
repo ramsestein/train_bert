@@ -1,0 +1,32 @@
+UO_PACN (Unidad Organizativa Médica): RADIO
+
+PRUEB (Prueba solicitada): TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANG IOTC ARTERIAL INTRACRANEAL)
+
+CLIN (Resumen clínico): Cefalea intensa de inicio súbito con vómitos y signos de hipertensión intracraneal. Sospecha clínica de trombosis venosa cerebral.
+
+OBSR (Protocolo): Código ictus con técnica multimodal: TC craneal basal, estudio de perfusión cerebral y AngioTC arterial intracraneal, incluyendo evaluación venosa de senos durales.
+
+RESL (Resultados):  
+TC CRANEAL BASAL:  
+Se identifican áreas de hipodensidad en la región parasagital izquierda a nivel de lóbulo parietal, con leve edema vasogénico adyacente. No se observan hemorragias subaracnoideas ni intraparenquimatosas evidentes. Se aprecia leve borramiento de surcos corticales en dichas áreas. Sistema ventricular de morfología y tamaño normales. Línea media centrada. Cisternas basales libres.
+
+TC PERFUSIÓN CEREBRAL:  
+Demuestra aumento del tiempo de tránsito medio (TTP) y descenso moderado en la velocidad de flujo cerebral (CBF) en región parietal izquierda, concordando con la hipodensidad observada en la TC basal. No se evidencian áreas de hipoperfusión arterial clásicas.
+
+ANGIO TC ARTERIAL INTRACRANEAL:  
+Arterias cerebrales principales permeables sin signos de estenosis ni trombosis. Sin embargo, al revisar imágenes venosas, se aprecia ausencia de contraste en el seno longitudinal superior y en el seno sagital izquierdo, lo que sugiere oclusión trombótica. Se confirma además falta de flujo en la vena cerebral magna y venas corticales adyacentes.
+
+CONCL (Conclusiones):  
+- Hallazgos compatibles con trombosis venosa cerebral en seno longitudinal superior y senos sagitales izquierdos.  
+- Presencia de edema vasogénico en región parietal izquierda sin evidencia de hemorragia intracraneal.  
+- Arterias intracraneales sin alteraciones significativas.  
+
+ACTI_ADICI (Actividad adicional):  
+
+ICON (Estudio): @RADIO@  
+
+X00DIATXT (Texto del diagnóstico ACR): Trombosis venosa cerebral con compromiso del seno longitudinal superior y parietal izquierdo. Signos de edema cerebral sin hemorragia asociada.  
+
+EST_T_DES (Descripción): TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANGIOTC ARTERIAL INTRACRANEAL)  
+
+ZVASOS_D (Der.): Evaluación arterial sin hallazgos obstructivos. Oclusión venosa evidente en senos durales izquierdos.

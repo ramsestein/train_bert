@@ -1,0 +1,131 @@
+{
+  "document_id": "informe_sintetico_20250804195045_19378",
+  "entities": [
+    {
+      "text": "extensa área de hipodensidad",
+      "type": "PATOLOGIA",
+      "start": 437,
+      "end": 465
+    },
+    {
+      "text": "infarto cerebral establecido",
+      "type": "PATOLOGIA",
+      "start": 692,
+      "end": 720
+    },
+    {
+      "text": "ASPECTS 5",
+      "type": "PUNTUACION_CLINICA",
+      "start": 722,
+      "end": 731
+    },
+    {
+      "text": "hemorragia intraparenquimatosa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 762,
+      "end": 792
+    },
+    {
+      "text": "hemorragia subaracnoidea",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 796,
+      "end": 820
+    },
+    {
+      "text": "fracturas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 837,
+      "end": 846
+    },
+    {
+      "text": "hemorragias extraaxiales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 850,
+      "end": 874
+    },
+    {
+      "text": "tiempo de tránsito medio (Tmax)",
+      "type": "MEDIDA",
+      "start": 1026,
+      "end": 1057
+    },
+    {
+      "text": "flujo sanguíneo cerebral (CBF)",
+      "type": "MEDIDA",
+      "start": 1088,
+      "end": 1118
+    },
+    {
+      "text": "reducción moderada en el volumen cerebral (CBV)",
+      "type": "MEDIDA",
+      "start": 1193,
+      "end": 1240
+    },
+    {
+      "text": "penumbra isquémica extensa",
+      "type": "PATOLOGIA",
+      "start": 1265,
+      "end": 1291
+    },
+    {
+      "text": "Oclusión completa de la arteria carótida interna izquierda",
+      "type": "PATOLOGIA",
+      "start": 1392,
+      "end": 1450
+    },
+    {
+      "text": "arteria carótida interna izquierda",
+      "type": "ARTERIA",
+      "start": 560,
+      "end": 594
+    },
+    {
+      "text": "bifurcación",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1478,
+      "end": 1489
+    },
+    {
+      "text": "flujo disminuido",
+      "type": "PATOLOGIA",
+      "start": 1715,
+      "end": 1731
+    },
+    {
+      "text": "sin signos de estenosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1807,
+      "end": 1830
+    },
+    {
+      "text": "territorio de la arteria carótida interna izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1943,
+      "end": 1994
+    },
+    {
+      "text": "nivel cervical proximal",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 2133,
+      "end": 2156
+    },
+    {
+      "text": "lesiones hemorrágicas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2175,
+      "end": 2196
+    },
+    {
+      "text": "desplazamientos de línea media",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2200,
+      "end": 2230
+    },
+    {
+      "text": "TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANG IOTC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 72,
+      "end": 140
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "document_id": "informe_sintetico_20250804195045_07516",
+  "entities": [
+    {
+      "text": "hematoma lobar",
+      "type": "PATOLOGIA",
+      "start": 403,
+      "end": 417
+    },
+    {
+      "text": "región frontal derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 424,
+      "end": 446
+    },
+    {
+      "text": "25 x 18 mm",
+      "type": "MEDIDA",
+      "start": 467,
+      "end": 477
+    },
+    {
+      "text": "3 mm",
+      "type": "MEDIDA",
+      "start": 528,
+      "end": 532
+    },
+    {
+      "text": "sustancia blanca",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 642,
+      "end": 658
+    },
+    {
+      "text": "TC PERFUSIÓN",
+      "type": "TECNICA_IMAGEN",
+      "start": 863,
+      "end": 875
+    },
+    {
+      "text": "hipoperfusión focal",
+      "type": "PATOLOGIA",
+      "start": 946,
+      "end": 965
+    },
+    {
+      "text": "tiempo de tránsito medio (TTP)",
+      "type": "MEDIDA",
+      "start": 984,
+      "end": 1014
+    },
+    {
+      "text": "flujo sanguíneo cerebral (CBF)",
+      "type": "MEDIDA",
+      "start": 1031,
+      "end": 1061
+    },
+    {
+      "text": "ACM, ACA y ACP",
+      "type": "ARTERIA",
+      "start": 1198,
+      "end": 1212
+    },
+    {
+      "text": "frontal derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1362,
+      "end": 1377
+    },
+    {
+      "text": "sin estenosis ni signos de disección",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1250,
+      "end": 1286
+    },
+    {
+      "text": "sin signos de herniación",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 836,
+      "end": 860
+    },
+    {
+      "text": "24-48 horas",
+      "type": "TEMPORALIDAD",
+      "start": 1712,
+      "end": 1723
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "document_id": "informe_sintetico_20250804195045_16340",
+  "entities": [
+    {
+      "text": "infarto cerebral agudo establecido",
+      "type": "PATOLOGIA",
+      "start": 748,
+      "end": 782
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "ARTERIA",
+      "start": 537,
+      "end": 569
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 560,
+      "end": 569
+    },
+    {
+      "text": "ASPECTS 5",
+      "type": "PUNTUACION_CLINICA",
+      "start": 876,
+      "end": 885
+    },
+    {
+      "text": "hemisferio izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1023,
+      "end": 1043
+    },
+    {
+      "text": "oclusión trombótica completa de la arteria carótida interna izquierda",
+      "type": "PATOLOGIA",
+      "start": 1348,
+      "end": 1417
+    },
+    {
+      "text": "arteria carótida interna izquierda",
+      "type": "ARTERIA",
+      "start": 1383,
+      "end": 1417
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 560,
+      "end": 569
+    },
+    {
+      "text": "Ausencia de hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1978,
+      "end": 2013
+    },
+    {
+      "text": "accidente cerebrovascular isquémico extenso",
+      "type": "PATOLOGIA",
+      "start": 2045,
+      "end": 2088
+    },
+    {
+      "text": "segmento cervical proximal",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1421,
+      "end": 1447
+    },
+    {
+      "text": "sin circulación colateral suficiente",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1449,
+      "end": 1485
+    },
+    {
+      "text": "sin estenosis significativa ni ateromatosis relevante",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1551,
+      "end": 1604
+    }
+  ]
+}

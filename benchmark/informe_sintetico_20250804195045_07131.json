@@ -1,0 +1,107 @@
+{
+  "document_id": "informe_sintetico_20250804195045_07131",
+  "entities": [
+    {
+      "text": "área hipodensa bilateral",
+      "type": "PATOLOGIA",
+      "start": 534,
+      "end": 558
+    },
+    {
+      "text": "isquemia",
+      "type": "PATOLOGIA",
+      "start": 1238,
+      "end": 1246
+    },
+    {
+      "text": "territorios watershed bilateral",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1727,
+      "end": 1758
+    },
+    {
+      "text": "arteria cerebral media",
+      "type": "ARTERIA",
+      "start": 726,
+      "end": 748
+    },
+    {
+      "text": "arteria cerebral anterior",
+      "type": "ARTERIA",
+      "start": 751,
+      "end": 776
+    },
+    {
+      "text": "arteria cerebral posterior",
+      "type": "ARTERIA",
+      "start": 811,
+      "end": 837
+    },
+    {
+      "text": "arteria carótida interna derecha",
+      "type": "ARTERIA",
+      "start": 1409,
+      "end": 1441
+    },
+    {
+      "text": "arteria carótida izquierda",
+      "type": "ARTERIA",
+      "start": 2611,
+      "end": 2637
+    },
+    {
+      "text": "bilateral",
+      "type": "LATERALIDAD",
+      "start": 302,
+      "end": 311
+    },
+    {
+      "text": ">80%",
+      "type": "MEDIDA",
+      "start": 1400,
+      "end": 1404
+    },
+    {
+      "text": "crónica",
+      "type": "TEMPORALIDAD",
+      "start": 1801,
+      "end": 1808
+    },
+    {
+      "text": "sin hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2334,
+      "end": 2361
+    },
+    {
+      "text": "sin desplazamiento de la línea media",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 984,
+      "end": 1020
+    },
+    {
+      "text": "sin alteraciones significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1650,
+      "end": 1681
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 376,
+      "end": 392
+    },
+    {
+      "text": "TC perfusión cerebral dinámica",
+      "type": "TECNICA_IMAGEN",
+      "start": 408,
+      "end": 438
+    },
+    {
+      "text": "Angio-TC de vasos intra y extracraneales",
+      "type": "TECNICA_IMAGEN",
+      "start": 441,
+      "end": 481
+    }
+  ]
+}

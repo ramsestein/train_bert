@@ -1,0 +1,107 @@
+{
+  "document_id": "informe_sintetico_20250804195045_04465",
+  "entities": [
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 198,
+      "end": 212
+    },
+    {
+      "text": "arteria cerebral anterior izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 230,
+      "end": 265
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 286,
+      "end": 302
+    },
+    {
+      "text": "hemorragia intra ni extraaxial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 441,
+      "end": 471
+    },
+    {
+      "text": "Hipodensidad sutil en la corteza medial y en el cuerpo calloso genu izquierdo",
+      "type": "PATOLOGIA",
+      "start": 475,
+      "end": 552
+    },
+    {
+      "text": "lesión isquémica",
+      "type": "PATOLOGIA",
+      "start": 639,
+      "end": 655
+    },
+    {
+      "text": "ACA izquierda",
+      "type": "ARTERIA",
+      "start": 673,
+      "end": 686
+    },
+    {
+      "text": "ASPECTS 9",
+      "type": "PUNTUACION_CLINICA",
+      "start": 688,
+      "end": 697
+    },
+    {
+      "text": "Tmax",
+      "type": "MEDIDA",
+      "start": 852,
+      "end": 856
+    },
+    {
+      "text": "Mean Transit Time (MTT)",
+      "type": "MEDIDA",
+      "start": 876,
+      "end": 899
+    },
+    {
+      "text": "flujo sanguíneo cerebral (CBF)",
+      "type": "MEDIDA",
+      "start": 993,
+      "end": 1023
+    },
+    {
+      "text": "volumen cerebral sanguíneo (CBV)",
+      "type": "MEDIDA",
+      "start": 1026,
+      "end": 1058
+    },
+    {
+      "text": "segmento A2 y A3 de la ACA izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1091,
+      "end": 1127
+    },
+    {
+      "text": "penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1182,
+      "end": 1200
+    },
+    {
+      "text": "Oclusión en segmento A2 de la arteria cerebral anterior izquierda",
+      "type": "PATOLOGIA",
+      "start": 1238,
+      "end": 1303
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1645,
+      "end": 1668
+    },
+    {
+      "text": "ASPECTS 9",
+      "type": "PUNTUACION_CLINICA",
+      "start": 688,
+      "end": 697
+    }
+  ]
+}

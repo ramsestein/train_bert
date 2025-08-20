@@ -1,0 +1,83 @@
+{
+  "document_id": "informe_sintetico_20250804195045_21647",
+  "entities": [
+    {
+      "text": "hematoma lobar de localización parietal derecha",
+      "type": "PATOLOGIA",
+      "start": 454,
+      "end": 501
+    },
+    {
+      "text": "parietal derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 485,
+      "end": 501
+    },
+    {
+      "text": "35 ml",
+      "type": "MEDIDA",
+      "start": 532,
+      "end": 537
+    },
+    {
+      "text": "4 mm",
+      "type": "MEDIDA",
+      "start": 638,
+      "end": 642
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 949,
+      "end": 963
+    },
+    {
+      "text": "reducción focal del flujo sanguíneo cerebral (CBF)",
+      "type": "PATOLOGIA",
+      "start": 1014,
+      "end": 1064
+    },
+    {
+      "text": "volumen cerebral (CBV)",
+      "type": "PATOLOGIA",
+      "start": 1067,
+      "end": 1089
+    },
+    {
+      "text": "sin áreas extensas de hipoperfusión ni penumbra isquémica",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1174,
+      "end": 1231
+    },
+    {
+      "text": "sin evidencia de aneurismas, malformaciones arteriovenosas ni estenosis significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1332,
+      "end": 1418
+    },
+    {
+      "text": "isquemia penumbra significativa",
+      "type": "PATOLOGIA",
+      "start": 1757,
+      "end": 1788
+    },
+    {
+      "text": "TC craneal simple",
+      "type": "TECNICA_IMAGEN",
+      "start": 286,
+      "end": 303
+    },
+    {
+      "text": "estudio de perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 316,
+      "end": 345
+    },
+    {
+      "text": "AngioTC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 348,
+      "end": 377
+    }
+  ]
+}

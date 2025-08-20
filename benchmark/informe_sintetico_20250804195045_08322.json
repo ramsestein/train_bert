@@ -1,0 +1,131 @@
+{
+  "document_id": "informe_sintetico_20250804195045_08322",
+  "entities": [
+    {
+      "text": "hemiparesia izquierda",
+      "type": "PATOLOGIA",
+      "start": 205,
+      "end": 226
+    },
+    {
+      "text": "2 horas",
+      "type": "TEMPORALIDAD",
+      "start": 230,
+      "end": 237
+    },
+    {
+      "text": "accidente cerebrovascular isquémico",
+      "type": "PATOLOGIA",
+      "start": 272,
+      "end": 307
+    },
+    {
+      "text": "hemorragias intra o extraaxiales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 586,
+      "end": 618
+    },
+    {
+      "text": "ASPECTS 9",
+      "type": "PUNTUACION_CLINICA",
+      "start": 685,
+      "end": 694
+    },
+    {
+      "text": "hipodensidad en territorio opercular derecho",
+      "type": "PATOLOGIA",
+      "start": 724,
+      "end": 768
+    },
+    {
+      "text": "daño isquémico temprano",
+      "type": "PATOLOGIA",
+      "start": 795,
+      "end": 818
+    },
+    {
+      "text": "edema significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 837,
+      "end": 856
+    },
+    {
+      "text": "arteria cerebral media (ACM)",
+      "type": "ARTERIA",
+      "start": 1082,
+      "end": 1110
+    },
+    {
+      "text": "distal derecha",
+      "type": "LATERALIDAD",
+      "start": 1111,
+      "end": 1125
+    },
+    {
+      "text": "M2/M3",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1137,
+      "end": 1142
+    },
+    {
+      "text": "flujo sanguíneo cerebral (CBF)",
+      "type": "PATOLOGIA",
+      "start": 1173,
+      "end": 1203
+    },
+    {
+      "text": "volumen cerebral (CBV)",
+      "type": "PATOLOGIA",
+      "start": 1206,
+      "end": 1228
+    },
+    {
+      "text": "penumbra isquémica limitada",
+      "type": "PATOLOGIA",
+      "start": 1275,
+      "end": 1302
+    },
+    {
+      "text": "Oclusión completa en segmento M2 derecho de la arteria cerebral media",
+      "type": "PATOLOGIA",
+      "start": 1460,
+      "end": 1529
+    },
+    {
+      "text": "estenosis ni aneurismas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1606,
+      "end": 1629
+    },
+    {
+      "text": "Oclusión aguda del segmento M2 derecho de la arteria cerebral media",
+      "type": "PATOLOGIA",
+      "start": 1654,
+      "end": 1721
+    },
+    {
+      "text": "ASPECTS 9",
+      "type": "PUNTUACION_CLINICA",
+      "start": 685,
+      "end": 694
+    },
+    {
+      "text": "hemorragia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 586,
+      "end": 596
+    },
+    {
+      "text": "isquemia aguda en territorio distal de ACM derecha",
+      "type": "PATOLOGIA",
+      "start": 1861,
+      "end": 1911
+    },
+    {
+      "text": "Oclusión arteria cerebral media distal derecha (M2)",
+      "type": "PATOLOGIA",
+      "start": 2366,
+      "end": 2417
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "document_id": "informe_sintetico_20250804195045_00916",
+  "entities": [
+    {
+      "text": "hemorragia subaracnoidea difusa",
+      "type": "PATOLOGIA",
+      "start": 552,
+      "end": 583
+    },
+    {
+      "text": "hemorragias intraventriculares",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 637,
+      "end": 667
+    },
+    {
+      "text": "edema cerebral significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 831,
+      "end": 859
+    },
+    {
+      "text": "isquemia secundaria",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1018,
+      "end": 1037
+    },
+    {
+      "text": "aneurisma sacular de 6 mm",
+      "type": "PATOLOGIA",
+      "start": 1101,
+      "end": 1126
+    },
+    {
+      "text": "arteria comunicante anterior derecha",
+      "type": "ARTERIA",
+      "start": 1133,
+      "end": 1169
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 286,
+      "end": 302
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 322,
+      "end": 343
+    },
+    {
+      "text": "angioTC intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 346,
+      "end": 366
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "document_id": "informe_sintetico_20250804195045_20312",
+  "entities": [
+    {
+      "text": "infarto",
+      "type": "PATOLOGIA",
+      "start": 275,
+      "end": 282
+    },
+    {
+      "text": "bilateral",
+      "type": "LATERALIDAD",
+      "start": 215,
+      "end": 224
+    },
+    {
+      "text": "hipoperfusión",
+      "type": "PATOLOGIA",
+      "start": 287,
+      "end": 300
+    },
+    {
+      "text": "ASPECTS 8/10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 659,
+      "end": 671
+    },
+    {
+      "text": "disminuida",
+      "type": "PATOLOGIA",
+      "start": 571,
+      "end": 581
+    },
+    {
+      "text": "bilaterales",
+      "type": "LATERALIDAD",
+      "start": 646,
+      "end": 657
+    },
+    {
+      "text": "prolongados",
+      "type": "PATOLOGIA",
+      "start": 867,
+      "end": 878
+    },
+    {
+      "text": "bilaterales",
+      "type": "LATERALIDAD",
+      "start": 646,
+      "end": 657
+    },
+    {
+      "text": "sin necrosis evidente",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1087,
+      "end": 1108
+    },
+    {
+      "text": "sin estenosis relevante",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1588,
+      "end": 1611
+    },
+    {
+      "text": "sin evidencia de trombosis arterial intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2287,
+      "end": 2335
+    }
+  ]
+}

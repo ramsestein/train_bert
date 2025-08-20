@@ -1,0 +1,131 @@
+{
+  "document_id": "informe_sintetico_20250804195045_22509",
+  "entities": [
+    {
+      "text": "edema vasogénico",
+      "type": "PATOLOGIA",
+      "start": 500,
+      "end": 516
+    },
+    {
+      "text": "hemorragias intracraneales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 533,
+      "end": 559
+    },
+    {
+      "text": "lesiones ocupantes de espacio",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 563,
+      "end": 592
+    },
+    {
+      "text": "volumen cerebral sanguíneo",
+      "type": "PATOLOGIA",
+      "start": 830,
+      "end": 856
+    },
+    {
+      "text": "tiempo de tránsito prolongado",
+      "type": "PATOLOGIA",
+      "start": 906,
+      "end": 935
+    },
+    {
+      "text": "trombosis venosa",
+      "type": "PATOLOGIA",
+      "start": 252,
+      "end": 268
+    },
+    {
+      "text": "seno sagital superior",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1091,
+      "end": 1112
+    },
+    {
+      "text": "senos transversos derechos",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1115,
+      "end": 1141
+    },
+    {
+      "text": "colaterales venosas dilatadas",
+      "type": "PATOLOGIA",
+      "start": 1232,
+      "end": 1261
+    },
+    {
+      "text": "sistema venoso cerebral",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1273,
+      "end": 1296
+    },
+    {
+      "text": "permeabilidad conservada",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1301,
+      "end": 1325
+    },
+    {
+      "text": "estenosis arteriales significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1345,
+      "end": 1380
+    },
+    {
+      "text": "defectos de repleción en las arterias intracraneales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1384,
+      "end": 1436
+    },
+    {
+      "text": "trombosis venosa cerebral",
+      "type": "PATOLOGIA",
+      "start": 252,
+      "end": 277
+    },
+    {
+      "text": "edema asociado",
+      "type": "PATOLOGIA",
+      "start": 1983,
+      "end": 1997
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1638,
+      "end": 1661
+    },
+    {
+      "text": "alteración hemodinámica",
+      "type": "PATOLOGIA",
+      "start": 973,
+      "end": 996
+    },
+    {
+      "text": "TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANG IOTC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 72,
+      "end": 140
+    },
+    {
+      "text": "TC Craneo basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 298,
+      "end": 313
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 316,
+      "end": 337
+    },
+    {
+      "text": "AngioTC venosa intra y extracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 340,
+      "end": 375
+    }
+  ]
+}

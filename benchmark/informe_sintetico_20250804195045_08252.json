@@ -1,0 +1,65 @@
+{
+  "document_id": "informe_sintetico_20250804195045_08252",
+  "entities": [
+    {
+      "text": "hematoma lobar agudo",
+      "type": "PATOLOGIA",
+      "start": 549,
+      "end": 569
+    },
+    {
+      "text": "lóbulo frontal derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 484,
+      "end": 506
+    },
+    {
+      "text": "4 mm",
+      "type": "MEDIDA",
+      "start": 706,
+      "end": 710
+    },
+    {
+      "text": "volumen sanguíneo cerebral (VSC)",
+      "type": "PATOLOGIA",
+      "start": 1004,
+      "end": 1036
+    },
+    {
+      "text": "sin imagen de isquemia extensa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1168,
+      "end": 1198
+    },
+    {
+      "text": "Arterias intracraneales permeables",
+      "type": "ARTERIA",
+      "start": 1232,
+      "end": 1266
+    },
+    {
+      "text": "sin evidencia de oclusiones ni estenosis significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1267,
+      "end": 1322
+    },
+    {
+      "text": "sin hemorragia activa ni compromiso vascular",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1974,
+      "end": 2018
+    },
+    {
+      "text": "TC craneal 3D",
+      "type": "TECNICA_IMAGEN",
+      "start": 1841,
+      "end": 1854
+    },
+    {
+      "text": "reconstrucciones angiográficas",
+      "type": "TECNICA_IMAGEN",
+      "start": 1856,
+      "end": 1886
+    }
+  ]
+}

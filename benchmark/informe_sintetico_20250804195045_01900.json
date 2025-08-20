@@ -1,0 +1,59 @@
+{
+  "document_id": "informe_sintetico_20250804195045_01900",
+  "entities": [
+    {
+      "text": "hematoma lobar",
+      "type": "PATOLOGIA",
+      "start": 443,
+      "end": 457
+    },
+    {
+      "text": "lóbulo parietal izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 475,
+      "end": 500
+    },
+    {
+      "text": "45 x 37 x 30 mm",
+      "type": "MEDIDA",
+      "start": 533,
+      "end": 548
+    },
+    {
+      "text": "20 cc",
+      "type": "MEDIDA",
+      "start": 589,
+      "end": 594
+    },
+    {
+      "text": "4 mm",
+      "type": "MEDIDA",
+      "start": 859,
+      "end": 863
+    },
+    {
+      "text": "arteria carótida interna izquierda",
+      "type": "ARTERIA",
+      "start": 1354,
+      "end": 1388
+    },
+    {
+      "text": "izquierdo",
+      "type": "LATERALIDAD",
+      "start": 491,
+      "end": 500
+    },
+    {
+      "text": "sin signos de hemorragia intraventricular",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1535,
+      "end": 1576
+    },
+    {
+      "text": "sin hallazgos isquémicos o vasculares obstructivos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1628,
+      "end": 1678
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "document_id": "informe_sintetico_20250804195045_09728",
+  "entities": [
+    {
+      "text": "infarto tipo watershed",
+      "type": "PATOLOGIA",
+      "start": 936,
+      "end": 958
+    },
+    {
+      "text": "región frontoparietal bilateral",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 860,
+      "end": 891
+    },
+    {
+      "text": "parietooccipital bilateral",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 894,
+      "end": 920
+    },
+    {
+      "text": "ACM-ACA",
+      "type": "ARTERIA",
+      "start": 1261,
+      "end": 1268
+    },
+    {
+      "text": "ACM-ACP",
+      "type": "ARTERIA",
+      "start": 1271,
+      "end": 1278
+    },
+    {
+      "text": "infarto watershed subagudo",
+      "type": "PATOLOGIA",
+      "start": 1449,
+      "end": 1475
+    },
+    {
+      "text": "episodio hipotensivo agudo",
+      "type": "TEMPORALIDAD",
+      "start": 2167,
+      "end": 2193
+    },
+    {
+      "text": "No se identifican signos de hemorragia intracraneal ni extraaxial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 540,
+      "end": 605
+    },
+    {
+      "text": "No se observan masas ni desplazamientos de línea media",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 960,
+      "end": 1014
+    },
+    {
+      "text": "No hay evidencia de mismatch volumétrico significativo en otras áreas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1477,
+      "end": 1546
+    },
+    {
+      "text": "No se identifican signos de hemorragia ni oclusiones arteriales mayores",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2195,
+      "end": 2266
+    }
+  ]
+}

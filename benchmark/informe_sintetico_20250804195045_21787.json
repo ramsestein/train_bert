@@ -1,0 +1,197 @@
+{
+  "document_id": "informe_sintetico_20250804195045_21787",
+  "entities": [
+    {
+      "text": "hemiparesia derecha",
+      "type": "PATOLOGIA",
+      "start": 217,
+      "end": 236
+    },
+    {
+      "text": "afasia",
+      "type": "PATOLOGIA",
+      "start": 239,
+      "end": 245
+    },
+    {
+      "text": "accidente cerebrovascular isquémico agudo",
+      "type": "PATOLOGIA",
+      "start": 267,
+      "end": 308
+    },
+    {
+      "text": "imagen lineal hiperdensa",
+      "type": "PATOLOGIA",
+      "start": 492,
+      "end": 516
+    },
+    {
+      "text": "trombo intraluminal",
+      "type": "PATOLOGIA",
+      "start": 590,
+      "end": 609
+    },
+    {
+      "text": "hipodensidad difusa",
+      "type": "PATOLOGIA",
+      "start": 664,
+      "end": 683
+    },
+    {
+      "text": "isquemia",
+      "type": "PATOLOGIA",
+      "start": 841,
+      "end": 849
+    },
+    {
+      "text": "Puntaje ASPECTS estimado en 6",
+      "type": "PUNTUACION_CLINICA",
+      "start": 851,
+      "end": 880
+    },
+    {
+      "text": "hemorragias intracraneales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 899,
+      "end": 925
+    },
+    {
+      "text": "edema significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 929,
+      "end": 948
+    },
+    {
+      "text": "tiempo de tránsito medio (TTM)",
+      "type": "MEDIDA",
+      "start": 1106,
+      "end": 1136
+    },
+    {
+      "text": "Tmax",
+      "type": "MEDIDA",
+      "start": 1151,
+      "end": 1155
+    },
+    {
+      "text": "flujo sanguíneo cerebral (CBF)",
+      "type": "MEDIDA",
+      "start": 1240,
+      "end": 1270
+    },
+    {
+      "text": "volumen sanguíneo cerebral (CBV)",
+      "type": "MEDIDA",
+      "start": 1273,
+      "end": 1305
+    },
+    {
+      "text": "penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1333,
+      "end": 1351
+    },
+    {
+      "text": "núcleo isquémico",
+      "type": "PATOLOGIA",
+      "start": 1392,
+      "end": 1408
+    },
+    {
+      "text": "oclusión completa",
+      "type": "PATOLOGIA",
+      "start": 1467,
+      "end": 1484
+    },
+    {
+      "text": "segmento M1 de la arteria cerebral media izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 523,
+      "end": 573
+    },
+    {
+      "text": "troncos supraórticos",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1573,
+      "end": 1593
+    },
+    {
+      "text": "arterias carótidas internas y externas bilaterales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1596,
+      "end": 1646
+    },
+    {
+      "text": "estenosis significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1750,
+      "end": 1774
+    },
+    {
+      "text": "signo de arteria hiperdensa",
+      "type": "PATOLOGIA",
+      "start": 1846,
+      "end": 1873
+    },
+    {
+      "text": "isquemia aguda por oclusión proximal de ACM",
+      "type": "PATOLOGIA",
+      "start": 1958,
+      "end": 2001
+    },
+    {
+      "text": "ASPECTS 6",
+      "type": "PUNTUACION_CLINICA",
+      "start": 2007,
+      "end": 2016
+    },
+    {
+      "text": "signos incipientes de isquemia en territorio frontoinsular y gangliobasal izquierdo",
+      "type": "PATOLOGIA",
+      "start": 2021,
+      "end": 2104
+    },
+    {
+      "text": "área extensa de penumbra viable y núcleo isquémico parcial",
+      "type": "PATOLOGIA",
+      "start": 2135,
+      "end": 2193
+    },
+    {
+      "text": "hemorragias",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 899,
+      "end": 910
+    },
+    {
+      "text": "edema cerebral significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2232,
+      "end": 2260
+    },
+    {
+      "text": "TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANG IOTC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 72,
+      "end": 140
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 364,
+      "end": 380
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 382,
+      "end": 403
+    },
+    {
+      "text": "AngioTC intra y extracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 406,
+      "end": 434
+    }
+  ]
+}

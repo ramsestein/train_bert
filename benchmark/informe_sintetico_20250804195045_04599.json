@@ -1,0 +1,125 @@
+{
+  "document_id": "informe_sintetico_20250804195045_04599",
+  "entities": [
+    {
+      "text": "infarto cerebral isquémico hemisférico derecho",
+      "type": "PATOLOGIA",
+      "start": 179,
+      "end": 225
+    },
+    {
+      "text": "transformación hemorrágica",
+      "type": "PATOLOGIA",
+      "start": 264,
+      "end": 290
+    },
+    {
+      "text": "TC craneal basal urgente",
+      "type": "TECNICA_IMAGEN",
+      "start": 311,
+      "end": 335
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 337,
+      "end": 358
+    },
+    {
+      "text": "angiografía por TC intracraneal y extracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 361,
+      "end": 407
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "ARTERIA",
+      "start": 555,
+      "end": 585
+    },
+    {
+      "text": "infarto cerebral subagudo",
+      "type": "PATOLOGIA",
+      "start": 602,
+      "end": 627
+    },
+    {
+      "text": "hiperdensidad focal inferior a 30 mm",
+      "type": "PATOLOGIA",
+      "start": 662,
+      "end": 698
+    },
+    {
+      "text": "30 mm",
+      "type": "MEDIDA",
+      "start": 693,
+      "end": 698
+    },
+    {
+      "text": "transformación hemorrágica tipo PH1",
+      "type": "PATOLOGIA",
+      "start": 737,
+      "end": 772
+    },
+    {
+      "text": "derechos",
+      "type": "LATERALIDAD",
+      "start": 1003,
+      "end": 1011
+    },
+    {
+      "text": "sin efecto masa significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 883,
+      "end": 912
+    },
+    {
+      "text": "sin dilatación ni ocupación hemática",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1082,
+      "end": 1118
+    },
+    {
+      "text": "aumento del tiempo de tránsito medio",
+      "type": "PATOLOGIA",
+      "start": 1327,
+      "end": 1363
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "ARTERIA",
+      "start": 555,
+      "end": 585
+    },
+    {
+      "text": "sin evidencia de tejido en penumbra significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1469,
+      "end": 1518
+    },
+    {
+      "text": "sin evidencia de trombosis en otros segmentos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1623,
+      "end": 1668
+    },
+    {
+      "text": "transformación hemorrágica tipo PH1",
+      "type": "PATOLOGIA",
+      "start": 737,
+      "end": 772
+    },
+    {
+      "text": "sin efecto masa ni herniación",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2014,
+      "end": 2043
+    },
+    {
+      "text": "sin penumbra significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2093,
+      "end": 2119
+    }
+  ]
+}

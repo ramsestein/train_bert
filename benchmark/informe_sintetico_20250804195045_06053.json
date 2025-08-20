@@ -1,0 +1,119 @@
+{
+  "document_id": "informe_sintetico_20250804195045_06053",
+  "entities": [
+    {
+      "text": "hipodensidad cortical y subcortical",
+      "type": "PATOLOGIA",
+      "start": 585,
+      "end": 620
+    },
+    {
+      "text": "isquemia penumbra",
+      "type": "PATOLOGIA",
+      "start": 1395,
+      "end": 1412
+    },
+    {
+      "text": "infarto isquémico",
+      "type": "PATOLOGIA",
+      "start": 1716,
+      "end": 1733
+    },
+    {
+      "text": "parietal",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 643,
+      "end": 651
+    },
+    {
+      "text": "arteria cerebral anterior",
+      "type": "ARTERIA",
+      "start": 1566,
+      "end": 1591
+    },
+    {
+      "text": "bilateralmente",
+      "type": "LATERALIDAD",
+      "start": 1611,
+      "end": 1625
+    },
+    {
+      "text": "sin evidencia de hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 807,
+      "end": 847
+    },
+    {
+      "text": "sin alteraciones visibles",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1048,
+      "end": 1073
+    },
+    {
+      "text": "sin signos de estenosis ni oclusión",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1501,
+      "end": 1536
+    },
+    {
+      "text": "sin alteraciones oclusivas ni estenóticas arteriales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1925,
+      "end": 1977
+    },
+    {
+      "text": "prolongación del tiempo de tránsito medio (MTT)",
+      "type": "MEDIDA",
+      "start": 1137,
+      "end": 1184
+    },
+    {
+      "text": "tiempo de llegada del contraste (Tmax)",
+      "type": "MEDIDA",
+      "start": 1187,
+      "end": 1225
+    },
+    {
+      "text": "disminución del flujo cerebral (CBF)",
+      "type": "MEDIDA",
+      "start": 1275,
+      "end": 1311
+    },
+    {
+      "text": "volumen cerebral (CBV) preservado",
+      "type": "MEDIDA",
+      "start": 1336,
+      "end": 1369
+    },
+    {
+      "text": "72 años",
+      "type": "TEMPORALIDAD",
+      "start": 188,
+      "end": 195
+    },
+    {
+      "text": "código ictus",
+      "type": "TECNICA_IMAGEN",
+      "start": 2398,
+      "end": 2410
+    },
+    {
+      "text": "TC craneal basal sin contraste",
+      "type": "TECNICA_IMAGEN",
+      "start": 390,
+      "end": 420
+    },
+    {
+      "text": "TC de perfusión cerebral dinámica",
+      "type": "TECNICA_IMAGEN",
+      "start": 422,
+      "end": 455
+    },
+    {
+      "text": "Angio-TC arterial intracraneal urgente",
+      "type": "TECNICA_IMAGEN",
+      "start": 458,
+      "end": 496
+    }
+  ]
+}

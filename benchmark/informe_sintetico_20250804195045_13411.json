@@ -1,0 +1,59 @@
+{
+  "document_id": "informe_sintetico_20250804195045_13411",
+  "entities": [
+    {
+      "text": "hemorragia subaracnoidea difusa",
+      "type": "PATOLOGIA",
+      "start": 596,
+      "end": 627
+    },
+    {
+      "text": "5 mm",
+      "type": "MEDIDA",
+      "start": 1303,
+      "end": 1307
+    },
+    {
+      "text": "arteria comunicante anterior",
+      "type": "ARTERIA",
+      "start": 1314,
+      "end": 1342
+    },
+    {
+      "text": "agudo",
+      "type": "TEMPORALIDAD",
+      "start": 1673,
+      "end": 1678
+    },
+    {
+      "text": "No se identifican hematomas intraparenquimatosos ni hemorragia intraventricular asociada",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 762,
+      "end": 850
+    },
+    {
+      "text": "sin otras malformaciones vasculares ni estenosis significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1446,
+      "end": 1509
+    },
+    {
+      "text": "sin focos de hipoperfusión ni alteraciones hemodinámicas significativas en territorio arterial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 982,
+      "end": 1076
+    },
+    {
+      "text": "TC cranial basal sin contraste",
+      "type": "TECNICA_IMAGEN",
+      "start": 321,
+      "end": 351
+    },
+    {
+      "text": "angiografía por TC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 396,
+      "end": 436
+    }
+  ]
+}

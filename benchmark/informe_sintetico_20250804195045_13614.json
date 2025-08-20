@@ -1,0 +1,107 @@
+{
+  "document_id": "informe_sintetico_20250804195045_13614",
+  "entities": [
+    {
+      "text": "ictus isquémico agudo",
+      "type": "PATOLOGIA",
+      "start": 319,
+      "end": 340
+    },
+    {
+      "text": "hemiparesia izquierda",
+      "type": "PATOLOGIA",
+      "start": 204,
+      "end": 225
+    },
+    {
+      "text": "afasia",
+      "type": "PATOLOGIA",
+      "start": 228,
+      "end": 234
+    },
+    {
+      "text": "arteria cerebral media",
+      "type": "ARTERIA",
+      "start": 900,
+      "end": 922
+    },
+    {
+      "text": "M2",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 996,
+      "end": 998
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 923,
+      "end": 930
+    },
+    {
+      "text": "aguda",
+      "type": "TEMPORALIDAD",
+      "start": 1514,
+      "end": 1519
+    },
+    {
+      "text": "ASPECTS 9",
+      "type": "PUNTUACION_CLINICA",
+      "start": 736,
+      "end": 745
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 361,
+      "end": 377
+    },
+    {
+      "text": "TC PERFUSIÓN",
+      "type": "TECNICA_IMAGEN",
+      "start": 845,
+      "end": 857
+    },
+    {
+      "text": "ANGIO-TC INTRACRANEAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 1210,
+      "end": 1231
+    },
+    {
+      "text": "sin estenosis relevantes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1374,
+      "end": 1398
+    },
+    {
+      "text": "sin alteraciones significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1445,
+      "end": 1476
+    },
+    {
+      "text": "zona en territorio de la arteria cerebral media derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 875,
+      "end": 930
+    },
+    {
+      "text": "territorio temporal y parietal posterior",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1915,
+      "end": 1955
+    },
+    {
+      "text": "volumen cerebral",
+      "type": "MEDIDA",
+      "start": 1102,
+      "end": 1118
+    },
+    {
+      "text": "preservado",
+      "type": "MEDIDA",
+      "start": 1138,
+      "end": 1148
+    }
+  ]
+}

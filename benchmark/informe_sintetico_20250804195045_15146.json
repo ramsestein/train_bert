@@ -1,0 +1,113 @@
+{
+  "document_id": "informe_sintetico_20250804195045_15146",
+  "entities": [
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 273,
+      "end": 287
+    },
+    {
+      "text": "territorio vertebrobasilar",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 291,
+      "end": 317
+    },
+    {
+      "text": "hemorragias intra ni extraaxiales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 527,
+      "end": 560
+    },
+    {
+      "text": "infarto territorial",
+      "type": "PATOLOGIA",
+      "start": 626,
+      "end": 645
+    },
+    {
+      "text": "hemisferios cerebrales supratentoriales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 661,
+      "end": 700
+    },
+    {
+      "text": "tronco encefálico",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 710,
+      "end": 727
+    },
+    {
+      "text": "arteria vertebral derecha",
+      "type": "ARTERIA",
+      "start": 1355,
+      "end": 1380
+    },
+    {
+      "text": "arteria vertebral izquierda",
+      "type": "ARTERIA",
+      "start": 1973,
+      "end": 2000
+    },
+    {
+      "text": "ACAs, ACMs, ACPs",
+      "type": "ARTERIA",
+      "start": 1632,
+      "end": 1648
+    },
+    {
+      "text": "estenosis significativa",
+      "type": "PATOLOGIA",
+      "start": 1429,
+      "end": 1452
+    },
+    {
+      "text": "penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1267,
+      "end": 1285
+    },
+    {
+      "text": "tallo cerebral",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1074,
+      "end": 1088
+    },
+    {
+      "text": "cerebelo bilateral",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1091,
+      "end": 1109
+    },
+    {
+      "text": "TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANGIOTC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 2348,
+      "end": 2415
+    },
+    {
+      "text": "aumento significativo en tiempo de tránsito medio (MTT)",
+      "type": "MEDIDA",
+      "start": 941,
+      "end": 996
+    },
+    {
+      "text": "tiempo hasta el pico (TTP)",
+      "type": "MEDIDA",
+      "start": 999,
+      "end": 1025
+    },
+    {
+      "text": "disminución del flujo cerebral (CBF)",
+      "type": "MEDIDA",
+      "start": 1122,
+      "end": 1158
+    },
+    {
+      "text": "Volumen cerebral (CBV) ligeramente conservado",
+      "type": "MEDIDA",
+      "start": 1178,
+      "end": 1223
+    }
+  ]
+}

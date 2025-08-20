@@ -1,0 +1,113 @@
+{
+  "document_id": "informe_sintetico_20250804195045_19888",
+  "entities": [
+    {
+      "text": "leucoencefalopatía posterior reversible",
+      "type": "PATOLOGIA",
+      "start": 279,
+      "end": 318
+    },
+    {
+      "text": "áreas hipodensas bilaterales",
+      "type": "PATOLOGIA",
+      "start": 555,
+      "end": 583
+    },
+    {
+      "text": "regiones parieto-occipitales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 614,
+      "end": 642
+    },
+    {
+      "text": "sustancia blanca subcortical",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 666,
+      "end": 694
+    },
+    {
+      "text": "frontal",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 713,
+      "end": 720
+    },
+    {
+      "text": "bilaterales",
+      "type": "LATERALIDAD",
+      "start": 572,
+      "end": 583
+    },
+    {
+      "text": "sin evidencia de hemorragia intraparenquimatosa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 724,
+      "end": 771
+    },
+    {
+      "text": "sin reducción significativa del volumen sanguíneo cerebral",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1118,
+      "end": 1176
+    },
+    {
+      "text": "sin signos de isquemia o hemorragia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1628,
+      "end": 1663
+    },
+    {
+      "text": "ACAs, ACMs, ACPs",
+      "type": "ARTERIA",
+      "start": 1365,
+      "end": 1381
+    },
+    {
+      "text": "sin evidencias de compromiso vascular persistente",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1701,
+      "end": 1750
+    },
+    {
+      "text": "disminución ligera a moderada del flujo cerebral",
+      "type": "PATOLOGIA",
+      "start": 976,
+      "end": 1024
+    },
+    {
+      "text": "aumento transitorio del tiempo de tránsito medio",
+      "type": "PATOLOGIA",
+      "start": 1033,
+      "end": 1081
+    },
+    {
+      "text": "edema vasogénico bilateral y simétrico",
+      "type": "PATOLOGIA",
+      "start": 1557,
+      "end": 1595
+    },
+    {
+      "text": "TC craneal basal urgente",
+      "type": "TECNICA_IMAGEN",
+      "start": 339,
+      "end": 363
+    },
+    {
+      "text": "estudio multimodal",
+      "type": "TECNICA_IMAGEN",
+      "start": 368,
+      "end": 386
+    },
+    {
+      "text": "mapas de perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 399,
+      "end": 426
+    },
+    {
+      "text": "Angio-TC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 429,
+      "end": 459
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "document_id": "informe_sintetico_20250804195045_12044",
+  "entities": [
+    {
+      "text": "contusión hemorrágica extensa",
+      "type": "PATOLOGIA",
+      "start": 526,
+      "end": 555
+    },
+    {
+      "text": "región frontotemporal derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 559,
+      "end": 588
+    },
+    {
+      "text": "24 x 18 mm",
+      "type": "MEDIDA",
+      "start": 641,
+      "end": 651
+    },
+    {
+      "text": "3 mm",
+      "type": "MEDIDA",
+      "start": 789,
+      "end": 793
+    },
+    {
+      "text": "No se detectan fracturas óseas evidentes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 823,
+      "end": 863
+    },
+    {
+      "text": "No se evidencian otras áreas de hipoperfusión",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1218,
+      "end": 1263
+    },
+    {
+      "text": "sin evidencia de oclusión o estenosis significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1323,
+      "end": 1374
+    },
+    {
+      "text": "Vasos basilares y cerebrales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1465,
+      "end": 1493
+    },
+    {
+      "text": "3 mm",
+      "type": "MEDIDA",
+      "start": 789,
+      "end": 793
+    },
+    {
+      "text": "zona de penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1174,
+      "end": 1200
+    },
+    {
+      "text": "No se observan lesiones vasculares asociadas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1766,
+      "end": 1810
+    },
+    {
+      "text": "TC craneal evolutivo en 24-48 horas",
+      "type": "TECNICA_IMAGEN",
+      "start": 2005,
+      "end": 2040
+    },
+    {
+      "text": "Imágenes multiplanares en cortes axiales, coronales y sagitales",
+      "type": "TECNICA_IMAGEN",
+      "start": 2123,
+      "end": 2186
+    }
+  ]
+}

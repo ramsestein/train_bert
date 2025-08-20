@@ -1,0 +1,65 @@
+{
+  "document_id": "informe_sintetico_20250804195045_11102",
+  "entities": [
+    {
+      "text": "hematoma intraparenquimatoso",
+      "type": "PATOLOGIA",
+      "start": 449,
+      "end": 477
+    },
+    {
+      "text": "núcleo lenticular derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 484,
+      "end": 509
+    },
+    {
+      "text": "putamen",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 546,
+      "end": 553
+    },
+    {
+      "text": "cápsula interna",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 578,
+      "end": 593
+    },
+    {
+      "text": "agudo",
+      "type": "TEMPORALIDAD",
+      "start": 674,
+      "end": 679
+    },
+    {
+      "text": "5 mm",
+      "type": "MEDIDA",
+      "start": 822,
+      "end": 826
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "ARTERIA",
+      "start": 1289,
+      "end": 1319
+    },
+    {
+      "text": "No se identifican signos de sangrado intra o extraaxial adicional.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 828,
+      "end": 894
+    },
+    {
+      "text": "No se evidencian signos de estenosis ni oclusión de los principales vasos cerebrales.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1413,
+      "end": 1498
+    },
+    {
+      "text": "No se observan otras lesiones vasculares ni hemorragias adicionales.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1831,
+      "end": 1899
+    }
+  ]
+}

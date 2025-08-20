@@ -1,0 +1,101 @@
+{
+  "document_id": "informe_sintetico_20250804195045_12298",
+  "entities": [
+    {
+      "text": "hemorragia intraventricular primaria",
+      "type": "PATOLOGIA",
+      "start": 510,
+      "end": 546
+    },
+    {
+      "text": "ventrículos laterales bilaterales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 579,
+      "end": 612
+    },
+    {
+      "text": "tercer ventrículo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 614,
+      "end": 631
+    },
+    {
+      "text": "cuarto ventrículo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 634,
+      "end": 651
+    },
+    {
+      "text": "sangrado parenquimatoso adyacente",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 670,
+      "end": 703
+    },
+    {
+      "text": "hemorragia subaracnoidea asociada",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 707,
+      "end": 740
+    },
+    {
+      "text": "Cisternas basales libres",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 997,
+      "end": 1021
+    },
+    {
+      "text": "isquemia significativa",
+      "type": "PATOLOGIA",
+      "start": 1209,
+      "end": 1231
+    },
+    {
+      "text": "sin evidencia de estenosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1348,
+      "end": 1374
+    },
+    {
+      "text": "Ateromatosis leve en bifurcaciones carotídeas",
+      "type": "PATOLOGIA",
+      "start": 1423,
+      "end": 1468
+    },
+    {
+      "text": "sin repercusión hemodinámica",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1469,
+      "end": 1497
+    },
+    {
+      "text": "sin evidencia de hemorragia parenquimatosa asociada",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1635,
+      "end": 1686
+    },
+    {
+      "text": "TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANG IOTC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 72,
+      "end": 140
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 330,
+      "end": 346
+    },
+    {
+      "text": "TC PERFUSIÓN",
+      "type": "TECNICA_IMAGEN",
+      "start": 1024,
+      "end": 1036
+    },
+    {
+      "text": "ANGIO-TC EXTRA E INTRACRANEAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 1268,
+      "end": 1297
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "document_id": "informe_sintetico_20250804195045_04485",
+  "entities": [
+    {
+      "text": "infarto cerebral",
+      "type": "PATOLOGIA",
+      "start": 282,
+      "end": 298
+    },
+    {
+      "text": "infarto watershed",
+      "type": "PATOLOGIA",
+      "start": 1227,
+      "end": 1244
+    },
+    {
+      "text": "ACM",
+      "type": "ARTERIA",
+      "start": 1007,
+      "end": 1010
+    },
+    {
+      "text": "ACA",
+      "type": "ARTERIA",
+      "start": 1024,
+      "end": 1027
+    },
+    {
+      "text": "bilaterales",
+      "type": "LATERALIDAD",
+      "start": 1029,
+      "end": 1040
+    },
+    {
+      "text": "ACM",
+      "type": "ARTERIA",
+      "start": 1007,
+      "end": 1010
+    },
+    {
+      "text": "ACA",
+      "type": "ARTERIA",
+      "start": 1024,
+      "end": 1027
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 1950,
+      "end": 1960
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 337,
+      "end": 353
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 370,
+      "end": 391
+    },
+    {
+      "text": "angio-TC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 394,
+      "end": 424
+    },
+    {
+      "text": "No se identifican hemorragias intra ni extraaxiales.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 485,
+      "end": 537
+    },
+    {
+      "text": "No se observan signos de edema cerebral ni efecto de masa.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 629,
+      "end": 687
+    },
+    {
+      "text": "No hay desplazamiento de estructuras de la línea media.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 688,
+      "end": 743
+    },
+    {
+      "text": "No se evidencian áreas de perfusión comprometida en territorio vascular profundo ni en estructuras subcorticales profundas.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1260,
+      "end": 1383
+    },
+    {
+      "text": "No se visualizan trombos ni defectos de repleción.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1509,
+      "end": 1559
+    },
+    {
+      "text": "Ausencia de signos de disección o malformaciones vasculares.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1596,
+      "end": 1656
+    },
+    {
+      "text": "secundario a hipotensión arterial o hipoperfusión cerebral global.",
+      "type": "TEMPORALIDAD",
+      "start": 1764,
+      "end": 1830
+    }
+  ]
+}

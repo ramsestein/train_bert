@@ -1,0 +1,65 @@
+{
+  "document_id": "informe_sintetico_20250804195045_13579",
+  "entities": [
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 361,
+      "end": 375
+    },
+    {
+      "text": "territorio cerebral anterior",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 379,
+      "end": 407
+    },
+    {
+      "text": "corteza frontal izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 762,
+      "end": 787
+    },
+    {
+      "text": "ASPECTS 9",
+      "type": "PUNTUACION_CLINICA",
+      "start": 866,
+      "end": 875
+    },
+    {
+      "text": "arteria cerebral anterior izquierda",
+      "type": "ARTERIA",
+      "start": 1164,
+      "end": 1199
+    },
+    {
+      "text": "segmento A2",
+      "type": "ARTERIA",
+      "start": 1439,
+      "end": 1450
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 778,
+      "end": 787
+    },
+    {
+      "text": "penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1285,
+      "end": 1303
+    },
+    {
+      "text": "No se identifican hemorragias ni lesiones ocupantes de espacio",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 643,
+      "end": 705
+    },
+    {
+      "text": "No hay evidencia de hemorragia ni edema expansivo en este momento",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1786,
+      "end": 1851
+    }
+  ]
+}

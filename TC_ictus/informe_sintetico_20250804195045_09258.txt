@@ -1,0 +1,31 @@
+UO_PACN (Unidad Organizativa Médica): RADIO
+
+PRUEB (Prueba solicitada): TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANG IOTC ARTERIAL INTRACRANEAL)
+
+CLIN (Resumen clínico): Paciente con antecedente reciente de ictus isquémico en territorio de arteria cerebral media izquierda, presenta empeoramiento neurológico con signos de hemiparesia derecha.
+
+OBSR (Protocolo): Protocolo Código Ictus (TC basal, estudio de perfusión cerebral y AngioTC arterial intracraneal con contraste endovenoso)
+
+RESL (Resultados): TC CRANEAL BASAL:
+Se identifica área extensa de baja densidad en territorio vascular de la arteria cerebral media izquierda, compatible con infarto isquémico en evolución. Se evidencia hiperdensidad heterogénea en el núcleo lenticular izquierdo y zona cortical adyacente, con bordes mal definidos, hallazgo compatible con transformación hemorrágica grado HI2.
+No se visualizan signos de herniación ni desplazamiento significativo de la línea media, que permanece centrada.
+El sistema ventricular se observa de tamaño normal, sin colapso ni dilatación.
+No hay hemorragias extraaxiales ni efecto masa significativo.
+TC PERFUSIÓN:
+Mapas de perfusión muestran disminución marcada del flujo cerebral (CBF) y volumen cerebral (CBV) en región isquémica izquierda, con aumento del tiempo de tránsito medio (MTT) y tiempo hasta el pico (TTP), concordante con área infartada.
+ANGIO-TC ARTERIAL INTRACRANEAL:
+Oclusión en el segmento proximal de la arteria cerebral media izquierda (M1).
+Resto de arterias intracraneales permeables, incluyendo ACAs, ACPs y sistema vertebrobasilar sin estenosis significativas.
+No se identifican aneurismas ni malformaciones vasculares.
+
+CONCL (Conclusiones): Infarto isquémico extenso en territorio cerebral medio izquierdo con transformación hemorrágica grado HI2, sin desplazamientos de línea media ni efecto masa significativo. Oclusión localizada en segmento proximal de ACM izquierda. Requiere valoración clínica urgente.
+
+ACTI_ADICI (Actividad adicional): Notificación inmediata a neurología para manejo integrado y seguimiento estrecho.
+
+ICON (Estudio): @RADIO_TC_202406@
+
+X00DIATXT (Texto del diagnóstico ACR): TC cerebral para código ictus con hallazgos de transformación hemorrágica grado HI2 en territorio isquémico de ACM izquierda y oclusión arterial correspondiente.
+
+EST_T_DES (Descripción): TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANGIOTC ARTERIAL INTRACRANEAL)
+
+ZVASOS_D (Der.): Oclusión proximal ACM izquierda; resto sin estenosis significativas ni trombosis venosa.

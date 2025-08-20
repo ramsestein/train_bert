@@ -1,0 +1,53 @@
+{
+  "document_id": "informe_sintetico_20250804195045_23310",
+  "entities": [
+    {
+      "text": "cuadro isquémico agudo",
+      "type": "PATOLOGIA",
+      "start": 234,
+      "end": 256
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "ARTERIA",
+      "start": 274,
+      "end": 304
+    },
+    {
+      "text": "territorio superficial de ACM derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 959,
+      "end": 996
+    },
+    {
+      "text": "ASPECTS 9/10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 723,
+      "end": 735
+    },
+    {
+      "text": "oclusión focal en rama distal M2/M3 de arteria cerebral media derecha",
+      "type": "PATOLOGIA",
+      "start": 1247,
+      "end": 1316
+    },
+    {
+      "text": "No se detectan signos de hemorragia intra ni extraaxial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 473,
+      "end": 528
+    },
+    {
+      "text": "No signos de hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1817,
+      "end": 1853
+    },
+    {
+      "text": "TC Basal + TC Perfusión + AngioTC intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 349,
+      "end": 395
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "document_id": "informe_sintetico_20250804195045_07475",
+  "entities": [
+    {
+      "text": "hematoma subdural agudo",
+      "type": "PATOLOGIA",
+      "start": 317,
+      "end": 340
+    },
+    {
+      "text": "izquierdo",
+      "type": "LATERALIDAD",
+      "start": 544,
+      "end": 553
+    },
+    {
+      "text": "12 mm",
+      "type": "MEDIDA",
+      "start": 612,
+      "end": 617
+    },
+    {
+      "text": "8 mm",
+      "type": "MEDIDA",
+      "start": 776,
+      "end": 780
+    },
+    {
+      "text": "agudo",
+      "type": "TEMPORALIDAD",
+      "start": 335,
+      "end": 340
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 361,
+      "end": 377
+    },
+    {
+      "text": "angiografía TC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 422,
+      "end": 458
+    },
+    {
+      "text": "No se identifican alteraciones vasculares obstructivas significativas en la angiografía TC.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1734,
+      "end": 1825
+    },
+    {
+      "text": "sin signos de hidrocefalia obstructiva",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 985,
+      "end": 1023
+    }
+  ]
+}

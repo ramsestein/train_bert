@@ -1,0 +1,89 @@
+{
+  "document_id": "informe_sintetico_20250804195045_01982",
+  "entities": [
+    {
+      "text": "ictus isquémico agudo",
+      "type": "PATOLOGIA",
+      "start": 189,
+      "end": 210
+    },
+    {
+      "text": "hemorragia petequial",
+      "type": "PATOLOGIA",
+      "start": 585,
+      "end": 605
+    },
+    {
+      "text": "infarto isquémico subagudo",
+      "type": "PATOLOGIA",
+      "start": 658,
+      "end": 684
+    },
+    {
+      "text": "10 mm",
+      "type": "MEDIDA",
+      "start": 500,
+      "end": 505
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "ARTERIA",
+      "start": 530,
+      "end": 560
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 553,
+      "end": 560
+    },
+    {
+      "text": "discreta hipodensidad sugestiva de edema vasogénico leve",
+      "type": "PATOLOGIA",
+      "start": 775,
+      "end": 831
+    },
+    {
+      "text": "sin evidencia de trombosis o malformaciones vasculares",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1445,
+      "end": 1499
+    },
+    {
+      "text": "sin alteraciones importantes en volumen sanguíneo cerebral (CBV) ni tiempo de tránsito medio (MTT)",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1113,
+      "end": 1211
+    },
+    {
+      "text": "sin complicaciones mayores ni efecto de masa significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1669,
+      "end": 1727
+    },
+    {
+      "text": "transformación hemorrágica tipo HI1",
+      "type": "PATOLOGIA",
+      "start": 607,
+      "end": 642
+    },
+    {
+      "text": "ictus isquémico agudo",
+      "type": "TEMPORALIDAD",
+      "start": 189,
+      "end": 210
+    },
+    {
+      "text": "TC craneal urgente",
+      "type": "TECNICA_IMAGEN",
+      "start": 299,
+      "end": 317
+    },
+    {
+      "text": "angiografía TC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 374,
+      "end": 410
+    }
+  ]
+}

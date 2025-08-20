@@ -1,0 +1,215 @@
+{
+  "document_id": "informe_sintetico_20250804195045_13616",
+  "entities": [
+    {
+      "text": "hipertensión arterial no controlada",
+      "type": "PATOLOGIA",
+      "start": 203,
+      "end": 238
+    },
+    {
+      "text": "cefalea intensa",
+      "type": "PATOLOGIA",
+      "start": 249,
+      "end": 264
+    },
+    {
+      "text": "visión borrosa",
+      "type": "PATOLOGIA",
+      "start": 266,
+      "end": 280
+    },
+    {
+      "text": "crisis hipertensiva reciente",
+      "type": "PATOLOGIA",
+      "start": 283,
+      "end": 311
+    },
+    {
+      "text": "compromiso isquémico",
+      "type": "PATOLOGIA",
+      "start": 347,
+      "end": 367
+    },
+    {
+      "text": "áreas de hipodensidad bilateral",
+      "type": "PATOLOGIA",
+      "start": 603,
+      "end": 634
+    },
+    {
+      "text": "sustancia blanca de los lóbulos occipitales y parietales posteriores",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 672,
+      "end": 740
+    },
+    {
+      "text": "sangrado intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 759,
+      "end": 780
+    },
+    {
+      "text": "lesiones ocupantes de espacio",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 784,
+      "end": 813
+    },
+    {
+      "text": "alteraciones en las estructuras de la línea media",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 830,
+      "end": 879
+    },
+    {
+      "text": "hidrocefalia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 883,
+      "end": 895
+    },
+    {
+      "text": "ventrículos laterales y cisternas basales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 901,
+      "end": 942
+    },
+    {
+      "text": "morfología y tamaño habituales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 956,
+      "end": 986
+    },
+    {
+      "text": "aumento del tiempo de tránsito medio (TTM)",
+      "type": "PATOLOGIA",
+      "start": 1031,
+      "end": 1073
+    },
+    {
+      "text": "tiempo hasta el pico (TTP)",
+      "type": "PATOLOGIA",
+      "start": 1076,
+      "end": 1102
+    },
+    {
+      "text": "áreas occipitales bilaterales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1110,
+      "end": 1139
+    },
+    {
+      "text": "flujo sanguíneo cerebral (CBF)",
+      "type": "PATOLOGIA",
+      "start": 1162,
+      "end": 1192
+    },
+    {
+      "text": "volumen cerebral (CBV)",
+      "type": "PATOLOGIA",
+      "start": 1195,
+      "end": 1217
+    },
+    {
+      "text": "signos de mismatching sugerentes de isquemia irreversible",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1223,
+      "end": 1280
+    },
+    {
+      "text": "Vasos principales permeables",
+      "type": "PATOLOGIA",
+      "start": 1306,
+      "end": 1334
+    },
+    {
+      "text": "estenosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1354,
+      "end": 1363
+    },
+    {
+      "text": "oclusión",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1365,
+      "end": 1373
+    },
+    {
+      "text": "vasoespasmo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1377,
+      "end": 1388
+    },
+    {
+      "text": "Sistema arterial vertebrobasilar y carótido interno",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1390,
+      "end": 1441
+    },
+    {
+      "text": "alteraciones significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1446,
+      "end": 1473
+    },
+    {
+      "text": "leucoencefalopatía posterior reversible (PRES)",
+      "type": "PATOLOGIA",
+      "start": 1524,
+      "end": 1570
+    },
+    {
+      "text": "edema vasogénico bilateral en territorios occipitales y parietales",
+      "type": "PATOLOGIA",
+      "start": 1590,
+      "end": 1656
+    },
+    {
+      "text": "evidencia de infarto",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1674,
+      "end": 1694
+    },
+    {
+      "text": "hemorragia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1697,
+      "end": 1707
+    },
+    {
+      "text": "alteraciones vasculares obstructivas en angioTC",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1727,
+      "end": 1774
+    },
+    {
+      "text": "control clínico y neuroimagen de seguimiento",
+      "type": "PATOLOGIA",
+      "start": 1877,
+      "end": 1921
+    },
+    {
+      "text": "Leukoencephalopathy, posterior reversible syndrome; edema vasogénico en lóbulos occipitales y parietales.",
+      "type": "PATOLOGIA",
+      "start": 2056,
+      "end": 2161
+    },
+    {
+      "text": "Vasos intracraneales permeables",
+      "type": "PATOLOGIA",
+      "start": 2274,
+      "end": 2305
+    },
+    {
+      "text": "signos de estenosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2310,
+      "end": 2329
+    },
+    {
+      "text": "vasoespasmo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1377,
+      "end": 1388
+    }
+  ]
+}

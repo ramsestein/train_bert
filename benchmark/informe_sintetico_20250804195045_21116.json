@@ -1,0 +1,71 @@
+{
+  "document_id": "informe_sintetico_20250804195045_21116",
+  "entities": [
+    {
+      "text": "infarto cerebral hemisférico izquierdo",
+      "type": "PATOLOGIA",
+      "start": 179,
+      "end": 217
+    },
+    {
+      "text": "transformación hemorrágica tipo HI2",
+      "type": "PATOLOGIA",
+      "start": 519,
+      "end": 554
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "ARTERIA",
+      "start": 575,
+      "end": 607
+    },
+    {
+      "text": "región fronto-parietal",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 641,
+      "end": 663
+    },
+    {
+      "text": "núcleo lenticular",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 680,
+      "end": 697
+    },
+    {
+      "text": "30%",
+      "type": "MEDIDA",
+      "start": 736,
+      "end": 739
+    },
+    {
+      "text": "sin signos de hidrocefalia aguda",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 988,
+      "end": 1020
+    },
+    {
+      "text": "territorio cerebral izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1192,
+      "end": 1221
+    },
+    {
+      "text": "tiempo de tránsito medio (MTT)",
+      "type": "TEMPORALIDAD",
+      "start": 1239,
+      "end": 1269
+    },
+    {
+      "text": "tiempo hasta el pico (TTP)",
+      "type": "TEMPORALIDAD",
+      "start": 1272,
+      "end": 1298
+    },
+    {
+      "text": "sin efecto de masa significativo ni desviación de línea media",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1788,
+      "end": 1849
+    }
+  ]
+}

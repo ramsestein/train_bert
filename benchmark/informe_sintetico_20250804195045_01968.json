@@ -1,0 +1,107 @@
+{
+  "document_id": "informe_sintetico_20250804195045_01968",
+  "entities": [
+    {
+      "text": "ictus isquémico",
+      "type": "PATOLOGIA",
+      "start": 251,
+      "end": 266
+    },
+    {
+      "text": "hipodensidad",
+      "type": "PATOLOGIA",
+      "start": 488,
+      "end": 500
+    },
+    {
+      "text": "arteria cerebral media",
+      "type": "ARTERIA",
+      "start": 529,
+      "end": 551
+    },
+    {
+      "text": "ACM",
+      "type": "ARTERIA",
+      "start": 553,
+      "end": 556
+    },
+    {
+      "text": "ACM derecha",
+      "type": "ARTERIA",
+      "start": 789,
+      "end": 800
+    },
+    {
+      "text": "M1",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 783,
+      "end": 785
+    },
+    {
+      "text": "M1 proximal",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1479,
+      "end": 1490
+    },
+    {
+      "text": "derecho",
+      "type": "LATERALIDAD",
+      "start": 515,
+      "end": 522
+    },
+    {
+      "text": "ASPECTS 6",
+      "type": "PUNTUACION_CLINICA",
+      "start": 802,
+      "end": 811
+    },
+    {
+      "text": "ASPECTS 6",
+      "type": "PUNTUACION_CLINICA",
+      "start": 802,
+      "end": 811
+    },
+    {
+      "text": "prolongación del tiempo de tránsito medio (MTT)",
+      "type": "MEDIDA",
+      "start": 1034,
+      "end": 1081
+    },
+    {
+      "text": "tiempo hasta el pico (TTP)",
+      "type": "MEDIDA",
+      "start": 1084,
+      "end": 1110
+    },
+    {
+      "text": "disminución del volumen sanguíneo cerebral (CBV)",
+      "type": "MEDIDA",
+      "start": 1184,
+      "end": 1232
+    },
+    {
+      "text": "reducción del flujo sanguíneo cerebral (CBF)",
+      "type": "MEDIDA",
+      "start": 1251,
+      "end": 1295
+    },
+    {
+      "text": "cortes axiales basales",
+      "type": "TECNICA_IMAGEN",
+      "start": 309,
+      "end": 331
+    },
+    {
+      "text": "angiografía por Angio-TC",
+      "type": "TECNICA_IMAGEN",
+      "start": 365,
+      "end": 389
+    },
+    {
+      "text": "angiografía TC",
+      "type": "TECNICA_IMAGEN",
+      "start": 1848,
+      "end": 1862
+    }
+  ]
+}

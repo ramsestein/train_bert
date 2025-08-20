@@ -1,0 +1,33 @@
+UO_PACN (Unidad Organizativa Médica): RADIO
+
+PRUEB (Prueba solicitada): TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANG IOTC ARTERIAL INTRACRANEAL)
+
+CLIN (Resumen clínico): Déficit motor contralateral y alteración sensitiva en miembro inferior, sospecha de isquemia aguda en territorio de arteria cerebral anterior (ACA).
+
+OBSR (Protocolo): Protocolo Código Ictus completo, incluyendo TC craneal basal, perfusión cerebral con mapas de tiempo máximo (Tmax), volumen cerebral (CBV), flujo cerebral (CBF) y angiografía por angio-TC de troncos supraórticos e intracraneales.
+
+RESL (Resultados):
+
+TC CRANEAL BASAL:  
+No se observa hemorragia intracraneal ni signos de sangrado extraaxial. Diferenciación cortico-subcortical conservada en la mayoría de territorios, aunque se identifica pérdida parcial de la diferenciación en la porción medial y superior del lóbulo frontal izquierdo, compatible con área isquémica incipiente en territorio de ACA izquierda. No se aprecian signos de edema significativo ni desplazamientos de línea media. Sistema ventricular con morfología y tamaño normales. Cisternas basales despejadas.
+
+TC PERFUSIÓN:  
+Se evidencia retraso en mapas de tiempo de tránsito (Tmax) en territorio medial y anterior del hemisferio cerebral izquierdo, con reducción marcada de flujo cerebral (CBF) y volumen cerebral (CBV) en dicha zona, compatible con área de hipoperfusión crítica. El mismatch entre volumen de penumbra (área con retraso en Tmax y conservado CBV) y núcleo isquémico (área con reducción en CBV) es significativo, sugiriendo tejido viable en riesgo.
+
+ANGIO-TC EXTRA E INTRACRANEAL:  
+Oclusión segmentaria proximal de la arteria cerebral anterior (A2) izquierda, sin repleción distal. Troncos supraórticos sin estenosis significativas. Ateromatosis leve en bifurcaciones carotídeas sin estenosis hemodinámicamente relevantes. Arterias cerebrales media y posterior izquierda y derecha permeables. Sistema vertebrobasilar sin alteraciones.
+
+CONCL (Conclusiones):  
+- TC basal: Ausencia de hemorragia intracraneal. Área de pérdida de diferenciación cortico-subcortical en territorio ACA izquierda.  
+- Perfusión cerebral: Retraso de Tmax y disminución del CBF y CBV en territorio ACA izquierda con significativo mismatch, compatible con isquemia aguda con tejido viable en riesgo.  
+- Angio-TC: Oclusión proximal segmentaria de A2 izquierda. Troncos supraórticos sin estenosis críticas.
+
+ACTI_ADICI (Actividad adicional): Seguimiento clínico y valoración para posible tratamiento revascularizador urgente.
+
+ICON (Estudio): @RAD_IC_006@
+
+X00DIATXT (Texto del diagnóstico ACR): Isquemia aguda en territorio de arteria cerebral anterior izquierda con oclusión proximal segmentaria y área de hipoperfusión con mismatch significativo en perfusión cerebral. Sin hemorragia intracraneal.
+
+EST_T_DES (Descripción): TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANGIOTC ARTERIAL INTRACRANEAL)
+
+ZVASOS_D (Der.): Oclusión A2 izquierda, arterias restantes permeables, ateromatosis leve en bifurcaciones carotídeas sin estenosis relevantes.

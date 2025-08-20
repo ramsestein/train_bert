@@ -1,0 +1,65 @@
+{
+  "document_id": "informe_sintetico_20250804195045_16206",
+  "entities": [
+    {
+      "text": "territorio izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 314,
+      "end": 334
+    },
+    {
+      "text": "arterias distales de la ACM",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 778,
+      "end": 805
+    },
+    {
+      "text": "ACM",
+      "type": "ARTERIA",
+      "start": 802,
+      "end": 805
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 734,
+      "end": 743
+    },
+    {
+      "text": "9",
+      "type": "MEDIDA",
+      "start": 846,
+      "end": 847
+    },
+    {
+      "text": "aguda",
+      "type": "TEMPORALIDAD",
+      "start": 1666,
+      "end": 1671
+    },
+    {
+      "text": "ASPECTS 9",
+      "type": "PUNTUACION_CLINICA",
+      "start": 1768,
+      "end": 1777
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 355,
+      "end": 371
+    },
+    {
+      "text": "No se identifican hemorragias intra o extraaxiales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 543,
+      "end": 593
+    },
+    {
+      "text": "No hay ateromatosis significativa en los tramos proximales evaluados",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1564,
+      "end": 1632
+    }
+  ]
+}

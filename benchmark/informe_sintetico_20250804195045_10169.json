@@ -1,0 +1,107 @@
+{
+  "document_id": "informe_sintetico_20250804195045_10169",
+  "entities": [
+    {
+      "text": "infarto cerebral",
+      "type": "PATOLOGIA",
+      "start": 245,
+      "end": 261
+    },
+    {
+      "text": "bilaterales",
+      "type": "LATERALIDAD",
+      "start": 575,
+      "end": 586
+    },
+    {
+      "text": "hipoperfusión",
+      "type": "PATOLOGIA",
+      "start": 1252,
+      "end": 1265
+    },
+    {
+      "text": "arterias cerebrales medias",
+      "type": "ARTERIA",
+      "start": 689,
+      "end": 715
+    },
+    {
+      "text": "bilaterales",
+      "type": "LATERALIDAD",
+      "start": 575,
+      "end": 586
+    },
+    {
+      "text": "hemorragia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 517,
+      "end": 527
+    },
+    {
+      "text": "oclusión arterial mayor",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1756,
+      "end": 1779
+    },
+    {
+      "text": "disminución del flujo sanguíneo cerebral",
+      "type": "PATOLOGIA",
+      "start": 998,
+      "end": 1038
+    },
+    {
+      "text": "tiempo de tránsito medio",
+      "type": "MEDIDA",
+      "start": 1059,
+      "end": 1083
+    },
+    {
+      "text": "volumen cerebral",
+      "type": "MEDIDA",
+      "start": 1182,
+      "end": 1198
+    },
+    {
+      "text": "levemente disminuido",
+      "type": "MEDIDA",
+      "start": 1217,
+      "end": 1237
+    },
+    {
+      "text": "sin estenosis ni placas significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1363,
+      "end": 1401
+    },
+    {
+      "text": "sin signos claros de oclusión ni estenosis severa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1468,
+      "end": 1517
+    },
+    {
+      "text": "sin estenosis arterial significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1898,
+      "end": 1934
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 312,
+      "end": 328
+    },
+    {
+      "text": "TC PERFUSIÓN CEREBRAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 959,
+      "end": 980
+    },
+    {
+      "text": "ANGIO-TC ARTERIAL INTRACRANEAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 1290,
+      "end": 1320
+    }
+  ]
+}

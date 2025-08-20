@@ -1,0 +1,53 @@
+{
+  "document_id": "informe_sintetico_20250804195045_00958",
+  "entities": [
+    {
+      "text": "hematoma subdural agudo",
+      "type": "PATOLOGIA",
+      "start": 531,
+      "end": 554
+    },
+    {
+      "text": "región frontoparietal derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 485,
+      "end": 514
+    },
+    {
+      "text": "12 mm",
+      "type": "MEDIDA",
+      "start": 580,
+      "end": 585
+    },
+    {
+      "text": "6 mm",
+      "type": "MEDIDA",
+      "start": 686,
+      "end": 690
+    },
+    {
+      "text": "agudo",
+      "type": "TEMPORALIDAD",
+      "start": 549,
+      "end": 554
+    },
+    {
+      "text": "No se identifican lesiones óseas ni fracturas evidentes.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 756,
+      "end": 812
+    },
+    {
+      "text": "No hay evidencia de hemorragia intraparenquimatosa ni hemorragia subaracnoidea.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 813,
+      "end": 892
+    },
+    {
+      "text": "No se observan otras lesiones hemorrágicas o isquémicas asociadas.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1768,
+      "end": 1834
+    }
+  ]
+}

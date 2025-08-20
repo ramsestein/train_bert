@@ -1,0 +1,31 @@
+UO_PACN (Unidad Organizativa Médica): RADIO
+
+PRUEB (Prueba solicitada): TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANG IOTC ARTERIAL INTRACRANEAL)
+
+CLIN (Resumen clínico): Déficit neurológico focal agudo con afasia y hemiparesia derecha de inicio súbito.
+
+OBSR (Protocolo): TC craneal basal sin contraste, TC perfusión cerebral, y angioTC arterial intracraneal urgente para estudio de código ictus.
+
+RESL (Resultados):  
+TC CRANEAL BASAL:  
+No se identifican hemorragias intracraneales ni signos de sangrado subaracnoideo. Se observa una discreta hipodensidad en territorio frontoinsular izquierdo compatible con isquemia muy incipiente. ASPECTS: 9. Conservación de la diferenciación corticosubcortical. Estructuras de la línea media centradas. Sistema ventricular de tamaño y morfología normal. Cisternas basales libres.
+
+TC PERFUSIÓN:  
+Mapas de perfusión muestran aumento del tiempo de tránsito medio (TTP) y disminución del flujo cerebral (CBF) segmentarios en la región correspondiente a la división M2 y M3 de la arteria cerebral media izquierda, sin reducción significativa del volumen cerebral (CBV), evidenciando área en riesgo pero sin tejido irreversible extenso.
+
+ANGIO-TC INTRACRANEAL:  
+Oclusión abrupta en rama distal M2 de la arteria cerebral media izquierda. Resto de ramas intracraneales permeables sin estenosis significativas. No se observan signos de arteriosclerosis severa en los vasos visualizados.
+
+CONCL (Conclusiones):  
+Isquemia aguda en territorio distal de la arteria cerebral media izquierda (M2/M3), con ASPECTS 9 y área limitada de penumbra viable según perfusión cerebral. Oclusión confirmada de rama distal M2 izquierda. No hay hemorragia intracraneal ni otros hallazgos secundarios. Indicativo para tratamiento endovascular urgente.
+
+ACTI_ADICI (Actividad adicional):  
+
+ICON (Estudio): @TC_CODIGOICTUS@
+
+X00DIATXT (Texto del diagnóstico ACR):  
+Isquemia aguda en territorio distal ACM izquierda (M2/M3) con oclusión arterial confirmada y penumbra evaluable en TC perfusión.
+
+EST_T_DES (Descripción): TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANGIOTC ARTERIAL INTRACRANEAL)
+
+ZVASOS_D (Der.): Oclusión arterial distal M2 izquierda. Resto de vasos intracraneales permeables.

@@ -1,0 +1,65 @@
+{
+  "document_id": "informe_sintetico_20250804195045_00411",
+  "entities": [
+    {
+      "text": "hematoma lobar",
+      "type": "PATOLOGIA",
+      "start": 645,
+      "end": 659
+    },
+    {
+      "text": "lóbulo frontal derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 558,
+      "end": 580
+    },
+    {
+      "text": "3.5 x 2.8 x 2.5 cm",
+      "type": "MEDIDA",
+      "start": 610,
+      "end": 628
+    },
+    {
+      "text": "aguda",
+      "type": "TEMPORALIDAD",
+      "start": 674,
+      "end": 679
+    },
+    {
+      "text": "4 mm",
+      "type": "MEDIDA",
+      "start": 804,
+      "end": 808
+    },
+    {
+      "text": "TTP",
+      "type": "PATOLOGIA",
+      "start": 1175,
+      "end": 1178
+    },
+    {
+      "text": "CBV",
+      "type": "PATOLOGIA",
+      "start": 1200,
+      "end": 1203
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 1507,
+      "end": 1514
+    },
+    {
+      "text": "sin evidencia de isquemia establecida",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1762,
+      "end": 1799
+    },
+    {
+      "text": "sin signos de complicaciones vasculares",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1832,
+      "end": 1871
+    }
+  ]
+}

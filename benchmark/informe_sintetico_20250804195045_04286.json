@@ -1,0 +1,131 @@
+{
+  "document_id": "informe_sintetico_20250804195045_04286",
+  "entities": [
+    {
+      "text": "infarto cerebral",
+      "type": "PATOLOGIA",
+      "start": 252,
+      "end": 268
+    },
+    {
+      "text": "oclusión carotídea derecha",
+      "type": "PATOLOGIA",
+      "start": 273,
+      "end": 299
+    },
+    {
+      "text": "hipodensidad",
+      "type": "PATOLOGIA",
+      "start": 488,
+      "end": 500
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 524,
+      "end": 554
+    },
+    {
+      "text": "sustancia cortical",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 570,
+      "end": 588
+    },
+    {
+      "text": "sustancia blanca adyacente",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 594,
+      "end": 620
+    },
+    {
+      "text": "ASPECTS 6",
+      "type": "PUNTUACION_CLINICA",
+      "start": 710,
+      "end": 719
+    },
+    {
+      "text": "hemorragia intra ni extraaxial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 735,
+      "end": 765
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 524,
+      "end": 554
+    },
+    {
+      "text": "tiempo de tránsito medio (MTT)",
+      "type": "MEDIDA",
+      "start": 1002,
+      "end": 1032
+    },
+    {
+      "text": "tiempo hasta el pico (TTP)",
+      "type": "MEDIDA",
+      "start": 1035,
+      "end": 1061
+    },
+    {
+      "text": "flujo cerebral (CBF)",
+      "type": "MEDIDA",
+      "start": 1091,
+      "end": 1111
+    },
+    {
+      "text": "volumen cerebral (CBV)",
+      "type": "MEDIDA",
+      "start": 1114,
+      "end": 1136
+    },
+    {
+      "text": "penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1161,
+      "end": 1179
+    },
+    {
+      "text": "núcleo infartado",
+      "type": "PATOLOGIA",
+      "start": 1182,
+      "end": 1198
+    },
+    {
+      "text": "arteria carótida interna derecha",
+      "type": "ARTERIA",
+      "start": 1258,
+      "end": 1290
+    },
+    {
+      "text": "arterias comunicantes anteriores y posteriores",
+      "type": "ARTERIA",
+      "start": 1396,
+      "end": 1442
+    },
+    {
+      "text": "estenosis significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1509,
+      "end": 1533
+    },
+    {
+      "text": "infarto en territorio de la arteria cerebral media derecha",
+      "type": "PATOLOGIA",
+      "start": 1659,
+      "end": 1717
+    },
+    {
+      "text": "ASPECTS 6",
+      "type": "PUNTUACION_CLINICA",
+      "start": 710,
+      "end": 719
+    },
+    {
+      "text": "complicaciones hemorrágicas visibles",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1797,
+      "end": 1833
+    }
+  ]
+}

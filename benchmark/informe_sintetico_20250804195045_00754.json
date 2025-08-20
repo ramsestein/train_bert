@@ -1,0 +1,95 @@
+{
+  "document_id": "informe_sintetico_20250804195045_00754",
+  "entities": [
+    {
+      "text": "hematoma",
+      "type": "PATOLOGIA",
+      "start": 282,
+      "end": 290
+    },
+    {
+      "text": "lobar",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 305,
+      "end": 310
+    },
+    {
+      "text": "frontal derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 520,
+      "end": 535
+    },
+    {
+      "text": "25 x 18 x 20 mm",
+      "type": "MEDIDA",
+      "start": 556,
+      "end": 571
+    },
+    {
+      "text": "5 mm",
+      "type": "MEDIDA",
+      "start": 682,
+      "end": 686
+    },
+    {
+      "text": "edema vasogénico",
+      "type": "PATOLOGIA",
+      "start": 710,
+      "end": 726
+    },
+    {
+      "text": "No se identifican hemorragias intraventriculares ni hematomas subdurales o epidurales adicionales.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 750,
+      "end": 848
+    },
+    {
+      "text": "territorio frontal derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1135,
+      "end": 1161
+    },
+    {
+      "text": "No se observan datos de isquemia extensa ni hipoperfusión en otras áreas cerebrales.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1283,
+      "end": 1367
+    },
+    {
+      "text": "Arterias cerebrales anteriores, medias y posteriores",
+      "type": "ARTERIA",
+      "start": 1401,
+      "end": 1453
+    },
+    {
+      "text": "simétricas y permeables",
+      "type": "PATOLOGIA",
+      "start": 1454,
+      "end": 1477
+    },
+    {
+      "text": "No se identifican signos de estenosis ni oclusión en el segmento intracraneal.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1479,
+      "end": 1557
+    },
+    {
+      "text": "Control evolutivo con TC craneal y perfusión a las 48-72 horas",
+      "type": "TEMPORALIDAD",
+      "start": 1985,
+      "end": 2047
+    },
+    {
+      "text": "Hematoma lobar frontal derecho con efecto de masa y edema perilesional.",
+      "type": "PATOLOGIA",
+      "start": 2164,
+      "end": 2235
+    },
+    {
+      "text": "Arterias intracraneales permeables",
+      "type": "ARTERIA",
+      "start": 1874,
+      "end": 1908
+    }
+  ]
+}

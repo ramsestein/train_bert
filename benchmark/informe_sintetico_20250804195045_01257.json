@@ -1,0 +1,131 @@
+{
+  "document_id": "informe_sintetico_20250804195045_01257",
+  "entities": [
+    {
+      "text": "evento vascular cerebral agudo",
+      "type": "PATOLOGIA",
+      "start": 193,
+      "end": 223
+    },
+    {
+      "text": "hipodensidad",
+      "type": "PATOLOGIA",
+      "start": 416,
+      "end": 428
+    },
+    {
+      "text": "hemorragia intra o extraaxial",
+      "type": "PATOLOGIA",
+      "start": 442,
+      "end": 471
+    },
+    {
+      "text": "cambios inespecíficos pequeños compatibles con alteraciones crónicas vasculares mínimas",
+      "type": "PATOLOGIA",
+      "start": 707,
+      "end": 794
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 942,
+      "end": 952
+    },
+    {
+      "text": "isquemia",
+      "type": "PATOLOGIA",
+      "start": 968,
+      "end": 976
+    },
+    {
+      "text": "hipoperfusión",
+      "type": "PATOLOGIA",
+      "start": 989,
+      "end": 1002
+    },
+    {
+      "text": "arterias cerebrales anterior, media y posterior",
+      "type": "ARTERIA",
+      "start": 1066,
+      "end": 1113
+    },
+    {
+      "text": "sistema vertebrobasilar",
+      "type": "ARTERIA",
+      "start": 1146,
+      "end": 1169
+    },
+    {
+      "text": "circulación carotídea cervical",
+      "type": "ARTERIA",
+      "start": 1289,
+      "end": 1319
+    },
+    {
+      "text": "arco aórtico",
+      "type": "ARTERIA",
+      "start": 1325,
+      "end": 1337
+    },
+    {
+      "text": "No se identifican áreas de hipodensidad ni signos de hemorragia intra o extraaxial.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 389,
+      "end": 472
+    },
+    {
+      "text": "No se evidencian alteraciones en los mapas de flujo cerebral, volumen sanguíneo ni tiempos de tránsito.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 838,
+      "end": 941
+    },
+    {
+      "text": "No hay signos de estenosis o trombosis en los segmentos arteriales evaluados.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1208,
+      "end": 1285
+    },
+    {
+      "text": "No se evidencian signos de isquemia, hemorragia ni estenosis arterial intracraneal.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1444,
+      "end": 1527
+    },
+    {
+      "text": "sin signos de isquemia ni áreas de hipoperfusión.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 954,
+      "end": 1003
+    },
+    {
+      "text": "TC craneal basal sin contraste",
+      "type": "TECNICA_IMAGEN",
+      "start": 243,
+      "end": 273
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 276,
+      "end": 297
+    },
+    {
+      "text": "angiografía TC arterial intracraneal con contraste",
+      "type": "TECNICA_IMAGEN",
+      "start": 300,
+      "end": 350
+    },
+    {
+      "text": "Estudio TC completo sin hallazgos agudos.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1402,
+      "end": 1443
+    },
+    {
+      "text": "No acute intracranial abnormality detected.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1779,
+      "end": 1822
+    }
+  ]
+}

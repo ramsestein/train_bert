@@ -1,0 +1,245 @@
+{
+  "document_id": "informe_sintetico_20250804195045_12490",
+  "entities": [
+    {
+      "text": "hemiparesia derecha",
+      "type": "PATOLOGIA",
+      "start": 217,
+      "end": 236
+    },
+    {
+      "text": "afasia",
+      "type": "PATOLOGIA",
+      "start": 239,
+      "end": 245
+    },
+    {
+      "text": "ictus isquémico multifocal",
+      "type": "PATOLOGIA",
+      "start": 322,
+      "end": 348
+    },
+    {
+      "text": "hemorragias intracraneales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 573,
+      "end": 599
+    },
+    {
+      "text": "sangrado reciente",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 613,
+      "end": 630
+    },
+    {
+      "text": "áreas hipodensas",
+      "type": "PATOLOGIA",
+      "start": 646,
+      "end": 662
+    },
+    {
+      "text": "territorios corticales frontales izquierdos",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 666,
+      "end": 709
+    },
+    {
+      "text": "temporoparietales derechos",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 712,
+      "end": 738
+    },
+    {
+      "text": "infartos isquémicos agudos",
+      "type": "PATOLOGIA",
+      "start": 756,
+      "end": 782
+    },
+    {
+      "text": "Diferenciación cortico-subcortical alterada",
+      "type": "PATOLOGIA",
+      "start": 784,
+      "end": 827
+    },
+    {
+      "text": "ASPECTS reducido",
+      "type": "PUNTUACION_CLINICA",
+      "start": 851,
+      "end": 867
+    },
+    {
+      "text": "6 en lado izquierdo",
+      "type": "MEDIDA",
+      "start": 869,
+      "end": 888
+    },
+    {
+      "text": "7 en derecho",
+      "type": "MEDIDA",
+      "start": 890,
+      "end": 902
+    },
+    {
+      "text": "edema cerebral significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 930,
+      "end": 958
+    },
+    {
+      "text": "desplazamiento de la línea media",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 962,
+      "end": 994
+    },
+    {
+      "text": "Sistema ventricular de tamaño y morfología normales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 996,
+      "end": 1047
+    },
+    {
+      "text": "Cisternas basales libres",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1049,
+      "end": 1073
+    },
+    {
+      "text": "zonas de prolongación del tiempo de tránsito medio (TTM)",
+      "type": "PATOLOGIA",
+      "start": 1107,
+      "end": 1163
+    },
+    {
+      "text": "aumento del tiempo hasta el pico (TTP)",
+      "type": "PATOLOGIA",
+      "start": 1166,
+      "end": 1204
+    },
+    {
+      "text": "territorios frontales izquierdos",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1208,
+      "end": 1240
+    },
+    {
+      "text": "temporoparietales derechos",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 712,
+      "end": 738
+    },
+    {
+      "text": "regiones parietales bilaterales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1271,
+      "end": 1302
+    },
+    {
+      "text": "reducción del volumen sanguíneo cerebral (CBV)",
+      "type": "PATOLOGIA",
+      "start": 1308,
+      "end": 1354
+    },
+    {
+      "text": "flujo sanguíneo cerebral (CBF)",
+      "type": "PATOLOGIA",
+      "start": 1361,
+      "end": 1391
+    },
+    {
+      "text": "isquemia aguda en múltiples territorios arteriales",
+      "type": "PATOLOGIA",
+      "start": 1408,
+      "end": 1458
+    },
+    {
+      "text": "Oclusión segmentaria",
+      "type": "PATOLOGIA",
+      "start": 1494,
+      "end": 1514
+    },
+    {
+      "text": "porción M2 de la arteria cerebral media izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1521,
+      "end": 1570
+    },
+    {
+      "text": "estenosis severa (>70%)",
+      "type": "PATOLOGIA",
+      "start": 1573,
+      "end": 1596
+    },
+    {
+      "text": "bifurcación de la arteria cerebral media derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1603,
+      "end": 1651
+    },
+    {
+      "text": "estenosis significativa en la arteria cerebral anterior derecha",
+      "type": "PATOLOGIA",
+      "start": 1676,
+      "end": 1739
+    },
+    {
+      "text": "disminución del calibre en segmentos parietales distales del sistema vertebrobasilar",
+      "type": "PATOLOGIA",
+      "start": 1761,
+      "end": 1845
+    },
+    {
+      "text": "aneurismas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1864,
+      "end": 1874
+    },
+    {
+      "text": "malformaciones vasculares",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1878,
+      "end": 1903
+    },
+    {
+      "text": "isquemia aguda multifocal",
+      "type": "PATOLOGIA",
+      "start": 1954,
+      "end": 1979
+    },
+    {
+      "text": "territorios de ambas arterias cerebrales medias",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1983,
+      "end": 2030
+    },
+    {
+      "text": "arteria cerebral anterior derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1706,
+      "end": 1739
+    },
+    {
+      "text": "isquemia multiterritorial",
+      "type": "PATOLOGIA",
+      "start": 2084,
+      "end": 2109
+    },
+    {
+      "text": "oclusión parcial",
+      "type": "PATOLOGIA",
+      "start": 2124,
+      "end": 2140
+    },
+    {
+      "text": "estenosis severas en ramas intracraneales",
+      "type": "PATOLOGIA",
+      "start": 2143,
+      "end": 2184
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2203,
+      "end": 2226
+    }
+  ]
+}

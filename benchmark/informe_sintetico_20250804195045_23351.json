@@ -1,0 +1,77 @@
+{
+  "document_id": "informe_sintetico_20250804195045_23351",
+  "entities": [
+    {
+      "text": "hematoma subdural agudo",
+      "type": "PATOLOGIA",
+      "start": 577,
+      "end": 600
+    },
+    {
+      "text": "12 mm",
+      "type": "MEDIDA",
+      "start": 620,
+      "end": 625
+    },
+    {
+      "text": "6 mm",
+      "type": "MEDIDA",
+      "start": 723,
+      "end": 727
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 553,
+      "end": 560
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 737,
+      "end": 746
+    },
+    {
+      "text": "isquemia extensa",
+      "type": "PATOLOGIA",
+      "start": 1404,
+      "end": 1420
+    },
+    {
+      "text": "sin evidencias de estenosis ni oclusiones",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1497,
+      "end": 1538
+    },
+    {
+      "text": "sin otras hemorragias intracraneales ni lesiones vasculares arteriales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2230,
+      "end": 2300
+    },
+    {
+      "text": "TC Basal + TC Perfusión + AngioTC intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 314,
+      "end": 360
+    },
+    {
+      "text": "TC CRANEAL BASAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 446,
+      "end": 462
+    },
+    {
+      "text": "TC PERFUSIÓN",
+      "type": "TECNICA_IMAGEN",
+      "start": 1097,
+      "end": 1109
+    },
+    {
+      "text": "ANGIO-TC",
+      "type": "TECNICA_IMAGEN",
+      "start": 1423,
+      "end": 1431
+    }
+  ]
+}

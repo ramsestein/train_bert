@@ -1,0 +1,119 @@
+{
+  "document_id": "informe_sintetico_20250804195045_03501",
+  "entities": [
+    {
+      "text": "ictus isquémico",
+      "type": "PATOLOGIA",
+      "start": 245,
+      "end": 260
+    },
+    {
+      "text": "transformación hemorrágica",
+      "type": "PATOLOGIA",
+      "start": 273,
+      "end": 299
+    },
+    {
+      "text": "hiperdensidad lineal y puntiforme",
+      "type": "PATOLOGIA",
+      "start": 555,
+      "end": 588
+    },
+    {
+      "text": "microhemorragias recientes",
+      "type": "PATOLOGIA",
+      "start": 670,
+      "end": 696
+    },
+    {
+      "text": "hematomas grandes",
+      "type": "PATOLOGIA",
+      "start": 751,
+      "end": 768
+    },
+    {
+      "text": "hemorragia intraparenquimatosa extensa",
+      "type": "PATOLOGIA",
+      "start": 772,
+      "end": 810
+    },
+    {
+      "text": "infarto isquémico subagudo",
+      "type": "PATOLOGIA",
+      "start": 922,
+      "end": 948
+    },
+    {
+      "text": "lóbulo parietal izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 628,
+      "end": 653
+    },
+    {
+      "text": "cápsula interna izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 880,
+      "end": 905
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "ARTERIA",
+      "start": 1258,
+      "end": 1290
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 896,
+      "end": 905
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 896,
+      "end": 905
+    },
+    {
+      "text": "subagudo",
+      "type": "TEMPORALIDAD",
+      "start": 940,
+      "end": 948
+    },
+    {
+      "text": "HI1",
+      "type": "PUNTUACION_CLINICA",
+      "start": 730,
+      "end": 733
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 348,
+      "end": 364
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 366,
+      "end": 387
+    },
+    {
+      "text": "Angio-TC extra e intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 390,
+      "end": 419
+    },
+    {
+      "text": "No se aprecian hematomas grandes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 736,
+      "end": 768
+    },
+    {
+      "text": "No se evidencia hemorragia masiva",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2054,
+      "end": 2087
+    }
+  ]
+}

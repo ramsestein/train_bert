@@ -1,0 +1,101 @@
+{
+  "document_id": "informe_sintetico_20250804195045_09354",
+  "entities": [
+    {
+      "text": "isquemia cerebral aguda",
+      "type": "PATOLOGIA",
+      "start": 285,
+      "end": 308
+    },
+    {
+      "text": "infartos isquémicos agudos",
+      "type": "PATOLOGIA",
+      "start": 681,
+      "end": 707
+    },
+    {
+      "text": "ASPECTS 7",
+      "type": "PUNTUACION_CLINICA",
+      "start": 819,
+      "end": 828
+    },
+    {
+      "text": "isquemia aguda multiterritorial",
+      "type": "PATOLOGIA",
+      "start": 1370,
+      "end": 1401
+    },
+    {
+      "text": "infartos establecidos",
+      "type": "PATOLOGIA",
+      "start": 1911,
+      "end": 1932
+    },
+    {
+      "text": "territorios frontoparietal izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 610,
+      "end": 646
+    },
+    {
+      "text": "temporal derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 649,
+      "end": 665
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "ARTERIA",
+      "start": 1639,
+      "end": 1671
+    },
+    {
+      "text": "estenosis suboclusiva en segmento P2 de arteria cerebral posterior derecha",
+      "type": "PATOLOGIA",
+      "start": 1674,
+      "end": 1748
+    },
+    {
+      "text": "arteria cerebral posterior derecha",
+      "type": "ARTERIA",
+      "start": 1714,
+      "end": 1748
+    },
+    {
+      "text": "No se evidencia sangrado intra o extraaxial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 517,
+      "end": 560
+    },
+    {
+      "text": "sin hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2836,
+      "end": 2863
+    },
+    {
+      "text": "sin estenosis hemodinámicas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1572,
+      "end": 1599
+    },
+    {
+      "text": "TC MULTIMODAL CÓDIGO ICTUS",
+      "type": "TECNICA_IMAGEN",
+      "start": 356,
+      "end": 382
+    },
+    {
+      "text": "TC PERFUSIÓN",
+      "type": "TECNICA_IMAGEN",
+      "start": 928,
+      "end": 940
+    },
+    {
+      "text": "ANGIO-TC EXTRA E INTRACRANEAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 1406,
+      "end": 1435
+    }
+  ]
+}

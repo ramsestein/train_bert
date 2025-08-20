@@ -1,0 +1,65 @@
+{
+  "document_id": "informe_sintetico_20250804195045_10608",
+  "entities": [
+    {
+      "text": "hemorragia subaracnoidea focal",
+      "type": "PATOLOGIA",
+      "start": 479,
+      "end": 509
+    },
+    {
+      "text": "hemorragias intraventriculares",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 560,
+      "end": 590
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 647,
+      "end": 657
+    },
+    {
+      "text": "aneurisma sacular de 5 mm",
+      "type": "PATOLOGIA",
+      "start": 961,
+      "end": 986
+    },
+    {
+      "text": "arteria comunicante anterior",
+      "type": "ARTERIA",
+      "start": 993,
+      "end": 1021
+    },
+    {
+      "text": "isquemia cerebral aguda",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1431,
+      "end": 1454
+    },
+    {
+      "text": "hematoma intraparenquimatoso",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1461,
+      "end": 1489
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 264,
+      "end": 280
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 297,
+      "end": 318
+    },
+    {
+      "text": "AngioTC intracraneal urgente",
+      "type": "TECNICA_IMAGEN",
+      "start": 321,
+      "end": 349
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "document_id": "informe_sintetico_20250804195045_05074",
+  "entities": [
+    {
+      "text": "hematoma subdural agudo",
+      "type": "PATOLOGIA",
+      "start": 504,
+      "end": 527
+    },
+    {
+      "text": "región frontotemporal izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 543,
+      "end": 574
+    },
+    {
+      "text": "12 mm",
+      "type": "MEDIDA",
+      "start": 612,
+      "end": 617
+    },
+    {
+      "text": "6 mm",
+      "type": "MEDIDA",
+      "start": 681,
+      "end": 685
+    },
+    {
+      "text": "izquierdo",
+      "type": "LATERALIDAD",
+      "start": 789,
+      "end": 798
+    },
+    {
+      "text": "hemisferio izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1133,
+      "end": 1153
+    },
+    {
+      "text": "sin evidencia de estenosis o trombosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1285,
+      "end": 1323
+    },
+    {
+      "text": "No se observan signos de lesión vascular traumática ni pseudoaneurismas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1325,
+      "end": 1396
+    },
+    {
+      "text": "No evidencia de hemorragia intraparenquimatosa ni lesiones vasculares arteriales visibles en el estudio angio-TC",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1594,
+      "end": 1706
+    }
+  ]
+}

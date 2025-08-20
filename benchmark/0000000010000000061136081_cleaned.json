@@ -1,0 +1,53 @@
+{
+  "document_id": "0000000010000000061136081_cleaned",
+  "entities": [
+    {
+      "text": "No se observa hemorragia aguda intra ni extraaxial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 400,
+      "end": 450
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 499,
+      "end": 509
+    },
+    {
+      "text": "región parietotemporooccipital izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 774,
+      "end": 814
+    },
+    {
+      "text": "región frontal izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 830,
+      "end": 854
+    },
+    {
+      "text": "ACAs, ACMs y ACPs",
+      "type": "ARTERIA",
+      "start": 1453,
+      "end": 1470
+    },
+    {
+      "text": "ACP derecha fetal",
+      "type": "ARTERIA",
+      "start": 1473,
+      "end": 1490
+    },
+    {
+      "text": "sin ateromatosis ni signos de estenosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1036,
+      "end": 1075
+    },
+    {
+      "text": "sin hallazgos patológicos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1849,
+      "end": 1874
+    }
+  ]
+}

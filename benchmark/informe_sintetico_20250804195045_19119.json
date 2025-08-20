@@ -1,0 +1,59 @@
+{
+  "document_id": "informe_sintetico_20250804195045_19119",
+  "entities": [
+    {
+      "text": "lesión isquémica",
+      "type": "PATOLOGIA",
+      "start": 488,
+      "end": 504
+    },
+    {
+      "text": "edema cerebral",
+      "type": "PATOLOGIA",
+      "start": 554,
+      "end": 568
+    },
+    {
+      "text": "signos de sangrado intraparenquimatoso",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 691,
+      "end": 729
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 760,
+      "end": 770
+    },
+    {
+      "text": "arterias cerebrales anterior",
+      "type": "ARTERIA",
+      "start": 875,
+      "end": 903
+    },
+    {
+      "text": "cambios crónicos leves compatibles con arteriosclerosis incipiente",
+      "type": "PATOLOGIA",
+      "start": 1212,
+      "end": 1278
+    },
+    {
+      "text": "patología aguda isquémica",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1366,
+      "end": 1391
+    },
+    {
+      "text": "Perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 1016,
+      "end": 1034
+    },
+    {
+      "text": "TC craneal urgente",
+      "type": "TECNICA_IMAGEN",
+      "start": 269,
+      "end": 287
+    }
+  ]
+}

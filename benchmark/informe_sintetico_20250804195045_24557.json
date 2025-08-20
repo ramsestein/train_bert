@@ -1,0 +1,107 @@
+{
+  "document_id": "informe_sintetico_20250804195045_24557",
+  "entities": [
+    {
+      "text": "hiperdensidad",
+      "type": "PATOLOGIA",
+      "start": 490,
+      "end": 503
+    },
+    {
+      "text": "trombo",
+      "type": "PATOLOGIA",
+      "start": 575,
+      "end": 581
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 715,
+      "end": 729
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 758,
+      "end": 781
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 510,
+      "end": 542
+    },
+    {
+      "text": "ACM izquierda",
+      "type": "ARTERIA",
+      "start": 670,
+      "end": 683
+    },
+    {
+      "text": "ASPECTS 6",
+      "type": "PUNTUACION_CLINICA",
+      "start": 689,
+      "end": 698
+    },
+    {
+      "text": "tiempo de tránsito medio (TTP)",
+      "type": "MEDIDA",
+      "start": 1026,
+      "end": 1056
+    },
+    {
+      "text": "flujo cerebral (CBF)",
+      "type": "MEDIDA",
+      "start": 1139,
+      "end": 1159
+    },
+    {
+      "text": "volumen cerebral (CBV)",
+      "type": "MEDIDA",
+      "start": 1166,
+      "end": 1188
+    },
+    {
+      "text": "zona de penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1253,
+      "end": 1279
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "ARTERIA",
+      "start": 510,
+      "end": 542
+    },
+    {
+      "text": "segmento M1",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 549,
+      "end": 560
+    },
+    {
+      "text": "sangrado intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1936,
+      "end": 1957
+    },
+    {
+      "text": "Oclusión aguda de arteria cerebral media izquierda segmento M1",
+      "type": "PATOLOGIA",
+      "start": 2255,
+      "end": 2317
+    },
+    {
+      "text": "infarto moderado",
+      "type": "PATOLOGIA",
+      "start": 2322,
+      "end": 2338
+    },
+    {
+      "text": "zona de penumbra",
+      "type": "PATOLOGIA",
+      "start": 1253,
+      "end": 1269
+    }
+  ]
+}

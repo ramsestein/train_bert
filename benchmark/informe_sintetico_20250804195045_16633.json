@@ -1,0 +1,101 @@
+{
+  "document_id": "informe_sintetico_20250804195045_16633",
+  "entities": [
+    {
+      "text": "infarto agudo",
+      "type": "PATOLOGIA",
+      "start": 587,
+      "end": 600
+    },
+    {
+      "text": "arteria cerebral media (ACM) izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 530,
+      "end": 568
+    },
+    {
+      "text": "ACM",
+      "type": "ARTERIA",
+      "start": 554,
+      "end": 557
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 559,
+      "end": 568
+    },
+    {
+      "text": "microhemorragias",
+      "type": "PATOLOGIA",
+      "start": 683,
+      "end": 699
+    },
+    {
+      "text": "HI1",
+      "type": "PATOLOGIA",
+      "start": 746,
+      "end": 749
+    },
+    {
+      "text": "No se observan signos de sangrado extraaxial ni edema masivo con efecto de masa significativo.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 751,
+      "end": 845
+    },
+    {
+      "text": "disminución leve a moderada del flujo cerebral (CBF)",
+      "type": "PATOLOGIA",
+      "start": 1000,
+      "end": 1052
+    },
+    {
+      "text": "tiempo de tránsito prolongado (TTP)",
+      "type": "PATOLOGIA",
+      "start": 1077,
+      "end": 1112
+    },
+    {
+      "text": "volumen cerebral (CBV) relativamente conservado",
+      "type": "PATOLOGIA",
+      "start": 1115,
+      "end": 1162
+    },
+    {
+      "text": "penumbra isquémica residual",
+      "type": "PATOLOGIA",
+      "start": 1189,
+      "end": 1216
+    },
+    {
+      "text": "sin evidencia de oclusión completa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1313,
+      "end": 1347
+    },
+    {
+      "text": "sin signos de oclusión franca",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1814,
+      "end": 1843
+    },
+    {
+      "text": "transformación hemorrágica en fase inicial tipo HI1",
+      "type": "PATOLOGIA",
+      "start": 1581,
+      "end": 1632
+    },
+    {
+      "text": "No se observa hematoma hemorrágico parenquimatoso significativo ni complicaciones asociadas.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1634,
+      "end": 1726
+    },
+    {
+      "text": "Arterias intracraneales permeables",
+      "type": "PATOLOGIA",
+      "start": 1779,
+      "end": 1813
+    }
+  ]
+}

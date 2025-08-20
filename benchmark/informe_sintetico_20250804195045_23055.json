@@ -1,0 +1,125 @@
+{
+  "document_id": "informe_sintetico_20250804195045_23055",
+  "entities": [
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 245,
+      "end": 259
+    },
+    {
+      "text": "territorio vertebrobasilar",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 263,
+      "end": 289
+    },
+    {
+      "text": "ASPECTS",
+      "type": "PUNTUACION_CLINICA",
+      "start": 595,
+      "end": 602
+    },
+    {
+      "text": "infarto",
+      "type": "PATOLOGIA",
+      "start": 662,
+      "end": 669
+    },
+    {
+      "text": "mesencéfalo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 909,
+      "end": 920
+    },
+    {
+      "text": "puente",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 922,
+      "end": 928
+    },
+    {
+      "text": "cerebelo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 931,
+      "end": 939
+    },
+    {
+      "text": "derecho",
+      "type": "LATERALIDAD",
+      "start": 980,
+      "end": 987
+    },
+    {
+      "text": "arteria basilar",
+      "type": "ARTERIA",
+      "start": 1259,
+      "end": 1274
+    },
+    {
+      "text": "Oclusión completa",
+      "type": "PATOLOGIA",
+      "start": 1213,
+      "end": 1230
+    },
+    {
+      "text": "segmento proximal",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1235,
+      "end": 1252
+    },
+    {
+      "text": "estenosis significativa",
+      "type": "PATOLOGIA",
+      "start": 1324,
+      "end": 1347
+    },
+    {
+      "text": "PICA",
+      "type": "ARTERIA",
+      "start": 1418,
+      "end": 1422
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1844,
+      "end": 1867
+    },
+    {
+      "text": "edema cerebral significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1871,
+      "end": 1899
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1844,
+      "end": 1867
+    },
+    {
+      "text": "edema cerebral significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1871,
+      "end": 1899
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 345,
+      "end": 361
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 363,
+      "end": 384
+    },
+    {
+      "text": "Angio-TC arterial intra y extracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 388,
+      "end": 426
+    }
+  ]
+}

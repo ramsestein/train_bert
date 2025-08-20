@@ -1,0 +1,53 @@
+{
+  "document_id": "informe_sintetico_20250804195045_02809",
+  "entities": [
+    {
+      "text": "infarto lacunar agudo",
+      "type": "PATOLOGIA",
+      "start": 586,
+      "end": 607
+    },
+    {
+      "text": "núcleo lenticular izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 542,
+      "end": 569
+    },
+    {
+      "text": "6 mm",
+      "type": "MEDIDA",
+      "start": 508,
+      "end": 512
+    },
+    {
+      "text": "agudo",
+      "type": "TEMPORALIDAD",
+      "start": 602,
+      "end": 607
+    },
+    {
+      "text": "ASPECTS 9",
+      "type": "PUNTUACION_CLINICA",
+      "start": 746,
+      "end": 755
+    },
+    {
+      "text": "isquemia focal de pequeño tamaño",
+      "type": "PATOLOGIA",
+      "start": 1142,
+      "end": 1174
+    },
+    {
+      "text": "sin estenosis ni oclusiones significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1827,
+      "end": 1869
+    },
+    {
+      "text": "sin evidencia de hemorragia ni oclusión de grandes vasos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1643,
+      "end": 1699
+    }
+  ]
+}

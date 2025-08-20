@@ -1,0 +1,59 @@
+{
+  "document_id": "informe_sintetico_20250804195045_16676",
+  "entities": [
+    {
+      "text": "infarto lacunar agudo",
+      "type": "PATOLOGIA",
+      "start": 816,
+      "end": 837
+    },
+    {
+      "text": "cápsula interna derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 666,
+      "end": 689
+    },
+    {
+      "text": "8 mm",
+      "type": "MEDIDA",
+      "start": 613,
+      "end": 617
+    },
+    {
+      "text": "agudo",
+      "type": "TEMPORALIDAD",
+      "start": 832,
+      "end": 837
+    },
+    {
+      "text": "No se identifica hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 488,
+      "end": 528
+    },
+    {
+      "text": "No desplazamientos de línea media ni edema circundante significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 839,
+      "end": 907
+    },
+    {
+      "text": "Sistema carotídeo extra e intracraneal permeable sin estenosis significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1287,
+      "end": 1364
+    },
+    {
+      "text": "Arterias cerebrales principales (ACAs, ACMs, ACPs) permeables sin evidencia de oclusión",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1366,
+      "end": 1453
+    },
+    {
+      "text": "Leve ateromatosis calcificada en bifurcación carotídea bilateral sin estenosis significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1496,
+      "end": 1588
+    }
+  ]
+}

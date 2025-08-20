@@ -1,0 +1,65 @@
+{
+  "document_id": "informe_sintetico_20250804195045_11570",
+  "entities": [
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 245,
+      "end": 259
+    },
+    {
+      "text": "arteria cerebral anterior",
+      "type": "ARTERIA",
+      "start": 277,
+      "end": 302
+    },
+    {
+      "text": "derecho",
+      "type": "LATERALIDAD",
+      "start": 206,
+      "end": 213
+    },
+    {
+      "text": "izquierdo",
+      "type": "LATERALIDAD",
+      "start": 728,
+      "end": 737
+    },
+    {
+      "text": "sutil",
+      "type": "MEDIDA",
+      "start": 640,
+      "end": 645
+    },
+    {
+      "text": "precoz",
+      "type": "TEMPORALIDAD",
+      "start": 771,
+      "end": 777
+    },
+    {
+      "text": "prolongación del tiempo medio de tránsito",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1113,
+      "end": 1154
+    },
+    {
+      "text": "disminución del volumen cerebral de sangre",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1162,
+      "end": 1204
+    },
+    {
+      "text": "disminución del flujo sanguíneo cerebral",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1213,
+      "end": 1253
+    },
+    {
+      "text": "oclusión proximal",
+      "type": "PATOLOGIA",
+      "start": 1788,
+      "end": 1805
+    }
+  ]
+}

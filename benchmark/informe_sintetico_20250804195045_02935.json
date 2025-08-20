@@ -1,0 +1,95 @@
+{
+  "document_id": "informe_sintetico_20250804195045_02935",
+  "entities": [
+    {
+      "text": "isquemia cerebral aguda multiterritorial",
+      "type": "PATOLOGIA",
+      "start": 244,
+      "end": 284
+    },
+    {
+      "text": "isquemia reciente",
+      "type": "PATOLOGIA",
+      "start": 788,
+      "end": 805
+    },
+    {
+      "text": "hemorragia intra o extraaxial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 823,
+      "end": 852
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 1331,
+      "end": 1345
+    },
+    {
+      "text": "penumbra",
+      "type": "PATOLOGIA",
+      "start": 509,
+      "end": 517
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "ARTERIA",
+      "start": 703,
+      "end": 733
+    },
+    {
+      "text": "arteria cerebral posterior izquierda",
+      "type": "ARTERIA",
+      "start": 1611,
+      "end": 1647
+    },
+    {
+      "text": "arteria vertebral izquierda",
+      "type": "ARTERIA",
+      "start": 1795,
+      "end": 1822
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 726,
+      "end": 733
+    },
+    {
+      "text": "izquierdo",
+      "type": "LATERALIDAD",
+      "start": 763,
+      "end": 772
+    },
+    {
+      "text": "extensa",
+      "type": "MEDIDA",
+      "start": 2095,
+      "end": 2102
+    },
+    {
+      "text": "sin evidencia de hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2133,
+      "end": 2173
+    },
+    {
+      "text": "TC Basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 405,
+      "end": 413
+    },
+    {
+      "text": "TC Perfusión",
+      "type": "TECNICA_IMAGEN",
+      "start": 441,
+      "end": 453
+    },
+    {
+      "text": "AngioTC extra e intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 519,
+      "end": 547
+    }
+  ]
+}

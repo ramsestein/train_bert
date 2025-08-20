@@ -1,0 +1,125 @@
+{
+  "document_id": "informe_sintetico_20250804195045_23688",
+  "entities": [
+    {
+      "text": "hemiparesia derecha",
+      "type": "PATOLOGIA",
+      "start": 199,
+      "end": 218
+    },
+    {
+      "text": "disartria",
+      "type": "PATOLOGIA",
+      "start": 228,
+      "end": 237
+    },
+    {
+      "text": "infarto isquémico",
+      "type": "PATOLOGIA",
+      "start": 627,
+      "end": 644
+    },
+    {
+      "text": "aguda-subaguda",
+      "type": "TEMPORALIDAD",
+      "start": 653,
+      "end": 667
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 696,
+      "end": 719
+    },
+    {
+      "text": "edema masivo asociado",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 723,
+      "end": 744
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "ARTERIA",
+      "start": 578,
+      "end": 610
+    },
+    {
+      "text": "infarto isquémico agudo",
+      "type": "PATOLOGIA",
+      "start": 1692,
+      "end": 1715
+    },
+    {
+      "text": "arteria carótida interna cervical izquierda",
+      "type": "ARTERIA",
+      "start": 1213,
+      "end": 1256
+    },
+    {
+      "text": "disección arterial",
+      "type": "PATOLOGIA",
+      "start": 425,
+      "end": 443
+    },
+    {
+      "text": "estenosis de luz verdadera",
+      "type": "PATOLOGIA",
+      "start": 1360,
+      "end": 1386
+    },
+    {
+      "text": "trombosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1520,
+      "end": 1529
+    },
+    {
+      "text": "aneurismas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1533,
+      "end": 1543
+    },
+    {
+      "text": "territorio de la arteria cerebral media ipsilateral",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1722,
+      "end": 1773
+    },
+    {
+      "text": "disección arterial de la carótida interna izquierda",
+      "type": "PATOLOGIA",
+      "start": 1602,
+      "end": 1653
+    },
+    {
+      "text": "infarto isquémico asociado",
+      "type": "PATOLOGIA",
+      "start": 2049,
+      "end": 2075
+    },
+    {
+      "text": "territorio de ACM izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 2079,
+      "end": 2106
+    },
+    {
+      "text": "TC craneal simple",
+      "type": "TECNICA_IMAGEN",
+      "start": 310,
+      "end": 327
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 329,
+      "end": 350
+    },
+    {
+      "text": "AngioTC arterial intracraneal y extracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 1101,
+      "end": 1145
+    }
+  ]
+}

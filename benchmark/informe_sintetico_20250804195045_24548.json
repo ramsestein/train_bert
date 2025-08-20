@@ -1,0 +1,83 @@
+{
+  "document_id": "informe_sintetico_20250804195045_24548",
+  "entities": [
+    {
+      "text": "hemorragia intraventricular primaria",
+      "type": "PATOLOGIA",
+      "start": 475,
+      "end": 511
+    },
+    {
+      "text": "ventrículos laterales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 547,
+      "end": 568
+    },
+    {
+      "text": "tercer ventrículo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 570,
+      "end": 587
+    },
+    {
+      "text": "acueducto de Silvio",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 590,
+      "end": 609
+    },
+    {
+      "text": "sangre",
+      "type": "PATOLOGIA",
+      "start": 1712,
+      "end": 1718
+    },
+    {
+      "text": "hidrocefalia obstructiva temprana",
+      "type": "PATOLOGIA",
+      "start": 1021,
+      "end": 1054
+    },
+    {
+      "text": "Arterias principales intracraneales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1321,
+      "end": 1356
+    },
+    {
+      "text": "sin estenosis, oclusiones ni malformaciones vasculares evidentes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1369,
+      "end": 1433
+    },
+    {
+      "text": "sin hemorragia parenquimatosa ni subaracnoidea asociada",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1792,
+      "end": 1847
+    },
+    {
+      "text": "sin evidencia de lesiones isquémicas ni alteraciones vasculares significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1962,
+      "end": 2040
+    },
+    {
+      "text": "TC craneal basal urgente",
+      "type": "TECNICA_IMAGEN",
+      "start": 305,
+      "end": 329
+    },
+    {
+      "text": "estudio de perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 335,
+      "end": 364
+    },
+    {
+      "text": "angio-TC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 367,
+      "end": 397
+    }
+  ]
+}

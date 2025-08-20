@@ -1,0 +1,215 @@
+{
+  "document_id": "informe_sintetico_20250804195045_06191",
+  "entities": [
+    {
+      "text": "accidente cerebrovascular isquémico agudo",
+      "type": "PATOLOGIA",
+      "start": 215,
+      "end": 256
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "ARTERIA",
+      "start": 277,
+      "end": 307
+    },
+    {
+      "text": "hemiparesia izquierda",
+      "type": "PATOLOGIA",
+      "start": 408,
+      "end": 429
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 450,
+      "end": 466
+    },
+    {
+      "text": "infarto subagudo",
+      "type": "PATOLOGIA",
+      "start": 696,
+      "end": 712
+    },
+    {
+      "text": "infiltración hemática heterogénea",
+      "type": "PATOLOGIA",
+      "start": 728,
+      "end": 761
+    },
+    {
+      "text": "15-20 mm",
+      "type": "MEDIDA",
+      "start": 787,
+      "end": 795
+    },
+    {
+      "text": "núcleo lenticular",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 850,
+      "end": 867
+    },
+    {
+      "text": "cápsula interna derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 870,
+      "end": 893
+    },
+    {
+      "text": "transformación hemorrágica tipo PH2",
+      "type": "PATOLOGIA",
+      "start": 910,
+      "end": 945
+    },
+    {
+      "text": "efecto de masa",
+      "type": "PATOLOGIA",
+      "start": 988,
+      "end": 1002
+    },
+    {
+      "text": "desplazamiento de la línea media hacia la izquierda",
+      "type": "PATOLOGIA",
+      "start": 1007,
+      "end": 1058
+    },
+    {
+      "text": "8 mm",
+      "type": "MEDIDA",
+      "start": 1078,
+      "end": 1082
+    },
+    {
+      "text": "obliteración de los surcos corticales en la convexidad derecha",
+      "type": "PATOLOGIA",
+      "start": 1084,
+      "end": 1146
+    },
+    {
+      "text": "hemorragias subaracnoideas ni extraaxiales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1222,
+      "end": 1264
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 483,
+      "end": 504
+    },
+    {
+      "text": "hipoperfusión en región perilesional",
+      "type": "PATOLOGIA",
+      "start": 1306,
+      "end": 1342
+    },
+    {
+      "text": "disminución del flujo cerebral (CBF)",
+      "type": "PATOLOGIA",
+      "start": 1347,
+      "end": 1383
+    },
+    {
+      "text": "volumen cerebral (CBV)",
+      "type": "PATOLOGIA",
+      "start": 1389,
+      "end": 1411
+    },
+    {
+      "text": "infarto establecido",
+      "type": "PATOLOGIA",
+      "start": 1427,
+      "end": 1446
+    },
+    {
+      "text": "zonas de penumbra isquémica viable",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1452,
+      "end": 1486
+    },
+    {
+      "text": "Angio-TC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 1490,
+      "end": 1520
+    },
+    {
+      "text": "oclusión parcial del segmento proximal de la arteria cerebral media derecha",
+      "type": "PATOLOGIA",
+      "start": 1529,
+      "end": 1604
+    },
+    {
+      "text": "disminución del calibre arterial",
+      "type": "PATOLOGIA",
+      "start": 1610,
+      "end": 1642
+    },
+    {
+      "text": "tortuosidad variable",
+      "type": "PATOLOGIA",
+      "start": 1645,
+      "end": 1665
+    },
+    {
+      "text": "aneurismas ni malformaciones vasculares",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1685,
+      "end": 1724
+    },
+    {
+      "text": "Sistema arterial contralateral sin estenosis ni placas ateromatosas significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1726,
+      "end": 1808
+    },
+    {
+      "text": "transformación hemorrágica tipo PH2 en infarto en territorio de arteria cerebral media derecha",
+      "type": "PATOLOGIA",
+      "start": 1843,
+      "end": 1937
+    },
+    {
+      "text": "efecto de masa significativo",
+      "type": "PATOLOGIA",
+      "start": 1943,
+      "end": 1971
+    },
+    {
+      "text": "desviación de línea media",
+      "type": "PATOLOGIA",
+      "start": 1974,
+      "end": 1999
+    },
+    {
+      "text": "hallazgos adicionales vasculares relevantes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2131,
+      "end": 2174
+    },
+    {
+      "text": "TC CRANEAL URGENTE + PERFUSIÓN + ANGIO-TC",
+      "type": "TECNICA_IMAGEN",
+      "start": 2393,
+      "end": 2434
+    },
+    {
+      "text": "Hemorragia intracerebral parenquimatosa extensa con transformación hemorrágica PH2 en infarto cerebral derecho",
+      "type": "PATOLOGIA",
+      "start": 2477,
+      "end": 2587
+    },
+    {
+      "text": "efecto de masa moderado a severo",
+      "type": "PATOLOGIA",
+      "start": 2589,
+      "end": 2621
+    },
+    {
+      "text": "oclusión parcial de ACM derecha",
+      "type": "PATOLOGIA",
+      "start": 2788,
+      "end": 2819
+    }
+  ]
+}

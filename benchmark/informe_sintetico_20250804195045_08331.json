@@ -1,0 +1,59 @@
+{
+  "document_id": "informe_sintetico_20250804195045_08331",
+  "entities": [
+    {
+      "text": "infarto lacunar agudo",
+      "type": "PATOLOGIA",
+      "start": 234,
+      "end": 255
+    },
+    {
+      "text": "cápsula interna derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 580,
+      "end": 603
+    },
+    {
+      "text": "8 mm",
+      "type": "MEDIDA",
+      "start": 565,
+      "end": 569
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 596,
+      "end": 603
+    },
+    {
+      "text": "agudo",
+      "type": "TEMPORALIDAD",
+      "start": 250,
+      "end": 255
+    },
+    {
+      "text": "No se identifican hemorragias intra ni extraaxiales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 444,
+      "end": 495
+    },
+    {
+      "text": "sin signos de hemorragia ni edema asociado",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1502,
+      "end": 1544
+    },
+    {
+      "text": "sin estenosis ni lesiones obstructivas significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1595,
+      "end": 1648
+    },
+    {
+      "text": "TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANGIOTC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 1961,
+      "end": 2028
+    }
+  ]
+}

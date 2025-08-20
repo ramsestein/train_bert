@@ -1,0 +1,137 @@
+{
+  "document_id": "informe_sintetico_20250804195045_19250",
+  "entities": [
+    {
+      "text": "infarto cerebral de reciente aparición",
+      "type": "PATOLOGIA",
+      "start": 179,
+      "end": 217
+    },
+    {
+      "text": "infarto isquémico reciente",
+      "type": "PATOLOGIA",
+      "start": 486,
+      "end": 512
+    },
+    {
+      "text": "focos hemorrágicos puntiformes",
+      "type": "PATOLOGIA",
+      "start": 530,
+      "end": 560
+    },
+    {
+      "text": "transformación hemorrágica tipo PH1",
+      "type": "PATOLOGIA",
+      "start": 598,
+      "end": 633
+    },
+    {
+      "text": "hematomas expansivos",
+      "type": "PATOLOGIA",
+      "start": 652,
+      "end": 672
+    },
+    {
+      "text": "sangrado subaracnoideo asociado",
+      "type": "PATOLOGIA",
+      "start": 676,
+      "end": 707
+    },
+    {
+      "text": "edema perilesional",
+      "type": "PATOLOGIA",
+      "start": 712,
+      "end": 730
+    },
+    {
+      "text": "efecto de masa",
+      "type": "PATOLOGIA",
+      "start": 744,
+      "end": 758
+    },
+    {
+      "text": "ventrículos laterales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 815,
+      "end": 836
+    },
+    {
+      "text": "disminución del flujo cerebral (CBF)",
+      "type": "PATOLOGIA",
+      "start": 922,
+      "end": 958
+    },
+    {
+      "text": "aumento moderado del tiempo hasta el máximo (TMax)",
+      "type": "PATOLOGIA",
+      "start": 1013,
+      "end": 1063
+    },
+    {
+      "text": "arterias cerebrales media y anterior izquierdas",
+      "type": "ARTERIA",
+      "start": 1160,
+      "end": 1207
+    },
+    {
+      "text": "sin estenosis ni oclusiones visibles",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1209,
+      "end": 1245
+    },
+    {
+      "text": "infarto isquémico agudo",
+      "type": "PATOLOGIA",
+      "start": 1304,
+      "end": 1327
+    },
+    {
+      "text": "territorio lenticulostriado izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1332,
+      "end": 1369
+    },
+    {
+      "text": "hematíes puntiformes",
+      "type": "PATOLOGIA",
+      "start": 1375,
+      "end": 1395
+    },
+    {
+      "text": "sin efecto de masa significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1396,
+      "end": 1428
+    },
+    {
+      "text": "sin evidencia de estenosis o trombosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1465,
+      "end": 1503
+    },
+    {
+      "text": "TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANG IOTC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 72,
+      "end": 140
+    },
+    {
+      "text": "TC craneal basal urgente",
+      "type": "TECNICA_IMAGEN",
+      "start": 273,
+      "end": 297
+    },
+    {
+      "text": "perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 316,
+      "end": 334
+    },
+    {
+      "text": "angiografía TC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 337,
+      "end": 373
+    }
+  ]
+}

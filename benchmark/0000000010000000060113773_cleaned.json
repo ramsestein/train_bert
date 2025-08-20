@@ -1,0 +1,71 @@
+{
+  "document_id": "0000000010000000060113773_cleaned",
+  "entities": [
+    {
+      "text": "gran masa tumoral",
+      "type": "PATOLOGIA",
+      "start": 499,
+      "end": 516
+    },
+    {
+      "text": "convexidad izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 576,
+      "end": 596
+    },
+    {
+      "text": "calota",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 619,
+      "end": 625
+    },
+    {
+      "text": "5 cm",
+      "type": "MEDIDA",
+      "start": 745,
+      "end": 749
+    },
+    {
+      "text": "8 mm",
+      "type": "MEDIDA",
+      "start": 931,
+      "end": 935
+    },
+    {
+      "text": "sin estenosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1663,
+      "end": 1676
+    },
+    {
+      "text": "sin evidencia de oclusión de gran vaso",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1897,
+      "end": 1935
+    },
+    {
+      "text": "ACP derecha de origen fetal",
+      "type": "ARTERIA",
+      "start": 1789,
+      "end": 1816
+    },
+    {
+      "text": "ACAs, ACMs y ACPs",
+      "type": "ARTERIA",
+      "start": 1877,
+      "end": 1894
+    },
+    {
+      "text": "sin cambios",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2305,
+      "end": 2316
+    },
+    {
+      "text": "sin ateromatosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1447,
+      "end": 1463
+    }
+  ]
+}

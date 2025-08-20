@@ -1,0 +1,65 @@
+{
+  "document_id": "informe_sintetico_20250804195045_05499",
+  "entities": [
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 234,
+      "end": 248
+    },
+    {
+      "text": "arteria cerebral posterior izquierda",
+      "type": "ARTERIA",
+      "start": 266,
+      "end": 302
+    },
+    {
+      "text": "hemicuerpo derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 202,
+      "end": 220
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 293,
+      "end": 302
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 974,
+      "end": 984
+    },
+    {
+      "text": "oclusión completa en segmento P2 de la arteria cerebral posterior izquierda",
+      "type": "PATOLOGIA",
+      "start": 1479,
+      "end": 1554
+    },
+    {
+      "text": "segmento P2",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1500,
+      "end": 1511
+    },
+    {
+      "text": "sin alteraciones evidentes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1795,
+      "end": 1821
+    },
+    {
+      "text": "penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1380,
+      "end": 1398
+    },
+    {
+      "text": "segmento P2 de arteria cerebral posterior izquierda",
+      "type": "ARTERIA",
+      "start": 2116,
+      "end": 2167
+    }
+  ]
+}

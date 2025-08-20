@@ -1,0 +1,65 @@
+{
+  "document_id": "informe_sintetico_20250804195045_07106",
+  "entities": [
+    {
+      "text": "infarto lacunar agudo",
+      "type": "PATOLOGIA",
+      "start": 572,
+      "end": 593
+    },
+    {
+      "text": "núcleo lenticular izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 492,
+      "end": 519
+    },
+    {
+      "text": "8 mm",
+      "type": "MEDIDA",
+      "start": 458,
+      "end": 462
+    },
+    {
+      "text": "agudo",
+      "type": "TEMPORALIDAD",
+      "start": 588,
+      "end": 593
+    },
+    {
+      "text": "isquemia",
+      "type": "PATOLOGIA",
+      "start": 942,
+      "end": 950
+    },
+    {
+      "text": "sin estenosis ni oclusiones visibles",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1096,
+      "end": 1132
+    },
+    {
+      "text": "sin hallazgos relevantes de estenosis oclusiva",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1425,
+      "end": 1471
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 248,
+      "end": 264
+    },
+    {
+      "text": "TC PERFUSIÓN",
+      "type": "TECNICA_IMAGEN",
+      "start": 719,
+      "end": 731
+    },
+    {
+      "text": "ANGIO-TC EXTRA E INTRACRANEAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 1036,
+      "end": 1065
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "document_id": "informe_sintetico_20250804195045_03341",
+  "entities": [
+    {
+      "text": "hemorrágicos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 450,
+      "end": 462
+    },
+    {
+      "text": "colecciones extraaxiales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 466,
+      "end": 490
+    },
+    {
+      "text": "infarto",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 566,
+      "end": 573
+    },
+    {
+      "text": "edema",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 577,
+      "end": 582
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 637,
+      "end": 647
+    },
+    {
+      "text": "microangiopatía",
+      "type": "PATOLOGIA",
+      "start": 766,
+      "end": 781
+    },
+    {
+      "text": "sin repercusión clínica aparente",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 828,
+      "end": 860
+    },
+    {
+      "text": "sin alteraciones significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1000,
+      "end": 1031
+    },
+    {
+      "text": "mismatch",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1046,
+      "end": 1054
+    },
+    {
+      "text": "hipoperfusión",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1066,
+      "end": 1079
+    },
+    {
+      "text": "sin signos de estenosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1145,
+      "end": 1168
+    },
+    {
+      "text": "sin irregularidades en la luz arterial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1273,
+      "end": 1311
+    },
+    {
+      "text": "sin evidencias de vasculopatía",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1371,
+      "end": 1401
+    },
+    {
+      "text": "sin hallazgos agudos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1451,
+      "end": 1471
+    },
+    {
+      "text": "cerebrales principales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1218,
+      "end": 1240
+    },
+    {
+      "text": "sustancia blanca",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 785,
+      "end": 801
+    },
+    {
+      "text": "sustancia blanca",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 785,
+      "end": 801
+    },
+    {
+      "text": "TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANG IOTC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 72,
+      "end": 140
+    },
+    {
+      "text": "TC CRANEAL BASAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 408,
+      "end": 424
+    },
+    {
+      "text": "TC PERFUSIÓN",
+      "type": "TECNICA_IMAGEN",
+      "start": 905,
+      "end": 917
+    },
+    {
+      "text": "ANGIO-TC EXTRA E INTRACRANEAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 1082,
+      "end": 1111
+    }
+  ]
+}

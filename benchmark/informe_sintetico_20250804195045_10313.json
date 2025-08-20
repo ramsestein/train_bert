@@ -1,0 +1,137 @@
+{
+  "document_id": "informe_sintetico_20250804195045_10313",
+  "entities": [
+    {
+      "text": "hemiparesia derecha",
+      "type": "PATOLOGIA",
+      "start": 217,
+      "end": 236
+    },
+    {
+      "text": "afasia",
+      "type": "PATOLOGIA",
+      "start": 239,
+      "end": 245
+    },
+    {
+      "text": "ictus isquémico agudo",
+      "type": "PATOLOGIA",
+      "start": 259,
+      "end": 280
+    },
+    {
+      "text": "extensa área hipodensa cortico-subcortical",
+      "type": "PATOLOGIA",
+      "start": 473,
+      "end": 515
+    },
+    {
+      "text": "infarto isquémico agudo",
+      "type": "PATOLOGIA",
+      "start": 585,
+      "end": 608
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "ARTERIA",
+      "start": 536,
+      "end": 568
+    },
+    {
+      "text": "4 mm",
+      "type": "MEDIDA",
+      "start": 804,
+      "end": 808
+    },
+    {
+      "text": "hemisferio izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1097,
+      "end": 1117
+    },
+    {
+      "text": "ACM",
+      "type": "ARTERIA",
+      "start": 1152,
+      "end": 1155
+    },
+    {
+      "text": "CBF",
+      "type": "MEDIDA",
+      "start": 1198,
+      "end": 1201
+    },
+    {
+      "text": "CBV",
+      "type": "MEDIDA",
+      "start": 1223,
+      "end": 1226
+    },
+    {
+      "text": "penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1251,
+      "end": 1269
+    },
+    {
+      "text": "Oclusión completa de la arteria carótida interna izquierda",
+      "type": "PATOLOGIA",
+      "start": 1329,
+      "end": 1387
+    },
+    {
+      "text": "arteria carótida interna izquierda",
+      "type": "ARTERIA",
+      "start": 1353,
+      "end": 1387
+    },
+    {
+      "text": "sin estenosis significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1573,
+      "end": 1601
+    },
+    {
+      "text": "No hay evidencia de hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2047,
+      "end": 2090
+    },
+    {
+      "text": "desviación leve de la línea media",
+      "type": "PATOLOGIA",
+      "start": 1827,
+      "end": 1860
+    },
+    {
+      "text": "TC craneal basal urgente",
+      "type": "TECNICA_IMAGEN",
+      "start": 301,
+      "end": 325
+    },
+    {
+      "text": "estudios de perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 328,
+      "end": 358
+    },
+    {
+      "text": "Angio-TC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 361,
+      "end": 391
+    },
+    {
+      "text": "TC PERFUSIÓN",
+      "type": "TECNICA_IMAGEN",
+      "start": 981,
+      "end": 993
+    },
+    {
+      "text": "ANGIO-TC EXTRA E INTRACRANEAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 1296,
+      "end": 1325
+    }
+  ]
+}

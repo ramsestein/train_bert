@@ -1,0 +1,221 @@
+{
+  "document_id": "informe_sintetico_20250804195045_19018",
+  "entities": [
+    {
+      "text": "ictus",
+      "type": "PATOLOGIA",
+      "start": 258,
+      "end": 263
+    },
+    {
+      "text": "arteria cerebral anterior izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 281,
+      "end": 316
+    },
+    {
+      "text": "hipodensidad",
+      "type": "PATOLOGIA",
+      "start": 498,
+      "end": 510
+    },
+    {
+      "text": "corteza frontal parasagital izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 517,
+      "end": 554
+    },
+    {
+      "text": "cuerpo calloso",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 584,
+      "end": 598
+    },
+    {
+      "text": "edema citotóxico inicial",
+      "type": "PATOLOGIA",
+      "start": 615,
+      "end": 639
+    },
+    {
+      "text": "hemorragia intra ni extraaxial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 655,
+      "end": 685
+    },
+    {
+      "text": "diferenciación corticoesubcortical",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 690,
+      "end": 724
+    },
+    {
+      "text": "desplazamiento de estructuras de línea media",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 775,
+      "end": 819
+    },
+    {
+      "text": "signos de efecto de masa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 823,
+      "end": 847
+    },
+    {
+      "text": "sistema ventricular",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 852,
+      "end": 871
+    },
+    {
+      "text": "morfología y tamaño normales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 881,
+      "end": 909
+    },
+    {
+      "text": "área focal de descenso en el flujo cerebral",
+      "type": "PATOLOGIA",
+      "start": 958,
+      "end": 1001
+    },
+    {
+      "text": "CBF",
+      "type": "MEDIDA",
+      "start": 1003,
+      "end": 1006
+    },
+    {
+      "text": "aumento del tiempo máximo de llegada",
+      "type": "PATOLOGIA",
+      "start": 1010,
+      "end": 1046
+    },
+    {
+      "text": "TMax",
+      "type": "MEDIDA",
+      "start": 1048,
+      "end": 1052
+    },
+    {
+      "text": "arteria cerebral anterior izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 281,
+      "end": 316
+    },
+    {
+      "text": "región parasagital frontal y medial",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1128,
+      "end": 1163
+    },
+    {
+      "text": "volumen cerebral",
+      "type": "MEDIDA",
+      "start": 1168,
+      "end": 1184
+    },
+    {
+      "text": "CBV",
+      "type": "MEDIDA",
+      "start": 1186,
+      "end": 1189
+    },
+    {
+      "text": "penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1227,
+      "end": 1245
+    },
+    {
+      "text": "oclusión parcial del segmento A2",
+      "type": "PATOLOGIA",
+      "start": 1277,
+      "end": 1309
+    },
+    {
+      "text": "arteria cerebral anterior izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 281,
+      "end": 316
+    },
+    {
+      "text": "vaso distal no opacificado",
+      "type": "PATOLOGIA",
+      "start": 1357,
+      "end": 1383
+    },
+    {
+      "text": "estenosis",
+      "type": "PATOLOGIA",
+      "start": 1408,
+      "end": 1417
+    },
+    {
+      "text": "alteraciones relevantes en los vasos principales intracraneales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1421,
+      "end": 1484
+    },
+    {
+      "text": "troncos supraórticos visualizados",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1495,
+      "end": 1528
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 1573,
+      "end": 1587
+    },
+    {
+      "text": "territorio de arteria cerebral anterior izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 267,
+      "end": 316
+    },
+    {
+      "text": "zona de penumbra",
+      "type": "PATOLOGIA",
+      "start": 1645,
+      "end": 1661
+    },
+    {
+      "text": "complicaciones hemorrágicas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1753,
+      "end": 1780
+    },
+    {
+      "text": "valoración urgente por neurología",
+      "type": "PATOLOGIA",
+      "start": 1841,
+      "end": 1874
+    },
+    {
+      "text": "tratamiento reperfusor",
+      "type": "PATOLOGIA",
+      "start": 1880,
+      "end": 1902
+    },
+    {
+      "text": "seguimiento clínico-imagenológico",
+      "type": "PATOLOGIA",
+      "start": 1905,
+      "end": 1938
+    },
+    {
+      "text": "TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANGIOTC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 2025,
+      "end": 2092
+    },
+    {
+      "text": "oclusión parcial del segmento A2 de la arteria cerebral anterior izquierda",
+      "type": "PATOLOGIA",
+      "start": 1277,
+      "end": 1351
+    }
+  ]
+}

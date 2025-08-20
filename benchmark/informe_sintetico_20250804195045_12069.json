@@ -1,0 +1,89 @@
+{
+  "document_id": "informe_sintetico_20250804195045_12069",
+  "entities": [
+    {
+      "text": "hemorragia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 491,
+      "end": 501
+    },
+    {
+      "text": "edema cerebral agudo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 505,
+      "end": 525
+    },
+    {
+      "text": "mínima hipodensidad periventricular",
+      "type": "PATOLOGIA",
+      "start": 551,
+      "end": 586
+    },
+    {
+      "text": "alteraciones isquémicas crónicas",
+      "type": "PATOLOGIA",
+      "start": 603,
+      "end": 635
+    },
+    {
+      "text": "cortico-subcortical",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 722,
+      "end": 741
+    },
+    {
+      "text": "hidrocefalia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 911,
+      "end": 923
+    },
+    {
+      "text": "cambios arterioescleróticos crónicos",
+      "type": "PATOLOGIA",
+      "start": 1393,
+      "end": 1429
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 1695,
+      "end": 1705
+    },
+    {
+      "text": "TC Craneal basal sin contraste",
+      "type": "TECNICA_IMAGEN",
+      "start": 318,
+      "end": 348
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 350,
+      "end": 371
+    },
+    {
+      "text": "angioTC de arterias intracraneales y supraaórticas",
+      "type": "TECNICA_IMAGEN",
+      "start": 374,
+      "end": 424
+    },
+    {
+      "text": "mismatch significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1115,
+      "end": 1137
+    },
+    {
+      "text": "estenosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1280,
+      "end": 1289
+    },
+    {
+      "text": "placas ateromatosas significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1305,
+      "end": 1339
+    }
+  ]
+}

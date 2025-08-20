@@ -1,0 +1,113 @@
+{
+  "document_id": "informe_sintetico_20250804195045_12629",
+  "entities": [
+    {
+      "text": "ictus isquémico",
+      "type": "PATOLOGIA",
+      "start": 242,
+      "end": 257
+    },
+    {
+      "text": "arteria cerebral media",
+      "type": "ARTERIA",
+      "start": 275,
+      "end": 297
+    },
+    {
+      "text": "derecho",
+      "type": "LATERALIDAD",
+      "start": 213,
+      "end": 220
+    },
+    {
+      "text": "hemorragias agudas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 616,
+      "end": 634
+    },
+    {
+      "text": "hipodensidad cortical y subcortical",
+      "type": "PATOLOGIA",
+      "start": 772,
+      "end": 807
+    },
+    {
+      "text": "parietal izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 818,
+      "end": 836
+    },
+    {
+      "text": "segmentos M2/M3",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 904,
+      "end": 919
+    },
+    {
+      "text": "ASPECTS 9/10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 922,
+      "end": 934
+    },
+    {
+      "text": "isquemia",
+      "type": "PATOLOGIA",
+      "start": 1644,
+      "end": 1652
+    },
+    {
+      "text": "ACM izquierda",
+      "type": "ARTERIA",
+      "start": 1677,
+      "end": 1690
+    },
+    {
+      "text": "ASPECTS 9",
+      "type": "PUNTUACION_CLINICA",
+      "start": 922,
+      "end": 931
+    },
+    {
+      "text": "Oclusión focal",
+      "type": "PATOLOGIA",
+      "start": 1841,
+      "end": 1855
+    },
+    {
+      "text": "segmento distal M2",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 2155,
+      "end": 2173
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "ARTERIA",
+      "start": 1325,
+      "end": 1357
+    },
+    {
+      "text": "signos precoces de isquemia cortical limitada",
+      "type": "PATOLOGIA",
+      "start": 2214,
+      "end": 2259
+    },
+    {
+      "text": "volumen cerebral",
+      "type": "MEDIDA",
+      "start": 1123,
+      "end": 1139
+    },
+    {
+      "text": "flujo",
+      "type": "MEDIDA",
+      "start": 1100,
+      "end": 1105
+    },
+    {
+      "text": "TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANGIOTC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 2373,
+      "end": 2440
+    }
+  ]
+}

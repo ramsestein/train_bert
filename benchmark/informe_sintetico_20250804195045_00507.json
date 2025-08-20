@@ -1,0 +1,221 @@
+{
+  "document_id": "informe_sintetico_20250804195045_00507",
+  "entities": [
+    {
+      "text": "infarto cerebral reciente",
+      "type": "PATOLOGIA",
+      "start": 215,
+      "end": 240
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "ARTERIA",
+      "start": 261,
+      "end": 293
+    },
+    {
+      "text": "deterioro neurológico progresivo",
+      "type": "PATOLOGIA",
+      "start": 304,
+      "end": 336
+    },
+    {
+      "text": "transformación hemorrágica",
+      "type": "PATOLOGIA",
+      "start": 351,
+      "end": 377
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 398,
+      "end": 414
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 441,
+      "end": 462
+    },
+    {
+      "text": "angio-TC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 465,
+      "end": 495
+    },
+    {
+      "text": "hipodensidad extensa",
+      "type": "PATOLOGIA",
+      "start": 644,
+      "end": 664
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "ARTERIA",
+      "start": 261,
+      "end": 293
+    },
+    {
+      "text": "infarto isquémico establecido",
+      "type": "PATOLOGIA",
+      "start": 733,
+      "end": 762
+    },
+    {
+      "text": "núcleo lenticular",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 783,
+      "end": 800
+    },
+    {
+      "text": "corona radiada",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 806,
+      "end": 820
+    },
+    {
+      "text": "transformación hemorrágica tipo PH2",
+      "type": "PATOLOGIA",
+      "start": 937,
+      "end": 972
+    },
+    {
+      "text": "sangrado parenquimatoso con extensión >30% del área infartada con efecto de masa moderado",
+      "type": "PATOLOGIA",
+      "start": 974,
+      "end": 1063
+    },
+    {
+      "text": "hemorragias extraaxiales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1081,
+      "end": 1105
+    },
+    {
+      "text": "desplazamiento significativo de la línea media",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1109,
+      "end": 1155
+    },
+    {
+      "text": "edema vasogénico perifocal",
+      "type": "PATOLOGIA",
+      "start": 1182,
+      "end": 1208
+    },
+    {
+      "text": "surcos corticales adyacentes",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1236,
+      "end": 1264
+    },
+    {
+      "text": "reducción del volumen de sangre cerebral (CBV)",
+      "type": "PATOLOGIA",
+      "start": 1318,
+      "end": 1364
+    },
+    {
+      "text": "flujo sanguíneo cerebral (CBF)",
+      "type": "PATOLOGIA",
+      "start": 1367,
+      "end": 1397
+    },
+    {
+      "text": "territorio de la ACM izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1404,
+      "end": 1434
+    },
+    {
+      "text": "tiempo a pico (TTP)",
+      "type": "MEDIDA",
+      "start": 1456,
+      "end": 1475
+    },
+    {
+      "text": "lesión isquémica establecida",
+      "type": "PATOLOGIA",
+      "start": 1503,
+      "end": 1531
+    },
+    {
+      "text": "zonas con perfusión residual significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1551,
+      "end": 1593
+    },
+    {
+      "text": "Arteria cerebral media izquierda",
+      "type": "ARTERIA",
+      "start": 1628,
+      "end": 1660
+    },
+    {
+      "text": "defecto de repleción completo en segmento proximal M1",
+      "type": "PATOLOGIA",
+      "start": 1665,
+      "end": 1718
+    },
+    {
+      "text": "trombosis",
+      "type": "PATOLOGIA",
+      "start": 1735,
+      "end": 1744
+    },
+    {
+      "text": "permeabilidad conservada en las demás arterias cerebrales principales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1757,
+      "end": 1826
+    },
+    {
+      "text": "signos de vasoespasmo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1846,
+      "end": 1867
+    },
+    {
+      "text": "disección",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1871,
+      "end": 1880
+    },
+    {
+      "text": "Tracto vertebrobasilar",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1882,
+      "end": 1904
+    },
+    {
+      "text": "sin alteraciones",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1905,
+      "end": 1921
+    },
+    {
+      "text": "Transformación hemorrágica tipo PH2 en infarto establecido de territorio de arteria cerebral media izquierda",
+      "type": "PATOLOGIA",
+      "start": 1946,
+      "end": 2054
+    },
+    {
+      "text": "Oclusión trombótica del segmento proximal de ACM izquierda confirmada",
+      "type": "PATOLOGIA",
+      "start": 2118,
+      "end": 2187
+    },
+    {
+      "text": "hemorragia extraaxial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2242,
+      "end": 2263
+    },
+    {
+      "text": "desplazamiento significativo de estructuras de la línea media",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2267,
+      "end": 2328
+    }
+  ]
+}

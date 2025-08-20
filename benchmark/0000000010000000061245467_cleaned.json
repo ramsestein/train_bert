@@ -1,0 +1,83 @@
+{
+  "document_id": "0000000010000000061245467_cleaned",
+  "entities": [
+    {
+      "text": "Infart cerebral causat per oclusió o estenosi no especificades d'artèria cerebral no especificada",
+      "type": "PATOLOGIA",
+      "start": 121,
+      "end": 218
+    },
+    {
+      "text": "No se observa hemorragia intra ni extraaxial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 348,
+      "end": 392
+    },
+    {
+      "text": "Hipodensidad en sustancia blanca periventricular anterior en relación con enfermedad de pequeño vaso",
+      "type": "PATOLOGIA",
+      "start": 394,
+      "end": 494
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 543,
+      "end": 553
+    },
+    {
+      "text": "No se observan lesiones isquémicas parenquimatosas subagudas ni otras lesiones isquemicas crónicas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 555,
+      "end": 653
+    },
+    {
+      "text": "Aumento en los mapas de tiempo con caída en el flujo y mínima área de retraso del volúmen en territorio de ACM izquierda",
+      "type": "PATOLOGIA",
+      "start": 787,
+      "end": 907
+    },
+    {
+      "text": "90%",
+      "type": "MEDIDA",
+      "start": 932,
+      "end": 935
+    },
+    {
+      "text": "Oclusión en la rama superior de la bifurcación de la ACM izquierda en segmento distal de M1",
+      "type": "PATOLOGIA",
+      "start": 968,
+      "end": 1059
+    },
+    {
+      "text": "ACM izquierda",
+      "type": "ARTERIA",
+      "start": 894,
+      "end": 907
+    },
+    {
+      "text": "M1",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1057,
+      "end": 1059
+    },
+    {
+      "text": "Resto de principales vasos intra-craneales (ACAs, ACMs y ACPs) permeables, sin signos de estenosis de su luz",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1061,
+      "end": 1169
+    },
+    {
+      "text": "Sistema vertebro-basilar permeable",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1171,
+      "end": 1205
+    },
+    {
+      "text": "No hay hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1412,
+      "end": 1442
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "document_id": "informe_sintetico_20250804195045_19087",
+  "entities": [
+    {
+      "text": "hipodensidad",
+      "type": "PATOLOGIA",
+      "start": 460,
+      "end": 472
+    },
+    {
+      "text": "isquemia",
+      "type": "PATOLOGIA",
+      "start": 889,
+      "end": 897
+    },
+    {
+      "text": "infarto cerebral tipo watershed bilateral",
+      "type": "PATOLOGIA",
+      "start": 1205,
+      "end": 1246
+    },
+    {
+      "text": "territorios fronterizos",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 515,
+      "end": 538
+    },
+    {
+      "text": "arterias cerebral anterior y media",
+      "type": "ARTERIA",
+      "start": 569,
+      "end": 603
+    },
+    {
+      "text": "bilateralmente",
+      "type": "LATERALIDAD",
+      "start": 605,
+      "end": 619
+    },
+    {
+      "text": "disminución del volumen cerebral de sangre (CBV)",
+      "type": "MEDIDA",
+      "start": 718,
+      "end": 766
+    },
+    {
+      "text": "prolongación del tiempo hasta el máximo (TMax)",
+      "type": "MEDIDA",
+      "start": 809,
+      "end": 855
+    },
+    {
+      "text": "sin estenosis ni oclusiones destacables",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1119,
+      "end": 1158
+    },
+    {
+      "text": "TC craneal basal urgente",
+      "type": "TECNICA_IMAGEN",
+      "start": 314,
+      "end": 338
+    },
+    {
+      "text": "angiografía por TC de arterias intracraneales",
+      "type": "TECNICA_IMAGEN",
+      "start": 372,
+      "end": 417
+    },
+    {
+      "text": "Angio-TC",
+      "type": "TECNICA_IMAGEN",
+      "start": 1048,
+      "end": 1056
+    }
+  ]
+}

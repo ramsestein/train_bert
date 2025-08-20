@@ -1,0 +1,65 @@
+{
+  "document_id": "informe_sintetico_20250804195045_05896",
+  "entities": [
+    {
+      "text": "infarto lacunar",
+      "type": "PATOLOGIA",
+      "start": 222,
+      "end": 237
+    },
+    {
+      "text": "núcleo lenticular izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 526,
+      "end": 553
+    },
+    {
+      "text": "agudo",
+      "type": "TEMPORALIDAD",
+      "start": 586,
+      "end": 591
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 845,
+      "end": 855
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 415,
+      "end": 438
+    },
+    {
+      "text": "lesiones isquémicas mayores",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 614,
+      "end": 641
+    },
+    {
+      "text": "edema cerebral significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 645,
+      "end": 673
+    },
+    {
+      "text": "permeables",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1164,
+      "end": 1174
+    },
+    {
+      "text": "estenosis ni oclusión",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1190,
+      "end": 1211
+    },
+    {
+      "text": "placas ateromatosas significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1227,
+      "end": 1261
+    }
+  ]
+}

@@ -1,0 +1,221 @@
+{
+  "document_id": "informe_sintetico_20250804195045_08298",
+  "entities": [
+    {
+      "text": "hemiparesia derecha",
+      "type": "PATOLOGIA",
+      "start": 189,
+      "end": 208
+    },
+    {
+      "text": "4 horas",
+      "type": "TEMPORALIDAD",
+      "start": 212,
+      "end": 219
+    },
+    {
+      "text": "infarto cerebral",
+      "type": "PATOLOGIA",
+      "start": 258,
+      "end": 274
+    },
+    {
+      "text": "extensa zona hipodensa",
+      "type": "PATOLOGIA",
+      "start": 494,
+      "end": 516
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "ARTERIA",
+      "start": 537,
+      "end": 569
+    },
+    {
+      "text": "infarto subagudo reciente",
+      "type": "PATOLOGIA",
+      "start": 585,
+      "end": 610
+    },
+    {
+      "text": "transformación hemorrágica tipo PH2",
+      "type": "PATOLOGIA",
+      "start": 645,
+      "end": 680
+    },
+    {
+      "text": "colección heterogénea",
+      "type": "PATOLOGIA",
+      "start": 704,
+      "end": 725
+    },
+    {
+      "text": "30%",
+      "type": "MEDIDA",
+      "start": 794,
+      "end": 797
+    },
+    {
+      "text": "7 mm",
+      "type": "MEDIDA",
+      "start": 917,
+      "end": 921
+    },
+    {
+      "text": "borramiento de surcos adjacentes",
+      "type": "PATOLOGIA",
+      "start": 977,
+      "end": 1009
+    },
+    {
+      "text": "No se visualizan hemorragias extraaxiales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1011,
+      "end": 1052
+    },
+    {
+      "text": "aumento marcado del tiempo de tránsito (TTP)",
+      "type": "PATOLOGIA",
+      "start": 1114,
+      "end": 1158
+    },
+    {
+      "text": "reducción del volumen cerebral (CBV)",
+      "type": "PATOLOGIA",
+      "start": 1161,
+      "end": 1197
+    },
+    {
+      "text": "territorio afectado por el infarto",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1219,
+      "end": 1253
+    },
+    {
+      "text": "transformación hemorrágica",
+      "type": "PATOLOGIA",
+      "start": 645,
+      "end": 671
+    },
+    {
+      "text": "Mapas de flujo cerebral (CBF) disminuidos",
+      "type": "PATOLOGIA",
+      "start": 1284,
+      "end": 1325
+    },
+    {
+      "text": "Arco aórtico sin alteraciones significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1384,
+      "end": 1428
+    },
+    {
+      "text": "Troncales supraórticos sin estenosis severas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1430,
+      "end": 1474
+    },
+    {
+      "text": "Oclusión completa en segmento proximal de arteria cerebral media izquierda",
+      "type": "PATOLOGIA",
+      "start": 1476,
+      "end": 1550
+    },
+    {
+      "text": "Resto de vasos principales permeables",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1552,
+      "end": 1589
+    },
+    {
+      "text": "sin signos de vasoespasmo ni malformaciones vasculares",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1591,
+      "end": 1645
+    },
+    {
+      "text": "Infarto cerebral extenso en territorio de arteria cerebral media izquierda",
+      "type": "PATOLOGIA",
+      "start": 1674,
+      "end": 1748
+    },
+    {
+      "text": "transformación hemorrágica tipo PH2",
+      "type": "PATOLOGIA",
+      "start": 645,
+      "end": 680
+    },
+    {
+      "text": "sangrado intraparenquimatoso significativo",
+      "type": "PATOLOGIA",
+      "start": 1805,
+      "end": 1847
+    },
+    {
+      "text": "efecto masa con desplazamiento de la línea media",
+      "type": "PATOLOGIA",
+      "start": 1850,
+      "end": 1898
+    },
+    {
+      "text": "Oclusión proximal de arteria cerebral media izquierda",
+      "type": "PATOLOGIA",
+      "start": 1904,
+      "end": 1957
+    },
+    {
+      "text": "valoración neurológica urgente",
+      "type": "PATOLOGIA",
+      "start": 1977,
+      "end": 2007
+    },
+    {
+      "text": "posible manejo neuroquirúrgico",
+      "type": "PATOLOGIA",
+      "start": 2010,
+      "end": 2040
+    },
+    {
+      "text": "Monitorización estrecha en unidad de cuidados intensivos neurovasculares",
+      "type": "PATOLOGIA",
+      "start": 2120,
+      "end": 2192
+    },
+    {
+      "text": "Control imagenológico en 24-48 horas",
+      "type": "PATOLOGIA",
+      "start": 2194,
+      "end": 2230
+    },
+    {
+      "text": "evaluar evolución hemorrágica y edema",
+      "type": "PATOLOGIA",
+      "start": 2236,
+      "end": 2273
+    },
+    {
+      "text": "Transformación hemorrágica post-infarto tipo PH2 en territorio de ACM izquierda",
+      "type": "PATOLOGIA",
+      "start": 2339,
+      "end": 2418
+    },
+    {
+      "text": "importante efecto masa y desplazamiento de línea media",
+      "type": "PATOLOGIA",
+      "start": 2423,
+      "end": 2477
+    },
+    {
+      "text": "Oclusión arterial proximal en ACM izquierda",
+      "type": "PATOLOGIA",
+      "start": 2591,
+      "end": 2634
+    },
+    {
+      "text": "vasos cerebrales principales permeables sin anomalías adicionales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2636,
+      "end": 2701
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "document_id": "informe_sintetico_20250804195045_20189",
+  "entities": [
+    {
+      "text": "infarto lacunar agudo",
+      "type": "PATOLOGIA",
+      "start": 345,
+      "end": 366
+    },
+    {
+      "text": "cápsula interna derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 618,
+      "end": 641
+    },
+    {
+      "text": "6 mm",
+      "type": "MEDIDA",
+      "start": 607,
+      "end": 611
+    },
+    {
+      "text": "agudo",
+      "type": "TEMPORALIDAD",
+      "start": 361,
+      "end": 366
+    },
+    {
+      "text": "ASPECTS 9",
+      "type": "PUNTUACION_CLINICA",
+      "start": 793,
+      "end": 802
+    },
+    {
+      "text": "hemorragia intraaxial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 709,
+      "end": 730
+    },
+    {
+      "text": "sin área de penumbra crítica",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1163,
+      "end": 1191
+    },
+    {
+      "text": "sin estenosis ni placas ateromatosas significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1352,
+      "end": 1403
+    },
+    {
+      "text": "sin alteraciones",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1588,
+      "end": 1604
+    },
+    {
+      "text": "sin complicaciones hemorrágicas ni oclusiones arteriales mayores",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2139,
+      "end": 2203
+    },
+    {
+      "text": "TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANG IOTC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 72,
+      "end": 140
+    },
+    {
+      "text": "TC craneal urgente basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 387,
+      "end": 411
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 413,
+      "end": 434
+    },
+    {
+      "text": "angioTC de arterias supraórticas e intracraneales",
+      "type": "TECNICA_IMAGEN",
+      "start": 437,
+      "end": 486
+    }
+  ]
+}

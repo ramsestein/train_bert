@@ -1,0 +1,235 @@
+{
+  "document_id": "informe_sintetico_20250804195045_13851",
+  "entities": [
+    {
+      "text": "ictus vertebrobasilar",
+      "type": "PATOLOGIA",
+      "start": 278,
+      "end": 299
+    },
+    {
+      "text": "tronco cerebral",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 249,
+      "end": 264
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 344,
+      "end": 360
+    },
+    {
+      "text": "hematomas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 495,
+      "end": 504
+    },
+    {
+      "text": "hemorragias intracraneales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 508,
+      "end": 534
+    },
+    {
+      "text": "hipodensidad",
+      "type": "PATOLOGIA",
+      "start": 541,
+      "end": 553
+    },
+    {
+      "text": "tronco encefálico",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 568,
+      "end": 585
+    },
+    {
+      "text": "edema isquémico incipiente",
+      "type": "PATOLOGIA",
+      "start": 602,
+      "end": 628
+    },
+    {
+      "text": "desplazamiento de línea media",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 644,
+      "end": 673
+    },
+    {
+      "text": "cisternas basales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 714,
+      "end": 731
+    },
+    {
+      "text": "TC PERFUSIÓN",
+      "type": "TECNICA_IMAGEN",
+      "start": 734,
+      "end": 746
+    },
+    {
+      "text": "tiempo de tránsito medio (TTP)",
+      "type": "MEDIDA",
+      "start": 792,
+      "end": 822
+    },
+    {
+      "text": "flujo cerebral (CBF)",
+      "type": "MEDIDA",
+      "start": 841,
+      "end": 861
+    },
+    {
+      "text": "tronco encefálico",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 568,
+      "end": 585
+    },
+    {
+      "text": "área isquémica",
+      "type": "PATOLOGIA",
+      "start": 980,
+      "end": 994
+    },
+    {
+      "text": "ANGIO-TC EXTRA E INTRACRANEAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 1015,
+      "end": 1044
+    },
+    {
+      "text": "Oclusión completa",
+      "type": "PATOLOGIA",
+      "start": 1048,
+      "end": 1065
+    },
+    {
+      "text": "arteria basilar",
+      "type": "ARTERIA",
+      "start": 1072,
+      "end": 1087
+    },
+    {
+      "text": "segmento proximal",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1094,
+      "end": 1111
+    },
+    {
+      "text": "flujo distal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1125,
+      "end": 1137
+    },
+    {
+      "text": "Arterias vertebrales",
+      "type": "ARTERIA",
+      "start": 1150,
+      "end": 1170
+    },
+    {
+      "text": "estenosis significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1213,
+      "end": 1237
+    },
+    {
+      "text": "placas ateromatosas relevantes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1241,
+      "end": 1271
+    },
+    {
+      "text": "troncos supraaórticos",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1275,
+      "end": 1296
+    },
+    {
+      "text": "Circulación colateral insuficiente",
+      "type": "PATOLOGIA",
+      "start": 1298,
+      "end": 1332
+    },
+    {
+      "text": "Arterias cerebrales anteriores",
+      "type": "ARTERIA",
+      "start": 1334,
+      "end": 1364
+    },
+    {
+      "text": "alteraciones hemodinámicas",
+      "type": "PATOLOGIA",
+      "start": 1389,
+      "end": 1415
+    },
+    {
+      "text": "oclusión aguda",
+      "type": "PATOLOGIA",
+      "start": 1468,
+      "end": 1482
+    },
+    {
+      "text": "arteria basilar",
+      "type": "ARTERIA",
+      "start": 1072,
+      "end": 1087
+    },
+    {
+      "text": "segmento proximal",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1094,
+      "end": 1111
+    },
+    {
+      "text": "signos iniciales de isquemia",
+      "type": "PATOLOGIA",
+      "start": 1528,
+      "end": 1556
+    },
+    {
+      "text": "tronco encefálico",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 568,
+      "end": 585
+    },
+    {
+      "text": "alteraciones perfusionales",
+      "type": "PATOLOGIA",
+      "start": 1580,
+      "end": 1606
+    },
+    {
+      "text": "hemorragias intracraneales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 508,
+      "end": 534
+    },
+    {
+      "text": "Oclusión proximal de arteria basilar",
+      "type": "PATOLOGIA",
+      "start": 1832,
+      "end": 1868
+    },
+    {
+      "text": "tronco encefálico",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 568,
+      "end": 585
+    },
+    {
+      "text": "TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANGIOTC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 1940,
+      "end": 2007
+    },
+    {
+      "text": "circulación intra y extracraneal",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 2089,
+      "end": 2121
+    }
+  ],
+  "regenerado": true,
+  "fecha_regeneracion": "2025-08-06T02:56:27.887984"
+}

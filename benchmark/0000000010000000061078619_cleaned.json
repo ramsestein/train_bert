@@ -1,0 +1,119 @@
+{
+  "document_id": "0000000010000000061078619_cleaned",
+  "entities": [
+    {
+      "text": "hemorragia aguda",
+      "type": "PATOLOGIA",
+      "start": 354,
+      "end": 370
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 426,
+      "end": 440
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 453,
+      "end": 463
+    },
+    {
+      "text": "infarto crónico",
+      "type": "PATOLOGIA",
+      "start": 541,
+      "end": 556
+    },
+    {
+      "text": "enfermedad microangiopática crónica moderada",
+      "type": "PATOLOGIA",
+      "start": 627,
+      "end": 671
+    },
+    {
+      "text": "parietal derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 508,
+      "end": 524
+    },
+    {
+      "text": "corticosubcorticales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 803,
+      "end": 823
+    },
+    {
+      "text": "parietal",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 508,
+      "end": 516
+    },
+    {
+      "text": "cerebral",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 734,
+      "end": 742
+    },
+    {
+      "text": "arteria carótida interna",
+      "type": "ARTERIA",
+      "start": 1353,
+      "end": 1377
+    },
+    {
+      "text": "ACA",
+      "type": "ARTERIA",
+      "start": 1537,
+      "end": 1540
+    },
+    {
+      "text": "ACMs",
+      "type": "ARTERIA",
+      "start": 1542,
+      "end": 1546
+    },
+    {
+      "text": "ACPs",
+      "type": "ARTERIA",
+      "start": 1549,
+      "end": 1553
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 1607,
+      "end": 1616
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 517,
+      "end": 524
+    },
+    {
+      "text": "infarto crónico",
+      "type": "PATOLOGIA",
+      "start": 541,
+      "end": 556
+    },
+    {
+      "text": "moderada",
+      "type": "MEDIDA",
+      "start": 663,
+      "end": 671
+    },
+    {
+      "text": "cambios involutivos",
+      "type": "PATOLOGIA",
+      "start": 783,
+      "end": 802
+    },
+    {
+      "text": "sin alteraciones significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2111,
+      "end": 2142
+    }
+  ]
+}

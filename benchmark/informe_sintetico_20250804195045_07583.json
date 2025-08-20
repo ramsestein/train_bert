@@ -1,0 +1,239 @@
+{
+  "document_id": "informe_sintetico_20250804195045_07583",
+  "entities": [
+    {
+      "text": "microhemorragias",
+      "type": "PATOLOGIA",
+      "start": 544,
+      "end": 560
+    },
+    {
+      "text": "región cortical y subcortical",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 497,
+      "end": 526
+    },
+    {
+      "text": "hemisferios",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 580,
+      "end": 591
+    },
+    {
+      "text": "parietales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 622,
+      "end": 632
+    },
+    {
+      "text": "ganglios basales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 635,
+      "end": 651
+    },
+    {
+      "text": "hematoma mayor",
+      "type": "PATOLOGIA",
+      "start": 667,
+      "end": 681
+    },
+    {
+      "text": "hemorragia subaracnoidea",
+      "type": "PATOLOGIA",
+      "start": 685,
+      "end": 709
+    },
+    {
+      "text": "línea media",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 736,
+      "end": 747
+    },
+    {
+      "text": "corticales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 880,
+      "end": 890
+    },
+    {
+      "text": "ventricular",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 804,
+      "end": 815
+    },
+    {
+      "text": "hidrocefalia",
+      "type": "PATOLOGIA",
+      "start": 848,
+      "end": 860
+    },
+    {
+      "text": "microangiopatía crónica",
+      "type": "PATOLOGIA",
+      "start": 908,
+      "end": 931
+    },
+    {
+      "text": "leucoaraiosis periventricular",
+      "type": "PATOLOGIA",
+      "start": 945,
+      "end": 974
+    },
+    {
+      "text": "TTP",
+      "type": "TECNICA_IMAGEN",
+      "start": 1043,
+      "end": 1046
+    },
+    {
+      "text": "CBF",
+      "type": "TECNICA_IMAGEN",
+      "start": 1048,
+      "end": 1051
+    },
+    {
+      "text": "CBV",
+      "type": "TECNICA_IMAGEN",
+      "start": 1055,
+      "end": 1058
+    },
+    {
+      "text": "hipoperfusión",
+      "type": "PATOLOGIA",
+      "start": 1087,
+      "end": 1100
+    },
+    {
+      "text": "cerebrales anteriores",
+      "type": "ARTERIA",
+      "start": 1166,
+      "end": 1187
+    },
+    {
+      "text": "medias",
+      "type": "ARTERIA",
+      "start": 1189,
+      "end": 1195
+    },
+    {
+      "text": "posteriores",
+      "type": "ARTERIA",
+      "start": 1198,
+      "end": 1209
+    },
+    {
+      "text": "estenosis",
+      "type": "PATOLOGIA",
+      "start": 1226,
+      "end": 1235
+    },
+    {
+      "text": "aneurismas",
+      "type": "PATOLOGIA",
+      "start": 1238,
+      "end": 1248
+    },
+    {
+      "text": "hallazgos patológicos",
+      "type": "PATOLOGIA",
+      "start": 1290,
+      "end": 1311
+    },
+    {
+      "text": "calcificaciones ateromatosas leves",
+      "type": "PATOLOGIA",
+      "start": 1326,
+      "end": 1360
+    },
+    {
+      "text": "compromiso hemodinámico",
+      "type": "PATOLOGIA",
+      "start": 1391,
+      "end": 1414
+    },
+    {
+      "text": "territorio supratentorial",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1483,
+      "end": 1508
+    },
+    {
+      "text": "angiopatía cerebral",
+      "type": "PATOLOGIA",
+      "start": 1534,
+      "end": 1553
+    },
+    {
+      "text": "microangiopatía hipertensiva",
+      "type": "PATOLOGIA",
+      "start": 1558,
+      "end": 1586
+    },
+    {
+      "text": "anticoagulación",
+      "type": "PATOLOGIA",
+      "start": 1602,
+      "end": 1617
+    },
+    {
+      "text": "hemorragia mayor",
+      "type": "PATOLOGIA",
+      "start": 1632,
+      "end": 1648
+    },
+    {
+      "text": "isquemia cerebral aguda",
+      "type": "PATOLOGIA",
+      "start": 1652,
+      "end": 1675
+    },
+    {
+      "text": "alteraciones vasculares significativas",
+      "type": "PATOLOGIA",
+      "start": 1696,
+      "end": 1734
+    },
+    {
+      "text": "No se observa hematoma mayor",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 653,
+      "end": 681
+    },
+    {
+      "text": "No hay desplazamiento de línea media",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 711,
+      "end": 747
+    },
+    {
+      "text": "sin signos de hidrocefalia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 834,
+      "end": 860
+    },
+    {
+      "text": "No se identifican áreas de hipoperfusión",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1060,
+      "end": 1100
+    },
+    {
+      "text": "sin estenosis o aneurismas detectables",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1222,
+      "end": 1260
+    },
+    {
+      "text": "sin hallazgos patológicos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1286,
+      "end": 1311
+    },
+    {
+      "text": "sin compromiso hemodinámico",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1387,
+      "end": 1414
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "document_id": "informe_sintetico_20250804195045_12560",
+  "entities": [
+    {
+      "text": "infarto lacunar agudo",
+      "type": "PATOLOGIA",
+      "start": 252,
+      "end": 273
+    },
+    {
+      "text": "cápsula interna izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 587,
+      "end": 612
+    },
+    {
+      "text": "7 mm",
+      "type": "MEDIDA",
+      "start": 671,
+      "end": 675
+    },
+    {
+      "text": "isquémica lacunar aguda",
+      "type": "PATOLOGIA",
+      "start": 699,
+      "end": 722
+    },
+    {
+      "text": "izquierdo",
+      "type": "LATERALIDAD",
+      "start": 1081,
+      "end": 1090
+    },
+    {
+      "text": "discreta reducción focal",
+      "type": "PATOLOGIA",
+      "start": 1028,
+      "end": 1052
+    },
+    {
+      "text": "izquierdo",
+      "type": "LATERALIDAD",
+      "start": 1081,
+      "end": 1090
+    },
+    {
+      "text": "TTP",
+      "type": "TECNICA_IMAGEN",
+      "start": 372,
+      "end": 375
+    },
+    {
+      "text": "MTT",
+      "type": "TECNICA_IMAGEN",
+      "start": 378,
+      "end": 381
+    },
+    {
+      "text": "infarto lacunar",
+      "type": "PATOLOGIA",
+      "start": 252,
+      "end": 267
+    },
+    {
+      "text": "cápsula interna izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 587,
+      "end": 612
+    },
+    {
+      "text": "Arterias intracraneales principales",
+      "type": "ARTERIA",
+      "start": 1337,
+      "end": 1372
+    },
+    {
+      "text": "sin evidencias de oclusiones ni estenosis significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1385,
+      "end": 1441
+    },
+    {
+      "text": "sin evidencia de hemorragia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1674,
+      "end": 1701
+    },
+    {
+      "text": "sin signos de oclusiones mayores",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1856,
+      "end": 1888
+    }
+  ]
+}

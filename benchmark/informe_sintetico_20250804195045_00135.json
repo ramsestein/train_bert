@@ -1,0 +1,71 @@
+{
+  "document_id": "informe_sintetico_20250804195045_00135",
+  "entities": [
+    {
+      "text": "microhemorragias múltiples",
+      "type": "PATOLOGIA",
+      "start": 639,
+      "end": 665
+    },
+    {
+      "text": "microhemorragias puntiformes",
+      "type": "PATOLOGIA",
+      "start": 1528,
+      "end": 1556
+    },
+    {
+      "text": "microangiopatía hipertensiva",
+      "type": "PATOLOGIA",
+      "start": 1625,
+      "end": 1653
+    },
+    {
+      "text": "traumatismo craneoencefálico leve",
+      "type": "PATOLOGIA",
+      "start": 262,
+      "end": 295
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 798,
+      "end": 808
+    },
+    {
+      "text": "bilaterales",
+      "type": "LATERALIDAD",
+      "start": 610,
+      "end": 621
+    },
+    {
+      "text": "sin estenosis ni defectos de llenado",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1359,
+      "end": 1395
+    },
+    {
+      "text": "sin lesiones obstructivas ni malformativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1821,
+      "end": 1863
+    },
+    {
+      "text": "TC craneal urgente basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 324,
+      "end": 348
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 351,
+      "end": 372
+    },
+    {
+      "text": "Angio-TC intra y extracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 375,
+      "end": 404
+    }
+  ]
+}

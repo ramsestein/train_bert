@@ -1,0 +1,271 @@
+{
+  "document_id": "informe_sintetico_20250804195045_01954",
+  "entities": [
+    {
+      "text": "Cefalea intensa",
+      "type": "PATOLOGIA",
+      "start": 166,
+      "end": 181
+    },
+    {
+      "text": "hipertensión arterial paroxística",
+      "type": "PATOLOGIA",
+      "start": 215,
+      "end": 248
+    },
+    {
+      "text": "alteración transitoria del estado de conciencia",
+      "type": "PATOLOGIA",
+      "start": 251,
+      "end": 298
+    },
+    {
+      "text": "TC craneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 319,
+      "end": 329
+    },
+    {
+      "text": "cortes axiales",
+      "type": "TECNICA_IMAGEN",
+      "start": 341,
+      "end": 355
+    },
+    {
+      "text": "perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 375,
+      "end": 393
+    },
+    {
+      "text": "angiografía por TC",
+      "type": "TECNICA_IMAGEN",
+      "start": 396,
+      "end": 414
+    },
+    {
+      "text": "hemorragia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 508,
+      "end": 518
+    },
+    {
+      "text": "área de infarto agudo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 522,
+      "end": 543
+    },
+    {
+      "text": "múltiples zonas de hipodensidad simétricas",
+      "type": "PATOLOGIA",
+      "start": 560,
+      "end": 602
+    },
+    {
+      "text": "sustancia blanca",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 609,
+      "end": 625
+    },
+    {
+      "text": "regiones parietooccipitales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 629,
+      "end": 656
+    },
+    {
+      "text": "corteza adyacente",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 685,
+      "end": 702
+    },
+    {
+      "text": "edema vasogénico",
+      "type": "PATOLOGIA",
+      "start": 720,
+      "end": 736
+    },
+    {
+      "text": "desplazamiento de línea media",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 745,
+      "end": 774
+    },
+    {
+      "text": "afectación de estructuras profundas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 778,
+      "end": 813
+    },
+    {
+      "text": "tiempo de tránsito medio (TTM)",
+      "type": "MEDIDA",
+      "start": 869,
+      "end": 899
+    },
+    {
+      "text": "disminución leve del flujo cerebral (CBF)",
+      "type": "MEDIDA",
+      "start": 902,
+      "end": 943
+    },
+    {
+      "text": "compromiso hemodinámico severo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 972,
+      "end": 1002
+    },
+    {
+      "text": "volumen cerebral (CBV)",
+      "type": "MEDIDA",
+      "start": 1007,
+      "end": 1029
+    },
+    {
+      "text": "edema reversible",
+      "type": "PATOLOGIA",
+      "start": 1077,
+      "end": 1093
+    },
+    {
+      "text": "estenosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1131,
+      "end": 1140
+    },
+    {
+      "text": "oclusión arterial intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1144,
+      "end": 1174
+    },
+    {
+      "text": "signos de vasoespasmo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1197,
+      "end": 1218
+    },
+    {
+      "text": "alteraciones estructurales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1222,
+      "end": 1248
+    },
+    {
+      "text": "leucoencefalopatía posterior reversible (PRES)",
+      "type": "PATOLOGIA",
+      "start": 1312,
+      "end": 1358
+    },
+    {
+      "text": "edema vasogénico en regiones parietooccipitales bilaterales",
+      "type": "PATOLOGIA",
+      "start": 1364,
+      "end": 1423
+    },
+    {
+      "text": "evidencia de infarto",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1428,
+      "end": 1448
+    },
+    {
+      "text": "hemorragia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 508,
+      "end": 518
+    },
+    {
+      "text": "alteraciones vasculares obstructivas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1479,
+      "end": 1515
+    },
+    {
+      "text": "valoración neurológica",
+      "type": "PATOLOGIA",
+      "start": 1622,
+      "end": 1644
+    },
+    {
+      "text": "control de factores precipitantes",
+      "type": "PATOLOGIA",
+      "start": 1647,
+      "end": 1680
+    },
+    {
+      "text": "hipertensión arterial",
+      "type": "PATOLOGIA",
+      "start": 215,
+      "end": 236
+    },
+    {
+      "text": "confirmar reversibilidad",
+      "type": "PATOLOGIA",
+      "start": 1733,
+      "end": 1757
+    },
+    {
+      "text": "TC CODE ICTUS",
+      "type": "TECNICA_IMAGEN",
+      "start": 1776,
+      "end": 1789
+    },
+    {
+      "text": "ANGIO-TC",
+      "type": "TECNICA_IMAGEN",
+      "start": 1792,
+      "end": 1800
+    },
+    {
+      "text": "Leucoencefalopatía posterior reversible",
+      "type": "PATOLOGIA",
+      "start": 1841,
+      "end": 1880
+    },
+    {
+      "text": "edema vasogénico parietooccipital bilateral",
+      "type": "PATOLOGIA",
+      "start": 1885,
+      "end": 1928
+    },
+    {
+      "text": "complicaciones hemorrágicas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1933,
+      "end": 1960
+    },
+    {
+      "text": "isquémicas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1964,
+      "end": 1974
+    },
+    {
+      "text": "TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANGIOTC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 2002,
+      "end": 2069
+    },
+    {
+      "text": "Vasos intracraneales permeables",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 2088,
+      "end": 2119
+    },
+    {
+      "text": "stenosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1132,
+      "end": 1140
+    },
+    {
+      "text": "alteraciones",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1222,
+      "end": 1234
+    }
+  ],
+  "regenerado": true,
+  "fecha_regeneracion": "2025-08-06T15:01:12.764882"
+}

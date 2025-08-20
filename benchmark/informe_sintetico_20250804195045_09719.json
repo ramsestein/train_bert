@@ -1,0 +1,137 @@
+{
+  "document_id": "informe_sintetico_20250804195045_09719",
+  "entities": [
+    {
+      "text": "infarto isquémico reciente",
+      "type": "PATOLOGIA",
+      "start": 626,
+      "end": 652
+    },
+    {
+      "text": "ACM derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 599,
+      "end": 610
+    },
+    {
+      "text": "ACM derecha",
+      "type": "ARTERIA",
+      "start": 599,
+      "end": 610
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 603,
+      "end": 610
+    },
+    {
+      "text": "PH2",
+      "type": "PUNTUACION_CLINICA",
+      "start": 848,
+      "end": 851
+    },
+    {
+      "text": "significativo",
+      "type": "MEDIDA",
+      "start": 874,
+      "end": 887
+    },
+    {
+      "text": "ligero",
+      "type": "MEDIDA",
+      "start": 890,
+      "end": 896
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 998,
+      "end": 1007
+    },
+    {
+      "text": "hemorragias extraaxiales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1026,
+      "end": 1050
+    },
+    {
+      "text": "disminución marcada del flujo sanguíneo cerebral",
+      "type": "PATOLOGIA",
+      "start": 1217,
+      "end": 1265
+    },
+    {
+      "text": "Tmax",
+      "type": "MEDIDA",
+      "start": 1306,
+      "end": 1310
+    },
+    {
+      "text": "significativa",
+      "type": "MEDIDA",
+      "start": 1355,
+      "end": 1368
+    },
+    {
+      "text": "reperfusión",
+      "type": "PATOLOGIA",
+      "start": 1381,
+      "end": 1392
+    },
+    {
+      "text": "volumen cerebral",
+      "type": "MEDIDA",
+      "start": 1397,
+      "end": 1413
+    },
+    {
+      "text": "reducido",
+      "type": "MEDIDA",
+      "start": 1425,
+      "end": 1433
+    },
+    {
+      "text": "infarto y hemorragia",
+      "type": "PATOLOGIA",
+      "start": 1448,
+      "end": 1468
+    },
+    {
+      "text": "Oclusión completa en segmento M1 de ACM derecha",
+      "type": "PATOLOGIA",
+      "start": 1546,
+      "end": 1593
+    },
+    {
+      "text": "ACM-M1 derecha",
+      "type": "ARTERIA",
+      "start": 2023,
+      "end": 2037
+    },
+    {
+      "text": "sin reperfusión viable",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2038,
+      "end": 2060
+    },
+    {
+      "text": "ACM derecha",
+      "type": "ARTERIA",
+      "start": 599,
+      "end": 610
+    },
+    {
+      "text": "transformación hemorrágica tipo PH2",
+      "type": "PATOLOGIA",
+      "start": 816,
+      "end": 851
+    },
+    {
+      "text": "segmento M1 de arteria cerebral media derecha",
+      "type": "ARTERIA",
+      "start": 2442,
+      "end": 2487
+    }
+  ]
+}

@@ -1,0 +1,137 @@
+{
+  "document_id": "informe_sintetico_20250804195045_12063",
+  "entities": [
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 465,
+      "end": 488
+    },
+    {
+      "text": "hipodensidades recientes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 523,
+      "end": 547
+    },
+    {
+      "text": "pérdida de la diferenciación cortico-subcortical",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 551,
+      "end": 599
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 614,
+      "end": 628
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 631,
+      "end": 641
+    },
+    {
+      "text": "línea media",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 662,
+      "end": 673
+    },
+    {
+      "text": "cisternas basales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 721,
+      "end": 738
+    },
+    {
+      "text": "atrofia cortical difusa",
+      "type": "PATOLOGIA",
+      "start": 804,
+      "end": 827
+    },
+    {
+      "text": "límites normales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 921,
+      "end": 937
+    },
+    {
+      "text": "zonas de perfusión alterada",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 942,
+      "end": 969
+    },
+    {
+      "text": "mismatch significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 973,
+      "end": 995
+    },
+    {
+      "text": "estenosis",
+      "type": "PATOLOGIA",
+      "start": 1078,
+      "end": 1087
+    },
+    {
+      "text": "ateromatosis significativa",
+      "type": "PATOLOGIA",
+      "start": 1091,
+      "end": 1117
+    },
+    {
+      "text": "Arterias intracraneales",
+      "type": "ARTERIA",
+      "start": 1120,
+      "end": 1143
+    },
+    {
+      "text": "calibre y opacificación normales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1148,
+      "end": 1180
+    },
+    {
+      "text": "defectos de llenado",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1186,
+      "end": 1205
+    },
+    {
+      "text": "Sistema vertebrobasilar",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1220,
+      "end": 1243
+    },
+    {
+      "text": "sin alteraciones",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1256,
+      "end": 1272
+    },
+    {
+      "text": "patología isquémica o hemorrágica aguda",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1325,
+      "end": 1364
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 631,
+      "end": 641
+    },
+    {
+      "text": "Circulación arterial cerebral normal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1392,
+      "end": 1428
+    },
+    {
+      "text": "estenosis u oclusión",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1444,
+      "end": 1464
+    }
+  ]
+}

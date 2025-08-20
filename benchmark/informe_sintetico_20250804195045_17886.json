@@ -1,0 +1,67 @@
+{
+  "document_id": "informe_sintetico_20250804195045_17886",
+  "entities": [
+    {
+      "text": "infarto lacunar agudo",
+      "type": "PATOLOGIA",
+      "start": 742,
+      "end": 763
+    },
+    {
+      "text": "núcleo lenticular izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 698,
+      "end": 725
+    },
+    {
+      "text": "8 mm",
+      "type": "MEDIDA",
+      "start": 658,
+      "end": 662
+    },
+    {
+      "text": "hemicuerpo derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 303,
+      "end": 321
+    },
+    {
+      "text": "2 horas",
+      "type": "TEMPORALIDAD",
+      "start": 337,
+      "end": 344
+    },
+    {
+      "text": "TC CRANEAL BASAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 515,
+      "end": 531
+    },
+    {
+      "text": "TC PERFUSIÓN",
+      "type": "TECNICA_IMAGEN",
+      "start": 1012,
+      "end": 1024
+    },
+    {
+      "text": "ANGIO-TC EXTRA E INTRACRANEAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 1338,
+      "end": 1367
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 856,
+      "end": 866
+    },
+    {
+      "text": "sin alteraciones morfológicas relevantes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1534,
+      "end": 1574
+    }
+  ],
+  "regenerado": true,
+  "fecha_regeneracion": "2025-08-06T03:30:14.209407"
+}

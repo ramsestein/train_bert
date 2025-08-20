@@ -1,0 +1,59 @@
+{
+  "document_id": "informe_sintetico_20250804195045_13807",
+  "entities": [
+    {
+      "text": "hematoma lobar parietal derecho",
+      "type": "PATOLOGIA",
+      "start": 474,
+      "end": 505
+    },
+    {
+      "text": "parietal",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 489,
+      "end": 497
+    },
+    {
+      "text": "derecho",
+      "type": "LATERALIDAD",
+      "start": 498,
+      "end": 505
+    },
+    {
+      "text": "25 x 18 mm",
+      "type": "MEDIDA",
+      "start": 610,
+      "end": 620
+    },
+    {
+      "text": "edema vasogénico perifocal",
+      "type": "PATOLOGIA",
+      "start": 844,
+      "end": 870
+    },
+    {
+      "text": "TC PERFUSIÓN",
+      "type": "TECNICA_IMAGEN",
+      "start": 1005,
+      "end": 1017
+    },
+    {
+      "text": "hipoperfusión perifocal",
+      "type": "PATOLOGIA",
+      "start": 1030,
+      "end": 1053
+    },
+    {
+      "text": "sin evidencia de déficit hemodinámico global",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1088,
+      "end": 1132
+    },
+    {
+      "text": "sin estenosis ni signos de vascularización anómala",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1427,
+      "end": 1477
+    }
+  ]
+}

@@ -1,0 +1,209 @@
+{
+  "document_id": "informe_sintetico_20250804195045_24081",
+  "entities": [
+    {
+      "text": "infarto cerebral",
+      "type": "PATOLOGIA",
+      "start": 194,
+      "end": 210
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "ARTERIA",
+      "start": 231,
+      "end": 263
+    },
+    {
+      "text": "empeoramiento neurológico súbito",
+      "type": "PATOLOGIA",
+      "start": 274,
+      "end": 306
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 327,
+      "end": 343
+    },
+    {
+      "text": "cortes axiales",
+      "type": "TECNICA_IMAGEN",
+      "start": 371,
+      "end": 385
+    },
+    {
+      "text": "TC perfusión cerebral dinámica",
+      "type": "TECNICA_IMAGEN",
+      "start": 387,
+      "end": 417
+    },
+    {
+      "text": "Angio-TC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 420,
+      "end": 450
+    },
+    {
+      "text": "foco hiperdenso puntiforme",
+      "type": "PATOLOGIA",
+      "start": 534,
+      "end": 560
+    },
+    {
+      "text": "territorio profundo de la arteria cerebral media izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 564,
+      "end": 622
+    },
+    {
+      "text": "sangrado petequial",
+      "type": "PATOLOGIA",
+      "start": 639,
+      "end": 657
+    },
+    {
+      "text": "transformación hemorrágica tipo HI1",
+      "type": "PATOLOGIA",
+      "start": 672,
+      "end": 707
+    },
+    {
+      "text": "hipodensidad con claro borramiento de la diferenciación cortico-subcortical",
+      "type": "PATOLOGIA",
+      "start": 720,
+      "end": 795
+    },
+    {
+      "text": "territorio superficial y profundo de la ACM izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 802,
+      "end": 855
+    },
+    {
+      "text": "infarto isquémico subagudo",
+      "type": "PATOLOGIA",
+      "start": 924,
+      "end": 950
+    },
+    {
+      "text": "hematoma significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 972,
+      "end": 994
+    },
+    {
+      "text": "desplazamiento de líneas medias",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 996,
+      "end": 1027
+    },
+    {
+      "text": "efecto de masa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1031,
+      "end": 1045
+    },
+    {
+      "text": "Sistema ventricular normal en tamaño y forma",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1047,
+      "end": 1091
+    },
+    {
+      "text": "Cisternas basales preservadas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1093,
+      "end": 1122
+    },
+    {
+      "text": "Disminución moderada del volumen cerebral",
+      "type": "PATOLOGIA",
+      "start": 1139,
+      "end": 1180
+    },
+    {
+      "text": "área isquémica izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1193,
+      "end": 1217
+    },
+    {
+      "text": "prolongación del tiempo de tránsito",
+      "type": "PATOLOGIA",
+      "start": 1222,
+      "end": 1257
+    },
+    {
+      "text": "área de penumbra activa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1281,
+      "end": 1304
+    },
+    {
+      "text": "tejido infartado",
+      "type": "PATOLOGIA",
+      "start": 1321,
+      "end": 1337
+    },
+    {
+      "text": "Flujo cerebral reducido en territorio de ACM izquierda",
+      "type": "PATOLOGIA",
+      "start": 1339,
+      "end": 1393
+    },
+    {
+      "text": "Oclusión parcial residual en segmento M1 distal de la ACM izquierda",
+      "type": "PATOLOGIA",
+      "start": 1427,
+      "end": 1494
+    },
+    {
+      "text": "reperfusión completa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1499,
+      "end": 1519
+    },
+    {
+      "text": "Resto de la circulación intracraneal sin estenosis significativa ni anomalías vasculares aparentes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1521,
+      "end": 1619
+    },
+    {
+      "text": "Transformación hemorrágica tipo HI1 en territorio profundo de ACM izquierda",
+      "type": "PATOLOGIA",
+      "start": 1647,
+      "end": 1722
+    },
+    {
+      "text": "focos petequiales hemorrágicos sin hematoma voluminoso",
+      "type": "PATOLOGIA",
+      "start": 1728,
+      "end": 1782
+    },
+    {
+      "text": "Infarto isquémico subagudo en territorio superficial y profundo de ACM izquierda",
+      "type": "PATOLOGIA",
+      "start": 1786,
+      "end": 1866
+    },
+    {
+      "text": "Oclusión residual parcial en segmento distal de ACM izquierda",
+      "type": "PATOLOGIA",
+      "start": 1870,
+      "end": 1931
+    },
+    {
+      "text": "Sin efecto de masa ni desplazamiento de estructuras",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1935,
+      "end": 1986
+    },
+    {
+      "text": "Hemorragia petequial (transformación hemorrágica tipo HI1) en infarto cerebral de ACM izquierda",
+      "type": "PATOLOGIA",
+      "start": 2192,
+      "end": 2287
+    }
+  ]
+}

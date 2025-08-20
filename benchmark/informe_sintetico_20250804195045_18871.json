@@ -1,0 +1,137 @@
+{
+  "document_id": "informe_sintetico_20250804195045_18871",
+  "entities": [
+    {
+      "text": "ictus isquémico",
+      "type": "PATOLOGIA",
+      "start": 271,
+      "end": 286
+    },
+    {
+      "text": "hemiparesia derecha",
+      "type": "PATOLOGIA",
+      "start": 189,
+      "end": 208
+    },
+    {
+      "text": "arteria cerebral anterior",
+      "type": "ARTERIA",
+      "start": 307,
+      "end": 332
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 673,
+      "end": 682
+    },
+    {
+      "text": "hipodensidad cortical y subcortical",
+      "type": "PATOLOGIA",
+      "start": 591,
+      "end": 626
+    },
+    {
+      "text": "edema citotóxico precoz",
+      "type": "PATOLOGIA",
+      "start": 697,
+      "end": 720
+    },
+    {
+      "text": "hemorragia intra o extraaxial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 747,
+      "end": 776
+    },
+    {
+      "text": "hipertensión endocraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 791,
+      "end": 815
+    },
+    {
+      "text": "arteria cerebral anterior izquierda",
+      "type": "ARTERIA",
+      "start": 647,
+      "end": 682
+    },
+    {
+      "text": "penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1173,
+      "end": 1191
+    },
+    {
+      "text": "infarto establecido",
+      "type": "PATOLOGIA",
+      "start": 1215,
+      "end": 1234
+    },
+    {
+      "text": "oclusión completa",
+      "type": "PATOLOGIA",
+      "start": 1302,
+      "end": 1319
+    },
+    {
+      "text": "segmento A2",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1324,
+      "end": 1335
+    },
+    {
+      "text": "arteria cerebral anterior izquierda",
+      "type": "ARTERIA",
+      "start": 647,
+      "end": 682
+    },
+    {
+      "text": "arterias cerebrales medias y posteriores",
+      "type": "ARTERIA",
+      "start": 1408,
+      "end": 1448
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 1618,
+      "end": 1632
+    },
+    {
+      "text": "zona en penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1734,
+      "end": 1760
+    },
+    {
+      "text": "hemorragias",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1804,
+      "end": 1815
+    },
+    {
+      "text": "signos de complicación intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1825,
+      "end": 1860
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 373,
+      "end": 389
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 416,
+      "end": 437
+    },
+    {
+      "text": "angio-TC de arterias intra y extracraneales",
+      "type": "TECNICA_IMAGEN",
+      "start": 440,
+      "end": 483
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "document_id": "informe_sintetico_20250804195045_12473",
+  "entities": [
+    {
+      "text": "hematoma subdural agudo",
+      "type": "PATOLOGIA",
+      "start": 320,
+      "end": 343
+    },
+    {
+      "text": "región frontoparietal izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 643,
+      "end": 674
+    },
+    {
+      "text": "12 mm",
+      "type": "MEDIDA",
+      "start": 701,
+      "end": 706
+    },
+    {
+      "text": "7 mm",
+      "type": "MEDIDA",
+      "start": 777,
+      "end": 781
+    },
+    {
+      "text": "ACAs, ACMs, ACPs",
+      "type": "ARTERIA",
+      "start": 1430,
+      "end": 1446
+    },
+    {
+      "text": "agudo",
+      "type": "TEMPORALIDAD",
+      "start": 338,
+      "end": 343
+    },
+    {
+      "text": "No se aprecian lesiones parenquimatosas hemorrágicas intraparenquimatosas adicionales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 846,
+      "end": 931
+    },
+    {
+      "text": "No complicaciones hemorrágicas adicionales ni alteraciones vasculares obstructivas detectadas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1888,
+      "end": 1981
+    }
+  ]
+}

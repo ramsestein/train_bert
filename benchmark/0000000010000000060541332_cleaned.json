@@ -1,0 +1,101 @@
+{
+  "document_id": "0000000010000000060541332_cleaned",
+  "entities": [
+    {
+      "text": "ictus de M2 izquierda",
+      "type": "PATOLOGIA",
+      "start": 187,
+      "end": 208
+    },
+    {
+      "text": "trombectomía mecánica",
+      "type": "PATOLOGIA",
+      "start": 226,
+      "end": 247
+    },
+    {
+      "text": "rTPA intraarterial",
+      "type": "PATOLOGIA",
+      "start": 250,
+      "end": 268
+    },
+    {
+      "text": "oclusió o estenosi no especificades d'artèria cerebral no especificada",
+      "type": "PATOLOGIA",
+      "start": 436,
+      "end": 506
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 526,
+      "end": 542
+    },
+    {
+      "text": "energía dual",
+      "type": "TECNICA_IMAGEN",
+      "start": 577,
+      "end": 589
+    },
+    {
+      "text": "No se observan imágenes densas que sugieran hemorragia intra ni extraaxial o sufusión de contraste",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 641,
+      "end": 739
+    },
+    {
+      "text": "Parénquima cerebral sin alteraciones densitométricas agudas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 741,
+      "end": 800
+    },
+    {
+      "text": "Hipodensidad de la sustancia blanca por microangiopatía",
+      "type": "PATOLOGIA",
+      "start": 895,
+      "end": 950
+    },
+    {
+      "text": "Pequeño infarto en el cuerpo del núcleo caudado derecho",
+      "type": "PATOLOGIA",
+      "start": 952,
+      "end": 1007
+    },
+    {
+      "text": "Calcificación intraparenquimatosa focal subcortical frontal derecha",
+      "type": "PATOLOGIA",
+      "start": 1009,
+      "end": 1076
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 1069,
+      "end": 1076
+    },
+    {
+      "text": "indeterminada y estable",
+      "type": "PATOLOGIA",
+      "start": 1078,
+      "end": 1101
+    },
+    {
+      "text": "Estructuras de la línea media centradas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1103,
+      "end": 1142
+    },
+    {
+      "text": "Sistema ventricular de tamaño y morfología normal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1144,
+      "end": 1193
+    },
+    {
+      "text": "Cisternas basales libres",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1195,
+      "end": 1219
+    }
+  ]
+}

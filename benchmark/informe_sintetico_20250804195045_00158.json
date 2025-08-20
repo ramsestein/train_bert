@@ -1,0 +1,65 @@
+{
+  "document_id": "informe_sintetico_20250804195045_00158",
+  "entities": [
+    {
+      "text": "isquemia aguda reciente",
+      "type": "PATOLOGIA",
+      "start": 560,
+      "end": 583
+    },
+    {
+      "text": "arteria cerebral posterior",
+      "type": "ARTERIA",
+      "start": 259,
+      "end": 285
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 286,
+      "end": 293
+    },
+    {
+      "text": "7/10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 714,
+      "end": 718
+    },
+    {
+      "text": "No hay evidencia de hemorragia intra ni extraaxial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 720,
+      "end": 770
+    },
+    {
+      "text": "penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1041,
+      "end": 1059
+    },
+    {
+      "text": "ausencia de opacificación",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1283,
+      "end": 1308
+    },
+    {
+      "text": "arteria cerebral posterior derecha",
+      "type": "ARTERIA",
+      "start": 259,
+      "end": 293
+    },
+    {
+      "text": "Oclusión proximal de ACP derecha",
+      "type": "PATOLOGIA",
+      "start": 1757,
+      "end": 1789
+    },
+    {
+      "text": "7/10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 714,
+      "end": 718
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "document_id": "informe_sintetico_20250804195045_05129",
+  "entities": [
+    {
+      "text": "infarto isquémico agudo",
+      "type": "PATOLOGIA",
+      "start": 1714,
+      "end": 1737
+    },
+    {
+      "text": "territorio vertebrobasilar",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1741,
+      "end": 1767
+    },
+    {
+      "text": "arteria basilar",
+      "type": "ARTERIA",
+      "start": 309,
+      "end": 324
+    },
+    {
+      "text": "tronco encefálico",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1098,
+      "end": 1115
+    },
+    {
+      "text": "cerebelo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 601,
+      "end": 609
+    },
+    {
+      "text": "cerebelo bilateral",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 601,
+      "end": 619
+    },
+    {
+      "text": "arterias cerebrales anteriores y medias",
+      "type": "ARTERIA",
+      "start": 1577,
+      "end": 1616
+    },
+    {
+      "text": "68 años",
+      "type": "MEDIDA",
+      "start": 188,
+      "end": 195
+    },
+    {
+      "text": "súbito",
+      "type": "TEMPORALIDAD",
+      "start": 207,
+      "end": 213
+    },
+    {
+      "text": "completo",
+      "type": "PUNTUACION_CLINICA",
+      "start": 368,
+      "end": 376
+    },
+    {
+      "text": "TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANG IOTC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 72,
+      "end": 140
+    },
+    {
+      "text": "sin estenosis significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1484,
+      "end": 1511
+    },
+    {
+      "text": "sin alteraciones significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1630,
+      "end": 1661
+    },
+    {
+      "text": "ligeramente comprimido",
+      "type": "PATOLOGIA",
+      "start": 802,
+      "end": 824
+    },
+    {
+      "text": "parcialmente obliteradas",
+      "type": "PATOLOGIA",
+      "start": 868,
+      "end": 892
+    },
+    {
+      "text": "signo evidente de edema citotóxico",
+      "type": "PATOLOGIA",
+      "start": 649,
+      "end": 683
+    },
+    {
+      "text": "edema citotóxico",
+      "type": "PATOLOGIA",
+      "start": 667,
+      "end": 683
+    },
+    {
+      "text": "valoración neurológica urgente",
+      "type": "TEMPORALIDAD",
+      "start": 1918,
+      "end": 1948
+    }
+  ],
+  "regenerado": true,
+  "fecha_regeneracion": "2025-08-06T13:58:46.040747"
+}

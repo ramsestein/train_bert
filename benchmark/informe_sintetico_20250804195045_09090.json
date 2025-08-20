@@ -1,0 +1,107 @@
+{
+  "document_id": "informe_sintetico_20250804195045_09090",
+  "entities": [
+    {
+      "text": "isquemia vertebrobasilar aguda",
+      "type": "PATOLOGIA",
+      "start": 263,
+      "end": 293
+    },
+    {
+      "text": "hipodensidad leve",
+      "type": "PATOLOGIA",
+      "start": 548,
+      "end": 565
+    },
+    {
+      "text": "lesión isquémica temprana",
+      "type": "PATOLOGIA",
+      "start": 692,
+      "end": 717
+    },
+    {
+      "text": "infarto isquémico agudo",
+      "type": "PATOLOGIA",
+      "start": 1725,
+      "end": 1748
+    },
+    {
+      "text": "tronco cerebral",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 587,
+      "end": 602
+    },
+    {
+      "text": "cerebelo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 659,
+      "end": 667
+    },
+    {
+      "text": "arteria basilar proximal",
+      "type": "ARTERIA",
+      "start": 1357,
+      "end": 1381
+    },
+    {
+      "text": "arteria vertebral izquierda",
+      "type": "ARTERIA",
+      "start": 1451,
+      "end": 1478
+    },
+    {
+      "text": "bilateral",
+      "type": "LATERALIDAD",
+      "start": 668,
+      "end": 677
+    },
+    {
+      "text": "retraso del Tiempo hasta el Pico (TTP)",
+      "type": "MEDIDA",
+      "start": 974,
+      "end": 1012
+    },
+    {
+      "text": "disminuido",
+      "type": "MEDIDA",
+      "start": 1108,
+      "end": 1118
+    },
+    {
+      "text": "agudo",
+      "type": "TEMPORALIDAD",
+      "start": 1743,
+      "end": 1748
+    },
+    {
+      "text": "penumbra isquémica activa",
+      "type": "PATOLOGIA",
+      "start": 1163,
+      "end": 1188
+    },
+    {
+      "text": "No hemorragia intracraneal asociada",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1939,
+      "end": 1974
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 338,
+      "end": 354
+    },
+    {
+      "text": "perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 356,
+      "end": 374
+    },
+    {
+      "text": "angioTC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 377,
+      "end": 406
+    }
+  ]
+}

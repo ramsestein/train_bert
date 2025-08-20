@@ -1,0 +1,32 @@
+UO_PACN (Unidad Organizativa Médica): RADIO
+
+PRUEB (Prueba solicitada): TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANG IOTC ARTERIAL INTRACRANEAL)
+
+CLIN (Resumen clínico): Déficit neurológico súbito con afasia y hemiparesia derecha, inicio hace 3 horas.
+
+OBSR (Protocolo): TC craneal basal sin contraste + TC perfusión cerebral + angio-TC del cuello y intracraneal en modalidad urgente.
+
+RESL (Resultados):  
+TC CRANEAL BASAL:  
+Se evidencia línea arterial hiperdensa compatible con trombo en segmento proximal de la arteria cerebral media izquierda (M1). Tenuas hipodensidades en la región insular y núcleo lenticular izquierdo con pérdida parcial de la diferenciación córtico-subcortical, ASPECTS 6. No se observan hemorragias intra ni extraaxiales. Sistema ventricular simétrico, sin desviaciones de la línea media. Cisternas basales libres.
+
+TC PERFUSIÓN:  
+Mapas perfusionales muestran aumento significativo del tiempo de tránsito medio (TTP) y reducción del flujo sanguíneo cerebral (CBF) en territorio de la ACM izquierda compatible con isquemia en zona de penumbra. Volumen cerebral afectado (CBV) preservado en gran parte, sin evidencia clara de infarto establecido en la perfusión.
+
+ANGIO-TC EXTRA E INTRACRANEAL:  
+Oclusión completa del segmento M1 izquierdo. Arterias carótidas internas y vertebrales permeables sin estenosis significativas. Ateromatosis leve en bifurcaciones carotídeas sin compromiso hemodinámico. Sistema vertebrobasilar sin alteraciones. Estructuras vasculares restantes sin hallazgos relevantes.
+
+CONCL (Conclusiones):  
+Oclusión aguda de la arteria cerebral media proximal izquierda (M1) con hallazgos de isquemia temprana (ASPECTS 6) y presencia de territorio en penumbra viable. No se observa sangrado ni infarto establecido por TC basal. Requiere evaluación urgente para posible trombectomía mecánica.
+
+ACTI_ADICI (Actividad adicional):
+
+DKTXT (Descripció): Evaluación urgente para tratamiento intervencionista en código ictus.
+
+ICON (Estudio): @RADIO_CODE@
+
+X00DIATXT (Texto del diagnóstico ACR): Oclusión arterial aguda en segmento M1 de arteria cerebral media izquierda, con áreas de isquemia temprana y tejido potencialmente recuperable en perfusión.
+
+EST_T_DES (Descripción): TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANGIOTC ARTERIAL INTRACRANEAL)
+
+ZVASOS_D (Der.): PMID 12345678; Revisión actualizada en guías de manejo de ictus isquémico agudo.

@@ -1,0 +1,101 @@
+{
+  "document_id": "informe_sintetico_20250804195045_05332",
+  "entities": [
+    {
+      "text": "isquemia",
+      "type": "PATOLOGIA",
+      "start": 216,
+      "end": 224
+    },
+    {
+      "text": "arteria cerebral anterior",
+      "type": "ARTERIA",
+      "start": 242,
+      "end": 267
+    },
+    {
+      "text": "agudo",
+      "type": "TEMPORALIDAD",
+      "start": 194,
+      "end": 199
+    },
+    {
+      "text": "arteria cerebral anterior (ACA)",
+      "type": "ARTERIA",
+      "start": 715,
+      "end": 746
+    },
+    {
+      "text": "ASPECTS 9/10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 773,
+      "end": 785
+    },
+    {
+      "text": "retraso prolongado en región frontal medial izquierda compatible con hipoperfusión",
+      "type": "PATOLOGIA",
+      "start": 989,
+      "end": 1071
+    },
+    {
+      "text": "Flujo cerebral (CBF) disminuido",
+      "type": "PATOLOGIA",
+      "start": 1075,
+      "end": 1106
+    },
+    {
+      "text": "reducción moderada del volumen cerebral de sangre (CBV)",
+      "type": "PATOLOGIA",
+      "start": 1125,
+      "end": 1180
+    },
+    {
+      "text": "mismatch significativo",
+      "type": "PATOLOGIA",
+      "start": 1823,
+      "end": 1845
+    },
+    {
+      "text": "Oclusión proximal en segmento A2 de arteria cerebral anterior izquierda",
+      "type": "PATOLOGIA",
+      "start": 1310,
+      "end": 1381
+    },
+    {
+      "text": "ausencia de contraste",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1398,
+      "end": 1419
+    },
+    {
+      "text": "sin estenosis relevantes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1552,
+      "end": 1576
+    },
+    {
+      "text": "sin hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1660,
+      "end": 1687
+    },
+    {
+      "text": "área de penumbra con mismatch significativo en región frontal medial izquierda",
+      "type": "PATOLOGIA",
+      "start": 1802,
+      "end": 1880
+    },
+    {
+      "text": "oclusión proximal en segmento A2 de ACA izquierda",
+      "type": "PATOLOGIA",
+      "start": 1903,
+      "end": 1952
+    },
+    {
+      "text": "Resto de vasos intracraneales permeables",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2468,
+      "end": 2508
+    }
+  ]
+}

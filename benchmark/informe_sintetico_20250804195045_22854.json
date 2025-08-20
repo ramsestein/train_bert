@@ -1,0 +1,71 @@
+{
+  "document_id": "informe_sintetico_20250804195045_22854",
+  "entities": [
+    {
+      "text": "hematoma lobar",
+      "type": "PATOLOGIA",
+      "start": 425,
+      "end": 439
+    },
+    {
+      "text": "lóbulo frontal derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 446,
+      "end": 468
+    },
+    {
+      "text": "38 mL",
+      "type": "MEDIDA",
+      "start": 496,
+      "end": 501
+    },
+    {
+      "text": "3 mm",
+      "type": "MEDIDA",
+      "start": 806,
+      "end": 810
+    },
+    {
+      "text": "agudo",
+      "type": "TEMPORALIDAD",
+      "start": 186,
+      "end": 191
+    },
+    {
+      "text": "ACAs",
+      "type": "ARTERIA",
+      "start": 1264,
+      "end": 1268
+    },
+    {
+      "text": "ACMs",
+      "type": "ARTERIA",
+      "start": 1270,
+      "end": 1274
+    },
+    {
+      "text": "ACPs",
+      "type": "ARTERIA",
+      "start": 1277,
+      "end": 1281
+    },
+    {
+      "text": "sin signos de hidrocefalia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1000,
+      "end": 1026
+    },
+    {
+      "text": "sin estenosis significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1479,
+      "end": 1506
+    },
+    {
+      "text": "sin evidencia de estenosis o malformaciones vasculares",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2032,
+      "end": 2086
+    }
+  ]
+}

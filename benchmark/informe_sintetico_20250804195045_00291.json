@@ -1,0 +1,227 @@
+{
+  "document_id": "informe_sintetico_20250804195045_00291",
+  "entities": [
+    {
+      "text": "infarto cerebral",
+      "type": "PATOLOGIA",
+      "start": 215,
+      "end": 231
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 252,
+      "end": 284
+    },
+    {
+      "text": "deterioro neurológico progresivo",
+      "type": "PATOLOGIA",
+      "start": 295,
+      "end": 327
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 378,
+      "end": 394
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 397,
+      "end": 418
+    },
+    {
+      "text": "angiografía TC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 421,
+      "end": 457
+    },
+    {
+      "text": "área hipodensa",
+      "type": "PATOLOGIA",
+      "start": 588,
+      "end": 602
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 252,
+      "end": 284
+    },
+    {
+      "text": "infarto establecido",
+      "type": "PATOLOGIA",
+      "start": 671,
+      "end": 690
+    },
+    {
+      "text": "múltiples focos hiperdensos",
+      "type": "PATOLOGIA",
+      "start": 716,
+      "end": 743
+    },
+    {
+      "text": "transformación hemorrágica",
+      "type": "PATOLOGIA",
+      "start": 784,
+      "end": 810
+    },
+    {
+      "text": "grado HI2",
+      "type": "PUNTUACION_CLINICA",
+      "start": 823,
+      "end": 832
+    },
+    {
+      "text": "más del 30%",
+      "type": "MEDIDA",
+      "start": 845,
+      "end": 856
+    },
+    {
+      "text": "sin efecto de masa significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 876,
+      "end": 908
+    },
+    {
+      "text": "No se observan otras hemorragias intraaxiales extra o subaracnoideas ni hematomas epidurales o subdurales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 910,
+      "end": 1015
+    },
+    {
+      "text": "sin signos de herniación",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1117,
+      "end": 1141
+    },
+    {
+      "text": "territorio izquierdo de la MCA",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1240,
+      "end": 1270
+    },
+    {
+      "text": "prolongación del tiempo de tránsito",
+      "type": "PATOLOGIA",
+      "start": 1275,
+      "end": 1310
+    },
+    {
+      "text": "aumento del tiempo hasta el pico",
+      "type": "PATOLOGIA",
+      "start": 1313,
+      "end": 1345
+    },
+    {
+      "text": "área isquémica",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 861,
+      "end": 875
+    },
+    {
+      "text": "relativa preservación del flujo cerebral",
+      "type": "PATOLOGIA",
+      "start": 1412,
+      "end": 1452
+    },
+    {
+      "text": "Oclusión completa",
+      "type": "PATOLOGIA",
+      "start": 1490,
+      "end": 1507
+    },
+    {
+      "text": "segmento proximal de la arteria cerebral media izquierda (M1)",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1511,
+      "end": 1572
+    },
+    {
+      "text": "sin colaterales significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1574,
+      "end": 1604
+    },
+    {
+      "text": "Arterias intracraneales restantes permeables",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1606,
+      "end": 1650
+    },
+    {
+      "text": "sin estenosis ni defectos de repleción",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1651,
+      "end": 1689
+    },
+    {
+      "text": "Ateromatosis leve calcificada en bifurcación carotídea izquierda",
+      "type": "PATOLOGIA",
+      "start": 1691,
+      "end": 1755
+    },
+    {
+      "text": "sin estenosis significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1756,
+      "end": 1783
+    },
+    {
+      "text": "Transformación hemorrágica grado HI2",
+      "type": "PATOLOGIA",
+      "start": 1810,
+      "end": 1846
+    },
+    {
+      "text": "área infartada de arteria cerebral media izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1850,
+      "end": 1900
+    },
+    {
+      "text": "sin efecto de masa ni desplazamiento de línea media",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1902,
+      "end": 1953
+    },
+    {
+      "text": "Oclusión persistente de segmento proximal de MCA izquierda",
+      "type": "PATOLOGIA",
+      "start": 1955,
+      "end": 2013
+    },
+    {
+      "text": "Perfusión cerebral compatible con infarto establecido",
+      "type": "PATOLOGIA",
+      "start": 2015,
+      "end": 2068
+    },
+    {
+      "text": "moderada área de penumbra",
+      "type": "PATOLOGIA",
+      "start": 2071,
+      "end": 2096
+    },
+    {
+      "text": "No complicaciones hemorrágicas adicionales detectadas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2098,
+      "end": 2151
+    },
+    {
+      "text": "Transformación hemorrágica HI2 en infarto cerebral territorial de MCA izquierda",
+      "type": "PATOLOGIA",
+      "start": 2358,
+      "end": 2437
+    },
+    {
+      "text": "Oclusión arterial persistente sin estenosis significativa en otras arterias",
+      "type": "PATOLOGIA",
+      "start": 2439,
+      "end": 2514
+    }
+  ]
+}

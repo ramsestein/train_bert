@@ -1,0 +1,101 @@
+{
+  "document_id": "informe_sintetico_20250804195045_11072",
+  "entities": [
+    {
+      "text": "hemorragia lobar parietal izquierda",
+      "type": "PATOLOGIA",
+      "start": 809,
+      "end": 844
+    },
+    {
+      "text": "microhemorragias corticales",
+      "type": "PATOLOGIA",
+      "start": 684,
+      "end": 711
+    },
+    {
+      "text": "atrofia cortical leve",
+      "type": "PATOLOGIA",
+      "start": 1103,
+      "end": 1124
+    },
+    {
+      "text": "lóbulos occipitales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 622,
+      "end": 641
+    },
+    {
+      "text": "hemisferios cerebrales superiores",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1155,
+      "end": 1188
+    },
+    {
+      "text": "arterias cerebrales anterior",
+      "type": "ARTERIA",
+      "start": 1652,
+      "end": 1680
+    },
+    {
+      "text": "bilaterales",
+      "type": "LATERALIDAD",
+      "start": 655,
+      "end": 666
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 835,
+      "end": 844
+    },
+    {
+      "text": "agudo",
+      "type": "TEMPORALIDAD",
+      "start": 990,
+      "end": 995
+    },
+    {
+      "text": "microhemorragias corticales bilaterales",
+      "type": "PATOLOGIA",
+      "start": 2071,
+      "end": 2110
+    },
+    {
+      "text": "No se aprecian signos de infarto isquémico agudo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 947,
+      "end": 995
+    },
+    {
+      "text": "No se identifican estenosis significativas ni oclusiones",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1551,
+      "end": 1607
+    },
+    {
+      "text": "No se encuentran malformaciones vasculares ni aneurismas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1736,
+      "end": 1792
+    },
+    {
+      "text": "TC craneal sin contraste",
+      "type": "TECNICA_IMAGEN",
+      "start": 342,
+      "end": 366
+    },
+    {
+      "text": "perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 379,
+      "end": 397
+    },
+    {
+      "text": "Angio-TC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 400,
+      "end": 430
+    }
+  ]
+}

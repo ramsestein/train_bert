@@ -1,0 +1,101 @@
+{
+  "document_id": "informe_sintetico_20250804195045_14006",
+  "entities": [
+    {
+      "text": "isquemia cerebral",
+      "type": "PATOLOGIA",
+      "start": 239,
+      "end": 256
+    },
+    {
+      "text": "ACM izquierdo distal",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 271,
+      "end": 291
+    },
+    {
+      "text": "ACM",
+      "type": "ARTERIA",
+      "start": 271,
+      "end": 274
+    },
+    {
+      "text": "izquierdo",
+      "type": "LATERALIDAD",
+      "start": 275,
+      "end": 284
+    },
+    {
+      "text": "9",
+      "type": "PUNTUACION_CLINICA",
+      "start": 671,
+      "end": 672
+    },
+    {
+      "text": "moderada",
+      "type": "MEDIDA",
+      "start": 862,
+      "end": 870
+    },
+    {
+      "text": "M2/M3 izquierdas",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 940,
+      "end": 956
+    },
+    {
+      "text": "leve",
+      "type": "MEDIDA",
+      "start": 570,
+      "end": 574
+    },
+    {
+      "text": "penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1052,
+      "end": 1070
+    },
+    {
+      "text": "M2",
+      "type": "ARTERIA",
+      "start": 655,
+      "end": 657
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 634,
+      "end": 643
+    },
+    {
+      "text": "aguda",
+      "type": "TEMPORALIDAD",
+      "start": 1663,
+      "end": 1668
+    },
+    {
+      "text": "9",
+      "type": "PUNTUACION_CLINICA",
+      "start": 671,
+      "end": 672
+    },
+    {
+      "text": "significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 683,
+      "end": 696
+    },
+    {
+      "text": "sin evidencia de hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2208,
+      "end": 2248
+    },
+    {
+      "text": "M2 distal ACM izquierda ocluida",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 2393,
+      "end": 2424
+    }
+  ]
+}

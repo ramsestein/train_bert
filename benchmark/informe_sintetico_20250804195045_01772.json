@@ -1,0 +1,107 @@
+{
+  "document_id": "informe_sintetico_20250804195045_01772",
+  "entities": [
+    {
+      "text": "ictus isquémico",
+      "type": "PATOLOGIA",
+      "start": 221,
+      "end": 236
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "ARTERIA",
+      "start": 257,
+      "end": 287
+    },
+    {
+      "text": "M1",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 517,
+      "end": 519
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 280,
+      "end": 287
+    },
+    {
+      "text": "7",
+      "type": "PUNTUACION_CLINICA",
+      "start": 688,
+      "end": 689
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 763,
+      "end": 786
+    },
+    {
+      "text": "edema significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 790,
+      "end": 809
+    },
+    {
+      "text": "M1",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 517,
+      "end": 519
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "ARTERIA",
+      "start": 257,
+      "end": 287
+    },
+    {
+      "text": "aguda",
+      "type": "TEMPORALIDAD",
+      "start": 1635,
+      "end": 1640
+    },
+    {
+      "text": "isquemia",
+      "type": "PATOLOGIA",
+      "start": 1718,
+      "end": 1726
+    },
+    {
+      "text": "7",
+      "type": "PUNTUACION_CLINICA",
+      "start": 688,
+      "end": 689
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 763,
+      "end": 786
+    },
+    {
+      "text": "edema significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 790,
+      "end": 809
+    },
+    {
+      "text": "TTP",
+      "type": "MEDIDA",
+      "start": 1044,
+      "end": 1047
+    },
+    {
+      "text": "CBF",
+      "type": "MEDIDA",
+      "start": 1080,
+      "end": 1083
+    },
+    {
+      "text": "CBV",
+      "type": "MEDIDA",
+      "start": 1201,
+      "end": 1204
+    }
+  ]
+}

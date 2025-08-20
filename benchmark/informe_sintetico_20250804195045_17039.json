@@ -1,0 +1,143 @@
+{
+  "document_id": "informe_sintetico_20250804195045_17039",
+  "entities": [
+    {
+      "text": "ictus isquémico",
+      "type": "PATOLOGIA",
+      "start": 243,
+      "end": 258
+    },
+    {
+      "text": "arteria cerebral media",
+      "type": "ARTERIA",
+      "start": 276,
+      "end": 298
+    },
+    {
+      "text": "derecho",
+      "type": "LATERALIDAD",
+      "start": 199,
+      "end": 206
+    },
+    {
+      "text": "ASPECTS 9/10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 744,
+      "end": 756
+    },
+    {
+      "text": "hipodensidad cortical",
+      "type": "PATOLOGIA",
+      "start": 767,
+      "end": 788
+    },
+    {
+      "text": "izquierdo",
+      "type": "LATERALIDAD",
+      "start": 820,
+      "end": 829
+    },
+    {
+      "text": "Tmax",
+      "type": "MEDIDA",
+      "start": 982,
+      "end": 986
+    },
+    {
+      "text": "TTP",
+      "type": "MEDIDA",
+      "start": 989,
+      "end": 992
+    },
+    {
+      "text": "reducción moderada",
+      "type": "PATOLOGIA",
+      "start": 996,
+      "end": 1014
+    },
+    {
+      "text": "flujo sanguíneo cerebral",
+      "type": "PATOLOGIA",
+      "start": 1019,
+      "end": 1043
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 1108,
+      "end": 1117
+    },
+    {
+      "text": "M2/M3",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1148,
+      "end": 1153
+    },
+    {
+      "text": "volumen cerebral (CBV)",
+      "type": "MEDIDA",
+      "start": 1176,
+      "end": 1198
+    },
+    {
+      "text": "penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1234,
+      "end": 1252
+    },
+    {
+      "text": "Oclusión segmentaria",
+      "type": "PATOLOGIA",
+      "start": 1288,
+      "end": 1308
+    },
+    {
+      "text": "M2",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1148,
+      "end": 1150
+    },
+    {
+      "text": "arteria cerebral media",
+      "type": "ARTERIA",
+      "start": 276,
+      "end": 298
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 1108,
+      "end": 1117
+    },
+    {
+      "text": "sin infarto consolidado extenso",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1705,
+      "end": 1736
+    },
+    {
+      "text": "ASPECTS 9",
+      "type": "PUNTUACION_CLINICA",
+      "start": 744,
+      "end": 753
+    },
+    {
+      "text": "No hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1750,
+      "end": 1776
+    },
+    {
+      "text": "Oclusión segmentaria de rama M2 izquierda",
+      "type": "PATOLOGIA",
+      "start": 1778,
+      "end": 1819
+    },
+    {
+      "text": "angio-TC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 1835,
+      "end": 1865
+    }
+  ]
+}

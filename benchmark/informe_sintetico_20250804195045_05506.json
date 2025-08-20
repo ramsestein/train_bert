@@ -1,0 +1,113 @@
+{
+  "document_id": "informe_sintetico_20250804195045_05506",
+  "entities": [
+    {
+      "text": "hipodensidad",
+      "type": "PATOLOGIA",
+      "start": 507,
+      "end": 519
+    },
+    {
+      "text": "edema vasogénico",
+      "type": "PATOLOGIA",
+      "start": 578,
+      "end": 594
+    },
+    {
+      "text": "hemorragia intra o extraaxial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 636,
+      "end": 665
+    },
+    {
+      "text": "tiempo de tránsito medio (MTT)",
+      "type": "MEDIDA",
+      "start": 872,
+      "end": 902
+    },
+    {
+      "text": "flujo sanguíneo cerebral (CBF)",
+      "type": "MEDIDA",
+      "start": 919,
+      "end": 949
+    },
+    {
+      "text": "volumen cerebral (CBV)",
+      "type": "MEDIDA",
+      "start": 1004,
+      "end": 1026
+    },
+    {
+      "text": "trombosis venosa cerebral",
+      "type": "PATOLOGIA",
+      "start": 255,
+      "end": 280
+    },
+    {
+      "text": "seno longitudinal superior",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1121,
+      "end": 1147
+    },
+    {
+      "text": "seno transverso derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1150,
+      "end": 1173
+    },
+    {
+      "text": "hemorragia asociada",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1589,
+      "end": 1608
+    },
+    {
+      "text": "infarto arterial agudo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1627,
+      "end": 1649
+    },
+    {
+      "text": "seno longitudinal superior",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1121,
+      "end": 1147
+    },
+    {
+      "text": "seno transverso derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1150,
+      "end": 1173
+    },
+    {
+      "text": "hipoperfusión venosa cortical",
+      "type": "PATOLOGIA",
+      "start": 1913,
+      "end": 1942
+    },
+    {
+      "text": "estenosis ni oclusiones",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1351,
+      "end": 1374
+    },
+    {
+      "text": "TC Craneal Basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 328,
+      "end": 344
+    },
+    {
+      "text": "Perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 346,
+      "end": 364
+    },
+    {
+      "text": "AngioTC venoso y arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 367,
+      "end": 405
+    }
+  ]
+}

@@ -1,0 +1,233 @@
+{
+  "document_id": "informe_sintetico_20250804195045_10236",
+  "entities": [
+    {
+      "text": "isquemia cerebral aguda multiterritorial",
+      "type": "PATOLOGIA",
+      "start": 253,
+      "end": 293
+    },
+    {
+      "text": "hemorragias intracraneales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 515,
+      "end": 541
+    },
+    {
+      "text": "masas expansivas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 545,
+      "end": 561
+    },
+    {
+      "text": "múltiples áreas hipodensas",
+      "type": "PATOLOGIA",
+      "start": 578,
+      "end": 604
+    },
+    {
+      "text": "corteza y subcorteza",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 608,
+      "end": 628
+    },
+    {
+      "text": "territorios frontoparietal derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 649,
+      "end": 683
+    },
+    {
+      "text": "temporal izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 685,
+      "end": 703
+    },
+    {
+      "text": "occipital bilateral",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 706,
+      "end": 725
+    },
+    {
+      "text": "infartos isquémicos agudos recientes",
+      "type": "PATOLOGIA",
+      "start": 743,
+      "end": 779
+    },
+    {
+      "text": "ASPECTS globalmente reducido a 5",
+      "type": "PUNTUACION_CLINICA",
+      "start": 781,
+      "end": 813
+    },
+    {
+      "text": "edema masivo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 840,
+      "end": 852
+    },
+    {
+      "text": "herniación cerebral",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 856,
+      "end": 875
+    },
+    {
+      "text": "Hipoperfusión severa",
+      "type": "PATOLOGIA",
+      "start": 904,
+      "end": 924
+    },
+    {
+      "text": "múltiples territorios vasculares",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 928,
+      "end": 960
+    },
+    {
+      "text": "arterias cerebrales medias bilateralmente",
+      "type": "ARTERIA",
+      "start": 980,
+      "end": 1021
+    },
+    {
+      "text": "arterias cerebrales posteriores",
+      "type": "ARTERIA",
+      "start": 1024,
+      "end": 1055
+    },
+    {
+      "text": "Time To Peak",
+      "type": "MEDIDA",
+      "start": 1080,
+      "end": 1092
+    },
+    {
+      "text": "Time To Drain",
+      "type": "MEDIDA",
+      "start": 1095,
+      "end": 1108
+    },
+    {
+      "text": "flujo cerebral (CBF)",
+      "type": "MEDIDA",
+      "start": 1126,
+      "end": 1146
+    },
+    {
+      "text": "volumen sanguíneo cerebral (CBV)",
+      "type": "MEDIDA",
+      "start": 1149,
+      "end": 1181
+    },
+    {
+      "text": "isquemia penumbrosa",
+      "type": "PATOLOGIA",
+      "start": 1209,
+      "end": 1228
+    },
+    {
+      "text": "infarto irreversible",
+      "type": "PATOLOGIA",
+      "start": 1250,
+      "end": 1270
+    },
+    {
+      "text": "oclusiones segmentarias",
+      "type": "PATOLOGIA",
+      "start": 1341,
+      "end": 1364
+    },
+    {
+      "text": "arteria cerebral media derecha (M2)",
+      "type": "ARTERIA",
+      "start": 1371,
+      "end": 1406
+    },
+    {
+      "text": "arteria cerebral posterior izquierda (P2)",
+      "type": "ARTERIA",
+      "start": 1409,
+      "end": 1450
+    },
+    {
+      "text": "estenosis severas proximales",
+      "type": "PATOLOGIA",
+      "start": 1462,
+      "end": 1490
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "ARTERIA",
+      "start": 1494,
+      "end": 1526
+    },
+    {
+      "text": "aneurismas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1545,
+      "end": 1555
+    },
+    {
+      "text": "malformaciones vasculares",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1559,
+      "end": 1584
+    },
+    {
+      "text": "placas significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1641,
+      "end": 1662
+    },
+    {
+      "text": "estenosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1462,
+      "end": 1471
+    },
+    {
+      "text": "Sistema vertebrobasilar permeable",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1677,
+      "end": 1710
+    },
+    {
+      "text": "infartos agudos en territorios multiterritoriales",
+      "type": "PATOLOGIA",
+      "start": 1776,
+      "end": 1825
+    },
+    {
+      "text": "evento isquémico agudo severo y extendido",
+      "type": "PATOLOGIA",
+      "start": 1862,
+      "end": 1903
+    },
+    {
+      "text": "hipoperfusión significativa",
+      "type": "PATOLOGIA",
+      "start": 1944,
+      "end": 1971
+    },
+    {
+      "text": "compromiso extenso",
+      "type": "PATOLOGIA",
+      "start": 1976,
+      "end": 1994
+    },
+    {
+      "text": "oclusiones y estenosis arteriales intracraneales múltiples",
+      "type": "PATOLOGIA",
+      "start": 2013,
+      "end": 2071
+    },
+    {
+      "text": "cuadro clínico",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2090,
+      "end": 2104
+    }
+  ]
+}

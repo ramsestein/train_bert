@@ -1,0 +1,107 @@
+{
+  "document_id": "informe_sintetico_20250804195045_21056",
+  "entities": [
+    {
+      "text": "ictus isquémico",
+      "type": "PATOLOGIA",
+      "start": 247,
+      "end": 262
+    },
+    {
+      "text": "hemiparesia izquierda",
+      "type": "PATOLOGIA",
+      "start": 196,
+      "end": 217
+    },
+    {
+      "text": "afasia motora",
+      "type": "PATOLOGIA",
+      "start": 220,
+      "end": 233
+    },
+    {
+      "text": "isquemia",
+      "type": "PATOLOGIA",
+      "start": 748,
+      "end": 756
+    },
+    {
+      "text": "ASPECTS 9",
+      "type": "PUNTUACION_CLINICA",
+      "start": 758,
+      "end": 767
+    },
+    {
+      "text": "aumento leve del TTP",
+      "type": "PATOLOGIA",
+      "start": 943,
+      "end": 963
+    },
+    {
+      "text": "discreta reducción del CBF",
+      "type": "PATOLOGIA",
+      "start": 1079,
+      "end": 1105
+    },
+    {
+      "text": "penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1157,
+      "end": 1175
+    },
+    {
+      "text": "oclusión segmentaria",
+      "type": "PATOLOGIA",
+      "start": 2038,
+      "end": 2058
+    },
+    {
+      "text": "arteria cerebral media",
+      "type": "ARTERIA",
+      "start": 280,
+      "end": 302
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 208,
+      "end": 217
+    },
+    {
+      "text": "M2/M3",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1067,
+      "end": 1072
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "TEMPORALIDAD",
+      "start": 1436,
+      "end": 1450
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 330,
+      "end": 346
+    },
+    {
+      "text": "angiografía por TC",
+      "type": "TECNICA_IMAGEN",
+      "start": 401,
+      "end": 419
+    },
+    {
+      "text": "TC PERFUSIÓN",
+      "type": "TECNICA_IMAGEN",
+      "start": 872,
+      "end": 884
+    },
+    {
+      "text": "TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANG IOTC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 72,
+      "end": 140
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "document_id": "informe_sintetico_20250804195045_13823",
+  "entities": [
+    {
+      "text": "isquemia vertebrobasilar aguda",
+      "type": "PATOLOGIA",
+      "start": 280,
+      "end": 310
+    },
+    {
+      "text": "isquemia incipiente",
+      "type": "PATOLOGIA",
+      "start": 840,
+      "end": 859
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 2010,
+      "end": 2024
+    },
+    {
+      "text": "tronco encefálico",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 739,
+      "end": 756
+    },
+    {
+      "text": "cerebelo derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1321,
+      "end": 1337
+    },
+    {
+      "text": "arteria basilar",
+      "type": "ARTERIA",
+      "start": 1103,
+      "end": 1118
+    },
+    {
+      "text": "arteria vertebral izquierda",
+      "type": "ARTERIA",
+      "start": 2200,
+      "end": 2227
+    },
+    {
+      "text": "izquierdo",
+      "type": "LATERALIDAD",
+      "start": 249,
+      "end": 258
+    },
+    {
+      "text": "izquierdo",
+      "type": "LATERALIDAD",
+      "start": 249,
+      "end": 258
+    },
+    {
+      "text": "severa",
+      "type": "MEDIDA",
+      "start": 1488,
+      "end": 1494
+    },
+    {
+      "text": "subtotal",
+      "type": "MEDIDA",
+      "start": 1531,
+      "end": 1539
+    },
+    {
+      "text": "aguda",
+      "type": "TEMPORALIDAD",
+      "start": 305,
+      "end": 310
+    },
+    {
+      "text": "No se identifican hemorragias intra ni extraaxiales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 550,
+      "end": 601
+    },
+    {
+      "text": "No se evidencian hemorragias ni lesiones expansivas asociadas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2268,
+      "end": 2329
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 355,
+      "end": 371
+    },
+    {
+      "text": "TC PERFUSIÓN",
+      "type": "TECNICA_IMAGEN",
+      "start": 1008,
+      "end": 1020
+    },
+    {
+      "text": "ANGIO-TC EXTRA E INTRACRANEAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 1399,
+      "end": 1428
+    }
+  ]
+}

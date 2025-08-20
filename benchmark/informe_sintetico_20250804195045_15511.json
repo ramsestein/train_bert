@@ -1,0 +1,65 @@
+{
+  "document_id": "informe_sintetico_20250804195045_15511",
+  "entities": [
+    {
+      "text": "hematoma subdural agudo",
+      "type": "PATOLOGIA",
+      "start": 525,
+      "end": 548
+    },
+    {
+      "text": "hemisférico derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 489,
+      "end": 508
+    },
+    {
+      "text": "12 mm",
+      "type": "MEDIDA",
+      "start": 586,
+      "end": 591
+    },
+    {
+      "text": "6 mm",
+      "type": "MEDIDA",
+      "start": 690,
+      "end": 694
+    },
+    {
+      "text": "agudo",
+      "type": "TEMPORALIDAD",
+      "start": 543,
+      "end": 548
+    },
+    {
+      "text": "volumen sanguíneo cerebral (CBV)",
+      "type": "PATOLOGIA",
+      "start": 1047,
+      "end": 1079
+    },
+    {
+      "text": "derecho",
+      "type": "LATERALIDAD",
+      "start": 501,
+      "end": 508
+    },
+    {
+      "text": "signos de vasoespasmo ni estenosis relevante",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1409,
+      "end": 1453
+    },
+    {
+      "text": "No hay trombosis venosa sinusal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1523,
+      "end": 1554
+    },
+    {
+      "text": "No se evidencian fracturas ni hemorragias intraaxiales adicionales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1780,
+      "end": 1846
+    }
+  ]
+}

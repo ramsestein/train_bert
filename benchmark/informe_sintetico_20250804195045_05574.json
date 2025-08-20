@@ -1,0 +1,119 @@
+{
+  "document_id": "informe_sintetico_20250804195045_05574",
+  "entities": [
+    {
+      "text": "microhemorragias múltiples",
+      "type": "PATOLOGIA",
+      "start": 755,
+      "end": 781
+    },
+    {
+      "text": "sustancia blanca subcortical",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 677,
+      "end": 705
+    },
+    {
+      "text": "cuerpos estriados",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 708,
+      "end": 725
+    },
+    {
+      "text": "bilaterales",
+      "type": "LATERALIDAD",
+      "start": 726,
+      "end": 737
+    },
+    {
+      "text": "No se evidencian colecciones hemorrágicas mayores",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 783,
+      "end": 832
+    },
+    {
+      "text": "No se observan alteraciones significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1065,
+      "end": 1107
+    },
+    {
+      "text": "No hay áreas de hipoperfusión o alteración que sugieran isquemia aguda",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1208,
+      "end": 1278
+    },
+    {
+      "text": "Arterias cerebrales principales (ACAs, ACMs y ACPs) permeables",
+      "type": "ARTERIA",
+      "start": 1313,
+      "end": 1375
+    },
+    {
+      "text": "sin evidencias de estenosis ni placas ateromatosas significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1377,
+      "end": 1442
+    },
+    {
+      "text": "Sistema vertebrobasilar permeable",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1514,
+      "end": 1547
+    },
+    {
+      "text": "sin estenosis crítica",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1619,
+      "end": 1640
+    },
+    {
+      "text": "microhemorragias múltiples bilaterales en sustancia blanca y ganglios basales",
+      "type": "PATOLOGIA",
+      "start": 1680,
+      "end": 1757
+    },
+    {
+      "text": "No signos de hemorragia activa ni hematomas mayores",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1822,
+      "end": 1873
+    },
+    {
+      "text": "Perfusión cerebral sin alteraciones isquémicas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1875,
+      "end": 1921
+    },
+    {
+      "text": "Arterias intracraneales y supraaórticas permeables sin lesiones obstructivas significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1923,
+      "end": 2014
+    },
+    {
+      "text": "TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANG IOTC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 72,
+      "end": 140
+    },
+    {
+      "text": "TC craneal basal sin contraste",
+      "type": "TECNICA_IMAGEN",
+      "start": 395,
+      "end": 425
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 438,
+      "end": 459
+    },
+    {
+      "text": "angioTC intra y extracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 462,
+      "end": 490
+    }
+  ]
+}

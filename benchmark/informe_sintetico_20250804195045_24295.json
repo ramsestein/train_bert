@@ -1,0 +1,107 @@
+{
+  "document_id": "informe_sintetico_20250804195045_24295",
+  "entities": [
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 221,
+      "end": 235
+    },
+    {
+      "text": "territorio ACA",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 239,
+      "end": 253
+    },
+    {
+      "text": "arteria cerebral anterior izquierda",
+      "type": "ARTERIA",
+      "start": 645,
+      "end": 680
+    },
+    {
+      "text": "izquierdo",
+      "type": "LATERALIDAD",
+      "start": 901,
+      "end": 910
+    },
+    {
+      "text": "pérdida leve",
+      "type": "MEDIDA",
+      "start": 559,
+      "end": 571
+    },
+    {
+      "text": "aguda",
+      "type": "TEMPORALIDAD",
+      "start": 230,
+      "end": 235
+    },
+    {
+      "text": "penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1085,
+      "end": 1103
+    },
+    {
+      "text": "Oclusión segmentaria",
+      "type": "PATOLOGIA",
+      "start": 1194,
+      "end": 1214
+    },
+    {
+      "text": "arteria cerebral anterior izquierda",
+      "type": "ARTERIA",
+      "start": 645,
+      "end": 680
+    },
+    {
+      "text": "segmento A2",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1824,
+      "end": 1835
+    },
+    {
+      "text": "No se observan colecciones hemorrágicas intra ni extraaxiales ni signos de fractura ósea.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 455,
+      "end": 544
+    },
+    {
+      "text": "No hay efecto de masa ni desviación de línea media.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 738,
+      "end": 789
+    },
+    {
+      "text": "No se identifican áreas de infarto establecidas en mapas de CBV.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1105,
+      "end": 1169
+    },
+    {
+      "text": "No hay evidencia de hemorragia ni infarto establecido.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1839,
+      "end": 1893
+    },
+    {
+      "text": "TC CRANEAL BASAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 274,
+      "end": 290
+    },
+    {
+      "text": "estudio de perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 317,
+      "end": 346
+    },
+    {
+      "text": "AngioTC intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 349,
+      "end": 369
+    }
+  ]
+}

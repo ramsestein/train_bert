@@ -1,0 +1,77 @@
+{
+  "document_id": "informe_sintetico_20250804195045_16224",
+  "entities": [
+    {
+      "text": "isquemia",
+      "type": "PATOLOGIA",
+      "start": 243,
+      "end": 251
+    },
+    {
+      "text": "bulbo inferior derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 674,
+      "end": 696
+    },
+    {
+      "text": "territorio vertebrobasilar",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 255,
+      "end": 281
+    },
+    {
+      "text": "arteria vertebral derecha",
+      "type": "ARTERIA",
+      "start": 1285,
+      "end": 1310
+    },
+    {
+      "text": "arteria vertebral izquierda",
+      "type": "ARTERIA",
+      "start": 1379,
+      "end": 1406
+    },
+    {
+      "text": "arteria basilar",
+      "type": "ARTERIA",
+      "start": 1359,
+      "end": 1374
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 1303,
+      "end": 1310
+    },
+    {
+      "text": "ipsilateral",
+      "type": "LATERALIDAD",
+      "start": 1057,
+      "end": 1068
+    },
+    {
+      "text": "aguda",
+      "type": "TEMPORALIDAD",
+      "start": 1698,
+      "end": 1703
+    },
+    {
+      "text": "prolongación del tiempo de tránsito medio (MTT)",
+      "type": "MEDIDA",
+      "start": 865,
+      "end": 912
+    },
+    {
+      "text": "aumento del tiempo de paso (TTP)",
+      "type": "MEDIDA",
+      "start": 915,
+      "end": 947
+    },
+    {
+      "text": "mantenimiento relativo del volumen cerebral (CBV)",
+      "type": "MEDIDA",
+      "start": 1111,
+      "end": 1160
+    }
+  ]
+}

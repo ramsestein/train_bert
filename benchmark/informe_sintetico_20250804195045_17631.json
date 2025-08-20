@@ -1,0 +1,83 @@
+{
+  "document_id": "informe_sintetico_20250804195045_17631",
+  "entities": [
+    {
+      "text": "ictus isquémico",
+      "type": "PATOLOGIA",
+      "start": 252,
+      "end": 267
+    },
+    {
+      "text": "isquemia incipiente",
+      "type": "PATOLOGIA",
+      "start": 707,
+      "end": 726
+    },
+    {
+      "text": "isquemia",
+      "type": "PATOLOGIA",
+      "start": 707,
+      "end": 715
+    },
+    {
+      "text": "isquemia en evolución",
+      "type": "PATOLOGIA",
+      "start": 1231,
+      "end": 1252
+    },
+    {
+      "text": "arteria cerebral anterior",
+      "type": "ARTERIA",
+      "start": 285,
+      "end": 310
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 1037,
+      "end": 1046
+    },
+    {
+      "text": "A2",
+      "type": "ARTERIA",
+      "start": 1381,
+      "end": 1383
+    },
+    {
+      "text": "aguda",
+      "type": "TEMPORALIDAD",
+      "start": 1656,
+      "end": 1661
+    },
+    {
+      "text": "hemorragia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 550,
+      "end": 560
+    },
+    {
+      "text": "hemorragia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 550,
+      "end": 560
+    },
+    {
+      "text": "TC Basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 373,
+      "end": 381
+    },
+    {
+      "text": "TC Perfusión",
+      "type": "TECNICA_IMAGEN",
+      "start": 383,
+      "end": 395
+    },
+    {
+      "text": "Angio-TC",
+      "type": "TECNICA_IMAGEN",
+      "start": 449,
+      "end": 457
+    }
+  ]
+}

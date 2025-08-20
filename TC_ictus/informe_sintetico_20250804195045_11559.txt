@@ -1,0 +1,32 @@
+UO_PACN (Unidad Organizativa Médica): RADIO
+
+PRUEB (Prueba solicitada): TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANG IOTC ARTERIAL INTRACRANEAL)
+
+CLIN (Resumen clínico): Déficit motor súbito y afasia expresiva. Sospecha de isquemia cerebral aguda en múltiples territorios.
+
+OBSR (Protocolo): Estudio urgente con TC craneal basal sin contraste, seguido de TC perfusión cerebral y angiografía por angio TC arterial intracraneal.
+
+RESL (Resultados):  
+TC craneal basal:  
+Se identifican múltiples áreas hipodensas en territorios corticales y subcorticales de hemisferio cerebral derecho (territorio de ACM y ACA) e izquierdo (territorio de ACM), compatibles con zonas de isquemia aguda. No se detectan focos hemorrágicos intra o extraaxiales. Diferenciación cortico-subcortical disminuida en zonas afectadas. Línea media centrada sin desviación. Sistema ventricular en tamaño y morfología adecuados.  
+
+TC perfusión cerebral:  
+Mapas de tiempo de tránsito medio (MTT) prolongados en las regiones mencionadas, con disminución del volumen cerebral sanguíneo (CBV) y flujo sanguíneo cerebral (CBF), confirmando isquemia aguda. No se evidencian zonas con perfusión diferida que sugieran tejido viable en penumbra en extensión significativa.  
+
+Angio TC arterial intracraneal:  
+Oclusión completa de segmento proximal de arteria cerebral media derecha (M1). Estenosis severa en arteria cerebral anterior derecha. Oclusión parcial en arteria cerebral media izquierda distal. Resto de vasos intra y extracraneales sin alteraciones significativas. No se visualizan aneurismas ni malformaciones vasculares.
+
+CONCL (Conclusiones):  
+Isquemia aguda multiterritorial afectando territorios de ACM derecha, ACA derecha y ACM izquierda con presencia de oclusiones arteriales múltiples en segmentos proximales y distales. Ausencia de hemorragia intracraneal. Perfusión cerebral alterada compatible con lesiones isquémicas en evolución sin evidencia de tejido potencialmente recuperable de forma significativa.
+
+ACTI_ADICI (Actividad adicional):  
+
+ICON (Estudio): @TCICTUS@
+
+X00DIATXT (Texto del diagnóstico ACR):  
+Ischemic stroke, acute, multiterritorial involving right MCA, right ACA and left MCA territories with corresponding arterial occlusions.
+
+EST_T_DES (Descripción): TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANGIOTC ARTERIAL INTRACRANEAL)
+
+ZVASOS_D (Der.):  
+Paciente derivado a Neurología para valoración de trombectomía mecánica y tratamiento endovascular urgente. Monitorización en UCI neurovascular.

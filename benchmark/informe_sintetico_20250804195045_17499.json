@@ -1,0 +1,89 @@
+{
+  "document_id": "informe_sintetico_20250804195045_17499",
+  "entities": [
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 664,
+      "end": 678
+    },
+    {
+      "text": "territorio cerebral anterior derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 257,
+      "end": 293
+    },
+    {
+      "text": "hipodensidad",
+      "type": "PATOLOGIA",
+      "start": 557,
+      "end": 569
+    },
+    {
+      "text": "arteria cerebral anterior derecha",
+      "type": "ARTERIA",
+      "start": 1144,
+      "end": 1177
+    },
+    {
+      "text": "A2",
+      "type": "ARTERIA",
+      "start": 1533,
+      "end": 1535
+    },
+    {
+      "text": "izquierdo",
+      "type": "LATERALIDAD",
+      "start": 205,
+      "end": 214
+    },
+    {
+      "text": "8/10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 843,
+      "end": 847
+    },
+    {
+      "text": "aguda",
+      "type": "TEMPORALIDAD",
+      "start": 673,
+      "end": 678
+    },
+    {
+      "text": "No se observan hemorragias intraparenquimatosas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 753,
+      "end": 800
+    },
+    {
+      "text": "No se observa núcleo infarto consolidado significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1354,
+      "end": 1408
+    },
+    {
+      "text": "No hemorragias intracraneales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2091,
+      "end": 2120
+    },
+    {
+      "text": "TC craneal basal sin contraste",
+      "type": "TECNICA_IMAGEN",
+      "start": 314,
+      "end": 344
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 347,
+      "end": 368
+    },
+    {
+      "text": "Angio-TC extracraneal e intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 396,
+      "end": 432
+    }
+  ]
+}

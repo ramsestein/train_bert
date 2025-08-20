@@ -1,0 +1,203 @@
+{
+  "document_id": "informe_sintetico_20250804195045_05750",
+  "entities": [
+    {
+      "text": "hemiparesia derecha",
+      "type": "PATOLOGIA",
+      "start": 210,
+      "end": 229
+    },
+    {
+      "text": "infarto cerebral isquémico",
+      "type": "PATOLOGIA",
+      "start": 267,
+      "end": 293
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "ARTERIA",
+      "start": 314,
+      "end": 346
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 367,
+      "end": 383
+    },
+    {
+      "text": "perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 410,
+      "end": 428
+    },
+    {
+      "text": "angiografía por TC intra y extracraneal con contraste endovenoso",
+      "type": "TECNICA_IMAGEN",
+      "start": 431,
+      "end": 495
+    },
+    {
+      "text": "área hipodensa extensa",
+      "type": "PATOLOGIA",
+      "start": 553,
+      "end": 575
+    },
+    {
+      "text": "territorio vascular de la arteria cerebral media izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 582,
+      "end": 640
+    },
+    {
+      "text": "infarto cerebral establecido",
+      "type": "PATOLOGIA",
+      "start": 656,
+      "end": 684
+    },
+    {
+      "text": "transformación hemorrágica tipo PH2",
+      "type": "PATOLOGIA",
+      "start": 699,
+      "end": 734
+    },
+    {
+      "text": "hematoma intraparenquimatoso heterogéneo",
+      "type": "PATOLOGIA",
+      "start": 754,
+      "end": 794
+    },
+    {
+      "text": "más del 30%",
+      "type": "MEDIDA",
+      "start": 828,
+      "end": 839
+    },
+    {
+      "text": "edema perifocal",
+      "type": "PATOLOGIA",
+      "start": 878,
+      "end": 893
+    },
+    {
+      "text": "No se observan signos de edema o herniación masiva ni desplazamiento significativo de la línea media",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 895,
+      "end": 995
+    },
+    {
+      "text": "Sistema ventricular de tamaño y morfología normales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 997,
+      "end": 1048
+    },
+    {
+      "text": "Cisternas basales libres",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1050,
+      "end": 1074
+    },
+    {
+      "text": "Alteración marcada de la perfusión en la región afectada de la ACM izquierda",
+      "type": "PATOLOGIA",
+      "start": 1093,
+      "end": 1169
+    },
+    {
+      "text": "prolongación del tiempo de tránsito medio (TTP)",
+      "type": "PATOLOGIA",
+      "start": 1174,
+      "end": 1221
+    },
+    {
+      "text": "reducción del flujo cerebral (CBF)",
+      "type": "PATOLOGIA",
+      "start": 1224,
+      "end": 1258
+    },
+    {
+      "text": "zona infartada",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1276,
+      "end": 1290
+    },
+    {
+      "text": "discreta disminución del volumen cerebral (CBV)",
+      "type": "PATOLOGIA",
+      "start": 1314,
+      "end": 1361
+    },
+    {
+      "text": "oclusión subtotal en segmento proximal de la arteria cerebral media izquierda",
+      "type": "PATOLOGIA",
+      "start": 1445,
+      "end": 1522
+    },
+    {
+      "text": "ausencia de flujo en los segmentos distales compatibles con trombosis",
+      "type": "PATOLOGIA",
+      "start": 1527,
+      "end": 1596
+    },
+    {
+      "text": "Arterias cerebrales contralaterales permeables sin estenosis significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1598,
+      "end": 1673
+    },
+    {
+      "text": "Sistema vertebrobasilar sin alteraciones",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1675,
+      "end": 1715
+    },
+    {
+      "text": "No se observan aneurismas ni malformaciones vasculares",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1717,
+      "end": 1771
+    },
+    {
+      "text": "Transformación hemorrágica tipo PH2 en infarto cerebral extenso del territorio de la arteria cerebral media izquierda",
+      "type": "PATOLOGIA",
+      "start": 1798,
+      "end": 1915
+    },
+    {
+      "text": "hematoma intraparenquimatoso significativo",
+      "type": "PATOLOGIA",
+      "start": 1921,
+      "end": 1963
+    },
+    {
+      "text": "edema perifocal",
+      "type": "PATOLOGIA",
+      "start": 878,
+      "end": 893
+    },
+    {
+      "text": "Oclusión subtotal proximal de ACM izquierda",
+      "type": "PATOLOGIA",
+      "start": 1983,
+      "end": 2026
+    },
+    {
+      "text": "Alteraciones de perfusión compatibles con infarto establecido y zona en riesgo adyacente",
+      "type": "PATOLOGIA",
+      "start": 2028,
+      "end": 2116
+    },
+    {
+      "text": "No signos de complicaciones de herniación masiva o hemorragias adicionales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2118,
+      "end": 2192
+    },
+    {
+      "text": "Transformación hemorrágica postinfarto tipo PH2 en territorio de arteria cerebral media izquierda con trombosis arterial proximal",
+      "type": "PATOLOGIA",
+      "start": 2407,
+      "end": 2536
+    }
+  ]
+}

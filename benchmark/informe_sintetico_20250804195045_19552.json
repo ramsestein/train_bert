@@ -1,0 +1,65 @@
+{
+  "document_id": "informe_sintetico_20250804195045_19552",
+  "entities": [
+    {
+      "text": "infarto lacunar agudo",
+      "type": "PATOLOGIA",
+      "start": 655,
+      "end": 676
+    },
+    {
+      "text": "región ganglionar derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 548,
+      "end": 573
+    },
+    {
+      "text": "8 mm",
+      "type": "MEDIDA",
+      "start": 635,
+      "end": 639
+    },
+    {
+      "text": "agudo",
+      "type": "TEMPORALIDAD",
+      "start": 671,
+      "end": 676
+    },
+    {
+      "text": "ligero aumento del tiempo de tránsito medio (TTP)",
+      "type": "PATOLOGIA",
+      "start": 829,
+      "end": 878
+    },
+    {
+      "text": "volumen sanguíneo cerebral (CBV)",
+      "type": "MEDIDA",
+      "start": 915,
+      "end": 947
+    },
+    {
+      "text": "flujo sanguíneo cerebral (CBF)",
+      "type": "MEDIDA",
+      "start": 950,
+      "end": 980
+    },
+    {
+      "text": "sin evidencia de estenosis, oclusiones ni trombosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1064,
+      "end": 1115
+    },
+    {
+      "text": "sin hemorragia ni complicaciones asociadas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1360,
+      "end": 1402
+    },
+    {
+      "text": "sin signos hemorrágicos ni compromiso vascular mayor",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1682,
+      "end": 1734
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "document_id": "informe_sintetico_20250804195045_21748",
+  "entities": [
+    {
+      "text": "ictus isquémico",
+      "type": "PATOLOGIA",
+      "start": 237,
+      "end": 252
+    },
+    {
+      "text": "ASPECTS 9/10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 553,
+      "end": 565
+    },
+    {
+      "text": "arteria cerebral media",
+      "type": "ARTERIA",
+      "start": 869,
+      "end": 891
+    },
+    {
+      "text": "penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 965,
+      "end": 983
+    },
+    {
+      "text": "Oclusión parcial en rama distal del segmento M2 de arteria cerebral media izquierda",
+      "type": "PATOLOGIA",
+      "start": 1018,
+      "end": 1101
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 819,
+      "end": 828
+    },
+    {
+      "text": "No se evidencian hemorragias intracraneales ni lesiones quísticas ni masas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 423,
+      "end": 497
+    },
+    {
+      "text": "No se observan otras estenosis ni oclusiones significativas en arterias principales intracraneales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1183,
+      "end": 1281
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 1515,
+      "end": 1529
+    },
+    {
+      "text": "territorio distal de ACM izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1436,
+      "end": 1470
+    },
+    {
+      "text": "segmento M2",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1054,
+      "end": 1065
+    },
+    {
+      "text": "TC craneal simple",
+      "type": "TECNICA_IMAGEN",
+      "start": 273,
+      "end": 290
+    },
+    {
+      "text": "angio-TC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 351,
+      "end": 381
+    },
+    {
+      "text": "TC perfusión",
+      "type": "TECNICA_IMAGEN",
+      "start": 1938,
+      "end": 1950
+    }
+  ]
+}

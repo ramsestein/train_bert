@@ -1,0 +1,107 @@
+{
+  "document_id": "informe_sintetico_20250804195045_15166",
+  "entities": [
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 293,
+      "end": 307
+    },
+    {
+      "text": "lesión isquémica incipiente",
+      "type": "PATOLOGIA",
+      "start": 713,
+      "end": 740
+    },
+    {
+      "text": "penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1062,
+      "end": 1080
+    },
+    {
+      "text": "estenosis severa",
+      "type": "PATOLOGIA",
+      "start": 1187,
+      "end": 1203
+    },
+    {
+      "text": "arteria vertebral derecha",
+      "type": "ARTERIA",
+      "start": 1159,
+      "end": 1184
+    },
+    {
+      "text": "arteria basilar",
+      "type": "ARTERIA",
+      "start": 1232,
+      "end": 1247
+    },
+    {
+      "text": "arteria vertebral izquierda",
+      "type": "ARTERIA",
+      "start": 1252,
+      "end": 1279
+    },
+    {
+      "text": "sin desplazamientos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 774,
+      "end": 793
+    },
+    {
+      "text": "No se identifican aneurismas ni malformaciones vasculares",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1327,
+      "end": 1384
+    },
+    {
+      "text": "sin estenosis significativa en carótidas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1443,
+      "end": 1483
+    },
+    {
+      "text": "No evidencia de hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1823,
+      "end": 1862
+    },
+    {
+      "text": "aumento del tiempo hasta el pico (TTP)",
+      "type": "MEDIDA",
+      "start": 868,
+      "end": 906
+    },
+    {
+      "text": "disminución del flujo cerebral (CBF)",
+      "type": "MEDIDA",
+      "start": 909,
+      "end": 945
+    },
+    {
+      "text": "conservación relativa del volumen cerebral (CBV)",
+      "type": "MEDIDA",
+      "start": 989,
+      "end": 1037
+    },
+    {
+      "text": "territorio bulbar y médula oblonga",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 949,
+      "end": 983
+    },
+    {
+      "text": "bulbo y protuberancia",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1607,
+      "end": 1628
+    },
+    {
+      "text": "TC CÓDIGO ICTUS (BASAL + PERFUSIÓN CEREBRAL + ANGIOTC TSA E INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 358,
+      "end": 431
+    }
+  ]
+}

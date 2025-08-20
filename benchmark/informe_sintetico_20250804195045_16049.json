@@ -1,0 +1,95 @@
+{
+  "document_id": "informe_sintetico_20250804195045_16049",
+  "entities": [
+    {
+      "text": "infarto",
+      "type": "PATOLOGIA",
+      "start": 244,
+      "end": 251
+    },
+    {
+      "text": "hipoperfusión",
+      "type": "PATOLOGIA",
+      "start": 256,
+      "end": 269
+    },
+    {
+      "text": "infartos watershed",
+      "type": "PATOLOGIA",
+      "start": 812,
+      "end": 830
+    },
+    {
+      "text": "regiones frontoparietales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 588,
+      "end": 613
+    },
+    {
+      "text": "arteria cerebral media",
+      "type": "ARTERIA",
+      "start": 745,
+      "end": 767
+    },
+    {
+      "text": "arteria cerebral anterior",
+      "type": "ARTERIA",
+      "start": 770,
+      "end": 795
+    },
+    {
+      "text": "bilaterales",
+      "type": "LATERALIDAD",
+      "start": 614,
+      "end": 625
+    },
+    {
+      "text": "subaguda",
+      "type": "TEMPORALIDAD",
+      "start": 1288,
+      "end": 1296
+    },
+    {
+      "text": "sin evidencia de estenosis crítica",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1915,
+      "end": 1949
+    },
+    {
+      "text": "sin evidencia de oclusiones",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1614,
+      "end": 1641
+    },
+    {
+      "text": "sin evidencia de estenosis crítica",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1915,
+      "end": 1949
+    },
+    {
+      "text": "prolongación del tiempo de tránsito medio (MTT)",
+      "type": "MEDIDA",
+      "start": 1051,
+      "end": 1098
+    },
+    {
+      "text": "tiempo hasta el pico (TTP)",
+      "type": "MEDIDA",
+      "start": 1105,
+      "end": 1131
+    },
+    {
+      "text": "reducción leve a moderada del flujo cerebral (CBF)",
+      "type": "MEDIDA",
+      "start": 1160,
+      "end": 1210
+    },
+    {
+      "text": "volumen cerebral (CBV) preservado",
+      "type": "MEDIDA",
+      "start": 1213,
+      "end": 1246
+    }
+  ]
+}

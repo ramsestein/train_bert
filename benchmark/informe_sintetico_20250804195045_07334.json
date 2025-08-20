@@ -1,0 +1,113 @@
+{
+  "document_id": "informe_sintetico_20250804195045_07334",
+  "entities": [
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 585,
+      "end": 608
+    },
+    {
+      "text": "infarto establecido",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 641,
+      "end": 660
+    },
+    {
+      "text": "arteria basilar",
+      "type": "ARTERIA",
+      "start": 963,
+      "end": 978
+    },
+    {
+      "text": "tronco de la arteria basilar",
+      "type": "ARTERIA",
+      "start": 1266,
+      "end": 1294
+    },
+    {
+      "text": "arterias vertebrales",
+      "type": "ARTERIA",
+      "start": 1353,
+      "end": 1373
+    },
+    {
+      "text": "prolongación marcada",
+      "type": "PATOLOGIA",
+      "start": 871,
+      "end": 891
+    },
+    {
+      "text": "hipoperfusión crítica",
+      "type": "PATOLOGIA",
+      "start": 1171,
+      "end": 1192
+    },
+    {
+      "text": "zona penumbra",
+      "type": "PATOLOGIA",
+      "start": 1205,
+      "end": 1218
+    },
+    {
+      "text": "Oclusión trombótica proximal",
+      "type": "PATOLOGIA",
+      "start": 1619,
+      "end": 1647
+    },
+    {
+      "text": "territorio vascular",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1704,
+      "end": 1723
+    },
+    {
+      "text": "tronco cerebral",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1130,
+      "end": 1145
+    },
+    {
+      "text": "cerebelo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1148,
+      "end": 1156
+    },
+    {
+      "text": "sin infarto establecido",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2207,
+      "end": 2230
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 416,
+      "end": 432
+    },
+    {
+      "text": "estudio de perfusión cerebral dinámica",
+      "type": "TECNICA_IMAGEN",
+      "start": 450,
+      "end": 488
+    },
+    {
+      "text": "angiografía por TC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 491,
+      "end": 531
+    },
+    {
+      "text": "TC PERFUSIÓN",
+      "type": "TECNICA_IMAGEN",
+      "start": 843,
+      "end": 855
+    },
+    {
+      "text": "TC basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 1775,
+      "end": 1783
+    }
+  ]
+}

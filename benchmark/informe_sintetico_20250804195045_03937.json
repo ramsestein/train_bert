@@ -1,0 +1,239 @@
+{
+  "document_id": "informe_sintetico_20250804195045_03937",
+  "entities": [
+    {
+      "text": "infarto cerebral isquémico",
+      "type": "PATOLOGIA",
+      "start": 194,
+      "end": 220
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 241,
+      "end": 271
+    },
+    {
+      "text": "TC CÓDIGO ICTUS",
+      "type": "TECNICA_IMAGEN",
+      "start": 348,
+      "end": 363
+    },
+    {
+      "text": "foco hiperdenso heterogéneo",
+      "type": "PATOLOGIA",
+      "start": 505,
+      "end": 532
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 241,
+      "end": 271
+    },
+    {
+      "text": "30%",
+      "type": "MEDIDA",
+      "start": 655,
+      "end": 658
+    },
+    {
+      "text": "transformación hemorrágica tipo PH2",
+      "type": "PATOLOGIA",
+      "start": 697,
+      "end": 732
+    },
+    {
+      "text": "efecto masa moderado",
+      "type": "PATOLOGIA",
+      "start": 747,
+      "end": 767
+    },
+    {
+      "text": "desviación de la línea media",
+      "type": "PATOLOGIA",
+      "start": 772,
+      "end": 800
+    },
+    {
+      "text": "6 mm",
+      "type": "MEDIDA",
+      "start": 815,
+      "end": 819
+    },
+    {
+      "text": "edema vasogénico perifocal",
+      "type": "PATOLOGIA",
+      "start": 880,
+      "end": 906
+    },
+    {
+      "text": "colecciones extraaxiales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 926,
+      "end": 950
+    },
+    {
+      "text": "ventrículo lateral derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 996,
+      "end": 1022
+    },
+    {
+      "text": "Cisternas basales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1024,
+      "end": 1041
+    },
+    {
+      "text": "ACM derecha",
+      "type": "ARTERIA",
+      "start": 1188,
+      "end": 1199
+    },
+    {
+      "text": "tiempo de tránsito medio",
+      "type": "PATOLOGIA",
+      "start": 1216,
+      "end": 1240
+    },
+    {
+      "text": "tiempo hasta el pico",
+      "type": "PATOLOGIA",
+      "start": 1249,
+      "end": 1269
+    },
+    {
+      "text": "infarto establecido",
+      "type": "PATOLOGIA",
+      "start": 1292,
+      "end": 1311
+    },
+    {
+      "text": "área hemorrágica",
+      "type": "PATOLOGIA",
+      "start": 1314,
+      "end": 1330
+    },
+    {
+      "text": "penumbra isquémica reducida",
+      "type": "PATOLOGIA",
+      "start": 1410,
+      "end": 1437
+    },
+    {
+      "text": "Oclusión completa",
+      "type": "PATOLOGIA",
+      "start": 1471,
+      "end": 1488
+    },
+    {
+      "text": "segmento M1",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1492,
+      "end": 1503
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "ARTERIA",
+      "start": 241,
+      "end": 271
+    },
+    {
+      "text": "Arterias intracraneales restantes",
+      "type": "ARTERIA",
+      "start": 1542,
+      "end": 1575
+    },
+    {
+      "text": "estenosis significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1606,
+      "end": 1630
+    },
+    {
+      "text": "placas ateromatosas activas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1634,
+      "end": 1661
+    },
+    {
+      "text": "aneurismas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1725,
+      "end": 1735
+    },
+    {
+      "text": "malformaciones arterio-venosas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1738,
+      "end": 1768
+    },
+    {
+      "text": "Transformación hemorrágica tipo PH2",
+      "type": "PATOLOGIA",
+      "start": 1795,
+      "end": 1830
+    },
+    {
+      "text": "territorio de ACM derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1174,
+      "end": 1199
+    },
+    {
+      "text": "efecto masa",
+      "type": "PATOLOGIA",
+      "start": 747,
+      "end": 758
+    },
+    {
+      "text": "desviación de línea media",
+      "type": "PATOLOGIA",
+      "start": 1909,
+      "end": 1934
+    },
+    {
+      "text": "áreas compatibles con penumbra reducida",
+      "type": "PATOLOGIA",
+      "start": 1971,
+      "end": 2010
+    },
+    {
+      "text": "Oclusión parcial distal de ACM derecha",
+      "type": "PATOLOGIA",
+      "start": 2014,
+      "end": 2052
+    },
+    {
+      "text": "angiografía TC",
+      "type": "TECNICA_IMAGEN",
+      "start": 411,
+      "end": 425
+    },
+    {
+      "text": "lesiones hemorrágicas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2106,
+      "end": 2127
+    },
+    {
+      "text": "signos de patología extraaxial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2131,
+      "end": 2161
+    },
+    {
+      "text": "transformación hemorrágica tipo PH2",
+      "type": "PATOLOGIA",
+      "start": 697,
+      "end": 732
+    },
+    {
+      "text": "territorio de ACM derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1174,
+      "end": 1199
+    }
+  ]
+}

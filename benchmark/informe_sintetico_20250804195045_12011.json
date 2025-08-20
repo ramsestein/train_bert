@@ -1,0 +1,137 @@
+{
+  "document_id": "informe_sintetico_20250804195045_12011",
+  "entities": [
+    {
+      "text": "isquemia",
+      "type": "PATOLOGIA",
+      "start": 229,
+      "end": 237
+    },
+    {
+      "text": "arteria cerebral anterior",
+      "type": "ARTERIA",
+      "start": 255,
+      "end": 280
+    },
+    {
+      "text": "izquierdo",
+      "type": "LATERALIDAD",
+      "start": 559,
+      "end": 568
+    },
+    {
+      "text": "hipodensidad cortical",
+      "type": "PATOLOGIA",
+      "start": 454,
+      "end": 475
+    },
+    {
+      "text": "pérdida de la diferenciación cortico-subcortical",
+      "type": "PATOLOGIA",
+      "start": 478,
+      "end": 526
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 604,
+      "end": 618
+    },
+    {
+      "text": "arteria cerebral anterior (ACA)",
+      "type": "ARTERIA",
+      "start": 636,
+      "end": 667
+    },
+    {
+      "text": "aumento del tiempo de tránsito medio (TTM)",
+      "type": "PATOLOGIA",
+      "start": 879,
+      "end": 921
+    },
+    {
+      "text": "tiempo hasta el pico (TTP)",
+      "type": "PATOLOGIA",
+      "start": 924,
+      "end": 950
+    },
+    {
+      "text": "territorio medial y anterior del hemisferio izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 957,
+      "end": 1010
+    },
+    {
+      "text": "reducción del flujo cerebral (CBF)",
+      "type": "PATOLOGIA",
+      "start": 1016,
+      "end": 1050
+    },
+    {
+      "text": "preservación relativa del volumen cerebral (CBV)",
+      "type": "PATOLOGIA",
+      "start": 1053,
+      "end": 1101
+    },
+    {
+      "text": "penumbra isquémica activa",
+      "type": "PATOLOGIA",
+      "start": 1137,
+      "end": 1162
+    },
+    {
+      "text": "Oclusión proximal segmentaria de la arteria cerebral anterior izquierda (segmento A1)",
+      "type": "PATOLOGIA",
+      "start": 1227,
+      "end": 1312
+    },
+    {
+      "text": "sin estenosis significativa en el resto de la circulación intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1314,
+      "end": 1384
+    },
+    {
+      "text": "sin evidencias de estenosis relevante",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1425,
+      "end": 1462
+    },
+    {
+      "text": "signos iniciales evidentes en TC craneal basal",
+      "type": "PATOLOGIA",
+      "start": 1604,
+      "end": 1650
+    },
+    {
+      "text": "extensa área de penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1678,
+      "end": 1712
+    },
+    {
+      "text": "Oclusión segmentaria proximal de ACA izquierda confirmada en angioTC",
+      "type": "PATOLOGIA",
+      "start": 1714,
+      "end": 1782
+    },
+    {
+      "text": "TC craneal basal sin contraste",
+      "type": "TECNICA_IMAGEN",
+      "start": 301,
+      "end": 331
+    },
+    {
+      "text": "perfusión cerebral dinámica",
+      "type": "TECNICA_IMAGEN",
+      "start": 334,
+      "end": 361
+    },
+    {
+      "text": "angioTC arterial intracraneal urgente",
+      "type": "TECNICA_IMAGEN",
+      "start": 364,
+      "end": 401
+    }
+  ]
+}

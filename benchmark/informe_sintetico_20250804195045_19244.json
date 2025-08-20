@@ -1,0 +1,59 @@
+{
+  "document_id": "informe_sintetico_20250804195045_19244",
+  "entities": [
+    {
+      "text": "oclusión",
+      "type": "PATOLOGIA",
+      "start": 447,
+      "end": 455
+    },
+    {
+      "text": "segmento distal de la arteria cerebral media (M2)",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 465,
+      "end": 514
+    },
+    {
+      "text": "arteria cerebral media (M2)",
+      "type": "ARTERIA",
+      "start": 487,
+      "end": 514
+    },
+    {
+      "text": "izquierdo",
+      "type": "LATERALIDAD",
+      "start": 530,
+      "end": 539
+    },
+    {
+      "text": "agudo",
+      "type": "TEMPORALIDAD",
+      "start": 274,
+      "end": 279
+    },
+    {
+      "text": "ASPECTS 9",
+      "type": "PUNTUACION_CLINICA",
+      "start": 1372,
+      "end": 1381
+    },
+    {
+      "text": "No se observan signos de hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 614,
+      "end": 662
+    },
+    {
+      "text": "No se visualizan otras alteraciones significativas en estructuras de línea media ni sistema ventricular",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1047,
+      "end": 1150
+    },
+    {
+      "text": "TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANG IOTC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 72,
+      "end": 140
+    }
+  ]
+}

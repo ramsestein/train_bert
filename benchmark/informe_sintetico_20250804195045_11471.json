@@ -1,0 +1,143 @@
+{
+  "document_id": "informe_sintetico_20250804195045_11471",
+  "entities": [
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 270,
+      "end": 284
+    },
+    {
+      "text": "tronco encefálico",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 788,
+      "end": 805
+    },
+    {
+      "text": "isquemia",
+      "type": "PATOLOGIA",
+      "start": 270,
+      "end": 278
+    },
+    {
+      "text": "hipoperfusión",
+      "type": "PATOLOGIA",
+      "start": 894,
+      "end": 907
+    },
+    {
+      "text": "tronco encefálico",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 788,
+      "end": 805
+    },
+    {
+      "text": "cerebelo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 946,
+      "end": 954
+    },
+    {
+      "text": "bilateral",
+      "type": "LATERALIDAD",
+      "start": 955,
+      "end": 964
+    },
+    {
+      "text": "tiempo de tránsito medio (MTT)",
+      "type": "MEDIDA",
+      "start": 1001,
+      "end": 1031
+    },
+    {
+      "text": "tiempo hasta el pico (TTP)",
+      "type": "MEDIDA",
+      "start": 1034,
+      "end": 1060
+    },
+    {
+      "text": "flujo sanguíneo cerebral (CBF)",
+      "type": "MEDIDA",
+      "start": 1084,
+      "end": 1114
+    },
+    {
+      "text": "volumen sanguíneo cerebral (CBV)",
+      "type": "MEDIDA",
+      "start": 1117,
+      "end": 1149
+    },
+    {
+      "text": "isquémico en riesgo (penumbra)",
+      "type": "PATOLOGIA",
+      "start": 1185,
+      "end": 1215
+    },
+    {
+      "text": "Oclusión completa de la arteria basilar",
+      "type": "PATOLOGIA",
+      "start": 1252,
+      "end": 1291
+    },
+    {
+      "text": "arteria basilar",
+      "type": "ARTERIA",
+      "start": 1276,
+      "end": 1291
+    },
+    {
+      "text": "segmento proximal",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1298,
+      "end": 1315
+    },
+    {
+      "text": "arterias vertebrales",
+      "type": "ARTERIA",
+      "start": 1321,
+      "end": 1341
+    },
+    {
+      "text": "estenosis severa bilateral",
+      "type": "PATOLOGIA",
+      "start": 1374,
+      "end": 1400
+    },
+    {
+      "text": "predominantemente izquierda",
+      "type": "LATERALIDAD",
+      "start": 1402,
+      "end": 1429
+    },
+    {
+      "text": "hemorragia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 538,
+      "end": 548
+    },
+    {
+      "text": "Oclusión proximal de arteria basilar",
+      "type": "PATOLOGIA",
+      "start": 1576,
+      "end": 1612
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 270,
+      "end": 284
+    },
+    {
+      "text": "fase temprana",
+      "type": "TEMPORALIDAD",
+      "start": 1702,
+      "end": 1715
+    },
+    {
+      "text": "hemorragia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 538,
+      "end": 548
+    }
+  ]
+}

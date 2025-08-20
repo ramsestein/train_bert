@@ -1,0 +1,107 @@
+{
+  "document_id": "informe_sintetico_20250804195045_08119",
+  "entities": [
+    {
+      "text": "hemorragia subaracnoidea",
+      "type": "PATOLOGIA",
+      "start": 210,
+      "end": 234
+    },
+    {
+      "text": "cisternas basales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 434,
+      "end": 451
+    },
+    {
+      "text": "cisuras silvianas",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 473,
+      "end": 490
+    },
+    {
+      "text": "bilaterales",
+      "type": "LATERALIDAD",
+      "start": 491,
+      "end": 502
+    },
+    {
+      "text": "hematomas intracerebrales",
+      "type": "PATOLOGIA",
+      "start": 586,
+      "end": 611
+    },
+    {
+      "text": "hemorragias intraventriculares",
+      "type": "PATOLOGIA",
+      "start": 615,
+      "end": 645
+    },
+    {
+      "text": "infartos isquémicos",
+      "type": "PATOLOGIA",
+      "start": 830,
+      "end": 849
+    },
+    {
+      "text": "5 mm",
+      "type": "MEDIDA",
+      "start": 1127,
+      "end": 1131
+    },
+    {
+      "text": "arteria carótida interna",
+      "type": "ARTERIA",
+      "start": 1177,
+      "end": 1201
+    },
+    {
+      "text": "supraclinoidea izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1146,
+      "end": 1170
+    },
+    {
+      "text": "hidrocefalia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 790,
+      "end": 802
+    },
+    {
+      "text": "hematomas intracerebrales asociados",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1711,
+      "end": 1746
+    },
+    {
+      "text": "infartos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 830,
+      "end": 838
+    },
+    {
+      "text": "vasoespasmo arterial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1263,
+      "end": 1283
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 254,
+      "end": 270
+    },
+    {
+      "text": "angio-TC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 287,
+      "end": 317
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 320,
+      "end": 341
+    }
+  ]
+}

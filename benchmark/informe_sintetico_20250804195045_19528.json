@@ -1,0 +1,95 @@
+{
+  "document_id": "informe_sintetico_20250804195045_19528",
+  "entities": [
+    {
+      "text": "hipodensidad cortical y subcortical",
+      "type": "PATOLOGIA",
+      "start": 473,
+      "end": 508
+    },
+    {
+      "text": "isquemia",
+      "type": "PATOLOGIA",
+      "start": 1055,
+      "end": 1063
+    },
+    {
+      "text": "infarto cerebral watershed bilateral",
+      "type": "PATOLOGIA",
+      "start": 1471,
+      "end": 1507
+    },
+    {
+      "text": "arterias cerebral anterior y media",
+      "type": "ARTERIA",
+      "start": 565,
+      "end": 599
+    },
+    {
+      "text": "bilateralmente",
+      "type": "LATERALIDAD",
+      "start": 601,
+      "end": 615
+    },
+    {
+      "text": "tiempo de tránsito medio (MTT)",
+      "type": "MEDIDA",
+      "start": 795,
+      "end": 825
+    },
+    {
+      "text": "tiempo hasta el pico (TTP)",
+      "type": "MEDIDA",
+      "start": 828,
+      "end": 854
+    },
+    {
+      "text": "reducción ligera a moderada del flujo cerebral (CBF)",
+      "type": "MEDIDA",
+      "start": 933,
+      "end": 985
+    },
+    {
+      "text": "volumen cerebral de sangre (CBV) preservado",
+      "type": "MEDIDA",
+      "start": 988,
+      "end": 1031
+    },
+    {
+      "text": "sin efecto de masa ni desplazamiento de línea media",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 617,
+      "end": 668
+    },
+    {
+      "text": "sin estenosis ni oclusiones significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1185,
+      "end": 1227
+    },
+    {
+      "text": "sin evidencia de hemorragia ni oclusión arterial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1928,
+      "end": 1976
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 300,
+      "end": 316
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 343,
+      "end": 364
+    },
+    {
+      "text": "angio-TC arterial intracraneal urgente",
+      "type": "TECNICA_IMAGEN",
+      "start": 366,
+      "end": 404
+    }
+  ]
+}

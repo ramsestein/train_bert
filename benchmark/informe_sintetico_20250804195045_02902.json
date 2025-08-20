@@ -1,0 +1,83 @@
+{
+  "document_id": "informe_sintetico_20250804195045_02902",
+  "entities": [
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 241,
+      "end": 255
+    },
+    {
+      "text": "arteria cerebral posterior derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 273,
+      "end": 307
+    },
+    {
+      "text": "arteria cerebral posterior derecha",
+      "type": "ARTERIA",
+      "start": 273,
+      "end": 307
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 209,
+      "end": 218
+    },
+    {
+      "text": "9",
+      "type": "MEDIDA",
+      "start": 787,
+      "end": 788
+    },
+    {
+      "text": "aguda",
+      "type": "TEMPORALIDAD",
+      "start": 250,
+      "end": 255
+    },
+    {
+      "text": "ASPECTS",
+      "type": "PUNTUACION_CLINICA",
+      "start": 768,
+      "end": 775
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 372,
+      "end": 388
+    },
+    {
+      "text": "No se observa hemorragia intra ni extraaxial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 515,
+      "end": 559
+    },
+    {
+      "text": "discreta hipodensidad en territorio de la arteria cerebral posterior derecha",
+      "type": "PATOLOGIA",
+      "start": 652,
+      "end": 728
+    },
+    {
+      "text": "oclusión distal",
+      "type": "PATOLOGIA",
+      "start": 1486,
+      "end": 1501
+    },
+    {
+      "text": "arteria cerebral posterior derecha",
+      "type": "ARTERIA",
+      "start": 273,
+      "end": 307
+    },
+    {
+      "text": "sin estenosis ni placas de ateroma relevantes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1361,
+      "end": 1406
+    }
+  ]
+}

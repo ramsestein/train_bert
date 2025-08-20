@@ -1,0 +1,119 @@
+{
+  "document_id": "informe_sintetico_20250804195045_00918",
+  "entities": [
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 712,
+      "end": 726
+    },
+    {
+      "text": "territorio limitado",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 730,
+      "end": 749
+    },
+    {
+      "text": "ASPECTS 9",
+      "type": "PUNTUACION_CLINICA",
+      "start": 751,
+      "end": 760
+    },
+    {
+      "text": "frontoparietales derechos",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1040,
+      "end": 1065
+    },
+    {
+      "text": "ACM",
+      "type": "ARTERIA",
+      "start": 1232,
+      "end": 1235
+    },
+    {
+      "text": "M2 superior",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1300,
+      "end": 1311
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "ARTERIA",
+      "start": 1318,
+      "end": 1348
+    },
+    {
+      "text": "No se evidencian hemorragias intra ni extraaxiales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 506,
+      "end": 556
+    },
+    {
+      "text": "No se observan signos de hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1560,
+      "end": 1608
+    },
+    {
+      "text": "Oclusión segmentaria",
+      "type": "PATOLOGIA",
+      "start": 1271,
+      "end": 1291
+    },
+    {
+      "text": "Resto de arterias intracraneales sin evidencia de estenosis ni otras oclusiones",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1350,
+      "end": 1429
+    },
+    {
+      "text": "Sistema vertebrobasilar permeable",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1431,
+      "end": 1464
+    },
+    {
+      "text": "sin edema significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 664,
+      "end": 687
+    },
+    {
+      "text": "sin alteraciones significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1502,
+      "end": 1533
+    },
+    {
+      "text": "discreta hipodensidad cortical y subcortical",
+      "type": "PATOLOGIA",
+      "start": 572,
+      "end": 616
+    },
+    {
+      "text": "volumen sanguíneo cerebral (CBV) conservado",
+      "type": "MEDIDA",
+      "start": 1127,
+      "end": 1170
+    },
+    {
+      "text": "reducción moderada del flujo sanguíneo cerebral (CBF)",
+      "type": "MEDIDA",
+      "start": 1071,
+      "end": 1124
+    },
+    {
+      "text": "aumento del tiempo de tránsito medio (MTT)",
+      "type": "MEDIDA",
+      "start": 955,
+      "end": 997
+    },
+    {
+      "text": "tiempo hasta el pico (TTP)",
+      "type": "MEDIDA",
+      "start": 1000,
+      "end": 1026
+    }
+  ]
+}

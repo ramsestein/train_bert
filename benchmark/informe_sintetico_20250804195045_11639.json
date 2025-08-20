@@ -1,0 +1,53 @@
+{
+  "document_id": "informe_sintetico_20250804195045_11639",
+  "entities": [
+    {
+      "text": "infarto cerebral",
+      "type": "PATOLOGIA",
+      "start": 209,
+      "end": 225
+    },
+    {
+      "text": "zonas de frontera",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 229,
+      "end": 246
+    },
+    {
+      "text": "arterias cerebrales anterior y media",
+      "type": "ARTERIA",
+      "start": 520,
+      "end": 556
+    },
+    {
+      "text": "regiones parietales bilaterales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 574,
+      "end": 605
+    },
+    {
+      "text": "infarto en áreas watershed",
+      "type": "PATOLOGIA",
+      "start": 622,
+      "end": 648
+    },
+    {
+      "text": "No se identifican focos hemorrágicos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 650,
+      "end": 686
+    },
+    {
+      "text": "No se evidencian estenosis ni trombosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1276,
+      "end": 1315
+    },
+    {
+      "text": "sin hemorragia ni oclusión arterial significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1954,
+      "end": 2003
+    }
+  ]
+}

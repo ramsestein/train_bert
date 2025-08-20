@@ -1,0 +1,65 @@
+{
+  "document_id": "0000000010000000062242383_cleaned",
+  "entities": [
+    {
+      "text": "Infart cerebral causat per oclusió o estenosi no especificades d'artèria cerebral no especificada",
+      "type": "PATOLOGIA",
+      "start": 166,
+      "end": 263
+    },
+    {
+      "text": "isquemia",
+      "type": "PATOLOGIA",
+      "start": 548,
+      "end": 556
+    },
+    {
+      "text": "parieto-occipital izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 477,
+      "end": 504
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 641,
+      "end": 651
+    },
+    {
+      "text": "ACM",
+      "type": "ARTERIA",
+      "start": 1060,
+      "end": 1063
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 495,
+      "end": 504
+    },
+    {
+      "text": "M3",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1086,
+      "end": 1088
+    },
+    {
+      "text": "Aumento en mapas de tiempo y caída en los mapas de flujo en una pequeña área parieto-occipital izquierda con preservación en los mapas de volumen.",
+      "type": "PATOLOGIA",
+      "start": 784,
+      "end": 930
+    },
+    {
+      "text": "No se observa hemorragia intra ni extraaxial.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 393,
+      "end": 438
+    },
+    {
+      "text": "No hay hemorragia intracraneal.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1707,
+      "end": 1738
+    }
+  ]
+}

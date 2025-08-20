@@ -1,0 +1,77 @@
+{
+  "document_id": "0000000010000000058622262_cleaned",
+  "entities": [
+    {
+      "text": "isquemia establecida",
+      "type": "PATOLOGIA",
+      "start": 534,
+      "end": 554
+    },
+    {
+      "text": "ASPECTS 8",
+      "type": "PUNTUACION_CLINICA",
+      "start": 556,
+      "end": 565
+    },
+    {
+      "text": "parieto-temporal derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 798,
+      "end": 822
+    },
+    {
+      "text": "territorio de ACM derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 824,
+      "end": 849
+    },
+    {
+      "text": "cabeza del n. caudado derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 892,
+      "end": 921
+    },
+    {
+      "text": "Oclusión en segmento distal de M1 de ACM derecha",
+      "type": "PATOLOGIA",
+      "start": 1134,
+      "end": 1182
+    },
+    {
+      "text": "80%/90%",
+      "type": "MEDIDA",
+      "start": 1266,
+      "end": 1273
+    },
+    {
+      "text": "80%/90%",
+      "type": "MEDIDA",
+      "start": 1266,
+      "end": 1273
+    },
+    {
+      "text": "ASPECTS 8",
+      "type": "PUNTUACION_CLINICA",
+      "start": 556,
+      "end": 565
+    },
+    {
+      "text": "No se observa hemorragia intra ni extraaxial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 384,
+      "end": 428
+    },
+    {
+      "text": "No hay hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1550,
+      "end": 1580
+    },
+    {
+      "text": "TC craneal basal + TC perfusión + angio TC intra/extracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 283,
+      "end": 344
+    }
+  ]
+}

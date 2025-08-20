@@ -1,0 +1,77 @@
+{
+  "document_id": "informe_sintetico_20250804195045_13888",
+  "entities": [
+    {
+      "text": "infarto isquémico subagudo",
+      "type": "PATOLOGIA",
+      "start": 650,
+      "end": 676
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 543,
+      "end": 575
+    },
+    {
+      "text": "ACM",
+      "type": "ARTERIA",
+      "start": 1050,
+      "end": 1053
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 566,
+      "end": 575
+    },
+    {
+      "text": "reducción del flujo cerebral (CBF)",
+      "type": "MEDIDA",
+      "start": 998,
+      "end": 1032
+    },
+    {
+      "text": "disminución del volumen sanguíneo cerebral (CBV)",
+      "type": "MEDIDA",
+      "start": 1069,
+      "end": 1117
+    },
+    {
+      "text": "arteria carótida interna izquierda",
+      "type": "ARTERIA",
+      "start": 1336,
+      "end": 1370
+    },
+    {
+      "text": "segmento cervical-proximal",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 2063,
+      "end": 2089
+    },
+    {
+      "text": "trombo mural",
+      "type": "PATOLOGIA",
+      "start": 1480,
+      "end": 1492
+    },
+    {
+      "text": "oclusión distal",
+      "type": "PATOLOGIA",
+      "start": 2149,
+      "end": 2164
+    },
+    {
+      "text": "No se identifican signos de hemorragia intra ni extraaxial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 678,
+      "end": 736
+    },
+    {
+      "text": "No hay evidencia de hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2168,
+      "end": 2211
+    }
+  ]
+}

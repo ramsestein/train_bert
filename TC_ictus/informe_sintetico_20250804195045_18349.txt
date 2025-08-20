@@ -1,0 +1,30 @@
+UO_PACN (Unidad Organizativa Médica): RADIO
+
+PRUEB (Prueba solicitada): TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANG IOTC ARTERIAL INTRACRANEAL)
+
+CLIN (Resumen clínico): Déficit neurológico agudo con hemiparesia derecha y afasia, sospecha de ictus isquémico.
+
+OBSR (Protocolo): Protocolo código ictus consistente en TC craneal basal sin contraste, estudio de perfusión cerebral dinámico y angiografía por TC de arterias extra e intracraneales.
+
+RESL (Resultados):  
+TC CRANEAL BASAL:  
+Se observa hipodensidad en territorio de la arteria cerebral media izquierda, especialmente en la región frontoparietal, con pérdida de la diferenciación córtico-subcortical, compatible con infarto cerebral establecido en fase subaguda. No se identifican hemorragias intracraneales ni signos de transformación hemorrágica. No hay desplazamiento de la línea media ni edema significativo. Sistema ventricular de tamaño normal. Cisternas basales libres.
+
+TC PERFUSIÓN:  
+Mapas de perfusión evidencian aumento del tiempo de tránsito medio (TTP) y reducción del flujo cerebral (CBF) en el territorio de la arteria cerebral media izquierda, con volumen sanguíneo cerebral (CBV) disminuido en la zona del infarto (core), y área de penumbra definida por prolongación de TTP y reducción moderada de CBF circundante, evidenciando mismatch significativo.
+
+ANGIO-TC EXTRA E INTRACRANEAL:  
+Oclusión completa de la arteria carótida interna izquierda en su segmento cervical proximal. Estenosis severa, superior al 90%, en la bifurcación carotídea izquierda con placa de ateroma de predominio calcificado. Arterias cerebrales medias y anteriores izquierdas no se visualizan distalmente, debido a la oclusión proximal. Circulación contralateral preservada con arterias carotídeas y cerebrales derechas permeables. Sistema vertebrobasilar sin alteraciones.
+
+CONCL (Conclusiones):  
+Ictus isquémico en territorio de la arteria cerebral media izquierda con infarto establecido en región frontoparietal. Oclusión proximal de arteria carótida interna izquierda con estenosis significativa en bifurcación carotídea. Área de penumbra importante en territorio irrigado, candidato a valoración terapéutica urgente.
+
+ACTI_ADICI (Actividad adicional): Seguimiento clínico y sugerencia de estudio vascular complementario con ecografía Doppler carotídeo.
+
+ICON (Estudio): @CAROTID_01@
+
+X00DIATXT (Texto del diagnóstico ACR): Infarto cerebral en territorio de ACM izquierda asociado a oclusión proximal de arteria carótida interna izquierda. Área de penumbra significativa con mismatch en estudio de perfusión.
+
+EST_T_DES (Descripción): TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANGIOTC ARTERIAL INTRACRANEAL)
+
+ZVASOS_D (Der.): Oclusión carotídea izquierda en segmento cervical proximal con estenosis severa de bifurcación. Infarto subagudo en territorio de ACM izquierda.

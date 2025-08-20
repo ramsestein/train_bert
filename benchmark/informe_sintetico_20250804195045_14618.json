@@ -1,0 +1,77 @@
+{
+  "document_id": "informe_sintetico_20250804195045_14618",
+  "entities": [
+    {
+      "text": "infarto lacunar",
+      "type": "PATOLOGIA",
+      "start": 207,
+      "end": 222
+    },
+    {
+      "text": "cápsula interna derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 554,
+      "end": 577
+    },
+    {
+      "text": "8 mm",
+      "type": "MEDIDA",
+      "start": 531,
+      "end": 535
+    },
+    {
+      "text": "agudo",
+      "type": "TEMPORALIDAD",
+      "start": 186,
+      "end": 191
+    },
+    {
+      "text": "microangiopatía crónica",
+      "type": "PATOLOGIA",
+      "start": 766,
+      "end": 789
+    },
+    {
+      "text": "bilateral",
+      "type": "LATERALIDAD",
+      "start": 856,
+      "end": 865
+    },
+    {
+      "text": "signos de hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 414,
+      "end": 447
+    },
+    {
+      "text": "sin evidencia de oclusión vascular mayor",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1520,
+      "end": 1560
+    },
+    {
+      "text": "TC craneal sin contraste",
+      "type": "TECNICA_IMAGEN",
+      "start": 275,
+      "end": 299
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 301,
+      "end": 322
+    },
+    {
+      "text": "angio-TC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 326,
+      "end": 356
+    },
+    {
+      "text": "signos de vasculitis ni malformaciones vasculares",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1361,
+      "end": 1410
+    }
+  ]
+}

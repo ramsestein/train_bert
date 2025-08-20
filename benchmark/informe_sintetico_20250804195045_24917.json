@@ -1,0 +1,221 @@
+{
+  "document_id": "informe_sintetico_20250804195045_24917",
+  "entities": [
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 329,
+      "end": 343
+    },
+    {
+      "text": "territorio vertebrobasilar",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 347,
+      "end": 373
+    },
+    {
+      "text": "hemorragias intra o extraaxiales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 673,
+      "end": 705
+    },
+    {
+      "text": "signos tempranos de infarto",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 722,
+      "end": 749
+    },
+    {
+      "text": "tronco cerebral",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 783,
+      "end": 798
+    },
+    {
+      "text": "puente",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 841,
+      "end": 847
+    },
+    {
+      "text": "tiempo de tránsito medio (MTT)",
+      "type": "MEDIDA",
+      "start": 1074,
+      "end": 1104
+    },
+    {
+      "text": "tiempo-pico (TTP)",
+      "type": "MEDIDA",
+      "start": 1111,
+      "end": 1128
+    },
+    {
+      "text": "flujo cerebral (CBF)",
+      "type": "MEDIDA",
+      "start": 1186,
+      "end": 1206
+    },
+    {
+      "text": "volumen cerebral (CBV)",
+      "type": "MEDIDA",
+      "start": 1234,
+      "end": 1256
+    },
+    {
+      "text": "penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1295,
+      "end": 1313
+    },
+    {
+      "text": "infarto irreversible",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1342,
+      "end": 1362
+    },
+    {
+      "text": "arteria basilar distal",
+      "type": "ARTERIA",
+      "start": 1441,
+      "end": 1463
+    },
+    {
+      "text": "oclusión subtotal",
+      "type": "PATOLOGIA",
+      "start": 1466,
+      "end": 1483
+    },
+    {
+      "text": "arteria vertebral derecha",
+      "type": "ARTERIA",
+      "start": 1490,
+      "end": 1515
+    },
+    {
+      "text": "arteria vertebral izquierda",
+      "type": "ARTERIA",
+      "start": 1531,
+      "end": 1558
+    },
+    {
+      "text": "permeables",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1610,
+      "end": 1620
+    },
+    {
+      "text": "aneurismas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1637,
+      "end": 1647
+    },
+    {
+      "text": "malformaciones vasculares",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1651,
+      "end": 1676
+    },
+    {
+      "text": "hemorragias",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 673,
+      "end": 684
+    },
+    {
+      "text": "infartos establecidos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1733,
+      "end": 1754
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 329,
+      "end": 343
+    },
+    {
+      "text": "territorio vertebrobasilar",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 347,
+      "end": 373
+    },
+    {
+      "text": "penumbra",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1295,
+      "end": 1303
+    },
+    {
+      "text": "mesencéfalo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1210,
+      "end": 1221
+    },
+    {
+      "text": "puente",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 841,
+      "end": 847
+    },
+    {
+      "text": "oclusión distal",
+      "type": "PATOLOGIA",
+      "start": 1920,
+      "end": 1935
+    },
+    {
+      "text": "arteria basilar",
+      "type": "ARTERIA",
+      "start": 1441,
+      "end": 1456
+    },
+    {
+      "text": "estenosis significativa",
+      "type": "PATOLOGIA",
+      "start": 1957,
+      "end": 1980
+    },
+    {
+      "text": "arteria vertebral derecha",
+      "type": "ARTERIA",
+      "start": 1490,
+      "end": 1515
+    },
+    {
+      "text": "Imagen axial",
+      "type": "TECNICA_IMAGEN",
+      "start": 2159,
+      "end": 2171
+    },
+    {
+      "text": "ventana de hueso",
+      "type": "TECNICA_IMAGEN",
+      "start": 2176,
+      "end": 2192
+    },
+    {
+      "text": "densidad cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 2195,
+      "end": 2212
+    },
+    {
+      "text": "mapas de perfusión colorimétricos",
+      "type": "TECNICA_IMAGEN",
+      "start": 2214,
+      "end": 2247
+    },
+    {
+      "text": "reconstrucciones angiográficas",
+      "type": "TECNICA_IMAGEN",
+      "start": 2250,
+      "end": 2280
+    },
+    {
+      "text": "máximo intensidad de proyección (MIP)",
+      "type": "TECNICA_IMAGEN",
+      "start": 2284,
+      "end": 2321
+    }
+  ]
+}

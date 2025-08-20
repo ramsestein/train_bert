@@ -1,0 +1,83 @@
+{
+  "document_id": "informe_sintetico_20250804195045_19196",
+  "entities": [
+    {
+      "text": "microhemorragias múltiples",
+      "type": "PATOLOGIA",
+      "start": 565,
+      "end": 591
+    },
+    {
+      "text": "sustancia blanca",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 496,
+      "end": 512
+    },
+    {
+      "text": "núcleos profundos",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 518,
+      "end": 535
+    },
+    {
+      "text": "bilaterales",
+      "type": "LATERALIDAD",
+      "start": 536,
+      "end": 547
+    },
+    {
+      "text": "No se observan hematomas mayores",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 593,
+      "end": 625
+    },
+    {
+      "text": "sin evidencia de infarto agudo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 703,
+      "end": 733
+    },
+    {
+      "text": "sin estenosis de relevancia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 993,
+      "end": 1020
+    },
+    {
+      "text": "sin alteraciones significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1329,
+      "end": 1360
+    },
+    {
+      "text": "microhemorragias",
+      "type": "PATOLOGIA",
+      "start": 565,
+      "end": 581
+    },
+    {
+      "text": "sin anomalías",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1790,
+      "end": 1803
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 301,
+      "end": 317
+    },
+    {
+      "text": "Perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 1576,
+      "end": 1594
+    },
+    {
+      "text": "Angio TC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 1597,
+      "end": 1627
+    }
+  ]
+}

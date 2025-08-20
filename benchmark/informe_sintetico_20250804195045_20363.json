@@ -1,0 +1,71 @@
+{
+  "document_id": "informe_sintetico_20250804195045_20363",
+  "entities": [
+    {
+      "text": "hematoma intraparenquimatoso",
+      "type": "PATOLOGIA",
+      "start": 425,
+      "end": 453
+    },
+    {
+      "text": "localización putaminal derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 457,
+      "end": 487
+    },
+    {
+      "text": "cápsula interna",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 508,
+      "end": 523
+    },
+    {
+      "text": "18 cm³",
+      "type": "MEDIDA",
+      "start": 564,
+      "end": 570
+    },
+    {
+      "text": "6 mm",
+      "type": "MEDIDA",
+      "start": 751,
+      "end": 755
+    },
+    {
+      "text": "sin signos de estenosis ni oclusión",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1394,
+      "end": 1429
+    },
+    {
+      "text": "No se evidencian malformaciones vasculares ni aneurismas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1431,
+      "end": 1487
+    },
+    {
+      "text": "desviación de línea media hacia la izquierda",
+      "type": "PATOLOGIA",
+      "start": 1662,
+      "end": 1706
+    },
+    {
+      "text": "TC craneal basal urgente",
+      "type": "TECNICA_IMAGEN",
+      "start": 291,
+      "end": 315
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 318,
+      "end": 339
+    },
+    {
+      "text": "Angio-TC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 342,
+      "end": 372
+    }
+  ]
+}

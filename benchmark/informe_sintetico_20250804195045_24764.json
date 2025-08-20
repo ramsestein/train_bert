@@ -1,0 +1,59 @@
+{
+  "document_id": "informe_sintetico_20250804195045_24764",
+  "entities": [
+    {
+      "text": "hematoma lobar agudo",
+      "type": "PATOLOGIA",
+      "start": 625,
+      "end": 645
+    },
+    {
+      "text": "lóbulo frontal derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 652,
+      "end": 674
+    },
+    {
+      "text": "25x18x20 mm",
+      "type": "MEDIDA",
+      "start": 703,
+      "end": 714
+    },
+    {
+      "text": "4 cc",
+      "type": "MEDIDA",
+      "start": 751,
+      "end": 755
+    },
+    {
+      "text": "agudo",
+      "type": "TEMPORALIDAD",
+      "start": 640,
+      "end": 645
+    },
+    {
+      "text": "No hay evidencia de hemorragia intraventricular",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 882,
+      "end": 929
+    },
+    {
+      "text": "No se identifican signos de isquemia establecida",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1110,
+      "end": 1158
+    },
+    {
+      "text": "sin hallazgos de vasos ectásicos, estenosis ni aneurismas evidentes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1440,
+      "end": 1507
+    },
+    {
+      "text": "sin estenosis significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1531,
+      "end": 1559
+    }
+  ]
+}

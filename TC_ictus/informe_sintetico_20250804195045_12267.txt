@@ -1,0 +1,32 @@
+UO_PACN (Unidad Organizativa Médica): RADIO
+
+PRUEB (Prueba solicitada): TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANG IOTC ARTERIAL INTRACRANEAL)
+
+CLIN (Resumen clínico): Paciente con antecedente de infarto cerebral en territorio de la arteria cerebral media izquierda, presenta deterioro neurológico agudo. Se solicita evaluación para descartar transformación hemorrágica y valoración vascular.
+
+OBSR (Protocolo): TC craneal basal, estudio de perfusión cerebral y angio-TC arterial extra e intracraneal, protocolo específico para diagnóstico y seguimiento de ictus con posible hemorragia.
+
+RESL (Resultados): TC CRANEAL BASAL:  
+Presencia de hematoma hiperdenso, heterogéneo, en la región frontoinsular izquierda que ocupa aproximadamente un volumen moderado, con efecto de masa significativo y edema perilesional asociado. El hematoma se extiende parcialmente en el territorio cortical y subcortical de la arteria cerebral media izquierda, compatible con transformación hemorrágica tipo PH2.  
+Se observa pérdida marcada de la diferenciación cortico-subcortical en territorio correspondiente a infarto previo. Desplazamiento de la línea media de aproximadamente 6 mm hacia la derecha. Ventriculos laterales con colapso parcial del lado izquierdo. Cisternas basales parcialmente obliteradas.  
+TC PERFUSIÓN:  
+Área de hipoperfusión extensa en el hemisferio izquierdo, con aumento significativo en los parámetros de tiempo de tránsito promedio (TTP) y reducción de volumen de sangre cerebral (CBV), concordante con isquemia establecida.  
+ANGIO-TC EXTRA E INTRACRANEAL:  
+Oclusión parcial en segmento M1 izquierdo de la arteria cerebral media. Resto del árbol arterial intracraneal permeable sin otras estenosis relevantes. Presencia de ateromatosis leve en bifurcación carotídea izquierda.  
+No se evidencian trombos en otros vasos principales ni signos de vasculitis.
+
+CONCL (Conclusiones):  
+Transformación hemorrágica tipo PH2 en territorio de arteria cerebral media izquierda sobre infarto establecido, con hematoma significativo y efecto de masa moderado.  
+Oclusión parcial del segmento M1 izquierdo.  
+Desplazamiento de línea media y edema cerebral asociado.  
+Se recomienda seguimiento estrecho en unidad de cuidados intensivos y valoración neuroquirúrgica.
+
+ACTI_ADICI (Actividad adicional):  
+
+ICON (Estudio): @RADIO_TC_12345@
+
+X00DIATXT (Texto del diagnóstico ACR): Transformación hemorrágica tipo PH2 en infarto cerebral del territorio de la arteria cerebral media izquierda.
+
+EST_T_DES (Descripción): TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANGIOTC ARTERIAL INTRACRANEAL)
+
+ZVASOS_D (Der.):

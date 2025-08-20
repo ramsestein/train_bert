@@ -1,0 +1,71 @@
+{
+  "document_id": "informe_sintetico_20250804195045_00709",
+  "entities": [
+    {
+      "text": "infarto cerebral establecido",
+      "type": "PATOLOGIA",
+      "start": 648,
+      "end": 676
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 563,
+      "end": 593
+    },
+    {
+      "text": "arteria cerebral media",
+      "type": "ARTERIA",
+      "start": 563,
+      "end": 585
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 586,
+      "end": 593
+    },
+    {
+      "text": "6 mm",
+      "type": "MEDIDA",
+      "start": 873,
+      "end": 877
+    },
+    {
+      "text": "agudo",
+      "type": "TEMPORALIDAD",
+      "start": 305,
+      "end": 310
+    },
+    {
+      "text": "Oclusión completa",
+      "type": "PATOLOGIA",
+      "start": 1354,
+      "end": 1371
+    },
+    {
+      "text": "arteria carótida interna derecha",
+      "type": "ARTERIA",
+      "start": 1375,
+      "end": 1407
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 586,
+      "end": 593
+    },
+    {
+      "text": "No se observan signos de hemorragia intra ni extraaxial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 749,
+      "end": 804
+    },
+    {
+      "text": "No signos de hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2158,
+      "end": 2194
+    }
+  ]
+}

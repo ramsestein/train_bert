@@ -1,0 +1,131 @@
+{
+  "document_id": "informe_sintetico_20250804195045_11030",
+  "entities": [
+    {
+      "text": "isquemia vertebrobasilar aguda",
+      "type": "PATOLOGIA",
+      "start": 249,
+      "end": 279
+    },
+    {
+      "text": "infarto isquémico",
+      "type": "PATOLOGIA",
+      "start": 693,
+      "end": 710
+    },
+    {
+      "text": "discreta hipodensidad",
+      "type": "PATOLOGIA",
+      "start": 569,
+      "end": 590
+    },
+    {
+      "text": "tronco encefálico",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 609,
+      "end": 626
+    },
+    {
+      "text": "cerebelo bilateral",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1088,
+      "end": 1106
+    },
+    {
+      "text": "arteria basilar distal",
+      "type": "ARTERIA",
+      "start": 1244,
+      "end": 1266
+    },
+    {
+      "text": "arterias vertebrales",
+      "type": "ARTERIA",
+      "start": 1382,
+      "end": 1402
+    },
+    {
+      "text": "hipoplasia de la arteria vertebral derecha",
+      "type": "ARTERIA",
+      "start": 1408,
+      "end": 1450
+    },
+    {
+      "text": "bilateral",
+      "type": "LATERALIDAD",
+      "start": 1097,
+      "end": 1106
+    },
+    {
+      "text": "aguda",
+      "type": "TEMPORALIDAD",
+      "start": 274,
+      "end": 279
+    },
+    {
+      "text": "No se evidencian hemorragias intracraneales ni lesiones expansivas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 490,
+      "end": 556
+    },
+    {
+      "text": "No se aprecian alteraciones estructurales añadidas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 712,
+      "end": 762
+    },
+    {
+      "text": "Líneas medias centradas sin desplazamientos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 764,
+      "end": 807
+    },
+    {
+      "text": "No se visualizan hemorragias",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1722,
+      "end": 1750
+    },
+    {
+      "text": "Isquemia aguda en territorio vertebrobasilar",
+      "type": "PATOLOGIA",
+      "start": 2153,
+      "end": 2197
+    },
+    {
+      "text": "oclusión de arteria basilar distal",
+      "type": "PATOLOGIA",
+      "start": 2202,
+      "end": 2236
+    },
+    {
+      "text": "No hemorragia intracraneal detectada",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2238,
+      "end": 2274
+    },
+    {
+      "text": "prolongación del tiempo de tránsito medio (TTP)",
+      "type": "MEDIDA",
+      "start": 928,
+      "end": 975
+    },
+    {
+      "text": "tiempo de llegada (Tmax)",
+      "type": "MEDIDA",
+      "start": 978,
+      "end": 1002
+    },
+    {
+      "text": "disminución del flujo cerebral sanguíneo (CBF)",
+      "type": "MEDIDA",
+      "start": 1007,
+      "end": 1053
+    },
+    {
+      "text": "menor volumen cerebral (CBV) conservado",
+      "type": "MEDIDA",
+      "start": 1108,
+      "end": 1147
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "document_id": "informe_sintetico_20250804195045_09179",
+  "entities": [
+    {
+      "text": "infarto lacunar agudo",
+      "type": "PATOLOGIA",
+      "start": 608,
+      "end": 629
+    },
+    {
+      "text": "8 mm",
+      "type": "MEDIDA",
+      "start": 487,
+      "end": 491
+    },
+    {
+      "text": "región posterior del brazo posterior de la cápsula interna derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 522,
+      "end": 588
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 581,
+      "end": 588
+    },
+    {
+      "text": "isquemia reciente",
+      "type": "PATOLOGIA",
+      "start": 1670,
+      "end": 1687
+    },
+    {
+      "text": "sin estenosis ni placas significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1274,
+      "end": 1312
+    },
+    {
+      "text": "sin complicaciones hemorrágicas ni estenosis arterial observada",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2166,
+      "end": 2229
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 263,
+      "end": 279
+    },
+    {
+      "text": "TC PERFUSIÓN",
+      "type": "TECNICA_IMAGEN",
+      "start": 878,
+      "end": 890
+    },
+    {
+      "text": "ANGIO-TC EXTRA E INTRACRANEAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 1191,
+      "end": 1220
+    }
+  ]
+}

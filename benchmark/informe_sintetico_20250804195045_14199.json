@@ -1,0 +1,71 @@
+{
+  "document_id": "informe_sintetico_20250804195045_14199",
+  "entities": [
+    {
+      "text": "hematoma lobar parietal izquierdo",
+      "type": "PATOLOGIA",
+      "start": 408,
+      "end": 441
+    },
+    {
+      "text": "25 x 18 mm",
+      "type": "MEDIDA",
+      "start": 461,
+      "end": 471
+    },
+    {
+      "text": "izquierdo",
+      "type": "LATERALIDAD",
+      "start": 432,
+      "end": 441
+    },
+    {
+      "text": "3 mm",
+      "type": "MEDIDA",
+      "start": 782,
+      "end": 786
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 278,
+      "end": 294
+    },
+    {
+      "text": "TC PERFUSIÓN CEREBRAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 908,
+      "end": 929
+    },
+    {
+      "text": "Arterias intracraneales",
+      "type": "ARTERIA",
+      "start": 1176,
+      "end": 1199
+    },
+    {
+      "text": "No se evidencian malformaciones vasculares ni aneurismas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1249,
+      "end": 1305
+    },
+    {
+      "text": "No se observan lesiones isquémicas agudas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 716,
+      "end": 757
+    },
+    {
+      "text": "No áreas de isquemia o hipoperfusión en territorio vascular adyacente",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1070,
+      "end": 1139
+    },
+    {
+      "text": "No hay evidencia angiográfica de malformaciones vasculares ni trombosis arterial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1533,
+      "end": 1613
+    }
+  ]
+}

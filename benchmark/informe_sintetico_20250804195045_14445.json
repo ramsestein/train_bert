@@ -1,0 +1,65 @@
+{
+  "document_id": "informe_sintetico_20250804195045_14445",
+  "entities": [
+    {
+      "text": "lesión hemorrágica intraaxial",
+      "type": "PATOLOGIA",
+      "start": 506,
+      "end": 535
+    },
+    {
+      "text": "región frontotemporal derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 550,
+      "end": 579
+    },
+    {
+      "text": "12 x 8 mm",
+      "type": "MEDIDA",
+      "start": 636,
+      "end": 645
+    },
+    {
+      "text": "contusión hemorrágica",
+      "type": "PATOLOGIA",
+      "start": 687,
+      "end": 708
+    },
+    {
+      "text": "edema perilesional",
+      "type": "PATOLOGIA",
+      "start": 717,
+      "end": 735
+    },
+    {
+      "text": "sin evidencia de desplazamiento de la línea media ni hemorragias adicionales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1594,
+      "end": 1670
+    },
+    {
+      "text": "sin isquemia secundaria ni compromiso vascular",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1702,
+      "end": 1748
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 292,
+      "end": 308
+    },
+    {
+      "text": "TC perfusión",
+      "type": "TECNICA_IMAGEN",
+      "start": 1007,
+      "end": 1019
+    },
+    {
+      "text": "Angio TC intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 1276,
+      "end": 1297
+    }
+  ]
+}

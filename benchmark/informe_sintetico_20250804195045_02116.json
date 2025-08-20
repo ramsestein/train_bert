@@ -1,0 +1,83 @@
+{
+  "document_id": "informe_sintetico_20250804195045_02116",
+  "entities": [
+    {
+      "text": "infarto",
+      "type": "PATOLOGIA",
+      "start": 791,
+      "end": 798
+    },
+    {
+      "text": "hemorragia",
+      "type": "PATOLOGIA",
+      "start": 800,
+      "end": 810
+    },
+    {
+      "text": "lesiones expansivas",
+      "type": "PATOLOGIA",
+      "start": 813,
+      "end": 832
+    },
+    {
+      "text": "gliosis leve",
+      "type": "PATOLOGIA",
+      "start": 899,
+      "end": 911
+    },
+    {
+      "text": "TTP",
+      "type": "MEDIDA",
+      "start": 990,
+      "end": 993
+    },
+    {
+      "text": "CBV",
+      "type": "MEDIDA",
+      "start": 1024,
+      "end": 1027
+    },
+    {
+      "text": "CBF",
+      "type": "MEDIDA",
+      "start": 1057,
+      "end": 1060
+    },
+    {
+      "text": "ACAs",
+      "type": "ARTERIA",
+      "start": 1255,
+      "end": 1259
+    },
+    {
+      "text": "ACMs",
+      "type": "ARTERIA",
+      "start": 1261,
+      "end": 1265
+    },
+    {
+      "text": "ACPs",
+      "type": "ARTERIA",
+      "start": 1267,
+      "end": 1271
+    },
+    {
+      "text": "sin hallazgos agudos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1532,
+      "end": 1552
+    },
+    {
+      "text": "normales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1080,
+      "end": 1088
+    },
+    {
+      "text": "sin relevancia clínica",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1715,
+      "end": 1737
+    }
+  ]
+}

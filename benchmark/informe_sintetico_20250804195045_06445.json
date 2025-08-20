@@ -1,0 +1,119 @@
+{
+  "document_id": "informe_sintetico_20250804195045_06445",
+  "entities": [
+    {
+      "text": "ictus isquémico",
+      "type": "PATOLOGIA",
+      "start": 407,
+      "end": 422
+    },
+    {
+      "text": "hipodensidad bilaterales y simétricas",
+      "type": "PATOLOGIA",
+      "start": 615,
+      "end": 652
+    },
+    {
+      "text": "zonas watershed corticales fronto-parietales bilaterales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 759,
+      "end": 815
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 930,
+      "end": 953
+    },
+    {
+      "text": "lesion focal aguda",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 957,
+      "end": 975
+    },
+    {
+      "text": "disminución localizada en el volumen de sangre cerebral (CBV)",
+      "type": "PATOLOGIA",
+      "start": 1059,
+      "end": 1120
+    },
+    {
+      "text": "flujo sanguíneo cerebral (CBF)",
+      "type": "PATOLOGIA",
+      "start": 1123,
+      "end": 1153
+    },
+    {
+      "text": "hipoperfusión tisular",
+      "type": "PATOLOGIA",
+      "start": 1297,
+      "end": 1318
+    },
+    {
+      "text": "infarto",
+      "type": "PATOLOGIA",
+      "start": 1379,
+      "end": 1386
+    },
+    {
+      "text": "ateromatosis leve",
+      "type": "PATOLOGIA",
+      "start": 1633,
+      "end": 1650
+    },
+    {
+      "text": "arterias cerebrales anterior, media o posterior",
+      "type": "ARTERIA",
+      "start": 1571,
+      "end": 1618
+    },
+    {
+      "text": "bilaterales",
+      "type": "LATERALIDAD",
+      "start": 628,
+      "end": 639
+    },
+    {
+      "text": "sin déficit total de perfusión",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1336,
+      "end": 1366
+    },
+    {
+      "text": "infarto por hipoperfusión",
+      "type": "PATOLOGIA",
+      "start": 1774,
+      "end": 1799
+    },
+    {
+      "text": "compromiso hemodinámico global",
+      "type": "PATOLOGIA",
+      "start": 1874,
+      "end": 1904
+    },
+    {
+      "text": "vigilancia neurológica",
+      "type": "PATOLOGIA",
+      "start": 2024,
+      "end": 2046
+    },
+    {
+      "text": "manejo hemodinámico optimizado",
+      "type": "PATOLOGIA",
+      "start": 2049,
+      "end": 2079
+    },
+    {
+      "text": "sin evidencia de oclusión arterial mayor",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2345,
+      "end": 2385
+    },
+    {
+      "text": "TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANGIOTC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 2440,
+      "end": 2507
+    }
+  ]
+}

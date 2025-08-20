@@ -1,0 +1,143 @@
+{
+  "document_id": "informe_sintetico_20250804195045_23345",
+  "entities": [
+    {
+      "text": "hemiparesia izquierda",
+      "type": "PATOLOGIA",
+      "start": 202,
+      "end": 223
+    },
+    {
+      "text": "afasia",
+      "type": "PATOLOGIA",
+      "start": 226,
+      "end": 232
+    },
+    {
+      "text": "disección arterial cervical",
+      "type": "PATOLOGIA",
+      "start": 254,
+      "end": 281
+    },
+    {
+      "text": "evento isquémico cerebral",
+      "type": "PATOLOGIA",
+      "start": 286,
+      "end": 311
+    },
+    {
+      "text": "hipodensidad cortical y subcortical",
+      "type": "PATOLOGIA",
+      "start": 517,
+      "end": 552
+    },
+    {
+      "text": "territorio parietal derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 559,
+      "end": 586
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "ARTERIA",
+      "start": 622,
+      "end": 652
+    },
+    {
+      "text": "infarto isquémico subagudo",
+      "type": "PATOLOGIA",
+      "start": 669,
+      "end": 695
+    },
+    {
+      "text": "No hemorragias intracraneales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 784,
+      "end": 813
+    },
+    {
+      "text": "efecto masa significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 817,
+      "end": 842
+    },
+    {
+      "text": "aumento del tiempo de tránsito medio (Tmax)",
+      "type": "MEDIDA",
+      "start": 965,
+      "end": 1008
+    },
+    {
+      "text": "reducción del flujo cerebral (CBF)",
+      "type": "MEDIDA",
+      "start": 1011,
+      "end": 1045
+    },
+    {
+      "text": "disminución moderada del volumen cerebral (CBV)",
+      "type": "MEDIDA",
+      "start": 1080,
+      "end": 1127
+    },
+    {
+      "text": "estenosis significativa (>70%)",
+      "type": "MEDIDA",
+      "start": 1461,
+      "end": 1491
+    },
+    {
+      "text": "permeabilidad disminuida en ramas distales de ACM derecha",
+      "type": "PATOLOGIA",
+      "start": 1543,
+      "end": 1600
+    },
+    {
+      "text": "disección de arteria carótida interna derecha",
+      "type": "PATOLOGIA",
+      "start": 1681,
+      "end": 1726
+    },
+    {
+      "text": "infarto isquémico en territorio de la arteria cerebral media derecha",
+      "type": "PATOLOGIA",
+      "start": 1769,
+      "end": 1837
+    },
+    {
+      "text": "áreas de penumbra y núcleo isquémico",
+      "type": "PATOLOGIA",
+      "start": 1854,
+      "end": 1890
+    },
+    {
+      "text": "cuadro isquémico subagudo",
+      "type": "TEMPORALIDAD",
+      "start": 1906,
+      "end": 1931
+    },
+    {
+      "text": "No complicaciones hemorrágicas asociadas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1933,
+      "end": 1973
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 367,
+      "end": 383
+    },
+    {
+      "text": "perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 385,
+      "end": 403
+    },
+    {
+      "text": "angioTC arterial extra e intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 406,
+      "end": 443
+    }
+  ]
+}

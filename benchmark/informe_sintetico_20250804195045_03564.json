@@ -1,0 +1,227 @@
+{
+  "document_id": "informe_sintetico_20250804195045_03564",
+  "entities": [
+    {
+      "text": "hemiparesia derecha",
+      "type": "PATOLOGIA",
+      "start": 204,
+      "end": 223
+    },
+    {
+      "text": "afasia",
+      "type": "PATOLOGIA",
+      "start": 226,
+      "end": 232
+    },
+    {
+      "text": "2 horas",
+      "type": "TEMPORALIDAD",
+      "start": 236,
+      "end": 243
+    },
+    {
+      "text": "ictus isquémico",
+      "type": "PATOLOGIA",
+      "start": 270,
+      "end": 285
+    },
+    {
+      "text": "hemorragias",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 507,
+      "end": 518
+    },
+    {
+      "text": "signos de transformación hemorrágica",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 522,
+      "end": 558
+    },
+    {
+      "text": "hipodensidad",
+      "type": "PATOLOGIA",
+      "start": 576,
+      "end": 588
+    },
+    {
+      "text": "lóbulo frontal",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 630,
+      "end": 644
+    },
+    {
+      "text": "parietal izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 647,
+      "end": 665
+    },
+    {
+      "text": "arteria cerebral media",
+      "type": "ARTERIA",
+      "start": 714,
+      "end": 736
+    },
+    {
+      "text": "segmentos M2-M3",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 738,
+      "end": 753
+    },
+    {
+      "text": "ASPECTS global de 9",
+      "type": "PUNTUACION_CLINICA",
+      "start": 833,
+      "end": 852
+    },
+    {
+      "text": "desplazamientos significativos de línea media",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 861,
+      "end": 906
+    },
+    {
+      "text": "edema cerebral relevante",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 910,
+      "end": 934
+    },
+    {
+      "text": "Cisternas basales libres",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 977,
+      "end": 1001
+    },
+    {
+      "text": "reducción focalizada en volumen cerebral de sangre",
+      "type": "PATOLOGIA",
+      "start": 1059,
+      "end": 1109
+    },
+    {
+      "text": "flujo cerebral de sangre",
+      "type": "PATOLOGIA",
+      "start": 1118,
+      "end": 1142
+    },
+    {
+      "text": "territorio cortical distal izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1152,
+      "end": 1188
+    },
+    {
+      "text": "aumento moderado del tiempo de tránsito medio",
+      "type": "PATOLOGIA",
+      "start": 1194,
+      "end": 1239
+    },
+    {
+      "text": "isquemia penumbra",
+      "type": "PATOLOGIA",
+      "start": 1262,
+      "end": 1279
+    },
+    {
+      "text": "región M2/M3 de ACM izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1283,
+      "end": 1312
+    },
+    {
+      "text": "No se observan áreas de infarto establecido",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1314,
+      "end": 1357
+    },
+    {
+      "text": "disminución marcada de CBV",
+      "type": "PATOLOGIA",
+      "start": 1362,
+      "end": 1388
+    },
+    {
+      "text": "Oclusión focal en segmento M2 distal de arteria cerebral media izquierda",
+      "type": "PATOLOGIA",
+      "start": 1424,
+      "end": 1496
+    },
+    {
+      "text": "sin evidencia de trombo en segmentos más proximales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1498,
+      "end": 1549
+    },
+    {
+      "text": "Resto de la circulación intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1551,
+      "end": 1587
+    },
+    {
+      "text": "ACAs, ACPs y sistema vertebrobasilar",
+      "type": "ARTERIA",
+      "start": 1600,
+      "end": 1636
+    },
+    {
+      "text": "permeable y sin signos de estenosis significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1638,
+      "end": 1688
+    },
+    {
+      "text": "ateromatosis difusa pero sin estenosis significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1731,
+      "end": 1783
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 1838,
+      "end": 1852
+    },
+    {
+      "text": "territorio distal de arteria cerebral media izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1856,
+      "end": 1909
+    },
+    {
+      "text": "segmentos M2/M3",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1911,
+      "end": 1926
+    },
+    {
+      "text": "oclusión confirmada en angiografía TC",
+      "type": "PATOLOGIA",
+      "start": 1932,
+      "end": 1969
+    },
+    {
+      "text": "áreas de penumbra isquémica identificadas en TC perfusión",
+      "type": "PATOLOGIA",
+      "start": 1972,
+      "end": 2029
+    },
+    {
+      "text": "ASPECTS 9",
+      "type": "PUNTUACION_CLINICA",
+      "start": 2031,
+      "end": 2040
+    },
+    {
+      "text": "sin evidencia de transformación hemorrágica",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2042,
+      "end": 2085
+    },
+    {
+      "text": "Circulación extracraneal sin estenosis relevante",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2110,
+      "end": 2158
+    }
+  ]
+}

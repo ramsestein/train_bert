@@ -1,0 +1,65 @@
+{
+  "document_id": "informe_sintetico_20250804195045_13915",
+  "entities": [
+    {
+      "text": "hemorragia intraventricular primaria",
+      "type": "PATOLOGIA",
+      "start": 525,
+      "end": 561
+    },
+    {
+      "text": "ventrículos laterales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 589,
+      "end": 610
+    },
+    {
+      "text": "tercer y cuarto ventrículo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 630,
+      "end": 656
+    },
+    {
+      "text": "parénquima adyacente",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 700,
+      "end": 720
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 1052,
+      "end": 1066
+    },
+    {
+      "text": "TTP, CBV y CBF",
+      "type": "MEDIDA",
+      "start": 1177,
+      "end": 1191
+    },
+    {
+      "text": "ACA, ACM y ACP",
+      "type": "ARTERIA",
+      "start": 1504,
+      "end": 1518
+    },
+    {
+      "text": "sin signos de patología vascular aguda",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1602,
+      "end": 1640
+    },
+    {
+      "text": "sin evidencia de sangrado parenquimatoso asociado",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1732,
+      "end": 1781
+    },
+    {
+      "text": "sin estenosis ni aneurismas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2306,
+      "end": 2333
+    }
+  ]
+}

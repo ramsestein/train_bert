@@ -1,0 +1,95 @@
+{
+  "document_id": "informe_sintetico_20250804195045_22735",
+  "entities": [
+    {
+      "text": "hemorragia intraventricular primaria",
+      "type": "PATOLOGIA",
+      "start": 498,
+      "end": 534
+    },
+    {
+      "text": "ventrículos laterales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 572,
+      "end": 593
+    },
+    {
+      "text": "ventrículo lateral derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 614,
+      "end": 640
+    },
+    {
+      "text": "hidrocefalia obstructiva secundaria",
+      "type": "PATOLOGIA",
+      "start": 697,
+      "end": 732
+    },
+    {
+      "text": "No se detectan hematomas parenquimatosos adyacentes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 734,
+      "end": 785
+    },
+    {
+      "text": "No se observan signos de fractura ni edema cerebral significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 831,
+      "end": 896
+    },
+    {
+      "text": "sin evidencia de áreas isquémicas o mismatch",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1037,
+      "end": 1081
+    },
+    {
+      "text": "ACM, ACA, ACP",
+      "type": "ARTERIA",
+      "start": 1308,
+      "end": 1321
+    },
+    {
+      "text": "No se identifican malformaciones arterio-venosas, aneurismas ni estenosis significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1179,
+      "end": 1267
+    },
+    {
+      "text": "Vasos permeables sin signos de oclusión o trombosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1357,
+      "end": 1408
+    },
+    {
+      "text": "Hemorragia intraventricular primaria con predominio en ventrículo lateral derecho",
+      "type": "PATOLOGIA",
+      "start": 1433,
+      "end": 1514
+    },
+    {
+      "text": "dilatación ventricular secundaria por hidrocefalia obstructiva",
+      "type": "PATOLOGIA",
+      "start": 1517,
+      "end": 1579
+    },
+    {
+      "text": "No se identifican hemorragias parenquimatosas asociadas ni lesiones vasculares anómalas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1581,
+      "end": 1668
+    },
+    {
+      "text": "Perfusión cerebral sin alteraciones isquémicas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1670,
+      "end": 1716
+    },
+    {
+      "text": "TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANGIOTC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 2079,
+      "end": 2146
+    }
+  ]
+}

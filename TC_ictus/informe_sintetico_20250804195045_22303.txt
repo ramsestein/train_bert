@@ -1,0 +1,31 @@
+UO_PACN (Unidad Organizativa Médica): RADIO
+
+PRUEB (Prueba solicitada): TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANG IOTC ARTERIAL INTRACRANEAL)
+
+CLIN (Resumen clínico): Déficit neurológico súbito con afasia y hemiparesia derecha, sospecha de accidente isquémico cerebral.
+
+OBSR (Protocolo): TC CRANEAL BASAL + TC PERFUSIÓN + ANGIO-TC INTRACRANEAL DE GRAN VASOS
+
+RESL (Resultados):  
+TC CRANEAL BASAL:  
+Se identifica arteria cerebral media izquierda segmento M1 hiperdensa, sugestiva de trombo intraluminal. Áreas hipodensas en territorio de la ACM izquierda que corresponden a hipoperfusión precoz, con pérdida moderada de la diferenciación córtico-subcortical. ASPECTS 7. No se evidencian signos de hemorragia intra ni extraaxial. Estructuras de línea media centradas. Sistema ventricular sin alteraciones de tamaño ni morfología.
+
+TC PERFUSIÓN:  
+Mapas de tiempo de tránsito prolongados (Tmax y TTP) y reducción notable del flujo sanguíneo cerebral (CBF) en territorio frontal, parietal y temporal izquierda, compatible con área de isquemia potencialmente reversible. Volumen cerebral afectado significativo con reducción del volumen sanguíneo (CBV) limitado, sugiriendo zona penumbra isquémica amplia.
+
+ANGIO-TC INTRACRANEAL:  
+Oclusión completa del segmento proximal M1 de la arteria cerebral media izquierda. Arterias cerebrales anteriores (ACAs) y posteriores (ACPs) permeables. Sistema vertebrobasilar sin alteraciones visibles. No se identifican estenosis significativas en arterias carótidas internas intracraneales.
+
+CONCL (Conclusiones):  
+Isquemia aguda en territorio de arteria cerebral media izquierda, con oclusión del segmento proximal M1 y presencia de arteria hiperdensa en TC basal. ASPECTS 7. Amplia zona de penumbra isquémica en perfusión cerebral, sin evidencia de hemorragia. Estudio vascular compatible con trombo obstructivo en ACM proximal izquierda.
+
+ACTI_ADICI (Actividad adicional):  
+
+ICON (Estudio): @TC_ictus_M1@
+
+X00DIATXT (Texto del diagnóstico ACR):  
+Isquemia cerebral aguda en territorio de ACM izquierda por oclusión proximal segmentaria M1. Hallazgo de arteria hiperdensa. Polígono de Willis sin otras alteraciones significativas.
+
+EST_T_DES (Descripción): TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANGIOTC ARTERIAL INTRACRANEAL)
+
+ZVASOS_D (Der.): Oclusión segmento M1 ACM izquierda. Arterias restantes permeables sin estenosis de relevancia.

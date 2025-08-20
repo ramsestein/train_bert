@@ -1,0 +1,221 @@
+{
+  "document_id": "informe_sintetico_20250804195045_06116",
+  "entities": [
+    {
+      "text": "hemiparesia contralateral",
+      "type": "PATOLOGIA",
+      "start": 217,
+      "end": 242
+    },
+    {
+      "text": "ictus",
+      "type": "PATOLOGIA",
+      "start": 292,
+      "end": 297
+    },
+    {
+      "text": "hemorragia intra o extraaxial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 522,
+      "end": 551
+    },
+    {
+      "text": "hipodensidad focal",
+      "type": "PATOLOGIA",
+      "start": 564,
+      "end": 582
+    },
+    {
+      "text": "regiones corticales y subcorticales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 586,
+      "end": 621
+    },
+    {
+      "text": "arteria cerebral anterior izquierda",
+      "type": "ARTERIA",
+      "start": 643,
+      "end": 678
+    },
+    {
+      "text": "convexidad medial frontal y paracentral",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 700,
+      "end": 739
+    },
+    {
+      "text": "borramiento de surcos adyacentes",
+      "type": "PATOLOGIA",
+      "start": 750,
+      "end": 782
+    },
+    {
+      "text": "edema masivo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 884,
+      "end": 896
+    },
+    {
+      "text": "desplazamiento de líneas medias",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 900,
+      "end": 931
+    },
+    {
+      "text": "prolongación significativa",
+      "type": "PATOLOGIA",
+      "start": 1045,
+      "end": 1071
+    },
+    {
+      "text": "volumen sanguíneo cerebral",
+      "type": "PATOLOGIA",
+      "start": 1163,
+      "end": 1189
+    },
+    {
+      "text": "territorio de ACA izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1202,
+      "end": 1229
+    },
+    {
+      "text": "aumento del tiempo de llegada",
+      "type": "PATOLOGIA",
+      "start": 1235,
+      "end": 1264
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 1306,
+      "end": 1320
+    },
+    {
+      "text": "reperfusión establecida",
+      "type": "PATOLOGIA",
+      "start": 1325,
+      "end": 1348
+    },
+    {
+      "text": "arteria cerebral anterior izquierda",
+      "type": "ARTERIA",
+      "start": 643,
+      "end": 678
+    },
+    {
+      "text": "segmento A2 proximal",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1442,
+      "end": 1462
+    },
+    {
+      "text": "sin visualización de flujo distal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1464,
+      "end": 1497
+    },
+    {
+      "text": "circulación intracraneal",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1514,
+      "end": 1538
+    },
+    {
+      "text": "sin signos de estenosis significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1563,
+      "end": 1600
+    },
+    {
+      "text": "aneurismas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1620,
+      "end": 1630
+    },
+    {
+      "text": "malformaciones vasculares",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1634,
+      "end": 1659
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 1306,
+      "end": 1320
+    },
+    {
+      "text": "arteria cerebral anterior izquierda",
+      "type": "ARTERIA",
+      "start": 643,
+      "end": 678
+    },
+    {
+      "text": "oclusión trombótica del segmento proximal A2",
+      "type": "PATOLOGIA",
+      "start": 1800,
+      "end": 1844
+    },
+    {
+      "text": "complicaciones hemorrágicas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1864,
+      "end": 1891
+    },
+    {
+      "text": "edema asociado",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1895,
+      "end": 1909
+    },
+    {
+      "text": "alteración hemodinámica significativa",
+      "type": "PATOLOGIA",
+      "start": 1944,
+      "end": 1981
+    },
+    {
+      "text": "área de penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1986,
+      "end": 2012
+    },
+    {
+      "text": "valoración clínica urgente",
+      "type": "PATOLOGIA",
+      "start": 2027,
+      "end": 2053
+    },
+    {
+      "text": "posibles terapias de reperfusión",
+      "type": "PATOLOGIA",
+      "start": 2059,
+      "end": 2091
+    },
+    {
+      "text": "TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANG IOTC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 72,
+      "end": 140
+    },
+    {
+      "text": "TC craneal basal sin contraste",
+      "type": "TECNICA_IMAGEN",
+      "start": 350,
+      "end": 380
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 383,
+      "end": 404
+    },
+    {
+      "text": "Angio-TC arterial intracraneal sin contraste",
+      "type": "TECNICA_IMAGEN",
+      "start": 407,
+      "end": 451
+    }
+  ]
+}

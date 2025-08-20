@@ -1,0 +1,227 @@
+{
+  "document_id": "informe_sintetico_20250804195045_17077",
+  "entities": [
+    {
+      "text": "isquemia",
+      "type": "PATOLOGIA",
+      "start": 277,
+      "end": 285
+    },
+    {
+      "text": "hemorragias intra ni extraaxiales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 566,
+      "end": 599
+    },
+    {
+      "text": "infarto establecido",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 628,
+      "end": 647
+    },
+    {
+      "text": "discreta hipodensidad",
+      "type": "PATOLOGIA",
+      "start": 686,
+      "end": 707
+    },
+    {
+      "text": "bulbar lateral izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 718,
+      "end": 742
+    },
+    {
+      "text": "territorio vertebrobasilar",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 289,
+      "end": 315
+    },
+    {
+      "text": "TTP",
+      "type": "MEDIDA",
+      "start": 414,
+      "end": 417
+    },
+    {
+      "text": "Tmax",
+      "type": "MEDIDA",
+      "start": 419,
+      "end": 423
+    },
+    {
+      "text": "CBF",
+      "type": "MEDIDA",
+      "start": 404,
+      "end": 407
+    },
+    {
+      "text": "CBV",
+      "type": "MEDIDA",
+      "start": 409,
+      "end": 412
+    },
+    {
+      "text": "penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1136,
+      "end": 1154
+    },
+    {
+      "text": "tallo cerebral",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1158,
+      "end": 1172
+    },
+    {
+      "text": "cerebelo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1174,
+      "end": 1182
+    },
+    {
+      "text": "territorio occipital posterior bilateral",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1185,
+      "end": 1225
+    },
+    {
+      "text": "lado izquierdo",
+      "type": "LATERALIDAD",
+      "start": 1240,
+      "end": 1254
+    },
+    {
+      "text": "mismatch significativo",
+      "type": "PATOLOGIA",
+      "start": 1269,
+      "end": 1291
+    },
+    {
+      "text": "infarto establecido",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 628,
+      "end": 647
+    },
+    {
+      "text": "Oclusión completa",
+      "type": "PATOLOGIA",
+      "start": 1388,
+      "end": 1405
+    },
+    {
+      "text": "segmento distal de arteria vertebral izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1410,
+      "end": 1456
+    },
+    {
+      "text": "estenosis crítica (aprox. 80%)",
+      "type": "PATOLOGIA",
+      "start": 1459,
+      "end": 1489
+    },
+    {
+      "text": "segmento proximal de arteria basilar",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1493,
+      "end": 1529
+    },
+    {
+      "text": "Arteria vertebral derecha",
+      "type": "ARTERIA",
+      "start": 1531,
+      "end": 1556
+    },
+    {
+      "text": "sin estenosis significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1568,
+      "end": 1595
+    },
+    {
+      "text": "Arterias cerebrales posteriores (PCAs)",
+      "type": "ARTERIA",
+      "start": 1597,
+      "end": 1635
+    },
+    {
+      "text": "circulación colateral visible",
+      "type": "PATOLOGIA",
+      "start": 1651,
+      "end": 1680
+    },
+    {
+      "text": "troncos supraaórticos",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 462,
+      "end": 483
+    },
+    {
+      "text": "ateromatosis moderada",
+      "type": "PATOLOGIA",
+      "start": 1708,
+      "end": 1729
+    },
+    {
+      "text": "origen de arterias subclavias",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1733,
+      "end": 1762
+    },
+    {
+      "text": "sin estenosis significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1568,
+      "end": 1595
+    },
+    {
+      "text": "No se identifica hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2109,
+      "end": 2149
+    },
+    {
+      "text": "infarto establecido",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 628,
+      "end": 647
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 1899,
+      "end": 1913
+    },
+    {
+      "text": "penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1136,
+      "end": 1154
+    },
+    {
+      "text": "tallo cerebral",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1158,
+      "end": 1172
+    },
+    {
+      "text": "cerebelo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1174,
+      "end": 1182
+    },
+    {
+      "text": "Oclusión de arteria vertebral izquierda distal",
+      "type": "PATOLOGIA",
+      "start": 2014,
+      "end": 2060
+    },
+    {
+      "text": "estenosis severa de arteria basilar proximal",
+      "type": "PATOLOGIA",
+      "start": 2063,
+      "end": 2107
+    }
+  ]
+}

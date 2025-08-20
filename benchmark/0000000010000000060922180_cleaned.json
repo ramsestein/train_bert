@@ -1,0 +1,71 @@
+{
+  "document_id": "0000000010000000060922180_cleaned",
+  "entities": [
+    {
+      "text": "isquemia",
+      "type": "PATOLOGIA",
+      "start": 427,
+      "end": 435
+    },
+    {
+      "text": "ACM izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 621,
+      "end": 634
+    },
+    {
+      "text": "ACM",
+      "type": "ARTERIA",
+      "start": 172,
+      "end": 175
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 625,
+      "end": 634
+    },
+    {
+      "text": "2 mm",
+      "type": "MEDIDA",
+      "start": 1025,
+      "end": 1029
+    },
+    {
+      "text": "4 x 6 x 4 mm",
+      "type": "MEDIDA",
+      "start": 1047,
+      "end": 1059
+    },
+    {
+      "text": "oclusión",
+      "type": "PATOLOGIA",
+      "start": 1169,
+      "end": 1177
+    },
+    {
+      "text": "ACM izquierda",
+      "type": "ARTERIA",
+      "start": 621,
+      "end": 634
+    },
+    {
+      "text": "ACAs, ACMd y ACPs",
+      "type": "ARTERIA",
+      "start": 1429,
+      "end": 1446
+    },
+    {
+      "text": "No se identifican claras áreas de isquemia establecida",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 393,
+      "end": 447
+    },
+    {
+      "text": "sin cambios significativos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1082,
+      "end": 1108
+    }
+  ]
+}

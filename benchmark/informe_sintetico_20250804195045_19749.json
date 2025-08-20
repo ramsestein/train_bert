@@ -1,0 +1,47 @@
+{
+  "document_id": "informe_sintetico_20250804195045_19749",
+  "entities": [
+    {
+      "text": "hemorragia intra ni extraaxial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 477,
+      "end": 507
+    },
+    {
+      "text": "infarto agudo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 529,
+      "end": 542
+    },
+    {
+      "text": "cambios crónicos microangiopáticos",
+      "type": "PATOLOGIA",
+      "start": 704,
+      "end": 738
+    },
+    {
+      "text": "sustancia blanca",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 655,
+      "end": 671
+    },
+    {
+      "text": "perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 323,
+      "end": 341
+    },
+    {
+      "text": "angio-TC arterial",
+      "type": "TECNICA_IMAGEN",
+      "start": 343,
+      "end": 360
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 1403,
+      "end": 1413
+    }
+  ]
+}

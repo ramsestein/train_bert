@@ -1,0 +1,83 @@
+{
+  "document_id": "informe_sintetico_20250804195045_18103",
+  "entities": [
+    {
+      "text": "infarto subagudo",
+      "type": "PATOLOGIA",
+      "start": 505,
+      "end": 521
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 459,
+      "end": 489
+    },
+    {
+      "text": "arteria cerebral media",
+      "type": "ARTERIA",
+      "start": 459,
+      "end": 481
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 482,
+      "end": 489
+    },
+    {
+      "text": "menor de 10 mm",
+      "type": "MEDIDA",
+      "start": 609,
+      "end": 623
+    },
+    {
+      "text": "subaguda",
+      "type": "TEMPORALIDAD",
+      "start": 1756,
+      "end": 1764
+    },
+    {
+      "text": "grado HI1",
+      "type": "PUNTUACION_CLINICA",
+      "start": 665,
+      "end": 674
+    },
+    {
+      "text": "TC craneal basal urgente",
+      "type": "TECNICA_IMAGEN",
+      "start": 274,
+      "end": 298
+    },
+    {
+      "text": "No se observan hemorragias intraparenquimatosas de mayor tamaño",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 676,
+      "end": 739
+    },
+    {
+      "text": "No hay desplazamiento de línea media",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 851,
+      "end": 887
+    },
+    {
+      "text": "sin evidencia de penumbra significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1123,
+      "end": 1162
+    },
+    {
+      "text": "sin signos de oclusión ni estenosis hemodinámicamente relevantes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1351,
+      "end": 1415
+    },
+    {
+      "text": "sin oclusiones",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1825,
+      "end": 1839
+    }
+  ]
+}

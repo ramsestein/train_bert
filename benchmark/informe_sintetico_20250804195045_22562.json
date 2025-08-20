@@ -1,0 +1,83 @@
+{
+  "document_id": "informe_sintetico_20250804195045_22562",
+  "entities": [
+    {
+      "text": "infarto cerebral",
+      "type": "PATOLOGIA",
+      "start": 179,
+      "end": 195
+    },
+    {
+      "text": "ACM izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 213,
+      "end": 226
+    },
+    {
+      "text": "infarto isquémico reciente",
+      "type": "PATOLOGIA",
+      "start": 645,
+      "end": 671
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "ARTERIA",
+      "start": 595,
+      "end": 627
+    },
+    {
+      "text": "5 mm",
+      "type": "MEDIDA",
+      "start": 719,
+      "end": 723
+    },
+    {
+      "text": "HI1",
+      "type": "PATOLOGIA",
+      "start": 791,
+      "end": 794
+    },
+    {
+      "text": "No evidencia hematomas parenquimatosos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 846,
+      "end": 884
+    },
+    {
+      "text": "No se observan signos de estenosis o placas ateromatosas relevantes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1370,
+      "end": 1437
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 327,
+      "end": 343
+    },
+    {
+      "text": "angiografía por TC",
+      "type": "TECNICA_IMAGEN",
+      "start": 392,
+      "end": 410
+    },
+    {
+      "text": "TC de perfusión",
+      "type": "TECNICA_IMAGEN",
+      "start": 1058,
+      "end": 1073
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "ARTERIA",
+      "start": 595,
+      "end": 627
+    },
+    {
+      "text": "sin complicaciones hemorrágicas mayores",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1630,
+      "end": 1669
+    }
+  ]
+}

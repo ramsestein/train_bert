@@ -1,0 +1,65 @@
+{
+  "document_id": "informe_sintetico_20250804195045_23788",
+  "entities": [
+    {
+      "text": "infarto isquémico agudo",
+      "type": "PATOLOGIA",
+      "start": 670,
+      "end": 693
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 522,
+      "end": 552
+    },
+    {
+      "text": "arteria carótida interna derecha",
+      "type": "ARTERIA",
+      "start": 1405,
+      "end": 1437
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 545,
+      "end": 552
+    },
+    {
+      "text": "90%",
+      "type": "MEDIDA",
+      "start": 1491,
+      "end": 1494
+    },
+    {
+      "text": "agudo",
+      "type": "TEMPORALIDAD",
+      "start": 256,
+      "end": 261
+    },
+    {
+      "text": "ASPECTS: 6/10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 952,
+      "end": 965
+    },
+    {
+      "text": "TC",
+      "type": "TECNICA_IMAGEN",
+      "start": 72,
+      "end": 74
+    },
+    {
+      "text": "No se visualizan hemorragias intraparenquimatosas ni extraaxiales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 787,
+      "end": 852
+    },
+    {
+      "text": "Sin hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2867,
+      "end": 2894
+    }
+  ]
+}

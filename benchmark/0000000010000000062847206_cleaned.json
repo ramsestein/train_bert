@@ -1,0 +1,83 @@
+{
+  "document_id": "0000000010000000062847206_cleaned",
+  "entities": [
+    {
+      "text": "ictus isquémico",
+      "type": "PATOLOGIA",
+      "start": 166,
+      "end": 181
+    },
+    {
+      "text": "No se observan signos de hemorragia intra ni extraaxial.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 305,
+      "end": 361
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 362,
+      "end": 372
+    },
+    {
+      "text": "No se observan lesiones de isquemia establecida.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 420,
+      "end": 468
+    },
+    {
+      "text": "Estructuras de la línea media centradas.",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 469,
+      "end": 509
+    },
+    {
+      "text": "Sistema ventricular de tamaño y morfología normal.",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 510,
+      "end": 560
+    },
+    {
+      "text": "Cisternas basales libres de ocupación.",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 561,
+      "end": 599
+    },
+    {
+      "text": "No se observan alteraciones valorables en el TTP, CBV y CBF (No hay discordancia significativa).",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 614,
+      "end": 710
+    },
+    {
+      "text": "Principales arterias cerebrales intracraneales permeables (ACAs, ACMs y ACPs).",
+      "type": "ARTERIA",
+      "start": 742,
+      "end": 820
+    },
+    {
+      "text": "Sistema vertebrobasilar permeable.",
+      "type": "ARTERIA",
+      "start": 821,
+      "end": 855
+    },
+    {
+      "text": "Circulación carotídea-cervical y arco aórtico sin signos de estenosis significativa.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 856,
+      "end": 940
+    },
+    {
+      "text": "No hay evidencia de patología vascular aguda ni estenosis significativa en territorio carotídeo ni vertebrobasilar.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 964,
+      "end": 1079
+    },
+    {
+      "text": "ASPECTS 10.",
+      "type": "PUNTUACION_CLINICA",
+      "start": 1080,
+      "end": 1091
+    }
+  ]
+}

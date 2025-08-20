@@ -1,0 +1,71 @@
+{
+  "document_id": "informe_sintetico_20250804195045_18741",
+  "entities": [
+    {
+      "text": "infarto agudo establecido",
+      "type": "PATOLOGIA",
+      "start": 556,
+      "end": 581
+    },
+    {
+      "text": "arteria cerebral media (ACM) izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 501,
+      "end": 539
+    },
+    {
+      "text": "ACM",
+      "type": "ARTERIA",
+      "start": 525,
+      "end": 528
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 530,
+      "end": 539
+    },
+    {
+      "text": "4 mm",
+      "type": "MEDIDA",
+      "start": 829,
+      "end": 833
+    },
+    {
+      "text": "agudo",
+      "type": "TEMPORALIDAD",
+      "start": 193,
+      "end": 198
+    },
+    {
+      "text": "Oclusión completa",
+      "type": "PATOLOGIA",
+      "start": 1240,
+      "end": 1257
+    },
+    {
+      "text": "arteria carótida interna izquierda",
+      "type": "ARTERIA",
+      "start": 1286,
+      "end": 1320
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 530,
+      "end": 539
+    },
+    {
+      "text": "No se observan signos de hemorragia intra ni extraaxial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 675,
+      "end": 730
+    },
+    {
+      "text": "No signos de hemorragia ni sangrado asociado",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2026,
+      "end": 2070
+    }
+  ]
+}

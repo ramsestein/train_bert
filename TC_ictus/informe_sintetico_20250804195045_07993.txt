@@ -1,0 +1,35 @@
+UO_PACN (Unidad Organizativa Médica): RADIO
+
+PRUEB (Prueba solicitada): TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANG IOTC ARTERIAL INTRACRANEAL)
+
+CLIN (Resumen clínico): Paciente con déficit motor contralateral y alteración sensitiva, sospecha de isquemia aguda en territorio de arteria cerebral anterior (ACA).
+
+OBSR (Protocolo): Protocolo Código Ictus que incluye TC craneal basal, AngioTC arterial intra y extracraneal, y mapas de perfusión cerebral.
+
+RESL (Resultados):  
+TC CRANEAL BASAL:  
+No se identifican signos de hemorragia intra ni extraaxial. Diferenciación cortico-subcortical preservada globalmente, excepto leve hipodensidad en el territorio frontal medial izquierdo compatible con edema isquémico temprano en territorio de ACA izquierda. ASPECTS 9 por afectación inicial. Estructuras de línea media centradas. Sistema ventricular sin alteraciones. Cisternas basales normales.
+
+TC PERFUSIÓN:  
+Incremento del tiempo de tránsito medio (MTT) y tiempo hasta el pico (TTP) en región medial frontal izquierda, con caída del flujo cerebral (CBF) y volumen cerebral (CBV) reducido en la misma área, compatible con isquemia establecida en territorio de ACA izquierda. Se observa un área circundante con preservación relativa del volumen cerebral, que sugiere penumbra isquémica.
+
+ANGIO-TC EXTRA E INTRACRANEAL:  
+Oclusión en segmento proximal de arteria cerebral anterior izquierda (A2). Resto de troncos supraórticos y principales arterias intracraneales sin estenosis significativa o placas de alto riesgo. Sistema vertebrobasilar permeable y sin alteraciones. No se evidencian aneurismas ni malformaciones vasculares.
+
+CONCL (Conclusiones):  
+- Signos tempranos de isquemia en territorio de arteria cerebral anterior izquierda con hipodensidad focal y afectación precoz en ASPECTS.  
+- Alteraciones en perfusión compatibles con área isquémica establecida y penumbra viable en región medial frontal izquierda.  
+- Oclusión proximal de ACA izquierda confirmada en angiografía TC.  
+- No evidencias de hemorragia intracraneal ni alteraciones estructurales adicionales.
+
+ACTI_ADICI (Actividad adicional): Solicitar valoración neurológica urgente para tratamiento específico y seguimiento con RM si procede.
+
+DKTXT (Descripció): TC craneal urgente con valoración de perfusión y angioTC para estudio de isquemia aguda en territorio ACA.
+
+ICON (Estudio): @RADICO@
+
+X00DIATXT (Texto del diagnóstico ACR): Isquemia aguda en territorio de arteria cerebral anterior izquierda con oclusión arterial proximal y penumbra isquémica.
+
+EST_T_DES (Descripción): TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANGIOTC ARTERIAL INTRACRANEAL)
+
+ZVASOS_D (Der.): Informe completo disponible en historia clínica digital.

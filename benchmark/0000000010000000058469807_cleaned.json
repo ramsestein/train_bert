@@ -1,0 +1,59 @@
+{
+  "document_id": "0000000010000000058469807_cleaned",
+  "entities": [
+    {
+      "text": "Infart cerebral causat per oclusió o estenosi no especificades d'artèria cerebral no especificada",
+      "type": "PATOLOGIA",
+      "start": 166,
+      "end": 263
+    },
+    {
+      "text": "HSD",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 431,
+      "end": 434
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 461,
+      "end": 470
+    },
+    {
+      "text": "10 mm",
+      "type": "MEDIDA",
+      "start": 492,
+      "end": 497
+    },
+    {
+      "text": "aguda/subaguda",
+      "type": "TEMPORALIDAD",
+      "start": 600,
+      "end": 614
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 1947,
+      "end": 1957
+    },
+    {
+      "text": "sin hallazgos significativos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1917,
+      "end": 1945
+    },
+    {
+      "text": "TC craneal basal + angio TC intra/extracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 283,
+      "end": 329
+    },
+    {
+      "text": "ACAs, ACMs y ACPs",
+      "type": "ARTERIA",
+      "start": 1547,
+      "end": 1564
+    }
+  ]
+}

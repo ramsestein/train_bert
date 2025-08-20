@@ -1,0 +1,125 @@
+{
+  "document_id": "informe_sintetico_20250804195045_00640",
+  "entities": [
+    {
+      "text": "hematoma espontáneo",
+      "type": "PATOLOGIA",
+      "start": 465,
+      "end": 484
+    },
+    {
+      "text": "núcleo caudado derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 502,
+      "end": 524
+    },
+    {
+      "text": "12 x 10 mm",
+      "type": "MEDIDA",
+      "start": 545,
+      "end": 555
+    },
+    {
+      "text": "sangrado agudo",
+      "type": "TEMPORALIDAD",
+      "start": 599,
+      "end": 613
+    },
+    {
+      "text": "desplazamiento leve de las estructuras de la línea media hacia la izquierda",
+      "type": "PATOLOGIA",
+      "start": 693,
+      "end": 768
+    },
+    {
+      "text": "hemorragias intraventriculares",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 810,
+      "end": 840
+    },
+    {
+      "text": "extensión subaracnoidea",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 844,
+      "end": 867
+    },
+    {
+      "text": "disminución del flujo cerebral (CBF)",
+      "type": "PATOLOGIA",
+      "start": 971,
+      "end": 1007
+    },
+    {
+      "text": "región gangliobasal derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1079,
+      "end": 1106
+    },
+    {
+      "text": "prolongación del tiempo de tránsito (TTP)",
+      "type": "PATOLOGIA",
+      "start": 1112,
+      "end": 1153
+    },
+    {
+      "text": "hipoperfusión local secundaria a efecto masa",
+      "type": "PATOLOGIA",
+      "start": 1170,
+      "end": 1214
+    },
+    {
+      "text": "cerebrales anteriores",
+      "type": "ARTERIA",
+      "start": 1277,
+      "end": 1298
+    },
+    {
+      "text": "medias",
+      "type": "ARTERIA",
+      "start": 1300,
+      "end": 1306
+    },
+    {
+      "text": "posteriores",
+      "type": "ARTERIA",
+      "start": 1309,
+      "end": 1320
+    },
+    {
+      "text": "sin signos de estenosis ni oclusión",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1333,
+      "end": 1368
+    },
+    {
+      "text": "sin complicaciones hemorrágicas intraventriculares ni subaracnoideas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1632,
+      "end": 1700
+    },
+    {
+      "text": "sin hallazgos patológicos relevantes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1803,
+      "end": 1839
+    },
+    {
+      "text": "TC CRANEAL BASAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 433,
+      "end": 449
+    },
+    {
+      "text": "TC PERFUSIÓN",
+      "type": "TECNICA_IMAGEN",
+      "start": 946,
+      "end": 958
+    },
+    {
+      "text": "ANGIO-TC EXTRA E INTRACRANEAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 1217,
+      "end": 1246
+    }
+  ]
+}

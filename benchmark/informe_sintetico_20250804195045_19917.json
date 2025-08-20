@@ -1,0 +1,71 @@
+{
+  "document_id": "informe_sintetico_20250804195045_19917",
+  "entities": [
+    {
+      "text": "infarto isquémico",
+      "type": "PATOLOGIA",
+      "start": 574,
+      "end": 591
+    },
+    {
+      "text": "territorio de la arteria cerebral media izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 508,
+      "end": 557
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "ARTERIA",
+      "start": 525,
+      "end": 557
+    },
+    {
+      "text": "25 x 20 mm",
+      "type": "MEDIDA",
+      "start": 625,
+      "end": 635
+    },
+    {
+      "text": "aguda",
+      "type": "TEMPORALIDAD",
+      "start": 600,
+      "end": 605
+    },
+    {
+      "text": "Oclusión completa de la arteria carótida interna izquierda",
+      "type": "PATOLOGIA",
+      "start": 1197,
+      "end": 1255
+    },
+    {
+      "text": "arteria carótida interna izquierda",
+      "type": "ARTERIA",
+      "start": 1221,
+      "end": 1255
+    },
+    {
+      "text": "segmento cervical proximal",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1262,
+      "end": 1288
+    },
+    {
+      "text": "No se observan signos de hemorragia intraaxial ni extraaxial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 707,
+      "end": 767
+    },
+    {
+      "text": "No se identifican estenosis significativas en circulación vertebrobasilar ni en vasos del hemisferio contralateral",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1450,
+      "end": 1564
+    },
+    {
+      "text": "No hay evidencia de hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1847,
+      "end": 1890
+    }
+  ]
+}

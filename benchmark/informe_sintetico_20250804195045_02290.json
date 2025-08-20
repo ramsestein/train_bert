@@ -1,0 +1,131 @@
+{
+  "document_id": "informe_sintetico_20250804195045_02290",
+  "entities": [
+    {
+      "text": "déficit motor súbito",
+      "type": "PATOLOGIA",
+      "start": 179,
+      "end": 199
+    },
+    {
+      "text": "accidente isquémico cerebral",
+      "type": "PATOLOGIA",
+      "start": 243,
+      "end": 271
+    },
+    {
+      "text": "hemorragia intra o extraaxial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 504,
+      "end": 533
+    },
+    {
+      "text": "edema significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 616,
+      "end": 635
+    },
+    {
+      "text": "hipodensidades agudas amplias",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 638,
+      "end": 667
+    },
+    {
+      "text": "ASPECTS estimado en 9",
+      "type": "PUNTUACION_CLINICA",
+      "start": 669,
+      "end": 690
+    },
+    {
+      "text": "discreta hipodensidad en región opercular izquierda",
+      "type": "PATOLOGIA",
+      "start": 696,
+      "end": 747
+    },
+    {
+      "text": "tiempo de tránsito medio (TTP)",
+      "type": "MEDIDA",
+      "start": 815,
+      "end": 845
+    },
+    {
+      "text": "tiempo de retraso (delay)",
+      "type": "MEDIDA",
+      "start": 851,
+      "end": 876
+    },
+    {
+      "text": "arteria cerebral media (ACM)",
+      "type": "ARTERIA",
+      "start": 900,
+      "end": 928
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 738,
+      "end": 747
+    },
+    {
+      "text": "segmentos M2-M3",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 950,
+      "end": 965
+    },
+    {
+      "text": "reducción moderada del flujo cerebral (CBF)",
+      "type": "PATOLOGIA",
+      "start": 971,
+      "end": 1014
+    },
+    {
+      "text": "preservación parcial del volumen cerebral (CBV)",
+      "type": "PATOLOGIA",
+      "start": 1017,
+      "end": 1064
+    },
+    {
+      "text": "área en penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1092,
+      "end": 1118
+    },
+    {
+      "text": "oclusión focal en segmento M2 de la ACM izquierda",
+      "type": "PATOLOGIA",
+      "start": 1168,
+      "end": 1217
+    },
+    {
+      "text": "Sistema vertebrobasilar permeable",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1360,
+      "end": 1393
+    },
+    {
+      "text": "territorio de arteria cerebral media distal izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1479,
+      "end": 1532
+    },
+    {
+      "text": "segmentos M2-M3",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 950,
+      "end": 965
+    },
+    {
+      "text": "área en penumbra indicada en el estudio de perfusión",
+      "type": "PATOLOGIA",
+      "start": 1556,
+      "end": 1608
+    },
+    {
+      "text": "ASPECTS favorable (9)",
+      "type": "PUNTUACION_CLINICA",
+      "start": 1611,
+      "end": 1632
+    }
+  ]
+}

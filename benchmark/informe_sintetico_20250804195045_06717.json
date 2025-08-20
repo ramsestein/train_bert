@@ -1,0 +1,107 @@
+{
+  "document_id": "informe_sintetico_20250804195045_06717",
+  "entities": [
+    {
+      "text": "hemorragia aguda",
+      "type": "PATOLOGIA",
+      "start": 446,
+      "end": 462
+    },
+    {
+      "text": "hipertensión endocraneal",
+      "type": "PATOLOGIA",
+      "start": 466,
+      "end": 490
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 547,
+      "end": 557
+    },
+    {
+      "text": "sistema ventricular",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 622,
+      "end": 641
+    },
+    {
+      "text": "tamaño y morfología normales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 648,
+      "end": 676
+    },
+    {
+      "text": "Cisternas basales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 678,
+      "end": 695
+    },
+    {
+      "text": "sin evidencias de lesiones focales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 704,
+      "end": 738
+    },
+    {
+      "text": "Parámetros de perfusión cerebral (CBF, CBV, Tmax)",
+      "type": "TECNICA_IMAGEN",
+      "start": 754,
+      "end": 803
+    },
+    {
+      "text": "sin áreas de hipoperfusión ni retraso en el tiempo de tránsito",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 831,
+      "end": 893
+    },
+    {
+      "text": "Arterias cerebrales principales (ACAs, ACMs y ACPs)",
+      "type": "ARTERIA",
+      "start": 927,
+      "end": 978
+    },
+    {
+      "text": "sin estenosis ni oclusiones",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 991,
+      "end": 1018
+    },
+    {
+      "text": "Sistema vertebrobasilar",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1020,
+      "end": 1043
+    },
+    {
+      "text": "sin alteraciones significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1044,
+      "end": 1075
+    },
+    {
+      "text": "sin hallazgos agudos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1155,
+      "end": 1175
+    },
+    {
+      "text": "No evidencia de isquemia o hemorragia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1177,
+      "end": 1214
+    },
+    {
+      "text": "Sistema vascular intracraneal permeable y sin estenosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1216,
+      "end": 1271
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 547,
+      "end": 557
+    }
+  ]
+}

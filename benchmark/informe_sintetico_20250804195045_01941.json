@@ -1,0 +1,71 @@
+{
+  "document_id": "informe_sintetico_20250804195045_01941",
+  "entities": [
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 752,
+      "end": 766
+    },
+    {
+      "text": "arteria cerebral posterior izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 294,
+      "end": 330
+    },
+    {
+      "text": "arteria cerebral posterior izquierda",
+      "type": "ARTERIA",
+      "start": 294,
+      "end": 330
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 321,
+      "end": 330
+    },
+    {
+      "text": "P2",
+      "type": "MEDIDA",
+      "start": 1141,
+      "end": 1143
+    },
+    {
+      "text": "aguda",
+      "type": "TEMPORALIDAD",
+      "start": 761,
+      "end": 766
+    },
+    {
+      "text": "sin signos de hemorragia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1537,
+      "end": 1561
+    },
+    {
+      "text": "oclusión completa en segmento P2 de arteria cerebral posterior izquierda",
+      "type": "PATOLOGIA",
+      "start": 1111,
+      "end": 1183
+    },
+    {
+      "text": "sin estenosis significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1247,
+      "end": 1275
+    },
+    {
+      "text": "área de penumbra",
+      "type": "PATOLOGIA",
+      "start": 1038,
+      "end": 1054
+    },
+    {
+      "text": "sin evidencia de hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1987,
+      "end": 2027
+    }
+  ]
+}

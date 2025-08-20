@@ -1,0 +1,173 @@
+{
+  "document_id": "informe_sintetico_20250804195045_03521",
+  "entities": [
+    {
+      "text": "hemiparesia derecha",
+      "type": "PATOLOGIA",
+      "start": 194,
+      "end": 213
+    },
+    {
+      "text": "afasia",
+      "type": "PATOLOGIA",
+      "start": 216,
+      "end": 222
+    },
+    {
+      "text": "4 horas de evolución",
+      "type": "TEMPORALIDAD",
+      "start": 226,
+      "end": 246
+    },
+    {
+      "text": "transformación hemorrágica",
+      "type": "PATOLOGIA",
+      "start": 260,
+      "end": 286
+    },
+    {
+      "text": "infarto cerebral",
+      "type": "PATOLOGIA",
+      "start": 292,
+      "end": 308
+    },
+    {
+      "text": "menos de 24 horas de evolución",
+      "type": "TEMPORALIDAD",
+      "start": 634,
+      "end": 664
+    },
+    {
+      "text": "hemorragia petequial",
+      "type": "PATOLOGIA",
+      "start": 771,
+      "end": 791
+    },
+    {
+      "text": "tipo PH1",
+      "type": "PATOLOGIA",
+      "start": 820,
+      "end": 828
+    },
+    {
+      "text": "hematoma intraparenquimatoso de volumen significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 848,
+      "end": 901
+    },
+    {
+      "text": "No se observa efecto masa relevante",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 905,
+      "end": 940
+    },
+    {
+      "text": "leve edema perilesional",
+      "type": "PATOLOGIA",
+      "start": 1070,
+      "end": 1093
+    },
+    {
+      "text": "sin signos de herniación",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1094,
+      "end": 1118
+    },
+    {
+      "text": "sangrado subaracnoideo o intraventricular",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1122,
+      "end": 1163
+    },
+    {
+      "text": "reducción del flujo cerebral",
+      "type": "PATOLOGIA",
+      "start": 1198,
+      "end": 1226
+    },
+    {
+      "text": "hipodensidad infartada",
+      "type": "PATOLOGIA",
+      "start": 1270,
+      "end": 1292
+    },
+    {
+      "text": "sin estenosis significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1423,
+      "end": 1451
+    },
+    {
+      "text": "sin estenosis relevante (<30%)",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1512,
+      "end": 1542
+    },
+    {
+      "text": "ACAs, ACMs y ACPs",
+      "type": "ARTERIA",
+      "start": 1618,
+      "end": 1635
+    },
+    {
+      "text": "sin alteraciones significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1726,
+      "end": 1757
+    },
+    {
+      "text": "territorio de la arteria cerebral media",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 548,
+      "end": 587
+    },
+    {
+      "text": "transformación hemorrágica petequial tipo PH1",
+      "type": "PATOLOGIA",
+      "start": 1864,
+      "end": 1909
+    },
+    {
+      "text": "sin hematoma intraparenquimatoso significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1911,
+      "end": 1957
+    },
+    {
+      "text": "sin hallazgos de estenosis o trombosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2037,
+      "end": 2075
+    },
+    {
+      "text": "sin lesiones estenosantes relevantes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2108,
+      "end": 2144
+    },
+    {
+      "text": "TC CÓDIGO ICTUS",
+      "type": "TECNICA_IMAGEN",
+      "start": 329,
+      "end": 344
+    },
+    {
+      "text": "TC PERFUSIÓN",
+      "type": "TECNICA_IMAGEN",
+      "start": 1167,
+      "end": 1179
+    },
+    {
+      "text": "ANGIO-TC EXTRA E INTRACRANEAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 1353,
+      "end": 1382
+    },
+    {
+      "text": "TC CÓDIGO ICTUS realizado",
+      "type": "TECNICA_IMAGEN",
+      "start": 2287,
+      "end": 2312
+    }
+  ]
+}

@@ -1,0 +1,149 @@
+{
+  "document_id": "informe_sintetico_20250804195045_07827",
+  "entities": [
+    {
+      "text": "ictus isquémico agudo",
+      "type": "PATOLOGIA",
+      "start": 246,
+      "end": 267
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "ARTERIA",
+      "start": 285,
+      "end": 315
+    },
+    {
+      "text": "izquierdo",
+      "type": "LATERALIDAD",
+      "start": 214,
+      "end": 223
+    },
+    {
+      "text": "ASPECTS 9",
+      "type": "PUNTUACION_CLINICA",
+      "start": 626,
+      "end": 635
+    },
+    {
+      "text": "ACM derecha",
+      "type": "ARTERIA",
+      "start": 613,
+      "end": 624
+    },
+    {
+      "text": "MTT",
+      "type": "MEDIDA",
+      "start": 824,
+      "end": 827
+    },
+    {
+      "text": "Tmax",
+      "type": "MEDIDA",
+      "start": 852,
+      "end": 856
+    },
+    {
+      "text": "CBF",
+      "type": "MEDIDA",
+      "start": 952,
+      "end": 955
+    },
+    {
+      "text": "CBV",
+      "type": "MEDIDA",
+      "start": 977,
+      "end": 980
+    },
+    {
+      "text": "penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1022,
+      "end": 1040
+    },
+    {
+      "text": "infarto establecido de tamaño significativo",
+      "type": "PATOLOGIA",
+      "start": 1066,
+      "end": 1109
+    },
+    {
+      "text": "Oclusión de rama segmentaria M2 de la arteria cerebral media derecha",
+      "type": "PATOLOGIA",
+      "start": 1145,
+      "end": 1213
+    },
+    {
+      "text": "M2",
+      "type": "ARTERIA",
+      "start": 1174,
+      "end": 1176
+    },
+    {
+      "text": "M1",
+      "type": "ARTERIA",
+      "start": 1270,
+      "end": 1272
+    },
+    {
+      "text": "M3",
+      "type": "ARTERIA",
+      "start": 1275,
+      "end": 1277
+    },
+    {
+      "text": "arterias cerebrales anteriores y posteriores",
+      "type": "ARTERIA",
+      "start": 1279,
+      "end": 1323
+    },
+    {
+      "text": "Oclusión aguda",
+      "type": "TEMPORALIDAD",
+      "start": 1466,
+      "end": 1480
+    },
+    {
+      "text": "ASPECTS 9",
+      "type": "PUNTUACION_CLINICA",
+      "start": 626,
+      "end": 635
+    },
+    {
+      "text": "penumbra isquémica sin infarto establecido significativo",
+      "type": "PATOLOGIA",
+      "start": 1638,
+      "end": 1694
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1712,
+      "end": 1735
+    },
+    {
+      "text": "lesiones ateroscleróticas significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1783,
+      "end": 1823
+    },
+    {
+      "text": "TC craneal basal sin contraste",
+      "type": "TECNICA_IMAGEN",
+      "start": 336,
+      "end": 366
+    },
+    {
+      "text": "AngioTC arterial intra y extracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 369,
+      "end": 406
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 409,
+      "end": 430
+    }
+  ]
+}

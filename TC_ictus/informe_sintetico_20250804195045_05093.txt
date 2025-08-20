@@ -1,0 +1,31 @@
+UO_PACN (Unidad Organizativa Médica): RADIO
+
+PRUEB (Prueba solicitada): TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANG IOTC ARTERIAL INTRACRANEAL)
+
+CLIN (Resumen clínico): Paciente masculino de 72 años con infarto cerebral reciente en territorio de la arteria cerebral media izquierda, presenta deterioro neurológico agudo y sospecha de transformación hemorrágica.
+
+OBSR (Protocolo): TC CRANEAL BASAL + PERFUSIÓN CEREBRAL + ANGIO-TC ARTERIAL INTRACRANEAL con adquisición multiparamétrica y reconstrucción en cortes finos.
+
+RESL (Resultados):  
+TC CRANEAL BASAL: Se observa área hipodensa en territorio de la arteria cerebral media izquierda compatible con infarto cerebral subagudo. En el interior de dicha área se identifican focos hiperdensos irregulares, de morfología heterogénea, correspondientes a transformación hemorrágica grado HI2, con presencia de hemorragia intraparenquimatosa extensa sin efecto de masa significativo. No se aprecian hemorragias extraaxiales. Las estructuras de la línea media se encuentran ligeramente desplazadas hacia la derecha. El sistema ventricular está discretamente comprimido en el hemisferio afectado. No se identifican signos de insuficiencia circulatoria en otros territorios cerebrales. Cambios crónicos moderados de microangiopatía en sustancia blanca.
+
+TC PERFUSIÓN: Disminución marcada del flujo cerebral (CBF) y volumen cerebral (CBV) en territorio de ACM izquierda, con aumento del tiempo de tránsito (MTT y TTP) concordante con zona isquémica extensa. La transformación hemorrágica no muestra perfusión activa.
+
+ANGIO-TC INTRACRANEAL: Occlusión distal de rama secundaria de ACM izquierda. Los demás vasos principales (ACAs, ACPs, sistema vertebrobasilar) permeables sin estenosis significativas ni signos de vasoespasmo. Se evidencia ateromatosis leve en bifurcaciones carotídeas sin estenosis crítica.
+
+CONCL (Conclusiones):  
+- Infarto cerebral subagudo extenso en territorio de arteria cerebral media izquierda con transformación hemorrágica grado HI2.  
+- Hemorragia intraparenquimatosa irregular sin efecto de masa significativo.  
+- Discreto desplazamiento de la línea media hacia el lado contralateral.  
+- Oclusión distal parcial de rama secundaria de ACM izquierda.  
+- Sin otras lesiones hemorrágicas ni isquemia aguda activa en otras áreas.  
+
+ACTI_ADICI (Actividad adicional):
+
+ICON (Estudio): @RADIO_038@
+
+X00DIATXT (Texto del diagnóstico ACR): Transformación hemorrágica secundaria a infarto cerebral en territorio ACM izquierda, grado HI2.
+
+EST_T_DES (Descripción): TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANGIOTC ARTERIAL INTRACRANEAL)
+
+ZVASOS_D (Der.): Se confirma oclusión distal de rama secundaria de ACM izquierda con permeabilidad de los vasos intracraneales restantes.

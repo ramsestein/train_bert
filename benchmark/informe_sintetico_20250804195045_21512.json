@@ -1,0 +1,89 @@
+{
+  "document_id": "informe_sintetico_20250804195045_21512",
+  "entities": [
+    {
+      "text": "infarto lacunar agudo",
+      "type": "PATOLOGIA",
+      "start": 222,
+      "end": 243
+    },
+    {
+      "text": "núcleo lenticular izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 448,
+      "end": 475
+    },
+    {
+      "text": "izquierdo",
+      "type": "LATERALIDAD",
+      "start": 466,
+      "end": 475
+    },
+    {
+      "text": "pequeña área hipodensa puntiforme",
+      "type": "PATOLOGIA",
+      "start": 408,
+      "end": 441
+    },
+    {
+      "text": "sin efecto de masa ni desplazamiento de estructuras de la línea media",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 477,
+      "end": 546
+    },
+    {
+      "text": "sin incremento significativo en tiempos de tránsito (TTP y MTT)",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 831,
+      "end": 894
+    },
+    {
+      "text": "sin evidencias de estenosis ni oclusiones en territorios proximales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1022,
+      "end": 1089
+    },
+    {
+      "text": "sin signo de hemorragia ni edema cerebral",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1674,
+      "end": 1715
+    },
+    {
+      "text": "territorio lenticular izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 798,
+      "end": 829
+    },
+    {
+      "text": "izquierdo",
+      "type": "LATERALIDAD",
+      "start": 466,
+      "end": 475
+    },
+    {
+      "text": "sin complicaciones hemorrágicas ni edema cerebral significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1286,
+      "end": 1349
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 264,
+      "end": 280
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 296,
+      "end": 317
+    },
+    {
+      "text": "angio-TC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 320,
+      "end": 350
+    }
+  ]
+}

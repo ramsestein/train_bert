@@ -1,0 +1,53 @@
+{
+  "document_id": "informe_sintetico_20250804195045_09133",
+  "entities": [
+    {
+      "text": "hematoma lobar en región frontal derecha",
+      "type": "PATOLOGIA",
+      "start": 409,
+      "end": 449
+    },
+    {
+      "text": "frontal derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 434,
+      "end": 449
+    },
+    {
+      "text": "25 x 18 x 20 mm",
+      "type": "MEDIDA",
+      "start": 500,
+      "end": 515
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 631,
+      "end": 640
+    },
+    {
+      "text": "3 mm",
+      "type": "MEDIDA",
+      "start": 660,
+      "end": 664
+    },
+    {
+      "text": "No hay evidencia de hemorragia subaracnoidea",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 666,
+      "end": 710
+    },
+    {
+      "text": "sin signos evidentes de estenosis ni oclusiones",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1174,
+      "end": 1221
+    },
+    {
+      "text": "sin lesiones estructurales visibles",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1727,
+      "end": 1762
+    }
+  ]
+}

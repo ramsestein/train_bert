@@ -1,0 +1,53 @@
+{
+  "document_id": "informe_sintetico_20250804195045_02080",
+  "entities": [
+    {
+      "text": "infarto agudo",
+      "type": "PATOLOGIA",
+      "start": 667,
+      "end": 680
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 511,
+      "end": 543
+    },
+    {
+      "text": "transformación hemorrágica tipo HI1",
+      "type": "PATOLOGIA",
+      "start": 770,
+      "end": 805
+    },
+    {
+      "text": "sin hematoma significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1803,
+      "end": 1829
+    },
+    {
+      "text": "sin evidencia de penumbra extensa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1282,
+      "end": 1315
+    },
+    {
+      "text": "ACAs, ACMs y ACPs",
+      "type": "ARTERIA",
+      "start": 1575,
+      "end": 1592
+    },
+    {
+      "text": "sin estenosis ni placas de ateroma significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1433,
+      "end": 1482
+    },
+    {
+      "text": "sin evidencias de oclusión completa o estenosis relevante",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1605,
+      "end": 1662
+    }
+  ]
+}

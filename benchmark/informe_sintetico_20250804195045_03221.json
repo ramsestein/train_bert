@@ -1,0 +1,101 @@
+{
+  "document_id": "informe_sintetico_20250804195045_03221",
+  "entities": [
+    {
+      "text": "ictus isquémico",
+      "type": "PATOLOGIA",
+      "start": 224,
+      "end": 239
+    },
+    {
+      "text": "isquemia precoz",
+      "type": "PATOLOGIA",
+      "start": 586,
+      "end": 601
+    },
+    {
+      "text": "arteria cerebral media",
+      "type": "ARTERIA",
+      "start": 691,
+      "end": 713
+    },
+    {
+      "text": "distal derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 927,
+      "end": 941
+    },
+    {
+      "text": "M2/M3",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1802,
+      "end": 1807
+    },
+    {
+      "text": "ACM",
+      "type": "ARTERIA",
+      "start": 715,
+      "end": 718
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 563,
+      "end": 570
+    },
+    {
+      "text": "ASPECTS 9",
+      "type": "PUNTUACION_CLINICA",
+      "start": 603,
+      "end": 612
+    },
+    {
+      "text": "ASPECTS 9",
+      "type": "PUNTUACION_CLINICA",
+      "start": 603,
+      "end": 612
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 260,
+      "end": 276
+    },
+    {
+      "text": "TC PERFUSIÓN",
+      "type": "TECNICA_IMAGEN",
+      "start": 879,
+      "end": 891
+    },
+    {
+      "text": "ANGIO-TC EXTRA E INTRACRANEAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 1279,
+      "end": 1308
+    },
+    {
+      "text": "No se evidencian signos de hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 429,
+      "end": 479
+    },
+    {
+      "text": "No hay signos de edema significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 838,
+      "end": 874
+    },
+    {
+      "text": "No se detectan otras oclusiones ni estenosis relevantes en vasos intracraneales o extracraneales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1603,
+      "end": 1699
+    },
+    {
+      "text": "No evidencia de hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2043,
+      "end": 2082
+    }
+  ]
+}

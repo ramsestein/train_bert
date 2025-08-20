@@ -1,0 +1,155 @@
+{
+  "document_id": "informe_sintetico_20250804195045_03282",
+  "entities": [
+    {
+      "text": "hemorragia intraventricular primaria",
+      "type": "PATOLOGIA",
+      "start": 523,
+      "end": 559
+    },
+    {
+      "text": "ventrículos laterales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 580,
+      "end": 601
+    },
+    {
+      "text": "tercer y cuarto ventrículo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 603,
+      "end": 629
+    },
+    {
+      "text": "focos hemorrágicos corticales",
+      "type": "PATOLOGIA",
+      "start": 649,
+      "end": 678
+    },
+    {
+      "text": "parenquimatosos",
+      "type": "PATOLOGIA",
+      "start": 682,
+      "end": 697
+    },
+    {
+      "text": "hematomas intraparenquimatosos",
+      "type": "PATOLOGIA",
+      "start": 711,
+      "end": 741
+    },
+    {
+      "text": "subaracnoideos",
+      "type": "PATOLOGIA",
+      "start": 744,
+      "end": 758
+    },
+    {
+      "text": "isquemia aguda cortical",
+      "type": "PATOLOGIA",
+      "start": 950,
+      "end": 973
+    },
+    {
+      "text": "ASPECTS no aplicable",
+      "type": "PUNTUACION_CLINICA",
+      "start": 989,
+      "end": 1009
+    },
+    {
+      "text": "patrón normal",
+      "type": "PATOLOGIA",
+      "start": 1079,
+      "end": 1092
+    },
+    {
+      "text": "hipoperfusión",
+      "type": "PATOLOGIA",
+      "start": 1106,
+      "end": 1119
+    },
+    {
+      "text": "estenosis",
+      "type": "PATOLOGIA",
+      "start": 1252,
+      "end": 1261
+    },
+    {
+      "text": "aneurismas",
+      "type": "PATOLOGIA",
+      "start": 1263,
+      "end": 1273
+    },
+    {
+      "text": "malformaciones vasculares",
+      "type": "PATOLOGIA",
+      "start": 1277,
+      "end": 1302
+    },
+    {
+      "text": "signos de isquemia cerebral aguda",
+      "type": "PATOLOGIA",
+      "start": 1485,
+      "end": 1518
+    },
+    {
+      "text": "lesiones vasculares",
+      "type": "PATOLOGIA",
+      "start": 1538,
+      "end": 1557
+    },
+    {
+      "text": "neuroquirúrgico",
+      "type": "PATOLOGIA",
+      "start": 1617,
+      "end": 1632
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 330,
+      "end": 346
+    },
+    {
+      "text": "TC PERFUSIÓN",
+      "type": "TECNICA_IMAGEN",
+      "start": 1031,
+      "end": 1043
+    },
+    {
+      "text": "ANGIO-TC EXTRA E INTRACRANEAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 1170,
+      "end": 1199
+    },
+    {
+      "text": "No se identifican focos hemorrágicos corticales ni parenquimatosos.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 631,
+      "end": 698
+    },
+    {
+      "text": "No se observan edema ni desplazamientos significativos de estructuras adyacentes.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 829,
+      "end": 910
+    },
+    {
+      "text": "No hay signos de isquemia aguda cortical o subcortical.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 933,
+      "end": 988
+    },
+    {
+      "text": "sin evidencia de estenosis, aneurismas ni malformaciones vasculares.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1235,
+      "end": 1303
+    },
+    {
+      "text": "sin hemorragia parenquimatosa asociada",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1443,
+      "end": 1481
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "document_id": "informe_sintetico_20250804195045_13753",
+  "entities": [
+    {
+      "text": "ictus",
+      "type": "PATOLOGIA",
+      "start": 351,
+      "end": 356
+    },
+    {
+      "text": "tronco cerebral",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 314,
+      "end": 329
+    },
+    {
+      "text": "arteria basilar",
+      "type": "ARTERIA",
+      "start": 1191,
+      "end": 1206
+    },
+    {
+      "text": "proximal",
+      "type": "LATERALIDAD",
+      "start": 1215,
+      "end": 1223
+    },
+    {
+      "text": "aguda",
+      "type": "TEMPORALIDAD",
+      "start": 1519,
+      "end": 1524
+    },
+    {
+      "text": "TTP",
+      "type": "MEDIDA",
+      "start": 487,
+      "end": 490
+    },
+    {
+      "text": "CBF",
+      "type": "MEDIDA",
+      "start": 476,
+      "end": 479
+    },
+    {
+      "text": "CBV",
+      "type": "MEDIDA",
+      "start": 481,
+      "end": 484
+    },
+    {
+      "text": "penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1113,
+      "end": 1131
+    },
+    {
+      "text": "Oclusión aguda de la arteria basilar proximal",
+      "type": "PATOLOGIA",
+      "start": 1510,
+      "end": 1555
+    },
+    {
+      "text": "No se identifican lesiones hemorrágicas intracraneales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 607,
+      "end": 661
+    },
+    {
+      "text": "No se detecta sangrado intracraneal ni lesión hemorrágica secundaria",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1694,
+      "end": 1762
+    },
+    {
+      "text": "TC craneal sin contraste",
+      "type": "TECNICA_IMAGEN",
+      "start": 407,
+      "end": 431
+    },
+    {
+      "text": "estudio de perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 433,
+      "end": 462
+    },
+    {
+      "text": "angioTC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 492,
+      "end": 521
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "document_id": "informe_sintetico_20250804195045_01931",
+  "entities": [
+    {
+      "text": "hematoma lobar frontal derecho",
+      "type": "PATOLOGIA",
+      "start": 472,
+      "end": 502
+    },
+    {
+      "text": "42 x 28 x 33 mm",
+      "type": "MEDIDA",
+      "start": 549,
+      "end": 564
+    },
+    {
+      "text": "aguda",
+      "type": "TEMPORALIDAD",
+      "start": 639,
+      "end": 644
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 809,
+      "end": 818
+    },
+    {
+      "text": "4 mm",
+      "type": "MEDIDA",
+      "start": 838,
+      "end": 842
+    },
+    {
+      "text": "infarto isquémico",
+      "type": "PATOLOGIA",
+      "start": 953,
+      "end": 970
+    },
+    {
+      "text": "13 cc",
+      "type": "MEDIDA",
+      "start": 1482,
+      "end": 1487
+    },
+    {
+      "text": "sin hidrocefalia asociada",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1555,
+      "end": 1580
+    },
+    {
+      "text": "sin alteraciones vasculares significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1618,
+      "end": 1660
+    },
+    {
+      "text": "sin complicaciones asociadas visibles",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1848,
+      "end": 1885
+    }
+  ]
+}

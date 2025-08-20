@@ -1,0 +1,65 @@
+{
+  "document_id": "0000000010000000058080785_cleaned",
+  "entities": [
+    {
+      "text": "No se observa hemorragia intra ni extraaxial.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 359,
+      "end": 404
+    },
+    {
+      "text": "Parénquima cerebral sin alteraciones densitométricas.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 405,
+      "end": 458
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 506,
+      "end": 516
+    },
+    {
+      "text": "No se observan lesiones isquémicas parenquimatosas subagudas ni otras lesiones isquemicas crónicas.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 517,
+      "end": 616
+    },
+    {
+      "text": "Arco aórtico",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 873,
+      "end": 885
+    },
+    {
+      "text": "arteria carótida interna",
+      "type": "ARTERIA",
+      "start": 1036,
+      "end": 1060
+    },
+    {
+      "text": "arteria vertebral izquierda",
+      "type": "ARTERIA",
+      "start": 1290,
+      "end": 1317
+    },
+    {
+      "text": "arteria vertebral derecha",
+      "type": "ARTERIA",
+      "start": 1399,
+      "end": 1424
+    },
+    {
+      "text": "ACAs, ACMs y ACPs",
+      "type": "ARTERIA",
+      "start": 1514,
+      "end": 1531
+    },
+    {
+      "text": "Sistema vertebrobasilar",
+      "type": "ARTERIA",
+      "start": 1534,
+      "end": 1557
+    }
+  ]
+}

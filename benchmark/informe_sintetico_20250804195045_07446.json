@@ -1,0 +1,227 @@
+{
+  "document_id": "informe_sintetico_20250804195045_07446",
+  "entities": [
+    {
+      "text": "hemorragia cerebral lobar",
+      "type": "PATOLOGIA",
+      "start": 222,
+      "end": 247
+    },
+    {
+      "text": "angiopatía amiloide cerebral",
+      "type": "PATOLOGIA",
+      "start": 272,
+      "end": 300
+    },
+    {
+      "text": "cefalea intensa",
+      "type": "PATOLOGIA",
+      "start": 311,
+      "end": 326
+    },
+    {
+      "text": "deterioro neurológico progresivo",
+      "type": "PATOLOGIA",
+      "start": 328,
+      "end": 360
+    },
+    {
+      "text": "episodios de confusión",
+      "type": "PATOLOGIA",
+      "start": 363,
+      "end": 385
+    },
+    {
+      "text": "hemorragia lobar corticales",
+      "type": "PATOLOGIA",
+      "start": 595,
+      "end": 622
+    },
+    {
+      "text": "lóbulos frontales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 661,
+      "end": 678
+    },
+    {
+      "text": "bilaterales",
+      "type": "LATERALIDAD",
+      "start": 692,
+      "end": 703
+    },
+    {
+      "text": "microhemorragias puntiformes",
+      "type": "PATOLOGIA",
+      "start": 901,
+      "end": 929
+    },
+    {
+      "text": "sustancia blanca profunda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 933,
+      "end": 958
+    },
+    {
+      "text": "angiopatía amiloide",
+      "type": "PATOLOGIA",
+      "start": 272,
+      "end": 291
+    },
+    {
+      "text": "hipertensión intracraneal",
+      "type": "PATOLOGIA",
+      "start": 1042,
+      "end": 1067
+    },
+    {
+      "text": "hidrocefalia",
+      "type": "PATOLOGIA",
+      "start": 1080,
+      "end": 1092
+    },
+    {
+      "text": "cisternas basales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1098,
+      "end": 1115
+    },
+    {
+      "text": "línea media",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1157,
+      "end": 1168
+    },
+    {
+      "text": "TC PERFUSIÓN CEREBRAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 1180,
+      "end": 1201
+    },
+    {
+      "text": "hipoperfusión significativa",
+      "type": "PATOLOGIA",
+      "start": 1229,
+      "end": 1256
+    },
+    {
+      "text": "alteraciones hemodinámicas focales",
+      "type": "PATOLOGIA",
+      "start": 1260,
+      "end": 1294
+    },
+    {
+      "text": "evento isquémico agudo",
+      "type": "PATOLOGIA",
+      "start": 1308,
+      "end": 1330
+    },
+    {
+      "text": "PARÁMETROS DE PERFUSIÓN",
+      "type": "TECNICA_IMAGEN",
+      "start": 1332,
+      "end": 1355
+    },
+    {
+      "text": "rangos normales",
+      "type": "MEDIDA",
+      "start": 1388,
+      "end": 1403
+    },
+    {
+      "text": "ANGIO-TC INTRACRANEAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 1440,
+      "end": 1461
+    },
+    {
+      "text": "Arterias cerebrales principales",
+      "type": "ARTERIA",
+      "start": 1463,
+      "end": 1494
+    },
+    {
+      "text": "estenosis",
+      "type": "PATOLOGIA",
+      "start": 1520,
+      "end": 1529
+    },
+    {
+      "text": "aneurismas",
+      "type": "PATOLOGIA",
+      "start": 1533,
+      "end": 1543
+    },
+    {
+      "text": "tortuosidad y irregularidad vascular leve",
+      "type": "PATOLOGIA",
+      "start": 1578,
+      "end": 1619
+    },
+    {
+      "text": "cambios degenerativos pequeños vasos",
+      "type": "PATOLOGIA",
+      "start": 1636,
+      "end": 1672
+    },
+    {
+      "text": "malformaciones arteriovenosas",
+      "type": "PATOLOGIA",
+      "start": 1714,
+      "end": 1743
+    },
+    {
+      "text": "signos de vasculitis",
+      "type": "PATOLOGIA",
+      "start": 1747,
+      "end": 1767
+    },
+    {
+      "text": "hemorragias lobares corticales múltiples",
+      "type": "PATOLOGIA",
+      "start": 1850,
+      "end": 1890
+    },
+    {
+      "text": "hematoma intraparenquimatoso de gran tamaño",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1927,
+      "end": 1970
+    },
+    {
+      "text": "efecto de masa significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 859,
+      "end": 887
+    },
+    {
+      "text": "signos isquémicos actuales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2021,
+      "end": 2047
+    },
+    {
+      "text": "obstrucción arterial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2051,
+      "end": 2071
+    },
+    {
+      "text": "cambios compatibles con angiopatía",
+      "type": "PATOLOGIA",
+      "start": 2086,
+      "end": 2120
+    },
+    {
+      "text": "malformación vascular",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2143,
+      "end": 2164
+    },
+    {
+      "text": "aneurisma",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1533,
+      "end": 1542
+    }
+  ]
+}

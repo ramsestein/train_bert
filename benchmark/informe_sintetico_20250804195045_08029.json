@@ -1,0 +1,101 @@
+{
+  "document_id": "informe_sintetico_20250804195045_08029",
+  "entities": [
+    {
+      "text": "infarto cerebral reciente",
+      "type": "PATOLOGIA",
+      "start": 237,
+      "end": 262
+    },
+    {
+      "text": "infarto isquémico subagudo",
+      "type": "PATOLOGIA",
+      "start": 576,
+      "end": 602
+    },
+    {
+      "text": "ASPECTS 6",
+      "type": "PUNTUACION_CLINICA",
+      "start": 604,
+      "end": 613
+    },
+    {
+      "text": "1,2 x 0,8 cm",
+      "type": "MEDIDA",
+      "start": 707,
+      "end": 719
+    },
+    {
+      "text": "transformación hemorrágica tipo PH1",
+      "type": "PATOLOGIA",
+      "start": 733,
+      "end": 768
+    },
+    {
+      "text": "desplazamiento menor a 3 mm",
+      "type": "MEDIDA",
+      "start": 930,
+      "end": 957
+    },
+    {
+      "text": "marcada reducción del flujo sanguíneo cerebral",
+      "type": "PATOLOGIA",
+      "start": 1064,
+      "end": 1110
+    },
+    {
+      "text": "ACM derecha",
+      "type": "ARTERIA",
+      "start": 1169,
+      "end": 1180
+    },
+    {
+      "text": "tiempo de tránsito medio",
+      "type": "TEMPORALIDAD",
+      "start": 1203,
+      "end": 1227
+    },
+    {
+      "text": "tiempo hasta el pico",
+      "type": "TEMPORALIDAD",
+      "start": 1236,
+      "end": 1256
+    },
+    {
+      "text": "Oclusión residual parcial del segmento M1 derecho",
+      "type": "PATOLOGIA",
+      "start": 1379,
+      "end": 1428
+    },
+    {
+      "text": "arteria cerebral media",
+      "type": "ARTERIA",
+      "start": 530,
+      "end": 552
+    },
+    {
+      "text": "sin signos de hemorragia masiva",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1779,
+      "end": 1810
+    },
+    {
+      "text": "sin estenosis significativas ni trombosis adicional",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1517,
+      "end": 1568
+    },
+    {
+      "text": "Oclusión parcial persistente en segmento M1 derecho",
+      "type": "PATOLOGIA",
+      "start": 1837,
+      "end": 1888
+    },
+    {
+      "text": "Riesgo hemorrágico moderado",
+      "type": "PATOLOGIA",
+      "start": 1890,
+      "end": 1917
+    }
+  ]
+}

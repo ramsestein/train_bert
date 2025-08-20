@@ -1,0 +1,119 @@
+{
+  "document_id": "informe_sintetico_20250804195045_00565",
+  "entities": [
+    {
+      "text": "infarto",
+      "type": "PATOLOGIA",
+      "start": 294,
+      "end": 301
+    },
+    {
+      "text": "isquemia",
+      "type": "PATOLOGIA",
+      "start": 767,
+      "end": 775
+    },
+    {
+      "text": "hipoperfusión",
+      "type": "PATOLOGIA",
+      "start": 1297,
+      "end": 1310
+    },
+    {
+      "text": "bilaterales",
+      "type": "LATERALIDAD",
+      "start": 699,
+      "end": 710
+    },
+    {
+      "text": "watershed",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 310,
+      "end": 319
+    },
+    {
+      "text": "parietales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 734,
+      "end": 744
+    },
+    {
+      "text": "disminución leve a moderada",
+      "type": "MEDIDA",
+      "start": 1034,
+      "end": 1061
+    },
+    {
+      "text": "Tmax",
+      "type": "MEDIDA",
+      "start": 1241,
+      "end": 1245
+    },
+    {
+      "text": "MTT",
+      "type": "MEDIDA",
+      "start": 1275,
+      "end": 1278
+    },
+    {
+      "text": "infarto irreversible extenso",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1385,
+      "end": 1413
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2049,
+      "end": 2072
+    },
+    {
+      "text": "lesiones isquémicas establecidas extensas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2076,
+      "end": 2117
+    },
+    {
+      "text": "ACAs",
+      "type": "ARTERIA",
+      "start": 1643,
+      "end": 1647
+    },
+    {
+      "text": "ACMs",
+      "type": "ARTERIA",
+      "start": 1649,
+      "end": 1653
+    },
+    {
+      "text": "ACPs",
+      "type": "ARTERIA",
+      "start": 1656,
+      "end": 1660
+    },
+    {
+      "text": "Sistema vertebrobasilar",
+      "type": "ARTERIA",
+      "start": 1711,
+      "end": 1734
+    },
+    {
+      "text": "permeables",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1578,
+      "end": 1588
+    },
+    {
+      "text": "sin estenosis significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2162,
+      "end": 2190
+    },
+    {
+      "text": "hipoperfusión leve a moderada",
+      "type": "PATOLOGIA",
+      "start": 2226,
+      "end": 2255
+    }
+  ]
+}

@@ -1,0 +1,137 @@
+{
+  "document_id": "informe_sintetico_20250804195045_19092",
+  "entities": [
+    {
+      "text": "accidente isquémico cerebral",
+      "type": "PATOLOGIA",
+      "start": 280,
+      "end": 308
+    },
+    {
+      "text": "arteria cerebral media",
+      "type": "ARTERIA",
+      "start": 326,
+      "end": 348
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 610,
+      "end": 619
+    },
+    {
+      "text": "área de hipodensidad",
+      "type": "PATOLOGIA",
+      "start": 546,
+      "end": 566
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "ARTERIA",
+      "start": 587,
+      "end": 619
+    },
+    {
+      "text": "región insular",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 635,
+      "end": 649
+    },
+    {
+      "text": "circunvoluciones opercular y fronto-parietal",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 652,
+      "end": 696
+    },
+    {
+      "text": "borramiento temprano de la diferenciación cortico-subcortical",
+      "type": "PATOLOGIA",
+      "start": 702,
+      "end": 763
+    },
+    {
+      "text": "signo de arteria hiperdensa",
+      "type": "PATOLOGIA",
+      "start": 778,
+      "end": 805
+    },
+    {
+      "text": "segmento proximal (M1) de la ACM izquierda",
+      "type": "ARTERIA",
+      "start": 809,
+      "end": 851
+    },
+    {
+      "text": "ASPECTS",
+      "type": "PUNTUACION_CLINICA",
+      "start": 864,
+      "end": 871
+    },
+    {
+      "text": "7",
+      "type": "MEDIDA",
+      "start": 884,
+      "end": 885
+    },
+    {
+      "text": "prolongación del tiempo máximo (TMax)",
+      "type": "PATOLOGIA",
+      "start": 917,
+      "end": 954
+    },
+    {
+      "text": "disminución del flujo cerebral (CBF)",
+      "type": "PATOLOGIA",
+      "start": 957,
+      "end": 993
+    },
+    {
+      "text": "discreto mantenimiento del volumen cerebral (CBV)",
+      "type": "PATOLOGIA",
+      "start": 1021,
+      "end": 1070
+    },
+    {
+      "text": "penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1095,
+      "end": 1113
+    },
+    {
+      "text": "oclusión completa del segmento M1 de la ACM izquierda",
+      "type": "PATOLOGIA",
+      "start": 1155,
+      "end": 1208
+    },
+    {
+      "text": "sin otras estenosis ni placas calcificadas relevantes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1280,
+      "end": 1333
+    },
+    {
+      "text": "área isquémica temprana",
+      "type": "PATOLOGIA",
+      "start": 1443,
+      "end": 1466
+    },
+    {
+      "text": "ASPECTS 7",
+      "type": "PUNTUACION_CLINICA",
+      "start": 1491,
+      "end": 1500
+    },
+    {
+      "text": "signos de penumbra en perfusión cerebral",
+      "type": "PATOLOGIA",
+      "start": 1504,
+      "end": 1544
+    },
+    {
+      "text": "isquemia aguda del territorio ACM proximal izquierdo",
+      "type": "PATOLOGIA",
+      "start": 1612,
+      "end": 1664
+    }
+  ]
+}

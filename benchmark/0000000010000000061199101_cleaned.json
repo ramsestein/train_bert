@@ -1,0 +1,53 @@
+{
+  "document_id": "0000000010000000061199101_cleaned",
+  "entities": [
+    {
+      "text": "oclusión total en origen de arteria carótida interna izquierda",
+      "type": "PATOLOGIA",
+      "start": 1762,
+      "end": 1824
+    },
+    {
+      "text": "ASPECTS 9",
+      "type": "PUNTUACION_CLINICA",
+      "start": 3034,
+      "end": 3043
+    },
+    {
+      "text": "TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANGIOTC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 4222,
+      "end": 4289
+    },
+    {
+      "text": "TC CODIGO ICTUS (BASAL + PERFUSION CEREBRAL + ANGIOTC TSA E INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 283,
+      "end": 356
+    },
+    {
+      "text": "TC BASAL Sin evidencia de hemorragia aguda intra ni extraaxial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2930,
+      "end": 2992
+    },
+    {
+      "text": "sin signos de estenosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1680,
+      "end": 1703
+    },
+    {
+      "text": "sin ateromatosis significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2142,
+      "end": 2172
+    },
+    {
+      "text": "sin alteraciones",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 3438,
+      "end": 3454
+    }
+  ]
+}

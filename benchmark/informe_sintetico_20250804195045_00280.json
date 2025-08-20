@@ -1,0 +1,107 @@
+{
+  "document_id": "informe_sintetico_20250804195045_00280",
+  "entities": [
+    {
+      "text": "ictus isquémico",
+      "type": "PATOLOGIA",
+      "start": 270,
+      "end": 285
+    },
+    {
+      "text": "hemiparesia derecha",
+      "type": "PATOLOGIA",
+      "start": 213,
+      "end": 232
+    },
+    {
+      "text": "isquemia incipiente",
+      "type": "PATOLOGIA",
+      "start": 654,
+      "end": 673
+    },
+    {
+      "text": "ASPECTS 9",
+      "type": "PUNTUACION_CLINICA",
+      "start": 675,
+      "end": 684
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "ARTERIA",
+      "start": 303,
+      "end": 335
+    },
+    {
+      "text": "territorio distal de arteria cerebral media izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 971,
+      "end": 1024
+    },
+    {
+      "text": "M2 y M3",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1059,
+      "end": 1066
+    },
+    {
+      "text": "oclusión trombótica",
+      "type": "PATOLOGIA",
+      "start": 1410,
+      "end": 1429
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 1650,
+      "end": 1664
+    },
+    {
+      "text": "ASPECTS 9",
+      "type": "PUNTUACION_CLINICA",
+      "start": 675,
+      "end": 684
+    },
+    {
+      "text": "penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1251,
+      "end": 1269
+    },
+    {
+      "text": "No se observa hemorragia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 507,
+      "end": 531
+    },
+    {
+      "text": "sin estenosis significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1495,
+      "end": 1523
+    },
+    {
+      "text": "sin evidencias de edema cerebral significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 842,
+      "end": 888
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 363,
+      "end": 379
+    },
+    {
+      "text": "TC perfusión cerebral dinámica",
+      "type": "TECNICA_IMAGEN",
+      "start": 395,
+      "end": 425
+    },
+    {
+      "text": "Angio-TC arterial intracraneal urgente",
+      "type": "TECNICA_IMAGEN",
+      "start": 428,
+      "end": 466
+    }
+  ]
+}

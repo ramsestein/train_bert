@@ -1,0 +1,77 @@
+{
+  "document_id": "informe_sintetico_20250804195045_24257",
+  "entities": [
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 490,
+      "end": 513
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 580,
+      "end": 594
+    },
+    {
+      "text": "calcificaciones vasculares bilaterales",
+      "type": "PATOLOGIA",
+      "start": 609,
+      "end": 647
+    },
+    {
+      "text": "ateromatosis leve crónica",
+      "type": "PATOLOGIA",
+      "start": 721,
+      "end": 746
+    },
+    {
+      "text": "enfermedad microangiopática crónica",
+      "type": "PATOLOGIA",
+      "start": 837,
+      "end": 872
+    },
+    {
+      "text": "arterias carotídeas internas",
+      "type": "ARTERIA",
+      "start": 675,
+      "end": 703
+    },
+    {
+      "text": "bilaterales",
+      "type": "LATERALIDAD",
+      "start": 636,
+      "end": 647
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 1673,
+      "end": 1683
+    },
+    {
+      "text": "TC craneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 284,
+      "end": 294
+    },
+    {
+      "text": "perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 342,
+      "end": 360
+    },
+    {
+      "text": "angiografía por TC",
+      "type": "TECNICA_IMAGEN",
+      "start": 363,
+      "end": 381
+    },
+    {
+      "text": "TC craneal normal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1483,
+      "end": 1500
+    }
+  ]
+}

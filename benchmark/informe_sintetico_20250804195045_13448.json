@@ -1,0 +1,125 @@
+{
+  "document_id": "informe_sintetico_20250804195045_13448",
+  "entities": [
+    {
+      "text": "infarto cerebral isquémico",
+      "type": "PATOLOGIA",
+      "start": 195,
+      "end": 221
+    },
+    {
+      "text": "deterioro neurológico progresivo",
+      "type": "PATOLOGIA",
+      "start": 241,
+      "end": 273
+    },
+    {
+      "text": "transformación hemorrágica",
+      "type": "PATOLOGIA",
+      "start": 287,
+      "end": 313
+    },
+    {
+      "text": "zona hipodensa",
+      "type": "PATOLOGIA",
+      "start": 496,
+      "end": 510
+    },
+    {
+      "text": "infarto cerebral agudo",
+      "type": "PATOLOGIA",
+      "start": 564,
+      "end": 586
+    },
+    {
+      "text": "foco hemorrágico mínimo de tipo petequial",
+      "type": "PATOLOGIA",
+      "start": 604,
+      "end": 645
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "ARTERIA",
+      "start": 1001,
+      "end": 1033
+    },
+    {
+      "text": "hipoperfusión",
+      "type": "PATOLOGIA",
+      "start": 967,
+      "end": 980
+    },
+    {
+      "text": "tiempo de tránsito medio",
+      "type": "MEDIDA",
+      "start": 1056,
+      "end": 1080
+    },
+    {
+      "text": "volumen sanguíneo cerebral",
+      "type": "MEDIDA",
+      "start": 1099,
+      "end": 1125
+    },
+    {
+      "text": "sin oclusiones ni estenosis relevantes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1260,
+      "end": 1298
+    },
+    {
+      "text": "sin signos de arteriosclerosis significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1322,
+      "end": 1366
+    },
+    {
+      "text": "sin complicaciones hemorrágicas mayores",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1572,
+      "end": 1611
+    },
+    {
+      "text": "isquemia residual",
+      "type": "PATOLOGIA",
+      "start": 1677,
+      "end": 1694
+    },
+    {
+      "text": "sin hallazgos críticos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1732,
+      "end": 1754
+    },
+    {
+      "text": "infarto cerebral agudo",
+      "type": "PATOLOGIA",
+      "start": 564,
+      "end": 586
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "ARTERIA",
+      "start": 1001,
+      "end": 1033
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 334,
+      "end": 350
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 367,
+      "end": 388
+    },
+    {
+      "text": "angio-TC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 391,
+      "end": 421
+    }
+  ]
+}

@@ -1,0 +1,137 @@
+{
+  "document_id": "informe_sintetico_20250804195045_05207",
+  "entities": [
+    {
+      "text": "hematoma intraparenquimatoso",
+      "type": "PATOLOGIA",
+      "start": 469,
+      "end": 497
+    },
+    {
+      "text": "putaminal derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 514,
+      "end": 531
+    },
+    {
+      "text": "35 x 30 x 28 mm",
+      "type": "MEDIDA",
+      "start": 557,
+      "end": 572
+    },
+    {
+      "text": "cápsula interna",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 597,
+      "end": 612
+    },
+    {
+      "text": "6 mm",
+      "type": "MEDIDA",
+      "start": 758,
+      "end": 762
+    },
+    {
+      "text": "volumen cerebral (CBV)",
+      "type": "PATOLOGIA",
+      "start": 1027,
+      "end": 1049
+    },
+    {
+      "text": "aumento en los tiempos de tránsito (TTP)",
+      "type": "PATOLOGIA",
+      "start": 1094,
+      "end": 1134
+    },
+    {
+      "text": "isquemia",
+      "type": "PATOLOGIA",
+      "start": 1168,
+      "end": 1176
+    },
+    {
+      "text": "vasos intracraneales",
+      "type": "ARTERIA",
+      "start": 1245,
+      "end": 1265
+    },
+    {
+      "text": "estenosis",
+      "type": "PATOLOGIA",
+      "start": 1310,
+      "end": 1319
+    },
+    {
+      "text": "malformaciones vasculares",
+      "type": "PATOLOGIA",
+      "start": 1350,
+      "end": 1375
+    },
+    {
+      "text": "aneurismas",
+      "type": "PATOLOGIA",
+      "start": 1379,
+      "end": 1389
+    },
+    {
+      "text": "Hematoma intraparenquimatoso putaminal derecho",
+      "type": "PATOLOGIA",
+      "start": 1428,
+      "end": 1474
+    },
+    {
+      "text": "cápsula interna",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 597,
+      "end": 612
+    },
+    {
+      "text": "efecto masa",
+      "type": "PATOLOGIA",
+      "start": 675,
+      "end": 686
+    },
+    {
+      "text": "edema",
+      "type": "PATOLOGIA",
+      "start": 633,
+      "end": 638
+    },
+    {
+      "text": "compromiso isquémico",
+      "type": "PATOLOGIA",
+      "start": 1617,
+      "end": 1637
+    },
+    {
+      "text": "vascularización alterada",
+      "type": "PATOLOGIA",
+      "start": 1694,
+      "end": 1718
+    },
+    {
+      "text": "complicaciones hemorrágicas adicionales",
+      "type": "PATOLOGIA",
+      "start": 1722,
+      "end": 1761
+    },
+    {
+      "text": "TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANGIOTC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 1951,
+      "end": 2018
+    },
+    {
+      "text": "No se observan signos de hemorragia subaracnoidea ni intraventricular",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 764,
+      "end": 833
+    },
+    {
+      "text": "No hay evidencia de vascularización alterada ni complicaciones hemorrágicas adicionales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1674,
+      "end": 1761
+    }
+  ]
+}

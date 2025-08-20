@@ -1,0 +1,131 @@
+{
+  "document_id": "informe_sintetico_20250804195045_20236",
+  "entities": [
+    {
+      "text": "hemorragia intraventricular primaria",
+      "type": "PATOLOGIA",
+      "start": 333,
+      "end": 369
+    },
+    {
+      "text": "sangrado parenquimatoso",
+      "type": "PATOLOGIA",
+      "start": 813,
+      "end": 836
+    },
+    {
+      "text": "hidrocefalia obstructiva inicial",
+      "type": "PATOLOGIA",
+      "start": 1128,
+      "end": 1160
+    },
+    {
+      "text": "alta densidad hemática",
+      "type": "PATOLOGIA",
+      "start": 625,
+      "end": 647
+    },
+    {
+      "text": "sangrado intraventricular",
+      "type": "PATOLOGIA",
+      "start": 1932,
+      "end": 1957
+    },
+    {
+      "text": "ventrículos laterales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 709,
+      "end": 730
+    },
+    {
+      "text": "tercer ventrículo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 735,
+      "end": 752
+    },
+    {
+      "text": "cuarto ventrículo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 771,
+      "end": 788
+    },
+    {
+      "text": "sistema ventricular",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 672,
+      "end": 691
+    },
+    {
+      "text": "ACAs",
+      "type": "ARTERIA",
+      "start": 1615,
+      "end": 1619
+    },
+    {
+      "text": "ACMs",
+      "type": "ARTERIA",
+      "start": 1621,
+      "end": 1625
+    },
+    {
+      "text": "ACPs",
+      "type": "ARTERIA",
+      "start": 1627,
+      "end": 1631
+    },
+    {
+      "text": "sistema vertebrobasilar",
+      "type": "ARTERIA",
+      "start": 1638,
+      "end": 1661
+    },
+    {
+      "text": "bilateral",
+      "type": "LATERALIDAD",
+      "start": 1851,
+      "end": 1860
+    },
+    {
+      "text": "sin datos de isquemia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1384,
+      "end": 1405
+    },
+    {
+      "text": "sin estenosis ni oclusiones",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1679,
+      "end": 1706
+    },
+    {
+      "text": "sin aneurismas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2362,
+      "end": 2376
+    },
+    {
+      "text": "sin datos de isquemia cerebral",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1972,
+      "end": 2002
+    },
+    {
+      "text": "TC craneal urgente básico",
+      "type": "TECNICA_IMAGEN",
+      "start": 390,
+      "end": 415
+    },
+    {
+      "text": "TC perfusión",
+      "type": "TECNICA_IMAGEN",
+      "start": 1959,
+      "end": 1971
+    },
+    {
+      "text": "angio-TC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 451,
+      "end": 481
+    }
+  ]
+}

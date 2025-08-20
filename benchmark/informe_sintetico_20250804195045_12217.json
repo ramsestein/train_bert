@@ -1,0 +1,83 @@
+{
+  "document_id": "informe_sintetico_20250804195045_12217",
+  "entities": [
+    {
+      "text": "infarto lacunar agudo",
+      "type": "PATOLOGIA",
+      "start": 222,
+      "end": 243
+    },
+    {
+      "text": "núcleo lenticular izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 509,
+      "end": 536
+    },
+    {
+      "text": "6 mm",
+      "type": "MEDIDA",
+      "start": 487,
+      "end": 491
+    },
+    {
+      "text": "izquierdo",
+      "type": "LATERALIDAD",
+      "start": 527,
+      "end": 536
+    },
+    {
+      "text": "sin efecto de masa ni desplazamiento de estructuras de la línea media",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 538,
+      "end": 607
+    },
+    {
+      "text": "sin áreas de volumen o flujo cerebral disminuido que sugieran territorio de penumbra",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 875,
+      "end": 959
+    },
+    {
+      "text": "sin evidencia de estenosis ni oclusión en las principales arterias cerebrales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1096,
+      "end": 1173
+    },
+    {
+      "text": "sin compromiso hemodinámico a nivel macrovascular",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1377,
+      "end": 1426
+    },
+    {
+      "text": "ACM",
+      "type": "ARTERIA",
+      "start": 1175,
+      "end": 1178
+    },
+    {
+      "text": "ACA",
+      "type": "ARTERIA",
+      "start": 1180,
+      "end": 1183
+    },
+    {
+      "text": "ACP",
+      "type": "ARTERIA",
+      "start": 1185,
+      "end": 1188
+    },
+    {
+      "text": "permeables",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1084,
+      "end": 1094
+    },
+    {
+      "text": "Sistema vertebrobasilar normal y permeable",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1252,
+      "end": 1294
+    }
+  ]
+}

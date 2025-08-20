@@ -1,0 +1,59 @@
+{
+  "document_id": "informe_sintetico_20250804195045_22602",
+  "entities": [
+    {
+      "text": "hematoma intraparenquimatoso",
+      "type": "PATOLOGIA",
+      "start": 483,
+      "end": 511
+    },
+    {
+      "text": "3,5 x 3,0 x 3,2 cm",
+      "type": "MEDIDA",
+      "start": 542,
+      "end": 560
+    },
+    {
+      "text": "putamen izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 578,
+      "end": 595
+    },
+    {
+      "text": "cápsula interna homolateral",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 616,
+      "end": 643
+    },
+    {
+      "text": "6 mm",
+      "type": "MEDIDA",
+      "start": 754,
+      "end": 758
+    },
+    {
+      "text": "sin datos de isquemia en territorios arteriales distantes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1241,
+      "end": 1298
+    },
+    {
+      "text": "permeabilidad en todos los segmentos de la arteria cerebral media izquierda y derecha",
+      "type": "ARTERIA",
+      "start": 1340,
+      "end": 1425
+    },
+    {
+      "text": "sin evidencia de aneurismas ni malformaciones vasculares",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1490,
+      "end": 1546
+    },
+    {
+      "text": "control neuroimagen en 24-48 horas",
+      "type": "TEMPORALIDAD",
+      "start": 1977,
+      "end": 2011
+    }
+  ]
+}

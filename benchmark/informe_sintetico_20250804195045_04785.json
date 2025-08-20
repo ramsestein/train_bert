@@ -1,0 +1,53 @@
+{
+  "document_id": "informe_sintetico_20250804195045_04785",
+  "entities": [
+    {
+      "text": "patología isquémica",
+      "type": "PATOLOGIA",
+      "start": 255,
+      "end": 274
+    },
+    {
+      "text": "puntuación ASPECTS 10/10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 553,
+      "end": 577
+    },
+    {
+      "text": "microangiopatía leve",
+      "type": "PATOLOGIA",
+      "start": 668,
+      "end": 688
+    },
+    {
+      "text": "sin evidencia de lesión aguda",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 690,
+      "end": 719
+    },
+    {
+      "text": "sin signos de hipertensión intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 823,
+      "end": 862
+    },
+    {
+      "text": "sin hallazgos agudos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1507,
+      "end": 1527
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 564,
+      "end": 574
+    },
+    {
+      "text": "sin estenosis ni alteraciones significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1683,
+      "end": 1727
+    }
+  ]
+}

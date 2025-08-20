@@ -1,0 +1,143 @@
+{
+  "document_id": "informe_sintetico_20250804195045_19832",
+  "entities": [
+    {
+      "text": "ictus isquémico",
+      "type": "PATOLOGIA",
+      "start": 232,
+      "end": 247
+    },
+    {
+      "text": "hemorragia intra ni extraaxial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 500,
+      "end": 530
+    },
+    {
+      "text": "ASPECTS 9/10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 601,
+      "end": 613
+    },
+    {
+      "text": "hipodensidad",
+      "type": "PATOLOGIA",
+      "start": 623,
+      "end": 635
+    },
+    {
+      "text": "territorio parietal izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 639,
+      "end": 668
+    },
+    {
+      "text": "lóbulo parietal y temporal",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 705,
+      "end": 731
+    },
+    {
+      "text": "aumento del tiempo de retraso (Tmax)",
+      "type": "MEDIDA",
+      "start": 882,
+      "end": 918
+    },
+    {
+      "text": "tiempo de tránsito (TTD)",
+      "type": "MEDIDA",
+      "start": 921,
+      "end": 945
+    },
+    {
+      "text": "ramas M2/M3 de la arteria cerebral media izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 984,
+      "end": 1034
+    },
+    {
+      "text": "disminución moderada del flujo sanguíneo cerebral (CBF)",
+      "type": "PATOLOGIA",
+      "start": 1040,
+      "end": 1095
+    },
+    {
+      "text": "volumen cerebral sanguíneo (CBV)",
+      "type": "MEDIDA",
+      "start": 1098,
+      "end": 1130
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 1161,
+      "end": 1175
+    },
+    {
+      "text": "Oclusión segmentaria",
+      "type": "PATOLOGIA",
+      "start": 1232,
+      "end": 1252
+    },
+    {
+      "text": "tramo distal (M2/M3) de arteria cerebral media izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1256,
+      "end": 1312
+    },
+    {
+      "text": "sin estenosis significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1314,
+      "end": 1341
+    },
+    {
+      "text": "Sistema vertebrobasilar y arterias intracraneales contralaterales permeables",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1395,
+      "end": 1471
+    },
+    {
+      "text": "territorio distal de arteria cerebral media izquierda (M2/M3)",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1523,
+      "end": 1584
+    },
+    {
+      "text": "ASPECTS 9",
+      "type": "PUNTUACION_CLINICA",
+      "start": 601,
+      "end": 610
+    },
+    {
+      "text": "área de penumbra viable",
+      "type": "PATOLOGIA",
+      "start": 1651,
+      "end": 1674
+    },
+    {
+      "text": "mapas de perfusión",
+      "type": "TECNICA_IMAGEN",
+      "start": 323,
+      "end": 341
+    },
+    {
+      "text": "Isquemia por oclusión distal (M2/M3) de arteria cerebral media izquierda",
+      "type": "PATOLOGIA",
+      "start": 1904,
+      "end": 1976
+    },
+    {
+      "text": "territorio isquémico limitado",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1981,
+      "end": 2010
+    },
+    {
+      "text": "preservación parcial del flujo cerebral",
+      "type": "PATOLOGIA",
+      "start": 2013,
+      "end": 2052
+    }
+  ]
+}

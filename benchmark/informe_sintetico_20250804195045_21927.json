@@ -1,0 +1,77 @@
+{
+  "document_id": "informe_sintetico_20250804195045_21927",
+  "entities": [
+    {
+      "text": "hemorragia subaracnoidea focal",
+      "type": "PATOLOGIA",
+      "start": 252,
+      "end": 282
+    },
+    {
+      "text": "hemorragia intraventricular",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 626,
+      "end": 653
+    },
+    {
+      "text": "cisura silviana derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 493,
+      "end": 516
+    },
+    {
+      "text": "5 mm",
+      "type": "MEDIDA",
+      "start": 1221,
+      "end": 1225
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "ARTERIA",
+      "start": 1232,
+      "end": 1262
+    },
+    {
+      "text": "hemorragia intraparenquimatosa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1652,
+      "end": 1682
+    },
+    {
+      "text": "isquemia cerebral",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1737,
+      "end": 1754
+    },
+    {
+      "text": "vasoespasmo arteriales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1758,
+      "end": 1780
+    },
+    {
+      "text": "puntuación Glasgow 14",
+      "type": "PUNTUACION_CLINICA",
+      "start": 190,
+      "end": 211
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 327,
+      "end": 343
+    },
+    {
+      "text": "TC perfusión",
+      "type": "TECNICA_IMAGEN",
+      "start": 359,
+      "end": 371
+    },
+    {
+      "text": "AngioTC",
+      "type": "TECNICA_IMAGEN",
+      "start": 382,
+      "end": 389
+    }
+  ]
+}

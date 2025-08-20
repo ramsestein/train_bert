@@ -1,0 +1,71 @@
+{
+  "document_id": "0000000010000000057965157_cleaned",
+  "entities": [
+    {
+      "text": "No se observa hemorragia aguda intra ni extraaxial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 400,
+      "end": 450
+    },
+    {
+      "text": "signo de infarto hiperagudo en territorio de ACAi",
+      "type": "PATOLOGIA",
+      "start": 552,
+      "end": 601
+    },
+    {
+      "text": "Hiperdensidad puntiforme en cisura interhemisférica atribuible a tromboembolismo en la luz de la ACAi",
+      "type": "PATOLOGIA",
+      "start": 603,
+      "end": 704
+    },
+    {
+      "text": "Territorio de ACM con ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 706,
+      "end": 738
+    },
+    {
+      "text": "No se observan lesiones isquémicas parenquimatosas subagudas ni otras lesiones isquemicas crónicas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 740,
+      "end": 838
+    },
+    {
+      "text": "volumen hemisférico izquierdo discretamente reducido en región frontal parasagital izquierda",
+      "type": "PATOLOGIA",
+      "start": 1055,
+      "end": 1147
+    },
+    {
+      "text": "Signos de oclusión de la ACAi en segmento A3",
+      "type": "PATOLOGIA",
+      "start": 1673,
+      "end": 1717
+    },
+    {
+      "text": "Resto de principales arterias cerebrales intracraneales permeables (ACAd, ACMs y ACPs)",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1719,
+      "end": 1805
+    },
+    {
+      "text": "Oclusión del segmento A3 de ACAI",
+      "type": "PATOLOGIA",
+      "start": 1865,
+      "end": 1897
+    },
+    {
+      "text": "TC Basal + TC Perfusión + AngioTC extra- intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 307,
+      "end": 360
+    },
+    {
+      "text": "TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANG IOTC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 72,
+      "end": 140
+    }
+  ]
+}

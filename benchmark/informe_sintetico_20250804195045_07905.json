@@ -1,0 +1,101 @@
+{
+  "document_id": "informe_sintetico_20250804195045_07905",
+  "entities": [
+    {
+      "text": "infarto lacunar agudo",
+      "type": "PATOLOGIA",
+      "start": 347,
+      "end": 368
+    },
+    {
+      "text": "hemiparesia derecha",
+      "type": "PATOLOGIA",
+      "start": 276,
+      "end": 295
+    },
+    {
+      "text": "disartria",
+      "type": "PATOLOGIA",
+      "start": 298,
+      "end": 307
+    },
+    {
+      "text": "8 mm",
+      "type": "MEDIDA",
+      "start": 810,
+      "end": 814
+    },
+    {
+      "text": "región cápsulolenticular izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 819,
+      "end": 853
+    },
+    {
+      "text": "isquémica aguda lacunar",
+      "type": "PATOLOGIA",
+      "start": 877,
+      "end": 900
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 727,
+      "end": 737
+    },
+    {
+      "text": "infarto lacunar",
+      "type": "PATOLOGIA",
+      "start": 347,
+      "end": 362
+    },
+    {
+      "text": "cápsulolenticular izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 826,
+      "end": 853
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 727,
+      "end": 737
+    },
+    {
+      "text": "No se identifican hematomas ni hemorragias intra ni extraaxiales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 569,
+      "end": 633
+    },
+    {
+      "text": "sin repercusión hemodinámica significativa ni presencia de hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1805,
+      "end": 1887
+    },
+    {
+      "text": "ACAs, ACMs, ACPs",
+      "type": "ARTERIA",
+      "start": 1554,
+      "end": 1570
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 424,
+      "end": 440
+    },
+    {
+      "text": "mapas de perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 442,
+      "end": 469
+    },
+    {
+      "text": "angiografía por TC de arterias intra y extracraneales",
+      "type": "TECNICA_IMAGEN",
+      "start": 472,
+      "end": 525
+    }
+  ]
+}

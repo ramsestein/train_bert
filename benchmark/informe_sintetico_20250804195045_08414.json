@@ -1,0 +1,131 @@
+{
+  "document_id": "informe_sintetico_20250804195045_08414",
+  "entities": [
+    {
+      "text": "hemiparesia derecha",
+      "type": "PATOLOGIA",
+      "start": 204,
+      "end": 223
+    },
+    {
+      "text": "evento isquémico",
+      "type": "PATOLOGIA",
+      "start": 278,
+      "end": 294
+    },
+    {
+      "text": "arteria cerebral media",
+      "type": "ARTERIA",
+      "start": 312,
+      "end": 334
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 216,
+      "end": 223
+    },
+    {
+      "text": "3 horas",
+      "type": "MEDIDA",
+      "start": 236,
+      "end": 243
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 427,
+      "end": 443
+    },
+    {
+      "text": "perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 470,
+      "end": 488
+    },
+    {
+      "text": "angio-TC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 541,
+      "end": 571
+    },
+    {
+      "text": "No se evidencian hemorragias intra o extraaxiales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 647,
+      "end": 696
+    },
+    {
+      "text": "No signos de edema cerebral global",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 877,
+      "end": 911
+    },
+    {
+      "text": "aumento del Tiempo de Tránsito Medio (MTT)",
+      "type": "PATOLOGIA",
+      "start": 939,
+      "end": 981
+    },
+    {
+      "text": "Retraso del Tiempo al Pico (TTP)",
+      "type": "PATOLOGIA",
+      "start": 984,
+      "end": 1016
+    },
+    {
+      "text": "arteria cerebral media",
+      "type": "ARTERIA",
+      "start": 312,
+      "end": 334
+    },
+    {
+      "text": "segmentos M2/M3",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1151,
+      "end": 1166
+    },
+    {
+      "text": "mantenimiento del volumen cerebral de sangre (CBV)",
+      "type": "PATOLOGIA",
+      "start": 1229,
+      "end": 1279
+    },
+    {
+      "text": "Oclusión subtotal del segmento M2 de la arteria cerebral media derecha",
+      "type": "PATOLOGIA",
+      "start": 1369,
+      "end": 1439
+    },
+    {
+      "text": "sin evidencia de aneurismas ni malformaciones vasculares",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1441,
+      "end": 1497
+    },
+    {
+      "text": "Oclusión en segmento distal M2 de arteria cerebral media derecha",
+      "type": "PATOLOGIA",
+      "start": 1660,
+      "end": 1724
+    },
+    {
+      "text": "ASPECTS 9",
+      "type": "PUNTUACION_CLINICA",
+      "start": 1728,
+      "end": 1737
+    },
+    {
+      "text": "No se observan signos de infarto establecido ni sangrado intracraneal asociado",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1828,
+      "end": 1906
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 2249,
+      "end": 2263
+    }
+  ]
+}

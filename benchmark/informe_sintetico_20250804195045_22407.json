@@ -1,0 +1,107 @@
+{
+  "document_id": "informe_sintetico_20250804195045_22407",
+  "entities": [
+    {
+      "text": "pérdida difusa de la diferenciación córtico-subcortical",
+      "type": "PATOLOGIA",
+      "start": 422,
+      "end": 477
+    },
+    {
+      "text": "atenuación difusa de la sustancia gris",
+      "type": "PATOLOGIA",
+      "start": 483,
+      "end": 521
+    },
+    {
+      "text": "pérdida de volumen encefálico agudo",
+      "type": "PATOLOGIA",
+      "start": 532,
+      "end": 567
+    },
+    {
+      "text": "sin desplazamientos de la línea media",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 677,
+      "end": 714
+    },
+    {
+      "text": "reducción del volumen cerebral sanguíneo (CBV)",
+      "type": "PATOLOGIA",
+      "start": 826,
+      "end": 872
+    },
+    {
+      "text": "flujo cerebral sanguíneo (CBF)",
+      "type": "PATOLOGIA",
+      "start": 875,
+      "end": 905
+    },
+    {
+      "text": "territorio global cortical",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 909,
+      "end": 935
+    },
+    {
+      "text": "lóbulos frontales y parietales bilaterales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 958,
+      "end": 1000
+    },
+    {
+      "text": "sin evidencia de oclusión arterial focal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1632,
+      "end": 1672
+    },
+    {
+      "text": "ACAs, ACMs, ACPs",
+      "type": "ARTERIA",
+      "start": 1193,
+      "end": 1209
+    },
+    {
+      "text": "sin evidencia de estenosis ni defectos de repleción",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1234,
+      "end": 1285
+    },
+    {
+      "text": "encefalopatía hipóxico-isquémica global",
+      "type": "PATOLOGIA",
+      "start": 1435,
+      "end": 1474
+    },
+    {
+      "text": "paro cardiorrespiratorio reciente",
+      "type": "TEMPORALIDAD",
+      "start": 1498,
+      "end": 1531
+    },
+    {
+      "text": "sin hallazgos de ictus focal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1965,
+      "end": 1993
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 279,
+      "end": 295
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 298,
+      "end": 319
+    },
+    {
+      "text": "Angio-TC arterial intracraneal con contraste iv",
+      "type": "TECNICA_IMAGEN",
+      "start": 322,
+      "end": 369
+    }
+  ]
+}

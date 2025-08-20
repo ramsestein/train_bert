@@ -1,0 +1,65 @@
+{
+  "document_id": "informe_sintetico_20250804195045_06098",
+  "entities": [
+    {
+      "text": "infarto isquémico agudo",
+      "type": "PATOLOGIA",
+      "start": 720,
+      "end": 743
+    },
+    {
+      "text": "región frontoparietal izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 673,
+      "end": 704
+    },
+    {
+      "text": "microhemorragias focales",
+      "type": "PATOLOGIA",
+      "start": 918,
+      "end": 942
+    },
+    {
+      "text": "transformación hemorrágica HI1",
+      "type": "PATOLOGIA",
+      "start": 962,
+      "end": 992
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "ARTERIA",
+      "start": 1383,
+      "end": 1415
+    },
+    {
+      "text": "40-60 UH",
+      "type": "MEDIDA",
+      "start": 892,
+      "end": 900
+    },
+    {
+      "text": "6 horas",
+      "type": "TEMPORALIDAD",
+      "start": 360,
+      "end": 367
+    },
+    {
+      "text": "sin estenosis significativa ni trombosis residual",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1614,
+      "end": 1663
+    },
+    {
+      "text": "sin restos trombóticos ni estenosis en territorio afectado",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2127,
+      "end": 2185
+    },
+    {
+      "text": "TC craneal basal sin contraste + TC perfusión cerebral con mapas de flujo, volumen y tiempo + Angio-TC arterial intracraneal y extracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 460,
+      "end": 599
+    }
+  ]
+}

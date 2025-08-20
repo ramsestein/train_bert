@@ -1,0 +1,65 @@
+{
+  "document_id": "informe_sintetico_20250804195045_12953",
+  "entities": [
+    {
+      "text": "infarto isquémico subagudo",
+      "type": "PATOLOGIA",
+      "start": 570,
+      "end": 596
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "ARTERIA",
+      "start": 521,
+      "end": 553
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 544,
+      "end": 553
+    },
+    {
+      "text": "más del 30%",
+      "type": "MEDIDA",
+      "start": 725,
+      "end": 736
+    },
+    {
+      "text": "7 mm",
+      "type": "MEDIDA",
+      "start": 891,
+      "end": 895
+    },
+    {
+      "text": "subagudo",
+      "type": "TEMPORALIDAD",
+      "start": 588,
+      "end": 596
+    },
+    {
+      "text": "Oclusión de la arteria cerebral media izquierda proximal (segmento M1)",
+      "type": "PATOLOGIA",
+      "start": 1392,
+      "end": 1462
+    },
+    {
+      "text": "No se aprecian hemorragias intra o extraaxiales adicionales.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 948,
+      "end": 1008
+    },
+    {
+      "text": "No se identifican focos de hipoperfusión fuera del área infartada.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1293,
+      "end": 1359
+    },
+    {
+      "text": "No se evidencian aneurismas ni malformaciones vasculares.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1493,
+      "end": 1550
+    }
+  ]
+}

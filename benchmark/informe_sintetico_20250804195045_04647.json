@@ -1,0 +1,65 @@
+{
+  "document_id": "informe_sintetico_20250804195045_04647",
+  "entities": [
+    {
+      "text": "isquemia cerebral aguda",
+      "type": "PATOLOGIA",
+      "start": 224,
+      "end": 247
+    },
+    {
+      "text": "arteria cerebral media distal",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 265,
+      "end": 294
+    },
+    {
+      "text": "arteria cerebral media",
+      "type": "ARTERIA",
+      "start": 265,
+      "end": 287
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 583,
+      "end": 592
+    },
+    {
+      "text": "9",
+      "type": "MEDIDA",
+      "start": 805,
+      "end": 806
+    },
+    {
+      "text": "aguda",
+      "type": "TEMPORALIDAD",
+      "start": 242,
+      "end": 247
+    },
+    {
+      "text": "ASPECTS",
+      "type": "PUNTUACION_CLINICA",
+      "start": 794,
+      "end": 801
+    },
+    {
+      "text": "TC craneal basal urgente",
+      "type": "TECNICA_IMAGEN",
+      "start": 315,
+      "end": 339
+    },
+    {
+      "text": "No se identifican signos de hemorragia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 808,
+      "end": 846
+    },
+    {
+      "text": "No evidencia de hemorragia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1854,
+      "end": 1880
+    }
+  ]
+}

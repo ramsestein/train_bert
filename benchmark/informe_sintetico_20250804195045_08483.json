@@ -1,0 +1,113 @@
+{
+  "document_id": "informe_sintetico_20250804195045_08483",
+  "entities": [
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 237,
+      "end": 251
+    },
+    {
+      "text": "arteria cerebral anterior",
+      "type": "ARTERIA",
+      "start": 272,
+      "end": 297
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 765,
+      "end": 774
+    },
+    {
+      "text": "No se detectan signos de hemorragia aguda intra ni extraaxial.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 548,
+      "end": 610
+    },
+    {
+      "text": "No se observan hipodensidades ni edema citotóxico en cortes iniciales.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 611,
+      "end": 681
+    },
+    {
+      "text": "Diferenciación cortico-subcortical levemente atenuada en regiones frontales medias izquierdas.",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 682,
+      "end": 776
+    },
+    {
+      "text": "aumento del tiempo de tránsito medio (TTP)",
+      "type": "PATOLOGIA",
+      "start": 901,
+      "end": 943
+    },
+    {
+      "text": "retraso en el tiempo de llegada del contraste",
+      "type": "PATOLOGIA",
+      "start": 946,
+      "end": 991
+    },
+    {
+      "text": "arteria cerebral anterior izquierda",
+      "type": "ARTERIA",
+      "start": 1053,
+      "end": 1088
+    },
+    {
+      "text": "reducción significativa del volumen cerebral sanguíneo (CBV)",
+      "type": "PATOLOGIA",
+      "start": 1094,
+      "end": 1154
+    },
+    {
+      "text": "flujo cerebral (CBF)",
+      "type": "PATOLOGIA",
+      "start": 1161,
+      "end": 1181
+    },
+    {
+      "text": "hipoperfusión",
+      "type": "PATOLOGIA",
+      "start": 1206,
+      "end": 1219
+    },
+    {
+      "text": "mismatch perfusión-difusión",
+      "type": "PATOLOGIA",
+      "start": 1224,
+      "end": 1251
+    },
+    {
+      "text": "territorio ACA izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1297,
+      "end": 1321
+    },
+    {
+      "text": "estenosis crítica (aproximadamente 90%)",
+      "type": "PATOLOGIA",
+      "start": 1545,
+      "end": 1584
+    },
+    {
+      "text": "arteria cerebral anterior izquierda",
+      "type": "ARTERIA",
+      "start": 1053,
+      "end": 1088
+    },
+    {
+      "text": "segmento A2 proximal",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1630,
+      "end": 1650
+    },
+    {
+      "text": "No evidencia de hemorragia intracraneal ni infarto establecido en TC basal.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2061,
+      "end": 2136
+    }
+  ]
+}

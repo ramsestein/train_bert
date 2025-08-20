@@ -1,0 +1,89 @@
+{
+  "document_id": "informe_sintetico_20250804195045_17085",
+  "entities": [
+    {
+      "text": "oclusión de arteria basilar",
+      "type": "PATOLOGIA",
+      "start": 279,
+      "end": 306
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 694,
+      "end": 708
+    },
+    {
+      "text": "hipoperfusión crítica",
+      "type": "PATOLOGIA",
+      "start": 1015,
+      "end": 1036
+    },
+    {
+      "text": "infarto establecido",
+      "type": "PATOLOGIA",
+      "start": 1110,
+      "end": 1129
+    },
+    {
+      "text": "arteria basilar",
+      "type": "ARTERIA",
+      "start": 291,
+      "end": 306
+    },
+    {
+      "text": "arterias cerebrales anteriores",
+      "type": "ARTERIA",
+      "start": 1416,
+      "end": 1446
+    },
+    {
+      "text": "bilaterales",
+      "type": "LATERALIDAD",
+      "start": 1340,
+      "end": 1351
+    },
+    {
+      "text": "completa",
+      "type": "MEDIDA",
+      "start": 1174,
+      "end": 1182
+    },
+    {
+      "text": "extensa",
+      "type": "MEDIDA",
+      "start": 846,
+      "end": 853
+    },
+    {
+      "text": "disminución del flujo cerebral",
+      "type": "PATOLOGIA",
+      "start": 915,
+      "end": 945
+    },
+    {
+      "text": "No se identifican hemorragias agudas intraparenquimatosas ni extraaxiales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 517,
+      "end": 590
+    },
+    {
+      "text": "No hay desplazamiento de la línea media ni signos de herniación",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 710,
+      "end": 773
+    },
+    {
+      "text": "No se observan signos de disección arterial ni ateromatosis significativa en el sistema vertebrobasilar",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1497,
+      "end": 1600
+    },
+    {
+      "text": "No evidencia de hemorragia intracraneal asociada",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1799,
+      "end": 1847
+    }
+  ]
+}

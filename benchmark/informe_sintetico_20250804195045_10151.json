@@ -1,0 +1,71 @@
+{
+  "document_id": "informe_sintetico_20250804195045_10151",
+  "entities": [
+    {
+      "text": "isquemia",
+      "type": "PATOLOGIA",
+      "start": 1466,
+      "end": 1474
+    },
+    {
+      "text": "arteria hiperdensa",
+      "type": "PATOLOGIA",
+      "start": 491,
+      "end": 509
+    },
+    {
+      "text": "M1",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 522,
+      "end": 524
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "ARTERIA",
+      "start": 531,
+      "end": 561
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 554,
+      "end": 561
+    },
+    {
+      "text": "6",
+      "type": "MEDIDA",
+      "start": 724,
+      "end": 725
+    },
+    {
+      "text": "aguda",
+      "type": "TEMPORALIDAD",
+      "start": 1475,
+      "end": 1480
+    },
+    {
+      "text": "ASPECTS",
+      "type": "PUNTUACION_CLINICA",
+      "start": 704,
+      "end": 711
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 275,
+      "end": 291
+    },
+    {
+      "text": "No hay evidencia de hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 769,
+      "end": 812
+    },
+    {
+      "text": "No signos de hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1684,
+      "end": 1720
+    }
+  ]
+}

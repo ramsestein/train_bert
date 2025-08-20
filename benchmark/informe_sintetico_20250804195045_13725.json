@@ -1,0 +1,131 @@
+{
+  "document_id": "informe_sintetico_20250804195045_13725",
+  "entities": [
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 338,
+      "end": 352
+    },
+    {
+      "text": "tronco encefálico",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 777,
+      "end": 794
+    },
+    {
+      "text": "puente",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 829,
+      "end": 835
+    },
+    {
+      "text": "cerebelo hemisférico derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 838,
+      "end": 866
+    },
+    {
+      "text": "territorio vertebrobasilar",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 536,
+      "end": 562
+    },
+    {
+      "text": "hemisferio cerebeloso derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1091,
+      "end": 1120
+    },
+    {
+      "text": "puente",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 829,
+      "end": 835
+    },
+    {
+      "text": "zona de penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1193,
+      "end": 1219
+    },
+    {
+      "text": "arteria vertebral derecha",
+      "type": "ARTERIA",
+      "start": 1277,
+      "end": 1302
+    },
+    {
+      "text": "arteria basilar distal",
+      "type": "ARTERIA",
+      "start": 1346,
+      "end": 1368
+    },
+    {
+      "text": "permeabilidad conservada",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1422,
+      "end": 1446
+    },
+    {
+      "text": "aumento del tiempo de tránsito medio",
+      "type": "PATOLOGIA",
+      "start": 947,
+      "end": 983
+    },
+    {
+      "text": "disminución del flujo sanguíneo cerebral",
+      "type": "PATOLOGIA",
+      "start": 992,
+      "end": 1032
+    },
+    {
+      "text": "volumen cerebral",
+      "type": "MEDIDA",
+      "start": 1134,
+      "end": 1150
+    },
+    {
+      "text": "CBV",
+      "type": "MEDIDA",
+      "start": 1152,
+      "end": 1155
+    },
+    {
+      "text": "TTP",
+      "type": "MEDIDA",
+      "start": 985,
+      "end": 988
+    },
+    {
+      "text": "CBF",
+      "type": "MEDIDA",
+      "start": 1034,
+      "end": 1037
+    },
+    {
+      "text": "aguda",
+      "type": "TEMPORALIDAD",
+      "start": 347,
+      "end": 352
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 404,
+      "end": 420
+    },
+    {
+      "text": "TC PERFUSIÓN",
+      "type": "TECNICA_IMAGEN",
+      "start": 904,
+      "end": 916
+    },
+    {
+      "text": "ANGIO-TC INTRACRANEAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 1222,
+      "end": 1243
+    }
+  ]
+}

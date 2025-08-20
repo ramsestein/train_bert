@@ -1,0 +1,71 @@
+{
+  "document_id": "informe_sintetico_20250804195045_12922",
+  "entities": [
+    {
+      "text": "hemorragia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 505,
+      "end": 515
+    },
+    {
+      "text": "infarto",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 584,
+      "end": 591
+    },
+    {
+      "text": "ASPECTS 9/10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 652,
+      "end": 664
+    },
+    {
+      "text": "hipodensidad cortical en región insular izquierda",
+      "type": "PATOLOGIA",
+      "start": 675,
+      "end": 724
+    },
+    {
+      "text": "ACM izquierda",
+      "type": "ARTERIA",
+      "start": 784,
+      "end": 797
+    },
+    {
+      "text": "M2/M3",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 816,
+      "end": 821
+    },
+    {
+      "text": "penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 982,
+      "end": 1000
+    },
+    {
+      "text": "Oclusión aguda distal de la arteria cerebral media izquierda (segmentos M2/M3)",
+      "type": "PATOLOGIA",
+      "start": 1531,
+      "end": 1609
+    },
+    {
+      "text": "sin evidencia de infarto establecido",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1703,
+      "end": 1739
+    },
+    {
+      "text": "No hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1755,
+      "end": 1781
+    },
+    {
+      "text": "Resto del árbol vascular cerebral permeable y sin estenosis significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1785,
+      "end": 1859
+    }
+  ]
+}

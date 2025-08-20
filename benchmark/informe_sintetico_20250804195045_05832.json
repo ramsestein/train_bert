@@ -1,0 +1,65 @@
+{
+  "document_id": "informe_sintetico_20250804195045_05832",
+  "entities": [
+    {
+      "text": "infarto lacunar agudo",
+      "type": "PATOLOGIA",
+      "start": 608,
+      "end": 629
+    },
+    {
+      "text": "región cápsuloputamen izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 518,
+      "end": 549
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 705,
+      "end": 715
+    },
+    {
+      "text": "isquemia focal reciente",
+      "type": "PATOLOGIA",
+      "start": 1001,
+      "end": 1024
+    },
+    {
+      "text": "TTP",
+      "type": "MEDIDA",
+      "start": 331,
+      "end": 334
+    },
+    {
+      "text": "CBF",
+      "type": "MEDIDA",
+      "start": 342,
+      "end": 345
+    },
+    {
+      "text": "CBV",
+      "type": "MEDIDA",
+      "start": 336,
+      "end": 339
+    },
+    {
+      "text": "hemorragia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 437,
+      "end": 447
+    },
+    {
+      "text": "estenosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1112,
+      "end": 1121
+    },
+    {
+      "text": "trombosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1455,
+      "end": 1464
+    }
+  ]
+}

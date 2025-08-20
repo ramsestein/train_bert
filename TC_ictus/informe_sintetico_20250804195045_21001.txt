@@ -1,0 +1,32 @@
+UO_PACN (Unidad Organizativa Médica): RADIO
+
+PRUEB (Prueba solicitada): TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANG IOTC ARTERIAL INTRACRANEAL)
+
+CLIN (Resumen clínico): Paciente con cuadro de hemiparesia derecha súbita y alteración del nivel de conciencia. Sospecha de ictus hemorrágico.
+
+OBSR (Protocolo): TC CRANEAL BASAL sin contraste seguido de Perfusión cerebral y AngioTC arterial intra y extracraneal urgente según protocolo código ictus.
+
+RESL (Resultados):  
+TC CRANEAL BASAL:  
+Se identifica hematoma intraparenquimatoso bien delimitado de aproximadamente 2.5 cm de diámetro máximo en el tálamo izquierdo, con densidad hiperdensa que corresponde a sangre fresca. Se evidencia leve extensión del sangrado hacia el sistema ventricular lateral izquierdo, sin signos claros de hidrocefalia obstructiva. No se observa efecto de masa significativo ni desplazamiento de la línea media. Ventriculos laterales simétricos, con patrón morfológico conservado. Cisternas basales libres. No se aprecian fracturas ni lesiones óseas asociadas.
+
+TC PERFUSIÓN:  
+La perfusión cerebral muestra hipoperfusión localizada en el territorio talámico izquierdo compatible con la lesión hemorrágica. No se observa penumbra isquémica adyacente ni alteraciones significativas en otras zonas cerebrales.
+
+ANGIO-TC INTRA Y EXTRACRANEAL:  
+La angiografía por TC revela vasos intracraneales permeables sin evidencia de malformaciones arterio-venosas ni aneurismas en la región talámica. No se detectan signos de estenosis ni oclusiones en los principales vasos del polígono de Willis. Ateromatosis leve y calcificaciones no estenosantes en los vasos del cuello y segmentos proximales de arterias carótidas. Dominancia vertebral derecha.
+
+CONCL (Conclusiones):  
+Hematoma intraparenquimatoso localizado en el tálamo izquierdo con leve extensión intraventricular sin hidrocefalia obstructiva apreciable. No se identifican malformaciones vasculares ni otras causas estructurales para el sangrado. Se recomienda seguimiento clínico y radiológico para valorar evolución.
+
+ACTI_ADICI (Actividad adicional):  
+
+DKTXT (Descripción): TC CRANEAL BASAL + PERFUSIÓN CEREBRAL + ANGIO-TC CEREBRAL
+
+ICON (Estudio): @RADIO_TC_CODICTUS@
+
+X00DIATXT (Texto del diagnóstico ACR): Hematoma intraparenquimatoso talámico con extensión intraventricular leve y conservación de la estructura ventricular sin hidrocefalia obstructiva.
+
+EST_T_DES (Descripción): TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANGIOTC ARTERIAL INTRACRANEAL)
+
+ZVASOS_D (Der.): PMID: angiografía por TC sin alteraciones hemodinámicas relevantes en vasos cerebrales.

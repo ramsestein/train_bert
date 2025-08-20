@@ -1,0 +1,143 @@
+{
+  "document_id": "informe_sintetico_20250804195045_10854",
+  "entities": [
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 274,
+      "end": 288
+    },
+    {
+      "text": "mesencéfalo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 676,
+      "end": 687
+    },
+    {
+      "text": "puente",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 690,
+      "end": 696
+    },
+    {
+      "text": "territorio vertebrobasilar",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 292,
+      "end": 318
+    },
+    {
+      "text": "tronco cerebral",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1023,
+      "end": 1038
+    },
+    {
+      "text": "cerebelo bilateral",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1041,
+      "end": 1059
+    },
+    {
+      "text": "flujo cerebral (CBF)",
+      "type": "MEDIDA",
+      "start": 1093,
+      "end": 1113
+    },
+    {
+      "text": "volumen cerebral (CBV)",
+      "type": "MEDIDA",
+      "start": 1116,
+      "end": 1138
+    },
+    {
+      "text": "penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1173,
+      "end": 1191
+    },
+    {
+      "text": "arteria basilar distal",
+      "type": "ARTERIA",
+      "start": 1349,
+      "end": 1371
+    },
+    {
+      "text": "arteria vertebral derecha",
+      "type": "ARTERIA",
+      "start": 1800,
+      "end": 1825
+    },
+    {
+      "text": "estenosis severa proximal derecha (>80%)",
+      "type": "PATOLOGIA",
+      "start": 1279,
+      "end": 1319
+    },
+    {
+      "text": "sin circulación colateral adecuada",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1827,
+      "end": 1861
+    },
+    {
+      "text": "sin estenosis relevantes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1486,
+      "end": 1510
+    },
+    {
+      "text": "sin colapso de cisternas basales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 862,
+      "end": 894
+    },
+    {
+      "text": "sin alteraciones",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1543,
+      "end": 1559
+    },
+    {
+      "text": "aguda",
+      "type": "TEMPORALIDAD",
+      "start": 283,
+      "end": 288
+    },
+    {
+      "text": "precoz",
+      "type": "TEMPORALIDAD",
+      "start": 730,
+      "end": 736
+    },
+    {
+      "text": "bilateral",
+      "type": "LATERALIDAD",
+      "start": 1050,
+      "end": 1059
+    },
+    {
+      "text": "código ictus",
+      "type": "TECNICA_IMAGEN",
+      "start": 481,
+      "end": 493
+    },
+    {
+      "text": "TC craneal basal sin contraste",
+      "type": "TECNICA_IMAGEN",
+      "start": 339,
+      "end": 369
+    },
+    {
+      "text": "TC perfusión cerebral centrada en fosa posterior",
+      "type": "TECNICA_IMAGEN",
+      "start": 372,
+      "end": 420
+    },
+    {
+      "text": "AngioTC intracraneal y de troncos supraaórticos",
+      "type": "TECNICA_IMAGEN",
+      "start": 423,
+      "end": 470
+    }
+  ]
+}

@@ -1,0 +1,119 @@
+{
+  "document_id": "informe_sintetico_20250804195045_02139",
+  "entities": [
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 698,
+      "end": 712
+    },
+    {
+      "text": "hematomas",
+      "type": "PATOLOGIA",
+      "start": 734,
+      "end": 743
+    },
+    {
+      "text": "hemorragias",
+      "type": "PATOLOGIA",
+      "start": 745,
+      "end": 756
+    },
+    {
+      "text": "calcificaciones patológicas",
+      "type": "PATOLOGIA",
+      "start": 760,
+      "end": 787
+    },
+    {
+      "text": "focos de hipodensidad subcorticales de carácter crónico",
+      "type": "PATOLOGIA",
+      "start": 812,
+      "end": 867
+    },
+    {
+      "text": "TTP",
+      "type": "MEDIDA",
+      "start": 978,
+      "end": 981
+    },
+    {
+      "text": "CBV",
+      "type": "MEDIDA",
+      "start": 1012,
+      "end": 1015
+    },
+    {
+      "text": "CBF",
+      "type": "MEDIDA",
+      "start": 1045,
+      "end": 1048
+    },
+    {
+      "text": "sin áreas de hipoperfusión o hiperperfusión",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1077,
+      "end": 1120
+    },
+    {
+      "text": "sin evidencias de estenosis ni irregularidades",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1312,
+      "end": 1358
+    },
+    {
+      "text": "sin hallazgos agudos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1614,
+      "end": 1634
+    },
+    {
+      "text": "sin signos de isquemia o hemorragia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1658,
+      "end": 1693
+    },
+    {
+      "text": "sin alteraciones significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1758,
+      "end": 1789
+    },
+    {
+      "text": "cerebrales anterior",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1427,
+      "end": 1446
+    },
+    {
+      "text": "media",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 495,
+      "end": 500
+    },
+    {
+      "text": "posterior",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1456,
+      "end": 1465
+    },
+    {
+      "text": "polígono de Willis",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1493,
+      "end": 1511
+    },
+    {
+      "text": "TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANG IOTC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 72,
+      "end": 140
+    },
+    {
+      "text": "TC de cráneo basal con estudio de perfusión cerebral y angio-TC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 237,
+      "end": 322
+    }
+  ]
+}

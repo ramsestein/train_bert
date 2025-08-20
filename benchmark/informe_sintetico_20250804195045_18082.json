@@ -1,0 +1,41 @@
+{
+  "document_id": "informe_sintetico_20250804195045_18082",
+  "entities": [
+    {
+      "text": "infarto lacunar agudo",
+      "type": "PATOLOGIA",
+      "start": 579,
+      "end": 600
+    },
+    {
+      "text": "núcleo lenticular derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 537,
+      "end": 562
+    },
+    {
+      "text": "6 mm",
+      "type": "MEDIDA",
+      "start": 495,
+      "end": 499
+    },
+    {
+      "text": "agudo",
+      "type": "TEMPORALIDAD",
+      "start": 595,
+      "end": 600
+    },
+    {
+      "text": "sin afectación del Tmax",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1020,
+      "end": 1043
+    },
+    {
+      "text": "sin evidencias de estenosis ni oclusión",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1181,
+      "end": 1220
+    }
+  ]
+}

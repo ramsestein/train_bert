@@ -1,0 +1,71 @@
+{
+  "document_id": "informe_sintetico_20250804195045_13515",
+  "entities": [
+    {
+      "text": "hipodensidad",
+      "type": "PATOLOGIA",
+      "start": 673,
+      "end": 685
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 1371,
+      "end": 1385
+    },
+    {
+      "text": "arteria cerebral anterior",
+      "type": "ARTERIA",
+      "start": 778,
+      "end": 803
+    },
+    {
+      "text": "izquierdo",
+      "type": "LATERALIDAD",
+      "start": 722,
+      "end": 731
+    },
+    {
+      "text": "9",
+      "type": "PUNTUACION_CLINICA",
+      "start": 939,
+      "end": 940
+    },
+    {
+      "text": "aguda",
+      "type": "TEMPORALIDAD",
+      "start": 1380,
+      "end": 1385
+    },
+    {
+      "text": "arteria cerebral anterior izquierda",
+      "type": "ARTERIA",
+      "start": 1501,
+      "end": 1536
+    },
+    {
+      "text": "A2",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1547,
+      "end": 1549
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 479,
+      "end": 495
+    },
+    {
+      "text": "TC PERFUSIÓN",
+      "type": "TECNICA_IMAGEN",
+      "start": 1045,
+      "end": 1057
+    },
+    {
+      "text": "ANGIO-TC ARTERIAL INTRACRANEAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 1436,
+      "end": 1466
+    }
+  ]
+}

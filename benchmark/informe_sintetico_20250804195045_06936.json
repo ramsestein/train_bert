@@ -1,0 +1,113 @@
+{
+  "document_id": "informe_sintetico_20250804195045_06936",
+  "entities": [
+    {
+      "text": "hematoma subdural agudo",
+      "type": "PATOLOGIA",
+      "start": 257,
+      "end": 280
+    },
+    {
+      "text": "colección hiperdensa",
+      "type": "PATOLOGIA",
+      "start": 533,
+      "end": 553
+    },
+    {
+      "text": "12 mm",
+      "type": "MEDIDA",
+      "start": 799,
+      "end": 804
+    },
+    {
+      "text": "6 mm",
+      "type": "MEDIDA",
+      "start": 909,
+      "end": 913
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 642,
+      "end": 649
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 880,
+      "end": 889
+    },
+    {
+      "text": "isquemia irreversible",
+      "type": "PATOLOGIA",
+      "start": 1364,
+      "end": 1385
+    },
+    {
+      "text": "ACM",
+      "type": "ARTERIA",
+      "start": 1577,
+      "end": 1580
+    },
+    {
+      "text": "ACA",
+      "type": "ARTERIA",
+      "start": 1582,
+      "end": 1585
+    },
+    {
+      "text": "ACP",
+      "type": "ARTERIA",
+      "start": 1588,
+      "end": 1591
+    },
+    {
+      "text": "bilaterales",
+      "type": "LATERALIDAD",
+      "start": 1593,
+      "end": 1604
+    },
+    {
+      "text": "No se visualizan fracturas osteolíticas ni depresivas asociadas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 915,
+      "end": 978
+    },
+    {
+      "text": "No hay evidencia de hemorragia intraparenquimatosa ni subaracnoidea asociada",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1047,
+      "end": 1123
+    },
+    {
+      "text": "No se identifican lesiones hemorrágicas intraparenquimatosas ni vasculares asociadas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1838,
+      "end": 1922
+    },
+    {
+      "text": "sin datos radiológicos de infarto establecido",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1999,
+      "end": 2044
+    },
+    {
+      "text": "TC craneal basal urgente",
+      "type": "TECNICA_IMAGEN",
+      "start": 301,
+      "end": 325
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 406,
+      "end": 427
+    },
+    {
+      "text": "angiografía por angioTC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 430,
+      "end": 475
+    }
+  ]
+}

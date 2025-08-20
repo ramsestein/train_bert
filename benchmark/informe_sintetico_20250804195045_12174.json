@@ -1,0 +1,83 @@
+{
+  "document_id": "informe_sintetico_20250804195045_12174",
+  "entities": [
+    {
+      "text": "infarto cerebral",
+      "type": "PATOLOGIA",
+      "start": 601,
+      "end": 617
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 244,
+      "end": 274
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 244,
+      "end": 274
+    },
+    {
+      "text": "M1",
+      "type": "ARTERIA",
+      "start": 1359,
+      "end": 1361
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 267,
+      "end": 274
+    },
+    {
+      "text": "menor de 10 mm",
+      "type": "MEDIDA",
+      "start": 703,
+      "end": 717
+    },
+    {
+      "text": "subaguda",
+      "type": "TEMPORALIDAD",
+      "start": 1200,
+      "end": 1208
+    },
+    {
+      "text": "HI1",
+      "type": "PUNTUACION_CLINICA",
+      "start": 795,
+      "end": 798
+    },
+    {
+      "text": "TC craneal sin contraste",
+      "type": "TECNICA_IMAGEN",
+      "start": 345,
+      "end": 369
+    },
+    {
+      "text": "No se evidencian otras hemorragias ni hematomas ni sangrado extraaxial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 800,
+      "end": 870
+    },
+    {
+      "text": "No se observan estenosis significativas en las arterias supraaórticas ni intracraneales restantes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1400,
+      "end": 1497
+    },
+    {
+      "text": "sin evidencia de hematoma significativo ni edema cerebral asociado",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1767,
+      "end": 1833
+    },
+    {
+      "text": "sin alteraciones de calibre ni oclusiones",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1523,
+      "end": 1564
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "document_id": "informe_sintetico_20250804195045_08945",
+  "entities": [
+    {
+      "text": "hematoma subdural agudo",
+      "type": "PATOLOGIA",
+      "start": 432,
+      "end": 455
+    },
+    {
+      "text": "hemisferio cerebral izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 459,
+      "end": 488
+    },
+    {
+      "text": "12 mm",
+      "type": "MEDIDA",
+      "start": 639,
+      "end": 644
+    },
+    {
+      "text": "7 mm",
+      "type": "MEDIDA",
+      "start": 742,
+      "end": 746
+    },
+    {
+      "text": "No se evidencian hemorragias intraparenquimatosas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 897,
+      "end": 946
+    },
+    {
+      "text": "No se identifican signos de estenosis ni trombosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1349,
+      "end": 1399
+    },
+    {
+      "text": "No hay evidencia de disrupción vascular relacionada con el hematoma",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1550,
+      "end": 1617
+    },
+    {
+      "text": "compromiso hemodinámico",
+      "type": "PATOLOGIA",
+      "start": 1144,
+      "end": 1167
+    },
+    {
+      "text": "TC craneal basal urgente",
+      "type": "TECNICA_IMAGEN",
+      "start": 280,
+      "end": 304
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 316,
+      "end": 337
+    },
+    {
+      "text": "angiografía por TC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 340,
+      "end": 380
+    },
+    {
+      "text": "sin evidencia de isquemia cerebral extensa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2264,
+      "end": 2306
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "document_id": "informe_sintetico_20250804195045_24261",
+  "entities": [
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 1595,
+      "end": 1609
+    },
+    {
+      "text": "territorio de ACA derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1172,
+      "end": 1197
+    },
+    {
+      "text": "penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1150,
+      "end": 1168
+    },
+    {
+      "text": "oclusión parcial",
+      "type": "PATOLOGIA",
+      "start": 2169,
+      "end": 2185
+    },
+    {
+      "text": "segmento A2",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1244,
+      "end": 1255
+    },
+    {
+      "text": "ACA derecha",
+      "type": "ARTERIA",
+      "start": 1186,
+      "end": 1197
+    },
+    {
+      "text": "ACM izquierda y derecha",
+      "type": "ARTERIA",
+      "start": 1372,
+      "end": 1395
+    },
+    {
+      "text": "ACPs",
+      "type": "ARTERIA",
+      "start": 1397,
+      "end": 1401
+    },
+    {
+      "text": "Sistema vertebrobasilar",
+      "type": "ARTERIA",
+      "start": 1459,
+      "end": 1482
+    },
+    {
+      "text": "No se identifican hemorragias intra ni extraaxiales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 456,
+      "end": 507
+    },
+    {
+      "text": "No se evidencian malformaciones vasculares ni aneurismas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1494,
+      "end": 1550
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 586,
+      "end": 596
+    },
+    {
+      "text": "TC CÓDIGO ICTUS urgente",
+      "type": "TECNICA_IMAGEN",
+      "start": 289,
+      "end": 312
+    },
+    {
+      "text": "TC de perfusión",
+      "type": "TECNICA_IMAGEN",
+      "start": 1700,
+      "end": 1715
+    },
+    {
+      "text": "angio-TC intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 1779,
+      "end": 1800
+    }
+  ]
+}

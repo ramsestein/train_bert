@@ -1,0 +1,161 @@
+{
+  "document_id": "informe_sintetico_20250804195045_23992",
+  "entities": [
+    {
+      "text": "hiperdensidad",
+      "type": "PATOLOGIA",
+      "start": 493,
+      "end": 506
+    },
+    {
+      "text": "trombo intraluminal",
+      "type": "PATOLOGIA",
+      "start": 591,
+      "end": 610
+    },
+    {
+      "text": "pérdida moderada de la diferenciación cortico-subcortical",
+      "type": "PATOLOGIA",
+      "start": 623,
+      "end": 680
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 778,
+      "end": 792
+    },
+    {
+      "text": "ASPECTS 7/10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 794,
+      "end": 806
+    },
+    {
+      "text": "No signos de hemorragia intracerebral ni extraaxial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 808,
+      "end": 859
+    },
+    {
+      "text": "retraso prolongado del tiempo de tránsito (TTP)",
+      "type": "PATOLOGIA",
+      "start": 1008,
+      "end": 1055
+    },
+    {
+      "text": "aumento del tiempo de retraso (TTD)",
+      "type": "PATOLOGIA",
+      "start": 1058,
+      "end": 1093
+    },
+    {
+      "text": "disminución marcada del volumen sanguíneo cerebral (CBV)",
+      "type": "PATOLOGIA",
+      "start": 1162,
+      "end": 1218
+    },
+    {
+      "text": "flujo sanguíneo cerebral (CBF)",
+      "type": "PATOLOGIA",
+      "start": 1221,
+      "end": 1251
+    },
+    {
+      "text": "penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1276,
+      "end": 1294
+    },
+    {
+      "text": "núcleo isquémico",
+      "type": "PATOLOGIA",
+      "start": 1297,
+      "end": 1313
+    },
+    {
+      "text": "Oclusión completa del segmento proximal M1 de la arteria cerebral media izquierda",
+      "type": "PATOLOGIA",
+      "start": 1351,
+      "end": 1432
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "ARTERIA",
+      "start": 537,
+      "end": 569
+    },
+    {
+      "text": "sin estenosis hemodinámicamente significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1505,
+      "end": 1551
+    },
+    {
+      "text": "sin hallazgos de ateromatosis severa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1574,
+      "end": 1610
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 778,
+      "end": 792
+    },
+    {
+      "text": "oclusión proximal de segmento M1",
+      "type": "PATOLOGIA",
+      "start": 1769,
+      "end": 1801
+    },
+    {
+      "text": "ASPECTS 7",
+      "type": "PUNTUACION_CLINICA",
+      "start": 794,
+      "end": 803
+    },
+    {
+      "text": "trombo hiperdenso",
+      "type": "PATOLOGIA",
+      "start": 1832,
+      "end": 1849
+    },
+    {
+      "text": "núcleo isquémico",
+      "type": "PATOLOGIA",
+      "start": 1297,
+      "end": 1313
+    },
+    {
+      "text": "zona de penumbra",
+      "type": "PATOLOGIA",
+      "start": 1901,
+      "end": 1917
+    },
+    {
+      "text": "No evidencia hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1919,
+      "end": 1955
+    },
+    {
+      "text": "Oclusión proximal de arteria cerebral media izquierda (M1)",
+      "type": "PATOLOGIA",
+      "start": 2117,
+      "end": 2175
+    },
+    {
+      "text": "infarto isquémico agudo",
+      "type": "PATOLOGIA",
+      "start": 2180,
+      "end": 2203
+    },
+    {
+      "text": "sin hemorragia asociada",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2205,
+      "end": 2228
+    }
+  ]
+}

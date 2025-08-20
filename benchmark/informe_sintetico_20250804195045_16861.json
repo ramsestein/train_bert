@@ -1,0 +1,89 @@
+{
+  "document_id": "informe_sintetico_20250804195045_16861",
+  "entities": [
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 365,
+      "end": 379
+    },
+    {
+      "text": "tronco encefálico",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 940,
+      "end": 957
+    },
+    {
+      "text": "protuberancia",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 978,
+      "end": 991
+    },
+    {
+      "text": "médula cerebelosa",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 994,
+      "end": 1011
+    },
+    {
+      "text": "arteria basilar",
+      "type": "ARTERIA",
+      "start": 1230,
+      "end": 1245
+    },
+    {
+      "text": "arterias vertebrales",
+      "type": "ARTERIA",
+      "start": 1282,
+      "end": 1302
+    },
+    {
+      "text": "izquierdas",
+      "type": "LATERALIDAD",
+      "start": 1325,
+      "end": 1335
+    },
+    {
+      "text": "derechas",
+      "type": "LATERALIDAD",
+      "start": 1338,
+      "end": 1346
+    },
+    {
+      "text": "ateromatosis leve",
+      "type": "PATOLOGIA",
+      "start": 1351,
+      "end": 1368
+    },
+    {
+      "text": "área de penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1654,
+      "end": 1680
+    },
+    {
+      "text": "sin desplazamientos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 763,
+      "end": 782
+    },
+    {
+      "text": "Cisternas basales libres",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 784,
+      "end": 808
+    },
+    {
+      "text": "aumento del tiempo de tránsito (TTP)",
+      "type": "PATOLOGIA",
+      "start": 838,
+      "end": 874
+    },
+    {
+      "text": "reducción del flujo cerebral sanguíneo (CBF)",
+      "type": "PATOLOGIA",
+      "start": 877,
+      "end": 921
+    }
+  ]
+}

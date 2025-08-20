@@ -1,0 +1,77 @@
+{
+  "document_id": "informe_sintetico_20250804195045_12062",
+  "entities": [
+    {
+      "text": "isquemia aguda reciente",
+      "type": "PATOLOGIA",
+      "start": 718,
+      "end": 741
+    },
+    {
+      "text": "ACM",
+      "type": "ARTERIA",
+      "start": 566,
+      "end": 569
+    },
+    {
+      "text": "izquierdo",
+      "type": "LATERALIDAD",
+      "start": 526,
+      "end": 535
+    },
+    {
+      "text": "ASPECTS",
+      "type": "PUNTUACION_CLINICA",
+      "start": 743,
+      "end": 750
+    },
+    {
+      "text": "6",
+      "type": "MEDIDA",
+      "start": 764,
+      "end": 765
+    },
+    {
+      "text": "Oclusión completa",
+      "type": "PATOLOGIA",
+      "start": 1231,
+      "end": 1248
+    },
+    {
+      "text": "M1",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 523,
+      "end": 525
+    },
+    {
+      "text": "izquierdo",
+      "type": "LATERALIDAD",
+      "start": 526,
+      "end": 535
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 718,
+      "end": 732
+    },
+    {
+      "text": "ACM proximal izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1919,
+      "end": 1941
+    },
+    {
+      "text": "No se identifican hemorragias",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 767,
+      "end": 796
+    },
+    {
+      "text": "No se observa hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1792,
+      "end": 1829
+    }
+  ]
+}

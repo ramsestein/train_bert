@@ -1,0 +1,125 @@
+{
+  "document_id": "0000000010000000059933110_cleaned",
+  "entities": [
+    {
+      "text": "hemorragia aguda",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 309,
+      "end": 325
+    },
+    {
+      "text": "hemorragia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 309,
+      "end": 319
+    },
+    {
+      "text": "ASPECTS 10/10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 416,
+      "end": 429
+    },
+    {
+      "text": "Pérdida de volumen encefálico",
+      "type": "PATOLOGIA",
+      "start": 431,
+      "end": 460
+    },
+    {
+      "text": "cambios involutivos",
+      "type": "PATOLOGIA",
+      "start": 530,
+      "end": 549
+    },
+    {
+      "text": "patología de pequeño vaso grado moderado",
+      "type": "PATOLOGIA",
+      "start": 686,
+      "end": 726
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 911,
+      "end": 920
+    },
+    {
+      "text": "Tmax",
+      "type": "MEDIDA",
+      "start": 849,
+      "end": 853
+    },
+    {
+      "text": "TTD",
+      "type": "MEDIDA",
+      "start": 855,
+      "end": 858
+    },
+    {
+      "text": "TTP",
+      "type": "MEDIDA",
+      "start": 860,
+      "end": 863
+    },
+    {
+      "text": "50%",
+      "type": "MEDIDA",
+      "start": 1303,
+      "end": 1306
+    },
+    {
+      "text": "ACI izquierda",
+      "type": "ARTERIA",
+      "start": 1310,
+      "end": 1323
+    },
+    {
+      "text": "ACAs, ACMs y ACPs",
+      "type": "ARTERIA",
+      "start": 1462,
+      "end": 1479
+    },
+    {
+      "text": "Sistema vertebrobasilar",
+      "type": "ARTERIA",
+      "start": 1517,
+      "end": 1540
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 911,
+      "end": 920
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 416,
+      "end": 426
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1666,
+      "end": 1689
+    },
+    {
+      "text": "Ateromatosis mixta",
+      "type": "PATOLOGIA",
+      "start": 1875,
+      "end": 1893
+    },
+    {
+      "text": "50%",
+      "type": "MEDIDA",
+      "start": 1303,
+      "end": 1306
+    },
+    {
+      "text": "signos de estenosis significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1982,
+      "end": 2015
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+UO_PACN (Unidad Organizativa Médica): RADIO
+
+PRUEB (Prueba solicitada): TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANG IOTC ARTERIAL INTRACRANEAL)
+
+CLIN (Resumen clínico): Cefalea intensa súbita con episodios de hipertensión arterial y alteración visual transitoria.
+
+OBSR (Protocolo): TC craneal basal sin contraste, estudio de perfusión cerebral y angio TC arterial intracraneal urgente.
+
+RESL (Resultados):  
+TC CRANEAL BASAL:  
+Se identifica una hipodensidad simétrica y bilateral en la sustancia blanca subcortical de regiones parieto-occipitales, compatible con edema vasogénico. No se evidencia hemorragia ni signos de infarto agudo. Diferenciación cortical y subcortical algo atenuada en dichas zonas. La línea media se encuentra en posición centrada. El sistema ventricular presenta tamaño y configuración normales. Cisternas basales libres. Ausencia de lesiones focales o masas.  
+
+TC PERFUSIÓN:  
+Mapas de flujo cerebral conservados, sin áreas de disminución marcada del flujo cerebral ni alteraciones significativas en el volumen cerebral. Tiempo de tránsito algo prolongado en las áreas parieto-occipitales coincidentes con la hipodensidad observada, sugiriendo edema reversible.
+
+ANGIO-TC INTRACRANEAL:  
+No se evidencian estenosis, oclusiones ni malformaciones vasculares en las arterias intracraneales principales. Circulación anterior y posterior permeable y sin alteraciones morfológicas.  
+
+CONCL (Conclusiones):  
+Hallazgos compatibles con leucoencefalopatía posterior reversible (PRES) en contexto clínico de hipertensión arterial y alteración visual. No se observan complicaciones hemorrágicas ni infarto cerebral agudo. Circulación intracraneal conservada, sin estenosis ni trombosis arterial. Se recomienda correlación clínica y seguimiento con imagen para evaluar reversibilidad de las lesiones.  
+
+ACTI_ADICI (Actividad adicional):  
+
+ICON (Estudio): @RADIO_TC@
+
+X00DIATXT (Texto del diagnóstico ACR): Leukoencephalopathy, posterior reversible (PRES); bilateral parieto-occipital vasogenic edema without infarction or hemorrhage. No vascular occlusion or stenosis detected.  
+
+EST_T_DES (Descripción): TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANGIOTC ARTERIAL INTRACRANEAL)
+
+ZVASOS_D (Der.): Normal intracranial arteries without stenosis or occlusion.

@@ -1,0 +1,25 @@
+UO_PACN (Unidad Organizativa Médica): RADIO
+
+PRUEB (Prueba solicitada): TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANG IOTC ARTERIAL INTRACRANEAL)
+
+CLIN (Resumen clínico): Paciente masculino de 45 años con parada cardiorrespiratoria recuperada, estado de obnubilación y signos neurológicos sugestivos de daño cerebral global. Se solicita estudio para valorar posible encefalopatía hipóxico-isquémica.
+
+OBSR (Protocolo): TC craneal basal sin contraste + TC perfusión cerebral + Angio-TC arterial intracraneal urgente.
+
+RESL (Resultados): En la TC craneal basal se observa disminución difusa de la diferenciación córtico-subcortical, con pérdida marcada de la distinción entre sustancia gris y blanca, compatible con edema cerebral global. No se identifican hemorragias intra o extraaxiales. Los surcos corticales aparecen efacementados y las cisternas basales están cerradas. Escasa o nula visualización del sistema ventricular, sugestivo de aumento de la presión intracraneal por edema difuso.
+
+En el estudio de perfusión cerebral se aprecia disminución generalizada del flujo cerebral sanguíneo (CBF) y del volumen cerebral sanguíneo (CBV), con prolongación significativa del tiempo medio de tránsito (MTT) y tiempo de llegada al pico (TTP), afectando de forma global la corteza cerebral y la sustancia blanca subyacente. Patrón compatible con encefalopatía hipóxico-isquémica severa.
+
+Angio-TC arterial intracraneal revela permeabilidad conservada en los principales territorios arteriales (ACAs, ACMs y ACPs), sin signos de estenosis ni trombosis aguda. No se identifican signos de vasoespasmo ni malformaciones vascularizadas.
+
+CONCL (Conclusiones): TC craneal y estudio multimodal compatibles con encefalopatía hipóxico-isquémica global secundaria a parada cardiorrespiratoria. Edema cerebral difuso con pérdida de diferenciación córtico-subcortical y compromiso hemodinámico cerebral generalizado sin evidencia de trombosis arterial. No hemorragias asociadas.
+
+ACTI_ADICI (Actividad adicional): Se recomienda valoración neurológica estrecha y posible monitorización intracraneal; estudio secuencial para seguimiento de la evolución del edema cerebral.
+
+ICON (Estudio): @RADIO_TC_HIPX_ISQ@
+
+X00DIATXT (Texto del diagnóstico ACR): Encefalopatía hipóxico-isquémica: edema cerebral global y alteración perfusional compatible con daño hipóxico-isquémico difuso.
+
+EST_T_DES (Descripción): TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANGIOTC ARTERIAL INTRACRANEAL)
+
+ZVASOS_D (Der.): Perméables principales vasos intracraneales sin estenosis ni trombosis; sin vasoespasmo.

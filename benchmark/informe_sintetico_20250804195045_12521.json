@@ -1,0 +1,71 @@
+{
+  "document_id": "informe_sintetico_20250804195045_12521",
+  "entities": [
+    {
+      "text": "infarto",
+      "type": "PATOLOGIA",
+      "start": 258,
+      "end": 265
+    },
+    {
+      "text": "bilateral",
+      "type": "LATERALIDAD",
+      "start": 199,
+      "end": 208
+    },
+    {
+      "text": "hipodensidad cortical y subcortical bilaterales",
+      "type": "PATOLOGIA",
+      "start": 619,
+      "end": 666
+    },
+    {
+      "text": "infartos tipo watershed (zonas de frontera)",
+      "type": "PATOLOGIA",
+      "start": 814,
+      "end": 857
+    },
+    {
+      "text": "aumento del tiempo de tránsito cerebral (TTP)",
+      "type": "PATOLOGIA",
+      "start": 1022,
+      "end": 1067
+    },
+    {
+      "text": "reducción del flujo sanguíneo cerebral (CBF)",
+      "type": "PATOLOGIA",
+      "start": 1070,
+      "end": 1114
+    },
+    {
+      "text": "volumen cerebral (CBV) relativamente conservado",
+      "type": "PATOLOGIA",
+      "start": 1199,
+      "end": 1246
+    },
+    {
+      "text": "sin signos de oclusión o estenosis significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1416,
+      "end": 1465
+    },
+    {
+      "text": "sin alteraciones angiográficas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1552,
+      "end": 1582
+    },
+    {
+      "text": "infartos en zonas de frontera (watershed) bilaterales",
+      "type": "PATOLOGIA",
+      "start": 1658,
+      "end": 1711
+    },
+    {
+      "text": "sin evidencia de necrosis extensa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1861,
+      "end": 1894
+    }
+  ]
+}

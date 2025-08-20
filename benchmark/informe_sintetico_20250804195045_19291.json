@@ -1,0 +1,77 @@
+{
+  "document_id": "informe_sintetico_20250804195045_19291",
+  "entities": [
+    {
+      "text": "hemorragia subaracnoidea",
+      "type": "PATOLOGIA",
+      "start": 272,
+      "end": 296
+    },
+    {
+      "text": "hemorragia subaracnoidea difusa",
+      "type": "PATOLOGIA",
+      "start": 765,
+      "end": 796
+    },
+    {
+      "text": "isquemia",
+      "type": "PATOLOGIA",
+      "start": 454,
+      "end": 462
+    },
+    {
+      "text": "arteria carótida interna",
+      "type": "ARTERIA",
+      "start": 1507,
+      "end": 1531
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 1532,
+      "end": 1539
+    },
+    {
+      "text": "6 mm",
+      "type": "MEDIDA",
+      "start": 1456,
+      "end": 1460
+    },
+    {
+      "text": "hemorragia subaracnoidea difusa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 765,
+      "end": 796
+    },
+    {
+      "text": "sin signos de hidrocefalia obstructiva",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1049,
+      "end": 1087
+    },
+    {
+      "text": "hemorragia aguda",
+      "type": "TEMPORALIDAD",
+      "start": 375,
+      "end": 391
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 317,
+      "end": 333
+    },
+    {
+      "text": "TC PERFUSIÓN",
+      "type": "TECNICA_IMAGEN",
+      "start": 1090,
+      "end": 1102
+    },
+    {
+      "text": "Angio-TC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 476,
+      "end": 506
+    }
+  ]
+}

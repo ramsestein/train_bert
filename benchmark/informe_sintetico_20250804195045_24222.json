@@ -1,0 +1,71 @@
+{
+  "document_id": "informe_sintetico_20250804195045_24222",
+  "entities": [
+    {
+      "text": "infarto lacunar agudo",
+      "type": "PATOLOGIA",
+      "start": 230,
+      "end": 251
+    },
+    {
+      "text": "cápsula interna izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 570,
+      "end": 595
+    },
+    {
+      "text": "8 mm",
+      "type": "MEDIDA",
+      "start": 524,
+      "end": 528
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 586,
+      "end": 595
+    },
+    {
+      "text": "hemorragia intra o extraaxial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 670,
+      "end": 699
+    },
+    {
+      "text": "isquémica",
+      "type": "PATOLOGIA",
+      "start": 1171,
+      "end": 1180
+    },
+    {
+      "text": "arterias perforantes",
+      "type": "ARTERIA",
+      "start": 1198,
+      "end": 1218
+    },
+    {
+      "text": "ACM, ACA, ACP",
+      "type": "ARTERIA",
+      "start": 1463,
+      "end": 1476
+    },
+    {
+      "text": "sin signos de oclusión",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1505,
+      "end": 1527
+    },
+    {
+      "text": "sin estenosis significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1363,
+      "end": 1390
+    },
+    {
+      "text": "sin defectos de repleción ni trombosis evidentes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1576,
+      "end": 1624
+    }
+  ]
+}

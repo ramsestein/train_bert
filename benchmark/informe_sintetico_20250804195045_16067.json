@@ -1,0 +1,71 @@
+{
+  "document_id": "informe_sintetico_20250804195045_16067",
+  "entities": [
+    {
+      "text": "infartos isquémicos agudos",
+      "type": "PATOLOGIA",
+      "start": 544,
+      "end": 570
+    },
+    {
+      "text": "región frontal izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 627,
+      "end": 651
+    },
+    {
+      "text": "temporal derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 653,
+      "end": 669
+    },
+    {
+      "text": "parietal bilateral",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 672,
+      "end": 690
+    },
+    {
+      "text": "isquemia",
+      "type": "PATOLOGIA",
+      "start": 1254,
+      "end": 1262
+    },
+    {
+      "text": "arteria cerebral media M2 derecha",
+      "type": "ARTERIA",
+      "start": 1515,
+      "end": 1548
+    },
+    {
+      "text": "arteria cerebral anterior izquierda",
+      "type": "ARTERIA",
+      "start": 1583,
+      "end": 1618
+    },
+    {
+      "text": "bilaterales",
+      "type": "LATERALIDAD",
+      "start": 1939,
+      "end": 1950
+    },
+    {
+      "text": "agudo",
+      "type": "TEMPORALIDAD",
+      "start": 564,
+      "end": 569
+    },
+    {
+      "text": "No se observan signos de hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 789,
+      "end": 837
+    },
+    {
+      "text": "No se evidencian complicaciones hemorrágicas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2091,
+      "end": 2135
+    }
+  ]
+}

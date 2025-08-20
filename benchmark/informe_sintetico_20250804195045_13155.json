@@ -1,0 +1,65 @@
+{
+  "document_id": "informe_sintetico_20250804195045_13155",
+  "entities": [
+    {
+      "text": "infarto cerebral agudo",
+      "type": "PATOLOGIA",
+      "start": 648,
+      "end": 670
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 509,
+      "end": 541
+    },
+    {
+      "text": "arteria carótida interna izquierda",
+      "type": "ARTERIA",
+      "start": 1322,
+      "end": 1356
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 267,
+      "end": 276
+    },
+    {
+      "text": "ASPECTS 6",
+      "type": "PUNTUACION_CLINICA",
+      "start": 941,
+      "end": 950
+    },
+    {
+      "text": "agudo",
+      "type": "TEMPORALIDAD",
+      "start": 199,
+      "end": 204
+    },
+    {
+      "text": "No se objetiva sangrado intracraneal ni hemorragia parenquimatosa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 783,
+      "end": 848
+    },
+    {
+      "text": "TC craneal basal sin contraste",
+      "type": "TECNICA_IMAGEN",
+      "start": 296,
+      "end": 326
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 328,
+      "end": 349
+    },
+    {
+      "text": "angio-TC de troncos supraaórticos e intracraneales",
+      "type": "TECNICA_IMAGEN",
+      "start": 352,
+      "end": 402
+    }
+  ]
+}

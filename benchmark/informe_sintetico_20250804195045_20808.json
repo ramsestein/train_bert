@@ -1,0 +1,89 @@
+{
+  "document_id": "informe_sintetico_20250804195045_20808",
+  "entities": [
+    {
+      "text": "hemorragia aguda",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 424,
+      "end": 440
+    },
+    {
+      "text": "infartos recientes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 703,
+      "end": 721
+    },
+    {
+      "text": "patología aguda",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1322,
+      "end": 1337
+    },
+    {
+      "text": "isquemia cerebral",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1341,
+      "end": 1358
+    },
+    {
+      "text": "cambios crónicos",
+      "type": "PATOLOGIA",
+      "start": 641,
+      "end": 657
+    },
+    {
+      "text": "enfermedad vascular pequeña de edad avanzada",
+      "type": "PATOLOGIA",
+      "start": 1399,
+      "end": 1443
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 551,
+      "end": 561
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 551,
+      "end": 561
+    },
+    {
+      "text": "TC Craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 226,
+      "end": 242
+    },
+    {
+      "text": "perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 268,
+      "end": 286
+    },
+    {
+      "text": "AngioTC intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 289,
+      "end": 309
+    },
+    {
+      "text": "permeables",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1094,
+      "end": 1104
+    },
+    {
+      "text": "sin estenosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1107,
+      "end": 1120
+    },
+    {
+      "text": "sin alteraciones",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 823,
+      "end": 839
+    }
+  ]
+}

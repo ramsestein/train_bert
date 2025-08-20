@@ -1,0 +1,83 @@
+{
+  "document_id": "informe_sintetico_20250804195045_13590",
+  "entities": [
+    {
+      "text": "transformación hemorrágica",
+      "type": "PATOLOGIA",
+      "start": 379,
+      "end": 405
+    },
+    {
+      "text": "infarto",
+      "type": "PATOLOGIA",
+      "start": 818,
+      "end": 825
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 658,
+      "end": 690
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 681,
+      "end": 690
+    },
+    {
+      "text": "30%",
+      "type": "MEDIDA",
+      "start": 798,
+      "end": 801
+    },
+    {
+      "text": "PH2",
+      "type": "PUNTUACION_CLINICA",
+      "start": 764,
+      "end": 767
+    },
+    {
+      "text": "TC craneal basal sin contraste",
+      "type": "TECNICA_IMAGEN",
+      "start": 426,
+      "end": 456
+    },
+    {
+      "text": "No existen hemorragias subaracnoideas ni intraventriculares asociadas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1037,
+      "end": 1106
+    },
+    {
+      "text": "Oclusión completa de la arteria cerebral media izquierda en su segmento M1",
+      "type": "PATOLOGIA",
+      "start": 1489,
+      "end": 1563
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 658,
+      "end": 690
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 681,
+      "end": 690
+    },
+    {
+      "text": "M1",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1561,
+      "end": 1563
+    },
+    {
+      "text": "No hay hemorragia intraventricular ni subaracnoidea asociada",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1927,
+      "end": 1987
+    }
+  ]
+}

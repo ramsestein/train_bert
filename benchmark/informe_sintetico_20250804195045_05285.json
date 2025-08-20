@@ -1,0 +1,125 @@
+{
+  "document_id": "informe_sintetico_20250804195045_05285",
+  "entities": [
+    {
+      "text": "infarto cerebral subagudo",
+      "type": "PATOLOGIA",
+      "start": 590,
+      "end": 615
+    },
+    {
+      "text": "transformación hemorrágica tipo PH1",
+      "type": "PATOLOGIA",
+      "start": 704,
+      "end": 739
+    },
+    {
+      "text": "hemorragia petequial",
+      "type": "PATOLOGIA",
+      "start": 741,
+      "end": 761
+    },
+    {
+      "text": "núcleo lenticular izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 547,
+      "end": 574
+    },
+    {
+      "text": "territorio lenticulostriado izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1165,
+      "end": 1202
+    },
+    {
+      "text": "disminución de calibre en rama lenticulostriada izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1588,
+      "end": 1645
+    },
+    {
+      "text": "ACAs, ACMs y ACPs",
+      "type": "ARTERIA",
+      "start": 1552,
+      "end": 1569
+    },
+    {
+      "text": "izquierdo",
+      "type": "LATERALIDAD",
+      "start": 565,
+      "end": 574
+    },
+    {
+      "text": "izquierdo",
+      "type": "LATERALIDAD",
+      "start": 565,
+      "end": 574
+    },
+    {
+      "text": "izquierdo",
+      "type": "LATERALIDAD",
+      "start": 565,
+      "end": 574
+    },
+    {
+      "text": "sin estenosis hemodinámicamente significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1448,
+      "end": 1494
+    },
+    {
+      "text": "No se observan colecciones intracraneales mayores ni hematomas espontáneos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 764,
+      "end": 838
+    },
+    {
+      "text": "No hay evidencia de hipoperfusión en otras regiones ni mismach significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1278,
+      "end": 1354
+    },
+    {
+      "text": "No se identifican hematomas expansivos ni sangrado extraaxial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1912,
+      "end": 1973
+    },
+    {
+      "text": "sin estenosis significativas ni oclusiones mayores",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1988,
+      "end": 2038
+    },
+    {
+      "text": "infarto en evolución",
+      "type": "TEMPORALIDAD",
+      "start": 1256,
+      "end": 1276
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 345,
+      "end": 361
+    },
+    {
+      "text": "angiografía TC intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 415,
+      "end": 442
+    },
+    {
+      "text": "TC PERFUSIÓN",
+      "type": "TECNICA_IMAGEN",
+      "start": 1056,
+      "end": 1068
+    },
+    {
+      "text": "Angio-TC",
+      "type": "TECNICA_IMAGEN",
+      "start": 1979,
+      "end": 1987
+    }
+  ]
+}

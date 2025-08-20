@@ -1,0 +1,59 @@
+{
+  "document_id": "informe_sintetico_20250804195045_07328",
+  "entities": [
+    {
+      "text": "hematoma subdural agudo",
+      "type": "PATOLOGIA",
+      "start": 310,
+      "end": 333
+    },
+    {
+      "text": "hemisferio izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 546,
+      "end": 566
+    },
+    {
+      "text": "región frontoparietal",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 582,
+      "end": 603
+    },
+    {
+      "text": "12 mm",
+      "type": "MEDIDA",
+      "start": 645,
+      "end": 650
+    },
+    {
+      "text": "7 mm",
+      "type": "MEDIDA",
+      "start": 832,
+      "end": 836
+    },
+    {
+      "text": "agudo",
+      "type": "TEMPORALIDAD",
+      "start": 328,
+      "end": 333
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 354,
+      "end": 370
+    },
+    {
+      "text": "sin signos de compromiso isquémico focal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2309,
+      "end": 2349
+    },
+    {
+      "text": "sin evidencia de estenosis ni oclusión",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1416,
+      "end": 1454
+    }
+  ]
+}

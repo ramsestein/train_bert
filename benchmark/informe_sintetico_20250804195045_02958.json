@@ -1,0 +1,125 @@
+{
+  "document_id": "informe_sintetico_20250804195045_02958",
+  "entities": [
+    {
+      "text": "hemorragias intra ni extraaxiales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 513,
+      "end": 546
+    },
+    {
+      "text": "infartos isquémicos agudos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 585,
+      "end": 611
+    },
+    {
+      "text": "edema focal",
+      "type": "PATOLOGIA",
+      "start": 629,
+      "end": 640
+    },
+    {
+      "text": "región parietal izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 644,
+      "end": 669
+    },
+    {
+      "text": "tiempo de tránsito medio (TTP)",
+      "type": "MEDIDA",
+      "start": 823,
+      "end": 853
+    },
+    {
+      "text": "tiempo de retraso (TTD)",
+      "type": "MEDIDA",
+      "start": 856,
+      "end": 879
+    },
+    {
+      "text": "volumen sanguíneo cerebral (CBV)",
+      "type": "MEDIDA",
+      "start": 957,
+      "end": 989
+    },
+    {
+      "text": "flujo cerebral (CBF)",
+      "type": "MEDIDA",
+      "start": 1017,
+      "end": 1037
+    },
+    {
+      "text": "congestión venosa",
+      "type": "PATOLOGIA",
+      "start": 1086,
+      "end": 1103
+    },
+    {
+      "text": "ausencia de opacificación del seno venoso longitudinal superior",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1154,
+      "end": 1217
+    },
+    {
+      "text": "seno transverso izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1224,
+      "end": 1249
+    },
+    {
+      "text": "trombosis venosa cerebral",
+      "type": "PATOLOGIA",
+      "start": 254,
+      "end": 279
+    },
+    {
+      "text": "seno longitudinal superior",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 2040,
+      "end": 2066
+    },
+    {
+      "text": "seno transverso izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1224,
+      "end": 1249
+    },
+    {
+      "text": "hemorragia asociada",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2094,
+      "end": 2113
+    },
+    {
+      "text": "congestión venosa en territorio parietal izquierdo",
+      "type": "PATOLOGIA",
+      "start": 1704,
+      "end": 1754
+    },
+    {
+      "text": "TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANG IOTC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 72,
+      "end": 140
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 341,
+      "end": 357
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 359,
+      "end": 380
+    },
+    {
+      "text": "AngioTC extra e intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 383,
+      "end": 411
+    }
+  ]
+}

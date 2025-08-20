@@ -1,0 +1,53 @@
+{
+  "document_id": "informe_sintetico_20250804195045_12741",
+  "entities": [
+    {
+      "text": "infarto lacunar agudo",
+      "type": "PATOLOGIA",
+      "start": 258,
+      "end": 279
+    },
+    {
+      "text": "7 mm",
+      "type": "MEDIDA",
+      "start": 620,
+      "end": 624
+    },
+    {
+      "text": "núcleo lenticular izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 631,
+      "end": 658
+    },
+    {
+      "text": "izquierdo",
+      "type": "LATERALIDAD",
+      "start": 649,
+      "end": 658
+    },
+    {
+      "text": "núcleo lenticular izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 631,
+      "end": 658
+    },
+    {
+      "text": "sin signos de oclusión notable",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1414,
+      "end": 1444
+    },
+    {
+      "text": "sin evidencia de trombo o estenosis significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1820,
+      "end": 1869
+    },
+    {
+      "text": "No se evidencian hemorragias intra ni extraaxiales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 510,
+      "end": 560
+    }
+  ]
+}

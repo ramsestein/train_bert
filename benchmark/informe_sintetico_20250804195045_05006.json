@@ -1,0 +1,131 @@
+{
+  "document_id": "informe_sintetico_20250804195045_05006",
+  "entities": [
+    {
+      "text": "trombo",
+      "type": "PATOLOGIA",
+      "start": 539,
+      "end": 545
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 699,
+      "end": 713
+    },
+    {
+      "text": "ASPECTS",
+      "type": "PUNTUACION_CLINICA",
+      "start": 715,
+      "end": 722
+    },
+    {
+      "text": "hemorragia intraparenquimatosa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 752,
+      "end": 782
+    },
+    {
+      "text": "signos de sangrado subaracnoideo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 786,
+      "end": 818
+    },
+    {
+      "text": "arteria cerebral media derecha (M1)",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 454,
+      "end": 489
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 699,
+      "end": 713
+    },
+    {
+      "text": "ASPECTS 7",
+      "type": "PUNTUACION_CLINICA",
+      "start": 1670,
+      "end": 1679
+    },
+    {
+      "text": "arteria hiperdensa en segmento proximal M1 derecho",
+      "type": "PATOLOGIA",
+      "start": 1698,
+      "end": 1748
+    },
+    {
+      "text": "penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 959,
+      "end": 977
+    },
+    {
+      "text": "oclusión proximal de ACM derecha",
+      "type": "PATOLOGIA",
+      "start": 1892,
+      "end": 1924
+    },
+    {
+      "text": "sin estenosis significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1369,
+      "end": 1396
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1998,
+      "end": 2021
+    },
+    {
+      "text": "territorio de la ACM derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 981,
+      "end": 1009
+    },
+    {
+      "text": "segmento proximal M1 derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1270,
+      "end": 1298
+    },
+    {
+      "text": "arteria cerebral media",
+      "type": "ARTERIA",
+      "start": 454,
+      "end": 476
+    },
+    {
+      "text": "ACM",
+      "type": "ARTERIA",
+      "start": 998,
+      "end": 1001
+    },
+    {
+      "text": "ACM derecha",
+      "type": "ARTERIA",
+      "start": 998,
+      "end": 1009
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 300,
+      "end": 316
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 343,
+      "end": 364
+    },
+    {
+      "text": "AngioTC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 367,
+      "end": 396
+    }
+  ]
+}

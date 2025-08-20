@@ -1,0 +1,59 @@
+{
+  "document_id": "informe_sintetico_20250804195045_02124",
+  "entities": [
+    {
+      "text": "infarto cerebral",
+      "type": "PATOLOGIA",
+      "start": 257,
+      "end": 273
+    },
+    {
+      "text": "hemiparesia derecha",
+      "type": "PATOLOGIA",
+      "start": 189,
+      "end": 208
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "ARTERIA",
+      "start": 573,
+      "end": 605
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 596,
+      "end": 605
+    },
+    {
+      "text": "35 x 30 x 25 mm",
+      "type": "MEDIDA",
+      "start": 753,
+      "end": 768
+    },
+    {
+      "text": "8 mm",
+      "type": "MEDIDA",
+      "start": 1002,
+      "end": 1006
+    },
+    {
+      "text": "PH2",
+      "type": "PUNTUACION_CLINICA",
+      "start": 878,
+      "end": 881
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 318,
+      "end": 334
+    },
+    {
+      "text": "No se observan otras alteraciones vasculares significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2001,
+      "end": 2060
+    }
+  ]
+}

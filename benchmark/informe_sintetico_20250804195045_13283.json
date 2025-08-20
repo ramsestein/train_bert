@@ -1,0 +1,241 @@
+{
+  "document_id": "informe_sintetico_20250804195045_13283",
+  "entities": [
+    {
+      "text": "cefalea intensa súbita",
+      "type": "PATOLOGIA",
+      "start": 191,
+      "end": 213
+    },
+    {
+      "text": "hemorragias agudas intra o extraaxiales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 404,
+      "end": 443
+    },
+    {
+      "text": "parénquima cerebral",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 449,
+      "end": 468
+    },
+    {
+      "text": "diferenciación cortico-subcortical",
+      "type": "PATOLOGIA",
+      "start": 477,
+      "end": 511
+    },
+    {
+      "text": "ASPECTS 10/10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 527,
+      "end": 540
+    },
+    {
+      "text": "áreas hipodensas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 557,
+      "end": 573
+    },
+    {
+      "text": "lesión isquémica aguda",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 588,
+      "end": 610
+    },
+    {
+      "text": "signos leves de microangiopatía crónica periventricular",
+      "type": "PATOLOGIA",
+      "start": 616,
+      "end": 671
+    },
+    {
+      "text": "lesiones lacunares significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 677,
+      "end": 710
+    },
+    {
+      "text": "línea media",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 730,
+      "end": 741
+    },
+    {
+      "text": "tamaño y morfología normales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 776,
+      "end": 804
+    },
+    {
+      "text": "Parámetros de tiempo hasta el pico (TTP)",
+      "type": "MEDIDA",
+      "start": 847,
+      "end": 887
+    },
+    {
+      "text": "volumen sanguíneo cerebral (CBV)",
+      "type": "MEDIDA",
+      "start": 889,
+      "end": 921
+    },
+    {
+      "text": "flujo sanguíneo cerebral (CBF)",
+      "type": "MEDIDA",
+      "start": 924,
+      "end": 954
+    },
+    {
+      "text": "rangos normales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 965,
+      "end": 980
+    },
+    {
+      "text": "discordancia significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 998,
+      "end": 1024
+    },
+    {
+      "text": "Arterias cerebrales principales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1050,
+      "end": 1081
+    },
+    {
+      "text": "ACIs",
+      "type": "ARTERIA",
+      "start": 1083,
+      "end": 1087
+    },
+    {
+      "text": "ACMs",
+      "type": "ARTERIA",
+      "start": 1089,
+      "end": 1093
+    },
+    {
+      "text": "ACAs",
+      "type": "ARTERIA",
+      "start": 1095,
+      "end": 1099
+    },
+    {
+      "text": "ACPs",
+      "type": "ARTERIA",
+      "start": 1101,
+      "end": 1105
+    },
+    {
+      "text": "aneurismas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1204,
+      "end": 1214
+    },
+    {
+      "text": "malformaciones vasculares",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1218,
+      "end": 1243
+    },
+    {
+      "text": "ateromatosis significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1257,
+      "end": 1283
+    },
+    {
+      "text": "patología aguda",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1357,
+      "end": 1372
+    },
+    {
+      "text": "signos de isquemia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1399,
+      "end": 1417
+    },
+    {
+      "text": "hemorragia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 404,
+      "end": 414
+    },
+    {
+      "text": "ASPECTS 10/10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 527,
+      "end": 540
+    },
+    {
+      "text": "permeabilidad arterial conservada",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1523,
+      "end": 1556
+    },
+    {
+      "text": "estenosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1124,
+      "end": 1133
+    },
+    {
+      "text": "aneurismas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1204,
+      "end": 1214
+    },
+    {
+      "text": "TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANG IOTC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 72,
+      "end": 140
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 259,
+      "end": 275
+    },
+    {
+      "text": "TC PERFUSIÓN",
+      "type": "TECNICA_IMAGEN",
+      "start": 833,
+      "end": 845
+    },
+    {
+      "text": "ANGIO-TC INTRACRANEAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 1027,
+      "end": 1048
+    },
+    {
+      "text": "TC cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 1703,
+      "end": 1714
+    },
+    {
+      "text": "infarto agudo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1732,
+      "end": 1745
+    },
+    {
+      "text": "hemorragia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 404,
+      "end": 414
+    },
+    {
+      "text": "vascularización intracraneal permeable",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1761,
+      "end": 1799
+    }
+  ],
+  "regenerado": true,
+  "fecha_regeneracion": "2025-08-06T15:20:24.556496"
+}

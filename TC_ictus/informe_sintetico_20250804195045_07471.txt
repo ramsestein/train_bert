@@ -1,0 +1,28 @@
+UO_PACN (Unidad Organizativa Médica): RADIO
+
+PRUEB (Prueba solicitada): TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANG IOTC ARTERIAL INTRACRANEAL)
+
+CLIN (Resumen clínico): Paciente masculino de 68 años con cuadro súbito de hemiparesia derecha y afasia, sospecha clínica de ictus isquémico. FRCV: hipertensión arterial y diabetes mellitus.
+
+OBSR (Protocolo): TC craneal basal urgente, estudio de perfusión cerebral y angiografía por TC extra e intracraneal.
+
+RESL (Resultados): TC craneal basal:
+Se evidencia extensa área hipodensa en territorio del hemisferio cerebral izquierdo que afecta el parénquima fronto-parietal y parte de la región temporal, con pérdida de la diferenciación cortico-subcortical y discreto edema vasogénico. No se identifican signos de hemorragia intracraneal ni efecto de masa significativo en plano inmediato. Sistemas ventriculares ligeramente desviados hacia la derecha por efecto de masa compatible con infarto extenso.
+
+TC perfusión cerebral:
+Mapa de tiempo máximo (Tmax) prolongado en vasta área temporal, frontal y parietal izquierda con marcado descenso del volumen cerebral sanguíneo (CBV) y flujo cerebral (CBF), mostrando una zona central con disminución severa que corresponde a región de infarto establecido y zona periférica con retraso temporal y caída del flujo compatible con área en penumbra isquémica.
+
+Angio-TC extra e intracraneal:
+Oclusión completa del segmento cervical y petroso proximal de la arteria carótida interna izquierda, con ausencia de reconstitución distal. No se visualizan trombos visibles en segmentos intracraneales proximales. Arterias intracraneales colaterales parcialmente hipoperfundidas. Sistema contralateral permeable sin estenosis. No se observan lesiones ateroscleróticas significativas en el arco aórtico ni en troncos supraórticos.
+
+CONCL (Conclusiones): Infarto cerebral extenso en territorio hemisférico izquierdo secundario a oclusión completa de la arteria carótida interna homolateral. Signos radiológicos de infarto establecido con presencia de área de penumbra en zonas adyacentes. No evidencia de hemorragia intracraneal. Efecto de masa leve con desviación de la línea media.
+
+ACTI_ADICI (Actividad adicional): Se recomienda evaluación neurológica urgente para valoración de posible tratamiento trombolítico o endovascular. Control por neuroimagen en 24-48 horas.
+
+ICON (Estudio): @RADIO_TC_001@
+
+X00DIATXT (Texto del diagnóstico ACR): Infarto cerebral extenso por oclusión carotídea interna izquierda con áreas de penumbra en regiones adyacentes en estudio de perfusión. Ausencia de hemorragia intracraneal.
+
+EST_T_DES (Descripción): TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANGIOTC ARTERIAL INTRACRANEAL)
+
+ZVASOS_D (Der.): Oclusión completa segmento cervical y petroso de arteria carótida interna izquierda, sin reconstitución distal. Arterias intracraneales permeables excepto territorio dependiente de carótida ocluida.

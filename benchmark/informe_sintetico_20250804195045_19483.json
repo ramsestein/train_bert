@@ -1,0 +1,83 @@
+{
+  "document_id": "informe_sintetico_20250804195045_19483",
+  "entities": [
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 628,
+      "end": 642
+    },
+    {
+      "text": "arteria cerebral posterior",
+      "type": "ARTERIA",
+      "start": 237,
+      "end": 263
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 264,
+      "end": 271
+    },
+    {
+      "text": "ASPECTS 8",
+      "type": "PUNTUACION_CLINICA",
+      "start": 705,
+      "end": 714
+    },
+    {
+      "text": "No se identifican hemorragias intra ni extraaxiales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 435,
+      "end": 486
+    },
+    {
+      "text": "No se observan signos de herniación ni edema masivo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 806,
+      "end": 857
+    },
+    {
+      "text": "No se observan aneurismas ni malformaciones vasculares evidentes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1659,
+      "end": 1723
+    },
+    {
+      "text": "arteria cerebral posterior derecha",
+      "type": "ARTERIA",
+      "start": 237,
+      "end": 271
+    },
+    {
+      "text": "zona de penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1244,
+      "end": 1270
+    },
+    {
+      "text": "Ictus isquémico agudo",
+      "type": "PATOLOGIA",
+      "start": 1748,
+      "end": 1769
+    },
+    {
+      "text": "territorio de la ACP derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 2246,
+      "end": 2274
+    },
+    {
+      "text": "oclusión de segmento proximal",
+      "type": "PATOLOGIA",
+      "start": 2279,
+      "end": 2308
+    },
+    {
+      "text": "TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANG IOTC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 72,
+      "end": 140
+    }
+  ]
+}

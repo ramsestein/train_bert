@@ -1,0 +1,131 @@
+{
+  "document_id": "informe_sintetico_20250804195045_11206",
+  "entities": [
+    {
+      "text": "hemorragia subaracnoidea",
+      "type": "PATOLOGIA",
+      "start": 230,
+      "end": 254
+    },
+    {
+      "text": "hiperdensidad lineal",
+      "type": "PATOLOGIA",
+      "start": 530,
+      "end": 550
+    },
+    {
+      "text": "cisternas basales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 558,
+      "end": 575
+    },
+    {
+      "text": "surcos corticales frontales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 577,
+      "end": 604
+    },
+    {
+      "text": "temporales bilaterales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 607,
+      "end": 629
+    },
+    {
+      "text": "convexidad cerebral",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 646,
+      "end": 665
+    },
+    {
+      "text": "hematomas intracerebrales parenquimatosos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 685,
+      "end": 726
+    },
+    {
+      "text": "hemorragias intraventriculares",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 730,
+      "end": 760
+    },
+    {
+      "text": "desplazamiento de la línea media",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 769,
+      "end": 801
+    },
+    {
+      "text": "signos de hipertensión intracraneal aguda",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 805,
+      "end": 846
+    },
+    {
+      "text": "dilatación sacular de 6 mm",
+      "type": "PATOLOGIA",
+      "start": 1222,
+      "end": 1248
+    },
+    {
+      "text": "porción supraclinoidea derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1255,
+      "end": 1285
+    },
+    {
+      "text": "arteria cerebral anterior",
+      "type": "ARTERIA",
+      "start": 1292,
+      "end": 1317
+    },
+    {
+      "text": "aneurisma intracraneal",
+      "type": "PATOLOGIA",
+      "start": 1334,
+      "end": 1356
+    },
+    {
+      "text": "isquemia cerebral",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1838,
+      "end": 1855
+    },
+    {
+      "text": "hematomas parenquimatosos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1859,
+      "end": 1884
+    },
+    {
+      "text": "monitorización neurológica estricta",
+      "type": "PATOLOGIA",
+      "start": 2043,
+      "end": 2078
+    },
+    {
+      "text": "angiografía cerebral digital",
+      "type": "PATOLOGIA",
+      "start": 2089,
+      "end": 2117
+    },
+    {
+      "text": "TC CRANEAL BASAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 451,
+      "end": 467
+    },
+    {
+      "text": "TC PERFUSIÓN",
+      "type": "TECNICA_IMAGEN",
+      "start": 937,
+      "end": 949
+    },
+    {
+      "text": "ANGIO-TC EXTRA E INTRACRANEAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 1180,
+      "end": 1209
+    }
+  ]
+}

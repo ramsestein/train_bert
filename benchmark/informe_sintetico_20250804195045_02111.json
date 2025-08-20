@@ -1,0 +1,131 @@
+{
+  "document_id": "informe_sintetico_20250804195045_02111",
+  "entities": [
+    {
+      "text": "isquémico",
+      "type": "PATOLOGIA",
+      "start": 371,
+      "end": 380
+    },
+    {
+      "text": "aguda",
+      "type": "TEMPORALIDAD",
+      "start": 778,
+      "end": 783
+    },
+    {
+      "text": "crónica",
+      "type": "TEMPORALIDAD",
+      "start": 184,
+      "end": 191
+    },
+    {
+      "text": "hipodensos",
+      "type": "PATOLOGIA",
+      "start": 732,
+      "end": 742
+    },
+    {
+      "text": "hiperdensos",
+      "type": "PATOLOGIA",
+      "start": 746,
+      "end": 757
+    },
+    {
+      "text": "edema",
+      "type": "PATOLOGIA",
+      "start": 836,
+      "end": 841
+    },
+    {
+      "text": "hemorragia",
+      "type": "PATOLOGIA",
+      "start": 843,
+      "end": 853
+    },
+    {
+      "text": "espacios ocupantes de lugar",
+      "type": "PATOLOGIA",
+      "start": 857,
+      "end": 884
+    },
+    {
+      "text": "hipoperfusión",
+      "type": "PATOLOGIA",
+      "start": 1008,
+      "end": 1021
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 1044,
+      "end": 1054
+    },
+    {
+      "text": "arterias cerebrales anterior",
+      "type": "ARTERIA",
+      "start": 1127,
+      "end": 1155
+    },
+    {
+      "text": "media",
+      "type": "ARTERIA",
+      "start": 550,
+      "end": 555
+    },
+    {
+      "text": "posterior",
+      "type": "ARTERIA",
+      "start": 1165,
+      "end": 1174
+    },
+    {
+      "text": "Sistema vertebrobasilar",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1290,
+      "end": 1313
+    },
+    {
+      "text": "ateromatosis significativa",
+      "type": "PATOLOGIA",
+      "start": 1363,
+      "end": 1389
+    },
+    {
+      "text": "hallazgos agudos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1469,
+      "end": 1485
+    },
+    {
+      "text": "isquemia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1505,
+      "end": 1513
+    },
+    {
+      "text": "hemorragia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 843,
+      "end": 853
+    },
+    {
+      "text": "patología vascular significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1529,
+      "end": 1561
+    },
+    {
+      "text": "Sistema ventricular",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 424,
+      "end": 443
+    },
+    {
+      "text": "cisternas normales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1597,
+      "end": 1615
+    }
+  ]
+}

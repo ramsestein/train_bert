@@ -1,0 +1,143 @@
+{
+  "document_id": "informe_sintetico_20250804195045_18250",
+  "entities": [
+    {
+      "text": "microhemorragia",
+      "type": "PATOLOGIA",
+      "start": 531,
+      "end": 546
+    },
+    {
+      "text": "transformación hemorrágica incipiente",
+      "type": "PATOLOGIA",
+      "start": 549,
+      "end": 586
+    },
+    {
+      "text": "HI1",
+      "type": "PUNTUACION_CLINICA",
+      "start": 605,
+      "end": 608
+    },
+    {
+      "text": "hemorragias intraparenquimatosas extensas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 623,
+      "end": 664
+    },
+    {
+      "text": "hemorragia subaracnoidea",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 668,
+      "end": 692
+    },
+    {
+      "text": "intraventricular",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 695,
+      "end": 711
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 795,
+      "end": 825
+    },
+    {
+      "text": "territorio parietal derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1128,
+      "end": 1155
+    },
+    {
+      "text": "penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1273,
+      "end": 1291
+    },
+    {
+      "text": "infarto establecido extenso",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1296,
+      "end": 1323
+    },
+    {
+      "text": "ACAs",
+      "type": "ARTERIA",
+      "start": 1425,
+      "end": 1429
+    },
+    {
+      "text": "ACMs",
+      "type": "ARTERIA",
+      "start": 1431,
+      "end": 1435
+    },
+    {
+      "text": "ACPs",
+      "type": "ARTERIA",
+      "start": 1438,
+      "end": 1442
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 507,
+      "end": 514
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 1454,
+      "end": 1463
+    },
+    {
+      "text": "oclusión",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1482,
+      "end": 1490
+    },
+    {
+      "text": "estenosis significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1494,
+      "end": 1517
+    },
+    {
+      "text": "vasospasmo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1544,
+      "end": 1554
+    },
+    {
+      "text": "trombosis arterial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1557,
+      "end": 1575
+    },
+    {
+      "text": "hemorragia intraparenquimatosa mayor",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1888,
+      "end": 1924
+    },
+    {
+      "text": "compromiso estructural grave",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1928,
+      "end": 1956
+    },
+    {
+      "text": "territorio parietal derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1128,
+      "end": 1155
+    },
+    {
+      "text": "código ictus",
+      "type": "TEMPORALIDAD",
+      "start": 357,
+      "end": 369
+    }
+  ]
+}

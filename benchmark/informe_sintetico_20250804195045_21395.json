@@ -1,0 +1,125 @@
+{
+  "document_id": "informe_sintetico_20250804195045_21395",
+  "entities": [
+    {
+      "text": "ictus isquémico",
+      "type": "PATOLOGIA",
+      "start": 241,
+      "end": 256
+    },
+    {
+      "text": "hemiparesia izquierda",
+      "type": "PATOLOGIA",
+      "start": 197,
+      "end": 218
+    },
+    {
+      "text": "afasia",
+      "type": "PATOLOGIA",
+      "start": 221,
+      "end": 227
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 582,
+      "end": 612
+    },
+    {
+      "text": "segmento M1",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 564,
+      "end": 575
+    },
+    {
+      "text": "arteria cerebral media",
+      "type": "ARTERIA",
+      "start": 582,
+      "end": 604
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 278,
+      "end": 285
+    },
+    {
+      "text": "ASPECTS 6",
+      "type": "PUNTUACION_CLINICA",
+      "start": 738,
+      "end": 747
+    },
+    {
+      "text": "aumento en tiempo de llegada de contraste (Tmax)",
+      "type": "MEDIDA",
+      "start": 962,
+      "end": 1010
+    },
+    {
+      "text": "caída notable del flujo cerebral (CBF)",
+      "type": "MEDIDA",
+      "start": 1056,
+      "end": 1094
+    },
+    {
+      "text": "volumen cerebral (CBV) preservado",
+      "type": "MEDIDA",
+      "start": 1097,
+      "end": 1130
+    },
+    {
+      "text": "mismatch significativo",
+      "type": "PATOLOGIA",
+      "start": 1169,
+      "end": 1191
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 1759,
+      "end": 1773
+    },
+    {
+      "text": "segmento proximal M1",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1552,
+      "end": 1572
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "ARTERIA",
+      "start": 582,
+      "end": 612
+    },
+    {
+      "text": "ASPECTS 6",
+      "type": "PUNTUACION_CLINICA",
+      "start": 738,
+      "end": 747
+    },
+    {
+      "text": "signo de arteria hiperdensa compatible con trombo intraluminal",
+      "type": "PATOLOGIA",
+      "start": 1626,
+      "end": 1688
+    },
+    {
+      "text": "mismatch significativo",
+      "type": "PATOLOGIA",
+      "start": 1169,
+      "end": 1191
+    },
+    {
+      "text": "sin estenosis significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1415,
+      "end": 1443
+    },
+    {
+      "text": "sin alteraciones relevantes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1481,
+      "end": 1508
+    }
+  ]
+}

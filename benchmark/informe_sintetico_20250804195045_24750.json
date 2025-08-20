@@ -1,0 +1,95 @@
+{
+  "document_id": "informe_sintetico_20250804195045_24750",
+  "entities": [
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 279,
+      "end": 293
+    },
+    {
+      "text": "territorio vertebrobasilar",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 297,
+      "end": 323
+    },
+    {
+      "text": "hemicuerpo izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 237,
+      "end": 257
+    },
+    {
+      "text": "arteria cerebelosa posteroinferior izquierda (PICA)",
+      "type": "ARTERIA",
+      "start": 955,
+      "end": 1006
+    },
+    {
+      "text": "bulbo raquídeo ipsilateral",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1019,
+      "end": 1045
+    },
+    {
+      "text": "CBF",
+      "type": "MEDIDA",
+      "start": 452,
+      "end": 455
+    },
+    {
+      "text": "Tmax",
+      "type": "MEDIDA",
+      "start": 446,
+      "end": 450
+    },
+    {
+      "text": "arteria vertebral izquierda hipoplásica distal",
+      "type": "ARTERIA",
+      "start": 2728,
+      "end": 2774
+    },
+    {
+      "text": "arteria basilar proximal",
+      "type": "ARTERIA",
+      "start": 1369,
+      "end": 1393
+    },
+    {
+      "text": "disminución del flujo a circulación posterior",
+      "type": "PATOLOGIA",
+      "start": 1409,
+      "end": 1454
+    },
+    {
+      "text": "estenosis severa (>80%)",
+      "type": "MEDIDA",
+      "start": 1342,
+      "end": 1365
+    },
+    {
+      "text": "sin signos de estenosis significativos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1493,
+      "end": 1531
+    },
+    {
+      "text": "sin estenosis ni oclusiones",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1598,
+      "end": 1625
+    },
+    {
+      "text": "arteria vertebral izquierda hipoplásica distal",
+      "type": "PATOLOGIA",
+      "start": 2728,
+      "end": 2774
+    },
+    {
+      "text": "no hemorrhage detected",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2538,
+      "end": 2560
+    }
+  ]
+}

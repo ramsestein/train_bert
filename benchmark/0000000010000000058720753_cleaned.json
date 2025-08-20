@@ -1,0 +1,77 @@
+{
+  "document_id": "0000000010000000058720753_cleaned",
+  "entities": [
+    {
+      "text": "hemiparesia derecha",
+      "type": "PATOLOGIA",
+      "start": 237,
+      "end": 256
+    },
+    {
+      "text": "no especificada",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 354,
+      "end": 369
+    },
+    {
+      "text": "No se observa hemorragia aguda intra ni extraaxial.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 506,
+      "end": 557
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 605,
+      "end": 615
+    },
+    {
+      "text": "No se observan alteraciones valorables en los mapas de TTP, TMax, CBV y CBF.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 877,
+      "end": 953
+    },
+    {
+      "text": "Pequeñas placas de ateromatosis calcificada en arco aórtico, bifurcaciones carotídeas y segmentos intracraneales de ambas ACIs, sin condicionar estenosis secundarias.",
+      "type": "PATOLOGIA",
+      "start": 985,
+      "end": 1151
+    },
+    {
+      "text": "sin ateromatosis ni signos de estenosis.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1187,
+      "end": 1227
+    },
+    {
+      "text": "ACAs, ACMs y ACPs",
+      "type": "ARTERIA",
+      "start": 1287,
+      "end": 1304
+    },
+    {
+      "text": "Sistema vertebrobasilar permeable.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1307,
+      "end": 1341
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 605,
+      "end": 615
+    },
+    {
+      "text": "sin alteraciones significativas.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1703,
+      "end": 1735
+    },
+    {
+      "text": "TC Basal + TC Perfusión + AngioTC extra- intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 413,
+      "end": 466
+    }
+  ]
+}

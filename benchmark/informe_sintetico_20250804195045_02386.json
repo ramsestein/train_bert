@@ -1,0 +1,101 @@
+{
+  "document_id": "informe_sintetico_20250804195045_02386",
+  "entities": [
+    {
+      "text": "hemorragia subaracnoidea difusa",
+      "type": "PATOLOGIA",
+      "start": 594,
+      "end": 625
+    },
+    {
+      "text": "hemorragia aguda",
+      "type": "TEMPORALIDAD",
+      "start": 388,
+      "end": 404
+    },
+    {
+      "text": "hemorragia intraventricular",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 802,
+      "end": 829
+    },
+    {
+      "text": "desplazamiento significativo de estructuras de la línea media",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 838,
+      "end": 899
+    },
+    {
+      "text": "edema cerebral significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 976,
+      "end": 1004
+    },
+    {
+      "text": "5 mm",
+      "type": "MEDIDA",
+      "start": 1276,
+      "end": 1280
+    },
+    {
+      "text": "arteria comunicante anterior",
+      "type": "ARTERIA",
+      "start": 1287,
+      "end": 1315
+    },
+    {
+      "text": "sangrado",
+      "type": "PATOLOGIA",
+      "start": 737,
+      "end": 745
+    },
+    {
+      "text": "lesiones isquémicas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1743,
+      "end": 1762
+    },
+    {
+      "text": "hematomas intraparenquimatosos asociados",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1765,
+      "end": 1805
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 339,
+      "end": 355
+    },
+    {
+      "text": "estudio de perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 406,
+      "end": 435
+    },
+    {
+      "text": "angiografía TC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 467,
+      "end": 503
+    },
+    {
+      "text": "circulación intracraneal permeable",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1402,
+      "end": 1436
+    },
+    {
+      "text": "estenosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1442,
+      "end": 1451
+    },
+    {
+      "text": "malformaciones vascularres evidentes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1461,
+      "end": 1497
+    }
+  ]
+}

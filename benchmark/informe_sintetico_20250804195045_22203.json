@@ -1,0 +1,101 @@
+{
+  "document_id": "informe_sintetico_20250804195045_22203",
+  "entities": [
+    {
+      "text": "isquémica",
+      "type": "PATOLOGIA",
+      "start": 700,
+      "end": 709
+    },
+    {
+      "text": "arteria cerebral anterior",
+      "type": "ARTERIA",
+      "start": 268,
+      "end": 293
+    },
+    {
+      "text": "izquierdo",
+      "type": "LATERALIDAD",
+      "start": 194,
+      "end": 203
+    },
+    {
+      "text": "aguda",
+      "type": "TEMPORALIDAD",
+      "start": 710,
+      "end": 715
+    },
+    {
+      "text": "isquémica aguda",
+      "type": "PATOLOGIA",
+      "start": 700,
+      "end": 715
+    },
+    {
+      "text": "A2",
+      "type": "ARTERIA",
+      "start": 1346,
+      "end": 1348
+    },
+    {
+      "text": "arteria cerebral anterior derecha",
+      "type": "ARTERIA",
+      "start": 974,
+      "end": 1007
+    },
+    {
+      "text": "sin signos de infarto establecido en TC basal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1854,
+      "end": 1899
+    },
+    {
+      "text": "prolongación del tiempo a pico (TTP)",
+      "type": "MEDIDA",
+      "start": 1019,
+      "end": 1055
+    },
+    {
+      "text": "retraso en tiempo medio de tránsito (MTT)",
+      "type": "MEDIDA",
+      "start": 1058,
+      "end": 1099
+    },
+    {
+      "text": "reducción del flujo sanguíneo cerebral (CBF)",
+      "type": "MEDIDA",
+      "start": 1114,
+      "end": 1158
+    },
+    {
+      "text": "volumen cerebral (CBV) preservado",
+      "type": "MEDIDA",
+      "start": 1163,
+      "end": 1196
+    },
+    {
+      "text": "sin estenosis significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1465,
+      "end": 1493
+    },
+    {
+      "text": "sin alteraciones descriptivas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1594,
+      "end": 1623
+    },
+    {
+      "text": "sin signos de infarto establecido",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1854,
+      "end": 1887
+    },
+    {
+      "text": "código ictus",
+      "type": "TEMPORALIDAD",
+      "start": 419,
+      "end": 431
+    }
+  ]
+}

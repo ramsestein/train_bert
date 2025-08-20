@@ -1,0 +1,203 @@
+{
+  "document_id": "informe_sintetico_20250804195045_03071",
+  "entities": [
+    {
+      "text": "hemorragia intracraneal aguda",
+      "type": "PATOLOGIA",
+      "start": 570,
+      "end": 599
+    },
+    {
+      "text": "signos de infarto establecido",
+      "type": "PATOLOGIA",
+      "start": 603,
+      "end": 632
+    },
+    {
+      "text": "microangiopatía crónica",
+      "type": "PATOLOGIA",
+      "start": 785,
+      "end": 808
+    },
+    {
+      "text": "zona de hipoperfusión",
+      "type": "PATOLOGIA",
+      "start": 873,
+      "end": 894
+    },
+    {
+      "text": "tronco encefálico",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 901,
+      "end": 918
+    },
+    {
+      "text": "cerebelo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 920,
+      "end": 928
+    },
+    {
+      "text": "región occipital bilateral",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 931,
+      "end": 957
+    },
+    {
+      "text": "tiempo de tránsito medio (TTP)",
+      "type": "MEDIDA",
+      "start": 983,
+      "end": 1013
+    },
+    {
+      "text": "Tmax",
+      "type": "MEDIDA",
+      "start": 1016,
+      "end": 1020
+    },
+    {
+      "text": "flujo cerebral (CBF)",
+      "type": "MEDIDA",
+      "start": 1035,
+      "end": 1055
+    },
+    {
+      "text": "volumen cerebral (CBV)",
+      "type": "MEDIDA",
+      "start": 1058,
+      "end": 1080
+    },
+    {
+      "text": "isquémico severo",
+      "type": "PATOLOGIA",
+      "start": 1103,
+      "end": 1119
+    },
+    {
+      "text": "mismatch compatible con penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1176,
+      "end": 1218
+    },
+    {
+      "text": "Oclusión completa de la arteria basilar proximal",
+      "type": "PATOLOGIA",
+      "start": 1288,
+      "end": 1336
+    },
+    {
+      "text": "sin flujo distal detectable",
+      "type": "PATOLOGIA",
+      "start": 1338,
+      "end": 1365
+    },
+    {
+      "text": "arterias vertebrales",
+      "type": "ARTERIA",
+      "start": 1371,
+      "end": 1391
+    },
+    {
+      "text": "permeabilidad reducida",
+      "type": "PATOLOGIA",
+      "start": 1402,
+      "end": 1424
+    },
+    {
+      "text": "signos de ateromatosis calcificada",
+      "type": "PATOLOGIA",
+      "start": 1429,
+      "end": 1463
+    },
+    {
+      "text": "vertebral izquierda",
+      "type": "ARTERIA",
+      "start": 1509,
+      "end": 1528
+    },
+    {
+      "text": "Circulación colateral insuficiente",
+      "type": "PATOLOGIA",
+      "start": 1530,
+      "end": 1564
+    },
+    {
+      "text": "ACAs, ACMs, ACPs",
+      "type": "ARTERIA",
+      "start": 1647,
+      "end": 1663
+    },
+    {
+      "text": "sin estenosis significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1690,
+      "end": 1718
+    },
+    {
+      "text": "Oclusión arterial completa de la arteria basilar proximal",
+      "type": "PATOLOGIA",
+      "start": 1745,
+      "end": 1802
+    },
+    {
+      "text": "hipoperfusión extensa en territorio vertebrobasilar",
+      "type": "PATOLOGIA",
+      "start": 1807,
+      "end": 1858
+    },
+    {
+      "text": "tronco encefálico",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 901,
+      "end": 918
+    },
+    {
+      "text": "cerebelo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 920,
+      "end": 928
+    },
+    {
+      "text": "signos hemorrágicos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1918,
+      "end": 1937
+    },
+    {
+      "text": "infarto cerebral establecido",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1941,
+      "end": 1969
+    },
+    {
+      "text": "importante área de penumbra isquémica susceptible de reperfusión",
+      "type": "PATOLOGIA",
+      "start": 2012,
+      "end": 2076
+    },
+    {
+      "text": "Circulación colateral insuficiente en sistema vertebrobasilar",
+      "type": "PATOLOGIA",
+      "start": 2078,
+      "end": 2139
+    },
+    {
+      "text": "Oclusión de arteria basilar proximal",
+      "type": "PATOLOGIA",
+      "start": 2350,
+      "end": 2386
+    },
+    {
+      "text": "afectación isquémica en territorio vertebrobasilar",
+      "type": "PATOLOGIA",
+      "start": 2391,
+      "end": 2441
+    },
+    {
+      "text": "TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANGIOTC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 2469,
+      "end": 2536
+    }
+  ]
+}

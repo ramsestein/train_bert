@@ -1,0 +1,65 @@
+{
+  "document_id": "informe_sintetico_20250804195045_02288",
+  "entities": [
+    {
+      "text": "hemorragia subaracnoidea difusa",
+      "type": "PATOLOGIA",
+      "start": 613,
+      "end": 644
+    },
+    {
+      "text": "hemorragia subaracnoidea",
+      "type": "PATOLOGIA",
+      "start": 267,
+      "end": 291
+    },
+    {
+      "text": "dilatación sacular compatible con aneurisma sacular de la arteria cerebral anterior derecha",
+      "type": "PATOLOGIA",
+      "start": 1086,
+      "end": 1177
+    },
+    {
+      "text": "arteria cerebral anterior derecha",
+      "type": "ARTERIA",
+      "start": 1144,
+      "end": 1177
+    },
+    {
+      "text": "6 mm",
+      "type": "MEDIDA",
+      "start": 1217,
+      "end": 1221
+    },
+    {
+      "text": "sin signos de hidrocefalia aguda",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 816,
+      "end": 848
+    },
+    {
+      "text": "sin áreas de hipoperfusión ni penumbra isquémica",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 991,
+      "end": 1039
+    },
+    {
+      "text": "TC de cráneo basal sin contraste",
+      "type": "TECNICA_IMAGEN",
+      "start": 312,
+      "end": 344
+    },
+    {
+      "text": "angiografía TC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 378,
+      "end": 414
+    },
+    {
+      "text": "ACM, ACA y ACP",
+      "type": "ARTERIA",
+      "start": 1415,
+      "end": 1429
+    }
+  ]
+}

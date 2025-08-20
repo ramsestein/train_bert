@@ -1,0 +1,59 @@
+{
+  "document_id": "informe_sintetico_20250804195045_06281",
+  "entities": [
+    {
+      "text": "isquemia",
+      "type": "PATOLOGIA",
+      "start": 678,
+      "end": 686
+    },
+    {
+      "text": "hemorragias intracraneales",
+      "type": "PATOLOGIA",
+      "start": 690,
+      "end": 716
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 1172,
+      "end": 1182
+    },
+    {
+      "text": "Arterias intracraneales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1208,
+      "end": 1231
+    },
+    {
+      "text": "Arterias carótidas internas, cerebrales medias, anteriores y posteriores",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1382,
+      "end": 1454
+    },
+    {
+      "text": "basilar",
+      "type": "ARTERIA",
+      "start": 1510,
+      "end": 1517
+    },
+    {
+      "text": "sin hallazgos agudos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1589,
+      "end": 1609
+    },
+    {
+      "text": "No se evidencian signos de isquemia ni hemorragia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1729,
+      "end": 1778
+    },
+    {
+      "text": "Perfusión cerebral sin alteraciones",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1780,
+      "end": 1815
+    }
+  ]
+}

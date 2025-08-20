@@ -1,0 +1,161 @@
+{
+  "document_id": "informe_sintetico_20250804195045_13666",
+  "entities": [
+    {
+      "text": "infartos recientes",
+      "type": "PATOLOGIA",
+      "start": 822,
+      "end": 840
+    },
+    {
+      "text": "hemorragias",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 859,
+      "end": 870
+    },
+    {
+      "text": "edema significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 874,
+      "end": 893
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 996,
+      "end": 1005
+    },
+    {
+      "text": "aumento del tiempo de tránsito medio (TTP)",
+      "type": "MEDIDA",
+      "start": 1067,
+      "end": 1109
+    },
+    {
+      "text": "retraso en el tiempo de llegada del contraste",
+      "type": "MEDIDA",
+      "start": 1112,
+      "end": 1157
+    },
+    {
+      "text": "reducción marcada del flujo sanguíneo cerebral (CBF)",
+      "type": "MEDIDA",
+      "start": 1217,
+      "end": 1269
+    },
+    {
+      "text": "volumen sanguíneo cerebral (CBV)",
+      "type": "MEDIDA",
+      "start": 1272,
+      "end": 1304
+    },
+    {
+      "text": "penumbra isquémica extensa",
+      "type": "PATOLOGIA",
+      "start": 1375,
+      "end": 1401
+    },
+    {
+      "text": "mismatch entre CBV y CBF",
+      "type": "PATOLOGIA",
+      "start": 1406,
+      "end": 1430
+    },
+    {
+      "text": "oclusión múltiple",
+      "type": "PATOLOGIA",
+      "start": 1550,
+      "end": 1567
+    },
+    {
+      "text": "arterias cerebrales medias (ACM)",
+      "type": "ARTERIA",
+      "start": 1595,
+      "end": 1627
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 1628,
+      "end": 1635
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 996,
+      "end": 1005
+    },
+    {
+      "text": "ramas distales de las arterias cerebrales posteriores (ACP)",
+      "type": "ARTERIA",
+      "start": 1661,
+      "end": 1720
+    },
+    {
+      "text": "bilaterales",
+      "type": "LATERALIDAD",
+      "start": 1200,
+      "end": 1211
+    },
+    {
+      "text": "carótidas internas",
+      "type": "ARTERIA",
+      "start": 1747,
+      "end": 1765
+    },
+    {
+      "text": "sin estenosis de grado significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1791,
+      "end": 1827
+    },
+    {
+      "text": "flujo conservado",
+      "type": "MEDIDA",
+      "start": 1864,
+      "end": 1880
+    },
+    {
+      "text": "irregularidades en ramas menores",
+      "type": "PATOLOGIA",
+      "start": 1890,
+      "end": 1922
+    },
+    {
+      "text": "Infartos isquémicos agudos multiterritoriales",
+      "type": "PATOLOGIA",
+      "start": 1995,
+      "end": 2040
+    },
+    {
+      "text": "compromiso bilateral de territorios frontales, parietales y temporales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 2045,
+      "end": 2115
+    },
+    {
+      "text": "oclusión múltiple",
+      "type": "PATOLOGIA",
+      "start": 1550,
+      "end": 1567
+    },
+    {
+      "text": "ramas principales y distales de ACM y ACP",
+      "type": "ARTERIA",
+      "start": 2159,
+      "end": 2200
+    },
+    {
+      "text": "áreas de penumbra significativa",
+      "type": "PATOLOGIA",
+      "start": 2225,
+      "end": 2256
+    },
+    {
+      "text": "sin hemorragia intracraneal asociada",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2745,
+      "end": 2781
+    }
+  ]
+}

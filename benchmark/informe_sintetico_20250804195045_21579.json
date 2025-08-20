@@ -1,0 +1,65 @@
+{
+  "document_id": "informe_sintetico_20250804195045_21579",
+  "entities": [
+    {
+      "text": "hematoma intracerebral",
+      "type": "PATOLOGIA",
+      "start": 253,
+      "end": 275
+    },
+    {
+      "text": "lóbulo frontal izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 551,
+      "end": 575
+    },
+    {
+      "text": "3.5 x 2.8 x 2.5 cm",
+      "type": "MEDIDA",
+      "start": 605,
+      "end": 623
+    },
+    {
+      "text": "3 mm",
+      "type": "MEDIDA",
+      "start": 839,
+      "end": 843
+    },
+    {
+      "text": "disminución focal del flujo sanguíneo cerebral (CBF)",
+      "type": "PATOLOGIA",
+      "start": 956,
+      "end": 1008
+    },
+    {
+      "text": "volumen sanguíneo cerebral (CBV)",
+      "type": "PATOLOGIA",
+      "start": 1015,
+      "end": 1047
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 1530,
+      "end": 1544
+    },
+    {
+      "text": "sin hallazgos vasculares asociados",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1554,
+      "end": 1588
+    },
+    {
+      "text": "sin estenosis ni oclusiones",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1325,
+      "end": 1352
+    },
+    {
+      "text": "TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANG IOTC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 72,
+      "end": 140
+    }
+  ]
+}

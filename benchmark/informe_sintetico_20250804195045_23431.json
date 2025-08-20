@@ -1,0 +1,95 @@
+{
+  "document_id": "informe_sintetico_20250804195045_23431",
+  "entities": [
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 474,
+      "end": 497
+    },
+    {
+      "text": "hemorragias subaracnoideas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 501,
+      "end": 527
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 674,
+      "end": 688
+    },
+    {
+      "text": "cortico-subcortical",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 547,
+      "end": 566
+    },
+    {
+      "text": "núcleos lenticulares",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 902,
+      "end": 922
+    },
+    {
+      "text": "calcificaciones puntiformes",
+      "type": "PATOLOGIA",
+      "start": 871,
+      "end": 898
+    },
+    {
+      "text": "ACAs",
+      "type": "ARTERIA",
+      "start": 1278,
+      "end": 1282
+    },
+    {
+      "text": "ACMs",
+      "type": "ARTERIA",
+      "start": 1284,
+      "end": 1288
+    },
+    {
+      "text": "ACPs",
+      "type": "ARTERIA",
+      "start": 1290,
+      "end": 1294
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 1576,
+      "end": 1586
+    },
+    {
+      "text": "sin hallazgos agudos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1534,
+      "end": 1554
+    },
+    {
+      "text": "sin evidencia de isquemia aguda",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1635,
+      "end": 1666
+    },
+    {
+      "text": "TC Basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 314,
+      "end": 322
+    },
+    {
+      "text": "TC Perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 324,
+      "end": 345
+    },
+    {
+      "text": "AngioTC extracraneal e intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 348,
+      "end": 383
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "document_id": "0000000010000000059524568_cleaned",
+  "entities": [
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 192,
+      "end": 208
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 211,
+      "end": 232
+    },
+    {
+      "text": "Angio-TC de troncos supraaórticos intra y extracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 235,
+      "end": 289
+    },
+    {
+      "text": "No se observa hemorragia intra ni extraaxial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 329,
+      "end": 373
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 422,
+      "end": 432
+    },
+    {
+      "text": "No se observan lesiones isquémicas parenquimatosas subagudas ni otras lesiones isquemicas crónicas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 433,
+      "end": 531
+    },
+    {
+      "text": "Principales arterias cerebrales intracraneales permeables (ACAs, ACMs y ACPs)",
+      "type": "ARTERIA",
+      "start": 789,
+      "end": 866
+    },
+    {
+      "text": "Sistema vertebrobasilar permeable",
+      "type": "ARTERIA",
+      "start": 868,
+      "end": 901
+    },
+    {
+      "text": "Leve ateromatosis en ambas bifurcaciones carotideas sin estenosis significativas",
+      "type": "PATOLOGIA",
+      "start": 903,
+      "end": 983
+    },
+    {
+      "text": "Sin signos de patología traumática o isquémica aguda en el estudio multimodal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1347,
+      "end": 1424
+    }
+  ]
+}

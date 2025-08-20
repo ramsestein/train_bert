@@ -1,0 +1,149 @@
+{
+  "document_id": "informe_sintetico_20250804195045_11216",
+  "entities": [
+    {
+      "text": "hemiparesia derecha",
+      "type": "PATOLOGIA",
+      "start": 263,
+      "end": 282
+    },
+    {
+      "text": "afasia",
+      "type": "PATOLOGIA",
+      "start": 285,
+      "end": 291
+    },
+    {
+      "text": "accidente isquémico cerebral",
+      "type": "PATOLOGIA",
+      "start": 313,
+      "end": 341
+    },
+    {
+      "text": "hemorragia intraparenquimatosa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 569,
+      "end": 599
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 757,
+      "end": 771
+    },
+    {
+      "text": "ASPECTS 7",
+      "type": "PUNTUACION_CLINICA",
+      "start": 773,
+      "end": 782
+    },
+    {
+      "text": "volumen cerebral (CBV)",
+      "type": "MEDIDA",
+      "start": 907,
+      "end": 929
+    },
+    {
+      "text": "flujo sanguíneo cerebral (CBF)",
+      "type": "MEDIDA",
+      "start": 932,
+      "end": 962
+    },
+    {
+      "text": "tiempos de tránsito medio (MTT y TTP)",
+      "type": "MEDIDA",
+      "start": 1057,
+      "end": 1094
+    },
+    {
+      "text": "isquemia penumbra activa",
+      "type": "PATOLOGIA",
+      "start": 1110,
+      "end": 1134
+    },
+    {
+      "text": "núcleo isquémico establecido",
+      "type": "PATOLOGIA",
+      "start": 1137,
+      "end": 1165
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "ARTERIA",
+      "start": 669,
+      "end": 701
+    },
+    {
+      "text": "segmento M1",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1265,
+      "end": 1276
+    },
+    {
+      "text": "arteria cerebral posterior derecha",
+      "type": "ARTERIA",
+      "start": 1332,
+      "end": 1366
+    },
+    {
+      "text": "tortuosidad leve",
+      "type": "PATOLOGIA",
+      "start": 1417,
+      "end": 1433
+    },
+    {
+      "text": "aneurismas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1453,
+      "end": 1463
+    },
+    {
+      "text": "malformaciones vasculares",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1467,
+      "end": 1492
+    },
+    {
+      "text": "territorios de arteria cerebral media izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1647,
+      "end": 1694
+    },
+    {
+      "text": "cerebelo derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1697,
+      "end": 1713
+    },
+    {
+      "text": "compromiso hemodinámico evidente en perfusión",
+      "type": "PATOLOGIA",
+      "start": 1756,
+      "end": 1801
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1887,
+      "end": 1910
+    },
+    {
+      "text": "TC craneal basal sin contraste",
+      "type": "TECNICA_IMAGEN",
+      "start": 362,
+      "end": 392
+    },
+    {
+      "text": "perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 405,
+      "end": 423
+    },
+    {
+      "text": "angio-TC arterial intra y extracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 2121,
+      "end": 2159
+    }
+  ]
+}

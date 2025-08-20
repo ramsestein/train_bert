@@ -1,0 +1,113 @@
+{
+  "document_id": "informe_sintetico_20250804195045_11345",
+  "entities": [
+    {
+      "text": "infartos",
+      "type": "PATOLOGIA",
+      "start": 629,
+      "end": 637
+    },
+    {
+      "text": "watershed",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 650,
+      "end": 659
+    },
+    {
+      "text": "disminución del flujo sanguíneo cerebral (CBF)",
+      "type": "PATOLOGIA",
+      "start": 839,
+      "end": 885
+    },
+    {
+      "text": "volumen sanguíneo cerebral (CBV)",
+      "type": "PATOLOGIA",
+      "start": 888,
+      "end": 920
+    },
+    {
+      "text": "arteria cerebral anterior",
+      "type": "ARTERIA",
+      "start": 1006,
+      "end": 1031
+    },
+    {
+      "text": "bilateralmente",
+      "type": "LATERALIDAD",
+      "start": 1040,
+      "end": 1054
+    },
+    {
+      "text": "80%",
+      "type": "MEDIDA",
+      "start": 1449,
+      "end": 1452
+    },
+    {
+      "text": "50%",
+      "type": "MEDIDA",
+      "start": 1527,
+      "end": 1530
+    },
+    {
+      "text": "ACM",
+      "type": "ARTERIA",
+      "start": 1654,
+      "end": 1657
+    },
+    {
+      "text": "ACA",
+      "type": "ARTERIA",
+      "start": 1659,
+      "end": 1662
+    },
+    {
+      "text": "ACP",
+      "type": "ARTERIA",
+      "start": 1664,
+      "end": 1667
+    },
+    {
+      "text": "No se evidencian hemorragias intraparenquimatosas ni extraaxiales.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 459,
+      "end": 525
+    },
+    {
+      "text": "No se observa desplazamiento de línea media ni edema significativo.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 661,
+      "end": 728
+    },
+    {
+      "text": "Sistema ventricular sin dilatación ni malformaciones.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 729,
+      "end": 782
+    },
+    {
+      "text": "Cisternas basales libres.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 783,
+      "end": 808
+    },
+    {
+      "text": "No se identifican áreas con defecto de perfusión compatible con tejido necrosado irreversible.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1227,
+      "end": 1321
+    },
+    {
+      "text": "No se identifican defectos de repleción en circulación intracraneal.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1705,
+      "end": 1773
+    },
+    {
+      "text": "No se identifican áreas de infarto establecido de extensión significativa en el momento actual.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2056,
+      "end": 2151
+    }
+  ]
+}

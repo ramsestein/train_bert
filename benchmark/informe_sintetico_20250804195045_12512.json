@@ -1,0 +1,95 @@
+{
+  "document_id": "informe_sintetico_20250804195045_12512",
+  "entities": [
+    {
+      "text": "infarto cerebral",
+      "type": "PATOLOGIA",
+      "start": 215,
+      "end": 231
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 608,
+      "end": 638
+    },
+    {
+      "text": "ACM",
+      "type": "ARTERIA",
+      "start": 1371,
+      "end": 1374
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 631,
+      "end": 638
+    },
+    {
+      "text": "4 mm",
+      "type": "MEDIDA",
+      "start": 1001,
+      "end": 1005
+    },
+    {
+      "text": "transformación hemorrágica tipo PH2",
+      "type": "PATOLOGIA",
+      "start": 842,
+      "end": 877
+    },
+    {
+      "text": "Oclusión completa segmentaria",
+      "type": "PATOLOGIA",
+      "start": 1670,
+      "end": 1699
+    },
+    {
+      "text": "M1",
+      "type": "ARTERIA",
+      "start": 1723,
+      "end": 1725
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 608,
+      "end": 638
+    },
+    {
+      "text": "sin hidrocefalia obstructiva",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1122,
+      "end": 1150
+    },
+    {
+      "text": "sin hidrocefalia obstructiva",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1122,
+      "end": 1150
+    },
+    {
+      "text": "TC CODIGO ICTUS",
+      "type": "TECNICA_IMAGEN",
+      "start": 72,
+      "end": 87
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 380,
+      "end": 396
+    },
+    {
+      "text": "perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 398,
+      "end": 416
+    },
+    {
+      "text": "Angio-TC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 419,
+      "end": 449
+    }
+  ]
+}

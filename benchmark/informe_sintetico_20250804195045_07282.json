@@ -1,0 +1,125 @@
+{
+  "document_id": "informe_sintetico_20250804195045_07282",
+  "entities": [
+    {
+      "text": "ictus isquémico",
+      "type": "PATOLOGIA",
+      "start": 267,
+      "end": 282
+    },
+    {
+      "text": "arteria cerebral posterior",
+      "type": "ARTERIA",
+      "start": 300,
+      "end": 326
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 574,
+      "end": 597
+    },
+    {
+      "text": "focos hipodensos agudos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 601,
+      "end": 624
+    },
+    {
+      "text": "lesión isquémica establecida",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 729,
+      "end": 757
+    },
+    {
+      "text": "sin desviación de la línea media",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 790,
+      "end": 822
+    },
+    {
+      "text": "prolongación del tiempo hasta el máximo (Tmax)",
+      "type": "MEDIDA",
+      "start": 880,
+      "end": 926
+    },
+    {
+      "text": "aumento del tiempo de tránsito (TTD)",
+      "type": "MEDIDA",
+      "start": 929,
+      "end": 965
+    },
+    {
+      "text": "disminución notable del flujo cerebral (CBF)",
+      "type": "MEDIDA",
+      "start": 1031,
+      "end": 1075
+    },
+    {
+      "text": "volumen sanguíneo cerebral (CBV) reducidos",
+      "type": "MEDIDA",
+      "start": 1078,
+      "end": 1120
+    },
+    {
+      "text": "hipoperfusión crítica",
+      "type": "PATOLOGIA",
+      "start": 1138,
+      "end": 1159
+    },
+    {
+      "text": "ambos segmentos P1",
+      "type": "ARTERIA",
+      "start": 1401,
+      "end": 1419
+    },
+    {
+      "text": "ramas corticales periféricas distales",
+      "type": "ARTERIA",
+      "start": 1422,
+      "end": 1459
+    },
+    {
+      "text": "circulación colateral leptomeníngea",
+      "type": "ARTERIA",
+      "start": 1494,
+      "end": 1529
+    },
+    {
+      "text": "sin evidencia de infarto establecido",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1841,
+      "end": 1877
+    },
+    {
+      "text": "oclusión del segmento P2 izquierdo de la arteria cerebral posterior",
+      "type": "PATOLOGIA",
+      "start": 1669,
+      "end": 1736
+    },
+    {
+      "text": "área significativa de penumbra",
+      "type": "PATOLOGIA",
+      "start": 1773,
+      "end": 1803
+    },
+    {
+      "text": "tejido potencialmente salvable",
+      "type": "PATOLOGIA",
+      "start": 1808,
+      "end": 1838
+    },
+    {
+      "text": "sin evidencia de infarto establecido en TC basal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1841,
+      "end": 1889
+    },
+    {
+      "text": "TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANGIOTC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 2243,
+      "end": 2310
+    }
+  ]
+}

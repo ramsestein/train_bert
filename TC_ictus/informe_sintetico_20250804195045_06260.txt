@@ -1,0 +1,27 @@
+UO_PACN (Unidad Organizativa Médica): RADIO
+
+PRUEB (Prueba solicitada): TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANG IOTC ARTERIAL INTRACRANEAL)
+
+CLIN (Resumen clínico): Paciente masculino de 72 años con historia de hipertensión arterial y episodios previos de demencia vascular. Consulta por deterioro cognitivo progresivo y episodios de pérdida transitoria de conciencia. Se solicita estudio para descartar hemorragias ocultas y evaluar posibles causas microvasculares.
+
+OBSR (Protocolo): TC craneal basal no contrastada, perfusión cerebral con contraste y angioTC intracraneal arterial.
+
+RESL (Resultados): 
+- En el estudio basal se evidencian múltiples focos puntiformes hiperdensos dispersos en sustancia blanca periventricular y en núcleos profundos bilaterales, compatibles con microhemorragias múltiples.
+- No se observan hematomas de mayor tamaño ni hemorragias subaracnoideas o intraventriculares.
+- La sustancia blanca presenta cambios leucoaraióticos moderados, en relación con enfermedad crónica de pequeño vaso.
+- El sistema ventricular es simétrico y de tamaño conservado, sin desplazamientos de línea media ni efecto de masa.
+- En el estudio de perfusión cerebral no se identifican zonas de hipoperfusión cortical ni áreas con alteración significativa del flujo sanguíneo.
+- AngioTC arterial intracraneal: permeabilidad conservada, sin evidencia de estenosis ni oclusiones de grandes vasos. No se identifican aneurismas ni malformaciones arterio-venosas. Se observa calcificación arterial moderada bilateral en segmento supraclinoideo de ambas carótidas internas.
+
+CONCL (Conclusiones): Hallazgos compatibles con microhemorragias cerebrales múltiples en contexto de enfermedad crónica de pequeño vaso. No evidencia de hemorragia aguda ni infarto cerebral activo. Vasos intracraneales permeables sin estenosis significativas ni malformaciones angiomatosas detectables.
+
+ACTI_ADICI (Actividad adicional): Recomendación para seguimiento clínico y valoración neurológica especializada. Considerar resonancia magnética cerebral con secuencias sensibles a sangre (GRE o SWI) para evaluación más detallada de microhemorragias.
+
+ICON (Estudio): @RADIO_TCICTUS@
+
+X00DIATXT (Texto del diagnóstico ACR): Microhemorragias cerebrales múltiples compatibles con enfermedad de pequeño vaso, sin evidencias de hemorragia activa ni lesiones isquémicas agudas.
+
+EST_T_DES (Descripción): TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANGIOTC ARTERIAL INTRACRANEAL)
+
+ZVASOS_D (Der.): Estudio realizado con técnica estándar de perfusión cerebral y angioTC arterial intracraneal, sin complicaciones técnicas.

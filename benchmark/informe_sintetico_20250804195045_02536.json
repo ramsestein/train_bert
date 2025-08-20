@@ -1,0 +1,83 @@
+{
+  "document_id": "informe_sintetico_20250804195045_02536",
+  "entities": [
+    {
+      "text": "microhemorragias antiguas múltiples",
+      "type": "PATOLOGIA",
+      "start": 623,
+      "end": 658
+    },
+    {
+      "text": "microhemorragias múltiples bilaterales de pequeño tamaño",
+      "type": "PATOLOGIA",
+      "start": 1567,
+      "end": 1623
+    },
+    {
+      "text": "angiopatía crónica",
+      "type": "PATOLOGIA",
+      "start": 1639,
+      "end": 1657
+    },
+    {
+      "text": "hemorragia aguda",
+      "type": "PATOLOGIA",
+      "start": 1708,
+      "end": 1724
+    },
+    {
+      "text": "infarto cerebral reciente",
+      "type": "PATOLOGIA",
+      "start": 1728,
+      "end": 1753
+    },
+    {
+      "text": "lóbulos frontales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 987,
+      "end": 1004
+    },
+    {
+      "text": "arteria carótida interna derecha",
+      "type": "ARTERIA",
+      "start": 1399,
+      "end": 1431
+    },
+    {
+      "text": "bilaterales",
+      "type": "LATERALIDAD",
+      "start": 1594,
+      "end": 1605
+    },
+    {
+      "text": "sin hemorragia aguda",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2125,
+      "end": 2145
+    },
+    {
+      "text": "sin alteraciones significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1483,
+      "end": 1514
+    },
+    {
+      "text": "TC craneal basal sin contraste",
+      "type": "TECNICA_IMAGEN",
+      "start": 335,
+      "end": 365
+    },
+    {
+      "text": "perfusión cerebral dinámica",
+      "type": "TECNICA_IMAGEN",
+      "start": 367,
+      "end": 394
+    },
+    {
+      "text": "angio-TC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 397,
+      "end": 427
+    }
+  ]
+}

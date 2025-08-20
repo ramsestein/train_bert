@@ -1,0 +1,65 @@
+{
+  "document_id": "informe_sintetico_20250804195045_08380",
+  "entities": [
+    {
+      "text": "infarto lacunar agudo",
+      "type": "PATOLOGIA",
+      "start": 668,
+      "end": 689
+    },
+    {
+      "text": "núcleo lenticular izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 624,
+      "end": 651
+    },
+    {
+      "text": "5 mm",
+      "type": "MEDIDA",
+      "start": 601,
+      "end": 605
+    },
+    {
+      "text": "agudo",
+      "type": "TEMPORALIDAD",
+      "start": 489,
+      "end": 494
+    },
+    {
+      "text": "isquémica",
+      "type": "PATOLOGIA",
+      "start": 1094,
+      "end": 1103
+    },
+    {
+      "text": "núcleo lenticular izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 624,
+      "end": 651
+    },
+    {
+      "text": "sin estenosis significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1553,
+      "end": 1581
+    },
+    {
+      "text": "No se visualizan hemorragias intracraneales ni signos de sangrado agudo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 423,
+      "end": 494
+    },
+    {
+      "text": "sin alteración significativa en el volumen cerebral sanguíneo (CBV) ni en el flujo cerebral (CBF)",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 975,
+      "end": 1072
+    },
+    {
+      "text": "sin evidencias de estenosis ni trombosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1225,
+      "end": 1265
+    }
+  ]
+}

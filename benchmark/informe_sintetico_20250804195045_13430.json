@@ -1,0 +1,107 @@
+{
+  "document_id": "informe_sintetico_20250804195045_13430",
+  "entities": [
+    {
+      "text": "hemorragia aguda intraaxial",
+      "type": "PATOLOGIA",
+      "start": 458,
+      "end": 485
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 628,
+      "end": 642
+    },
+    {
+      "text": "edema",
+      "type": "PATOLOGIA",
+      "start": 713,
+      "end": 718
+    },
+    {
+      "text": "efecto de masa",
+      "type": "PATOLOGIA",
+      "start": 722,
+      "end": 736
+    },
+    {
+      "text": "isquemia focal",
+      "type": "PATOLOGIA",
+      "start": 1090,
+      "end": 1104
+    },
+    {
+      "text": "ACIs",
+      "type": "ARTERIA",
+      "start": 1260,
+      "end": 1264
+    },
+    {
+      "text": "ACMs",
+      "type": "ARTERIA",
+      "start": 1266,
+      "end": 1270
+    },
+    {
+      "text": "ACAs",
+      "type": "ARTERIA",
+      "start": 1272,
+      "end": 1276
+    },
+    {
+      "text": "ACPs",
+      "type": "ARTERIA",
+      "start": 1278,
+      "end": 1282
+    },
+    {
+      "text": "sistema vertebrobasilar",
+      "type": "ARTERIA",
+      "start": 1285,
+      "end": 1308
+    },
+    {
+      "text": "ASPECTS 10/10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 1600,
+      "end": 1613
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 273,
+      "end": 289
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 305,
+      "end": 326
+    },
+    {
+      "text": "angiografía TC intra y extracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 329,
+      "end": 364
+    },
+    {
+      "text": "sin estenosis ni placas ateromatosas relevantes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1178,
+      "end": 1225
+    },
+    {
+      "text": "sin signos de estenosis o oclusión",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1323,
+      "end": 1357
+    },
+    {
+      "text": "sin hallazgos patológicos agudos ni crónicos significativos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1479,
+      "end": 1538
+    }
+  ]
+}

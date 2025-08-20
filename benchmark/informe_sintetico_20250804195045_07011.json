@@ -1,0 +1,71 @@
+{
+  "document_id": "informe_sintetico_20250804195045_07011",
+  "entities": [
+    {
+      "text": "hemorragia intraparenquimatosa",
+      "type": "PATOLOGIA",
+      "start": 439,
+      "end": 469
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 528,
+      "end": 542
+    },
+    {
+      "text": "cambios crónicos leves a nivel periventricular compatibles con enfermedad pequeña vaso",
+      "type": "PATOLOGIA",
+      "start": 763,
+      "end": 849
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 874,
+      "end": 884
+    },
+    {
+      "text": "sin áreas de retraso o déficit hemodinámico",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 992,
+      "end": 1035
+    },
+    {
+      "text": "sin estenosis ni oclusiones visibles",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1105,
+      "end": 1141
+    },
+    {
+      "text": "sin evidencia de patología aguda",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1302,
+      "end": 1334
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 874,
+      "end": 884
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 273,
+      "end": 289
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 316,
+      "end": 337
+    },
+    {
+      "text": "Angio-TC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 340,
+      "end": 370
+    }
+  ]
+}

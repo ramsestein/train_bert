@@ -1,0 +1,227 @@
+{
+  "document_id": "informe_sintetico_20250804195045_13139",
+  "entities": [
+    {
+      "text": "hemiparesia",
+      "type": "PATOLOGIA",
+      "start": 196,
+      "end": 207
+    },
+    {
+      "text": "afasia",
+      "type": "PATOLOGIA",
+      "start": 210,
+      "end": 216
+    },
+    {
+      "text": "accidente cerebrovascular isquémico",
+      "type": "PATOLOGIA",
+      "start": 230,
+      "end": 265
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "ARTERIA",
+      "start": 283,
+      "end": 315
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 336,
+      "end": 352
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 368,
+      "end": 389
+    },
+    {
+      "text": "Angio-TC de vasos extra e intracraneales",
+      "type": "TECNICA_IMAGEN",
+      "start": 392,
+      "end": 432
+    },
+    {
+      "text": "área de hipodensidad",
+      "type": "PATOLOGIA",
+      "start": 522,
+      "end": 542
+    },
+    {
+      "text": "territorio frontoinsular y opercular izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 546,
+      "end": 592
+    },
+    {
+      "text": "pérdida parcial de la diferenciación córtico-subcortical",
+      "type": "PATOLOGIA",
+      "start": 597,
+      "end": 653
+    },
+    {
+      "text": "ASPECTS 6/10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 655,
+      "end": 667
+    },
+    {
+      "text": "signo de arteria hiperdensa",
+      "type": "PATOLOGIA",
+      "start": 682,
+      "end": 709
+    },
+    {
+      "text": "segmento M1 de la arteria cerebral media izquierda",
+      "type": "ARTERIA",
+      "start": 713,
+      "end": 763
+    },
+    {
+      "text": "hemorragia intraparenquimatosa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 781,
+      "end": 811
+    },
+    {
+      "text": "Línea media centrada",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 827,
+      "end": 847
+    },
+    {
+      "text": "efecto masa significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 853,
+      "end": 878
+    },
+    {
+      "text": "Sistemas ventricular y cisternas basales con morfología conservada",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 880,
+      "end": 946
+    },
+    {
+      "text": "Mapas de tiempo de tránsito prolongado (TTP)",
+      "type": "PATOLOGIA",
+      "start": 963,
+      "end": 1007
+    },
+    {
+      "text": "disminución del flujo cerebral (CBF)",
+      "type": "PATOLOGIA",
+      "start": 1010,
+      "end": 1046
+    },
+    {
+      "text": "territorio de ACM izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1050,
+      "end": 1077
+    },
+    {
+      "text": "reducción marcada de volumen cerebral (CBV)",
+      "type": "PATOLOGIA",
+      "start": 1083,
+      "end": 1126
+    },
+    {
+      "text": "isquemia establecida",
+      "type": "PATOLOGIA",
+      "start": 1145,
+      "end": 1165
+    },
+    {
+      "text": "penumbra viable",
+      "type": "PATOLOGIA",
+      "start": 1168,
+      "end": 1183
+    },
+    {
+      "text": "zona de riesgo isquémico",
+      "type": "PATOLOGIA",
+      "start": 1199,
+      "end": 1223
+    },
+    {
+      "text": "Oclusión completa",
+      "type": "PATOLOGIA",
+      "start": 1257,
+      "end": 1274
+    },
+    {
+      "text": "segmento proximal M1 de la arteria cerebral media izquierda",
+      "type": "ARTERIA",
+      "start": 1279,
+      "end": 1338
+    },
+    {
+      "text": "Arterias intracraneales restantes permeables",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1340,
+      "end": 1384
+    },
+    {
+      "text": "estenosis significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1403,
+      "end": 1427
+    },
+    {
+      "text": "Sistema vertebrobasilar sin alteraciones",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1429,
+      "end": 1469
+    },
+    {
+      "text": "Vasos extra craneales sin estenosis de relevancia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1471,
+      "end": 1520
+    },
+    {
+      "text": "Oclusión aguda",
+      "type": "TEMPORALIDAD",
+      "start": 1545,
+      "end": 1559
+    },
+    {
+      "text": "segmento proximal M1 de ACM izquierda",
+      "type": "ARTERIA",
+      "start": 1563,
+      "end": 1600
+    },
+    {
+      "text": "área isquémica establecida",
+      "type": "PATOLOGIA",
+      "start": 1605,
+      "end": 1631
+    },
+    {
+      "text": "penumbra viable según perfusión",
+      "type": "PATOLOGIA",
+      "start": 1634,
+      "end": 1665
+    },
+    {
+      "text": "ASPECTS 6",
+      "type": "PUNTUACION_CLINICA",
+      "start": 655,
+      "end": 664
+    },
+    {
+      "text": "Ausencia de hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1678,
+      "end": 1713
+    },
+    {
+      "text": "Hallazgos compatibles con isquemia aguda extensa en territorio ACM",
+      "type": "PATOLOGIA",
+      "start": 1715,
+      "end": 1781
+    }
+  ]
+}

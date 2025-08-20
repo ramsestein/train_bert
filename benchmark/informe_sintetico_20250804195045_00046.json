@@ -1,0 +1,119 @@
+{
+  "document_id": "informe_sintetico_20250804195045_00046",
+  "entities": [
+    {
+      "text": "infarto isquémico subagudo",
+      "type": "PATOLOGIA",
+      "start": 619,
+      "end": 645
+    },
+    {
+      "text": "transformación hemorrágica tipo HI2",
+      "type": "PATOLOGIA",
+      "start": 754,
+      "end": 789
+    },
+    {
+      "text": "hemorragia extraaxial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 807,
+      "end": 828
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "ARTERIA",
+      "start": 571,
+      "end": 603
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 594,
+      "end": 603
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 594,
+      "end": 603
+    },
+    {
+      "text": "disminución del flujo",
+      "type": "PATOLOGIA",
+      "start": 1730,
+      "end": 1751
+    },
+    {
+      "text": "transformación hemorrágica tipo HI2",
+      "type": "PATOLOGIA",
+      "start": 754,
+      "end": 789
+    },
+    {
+      "text": "efecto de masa",
+      "type": "PATOLOGIA",
+      "start": 2112,
+      "end": 2126
+    },
+    {
+      "text": "área de infarto subagudo",
+      "type": "PATOLOGIA",
+      "start": 2179,
+      "end": 2203
+    },
+    {
+      "text": "calibre irregular",
+      "type": "PATOLOGIA",
+      "start": 1674,
+      "end": 1691
+    },
+    {
+      "text": "TTP, Tmax",
+      "type": "MEDIDA",
+      "start": 1183,
+      "end": 1192
+    },
+    {
+      "text": "CBF",
+      "type": "MEDIDA",
+      "start": 1222,
+      "end": 1225
+    },
+    {
+      "text": "CBV",
+      "type": "MEDIDA",
+      "start": 1278,
+      "end": 1281
+    },
+    {
+      "text": "subagudo",
+      "type": "TEMPORALIDAD",
+      "start": 637,
+      "end": 645
+    },
+    {
+      "text": "subagudo",
+      "type": "TEMPORALIDAD",
+      "start": 637,
+      "end": 645
+    },
+    {
+      "text": "TC craneal basal sin contraste",
+      "type": "TECNICA_IMAGEN",
+      "start": 303,
+      "end": 333
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 336,
+      "end": 357
+    },
+    {
+      "text": "Angio-TC arterial intra y extracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 360,
+      "end": 398
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "document_id": "informe_sintetico_20250804195045_21998",
+  "entities": [
+    {
+      "text": "infarto isquémico subagudo",
+      "type": "PATOLOGIA",
+      "start": 611,
+      "end": 637
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 563,
+      "end": 595
+    },
+    {
+      "text": "30-50%",
+      "type": "MEDIDA",
+      "start": 779,
+      "end": 785
+    },
+    {
+      "text": "transformación hemorrágica grado HI2",
+      "type": "PATOLOGIA",
+      "start": 827,
+      "end": 863
+    },
+    {
+      "text": "edema vasogénico",
+      "type": "PATOLOGIA",
+      "start": 1067,
+      "end": 1083
+    },
+    {
+      "text": "hipoperfusión marcada",
+      "type": "PATOLOGIA",
+      "start": 1230,
+      "end": 1251
+    },
+    {
+      "text": "sin oclusiones totales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1746,
+      "end": 1768
+    },
+    {
+      "text": "sin estenosis significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1618,
+      "end": 1646
+    },
+    {
+      "text": "sin alteraciones",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1935,
+      "end": 1951
+    },
+    {
+      "text": "sin desplazamiento de línea media",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2214,
+      "end": 2247
+    },
+    {
+      "text": "sin estenosis ni trombosis agudas evidentes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2379,
+      "end": 2422
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 373,
+      "end": 389
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 406,
+      "end": 427
+    },
+    {
+      "text": "AngioTC arterial intra y extracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 430,
+      "end": 467
+    }
+  ]
+}

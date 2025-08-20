@@ -1,0 +1,107 @@
+{
+  "document_id": "informe_sintetico_20250804195045_06139",
+  "entities": [
+    {
+      "text": "paro cardiorrespiratorio",
+      "type": "PATOLOGIA",
+      "start": 206,
+      "end": 230
+    },
+    {
+      "text": "disminución del nivel de conciencia",
+      "type": "PATOLOGIA",
+      "start": 268,
+      "end": 303
+    },
+    {
+      "text": "marcada pérdida de la diferenciación cortico-subcortical",
+      "type": "PATOLOGIA",
+      "start": 585,
+      "end": 641
+    },
+    {
+      "text": "edema cerebral difuso",
+      "type": "PATOLOGIA",
+      "start": 876,
+      "end": 897
+    },
+    {
+      "text": "disminución del flujo cerebral",
+      "type": "PATOLOGIA",
+      "start": 1000,
+      "end": 1030
+    },
+    {
+      "text": "hipoperfusión global",
+      "type": "PATOLOGIA",
+      "start": 1131,
+      "end": 1151
+    },
+    {
+      "text": "ACM",
+      "type": "ARTERIA",
+      "start": 1261,
+      "end": 1264
+    },
+    {
+      "text": "ACA",
+      "type": "ARTERIA",
+      "start": 1266,
+      "end": 1269
+    },
+    {
+      "text": "ACP",
+      "type": "ARTERIA",
+      "start": 1271,
+      "end": 1274
+    },
+    {
+      "text": "sistema vertebrobasilar",
+      "type": "ARTERIA",
+      "start": 1276,
+      "end": 1299
+    },
+    {
+      "text": "bilateral",
+      "type": "LATERALIDAD",
+      "start": 1046,
+      "end": 1055
+    },
+    {
+      "text": "sin estenosis ni oclusiones",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1301,
+      "end": 1328
+    },
+    {
+      "text": "encefalopatía hipóxico-isquémica bilateral",
+      "type": "PATOLOGIA",
+      "start": 1437,
+      "end": 1479
+    },
+    {
+      "text": "sin evidencia de accidente vascular focal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1619,
+      "end": 1660
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 353,
+      "end": 369
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 385,
+      "end": 406
+    },
+    {
+      "text": "Angio-TC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 441,
+      "end": 471
+    }
+  ]
+}

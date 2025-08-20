@@ -1,0 +1,53 @@
+{
+  "document_id": "informe_sintetico_20250804195045_16355",
+  "entities": [
+    {
+      "text": "hematoma lobar parietal izquierdo",
+      "type": "PATOLOGIA",
+      "start": 500,
+      "end": 533
+    },
+    {
+      "text": "25 x 20 mm",
+      "type": "MEDIDA",
+      "start": 566,
+      "end": 576
+    },
+    {
+      "text": "3 mm",
+      "type": "MEDIDA",
+      "start": 677,
+      "end": 681
+    },
+    {
+      "text": "infarto agudo",
+      "type": "PATOLOGIA",
+      "start": 812,
+      "end": 825
+    },
+    {
+      "text": "arterias cerebrales medias, anteriores y posteriores",
+      "type": "ARTERIA",
+      "start": 1227,
+      "end": 1279
+    },
+    {
+      "text": "sin signos de estenosis, oclusión ni vasculopatía evidente",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1281,
+      "end": 1339
+    },
+    {
+      "text": "sin alteraciones asociadas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1723,
+      "end": 1749
+    },
+    {
+      "text": "sin evidencias de malformaciones vasculares ni oclusiones arteriales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1760,
+      "end": 1828
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "document_id": "informe_sintetico_20250804195045_17420",
+  "entities": [
+    {
+      "text": "isquemia vertebrobasilar aguda",
+      "type": "PATOLOGIA",
+      "start": 266,
+      "end": 296
+    },
+    {
+      "text": "edema isquémico precoz",
+      "type": "PATOLOGIA",
+      "start": 690,
+      "end": 712
+    },
+    {
+      "text": "penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1163,
+      "end": 1181
+    },
+    {
+      "text": "estenosis significativa",
+      "type": "PATOLOGIA",
+      "start": 1384,
+      "end": 1407
+    },
+    {
+      "text": "estenosis severa proximal",
+      "type": "PATOLOGIA",
+      "start": 1536,
+      "end": 1561
+    },
+    {
+      "text": "arteria basilar",
+      "type": "ARTERIA",
+      "start": 1065,
+      "end": 1080
+    },
+    {
+      "text": "tronco encefálico",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 980,
+      "end": 997
+    },
+    {
+      "text": "cerebelo posterior",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1000,
+      "end": 1018
+    },
+    {
+      "text": "arteria basilar distal",
+      "type": "ARTERIA",
+      "start": 1065,
+      "end": 1087
+    },
+    {
+      "text": "arterias cerebelosas posteriores inferiores (PICA)",
+      "type": "ARTERIA",
+      "start": 1096,
+      "end": 1146
+    },
+    {
+      "text": "70%",
+      "type": "MEDIDA",
+      "start": 1452,
+      "end": 1455
+    },
+    {
+      "text": "No se identifican hemorragias intracraneales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 522,
+      "end": 566
+    },
+    {
+      "text": "No hay hemorragia ni edema masivo en el momento actual",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1944,
+      "end": 1998
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 317,
+      "end": 333
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 336,
+      "end": 357
+    },
+    {
+      "text": "AngioTC intracraneal y extra craneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 401,
+      "end": 437
+    }
+  ]
+}

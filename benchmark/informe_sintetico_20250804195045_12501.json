@@ -1,0 +1,169 @@
+{
+  "document_id": "informe_sintetico_20250804195045_12501",
+  "entities": [
+    {
+      "text": "ictus",
+      "type": "PATOLOGIA",
+      "start": 342,
+      "end": 347
+    },
+    {
+      "text": "debilidad",
+      "type": "PATOLOGIA",
+      "start": 196,
+      "end": 205
+    },
+    {
+      "text": "compromiso del lenguaje",
+      "type": "PATOLOGIA",
+      "start": 260,
+      "end": 283
+    },
+    {
+      "text": "alteración del nivel de conciencia",
+      "type": "PATOLOGIA",
+      "start": 286,
+      "end": 320
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 853,
+      "end": 867
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 586,
+      "end": 609
+    },
+    {
+      "text": "áreas de hipodensidad incipiente",
+      "type": "PATOLOGIA",
+      "start": 639,
+      "end": 671
+    },
+    {
+      "text": "territorio medial del hemisferio cerebral izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 678,
+      "end": 729
+    },
+    {
+      "text": "córtex",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 750,
+      "end": 756
+    },
+    {
+      "text": "sustancia blanca",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 762,
+      "end": 778
+    },
+    {
+      "text": "región frontal medial",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 785,
+      "end": 806
+    },
+    {
+      "text": "cuerpo calloso anterior",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 812,
+      "end": 835
+    },
+    {
+      "text": "territorio de ACA izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 871,
+      "end": 898
+    },
+    {
+      "text": "volumen sanguíneo cerebral (CBV)",
+      "type": "MEDIDA",
+      "start": 1155,
+      "end": 1187
+    },
+    {
+      "text": "flujo sanguíneo cerebral (CBF)",
+      "type": "MEDIDA",
+      "start": 1194,
+      "end": 1224
+    },
+    {
+      "text": "tiempo de tránsito medio (MTT)",
+      "type": "MEDIDA",
+      "start": 1274,
+      "end": 1304
+    },
+    {
+      "text": "tiempo hasta el pico (TTP)",
+      "type": "MEDIDA",
+      "start": 1307,
+      "end": 1333
+    },
+    {
+      "text": "segmento A2",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1433,
+      "end": 1444
+    },
+    {
+      "text": "arteria cerebral anterior izquierda",
+      "type": "ARTERIA",
+      "start": 1451,
+      "end": 1486
+    },
+    {
+      "text": "ACAs contralaterales",
+      "type": "ARTERIA",
+      "start": 1556,
+      "end": 1576
+    },
+    {
+      "text": "ACMs",
+      "type": "ARTERIA",
+      "start": 1578,
+      "end": 1582
+    },
+    {
+      "text": "ACPs",
+      "type": "ARTERIA",
+      "start": 1585,
+      "end": 1589
+    },
+    {
+      "text": "carotídeas",
+      "type": "ARTERIA",
+      "start": 1638,
+      "end": 1648
+    },
+    {
+      "text": "circulación vertebrobasilar",
+      "type": "ARTERIA",
+      "start": 1655,
+      "end": 1682
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 853,
+      "end": 867
+    },
+    {
+      "text": "zona adyacente en penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1854,
+      "end": 1890
+    },
+    {
+      "text": "tratamiento endovascular o farmacológico",
+      "type": "PATOLOGIA",
+      "start": 2026,
+      "end": 2066
+    }
+  ],
+  "regenerado": true,
+  "fecha_regeneracion": "2025-08-06T11:40:43.967123"
+}

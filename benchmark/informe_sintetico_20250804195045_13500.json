@@ -1,0 +1,83 @@
+{
+  "document_id": "informe_sintetico_20250804195045_13500",
+  "entities": [
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 271,
+      "end": 285
+    },
+    {
+      "text": "región bulboprotuberancial derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 657,
+      "end": 691
+    },
+    {
+      "text": "arteria vertebral derecha",
+      "type": "ARTERIA",
+      "start": 1261,
+      "end": 1286
+    },
+    {
+      "text": "arteria basilar",
+      "type": "ARTERIA",
+      "start": 1375,
+      "end": 1390
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 684,
+      "end": 691
+    },
+    {
+      "text": "80%",
+      "type": "MEDIDA",
+      "start": 1467,
+      "end": 1470
+    },
+    {
+      "text": "aguda",
+      "type": "TEMPORALIDAD",
+      "start": 280,
+      "end": 285
+    },
+    {
+      "text": "No se identifican hemorragias intraparenquimatosas ni hematomas extraaxiales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 552,
+      "end": 628
+    },
+    {
+      "text": "No se observan signos de infarto antiguo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 781,
+      "end": 821
+    },
+    {
+      "text": "No evidencia de hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1928,
+      "end": 1967
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 339,
+      "end": 355
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 824,
+      "end": 845
+    },
+    {
+      "text": "Angio-TC arterial intracraneal y extra craneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 1164,
+      "end": 1210
+    }
+  ]
+}

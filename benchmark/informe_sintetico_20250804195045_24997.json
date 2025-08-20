@@ -1,0 +1,167 @@
+{
+  "document_id": "informe_sintetico_20250804195045_24997",
+  "entities": [
+    {
+      "text": "ictus isquémico agudo",
+      "type": "PATOLOGIA",
+      "start": 252,
+      "end": 273
+    },
+    {
+      "text": "hiperdensidad lineal",
+      "type": "PATOLOGIA",
+      "start": 573,
+      "end": 593
+    },
+    {
+      "text": "signo de arteria hiperdensa",
+      "type": "PATOLOGIA",
+      "start": 673,
+      "end": 700
+    },
+    {
+      "text": "hemorragias intracraneales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 720,
+      "end": 746
+    },
+    {
+      "text": "edema parenquimatoso hipodenso",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 750,
+      "end": 780
+    },
+    {
+      "text": "infarto establecido",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 793,
+      "end": 812
+    },
+    {
+      "text": "ASPECTS evaluado en 7",
+      "type": "PUNTUACION_CLINICA",
+      "start": 908,
+      "end": 929
+    },
+    {
+      "text": "extensa área con prolongación del tiempo de tránsito medio (MTT)",
+      "type": "PATOLOGIA",
+      "start": 1066,
+      "end": 1130
+    },
+    {
+      "text": "tiempo al pico (TTP)",
+      "type": "PATOLOGIA",
+      "start": 1133,
+      "end": 1153
+    },
+    {
+      "text": "ACM izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1174,
+      "end": 1187
+    },
+    {
+      "text": "disminución marcada del flujo cerebral (CBF)",
+      "type": "PATOLOGIA",
+      "start": 1193,
+      "end": 1237
+    },
+    {
+      "text": "volumen cerebral (CBV) preservado",
+      "type": "PATOLOGIA",
+      "start": 1240,
+      "end": 1273
+    },
+    {
+      "text": "zona de penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1302,
+      "end": 1328
+    },
+    {
+      "text": "núcleo isquémico establecido de gran volumen",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1347,
+      "end": 1391
+    },
+    {
+      "text": "Oclusión completa en segmento proximal (M1) de la ACM izquierda",
+      "type": "PATOLOGIA",
+      "start": 1417,
+      "end": 1480
+    },
+    {
+      "text": "Arterias intracraneales restantes permeables sin estenosis significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1482,
+      "end": 1555
+    },
+    {
+      "text": "aneurismas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1572,
+      "end": 1582
+    },
+    {
+      "text": "malformaciones vasculares",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1586,
+      "end": 1611
+    },
+    {
+      "text": "oclusión proximal angiográfica de la arteria cerebral media izquierda (M1)",
+      "type": "PATOLOGIA",
+      "start": 1664,
+      "end": 1738
+    },
+    {
+      "text": "signo de arteria hiperdensa",
+      "type": "PATOLOGIA",
+      "start": 673,
+      "end": 700
+    },
+    {
+      "text": "zona de penumbra significativa sin núcleo isquémico establecido voluminoso (ASPECTS 7)",
+      "type": "PATOLOGIA",
+      "start": 1800,
+      "end": 1886
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1901,
+      "end": 1924
+    },
+    {
+      "text": "isquemia aguda por oclusión de ACM proximal",
+      "type": "PATOLOGIA",
+      "start": 1952,
+      "end": 1995
+    },
+    {
+      "text": "TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANG IOTC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 72,
+      "end": 140
+    },
+    {
+      "text": "TC craneal basal sin contraste",
+      "type": "TECNICA_IMAGEN",
+      "start": 426,
+      "end": 456
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 458,
+      "end": 479
+    },
+    {
+      "text": "Angio-TC intracraneal en fase arterial",
+      "type": "TECNICA_IMAGEN",
+      "start": 482,
+      "end": 520
+    }
+  ]
+}

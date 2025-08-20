@@ -1,0 +1,53 @@
+{
+  "document_id": "informe_sintetico_20250804195045_14138",
+  "entities": [
+    {
+      "text": "infarto isquémico",
+      "type": "PATOLOGIA",
+      "start": 670,
+      "end": 687
+    },
+    {
+      "text": "zonas watershed corticales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 628,
+      "end": 654
+    },
+    {
+      "text": "arterias cerebrales anterior y media",
+      "type": "ARTERIA",
+      "start": 590,
+      "end": 626
+    },
+    {
+      "text": "bilateral",
+      "type": "LATERALIDAD",
+      "start": 208,
+      "end": 217
+    },
+    {
+      "text": "estenosis moderada",
+      "type": "PATOLOGIA",
+      "start": 1185,
+      "end": 1203
+    },
+    {
+      "text": "carótida interna derecha",
+      "type": "ARTERIA",
+      "start": 1218,
+      "end": 1242
+    },
+    {
+      "text": "sin signos de trombosis ni estenosis severas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1440,
+      "end": 1484
+    },
+    {
+      "text": "sin datos de hemorragia ni trombosis arterial intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2153,
+      "end": 2211
+    }
+  ]
+}

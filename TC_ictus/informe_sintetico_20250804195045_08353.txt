@@ -1,0 +1,32 @@
+UO_PACN (Unidad Organizativa Médica): RADIO
+
+PRUEB (Prueba solicitada): TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANG IOTC ARTERIAL INTRACRANEAL)
+
+CLIN (Resumen clínico): Déficit motor brusco hemicuerpo derecho, afasia, tiempo de evolución aproximado 2 horas. Sospecha de ictus isquémico.
+
+OBSR (Protocolo): Protocolo código ictus: TC craneal basal sin contraste, estudio de perfusión cerebral con adquisición dinámica para valoración de TTP, CBV y CBF, y angio-TC de troncos supraórticos y arterial intracraneal.
+
+RESL (Resultados): 
+TC CRANEAL BASAL: 
+Se evidencia hipodensidad difusa en la sustancia blanca y gris cortical del territorio de la arteria cerebral media izquierda, que afecta la corona radiada, la cápsula externa y la corteza insular, con borramiento de surcos próximos y leve perdida de diferenciación cortico-subcortical. ASPECTS 7. No se identifican hemorragias intraparenquimatosas, ni signos de sangrado subaracnoideo o intraventricular. Línea media centrada, sin desplazamientos ni signos de herniación.
+
+TC PERFUSIÓN CEREBRAL: 
+Retraso prolongado del tiempo de tránsito medio (TTP) y tiempo de retraso (DT) en territorio de ACM izquierda, con reducción significativa del flujo cerebral (CBF) y volumen cerebral (CBV) en la misma región, confirmando área de penumbra y núcleo infarto.
+
+ANGIO-TC ARTERIAL INTRACRANEAL Y EXTRA-CRANEAL: 
+Oclusión completa del segmento cervical distal de la arteria carótida interna izquierda, sin visualización de flujo distal. Ateromatosis difusa en arterias carotídeas y cerebrales, con placas calcificadas ateromatosas en bifurcación carotídea derecha sin estenosis significativa. El resto de la circulación intracraneal muestra permeabilidad conservada, con llenado normal de ACAs y ACPs del mismo lado y circulación contralateral preservada.
+
+CONCL (Conclusiones): 
+- Oclusión de arteria carótida interna izquierda a nivel cervical distal con infarto en territorio de la arteria cerebral media izquierda. 
+- Área isquémica en evolución con signos incipientes de daño parenquimatoso y penumbra significativa en estudio de perfusión. 
+- No complicaciones hemorrágicas ni desplazamientos de línea media.
+
+ACTI_ADICI (Actividad adicional): Control evolutivo con RM y valoración neurológica urgente para tratamiento endovascular.
+
+ICON (Estudio): @TC_CODIGOICTUS@
+
+X00DIATXT (Texto del diagnóstico ACR): Oclusión de arteria carótida interna izquierda con infarto cerebral asociado en territorio de ACM izquierda.
+
+EST_T_DES (Descripción): TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANGIOTC ARTERIAL INTRACRANEAL)
+
+ZVASOS_D (Der.): Oclusión carotídea y área infartada izquierda en territorio de ACM con mismatch significativo entre perfusión y volumen cerebral.

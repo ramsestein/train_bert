@@ -1,0 +1,65 @@
+{
+  "document_id": "informe_sintetico_20250804195045_22902",
+  "entities": [
+    {
+      "text": "hematoma lobar frontal izquierdo",
+      "type": "PATOLOGIA",
+      "start": 455,
+      "end": 487
+    },
+    {
+      "text": "frontal izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 470,
+      "end": 487
+    },
+    {
+      "text": "32 mL",
+      "type": "MEDIDA",
+      "start": 563,
+      "end": 568
+    },
+    {
+      "text": "4 mm",
+      "type": "MEDIDA",
+      "start": 777,
+      "end": 781
+    },
+    {
+      "text": "izquierdo",
+      "type": "LATERALIDAD",
+      "start": 478,
+      "end": 487
+    },
+    {
+      "text": "moderado",
+      "type": "TEMPORALIDAD",
+      "start": 697,
+      "end": 705
+    },
+    {
+      "text": "sin evidencia de área isquémica definible",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1360,
+      "end": 1401
+    },
+    {
+      "text": "ACAs, ACMs, ACPs",
+      "type": "ARTERIA",
+      "start": 1472,
+      "end": 1488
+    },
+    {
+      "text": "sin estenosis ni oclusiones",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1522,
+      "end": 1549
+    },
+    {
+      "text": "sin alteraciones hemodinámicas significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2086,
+      "end": 2131
+    }
+  ]
+}

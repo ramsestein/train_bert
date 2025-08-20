@@ -1,0 +1,119 @@
+{
+  "document_id": "informe_sintetico_20250804195045_04615",
+  "entities": [
+    {
+      "text": "hipodensidad",
+      "type": "PATOLOGIA",
+      "start": 425,
+      "end": 437
+    },
+    {
+      "text": "signos de infarto agudo",
+      "type": "PATOLOGIA",
+      "start": 441,
+      "end": 464
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 537,
+      "end": 547
+    },
+    {
+      "text": "colecciones hemorrágicas",
+      "type": "PATOLOGIA",
+      "start": 565,
+      "end": 589
+    },
+    {
+      "text": "edema cerebral significativo",
+      "type": "PATOLOGIA",
+      "start": 603,
+      "end": 631
+    },
+    {
+      "text": "simétrico",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 792,
+      "end": 801
+    },
+    {
+      "text": "dilataciones",
+      "type": "PATOLOGIA",
+      "start": 808,
+      "end": 820
+    },
+    {
+      "text": "Mapas de perfusión cerebral dentro de parámetros normales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 837,
+      "end": 894
+    },
+    {
+      "text": "No se detectan áreas con alteraciones en el flujo sanguíneo, volumen sanguíneo o tiempo de tránsito",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 896,
+      "end": 995
+    },
+    {
+      "text": "Mismatch no significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 997,
+      "end": 1022
+    },
+    {
+      "text": "Arterias craneales principales (carótidas internas, arterias cerebrales anteriores, medias y posteriores)",
+      "type": "ARTERIA",
+      "start": 1056,
+      "end": 1161
+    },
+    {
+      "text": "sin estenosis ni oclusiones visibles",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1174,
+      "end": 1210
+    },
+    {
+      "text": "Sistema vertebrobasilar sin alteraciones morfológicas ni funcionales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1212,
+      "end": 1280
+    },
+    {
+      "text": "No se identifican malformaciones vasculares ni aneurismas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1282,
+      "end": 1339
+    },
+    {
+      "text": "sin evidencia de patología aguda",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1383,
+      "end": 1415
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 537,
+      "end": 547
+    },
+    {
+      "text": "Arterias cerebrales permeables sin estenosis ni alteraciones estructurales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1487,
+      "end": 1561
+    },
+    {
+      "text": "No se observan signos de infarto, hemorragia ni edema cerebral",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1563,
+      "end": 1625
+    },
+    {
+      "text": "TC craneal urgente sin hallazgos agudos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1779,
+      "end": 1818
+    }
+  ]
+}

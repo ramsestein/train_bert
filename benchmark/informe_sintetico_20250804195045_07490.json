@@ -1,0 +1,209 @@
+{
+  "document_id": "informe_sintetico_20250804195045_07490",
+  "entities": [
+    {
+      "text": "infarto cerebral",
+      "type": "PATOLOGIA",
+      "start": 207,
+      "end": 223
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "ARTERIA",
+      "start": 244,
+      "end": 274
+    },
+    {
+      "text": "transformación hemorrágica",
+      "type": "PATOLOGIA",
+      "start": 288,
+      "end": 314
+    },
+    {
+      "text": "TC craneal basal urgente",
+      "type": "TECNICA_IMAGEN",
+      "start": 365,
+      "end": 389
+    },
+    {
+      "text": "área hipodensa extensa",
+      "type": "PATOLOGIA",
+      "start": 508,
+      "end": 530
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "ARTERIA",
+      "start": 244,
+      "end": 274
+    },
+    {
+      "text": "infarto isquémico subagudo",
+      "type": "PATOLOGIA",
+      "start": 651,
+      "end": 677
+    },
+    {
+      "text": "focos puntiformes de hiperdensidad",
+      "type": "PATOLOGIA",
+      "start": 751,
+      "end": 785
+    },
+    {
+      "text": "transformación hemorrágica",
+      "type": "PATOLOGIA",
+      "start": 288,
+      "end": 314
+    },
+    {
+      "text": "colecciones extraaxiales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 922,
+      "end": 946
+    },
+    {
+      "text": "signos de hemorragia subaracnoidea",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 950,
+      "end": 984
+    },
+    {
+      "text": "desviación leve hacia la izquierda",
+      "type": "PATOLOGIA",
+      "start": 1018,
+      "end": 1052
+    },
+    {
+      "text": "4 mm",
+      "type": "MEDIDA",
+      "start": 1070,
+      "end": 1074
+    },
+    {
+      "text": "sin hidrocefalia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1172,
+      "end": 1188
+    },
+    {
+      "text": "Cisternas basales libres",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1190,
+      "end": 1214
+    },
+    {
+      "text": "aumento de los tiempos de tránsito",
+      "type": "PATOLOGIA",
+      "start": 1278,
+      "end": 1312
+    },
+    {
+      "text": "disminución del flujo cerebral",
+      "type": "PATOLOGIA",
+      "start": 1315,
+      "end": 1345
+    },
+    {
+      "text": "zona infartada",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1392,
+      "end": 1406
+    },
+    {
+      "text": "volumen cerebral",
+      "type": "MEDIDA",
+      "start": 1442,
+      "end": 1458
+    },
+    {
+      "text": "CBV",
+      "type": "MEDIDA",
+      "start": 1460,
+      "end": 1463
+    },
+    {
+      "text": "núcleo del infarto",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1482,
+      "end": 1500
+    },
+    {
+      "text": "preservación parcial en zonas periféricas",
+      "type": "PATOLOGIA",
+      "start": 1506,
+      "end": 1547
+    },
+    {
+      "text": "oclusión completa",
+      "type": "PATOLOGIA",
+      "start": 1575,
+      "end": 1592
+    },
+    {
+      "text": "segmento proximal M1",
+      "type": "ARTERIA",
+      "start": 1597,
+      "end": 1617
+    },
+    {
+      "text": "ACM derecha",
+      "type": "ARTERIA",
+      "start": 1624,
+      "end": 1635
+    },
+    {
+      "text": "sin evidencia de reperfusión",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1637,
+      "end": 1665
+    },
+    {
+      "text": "sin alteraciones significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1704,
+      "end": 1735
+    },
+    {
+      "text": "territorio de la arteria cerebral media derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 227,
+      "end": 274
+    },
+    {
+      "text": "post infarto isquémico subagudo",
+      "type": "TEMPORALIDAD",
+      "start": 1866,
+      "end": 1897
+    },
+    {
+      "text": "sin reperfusión",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1944,
+      "end": 1959
+    },
+    {
+      "text": "sin compromiso ventricular",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2003,
+      "end": 2029
+    },
+    {
+      "text": "TC de cráneo con perfusión y angiografía arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 2258,
+      "end": 2320
+    },
+    {
+      "text": "infarto cerebral en territorio de la arteria cerebral media derecha",
+      "type": "PATOLOGIA",
+      "start": 207,
+      "end": 274
+    },
+    {
+      "text": "transformación hemorrágica tipo PH1",
+      "type": "PATOLOGIA",
+      "start": 2434,
+      "end": 2469
+    }
+  ]
+}

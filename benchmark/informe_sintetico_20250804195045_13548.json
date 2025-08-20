@@ -1,0 +1,107 @@
+{
+  "document_id": "informe_sintetico_20250804195045_13548",
+  "entities": [
+    {
+      "text": "hemorragia subaracnoidea",
+      "type": "PATOLOGIA",
+      "start": 299,
+      "end": 323
+    },
+    {
+      "text": "cisura silviana derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 713,
+      "end": 736
+    },
+    {
+      "text": "hemorragia subaracnoidea focal localizada en la cisura silviana derecha",
+      "type": "PATOLOGIA",
+      "start": 665,
+      "end": 736
+    },
+    {
+      "text": "hemorragia intraventricular",
+      "type": "PATOLOGIA",
+      "start": 849,
+      "end": 876
+    },
+    {
+      "text": "sin signos de hidrocefalia aguda",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 987,
+      "end": 1019
+    },
+    {
+      "text": "sin áreas de oligemia o isquemia evidenciables",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1146,
+      "end": 1192
+    },
+    {
+      "text": "6 mm",
+      "type": "MEDIDA",
+      "start": 1355,
+      "end": 1359
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "ARTERIA",
+      "start": 1384,
+      "end": 1414
+    },
+    {
+      "text": "bifurcación de la arteria cerebral media derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1366,
+      "end": 1414
+    },
+    {
+      "text": "sin signos de ruptura activa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1442,
+      "end": 1470
+    },
+    {
+      "text": "sin estenosis ni oclusiones",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1497,
+      "end": 1524
+    },
+    {
+      "text": "permeabilidad y calibre adecuados",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1581,
+      "end": 1614
+    },
+    {
+      "text": "sin signos de ruptura activa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1442,
+      "end": 1470
+    },
+    {
+      "text": "sin alteraciones isquémicas asociadas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1862,
+      "end": 1899
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 419,
+      "end": 435
+    },
+    {
+      "text": "angiografía por angioTC de arterias intracraneales",
+      "type": "TECNICA_IMAGEN",
+      "start": 492,
+      "end": 542
+    },
+    {
+      "text": "estudio de perfusión cerebral dinámica",
+      "type": "TECNICA_IMAGEN",
+      "start": 451,
+      "end": 489
+    }
+  ]
+}

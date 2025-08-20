@@ -1,0 +1,95 @@
+{
+  "document_id": "informe_sintetico_20250804195045_19693",
+  "entities": [
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 720,
+      "end": 734
+    },
+    {
+      "text": "región frontoparietal izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 603,
+      "end": 634
+    },
+    {
+      "text": "occipital derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 637,
+      "end": 654
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "ARTERIA",
+      "start": 1228,
+      "end": 1260
+    },
+    {
+      "text": "arteria cerebral posterior derecha",
+      "type": "ARTERIA",
+      "start": 1300,
+      "end": 1334
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 625,
+      "end": 634
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 647,
+      "end": 654
+    },
+    {
+      "text": "multiterritorial",
+      "type": "TEMPORALIDAD",
+      "start": 309,
+      "end": 325
+    },
+    {
+      "text": "No se evidencian signos de hemorragia aguda intra ni extraaxial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 736,
+      "end": 799
+    },
+    {
+      "text": "sin evidencia de hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2197,
+      "end": 2237
+    },
+    {
+      "text": "penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1117,
+      "end": 1135
+    },
+    {
+      "text": "TC craneal basal urgente",
+      "type": "TECNICA_IMAGEN",
+      "start": 346,
+      "end": 370
+    },
+    {
+      "text": "TC PERFUSIÓN",
+      "type": "TECNICA_IMAGEN",
+      "start": 874,
+      "end": 886
+    },
+    {
+      "text": "ANGIO-TC INTRA/EXTRACRANEAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 1159,
+      "end": 1186
+    },
+    {
+      "text": "incremento del tiempo de tránsito medio (MTT)",
+      "type": "MEDIDA",
+      "start": 988,
+      "end": 1033
+    }
+  ]
+}

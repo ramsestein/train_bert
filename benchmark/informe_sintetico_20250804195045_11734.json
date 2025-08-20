@@ -1,0 +1,169 @@
+{
+  "document_id": "informe_sintetico_20250804195045_11734",
+  "entities": [
+    {
+      "text": "ictus isquémico",
+      "type": "PATOLOGIA",
+      "start": 249,
+      "end": 264
+    },
+    {
+      "text": "déficit neurológico súbito",
+      "type": "PATOLOGIA",
+      "start": 179,
+      "end": 205
+    },
+    {
+      "text": "afasia",
+      "type": "PATOLOGIA",
+      "start": 207,
+      "end": 213
+    },
+    {
+      "text": "hemiparesia derecha",
+      "type": "PATOLOGIA",
+      "start": 216,
+      "end": 235
+    },
+    {
+      "text": "hipodensidad",
+      "type": "PATOLOGIA",
+      "start": 439,
+      "end": 451
+    },
+    {
+      "text": "infarto cerebral en evolución temprana",
+      "type": "PATOLOGIA",
+      "start": 627,
+      "end": 665
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 472,
+      "end": 504
+    },
+    {
+      "text": "corteza",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 522,
+      "end": 529
+    },
+    {
+      "text": "sustancia blanca insular y parietal",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 532,
+      "end": 567
+    },
+    {
+      "text": "territorio de la ACM izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 966,
+      "end": 996
+    },
+    {
+      "text": "arteria carótida interna izquierda",
+      "type": "ARTERIA",
+      "start": 1186,
+      "end": 1220
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "ARTERIA",
+      "start": 472,
+      "end": 504
+    },
+    {
+      "text": "circulación contralateral",
+      "type": "ARTERIA",
+      "start": 1383,
+      "end": 1408
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 495,
+      "end": 504
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 228,
+      "end": 235
+    },
+    {
+      "text": "cervical proximal",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1233,
+      "end": 1250
+    },
+    {
+      "text": "signos de hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 685,
+      "end": 718
+    },
+    {
+      "text": "masas expansivas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 722,
+      "end": 738
+    },
+    {
+      "text": "revascularizador",
+      "type": "PATOLOGIA",
+      "start": 1735,
+      "end": 1751
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 285,
+      "end": 301
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 303,
+      "end": 324
+    },
+    {
+      "text": "angio-TC de vasos intra y extracraneales",
+      "type": "TECNICA_IMAGEN",
+      "start": 327,
+      "end": 367
+    },
+    {
+      "text": "volumen cerebral (CBV)",
+      "type": "MEDIDA",
+      "start": 940,
+      "end": 962
+    },
+    {
+      "text": "aumento de los tiempos de tránsito (Tmax)",
+      "type": "MEDIDA",
+      "start": 1002,
+      "end": 1043
+    },
+    {
+      "text": "área de penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1058,
+      "end": 1084
+    },
+    {
+      "text": "infarto parenquimatoso",
+      "type": "PATOLOGIA",
+      "start": 2026,
+      "end": 2048
+    },
+    {
+      "text": "TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANG IOTC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 72,
+      "end": 140
+    }
+  ],
+  "regenerado": true,
+  "fecha_regeneracion": "2025-08-06T14:46:17.095432"
+}

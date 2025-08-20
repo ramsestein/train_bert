@@ -1,0 +1,47 @@
+{
+  "document_id": "0000000010000000060906206_cleaned",
+  "entities": [
+    {
+      "text": "lesiones isquémicas agudas",
+      "type": "PATOLOGIA",
+      "start": 486,
+      "end": 512
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 553,
+      "end": 563
+    },
+    {
+      "text": "región temporal posterior /occipital izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 777,
+      "end": 823
+    },
+    {
+      "text": "ACAs, ACMs y ACPs",
+      "type": "ARTERIA",
+      "start": 1149,
+      "end": 1166
+    },
+    {
+      "text": "Sistema vertebrobasilar",
+      "type": "ARTERIA",
+      "start": 1169,
+      "end": 1192
+    },
+    {
+      "text": "No se observa sangrado agudo intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 410,
+      "end": 451
+    },
+    {
+      "text": "No se observa sangrado agudo intracranea ni lesiones isquémicas agudas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1329,
+      "end": 1399
+    }
+  ]
+}

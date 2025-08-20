@@ -1,0 +1,149 @@
+{
+  "document_id": "informe_sintetico_20250804195045_16112",
+  "entities": [
+    {
+      "text": "accidente isquémico",
+      "type": "PATOLOGIA",
+      "start": 250,
+      "end": 269
+    },
+    {
+      "text": "isquémica aguda",
+      "type": "PATOLOGIA",
+      "start": 763,
+      "end": 778
+    },
+    {
+      "text": "arteria cerebral anterior izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 799,
+      "end": 834
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 1345,
+      "end": 1359
+    },
+    {
+      "text": "arteria cerebral anterior izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 799,
+      "end": 834
+    },
+    {
+      "text": "A2",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1479,
+      "end": 1481
+    },
+    {
+      "text": "arteria cerebral anterior izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 799,
+      "end": 834
+    },
+    {
+      "text": "ACM",
+      "type": "ARTERIA",
+      "start": 1556,
+      "end": 1559
+    },
+    {
+      "text": "ACP",
+      "type": "ARTERIA",
+      "start": 1562,
+      "end": 1565
+    },
+    {
+      "text": "bilateral",
+      "type": "LATERALIDAD",
+      "start": 1566,
+      "end": 1575
+    },
+    {
+      "text": "estenosis severa",
+      "type": "PATOLOGIA",
+      "start": 1447,
+      "end": 1463
+    },
+    {
+      "text": "sin estenosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1588,
+      "end": 1601
+    },
+    {
+      "text": "sin alteraciones significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1641,
+      "end": 1672
+    },
+    {
+      "text": "sin estenosis relevante",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1718,
+      "end": 1741
+    },
+    {
+      "text": "24-48 horas",
+      "type": "MEDIDA",
+      "start": 2297,
+      "end": 2308
+    },
+    {
+      "text": "TC craneal basal urgente",
+      "type": "TECNICA_IMAGEN",
+      "start": 333,
+      "end": 357
+    },
+    {
+      "text": "TC PERFUSIÓN",
+      "type": "TECNICA_IMAGEN",
+      "start": 1037,
+      "end": 1049
+    },
+    {
+      "text": "angiografía por TC",
+      "type": "TECNICA_IMAGEN",
+      "start": 394,
+      "end": 412
+    },
+    {
+      "text": "prolongación del tiempo de tránsito medio (MTT)",
+      "type": "MEDIDA",
+      "start": 1062,
+      "end": 1109
+    },
+    {
+      "text": "tiempo hasta el pico (TTP)",
+      "type": "MEDIDA",
+      "start": 1112,
+      "end": 1138
+    },
+    {
+      "text": "reducción del flujo sanguíneo cerebral (CBF)",
+      "type": "MEDIDA",
+      "start": 1212,
+      "end": 1256
+    },
+    {
+      "text": "volumen cerebral (CBV)",
+      "type": "MEDIDA",
+      "start": 1259,
+      "end": 1281
+    },
+    {
+      "text": "conservado o ligeramente disminuido",
+      "type": "MEDIDA",
+      "start": 1282,
+      "end": 1317
+    },
+    {
+      "text": "sin estenosis relevante en troncos supraórticos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1718,
+      "end": 1765
+    }
+  ]
+}

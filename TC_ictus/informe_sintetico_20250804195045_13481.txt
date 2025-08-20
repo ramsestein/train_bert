@@ -1,0 +1,32 @@
+UO_PACN (Unidad Organizativa Médica): RADIO
+
+PRUEB (Prueba solicitada): TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANG IOTC ARTERIAL INTRACRANEAL)
+
+CLIN (Resumen clínico): Déficit motor contralateral súbito con hemiparesia derecha y afasia motora, sospecha clínica de isquemia aguda en territorio de arteria cerebral anterior izquierda.
+
+OBSR (Protocolo): TC craneal urgente basal no contrastado + TC perfusión cerebral + Angio-TC arterial intracraneal.
+
+RESL (Resultados):  
+TC CRANEAL BASAL:  
+No se identifican signos de hemorragia intracraneal. Se observa hipodensidad cortical y subcortical en el territorio vascular correspondiente a la arteria cerebral anterior izquierda, afectando la región mesial frontal y paracentral, con leve pérdida de diferenciación córtico-subcortical. No hay efecto masa significativo ni desplazamiento de la línea media. Estructuras de línea media centradas. Sistema ventricular normal. Cisternas basales libres.
+
+TC PERFUSIÓN CEREBRAL:  
+Se evidencia aumento del tiempo de tránsito medio (TTP) y del tiempo de retraso (delay time) en el territorio de la ACA izquierda, con disminución moderada de volumen sanguíneo cerebral (CBV) y flujo sanguíneo cerebral (CBF), compatible con área de penumbra isquémica. Discordancia significativa entre las áreas con TTP alterado y la reducción de CBV, sin evidencia clara de núcleo isquémico establecido.
+
+ANGIO-TC ARTERIAL INTRACRANEAL:  
+Se detecta oclusión subtotal en el segmento A2 de la arteria cerebral anterior izquierda. El resto de vasos intracraneales principales (ACM, ACP) presentan permeabilidad conservada. No se identifican estenosis relevantes en el sistema carotídeo intracraneal ni en el círculo de Willis. Sistema vertebrobasilar sin alteraciones.
+
+CONCL (Conclusiones):  
+Hallazgos compatibles con isquemia aguda en el territorio vascular de la arteria cerebral anterior izquierda. Presencia de oclusión subtotal del segmento A2 con área de penumbra identificada en perfusión cerebral, sin signos radiológicos de núcleo infartado establecido. Recomendable valoración urgente para tratamiento revascularizador.
+
+ACTI_ADICI (Actividad adicional):  
+
+DKTXT (Descripción): Seguimiento clínico y valoración de tratamiento endovascular recomendados. Informe enviado a neurología de guardia.
+
+ICON (Estudio): TC CODE ICTUS
+
+X00DIATXT (Texto del diagnóstico ACR): Infarto cerebral agudo en territorio de ACA izquierda con oclusión parcial del segmento A2 y alteración hemodinámica compatible con área de penumbra.
+
+EST_T_DES (Descripción): TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANGIO-TC ARTERIAL INTRACRANEAL)
+
+ZVASOS_D (Der.): ACA izquierda ocluida segmento A2.

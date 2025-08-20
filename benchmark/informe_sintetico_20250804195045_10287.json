@@ -1,0 +1,101 @@
+{
+  "document_id": "informe_sintetico_20250804195045_10287",
+  "entities": [
+    {
+      "text": "infarto cerebral reciente",
+      "type": "PATOLOGIA",
+      "start": 488,
+      "end": 513
+    },
+    {
+      "text": "sangrado intraparenquimatoso de tipo transformación hemorrágica grado HI2",
+      "type": "PATOLOGIA",
+      "start": 623,
+      "end": 696
+    },
+    {
+      "text": "hemorragias parenquimatosas pequeñas múltiples con extensión moderada",
+      "type": "PATOLOGIA",
+      "start": 698,
+      "end": 767
+    },
+    {
+      "text": "edema cerebral",
+      "type": "PATOLOGIA",
+      "start": 885,
+      "end": 899
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "ARTERIA",
+      "start": 442,
+      "end": 472
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 465,
+      "end": 472
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 981,
+      "end": 990
+    },
+    {
+      "text": "isquemia subaguda",
+      "type": "PATOLOGIA",
+      "start": 1283,
+      "end": 1300
+    },
+    {
+      "text": "reducción calibre moderada",
+      "type": "MEDIDA",
+      "start": 1574,
+      "end": 1600
+    },
+    {
+      "text": "sin evidencia de oclusiones agudas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1423,
+      "end": 1457
+    },
+    {
+      "text": "sin hemorragias extraaxiales asociadas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2406,
+      "end": 2444
+    },
+    {
+      "text": "TC craneal basal urgente",
+      "type": "TECNICA_IMAGEN",
+      "start": 280,
+      "end": 304
+    },
+    {
+      "text": "Perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 307,
+      "end": 325
+    },
+    {
+      "text": "AngioTC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 328,
+      "end": 357
+    },
+    {
+      "text": "transformación hemorrágica grado HI2",
+      "type": "PATOLOGIA",
+      "start": 660,
+      "end": 696
+    },
+    {
+      "text": "permeabilidad vascular",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2015,
+      "end": 2037
+    }
+  ]
+}

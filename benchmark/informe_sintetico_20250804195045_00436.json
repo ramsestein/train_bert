@@ -1,0 +1,125 @@
+{
+  "document_id": "informe_sintetico_20250804195045_00436",
+  "entities": [
+    {
+      "text": "ictus isquémico multiterritorial",
+      "type": "PATOLOGIA",
+      "start": 323,
+      "end": 355
+    },
+    {
+      "text": "isquemia aguda reciente",
+      "type": "PATOLOGIA",
+      "start": 1023,
+      "end": 1046
+    },
+    {
+      "text": "ASPECTS modificado: 7",
+      "type": "PUNTUACION_CLINICA",
+      "start": 1048,
+      "end": 1069
+    },
+    {
+      "text": "reducción significativa del volumen cerebral (CBV)",
+      "type": "PATOLOGIA",
+      "start": 1192,
+      "end": 1242
+    },
+    {
+      "text": "flujo sanguíneo cerebral (CBF)",
+      "type": "PATOLOGIA",
+      "start": 1245,
+      "end": 1275
+    },
+    {
+      "text": "tiempo de tránsito parcial (TTP)",
+      "type": "PATOLOGIA",
+      "start": 1395,
+      "end": 1427
+    },
+    {
+      "text": "tiempo hasta el pico (Tmax)",
+      "type": "PATOLOGIA",
+      "start": 1430,
+      "end": 1457
+    },
+    {
+      "text": "mismatch significativo",
+      "type": "PATOLOGIA",
+      "start": 1517,
+      "end": 1539
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "ARTERIA",
+      "start": 1732,
+      "end": 1764
+    },
+    {
+      "text": "arterias cerebelosas posteriores derechas",
+      "type": "ARTERIA",
+      "start": 1788,
+      "end": 1829
+    },
+    {
+      "text": "Sistema vertebrobasilar",
+      "type": "ARTERIA",
+      "start": 2005,
+      "end": 2028
+    },
+    {
+      "text": "izquierdos",
+      "type": "LATERALIDAD",
+      "start": 865,
+      "end": 875
+    },
+    {
+      "text": "derecho",
+      "type": "LATERALIDAD",
+      "start": 911,
+      "end": 918
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 1755,
+      "end": 1764
+    },
+    {
+      "text": "derechas",
+      "type": "LATERALIDAD",
+      "start": 1821,
+      "end": 1829
+    },
+    {
+      "text": "No se evidencian hemorragias intracraneales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 624,
+      "end": 667
+    },
+    {
+      "text": "No se observan signos de edema cerebral masivo ni efecto masa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1071,
+      "end": 1132
+    },
+    {
+      "text": "No se observan signos radiológicos claros de trombosis venosa cerebral",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1831,
+      "end": 1901
+    },
+    {
+      "text": "sin estenosis hemodinámicamente significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1957,
+      "end": 2003
+    },
+    {
+      "text": "sin evidencias de displasia o malformaciones arteriales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2040,
+      "end": 2095
+    }
+  ]
+}

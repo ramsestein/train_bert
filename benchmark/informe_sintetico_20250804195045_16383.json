@@ -1,0 +1,239 @@
+{
+  "document_id": "informe_sintetico_20250804195045_16383",
+  "entities": [
+    {
+      "text": "infarto cerebral isquémico",
+      "type": "PATOLOGIA",
+      "start": 194,
+      "end": 220
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 241,
+      "end": 273
+    },
+    {
+      "text": "deterioro neurológico súbito",
+      "type": "PATOLOGIA",
+      "start": 284,
+      "end": 312
+    },
+    {
+      "text": "hemorragia intracerebral",
+      "type": "PATOLOGIA",
+      "start": 327,
+      "end": 351
+    },
+    {
+      "text": "TC craneal urgente basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 372,
+      "end": 396
+    },
+    {
+      "text": "perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 413,
+      "end": 431
+    },
+    {
+      "text": "angiografía por TC de arterias intracraneales y extracraneales",
+      "type": "TECNICA_IMAGEN",
+      "start": 434,
+      "end": 496
+    },
+    {
+      "text": "amplia área heterogénea hiperdensa",
+      "type": "PATOLOGIA",
+      "start": 553,
+      "end": 587
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 241,
+      "end": 273
+    },
+    {
+      "text": "transformación hemorrágica tipo PH2",
+      "type": "PATOLOGIA",
+      "start": 683,
+      "end": 718
+    },
+    {
+      "text": "30%",
+      "type": "MEDIDA",
+      "start": 768,
+      "end": 771
+    },
+    {
+      "text": "edema perilesional significativo",
+      "type": "PATOLOGIA",
+      "start": 828,
+      "end": 860
+    },
+    {
+      "text": "efecto de masa",
+      "type": "PATOLOGIA",
+      "start": 868,
+      "end": 882
+    },
+    {
+      "text": "desplazamiento de la línea media hacia la derecha",
+      "type": "PATOLOGIA",
+      "start": 887,
+      "end": 936
+    },
+    {
+      "text": "4 mm",
+      "type": "MEDIDA",
+      "start": 956,
+      "end": 960
+    },
+    {
+      "text": "No se observan hemorragias extraparenquimatosas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 962,
+      "end": 1009
+    },
+    {
+      "text": "hematomas subdurales o epidurales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1013,
+      "end": 1046
+    },
+    {
+      "text": "Sistema ventricular con leve compresión del ventrículo lateral izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1048,
+      "end": 1120
+    },
+    {
+      "text": "Cisternas basales parcialmente comprimidas",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1149,
+      "end": 1191
+    },
+    {
+      "text": "alteración profunda en el hemisferio cerebral izquierdo",
+      "type": "PATOLOGIA",
+      "start": 1249,
+      "end": 1304
+    },
+    {
+      "text": "prolongación marcada del tiempo hasta el pico (TTP)",
+      "type": "PATOLOGIA",
+      "start": 1310,
+      "end": 1361
+    },
+    {
+      "text": "descenso del flujo cerebral (CBF)",
+      "type": "PATOLOGIA",
+      "start": 1363,
+      "end": 1396
+    },
+    {
+      "text": "reducción del volumen cerebral (CBV)",
+      "type": "PATOLOGIA",
+      "start": 1399,
+      "end": 1435
+    },
+    {
+      "text": "lesión irreversible",
+      "type": "PATOLOGIA",
+      "start": 1454,
+      "end": 1473
+    },
+    {
+      "text": "transformación hemorrágica tipo PH2",
+      "type": "PATOLOGIA",
+      "start": 683,
+      "end": 718
+    },
+    {
+      "text": "hemorragia extensa",
+      "type": "PATOLOGIA",
+      "start": 1974,
+      "end": 1992
+    },
+    {
+      "text": "edema asociado",
+      "type": "PATOLOGIA",
+      "start": 1995,
+      "end": 2009
+    },
+    {
+      "text": "efecto de masa moderado",
+      "type": "PATOLOGIA",
+      "start": 2023,
+      "end": 2046
+    },
+    {
+      "text": "Oclusión persistente del segmento M1 de la arteria cerebral media izquierda",
+      "type": "PATOLOGIA",
+      "start": 2050,
+      "end": 2125
+    },
+    {
+      "text": "Oclusión completa del segmento M1 de la arteria cerebral media izquierda",
+      "type": "PATOLOGIA",
+      "start": 1625,
+      "end": 1697
+    },
+    {
+      "text": "ausencia de flujo distal",
+      "type": "PATOLOGIA",
+      "start": 1703,
+      "end": 1727
+    },
+    {
+      "text": "Resto de arterias intracraneales permeables",
+      "type": "PATOLOGIA",
+      "start": 1729,
+      "end": 1772
+    },
+    {
+      "text": "No se observan signos de vasoespasmo ni disección arterial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1798,
+      "end": 1856
+    },
+    {
+      "text": "Hemorragia intracerebral extensa",
+      "type": "PATOLOGIA",
+      "start": 2576,
+      "end": 2608
+    },
+    {
+      "text": "transformación hemorrágica PH2 postinfarto cerebral izquierdo",
+      "type": "PATOLOGIA",
+      "start": 2624,
+      "end": 2685
+    },
+    {
+      "text": "edema",
+      "type": "PATOLOGIA",
+      "start": 828,
+      "end": 833
+    },
+    {
+      "text": "efecto de masa",
+      "type": "PATOLOGIA",
+      "start": 868,
+      "end": 882
+    },
+    {
+      "text": "Oclusión trombótica segmento M1 ACM izquierda",
+      "type": "PATOLOGIA",
+      "start": 2827,
+      "end": 2872
+    },
+    {
+      "text": "Arterias intracraneales sin otras lesiones obstructivas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2874,
+      "end": 2929
+    }
+  ]
+}

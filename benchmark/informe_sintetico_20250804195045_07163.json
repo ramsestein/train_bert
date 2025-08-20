@@ -1,0 +1,65 @@
+{
+  "document_id": "informe_sintetico_20250804195045_07163",
+  "entities": [
+    {
+      "text": "isquemia",
+      "type": "PATOLOGIA",
+      "start": 438,
+      "end": 446
+    },
+    {
+      "text": "hemorragia aguda",
+      "type": "PATOLOGIA",
+      "start": 449,
+      "end": 465
+    },
+    {
+      "text": "enfermedad crónica microangiopática periventricular",
+      "type": "PATOLOGIA",
+      "start": 737,
+      "end": 788
+    },
+    {
+      "text": "hidrocefalia",
+      "type": "PATOLOGIA",
+      "start": 625,
+      "end": 637
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 1402,
+      "end": 1412
+    },
+    {
+      "text": "sin hallazgos agudos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1318,
+      "end": 1338
+    },
+    {
+      "text": "No se observan signos de isquemia ni hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1340,
+      "end": 1400
+    },
+    {
+      "text": "arterias cerebrales anteriores, medias y posteriores",
+      "type": "ARTERIA",
+      "start": 1075,
+      "end": 1127
+    },
+    {
+      "text": "sin estenosis significativas ni placas de ateroma evidentes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1142,
+      "end": 1201
+    },
+    {
+      "text": "sin alteraciones morfológicas ni signos de disección o trombosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1220,
+      "end": 1284
+    }
+  ]
+}

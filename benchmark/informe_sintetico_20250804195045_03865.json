@@ -1,0 +1,131 @@
+{
+  "document_id": "informe_sintetico_20250804195045_03865",
+  "entities": [
+    {
+      "text": "leucoencefalopatía posterior reversible (PRES)",
+      "type": "PATOLOGIA",
+      "start": 306,
+      "end": 352
+    },
+    {
+      "text": "regiones subcorticales y corticales occipitales y parietales posteriores",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 586,
+      "end": 658
+    },
+    {
+      "text": "hemorragia intraaxial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 754,
+      "end": 775
+    },
+    {
+      "text": "tiempo de tránsito medio (TTP)",
+      "type": "MEDIDA",
+      "start": 970,
+      "end": 1000
+    },
+    {
+      "text": "tiempo hasta el pico (TTPe)",
+      "type": "MEDIDA",
+      "start": 1003,
+      "end": 1030
+    },
+    {
+      "text": "volumen cerebral (CBV)",
+      "type": "MEDIDA",
+      "start": 1085,
+      "end": 1107
+    },
+    {
+      "text": "flujo cerebral (CBF)",
+      "type": "MEDIDA",
+      "start": 1110,
+      "end": 1130
+    },
+    {
+      "text": "isquemia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1183,
+      "end": 1191
+    },
+    {
+      "text": "infarto agudo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1194,
+      "end": 1207
+    },
+    {
+      "text": "ACAs, ACMs, ACPs",
+      "type": "ARTERIA",
+      "start": 1349,
+      "end": 1365
+    },
+    {
+      "text": "tortuosidad arterial",
+      "type": "PATOLOGIA",
+      "start": 1481,
+      "end": 1501
+    },
+    {
+      "text": "vasoespasmo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1436,
+      "end": 1447
+    },
+    {
+      "text": "vasculitis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1451,
+      "end": 1461
+    },
+    {
+      "text": "regiones occipitoparietales bilaterales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1697,
+      "end": 1736
+    },
+    {
+      "text": "infarto",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1194,
+      "end": 1201
+    },
+    {
+      "text": "hemorragia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 754,
+      "end": 764
+    },
+    {
+      "text": "alteraciones vasculares obstructivas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1846,
+      "end": 1882
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1896,
+      "end": 1910
+    },
+    {
+      "text": "TC CRANEAL BASAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 373,
+      "end": 389
+    },
+    {
+      "text": "TC PERFUSIÓN CEREBRAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 392,
+      "end": 413
+    },
+    {
+      "text": "ANGIO-TC INTRA Y EXTRACRANEAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 416,
+      "end": 445
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "document_id": "informe_sintetico_20250804195045_01979",
+  "entities": [
+    {
+      "text": "hematoma agudo lobar",
+      "type": "PATOLOGIA",
+      "start": 453,
+      "end": 473
+    },
+    {
+      "text": "frontal derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 420,
+      "end": 435
+    },
+    {
+      "text": "45 x 38 x 34 mm",
+      "type": "MEDIDA",
+      "start": 530,
+      "end": 545
+    },
+    {
+      "text": "28 cc",
+      "type": "MEDIDA",
+      "start": 586,
+      "end": 591
+    },
+    {
+      "text": "4 mm",
+      "type": "MEDIDA",
+      "start": 541,
+      "end": 545
+    },
+    {
+      "text": "agudo",
+      "type": "TEMPORALIDAD",
+      "start": 462,
+      "end": 467
+    },
+    {
+      "text": "sin evidencia de hipoperfusión significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 989,
+      "end": 1033
+    },
+    {
+      "text": "sin signos de hidrocefalia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 881,
+      "end": 907
+    },
+    {
+      "text": "sin hallazgos vasculares significativos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1481,
+      "end": 1520
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "document_id": "informe_sintetico_20250804195045_15854",
+  "entities": [
+    {
+      "text": "hematoma subdural agudo",
+      "type": "PATOLOGIA",
+      "start": 261,
+      "end": 284
+    },
+    {
+      "text": "convexidad frontoparietal derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 547,
+      "end": 580
+    },
+    {
+      "text": "12 mm",
+      "type": "MEDIDA",
+      "start": 606,
+      "end": 611
+    },
+    {
+      "text": "6 mm",
+      "type": "MEDIDA",
+      "start": 684,
+      "end": 688
+    },
+    {
+      "text": "agudo",
+      "type": "TEMPORALIDAD",
+      "start": 279,
+      "end": 284
+    },
+    {
+      "text": "TC Cráneo Basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 305,
+      "end": 320
+    },
+    {
+      "text": "TC PERFUSIÓN",
+      "type": "TECNICA_IMAGEN",
+      "start": 978,
+      "end": 990
+    },
+    {
+      "text": "ANGIO-TC INTRACRANEAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 1323,
+      "end": 1344
+    },
+    {
+      "text": "No se evidencian otras hemorragias intracraneales ni lesiones isquémicas actuales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 790,
+      "end": 871
+    },
+    {
+      "text": "Vasos intracraneales permeables",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1346,
+      "end": 1377
+    }
+  ]
+}

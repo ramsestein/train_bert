@@ -1,0 +1,65 @@
+{
+  "document_id": "0000000010000000058764586_cleaned",
+  "entities": [
+    {
+      "text": "patología isquémica aguda",
+      "type": "PATOLOGIA",
+      "start": 563,
+      "end": 588
+    },
+    {
+      "text": "región frontal derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 758,
+      "end": 780
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 590,
+      "end": 600
+    },
+    {
+      "text": "arterias cerebrales intracraneales",
+      "type": "ARTERIA",
+      "start": 1495,
+      "end": 1529
+    },
+    {
+      "text": "ACAs, ACMs y ACPs",
+      "type": "ARTERIA",
+      "start": 1542,
+      "end": 1559
+    },
+    {
+      "text": "izquierdo",
+      "type": "LATERALIDAD",
+      "start": 1260,
+      "end": 1269
+    },
+    {
+      "text": "sin signos de patología isquémica aguda",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 549,
+      "end": 588
+    },
+    {
+      "text": "sin alteraciones",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1750,
+      "end": 1766
+    },
+    {
+      "text": "sin ateromatosis carotídea destacable ni estenosis significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1780,
+      "end": 1845
+    },
+    {
+      "text": "sin estenosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1115,
+      "end": 1128
+    }
+  ]
+}

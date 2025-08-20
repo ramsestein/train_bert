@@ -1,0 +1,33 @@
+UO_PACN (Unidad Organizativa Médica): RADIO
+
+PRUEB (Prueba solicitada): TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANG IOTC ARTERIAL INTRACRANEAL)
+
+CLIN (Resumen clínico): Paciente de 54 años con cuadro de inicio brusco de hemiparesia derecha y afasia, sospecha clínica de disección carotídea con posible infarto cerebral.
+
+OBSR (Protocolo): Protocolo Código Ictus: TC craneal basal, TC perfusión cerebral y AngioTC arterial extra e intracraneal.
+
+RESL (Resultados):  
+TC CRANEAL BASAL:  
+Se evidencia hipodensidad cortical y subcortical en territorio fronto-parietal izquierdo, afectando principalmente al lóbulo frontal medio y parietal inferior, compatible con infarto isquémico subagudo. No se observan hemorragias intra ni extraaxiales. La diferenciación córtico-subcortical está parcialmente perdida en la zona mencionada. No se identifican signos de efecto de masa significativo; la línea media permanece centrada. Los ventrículos y cisternas basales son normales.
+
+TC PERFUSIÓN:  
+Se observa aumento del tiempo de tránsito promedio (TTP) y reducción del flujo cerebral sanguíneo (CBF) y volumen cerebral sanguíneo (CBV) en el territorio afectado, confirmando alteración hemodinámica compatible con isquemia.
+
+ANGIO-TC EXTRA E INTRACRANEAL:  
+Se visualiza estrechamiento irregular y disecante en la arteria carótida interna izquierda a nivel cervical alto, con signo de doble luz y extensión proximal a segmento petroso. En relación, se evidencia ausencia de flujo en segmentos distales de la arteria cerebral media izquierda (M1), sugiriendo oclusión secundaria. No se aprecian estenosis relevantes en el resto de los troncos supraaórticos ni en arterias intracraneales contralaterales. El sistema vertebrobasilar está permeable y sin alteraciones significativas.
+
+CONCL (Conclusiones):  
+- Infarto isquémico en territorio fronto-parietal izquierdo compatible con compromiso del territorio de la arteria cerebral media.  
+- Alteración hemodinámica en perfusión cerebral en región afectada.  
+- Disección de arteria carótida interna izquierda con doble luz y oclusión distal secundaria.  
+- Ausencia de hemorragia intracraneal.
+
+ACTI_ADICI (Actividad adicional):  
+
+ICON (Estudio): @RADIO_3@
+
+X00DIATXT (Texto del diagnóstico ACR): Disección de arteria carótida interna izquierda con infarto isquémico en territorio de arteria cerebral media ipsilateral. Evaluación de perfusión compatible con área de isquemia hemodinámicamente significativa. No hemorragias asociadas.
+
+EST_T_DES (Descripción): TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANGIOTC ARTERIAL INTRACRANEAL)
+
+ZVASOS_D (Der.): Disección arterial izquierda y oclusión de segmento M1 izquierdo.

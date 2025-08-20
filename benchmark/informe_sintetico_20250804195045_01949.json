@@ -1,0 +1,77 @@
+{
+  "document_id": "informe_sintetico_20250804195045_01949",
+  "entities": [
+    {
+      "text": "hematoma lobar",
+      "type": "PATOLOGIA",
+      "start": 450,
+      "end": 464
+    },
+    {
+      "text": "región parietal izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 482,
+      "end": 507
+    },
+    {
+      "text": "45 x 30 x 25 mm",
+      "type": "MEDIDA",
+      "start": 562,
+      "end": 577
+    },
+    {
+      "text": "18 cc",
+      "type": "MEDIDA",
+      "start": 621,
+      "end": 626
+    },
+    {
+      "text": "3 mm",
+      "type": "MEDIDA",
+      "start": 731,
+      "end": 735
+    },
+    {
+      "text": "sin signos de hidrocefalia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1000,
+      "end": 1026
+    },
+    {
+      "text": "sin signos de oclusión ni estenosis hemodinámicamente relevantes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1521,
+      "end": 1585
+    },
+    {
+      "text": "Hematoma lobar parietal izquierdo de 18 cc",
+      "type": "PATOLOGIA",
+      "start": 1610,
+      "end": 1652
+    },
+    {
+      "text": "sin extensión intraventricular ni hidrocefalia asociada",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1695,
+      "end": 1750
+    },
+    {
+      "text": "ACM, ACA, ACP",
+      "type": "ARTERIA",
+      "start": 1506,
+      "end": 1519
+    },
+    {
+      "text": "TC craneal urgente",
+      "type": "TECNICA_IMAGEN",
+      "start": 282,
+      "end": 300
+    },
+    {
+      "text": "angiografía TC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 360,
+      "end": 396
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "document_id": "informe_sintetico_20250804195045_23601",
+  "entities": [
+    {
+      "text": "ictus agudo",
+      "type": "PATOLOGIA",
+      "start": 259,
+      "end": 270
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 420,
+      "end": 443
+    },
+    {
+      "text": "hematomas extraaxiales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 447,
+      "end": 469
+    },
+    {
+      "text": "infarto agudo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 488,
+      "end": 501
+    },
+    {
+      "text": "ASPECTS 10/10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 514,
+      "end": 527
+    },
+    {
+      "text": "línea media",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 551,
+      "end": 562
+    },
+    {
+      "text": "sustancia blanca",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 788,
+      "end": 804
+    },
+    {
+      "text": "isquemia pequeña vaso",
+      "type": "PATOLOGIA",
+      "start": 841,
+      "end": 862
+    },
+    {
+      "text": "TTP, CBV y CBF",
+      "type": "TECNICA_IMAGEN",
+      "start": 944,
+      "end": 958
+    },
+    {
+      "text": "isquemia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 841,
+      "end": 849
+    },
+    {
+      "text": "AngioTC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 344,
+      "end": 373
+    },
+    {
+      "text": "troncos supra aórticos",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1134,
+      "end": 1156
+    },
+    {
+      "text": "arterias carotídeas internas",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1158,
+      "end": 1186
+    },
+    {
+      "text": "cerebrales anteriores, medias, posteriores",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1188,
+      "end": 1230
+    },
+    {
+      "text": "sistema vertebrobasilar",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1233,
+      "end": 1256
+    },
+    {
+      "text": "estenosis, aneurismas ni malformaciones vasculares",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1273,
+      "end": 1323
+    },
+    {
+      "text": "hallazgos agudos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1363,
+      "end": 1379
+    },
+    {
+      "text": "Perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 1457,
+      "end": 1475
+    },
+    {
+      "text": "AngioTC arterial intracraneal normales",
+      "type": "TECNICA_IMAGEN",
+      "start": 1478,
+      "end": 1516
+    },
+    {
+      "text": "isquemia ni alteraciones vasculares",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1534,
+      "end": 1569
+    }
+  ]
+}

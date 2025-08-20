@@ -1,0 +1,137 @@
+{
+  "document_id": "informe_sintetico_20250804195045_12145",
+  "entities": [
+    {
+      "text": "accidente cerebrovascular isquémico",
+      "type": "PATOLOGIA",
+      "start": 202,
+      "end": 237
+    },
+    {
+      "text": "deterioro neurológico reciente",
+      "type": "PATOLOGIA",
+      "start": 240,
+      "end": 270
+    },
+    {
+      "text": "área hipodensa",
+      "type": "PATOLOGIA",
+      "start": 449,
+      "end": 463
+    },
+    {
+      "text": "infarto cerebral establecido",
+      "type": "PATOLOGIA",
+      "start": 530,
+      "end": 558
+    },
+    {
+      "text": "transformación hemorrágica tipo PH1",
+      "type": "PATOLOGIA",
+      "start": 651,
+      "end": 686
+    },
+    {
+      "text": "hemorragias subaracnoideas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 825,
+      "end": 851
+    },
+    {
+      "text": "extraaxiales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 855,
+      "end": 867
+    },
+    {
+      "text": "ACM derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1085,
+      "end": 1096
+    },
+    {
+      "text": "aumento del tiempo de tránsito",
+      "type": "PATOLOGIA",
+      "start": 1034,
+      "end": 1064
+    },
+    {
+      "text": "área infartada",
+      "type": "PATOLOGIA",
+      "start": 1148,
+      "end": 1162
+    },
+    {
+      "text": "penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1262,
+      "end": 1280
+    },
+    {
+      "text": "Oclusión segmentaria",
+      "type": "PATOLOGIA",
+      "start": 1314,
+      "end": 1334
+    },
+    {
+      "text": "segmento proximal M1",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1341,
+      "end": 1361
+    },
+    {
+      "text": "ACM derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1085,
+      "end": 1096
+    },
+    {
+      "text": "Infarto cerebral en territorio de ACM derecha",
+      "type": "PATOLOGIA",
+      "start": 1565,
+      "end": 1610
+    },
+    {
+      "text": "transformación hemorrágica PH1",
+      "type": "PATOLOGIA",
+      "start": 2102,
+      "end": 2132
+    },
+    {
+      "text": "oclusión proximal de segmento M1",
+      "type": "PATOLOGIA",
+      "start": 2135,
+      "end": 2167
+    },
+    {
+      "text": "TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANG IOTC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 72,
+      "end": 140
+    },
+    {
+      "text": "TC craneal sin contraste",
+      "type": "TECNICA_IMAGEN",
+      "start": 291,
+      "end": 315
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 317,
+      "end": 338
+    },
+    {
+      "text": "angioTC de arterias intracraneales y supraaórticas",
+      "type": "TECNICA_IMAGEN",
+      "start": 341,
+      "end": 391
+    },
+    {
+      "text": "microhemorragias petequiales dispersas",
+      "type": "PATOLOGIA",
+      "start": 1652,
+      "end": 1690
+    }
+  ]
+}

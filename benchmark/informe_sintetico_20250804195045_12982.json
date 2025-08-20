@@ -1,0 +1,229 @@
+{
+  "document_id": "informe_sintetico_20250804195045_12982",
+  "entities": [
+    {
+      "text": "ictus isquémico",
+      "type": "PATOLOGIA",
+      "start": 195,
+      "end": 210
+    },
+    {
+      "text": "deterioro neurológico progresivo",
+      "type": "PATOLOGIA",
+      "start": 222,
+      "end": 254
+    },
+    {
+      "text": "TC craneal urgente",
+      "type": "TECNICA_IMAGEN",
+      "start": 275,
+      "end": 293
+    },
+    {
+      "text": "estudio multicorte basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 298,
+      "end": 322
+    },
+    {
+      "text": "perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 324,
+      "end": 342
+    },
+    {
+      "text": "angio-TC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 345,
+      "end": 375
+    },
+    {
+      "text": "Código Ictus",
+      "type": "TEMPORALIDAD",
+      "start": 391,
+      "end": 403
+    },
+    {
+      "text": "extensa hipodensidad",
+      "type": "PATOLOGIA",
+      "start": 454,
+      "end": 474
+    },
+    {
+      "text": "territorio vascular de la arteria cerebral media derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 478,
+      "end": 534
+    },
+    {
+      "text": "infarto isquémico subagudo",
+      "type": "PATOLOGIA",
+      "start": 550,
+      "end": 576
+    },
+    {
+      "text": "múltiples focos hiperdensos",
+      "type": "PATOLOGIA",
+      "start": 613,
+      "end": 640
+    },
+    {
+      "text": "transformación hemorrágica tipo HI2",
+      "type": "PATOLOGIA",
+      "start": 660,
+      "end": 695
+    },
+    {
+      "text": "hematíes dispersos en más del 30% del área infartada",
+      "type": "PATOLOGIA",
+      "start": 715,
+      "end": 767
+    },
+    {
+      "text": "sin masa significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 768,
+      "end": 790
+    },
+    {
+      "text": "efecto de masa leve",
+      "type": "PATOLOGIA",
+      "start": 833,
+      "end": 852
+    },
+    {
+      "text": "desplaza la línea media 4 mm hacia la izquierda",
+      "type": "MEDIDA",
+      "start": 857,
+      "end": 904
+    },
+    {
+      "text": "No se identifican hemorragias extraaxiales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 906,
+      "end": 948
+    },
+    {
+      "text": "Cisternas basales y sistema ventricular conservados en tamaño y morfología",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 950,
+      "end": 1024
+    },
+    {
+      "text": "reducción significativa del flujo sanguíneo cerebral (CBF)",
+      "type": "PATOLOGIA",
+      "start": 1049,
+      "end": 1107
+    },
+    {
+      "text": "aumento del tiempo de tránsito (TTP)",
+      "type": "PATOLOGIA",
+      "start": 1110,
+      "end": 1146
+    },
+    {
+      "text": "hemisferio derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1153,
+      "end": 1171
+    },
+    {
+      "text": "área infartada",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 753,
+      "end": 767
+    },
+    {
+      "text": "zonas adyacentes con penumbra isquémica",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1209,
+      "end": 1248
+    },
+    {
+      "text": "No se identifican aneurismas ni malformaciones arteriovenosas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1348,
+      "end": 1409
+    },
+    {
+      "text": "Vasos intracraneales izquierdos sin alteraciones relevantes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1411,
+      "end": 1470
+    },
+    {
+      "text": "Arterias vertebrales y basilar sin estenosis ni lesiones focales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1472,
+      "end": 1536
+    },
+    {
+      "text": "Infarto agudo en territorio de arteria cerebral media derecha",
+      "type": "PATOLOGIA",
+      "start": 1563,
+      "end": 1624
+    },
+    {
+      "text": "transformación hemorrágica tipo HI2",
+      "type": "PATOLOGIA",
+      "start": 660,
+      "end": 695
+    },
+    {
+      "text": "desviación de la línea media",
+      "type": "PATOLOGIA",
+      "start": 1720,
+      "end": 1748
+    },
+    {
+      "text": "No se evidencian hemorragias extraaxiales ni otras alteraciones vasculares intracraneales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1826,
+      "end": 1915
+    },
+    {
+      "text": "seguimiento neurovascular",
+      "type": "PATOLOGIA",
+      "start": 1969,
+      "end": 1994
+    },
+    {
+      "text": "valoración neuroquirúrgica",
+      "type": "PATOLOGIA",
+      "start": 1997,
+      "end": 2023
+    },
+    {
+      "text": "hemorragia",
+      "type": "PATOLOGIA",
+      "start": 924,
+      "end": 934
+    },
+    {
+      "text": "efecto de masa",
+      "type": "PATOLOGIA",
+      "start": 833,
+      "end": 847
+    },
+    {
+      "text": "Hemorragia intraparenquimatosa en área infartada hemisférica derecha tipo transformación hemorrágica HI2",
+      "type": "PATOLOGIA",
+      "start": 2135,
+      "end": 2239
+    },
+    {
+      "text": "edema perilesional",
+      "type": "PATOLOGIA",
+      "start": 2244,
+      "end": 2262
+    },
+    {
+      "text": "efecto de masa leve",
+      "type": "PATOLOGIA",
+      "start": 833,
+      "end": 852
+    }
+  ],
+  "regenerado": true,
+  "fecha_regeneracion": "2025-08-06T10:22:31.655256"
+}

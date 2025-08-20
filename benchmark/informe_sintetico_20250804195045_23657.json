@@ -1,0 +1,53 @@
+{
+  "document_id": "informe_sintetico_20250804195045_23657",
+  "entities": [
+    {
+      "text": "contusión hemorrágica",
+      "type": "PATOLOGIA",
+      "start": 513,
+      "end": 534
+    },
+    {
+      "text": "15 x 12 mm",
+      "type": "MEDIDA",
+      "start": 618,
+      "end": 628
+    },
+    {
+      "text": "edema perilesional",
+      "type": "PATOLOGIA",
+      "start": 649,
+      "end": 667
+    },
+    {
+      "text": "desviadas hacia la derecha",
+      "type": "LATERALIDAD",
+      "start": 782,
+      "end": 808
+    },
+    {
+      "text": "3 mm",
+      "type": "MEDIDA",
+      "start": 839,
+      "end": 843
+    },
+    {
+      "text": "sin signos de isquemia extensa ni penumbra crítica",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1238,
+      "end": 1288
+    },
+    {
+      "text": "sin evidencias de estenosis ni disección",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1365,
+      "end": 1405
+    },
+    {
+      "text": "sin alteraciones vasculares significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1835,
+      "end": 1877
+    }
+  ]
+}

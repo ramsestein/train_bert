@@ -1,0 +1,83 @@
+{
+  "document_id": "informe_sintetico_20250804195045_18017",
+  "entities": [
+    {
+      "text": "hemorragia subaracnoidea aguda",
+      "type": "PATOLOGIA",
+      "start": 643,
+      "end": 673
+    },
+    {
+      "text": "hemorragia subaracnoidea",
+      "type": "PATOLOGIA",
+      "start": 407,
+      "end": 431
+    },
+    {
+      "text": "isquemia focal",
+      "type": "PATOLOGIA",
+      "start": 1036,
+      "end": 1050
+    },
+    {
+      "text": "vasoespasmo precoz",
+      "type": "PATOLOGIA",
+      "start": 1217,
+      "end": 1235
+    },
+    {
+      "text": "marcado realce con contraste en los vasos del polígono de Willis",
+      "type": "PATOLOGIA",
+      "start": 1271,
+      "end": 1335
+    },
+    {
+      "text": "ACAs, ACMs, ACPs",
+      "type": "ARTERIA",
+      "start": 1474,
+      "end": 1490
+    },
+    {
+      "text": "signos de infarto cerebral agudo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1764,
+      "end": 1796
+    },
+    {
+      "text": "aneurismas o malformaciones vasculares visibles",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1868,
+      "end": 1915
+    },
+    {
+      "text": "hemorragia parenquimatosa asociada",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1714,
+      "end": 1748
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 262,
+      "end": 278
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 313,
+      "end": 334
+    },
+    {
+      "text": "AngioTC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 337,
+      "end": 366
+    },
+    {
+      "text": "TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANGIOTC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 2400,
+      "end": 2467
+    }
+  ]
+}

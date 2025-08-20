@@ -1,0 +1,101 @@
+{
+  "document_id": "informe_sintetico_20250804195045_23870",
+  "entities": [
+    {
+      "text": "trombo",
+      "type": "PATOLOGIA",
+      "start": 552,
+      "end": 558
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 1684,
+      "end": 1698
+    },
+    {
+      "text": "oclusión trombótica",
+      "type": "PATOLOGIA",
+      "start": 1703,
+      "end": 1722
+    },
+    {
+      "text": "núcleo isquémico",
+      "type": "PATOLOGIA",
+      "start": 1230,
+      "end": 1246
+    },
+    {
+      "text": "penumbra",
+      "type": "PATOLOGIA",
+      "start": 1209,
+      "end": 1217
+    },
+    {
+      "text": "segmento M1",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 488,
+      "end": 499
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "ARTERIA",
+      "start": 506,
+      "end": 536
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 529,
+      "end": 536
+    },
+    {
+      "text": "ASPECTS 6",
+      "type": "PUNTUACION_CLINICA",
+      "start": 717,
+      "end": 726
+    },
+    {
+      "text": "TC craneal basal sin contraste",
+      "type": "TECNICA_IMAGEN",
+      "start": 298,
+      "end": 328
+    },
+    {
+      "text": "AngioTC",
+      "type": "TECNICA_IMAGEN",
+      "start": 362,
+      "end": 369
+    },
+    {
+      "text": "aumento claro del tiempo hasta el pico (TTP)",
+      "type": "MEDIDA",
+      "start": 935,
+      "end": 979
+    },
+    {
+      "text": "tiempo de tránsito medio (MTT)",
+      "type": "MEDIDA",
+      "start": 982,
+      "end": 1012
+    },
+    {
+      "text": "disminución significativa del volumen cerebral de sangre (CBV)",
+      "type": "MEDIDA",
+      "start": 1057,
+      "end": 1119
+    },
+    {
+      "text": "reducción del flujo cerebral sanguíneo (CBF)",
+      "type": "MEDIDA",
+      "start": 1139,
+      "end": 1183
+    },
+    {
+      "text": "signos moderados de ateromatosis calcificada",
+      "type": "PATOLOGIA",
+      "start": 1544,
+      "end": 1588
+    }
+  ]
+}

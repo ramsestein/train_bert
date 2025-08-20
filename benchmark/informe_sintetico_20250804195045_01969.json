@@ -1,0 +1,65 @@
+{
+  "document_id": "informe_sintetico_20250804195045_01969",
+  "entities": [
+    {
+      "text": "isquémico",
+      "type": "PATOLOGIA",
+      "start": 209,
+      "end": 218
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 524,
+      "end": 538
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 640,
+      "end": 650
+    },
+    {
+      "text": "cerebral",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 219,
+      "end": 227
+    },
+    {
+      "text": "cerebral",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 219,
+      "end": 227
+    },
+    {
+      "text": "cerebral sanguíneo (CBF)",
+      "type": "TECNICA_IMAGEN",
+      "start": 1080,
+      "end": 1104
+    },
+    {
+      "text": "sin alteraciones significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 955,
+      "end": 986
+    },
+    {
+      "text": "sin signos de estenosis ni placas ateromatosas relevantes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1224,
+      "end": 1281
+    },
+    {
+      "text": "sin evidencias de estenosis o cambios ateroscleróticos significativos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1342,
+      "end": 1411
+    },
+    {
+      "text": "sin hallazgos agudos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1559,
+      "end": 1579
+    }
+  ]
+}

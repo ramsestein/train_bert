@@ -1,0 +1,65 @@
+{
+  "document_id": "informe_sintetico_20250804195045_05575",
+  "entities": [
+    {
+      "text": "hematoma lobar",
+      "type": "PATOLOGIA",
+      "start": 550,
+      "end": 564
+    },
+    {
+      "text": "35 x 25 x 20 mm",
+      "type": "MEDIDA",
+      "start": 584,
+      "end": 599
+    },
+    {
+      "text": "región parietal derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 617,
+      "end": 640
+    },
+    {
+      "text": "4 mm",
+      "type": "MEDIDA",
+      "start": 817,
+      "end": 821
+    },
+    {
+      "text": "sin evidencia de área de isquemia adicional",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1147,
+      "end": 1190
+    },
+    {
+      "text": "sin signos de vasoespasmo o estenosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1519,
+      "end": 1556
+    },
+    {
+      "text": "Hematoma lobar parietal derecho",
+      "type": "PATOLOGIA",
+      "start": 1657,
+      "end": 1688
+    },
+    {
+      "text": "TC Craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 311,
+      "end": 327
+    },
+    {
+      "text": "TC Perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 354,
+      "end": 375
+    },
+    {
+      "text": "AngioTC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 378,
+      "end": 407
+    }
+  ]
+}

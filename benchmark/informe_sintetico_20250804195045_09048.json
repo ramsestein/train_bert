@@ -1,0 +1,149 @@
+{
+  "document_id": "informe_sintetico_20250804195045_09048",
+  "entities": [
+    {
+      "text": "colecciones hemáticas",
+      "type": "PATOLOGIA",
+      "start": 368,
+      "end": 389
+    },
+    {
+      "text": "hemorragia intra o extraaxial",
+      "type": "PATOLOGIA",
+      "start": 403,
+      "end": 432
+    },
+    {
+      "text": "ASPECTS de 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 495,
+      "end": 508
+    },
+    {
+      "text": "lesiones isquémicas agudas",
+      "type": "PATOLOGIA",
+      "start": 525,
+      "end": 551
+    },
+    {
+      "text": "edema cerebral",
+      "type": "PATOLOGIA",
+      "start": 565,
+      "end": 579
+    },
+    {
+      "text": "estructuras de la línea media",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 703,
+      "end": 732
+    },
+    {
+      "text": "sistema ventricular",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 785,
+      "end": 804
+    },
+    {
+      "text": "Cisternas basales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 819,
+      "end": 836
+    },
+    {
+      "text": "Mapas de tiempo hasta el pico (TTP)",
+      "type": "TECNICA_IMAGEN",
+      "start": 888,
+      "end": 923
+    },
+    {
+      "text": "volumen sanguíneo cerebral (CBV)",
+      "type": "TECNICA_IMAGEN",
+      "start": 925,
+      "end": 957
+    },
+    {
+      "text": "flujo sanguíneo cerebral (CBF)",
+      "type": "TECNICA_IMAGEN",
+      "start": 960,
+      "end": 990
+    },
+    {
+      "text": "arterias cerebrales anteriores",
+      "type": "ARTERIA",
+      "start": 1140,
+      "end": 1170
+    },
+    {
+      "text": "arteria basilar",
+      "type": "ARTERIA",
+      "start": 1206,
+      "end": 1221
+    },
+    {
+      "text": "estenosis",
+      "type": "PATOLOGIA",
+      "start": 1292,
+      "end": 1301
+    },
+    {
+      "text": "oclusiones",
+      "type": "PATOLOGIA",
+      "start": 1303,
+      "end": 1313
+    },
+    {
+      "text": "aneurismas",
+      "type": "PATOLOGIA",
+      "start": 1317,
+      "end": 1327
+    },
+    {
+      "text": "placas ateromatosas significativas",
+      "type": "PATOLOGIA",
+      "start": 1409,
+      "end": 1443
+    },
+    {
+      "text": "estenosis",
+      "type": "PATOLOGIA",
+      "start": 1292,
+      "end": 1301
+    },
+    {
+      "text": "Estudio TC código ictus normal sin hallazgos agudos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1491,
+      "end": 1542
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 1544,
+      "end": 1554
+    },
+    {
+      "text": "hemorragia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 403,
+      "end": 413
+    },
+    {
+      "text": "isquemia cerebral aguda",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1587,
+      "end": 1610
+    },
+    {
+      "text": "Circulación arterial intracraneal permeable",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1612,
+      "end": 1655
+    },
+    {
+      "text": "alteraciones hemodinámicas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1662,
+      "end": 1688
+    }
+  ]
+}

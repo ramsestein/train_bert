@@ -1,0 +1,215 @@
+{
+  "document_id": "informe_sintetico_20250804195045_20611",
+  "entities": [
+    {
+      "text": "hemiparesia derecha",
+      "type": "PATOLOGIA",
+      "start": 272,
+      "end": 291
+    },
+    {
+      "text": "ictus isquémico agudo",
+      "type": "PATOLOGIA",
+      "start": 322,
+      "end": 343
+    },
+    {
+      "text": "área de hipodensidad cortical",
+      "type": "PATOLOGIA",
+      "start": 544,
+      "end": 573
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 594,
+      "end": 626
+    },
+    {
+      "text": "pérdida parcial de la diferenciación cortico-subcortical",
+      "type": "PATOLOGIA",
+      "start": 632,
+      "end": 688
+    },
+    {
+      "text": "región opercular y frontotemporal",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 695,
+      "end": 728
+    },
+    {
+      "text": "puntuación ASPECTS 6",
+      "type": "PUNTUACION_CLINICA",
+      "start": 730,
+      "end": 750
+    },
+    {
+      "text": "señal de arteria hiperdensa",
+      "type": "PATOLOGIA",
+      "start": 765,
+      "end": 792
+    },
+    {
+      "text": "segmento M1 de la ACM izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 799,
+      "end": 830
+    },
+    {
+      "text": "trombo intraluminal",
+      "type": "PATOLOGIA",
+      "start": 845,
+      "end": 864
+    },
+    {
+      "text": "No se observan signos de hemorragia aguda",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 866,
+      "end": 907
+    },
+    {
+      "text": "Línea media centrada",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 932,
+      "end": 952
+    },
+    {
+      "text": "sistema ventricular de tamaño conservado",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 954,
+      "end": 994
+    },
+    {
+      "text": "Cisternas basales libres",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 996,
+      "end": 1020
+    },
+    {
+      "text": "prolongación del tiempo de tránsito (TTP)",
+      "type": "PATOLOGIA",
+      "start": 1050,
+      "end": 1091
+    },
+    {
+      "text": "reducción significativa del flujo cerebral (CBF)",
+      "type": "PATOLOGIA",
+      "start": 1094,
+      "end": 1142
+    },
+    {
+      "text": "territorio perfundido por la ACM izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1146,
+      "end": 1188
+    },
+    {
+      "text": "disminución del volumen sanguíneo cerebral (CBV)",
+      "type": "PATOLOGIA",
+      "start": 1194,
+      "end": 1242
+    },
+    {
+      "text": "área de penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1257,
+      "end": 1283
+    },
+    {
+      "text": "tejido potencialmente salvable",
+      "type": "PATOLOGIA",
+      "start": 1299,
+      "end": 1329
+    },
+    {
+      "text": "Oclusión completa del segmento proximal M1",
+      "type": "PATOLOGIA",
+      "start": 1364,
+      "end": 1406
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 594,
+      "end": 626
+    },
+    {
+      "text": "Arterias intracraneales restantes permeables",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1447,
+      "end": 1491
+    },
+    {
+      "text": "sin estenosis significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1492,
+      "end": 1520
+    },
+    {
+      "text": "isquemia aguda del territorio de la arteria cerebral media izquierda",
+      "type": "PATOLOGIA",
+      "start": 1663,
+      "end": 1731
+    },
+    {
+      "text": "oclusión proximal del segmento M1",
+      "type": "PATOLOGIA",
+      "start": 1737,
+      "end": 1770
+    },
+    {
+      "text": "área de penumbra isquémica importante (ASPECTS 6)",
+      "type": "PATOLOGIA",
+      "start": 1773,
+      "end": 1822
+    },
+    {
+      "text": "No evidencia de hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1824,
+      "end": 1863
+    },
+    {
+      "text": "edema cerebral significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1867,
+      "end": 1895
+    },
+    {
+      "text": "Seguimiento con TC o RM en 24-48 horas",
+      "type": "TEMPORALIDAD",
+      "start": 1999,
+      "end": 2037
+    },
+    {
+      "text": "evaluar evolución del infarto",
+      "type": "PATOLOGIA",
+      "start": 2043,
+      "end": 2072
+    },
+    {
+      "text": "Oclusión proximal de la arteria cerebral media izquierda (segmento M1)",
+      "type": "PATOLOGIA",
+      "start": 2158,
+      "end": 2228
+    },
+    {
+      "text": "área de isquemia aguda y penumbra isquémica compatible",
+      "type": "PATOLOGIA",
+      "start": 2233,
+      "end": 2287
+    },
+    {
+      "text": "TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANGIOTC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 2315,
+      "end": 2382
+    },
+    {
+      "text": "Corte coronales y axiales en perfusión y reconstrucción 3D angiográfica con énfasis en circulación intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 2401,
+      "end": 2512
+    }
+  ]
+}

@@ -1,0 +1,149 @@
+{
+  "document_id": "informe_sintetico_20250804195045_11374",
+  "entities": [
+    {
+      "text": "infarto cerebral",
+      "type": "PATOLOGIA",
+      "start": 237,
+      "end": 253
+    },
+    {
+      "text": "territorio cerebral anterior",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 257,
+      "end": 285
+    },
+    {
+      "text": "ACA",
+      "type": "ARTERIA",
+      "start": 287,
+      "end": 290
+    },
+    {
+      "text": "izquierdo",
+      "type": "LATERALIDAD",
+      "start": 292,
+      "end": 301
+    },
+    {
+      "text": "pérdida leve de diferenciación cortico-subcortical",
+      "type": "PATOLOGIA",
+      "start": 559,
+      "end": 609
+    },
+    {
+      "text": "región frontal medial izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 613,
+      "end": 644
+    },
+    {
+      "text": "edema citotóxico",
+      "type": "PATOLOGIA",
+      "start": 671,
+      "end": 687
+    },
+    {
+      "text": "ASPECTS 9/10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 689,
+      "end": 701
+    },
+    {
+      "text": "disminución del flujo cerebral",
+      "type": "PATOLOGIA",
+      "start": 887,
+      "end": 917
+    },
+    {
+      "text": "aumento del tiempo máximo de tránsito",
+      "type": "PATOLOGIA",
+      "start": 926,
+      "end": 963
+    },
+    {
+      "text": "penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1043,
+      "end": 1061
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 1130,
+      "end": 1144
+    },
+    {
+      "text": "Oclusión ostial en segmento proximal de la arteria cerebral anterior izquierda",
+      "type": "PATOLOGIA",
+      "start": 1180,
+      "end": 1258
+    },
+    {
+      "text": "A1",
+      "type": "ARTERIA",
+      "start": 1260,
+      "end": 1262
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 635,
+      "end": 644
+    },
+    {
+      "text": "sin estenosis significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1286,
+      "end": 1314
+    },
+    {
+      "text": "No se visualizan otros defectos de repleción en arterias cerebrales anteriores, medias o posteriores",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1316,
+      "end": 1416
+    },
+    {
+      "text": "Sistema vertebrobasilar permeable",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1418,
+      "end": 1451
+    },
+    {
+      "text": "ASPECTS 9/10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 689,
+      "end": 701
+    },
+    {
+      "text": "isquemia aguda en territorio de ACA izquierda",
+      "type": "PATOLOGIA",
+      "start": 1512,
+      "end": 1557
+    },
+    {
+      "text": "área penumbra en perfusión cerebral",
+      "type": "PATOLOGIA",
+      "start": 1572,
+      "end": 1607
+    },
+    {
+      "text": "Oclusión proximal en segmento A1 de ACA izquierda",
+      "type": "PATOLOGIA",
+      "start": 1609,
+      "end": 1658
+    },
+    {
+      "text": "confirmada en angioTC",
+      "type": "TECNICA_IMAGEN",
+      "start": 1659,
+      "end": 1680
+    },
+    {
+      "text": "No hemorragia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1682,
+      "end": 1695
+    }
+  ]
+}

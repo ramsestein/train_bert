@@ -1,0 +1,95 @@
+{
+  "document_id": "informe_sintetico_20250804195045_20025",
+  "entities": [
+    {
+      "text": "infarto vertebrobasilar",
+      "type": "PATOLOGIA",
+      "start": 281,
+      "end": 304
+    },
+    {
+      "text": "edema vasogénico",
+      "type": "PATOLOGIA",
+      "start": 674,
+      "end": 690
+    },
+    {
+      "text": "isquemia precoz",
+      "type": "PATOLOGIA",
+      "start": 693,
+      "end": 708
+    },
+    {
+      "text": "aumento del tiempo hasta el pico (TTP)",
+      "type": "MEDIDA",
+      "start": 843,
+      "end": 881
+    },
+    {
+      "text": "reducción tanto del flujo sanguíneo cerebral (CBF)",
+      "type": "MEDIDA",
+      "start": 884,
+      "end": 934
+    },
+    {
+      "text": "volumen cerebral de sangre (CBV)",
+      "type": "MEDIDA",
+      "start": 944,
+      "end": 976
+    },
+    {
+      "text": "tallo cerebral",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 596,
+      "end": 610
+    },
+    {
+      "text": "cerebelo postero-inferior",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1011,
+      "end": 1036
+    },
+    {
+      "text": "Oclusión completa de la arteria basilar",
+      "type": "PATOLOGIA",
+      "start": 1121,
+      "end": 1160
+    },
+    {
+      "text": "arteria basilar",
+      "type": "ARTERIA",
+      "start": 1145,
+      "end": 1160
+    },
+    {
+      "text": "Ambas arterias vertebrales",
+      "type": "ARTERIA",
+      "start": 1272,
+      "end": 1298
+    },
+    {
+      "text": "permeables",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1299,
+      "end": 1309
+    },
+    {
+      "text": "No se observa hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 493,
+      "end": 530
+    },
+    {
+      "text": "No hay desplazamiento significativo de las estructuras de la línea media",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 710,
+      "end": 782
+    },
+    {
+      "text": "No se identifican hemorragias ni edema cerebral significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1666,
+      "end": 1727
+    }
+  ]
+}

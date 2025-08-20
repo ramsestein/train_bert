@@ -1,0 +1,131 @@
+{
+  "document_id": "informe_sintetico_20250804195045_17906",
+  "entities": [
+    {
+      "text": "hipodensidad mal delimitada",
+      "type": "PATOLOGIA",
+      "start": 600,
+      "end": 627
+    },
+    {
+      "text": "infarto subagudo",
+      "type": "PATOLOGIA",
+      "start": 732,
+      "end": 748
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 770,
+      "end": 793
+    },
+    {
+      "text": "ASPECTS 7",
+      "type": "PUNTUACION_CLINICA",
+      "start": 901,
+      "end": 910
+    },
+    {
+      "text": "aumento del tiempo de tránsito (TTP)",
+      "type": "PATOLOGIA",
+      "start": 1024,
+      "end": 1060
+    },
+    {
+      "text": "tiempo hasta el máximo (Tmax)",
+      "type": "PATOLOGIA",
+      "start": 1063,
+      "end": 1092
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "ARTERIA",
+      "start": 1113,
+      "end": 1145
+    },
+    {
+      "text": "flujo sanguíneo cerebral (CBF)",
+      "type": "PATOLOGIA",
+      "start": 1179,
+      "end": 1209
+    },
+    {
+      "text": "volumen cerebral (CBV)",
+      "type": "PATOLOGIA",
+      "start": 1212,
+      "end": 1234
+    },
+    {
+      "text": "penumbra isquémica significativa",
+      "type": "PATOLOGIA",
+      "start": 1284,
+      "end": 1316
+    },
+    {
+      "text": "segmento irregular, estenótico y con doble contorno",
+      "type": "PATOLOGIA",
+      "start": 1373,
+      "end": 1424
+    },
+    {
+      "text": "arteria carótida interna izquierda",
+      "type": "ARTERIA",
+      "start": 1451,
+      "end": 1485
+    },
+    {
+      "text": "disección arterial",
+      "type": "PATOLOGIA",
+      "start": 1500,
+      "end": 1518
+    },
+    {
+      "text": "estenosis",
+      "type": "PATOLOGIA",
+      "start": 1571,
+      "end": 1580
+    },
+    {
+      "text": "flujo en la arteria cerebral media izquierda",
+      "type": "PATOLOGIA",
+      "start": 1613,
+      "end": 1657
+    },
+    {
+      "text": "trombosis completa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1686,
+      "end": 1704
+    },
+    {
+      "text": "aneurismas asociados",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1709,
+      "end": 1729
+    },
+    {
+      "text": "hemorragias",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2094,
+      "end": 2105
+    },
+    {
+      "text": "complicaciones hemorrágicas asociadas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2109,
+      "end": 2146
+    },
+    {
+      "text": "seguimiento clínico-radiológico",
+      "type": "TEMPORALIDAD",
+      "start": 2165,
+      "end": 2196
+    },
+    {
+      "text": "valoración neurológica urgente",
+      "type": "TEMPORALIDAD",
+      "start": 2199,
+      "end": 2229
+    }
+  ]
+}

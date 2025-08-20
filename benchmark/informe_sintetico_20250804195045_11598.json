@@ -1,0 +1,119 @@
+{
+  "document_id": "informe_sintetico_20250804195045_11598",
+  "entities": [
+    {
+      "text": "hemorragia subaracnoidea",
+      "type": "PATOLOGIA",
+      "start": 262,
+      "end": 286
+    },
+    {
+      "text": "hemorragia subaracnoidea extensa",
+      "type": "PATOLOGIA",
+      "start": 675,
+      "end": 707
+    },
+    {
+      "text": "focos hemorrágicos parenquimatosos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 724,
+      "end": 758
+    },
+    {
+      "text": "hematomas intraparenquimatosos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 762,
+      "end": 792
+    },
+    {
+      "text": "infarto cerebral",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 960,
+      "end": 976
+    },
+    {
+      "text": "disminución leve y segmentaria del flujo sanguíneo cerebral (CBF)",
+      "type": "PATOLOGIA",
+      "start": 1027,
+      "end": 1092
+    },
+    {
+      "text": "vasoespasmo incipiente",
+      "type": "PATOLOGIA",
+      "start": 1321,
+      "end": 1343
+    },
+    {
+      "text": "pequeña dilatación sacular",
+      "type": "PATOLOGIA",
+      "start": 1443,
+      "end": 1469
+    },
+    {
+      "text": "arteria comunicante anterior izquierda",
+      "type": "ARTERIA",
+      "start": 1499,
+      "end": 1537
+    },
+    {
+      "text": "bilaterales",
+      "type": "LATERALIDAD",
+      "start": 1142,
+      "end": 1153
+    },
+    {
+      "text": "aneurisma cerebral",
+      "type": "PATOLOGIA",
+      "start": 1552,
+      "end": 1570
+    },
+    {
+      "text": "arteria comunicante anterior izquierda",
+      "type": "ARTERIA",
+      "start": 1499,
+      "end": 1537
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 307,
+      "end": 323
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 401,
+      "end": 422
+    },
+    {
+      "text": "angio TC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 425,
+      "end": 455
+    },
+    {
+      "text": "TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANG IOTC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 72,
+      "end": 140
+    },
+    {
+      "text": "sin signos de hidrocefalia aguda",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 898,
+      "end": 930
+    },
+    {
+      "text": "sin estenosis significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1645,
+      "end": 1673
+    },
+    {
+      "text": "sin infarto establecido",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2508,
+      "end": 2531
+    }
+  ]
+}

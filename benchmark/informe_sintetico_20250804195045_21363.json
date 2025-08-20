@@ -1,0 +1,65 @@
+{
+  "document_id": "informe_sintetico_20250804195045_21363",
+  "entities": [
+    {
+      "text": "hemorragia intraventricular primaria",
+      "type": "PATOLOGIA",
+      "start": 501,
+      "end": 537
+    },
+    {
+      "text": "ventrículos laterales bilaterales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 559,
+      "end": 592
+    },
+    {
+      "text": "tercer y cuarto ventrículo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 617,
+      "end": 643
+    },
+    {
+      "text": "acueducto de Silvio",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 926,
+      "end": 945
+    },
+    {
+      "text": "hidrocefalia obstructiva",
+      "type": "PATOLOGIA",
+      "start": 861,
+      "end": 885
+    },
+    {
+      "text": "dilatado de forma moderada",
+      "type": "MEDIDA",
+      "start": 818,
+      "end": 844
+    },
+    {
+      "text": "sin áreas de hipoperfusión o isquemia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1129,
+      "end": 1166
+    },
+    {
+      "text": "sin hallazgos vasculares anómalos en angioTC",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1527,
+      "end": 1571
+    },
+    {
+      "text": "angiografía por TC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 377,
+      "end": 417
+    },
+    {
+      "text": "TC craneal urgente",
+      "type": "TECNICA_IMAGEN",
+      "start": 280,
+      "end": 298
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "document_id": "informe_sintetico_20250804195045_10213",
+  "entities": [
+    {
+      "text": "infarto cerebral agudo",
+      "type": "PATOLOGIA",
+      "start": 618,
+      "end": 640
+    },
+    {
+      "text": "arteria carótida interna izquierda",
+      "type": "ARTERIA",
+      "start": 567,
+      "end": 601
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 592,
+      "end": 601
+    },
+    {
+      "text": "ASPECTS: 7",
+      "type": "PUNTUACION_CLINICA",
+      "start": 822,
+      "end": 832
+    },
+    {
+      "text": "isquemia crítica",
+      "type": "PATOLOGIA",
+      "start": 1262,
+      "end": 1278
+    },
+    {
+      "text": "arteria carótida interna izquierda",
+      "type": "ARTERIA",
+      "start": 567,
+      "end": 601
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 592,
+      "end": 601
+    },
+    {
+      "text": "sin estenosis significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1667,
+      "end": 1695
+    },
+    {
+      "text": "sin alteraciones",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1733,
+      "end": 1749
+    },
+    {
+      "text": "TC perfusión",
+      "type": "TECNICA_IMAGEN",
+      "start": 345,
+      "end": 357
+    },
+    {
+      "text": "Angio-TC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 368,
+      "end": 398
+    }
+  ]
+}

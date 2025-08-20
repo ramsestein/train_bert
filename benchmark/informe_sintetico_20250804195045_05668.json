@@ -1,0 +1,295 @@
+{
+  "document_id": "informe_sintetico_20250804195045_05668",
+  "entities": [
+    {
+      "text": "disminución del nivel de conciencia",
+      "type": "PATOLOGIA",
+      "start": 204,
+      "end": 239
+    },
+    {
+      "text": "hemiparesia bilateral",
+      "type": "PATOLOGIA",
+      "start": 241,
+      "end": 262
+    },
+    {
+      "text": "signos de afectación del tronco cerebral",
+      "type": "PATOLOGIA",
+      "start": 265,
+      "end": 305
+    },
+    {
+      "text": "oclusión arterial",
+      "type": "PATOLOGIA",
+      "start": 327,
+      "end": 344
+    },
+    {
+      "text": "TC Craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 395,
+      "end": 411
+    },
+    {
+      "text": "hemorragias intracraneales agudas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 600,
+      "end": 633
+    },
+    {
+      "text": "signos de sangrado subaracnoideo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 637,
+      "end": 669
+    },
+    {
+      "text": "discreta hipodensidad",
+      "type": "PATOLOGIA",
+      "start": 682,
+      "end": 703
+    },
+    {
+      "text": "región del mesencéfalo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 707,
+      "end": 729
+    },
+    {
+      "text": "protuberancia",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 732,
+      "end": 745
+    },
+    {
+      "text": "surcos",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 771,
+      "end": 777
+    },
+    {
+      "text": "diferenciación cortico-subcortical",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 798,
+      "end": 832
+    },
+    {
+      "text": "territorio de la arteria basilar",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 839,
+      "end": 871
+    },
+    {
+      "text": "ASPECTS en circulación posterior",
+      "type": "PUNTUACION_CLINICA",
+      "start": 873,
+      "end": 905
+    },
+    {
+      "text": "6/10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 907,
+      "end": 911
+    },
+    {
+      "text": "TC PERFUSIÓN",
+      "type": "TECNICA_IMAGEN",
+      "start": 914,
+      "end": 926
+    },
+    {
+      "text": "Mapas de tiempo de tránsito (TTP)",
+      "type": "TECNICA_IMAGEN",
+      "start": 930,
+      "end": 963
+    },
+    {
+      "text": "tronco cerebral",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 290,
+      "end": 305
+    },
+    {
+      "text": "cerebelo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1032,
+      "end": 1040
+    },
+    {
+      "text": "tálamos bilaterales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1043,
+      "end": 1062
+    },
+    {
+      "text": "flujo cerebral (CBF)",
+      "type": "MEDIDA",
+      "start": 1082,
+      "end": 1102
+    },
+    {
+      "text": "volumen cerebral (CBV)",
+      "type": "MEDIDA",
+      "start": 1105,
+      "end": 1127
+    },
+    {
+      "text": "isquemia extensa",
+      "type": "PATOLOGIA",
+      "start": 1168,
+      "end": 1184
+    },
+    {
+      "text": "territorio vertebrobasilar",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 348,
+      "end": 374
+    },
+    {
+      "text": "zona de penumbra",
+      "type": "PATOLOGIA",
+      "start": 1230,
+      "end": 1246
+    },
+    {
+      "text": "TTP prolongado",
+      "type": "MEDIDA",
+      "start": 1279,
+      "end": 1293
+    },
+    {
+      "text": "CBV conservado",
+      "type": "MEDIDA",
+      "start": 1296,
+      "end": 1310
+    },
+    {
+      "text": "ANGIO-TC EXTRA E INTRACRANEAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 1313,
+      "end": 1342
+    },
+    {
+      "text": "oclusión completa de arteria basilar",
+      "type": "PATOLOGIA",
+      "start": 1804,
+      "end": 1840
+    },
+    {
+      "text": "segmento proximal-medio",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1386,
+      "end": 1409
+    },
+    {
+      "text": "Arterias vertebrales dominantes",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1411,
+      "end": 1442
+    },
+    {
+      "text": "porciones cervicales y proximales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1461,
+      "end": 1494
+    },
+    {
+      "text": "estenosis significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1500,
+      "end": 1524
+    },
+    {
+      "text": "colaterales compensatorias",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1543,
+      "end": 1569
+    },
+    {
+      "text": "círculo de Willis posterior",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1582,
+      "end": 1609
+    },
+    {
+      "text": "Arterias cerebrales posteriores (PCAs)",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1611,
+      "end": 1649
+    },
+    {
+      "text": "flujo reducido",
+      "type": "PATOLOGIA",
+      "start": 1685,
+      "end": 1699
+    },
+    {
+      "text": "aneurismas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1708,
+      "end": 1718
+    },
+    {
+      "text": "malformaciones arteriovenosas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1722,
+      "end": 1751
+    },
+    {
+      "text": "oclusión completa de arteria basilar proximal",
+      "type": "PATOLOGIA",
+      "start": 1804,
+      "end": 1849
+    },
+    {
+      "text": "extensa área de isquemia",
+      "type": "PATOLOGIA",
+      "start": 1854,
+      "end": 1878
+    },
+    {
+      "text": "tronco cerebral",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 290,
+      "end": 305
+    },
+    {
+      "text": "estructuras relacionadas",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1900,
+      "end": 1924
+    },
+    {
+      "text": "hipodensidad en TC basal",
+      "type": "PATOLOGIA",
+      "start": 1942,
+      "end": 1966
+    },
+    {
+      "text": "patrones alterados en mapas de perfusión",
+      "type": "PATOLOGIA",
+      "start": 1969,
+      "end": 2009
+    },
+    {
+      "text": "ASPECTS circulación posterior",
+      "type": "PUNTUACION_CLINICA",
+      "start": 2011,
+      "end": 2040
+    },
+    {
+      "text": "6/10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 907,
+      "end": 911
+    },
+    {
+      "text": "signos de hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2050,
+      "end": 2083
+    }
+  ],
+  "regenerado": true,
+  "fecha_regeneracion": "2025-08-06T04:42:21.710988"
+}

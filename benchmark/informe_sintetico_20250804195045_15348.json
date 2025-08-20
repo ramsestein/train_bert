@@ -1,0 +1,83 @@
+{
+  "document_id": "informe_sintetico_20250804195045_15348",
+  "entities": [
+    {
+      "text": "hemiparesia derecha",
+      "type": "PATOLOGIA",
+      "start": 187,
+      "end": 206
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 289,
+      "end": 303
+    },
+    {
+      "text": "arteria cerebral posterior izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 321,
+      "end": 357
+    },
+    {
+      "text": "disminución significativa del flujo cerebral",
+      "type": "PATOLOGIA",
+      "start": 925,
+      "end": 969
+    },
+    {
+      "text": "arteria cerebral posterior izquierda",
+      "type": "ARTERIA",
+      "start": 321,
+      "end": 357
+    },
+    {
+      "text": "segmento P2",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1205,
+      "end": 1216
+    },
+    {
+      "text": "Oclusión completa",
+      "type": "PATOLOGIA",
+      "start": 1183,
+      "end": 1200
+    },
+    {
+      "text": "sin estenosis significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1282,
+      "end": 1310
+    },
+    {
+      "text": "sin evidencia de infarto establecido significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1611,
+      "end": 1661
+    },
+    {
+      "text": "penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1129,
+      "end": 1147
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 402,
+      "end": 418
+    },
+    {
+      "text": "angiografía TC arterial",
+      "type": "TECNICA_IMAGEN",
+      "start": 466,
+      "end": 489
+    },
+    {
+      "text": "TC PERFUSIÓN",
+      "type": "TECNICA_IMAGEN",
+      "start": 846,
+      "end": 858
+    }
+  ]
+}

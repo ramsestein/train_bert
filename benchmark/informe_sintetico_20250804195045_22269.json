@@ -1,0 +1,173 @@
+{
+  "document_id": "informe_sintetico_20250804195045_22269",
+  "entities": [
+    {
+      "text": "infarto cerebral",
+      "type": "PATOLOGIA",
+      "start": 241,
+      "end": 257
+    },
+    {
+      "text": "oclusión carotídea",
+      "type": "PATOLOGIA",
+      "start": 262,
+      "end": 280
+    },
+    {
+      "text": "arteria cerebral media",
+      "type": "ARTERIA",
+      "start": 493,
+      "end": 515
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 522,
+      "end": 529
+    },
+    {
+      "text": "3 mm",
+      "type": "MEDIDA",
+      "start": 815,
+      "end": 819
+    },
+    {
+      "text": "agudo",
+      "type": "TEMPORALIDAD",
+      "start": 199,
+      "end": 204
+    },
+    {
+      "text": "ASPECTS 6/10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 689,
+      "end": 701
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 301,
+      "end": 317
+    },
+    {
+      "text": "No se evidencian hemorragias intracraneales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 703,
+      "end": 746
+    },
+    {
+      "text": "Sin hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2130,
+      "end": 2157
+    },
+    {
+      "text": "oclusión completa de la arteria carótida interna derecha",
+      "type": "PATOLOGIA",
+      "start": 1974,
+      "end": 2030
+    },
+    {
+      "text": "arteria carótida interna derecha",
+      "type": "ARTERIA",
+      "start": 1379,
+      "end": 1411
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 522,
+      "end": 529
+    },
+    {
+      "text": "segmento cervical proximal",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1415,
+      "end": 1441
+    },
+    {
+      "text": "sin lumen visible distal a la oclusión",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1473,
+      "end": 1511
+    },
+    {
+      "text": "sin estenosis ni placas hemodinámicamente significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1683,
+      "end": 1739
+    },
+    {
+      "text": "Moderada ateromatosis en la arteria carótida interna izquierda",
+      "type": "PATOLOGIA",
+      "start": 1741,
+      "end": 1803
+    },
+    {
+      "text": "arteria carótida interna izquierda",
+      "type": "ARTERIA",
+      "start": 1769,
+      "end": 1803
+    },
+    {
+      "text": "Sin hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2130,
+      "end": 2157
+    },
+    {
+      "text": "Infarto cerebral agudo",
+      "type": "PATOLOGIA",
+      "start": 1892,
+      "end": 1914
+    },
+    {
+      "text": "territorio de arteria cerebral media derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1918,
+      "end": 1962
+    },
+    {
+      "text": "oclusión completa de la arteria carótida interna derecha",
+      "type": "PATOLOGIA",
+      "start": 1974,
+      "end": 2030
+    },
+    {
+      "text": "segmento cervical proximal",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1415,
+      "end": 1441
+    },
+    {
+      "text": "mismatch perfusional significativo",
+      "type": "PATOLOGIA",
+      "start": 2094,
+      "end": 2128
+    },
+    {
+      "text": "Sin hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2130,
+      "end": 2157
+    },
+    {
+      "text": "ausencia de flujo distal compatible con oclusión carotídea derecha",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2224,
+      "end": 2290
+    },
+    {
+      "text": "Infarto cerebral derecho por oclusión carotídea interna derecha",
+      "type": "PATOLOGIA",
+      "start": 2460,
+      "end": 2523
+    },
+    {
+      "text": "Avalancha hipóxico-isquémica con área de penumbra",
+      "type": "PATOLOGIA",
+      "start": 2525,
+      "end": 2574
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "document_id": "informe_sintetico_20250804195045_03270",
+  "entities": [
+    {
+      "text": "hemorragias intra ni extraaxiales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 413,
+      "end": 446
+    },
+    {
+      "text": "infarto establecido",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 482,
+      "end": 501
+    },
+    {
+      "text": "ASPECTS 9",
+      "type": "PUNTUACION_CLINICA",
+      "start": 550,
+      "end": 559
+    },
+    {
+      "text": "tiempo de tránsito medio (TTP)",
+      "type": "MEDIDA",
+      "start": 707,
+      "end": 737
+    },
+    {
+      "text": "tiempo hasta el pico (TTP)",
+      "type": "MEDIDA",
+      "start": 744,
+      "end": 770
+    },
+    {
+      "text": "arteria cerebral media (ACM) izquierda",
+      "type": "ARTERIA",
+      "start": 826,
+      "end": 864
+    },
+    {
+      "text": "segmentos M2/M3",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 885,
+      "end": 900
+    },
+    {
+      "text": "volumen cerebral (CBV)",
+      "type": "MEDIDA",
+      "start": 931,
+      "end": 953
+    },
+    {
+      "text": "penumbra",
+      "type": "PATOLOGIA",
+      "start": 986,
+      "end": 994
+    },
+    {
+      "text": "Oclusión segmentaria en rama distal (M2) de la ACM izquierda",
+      "type": "PATOLOGIA",
+      "start": 1053,
+      "end": 1113
+    },
+    {
+      "text": "ASPECTS 9",
+      "type": "PUNTUACION_CLINICA",
+      "start": 550,
+      "end": 559
+    },
+    {
+      "text": "Isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 1360,
+      "end": 1374
+    },
+    {
+      "text": "territorio distal (M2) de la ACM izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1378,
+      "end": 1420
+    },
+    {
+      "text": "hipoperfusión significativa",
+      "type": "PATOLOGIA",
+      "start": 1433,
+      "end": 1460
+    },
+    {
+      "text": "infarto establecido en TC basal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1478,
+      "end": 1509
+    }
+  ]
+}

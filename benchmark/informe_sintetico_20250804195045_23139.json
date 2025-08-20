@@ -1,0 +1,131 @@
+{
+  "document_id": "informe_sintetico_20250804195045_23139",
+  "entities": [
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 244,
+      "end": 258
+    },
+    {
+      "text": "arteria cerebral posterior",
+      "type": "ARTERIA",
+      "start": 279,
+      "end": 305
+    },
+    {
+      "text": "derecho",
+      "type": "LATERALIDAD",
+      "start": 214,
+      "end": 221
+    },
+    {
+      "text": "ASPECTS 10/10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 637,
+      "end": 650
+    },
+    {
+      "text": "No se observan áreas hipodensas ni signos de hemorragia intracraneal.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 517,
+      "end": 586
+    },
+    {
+      "text": "zona de aumento en los tiempos de tránsito medio y retraso en el tiempo hasta el pico",
+      "type": "PATOLOGIA",
+      "start": 806,
+      "end": 891
+    },
+    {
+      "text": "disminución del flujo cerebral (CBF)",
+      "type": "PATOLOGIA",
+      "start": 903,
+      "end": 939
+    },
+    {
+      "text": "derecho",
+      "type": "LATERALIDAD",
+      "start": 214,
+      "end": 221
+    },
+    {
+      "text": "arteria cerebral posterior",
+      "type": "ARTERIA",
+      "start": 279,
+      "end": 305
+    },
+    {
+      "text": "lóbulo temporal medial",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1040,
+      "end": 1062
+    },
+    {
+      "text": "CBV",
+      "type": "MEDIDA",
+      "start": 1112,
+      "end": 1115
+    },
+    {
+      "text": "penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1152,
+      "end": 1170
+    },
+    {
+      "text": "No se evidencia infarto estable.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1172,
+      "end": 1204
+    },
+    {
+      "text": "Oclusión completa del segmento P1 de la arteria cerebral posterior derecha.",
+      "type": "PATOLOGIA",
+      "start": 1241,
+      "end": 1316
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 1308,
+      "end": 1315
+    },
+    {
+      "text": "Sin estenosis significativa en ejes carotídeos e intracraneales restantes.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1352,
+      "end": 1426
+    },
+    {
+      "text": "Ausencia de trombos en arterias vertebrales y basilar.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1427,
+      "end": 1481
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 244,
+      "end": 258
+    },
+    {
+      "text": "arteria cerebral posterior derecha",
+      "type": "ARTERIA",
+      "start": 1281,
+      "end": 1315
+    },
+    {
+      "text": "sin infarto establecido",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1670,
+      "end": 1693
+    },
+    {
+      "text": "Oclusión del segmento P1 de la ACP derecha en AngioTC.",
+      "type": "PATOLOGIA",
+      "start": 1716,
+      "end": 1770
+    }
+  ]
+}

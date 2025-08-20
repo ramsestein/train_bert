@@ -1,0 +1,77 @@
+{
+  "document_id": "informe_sintetico_20250804195045_20063",
+  "entities": [
+    {
+      "text": "infarto establecido",
+      "type": "PATOLOGIA",
+      "start": 750,
+      "end": 769
+    },
+    {
+      "text": "transformación hemorrágica tipo HI1",
+      "type": "PATOLOGIA",
+      "start": 932,
+      "end": 967
+    },
+    {
+      "text": "hemorragia intraparenquimatosa extensa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 976,
+      "end": 1014
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 701,
+      "end": 733
+    },
+    {
+      "text": "región temporal y parietal izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1332,
+      "end": 1368
+    },
+    {
+      "text": "arterias cerebrales medias",
+      "type": "ARTERIA",
+      "start": 1687,
+      "end": 1713
+    },
+    {
+      "text": "sin complicaciones hemorrágicas mayores",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2471,
+      "end": 2510
+    },
+    {
+      "text": "isquemia subaguda",
+      "type": "TEMPORALIDAD",
+      "start": 2097,
+      "end": 2114
+    },
+    {
+      "text": "sin estenosis ni oclusiones relevantes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2153,
+      "end": 2191
+    },
+    {
+      "text": "TC craneal urgente basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 448,
+      "end": 472
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 474,
+      "end": 495
+    },
+    {
+      "text": "angioTC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 498,
+      "end": 527
+    }
+  ]
+}

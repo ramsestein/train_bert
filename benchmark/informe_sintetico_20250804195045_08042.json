@@ -1,0 +1,65 @@
+{
+  "document_id": "informe_sintetico_20250804195045_08042",
+  "entities": [
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 649,
+      "end": 663
+    },
+    {
+      "text": "arteria cerebral anterior",
+      "type": "ARTERIA",
+      "start": 248,
+      "end": 273
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 971,
+      "end": 980
+    },
+    {
+      "text": "7",
+      "type": "PUNTUACION_CLINICA",
+      "start": 746,
+      "end": 747
+    },
+    {
+      "text": "90%",
+      "type": "MEDIDA",
+      "start": 1229,
+      "end": 1232
+    },
+    {
+      "text": "A2",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1246,
+      "end": 1248
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 971,
+      "end": 980
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 439,
+      "end": 462
+    },
+    {
+      "text": "sangrado subaracnoideo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 476,
+      "end": 498
+    },
+    {
+      "text": "hemorragias",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1768,
+      "end": 1779
+    }
+  ]
+}

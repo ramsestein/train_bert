@@ -1,0 +1,223 @@
+{
+  "document_id": "informe_sintetico_20250804195045_13724",
+  "entities": [
+    {
+      "text": "hipertensión arterial",
+      "type": "PATOLOGIA",
+      "start": 216,
+      "end": 237
+    },
+    {
+      "text": "dislipidemia",
+      "type": "PATOLOGIA",
+      "start": 240,
+      "end": 252
+    },
+    {
+      "text": "episodio transitorio de debilidad hemicorporal izquierda",
+      "type": "PATOLOGIA",
+      "start": 267,
+      "end": 323
+    },
+    {
+      "text": "déficit neurológico residual",
+      "type": "PATOLOGIA",
+      "start": 328,
+      "end": 356
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 377,
+      "end": 393
+    },
+    {
+      "text": "perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 406,
+      "end": 424
+    },
+    {
+      "text": "angiografía por angioTC intra y extracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 427,
+      "end": 471
+    },
+    {
+      "text": "hemorragia intracraneal aguda",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 590,
+      "end": 619
+    },
+    {
+      "text": "infarto cerebral reciente",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 623,
+      "end": 648
+    },
+    {
+      "text": "alteraciones densitométricas focales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 674,
+      "end": 710
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 759,
+      "end": 769
+    },
+    {
+      "text": "lesiones ocupantes de espacio",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 786,
+      "end": 815
+    },
+    {
+      "text": "edema cerebral",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 819,
+      "end": 833
+    },
+    {
+      "text": "estructuras de la línea media",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 887,
+      "end": 916
+    },
+    {
+      "text": "focos de gliosis periventricular",
+      "type": "PATOLOGIA",
+      "start": 994,
+      "end": 1026
+    },
+    {
+      "text": "cambios crónicos vasculares mínimos",
+      "type": "PATOLOGIA",
+      "start": 1043,
+      "end": 1078
+    },
+    {
+      "text": "Mapas de tiempo de tránsito (TTP)",
+      "type": "TECNICA_IMAGEN",
+      "start": 1099,
+      "end": 1132
+    },
+    {
+      "text": "flujo cerebral (CBF)",
+      "type": "TECNICA_IMAGEN",
+      "start": 1134,
+      "end": 1154
+    },
+    {
+      "text": "volumen cerebral (CBV)",
+      "type": "TECNICA_IMAGEN",
+      "start": 1157,
+      "end": 1179
+    },
+    {
+      "text": "alteraciones significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1184,
+      "end": 1211
+    },
+    {
+      "text": "asimetrías que sugieran hipoperfusión isquémica",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1215,
+      "end": 1262
+    },
+    {
+      "text": "perfusión cerebral homogénea",
+      "type": "PATOLOGIA",
+      "start": 1277,
+      "end": 1305
+    },
+    {
+      "text": "ambos hemisferios",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1309,
+      "end": 1326
+    },
+    {
+      "text": "estenosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1424,
+      "end": 1433
+    },
+    {
+      "text": "trombosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1437,
+      "end": 1446
+    },
+    {
+      "text": "ACAs",
+      "type": "ARTERIA",
+      "start": 1481,
+      "end": 1485
+    },
+    {
+      "text": "ACMs",
+      "type": "ARTERIA",
+      "start": 1487,
+      "end": 1491
+    },
+    {
+      "text": "ACPs",
+      "type": "ARTERIA",
+      "start": 1494,
+      "end": 1498
+    },
+    {
+      "text": "calibre conservado",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1517,
+      "end": 1535
+    },
+    {
+      "text": "placas ateromatosas significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1554,
+      "end": 1588
+    },
+    {
+      "text": "hallazgos agudos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1690,
+      "end": 1706
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 759,
+      "end": 769
+    },
+    {
+      "text": "perfusión cerebral homogénea",
+      "type": "PATOLOGIA",
+      "start": 1277,
+      "end": 1305
+    },
+    {
+      "text": "signos de isquemia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1753,
+      "end": 1771
+    },
+    {
+      "text": "estenosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1424,
+      "end": 1433
+    },
+    {
+      "text": "microangiopatía",
+      "type": "PATOLOGIA",
+      "start": 1879,
+      "end": 1894
+    }
+  ],
+  "regenerado": true,
+  "fecha_regeneracion": "2025-08-06T06:39:03.321329"
+}

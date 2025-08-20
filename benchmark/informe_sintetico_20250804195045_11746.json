@@ -1,0 +1,83 @@
+{
+  "document_id": "informe_sintetico_20250804195045_11746",
+  "entities": [
+    {
+      "text": "isquemia cerebral aguda",
+      "type": "PATOLOGIA",
+      "start": 234,
+      "end": 257
+    },
+    {
+      "text": "hemicuerpo derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 202,
+      "end": 220
+    },
+    {
+      "text": "arteria cerebral media (ACM)",
+      "type": "ARTERIA",
+      "start": 705,
+      "end": 733
+    },
+    {
+      "text": "izquierdo",
+      "type": "LATERALIDAD",
+      "start": 761,
+      "end": 770
+    },
+    {
+      "text": "ASPECTS 9",
+      "type": "PUNTUACION_CLINICA",
+      "start": 796,
+      "end": 805
+    },
+    {
+      "text": "infarto establecido",
+      "type": "PATOLOGIA",
+      "start": 834,
+      "end": 853
+    },
+    {
+      "text": "prolongación focal",
+      "type": "PATOLOGIA",
+      "start": 967,
+      "end": 985
+    },
+    {
+      "text": "disminución más marcada del flujo sanguíneo cerebral (CBF)",
+      "type": "PATOLOGIA",
+      "start": 1112,
+      "end": 1170
+    },
+    {
+      "text": "penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1223,
+      "end": 1241
+    },
+    {
+      "text": "Oclusión en segmento distal M2 de la ACM izquierda",
+      "type": "PATOLOGIA",
+      "start": 1311,
+      "end": 1361
+    },
+    {
+      "text": "sin estenosis ni otras oclusiones",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1468,
+      "end": 1501
+    },
+    {
+      "text": "sin infarto establecido",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1732,
+      "end": 1755
+    },
+    {
+      "text": "M2 distal ACM izquierda ocluida",
+      "type": "PATOLOGIA",
+      "start": 2259,
+      "end": 2290
+    }
+  ]
+}

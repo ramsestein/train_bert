@@ -1,0 +1,83 @@
+{
+  "document_id": "informe_sintetico_20250804195045_03858",
+  "entities": [
+    {
+      "text": "isquemia",
+      "type": "PATOLOGIA",
+      "start": 553,
+      "end": 561
+    },
+    {
+      "text": "parietal derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 510,
+      "end": 526
+    },
+    {
+      "text": "ACM",
+      "type": "ARTERIA",
+      "start": 1379,
+      "end": 1382
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 1020,
+      "end": 1027
+    },
+    {
+      "text": "9",
+      "type": "PUNTUACION_CLINICA",
+      "start": 571,
+      "end": 572
+    },
+    {
+      "text": "aguda",
+      "type": "TEMPORALIDAD",
+      "start": 1349,
+      "end": 1354
+    },
+    {
+      "text": "TC CRANEAL BASAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 281,
+      "end": 297
+    },
+    {
+      "text": "No evidencias de hemorragia intracraneal ni lesiones expansivas.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 400,
+      "end": 464
+    },
+    {
+      "text": "Oclusión segmentaria en rama distal de arteria cerebral media (M2) derecha",
+      "type": "PATOLOGIA",
+      "start": 953,
+      "end": 1027
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 1020,
+      "end": 1027
+    },
+    {
+      "text": "9",
+      "type": "PUNTUACION_CLINICA",
+      "start": 571,
+      "end": 572
+    },
+    {
+      "text": "isquémica",
+      "type": "PATOLOGIA",
+      "start": 918,
+      "end": 927
+    },
+    {
+      "text": "No se detectan hemorragias ni otras complicaciones intracraneales.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1568,
+      "end": 1634
+    }
+  ]
+}

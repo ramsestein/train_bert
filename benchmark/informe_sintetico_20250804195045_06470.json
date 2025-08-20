@@ -1,0 +1,143 @@
+{
+  "document_id": "informe_sintetico_20250804195045_06470",
+  "entities": [
+    {
+      "text": "hemiparesia derecha",
+      "type": "PATOLOGIA",
+      "start": 309,
+      "end": 328
+    },
+    {
+      "text": "evento isquémico agudo",
+      "type": "PATOLOGIA",
+      "start": 389,
+      "end": 411
+    },
+    {
+      "text": "patrón cortico-subcortical conservado",
+      "type": "PATOLOGIA",
+      "start": 608,
+      "end": 645
+    },
+    {
+      "text": "hipodensidades",
+      "type": "PATOLOGIA",
+      "start": 650,
+      "end": 664
+    },
+    {
+      "text": "edema agudo",
+      "type": "PATOLOGIA",
+      "start": 678,
+      "end": 689
+    },
+    {
+      "text": "focos de sangrado",
+      "type": "PATOLOGIA",
+      "start": 709,
+      "end": 726
+    },
+    {
+      "text": "lesiones ocupantes de espacio",
+      "type": "PATOLOGIA",
+      "start": 730,
+      "end": 759
+    },
+    {
+      "text": "cambios crónicos leves",
+      "type": "PATOLOGIA",
+      "start": 887,
+      "end": 909
+    },
+    {
+      "text": "hipodensidad periventricular bilateral",
+      "type": "PATOLOGIA",
+      "start": 931,
+      "end": 969
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 1286,
+      "end": 1300
+    },
+    {
+      "text": "penumbra cerebral",
+      "type": "PATOLOGIA",
+      "start": 1303,
+      "end": 1320
+    },
+    {
+      "text": "estenosis hemodinámicamente significativa",
+      "type": "PATOLOGIA",
+      "start": 1439,
+      "end": 1480
+    },
+    {
+      "text": "placas ateromatosas calcificadas",
+      "type": "PATOLOGIA",
+      "start": 1508,
+      "end": 1540
+    },
+    {
+      "text": "cerebral media",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1604,
+      "end": 1618
+    },
+    {
+      "text": "cerebral anterior",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1621,
+      "end": 1638
+    },
+    {
+      "text": "simétricos",
+      "type": "LATERALIDAD",
+      "start": 1652,
+      "end": 1662
+    },
+    {
+      "text": "sin evidencia de patología isquémica o hemorrágica aguda",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1696,
+      "end": 1752
+    },
+    {
+      "text": "sin repercusión hemodinámica evidente",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1830,
+      "end": 1867
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 1869,
+      "end": 1879
+    },
+    {
+      "text": "TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANG IOTC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 72,
+      "end": 140
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 432,
+      "end": 448
+    },
+    {
+      "text": "estudio de perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 450,
+      "end": 479
+    },
+    {
+      "text": "angiografía por angioTC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 482,
+      "end": 527
+    }
+  ]
+}

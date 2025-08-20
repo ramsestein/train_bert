@@ -1,0 +1,65 @@
+{
+  "document_id": "informe_sintetico_20250804195045_20456",
+  "entities": [
+    {
+      "text": "infarto cerebral subagudo",
+      "type": "PATOLOGIA",
+      "start": 738,
+      "end": 763
+    },
+    {
+      "text": "aproximadamente 6 horas de evolución",
+      "type": "TEMPORALIDAD",
+      "start": 765,
+      "end": 801
+    },
+    {
+      "text": "ASPECTS 7/10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 988,
+      "end": 1000
+    },
+    {
+      "text": "territorio vascular de la arteria cerebral media izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 547,
+      "end": 605
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "ARTERIA",
+      "start": 573,
+      "end": 605
+    },
+    {
+      "text": "Oclusión completa del segmento cervical y proximal intracraneal de la arteria carótida interna izquierda",
+      "type": "PATOLOGIA",
+      "start": 1496,
+      "end": 1600
+    },
+    {
+      "text": "Sin hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2325,
+      "end": 2352
+    },
+    {
+      "text": "No se identifican signos de hemorragia intracraneal ni desplazamiento significativo de la línea media",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 804,
+      "end": 905
+    },
+    {
+      "text": "No se observan otras estenosis significativas en troncos supraaórticos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1733,
+      "end": 1803
+    },
+    {
+      "text": "No evidencia de trombo visible en otras arterias cerebrales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1871,
+      "end": 1930
+    }
+  ]
+}

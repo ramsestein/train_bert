@@ -1,0 +1,71 @@
+{
+  "document_id": "informe_sintetico_20250804195045_18419",
+  "entities": [
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 719,
+      "end": 733
+    },
+    {
+      "text": "hemiparesia derecha",
+      "type": "PATOLOGIA",
+      "start": 196,
+      "end": 215
+    },
+    {
+      "text": "arterias cerebrales medias",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 593,
+      "end": 619
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "ARTERIA",
+      "start": 1464,
+      "end": 1494
+    },
+    {
+      "text": "carótida interna izquierda",
+      "type": "ARTERIA",
+      "start": 1599,
+      "end": 1625
+    },
+    {
+      "text": "bilateralmente",
+      "type": "LATERALIDAD",
+      "start": 546,
+      "end": 560
+    },
+    {
+      "text": "significativa",
+      "type": "MEDIDA",
+      "start": 1180,
+      "end": 1193
+    },
+    {
+      "text": "aguda",
+      "type": "TEMPORALIDAD",
+      "start": 728,
+      "end": 733
+    },
+    {
+      "text": "No se visualizan signos de hemorragia intraparenquimatosa ni extraaxial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 735,
+      "end": 806
+    },
+    {
+      "text": "TC de cráneo basal sin contraste",
+      "type": "TECNICA_IMAGEN",
+      "start": 261,
+      "end": 293
+    },
+    {
+      "text": "angiografía TC de vasos supraórticos e intracraneales",
+      "type": "TECNICA_IMAGEN",
+      "start": 327,
+      "end": 380
+    }
+  ]
+}

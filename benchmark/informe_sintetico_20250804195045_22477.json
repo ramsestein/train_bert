@@ -1,0 +1,65 @@
+{
+  "document_id": "informe_sintetico_20250804195045_22477",
+  "entities": [
+    {
+      "text": "isquemia cerebral",
+      "type": "PATOLOGIA",
+      "start": 247,
+      "end": 264
+    },
+    {
+      "text": "arteria cerebral media izquierda distal",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 279,
+      "end": 318
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "ARTERIA",
+      "start": 279,
+      "end": 311
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 302,
+      "end": 311
+    },
+    {
+      "text": "ASPECTS 9/10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 583,
+      "end": 595
+    },
+    {
+      "text": "aguda",
+      "type": "TEMPORALIDAD",
+      "start": 1387,
+      "end": 1392
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "ARTERIA",
+      "start": 279,
+      "end": 311
+    },
+    {
+      "text": "M2-M3",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 824,
+      "end": 829
+    },
+    {
+      "text": "No se evidencian hemorragias intra ni extraaxiales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 481,
+      "end": 531
+    },
+    {
+      "text": "No evidencias de hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1626,
+      "end": 1666
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "document_id": "informe_sintetico_20250804195045_07792",
+  "entities": [
+    {
+      "text": "infarto lacunar",
+      "type": "PATOLOGIA",
+      "start": 243,
+      "end": 258
+    },
+    {
+      "text": "región protuberancial derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 555,
+      "end": 584
+    },
+    {
+      "text": "infarto lacunar agudo",
+      "type": "PATOLOGIA",
+      "start": 601,
+      "end": 622
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 822,
+      "end": 832
+    },
+    {
+      "text": "región protuberancial derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 555,
+      "end": 584
+    },
+    {
+      "text": "tiempos de tránsito (TTP, Tmax)",
+      "type": "MEDIDA",
+      "start": 1066,
+      "end": 1097
+    },
+    {
+      "text": "sin signos de complicación ni hemorragia asociada",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1542,
+      "end": 1591
+    },
+    {
+      "text": "sin estenosis destacables",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1749,
+      "end": 1774
+    }
+  ]
+}

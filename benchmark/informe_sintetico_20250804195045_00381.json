@@ -1,0 +1,125 @@
+{
+  "document_id": "informe_sintetico_20250804195045_00381",
+  "entities": [
+    {
+      "text": "hematoma lobar",
+      "type": "PATOLOGIA",
+      "start": 499,
+      "end": 513
+    },
+    {
+      "text": "35 x 25 mm",
+      "type": "MEDIDA",
+      "start": 533,
+      "end": 543
+    },
+    {
+      "text": "región parietal derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 550,
+      "end": 573
+    },
+    {
+      "text": "efecto masa leve",
+      "type": "PATOLOGIA",
+      "start": 579,
+      "end": 595
+    },
+    {
+      "text": "desviación de la línea media hacia la izquierda",
+      "type": "PATOLOGIA",
+      "start": 607,
+      "end": 654
+    },
+    {
+      "text": "No se observan otras hemorragias intracraneales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 685,
+      "end": 732
+    },
+    {
+      "text": "edema vasogénico",
+      "type": "PATOLOGIA",
+      "start": 811,
+      "end": 827
+    },
+    {
+      "text": "3 mm",
+      "type": "MEDIDA",
+      "start": 871,
+      "end": 875
+    },
+    {
+      "text": "ventrículo lateral derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 926,
+      "end": 952
+    },
+    {
+      "text": "No se observan zonas de isquemia establecida",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1154,
+      "end": 1198
+    },
+    {
+      "text": "Hematoma lobar parietal derecho",
+      "type": "PATOLOGIA",
+      "start": 1509,
+      "end": 1540
+    },
+    {
+      "text": "moderado volumen",
+      "type": "PATOLOGIA",
+      "start": 1544,
+      "end": 1560
+    },
+    {
+      "text": "efecto masa leve",
+      "type": "PATOLOGIA",
+      "start": 579,
+      "end": 595
+    },
+    {
+      "text": "desviación de línea media asociada",
+      "type": "PATOLOGIA",
+      "start": 1584,
+      "end": 1618
+    },
+    {
+      "text": "No evidencias de otras hemorragias",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1620,
+      "end": 1654
+    },
+    {
+      "text": "lesiones vasculares significantes",
+      "type": "PATOLOGIA",
+      "start": 1658,
+      "end": 1691
+    },
+    {
+      "text": "edema y penumbra funcional",
+      "type": "PATOLOGIA",
+      "start": 1758,
+      "end": 1784
+    },
+    {
+      "text": "TC craneal basal no contrastado",
+      "type": "TECNICA_IMAGEN",
+      "start": 318,
+      "end": 349
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 362,
+      "end": 383
+    },
+    {
+      "text": "angio-TC de vasos supraórticos e intracraneales",
+      "type": "TECNICA_IMAGEN",
+      "start": 386,
+      "end": 433
+    }
+  ]
+}

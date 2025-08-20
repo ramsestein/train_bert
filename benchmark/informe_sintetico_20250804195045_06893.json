@@ -1,0 +1,95 @@
+{
+  "document_id": "informe_sintetico_20250804195045_06893",
+  "entities": [
+    {
+      "text": "accidente isquémico",
+      "type": "PATOLOGIA",
+      "start": 272,
+      "end": 291
+    },
+    {
+      "text": "isquemia",
+      "type": "PATOLOGIA",
+      "start": 692,
+      "end": 700
+    },
+    {
+      "text": "ASPECTS posterior 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 875,
+      "end": 895
+    },
+    {
+      "text": "Tmax",
+      "type": "MEDIDA",
+      "start": 958,
+      "end": 962
+    },
+    {
+      "text": "volumen de flujo cerebral (CBF)",
+      "type": "MEDIDA",
+      "start": 1074,
+      "end": 1105
+    },
+    {
+      "text": "volumen sanguíneo cerebral (CBV)",
+      "type": "MEDIDA",
+      "start": 1112,
+      "end": 1144
+    },
+    {
+      "text": "arteria basilar",
+      "type": "ARTERIA",
+      "start": 1031,
+      "end": 1046
+    },
+    {
+      "text": "Oclusión completa de arteria basilar",
+      "type": "PATOLOGIA",
+      "start": 1348,
+      "end": 1384
+    },
+    {
+      "text": "bilateralmente",
+      "type": "LATERALIDAD",
+      "start": 1490,
+      "end": 1504
+    },
+    {
+      "text": "Oclusión aguda proximal de arteria basilar",
+      "type": "PATOLOGIA",
+      "start": 1730,
+      "end": 1772
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 549,
+      "end": 572
+    },
+    {
+      "text": "ASPECTS posterior 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 875,
+      "end": 895
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 342,
+      "end": 358
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 375,
+      "end": 396
+    },
+    {
+      "text": "angio-TC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 399,
+      "end": 429
+    }
+  ]
+}

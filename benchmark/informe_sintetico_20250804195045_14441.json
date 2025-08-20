@@ -1,0 +1,125 @@
+{
+  "document_id": "informe_sintetico_20250804195045_14441",
+  "entities": [
+    {
+      "text": "hemiparesia derecha",
+      "type": "PATOLOGIA",
+      "start": 195,
+      "end": 214
+    },
+    {
+      "text": "afasia",
+      "type": "PATOLOGIA",
+      "start": 217,
+      "end": 223
+    },
+    {
+      "text": "menor a 6 horas",
+      "type": "TEMPORALIDAD",
+      "start": 249,
+      "end": 264
+    },
+    {
+      "text": "No se evidencian hemorragias intracraneales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 481,
+      "end": 524
+    },
+    {
+      "text": "signos de infarto establecido",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 528,
+      "end": 557
+    },
+    {
+      "text": "ASPECTS 9",
+      "type": "PUNTUACION_CLINICA",
+      "start": 639,
+      "end": 648
+    },
+    {
+      "text": "hipodensidad en región opercular frontal izquierda",
+      "type": "PATOLOGIA",
+      "start": 661,
+      "end": 711
+    },
+    {
+      "text": "aumento del tiempo de tránsito medio (TTM)",
+      "type": "PATOLOGIA",
+      "start": 748,
+      "end": 790
+    },
+    {
+      "text": "disminución del flujo cerebral sanguíneo (CBF)",
+      "type": "PATOLOGIA",
+      "start": 793,
+      "end": 839
+    },
+    {
+      "text": "conservación parcial del volumen cerebral sanguíneo (CBV)",
+      "type": "PATOLOGIA",
+      "start": 885,
+      "end": 942
+    },
+    {
+      "text": "área de penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 970,
+      "end": 996
+    },
+    {
+      "text": "Defecto de repleción en el segmento M2 de la arteria cerebral media izquierda",
+      "type": "PATOLOGIA",
+      "start": 1022,
+      "end": 1099
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "ARTERIA",
+      "start": 1067,
+      "end": 1099
+    },
+    {
+      "text": "buena permeabilidad de segmentos proximales y distales de otras arterias cerebrales principales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1105,
+      "end": 1200
+    },
+    {
+      "text": "No se evidencian signos de estenosis relevante",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1202,
+      "end": 1248
+    },
+    {
+      "text": "ni placa ateromatosa significativa en arterias examinadas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1249,
+      "end": 1306
+    },
+    {
+      "text": "Oclusión aguda en segmento distal M2 de la arteria cerebral media izquierda",
+      "type": "PATOLOGIA",
+      "start": 1331,
+      "end": 1406
+    },
+    {
+      "text": "área isquémica penumbra en perfusión",
+      "type": "PATOLOGIA",
+      "start": 1425,
+      "end": 1461
+    },
+    {
+      "text": "ausencia de infarto establecido en TC basal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1464,
+      "end": 1507
+    },
+    {
+      "text": "isquemia aguda limitada a territorio distal de ACM",
+      "type": "PATOLOGIA",
+      "start": 1535,
+      "end": 1585
+    }
+  ]
+}

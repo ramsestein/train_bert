@@ -1,0 +1,125 @@
+{
+  "document_id": "informe_sintetico_20250804195045_02240",
+  "entities": [
+    {
+      "text": "ictus isquémico",
+      "type": "PATOLOGIA",
+      "start": 236,
+      "end": 251
+    },
+    {
+      "text": "hipodensidad cortical",
+      "type": "PATOLOGIA",
+      "start": 480,
+      "end": 501
+    },
+    {
+      "text": "isquemia aguda temprana",
+      "type": "PATOLOGIA",
+      "start": 722,
+      "end": 745
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 797,
+      "end": 820
+    },
+    {
+      "text": "edema significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 824,
+      "end": 843
+    },
+    {
+      "text": "volumen sanguíneo cerebral",
+      "type": "PATOLOGIA",
+      "start": 975,
+      "end": 1001
+    },
+    {
+      "text": "penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1163,
+      "end": 1181
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "ARTERIA",
+      "start": 1281,
+      "end": 1311
+    },
+    {
+      "text": "M2/M3",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 574,
+      "end": 579
+    },
+    {
+      "text": "M2/M3",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 574,
+      "end": 579
+    },
+    {
+      "text": "M2/M3",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 574,
+      "end": 579
+    },
+    {
+      "text": "ACM",
+      "type": "ARTERIA",
+      "start": 1079,
+      "end": 1082
+    },
+    {
+      "text": "ACM",
+      "type": "ARTERIA",
+      "start": 1079,
+      "end": 1082
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 722,
+      "end": 736
+    },
+    {
+      "text": "infarto establecido",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1194,
+      "end": 1213
+    },
+    {
+      "text": "sin alteraciones",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 885,
+      "end": 901
+    },
+    {
+      "text": "ASPECTS",
+      "type": "PUNTUACION_CLINICA",
+      "start": 683,
+      "end": 690
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 292,
+      "end": 308
+    },
+    {
+      "text": "TC PERFUSIÓN",
+      "type": "TECNICA_IMAGEN",
+      "start": 904,
+      "end": 916
+    },
+    {
+      "text": "ANGIO-TC INTRACRANEAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 1216,
+      "end": 1237
+    }
+  ]
+}

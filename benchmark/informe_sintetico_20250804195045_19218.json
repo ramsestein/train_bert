@@ -1,0 +1,59 @@
+{
+  "document_id": "informe_sintetico_20250804195045_19218",
+  "entities": [
+    {
+      "text": "hematoma",
+      "type": "PATOLOGIA",
+      "start": 530,
+      "end": 538
+    },
+    {
+      "text": "región del hemisferio cerebeloso izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 421,
+      "end": 463
+    },
+    {
+      "text": "izquierdo",
+      "type": "LATERALIDAD",
+      "start": 454,
+      "end": 463
+    },
+    {
+      "text": "3.8 x 3.3 x 3.5 cm",
+      "type": "MEDIDA",
+      "start": 565,
+      "end": 583
+    },
+    {
+      "text": "agudas",
+      "type": "TEMPORALIDAD",
+      "start": 946,
+      "end": 952
+    },
+    {
+      "text": "hemorragia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 888,
+      "end": 898
+    },
+    {
+      "text": "isquémicas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 935,
+      "end": 945
+    },
+    {
+      "text": "permeabilidad conservada",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1000,
+      "end": 1024
+    },
+    {
+      "text": "TC CEREBRAL BASAL + PERFUSIÓN + ANGIO TC ARTERIAL INTRACRANEAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 1419,
+      "end": 1481
+    }
+  ]
+}

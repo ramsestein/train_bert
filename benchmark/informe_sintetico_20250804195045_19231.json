@@ -1,0 +1,53 @@
+{
+  "document_id": "informe_sintetico_20250804195045_19231",
+  "entities": [
+    {
+      "text": "infarto isquémico",
+      "type": "PATOLOGIA",
+      "start": 674,
+      "end": 691
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 503,
+      "end": 535
+    },
+    {
+      "text": "arteria carótida interna izquierda",
+      "type": "ARTERIA",
+      "start": 1165,
+      "end": 1199
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 526,
+      "end": 535
+    },
+    {
+      "text": "aguda",
+      "type": "TEMPORALIDAD",
+      "start": 712,
+      "end": 717
+    },
+    {
+      "text": "territorio MCA izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 2091,
+      "end": 2115
+    },
+    {
+      "text": "oclusión carotídea interna izquierda",
+      "type": "PATOLOGIA",
+      "start": 2120,
+      "end": 2156
+    },
+    {
+      "text": "infarto isquémico extenso en territorio MCA izquierda",
+      "type": "PATOLOGIA",
+      "start": 2311,
+      "end": 2364
+    }
+  ]
+}

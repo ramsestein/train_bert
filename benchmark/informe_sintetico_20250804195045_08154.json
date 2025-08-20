@@ -1,0 +1,59 @@
+{
+  "document_id": "informe_sintetico_20250804195045_08154",
+  "entities": [
+    {
+      "text": "hematoma lobar de localización frontal izquierda",
+      "type": "PATOLOGIA",
+      "start": 447,
+      "end": 495
+    },
+    {
+      "text": "frontal izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 478,
+      "end": 495
+    },
+    {
+      "text": "35 ml",
+      "type": "MEDIDA",
+      "start": 523,
+      "end": 528
+    },
+    {
+      "text": "6 mm",
+      "type": "MEDIDA",
+      "start": 762,
+      "end": 766
+    },
+    {
+      "text": "sin signos claros de hidrocefalia obstructiva",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 904,
+      "end": 949
+    },
+    {
+      "text": "sin signos de estenosis ni oclusión",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1251,
+      "end": 1286
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 296,
+      "end": 312
+    },
+    {
+      "text": "estudio de perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 332,
+      "end": 361
+    },
+    {
+      "text": "angio-TC intra y extracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 364,
+      "end": 393
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "document_id": "informe_sintetico_20250804195045_02355",
+  "entities": [
+    {
+      "text": "Hematoma intracerebral de aproximadamente 3,5 x 2,8 x 2,5 cm",
+      "type": "PATOLOGIA",
+      "start": 485,
+      "end": 545
+    },
+    {
+      "text": "núcleo caudado izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 560,
+      "end": 584
+    },
+    {
+      "text": "izquierdo",
+      "type": "LATERALIDAD",
+      "start": 575,
+      "end": 584
+    },
+    {
+      "text": "3,5 x 2,8 x 2,5 cm",
+      "type": "MEDIDA",
+      "start": 527,
+      "end": 545
+    },
+    {
+      "text": "Hematoma intracerebral agudo",
+      "type": "PATOLOGIA",
+      "start": 1528,
+      "end": 1556
+    },
+    {
+      "text": "núcleo caudado izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 560,
+      "end": 584
+    },
+    {
+      "text": "izquierdo",
+      "type": "LATERALIDAD",
+      "start": 575,
+      "end": 584
+    },
+    {
+      "text": "No se identifican sangrados subaracnoideos ni hemorragias extraaxiales asociadas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 776,
+      "end": 856
+    },
+    {
+      "text": "No se evidencian estenosis ni oclusiones arteriales significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1255,
+      "end": 1321
+    },
+    {
+      "text": "No se aprecian malformaciones vasculares ni aneurismas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1449,
+      "end": 1503
+    }
+  ]
+}

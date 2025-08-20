@@ -1,0 +1,241 @@
+{
+  "document_id": "0000000010000000062948559_cleaned",
+  "entities": [
+    {
+      "text": "ictus cerebral",
+      "type": "PATOLOGIA",
+      "start": 166,
+      "end": 180
+    },
+    {
+      "text": "TC CODIGO ICTUS",
+      "type": "TECNICA_IMAGEN",
+      "start": 72,
+      "end": 87
+    },
+    {
+      "text": "PERFUSION CEREBRAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 89,
+      "end": 107
+    },
+    {
+      "text": "ANG IOTC ARTERIAL INTRACRANEAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 109,
+      "end": 139
+    },
+    {
+      "text": "TC CRANEAL BASAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 217,
+      "end": 233
+    },
+    {
+      "text": "contraste ev",
+      "type": "PATOLOGIA",
+      "start": 265,
+      "end": 277
+    },
+    {
+      "text": "xx/xx/xxxx",
+      "type": "TEMPORALIDAD",
+      "start": 405,
+      "end": 415
+    },
+    {
+      "text": "hemorragia aguda intra ni extraaxial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 449,
+      "end": 485
+    },
+    {
+      "text": "Diferenciación cortico-subcortical conservada",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 487,
+      "end": 532
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 534,
+      "end": 544
+    },
+    {
+      "text": "hipodensidad",
+      "type": "PATOLOGIA",
+      "start": 551,
+      "end": 563
+    },
+    {
+      "text": "sustancia blanca supratentorial",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 567,
+      "end": 598
+    },
+    {
+      "text": "línea media",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 688,
+      "end": 699
+    },
+    {
+      "text": "hemisférico izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 844,
+      "end": 865
+    },
+    {
+      "text": "hemimesencéfalo izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 995,
+      "end": 1020
+    },
+    {
+      "text": "ACAs",
+      "type": "ARTERIA",
+      "start": 1127,
+      "end": 1131
+    },
+    {
+      "text": "ACMs",
+      "type": "ARTERIA",
+      "start": 1133,
+      "end": 1137
+    },
+    {
+      "text": "ACPs",
+      "type": "ARTERIA",
+      "start": 1140,
+      "end": 1144
+    },
+    {
+      "text": "A1 de la ACA izquierda",
+      "type": "ARTERIA",
+      "start": 1213,
+      "end": 1235
+    },
+    {
+      "text": "art. vertebral derecha",
+      "type": "ARTERIA",
+      "start": 1321,
+      "end": 1343
+    },
+    {
+      "text": "arteria vertebral izquierda",
+      "type": "ARTERIA",
+      "start": 1365,
+      "end": 1392
+    },
+    {
+      "text": "arteria basilar",
+      "type": "ARTERIA",
+      "start": 1508,
+      "end": 1523
+    },
+    {
+      "text": "30 %",
+      "type": "MEDIDA",
+      "start": 1620,
+      "end": 1624
+    },
+    {
+      "text": "ICA izquierda",
+      "type": "ARTERIA",
+      "start": 1650,
+      "end": 1663
+    },
+    {
+      "text": "arteria carótida interna derecha",
+      "type": "ARTERIA",
+      "start": 1751,
+      "end": 1783
+    },
+    {
+      "text": "ICA derecha retrofarígnea",
+      "type": "ARTERIA",
+      "start": 1825,
+      "end": 1850
+    },
+    {
+      "text": "intracavernoso",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1922,
+      "end": 1936
+    },
+    {
+      "text": "supraclinoideo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1939,
+      "end": 1953
+    },
+    {
+      "text": "3 mm",
+      "type": "MEDIDA",
+      "start": 1452,
+      "end": 1456
+    },
+    {
+      "text": "1,6 mm",
+      "type": "MEDIDA",
+      "start": 1469,
+      "end": 1475
+    },
+    {
+      "text": "tercio caudal",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1488,
+      "end": 1501
+    },
+    {
+      "text": "Dilatación aneurismática",
+      "type": "PATOLOGIA",
+      "start": 1417,
+      "end": 1441
+    },
+    {
+      "text": "sin signos de estenosis de su luz",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1158,
+      "end": 1191
+    },
+    {
+      "text": "sin ateromatosis ni signos de estenosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1784,
+      "end": 1823
+    },
+    {
+      "text": "sin ateromatosis cálcica",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1676,
+      "end": 1700
+    },
+    {
+      "text": "permeables",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1146,
+      "end": 1156
+    },
+    {
+      "text": "permeable",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1146,
+      "end": 1155
+    },
+    {
+      "text": "permeables",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1146,
+      "end": 1156
+    },
+    {
+      "text": "permeables",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1146,
+      "end": 1156
+    }
+  ],
+  "regenerado": true,
+  "fecha_regeneracion": "2025-08-06T11:42:31.689288"
+}

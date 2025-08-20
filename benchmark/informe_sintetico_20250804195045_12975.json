@@ -1,0 +1,83 @@
+{
+  "document_id": "informe_sintetico_20250804195045_12975",
+  "entities": [
+    {
+      "text": "contusión hemorrágica",
+      "type": "PATOLOGIA",
+      "start": 448,
+      "end": 469
+    },
+    {
+      "text": "región frontotemporal izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 473,
+      "end": 504
+    },
+    {
+      "text": "hematoma intraparenquimatoso",
+      "type": "PATOLOGIA",
+      "start": 513,
+      "end": 541
+    },
+    {
+      "text": "35x20x25 mm",
+      "type": "MEDIDA",
+      "start": 579,
+      "end": 590
+    },
+    {
+      "text": "9 cc",
+      "type": "MEDIDA",
+      "start": 622,
+      "end": 626
+    },
+    {
+      "text": "edema perilesional",
+      "type": "PATOLOGIA",
+      "start": 1494,
+      "end": 1512
+    },
+    {
+      "text": "desviación de 3 mm",
+      "type": "MEDIDA",
+      "start": 745,
+      "end": 763
+    },
+    {
+      "text": "sin alteraciones significativas en el flujo sanguíneo cerebral",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1010,
+      "end": 1072
+    },
+    {
+      "text": "sin lesiones isquémicas agudas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1692,
+      "end": 1722
+    },
+    {
+      "text": "ligera alteración en zona edematosa",
+      "type": "PATOLOGIA",
+      "start": 1799,
+      "end": 1834
+    },
+    {
+      "text": "TC craneal basal urgente",
+      "type": "TECNICA_IMAGEN",
+      "start": 280,
+      "end": 304
+    },
+    {
+      "text": "angio-TC intra/extracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 307,
+      "end": 334
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 337,
+      "end": 358
+    }
+  ]
+}

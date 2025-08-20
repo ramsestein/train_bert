@@ -1,0 +1,65 @@
+{
+  "document_id": "informe_sintetico_20250804195045_05023",
+  "entities": [
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 291,
+      "end": 305
+    },
+    {
+      "text": "bulbo raquídeo derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 651,
+      "end": 673
+    },
+    {
+      "text": "arteria cerebelosa posteroinferior derecha",
+      "type": "ARTERIA",
+      "start": 988,
+      "end": 1030
+    },
+    {
+      "text": "bulbo raquídeo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 651,
+      "end": 665
+    },
+    {
+      "text": "arteria vertebral derecha",
+      "type": "ARTERIA",
+      "start": 1285,
+      "end": 1310
+    },
+    {
+      "text": "arteria basilar",
+      "type": "ARTERIA",
+      "start": 1732,
+      "end": 1747
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1857,
+      "end": 1880
+    },
+    {
+      "text": "No se observan hemorragias intra ni extraaxiales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 562,
+      "end": 610
+    },
+    {
+      "text": "No se identifican signos de disección arterial ni trombos en otras arterias del polígono de Willis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1466,
+      "end": 1564
+    },
+    {
+      "text": "No evidencia de hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1841,
+      "end": 1880
+    }
+  ]
+}

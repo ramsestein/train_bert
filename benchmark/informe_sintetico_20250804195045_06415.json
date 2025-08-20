@@ -1,0 +1,53 @@
+{
+  "document_id": "informe_sintetico_20250804195045_06415",
+  "entities": [
+    {
+      "text": "hematoma intraparenquimatoso",
+      "type": "PATOLOGIA",
+      "start": 632,
+      "end": 660
+    },
+    {
+      "text": "tálamo derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 601,
+      "end": 615
+    },
+    {
+      "text": "3.2 cm x 2.8 cm x 3.5 cm",
+      "type": "MEDIDA",
+      "start": 544,
+      "end": 568
+    },
+    {
+      "text": "4 mm",
+      "type": "MEDIDA",
+      "start": 925,
+      "end": 929
+    },
+    {
+      "text": "agudas",
+      "type": "TEMPORALIDAD",
+      "start": 1108,
+      "end": 1114
+    },
+    {
+      "text": "sin signos de malformaciones vasculares ni aneurismas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1169,
+      "end": 1222
+    },
+    {
+      "text": "sin estenosis significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1256,
+      "end": 1284
+    },
+    {
+      "text": "sin hidrocefalia obstructiva franca",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1033,
+      "end": 1068
+    }
+  ]
+}

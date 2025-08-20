@@ -1,0 +1,59 @@
+{
+  "document_id": "informe_sintetico_20250804195045_16669",
+  "entities": [
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 460,
+      "end": 483
+    },
+    {
+      "text": "hemorragia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 460,
+      "end": 470
+    },
+    {
+      "text": "ASPECTS 10/10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 568,
+      "end": 581
+    },
+    {
+      "text": "cambios inespecíficos mínimos compatibles con enfermedad crónica de pequeño vaso",
+      "type": "PATOLOGIA",
+      "start": 762,
+      "end": 842
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 1027,
+      "end": 1041
+    },
+    {
+      "text": "Arterias carótidas internas, media y anterior bilaterales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1266,
+      "end": 1323
+    },
+    {
+      "text": "bilaterales",
+      "type": "LATERALIDAD",
+      "start": 1312,
+      "end": 1323
+    },
+    {
+      "text": "estenosis",
+      "type": "PATOLOGIA",
+      "start": 1198,
+      "end": 1207
+    },
+    {
+      "text": "oclusiones",
+      "type": "PATOLOGIA",
+      "start": 1489,
+      "end": 1499
+    }
+  ]
+}

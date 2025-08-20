@@ -1,0 +1,113 @@
+{
+  "document_id": "informe_sintetico_20250804195045_15461",
+  "entities": [
+    {
+      "text": "infarto cerebral tipo watershed",
+      "type": "PATOLOGIA",
+      "start": 412,
+      "end": 443
+    },
+    {
+      "text": "infarto isquémico en zonas límites de perfusión (watershed)",
+      "type": "PATOLOGIA",
+      "start": 971,
+      "end": 1030
+    },
+    {
+      "text": "isquemia penumbra",
+      "type": "PATOLOGIA",
+      "start": 1522,
+      "end": 1539
+    },
+    {
+      "text": "estenosis de aproximadamente 60% en segmento cervical izquierdo",
+      "type": "PATOLOGIA",
+      "start": 1693,
+      "end": 1756
+    },
+    {
+      "text": "arteria carótida derecha",
+      "type": "ARTERIA",
+      "start": 1761,
+      "end": 1785
+    },
+    {
+      "text": "infarto isquémico en zonas de watershed bilaterales",
+      "type": "PATOLOGIA",
+      "start": 2057,
+      "end": 2108
+    },
+    {
+      "text": "bilaterales",
+      "type": "LATERALIDAD",
+      "start": 812,
+      "end": 823
+    },
+    {
+      "text": "izquierdo",
+      "type": "LATERALIDAD",
+      "start": 1747,
+      "end": 1756
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 1426,
+      "end": 1433
+    },
+    {
+      "text": "4 horas",
+      "type": "TEMPORALIDAD",
+      "start": 363,
+      "end": 370
+    },
+    {
+      "text": "60%",
+      "type": "MEDIDA",
+      "start": 1722,
+      "end": 1725
+    },
+    {
+      "text": "sin trombosis ni defectos de repleción",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1965,
+      "end": 2003
+    },
+    {
+      "text": "No se observan hemorragias intracraneales ni colecciones extraaxiales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 665,
+      "end": 734
+    },
+    {
+      "text": "No desplazamiento de las estructuras de la línea media",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1176,
+      "end": 1230
+    },
+    {
+      "text": "sin estenosis relevantes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1872,
+      "end": 1896
+    },
+    {
+      "text": "TC craneal basal sin contraste",
+      "type": "TECNICA_IMAGEN",
+      "start": 487,
+      "end": 517
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 519,
+      "end": 540
+    },
+    {
+      "text": "Angio-TC de troncos supraórticos e intracraneales",
+      "type": "TECNICA_IMAGEN",
+      "start": 572,
+      "end": 621
+    }
+  ]
+}

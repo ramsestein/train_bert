@@ -1,0 +1,95 @@
+{
+  "document_id": "informe_sintetico_20250804195045_11753",
+  "entities": [
+    {
+      "text": "infarto isquémico agudo",
+      "type": "PATOLOGIA",
+      "start": 637,
+      "end": 660
+    },
+    {
+      "text": "transformación hemorrágica tipo PH1",
+      "type": "PATOLOGIA",
+      "start": 812,
+      "end": 847
+    },
+    {
+      "text": "hemorragias intraventriculares",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 867,
+      "end": 897
+    },
+    {
+      "text": "hemorragias subaracnoideas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 901,
+      "end": 927
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "ARTERIA",
+      "start": 589,
+      "end": 621
+    },
+    {
+      "text": "Oclusión parcial de la arteria cerebral media izquierda proximal",
+      "type": "PATOLOGIA",
+      "start": 1363,
+      "end": 1427
+    },
+    {
+      "text": "ACM izquierda",
+      "type": "ARTERIA",
+      "start": 1761,
+      "end": 1774
+    },
+    {
+      "text": "signos de edema maligno",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1081,
+      "end": 1104
+    },
+    {
+      "text": "hemorragias adicionales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1894,
+      "end": 1917
+    },
+    {
+      "text": "territorio prefrontal y temporal izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1196,
+      "end": 1238
+    },
+    {
+      "text": "foco isquémico",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1807,
+      "end": 1821
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 317,
+      "end": 333
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 359,
+      "end": 380
+    },
+    {
+      "text": "angio-TC intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 383,
+      "end": 404
+    },
+    {
+      "text": "TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANG IOTC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 72,
+      "end": 140
+    }
+  ]
+}

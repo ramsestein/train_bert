@@ -1,0 +1,59 @@
+{
+  "document_id": "informe_sintetico_20250804195045_15609",
+  "entities": [
+    {
+      "text": "hematoma subdural agudo frontotemporal derecho",
+      "type": "PATOLOGIA",
+      "start": 483,
+      "end": 529
+    },
+    {
+      "text": "temporal",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 513,
+      "end": 521
+    },
+    {
+      "text": "derecho",
+      "type": "LATERALIDAD",
+      "start": 522,
+      "end": 529
+    },
+    {
+      "text": "12 mm",
+      "type": "MEDIDA",
+      "start": 579,
+      "end": 584
+    },
+    {
+      "text": "6 mm",
+      "type": "MEDIDA",
+      "start": 681,
+      "end": 685
+    },
+    {
+      "text": "agudo",
+      "type": "TEMPORALIDAD",
+      "start": 501,
+      "end": 506
+    },
+    {
+      "text": "isquemia irreversible",
+      "type": "PATOLOGIA",
+      "start": 1079,
+      "end": 1100
+    },
+    {
+      "text": "sin anomalías significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1755,
+      "end": 1783
+    },
+    {
+      "text": "sin signos de isquemia cerebral irreversible",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2047,
+      "end": 2091
+    }
+  ]
+}

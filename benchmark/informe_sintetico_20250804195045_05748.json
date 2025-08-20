@@ -1,0 +1,95 @@
+{
+  "document_id": "informe_sintetico_20250804195045_05748",
+  "entities": [
+    {
+      "text": "hemorragia aguda",
+      "type": "PATOLOGIA",
+      "start": 557,
+      "end": 573
+    },
+    {
+      "text": "leucoaraiosis",
+      "type": "PATOLOGIA",
+      "start": 782,
+      "end": 795
+    },
+    {
+      "text": "microangiopatía crónica",
+      "type": "PATOLOGIA",
+      "start": 849,
+      "end": 872
+    },
+    {
+      "text": "lesiones isquémicas subagudas",
+      "type": "PATOLOGIA",
+      "start": 891,
+      "end": 920
+    },
+    {
+      "text": "infarto reciente",
+      "type": "PATOLOGIA",
+      "start": 933,
+      "end": 949
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 699,
+      "end": 709
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 699,
+      "end": 709
+    },
+    {
+      "text": "arterias carótidas internas",
+      "type": "ARTERIA",
+      "start": 1441,
+      "end": 1468
+    },
+    {
+      "text": "ambas arterias carótidas internas",
+      "type": "ARTERIA",
+      "start": 1663,
+      "end": 1696
+    },
+    {
+      "text": "sin signos de patología isquémica o hemorrágica aguda",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1760,
+      "end": 1813
+    },
+    {
+      "text": "sin alteraciones significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1920,
+      "end": 1951
+    },
+    {
+      "text": "TC craneal basal sin contraste",
+      "type": "TECNICA_IMAGEN",
+      "start": 364,
+      "end": 394
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 407,
+      "end": 428
+    },
+    {
+      "text": "angioTC arterial intracraneal con contraste endovenoso",
+      "type": "TECNICA_IMAGEN",
+      "start": 431,
+      "end": 485
+    },
+    {
+      "text": "tiempo de tránsito (TTP)",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1137,
+      "end": 1161
+    }
+  ]
+}

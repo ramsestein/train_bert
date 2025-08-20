@@ -1,0 +1,77 @@
+{
+  "document_id": "informe_sintetico_20250804195045_00971",
+  "entities": [
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 263,
+      "end": 277
+    },
+    {
+      "text": "arteria cerebral anterior",
+      "type": "ARTERIA",
+      "start": 295,
+      "end": 320
+    },
+    {
+      "text": "lóbulo frontal derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 603,
+      "end": 625
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 721,
+      "end": 728
+    },
+    {
+      "text": "ASPECTS 9",
+      "type": "PUNTUACION_CLINICA",
+      "start": 801,
+      "end": 810
+    },
+    {
+      "text": "hipodensidad",
+      "type": "PATOLOGIA",
+      "start": 561,
+      "end": 573
+    },
+    {
+      "text": "Oclusión segmentaria",
+      "type": "PATOLOGIA",
+      "start": 1246,
+      "end": 1266
+    },
+    {
+      "text": "arteria cerebral anterior derecha",
+      "type": "ARTERIA",
+      "start": 695,
+      "end": 728
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 721,
+      "end": 728
+    },
+    {
+      "text": "No se detectan signos de sangrado intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 730,
+      "end": 776
+    },
+    {
+      "text": "No se observan estenosis significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1393,
+      "end": 1432
+    },
+    {
+      "text": "No signos de hemorragia ni edema significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1809,
+      "end": 1855
+    }
+  ]
+}

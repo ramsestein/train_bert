@@ -1,0 +1,131 @@
+{
+  "document_id": "informe_sintetico_20250804195045_09375",
+  "entities": [
+    {
+      "text": "infarto lacunar",
+      "type": "PATOLOGIA",
+      "start": 274,
+      "end": 289
+    },
+    {
+      "text": "8 mm",
+      "type": "MEDIDA",
+      "start": 585,
+      "end": 589
+    },
+    {
+      "text": "región posterior de la cápsula interna izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 596,
+      "end": 644
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 635,
+      "end": 644
+    },
+    {
+      "text": "agudo",
+      "type": "TEMPORALIDAD",
+      "start": 675,
+      "end": 680
+    },
+    {
+      "text": "ASPECTS 9",
+      "type": "PUNTUACION_CLINICA",
+      "start": 765,
+      "end": 774
+    },
+    {
+      "text": "bilaterales",
+      "type": "LATERALIDAD",
+      "start": 887,
+      "end": 898
+    },
+    {
+      "text": "retraso focal en mapas de tiempo de tránsito (TTP)",
+      "type": "PATOLOGIA",
+      "start": 1029,
+      "end": 1079
+    },
+    {
+      "text": "izquierdo",
+      "type": "LATERALIDAD",
+      "start": 1111,
+      "end": 1120
+    },
+    {
+      "text": "disminución moderada del flujo cerebral (CBF)",
+      "type": "PATOLOGIA",
+      "start": 1125,
+      "end": 1170
+    },
+    {
+      "text": "volumen (CBV) preservado",
+      "type": "PATOLOGIA",
+      "start": 1173,
+      "end": 1197
+    },
+    {
+      "text": "lesión isquémica",
+      "type": "PATOLOGIA",
+      "start": 1214,
+      "end": 1230
+    },
+    {
+      "text": "mismatch significativo",
+      "type": "PATOLOGIA",
+      "start": 1248,
+      "end": 1270
+    },
+    {
+      "text": "No se evidencian otras áreas con alteraciones perfusionales relevantes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1273,
+      "end": 1343
+    },
+    {
+      "text": "Arterias intracraneales principales (ACAs, ACMs, ACPs)",
+      "type": "ARTERIA",
+      "start": 1540,
+      "end": 1594
+    },
+    {
+      "text": "sin signos de estenosis ni trombosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1606,
+      "end": 1642
+    },
+    {
+      "text": "Sistema vertebrobasilar íntegro y permeable",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1644,
+      "end": 1687
+    },
+    {
+      "text": "No se identifican signos de vasculitis ni disección vascular",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1689,
+      "end": 1749
+    },
+    {
+      "text": "Arco aórtico con ateromatosis leve",
+      "type": "PATOLOGIA",
+      "start": 1386,
+      "end": 1420
+    },
+    {
+      "text": "moderada tortuosidad en carotídea interna izquierda",
+      "type": "PATOLOGIA",
+      "start": 1487,
+      "end": 1538
+    },
+    {
+      "text": "sin estenosis significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1457,
+      "end": 1485
+    }
+  ]
+}

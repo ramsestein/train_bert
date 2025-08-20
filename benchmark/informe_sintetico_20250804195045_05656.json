@@ -1,0 +1,245 @@
+{
+  "document_id": "informe_sintetico_20250804195045_05656",
+  "entities": [
+    {
+      "text": "hemiparesia derecha",
+      "type": "PATOLOGIA",
+      "start": 218,
+      "end": 237
+    },
+    {
+      "text": "afasia",
+      "type": "PATOLOGIA",
+      "start": 240,
+      "end": 246
+    },
+    {
+      "text": "evento isquémico agudo",
+      "type": "PATOLOGIA",
+      "start": 260,
+      "end": 282
+    },
+    {
+      "text": "disección carotídea",
+      "type": "PATOLOGIA",
+      "start": 295,
+      "end": 314
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 335,
+      "end": 351
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 378,
+      "end": 399
+    },
+    {
+      "text": "angioTC arterial intra y extracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 402,
+      "end": 439
+    },
+    {
+      "text": "hipodensidad parenquimatosa",
+      "type": "PATOLOGIA",
+      "start": 563,
+      "end": 590
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 611,
+      "end": 643
+    },
+    {
+      "text": "borramiento de surcos corticales",
+      "type": "PATOLOGIA",
+      "start": 649,
+      "end": 681
+    },
+    {
+      "text": "pérdida de diferenciación cortico-subcortical",
+      "type": "PATOLOGIA",
+      "start": 684,
+      "end": 729
+    },
+    {
+      "text": "región fronto-parietal",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 744,
+      "end": 766
+    },
+    {
+      "text": "infarto isquémico agudo",
+      "type": "PATOLOGIA",
+      "start": 783,
+      "end": 806
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 825,
+      "end": 848
+    },
+    {
+      "text": "Líneas medias centradas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 859,
+      "end": 882
+    },
+    {
+      "text": "signos de edema cerebral masivo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 941,
+      "end": 972
+    },
+    {
+      "text": "prolongación del tiempo de tránsito medio (MTT)",
+      "type": "PATOLOGIA",
+      "start": 1003,
+      "end": 1050
+    },
+    {
+      "text": "aumento del tiempo hasta el pico (TTP)",
+      "type": "PATOLOGIA",
+      "start": 1053,
+      "end": 1091
+    },
+    {
+      "text": "territorio de la ACM izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1095,
+      "end": 1125
+    },
+    {
+      "text": "reducción significativa del flujo cerebral (CBF)",
+      "type": "PATOLOGIA",
+      "start": 1131,
+      "end": 1179
+    },
+    {
+      "text": "volumen cerebral de sangre (CBV)",
+      "type": "PATOLOGIA",
+      "start": 1182,
+      "end": 1214
+    },
+    {
+      "text": "área de infarto establecida",
+      "type": "PATOLOGIA",
+      "start": 1245,
+      "end": 1272
+    },
+    {
+      "text": "zona de penumbra adyacente",
+      "type": "PATOLOGIA",
+      "start": 1275,
+      "end": 1301
+    },
+    {
+      "text": "irregularidad y estenosis segmentaria proximal",
+      "type": "PATOLOGIA",
+      "start": 1348,
+      "end": 1394
+    },
+    {
+      "text": "arteria carótida interna izquierda cervical",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1401,
+      "end": 1444
+    },
+    {
+      "text": "disección arterial",
+      "type": "PATOLOGIA",
+      "start": 1472,
+      "end": 1490
+    },
+    {
+      "text": "engrosamiento mural y doble luz",
+      "type": "PATOLOGIA",
+      "start": 1492,
+      "end": 1523
+    },
+    {
+      "text": "oclusión completa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1529,
+      "end": 1546
+    },
+    {
+      "text": "permeabilidad",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1605,
+      "end": 1618
+    },
+    {
+      "text": "flujo reducido en territorio distal de ACM izquierda",
+      "type": "PATOLOGIA",
+      "start": 1628,
+      "end": 1680
+    },
+    {
+      "text": "aneurismas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1697,
+      "end": 1707
+    },
+    {
+      "text": "signos de trombosis en otras localizaciones",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1711,
+      "end": 1754
+    },
+    {
+      "text": "Infarto isquémico agudo",
+      "type": "PATOLOGIA",
+      "start": 1779,
+      "end": 1802
+    },
+    {
+      "text": "territorio de la arteria cerebral media izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 594,
+      "end": 643
+    },
+    {
+      "text": "extensión fronto-parietal",
+      "type": "PATOLOGIA",
+      "start": 1861,
+      "end": 1886
+    },
+    {
+      "text": "disección arterial en arteria carótida interna izquierda cervical",
+      "type": "PATOLOGIA",
+      "start": 1918,
+      "end": 1983
+    },
+    {
+      "text": "estenosis segmentaria",
+      "type": "PATOLOGIA",
+      "start": 1364,
+      "end": 1385
+    },
+    {
+      "text": "compromiso hemodinámico",
+      "type": "PATOLOGIA",
+      "start": 2013,
+      "end": 2036
+    },
+    {
+      "text": "hemorragias intracraneales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2056,
+      "end": 2082
+    },
+    {
+      "text": "alteraciones vasculares mayores",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2092,
+      "end": 2123
+    }
+  ]
+}

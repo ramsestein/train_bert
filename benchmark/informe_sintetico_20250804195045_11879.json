@@ -1,0 +1,101 @@
+{
+  "document_id": "informe_sintetico_20250804195045_11879",
+  "entities": [
+    {
+      "text": "infarto isquémico agudo",
+      "type": "PATOLOGIA",
+      "start": 609,
+      "end": 632
+    },
+    {
+      "text": "territorio superficial de la arteria cerebral media derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 505,
+      "end": 564
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "ARTERIA",
+      "start": 534,
+      "end": 564
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 557,
+      "end": 564
+    },
+    {
+      "text": "3 mm",
+      "type": "MEDIDA",
+      "start": 814,
+      "end": 818
+    },
+    {
+      "text": "agudo",
+      "type": "TEMPORALIDAD",
+      "start": 627,
+      "end": 632
+    },
+    {
+      "text": "ASPECTS 7",
+      "type": "PUNTUACION_CLINICA",
+      "start": 890,
+      "end": 899
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 349,
+      "end": 365
+    },
+    {
+      "text": "No se evidencian signos de hemorragia intraparenquimatosa ni transformación hemorrágica",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 684,
+      "end": 771
+    },
+    {
+      "text": "No se visualizan otras estenosis ni trombosis en segmentos intracraneales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1505,
+      "end": 1578
+    },
+    {
+      "text": "No se observan aneurismas ni malformaciones vasculares",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1639,
+      "end": 1693
+    },
+    {
+      "text": "disección en la arteria carótida interna derecha",
+      "type": "PATOLOGIA",
+      "start": 1240,
+      "end": 1288
+    },
+    {
+      "text": "arteria carótida interna derecha",
+      "type": "ARTERIA",
+      "start": 1256,
+      "end": 1288
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 557,
+      "end": 564
+    },
+    {
+      "text": ">70%",
+      "type": "MEDIDA",
+      "start": 1386,
+      "end": 1390
+    },
+    {
+      "text": "territorio de arteria cerebral media derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 2206,
+      "end": 2250
+    }
+  ]
+}

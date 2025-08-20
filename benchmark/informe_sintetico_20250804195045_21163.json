@@ -1,0 +1,209 @@
+{
+  "document_id": "informe_sintetico_20250804195045_21163",
+  "entities": [
+    {
+      "text": "isquemia múltiple",
+      "type": "PATOLOGIA",
+      "start": 255,
+      "end": 272
+    },
+    {
+      "text": "bilaterales",
+      "type": "LATERALIDAD",
+      "start": 299,
+      "end": 310
+    },
+    {
+      "text": "No se identifican áreas de sangrado intracraneal ni masas expansivas.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 504,
+      "end": 573
+    },
+    {
+      "text": "múltiples focos de hipodensidad",
+      "type": "PATOLOGIA",
+      "start": 586,
+      "end": 617
+    },
+    {
+      "text": "arterias cerebrales medias",
+      "type": "ARTERIA",
+      "start": 647,
+      "end": 673
+    },
+    {
+      "text": "bilateralmente",
+      "type": "LATERALIDAD",
+      "start": 674,
+      "end": 688
+    },
+    {
+      "text": "territorio posterior izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 694,
+      "end": 724
+    },
+    {
+      "text": "isquémicas agudas",
+      "type": "PATOLOGIA",
+      "start": 746,
+      "end": 763
+    },
+    {
+      "text": "No se aprecia efecto de masa ni desplazamiento significativa de la línea media.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 765,
+      "end": 844
+    },
+    {
+      "text": "Sistema ventricular de tamaño conservado, sin signos de hidrocefalia.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 845,
+      "end": 914
+    },
+    {
+      "text": "Cisternas basales y perimesencefálicas libres.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 915,
+      "end": 961
+    },
+    {
+      "text": "Diferenciación cortico-subcortical disminuida",
+      "type": "PATOLOGIA",
+      "start": 962,
+      "end": 1007
+    },
+    {
+      "text": "ASPECTS estimado 6 bilaterales",
+      "type": "PUNTUACION_CLINICA",
+      "start": 1034,
+      "end": 1064
+    },
+    {
+      "text": "Disminución marcada del flujo cerebral (CBF)",
+      "type": "PATOLOGIA",
+      "start": 1082,
+      "end": 1126
+    },
+    {
+      "text": "aumento del tiempo de tránsito medio (MTT)",
+      "type": "PATOLOGIA",
+      "start": 1129,
+      "end": 1171
+    },
+    {
+      "text": "territorios fronto-parietales bilaterales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1175,
+      "end": 1216
+    },
+    {
+      "text": "territorio cerebeloso izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1219,
+      "end": 1250
+    },
+    {
+      "text": "Volumen cerebral sanguíneo (CBV) discreta disminución",
+      "type": "PATOLOGIA",
+      "start": 1252,
+      "end": 1305
+    },
+    {
+      "text": "zona de penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1336,
+      "end": 1362
+    },
+    {
+      "text": "Presencia de zonas con reducción grave de CBV compatible con infarto establecido.",
+      "type": "PATOLOGIA",
+      "start": 1364,
+      "end": 1445
+    },
+    {
+      "text": "Oclusión completa del segmento distal de ambas arterias cerebrales medias (ACM)",
+      "type": "PATOLOGIA",
+      "start": 1478,
+      "end": 1557
+    },
+    {
+      "text": "segmento P2 de la arteria cerebral posterior izquierda",
+      "type": "ARTERIA",
+      "start": 1564,
+      "end": 1618
+    },
+    {
+      "text": "No se identifican estenosis significativas en los vasos extra-craneales.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1620,
+      "end": 1692
+    },
+    {
+      "text": "Presencia de ateromatosis calcificada difusa en la arteria carótida interna derecha",
+      "type": "PATOLOGIA",
+      "start": 1693,
+      "end": 1776
+    },
+    {
+      "text": "estenosis proximal del 40%",
+      "type": "MEDIDA",
+      "start": 1782,
+      "end": 1808
+    },
+    {
+      "text": "Sistema vertebrobasilar permeable sin signos de trombosis ni malformaciones vasculares.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1810,
+      "end": 1897
+    },
+    {
+      "text": "Isquemia aguda multiterritorial",
+      "type": "PATOLOGIA",
+      "start": 1921,
+      "end": 1952
+    },
+    {
+      "text": "focos isquémicos bilaterales en territorios de ambas arterias cerebrales medias",
+      "type": "PATOLOGIA",
+      "start": 1957,
+      "end": 2036
+    },
+    {
+      "text": "territorio posterior izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 694,
+      "end": 724
+    },
+    {
+      "text": "acompañada de oclusiones arteriales múltiples (ACMs distales bilaterales y ACP izquierda)",
+      "type": "PATOLOGIA",
+      "start": 2071,
+      "end": 2160
+    },
+    {
+      "text": "Presencia de áreas en penumbra isquémica activa confirmadas en perfusión cerebral.",
+      "type": "PATOLOGIA",
+      "start": 2162,
+      "end": 2244
+    },
+    {
+      "text": "No hay evidencia de hemorragia intracraneal ni masas expansivas.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2245,
+      "end": 2309
+    },
+    {
+      "text": "Ateromatosis carotídea de moderada entidad sin estenosis crítica.",
+      "type": "PATOLOGIA",
+      "start": 2310,
+      "end": 2375
+    },
+    {
+      "text": "Requiere valoración urgente para posible tratamiento endovascular o trombólisis sistémica.",
+      "type": "PATOLOGIA",
+      "start": 2376,
+      "end": 2466
+    }
+  ]
+}

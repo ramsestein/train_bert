@@ -1,0 +1,95 @@
+{
+  "document_id": "0000000010000000060591413_cleaned",
+  "entities": [
+    {
+      "text": "Infart cerebral causat per oclusió o estenosi no especificades d'artèria cerebral no especificada",
+      "type": "PATOLOGIA",
+      "start": 166,
+      "end": 263
+    },
+    {
+      "text": "No se observa hemorragia intra ni extraaxial.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 393,
+      "end": 438
+    },
+    {
+      "text": "ASPECTS 5 (lenticular, ínsula, M1, M2, M3)",
+      "type": "PUNTUACION_CLINICA",
+      "start": 439,
+      "end": 481
+    },
+    {
+      "text": "territorio de ACMizq",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 701,
+      "end": 721
+    },
+    {
+      "text": "arteria carótida interna",
+      "type": "ARTERIA",
+      "start": 836,
+      "end": 860
+    },
+    {
+      "text": "ACM izquierda",
+      "type": "ARTERIA",
+      "start": 951,
+      "end": 964
+    },
+    {
+      "text": "ACP izquierda",
+      "type": "ARTERIA",
+      "start": 1013,
+      "end": 1026
+    },
+    {
+      "text": "ACAs, ACMs y ACPs",
+      "type": "ARTERIA",
+      "start": 1112,
+      "end": 1129
+    },
+    {
+      "text": "Sistema vertebrobasilar",
+      "type": "ARTERIA",
+      "start": 1132,
+      "end": 1155
+    },
+    {
+      "text": "Lesión tipo tandem en TICA izquierda y ACM izquierda",
+      "type": "PATOLOGIA",
+      "start": 1190,
+      "end": 1242
+    },
+    {
+      "text": "ASPECTS 5",
+      "type": "PUNTUACION_CLINICA",
+      "start": 439,
+      "end": 448
+    },
+    {
+      "text": "No hay hemorragia intracraneal.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1300,
+      "end": 1331
+    },
+    {
+      "text": "TC CRANEAL BASAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 375,
+      "end": 391
+    },
+    {
+      "text": "TC PERFUSIÓN",
+      "type": "TECNICA_IMAGEN",
+      "start": 601,
+      "end": 613
+    },
+    {
+      "text": "ANGIO-TC EXTRA E INTRACRANEAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 755,
+      "end": 784
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "document_id": "informe_sintetico_20250804195045_07430",
+  "entities": [
+    {
+      "text": "ictus isquémico",
+      "type": "PATOLOGIA",
+      "start": 297,
+      "end": 312
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 330,
+      "end": 362
+    },
+    {
+      "text": "arteria cerebral media",
+      "type": "ARTERIA",
+      "start": 330,
+      "end": 352
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 353,
+      "end": 362
+    },
+    {
+      "text": "2 horas",
+      "type": "TEMPORALIDAD",
+      "start": 268,
+      "end": 275
+    },
+    {
+      "text": "ASPECTS 6",
+      "type": "PUNTUACION_CLINICA",
+      "start": 838,
+      "end": 847
+    },
+    {
+      "text": "No se evidencian hemorragias intraparenquimatosas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 849,
+      "end": 898
+    },
+    {
+      "text": "Oclusión completa del segmento proximal M1 de ACM izquierda",
+      "type": "PATOLOGIA",
+      "start": 1489,
+      "end": 1548
+    },
+    {
+      "text": "Ausencia de flujo distal a nivel del segmento ocluido",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1550,
+      "end": 1603
+    },
+    {
+      "text": "oclusión proximal del segmento M1 de la arteria cerebral media izquierda",
+      "type": "PATOLOGIA",
+      "start": 1797,
+      "end": 1869
+    },
+    {
+      "text": "ASPECTS 6",
+      "type": "PUNTUACION_CLINICA",
+      "start": 838,
+      "end": 847
+    },
+    {
+      "text": "oclusión proximal M1 ACM izquierda",
+      "type": "PATOLOGIA",
+      "start": 2438,
+      "end": 2472
+    },
+    {
+      "text": "penumbra isquémica significativa",
+      "type": "PATOLOGIA",
+      "start": 1422,
+      "end": 1454
+    },
+    {
+      "text": "No hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2519,
+      "end": 2545
+    }
+  ]
+}

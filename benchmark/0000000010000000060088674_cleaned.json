@@ -1,0 +1,163 @@
+{
+  "document_id": "0000000010000000060088674_cleaned",
+  "entities": [
+    {
+      "text": "HSA",
+      "type": "PATOLOGIA",
+      "start": 196,
+      "end": 199
+    },
+    {
+      "text": "aneurisma",
+      "type": "PATOLOGIA",
+      "start": 221,
+      "end": 230
+    },
+    {
+      "text": "ACM",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 231,
+      "end": 234
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 235,
+      "end": 244
+    },
+    {
+      "text": "ventilación mecánica",
+      "type": "PATOLOGIA",
+      "start": 263,
+      "end": 283
+    },
+    {
+      "text": "Glasgow 9",
+      "type": "PUNTUACION_CLINICA",
+      "start": 285,
+      "end": 294
+    },
+    {
+      "text": "hemiparesia",
+      "type": "PATOLOGIA",
+      "start": 295,
+      "end": 306
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 307,
+      "end": 314
+    },
+    {
+      "text": "TC multimodal",
+      "type": "TECNICA_IMAGEN",
+      "start": 355,
+      "end": 368
+    },
+    {
+      "text": "xx/xx/xxxx",
+      "type": "TEMPORALIDAD",
+      "start": 432,
+      "end": 442
+    },
+    {
+      "text": "mapas de tiempo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 476,
+      "end": 491
+    },
+    {
+      "text": "flujo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 493,
+      "end": 498
+    },
+    {
+      "text": "volumen",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 501,
+      "end": 508
+    },
+    {
+      "text": "área de topografía temporo izular izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 524,
+      "end": 567
+    },
+    {
+      "text": "izquierdo",
+      "type": "LATERALIDAD",
+      "start": 558,
+      "end": 567
+    },
+    {
+      "text": "aumenton de parámetros de tiempo",
+      "type": "PATOLOGIA",
+      "start": 572,
+      "end": 604
+    },
+    {
+      "text": "diminución de CBF",
+      "type": "PATOLOGIA",
+      "start": 609,
+      "end": 626
+    },
+    {
+      "text": "CBV",
+      "type": "PATOLOGIA",
+      "start": 629,
+      "end": 632
+    },
+    {
+      "text": "colección hemática",
+      "type": "PATOLOGIA",
+      "start": 672,
+      "end": 690
+    },
+    {
+      "text": "valle silviano izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 694,
+      "end": 718
+    },
+    {
+      "text": "lesión isquémica",
+      "type": "PATOLOGIA",
+      "start": 723,
+      "end": 739
+    },
+    {
+      "text": "asimetrias",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 773,
+      "end": 783
+    },
+    {
+      "text": "vasoconstricción",
+      "type": "PATOLOGIA",
+      "start": 797,
+      "end": 813
+    },
+    {
+      "text": "signos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 876,
+      "end": 882
+    },
+    {
+      "text": "vasoespasmo",
+      "type": "PATOLOGIA",
+      "start": 896,
+      "end": 907
+    },
+    {
+      "text": "estudio TC perfusión",
+      "type": "TECNICA_IMAGEN",
+      "start": 911,
+      "end": 931
+    }
+  ],
+  "regenerado": true,
+  "fecha_regeneracion": "2025-08-06T13:22:24.270792"
+}

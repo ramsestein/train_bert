@@ -1,0 +1,107 @@
+{
+  "document_id": "informe_sintetico_20250804195045_08032",
+  "entities": [
+    {
+      "text": "hematoma intraparenquimatoso",
+      "type": "PATOLOGIA",
+      "start": 403,
+      "end": 431
+    },
+    {
+      "text": "tálamo derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 438,
+      "end": 452
+    },
+    {
+      "text": "2,2 cm",
+      "type": "MEDIDA",
+      "start": 491,
+      "end": 497
+    },
+    {
+      "text": "sangrado agudo",
+      "type": "TEMPORALIDAD",
+      "start": 537,
+      "end": 551
+    },
+    {
+      "text": "ventrículo lateral derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 649,
+      "end": 675
+    },
+    {
+      "text": "No se observan signos evidentes de hidrocefalia obstructiva",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 677,
+      "end": 736
+    },
+    {
+      "text": "No se aprecia edema perilesional extenso",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 847,
+      "end": 887
+    },
+    {
+      "text": "sin afectación isquémica extensa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1090,
+      "end": 1122
+    },
+    {
+      "text": "sin signos de estenosis ni oclusión",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1179,
+      "end": 1214
+    },
+    {
+      "text": "No se visualizan malformaciones vasculares ni aneurismas asociados",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1216,
+      "end": 1282
+    },
+    {
+      "text": "Hematoma intraparenquimatoso agudo en tálamo derecho",
+      "type": "PATOLOGIA",
+      "start": 1307,
+      "end": 1359
+    },
+    {
+      "text": "extensión ventricular ipsilateral",
+      "type": "PATOLOGIA",
+      "start": 1364,
+      "end": 1397
+    },
+    {
+      "text": "sin hidrocefalia obstructiva",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1398,
+      "end": 1426
+    },
+    {
+      "text": "No evidencia de isquemia ni compromiso vascular significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1428,
+      "end": 1489
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 261,
+      "end": 277
+    },
+    {
+      "text": "angio-TC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 293,
+      "end": 323
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 326,
+      "end": 347
+    }
+  ]
+}

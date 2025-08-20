@@ -1,0 +1,133 @@
+{
+  "document_id": "0000000010000000060226188_cleaned",
+  "entities": [
+    {
+      "text": "meningioma",
+      "type": "PATOLOGIA",
+      "start": 871,
+      "end": 881
+    },
+    {
+      "text": "lesión extraaxial frontal parasagital derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 336,
+      "end": 381
+    },
+    {
+      "text": "hoz cerebral",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 408,
+      "end": 420
+    },
+    {
+      "text": "componente contralateral",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 444,
+      "end": 468
+    },
+    {
+      "text": "parénquima adyacente",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 667,
+      "end": 687
+    },
+    {
+      "text": "asta frontal del VLd",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 699,
+      "end": 719
+    },
+    {
+      "text": "línea media",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 910,
+      "end": 921
+    },
+    {
+      "text": "sustancia blanca de ambos hemisferios cerebrales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 983,
+      "end": 1031
+    },
+    {
+      "text": "lado derecho",
+      "type": "LATERALIDAD",
+      "start": 1052,
+      "end": 1064
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 936,
+      "end": 945
+    },
+    {
+      "text": "3.8 x 3 x 3.4cm",
+      "type": "MEDIDA",
+      "start": 577,
+      "end": 592
+    },
+    {
+      "text": "2.4 x 1.6 x 2.2cm",
+      "type": "MEDIDA",
+      "start": 613,
+      "end": 630
+    },
+    {
+      "text": "9mm",
+      "type": "MEDIDA",
+      "start": 927,
+      "end": 930
+    },
+    {
+      "text": "estudios previos",
+      "type": "TEMPORALIDAD",
+      "start": 221,
+      "end": 237
+    },
+    {
+      "text": "ya presentes en estudios previos",
+      "type": "TEMPORALIDAD",
+      "start": 753,
+      "end": 785
+    },
+    {
+      "text": "cambios postradioterapia",
+      "type": "PUNTUACION_CLINICA",
+      "start": 1101,
+      "end": 1125
+    },
+    {
+      "text": "TC",
+      "type": "TECNICA_IMAGEN",
+      "start": 72,
+      "end": 74
+    },
+    {
+      "text": "RM",
+      "type": "TECNICA_IMAGEN",
+      "start": 255,
+      "end": 257
+    },
+    {
+      "text": "TC",
+      "type": "TECNICA_IMAGEN",
+      "start": 72,
+      "end": 74
+    },
+    {
+      "text": "sistema ventricular de tamaño similar a estudios previos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1218,
+      "end": 1274
+    },
+    {
+      "text": "Cisternas basales y peritronculares libres",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1276,
+      "end": 1318
+    }
+  ],
+  "regenerado": true,
+  "fecha_regeneracion": "2025-08-06T11:16:21.638373"
+}

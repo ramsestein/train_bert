@@ -1,0 +1,77 @@
+{
+  "document_id": "informe_sintetico_20250804195045_13020",
+  "entities": [
+    {
+      "text": "hemiparesia izquierda",
+      "type": "PATOLOGIA",
+      "start": 196,
+      "end": 217
+    },
+    {
+      "text": "disfasia",
+      "type": "PATOLOGIA",
+      "start": 220,
+      "end": 228
+    },
+    {
+      "text": "3 horas",
+      "type": "TEMPORALIDAD",
+      "start": 242,
+      "end": 249
+    },
+    {
+      "text": "No se detecta hemorragia intra ni extraaxial.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 395,
+      "end": 440
+    },
+    {
+      "text": "leve hipodensidad cortical en territorio de la ACM derecha en segmento distal (M2-M3)",
+      "type": "PATOLOGIA",
+      "start": 454,
+      "end": 539
+    },
+    {
+      "text": "ASPECTS 9/10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 597,
+      "end": 609
+    },
+    {
+      "text": "No hay signos de edema cerebral significativo.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 611,
+      "end": 657
+    },
+    {
+      "text": "Oclusión del segmento distal M2 de la arteria cerebral media derecha.",
+      "type": "PATOLOGIA",
+      "start": 1172,
+      "end": 1241
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "ARTERIA",
+      "start": 1210,
+      "end": 1240
+    },
+    {
+      "text": "Oclusión aguda de la rama distal M2 de la ACM derecha",
+      "type": "PATOLOGIA",
+      "start": 1389,
+      "end": 1442
+    },
+    {
+      "text": "ASPECTS 9/10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 597,
+      "end": 609
+    },
+    {
+      "text": "No evidencia de hemorragia intracraneal ni edema significativo.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1509,
+      "end": 1572
+    }
+  ]
+}

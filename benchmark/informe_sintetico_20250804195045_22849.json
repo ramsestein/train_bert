@@ -1,0 +1,59 @@
+{
+  "document_id": "informe_sintetico_20250804195045_22849",
+  "entities": [
+    {
+      "text": "hemorragia intra ni extraaxial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 405,
+      "end": 435
+    },
+    {
+      "text": "lesión isquémica subaguda o aguda",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 551,
+      "end": 584
+    },
+    {
+      "text": "cambios crónicos leves",
+      "type": "PATOLOGIA",
+      "start": 599,
+      "end": 621
+    },
+    {
+      "text": "microangiopatía crónica",
+      "type": "PATOLOGIA",
+      "start": 692,
+      "end": 715
+    },
+    {
+      "text": "TTP, CBV y CBF",
+      "type": "TECNICA_IMAGEN",
+      "start": 885,
+      "end": 899
+    },
+    {
+      "text": "sin evidencia de aumento del tiempo de tránsito ni zonas de hipoperfusión",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 928,
+      "end": 1001
+    },
+    {
+      "text": "arterias cerebrales (ACAs, ACMs y ACPs)",
+      "type": "ARTERIA",
+      "start": 1165,
+      "end": 1204
+    },
+    {
+      "text": "sin estenosis ni oclusiones detectables",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1217,
+      "end": 1256
+    },
+    {
+      "text": "sin evidencia de patología aguda isquémica o hemorrágica",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1352,
+      "end": 1408
+    }
+  ]
+}

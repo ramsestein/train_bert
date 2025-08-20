@@ -1,0 +1,83 @@
+{
+  "document_id": "informe_sintetico_20250804195045_03946",
+  "entities": [
+    {
+      "text": "infarto",
+      "type": "PATOLOGIA",
+      "start": 723,
+      "end": 730
+    },
+    {
+      "text": "zonas watershed",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 734,
+      "end": 749
+    },
+    {
+      "text": "bilaterales",
+      "type": "LATERALIDAD",
+      "start": 694,
+      "end": 705
+    },
+    {
+      "text": "isquemia",
+      "type": "PATOLOGIA",
+      "start": 1701,
+      "end": 1709
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1772,
+      "end": 1795
+    },
+    {
+      "text": "ateromatosis moderada",
+      "type": "PATOLOGIA",
+      "start": 1432,
+      "end": 1453
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 1507,
+      "end": 1516
+    },
+    {
+      "text": "prolongación del tiempo de tránsito medio (TTP)",
+      "type": "MEDIDA",
+      "start": 973,
+      "end": 1020
+    },
+    {
+      "text": "reducción del flujo sanguíneo cerebral (CBF)",
+      "type": "MEDIDA",
+      "start": 1023,
+      "end": 1067
+    },
+    {
+      "text": "volumen cerebral (CBV) relativamente preservado",
+      "type": "MEDIDA",
+      "start": 1119,
+      "end": 1166
+    },
+    {
+      "text": "TC CRANEAL BASAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 324,
+      "end": 340
+    },
+    {
+      "text": "TC PERFUSIÓN CEREBRAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 343,
+      "end": 364
+    },
+    {
+      "text": "ANGIO-TC INTRA Y EXTRACRANEAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 367,
+      "end": 396
+    }
+  ]
+}

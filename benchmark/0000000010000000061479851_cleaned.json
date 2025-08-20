@@ -1,0 +1,169 @@
+{
+  "document_id": "0000000010000000061479851_cleaned",
+  "entities": [
+    {
+      "text": "ictus cerebral",
+      "type": "PATOLOGIA",
+      "start": 166,
+      "end": 180
+    },
+    {
+      "text": "TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANG IOTC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 72,
+      "end": 140
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 200,
+      "end": 216
+    },
+    {
+      "text": "TC perfusión",
+      "type": "TECNICA_IMAGEN",
+      "start": 219,
+      "end": 231
+    },
+    {
+      "text": "angio TC intra/extracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 234,
+      "end": 261
+    },
+    {
+      "text": "hemorragia aguda",
+      "type": "PATOLOGIA",
+      "start": 391,
+      "end": 407
+    },
+    {
+      "text": "lesiones focales intra o extraaxiales",
+      "type": "PATOLOGIA",
+      "start": 411,
+      "end": 448
+    },
+    {
+      "text": "Hipodensidad en sustancia blanca",
+      "type": "PATOLOGIA",
+      "start": 450,
+      "end": 482
+    },
+    {
+      "text": "enfermedad de pequeño vaso",
+      "type": "PATOLOGIA",
+      "start": 499,
+      "end": 525
+    },
+    {
+      "text": "parénquima cerebral",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 537,
+      "end": 556
+    },
+    {
+      "text": "cortico-subcortical",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 606,
+      "end": 625
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 638,
+      "end": 648
+    },
+    {
+      "text": "surcos cerebrales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 669,
+      "end": 686
+    },
+    {
+      "text": "sistema ventricular",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 693,
+      "end": 712
+    },
+    {
+      "text": "línea media",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 819,
+      "end": 830
+    },
+    {
+      "text": "Cisternas basales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 842,
+      "end": 859
+    },
+    {
+      "text": "TTP",
+      "type": "MEDIDA",
+      "start": 927,
+      "end": 930
+    },
+    {
+      "text": "CBV",
+      "type": "MEDIDA",
+      "start": 932,
+      "end": 935
+    },
+    {
+      "text": "CBF",
+      "type": "MEDIDA",
+      "start": 938,
+      "end": 941
+    },
+    {
+      "text": "discordancia significativa",
+      "type": "PATOLOGIA",
+      "start": 947,
+      "end": 973
+    },
+    {
+      "text": "arterias intra/extracraneales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1018,
+      "end": 1047
+    },
+    {
+      "text": "signos de estenosis",
+      "type": "PATOLOGIA",
+      "start": 1065,
+      "end": 1084
+    },
+    {
+      "text": "ACP izquierda",
+      "type": "ARTERIA",
+      "start": 1086,
+      "end": 1099
+    },
+    {
+      "text": "de origen fetal",
+      "type": "PATOLOGIA",
+      "start": 1100,
+      "end": 1115
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 638,
+      "end": 648
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1159,
+      "end": 1182
+    },
+    {
+      "text": "discordancia en los mapas de perfusión",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1188,
+      "end": 1226
+    }
+  ],
+  "regenerado": true,
+  "fecha_regeneracion": "2025-08-06T18:03:54.744345"
+}

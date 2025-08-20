@@ -1,0 +1,89 @@
+{
+  "document_id": "informe_sintetico_20250804195045_18754",
+  "entities": [
+    {
+      "text": "ictus isquémico",
+      "type": "PATOLOGIA",
+      "start": 229,
+      "end": 244
+    },
+    {
+      "text": "hemicuerpo derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 189,
+      "end": 207
+    },
+    {
+      "text": "arteria cerebral media",
+      "type": "ARTERIA",
+      "start": 262,
+      "end": 284
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 991,
+      "end": 1000
+    },
+    {
+      "text": "ASPECTS de 9",
+      "type": "PUNTUACION_CLINICA",
+      "start": 529,
+      "end": 541
+    },
+    {
+      "text": "No se identifica hemorragia intra ni extraaxial.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 419,
+      "end": 467
+    },
+    {
+      "text": "Disminución moderada de CBF",
+      "type": "PATOLOGIA",
+      "start": 804,
+      "end": 831
+    },
+    {
+      "text": "territorio cortical correspondiente a la región M2/M3",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 908,
+      "end": 961
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "ARTERIA",
+      "start": 968,
+      "end": 1000
+    },
+    {
+      "text": "Oclusión segmentaria en rama distal M2 de la arteria cerebral media izquierda.",
+      "type": "PATOLOGIA",
+      "start": 1133,
+      "end": 1211
+    },
+    {
+      "text": "Ausencia de estenosis significativa en vasos evaluados.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1285,
+      "end": 1340
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 1615,
+      "end": 1629
+    },
+    {
+      "text": "territorio distal de ACM izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1633,
+      "end": 1667
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1377,
+      "end": 1400
+    }
+  ]
+}

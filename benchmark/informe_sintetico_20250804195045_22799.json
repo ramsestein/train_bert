@@ -1,0 +1,203 @@
+{
+  "document_id": "informe_sintetico_20250804195045_22799",
+  "entities": [
+    {
+      "text": "anoxia cerebral secundaria a parada cardiorrespiratoria",
+      "type": "PATOLOGIA",
+      "start": 179,
+      "end": 234
+    },
+    {
+      "text": "encefalopatía hipóxico-isquémica",
+      "type": "PATOLOGIA",
+      "start": 248,
+      "end": 280
+    },
+    {
+      "text": "hipodensidad difusa",
+      "type": "PATOLOGIA",
+      "start": 463,
+      "end": 482
+    },
+    {
+      "text": "sustancia blanca periventricular",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 489,
+      "end": 521
+    },
+    {
+      "text": "córtex cerebral",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 524,
+      "end": 539
+    },
+    {
+      "text": "núcleos basales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 571,
+      "end": 586
+    },
+    {
+      "text": "corteza parietal bilateral",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 589,
+      "end": 615
+    },
+    {
+      "text": "infarto territorial definido",
+      "type": "PATOLOGIA",
+      "start": 638,
+      "end": 666
+    },
+    {
+      "text": "edema cerebral difuso",
+      "type": "PATOLOGIA",
+      "start": 773,
+      "end": 794
+    },
+    {
+      "text": "hemorragias intra o extraaxiales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 814,
+      "end": 846
+    },
+    {
+      "text": "desplazamiento de la línea media",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 850,
+      "end": 882
+    },
+    {
+      "text": "surcos corticales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 888,
+      "end": 905
+    },
+    {
+      "text": "ventrículos laterales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 948,
+      "end": 969
+    },
+    {
+      "text": "hidrocefalia obstructiva",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1010,
+      "end": 1034
+    },
+    {
+      "text": "tiempo de tránsito medio (MTT)",
+      "type": "MEDIDA",
+      "start": 1096,
+      "end": 1126
+    },
+    {
+      "text": "disminución moderada del volumen de sangre cerebral (CBV)",
+      "type": "MEDIDA",
+      "start": 1129,
+      "end": 1186
+    },
+    {
+      "text": "flujo sanguíneo cerebral (CBF)",
+      "type": "MEDIDA",
+      "start": 1189,
+      "end": 1219
+    },
+    {
+      "text": "hipoperfusión global",
+      "type": "PATOLOGIA",
+      "start": 1288,
+      "end": 1308
+    },
+    {
+      "text": "mismatching significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1337,
+      "end": 1362
+    },
+    {
+      "text": "permeabilidad sin estenosis ni oclusiones",
+      "type": "PATOLOGIA",
+      "start": 1436,
+      "end": 1477
+    },
+    {
+      "text": "grandes vasos cerebrales (ACM, ACA, ACP y sistema vertebrobasilar)",
+      "type": "ARTERIA",
+      "start": 1485,
+      "end": 1551
+    },
+    {
+      "text": "trombosis ni aneurismas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1570,
+      "end": 1593
+    },
+    {
+      "text": "ateromatosis significativa ni estenosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1620,
+      "end": 1659
+    },
+    {
+      "text": "encefalopatía hipóxico-isquémica de carácter moderado",
+      "type": "PATOLOGIA",
+      "start": 1709,
+      "end": 1762
+    },
+    {
+      "text": "edema cerebral difuso",
+      "type": "PATOLOGIA",
+      "start": 773,
+      "end": 794
+    },
+    {
+      "text": "alteraciones en perfusión cerebral indicativas de hipoperfusión global",
+      "type": "PATOLOGIA",
+      "start": 1792,
+      "end": 1862
+    },
+    {
+      "text": "infartos territoriales establecidos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1867,
+      "end": 1902
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1906,
+      "end": 1929
+    },
+    {
+      "text": "permeabilidad sin alteraciones obstructivas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1959,
+      "end": 2002
+    },
+    {
+      "text": "TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANG IOTC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 72,
+      "end": 140
+    },
+    {
+      "text": "TC craneal simple",
+      "type": "TECNICA_IMAGEN",
+      "start": 301,
+      "end": 318
+    },
+    {
+      "text": "perfusión cerebral dinámica",
+      "type": "TECNICA_IMAGEN",
+      "start": 320,
+      "end": 347
+    },
+    {
+      "text": "angiografía por TC de troncos supraórticos e intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 350,
+      "end": 407
+    }
+  ]
+}

@@ -1,0 +1,155 @@
+{
+  "document_id": "informe_sintetico_20250804195045_07968",
+  "entities": [
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 258,
+      "end": 272
+    },
+    {
+      "text": "arteria cerebral posterior derecha",
+      "type": "ARTERIA",
+      "start": 290,
+      "end": 324
+    },
+    {
+      "text": "No se evidencia hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 480,
+      "end": 519
+    },
+    {
+      "text": "sin hallazgos de edema o hipodensidades sugerentes de infarto agudo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 574,
+      "end": 641
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 690,
+      "end": 700
+    },
+    {
+      "text": "aumento del tiempo de tránsito medio (MTT)",
+      "type": "PATOLOGIA",
+      "start": 870,
+      "end": 912
+    },
+    {
+      "text": "hipoperfusión",
+      "type": "PATOLOGIA",
+      "start": 983,
+      "end": 996
+    },
+    {
+      "text": "volumen cerebral (CBV)",
+      "type": "MEDIDA",
+      "start": 1059,
+      "end": 1081
+    },
+    {
+      "text": "lóbulo occipital derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1085,
+      "end": 1109
+    },
+    {
+      "text": "tejido isquémico establecido",
+      "type": "PATOLOGIA",
+      "start": 1126,
+      "end": 1154
+    },
+    {
+      "text": "penumbra isquémica viable",
+      "type": "PATOLOGIA",
+      "start": 1250,
+      "end": 1275
+    },
+    {
+      "text": "territorio de ACP derecha",
+      "type": "ARTERIA",
+      "start": 1279,
+      "end": 1304
+    },
+    {
+      "text": "Oclusión proximal del segmento P2 de la arteria cerebral posterior derecha",
+      "type": "PATOLOGIA",
+      "start": 1340,
+      "end": 1414
+    },
+    {
+      "text": "Arterias cerebrales principales restantes permeables",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1418,
+      "end": 1470
+    },
+    {
+      "text": "sin evidencias de estenosis significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1472,
+      "end": 1514
+    },
+    {
+      "text": "Sistema vertebrobasilar sin alteraciones destacables",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1548,
+      "end": 1600
+    },
+    {
+      "text": "Ausencia de aneurismas o malformaciones vasculares",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1604,
+      "end": 1654
+    },
+    {
+      "text": "No se observan hemorragias intracraneales ni infartos recientes en TC basal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1683,
+      "end": 1758
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 690,
+      "end": 700
+    },
+    {
+      "text": "Área de isquemia establecida en lóbulo occipital derecho",
+      "type": "PATOLOGIA",
+      "start": 1776,
+      "end": 1832
+    },
+    {
+      "text": "territorio de ACP",
+      "type": "ARTERIA",
+      "start": 1279,
+      "end": 1296
+    },
+    {
+      "text": "penumbra isquémica identificada en mapas de perfusión",
+      "type": "PATOLOGIA",
+      "start": 1858,
+      "end": 1911
+    },
+    {
+      "text": "Oclusión proximal en segmento P2 de ACP derecha confirmada en AngioTC",
+      "type": "PATOLOGIA",
+      "start": 1917,
+      "end": 1986
+    },
+    {
+      "text": "Resto de arterias intra y extracraneales permeables",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1992,
+      "end": 2043
+    },
+    {
+      "text": "sin estenosis significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2046,
+      "end": 2073
+    }
+  ]
+}

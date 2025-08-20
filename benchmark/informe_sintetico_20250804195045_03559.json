@@ -1,0 +1,197 @@
+{
+  "document_id": "informe_sintetico_20250804195045_03559",
+  "entities": [
+    {
+      "text": "hemiparesia derecha",
+      "type": "PATOLOGIA",
+      "start": 217,
+      "end": 236
+    },
+    {
+      "text": "afasia",
+      "type": "PATOLOGIA",
+      "start": 239,
+      "end": 245
+    },
+    {
+      "text": "ictus isquémico",
+      "type": "PATOLOGIA",
+      "start": 291,
+      "end": 306
+    },
+    {
+      "text": "territorio cerebral izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 310,
+      "end": 339
+    },
+    {
+      "text": "hipodensidad difusa",
+      "type": "PATOLOGIA",
+      "start": 575,
+      "end": 594
+    },
+    {
+      "text": "arteria cerebral media (ACM) izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 615,
+      "end": 653
+    },
+    {
+      "text": "núcleo lenticular",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 665,
+      "end": 682
+    },
+    {
+      "text": "región insular",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 685,
+      "end": 699
+    },
+    {
+      "text": "pérdida de diferenciación cortico-subcortical",
+      "type": "PATOLOGIA",
+      "start": 705,
+      "end": 750
+    },
+    {
+      "text": "signo de arteria hiperdensa",
+      "type": "PATOLOGIA",
+      "start": 763,
+      "end": 790
+    },
+    {
+      "text": "segmento proximal M1 de ACM izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 794,
+      "end": 831
+    },
+    {
+      "text": "hemorragias intracraneales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 851,
+      "end": 877
+    },
+    {
+      "text": "efecto masa significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 881,
+      "end": 906
+    },
+    {
+      "text": "sistema ventricular y cisternas basales sin alteraciones",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 930,
+      "end": 986
+    },
+    {
+      "text": "disminución marked de flujo sanguíneo cerebral (CBF)",
+      "type": "PATOLOGIA",
+      "start": 1020,
+      "end": 1072
+    },
+    {
+      "text": "volumen cerebral sanguíneo (CBV)",
+      "type": "PATOLOGIA",
+      "start": 1075,
+      "end": 1107
+    },
+    {
+      "text": "territorio vascular correspondiente a ACM izquierda proximal",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1111,
+      "end": 1171
+    },
+    {
+      "text": "aumento del tiempo de tránsito medio (MTT)",
+      "type": "PATOLOGIA",
+      "start": 1177,
+      "end": 1219
+    },
+    {
+      "text": "Tmax prolongado",
+      "type": "PATOLOGIA",
+      "start": 1222,
+      "end": 1237
+    },
+    {
+      "text": "área en penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1253,
+      "end": 1279
+    },
+    {
+      "text": "Oclusión completa del segmento proximal M1 de la ACM izquierda",
+      "type": "PATOLOGIA",
+      "start": 1315,
+      "end": 1377
+    },
+    {
+      "text": "Arterias cerebrales anteriores y posteriores permeables",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1379,
+      "end": 1434
+    },
+    {
+      "text": "sin estenosis significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1474,
+      "end": 1502
+    },
+    {
+      "text": "No se observan placas calcificadas o ateromas con estenosis relevantes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1504,
+      "end": 1574
+    },
+    {
+      "text": "ictus isquémico agudo",
+      "type": "PATOLOGIA",
+      "start": 1679,
+      "end": 1700
+    },
+    {
+      "text": "oclusión proximal del segmento M1 de la arteria cerebral media izquierda",
+      "type": "PATOLOGIA",
+      "start": 1705,
+      "end": 1777
+    },
+    {
+      "text": "ASPECTS entre 6 y 7",
+      "type": "PUNTUACION_CLINICA",
+      "start": 1779,
+      "end": 1798
+    },
+    {
+      "text": "área isquémica establecida",
+      "type": "PATOLOGIA",
+      "start": 1817,
+      "end": 1843
+    },
+    {
+      "text": "zona en penumbra potencialmente recuperable",
+      "type": "PATOLOGIA",
+      "start": 1846,
+      "end": 1889
+    },
+    {
+      "text": "Ausencia de hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1891,
+      "end": 1926
+    },
+    {
+      "text": "Oclusión aguda de arteria cerebral media izquierda segmento M1",
+      "type": "PATOLOGIA",
+      "start": 2085,
+      "end": 2147
+    },
+    {
+      "text": "área extensa de isquemia en territorio afectado",
+      "type": "PATOLOGIA",
+      "start": 2152,
+      "end": 2199
+    }
+  ]
+}

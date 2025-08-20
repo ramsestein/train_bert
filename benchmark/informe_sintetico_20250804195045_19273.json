@@ -1,0 +1,59 @@
+{
+  "document_id": "informe_sintetico_20250804195045_19273",
+  "entities": [
+    {
+      "text": "infarto lacunar agudo",
+      "type": "PATOLOGIA",
+      "start": 510,
+      "end": 531
+    },
+    {
+      "text": "cápsula interna derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 470,
+      "end": 493
+    },
+    {
+      "text": "8 mm",
+      "type": "MEDIDA",
+      "start": 446,
+      "end": 450
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 486,
+      "end": 493
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 771,
+      "end": 781
+    },
+    {
+      "text": "No se observan signos de hemorragia intra o extraaxial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 533,
+      "end": 587
+    },
+    {
+      "text": "sin evidenciar áreas de hipoperfusión ni alteraciones en los mapas de flujo cerebral (CBF), volumen cerebral (CBV) ni tiempo de tránsito (TTP)",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 884,
+      "end": 1026
+    },
+    {
+      "text": "No se identifican estenosis ni defectos de repleción en las principales arterias cerebrales intracraneales (ACAs, ACMs, ACPs)",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1062,
+      "end": 1187
+    },
+    {
+      "text": "AngioTC sin hallazgos vasculares significativos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1522,
+      "end": 1569
+    }
+  ]
+}

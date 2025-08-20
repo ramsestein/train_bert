@@ -1,0 +1,101 @@
+{
+  "document_id": "informe_sintetico_20250804195045_09953",
+  "entities": [
+    {
+      "text": "ictus",
+      "type": "PATOLOGIA",
+      "start": 259,
+      "end": 264
+    },
+    {
+      "text": "arteria cerebral anterior (ACA)",
+      "type": "ARTERIA",
+      "start": 285,
+      "end": 316
+    },
+    {
+      "text": "hemicuerpo izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 199,
+      "end": 219
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 732,
+      "end": 746
+    },
+    {
+      "text": "territorio de la ACA derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 750,
+      "end": 778
+    },
+    {
+      "text": "disminución del calibre",
+      "type": "PATOLOGIA",
+      "start": 1441,
+      "end": 1464
+    },
+    {
+      "text": "segmento A2",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1471,
+      "end": 1482
+    },
+    {
+      "text": "estenosis focal",
+      "type": "PATOLOGIA",
+      "start": 1496,
+      "end": 1511
+    },
+    {
+      "text": "oclusión parcial distal",
+      "type": "PATOLOGIA",
+      "start": 1522,
+      "end": 1545
+    },
+    {
+      "text": "penumbra viable",
+      "type": "PATOLOGIA",
+      "start": 1926,
+      "end": 1941
+    },
+    {
+      "text": "retraso prolongado",
+      "type": "PATOLOGIA",
+      "start": 1040,
+      "end": 1058
+    },
+    {
+      "text": "disminución significativa del flujo cerebral (CBF)",
+      "type": "PATOLOGIA",
+      "start": 1096,
+      "end": 1146
+    },
+    {
+      "text": "volumen cerebral (CBV) reducido",
+      "type": "PATOLOGIA",
+      "start": 1149,
+      "end": 1180
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 370,
+      "end": 386
+    },
+    {
+      "text": "perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 413,
+      "end": 431
+    },
+    {
+      "text": "angiografía TC intra y extracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 434,
+      "end": 469
+    }
+  ]
+}

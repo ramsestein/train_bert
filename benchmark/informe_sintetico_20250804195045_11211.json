@@ -1,0 +1,71 @@
+{
+  "document_id": "informe_sintetico_20250804195045_11211",
+  "entities": [
+    {
+      "text": "contusión hemorrágica traumática",
+      "type": "PATOLOGIA",
+      "start": 602,
+      "end": 634
+    },
+    {
+      "text": "región cortical frontal derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 554,
+      "end": 585
+    },
+    {
+      "text": "frontal derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 570,
+      "end": 585
+    },
+    {
+      "text": "12 mm",
+      "type": "MEDIDA",
+      "start": 530,
+      "end": 535
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 290,
+      "end": 306
+    },
+    {
+      "text": "angio-TC intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 333,
+      "end": 354
+    },
+    {
+      "text": "perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 357,
+      "end": 375
+    },
+    {
+      "text": "No se identifican lesiones extraaxiales ni hematomas epidurales o subdurales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 663,
+      "end": 739
+    },
+    {
+      "text": "No se observan signos de disrupción vascular ni aneurismas postraumáticos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1340,
+      "end": 1413
+    },
+    {
+      "text": "sin signos de isquemia global",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1198,
+      "end": 1227
+    },
+    {
+      "text": "sin alteraciones vasculares traumáticas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1647,
+      "end": 1686
+    }
+  ]
+}

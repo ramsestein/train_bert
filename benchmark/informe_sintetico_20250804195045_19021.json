@@ -1,0 +1,107 @@
+{
+  "document_id": "informe_sintetico_20250804195045_19021",
+  "entities": [
+    {
+      "text": "infarto agudo",
+      "type": "PATOLOGIA",
+      "start": 540,
+      "end": 553
+    },
+    {
+      "text": "sangrado intra ni extraaxial",
+      "type": "PATOLOGIA",
+      "start": 567,
+      "end": 595
+    },
+    {
+      "text": "ASPECTS",
+      "type": "PUNTUACION_CLINICA",
+      "start": 600,
+      "end": 607
+    },
+    {
+      "text": "10",
+      "type": "MEDIDA",
+      "start": 611,
+      "end": 613
+    },
+    {
+      "text": "isquemia",
+      "type": "PATOLOGIA",
+      "start": 703,
+      "end": 711
+    },
+    {
+      "text": "carótidas internas",
+      "type": "ARTERIA",
+      "start": 1026,
+      "end": 1044
+    },
+    {
+      "text": "vertebrales",
+      "type": "ARTERIA",
+      "start": 1047,
+      "end": 1058
+    },
+    {
+      "text": "estenosis",
+      "type": "PATOLOGIA",
+      "start": 1077,
+      "end": 1086
+    },
+    {
+      "text": "oclusiones",
+      "type": "PATOLOGIA",
+      "start": 1088,
+      "end": 1098
+    },
+    {
+      "text": "calcificaciones ateromatosas leves",
+      "type": "PATOLOGIA",
+      "start": 1169,
+      "end": 1203
+    },
+    {
+      "text": "signos de edema cerebral",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1269,
+      "end": 1293
+    },
+    {
+      "text": "lesiones ocupantes de espacio",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1297,
+      "end": 1326
+    },
+    {
+      "text": "TC CODE ICTUS sin hallazgos patológicos agudos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1351,
+      "end": 1397
+    },
+    {
+      "text": "Perfusión cerebral normal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1399,
+      "end": 1424
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 1507,
+      "end": 1517
+    },
+    {
+      "text": "isquemia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 703,
+      "end": 711
+    },
+    {
+      "text": "hemorragia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1547,
+      "end": 1557
+    }
+  ]
+}

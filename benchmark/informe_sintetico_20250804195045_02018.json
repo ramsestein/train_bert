@@ -1,0 +1,125 @@
+{
+  "document_id": "informe_sintetico_20250804195045_02018",
+  "entities": [
+    {
+      "text": "hemorragias",
+      "type": "PATOLOGIA",
+      "start": 659,
+      "end": 670
+    },
+    {
+      "text": "lesiones focales",
+      "type": "PATOLOGIA",
+      "start": 673,
+      "end": 689
+    },
+    {
+      "text": "calcificaciones vasculares crónicas",
+      "type": "PATOLOGIA",
+      "start": 722,
+      "end": 757
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 788,
+      "end": 798
+    },
+    {
+      "text": "infarto agudo",
+      "type": "PATOLOGIA",
+      "start": 827,
+      "end": 840
+    },
+    {
+      "text": "hemorragia",
+      "type": "PATOLOGIA",
+      "start": 659,
+      "end": 669
+    },
+    {
+      "text": "estenosis",
+      "type": "PATOLOGIA",
+      "start": 1199,
+      "end": 1208
+    },
+    {
+      "text": "ACAs, ACMs, ACPs",
+      "type": "ARTERIA",
+      "start": 1287,
+      "end": 1303
+    },
+    {
+      "text": "Sistema vertebrobasilar",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1357,
+      "end": 1380
+    },
+    {
+      "text": "isquemia",
+      "type": "PATOLOGIA",
+      "start": 1571,
+      "end": 1579
+    },
+    {
+      "text": "estenosis vascular significativa",
+      "type": "PATOLOGIA",
+      "start": 1595,
+      "end": 1627
+    },
+    {
+      "text": "TC CRANEAL BASAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 349,
+      "end": 365
+    },
+    {
+      "text": "TC PERFUSIÓN CEREBRAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 857,
+      "end": 878
+    },
+    {
+      "text": "ANGIO-TC EXTRA E INTRACRANEAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 1112,
+      "end": 1141
+    },
+    {
+      "text": "sin signos de desplazamiento ni edema",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 516,
+      "end": 553
+    },
+    {
+      "text": "sin evidencias de hipodensidades",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 625,
+      "end": 657
+    },
+    {
+      "text": "sin áreas de discordancia o asimetrías significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1025,
+      "end": 1078
+    },
+    {
+      "text": "sin signos de estenosis ni aneurismas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1318,
+      "end": 1355
+    },
+    {
+      "text": "sin hallazgos agudos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1473,
+      "end": 1493
+    },
+    {
+      "text": "sin alteraciones",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1393,
+      "end": 1409
+    }
+  ]
+}

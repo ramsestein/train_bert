@@ -1,0 +1,95 @@
+{
+  "document_id": "informe_sintetico_20250804195045_21373",
+  "entities": [
+    {
+      "text": "evento isquémico transitorio",
+      "type": "PATOLOGIA",
+      "start": 189,
+      "end": 217
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 497,
+      "end": 520
+    },
+    {
+      "text": "infarto agudo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 657,
+      "end": 670
+    },
+    {
+      "text": "lesión isquémica reciente",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 673,
+      "end": 698
+    },
+    {
+      "text": "sustancia blanca",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 937,
+      "end": 953
+    },
+    {
+      "text": "perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 333,
+      "end": 351
+    },
+    {
+      "text": "angiografía",
+      "type": "TECNICA_IMAGEN",
+      "start": 354,
+      "end": 365
+    },
+    {
+      "text": "ACAs",
+      "type": "ARTERIA",
+      "start": 1309,
+      "end": 1313
+    },
+    {
+      "text": "ACMs",
+      "type": "ARTERIA",
+      "start": 1315,
+      "end": 1319
+    },
+    {
+      "text": "ACPs",
+      "type": "ARTERIA",
+      "start": 1323,
+      "end": 1327
+    },
+    {
+      "text": "estenosis",
+      "type": "PATOLOGIA",
+      "start": 1356,
+      "end": 1365
+    },
+    {
+      "text": "oclusión",
+      "type": "PATOLOGIA",
+      "start": 1369,
+      "end": 1377
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 1610,
+      "end": 1620
+    },
+    {
+      "text": "edad",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 970,
+      "end": 974
+    },
+    {
+      "text": "estenosis oclusivas",
+      "type": "PATOLOGIA",
+      "start": 1806,
+      "end": 1825
+    }
+  ]
+}

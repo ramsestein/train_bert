@@ -1,0 +1,95 @@
+{
+  "document_id": "informe_sintetico_20250804195045_22370",
+  "entities": [
+    {
+      "text": "infarto",
+      "type": "PATOLOGIA",
+      "start": 241,
+      "end": 248
+    },
+    {
+      "text": "hipoperfusión",
+      "type": "PATOLOGIA",
+      "start": 253,
+      "end": 266
+    },
+    {
+      "text": "debilidad bilateral",
+      "type": "PATOLOGIA",
+      "start": 196,
+      "end": 215
+    },
+    {
+      "text": "infarto",
+      "type": "PATOLOGIA",
+      "start": 241,
+      "end": 248
+    },
+    {
+      "text": "parietales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 567,
+      "end": 577
+    },
+    {
+      "text": "bilaterales",
+      "type": "LATERALIDAD",
+      "start": 578,
+      "end": 589
+    },
+    {
+      "text": "ASPECTS 8",
+      "type": "PUNTUACION_CLINICA",
+      "start": 719,
+      "end": 728
+    },
+    {
+      "text": "tiempo de tránsito medio (MTT)",
+      "type": "MEDIDA",
+      "start": 887,
+      "end": 917
+    },
+    {
+      "text": "tiempo hasta el pico (TTP)",
+      "type": "MEDIDA",
+      "start": 920,
+      "end": 946
+    },
+    {
+      "text": "reducción leve-moderada",
+      "type": "MEDIDA",
+      "start": 1041,
+      "end": 1064
+    },
+    {
+      "text": "volumen cerebral (CBV)",
+      "type": "MEDIDA",
+      "start": 1093,
+      "end": 1115
+    },
+    {
+      "text": "penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1168,
+      "end": 1186
+    },
+    {
+      "text": "arterias cerebrales anteriores",
+      "type": "ARTERIA",
+      "start": 1271,
+      "end": 1301
+    },
+    {
+      "text": "No se objetiva estenosis ni oclusión arterial significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1636,
+      "end": 1695
+    },
+    {
+      "text": "sin evidencias de oclusión arterial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1924,
+      "end": 1959
+    }
+  ]
+}

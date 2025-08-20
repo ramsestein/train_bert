@@ -1,0 +1,89 @@
+{
+  "document_id": "informe_sintetico_20250804195045_01090",
+  "entities": [
+    {
+      "text": "infartos lacunares crónicos",
+      "type": "PATOLOGIA",
+      "start": 683,
+      "end": 710
+    },
+    {
+      "text": "núcleos de la base",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 612,
+      "end": 630
+    },
+    {
+      "text": "cápsulas internas",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 632,
+      "end": 649
+    },
+    {
+      "text": "protuberancia",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 652,
+      "end": 665
+    },
+    {
+      "text": "hemorragia intra ni extraaxial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 739,
+      "end": 769
+    },
+    {
+      "text": "sin áreas de hipoperfusión significativa ni mismatch relevante",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1003,
+      "end": 1065
+    },
+    {
+      "text": "sin placas ateromatosas de severidad destacada",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1270,
+      "end": 1316
+    },
+    {
+      "text": "sin estenosis significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1611,
+      "end": 1638
+    },
+    {
+      "text": "infarto agudo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1550,
+      "end": 1563
+    },
+    {
+      "text": "perfusión alterada",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1566,
+      "end": 1584
+    },
+    {
+      "text": "enfermedad crónica de pequeño vaso",
+      "type": "PATOLOGIA",
+      "start": 1502,
+      "end": 1536
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 349,
+      "end": 365
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 402,
+      "end": 423
+    },
+    {
+      "text": "angio-TC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 426,
+      "end": 456
+    }
+  ]
+}

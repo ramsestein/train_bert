@@ -1,0 +1,77 @@
+{
+  "document_id": "informe_sintetico_20250804195045_19234",
+  "entities": [
+    {
+      "text": "infarto cerebral",
+      "type": "PATOLOGIA",
+      "start": 236,
+      "end": 252
+    },
+    {
+      "text": "hipoperfusión",
+      "type": "PATOLOGIA",
+      "start": 275,
+      "end": 288
+    },
+    {
+      "text": "hipodensidad bilateral simétrica",
+      "type": "PATOLOGIA",
+      "start": 453,
+      "end": 485
+    },
+    {
+      "text": "infarto isquémico",
+      "type": "PATOLOGIA",
+      "start": 982,
+      "end": 999
+    },
+    {
+      "text": "estenosis hemodinámicamente significativas",
+      "type": "PATOLOGIA",
+      "start": 1164,
+      "end": 1206
+    },
+    {
+      "text": "arteria carótida interna derecha",
+      "type": "ARTERIA",
+      "start": 1213,
+      "end": 1245
+    },
+    {
+      "text": "bilateral",
+      "type": "LATERALIDAD",
+      "start": 466,
+      "end": 475
+    },
+    {
+      "text": "parietooccipitales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 586,
+      "end": 604
+    },
+    {
+      "text": "frontoparietales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 607,
+      "end": 623
+    },
+    {
+      "text": "no demuestra oclusiones completas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1068,
+      "end": 1101
+    },
+    {
+      "text": "sin hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1967,
+      "end": 1994
+    },
+    {
+      "text": "TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANGIOTC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 2022,
+      "end": 2089
+    }
+  ]
+}

@@ -1,0 +1,239 @@
+{
+  "document_id": "informe_sintetico_20250804195045_03902",
+  "entities": [
+    {
+      "text": "hemiparesia derecha",
+      "type": "PATOLOGIA",
+      "start": 196,
+      "end": 215
+    },
+    {
+      "text": "afasia",
+      "type": "PATOLOGIA",
+      "start": 217,
+      "end": 223
+    },
+    {
+      "text": "desviación conjugada hacia la izquierda",
+      "type": "PATOLOGIA",
+      "start": 226,
+      "end": 265
+    },
+    {
+      "text": "accidente cerebrovascular isquémico",
+      "type": "PATOLOGIA",
+      "start": 279,
+      "end": 314
+    },
+    {
+      "text": "arteria cerebral media (ACM) izquierda",
+      "type": "ARTERIA",
+      "start": 496,
+      "end": 534
+    },
+    {
+      "text": "segmento proximal (M1)",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 552,
+      "end": 574
+    },
+    {
+      "text": "trombo oclusivo",
+      "type": "PATOLOGIA",
+      "start": 604,
+      "end": 619
+    },
+    {
+      "text": "hipodensidad cortical",
+      "type": "PATOLOGIA",
+      "start": 637,
+      "end": 658
+    },
+    {
+      "text": "territorio de ACM izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 662,
+      "end": 689
+    },
+    {
+      "text": "pérdida de diferenciación cortico-subcortical",
+      "type": "PATOLOGIA",
+      "start": 694,
+      "end": 739
+    },
+    {
+      "text": "núcleos lenticulares",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 751,
+      "end": 771
+    },
+    {
+      "text": "cápsula interna",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 774,
+      "end": 789
+    },
+    {
+      "text": "ASPECTS 7",
+      "type": "PUNTUACION_CLINICA",
+      "start": 812,
+      "end": 821
+    },
+    {
+      "text": "isquemia aguda reciente",
+      "type": "PATOLOGIA",
+      "start": 838,
+      "end": 861
+    },
+    {
+      "text": "signos de hemorragia intra o extraaxial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 880,
+      "end": 919
+    },
+    {
+      "text": "Sistema ventricular normotrófico",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 921,
+      "end": 953
+    },
+    {
+      "text": "líneas medias centradas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 955,
+      "end": 978
+    },
+    {
+      "text": "aumento del tiempo de tránsito cerebral (TTP)",
+      "type": "PATOLOGIA",
+      "start": 1076,
+      "end": 1121
+    },
+    {
+      "text": "territorio de ACM izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 662,
+      "end": 689
+    },
+    {
+      "text": "disminución del volumen cerebral (CBV)",
+      "type": "PATOLOGIA",
+      "start": 1158,
+      "end": 1196
+    },
+    {
+      "text": "área infartada",
+      "type": "PATOLOGIA",
+      "start": 1233,
+      "end": 1247
+    },
+    {
+      "text": "Zona penumbra",
+      "type": "PATOLOGIA",
+      "start": 1249,
+      "end": 1262
+    },
+    {
+      "text": "prolongación del TTP",
+      "type": "PATOLOGIA",
+      "start": 1281,
+      "end": 1301
+    },
+    {
+      "text": "preservación del CBV",
+      "type": "PATOLOGIA",
+      "start": 1306,
+      "end": 1326
+    },
+    {
+      "text": "tejido en riesgo potencialmente recuperable",
+      "type": "PATOLOGIA",
+      "start": 1341,
+      "end": 1384
+    },
+    {
+      "text": "Oclusión completa del segmento proximal M1 de ACM izquierda",
+      "type": "PATOLOGIA",
+      "start": 1419,
+      "end": 1478
+    },
+    {
+      "text": "Circulación colateral por arterias leptomeníngeas moderada",
+      "type": "PATOLOGIA",
+      "start": 1480,
+      "end": 1538
+    },
+    {
+      "text": "Carótidas internas y arterias cerebrales anteriores permeables",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1540,
+      "end": 1602
+    },
+    {
+      "text": "Arco aórtico y troncos supraórticos sin estenosis significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1604,
+      "end": 1668
+    },
+    {
+      "text": "Oclusión del segmento proximal (M1) de la arteria cerebral media izquierda",
+      "type": "PATOLOGIA",
+      "start": 1693,
+      "end": 1767
+    },
+    {
+      "text": "signos de isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 1772,
+      "end": 1796
+    },
+    {
+      "text": "ASPECTS 7",
+      "type": "PUNTUACION_CLINICA",
+      "start": 812,
+      "end": 821
+    },
+    {
+      "text": "área infartada con penumbra adyacente",
+      "type": "PATOLOGIA",
+      "start": 1823,
+      "end": 1860
+    },
+    {
+      "text": "complicaciones hemorrágicas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1887,
+      "end": 1914
+    },
+    {
+      "text": "ictus isquémico agudo en territorio ACM izquierdo",
+      "type": "PATOLOGIA",
+      "start": 1942,
+      "end": 1991
+    },
+    {
+      "text": "manejo intervencionista según protocolos vigentes",
+      "type": "PATOLOGIA",
+      "start": 2005,
+      "end": 2054
+    },
+    {
+      "text": "TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANG IOTC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 72,
+      "end": 140
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 362,
+      "end": 383
+    },
+    {
+      "text": "Angio-TC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 386,
+      "end": 416
+    }
+  ]
+}

@@ -1,0 +1,215 @@
+{
+  "document_id": "informe_sintetico_20250804195045_17026",
+  "entities": [
+    {
+      "text": "hemiparesia derecha",
+      "type": "PATOLOGIA",
+      "start": 196,
+      "end": 215
+    },
+    {
+      "text": "afasia motoras",
+      "type": "PATOLOGIA",
+      "start": 218,
+      "end": 232
+    },
+    {
+      "text": "accidente cerebrovascular isquémico",
+      "type": "PATOLOGIA",
+      "start": 246,
+      "end": 281
+    },
+    {
+      "text": "4 horas",
+      "type": "TEMPORALIDAD",
+      "start": 307,
+      "end": 314
+    },
+    {
+      "text": "área hipodensa",
+      "type": "PATOLOGIA",
+      "start": 516,
+      "end": 530
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "ARTERIA",
+      "start": 551,
+      "end": 583
+    },
+    {
+      "text": "infarto isquémico establecido",
+      "type": "PATOLOGIA",
+      "start": 642,
+      "end": 671
+    },
+    {
+      "text": "pérdida de diferenciación cortico-subcortical",
+      "type": "PATOLOGIA",
+      "start": 676,
+      "end": 721
+    },
+    {
+      "text": "edema leve asociado",
+      "type": "PATOLOGIA",
+      "start": 724,
+      "end": 743
+    },
+    {
+      "text": "ASPECTS 5/10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 745,
+      "end": 757
+    },
+    {
+      "text": "No hay hemorragia intraparenquimatosa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 759,
+      "end": 796
+    },
+    {
+      "text": "ni hemorragia intra o extraaxial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 798,
+      "end": 830
+    },
+    {
+      "text": "desviación hacia la derecha",
+      "type": "PATOLOGIA",
+      "start": 853,
+      "end": 880
+    },
+    {
+      "text": "flujo sanguíneo cerebral",
+      "type": "PATOLOGIA",
+      "start": 985,
+      "end": 1009
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "ARTERIA",
+      "start": 551,
+      "end": 583
+    },
+    {
+      "text": "prolongación de los tiempos de tránsito",
+      "type": "PATOLOGIA",
+      "start": 1081,
+      "end": 1120
+    },
+    {
+      "text": "infarto",
+      "type": "PATOLOGIA",
+      "start": 642,
+      "end": 649
+    },
+    {
+      "text": "zona circundante de penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1167,
+      "end": 1205
+    },
+    {
+      "text": "Oclusión completa",
+      "type": "PATOLOGIA",
+      "start": 1239,
+      "end": 1256
+    },
+    {
+      "text": "segmento cervical y petroso de la arteria carótida interna izquierda",
+      "type": "ARTERIA",
+      "start": 1261,
+      "end": 1329
+    },
+    {
+      "text": "sin visualización distal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1331,
+      "end": 1355
+    },
+    {
+      "text": "Tránsito colateral insuficiente",
+      "type": "PATOLOGIA",
+      "start": 1357,
+      "end": 1388
+    },
+    {
+      "text": "sin otras estenosis significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1457,
+      "end": 1491
+    },
+    {
+      "text": "Sistema vertebrobasilar y arterias cerebrales derechas permeables",
+      "type": "ARTERIA",
+      "start": 1493,
+      "end": 1558
+    },
+    {
+      "text": "No se observan otras lesiones vasculares ni aneurismas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1560,
+      "end": 1614
+    },
+    {
+      "text": "Oclusión completa de arteria carótida interna izquierda",
+      "type": "PATOLOGIA",
+      "start": 1640,
+      "end": 1695
+    },
+    {
+      "text": "infarto isquémico establecido en territorio de la arteria cerebral media izquierda",
+      "type": "PATOLOGIA",
+      "start": 1700,
+      "end": 1782
+    },
+    {
+      "text": "ASPECTS 5/10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 745,
+      "end": 757
+    },
+    {
+      "text": "Área extensa de penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1799,
+      "end": 1833
+    },
+    {
+      "text": "desviación de la línea media",
+      "type": "PATOLOGIA",
+      "start": 1873,
+      "end": 1901
+    },
+    {
+      "text": "Accidente cerebrovascular isquémico por oclusión carotídea izquierda",
+      "type": "PATOLOGIA",
+      "start": 2200,
+      "end": 2268
+    },
+    {
+      "text": "extensión a territorio de ACM izquierda",
+      "type": "PATOLOGIA",
+      "start": 2273,
+      "end": 2312
+    },
+    {
+      "text": "infarto establecido y penumbra persistente",
+      "type": "PATOLOGIA",
+      "start": 2318,
+      "end": 2360
+    },
+    {
+      "text": "Oclusión del segmento cervical-petroso de la arteria carótida interna izquierda",
+      "type": "PATOLOGIA",
+      "start": 2475,
+      "end": 2554
+    },
+    {
+      "text": "Restantes vasos cerebrales sin estenosis ni oclusiones evidentes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2556,
+      "end": 2620
+    }
+  ]
+}

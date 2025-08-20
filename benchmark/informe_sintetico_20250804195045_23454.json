@@ -1,0 +1,101 @@
+{
+  "document_id": "informe_sintetico_20250804195045_23454",
+  "entities": [
+    {
+      "text": "colecciones hemorrágicas",
+      "type": "PATOLOGIA",
+      "start": 478,
+      "end": 502
+    },
+    {
+      "text": "hipodensidad",
+      "type": "PATOLOGIA",
+      "start": 585,
+      "end": 597
+    },
+    {
+      "text": "edema",
+      "type": "PATOLOGIA",
+      "start": 600,
+      "end": 605
+    },
+    {
+      "text": "cambios crónicos leves compatibles con gliosis cortical inespecífica",
+      "type": "PATOLOGIA",
+      "start": 818,
+      "end": 886
+    },
+    {
+      "text": "normal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 795,
+      "end": 801
+    },
+    {
+      "text": "sin evidencia de perfusión alterada ni mismatch",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1064,
+      "end": 1111
+    },
+    {
+      "text": "sin signos de estenosis, oclusión o aneurismas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1245,
+      "end": 1291
+    },
+    {
+      "text": "sin hallazgos agudos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1434,
+      "end": 1454
+    },
+    {
+      "text": "signos de isquemia, hemorragia ni alteraciones vasculares",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1471,
+      "end": 1528
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 1530,
+      "end": 1540
+    },
+    {
+      "text": "TC CRANEAL BASAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 443,
+      "end": 459
+    },
+    {
+      "text": "TC PERFUSIÓN",
+      "type": "TECNICA_IMAGEN",
+      "start": 917,
+      "end": 929
+    },
+    {
+      "text": "ANGIO-TC EXTRA E INTRACRANEAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 1115,
+      "end": 1144
+    },
+    {
+      "text": "ACAs, ACMs, ACPs",
+      "type": "ARTERIA",
+      "start": 1215,
+      "end": 1231
+    },
+    {
+      "text": "ambos hemisferios",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 656,
+      "end": 673
+    },
+    {
+      "text": "línea media",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 693,
+      "end": 704
+    }
+  ]
+}

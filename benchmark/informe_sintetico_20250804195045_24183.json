@@ -1,0 +1,95 @@
+{
+  "document_id": "informe_sintetico_20250804195045_24183",
+  "entities": [
+    {
+      "text": "infarto cerebral",
+      "type": "PATOLOGIA",
+      "start": 209,
+      "end": 225
+    },
+    {
+      "text": "infarto tipo watershed",
+      "type": "PATOLOGIA",
+      "start": 792,
+      "end": 814
+    },
+    {
+      "text": "arterias cerebral media",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 667,
+      "end": 690
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 1639,
+      "end": 1648
+    },
+    {
+      "text": "moderados",
+      "type": "MEDIDA",
+      "start": 1100,
+      "end": 1109
+    },
+    {
+      "text": "moderada",
+      "type": "MEDIDA",
+      "start": 1956,
+      "end": 1964
+    },
+    {
+      "text": "sin hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1889,
+      "end": 1916
+    },
+    {
+      "text": "sin estenosis significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1531,
+      "end": 1558
+    },
+    {
+      "text": "sin alteraciones morfológicas relevantes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1714,
+      "end": 1754
+    },
+    {
+      "text": "sin evidencia de penumbra significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1322,
+      "end": 1361
+    },
+    {
+      "text": "sin evidencia de tejido salvable",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1989,
+      "end": 2021
+    },
+    {
+      "text": "sin estenosis significativa que explique isquemia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2067,
+      "end": 2116
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 297,
+      "end": 313
+    },
+    {
+      "text": "angiografía por TC de arterias intracraneales",
+      "type": "TECNICA_IMAGEN",
+      "start": 358,
+      "end": 403
+    },
+    {
+      "text": "angiografía por TC",
+      "type": "TECNICA_IMAGEN",
+      "start": 358,
+      "end": 376
+    }
+  ]
+}

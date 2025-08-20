@@ -1,0 +1,28 @@
+UO_PACN (Unidad Organizativa Médica): RADIO
+
+PRUEB (Prueba solicitada): TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANG IOTC ARTERIAL INTRACRANEAL)
+
+CLIN (Resumen clínico): Paciente con cuadro súbito de vértigo intenso, diplopía y ataxia, sospecha clínica de isquemia aguda en territorio vertebrobasilar.
+
+OBSR (Protocolo): TC CRANEAL BASAL + TC PERFUSIÓN (mapas TTP, CBF, CBV) + ANGIO-TC INTRA Y EXTRACRANEAL DE TRONCOS SUPRAÓRTICOS Y ARTERIAS CEREBRALES
+
+RESL (Resultados): TC BASAL:
+No se evidencian hemorragias intra ni extraaxiales. No se observan alteraciones densitométricas en el tronco encefálico o cerebelo que sugieran infarto establecido. Sistema ventricular de morfología y tamaño normales. Línea media sin desviación. Cisternas de la base conservadas.
+
+TC PERFUSIÓN:
+Se aprecia aumento significativo del Tiempo de Tránsito Medio (TTP) y disminución del Flujo Cerebral (CBF) en región del bulbo y porción proximal del puente izquierdo, con preservación relativa del Volumen Cerebral (CBV), patrón compatible con territorio en riesgo (penumbra isquémica).
+
+ANGIO-TC INTRACRANEAL Y EXTRACRANEAL:
+Oclusión subtotal de la arteria vertebral izquierda en su segmento V2 con colaterales compensatorias hacia el segmento V3. La arteria basilar presenta estenosis hemodinámicamente significativa proximal, sin exclusión completa del flujo. Arterias cerebrales anteriores, medias y posteriores permeables. No se identifican placas ateromatosas calcificadas de relevancia ni aneurismas intracraneales. Troncos supraórticos sin estenosis críticas.
+
+CONCL (Conclusiones): Síndrome isquémico agudo en territorio vertebrobasilar con área en riesgo detectada en la región bulbar y puente proximal izquierdo sin infarto establecido en TC basal. Oclusión parcial de arteria vertebral izquierda y estenosis de arteria basilar proximal. Se recomienda valoración urgente para tratamiento endovascular según protocolo de ictus vertebrobasilar.
+
+ACTI_ADICI (Actividad adicional): Seguimiento neurológico urgente y consideración para trombectomía mecánica.
+
+ICON (Estudio): @RADIO_TC_ICTUS@
+
+X00DIATXT (Texto del diagnóstico ACR): Isquemia aguda en territorio vertebrobasilar con oclusión parcial de arteria vertebral izquierda y estenosis significativa en arteria basilar proximal. No evidencia de hemorragia ni infarto establecido en TC basal. Mapas perfusionales compatibles con penumbra isquémica.
+
+EST_T_DES (Descripción): TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANGIOTC ARTERIAL INTRACRANEAL)
+
+ZVASOS_D (Der.): Oclusión parcial arteria vertebral izquierda (segmento V2), estenosis arteria basilar proximal.

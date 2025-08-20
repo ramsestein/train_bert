@@ -1,0 +1,83 @@
+{
+  "document_id": "informe_sintetico_20250804195045_04759",
+  "entities": [
+    {
+      "text": "hipodensidad",
+      "type": "PATOLOGIA",
+      "start": 468,
+      "end": 480
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 1663,
+      "end": 1677
+    },
+    {
+      "text": "arteria cerebral anterior izquierda",
+      "type": "ARTERIA",
+      "start": 538,
+      "end": 573
+    },
+    {
+      "text": "lóbulo frontal",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 619,
+      "end": 633
+    },
+    {
+      "text": "cuerpo calloso anterior",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 639,
+      "end": 662
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 564,
+      "end": 573
+    },
+    {
+      "text": "A2",
+      "type": "ARTERIA",
+      "start": 1343,
+      "end": 1345
+    },
+    {
+      "text": "segmento distal",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1347,
+      "end": 1362
+    },
+    {
+      "text": "sin infarto establecido visible en TC basal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1784,
+      "end": 1827
+    },
+    {
+      "text": "aumento significativo del tiempo de tránsito medio (MTT)",
+      "type": "MEDIDA",
+      "start": 921,
+      "end": 977
+    },
+    {
+      "text": "disminución de flujo cerebral sanguíneo (CBF)",
+      "type": "MEDIDA",
+      "start": 980,
+      "end": 1025
+    },
+    {
+      "text": "volumen cerebral sanguíneo (CBV) conservado",
+      "type": "MEDIDA",
+      "start": 1090,
+      "end": 1133
+    },
+    {
+      "text": "sin evidencia de hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 664,
+      "end": 704
+    }
+  ]
+}

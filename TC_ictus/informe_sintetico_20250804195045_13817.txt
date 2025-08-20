@@ -1,0 +1,28 @@
+UO_PACN (Unidad Organizativa Médica): RADIO
+
+PRUEB (Prueba solicitada): TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANG IOTC ARTERIAL INTRACRANEAL)
+
+CLIN (Resumen clínico): Paciente con cefalea súbita intensa y deterioro del nivel de conciencia, sin antecedentes traumáticos conocidos.
+
+OBSR (Protocolo): Protocolo Código Ictus con TC craneal basal para hemorragia, estudio de perfusión cerebral y angiografía por TC arterial extra e intracraneal.
+
+RESL (Resultados): TC CRANEAL BASAL:
+Se identifica colección hiperdensa que ocupa los ventrículos laterales, principalmente el ventrículo lateral izquierdo y el tercer ventrículo, con extensión al cuarto ventrículo. No se observan focos hemáticos en la sustancia cerebral parenquimatosa ni en espacios subaracnoideos o epidurales. La línea media se mantiene centrada sin desplazamiento significativo. No se evidencian signos de hipertensión intracraneal a este nivel. El sistema ventricular está dilatado secundario a la hemorragia intraventricular (hidrocefalia leve-moderada obstructiva).
+
+TC PERFUSIÓN:
+No se identifican áreas con alteraciones significativas en los mapas de tiempo hasta el pico (TTP), volumen cerebral sanguíneo (CBV) o flujo cerebral sanguíneo (CBF), descartando isquemia cerebral asociada.
+
+ANGIO-TC EXTRA E INTRACRANEAL:
+Arco aórtico y troncos supraaórticos sin estenosis ni ateromatosis significativa. Los principales vasos intracraneales (ACAs, ACMs, ACPs y vertebrobasilares) se encuentran permeables. No se observan malformaciones arteriovenosas ni aneurismas visibles. No hay evidencias de vasculitis ni disección.
+
+CONCL (Conclusiones): Hemorragia intraventricular primaria sin evidencia de hemorragia parenquimatosa o subaracnoidea asociada. No se identifican fuentes vasculares causales en el estudio angiográfico. Persistencia de hidrocefalia obstructiva leve a moderada sin signos de desplazamiento de línea media.
+
+ACTI_ADICI (Actividad adicional): Recomendación de evaluación neuroquirúrgica urgente para manejo de hidrocefalia. Monitorización neurológica estrecha y estudio complementario con RM con secuencias de susceptibilidad y angiografía por RM si la situación clínica lo permite.
+
+ICON (Estudio): @RADIO-ICTUS-01@
+
+X00DIATXT (Texto del diagnóstico ACR): Hemorragia intraventricular primaria. Hidrocefalia obstructiva leve a moderada. Sin evidencia angiográfica de malformación vascular ni aneurisma.
+
+EST_T_DES (Descripción): TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANGIOTC ARTERIAL INTRACRANEAL)
+
+ZVASOS_D (Der.): Informe realizado por Dr. [Nombre], Radiólogo especialista.

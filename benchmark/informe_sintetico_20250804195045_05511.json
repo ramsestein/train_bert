@@ -1,0 +1,227 @@
+{
+  "document_id": "informe_sintetico_20250804195045_05511",
+  "entities": [
+    {
+      "text": "hemiparesia derecha",
+      "type": "PATOLOGIA",
+      "start": 197,
+      "end": 216
+    },
+    {
+      "text": "afasia súbita",
+      "type": "PATOLOGIA",
+      "start": 219,
+      "end": 232
+    },
+    {
+      "text": "3 horas",
+      "type": "TEMPORALIDAD",
+      "start": 236,
+      "end": 243
+    },
+    {
+      "text": "hipodensidad extensa",
+      "type": "PATOLOGIA",
+      "start": 460,
+      "end": 480
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "ARTERIA",
+      "start": 510,
+      "end": 542
+    },
+    {
+      "text": "corteza frontal",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 557,
+      "end": 572
+    },
+    {
+      "text": "parietal",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 575,
+      "end": 583
+    },
+    {
+      "text": "núcleo lenticular",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 653,
+      "end": 670
+    },
+    {
+      "text": "infarto cerebral establecido",
+      "type": "PATOLOGIA",
+      "start": 698,
+      "end": 726
+    },
+    {
+      "text": "No se observan signos de hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 728,
+      "end": 776
+    },
+    {
+      "text": "efecto masa significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 780,
+      "end": 805
+    },
+    {
+      "text": "3 mm",
+      "type": "MEDIDA",
+      "start": 850,
+      "end": 854
+    },
+    {
+      "text": "ventrículo lateral izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 928,
+      "end": 956
+    },
+    {
+      "text": "prolongación marcada",
+      "type": "PATOLOGIA",
+      "start": 1018,
+      "end": 1038
+    },
+    {
+      "text": "Flujo cerebral (CBF)",
+      "type": "PATOLOGIA",
+      "start": 1063,
+      "end": 1083
+    },
+    {
+      "text": "volumen cerebral (CBV)",
+      "type": "PATOLOGIA",
+      "start": 1086,
+      "end": 1108
+    },
+    {
+      "text": "área de infarto",
+      "type": "PATOLOGIA",
+      "start": 1161,
+      "end": 1176
+    },
+    {
+      "text": "penumbra cortical circundante",
+      "type": "PATOLOGIA",
+      "start": 1197,
+      "end": 1226
+    },
+    {
+      "text": "descenso del flujo",
+      "type": "PATOLOGIA",
+      "start": 1231,
+      "end": 1249
+    },
+    {
+      "text": "preservación parcial del volumen sanguíneo",
+      "type": "PATOLOGIA",
+      "start": 1255,
+      "end": 1297
+    },
+    {
+      "text": "Oclusión completa",
+      "type": "PATOLOGIA",
+      "start": 1333,
+      "end": 1350
+    },
+    {
+      "text": "arteria carótida interna izquierda",
+      "type": "ARTERIA",
+      "start": 1357,
+      "end": 1391
+    },
+    {
+      "text": "segmento cervical proximal",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1395,
+      "end": 1421
+    },
+    {
+      "text": "arteria cerebral media ipsilateral",
+      "type": "ARTERIA",
+      "start": 1426,
+      "end": 1460
+    },
+    {
+      "text": "Resto del árbol arterial intracraneal y extracraneal sin estenosis significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1546,
+      "end": 1626
+    },
+    {
+      "text": "Arterias vertebrales y sistema vertebrobasilar permeables",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1628,
+      "end": 1685
+    },
+    {
+      "text": "Lesión isquémica extensa",
+      "type": "PATOLOGIA",
+      "start": 1712,
+      "end": 1736
+    },
+    {
+      "text": "territorio de la arteria cerebral media izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1740,
+      "end": 1789
+    },
+    {
+      "text": "compatible con infarto cerebral establecido",
+      "type": "PATOLOGIA",
+      "start": 1790,
+      "end": 1833
+    },
+    {
+      "text": "Oclusión completa de la arteria carótida interna izquierda en segmento proximal",
+      "type": "PATOLOGIA",
+      "start": 1835,
+      "end": 1914
+    },
+    {
+      "text": "penumbra perifocal viable",
+      "type": "PATOLOGIA",
+      "start": 1929,
+      "end": 1954
+    },
+    {
+      "text": "región cortical adyacente",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1958,
+      "end": 1983
+    },
+    {
+      "text": "No signos de hemorragia intracraneal ni efecto masa grave",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1985,
+      "end": 2042
+    },
+    {
+      "text": "leve desplazamiento de línea media",
+      "type": "PATOLOGIA",
+      "start": 2058,
+      "end": 2092
+    },
+    {
+      "text": "Infarto cerebral en territorio de ACM izquierda",
+      "type": "PATOLOGIA",
+      "start": 2193,
+      "end": 2240
+    },
+    {
+      "text": "oclusión proximal de arteria carótida interna izquierda",
+      "type": "PATOLOGIA",
+      "start": 2245,
+      "end": 2300
+    },
+    {
+      "text": "circulación colateral escasa",
+      "type": "PATOLOGIA",
+      "start": 2484,
+      "end": 2512
+    }
+  ]
+}

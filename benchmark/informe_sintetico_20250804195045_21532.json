@@ -1,0 +1,229 @@
+{
+  "document_id": "informe_sintetico_20250804195045_21532",
+  "entities": [
+    {
+      "text": "hemiparesia izquierda",
+      "type": "PATOLOGIA",
+      "start": 218,
+      "end": 239
+    },
+    {
+      "text": "afasia",
+      "type": "PATOLOGIA",
+      "start": 242,
+      "end": 248
+    },
+    {
+      "text": "disección arterial carotídea",
+      "type": "PATOLOGIA",
+      "start": 270,
+      "end": 298
+    },
+    {
+      "text": "evento isquémico cerebral",
+      "type": "PATOLOGIA",
+      "start": 303,
+      "end": 328
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 349,
+      "end": 365
+    },
+    {
+      "text": "angiografía TC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 367,
+      "end": 403
+    },
+    {
+      "text": "perfusión cerebral urgente",
+      "type": "TECNICA_IMAGEN",
+      "start": 406,
+      "end": 432
+    },
+    {
+      "text": "área hipodensa",
+      "type": "PATOLOGIA",
+      "start": 516,
+      "end": 530
+    },
+    {
+      "text": "región frontal y parietal derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 534,
+      "end": 567
+    },
+    {
+      "text": "infarto subagudo",
+      "type": "PATOLOGIA",
+      "start": 584,
+      "end": 600
+    },
+    {
+      "text": "arteria cerebral media (ACM) derecha",
+      "type": "ARTERIA",
+      "start": 618,
+      "end": 654
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 681,
+      "end": 704
+    },
+    {
+      "text": "lesiones óseas asociadas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 831,
+      "end": 855
+    },
+    {
+      "text": "Mapas de tiempo de tránsito (TTP)",
+      "type": "TECNICA_IMAGEN",
+      "start": 872,
+      "end": 905
+    },
+    {
+      "text": "territorio superficial derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 931,
+      "end": 961
+    },
+    {
+      "text": "flujo sanguíneo cerebral (CBF)",
+      "type": "PATOLOGIA",
+      "start": 991,
+      "end": 1021
+    },
+    {
+      "text": "volumen cerebral (CBV)",
+      "type": "PATOLOGIA",
+      "start": 1028,
+      "end": 1050
+    },
+    {
+      "text": "isquemia",
+      "type": "PATOLOGIA",
+      "start": 1081,
+      "end": 1089
+    },
+    {
+      "text": "área de infarto establecida",
+      "type": "PATOLOGIA",
+      "start": 1094,
+      "end": 1121
+    },
+    {
+      "text": "penumbra significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1140,
+      "end": 1162
+    },
+    {
+      "text": "AngioTC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 1165,
+      "end": 1194
+    },
+    {
+      "text": "irregularidad y estrechamiento focal",
+      "type": "PATOLOGIA",
+      "start": 1214,
+      "end": 1250
+    },
+    {
+      "text": "porción cervical y petrosa de la arteria carótida interna derecha",
+      "type": "ARTERIA",
+      "start": 1257,
+      "end": 1322
+    },
+    {
+      "text": "signo de doble luz",
+      "type": "PATOLOGIA",
+      "start": 1328,
+      "end": 1346
+    },
+    {
+      "text": "disección arterial",
+      "type": "PATOLOGIA",
+      "start": 270,
+      "end": 288
+    },
+    {
+      "text": "disminución del calibre de la arteria cerebral media derecha",
+      "type": "ARTERIA",
+      "start": 1391,
+      "end": 1451
+    },
+    {
+      "text": "segmento proximal M1",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1458,
+      "end": 1478
+    },
+    {
+      "text": "área distal de disminución del flujo",
+      "type": "PATOLOGIA",
+      "start": 1484,
+      "end": 1520
+    },
+    {
+      "text": "estenosis severa secundaria a disección",
+      "type": "PATOLOGIA",
+      "start": 1536,
+      "end": 1575
+    },
+    {
+      "text": "aneurismas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1595,
+      "end": 1605
+    },
+    {
+      "text": "trombosis arteriales adicionales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1609,
+      "end": 1641
+    },
+    {
+      "text": "Vasos intracraneales contralaterales permeables y normales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1643,
+      "end": 1701
+    },
+    {
+      "text": "Infarto cerebral en territorio superficial de arteria cerebral media derecha",
+      "type": "PATOLOGIA",
+      "start": 1729,
+      "end": 1805
+    },
+    {
+      "text": "disección arterial de arteria carótida interna derecha en segmento cervical-petroso",
+      "type": "PATOLOGIA",
+      "start": 1831,
+      "end": 1914
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 681,
+      "end": 704
+    },
+    {
+      "text": "territorio de arteria cerebral media derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 2308,
+      "end": 2352
+    },
+    {
+      "text": "TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANGIOTC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 2380,
+      "end": 2447
+    }
+  ],
+  "regenerado": true,
+  "fecha_regeneracion": "2025-08-06T03:42:59.148292"
+}

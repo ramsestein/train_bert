@@ -1,0 +1,59 @@
+{
+  "document_id": "informe_sintetico_20250804195045_24456",
+  "entities": [
+    {
+      "text": "isquemia",
+      "type": "PATOLOGIA",
+      "start": 245,
+      "end": 253
+    },
+    {
+      "text": "tronco del encéfalo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 735,
+      "end": 754
+    },
+    {
+      "text": "cerebelo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 801,
+      "end": 809
+    },
+    {
+      "text": "tallo cerebral",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 822,
+      "end": 836
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "TEMPORALIDAD",
+      "start": 880,
+      "end": 894
+    },
+    {
+      "text": "arteria basilar",
+      "type": "ARTERIA",
+      "start": 1292,
+      "end": 1307
+    },
+    {
+      "text": "PICA",
+      "type": "ARTERIA",
+      "start": 1397,
+      "end": 1401
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1881,
+      "end": 1904
+    },
+    {
+      "text": "No se evidencia hemorragia intraparenquimatosa, subaracnoidea ni hemorragia extraaxial.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 505,
+      "end": 592
+    }
+  ]
+}

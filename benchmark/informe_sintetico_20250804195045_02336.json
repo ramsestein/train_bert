@@ -1,0 +1,101 @@
+{
+  "document_id": "informe_sintetico_20250804195045_02336",
+  "entities": [
+    {
+      "text": "ictus",
+      "type": "PATOLOGIA",
+      "start": 266,
+      "end": 271
+    },
+    {
+      "text": "lesión isquémica temprana",
+      "type": "PATOLOGIA",
+      "start": 741,
+      "end": 766
+    },
+    {
+      "text": "isquemia",
+      "type": "PATOLOGIA",
+      "start": 1143,
+      "end": 1151
+    },
+    {
+      "text": "arteria basilar",
+      "type": "ARTERIA",
+      "start": 1243,
+      "end": 1258
+    },
+    {
+      "text": "tronco encefálico",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1015,
+      "end": 1032
+    },
+    {
+      "text": "segmento medio",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1265,
+      "end": 1279
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 1372,
+      "end": 1379
+    },
+    {
+      "text": "TTP",
+      "type": "MEDIDA",
+      "start": 943,
+      "end": 946
+    },
+    {
+      "text": "CBF",
+      "type": "MEDIDA",
+      "start": 989,
+      "end": 992
+    },
+    {
+      "text": "CBV",
+      "type": "MEDIDA",
+      "start": 1107,
+      "end": 1110
+    },
+    {
+      "text": "agudo",
+      "type": "TEMPORALIDAD",
+      "start": 1578,
+      "end": 1583
+    },
+    {
+      "text": "Oclusión completa de la arteria basilar en su segmento medio",
+      "type": "PATOLOGIA",
+      "start": 1219,
+      "end": 1279
+    },
+    {
+      "text": "No se observan signos de hemorragia intracraneal ni colecciones",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 501,
+      "end": 564
+    },
+    {
+      "text": "angiografía TC arterial extracraneal e intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 410,
+      "end": 461
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 346,
+      "end": 362
+    },
+    {
+      "text": "TC PERFUSIÓN",
+      "type": "TECNICA_IMAGEN",
+      "start": 868,
+      "end": 880
+    }
+  ]
+}

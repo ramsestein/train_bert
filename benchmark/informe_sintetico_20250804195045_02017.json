@@ -1,0 +1,95 @@
+{
+  "document_id": "informe_sintetico_20250804195045_02017",
+  "entities": [
+    {
+      "text": "área hipodensa",
+      "type": "PATOLOGIA",
+      "start": 396,
+      "end": 410
+    },
+    {
+      "text": "arteria cerebral media (ACM) izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 431,
+      "end": 469
+    },
+    {
+      "text": "ACM",
+      "type": "ARTERIA",
+      "start": 455,
+      "end": 458
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 460,
+      "end": 469
+    },
+    {
+      "text": "25-30 cm³",
+      "type": "MEDIDA",
+      "start": 1028,
+      "end": 1037
+    },
+    {
+      "text": "moderado",
+      "type": "PUNTUACION_CLINICA",
+      "start": 1079,
+      "end": 1087
+    },
+    {
+      "text": "ASPECTS 6",
+      "type": "PUNTUACION_CLINICA",
+      "start": 1089,
+      "end": 1098
+    },
+    {
+      "text": "Oclusión aguda",
+      "type": "TEMPORALIDAD",
+      "start": 1448,
+      "end": 1462
+    },
+    {
+      "text": "Oclusión completa",
+      "type": "PATOLOGIA",
+      "start": 1134,
+      "end": 1151
+    },
+    {
+      "text": "segmento proximal (M1) de la ACM izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1156,
+      "end": 1198
+    },
+    {
+      "text": "sin evidencias de estenosis ni malformaciones vasculares",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1246,
+      "end": 1302
+    },
+    {
+      "text": "sin alteraciones relevantes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1395,
+      "end": 1422
+    },
+    {
+      "text": "No signos hemorrágicos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1711,
+      "end": 1733
+    },
+    {
+      "text": "trombo intraluminal",
+      "type": "PATOLOGIA",
+      "start": 763,
+      "end": 782
+    },
+    {
+      "text": "isquemia cerebral asociada",
+      "type": "PATOLOGIA",
+      "start": 2007,
+      "end": 2033
+    }
+  ]
+}

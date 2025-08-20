@@ -1,0 +1,143 @@
+{
+  "document_id": "informe_sintetico_20250804195045_12468",
+  "entities": [
+    {
+      "text": "accidente cerebrovascular isquémico",
+      "type": "PATOLOGIA",
+      "start": 234,
+      "end": 269
+    },
+    {
+      "text": "isquemia de reciente evolución",
+      "type": "PATOLOGIA",
+      "start": 756,
+      "end": 786
+    },
+    {
+      "text": "microhemorragias petequiales",
+      "type": "PATOLOGIA",
+      "start": 890,
+      "end": 918
+    },
+    {
+      "text": "hematoma parenquimatoso",
+      "type": "PATOLOGIA",
+      "start": 974,
+      "end": 997
+    },
+    {
+      "text": "hemorragia subaracnoidea",
+      "type": "PATOLOGIA",
+      "start": 1001,
+      "end": 1025
+    },
+    {
+      "text": "edema cerebral",
+      "type": "PATOLOGIA",
+      "start": 1034,
+      "end": 1048
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 654,
+      "end": 686
+    },
+    {
+      "text": "parietal superior",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 721,
+      "end": 738
+    },
+    {
+      "text": "núcleo infartado",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1433,
+      "end": 1449
+    },
+    {
+      "text": "ACM",
+      "type": "ARTERIA",
+      "start": 287,
+      "end": 290
+    },
+    {
+      "text": "ACAs",
+      "type": "ARTERIA",
+      "start": 1642,
+      "end": 1646
+    },
+    {
+      "text": "ACMs",
+      "type": "ARTERIA",
+      "start": 1648,
+      "end": 1652
+    },
+    {
+      "text": "ACPs",
+      "type": "ARTERIA",
+      "start": 1654,
+      "end": 1658
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 291,
+      "end": 300
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 291,
+      "end": 300
+    },
+    {
+      "text": "sin desplazamiento significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1108,
+      "end": 1140
+    },
+    {
+      "text": "sin signos de oclusión",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2054,
+      "end": 2076
+    },
+    {
+      "text": "HI1",
+      "type": "PUNTUACION_CLINICA",
+      "start": 947,
+      "end": 950
+    },
+    {
+      "text": "HI1",
+      "type": "PUNTUACION_CLINICA",
+      "start": 947,
+      "end": 950
+    },
+    {
+      "text": "TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANG IOTC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 72,
+      "end": 140
+    },
+    {
+      "text": "TC CRANEAL BASAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 579,
+      "end": 595
+    },
+    {
+      "text": "TC PERFUSIÓN",
+      "type": "TECNICA_IMAGEN",
+      "start": 1249,
+      "end": 1261
+    },
+    {
+      "text": "ANGIO-TC EXTRA E INTRACRANEAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 1521,
+      "end": 1550
+    }
+  ]
+}

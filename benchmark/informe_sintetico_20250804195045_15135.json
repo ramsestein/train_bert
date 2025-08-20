@@ -1,0 +1,83 @@
+{
+  "document_id": "informe_sintetico_20250804195045_15135",
+  "entities": [
+    {
+      "text": "edema vasogénico",
+      "type": "PATOLOGIA",
+      "start": 683,
+      "end": 699
+    },
+    {
+      "text": "bilateral",
+      "type": "LATERALIDAD",
+      "start": 552,
+      "end": 561
+    },
+    {
+      "text": "parieto-occipitales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 620,
+      "end": 639
+    },
+    {
+      "text": "occipitales posteriores",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 642,
+      "end": 665
+    },
+    {
+      "text": "No se observan signos de hemorragia intra ni extraaxial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 701,
+      "end": 756
+    },
+    {
+      "text": "sin reducción significativa del flujo cerebral (CBF)",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1091,
+      "end": 1143
+    },
+    {
+      "text": "sin evidencia de estenosis u oclusión",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1357,
+      "end": 1394
+    },
+    {
+      "text": "sin alteraciones significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1782,
+      "end": 1813
+    },
+    {
+      "text": "leucoencefalopatía posterior reversible (PRES)",
+      "type": "PATOLOGIA",
+      "start": 269,
+      "end": 315
+    },
+    {
+      "text": "infarto cerebral agudo",
+      "type": "PATOLOGIA",
+      "start": 1726,
+      "end": 1748
+    },
+    {
+      "text": "ACAs, ACMs, ACPs",
+      "type": "ARTERIA",
+      "start": 1339,
+      "end": 1355
+    },
+    {
+      "text": "TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANG IOTC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 72,
+      "end": 140
+    },
+    {
+      "text": "TC CÓDIGO ICTUS (BASAL + PERFUSIÓN CEREBRAL + ANGIOTC TSA E INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 336,
+      "end": 409
+    }
+  ]
+}

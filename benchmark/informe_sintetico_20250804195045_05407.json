@@ -1,0 +1,107 @@
+{
+  "document_id": "informe_sintetico_20250804195045_05407",
+  "entities": [
+    {
+      "text": "infarto cerebral reciente",
+      "type": "PATOLOGIA",
+      "start": 194,
+      "end": 219
+    },
+    {
+      "text": "deterioro neurológico agudo",
+      "type": "PATOLOGIA",
+      "start": 230,
+      "end": 257
+    },
+    {
+      "text": "transformación hemorrágica tipo PH2",
+      "type": "PATOLOGIA",
+      "start": 620,
+      "end": 655
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 574,
+      "end": 604
+    },
+    {
+      "text": "más del 30%",
+      "type": "MEDIDA",
+      "start": 666,
+      "end": 677
+    },
+    {
+      "text": "5 mm",
+      "type": "MEDIDA",
+      "start": 852,
+      "end": 856
+    },
+    {
+      "text": "hemisferio derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1312,
+      "end": 1330
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "ARTERIA",
+      "start": 574,
+      "end": 604
+    },
+    {
+      "text": "Oclusión completa en segmento proximal de arteria cerebral media derecha",
+      "type": "PATOLOGIA",
+      "start": 1471,
+      "end": 1543
+    },
+    {
+      "text": "sin evidencias de estenosis ni embolias adicionales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1661,
+      "end": 1712
+    },
+    {
+      "text": "transformación hemorrágica tipo PH2",
+      "type": "PATOLOGIA",
+      "start": 620,
+      "end": 655
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "ARTERIA",
+      "start": 574,
+      "end": 604
+    },
+    {
+      "text": "Oclusión proximal de la arteria cerebral media derecha",
+      "type": "PATOLOGIA",
+      "start": 1924,
+      "end": 1978
+    },
+    {
+      "text": "TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANG IOTC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 72,
+      "end": 140
+    },
+    {
+      "text": "TC craneal basal sin contraste",
+      "type": "TECNICA_IMAGEN",
+      "start": 345,
+      "end": 375
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 388,
+      "end": 409
+    },
+    {
+      "text": "AngioTC intracraneal y extracraneal con contraste IV",
+      "type": "TECNICA_IMAGEN",
+      "start": 412,
+      "end": 464
+    }
+  ]
+}

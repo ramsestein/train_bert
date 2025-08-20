@@ -1,0 +1,83 @@
+{
+  "document_id": "informe_sintetico_20250804195045_17584",
+  "entities": [
+    {
+      "text": "infarto cerebral isquémico agudo",
+      "type": "PATOLOGIA",
+      "start": 179,
+      "end": 211
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 232,
+      "end": 262
+    },
+    {
+      "text": "arteria cerebral media",
+      "type": "ARTERIA",
+      "start": 232,
+      "end": 254
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 255,
+      "end": 262
+    },
+    {
+      "text": "subagudo",
+      "type": "TEMPORALIDAD",
+      "start": 583,
+      "end": 591
+    },
+    {
+      "text": "PH1",
+      "type": "PUNTUACION_CLINICA",
+      "start": 764,
+      "end": 767
+    },
+    {
+      "text": "3 mm",
+      "type": "MEDIDA",
+      "start": 930,
+      "end": 934
+    },
+    {
+      "text": "90%",
+      "type": "MEDIDA",
+      "start": 1273,
+      "end": 1276
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 232,
+      "end": 262
+    },
+    {
+      "text": "ausencia de flujo distal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1335,
+      "end": 1359
+    },
+    {
+      "text": "No se observan signos de disección ni trombosis adicional",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1534,
+      "end": 1591
+    },
+    {
+      "text": "No signos de hemorragia masiva ni efecto de masa significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1906,
+      "end": 1968
+    },
+    {
+      "text": "TC Basal + TC Perfusión + AngioTC Arterial Intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 339,
+      "end": 394
+    }
+  ]
+}

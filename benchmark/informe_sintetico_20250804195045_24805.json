@@ -1,0 +1,83 @@
+{
+  "document_id": "informe_sintetico_20250804195045_24805",
+  "entities": [
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 327,
+      "end": 341
+    },
+    {
+      "text": "arteria cerebral posterior izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 359,
+      "end": 395
+    },
+    {
+      "text": "2 horas",
+      "type": "TEMPORALIDAD",
+      "start": 272,
+      "end": 279
+    },
+    {
+      "text": "arteria cerebral posterior izquierda",
+      "type": "ARTERIA",
+      "start": 359,
+      "end": 395
+    },
+    {
+      "text": "MTT",
+      "type": "MEDIDA",
+      "start": 1003,
+      "end": 1006
+    },
+    {
+      "text": "TTP",
+      "type": "MEDIDA",
+      "start": 1043,
+      "end": 1046
+    },
+    {
+      "text": "flujo cerebral (CBF)",
+      "type": "MEDIDA",
+      "start": 1133,
+      "end": 1153
+    },
+    {
+      "text": "volumen cerebral (CBV)",
+      "type": "MEDIDA",
+      "start": 1156,
+      "end": 1178
+    },
+    {
+      "text": "oclusión proximal de la arteria cerebral posterior izquierda (segmento P1)",
+      "type": "PATOLOGIA",
+      "start": 1367,
+      "end": 1441
+    },
+    {
+      "text": "Sistema vertebrobasilar",
+      "type": "ARTERIA",
+      "start": 1537,
+      "end": 1560
+    },
+    {
+      "text": "No se identifican signos de hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 639,
+      "end": 690
+    },
+    {
+      "text": "No se evidencian hemorragias ni infartos establecidos en la TC basal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1862,
+      "end": 1930
+    },
+    {
+      "text": "sin anomalías significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1324,
+      "end": 1352
+    }
+  ]
+}

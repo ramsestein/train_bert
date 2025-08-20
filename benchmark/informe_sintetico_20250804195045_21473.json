@@ -1,0 +1,71 @@
+{
+  "document_id": "informe_sintetico_20250804195045_21473",
+  "entities": [
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 241,
+      "end": 255
+    },
+    {
+      "text": "arteria cerebral posterior izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 273,
+      "end": 309
+    },
+    {
+      "text": "ASPECTS",
+      "type": "PUNTUACION_CLINICA",
+      "start": 750,
+      "end": 757
+    },
+    {
+      "text": "8/10",
+      "type": "MEDIDA",
+      "start": 781,
+      "end": 785
+    },
+    {
+      "text": "arteria cerebral posterior izquierda",
+      "type": "ARTERIA",
+      "start": 273,
+      "end": 309
+    },
+    {
+      "text": "Oclusión subtotal en segmento P2",
+      "type": "PATOLOGIA",
+      "start": 1279,
+      "end": 1311
+    },
+    {
+      "text": "ACP izquierda",
+      "type": "ARTERIA",
+      "start": 1732,
+      "end": 1745
+    },
+    {
+      "text": "penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1225,
+      "end": 1243
+    },
+    {
+      "text": "TC craneal basal sin contraste",
+      "type": "TECNICA_IMAGEN",
+      "start": 330,
+      "end": 360
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 373,
+      "end": 394
+    },
+    {
+      "text": "Angio-TC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 397,
+      "end": 427
+    }
+  ]
+}

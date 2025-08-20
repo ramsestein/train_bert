@@ -1,0 +1,161 @@
+{
+  "document_id": "informe_sintetico_20250804195045_03927",
+  "entities": [
+    {
+      "text": "hemiparesia derecha",
+      "type": "PATOLOGIA",
+      "start": 196,
+      "end": 215
+    },
+    {
+      "text": "ictus isquémico agudo",
+      "type": "PATOLOGIA",
+      "start": 246,
+      "end": 267
+    },
+    {
+      "text": "hipodensidad",
+      "type": "PATOLOGIA",
+      "start": 413,
+      "end": 425
+    },
+    {
+      "text": "arteria cerebral media (ACM) izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 496,
+      "end": 534
+    },
+    {
+      "text": "ASPECTS",
+      "type": "PUNTUACION_CLINICA",
+      "start": 540,
+      "end": 547
+    },
+    {
+      "text": "6",
+      "type": "MEDIDA",
+      "start": 560,
+      "end": 561
+    },
+    {
+      "text": "signo de arteria hiperdensa",
+      "type": "PATOLOGIA",
+      "start": 576,
+      "end": 603
+    },
+    {
+      "text": "hemorragia intra o extraaxial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 669,
+      "end": 698
+    },
+    {
+      "text": "tiempo de tránsito medio (TTM)",
+      "type": "MEDIDA",
+      "start": 854,
+      "end": 884
+    },
+    {
+      "text": "tiempo hasta el pico (TTP)",
+      "type": "MEDIDA",
+      "start": 887,
+      "end": 913
+    },
+    {
+      "text": "territorio izquierdo de ACM",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 929,
+      "end": 956
+    },
+    {
+      "text": "flujo cerebral (CBF)",
+      "type": "MEDIDA",
+      "start": 977,
+      "end": 997
+    },
+    {
+      "text": "volumen cerebral (CBV)",
+      "type": "MEDIDA",
+      "start": 1000,
+      "end": 1022
+    },
+    {
+      "text": "área infartada",
+      "type": "PATOLOGIA",
+      "start": 1057,
+      "end": 1071
+    },
+    {
+      "text": "penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1175,
+      "end": 1193
+    },
+    {
+      "text": "oclusión completa del segmento M1 proximal de la ACM izquierda",
+      "type": "PATOLOGIA",
+      "start": 1232,
+      "end": 1294
+    },
+    {
+      "text": "estenosis significativas en los vasos visualizados",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1414,
+      "end": 1464
+    },
+    {
+      "text": "isquemia aguda en territorio de arteria cerebral media izquierda",
+      "type": "PATOLOGIA",
+      "start": 1516,
+      "end": 1580
+    },
+    {
+      "text": "oclusión proximal del segmento M1",
+      "type": "PATOLOGIA",
+      "start": 1586,
+      "end": 1619
+    },
+    {
+      "text": "ASPECTS",
+      "type": "PUNTUACION_CLINICA",
+      "start": 540,
+      "end": 547
+    },
+    {
+      "text": "6",
+      "type": "MEDIDA",
+      "start": 560,
+      "end": 561
+    },
+    {
+      "text": "penumbra isquémica significativa",
+      "type": "PATOLOGIA",
+      "start": 1645,
+      "end": 1677
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1733,
+      "end": 1756
+    },
+    {
+      "text": "TC CRANEAL BASAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 288,
+      "end": 304
+    },
+    {
+      "text": "TC PERFUSIÓN CEREBRAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 307,
+      "end": 328
+    },
+    {
+      "text": "ANGIO-TC INTRACRANEAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 331,
+      "end": 352
+    }
+  ]
+}

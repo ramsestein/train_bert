@@ -1,0 +1,89 @@
+{
+  "document_id": "informe_sintetico_20250804195045_03352",
+  "entities": [
+    {
+      "text": "hematoma lobar",
+      "type": "PATOLOGIA",
+      "start": 516,
+      "end": 530
+    },
+    {
+      "text": "lóbulo frontal izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 548,
+      "end": 572
+    },
+    {
+      "text": "35 x 25 x 20 mm",
+      "type": "MEDIDA",
+      "start": 602,
+      "end": 617
+    },
+    {
+      "text": "4 mm",
+      "type": "MEDIDA",
+      "start": 739,
+      "end": 743
+    },
+    {
+      "text": "isquémica",
+      "type": "PATOLOGIA",
+      "start": 784,
+      "end": 793
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 297,
+      "end": 313
+    },
+    {
+      "text": "TC PERFUSIÓN",
+      "type": "TECNICA_IMAGEN",
+      "start": 1103,
+      "end": 1115
+    },
+    {
+      "text": "arteria carótida interna izquierda",
+      "type": "ARTERIA",
+      "start": 1674,
+      "end": 1708
+    },
+    {
+      "text": "izquierdo",
+      "type": "LATERALIDAD",
+      "start": 563,
+      "end": 572
+    },
+    {
+      "text": "sin signos de sangrado intraventricular ni hemorragia subaracnoidea",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 859,
+      "end": 926
+    },
+    {
+      "text": "No hay evidencia de área isquémica extensa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1340,
+      "end": 1382
+    },
+    {
+      "text": "No se identifican aneurismas ni malformaciones vasculares evidentes ni signos de vasoespasmo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1420,
+      "end": 1512
+    },
+    {
+      "text": "sin estenosis ni oclusiones",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1546,
+      "end": 1573
+    },
+    {
+      "text": "sin evidencia angiográfica de lesión vascular causante",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2159,
+      "end": 2213
+    }
+  ]
+}

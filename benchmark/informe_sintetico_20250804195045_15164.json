@@ -1,0 +1,89 @@
+{
+  "document_id": "informe_sintetico_20250804195045_15164",
+  "entities": [
+    {
+      "text": "infarto cerebral agudo",
+      "type": "PATOLOGIA",
+      "start": 609,
+      "end": 631
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 523,
+      "end": 555
+    },
+    {
+      "text": "ACM",
+      "type": "ARTERIA",
+      "start": 1102,
+      "end": 1105
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 546,
+      "end": 555
+    },
+    {
+      "text": "ASPECTS 7",
+      "type": "PUNTUACION_CLINICA",
+      "start": 807,
+      "end": 816
+    },
+    {
+      "text": "3 horas",
+      "type": "TEMPORALIDAD",
+      "start": 233,
+      "end": 240
+    },
+    {
+      "text": "oclusión carotídea",
+      "type": "PATOLOGIA",
+      "start": 287,
+      "end": 305
+    },
+    {
+      "text": "oclusión total de la arteria carótida interna izquierda",
+      "type": "PATOLOGIA",
+      "start": 1870,
+      "end": 1925
+    },
+    {
+      "text": "arteria carótida interna izquierda",
+      "type": "ARTERIA",
+      "start": 1341,
+      "end": 1375
+    },
+    {
+      "text": "segmento proximal M1 de la ACM izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1928,
+      "end": 1968
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2057,
+      "end": 2080
+    },
+    {
+      "text": "hemorragia intra ni extraaxial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 728,
+      "end": 758
+    },
+    {
+      "text": "no opacificado",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1522,
+      "end": 1536
+    },
+    {
+      "text": "sin estenosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1711,
+      "end": 1724
+    }
+  ]
+}

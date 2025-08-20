@@ -1,0 +1,235 @@
+{
+  "document_id": "0000000010000000059015725_cleaned",
+  "entities": [
+    {
+      "text": "Infart cerebral",
+      "type": "PATOLOGIA",
+      "start": 166,
+      "end": 181
+    },
+    {
+      "text": "oclusió",
+      "type": "PATOLOGIA",
+      "start": 193,
+      "end": 200
+    },
+    {
+      "text": "estenosi",
+      "type": "PATOLOGIA",
+      "start": 203,
+      "end": 211
+    },
+    {
+      "text": "artèria cerebral",
+      "type": "PATOLOGIA",
+      "start": 231,
+      "end": 247
+    },
+    {
+      "text": "atrofia cortico-subcortical",
+      "type": "PATOLOGIA",
+      "start": 493,
+      "end": 520
+    },
+    {
+      "text": "patología de pequeño vaso",
+      "type": "PATOLOGIA",
+      "start": 643,
+      "end": 668
+    },
+    {
+      "text": "missmatch significativo",
+      "type": "PATOLOGIA",
+      "start": 976,
+      "end": 999
+    },
+    {
+      "text": "ateromatosis",
+      "type": "PATOLOGIA",
+      "start": 1075,
+      "end": 1087
+    },
+    {
+      "text": "estenosis entre el 50-70%",
+      "type": "PATOLOGIA",
+      "start": 1236,
+      "end": 1261
+    },
+    {
+      "text": "hallazgos de interés",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1710,
+      "end": 1730
+    },
+    {
+      "text": "lesiones isquémicas agudas/suabagudas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1773,
+      "end": 1810
+    },
+    {
+      "text": "signos de sangrado intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1833,
+      "end": 1864
+    },
+    {
+      "text": "ACM izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 868,
+      "end": 881
+    },
+    {
+      "text": "territorio superficial de ACM izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 842,
+      "end": 881
+    },
+    {
+      "text": "segmento distal M1 de ACM izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1332,
+      "end": 1367
+    },
+    {
+      "text": "ACIs distal extracraneal",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1274,
+      "end": 1298
+    },
+    {
+      "text": "ACPs",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1469,
+      "end": 1473
+    },
+    {
+      "text": "ACAs",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1456,
+      "end": 1460
+    },
+    {
+      "text": "ACMs",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1462,
+      "end": 1466
+    },
+    {
+      "text": "P1 derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1557,
+      "end": 1567
+    },
+    {
+      "text": "ACoP izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1573,
+      "end": 1587
+    },
+    {
+      "text": "hemitiroides izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1623,
+      "end": 1645
+    },
+    {
+      "text": "arterias cerebrales intracraneales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1409,
+      "end": 1443
+    },
+    {
+      "text": "troncos supraaórticos",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1113,
+      "end": 1134
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 872,
+      "end": 881
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 872,
+      "end": 881
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 872,
+      "end": 881
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 1531,
+      "end": 1538
+    },
+    {
+      "text": "10/10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 453,
+      "end": 458
+    },
+    {
+      "text": "50-70%",
+      "type": "MEDIDA",
+      "start": 1255,
+      "end": 1261
+    },
+    {
+      "text": "Tmax",
+      "type": "TEMPORALIDAD",
+      "start": 823,
+      "end": 827
+    },
+    {
+      "text": "TTD",
+      "type": "TEMPORALIDAD",
+      "start": 829,
+      "end": 832
+    },
+    {
+      "text": "TTM",
+      "type": "TEMPORALIDAD",
+      "start": 834,
+      "end": 837
+    },
+    {
+      "text": "TC Basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 307,
+      "end": 315
+    },
+    {
+      "text": "TC Perfusión",
+      "type": "TECNICA_IMAGEN",
+      "start": 318,
+      "end": 330
+    },
+    {
+      "text": "AngioTC extra- intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 333,
+      "end": 360
+    },
+    {
+      "text": "TC CRANEAL BASAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 382,
+      "end": 398
+    },
+    {
+      "text": "TC CODIGO ICTUS",
+      "type": "TECNICA_IMAGEN",
+      "start": 72,
+      "end": 87
+    }
+  ],
+  "regenerado": true,
+  "fecha_regeneracion": "2025-08-06T13:24:33.484446"
+}

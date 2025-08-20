@@ -1,0 +1,155 @@
+{
+  "document_id": "informe_sintetico_20250804195045_22668",
+  "entities": [
+    {
+      "text": "hemiparesia derecha",
+      "type": "PATOLOGIA",
+      "start": 196,
+      "end": 215
+    },
+    {
+      "text": "afasia",
+      "type": "PATOLOGIA",
+      "start": 218,
+      "end": 224
+    },
+    {
+      "text": "accidente cerebrovascular isquémico",
+      "type": "PATOLOGIA",
+      "start": 238,
+      "end": 273
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "ARTERIA",
+      "start": 291,
+      "end": 323
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 344,
+      "end": 360
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 376,
+      "end": 397
+    },
+    {
+      "text": "angio-TC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 400,
+      "end": 430
+    },
+    {
+      "text": "No se evidencian hemorragias intracraneales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 520,
+      "end": 563
+    },
+    {
+      "text": "No se identifican lesiones crónicas de relevancia adicionales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 957,
+      "end": 1018
+    },
+    {
+      "text": "Línea media centrada, sin efecto de masa significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1020,
+      "end": 1074
+    },
+    {
+      "text": "Cisternas basales conservadas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1076,
+      "end": 1105
+    },
+    {
+      "text": "disminución de flujo sanguíneo cerebral (CBF)",
+      "type": "PATOLOGIA",
+      "start": 1164,
+      "end": 1209
+    },
+    {
+      "text": "volumen cerebral (CBV)",
+      "type": "PATOLOGIA",
+      "start": 1212,
+      "end": 1234
+    },
+    {
+      "text": "aumento claro de los tiempos de tránsito (MTT y TTP)",
+      "type": "PATOLOGIA",
+      "start": 1240,
+      "end": 1292
+    },
+    {
+      "text": "área de penumbra isquémica activa",
+      "type": "PATOLOGIA",
+      "start": 1308,
+      "end": 1341
+    },
+    {
+      "text": "mismatch volumétrico evidente",
+      "type": "PATOLOGIA",
+      "start": 1346,
+      "end": 1375
+    },
+    {
+      "text": "Oclusión completa del segmento proximal M1 de la arteria cerebral media izquierda",
+      "type": "PATOLOGIA",
+      "start": 1388,
+      "end": 1469
+    },
+    {
+      "text": "Resto del polígono de Willis con buena permeabilidad",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1471,
+      "end": 1523
+    },
+    {
+      "text": "No se aprecian estenosis significativas en arterias carotídeas internas ni vertebrales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1525,
+      "end": 1611
+    },
+    {
+      "text": "Sistema vertebrobasilar sin alteraciones",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1613,
+      "end": 1653
+    },
+    {
+      "text": "Signos de isquemia aguda en territorio de la arteria cerebral media izquierda",
+      "type": "PATOLOGIA",
+      "start": 1679,
+      "end": 1756
+    },
+    {
+      "text": "ASPECTS 6",
+      "type": "PUNTUACION_CLINICA",
+      "start": 1761,
+      "end": 1770
+    },
+    {
+      "text": "Oclusión proximal del segmento M1 de la ACM izquierda",
+      "type": "PATOLOGIA",
+      "start": 1772,
+      "end": 1825
+    },
+    {
+      "text": "Área de penumbra isquémica identificada en perfusión con importante mismatch",
+      "type": "PATOLOGIA",
+      "start": 1850,
+      "end": 1926
+    },
+    {
+      "text": "No se observan hemorragias ni signos de complicaciones hemorrágicas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1977,
+      "end": 2044
+    }
+  ]
+}

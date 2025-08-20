@@ -1,0 +1,89 @@
+{
+  "document_id": "informe_sintetico_20250804195045_21067",
+  "entities": [
+    {
+      "text": "infarto cerebral isquémico",
+      "type": "PATOLOGIA",
+      "start": 194,
+      "end": 220
+    },
+    {
+      "text": "territorio ACM izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 224,
+      "end": 248
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 329,
+      "end": 345
+    },
+    {
+      "text": "área hiperdensa heterogénea",
+      "type": "PATOLOGIA",
+      "start": 514,
+      "end": 541
+    },
+    {
+      "text": "región frontoparietal izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 548,
+      "end": 579
+    },
+    {
+      "text": "transformación hemorrágica tipo HI2",
+      "type": "PATOLOGIA",
+      "start": 599,
+      "end": 634
+    },
+    {
+      "text": "hemorragia parenquimatosa",
+      "type": "PATOLOGIA",
+      "start": 640,
+      "end": 665
+    },
+    {
+      "text": "25 x 20 x 30 mm",
+      "type": "MEDIDA",
+      "start": 687,
+      "end": 702
+    },
+    {
+      "text": "edema perilesional moderado",
+      "type": "PATOLOGIA",
+      "start": 730,
+      "end": 757
+    },
+    {
+      "text": "desviación < 3 mm",
+      "type": "MEDIDA",
+      "start": 835,
+      "end": 852
+    },
+    {
+      "text": "sin signos de hidrocefalia aguda",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1050,
+      "end": 1082
+    },
+    {
+      "text": "sin signos de oclusión o estenosis crítica",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1450,
+      "end": 1492
+    },
+    {
+      "text": "sin hallazgos de compromiso vascular agudo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1990,
+      "end": 2032
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "ARTERIA",
+      "start": 1746,
+      "end": 1778
+    }
+  ]
+}

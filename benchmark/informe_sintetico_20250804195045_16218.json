@@ -1,0 +1,259 @@
+{
+  "document_id": "informe_sintetico_20250804195045_16218",
+  "entities": [
+    {
+      "text": "hemorragia cerebral",
+      "type": "PATOLOGIA",
+      "start": 233,
+      "end": 252
+    },
+    {
+      "text": "sangrado intraventricular extenso",
+      "type": "PATOLOGIA",
+      "start": 443,
+      "end": 476
+    },
+    {
+      "text": "ventrículos laterales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 492,
+      "end": 513
+    },
+    {
+      "text": "ventrículo lateral izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 558,
+      "end": 586
+    },
+    {
+      "text": "tercer ventrículo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 591,
+      "end": 608
+    },
+    {
+      "text": "cuarto ventrículo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 614,
+      "end": 631
+    },
+    {
+      "text": "hematoma intraparenquimatoso",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 650,
+      "end": 678
+    },
+    {
+      "text": "lesiones focales parenquimatosas hemorrágicas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 707,
+      "end": 752
+    },
+    {
+      "text": "infartos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 756,
+      "end": 764
+    },
+    {
+      "text": "sangrado subaracnoideo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 788,
+      "end": 810
+    },
+    {
+      "text": "hemorragias extraaxiales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 814,
+      "end": 838
+    },
+    {
+      "text": "ventrículo lateral izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 558,
+      "end": 586
+    },
+    {
+      "text": "hidrocefalia obstructiva incipiente",
+      "type": "PATOLOGIA",
+      "start": 993,
+      "end": 1028
+    },
+    {
+      "text": "signos de herniación cerebral",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1045,
+      "end": 1074
+    },
+    {
+      "text": "alteraciones significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1186,
+      "end": 1213
+    },
+    {
+      "text": "mapas de flujo cerebral",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1221,
+      "end": 1244
+    },
+    {
+      "text": "volumen cerebral",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1246,
+      "end": 1262
+    },
+    {
+      "text": "tiempo de tránsito",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1266,
+      "end": 1284
+    },
+    {
+      "text": "periferia de la lesión",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1291,
+      "end": 1313
+    },
+    {
+      "text": "límites normales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1340,
+      "end": 1356
+    },
+    {
+      "text": "ACAs",
+      "type": "ARTERIA",
+      "start": 1438,
+      "end": 1442
+    },
+    {
+      "text": "ACMs",
+      "type": "ARTERIA",
+      "start": 1444,
+      "end": 1448
+    },
+    {
+      "text": "ACPs",
+      "type": "ARTERIA",
+      "start": 1451,
+      "end": 1455
+    },
+    {
+      "text": "estenosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1471,
+      "end": 1480
+    },
+    {
+      "text": "oclusión",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1484,
+      "end": 1492
+    },
+    {
+      "text": "malformaciones arteriovenosas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1512,
+      "end": 1541
+    },
+    {
+      "text": "aneurismas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1545,
+      "end": 1555
+    },
+    {
+      "text": "hemorragia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 233,
+      "end": 243
+    },
+    {
+      "text": "ateromatosis significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1604,
+      "end": 1630
+    },
+    {
+      "text": "estenosis relevantes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1657,
+      "end": 1677
+    },
+    {
+      "text": "hidrocefalia obstructiva incipiente",
+      "type": "PATOLOGIA",
+      "start": 993,
+      "end": 1028
+    },
+    {
+      "text": "hematomas parenquimatosos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1801,
+      "end": 1826
+    },
+    {
+      "text": "evidencia angiográfica de aneurismas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1830,
+      "end": 1866
+    },
+    {
+      "text": "malformaciones",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1512,
+      "end": 1526
+    },
+    {
+      "text": "seguimiento clínico y neurológico",
+      "type": "TEMPORALIDAD",
+      "start": 1899,
+      "end": 1932
+    },
+    {
+      "text": "valoración de drenaje ventricular",
+      "type": "TEMPORALIDAD",
+      "start": 1938,
+      "end": 1971
+    },
+    {
+      "text": "manejo de la hemorragia",
+      "type": "TEMPORALIDAD",
+      "start": 1974,
+      "end": 1997
+    },
+    {
+      "text": "monitorización neurológica estrecha",
+      "type": "TEMPORALIDAD",
+      "start": 2046,
+      "end": 2081
+    },
+    {
+      "text": "consulta neuroquirúrgica urgente",
+      "type": "TEMPORALIDAD",
+      "start": 2084,
+      "end": 2116
+    },
+    {
+      "text": "hidrocefalia obstructiva incipiente",
+      "type": "PATOLOGIA",
+      "start": 993,
+      "end": 1028
+    },
+    {
+      "text": "lesión vascular causante identificada",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2259,
+      "end": 2296
+    },
+    {
+      "text": "TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANGIOTC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 2324,
+      "end": 2391
+    }
+  ],
+  "regenerado": true,
+  "fecha_regeneracion": "2025-08-06T05:46:52.786382"
+}

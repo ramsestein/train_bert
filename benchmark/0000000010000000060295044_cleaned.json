@@ -1,0 +1,259 @@
+{
+  "document_id": "0000000010000000060295044_cleaned",
+  "entities": [
+    {
+      "text": "oclusió",
+      "type": "PATOLOGIA",
+      "start": 206,
+      "end": 213
+    },
+    {
+      "text": "estenosi",
+      "type": "PATOLOGIA",
+      "start": 216,
+      "end": 224
+    },
+    {
+      "text": "artèria cerebral",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 244,
+      "end": 260
+    },
+    {
+      "text": "sangrado intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 366,
+      "end": 387
+    },
+    {
+      "text": "intra o extra-axial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 389,
+      "end": 408
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 482,
+      "end": 496
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 498,
+      "end": 508
+    },
+    {
+      "text": "Sistema ventricular",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 510,
+      "end": 529
+    },
+    {
+      "text": "línea media",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 590,
+      "end": 601
+    },
+    {
+      "text": "Cisternas de la base",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 613,
+      "end": 633
+    },
+    {
+      "text": "alteraciones óseas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 645,
+      "end": 663
+    },
+    {
+      "text": "Senos paranasales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 676,
+      "end": 693
+    },
+    {
+      "text": "celdas otomastoideas",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 696,
+      "end": 716
+    },
+    {
+      "text": "Área de retraso",
+      "type": "PATOLOGIA",
+      "start": 735,
+      "end": 750
+    },
+    {
+      "text": "mapas de tiempo",
+      "type": "TECNICA_IMAGEN",
+      "start": 754,
+      "end": 769
+    },
+    {
+      "text": "flujo",
+      "type": "MEDIDA",
+      "start": 783,
+      "end": 788
+    },
+    {
+      "text": "región parietal izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 792,
+      "end": 817
+    },
+    {
+      "text": "mapas de volumen",
+      "type": "TECNICA_IMAGEN",
+      "start": 837,
+      "end": 853
+    },
+    {
+      "text": "signos de isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 907,
+      "end": 931
+    },
+    {
+      "text": "territorio superficial",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 935,
+      "end": 957
+    },
+    {
+      "text": "ACMi",
+      "type": "ARTERIA",
+      "start": 973,
+      "end": 977
+    },
+    {
+      "text": "Arco aórtico",
+      "type": "ARTERIA",
+      "start": 988,
+      "end": 1000
+    },
+    {
+      "text": "orígen de TSA",
+      "type": "ARTERIA",
+      "start": 1003,
+      "end": 1016
+    },
+    {
+      "text": "ateromatosis significativa",
+      "type": "PATOLOGIA",
+      "start": 1021,
+      "end": 1047
+    },
+    {
+      "text": "Ejes carotídeos",
+      "type": "ARTERIA",
+      "start": 1049,
+      "end": 1064
+    },
+    {
+      "text": "ateromatosis mural",
+      "type": "PATOLOGIA",
+      "start": 1113,
+      "end": 1131
+    },
+    {
+      "text": "estenótica",
+      "type": "PATOLOGIA",
+      "start": 1136,
+      "end": 1146
+    },
+    {
+      "text": "Carótidas internas",
+      "type": "ARTERIA",
+      "start": 1148,
+      "end": 1166
+    },
+    {
+      "text": "porciones intracraneales",
+      "type": "ARTERIA",
+      "start": 1169,
+      "end": 1193
+    },
+    {
+      "text": "Oclusión de segmento M3 de ACMi",
+      "type": "PATOLOGIA",
+      "start": 1717,
+      "end": 1748
+    },
+    {
+      "text": "Resto de principales vasos intracraneales",
+      "type": "ARTERIA",
+      "start": 1274,
+      "end": 1315
+    },
+    {
+      "text": "ACA",
+      "type": "ARTERIA",
+      "start": 1328,
+      "end": 1331
+    },
+    {
+      "text": "ACMd",
+      "type": "ARTERIA",
+      "start": 1333,
+      "end": 1337
+    },
+    {
+      "text": "ACP",
+      "type": "ARTERIA",
+      "start": 1339,
+      "end": 1342
+    },
+    {
+      "text": "Trifurcación de ACA",
+      "type": "ARTERIA",
+      "start": 1345,
+      "end": 1364
+    },
+    {
+      "text": "Sistema vertebrobasilar",
+      "type": "ARTERIA",
+      "start": 1397,
+      "end": 1420
+    },
+    {
+      "text": "arterias vertebrales",
+      "type": "ARTERIA",
+      "start": 1423,
+      "end": 1443
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1495,
+      "end": 1518
+    },
+    {
+      "text": "signos de isquemia aguda",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 907,
+      "end": 931
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 498,
+      "end": 508
+    },
+    {
+      "text": "territorio parietal izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1659,
+      "end": 1688
+    },
+    {
+      "text": "segmento M3 de ACMi",
+      "type": "ARTERIA",
+      "start": 1253,
+      "end": 1272
+    }
+  ],
+  "regenerado": true,
+  "fecha_regeneracion": "2025-08-06T18:14:29.856740"
+}

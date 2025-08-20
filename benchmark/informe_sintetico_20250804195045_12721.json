@@ -1,0 +1,101 @@
+{
+  "document_id": "informe_sintetico_20250804195045_12721",
+  "entities": [
+    {
+      "text": "isquemia",
+      "type": "PATOLOGIA",
+      "start": 218,
+      "end": 226
+    },
+    {
+      "text": "arteria cerebral posterior izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 944,
+      "end": 980
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 971,
+      "end": 980
+    },
+    {
+      "text": "MTT",
+      "type": "MEDIDA",
+      "start": 868,
+      "end": 871
+    },
+    {
+      "text": "TTP",
+      "type": "MEDIDA",
+      "start": 897,
+      "end": 900
+    },
+    {
+      "text": "CBF",
+      "type": "MEDIDA",
+      "start": 1048,
+      "end": 1051
+    },
+    {
+      "text": "CBV",
+      "type": "MEDIDA",
+      "start": 1073,
+      "end": 1076
+    },
+    {
+      "text": "aguda",
+      "type": "TEMPORALIDAD",
+      "start": 1781,
+      "end": 1786
+    },
+    {
+      "text": "segmento P1 de la arteria cerebral posterior izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1314,
+      "end": 1368
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 971,
+      "end": 980
+    },
+    {
+      "text": "sin hemorragias ni isquemia establecida",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1665,
+      "end": 1704
+    },
+    {
+      "text": "sin estenosis significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1443,
+      "end": 1471
+    },
+    {
+      "text": "ictus isquémico agudo",
+      "type": "PATOLOGIA",
+      "start": 1969,
+      "end": 1990
+    },
+    {
+      "text": "angiografía TC",
+      "type": "TECNICA_IMAGEN",
+      "start": 2301,
+      "end": 2315
+    },
+    {
+      "text": "TC craneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 2238,
+      "end": 2248
+    },
+    {
+      "text": "perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 417,
+      "end": 435
+    }
+  ]
+}

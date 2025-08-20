@@ -1,0 +1,83 @@
+{
+  "document_id": "informe_sintetico_20250804195045_10109",
+  "entities": [
+    {
+      "text": "hematomas",
+      "type": "PATOLOGIA",
+      "start": 492,
+      "end": 501
+    },
+    {
+      "text": "hemorragias",
+      "type": "PATOLOGIA",
+      "start": 503,
+      "end": 514
+    },
+    {
+      "text": "infartos agudos",
+      "type": "PATOLOGIA",
+      "start": 528,
+      "end": 543
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 618,
+      "end": 628
+    },
+    {
+      "text": "microangiopatía crónica",
+      "type": "PATOLOGIA",
+      "start": 740,
+      "end": 763
+    },
+    {
+      "text": "focos lacunares recientes",
+      "type": "PATOLOGIA",
+      "start": 769,
+      "end": 794
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 618,
+      "end": 628
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 618,
+      "end": 628
+    },
+    {
+      "text": "sin evidencia de alteraciones hemodinámicas significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1767,
+      "end": 1825
+    },
+    {
+      "text": "sin estenosis relevantes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1891,
+      "end": 1915
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 299,
+      "end": 315
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 331,
+      "end": 352
+    },
+    {
+      "text": "angio-TC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 355,
+      "end": 385
+    }
+  ]
+}

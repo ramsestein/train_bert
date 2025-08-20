@@ -1,0 +1,131 @@
+{
+  "document_id": "informe_sintetico_20250804195045_16686",
+  "entities": [
+    {
+      "text": "isquemia cerebral",
+      "type": "PATOLOGIA",
+      "start": 277,
+      "end": 294
+    },
+    {
+      "text": "infartos por hipoperfusión",
+      "type": "PATOLOGIA",
+      "start": 836,
+      "end": 862
+    },
+    {
+      "text": "infartos watershed",
+      "type": "PATOLOGIA",
+      "start": 864,
+      "end": 882
+    },
+    {
+      "text": "bilaterales",
+      "type": "LATERALIDAD",
+      "start": 622,
+      "end": 633
+    },
+    {
+      "text": "frontal",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 690,
+      "end": 697
+    },
+    {
+      "text": "parietales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 702,
+      "end": 712
+    },
+    {
+      "text": "isquemia",
+      "type": "PATOLOGIA",
+      "start": 277,
+      "end": 285
+    },
+    {
+      "text": "core",
+      "type": "PATOLOGIA",
+      "start": 1421,
+      "end": 1425
+    },
+    {
+      "text": "arteriosclerosis leve",
+      "type": "PATOLOGIA",
+      "start": 1570,
+      "end": 1591
+    },
+    {
+      "text": "sin estenosis significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1592,
+      "end": 1619
+    },
+    {
+      "text": "Carótidas internas",
+      "type": "ARTERIA",
+      "start": 1621,
+      "end": 1639
+    },
+    {
+      "text": "permeables",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1640,
+      "end": 1650
+    },
+    {
+      "text": "sin signos de estenosis hemodinámicamente relevantes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1652,
+      "end": 1704
+    },
+    {
+      "text": "Arterias cerebrales anterior, media y posterior",
+      "type": "ARTERIA",
+      "start": 1706,
+      "end": 1753
+    },
+    {
+      "text": "sin oclusiones ni estenosis relevantes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1766,
+      "end": 1804
+    },
+    {
+      "text": "Sistema vertebro-basilar",
+      "type": "ARTERIA",
+      "start": 1806,
+      "end": 1830
+    },
+    {
+      "text": "calibre y morfología normales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1835,
+      "end": 1864
+    },
+    {
+      "text": "sin estenosis significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2087,
+      "end": 2115
+    },
+    {
+      "text": "Infarto cerebral watershed",
+      "type": "PATOLOGIA",
+      "start": 2501,
+      "end": 2527
+    },
+    {
+      "text": "sin oclusiones vasculares significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2580,
+      "end": 2620
+    },
+    {
+      "text": "TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANGIOTC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 2648,
+      "end": 2715
+    }
+  ]
+}

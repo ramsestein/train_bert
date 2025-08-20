@@ -1,0 +1,59 @@
+{
+  "document_id": "informe_sintetico_20250804195045_16326",
+  "entities": [
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 616,
+      "end": 630
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 632,
+      "end": 642
+    },
+    {
+      "text": "Sistema ventricular simétrico",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 644,
+      "end": 673
+    },
+    {
+      "text": "cerebral",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 321,
+      "end": 329
+    },
+    {
+      "text": "CBF, CBV, MTT, TTP",
+      "type": "TECNICA_IMAGEN",
+      "start": 872,
+      "end": 890
+    },
+    {
+      "text": "Arterias cervicales y cerebrales",
+      "type": "ARTERIA",
+      "start": 980,
+      "end": 1012
+    },
+    {
+      "text": "No se evidencian signos de hemorragia intracraneal ni extraaxial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 446,
+      "end": 510
+    },
+    {
+      "text": "No se identifican signos de hemorragia ni isquemia cerebral en territorio arterial estudiado",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1304,
+      "end": 1396
+    },
+    {
+      "text": "No se observan placas calcificadas significativas ni irregularidades en la pared vascular",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1066,
+      "end": 1155
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "document_id": "informe_sintetico_20250804195045_17378",
+  "entities": [
+    {
+      "text": "hipodensidad",
+      "type": "PATOLOGIA",
+      "start": 413,
+      "end": 425
+    },
+    {
+      "text": "hiperdensidad",
+      "type": "PATOLOGIA",
+      "start": 429,
+      "end": 442
+    },
+    {
+      "text": "lesión isquémica",
+      "type": "PATOLOGIA",
+      "start": 457,
+      "end": 473
+    },
+    {
+      "text": "hemorrágica",
+      "type": "PATOLOGIA",
+      "start": 476,
+      "end": 487
+    },
+    {
+      "text": "aguda",
+      "type": "TEMPORALIDAD",
+      "start": 488,
+      "end": 493
+    },
+    {
+      "text": "ASPECTS de 10/10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 551,
+      "end": 567
+    },
+    {
+      "text": "calcificación puntiforme",
+      "type": "PATOLOGIA",
+      "start": 822,
+      "end": 846
+    },
+    {
+      "text": "hallazgo crónico",
+      "type": "TEMPORALIDAD",
+      "start": 872,
+      "end": 888
+    },
+    {
+      "text": "sin alteraciones significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 963,
+      "end": 994
+    },
+    {
+      "text": "sin estenosis ni placas ateromatosas de relevancia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1179,
+      "end": 1229
+    },
+    {
+      "text": "sin hallazgos agudos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1490,
+      "end": 1510
+    },
+    {
+      "text": "ASPECTS 10/10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 1512,
+      "end": 1525
+    },
+    {
+      "text": "sin alteraciones isquémicas o hemorrágicas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1547,
+      "end": 1589
+    },
+    {
+      "text": "normal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 726,
+      "end": 732
+    },
+    {
+      "text": "permeable y sin estenosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1668,
+      "end": 1693
+    },
+    {
+      "text": "ACM",
+      "type": "ARTERIA",
+      "start": 1303,
+      "end": 1306
+    },
+    {
+      "text": "ACA",
+      "type": "ARTERIA",
+      "start": 1308,
+      "end": 1311
+    },
+    {
+      "text": "ACP",
+      "type": "ARTERIA",
+      "start": 1313,
+      "end": 1316
+    },
+    {
+      "text": "sistema vertebrobasilar",
+      "type": "ARTERIA",
+      "start": 1319,
+      "end": 1342
+    },
+    {
+      "text": "cerebral",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 296,
+      "end": 304
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "document_id": "informe_sintetico_20250804195045_09767",
+  "entities": [
+    {
+      "text": "infarto lacunar agudo",
+      "type": "PATOLOGIA",
+      "start": 235,
+      "end": 256
+    },
+    {
+      "text": "cápsula interna izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 594,
+      "end": 619
+    },
+    {
+      "text": "cápsula interna izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 594,
+      "end": 619
+    },
+    {
+      "text": "ACM",
+      "type": "ARTERIA",
+      "start": 1266,
+      "end": 1269
+    },
+    {
+      "text": "ACA",
+      "type": "ARTERIA",
+      "start": 1271,
+      "end": 1274
+    },
+    {
+      "text": "ACP",
+      "type": "ARTERIA",
+      "start": 1276,
+      "end": 1279
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 610,
+      "end": 619
+    },
+    {
+      "text": "agudo",
+      "type": "TEMPORALIDAD",
+      "start": 251,
+      "end": 256
+    },
+    {
+      "text": "No se observan hematomas ni hemorragias intra ni extraaxiales.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 473,
+      "end": 535
+    },
+    {
+      "text": "No se observa ateromatosis significativa ni aneurismas.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1344,
+      "end": 1399
+    },
+    {
+      "text": "sin evidencia de complicaciones hemorrágicas o afectación vascular mayor.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1483,
+      "end": 1556
+    },
+    {
+      "text": "Perfusión cerebral compatible con lesión isquémica pequeña focal.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1557,
+      "end": 1622
+    },
+    {
+      "text": "sin estenosis oclusivas arteriales intracraneales.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1631,
+      "end": 1681
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 291,
+      "end": 307
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 334,
+      "end": 355
+    },
+    {
+      "text": "angiografía TC de vasos intra y extracraneales con contraste endovenoso.",
+      "type": "TECNICA_IMAGEN",
+      "start": 358,
+      "end": 430
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "document_id": "informe_sintetico_20250804195045_19818",
+  "entities": [
+    {
+      "text": "infarto cerebral agudo",
+      "type": "PATOLOGIA",
+      "start": 179,
+      "end": 201
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 222,
+      "end": 254
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 340,
+      "end": 356
+    },
+    {
+      "text": "ACM izquierda",
+      "type": "ARTERIA",
+      "start": 556,
+      "end": 569
+    },
+    {
+      "text": "infarto isquémico agudo",
+      "type": "PATOLOGIA",
+      "start": 585,
+      "end": 608
+    },
+    {
+      "text": "sangrado petequial compatible con transformación hemorrágica tipo HI1",
+      "type": "PATOLOGIA",
+      "start": 699,
+      "end": 768
+    },
+    {
+      "text": "No se observan hematomas lobares ni hemorragias intraparenquimatosas de mayor tamaño",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 770,
+      "end": 854
+    },
+    {
+      "text": "No hay evidencia de sangrado subaracnoideo ni hemorragia extraaxial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 856,
+      "end": 923
+    },
+    {
+      "text": "disminución del flujo cerebral (CBF)",
+      "type": "PATOLOGIA",
+      "start": 1171,
+      "end": 1207
+    },
+    {
+      "text": "aumento del tiempo de tránsito (Tmax)",
+      "type": "PATOLOGIA",
+      "start": 1210,
+      "end": 1247
+    },
+    {
+      "text": "ACM izquierda",
+      "type": "ARTERIA",
+      "start": 556,
+      "end": 569
+    },
+    {
+      "text": "No se identifican oclusiones ni estenosis severas residuales en territorio izquierdo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1457,
+      "end": 1541
+    },
+    {
+      "text": "Área de infarto isquémico agudo en territorio de ACM izquierda con transformación hemorrágica petequial tipo HI1",
+      "type": "PATOLOGIA",
+      "start": 1566,
+      "end": 1678
+    },
+    {
+      "text": "No se observan hematomas ni sangrados de mayor tamaño ni efecto masa relevante",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1680,
+      "end": 1758
+    },
+    {
+      "text": "Vasos intracraneales permeables",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1760,
+      "end": 1791
+    }
+  ]
+}

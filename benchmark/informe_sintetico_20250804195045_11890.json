@@ -1,0 +1,169 @@
+{
+  "document_id": "informe_sintetico_20250804195045_11890",
+  "entities": [
+    {
+      "text": "cefalea",
+      "type": "PATOLOGIA",
+      "start": 191,
+      "end": 198
+    },
+    {
+      "text": "hipodensidad",
+      "type": "PATOLOGIA",
+      "start": 458,
+      "end": 470
+    },
+    {
+      "text": "hemorragias intra o extraaxiales",
+      "type": "PATOLOGIA",
+      "start": 474,
+      "end": 506
+    },
+    {
+      "text": "lesiones expansivas",
+      "type": "PATOLOGIA",
+      "start": 740,
+      "end": 759
+    },
+    {
+      "text": "signos de edema cerebral",
+      "type": "PATOLOGIA",
+      "start": 763,
+      "end": 787
+    },
+    {
+      "text": "cambios crónicos mínimos compatibles con pequeños focos de gliosis periventricular",
+      "type": "PATOLOGIA",
+      "start": 801,
+      "end": 883
+    },
+    {
+      "text": "perfusión homogénea y simétrica",
+      "type": "PATOLOGIA",
+      "start": 974,
+      "end": 1005
+    },
+    {
+      "text": "retrasos",
+      "type": "PATOLOGIA",
+      "start": 1031,
+      "end": 1039
+    },
+    {
+      "text": "zonas de oligemia o isquemia",
+      "type": "PATOLOGIA",
+      "start": 1043,
+      "end": 1071
+    },
+    {
+      "text": "áreas de penumbra",
+      "type": "PATOLOGIA",
+      "start": 1088,
+      "end": 1105
+    },
+    {
+      "text": "infarto en evolución",
+      "type": "PATOLOGIA",
+      "start": 1109,
+      "end": 1129
+    },
+    {
+      "text": "defectos de repleción",
+      "type": "PATOLOGIA",
+      "start": 1233,
+      "end": 1254
+    },
+    {
+      "text": "estenosis evidentes",
+      "type": "PATOLOGIA",
+      "start": 1258,
+      "end": 1277
+    },
+    {
+      "text": "signos de ateromatosis o trombosis",
+      "type": "PATOLOGIA",
+      "start": 1367,
+      "end": 1401
+    },
+    {
+      "text": "aneurismas",
+      "type": "PATOLOGIA",
+      "start": 1421,
+      "end": 1431
+    },
+    {
+      "text": "malformaciones vasculares",
+      "type": "PATOLOGIA",
+      "start": 1435,
+      "end": 1460
+    },
+    {
+      "text": "hemorragia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 474,
+      "end": 484
+    },
+    {
+      "text": "infarto agudo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1567,
+      "end": 1580
+    },
+    {
+      "text": "alteraciones en la perfusión cerebral",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1584,
+      "end": 1621
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 563,
+      "end": 573
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 563,
+      "end": 573
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 299,
+      "end": 315
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 317,
+      "end": 338
+    },
+    {
+      "text": "angio-TC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 341,
+      "end": 371
+    },
+    {
+      "text": "carótidas comunes",
+      "type": "ARTERIA",
+      "start": 1308,
+      "end": 1325
+    },
+    {
+      "text": "vertebrales",
+      "type": "ARTERIA",
+      "start": 1327,
+      "end": 1338
+    },
+    {
+      "text": "circulación posterior",
+      "type": "ARTERIA",
+      "start": 1341,
+      "end": 1362
+    }
+  ],
+  "regenerado": true,
+  "fecha_regeneracion": "2025-08-06T13:22:46.628195"
+}

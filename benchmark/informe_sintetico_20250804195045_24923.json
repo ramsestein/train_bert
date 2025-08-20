@@ -1,0 +1,239 @@
+{
+  "document_id": "informe_sintetico_20250804195045_24923",
+  "entities": [
+    {
+      "text": "hemiparesia derecha",
+      "type": "PATOLOGIA",
+      "start": 217,
+      "end": 236
+    },
+    {
+      "text": "afasia",
+      "type": "PATOLOGIA",
+      "start": 239,
+      "end": 245
+    },
+    {
+      "text": "3 horas",
+      "type": "TEMPORALIDAD",
+      "start": 285,
+      "end": 292
+    },
+    {
+      "text": "área de hipodensidad",
+      "type": "PATOLOGIA",
+      "start": 567,
+      "end": 587
+    },
+    {
+      "text": "región insular",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 591,
+      "end": 605
+    },
+    {
+      "text": "corona radiada izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 608,
+      "end": 632
+    },
+    {
+      "text": "arteria cerebral media izquierda (M1)",
+      "type": "ARTERIA",
+      "start": 699,
+      "end": 736
+    },
+    {
+      "text": "hiperdensa",
+      "type": "PATOLOGIA",
+      "start": 737,
+      "end": 747
+    },
+    {
+      "text": "trombo intraarterial",
+      "type": "PATOLOGIA",
+      "start": 762,
+      "end": 782
+    },
+    {
+      "text": "ASPECTS",
+      "type": "PUNTUACION_CLINICA",
+      "start": 787,
+      "end": 794
+    },
+    {
+      "text": "7",
+      "type": "MEDIDA",
+      "start": 812,
+      "end": 813
+    },
+    {
+      "text": "No se evidencian signos de sangrado intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 815,
+      "end": 863
+    },
+    {
+      "text": "No hay colapso de cisternas basales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 903,
+      "end": 938
+    },
+    {
+      "text": "Sistema ventricular de morfología y tamaño normales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 940,
+      "end": 991
+    },
+    {
+      "text": "aumento del tiempo de tránsito medio (TTP)",
+      "type": "PATOLOGIA",
+      "start": 1029,
+      "end": 1071
+    },
+    {
+      "text": "disminución del flujo cerebral (CBF)",
+      "type": "PATOLOGIA",
+      "start": 1074,
+      "end": 1110
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "ARTERIA",
+      "start": 699,
+      "end": 731
+    },
+    {
+      "text": "región fronto-parietal",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1191,
+      "end": 1213
+    },
+    {
+      "text": "ganglios basales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1216,
+      "end": 1232
+    },
+    {
+      "text": "volumen cerebral (CBV)",
+      "type": "MEDIDA",
+      "start": 1238,
+      "end": 1260
+    },
+    {
+      "text": "preservado",
+      "type": "PATOLOGIA",
+      "start": 1261,
+      "end": 1271
+    },
+    {
+      "text": "penumbra isquémica viable",
+      "type": "PATOLOGIA",
+      "start": 1313,
+      "end": 1338
+    },
+    {
+      "text": "oclusión completa",
+      "type": "PATOLOGIA",
+      "start": 1379,
+      "end": 1396
+    },
+    {
+      "text": "segmento M1 izquierdo",
+      "type": "ARTERIA",
+      "start": 1401,
+      "end": 1422
+    },
+    {
+      "text": "arteria cerebral media",
+      "type": "ARTERIA",
+      "start": 699,
+      "end": 721
+    },
+    {
+      "text": "ausencia de flujo distal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1457,
+      "end": 1481
+    },
+    {
+      "text": "resto del árbol arterial intracraneal",
+      "type": "ARTERIA",
+      "start": 1486,
+      "end": 1523
+    },
+    {
+      "text": "arterias ACAs y ACPs",
+      "type": "ARTERIA",
+      "start": 1525,
+      "end": 1545
+    },
+    {
+      "text": "sistema vertebrobasilar",
+      "type": "ARTERIA",
+      "start": 1547,
+      "end": 1570
+    },
+    {
+      "text": "permeable",
+      "type": "PATOLOGIA",
+      "start": 1585,
+      "end": 1594
+    },
+    {
+      "text": "sin estenosis significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1595,
+      "end": 1623
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 1678,
+      "end": 1692
+    },
+    {
+      "text": "oclusión de arteria cerebral media proximal (M1) izquierda",
+      "type": "PATOLOGIA",
+      "start": 1697,
+      "end": 1755
+    },
+    {
+      "text": "ASPECTS 7",
+      "type": "PUNTUACION_CLINICA",
+      "start": 1761,
+      "end": 1770
+    },
+    {
+      "text": "penumbra identificada en el estudio de perfusión",
+      "type": "PATOLOGIA",
+      "start": 1780,
+      "end": 1828
+    },
+    {
+      "text": "trombo intraluminal",
+      "type": "PATOLOGIA",
+      "start": 1878,
+      "end": 1897
+    },
+    {
+      "text": "No signos de hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1903,
+      "end": 1939
+    },
+    {
+      "text": "edema cerebral significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1943,
+      "end": 1971
+    },
+    {
+      "text": "valoración urgente para tratamiento endovascular",
+      "type": "PATOLOGIA",
+      "start": 1991,
+      "end": 2039
+    }
+  ]
+}

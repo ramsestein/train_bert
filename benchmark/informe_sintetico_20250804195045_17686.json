@@ -1,0 +1,113 @@
+{
+  "document_id": "informe_sintetico_20250804195045_17686",
+  "entities": [
+    {
+      "text": "transformación hemorrágica tipo HI2",
+      "type": "PATOLOGIA",
+      "start": 528,
+      "end": 563
+    },
+    {
+      "text": "hemorragia intraparenquimatosa",
+      "type": "PATOLOGIA",
+      "start": 569,
+      "end": 599
+    },
+    {
+      "text": "infarto previo",
+      "type": "PATOLOGIA",
+      "start": 881,
+      "end": 895
+    },
+    {
+      "text": "flujo sanguíneo cerebral (CBF)",
+      "type": "PATOLOGIA",
+      "start": 1037,
+      "end": 1067
+    },
+    {
+      "text": "territorio MCA izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 214,
+      "end": 238
+    },
+    {
+      "text": "tiempos de tránsito (TTP)",
+      "type": "MEDIDA",
+      "start": 1116,
+      "end": 1141
+    },
+    {
+      "text": "tiempo medio de paso (MTT)",
+      "type": "MEDIDA",
+      "start": 1144,
+      "end": 1170
+    },
+    {
+      "text": "estenosis moderada de aproximadamente 50%",
+      "type": "PATOLOGIA",
+      "start": 1359,
+      "end": 1400
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "ARTERIA",
+      "start": 1428,
+      "end": 1460
+    },
+    {
+      "text": "sin efecto de masa significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 646,
+      "end": 678
+    },
+    {
+      "text": "sin signos de hidrocefalia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 935,
+      "end": 961
+    },
+    {
+      "text": "sin estenosis significativas ni placas ulceradas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1507,
+      "end": 1555
+    },
+    {
+      "text": "sin efecto de masa grave",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1679,
+      "end": 1703
+    },
+    {
+      "text": "TC Basal + TC Perfusión + AngioTC Arterial intracraneal y extra-craneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 298,
+      "end": 369
+    },
+    {
+      "text": "TC CRANEAL BASAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 417,
+      "end": 433
+    },
+    {
+      "text": "TC PERFUSIÓN",
+      "type": "TECNICA_IMAGEN",
+      "start": 966,
+      "end": 978
+    },
+    {
+      "text": "ANGIO-TC EXTRA E INTRACRANEAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 1254,
+      "end": 1283
+    },
+    {
+      "text": "48-72 horas",
+      "type": "TEMPORALIDAD",
+      "start": 2024,
+      "end": 2035
+    }
+  ]
+}

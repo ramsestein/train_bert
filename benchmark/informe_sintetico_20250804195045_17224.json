@@ -1,0 +1,71 @@
+{
+  "document_id": "informe_sintetico_20250804195045_17224",
+  "entities": [
+    {
+      "text": "isquemia",
+      "type": "PATOLOGIA",
+      "start": 681,
+      "end": 689
+    },
+    {
+      "text": "bulbo raquídeo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 615,
+      "end": 629
+    },
+    {
+      "text": "tronco encefálico",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 649,
+      "end": 666
+    },
+    {
+      "text": "arteria vertebral derecha",
+      "type": "ARTERIA",
+      "start": 1278,
+      "end": 1303
+    },
+    {
+      "text": "arteria basilar proximal",
+      "type": "ARTERIA",
+      "start": 1348,
+      "end": 1372
+    },
+    {
+      "text": "aguda",
+      "type": "TEMPORALIDAD",
+      "start": 1628,
+      "end": 1633
+    },
+    {
+      "text": "penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1123,
+      "end": 1141
+    },
+    {
+      "text": "No se evidencian hemorragias intra ni extraaxiales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 513,
+      "end": 563
+    },
+    {
+      "text": "No hay desplazamiento de la línea media ni signos de herniación",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 704,
+      "end": 767
+    },
+    {
+      "text": "No se visualizan aneurismas ni malformaciones vasculares",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1449,
+      "end": 1505
+    },
+    {
+      "text": "No evidencia de hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1899,
+      "end": 1938
+    }
+  ]
+}

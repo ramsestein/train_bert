@@ -1,0 +1,83 @@
+{
+  "document_id": "informe_sintetico_20250804195045_08711",
+  "entities": [
+    {
+      "text": "hematoma lobar",
+      "type": "PATOLOGIA",
+      "start": 451,
+      "end": 465
+    },
+    {
+      "text": "lóbulo parietal izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 483,
+      "end": 508
+    },
+    {
+      "text": "12 ml",
+      "type": "MEDIDA",
+      "start": 539,
+      "end": 544
+    },
+    {
+      "text": "3 mm",
+      "type": "MEDIDA",
+      "start": 711,
+      "end": 715
+    },
+    {
+      "text": "disminución local en la perfusión cerebral",
+      "type": "PATOLOGIA",
+      "start": 971,
+      "end": 1013
+    },
+    {
+      "text": "aumento del tiempo de tránsito del paso (TTP)",
+      "type": "PATOLOGIA",
+      "start": 1077,
+      "end": 1122
+    },
+    {
+      "text": "reducción del volumen sanguíneo cerebral (CBV)",
+      "type": "PATOLOGIA",
+      "start": 1125,
+      "end": 1171
+    },
+    {
+      "text": "isquemia cortical a distancia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1222,
+      "end": 1251
+    },
+    {
+      "text": "estenosis ni oclusiones",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1349,
+      "end": 1372
+    },
+    {
+      "text": "arteria carótida interna izquierda",
+      "type": "ARTERIA",
+      "start": 1483,
+      "end": 1517
+    },
+    {
+      "text": "edema circundante",
+      "type": "PATOLOGIA",
+      "start": 2089,
+      "end": 2106
+    },
+    {
+      "text": "discreto efecto de masa",
+      "type": "PATOLOGIA",
+      "start": 2109,
+      "end": 2132
+    },
+    {
+      "text": "TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANG IOTC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 72,
+      "end": 140
+    }
+  ]
+}

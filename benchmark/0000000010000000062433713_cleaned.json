@@ -1,0 +1,95 @@
+{
+  "document_id": "0000000010000000062433713_cleaned",
+  "entities": [
+    {
+      "text": "hemorragia intra ni extraaxial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 373,
+      "end": 403
+    },
+    {
+      "text": "áreas de encefalomalacia",
+      "type": "PATOLOGIA",
+      "start": 429,
+      "end": 453
+    },
+    {
+      "text": "territorios frontotemporoparietal derechos",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 457,
+      "end": 499
+    },
+    {
+      "text": "parietales izquierdos",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 502,
+      "end": 523
+    },
+    {
+      "text": "infarto agudo",
+      "type": "PATOLOGIA",
+      "start": 647,
+      "end": 660
+    },
+    {
+      "text": "TTP",
+      "type": "MEDIDA",
+      "start": 854,
+      "end": 857
+    },
+    {
+      "text": "CBV",
+      "type": "MEDIDA",
+      "start": 859,
+      "end": 862
+    },
+    {
+      "text": "CBF",
+      "type": "MEDIDA",
+      "start": 865,
+      "end": 868
+    },
+    {
+      "text": "evento isquémico agudo",
+      "type": "PATOLOGIA",
+      "start": 882,
+      "end": 904
+    },
+    {
+      "text": "caída del flujo y volumen",
+      "type": "PATOLOGIA",
+      "start": 924,
+      "end": 949
+    },
+    {
+      "text": "arteria carótida interna",
+      "type": "ARTERIA",
+      "start": 1231,
+      "end": 1255
+    },
+    {
+      "text": "arterias vertebrales",
+      "type": "ARTERIA",
+      "start": 1411,
+      "end": 1431
+    },
+    {
+      "text": "ACAs, ACMs y ACPs",
+      "type": "ARTERIA",
+      "start": 1532,
+      "end": 1549
+    },
+    {
+      "text": "ictus previos",
+      "type": "TEMPORALIDAD",
+      "start": 1726,
+      "end": 1739
+    },
+    {
+      "text": "sin hallazgos patológicos agudos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1636,
+      "end": 1668
+    }
+  ]
+}

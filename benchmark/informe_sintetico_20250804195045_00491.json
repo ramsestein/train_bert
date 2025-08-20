@@ -1,0 +1,59 @@
+{
+  "document_id": "informe_sintetico_20250804195045_00491",
+  "entities": [
+    {
+      "text": "infarto lacunar agudo",
+      "type": "PATOLOGIA",
+      "start": 355,
+      "end": 376
+    },
+    {
+      "text": "territorio lenticuloestriado izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 713,
+      "end": 751
+    },
+    {
+      "text": "8 mm",
+      "type": "MEDIDA",
+      "start": 702,
+      "end": 706
+    },
+    {
+      "text": "izquierdo",
+      "type": "LATERALIDAD",
+      "start": 742,
+      "end": 751
+    },
+    {
+      "text": "agudo",
+      "type": "TEMPORALIDAD",
+      "start": 371,
+      "end": 376
+    },
+    {
+      "text": "sin estenosis significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1400,
+      "end": 1427
+    },
+    {
+      "text": "sin defectos de repleción ni estenosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1516,
+      "end": 1554
+    },
+    {
+      "text": "sin complicaciones hemorrágicas ni edema asociado",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1867,
+      "end": 1916
+    },
+    {
+      "text": "sin estenosis ni oclusiones significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2057,
+      "end": 2099
+    }
+  ]
+}

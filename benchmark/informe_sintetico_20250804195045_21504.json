@@ -1,0 +1,95 @@
+{
+  "document_id": "informe_sintetico_20250804195045_21504",
+  "entities": [
+    {
+      "text": "infarto cerebral reciente",
+      "type": "PATOLOGIA",
+      "start": 179,
+      "end": 204
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 225,
+      "end": 255
+    },
+    {
+      "text": "ACM",
+      "type": "ARTERIA",
+      "start": 537,
+      "end": 540
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 248,
+      "end": 255
+    },
+    {
+      "text": "subagudo",
+      "type": "TEMPORALIDAD",
+      "start": 583,
+      "end": 591
+    },
+    {
+      "text": "10 mm",
+      "type": "MEDIDA",
+      "start": 733,
+      "end": 738
+    },
+    {
+      "text": "PH1",
+      "type": "PUNTUACION_CLINICA",
+      "start": 788,
+      "end": 791
+    },
+    {
+      "text": "No se identifican hematomas lobares mayores",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 793,
+      "end": 836
+    },
+    {
+      "text": "No se visualizan malformaciones vasculares ni aneurismas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1485,
+      "end": 1541
+    },
+    {
+      "text": "transformación hemorrágica tipo PH1",
+      "type": "PATOLOGIA",
+      "start": 756,
+      "end": 791
+    },
+    {
+      "text": "infarto cerebral del territorio de ACM derecha",
+      "type": "PATOLOGIA",
+      "start": 1618,
+      "end": 1664
+    },
+    {
+      "text": "hemorragia focal intraparenquimatosa pequeña",
+      "type": "PATOLOGIA",
+      "start": 1670,
+      "end": 1714
+    },
+    {
+      "text": "edema perilesional leve",
+      "type": "PATOLOGIA",
+      "start": 897,
+      "end": 920
+    },
+    {
+      "text": "penumbra isquémica residual",
+      "type": "PATOLOGIA",
+      "start": 1839,
+      "end": 1866
+    },
+    {
+      "text": "Angio-TC sin alteraciones vasculares significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1868,
+      "end": 1919
+    }
+  ]
+}

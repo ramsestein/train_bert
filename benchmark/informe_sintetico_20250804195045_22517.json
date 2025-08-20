@@ -1,0 +1,113 @@
+{
+  "document_id": "informe_sintetico_20250804195045_22517",
+  "entities": [
+    {
+      "text": "infarto cerebral",
+      "type": "PATOLOGIA",
+      "start": 277,
+      "end": 293
+    },
+    {
+      "text": "hemiparesia bilateral",
+      "type": "PATOLOGIA",
+      "start": 196,
+      "end": 217
+    },
+    {
+      "text": "disminución del nivel de conciencia",
+      "type": "PATOLOGIA",
+      "start": 220,
+      "end": 255
+    },
+    {
+      "text": "territorios watershed",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1672,
+      "end": 1693
+    },
+    {
+      "text": "frontoparietales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 548,
+      "end": 564
+    },
+    {
+      "text": "zonas watershed",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 600,
+      "end": 615
+    },
+    {
+      "text": "arterias cerebrales medias",
+      "type": "ARTERIA",
+      "start": 637,
+      "end": 663
+    },
+    {
+      "text": "arterias cerebrales posteriores",
+      "type": "ARTERIA",
+      "start": 708,
+      "end": 739
+    },
+    {
+      "text": "bilaterales",
+      "type": "LATERALIDAD",
+      "start": 524,
+      "end": 535
+    },
+    {
+      "text": "marcada",
+      "type": "MEDIDA",
+      "start": 749,
+      "end": 756
+    },
+    {
+      "text": "signos de hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 832,
+      "end": 865
+    },
+    {
+      "text": "disminución del flujo sanguíneo cerebral",
+      "type": "PATOLOGIA",
+      "start": 1022,
+      "end": 1062
+    },
+    {
+      "text": "aumento del tiempo de tránsito medio",
+      "type": "PATOLOGIA",
+      "start": 1071,
+      "end": 1107
+    },
+    {
+      "text": "mismatch significativo",
+      "type": "PATOLOGIA",
+      "start": 1312,
+      "end": 1334
+    },
+    {
+      "text": "TC craneal basal urgente",
+      "type": "TECNICA_IMAGEN",
+      "start": 335,
+      "end": 359
+    },
+    {
+      "text": "perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 362,
+      "end": 380
+    },
+    {
+      "text": "angiografía por TC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 383,
+      "end": 423
+    },
+    {
+      "text": "resonancia magnética",
+      "type": "TECNICA_IMAGEN",
+      "start": 2064,
+      "end": 2084
+    }
+  ]
+}

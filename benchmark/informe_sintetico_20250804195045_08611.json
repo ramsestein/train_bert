@@ -1,0 +1,101 @@
+{
+  "document_id": "informe_sintetico_20250804195045_08611",
+  "entities": [
+    {
+      "text": "accidente isquémico cerebral",
+      "type": "PATOLOGIA",
+      "start": 254,
+      "end": 282
+    },
+    {
+      "text": "hemorragias agudas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 486,
+      "end": 504
+    },
+    {
+      "text": "lesiones hiperdensas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 508,
+      "end": 528
+    },
+    {
+      "text": "discreta hipodensidad cortical",
+      "type": "PATOLOGIA",
+      "start": 585,
+      "end": 615
+    },
+    {
+      "text": "región insular y opercular izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 619,
+      "end": 655
+    },
+    {
+      "text": "ASPECTS 9",
+      "type": "PUNTUACION_CLINICA",
+      "start": 723,
+      "end": 732
+    },
+    {
+      "text": "edema significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 770,
+      "end": 789
+    },
+    {
+      "text": "tiempo de tránsito medio (TTP)",
+      "type": "MEDIDA",
+      "start": 907,
+      "end": 937
+    },
+    {
+      "text": "reducción moderada del flujo cerebral (CBF)",
+      "type": "MEDIDA",
+      "start": 940,
+      "end": 983
+    },
+    {
+      "text": "arteria cerebral media (ACM) distal izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1013,
+      "end": 1058
+    },
+    {
+      "text": "segmentos M2/M3",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1077,
+      "end": 1092
+    },
+    {
+      "text": "territorio distal de la arteria cerebral media izquierda (segmentos M2/M3)",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1535,
+      "end": 1609
+    },
+    {
+      "text": "ASPECTS 9",
+      "type": "PUNTUACION_CLINICA",
+      "start": 723,
+      "end": 732
+    },
+    {
+      "text": "sin infarto establecido significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1666,
+      "end": 1703
+    },
+    {
+      "text": "angioTC",
+      "type": "TECNICA_IMAGEN",
+      "start": 360,
+      "end": 367
+    },
+    {
+      "text": "signos de hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1759,
+      "end": 1792
+    }
+  ]
+}

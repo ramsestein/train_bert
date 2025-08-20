@@ -1,0 +1,89 @@
+{
+  "document_id": "informe_sintetico_20250804195045_22411",
+  "entities": [
+    {
+      "text": "trombosis venosa",
+      "type": "PATOLOGIA",
+      "start": 258,
+      "end": 274
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 578,
+      "end": 601
+    },
+    {
+      "text": "región parasagital derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 626,
+      "end": 652
+    },
+    {
+      "text": "seno longitudinal superior",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 461,
+      "end": 487
+    },
+    {
+      "text": "senos transversos bilaterales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 497,
+      "end": 526
+    },
+    {
+      "text": "territorio parietal derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 945,
+      "end": 972
+    },
+    {
+      "text": "disminución relativa del flujo sanguíneo cerebral (CBF)",
+      "type": "PATOLOGIA",
+      "start": 999,
+      "end": 1054
+    },
+    {
+      "text": "reducción significativa del volumen sanguíneo cerebral (CBV)",
+      "type": "PATOLOGIA",
+      "start": 1060,
+      "end": 1120
+    },
+    {
+      "text": "ausencia de repleción",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1213,
+      "end": 1234
+    },
+    {
+      "text": "signos de estenosis ni oclusión",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1384,
+      "end": 1415
+    },
+    {
+      "text": "trombosis venosa cerebral",
+      "type": "PATOLOGIA",
+      "start": 258,
+      "end": 283
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 304,
+      "end": 320
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 322,
+      "end": 343
+    },
+    {
+      "text": "AngioTC venoso e intracraneal arterial",
+      "type": "TECNICA_IMAGEN",
+      "start": 346,
+      "end": 384
+    }
+  ]
+}

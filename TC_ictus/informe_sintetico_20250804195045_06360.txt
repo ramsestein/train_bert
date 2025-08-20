@@ -1,0 +1,28 @@
+UO_PACN (Unidad Organizativa Médica): RADIO
+
+PRUEB (Prueba solicitada): TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANG IOTC ARTERIAL INTRACRANEAL)
+
+CLIN (Resumen clínico): Paciente masculino de 32 años, politraumatizado tras accidente de tráfico con pérdida de conocimiento y cuadro de cefalea intensa. Se solicita estudio para valoración de lesiones traumáticas intracraneales y perfusión cerebral.
+
+OBSR (Protocolo): TC craneal basal sin contraste, estudio de perfusión cerebral y angio TC arterial intracraneal para valoración vascular urgente.
+
+RESL (Resultados): 
+- TC craneal basal: Se identifica foco hiperdenso en la región frontotemporal derecha, compatible con contusión hemorrágica traumática, que mide aproximadamente 2,5 cm x 1,8 cm x 1,5 cm (AP x LL x CC), con un volumen estimado de 6 cc. Se observa edema circundante con borramiento parcial de surcos adyacentes. No hay evidencia de desplazamiento significativo de la línea media (desplazamiento < 2 mm).
+- Se aprecian pequeñas áreas hiperdensas subcorticales en lóbulo temporal izquierdo compatibles con contusiones hemorrágicas menores.
+- No se evidencian hematomas subdurales ni epidurales significativos.
+- Sistema ventricular de tamaño normal sin signos de hemorragia intraventricular.
+- Cisternas basales y perimesencefálicas libres.
+- Estudio de perfusión: disminución focal del flujo sanguíneo cerebral (FSC) y volumen sanguíneo cerebral (VSC) en las áreas contusas frontotemporales derechas, sin evidencia de defecto vascular completo que sugiera oclusión arterial.
+- Angio TC: Vasos intracraneales permeables sin signos de estenosis, oclusión o disección arterial. No se detectan lesiones vascularizadas ni pseudoaneurismas en territorio evaluado.
+
+CONCL (Conclusiones): Contusión hemorrágica traumática frontotemporal derecha con edema asociado y mínimos focos hemorrágicos en lóbulo temporal izquierdo. No se evidencian hematomas epidurales ni subdurales asociados. Perfusión cerebral alterada de forma focal en zona lesionada pero sin compromiso vascular mayor ni oclusiones arteriales intracraneales.
+
+ACTI_ADICI (Actividad adicional): Recomendación de monitorización neurológica estrecha y control mediante nueva TC de cráneo en 24-48 horas para evaluación de evolución de contusión y edema.
+
+ICON (Estudio): @RADIO_TC_CEREBRAL_TRAUMA@
+
+X00DIATXT (Texto del diagnóstico ACR): Hematoma cerebral traumático con contusión hemorrágica y edema perilesional sin desplazamiento significativo de la línea media ni oclusión vascular intracraneal.
+
+EST_T_DES (Descripción): TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANGIOTC ARTERIAL INTRACRANEAL)
+
+ZVASOS_D (Der.): Vasos intracraneales permeables, sin alteraciones hemodinámicas ni estenosis relevantes.

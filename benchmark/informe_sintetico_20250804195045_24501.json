@@ -1,0 +1,83 @@
+{
+  "document_id": "informe_sintetico_20250804195045_24501",
+  "entities": [
+    {
+      "text": "infarto lacunar",
+      "type": "PATOLOGIA",
+      "start": 267,
+      "end": 282
+    },
+    {
+      "text": "cápsula interna izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 637,
+      "end": 662
+    },
+    {
+      "text": "6 mm",
+      "type": "MEDIDA",
+      "start": 614,
+      "end": 618
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 653,
+      "end": 662
+    },
+    {
+      "text": "agudo",
+      "type": "TEMPORALIDAD",
+      "start": 1849,
+      "end": 1854
+    },
+    {
+      "text": "TC CRANEAL BASAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 303,
+      "end": 319
+    },
+    {
+      "text": "No evidencia de hemorragia intracraneal ni signos de sangrado activo.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 478,
+      "end": 547
+    },
+    {
+      "text": "sin efecto de masa ni pérdida significativa de la diferenciación cortico-subcortical.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 720,
+      "end": 805
+    },
+    {
+      "text": "sin alteraciones mayores en sustancia blanca supratentorial.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 888,
+      "end": 948
+    },
+    {
+      "text": "sin evidencia de área de infarto establecida extensa ni penumbra significativa.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1341,
+      "end": 1420
+    },
+    {
+      "text": "sin estenosis significativa.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1723,
+      "end": 1751
+    },
+    {
+      "text": "Arterias cerebrales principales (ACAs, ACMs y ACPs)",
+      "type": "ARTERIA",
+      "start": 1453,
+      "end": 1504
+    },
+    {
+      "text": "sin estenosis significativa.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1723,
+      "end": 1751
+    }
+  ]
+}

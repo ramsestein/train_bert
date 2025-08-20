@@ -1,0 +1,83 @@
+{
+  "document_id": "informe_sintetico_20250804195045_24664",
+  "entities": [
+    {
+      "text": "infarto agudo",
+      "type": "PATOLOGIA",
+      "start": 733,
+      "end": 746
+    },
+    {
+      "text": "arteria cerebral media (ACM) izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 591,
+      "end": 629
+    },
+    {
+      "text": "ACM",
+      "type": "ARTERIA",
+      "start": 615,
+      "end": 618
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 620,
+      "end": 629
+    },
+    {
+      "text": "más del 30%",
+      "type": "MEDIDA",
+      "start": 891,
+      "end": 902
+    },
+    {
+      "text": "agudo",
+      "type": "TEMPORALIDAD",
+      "start": 741,
+      "end": 746
+    },
+    {
+      "text": "PH2",
+      "type": "PUNTUACION_CLINICA",
+      "start": 876,
+      "end": 879
+    },
+    {
+      "text": "TC craneal basal no contrastada",
+      "type": "TECNICA_IMAGEN",
+      "start": 356,
+      "end": 387
+    },
+    {
+      "text": "No se detectan hemorragias extraaxiales ni sangrado intraventricular",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1049,
+      "end": 1117
+    },
+    {
+      "text": "Oclusión completa de la arteria cerebral media izquierda en su segmento M1",
+      "type": "PATOLOGIA",
+      "start": 1600,
+      "end": 1674
+    },
+    {
+      "text": "M1",
+      "type": "ARTERIA",
+      "start": 1672,
+      "end": 1674
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 620,
+      "end": 629
+    },
+    {
+      "text": "Infarto cerebral extenso con transformación hemorrágica PH2 en territorio de ACM izquierda",
+      "type": "PATOLOGIA",
+      "start": 2408,
+      "end": 2498
+    }
+  ]
+}

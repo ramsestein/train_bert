@@ -1,0 +1,283 @@
+{
+  "document_id": "informe_sintetico_20250804195045_16265",
+  "entities": [
+    {
+      "text": "infarto cerebral reciente",
+      "type": "PATOLOGIA",
+      "start": 194,
+      "end": 219
+    },
+    {
+      "text": "deterioro clínico súbito",
+      "type": "PATOLOGIA",
+      "start": 222,
+      "end": 246
+    },
+    {
+      "text": "transformación hemorrágica",
+      "type": "PATOLOGIA",
+      "start": 270,
+      "end": 296
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 317,
+      "end": 333
+    },
+    {
+      "text": "perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 354,
+      "end": 372
+    },
+    {
+      "text": "angiografía por TC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 375,
+      "end": 415
+    },
+    {
+      "text": "territorio de la arteria cerebral media izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 503,
+      "end": 552
+    },
+    {
+      "text": "zona con hipodensidad difusa",
+      "type": "PATOLOGIA",
+      "start": 557,
+      "end": 585
+    },
+    {
+      "text": "infarto cerebral subagudo",
+      "type": "PATOLOGIA",
+      "start": 601,
+      "end": 626
+    },
+    {
+      "text": "hiperdensidad heterogénea irregular",
+      "type": "PATOLOGIA",
+      "start": 663,
+      "end": 698
+    },
+    {
+      "text": "halo periférico",
+      "type": "PATOLOGIA",
+      "start": 703,
+      "end": 718
+    },
+    {
+      "text": "transformación hemorrágica tipo HI2",
+      "type": "PATOLOGIA",
+      "start": 732,
+      "end": 767
+    },
+    {
+      "text": "múltiples focos hemorrágicos dispersos",
+      "type": "PATOLOGIA",
+      "start": 773,
+      "end": 811
+    },
+    {
+      "text": "más del 30%",
+      "type": "MEDIDA",
+      "start": 868,
+      "end": 879
+    },
+    {
+      "text": "territorio infartado",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 884,
+      "end": 904
+    },
+    {
+      "text": "desplazamiento significativo de la línea media",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 910,
+      "end": 956
+    },
+    {
+      "text": "hematomas intraparenquimatosos masivos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 976,
+      "end": 1014
+    },
+    {
+      "text": "signos de hemorragia subaracnoidea",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1018,
+      "end": 1052
+    },
+    {
+      "text": "Sistema ventricular de tamaño y morfología normales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1075,
+      "end": 1126
+    },
+    {
+      "text": "Líneas medias centradas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1128,
+      "end": 1151
+    },
+    {
+      "text": "Cisternas basales libres",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1153,
+      "end": 1177
+    },
+    {
+      "text": "aumento del tiempo de tránsito medio (TTM)",
+      "type": "PATOLOGIA",
+      "start": 1225,
+      "end": 1267
+    },
+    {
+      "text": "tiempo hasta el pico (TTP)",
+      "type": "PATOLOGIA",
+      "start": 1270,
+      "end": 1296
+    },
+    {
+      "text": "territorio izquierdo afectado",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1303,
+      "end": 1332
+    },
+    {
+      "text": "reducción marcada del flujo cerebral (CBF)",
+      "type": "PATOLOGIA",
+      "start": 1338,
+      "end": 1380
+    },
+    {
+      "text": "volumen cerebral (CBV) disminuido",
+      "type": "PATOLOGIA",
+      "start": 1383,
+      "end": 1416
+    },
+    {
+      "text": "región infartada",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1423,
+      "end": 1439
+    },
+    {
+      "text": "tejido no viable con cambios hemorrágicos",
+      "type": "PATOLOGIA",
+      "start": 1456,
+      "end": 1497
+    },
+    {
+      "text": "Ejes carotídeos",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1534,
+      "end": 1549
+    },
+    {
+      "text": "arterias cerebrales anteriores, medias y posteriores bilaterales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1551,
+      "end": 1615
+    },
+    {
+      "text": "permeables",
+      "type": "PATOLOGIA",
+      "start": 1616,
+      "end": 1626
+    },
+    {
+      "text": "estenosis significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1658,
+      "end": 1682
+    },
+    {
+      "text": "signos de vasoespasmo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1699,
+      "end": 1720
+    },
+    {
+      "text": "Arco aórtico",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1724,
+      "end": 1736
+    },
+    {
+      "text": "troncos supraaórticos",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1739,
+      "end": 1760
+    },
+    {
+      "text": "lesiones significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1765,
+      "end": 1788
+    },
+    {
+      "text": "Transformación hemorrágica tipo HI2",
+      "type": "PATOLOGIA",
+      "start": 1819,
+      "end": 1854
+    },
+    {
+      "text": "territorio de ACM izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1858,
+      "end": 1885
+    },
+    {
+      "text": "infarto cerebral subagudo",
+      "type": "PATOLOGIA",
+      "start": 601,
+      "end": 626
+    },
+    {
+      "text": "más del 30%",
+      "type": "MEDIDA",
+      "start": 868,
+      "end": 879
+    },
+    {
+      "text": "tejido infartado",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 823,
+      "end": 839
+    },
+    {
+      "text": "efecto de masa significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2001,
+      "end": 2029
+    },
+    {
+      "text": "desplazamiento de línea media",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2033,
+      "end": 2062
+    },
+    {
+      "text": "Perfusión cerebral compatible con tejido infartado con pérdida de viabilidad",
+      "type": "PATOLOGIA",
+      "start": 2068,
+      "end": 2144
+    },
+    {
+      "text": "obstrucciones",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2189,
+      "end": 2202
+    },
+    {
+      "text": "estenosis relevantes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2206,
+      "end": 2226
+    }
+  ],
+  "regenerado": true,
+  "fecha_regeneracion": "2025-08-06T05:19:18.283438"
+}

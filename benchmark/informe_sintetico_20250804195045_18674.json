@@ -1,0 +1,71 @@
+{
+  "document_id": "informe_sintetico_20250804195045_18674",
+  "entities": [
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 265,
+      "end": 279
+    },
+    {
+      "text": "tronco encefálico",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 695,
+      "end": 712
+    },
+    {
+      "text": "bulbo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 740,
+      "end": 745
+    },
+    {
+      "text": "arteria basilar",
+      "type": "ARTERIA",
+      "start": 1256,
+      "end": 1271
+    },
+    {
+      "text": "segmentaria",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1238,
+      "end": 1249
+    },
+    {
+      "text": "izquierdo",
+      "type": "LATERALIDAD",
+      "start": 1352,
+      "end": 1361
+    },
+    {
+      "text": "disminuido",
+      "type": "PATOLOGIA",
+      "start": 1313,
+      "end": 1323
+    },
+    {
+      "text": "aguda",
+      "type": "TEMPORALIDAD",
+      "start": 274,
+      "end": 279
+    },
+    {
+      "text": "TC CRANEAL BASAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 446,
+      "end": 462
+    },
+    {
+      "text": "TC PERFUSIÓN",
+      "type": "TECNICA_IMAGEN",
+      "start": 904,
+      "end": 916
+    },
+    {
+      "text": "ANGIO-TC ARTERIAL INTRACRANEAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 1197,
+      "end": 1227
+    }
+  ]
+}

@@ -1,0 +1,209 @@
+{
+  "document_id": "informe_sintetico_20250804195045_21639",
+  "entities": [
+    {
+      "text": "accidente isquémico agudo",
+      "type": "PATOLOGIA",
+      "start": 232,
+      "end": 257
+    },
+    {
+      "text": "arteria cerebral posterior derecha",
+      "type": "ARTERIA",
+      "start": 275,
+      "end": 309
+    },
+    {
+      "text": "TC craneal sin contraste inicial",
+      "type": "TECNICA_IMAGEN",
+      "start": 330,
+      "end": 362
+    },
+    {
+      "text": "perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 386,
+      "end": 404
+    },
+    {
+      "text": "angiografía TC arterial intracraneal multidetector",
+      "type": "TECNICA_IMAGEN",
+      "start": 407,
+      "end": 457
+    },
+    {
+      "text": "hemorragia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 530,
+      "end": 540
+    },
+    {
+      "text": "infarto establecido",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 544,
+      "end": 563
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 565,
+      "end": 575
+    },
+    {
+      "text": "isquemia incipiente",
+      "type": "PATOLOGIA",
+      "start": 666,
+      "end": 685
+    },
+    {
+      "text": "edema significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 727,
+      "end": 746
+    },
+    {
+      "text": "ventrículos presentan morfología y tamaño normales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 752,
+      "end": 802
+    },
+    {
+      "text": "aumento del tiempo de tránsito medio (TTM)",
+      "type": "PATOLOGIA",
+      "start": 863,
+      "end": 905
+    },
+    {
+      "text": "tiempo de llegada (Tmax)",
+      "type": "PATOLOGIA",
+      "start": 908,
+      "end": 932
+    },
+    {
+      "text": "territorio occipital derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 936,
+      "end": 964
+    },
+    {
+      "text": "reducción notable del flujo sanguíneo cerebral (CBF)",
+      "type": "PATOLOGIA",
+      "start": 970,
+      "end": 1022
+    },
+    {
+      "text": "volumen cerebral (CBV) conservado",
+      "type": "PATOLOGIA",
+      "start": 1025,
+      "end": 1058
+    },
+    {
+      "text": "zona de penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1086,
+      "end": 1112
+    },
+    {
+      "text": "oclusión subtotal del segmento P2 derecho",
+      "type": "PATOLOGIA",
+      "start": 1163,
+      "end": 1204
+    },
+    {
+      "text": "arteria cerebral posterior",
+      "type": "ARTERIA",
+      "start": 275,
+      "end": 301
+    },
+    {
+      "text": "colaterales corticales preservadas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1243,
+      "end": 1277
+    },
+    {
+      "text": "polígono de Willis",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1292,
+      "end": 1310
+    },
+    {
+      "text": "permeable sin estenosis significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1324,
+      "end": 1362
+    },
+    {
+      "text": "placas calcificadas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1379,
+      "end": 1398
+    },
+    {
+      "text": "trombos en vasos extracraneales evaluados",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1402,
+      "end": 1443
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 1490,
+      "end": 1504
+    },
+    {
+      "text": "territorio de arteria cerebral posterior derecha",
+      "type": "ARTERIA",
+      "start": 261,
+      "end": 309
+    },
+    {
+      "text": "zona de penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1086,
+      "end": 1112
+    },
+    {
+      "text": "oclusión parcial del segmento P2 derecho",
+      "type": "PATOLOGIA",
+      "start": 1611,
+      "end": 1651
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1670,
+      "end": 1693
+    },
+    {
+      "text": "edema cerebral significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1697,
+      "end": 1725
+    },
+    {
+      "text": "Infarto agudo en territorio de arteria cerebral posterior derecha",
+      "type": "PATOLOGIA",
+      "start": 1974,
+      "end": 2039
+    },
+    {
+      "text": "penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1094,
+      "end": 1112
+    },
+    {
+      "text": "oclusión segmentaria de P2 derecha",
+      "type": "PATOLOGIA",
+      "start": 2078,
+      "end": 2112
+    },
+    {
+      "text": "AngioTC",
+      "type": "TECNICA_IMAGEN",
+      "start": 1120,
+      "end": 1127
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "document_id": "0000000010000000059492257_cleaned",
+  "entities": [
+    {
+      "text": "No s'observen signes d'hemorràgia aguda intra o extraaxial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 384,
+      "end": 442
+    },
+    {
+      "text": "Oclusió proximal del segment P2 de l'ACP esquerra",
+      "type": "PATOLOGIA",
+      "start": 923,
+      "end": 972
+    },
+    {
+      "text": "No s'identifica amb claredat l'ACoP esquerra",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 974,
+      "end": 1018
+    },
+    {
+      "text": "Resta de principals artèries cerebrals intracranials permeables (ACAs, ACMs i ACPd)",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1020,
+      "end": 1103
+    },
+    {
+      "text": "Oclusió proximal del segment P2 esquerre",
+      "type": "PATOLOGIA",
+      "start": 1603,
+      "end": 1643
+    },
+    {
+      "text": "alteració de la perfusió al territori de l'ACP esquerra",
+      "type": "PATOLOGIA",
+      "start": 1648,
+      "end": 1703
+    },
+    {
+      "text": "mínima disminució de volum al tàlem ipsilateral",
+      "type": "PATOLOGIA",
+      "start": 1709,
+      "end": 1756
+    },
+    {
+      "text": "sense signes isquèmics en TC basal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1759,
+      "end": 1793
+    },
+    {
+      "text": "ACP esquerra",
+      "type": "ARTERIA",
+      "start": 788,
+      "end": 800
+    },
+    {
+      "text": "P2",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 952,
+      "end": 954
+    },
+    {
+      "text": "TTP",
+      "type": "MEDIDA",
+      "start": 766,
+      "end": 769
+    },
+    {
+      "text": "bilaterals",
+      "type": "LATERALIDAD",
+      "start": 1549,
+      "end": 1559
+    },
+    {
+      "text": "DISH",
+      "type": "PATOLOGIA",
+      "start": 1521,
+      "end": 1525
+    },
+    {
+      "text": "TC CRANIAL BASAL + TC PERFUSIÓ + ANGIO-TC INTRA I EXTRACRANIAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 283,
+      "end": 345
+    }
+  ]
+}

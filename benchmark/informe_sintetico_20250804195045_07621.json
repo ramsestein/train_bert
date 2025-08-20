@@ -1,0 +1,95 @@
+{
+  "document_id": "informe_sintetico_20250804195045_07621",
+  "entities": [
+    {
+      "text": "infarto cerebral",
+      "type": "PATOLOGIA",
+      "start": 265,
+      "end": 281
+    },
+    {
+      "text": "hipoperfusión",
+      "type": "PATOLOGIA",
+      "start": 286,
+      "end": 299
+    },
+    {
+      "text": "infarto tipo watershed",
+      "type": "PATOLOGIA",
+      "start": 852,
+      "end": 874
+    },
+    {
+      "text": "bilaterales",
+      "type": "LATERALIDAD",
+      "start": 625,
+      "end": 636
+    },
+    {
+      "text": "regiones subcorticales frontoparietales y parietoccipitales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 653,
+      "end": 712
+    },
+    {
+      "text": "arterias cerebrales anterior y media",
+      "type": "ARTERIA",
+      "start": 777,
+      "end": 813
+    },
+    {
+      "text": "sin estenosis ni oclusión",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1539,
+      "end": 1564
+    },
+    {
+      "text": "sin evidencia de lesión hemorrágica",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1928,
+      "end": 1963
+    },
+    {
+      "text": "sin estenosis significativas ni placas inestables",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1689,
+      "end": 1738
+    },
+    {
+      "text": "prolongación del Tiempo de Tránsito Medio (TTP)",
+      "type": "MEDIDA",
+      "start": 1091,
+      "end": 1138
+    },
+    {
+      "text": "reducción del Volumen Cerebral de Sangre (CBV)",
+      "type": "MEDIDA",
+      "start": 1141,
+      "end": 1187
+    },
+    {
+      "text": "sin incremento compensatorio del Flujo Cerebral de Sangre (CBF)",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1284,
+      "end": 1347
+    },
+    {
+      "text": "TC craneal basal sin contraste",
+      "type": "TECNICA_IMAGEN",
+      "start": 356,
+      "end": 386
+    },
+    {
+      "text": "TC perfusión cerebral con mapas de TTP, CBV, CBF",
+      "type": "TECNICA_IMAGEN",
+      "start": 389,
+      "end": 437
+    },
+    {
+      "text": "Angio-TC arterial intracraneal y de troncos supraaórticos",
+      "type": "TECNICA_IMAGEN",
+      "start": 440,
+      "end": 497
+    }
+  ]
+}

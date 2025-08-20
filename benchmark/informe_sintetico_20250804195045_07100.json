@@ -1,0 +1,125 @@
+{
+  "document_id": "informe_sintetico_20250804195045_07100",
+  "entities": [
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 1121,
+      "end": 1135
+    },
+    {
+      "text": "lesiones isquémicas agudas",
+      "type": "PATOLOGIA",
+      "start": 661,
+      "end": 687
+    },
+    {
+      "text": "hemorragia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 716,
+      "end": 726
+    },
+    {
+      "text": "edema significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 730,
+      "end": 749
+    },
+    {
+      "text": "territorios frontoparietal derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 558,
+      "end": 592
+    },
+    {
+      "text": "occipital izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 594,
+      "end": 613
+    },
+    {
+      "text": "núcleo lenticular bilateral",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 616,
+      "end": 643
+    },
+    {
+      "text": "penumbra isquémica extensa",
+      "type": "PATOLOGIA",
+      "start": 1156,
+      "end": 1182
+    },
+    {
+      "text": "oclusión parcial del segmento M2 de la arteria cerebral media derecha",
+      "type": "PATOLOGIA",
+      "start": 1286,
+      "end": 1355
+    },
+    {
+      "text": "estenosis significativa (>70%) en la arteria cerebral posterior izquierda",
+      "type": "PATOLOGIA",
+      "start": 1357,
+      "end": 1430
+    },
+    {
+      "text": "oclusión completa de una rama distal de la arteria cerebral anterior derecha",
+      "type": "PATOLOGIA",
+      "start": 1433,
+      "end": 1509
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "ARTERIA",
+      "start": 1325,
+      "end": 1355
+    },
+    {
+      "text": "arteria cerebral posterior izquierda",
+      "type": "ARTERIA",
+      "start": 1394,
+      "end": 1430
+    },
+    {
+      "text": "arteria cerebral anterior derecha",
+      "type": "ARTERIA",
+      "start": 1476,
+      "end": 1509
+    },
+    {
+      "text": "bilaterales",
+      "type": "LATERALIDAD",
+      "start": 471,
+      "end": 482
+    },
+    {
+      "text": "TC craneal basal sin contraste",
+      "type": "TECNICA_IMAGEN",
+      "start": 281,
+      "end": 311
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 324,
+      "end": 345
+    },
+    {
+      "text": "Angio-TC de vasos intra y extracraneales",
+      "type": "TECNICA_IMAGEN",
+      "start": 348,
+      "end": 388
+    },
+    {
+      "text": "TC de perfusión cerebral con Angiografía por TC",
+      "type": "TECNICA_IMAGEN",
+      "start": 2224,
+      "end": 2271
+    },
+    {
+      "text": "isquemia aguda multiterritorial",
+      "type": "PATOLOGIA",
+      "start": 2329,
+      "end": 2360
+    }
+  ]
+}

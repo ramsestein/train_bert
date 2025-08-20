@@ -1,0 +1,65 @@
+{
+  "document_id": "informe_sintetico_20250804195045_06752",
+  "entities": [
+    {
+      "text": "contusión hemorrágica traumática",
+      "type": "PATOLOGIA",
+      "start": 633,
+      "end": 665
+    },
+    {
+      "text": "temporal",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 586,
+      "end": 594
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 595,
+      "end": 602
+    },
+    {
+      "text": "12 mm",
+      "type": "MEDIDA",
+      "start": 689,
+      "end": 694
+    },
+    {
+      "text": "3 mm",
+      "type": "MEDIDA",
+      "start": 835,
+      "end": 839
+    },
+    {
+      "text": "No se observa hemorragia subaracnoidea significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 860,
+      "end": 912
+    },
+    {
+      "text": "No se identifican otras complicaciones hemorrágicas ni lesiones vasculares",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1768,
+      "end": 1842
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 283,
+      "end": 299
+    },
+    {
+      "text": "perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 382,
+      "end": 400
+    },
+    {
+      "text": "AngioTC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 403,
+      "end": 432
+    }
+  ]
+}

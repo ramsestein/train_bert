@@ -1,0 +1,65 @@
+{
+  "document_id": "informe_sintetico_20250804195045_18996",
+  "entities": [
+    {
+      "text": "infarto agudo",
+      "type": "PATOLOGIA",
+      "start": 640,
+      "end": 653
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 671,
+      "end": 694
+    },
+    {
+      "text": "sangrado subaracnoideo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 708,
+      "end": 730
+    },
+    {
+      "text": "tronco encefálico",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 590,
+      "end": 607
+    },
+    {
+      "text": "territorio vertebrobasilar",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 991,
+      "end": 1017
+    },
+    {
+      "text": "segmento pontino",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1037,
+      "end": 1053
+    },
+    {
+      "text": "mesencefálico",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1056,
+      "end": 1069
+    },
+    {
+      "text": "arteria basilar",
+      "type": "ARTERIA",
+      "start": 1238,
+      "end": 1253
+    },
+    {
+      "text": "segmento prepontino",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1289,
+      "end": 1308
+    },
+    {
+      "text": "TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANGIOTC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 1982,
+      "end": 2049
+    }
+  ]
+}

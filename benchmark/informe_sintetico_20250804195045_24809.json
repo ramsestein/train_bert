@@ -1,0 +1,187 @@
+{
+  "document_id": "informe_sintetico_20250804195045_24809",
+  "entities": [
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 307,
+      "end": 321
+    },
+    {
+      "text": "debilidad facial",
+      "type": "PATOLOGIA",
+      "start": 351,
+      "end": 367
+    },
+    {
+      "text": "hemorragia intracraneal aguda",
+      "type": "PATOLOGIA",
+      "start": 666,
+      "end": 695
+    },
+    {
+      "text": "infarto reciente",
+      "type": "PATOLOGIA",
+      "start": 730,
+      "end": 746
+    },
+    {
+      "text": "enfermedad crónica de pequeño vaso",
+      "type": "PATOLOGIA",
+      "start": 871,
+      "end": 905
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 1047,
+      "end": 1057
+    },
+    {
+      "text": "alteraciones en los mapas de tiempo a pico",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1094,
+      "end": 1136
+    },
+    {
+      "text": "volumen cerebral",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1144,
+      "end": 1160
+    },
+    {
+      "text": "flujo cerebral",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1170,
+      "end": 1184
+    },
+    {
+      "text": "hipoperfusión",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1226,
+      "end": 1239
+    },
+    {
+      "text": "mismatch",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1242,
+      "end": 1250
+    },
+    {
+      "text": "ateromatosis calcificada",
+      "type": "PATOLOGIA",
+      "start": 1328,
+      "end": 1352
+    },
+    {
+      "text": "estenosis hemodinámicamente significativas",
+      "type": "PATOLOGIA",
+      "start": 1357,
+      "end": 1399
+    },
+    {
+      "text": "estenosis severas",
+      "type": "PATOLOGIA",
+      "start": 1432,
+      "end": 1449
+    },
+    {
+      "text": "oclusión",
+      "type": "PATOLOGIA",
+      "start": 1534,
+      "end": 1542
+    },
+    {
+      "text": "estenosis",
+      "type": "PATOLOGIA",
+      "start": 1357,
+      "end": 1366
+    },
+    {
+      "text": "sustancia blanca periventricular",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1838,
+      "end": 1870
+    },
+    {
+      "text": "arterias cerebrales intracraneales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1463,
+      "end": 1497
+    },
+    {
+      "text": "ACAs",
+      "type": "ARTERIA",
+      "start": 1499,
+      "end": 1503
+    },
+    {
+      "text": "ACMs",
+      "type": "ARTERIA",
+      "start": 1505,
+      "end": 1509
+    },
+    {
+      "text": "ACPs",
+      "type": "ARTERIA",
+      "start": 1511,
+      "end": 1515
+    },
+    {
+      "text": "periventricular bilateral",
+      "type": "LATERALIDAD",
+      "start": 830,
+      "end": 855
+    },
+    {
+      "text": "6 meses",
+      "type": "TEMPORALIDAD",
+      "start": 593,
+      "end": 600
+    },
+    {
+      "text": "sin signos de isquemia cerebral aguda",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1731,
+      "end": 1768
+    },
+    {
+      "text": "sin estenosis significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1954,
+      "end": 1981
+    },
+    {
+      "text": "TC CODIGO ICTUS",
+      "type": "TECNICA_IMAGEN",
+      "start": 72,
+      "end": 87
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 412,
+      "end": 428
+    },
+    {
+      "text": "perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 430,
+      "end": 448
+    },
+    {
+      "text": "angio-TC arterial intra y extracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 451,
+      "end": 489
+    },
+    {
+      "text": "contraste intravenoso",
+      "type": "TECNICA_IMAGEN",
+      "start": 494,
+      "end": 515
+    }
+  ],
+  "regenerado": true,
+  "fecha_regeneracion": "2025-08-06T04:29:17.615275"
+}

@@ -1,0 +1,71 @@
+{
+  "document_id": "informe_sintetico_20250804195045_22359",
+  "entities": [
+    {
+      "text": "hemorragia aguda",
+      "type": "PATOLOGIA",
+      "start": 455,
+      "end": 471
+    },
+    {
+      "text": "infarto reciente",
+      "type": "PATOLOGIA",
+      "start": 475,
+      "end": 491
+    },
+    {
+      "text": "atrofia cerebral leve",
+      "type": "PATOLOGIA",
+      "start": 722,
+      "end": 743
+    },
+    {
+      "text": "enfermedad microangiopática de grado leve",
+      "type": "PATOLOGIA",
+      "start": 924,
+      "end": 965
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 564,
+      "end": 574
+    },
+    {
+      "text": "ACAs",
+      "type": "ARTERIA",
+      "start": 1216,
+      "end": 1220
+    },
+    {
+      "text": "ACMs",
+      "type": "ARTERIA",
+      "start": 1222,
+      "end": 1226
+    },
+    {
+      "text": "ACPs",
+      "type": "ARTERIA",
+      "start": 1228,
+      "end": 1232
+    },
+    {
+      "text": "ambas carótidas internas",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1346,
+      "end": 1370
+    },
+    {
+      "text": "sin signos de patología aguda isquémica o hemorrágica",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1509,
+      "end": 1562
+    },
+    {
+      "text": "sin estenosis significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1696,
+      "end": 1724
+    }
+  ]
+}

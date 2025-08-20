@@ -1,0 +1,149 @@
+{
+  "document_id": "informe_sintetico_20250804195045_02982",
+  "entities": [
+    {
+      "text": "infarto isquémico",
+      "type": "PATOLOGIA",
+      "start": 592,
+      "end": 609
+    },
+    {
+      "text": "hemorrágico hiperdenso parcheado",
+      "type": "PATOLOGIA",
+      "start": 640,
+      "end": 672
+    },
+    {
+      "text": "transformación hemorrágica tipo PH1",
+      "type": "PATOLOGIA",
+      "start": 723,
+      "end": 758
+    },
+    {
+      "text": "hemorragias subaracnoideas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 844,
+      "end": 870
+    },
+    {
+      "text": "hematomas extraaxiales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 874,
+      "end": 896
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 544,
+      "end": 576
+    },
+    {
+      "text": "núcleo lenticular ipsilateral",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 679,
+      "end": 708
+    },
+    {
+      "text": "territorio afectado",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1157,
+      "end": 1176
+    },
+    {
+      "text": "reducción de calibre en su segmento proximal",
+      "type": "PATOLOGIA",
+      "start": 1475,
+      "end": 1519
+    },
+    {
+      "text": "oclusión subaguda",
+      "type": "PATOLOGIA",
+      "start": 1536,
+      "end": 1553
+    },
+    {
+      "text": "infarto cerebral",
+      "type": "PATOLOGIA",
+      "start": 1690,
+      "end": 1706
+    },
+    {
+      "text": "transformación hemorrágica focal tipo PH1",
+      "type": "PATOLOGIA",
+      "start": 1750,
+      "end": 1791
+    },
+    {
+      "text": "penumbra isquémica residual",
+      "type": "PATOLOGIA",
+      "start": 1264,
+      "end": 1291
+    },
+    {
+      "text": "estenosis arteriales críticas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1902,
+      "end": 1931
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "ARTERIA",
+      "start": 544,
+      "end": 576
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 567,
+      "end": 576
+    },
+    {
+      "text": "sin efecto masa significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 760,
+      "end": 789
+    },
+    {
+      "text": "sin estenosis significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1343,
+      "end": 1370
+    },
+    {
+      "text": "sin evidencia de trombosis o estenosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1603,
+      "end": 1641
+    },
+    {
+      "text": "sin complicaciones de efecto masa significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1793,
+      "end": 1840
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 365,
+      "end": 381
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 383,
+      "end": 404
+    },
+    {
+      "text": "AngioTC arterial intra y extracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 408,
+      "end": 445
+    },
+    {
+      "text": "TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANG IOTC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 72,
+      "end": 140
+    }
+  ]
+}

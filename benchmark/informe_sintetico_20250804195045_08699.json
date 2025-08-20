@@ -1,0 +1,221 @@
+{
+  "document_id": "informe_sintetico_20250804195045_08699",
+  "entities": [
+    {
+      "text": "infarto cerebral",
+      "type": "PATOLOGIA",
+      "start": 312,
+      "end": 328
+    },
+    {
+      "text": "debilidad distal en extremidades superiores",
+      "type": "PATOLOGIA",
+      "start": 189,
+      "end": 232
+    },
+    {
+      "text": "deterioro cognitivo progresivo",
+      "type": "PATOLOGIA",
+      "start": 235,
+      "end": 265
+    },
+    {
+      "text": "subaguda",
+      "type": "TEMPORALIDAD",
+      "start": 282,
+      "end": 290
+    },
+    {
+      "text": "hipodensidad",
+      "type": "PATOLOGIA",
+      "start": 600,
+      "end": 612
+    },
+    {
+      "text": "región subcortical y cortical",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 619,
+      "end": 648
+    },
+    {
+      "text": "arterias cerebrales anterior y media",
+      "type": "ARTERIA",
+      "start": 710,
+      "end": 746
+    },
+    {
+      "text": "arterias media y posterior",
+      "type": "ARTERIA",
+      "start": 767,
+      "end": 793
+    },
+    {
+      "text": "hemorragia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 812,
+      "end": 822
+    },
+    {
+      "text": "edema significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 826,
+      "end": 845
+    },
+    {
+      "text": "lesiones hemorrágicas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 865,
+      "end": 886
+    },
+    {
+      "text": "masas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 890,
+      "end": 895
+    },
+    {
+      "text": "ASPECTS 9",
+      "type": "PUNTUACION_CLINICA",
+      "start": 957,
+      "end": 966
+    },
+    {
+      "text": "prolongaciones del tiempo de tránsito medio (TTP)",
+      "type": "MEDIDA",
+      "start": 1063,
+      "end": 1112
+    },
+    {
+      "text": "reducción del flujo cerebral (CBF)",
+      "type": "MEDIDA",
+      "start": 1115,
+      "end": 1149
+    },
+    {
+      "text": "bilateral",
+      "type": "LATERALIDAD",
+      "start": 1159,
+      "end": 1168
+    },
+    {
+      "text": "simétrica",
+      "type": "LATERALIDAD",
+      "start": 1171,
+      "end": 1180
+    },
+    {
+      "text": "volumen cerebral (CBV)",
+      "type": "MEDIDA",
+      "start": 1285,
+      "end": 1307
+    },
+    {
+      "text": "hipoperfusión",
+      "type": "PATOLOGIA",
+      "start": 1323,
+      "end": 1336
+    },
+    {
+      "text": "sin infarto establecido",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1337,
+      "end": 1360
+    },
+    {
+      "text": "estenosis moderada (aprox. 50%)",
+      "type": "MEDIDA",
+      "start": 1461,
+      "end": 1492
+    },
+    {
+      "text": "carotida interna derecha proximal",
+      "type": "ARTERIA",
+      "start": 1496,
+      "end": 1529
+    },
+    {
+      "text": "troncos supraórticos",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 505,
+      "end": 525
+    },
+    {
+      "text": "permeables",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1440,
+      "end": 1450
+    },
+    {
+      "text": "flujo conservado en ACAs, ACMs y ACPs",
+      "type": "ARTERIA",
+      "start": 1650,
+      "end": 1687
+    },
+    {
+      "text": "infarto por hipoperfusión",
+      "type": "PATOLOGIA",
+      "start": 1792,
+      "end": 1817
+    },
+    {
+      "text": "arterias cerebrales anterior-media y media-posterior",
+      "type": "ARTERIA",
+      "start": 1870,
+      "end": 1922
+    },
+    {
+      "text": "sin infarto consolidado por TC",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1924,
+      "end": 1954
+    },
+    {
+      "text": "prolongación del TTP",
+      "type": "MEDIDA",
+      "start": 2003,
+      "end": 2023
+    },
+    {
+      "text": "disminución del CBF",
+      "type": "MEDIDA",
+      "start": 2026,
+      "end": 2045
+    },
+    {
+      "text": "sin reducción del CBV",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2046,
+      "end": 2067
+    },
+    {
+      "text": "característicos de infarto en zona de frontera",
+      "type": "PATOLOGIA",
+      "start": 2075,
+      "end": 2121
+    },
+    {
+      "text": "estenosis moderada en carótida interna derecha",
+      "type": "PATOLOGIA",
+      "start": 2156,
+      "end": 2202
+    },
+    {
+      "text": "probablemente responsable de perfusión comprometida",
+      "type": "PATOLOGIA",
+      "start": 2203,
+      "end": 2254
+    },
+    {
+      "text": "alteración hemodinámica del territorio carotídeo derecho",
+      "type": "PATOLOGIA",
+      "start": 2692,
+      "end": 2748
+    },
+    {
+      "text": "zonas frontera cerebral bilateral",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 2768,
+      "end": 2801
+    }
+  ]
+}

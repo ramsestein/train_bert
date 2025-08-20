@@ -1,0 +1,95 @@
+{
+  "document_id": "informe_sintetico_20250804195045_14060",
+  "entities": [
+    {
+      "text": "infarto cerebral reciente",
+      "type": "PATOLOGIA",
+      "start": 179,
+      "end": 204
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "ARTERIA",
+      "start": 225,
+      "end": 257
+    },
+    {
+      "text": "TC craneal basal urgente",
+      "type": "TECNICA_IMAGEN",
+      "start": 324,
+      "end": 348
+    },
+    {
+      "text": "área hipodensa",
+      "type": "PATOLOGIA",
+      "start": 463,
+      "end": 477
+    },
+    {
+      "text": "ACM izquierda",
+      "type": "ARTERIA",
+      "start": 495,
+      "end": 508
+    },
+    {
+      "text": "infarto cerebral establecido",
+      "type": "PATOLOGIA",
+      "start": 522,
+      "end": 550
+    },
+    {
+      "text": "foco hiperdenso intraaxial",
+      "type": "PATOLOGIA",
+      "start": 566,
+      "end": 592
+    },
+    {
+      "text": "transformación hemorrágica tipo HI2",
+      "type": "PATOLOGIA",
+      "start": 641,
+      "end": 676
+    },
+    {
+      "text": "hemorragia intraparenquimatosa confluyente",
+      "type": "PATOLOGIA",
+      "start": 682,
+      "end": 724
+    },
+    {
+      "text": "más del 30%",
+      "type": "MEDIDA",
+      "start": 739,
+      "end": 750
+    },
+    {
+      "text": "No hay evidencia de hemorragia subaracnoidea ni ventricular",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 804,
+      "end": 863
+    },
+    {
+      "text": "Oclusión segmentaria distal de arteria cerebral media izquierda en M2",
+      "type": "PATOLOGIA",
+      "start": 1181,
+      "end": 1250
+    },
+    {
+      "text": "ACM izquierda",
+      "type": "ARTERIA",
+      "start": 495,
+      "end": 508
+    },
+    {
+      "text": "No signos de hemorragia intraventricular o subaracnoidea",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1710,
+      "end": 1766
+    },
+    {
+      "text": "Control radiológico por TC cerebral en 24-48 horas",
+      "type": "TEMPORALIDAD",
+      "start": 1844,
+      "end": 1894
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "document_id": "informe_sintetico_20250804195045_20059",
+  "entities": [
+    {
+      "text": "trombosis venosa cerebral",
+      "type": "PATOLOGIA",
+      "start": 297,
+      "end": 322
+    },
+    {
+      "text": "seno longitudinal superior",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 932,
+      "end": 958
+    },
+    {
+      "text": "seno transverso izquierdo proximal",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1065,
+      "end": 1099
+    },
+    {
+      "text": "izquierdos",
+      "type": "LATERALIDAD",
+      "start": 643,
+      "end": 653
+    },
+    {
+      "text": "agudas",
+      "type": "TEMPORALIDAD",
+      "start": 699,
+      "end": 705
+    },
+    {
+      "text": "No se evidencian hemorragias intraparenquimatosas ni externas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 505,
+      "end": 566
+    },
+    {
+      "text": "No se identifican hipodensidades isquémicas agudas significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 655,
+      "end": 720
+    },
+    {
+      "text": "No se evidencian signos de hipertensión venosa ni edema significativo en la parénquima cerebral subyacente",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1198,
+      "end": 1304
+    },
+    {
+      "text": "congestión venosa",
+      "type": "PATOLOGIA",
+      "start": 1562,
+      "end": 1579
+    },
+    {
+      "text": "Imagen multiplanar con reconstrucciones venosas y mapas de perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 2127,
+      "end": 2204
+    }
+  ]
+}

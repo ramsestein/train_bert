@@ -1,0 +1,89 @@
+{
+  "document_id": "informe_sintetico_20250804195045_00075",
+  "entities": [
+    {
+      "text": "infarto",
+      "type": "PATOLOGIA",
+      "start": 272,
+      "end": 279
+    },
+    {
+      "text": "hipoperfusión",
+      "type": "PATOLOGIA",
+      "start": 284,
+      "end": 297
+    },
+    {
+      "text": "hemorragia intra o extraaxial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 509,
+      "end": 538
+    },
+    {
+      "text": "áreas parcheadas de hipodensidad cortical y subcortical",
+      "type": "PATOLOGIA",
+      "start": 555,
+      "end": 610
+    },
+    {
+      "text": "regiones de unión entre los territorios irrigados por las arterias cerebrales anterior, media y posterior",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 618,
+      "end": 723
+    },
+    {
+      "text": "infartos watershed",
+      "type": "PATOLOGIA",
+      "start": 829,
+      "end": 847
+    },
+    {
+      "text": "ASPECTS 7/10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 922,
+      "end": 934
+    },
+    {
+      "text": "Tmax y TTP",
+      "type": "TECNICA_IMAGEN",
+      "start": 1095,
+      "end": 1105
+    },
+    {
+      "text": "reducción moderada del flujo cerebral",
+      "type": "PATOLOGIA",
+      "start": 1187,
+      "end": 1224
+    },
+    {
+      "text": "hipoperfusión penumbra isquémica en territorio watershed",
+      "type": "PATOLOGIA",
+      "start": 1327,
+      "end": 1383
+    },
+    {
+      "text": "arteria carótida común izquierda",
+      "type": "ARTERIA",
+      "start": 1587,
+      "end": 1619
+    },
+    {
+      "text": "sin oclusiones completas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1697,
+      "end": 1721
+    },
+    {
+      "text": "territorios irrigados por ACA, ACM y ACP",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1974,
+      "end": 2014
+    },
+    {
+      "text": "hipoperfusión cerebral confirmada en estudio de perfusión",
+      "type": "PATOLOGIA",
+      "start": 2031,
+      "end": 2088
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "document_id": "informe_sintetico_20250804195045_17777",
+  "entities": [
+    {
+      "text": "contusión hemorrágica",
+      "type": "PATOLOGIA",
+      "start": 541,
+      "end": 562
+    },
+    {
+      "text": "hematoma intraaxial",
+      "type": "PATOLOGIA",
+      "start": 572,
+      "end": 591
+    },
+    {
+      "text": "1,5 cm",
+      "type": "MEDIDA",
+      "start": 611,
+      "end": 617
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 517,
+      "end": 524
+    },
+    {
+      "text": "hemorragia subdural",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 676,
+      "end": 695
+    },
+    {
+      "text": "contusión hemorrágica traumática derecha",
+      "type": "PATOLOGIA",
+      "start": 1394,
+      "end": 1434
+    },
+    {
+      "text": "sin efecto de masa significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1495,
+      "end": 1527
+    },
+    {
+      "text": "sin área isquémica relevante",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1625,
+      "end": 1653
+    },
+    {
+      "text": "sin hallazgos vasculares patológicos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1672,
+      "end": 1708
+    },
+    {
+      "text": "sin defectos de repleción",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1276,
+      "end": 1301
+    },
+    {
+      "text": "patrón de perfusión alterada",
+      "type": "PATOLOGIA",
+      "start": 965,
+      "end": 993
+    },
+    {
+      "text": "reducción leve del flujo cerebral",
+      "type": "PATOLOGIA",
+      "start": 998,
+      "end": 1031
+    },
+    {
+      "text": "aumento del tiempo de tránsito",
+      "type": "PATOLOGIA",
+      "start": 1040,
+      "end": 1070
+    },
+    {
+      "text": "TC Basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 354,
+      "end": 362
+    },
+    {
+      "text": "TC Perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 364,
+      "end": 385
+    },
+    {
+      "text": "AngioTC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 388,
+      "end": 417
+    }
+  ]
+}

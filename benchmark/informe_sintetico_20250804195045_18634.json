@@ -1,0 +1,145 @@
+{
+  "document_id": "informe_sintetico_20250804195045_18634",
+  "entities": [
+    {
+      "text": "encefalopatía hipóxico-isquémica",
+      "type": "PATOLOGIA",
+      "start": 229,
+      "end": 261
+    },
+    {
+      "text": "edema cerebral difuso",
+      "type": "PATOLOGIA",
+      "start": 579,
+      "end": 600
+    },
+    {
+      "text": "pérdida de diferenciación cortico-subcortical difusa",
+      "type": "PATOLOGIA",
+      "start": 437,
+      "end": 489
+    },
+    {
+      "text": "regiones fronto-parietales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 508,
+      "end": 534
+    },
+    {
+      "text": "ganglios basales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 546,
+      "end": 562
+    },
+    {
+      "text": "sistema ventricular",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 766,
+      "end": 785
+    },
+    {
+      "text": "cuernos occipitales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 818,
+      "end": 837
+    },
+    {
+      "text": "cisternas basales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 874,
+      "end": 891
+    },
+    {
+      "text": "volumen sanguíneo cerebral (CBV)",
+      "type": "MEDIDA",
+      "start": 981,
+      "end": 1013
+    },
+    {
+      "text": "flujo sanguíneo cerebral (CBF)",
+      "type": "MEDIDA",
+      "start": 1020,
+      "end": 1050
+    },
+    {
+      "text": "tiempo hasta el pico (TTP)",
+      "type": "MEDIDA",
+      "start": 1110,
+      "end": 1136
+    },
+    {
+      "text": "tiempo de tránsito medio (MTT)",
+      "type": "MEDIDA",
+      "start": 1139,
+      "end": 1169
+    },
+    {
+      "text": "ACAs",
+      "type": "ARTERIA",
+      "start": 1409,
+      "end": 1413
+    },
+    {
+      "text": "ACMs",
+      "type": "ARTERIA",
+      "start": 1415,
+      "end": 1419
+    },
+    {
+      "text": "ACPs",
+      "type": "ARTERIA",
+      "start": 1421,
+      "end": 1425
+    },
+    {
+      "text": "troncos supra-aórticos",
+      "type": "ARTERIA",
+      "start": 1437,
+      "end": 1459
+    },
+    {
+      "text": "leve",
+      "type": "MEDIDA",
+      "start": 795,
+      "end": 799
+    },
+    {
+      "text": "urgente",
+      "type": "TEMPORALIDAD",
+      "start": 299,
+      "end": 306
+    },
+    {
+      "text": "sin hidrocefalia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 852,
+      "end": 868
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 282,
+      "end": 298
+    },
+    {
+      "text": "TC PERFUSIÓN",
+      "type": "TECNICA_IMAGEN",
+      "start": 931,
+      "end": 943
+    },
+    {
+      "text": "ANGIO-TC EXTRA E INTRACRANEAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 1257,
+      "end": 1286
+    },
+    {
+      "text": "TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANG IOTC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 72,
+      "end": 140
+    }
+  ],
+  "regenerado": true,
+  "fecha_regeneracion": "2025-08-06T12:27:30.984377"
+}

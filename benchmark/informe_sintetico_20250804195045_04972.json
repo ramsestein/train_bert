@@ -1,0 +1,83 @@
+{
+  "document_id": "informe_sintetico_20250804195045_04972",
+  "entities": [
+    {
+      "text": "infarto agudo establecido",
+      "type": "PATOLOGIA",
+      "start": 647,
+      "end": 672
+    },
+    {
+      "text": "región frontoparietal izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 477,
+      "end": 508
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "ARTERIA",
+      "start": 723,
+      "end": 755
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 499,
+      "end": 508
+    },
+    {
+      "text": "completa",
+      "type": "MEDIDA",
+      "start": 1285,
+      "end": 1293
+    },
+    {
+      "text": "agudo",
+      "type": "TEMPORALIDAD",
+      "start": 655,
+      "end": 660
+    },
+    {
+      "text": "ausencia de mismatch",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1166,
+      "end": 1186
+    },
+    {
+      "text": "No se identifican signos de hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2020,
+      "end": 2071
+    },
+    {
+      "text": "arteria carótida interna izquierda",
+      "type": "ARTERIA",
+      "start": 1300,
+      "end": 1334
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 499,
+      "end": 508
+    },
+    {
+      "text": "bilaterales",
+      "type": "LATERALIDAD",
+      "start": 1463,
+      "end": 1474
+    },
+    {
+      "text": "sin circulación colateral suficiente",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1978,
+      "end": 2014
+    },
+    {
+      "text": "sin reconstitución distal evidente",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1365,
+      "end": 1399
+    }
+  ]
+}

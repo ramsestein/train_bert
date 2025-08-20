@@ -1,0 +1,47 @@
+{
+  "document_id": "informe_sintetico_20250804195045_19134",
+  "entities": [
+    {
+      "text": "hemorragia subaracnoidea",
+      "type": "PATOLOGIA",
+      "start": 202,
+      "end": 226
+    },
+    {
+      "text": "cisternas supraselares",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 382,
+      "end": 404
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 405,
+      "end": 412
+    },
+    {
+      "text": "4 mm",
+      "type": "MEDIDA",
+      "start": 465,
+      "end": 469
+    },
+    {
+      "text": "No se evidencian hematomas intraparenquimatosos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 518,
+      "end": 565
+    },
+    {
+      "text": "No hay desplazamiento de línea media",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 659,
+      "end": 695
+    },
+    {
+      "text": "sin aneurismas ni malformaciones vasculares evidentes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 981,
+      "end": 1034
+    }
+  ]
+}

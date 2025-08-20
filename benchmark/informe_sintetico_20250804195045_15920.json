@@ -1,0 +1,137 @@
+{
+  "document_id": "informe_sintetico_20250804195045_15920",
+  "entities": [
+    {
+      "text": "isquemia cerebral múltiple",
+      "type": "PATOLOGIA",
+      "start": 260,
+      "end": 286
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 1083,
+      "end": 1097
+    },
+    {
+      "text": "infarto agudo",
+      "type": "PATOLOGIA",
+      "start": 689,
+      "end": 702
+    },
+    {
+      "text": "edema periventricular",
+      "type": "PATOLOGIA",
+      "start": 748,
+      "end": 769
+    },
+    {
+      "text": "ACM",
+      "type": "ARTERIA",
+      "start": 1212,
+      "end": 1215
+    },
+    {
+      "text": "ACA",
+      "type": "ARTERIA",
+      "start": 1218,
+      "end": 1221
+    },
+    {
+      "text": "ACP",
+      "type": "ARTERIA",
+      "start": 1273,
+      "end": 1276
+    },
+    {
+      "text": "izquierdos",
+      "type": "LATERALIDAD",
+      "start": 1029,
+      "end": 1039
+    },
+    {
+      "text": "derechos",
+      "type": "LATERALIDAD",
+      "start": 1045,
+      "end": 1053
+    },
+    {
+      "text": "ASPECTS 9/10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 729,
+      "end": 741
+    },
+    {
+      "text": "TTP",
+      "type": "MEDIDA",
+      "start": 459,
+      "end": 462
+    },
+    {
+      "text": "CBF",
+      "type": "MEDIDA",
+      "start": 464,
+      "end": 467
+    },
+    {
+      "text": "CBV",
+      "type": "MEDIDA",
+      "start": 470,
+      "end": 473
+    },
+    {
+      "text": "cerebral",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 269,
+      "end": 277
+    },
+    {
+      "text": "tronco de la arteria cerebral media derecha (M1)",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1585,
+      "end": 1633
+    },
+    {
+      "text": "arteria cerebral posterior izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1658,
+      "end": 1694
+    },
+    {
+      "text": "hemorragias agudas intra o extraaxiales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 589,
+      "end": 628
+    },
+    {
+      "text": "No se evidencian hemorragias intracraneales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2162,
+      "end": 2205
+    },
+    {
+      "text": "cambios crónicos vasculares",
+      "type": "PATOLOGIA",
+      "start": 785,
+      "end": 812
+    },
+    {
+      "text": "TC basal sin contraste",
+      "type": "TECNICA_IMAGEN",
+      "start": 400,
+      "end": 422
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 424,
+      "end": 445
+    },
+    {
+      "text": "AngioTC extra e intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 477,
+      "end": 505
+    }
+  ]
+}

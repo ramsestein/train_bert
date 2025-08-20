@@ -1,0 +1,101 @@
+{
+  "document_id": "informe_sintetico_20250804195045_04642",
+  "entities": [
+    {
+      "text": "isquemia cerebral",
+      "type": "PATOLOGIA",
+      "start": 231,
+      "end": 248
+    },
+    {
+      "text": "arteria cerebral media distal",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 266,
+      "end": 295
+    },
+    {
+      "text": "arteria cerebral media",
+      "type": "ARTERIA",
+      "start": 266,
+      "end": 288
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 658,
+      "end": 667
+    },
+    {
+      "text": "segmentos M2 y M3",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 694,
+      "end": 711
+    },
+    {
+      "text": "ASPECTS 9",
+      "type": "PUNTUACION_CLINICA",
+      "start": 879,
+      "end": 888
+    },
+    {
+      "text": "arteria cerebral media distal",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 266,
+      "end": 295
+    },
+    {
+      "text": "segmentos M2/M3",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1429,
+      "end": 1444
+    },
+    {
+      "text": "ASPECTS 9",
+      "type": "PUNTUACION_CLINICA",
+      "start": 879,
+      "end": 888
+    },
+    {
+      "text": "No signos de hemorragia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1832,
+      "end": 1855
+    },
+    {
+      "text": "aumento del tiempo de tránsito medio (TTM)",
+      "type": "MEDIDA",
+      "start": 1005,
+      "end": 1047
+    },
+    {
+      "text": "disminución del flujo cerebral",
+      "type": "MEDIDA",
+      "start": 1050,
+      "end": 1080
+    },
+    {
+      "text": "sin evidencias de estenosis o trombosis adicionales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1491,
+      "end": 1542
+    },
+    {
+      "text": "TC craneal basal urgente",
+      "type": "TECNICA_IMAGEN",
+      "start": 316,
+      "end": 340
+    },
+    {
+      "text": "Angio-TC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 381,
+      "end": 411
+    },
+    {
+      "text": "TC PERFUSIÓN",
+      "type": "TECNICA_IMAGEN",
+      "start": 961,
+      "end": 973
+    }
+  ]
+}

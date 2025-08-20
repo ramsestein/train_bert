@@ -1,0 +1,89 @@
+{
+  "document_id": "informe_sintetico_20250804195045_22570",
+  "entities": [
+    {
+      "text": "ictus isquémico",
+      "type": "PATOLOGIA",
+      "start": 263,
+      "end": 278
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "ARTERIA",
+      "start": 299,
+      "end": 329
+    },
+    {
+      "text": "hemisferio derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 903,
+      "end": 921
+    },
+    {
+      "text": "ASPECTS 5",
+      "type": "PUNTUACION_CLINICA",
+      "start": 813,
+      "end": 822
+    },
+    {
+      "text": "trombo",
+      "type": "PATOLOGIA",
+      "start": 1058,
+      "end": 1064
+    },
+    {
+      "text": "enfermedad crónica de pequeño vaso",
+      "type": "PATOLOGIA",
+      "start": 1130,
+      "end": 1164
+    },
+    {
+      "text": "territorio de ACM derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1336,
+      "end": 1361
+    },
+    {
+      "text": "Oclusión completa del segmento M1 de la arteria cerebral media derecha",
+      "type": "PATOLOGIA",
+      "start": 1532,
+      "end": 1602
+    },
+    {
+      "text": "Oclusión trombótica del segmento M1 derecho",
+      "type": "PATOLOGIA",
+      "start": 1934,
+      "end": 1977
+    },
+    {
+      "text": "ictus isquémico agudo",
+      "type": "PATOLOGIA",
+      "start": 2057,
+      "end": 2078
+    },
+    {
+      "text": "aguda",
+      "type": "TEMPORALIDAD",
+      "start": 1807,
+      "end": 1812
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 350,
+      "end": 366
+    },
+    {
+      "text": "perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 386,
+      "end": 404
+    },
+    {
+      "text": "angiografía por TC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 407,
+      "end": 447
+    }
+  ]
+}

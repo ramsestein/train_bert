@@ -1,0 +1,101 @@
+{
+  "document_id": "informe_sintetico_20250804195045_02326",
+  "entities": [
+    {
+      "text": "ictus isquémico",
+      "type": "PATOLOGIA",
+      "start": 233,
+      "end": 248
+    },
+    {
+      "text": "oclusión carotídea",
+      "type": "PATOLOGIA",
+      "start": 253,
+      "end": 271
+    },
+    {
+      "text": "hipodensidad",
+      "type": "PATOLOGIA",
+      "start": 495,
+      "end": 507
+    },
+    {
+      "text": "infarto cerebral",
+      "type": "PATOLOGIA",
+      "start": 692,
+      "end": 708
+    },
+    {
+      "text": "hemorragia intra ni extraaxial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 764,
+      "end": 794
+    },
+    {
+      "text": "edema hemisférico izquierdo",
+      "type": "PATOLOGIA",
+      "start": 877,
+      "end": 904
+    },
+    {
+      "text": "arteria cerebral media (ACM) izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 551,
+      "end": 589
+    },
+    {
+      "text": "arteria carótida interna izquierda",
+      "type": "ARTERIA",
+      "start": 1515,
+      "end": 1549
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "ARTERIA",
+      "start": 1634,
+      "end": 1666
+    },
+    {
+      "text": "agudo",
+      "type": "TEMPORALIDAD",
+      "start": 1935,
+      "end": 1940
+    },
+    {
+      "text": "infarto establecido",
+      "type": "PATOLOGIA",
+      "start": 1227,
+      "end": 1246
+    },
+    {
+      "text": "penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1389,
+      "end": 1407
+    },
+    {
+      "text": "trombectomía mecánica urgente",
+      "type": "PATOLOGIA",
+      "start": 2302,
+      "end": 2331
+    },
+    {
+      "text": "TC CRANEAL BASAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 461,
+      "end": 477
+    },
+    {
+      "text": "TC PERFUSIÓN",
+      "type": "TECNICA_IMAGEN",
+      "start": 953,
+      "end": 965
+    },
+    {
+      "text": "ANGIO-TC EXTRA E INTRACRANEAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 1412,
+      "end": 1441
+    }
+  ]
+}

@@ -1,0 +1,179 @@
+{
+  "document_id": "informe_sintetico_20250804195045_18008",
+  "entities": [
+    {
+      "text": "isquemia vertebrobasilar",
+      "type": "PATOLOGIA",
+      "start": 277,
+      "end": 301
+    },
+    {
+      "text": "edema temprano",
+      "type": "PATOLOGIA",
+      "start": 763,
+      "end": 777
+    },
+    {
+      "text": "disminución del flujo cerebral",
+      "type": "PATOLOGIA",
+      "start": 1052,
+      "end": 1082
+    },
+    {
+      "text": "aumento del volumen cerebral",
+      "type": "PATOLOGIA",
+      "start": 1091,
+      "end": 1119
+    },
+    {
+      "text": "penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1151,
+      "end": 1169
+    },
+    {
+      "text": "estenosis severa (>90%)",
+      "type": "PATOLOGIA",
+      "start": 1332,
+      "end": 1355
+    },
+    {
+      "text": "arteria vertebral derecha",
+      "type": "ARTERIA",
+      "start": 1380,
+      "end": 1405
+    },
+    {
+      "text": "arteria vertebral izquierda",
+      "type": "ARTERIA",
+      "start": 1516,
+      "end": 1543
+    },
+    {
+      "text": "arteria basilar",
+      "type": "ARTERIA",
+      "start": 1591,
+      "end": 1606
+    },
+    {
+      "text": "hemorragias intra o extraaxiales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 527,
+      "end": 559
+    },
+    {
+      "text": "signos de infarto establecido",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 623,
+      "end": 652
+    },
+    {
+      "text": "núcleo isquémico consolidado significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1185,
+      "end": 1227
+    },
+    {
+      "text": "aneurismas ni malformaciones vasculares",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1706,
+      "end": 1745
+    },
+    {
+      "text": "sin estenosis significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1800,
+      "end": 1828
+    },
+    {
+      "text": "aguda",
+      "type": "TEMPORALIDAD",
+      "start": 1949,
+      "end": 1954
+    },
+    {
+      "text": "severa",
+      "type": "MEDIDA",
+      "start": 1342,
+      "end": 1348
+    },
+    {
+      "text": "90%",
+      "type": "MEDIDA",
+      "start": 1351,
+      "end": 1354
+    },
+    {
+      "text": "V2",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1371,
+      "end": 1373
+    },
+    {
+      "text": "cerebeloso bilateral",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 998,
+      "end": 1018
+    },
+    {
+      "text": "tallo cerebral",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1021,
+      "end": 1035
+    },
+    {
+      "text": "territorio vertebrobasilar",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1958,
+      "end": 1984
+    },
+    {
+      "text": "segmento cervical",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 2097,
+      "end": 2114
+    },
+    {
+      "text": "sistema basilar",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 2755,
+      "end": 2770
+    },
+    {
+      "text": "TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANG IOTC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 72,
+      "end": 140
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 346,
+      "end": 362
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 364,
+      "end": 385
+    },
+    {
+      "text": "AngioTC arterial extra e intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 389,
+      "end": 426
+    },
+    {
+      "text": "TC PERFUSIÓN",
+      "type": "TECNICA_IMAGEN",
+      "start": 866,
+      "end": 878
+    },
+    {
+      "text": "ANGIO-TC EXTRA E INTRACRANEAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 1286,
+      "end": 1315
+    }
+  ]
+}

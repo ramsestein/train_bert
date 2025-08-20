@@ -1,0 +1,59 @@
+{
+  "document_id": "informe_sintetico_20250804195045_04068",
+  "entities": [
+    {
+      "text": "infarto lacunar agudo",
+      "type": "PATOLOGIA",
+      "start": 585,
+      "end": 606
+    },
+    {
+      "text": "cápsula interna derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 545,
+      "end": 568
+    },
+    {
+      "text": "6 mm",
+      "type": "MEDIDA",
+      "start": 530,
+      "end": 534
+    },
+    {
+      "text": "agudo",
+      "type": "TEMPORALIDAD",
+      "start": 601,
+      "end": 606
+    },
+    {
+      "text": "No se identifican hemorragias intra ni extraaxiales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 419,
+      "end": 470
+    },
+    {
+      "text": "No se observan alteraciones significativas en mapas de flujo cerebral (CBF), volumen cerebral (CBV) ni tiempo de tránsito (TTP)",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 811,
+      "end": 938
+    },
+    {
+      "text": "Arterias cerebrales principales",
+      "type": "ARTERIA",
+      "start": 1004,
+      "end": 1035
+    },
+    {
+      "text": "sin signos de trombosis ni estenosis significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1047,
+      "end": 1098
+    },
+    {
+      "text": "sin evidencia de compromiso hemodinámico asociado en perfusión cerebral",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1241,
+      "end": 1312
+    }
+  ]
+}

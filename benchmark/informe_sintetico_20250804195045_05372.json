@@ -1,0 +1,95 @@
+{
+  "document_id": "informe_sintetico_20250804195045_05372",
+  "entities": [
+    {
+      "text": "accidente cerebrovascular isquémico",
+      "type": "PATOLOGIA",
+      "start": 254,
+      "end": 289
+    },
+    {
+      "text": "signo de arteria hiperdensa",
+      "type": "PATOLOGIA",
+      "start": 523,
+      "end": 550
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 1823,
+      "end": 1837
+    },
+    {
+      "text": "M1",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 566,
+      "end": 568
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "ARTERIA",
+      "start": 575,
+      "end": 607
+    },
+    {
+      "text": "ASPECTS",
+      "type": "PUNTUACION_CLINICA",
+      "start": 703,
+      "end": 710
+    },
+    {
+      "text": "6",
+      "type": "MEDIDA",
+      "start": 723,
+      "end": 724
+    },
+    {
+      "text": "prolongación de Tmax",
+      "type": "PATOLOGIA",
+      "start": 1896,
+      "end": 1916
+    },
+    {
+      "text": "Tmax > 6s",
+      "type": "MEDIDA",
+      "start": 979,
+      "end": 988
+    },
+    {
+      "text": "disminución significativa del flujo cerebral",
+      "type": "PATOLOGIA",
+      "start": 1072,
+      "end": 1116
+    },
+    {
+      "text": "mismatch importante compatible con tejido isquémico potencialmente salvable",
+      "type": "PATOLOGIA",
+      "start": 1218,
+      "end": 1293
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "ARTERIA",
+      "start": 575,
+      "end": 607
+    },
+    {
+      "text": "segmento M1",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 557,
+      "end": 568
+    },
+    {
+      "text": "sin estenosis significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1473,
+      "end": 1501
+    },
+    {
+      "text": "sin ateromatosis significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1577,
+      "end": 1607
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "document_id": "informe_sintetico_20250804195045_16240",
+  "entities": [
+    {
+      "text": "infarto cerebral agudo",
+      "type": "PATOLOGIA",
+      "start": 690,
+      "end": 712
+    },
+    {
+      "text": "territorio de la arteria cerebral media derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 560,
+      "end": 607
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "ARTERIA",
+      "start": 577,
+      "end": 607
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 600,
+      "end": 607
+    },
+    {
+      "text": "tiempo de tránsito medio (MTT)",
+      "type": "MEDIDA",
+      "start": 1075,
+      "end": 1105
+    },
+    {
+      "text": "tiempo hasta el pico (TTP)",
+      "type": "MEDIDA",
+      "start": 1108,
+      "end": 1134
+    },
+    {
+      "text": "disección arterial",
+      "type": "PATOLOGIA",
+      "start": 1328,
+      "end": 1346
+    },
+    {
+      "text": "arteria carótida interna derecha",
+      "type": "ARTERIA",
+      "start": 1899,
+      "end": 1931
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 600,
+      "end": 607
+    },
+    {
+      "text": "estenosis significativa (>70%)",
+      "type": "PATOLOGIA",
+      "start": 1464,
+      "end": 1494
+    },
+    {
+      "text": "sin otras estenosis ni aneurismas evidentes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1686,
+      "end": 1729
+    },
+    {
+      "text": "infarto cerebral agudo",
+      "type": "PATOLOGIA",
+      "start": 690,
+      "end": 712
+    },
+    {
+      "text": "territorio de la arteria cerebral media derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 560,
+      "end": 607
+    },
+    {
+      "text": "disección de la arteria carótida interna derecha",
+      "type": "PATOLOGIA",
+      "start": 2333,
+      "end": 2381
+    },
+    {
+      "text": "estenosis significativa",
+      "type": "PATOLOGIA",
+      "start": 1464,
+      "end": 1487
+    },
+    {
+      "text": "TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANG IOTC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 72,
+      "end": 140
+    }
+  ]
+}

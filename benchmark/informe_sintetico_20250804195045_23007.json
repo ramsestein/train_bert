@@ -1,0 +1,95 @@
+{
+  "document_id": "informe_sintetico_20250804195045_23007",
+  "entities": [
+    {
+      "text": "infarto cerebral",
+      "type": "PATOLOGIA",
+      "start": 209,
+      "end": 225
+    },
+    {
+      "text": "zonas de watershed corticales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 531,
+      "end": 560
+    },
+    {
+      "text": "arterias cerebrales anterior",
+      "type": "ARTERIA",
+      "start": 571,
+      "end": 599
+    },
+    {
+      "text": "bilaterales",
+      "type": "LATERALIDAD",
+      "start": 456,
+      "end": 467
+    },
+    {
+      "text": "discreta leucoaraiosis",
+      "type": "PATOLOGIA",
+      "start": 877,
+      "end": 899
+    },
+    {
+      "text": "isquemia",
+      "type": "PATOLOGIA",
+      "start": 1190,
+      "end": 1198
+    },
+    {
+      "text": "sin estenosis ni oclusiones evidentes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1331,
+      "end": 1368
+    },
+    {
+      "text": "sin ateromatosis significativa ni estenosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1391,
+      "end": 1434
+    },
+    {
+      "text": "No se observan malformaciones vasculares ni aneurismas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1436,
+      "end": 1490
+    },
+    {
+      "text": "No complicaciones hemorrágicas ni alteraciones vasculares obstructivas demostradas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1688,
+      "end": 1770
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 269,
+      "end": 285
+    },
+    {
+      "text": "perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 302,
+      "end": 320
+    },
+    {
+      "text": "angiografía TC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 323,
+      "end": 359
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 918,
+      "end": 939
+    },
+    {
+      "text": "Angio-TC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 1231,
+      "end": 1261
+    }
+  ]
+}

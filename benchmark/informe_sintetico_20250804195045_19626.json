@@ -1,0 +1,89 @@
+{
+  "document_id": "informe_sintetico_20250804195045_19626",
+  "entities": [
+    {
+      "text": "infarto tipo watershed",
+      "type": "PATOLOGIA",
+      "start": 723,
+      "end": 745
+    },
+    {
+      "text": "regiones subcorticales frontoparietales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 584,
+      "end": 623
+    },
+    {
+      "text": "bilateral",
+      "type": "LATERALIDAD",
+      "start": 307,
+      "end": 316
+    },
+    {
+      "text": ">70%",
+      "type": "MEDIDA",
+      "start": 1278,
+      "end": 1282
+    },
+    {
+      "text": "estenosis severa",
+      "type": "PATOLOGIA",
+      "start": 1260,
+      "end": 1276
+    },
+    {
+      "text": "arteria carótida interna izquierda",
+      "type": "ARTERIA",
+      "start": 1290,
+      "end": 1324
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 1315,
+      "end": 1324
+    },
+    {
+      "text": "sin reducción importante del volumen cerebral",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1122,
+      "end": 1167
+    },
+    {
+      "text": "No hay hemorragia ni signos de infarto agudo extenso",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1656,
+      "end": 1708
+    },
+    {
+      "text": "hipoperfusión isquémica",
+      "type": "PATOLOGIA",
+      "start": 1190,
+      "end": 1213
+    },
+    {
+      "text": "hipoperfusión",
+      "type": "PATOLOGIA",
+      "start": 1190,
+      "end": 1203
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 337,
+      "end": 353
+    },
+    {
+      "text": "estudio de perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 355,
+      "end": 384
+    },
+    {
+      "text": "angio-TC de arterias intracraneales y extracraneales",
+      "type": "TECNICA_IMAGEN",
+      "start": 387,
+      "end": 439
+    }
+  ]
+}

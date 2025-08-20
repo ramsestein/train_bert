@@ -1,0 +1,95 @@
+{
+  "document_id": "informe_sintetico_20250804195045_17539",
+  "entities": [
+    {
+      "text": "infarto cerebral",
+      "type": "PATOLOGIA",
+      "start": 194,
+      "end": 210
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 228,
+      "end": 258
+    },
+    {
+      "text": "deterioro neurológico agudo",
+      "type": "PATOLOGIA",
+      "start": 269,
+      "end": 296
+    },
+    {
+      "text": "TC Basal + TC Perfusión + AngioTC Arterial Intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 317,
+      "end": 372
+    },
+    {
+      "text": "infarto subagudo",
+      "type": "PATOLOGIA",
+      "start": 587,
+      "end": 603
+    },
+    {
+      "text": "transformación hemorrágica tipo HI2",
+      "type": "PATOLOGIA",
+      "start": 754,
+      "end": 789
+    },
+    {
+      "text": "desplazamiento estimado <3 mm",
+      "type": "MEDIDA",
+      "start": 961,
+      "end": 990
+    },
+    {
+      "text": "sin evidencia de hemorragia intraventricular",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1024,
+      "end": 1068
+    },
+    {
+      "text": "sin signos de penumbra viable",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1307,
+      "end": 1336
+    },
+    {
+      "text": "oclusión residual parcial subsegmentaria",
+      "type": "PATOLOGIA",
+      "start": 1380,
+      "end": 1420
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 228,
+      "end": 258
+    },
+    {
+      "text": "sin estenosis hemodinámicamente significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1523,
+      "end": 1569
+    },
+    {
+      "text": "Transformación hemorrágica intraparenquimatosa tipo HI2",
+      "type": "PATOLOGIA",
+      "start": 2287,
+      "end": 2342
+    },
+    {
+      "text": "infarto cerebral derecho",
+      "type": "PATOLOGIA",
+      "start": 2346,
+      "end": 2370
+    },
+    {
+      "text": "oclusión parcial en bifurcación de ACM derecha",
+      "type": "PATOLOGIA",
+      "start": 2532,
+      "end": 2578
+    }
+  ]
+}

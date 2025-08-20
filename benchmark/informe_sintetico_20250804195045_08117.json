@@ -1,0 +1,101 @@
+{
+  "document_id": "informe_sintetico_20250804195045_08117",
+  "entities": [
+    {
+      "text": "hemorragia aguda",
+      "type": "PATOLOGIA",
+      "start": 402,
+      "end": 418
+    },
+    {
+      "text": "lesión isquémica",
+      "type": "PATOLOGIA",
+      "start": 517,
+      "end": 533
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 592,
+      "end": 602
+    },
+    {
+      "text": "calcificaciones patológicas",
+      "type": "PATOLOGIA",
+      "start": 773,
+      "end": 800
+    },
+    {
+      "text": "lesiones expansivas",
+      "type": "PATOLOGIA",
+      "start": 804,
+      "end": 823
+    },
+    {
+      "text": "retraso en el tiempo de tránsito",
+      "type": "PATOLOGIA",
+      "start": 905,
+      "end": 937
+    },
+    {
+      "text": "disminución del flujo sanguíneo cerebral",
+      "type": "PATOLOGIA",
+      "start": 942,
+      "end": 982
+    },
+    {
+      "text": "calibre dentro de límites normales",
+      "type": "MEDIDA",
+      "start": 1142,
+      "end": 1176
+    },
+    {
+      "text": "estenosis",
+      "type": "PATOLOGIA",
+      "start": 1205,
+      "end": 1214
+    },
+    {
+      "text": "oclusión",
+      "type": "PATOLOGIA",
+      "start": 1216,
+      "end": 1224
+    },
+    {
+      "text": "aneurismas",
+      "type": "PATOLOGIA",
+      "start": 1226,
+      "end": 1236
+    },
+    {
+      "text": "malformaciones vasculares",
+      "type": "PATOLOGIA",
+      "start": 1239,
+      "end": 1264
+    },
+    {
+      "text": "simétricos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1329,
+      "end": 1339
+    },
+    {
+      "text": "sin hallazgos agudos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1462,
+      "end": 1482
+    },
+    {
+      "text": "sin alteraciones isquémicas ni hemorrágicas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1504,
+      "end": 1547
+    },
+    {
+      "text": "sin estenosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1618,
+      "end": 1631
+    }
+  ]
+}

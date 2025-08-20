@@ -1,0 +1,33 @@
+UO_PACN (Unidad Organizativa Médica): RADIO
+
+PRUEB (Prueba solicitada): TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANG IOTC ARTERIAL INTRACRANEAL)
+
+CLIN (Resumen clínico): Paciente masculino de 52 años con cuadro agudo de hemiparesia derecha y afasia motora, sospecha de disección arterial carotídea y posible infarto cerebral.
+
+OBSR (Protocolo): TC craneal basal urgente con contraste intravenoso para angiografía cerebral y estudio de perfusión cerebral.
+
+RESL (Resultados):  
+TC CRANEAL BASAL:  
+Se evidencian áreas hipodensas en la región frontoparietal izquierda que sugieren infarto cortical agudo en territorio de la arteria cerebral media (ACM) izquierda, con afectación cortico-subcortical. No se observan signos de hemorragia intracraneal ni edema cerebral significativo en este momento. Las estructuras de la línea media se encuentran centradas. Sistema ventricular y cisternas basales sin alteraciones.
+
+TC PERFUSIÓN:  
+Mapas de tiempo de tránsito (TTP) muestran prolongación del tiempo en el territorio de la ACM izquierda, con reducción significativa del flujo cerebral (CBF) y volumen cerebral (CBV), consistente con área de isquemia aguda. Se identifica una penumbra isquémica extensa en la región territorial afectada.
+
+ANGIO-TC ARTERIAL INTRACRANEAL:  
+Defecto de repleción irregular y extensa en la arteria carótida interna cervical izquierda prolongado hasta la porción petrosa, compatible con disección arterial con doble luz y engrosamiento parietal que sugiere hematoma intramural. Se observa disminución del calibre y flujo en la ACM izquierda proximal, con estenosis significativa. No se identifican aneurismas ni otras malformaciones vasculares. El sistema vertebrobasilar presenta calibre y permeabilidad normales.
+
+CONCL (Conclusiones):  
+- Infarto cerebral agudo extenso en territorio de la ACM izquierda.  
+- Evidencia de disección arterial de la carótida interna izquierda con estenosis secundaria y compromiso hemodinámico.  
+- Área de penumbra isquémica importante que puede beneficiarse de manejo urgente.  
+- No se observan hemorragias intracraneales ni edema con efecto masa significativo.
+
+ACTI_ADICI (Actividad adicional):  
+
+ICON (Estudio): @RADIO@
+
+X00DIATXT (Texto del diagnóstico ACR): Disección arterial carotídea izquierda con infarto isquémico agudo en territorio de la arteria cerebral media ipsilateral y área de penumbra isquémica asociada.
+
+EST_T_DES (Descripción): TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANGIOTC ARTERIAL INTRACRANEAL)
+
+ZVASOS_D (Der.):  Solicitar valoración neurológica urgente y posible tratamiento endovascular o trombótico según protocolo establecido. Monitorización intensiva.

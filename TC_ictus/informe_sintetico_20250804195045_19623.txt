@@ -1,0 +1,27 @@
+UO_PACN (Unidad Organizativa Médica): RADIO
+
+PRUEB (Prueba solicitada): TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANG IOTC ARTERIAL INTRACRANEAL)
+
+CLIN (Resumen clínico): Paciente con inicio súbito de hemiparesia contralateral, afasia y déficit sensitivo, sospecha clínica de accidente cerebrovascular isquémico.
+
+OBSR (Protocolo): TC craneal basal, TC perfusión cerebral y angio-TC intra y extracraneal. Estudio urgente.
+
+RESL (Resultados): 
+
+TC craneal basal: Se observa hipodensidad en territorio de la arteria cerebral media izquierda, afectando la corteza frontoparietal y parte de la cápsula interna, compatible con infarto cerebral agudo. No se identifica sangrado intracraneal ni edema significativo que cause desplazamiento de la línea media. El sistema ventricular presenta tamaño y morfología conservados. Cisternas basales y perimesencefálicas libres.
+
+TC perfusión cerebral: Se evidencia prolongación del tiempo de tránsito medio (TTP) y reducción marcada del flujo sanguíneo cerebral (CBF) en la región afectada, con disminución también del volumen cerebral (CBV), consistentes con zona de infarto en evolución.
+
+Angio-TC arterial intra y extracraneal: Oclusión completa del segmento cervical de la arteria carótida interna izquierda. Restante circulación extracraneal con calibre conservado, sin estenosis significativa. En el territorio intracraneal, se aprecia ausencia de flujo en la arteria cerebral media izquierda. El resto de los principales vasos cerebrales (arterias cerebrales anteriores, cerebrales posteriores, sistema vertebrobasilar) se encuentran permeables.
+
+CONCL (Conclusiones): Infarto cerebral agudo en territorio de la arteria cerebral media izquierda asociado a oclusión completa de la arteria carótida interna izquierda a nivel cervical. No evidencia de hemorragia ni edema con efecto masa significativo. Perfusión cerebral compatible con área de infarto establecida y posible penumbra isquémica perilesional. Se recomienda valoración urgente para manejo endovascular y seguimiento clínico.
+
+ACTI_ADICI (Actividad adicional): Informe comunicado telefónicamente al servicio de Neurología. Se sugiere angiografía cerebral invasiva para posible trombectomía.
+
+ICON (Estudio): @RADIO_IC_
+
+X00DIATXT (Texto del diagnóstico ACR): Infarto cerebral agudo en territorio de la arteria cerebral media izquierda asociado a oclusión de arteria carótida interna izquierda.
+
+EST_T_DES (Descripción): TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANGIOTC ARTERIAL INTRACRANEAL)
+
+ZVASOS_D (Der.): Oclusión completa arteria carótida interna izquierda, ausencia de flujo en ACM izquierda. Vascularización contralateral sin alteraciones.

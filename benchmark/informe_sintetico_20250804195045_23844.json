@@ -1,0 +1,83 @@
+{
+  "document_id": "informe_sintetico_20250804195045_23844",
+  "entities": [
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 279,
+      "end": 293
+    },
+    {
+      "text": "arteria cerebral posterior derecha",
+      "type": "ARTERIA",
+      "start": 311,
+      "end": 345
+    },
+    {
+      "text": "hemicuerpo izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 191,
+      "end": 211
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 258,
+      "end": 265
+    },
+    {
+      "text": "ASPECTS modificado 7/10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 859,
+      "end": 882
+    },
+    {
+      "text": "aumento del tiempo de tránsito medio (MTT)",
+      "type": "MEDIDA",
+      "start": 1174,
+      "end": 1216
+    },
+    {
+      "text": "reducción del flujo sanguíneo cerebral (CBF)",
+      "type": "MEDIDA",
+      "start": 1219,
+      "end": 1263
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 279,
+      "end": 293
+    },
+    {
+      "text": "P2-P3",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1641,
+      "end": 1646
+    },
+    {
+      "text": "sin alteraciones significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1031,
+      "end": 1062
+    },
+    {
+      "text": "sin estenosis significativas ni ateromatosis relevante",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1685,
+      "end": 1739
+    },
+    {
+      "text": "permeables",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1822,
+      "end": 1832
+    },
+    {
+      "text": "permeabilidad conservada",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1862,
+      "end": 1886
+    }
+  ]
+}

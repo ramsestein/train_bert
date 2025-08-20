@@ -1,0 +1,77 @@
+{
+  "document_id": "informe_sintetico_20250804195045_14653",
+  "entities": [
+    {
+      "text": "hemorragia aguda",
+      "type": "PATOLOGIA",
+      "start": 386,
+      "end": 402
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 537,
+      "end": 551
+    },
+    {
+      "text": "cambios crónicos mínimos",
+      "type": "PATOLOGIA",
+      "start": 667,
+      "end": 691
+    },
+    {
+      "text": "lesiones isquémicas antiguas",
+      "type": "PATOLOGIA",
+      "start": 786,
+      "end": 814
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 858,
+      "end": 868
+    },
+    {
+      "text": "hipoperfusión",
+      "type": "PATOLOGIA",
+      "start": 1002,
+      "end": 1015
+    },
+    {
+      "text": "mismatch",
+      "type": "PATOLOGIA",
+      "start": 1019,
+      "end": 1027
+    },
+    {
+      "text": "sin estenosis ni oclusiones visibles",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1101,
+      "end": 1137
+    },
+    {
+      "text": "sin hallazgos de patología aguda",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1313,
+      "end": 1345
+    },
+    {
+      "text": "sin repercusiones actuales ni áreas isquémicas activas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1410,
+      "end": 1464
+    },
+    {
+      "text": "Perfusión cerebral normal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1466,
+      "end": 1491
+    },
+    {
+      "text": "sin alteraciones de la luz vascular",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1515,
+      "end": 1550
+    }
+  ]
+}

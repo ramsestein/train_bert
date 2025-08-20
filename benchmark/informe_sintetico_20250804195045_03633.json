@@ -1,0 +1,209 @@
+{
+  "document_id": "informe_sintetico_20250804195045_03633",
+  "entities": [
+    {
+      "text": "hemiplejía derecha",
+      "type": "PATOLOGIA",
+      "start": 202,
+      "end": 220
+    },
+    {
+      "text": "ictus isquémico",
+      "type": "PATOLOGIA",
+      "start": 262,
+      "end": 277
+    },
+    {
+      "text": "TC CRANEAL BASAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 298,
+      "end": 314
+    },
+    {
+      "text": "MAPAS DE PERFUSIÓN CEREBRAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 316,
+      "end": 343
+    },
+    {
+      "text": "ANGIO-TC INTRACRANEAL Y EXTRACRANEAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 346,
+      "end": 382
+    },
+    {
+      "text": "hemisferio cerebral izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 465,
+      "end": 494
+    },
+    {
+      "text": "área de hipodensidad cortical y subcortical",
+      "type": "PATOLOGIA",
+      "start": 495,
+      "end": 538
+    },
+    {
+      "text": "arteria cerebral media (ACM)",
+      "type": "ARTERIA",
+      "start": 559,
+      "end": 587
+    },
+    {
+      "text": "ínsula",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 611,
+      "end": 617
+    },
+    {
+      "text": "núcleo lenticular",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 620,
+      "end": 637
+    },
+    {
+      "text": "pérdida moderada de diferenciación cortico-subcortical",
+      "type": "PATOLOGIA",
+      "start": 643,
+      "end": 697
+    },
+    {
+      "text": "signo de arteria hiperdensa",
+      "type": "PATOLOGIA",
+      "start": 712,
+      "end": 739
+    },
+    {
+      "text": "segmento M1 de ACM izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 743,
+      "end": 771
+    },
+    {
+      "text": "ASPECTS 7",
+      "type": "PUNTUACION_CLINICA",
+      "start": 773,
+      "end": 782
+    },
+    {
+      "text": "No se observan signos de transformación hemorrágica",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 784,
+      "end": 835
+    },
+    {
+      "text": "edema cerebral severo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 839,
+      "end": 860
+    },
+    {
+      "text": "Línea media centrada",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 862,
+      "end": 882
+    },
+    {
+      "text": "Mapas de tiempo de tránsito aumentado (TTP y MTT)",
+      "type": "TECNICA_IMAGEN",
+      "start": 899,
+      "end": 948
+    },
+    {
+      "text": "reducción marcada del flujo sanguíneo cerebral (CBF)",
+      "type": "PATOLOGIA",
+      "start": 951,
+      "end": 1003
+    },
+    {
+      "text": "territorio irrigado por ACM izquierda proximal",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1007,
+      "end": 1053
+    },
+    {
+      "text": "volumen cerebral sanguíneo (CBV) preservado en zona penumbra",
+      "type": "PATOLOGIA",
+      "start": 1059,
+      "end": 1119
+    },
+    {
+      "text": "Oclusión completa del segmento M1 de la arteria cerebral media izquierda",
+      "type": "PATOLOGIA",
+      "start": 1153,
+      "end": 1225
+    },
+    {
+      "text": "Arco aórtico y troncos supraórticos sin estenosis significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1227,
+      "end": 1291
+    },
+    {
+      "text": "Carótidas y vertebrales permeables",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1293,
+      "end": 1327
+    },
+    {
+      "text": "sin placas de ateroma inestables ni estenosis críticas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1329,
+      "end": 1383
+    },
+    {
+      "text": "Sistema vertebrobasilar sin alteraciones",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1385,
+      "end": 1425
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 1478,
+      "end": 1492
+    },
+    {
+      "text": "territorio de la arteria cerebral media izquierda proximal (M1)",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1496,
+      "end": 1559
+    },
+    {
+      "text": "oclusión confirmada en segmento M1",
+      "type": "PATOLOGIA",
+      "start": 1564,
+      "end": 1598
+    },
+    {
+      "text": "signo de arteria hiperdensa",
+      "type": "PATOLOGIA",
+      "start": 712,
+      "end": 739
+    },
+    {
+      "text": "ASPECTS 7 indica área isquémica moderada con zona de penumbra viable para posible tratamiento endovascular",
+      "type": "PUNTUACION_CLINICA",
+      "start": 1630,
+      "end": 1736
+    },
+    {
+      "text": "No evidencia de hemorragia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1738,
+      "end": 1764
+    },
+    {
+      "text": "edema masivo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1768,
+      "end": 1780
+    },
+    {
+      "text": "signos de isquemia cerebral aguda",
+      "type": "PATOLOGIA",
+      "start": 2023,
+      "end": 2056
+    }
+  ]
+}

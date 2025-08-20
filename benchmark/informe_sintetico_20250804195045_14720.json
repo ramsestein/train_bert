@@ -1,0 +1,53 @@
+{
+  "document_id": "informe_sintetico_20250804195045_14720",
+  "entities": [
+    {
+      "text": "hematoma lobar de localización frontal derecha",
+      "type": "PATOLOGIA",
+      "start": 436,
+      "end": 482
+    },
+    {
+      "text": "frontal derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 467,
+      "end": 482
+    },
+    {
+      "text": "25 x 18 x 20 mm",
+      "type": "MEDIDA",
+      "start": 503,
+      "end": 518
+    },
+    {
+      "text": "aguda",
+      "type": "TEMPORALIDAD",
+      "start": 574,
+      "end": 579
+    },
+    {
+      "text": "4 mm",
+      "type": "MEDIDA",
+      "start": 683,
+      "end": 687
+    },
+    {
+      "text": "No se observan signos de sangrado intraventricular",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 689,
+      "end": 739
+    },
+    {
+      "text": "No evidencias de fracturas óseas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 842,
+      "end": 874
+    },
+    {
+      "text": "Arterias intracraneales permeables",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1431,
+      "end": 1465
+    }
+  ]
+}

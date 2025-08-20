@@ -1,0 +1,101 @@
+{
+  "document_id": "informe_sintetico_20250804195045_04401",
+  "entities": [
+    {
+      "text": "isquemia cerebral",
+      "type": "PATOLOGIA",
+      "start": 250,
+      "end": 267
+    },
+    {
+      "text": "arteria cerebral anterior",
+      "type": "ARTERIA",
+      "start": 285,
+      "end": 310
+    },
+    {
+      "text": "hemisferio izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 615,
+      "end": 635
+    },
+    {
+      "text": "izquierdo",
+      "type": "LATERALIDAD",
+      "start": 626,
+      "end": 635
+    },
+    {
+      "text": "ASPECTS 9",
+      "type": "PUNTUACION_CLINICA",
+      "start": 2062,
+      "end": 2071
+    },
+    {
+      "text": "hipodensidad",
+      "type": "PATOLOGIA",
+      "start": 533,
+      "end": 545
+    },
+    {
+      "text": "oclusión segmentaria",
+      "type": "PATOLOGIA",
+      "start": 1924,
+      "end": 1944
+    },
+    {
+      "text": "segmento A2",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1493,
+      "end": 1504
+    },
+    {
+      "text": "arteria cerebral anterior izquierda",
+      "type": "ARTERIA",
+      "start": 1277,
+      "end": 1312
+    },
+    {
+      "text": "sin evidencia de hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2020,
+      "end": 2060
+    },
+    {
+      "text": "disminuido",
+      "type": "PATOLOGIA",
+      "start": 1375,
+      "end": 1385
+    },
+    {
+      "text": "aumento en el tiempo de tránsito medio (MTT)",
+      "type": "MEDIDA",
+      "start": 996,
+      "end": 1040
+    },
+    {
+      "text": "tiempo hasta el pico (TTP)",
+      "type": "MEDIDA",
+      "start": 1046,
+      "end": 1072
+    },
+    {
+      "text": "volumen sanguíneo cerebral (CBV)",
+      "type": "MEDIDA",
+      "start": 1182,
+      "end": 1214
+    },
+    {
+      "text": "flujo sanguíneo cerebral (CBF)",
+      "type": "MEDIDA",
+      "start": 1149,
+      "end": 1179
+    },
+    {
+      "text": "sin alteraciones",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 947,
+      "end": 963
+    }
+  ]
+}

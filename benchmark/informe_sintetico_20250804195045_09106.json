@@ -1,0 +1,113 @@
+{
+  "document_id": "informe_sintetico_20250804195045_09106",
+  "entities": [
+    {
+      "text": "hemorragia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 403,
+      "end": 413
+    },
+    {
+      "text": "edema cerebral global",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 461,
+      "end": 482
+    },
+    {
+      "text": "ASPECTS 9",
+      "type": "PUNTUACION_CLINICA",
+      "start": 550,
+      "end": 559
+    },
+    {
+      "text": "hipodensidades parenquimatosas agudas extensas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 579,
+      "end": 625
+    },
+    {
+      "text": "incremento del tiempo de tránsito medio (TTP)",
+      "type": "PATOLOGIA",
+      "start": 724,
+      "end": 769
+    },
+    {
+      "text": "tiempo hasta el pico (Tmax)",
+      "type": "PATOLOGIA",
+      "start": 772,
+      "end": 799
+    },
+    {
+      "text": "reducción moderada del flujo cerebral (CBF)",
+      "type": "PATOLOGIA",
+      "start": 899,
+      "end": 942
+    },
+    {
+      "text": "volumen cerebral cerebral (CBV) mantenido",
+      "type": "PATOLOGIA",
+      "start": 945,
+      "end": 986
+    },
+    {
+      "text": "penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1020,
+      "end": 1038
+    },
+    {
+      "text": "oclusión en el segmento M2 de la arteria cerebral media derecha",
+      "type": "PATOLOGIA",
+      "start": 1088,
+      "end": 1151
+    },
+    {
+      "text": "contraste distal a dicha oclusión",
+      "type": "PATOLOGIA",
+      "start": 1169,
+      "end": 1202
+    },
+    {
+      "text": "ACM",
+      "type": "ARTERIA",
+      "start": 1283,
+      "end": 1286
+    },
+    {
+      "text": "ACA",
+      "type": "ARTERIA",
+      "start": 1288,
+      "end": 1291
+    },
+    {
+      "text": "ACP",
+      "type": "ARTERIA",
+      "start": 1294,
+      "end": 1297
+    },
+    {
+      "text": "M2 derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1513,
+      "end": 1523
+    },
+    {
+      "text": "isquemia tisular focal en territorio cortical derecho",
+      "type": "PATOLOGIA",
+      "start": 1658,
+      "end": 1711
+    },
+    {
+      "text": "Oclusión arterial segmentaria en rama distal de ACM derecha (M2)",
+      "type": "PATOLOGIA",
+      "start": 1938,
+      "end": 2002
+    },
+    {
+      "text": "isquemia aguda en territorio limitado",
+      "type": "PATOLOGIA",
+      "start": 2041,
+      "end": 2078
+    }
+  ]
+}

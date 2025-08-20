@@ -1,0 +1,113 @@
+{
+  "document_id": "informe_sintetico_20250804195045_21794",
+  "entities": [
+    {
+      "text": "hematoma lobar",
+      "type": "PATOLOGIA",
+      "start": 531,
+      "end": 545
+    },
+    {
+      "text": "región parietal derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 563,
+      "end": 586
+    },
+    {
+      "text": "35 x 25 x 20 mm",
+      "type": "MEDIDA",
+      "start": 607,
+      "end": 622
+    },
+    {
+      "text": "sangrado agudo",
+      "type": "TEMPORALIDAD",
+      "start": 673,
+      "end": 687
+    },
+    {
+      "text": "3 mm",
+      "type": "MEDIDA",
+      "start": 777,
+      "end": 781
+    },
+    {
+      "text": "hemorragia subaracnoidea",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 829,
+      "end": 853
+    },
+    {
+      "text": "hemorragia intraventricular",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1930,
+      "end": 1957
+    },
+    {
+      "text": "disminución significativa del flujo sanguíneo cerebral",
+      "type": "PATOLOGIA",
+      "start": 1106,
+      "end": 1160
+    },
+    {
+      "text": "isquemia",
+      "type": "PATOLOGIA",
+      "start": 1366,
+      "end": 1374
+    },
+    {
+      "text": "arterias carótidas internas",
+      "type": "ARTERIA",
+      "start": 1555,
+      "end": 1582
+    },
+    {
+      "text": "arteriales adyacentes",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1390,
+      "end": 1411
+    },
+    {
+      "text": "hemorragia intraventricular",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1930,
+      "end": 1957
+    },
+    {
+      "text": "hemorragia subaracnoidea",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 829,
+      "end": 853
+    },
+    {
+      "text": "patología vascular obstructiva",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2136,
+      "end": 2166
+    },
+    {
+      "text": "malformativa asociada",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2169,
+      "end": 2190
+    },
+    {
+      "text": "TC craneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 381,
+      "end": 391
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 413,
+      "end": 434
+    },
+    {
+      "text": "angioTC arterial intra y extracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 437,
+      "end": 474
+    }
+  ]
+}

@@ -1,0 +1,263 @@
+{
+  "document_id": "informe_sintetico_20250804195045_09695",
+  "entities": [
+    {
+      "text": "hemiparesia derecha",
+      "type": "PATOLOGIA",
+      "start": 189,
+      "end": 208
+    },
+    {
+      "text": "fibrilación auricular",
+      "type": "PATOLOGIA",
+      "start": 244,
+      "end": 265
+    },
+    {
+      "text": "TC CRANEAL BASAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 568,
+      "end": 584
+    },
+    {
+      "text": "área hipodensa",
+      "type": "PATOLOGIA",
+      "start": 599,
+      "end": 613
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "ARTERIA",
+      "start": 634,
+      "end": 666
+    },
+    {
+      "text": "corteza",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 681,
+      "end": 688
+    },
+    {
+      "text": "sustancia blanca",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 691,
+      "end": 707
+    },
+    {
+      "text": "pérdida de diferenciación cortico-subcortical",
+      "type": "PATOLOGIA",
+      "start": 730,
+      "end": 775
+    },
+    {
+      "text": "ASPECTS 7/10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 777,
+      "end": 789
+    },
+    {
+      "text": "hemorragia parenquimatosa de baja magnitud",
+      "type": "PATOLOGIA",
+      "start": 890,
+      "end": 932
+    },
+    {
+      "text": "hemorragias extraaxiales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 999,
+      "end": 1023
+    },
+    {
+      "text": "efecto masa significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1027,
+      "end": 1052
+    },
+    {
+      "text": "línea media",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1076,
+      "end": 1087
+    },
+    {
+      "text": "morfología y tamaño conservados",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1133,
+      "end": 1164
+    },
+    {
+      "text": "Cisternas basales libres",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1166,
+      "end": 1190
+    },
+    {
+      "text": "TC PERFUSIÓN",
+      "type": "TECNICA_IMAGEN",
+      "start": 1193,
+      "end": 1205
+    },
+    {
+      "text": "retraso moderado",
+      "type": "PATOLOGIA",
+      "start": 1218,
+      "end": 1234
+    },
+    {
+      "text": "tiempo (Tmax)",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1251,
+      "end": 1264
+    },
+    {
+      "text": "disminución del flujo cerebral (CBF)",
+      "type": "PATOLOGIA",
+      "start": 1267,
+      "end": 1303
+    },
+    {
+      "text": "territorio frontotemporoparietal izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1307,
+      "end": 1349
+    },
+    {
+      "text": "preservación parcial del volumen cerebral (CBV)",
+      "type": "PATOLOGIA",
+      "start": 1355,
+      "end": 1402
+    },
+    {
+      "text": "área isquémica",
+      "type": "PATOLOGIA",
+      "start": 1419,
+      "end": 1433
+    },
+    {
+      "text": "tejido penumbra viable",
+      "type": "PATOLOGIA",
+      "start": 1438,
+      "end": 1460
+    },
+    {
+      "text": "sangrado a otras áreas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1490,
+      "end": 1512
+    },
+    {
+      "text": "ANGIO-TC EXTRA E INTRACRANEAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 1515,
+      "end": 1544
+    },
+    {
+      "text": "Arcos aórtico y carotídeos",
+      "type": "ARTERIA",
+      "start": 1546,
+      "end": 1572
+    },
+    {
+      "text": "ateromatosis leve",
+      "type": "PATOLOGIA",
+      "start": 1577,
+      "end": 1594
+    },
+    {
+      "text": "estenosis significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1599,
+      "end": 1622
+    },
+    {
+      "text": "Oclusión segmentaria",
+      "type": "PATOLOGIA",
+      "start": 1624,
+      "end": 1644
+    },
+    {
+      "text": "segmento M2 de la arteria cerebral media izquierda",
+      "type": "ARTERIA",
+      "start": 1648,
+      "end": 1698
+    },
+    {
+      "text": "Resto de las principales arterias intracraneales",
+      "type": "ARTERIA",
+      "start": 1700,
+      "end": 1748
+    },
+    {
+      "text": "Sistema vertebrobasilar",
+      "type": "ARTERIA",
+      "start": 1761,
+      "end": 1784
+    },
+    {
+      "text": "sin alteraciones",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1785,
+      "end": 1801
+    },
+    {
+      "text": "Área de infarto isquémico",
+      "type": "PATOLOGIA",
+      "start": 1826,
+      "end": 1851
+    },
+    {
+      "text": "territorio ACM izquierda",
+      "type": "ARTERIA",
+      "start": 1855,
+      "end": 1879
+    },
+    {
+      "text": "transformación hemorrágica tipo PH1",
+      "type": "PATOLOGIA",
+      "start": 1884,
+      "end": 1919
+    },
+    {
+      "text": "desplazamiento de líneas medias",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1925,
+      "end": 1956
+    },
+    {
+      "text": "efecto masa relevante",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1960,
+      "end": 1981
+    },
+    {
+      "text": "Perfusión cerebral",
+      "type": "PATOLOGIA",
+      "start": 1983,
+      "end": 2001
+    },
+    {
+      "text": "persistencia de penumbra viable",
+      "type": "PATOLOGIA",
+      "start": 2009,
+      "end": 2040
+    },
+    {
+      "text": "Oclusión trombótica",
+      "type": "PATOLOGIA",
+      "start": 2060,
+      "end": 2079
+    },
+    {
+      "text": "segmento M2 de ACM izquierda",
+      "type": "ARTERIA",
+      "start": 2083,
+      "end": 2111
+    },
+    {
+      "text": "confirmada por angioTC",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2112,
+      "end": 2134
+    }
+  ]
+}

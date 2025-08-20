@@ -1,0 +1,137 @@
+{
+  "document_id": "informe_sintetico_20250804195045_13722",
+  "entities": [
+    {
+      "text": "hematomas",
+      "type": "PATOLOGIA",
+      "start": 622,
+      "end": 631
+    },
+    {
+      "text": "masas",
+      "type": "PATOLOGIA",
+      "start": 633,
+      "end": 638
+    },
+    {
+      "text": "focos de infarto agudo",
+      "type": "PATOLOGIA",
+      "start": 642,
+      "end": 664
+    },
+    {
+      "text": "atrofia cortical",
+      "type": "PATOLOGIA",
+      "start": 702,
+      "end": 718
+    },
+    {
+      "text": "cambios crónicos",
+      "type": "TEMPORALIDAD",
+      "start": 809,
+      "end": 825
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 1004,
+      "end": 1014
+    },
+    {
+      "text": "hemorragia intraparenquimatosa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1029,
+      "end": 1059
+    },
+    {
+      "text": "hemorragia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1029,
+      "end": 1039
+    },
+    {
+      "text": "alteraciones en el tiempo de tránsito (TTP)",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1152,
+      "end": 1195
+    },
+    {
+      "text": "flujo sanguíneo cerebral (CBF)",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1197,
+      "end": 1227
+    },
+    {
+      "text": "volumen sanguíneo cerebral (CBV)",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1230,
+      "end": 1262
+    },
+    {
+      "text": "mismatches",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1268,
+      "end": 1278
+    },
+    {
+      "text": "zonas de penumbra",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1282,
+      "end": 1299
+    },
+    {
+      "text": "infarto establecida",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1303,
+      "end": 1322
+    },
+    {
+      "text": "ACAs",
+      "type": "ARTERIA",
+      "start": 1391,
+      "end": 1395
+    },
+    {
+      "text": "ACMs",
+      "type": "ARTERIA",
+      "start": 1397,
+      "end": 1401
+    },
+    {
+      "text": "ACPs",
+      "type": "ARTERIA",
+      "start": 1404,
+      "end": 1408
+    },
+    {
+      "text": "estenosis hemodinámicamente relevantes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1627,
+      "end": 1665
+    },
+    {
+      "text": "código ictus",
+      "type": "TECNICA_IMAGEN",
+      "start": 549,
+      "end": 561
+    },
+    {
+      "text": "TC craneal basal sin contraste",
+      "type": "TECNICA_IMAGEN",
+      "start": 420,
+      "end": 450
+    },
+    {
+      "text": "estudio de perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 452,
+      "end": 481
+    },
+    {
+      "text": "angioTC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 484,
+      "end": 513
+    }
+  ]
+}

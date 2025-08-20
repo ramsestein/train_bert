@@ -1,0 +1,89 @@
+{
+  "document_id": "informe_sintetico_20250804195045_20406",
+  "entities": [
+    {
+      "text": "infarto cerebral en fase aguda",
+      "type": "PATOLOGIA",
+      "start": 690,
+      "end": 720
+    },
+    {
+      "text": "hemorragia petequial aislada sin efecto de masa",
+      "type": "PATOLOGIA",
+      "start": 859,
+      "end": 906
+    },
+    {
+      "text": "ASPECTS 7/10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 1037,
+      "end": 1049
+    },
+    {
+      "text": "núcleos basales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1084,
+      "end": 1099
+    },
+    {
+      "text": "región insular",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1102,
+      "end": 1116
+    },
+    {
+      "text": "ACM izquierda",
+      "type": "ARTERIA",
+      "start": 1386,
+      "end": 1399
+    },
+    {
+      "text": "Oclusión parcial segmentaria en la división superior del segmento M2 de la arteria cerebral media izquierda",
+      "type": "PATOLOGIA",
+      "start": 1512,
+      "end": 1619
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "ARTERIA",
+      "start": 643,
+      "end": 675
+    },
+    {
+      "text": "Oclusión parcial segmento M2 izquierda",
+      "type": "PATOLOGIA",
+      "start": 2408,
+      "end": 2446
+    },
+    {
+      "text": "No se observa desplazamiento de las estructuras de la línea media ni herniación",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 909,
+      "end": 988
+    },
+    {
+      "text": "No evidencia de hemorragia intraventricular ni subaracnoidea",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1200,
+      "end": 1260
+    },
+    {
+      "text": "No signos de hemorragia mayor ni complicaciones estructurales adicionales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2075,
+      "end": 2148
+    },
+    {
+      "text": "TC craneal urgente basal + TC perfusión cerebral + Angio-TC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 305,
+      "end": 386
+    },
+    {
+      "text": "TC ANGIO- PERFUSIÓN PARA CÓDIGO ICTUS",
+      "type": "TECNICA_IMAGEN",
+      "start": 2208,
+      "end": 2245
+    }
+  ]
+}

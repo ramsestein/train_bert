@@ -1,0 +1,149 @@
+{
+  "document_id": "informe_sintetico_20250804195045_06378",
+  "entities": [
+    {
+      "text": "ictus isquémico",
+      "type": "PATOLOGIA",
+      "start": 287,
+      "end": 302
+    },
+    {
+      "text": "hemiparesia derecha",
+      "type": "PATOLOGIA",
+      "start": 203,
+      "end": 222
+    },
+    {
+      "text": "afasia",
+      "type": "PATOLOGIA",
+      "start": 225,
+      "end": 231
+    },
+    {
+      "text": "hipodensidad",
+      "type": "PATOLOGIA",
+      "start": 509,
+      "end": 521
+    },
+    {
+      "text": "borramiento parcial de surcos corticales",
+      "type": "PATOLOGIA",
+      "start": 582,
+      "end": 622
+    },
+    {
+      "text": "ASPECTS 6",
+      "type": "PUNTUACION_CLINICA",
+      "start": 624,
+      "end": 633
+    },
+    {
+      "text": "arteria hiperdensa en segmento M1 izquierdo",
+      "type": "PATOLOGIA",
+      "start": 649,
+      "end": 692
+    },
+    {
+      "text": "trombo",
+      "type": "PATOLOGIA",
+      "start": 707,
+      "end": 713
+    },
+    {
+      "text": "disminución del índice de flujo cerebral (CBF)",
+      "type": "PATOLOGIA",
+      "start": 761,
+      "end": 807
+    },
+    {
+      "text": "aumento del tiempo de tránsito medio (MTT)",
+      "type": "PATOLOGIA",
+      "start": 810,
+      "end": 852
+    },
+    {
+      "text": "ACM izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 883,
+      "end": 896
+    },
+    {
+      "text": "penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 928,
+      "end": 946
+    },
+    {
+      "text": "Volumen de penumbra estimado en 55 ml",
+      "type": "MEDIDA",
+      "start": 948,
+      "end": 985
+    },
+    {
+      "text": "núcleo isquémico (CBV disminuido) de 15 ml",
+      "type": "MEDIDA",
+      "start": 988,
+      "end": 1030
+    },
+    {
+      "text": "oclusión completa del segmento proximal M1 de arteria cerebral media izquierda",
+      "type": "PATOLOGIA",
+      "start": 1063,
+      "end": 1141
+    },
+    {
+      "text": "Tracto distal disminuido o no visualizado",
+      "type": "PATOLOGIA",
+      "start": 1143,
+      "end": 1184
+    },
+    {
+      "text": "sin evidencia de estenosis ni trombosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1247,
+      "end": 1286
+    },
+    {
+      "text": "isquemia cerebral aguda",
+      "type": "PATOLOGIA",
+      "start": 1333,
+      "end": 1356
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1109,
+      "end": 1141
+    },
+    {
+      "text": "oclusión proximal de segmento M1",
+      "type": "PATOLOGIA",
+      "start": 1411,
+      "end": 1443
+    },
+    {
+      "text": "penumbra significativa",
+      "type": "PATOLOGIA",
+      "start": 1457,
+      "end": 1479
+    },
+    {
+      "text": "No se evidencian complicaciones hemorrágicas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1520,
+      "end": 1564
+    },
+    {
+      "text": "Oclusión arteria cerebral media proximal izquierda (M1)",
+      "type": "PATOLOGIA",
+      "start": 2006,
+      "end": 2061
+    },
+    {
+      "text": "angioTC intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 2076,
+      "end": 2096
+    }
+  ]
+}

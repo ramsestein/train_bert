@@ -1,0 +1,32 @@
+UO_PACN (Unidad Organizativa Médica): RADIO
+
+PRUEB (Prueba solicitada): TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANG IOTC ARTERIAL INTRACRANEAL)
+
+CLIN (Resumen clínico): Déficit motor contralateral y alteración sensitiva de predominio en extremidad inferior, sospecha de isquemia aguda en territorio de arteria cerebral anterior (ACA).
+
+OBSR (Protocolo): Estudio urgente para código ictus que incluye TC de cráneo basal sin contraste, estudio de perfusión cerebral con valoración de TTP, CBV y CBF, y angio-TC de arterias intra y extracraneales.
+
+RESL (Resultados): 
+-TC CRANEAL BASAL:
+No se evidencian hemorragias intra o extraaxiales. El parénquima cerebral muestra leve hipodensidad en la región parasagital del lóbulo frontal izquierdo, compatible con isquemia incipiente en territorio de ACA. La diferenciación cortico-subcortical está levemente alterada en dicha zona. No se observan signos de edema significativo ni efecto de masa. Línea media centrada. Cisternas basales y surcos corticales preservados.
+
+-TC PERFUSIÓN:
+Se identifica prolongación del tiempo de tránsito medio (TTP) y reducción del flujo cerebral (CBF) en área parasagital izquierda correspondiente al territorio medial frontal de ACA. El volumen cerebral (CBV) está conservado, evidenciando mismatch sugestivo de tejido en riesgo viable.
+
+-ANGIO-TC EXTRA E INTRACRANEAL:
+Orígenes de troncos supraórticos sin lesiones significativas. Arteria cerebral anterior izquierda con estenosis significativa en su segmento A2 proximal, que condiciona reducción del calibre y flujo distal. Arterias carótidas internas permeables sin placas ostiarias críticas. Resto de arterias intracraneales permeables, incluida arteria cerebral anterior derecha, arterias cerebrales medias y posteriores bilaterales. Sistema vertebrobasilar sin alteraciones.
+
+CONCL (Conclusiones): 
+- Evidencias radiológicas compatibles con isquemia aguda en territorio de arteria cerebral anterior izquierda, con área de penumbra significativa identificada en perfusión. 
+- Estenosis relevante en segmento A2 de ACA izquierda responsable de la alteración hemodinámica.
+- No signos de hemorragia ni edema con efecto masa.
+
+ACTI_ADICI (Actividad adicional): Se recomienda valoración urgente para posible trombectomía o tratamiento endovascular según criterio clínico y radiológico.
+
+ICON (Estudio): @TC_COD_ICA@
+
+X00DIATXT (Texto del diagnóstico ACR): Isquemia aguda en territorio de arteria cerebral anterior izquierda con estenosis significativa en segmento A2 y área de penumbra viable en perfusión cerebral.
+
+EST_T_DES (Descripción): TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANGIOTC ARTERIAL INTRACRANEAL)
+
+ZVASOS_D (Der.): Estenosis severa arterial intracraneal en segmento A2 ACA izquierda.

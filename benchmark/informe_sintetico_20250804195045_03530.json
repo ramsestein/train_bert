@@ -1,0 +1,119 @@
+{
+  "document_id": "informe_sintetico_20250804195045_03530",
+  "entities": [
+    {
+      "text": "hemorragia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 504,
+      "end": 514
+    },
+    {
+      "text": "infarto agudo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 518,
+      "end": 531
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 614,
+      "end": 624
+    },
+    {
+      "text": "lesiones puntiformes hipodensas en sustancia blanca periventricular",
+      "type": "PATOLOGIA",
+      "start": 638,
+      "end": 705
+    },
+    {
+      "text": "cambios crónicos leucoaraisóticos",
+      "type": "PATOLOGIA",
+      "start": 722,
+      "end": 755
+    },
+    {
+      "text": "atrofia cerebral incipiente",
+      "type": "PATOLOGIA",
+      "start": 931,
+      "end": 958
+    },
+    {
+      "text": "distribución homogénea de los parámetros de volumen sanguíneo cerebral (CBV), flujo sanguíneo cerebral (CBF) y tiempo de tránsito medio (MTT)",
+      "type": "PATOLOGIA",
+      "start": 1017,
+      "end": 1158
+    },
+    {
+      "text": "hipoperfusión focal",
+      "type": "PATOLOGIA",
+      "start": 1173,
+      "end": 1192
+    },
+    {
+      "text": "arterias intracraneales y extracraneales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 396,
+      "end": 436
+    },
+    {
+      "text": "arterias cerebrales intracraneales (ACAs, ACMs, ACPs)",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1498,
+      "end": 1551
+    },
+    {
+      "text": "ACAs",
+      "type": "ARTERIA",
+      "start": 1534,
+      "end": 1538
+    },
+    {
+      "text": "ACMs",
+      "type": "ARTERIA",
+      "start": 1540,
+      "end": 1544
+    },
+    {
+      "text": "ACPs",
+      "type": "ARTERIA",
+      "start": 1546,
+      "end": 1550
+    },
+    {
+      "text": "bulbo carotídeo izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1408,
+      "end": 1433
+    },
+    {
+      "text": "estenosis hemodinámicamente relevantes (<30%)",
+      "type": "PATOLOGIA",
+      "start": 1439,
+      "end": 1484
+    },
+    {
+      "text": "patología aguda isquémica o hemorrágica",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1700,
+      "end": 1739
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 614,
+      "end": 624
+    },
+    {
+      "text": "cambios crónicos inespecíficos en sustancia blanca compatibles con enfermedad de pequeño vaso",
+      "type": "PATOLOGIA",
+      "start": 1766,
+      "end": 1859
+    },
+    {
+      "text": "ateromatosis leve sin estenosis significativa",
+      "type": "PATOLOGIA",
+      "start": 1914,
+      "end": 1959
+    }
+  ]
+}

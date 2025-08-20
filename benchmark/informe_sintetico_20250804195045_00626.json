@@ -1,0 +1,89 @@
+{
+  "document_id": "informe_sintetico_20250804195045_00626",
+  "entities": [
+    {
+      "text": "hematoma lobar parietal derecho",
+      "type": "PATOLOGIA",
+      "start": 476,
+      "end": 507
+    },
+    {
+      "text": "35 x 28 x 25 mm",
+      "type": "MEDIDA",
+      "start": 527,
+      "end": 542
+    },
+    {
+      "text": "edema vasogénico",
+      "type": "PATOLOGIA",
+      "start": 657,
+      "end": 673
+    },
+    {
+      "text": "5 mm",
+      "type": "MEDIDA",
+      "start": 538,
+      "end": 542
+    },
+    {
+      "text": "hemorragias intraventriculares",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 788,
+      "end": 818
+    },
+    {
+      "text": "sangrado subaracnoideo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 822,
+      "end": 844
+    },
+    {
+      "text": "edema vasogénico",
+      "type": "PATOLOGIA",
+      "start": 657,
+      "end": 673
+    },
+    {
+      "text": "arteria cerebral media",
+      "type": "ARTERIA",
+      "start": 1306,
+      "end": 1328
+    },
+    {
+      "text": "parietal derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 491,
+      "end": 507
+    },
+    {
+      "text": "sin signos de estenosis ni oclusión",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1387,
+      "end": 1422
+    },
+    {
+      "text": "sin incremento de zonas isquémicas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1737,
+      "end": 1771
+    },
+    {
+      "text": "sin alteraciones significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1810,
+      "end": 1841
+    },
+    {
+      "text": "TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANG IOTC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 72,
+      "end": 140
+    },
+    {
+      "text": "TC basal craneal + TC perfusión cerebral + AngioTC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 351,
+      "end": 423
+    }
+  ]
+}

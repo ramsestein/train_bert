@@ -1,0 +1,269 @@
+{
+  "document_id": "informe_sintetico_20250804195045_05909",
+  "entities": [
+    {
+      "text": "hematoma intraparenquimatoso",
+      "type": "PATOLOGIA",
+      "start": 405,
+      "end": 433
+    },
+    {
+      "text": "tálamo derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 463,
+      "end": 477
+    },
+    {
+      "text": "2.5 cm",
+      "type": "MEDIDA",
+      "start": 509,
+      "end": 515
+    },
+    {
+      "text": "efecto masa",
+      "type": "PATOLOGIA",
+      "start": 525,
+      "end": 536
+    },
+    {
+      "text": "línea media",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 586,
+      "end": 597
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 607,
+      "end": 616
+    },
+    {
+      "text": "sistema ventricular lateral",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 661,
+      "end": 688
+    },
+    {
+      "text": "hemorragia subaracnoidea",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 703,
+      "end": 727
+    },
+    {
+      "text": "ventrículos laterales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 733,
+      "end": 754
+    },
+    {
+      "text": "dilatación atrial derecha",
+      "type": "PATOLOGIA",
+      "start": 770,
+      "end": 795
+    },
+    {
+      "text": "hidrocefalia aguda obstructiva",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 822,
+      "end": 852
+    },
+    {
+      "text": "fracturas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 872,
+      "end": 881
+    },
+    {
+      "text": "lesiones óseas asociadas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 885,
+      "end": 909
+    },
+    {
+      "text": "diferenciación cortico-subcortical",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 914,
+      "end": 948
+    },
+    {
+      "text": "parénquima cerebral",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 981,
+      "end": 1000
+    },
+    {
+      "text": "Cisternas basales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1002,
+      "end": 1019
+    },
+    {
+      "text": "efecto masa",
+      "type": "PATOLOGIA",
+      "start": 525,
+      "end": 536
+    },
+    {
+      "text": "CBF",
+      "type": "TECNICA_IMAGEN",
+      "start": 1118,
+      "end": 1121
+    },
+    {
+      "text": "volumen cerebral",
+      "type": "PATOLOGIA",
+      "start": 1125,
+      "end": 1141
+    },
+    {
+      "text": "CBV",
+      "type": "TECNICA_IMAGEN",
+      "start": 1143,
+      "end": 1146
+    },
+    {
+      "text": "tálamo derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 463,
+      "end": 477
+    },
+    {
+      "text": "Tiempo de tránsito prolongado",
+      "type": "PATOLOGIA",
+      "start": 1209,
+      "end": 1238
+    },
+    {
+      "text": "TTP",
+      "type": "TECNICA_IMAGEN",
+      "start": 1240,
+      "end": 1243
+    },
+    {
+      "text": "efecto masa",
+      "type": "PATOLOGIA",
+      "start": 525,
+      "end": 536
+    },
+    {
+      "text": "edema circundante",
+      "type": "PATOLOGIA",
+      "start": 1308,
+      "end": 1325
+    },
+    {
+      "text": "áreas de penumbra",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1345,
+      "end": 1362
+    },
+    {
+      "text": "isquemia distante",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1365,
+      "end": 1382
+    },
+    {
+      "text": "arterias intra y extracraneales",
+      "type": "ARTERIA",
+      "start": 1432,
+      "end": 1463
+    },
+    {
+      "text": "arteria cerebral posterior derecha",
+      "type": "ARTERIA",
+      "start": 1479,
+      "end": 1513
+    },
+    {
+      "text": "permeables",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1519,
+      "end": 1529
+    },
+    {
+      "text": "estenosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1545,
+      "end": 1554
+    },
+    {
+      "text": "oclusión",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1558,
+      "end": 1566
+    },
+    {
+      "text": "malformaciones arteriovenosas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1585,
+      "end": 1614
+    },
+    {
+      "text": "aneurismas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1618,
+      "end": 1628
+    },
+    {
+      "text": "Hematoma intraparenquimatoso reciente",
+      "type": "PATOLOGIA",
+      "start": 1680,
+      "end": 1717
+    },
+    {
+      "text": "tálamo derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 463,
+      "end": 477
+    },
+    {
+      "text": "extensión ventricular lateral",
+      "type": "PATOLOGIA",
+      "start": 1740,
+      "end": 1769
+    },
+    {
+      "text": "efecto masa moderado",
+      "type": "PATOLOGIA",
+      "start": 1781,
+      "end": 1801
+    },
+    {
+      "text": "hidrocefalia obstructiva franca",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1816,
+      "end": 1847
+    },
+    {
+      "text": "Perfusión cerebral alterada localmente",
+      "type": "PATOLOGIA",
+      "start": 1870,
+      "end": 1908
+    },
+    {
+      "text": "efecto masa",
+      "type": "PATOLOGIA",
+      "start": 525,
+      "end": 536
+    },
+    {
+      "text": "Arterias intra y extracraneales permeables",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1926,
+      "end": 1968
+    },
+    {
+      "text": "estenosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1545,
+      "end": 1554
+    },
+    {
+      "text": "malformaciones evidentes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1986,
+      "end": 2010
+    }
+  ]
+}

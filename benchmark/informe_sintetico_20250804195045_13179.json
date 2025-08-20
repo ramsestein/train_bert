@@ -1,0 +1,89 @@
+{
+  "document_id": "informe_sintetico_20250804195045_13179",
+  "entities": [
+    {
+      "text": "hemorragia lobar cortical",
+      "type": "PATOLOGIA",
+      "start": 562,
+      "end": 587
+    },
+    {
+      "text": "región parietal",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 624,
+      "end": 639
+    },
+    {
+      "text": "bilateral",
+      "type": "LATERALIDAD",
+      "start": 652,
+      "end": 661
+    },
+    {
+      "text": "microhemorragias",
+      "type": "PATOLOGIA",
+      "start": 712,
+      "end": 728
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 1200,
+      "end": 1214
+    },
+    {
+      "text": "No se observan hematomas voluminosos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 730,
+      "end": 766
+    },
+    {
+      "text": "No se evidencian áreas de hipoperfusión focal significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1127,
+      "end": 1186
+    },
+    {
+      "text": "No se observan estenosis, oclusiones ni malformaciones vasculares",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1356,
+      "end": 1421
+    },
+    {
+      "text": "No hay signos de vasculitis o vasoespasmo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1479,
+      "end": 1520
+    },
+    {
+      "text": "No hay evidencia de malformaciones vasculares ni vasculitis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1730,
+      "end": 1789
+    },
+    {
+      "text": "leucoaraiosis periventricular y subcortical",
+      "type": "PATOLOGIA",
+      "start": 913,
+      "end": 956
+    },
+    {
+      "text": "TC craneal no contrastada",
+      "type": "TECNICA_IMAGEN",
+      "start": 341,
+      "end": 366
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 369,
+      "end": 390
+    },
+    {
+      "text": "AngioTC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 393,
+      "end": 422
+    }
+  ]
+}

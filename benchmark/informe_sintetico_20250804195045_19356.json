@@ -1,0 +1,65 @@
+{
+  "document_id": "informe_sintetico_20250804195045_19356",
+  "entities": [
+    {
+      "text": "infarto lacunar",
+      "type": "PATOLOGIA",
+      "start": 200,
+      "end": 215
+    },
+    {
+      "text": "8 mm",
+      "type": "MEDIDA",
+      "start": 441,
+      "end": 445
+    },
+    {
+      "text": "cápsula interna derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 481,
+      "end": 504
+    },
+    {
+      "text": "aguda",
+      "type": "TEMPORALIDAD",
+      "start": 536,
+      "end": 541
+    },
+    {
+      "text": "hemorragia intra o extraaxial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 568,
+      "end": 597
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 697,
+      "end": 707
+    },
+    {
+      "text": "infarto pequeño localizado",
+      "type": "PATOLOGIA",
+      "start": 1046,
+      "end": 1072
+    },
+    {
+      "text": "ACAs, ACMs, ACPs",
+      "type": "ARTERIA",
+      "start": 1211,
+      "end": 1227
+    },
+    {
+      "text": "sin hemorragia ni compromiso de grandes vasos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1514,
+      "end": 1559
+    },
+    {
+      "text": "sin hallazgos de hemorragia ni compromiso vascular mayor",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1887,
+      "end": 1943
+    }
+  ]
+}

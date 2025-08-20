@@ -1,0 +1,77 @@
+{
+  "document_id": "informe_sintetico_20250804195045_20988",
+  "entities": [
+    {
+      "text": "hemorragia aguda",
+      "type": "PATOLOGIA",
+      "start": 480,
+      "end": 496
+    },
+    {
+      "text": "hipodensidad nodular",
+      "type": "PATOLOGIA",
+      "start": 540,
+      "end": 560
+    },
+    {
+      "text": "infarto lacunar agudo",
+      "type": "PATOLOGIA",
+      "start": 611,
+      "end": 632
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 1089,
+      "end": 1103
+    },
+    {
+      "text": "núcleo lenticular izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 567,
+      "end": 594
+    },
+    {
+      "text": "cápsula interna izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 999,
+      "end": 1024
+    },
+    {
+      "text": "arterias carótidas internas",
+      "type": "ARTERIA",
+      "start": 1232,
+      "end": 1259
+    },
+    {
+      "text": "bifurcación carotídea izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1376,
+      "end": 1407
+    },
+    {
+      "text": "sin repercusión hemodinámica",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1409,
+      "end": 1437
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 269,
+      "end": 285
+    },
+    {
+      "text": "TC PERFUSIÓN",
+      "type": "TECNICA_IMAGEN",
+      "start": 851,
+      "end": 863
+    },
+    {
+      "text": "ANGIO-TC INTRA Y EXTRACRANEAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 1128,
+      "end": 1157
+    }
+  ]
+}

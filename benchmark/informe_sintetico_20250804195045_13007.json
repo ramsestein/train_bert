@@ -1,0 +1,227 @@
+{
+  "document_id": "informe_sintetico_20250804195045_13007",
+  "entities": [
+    {
+      "text": "accidente cerebrovascular isquémico",
+      "type": "PATOLOGIA",
+      "start": 179,
+      "end": 214
+    },
+    {
+      "text": "territorio cerebral medio derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 219,
+      "end": 252
+    },
+    {
+      "text": "36 horas",
+      "type": "TEMPORALIDAD",
+      "start": 266,
+      "end": 274
+    },
+    {
+      "text": "área hipodensa",
+      "type": "PATOLOGIA",
+      "start": 495,
+      "end": 509
+    },
+    {
+      "text": "región frontoparietal derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 516,
+      "end": 545
+    },
+    {
+      "text": "infarto isquémico subagudo",
+      "type": "PATOLOGIA",
+      "start": 561,
+      "end": 587
+    },
+    {
+      "text": "foco hemático hiperdenso puntual",
+      "type": "PATOLOGIA",
+      "start": 611,
+      "end": 643
+    },
+    {
+      "text": "menor de 10 mm",
+      "type": "MEDIDA",
+      "start": 697,
+      "end": 711
+    },
+    {
+      "text": "sangrado petequial",
+      "type": "PATOLOGIA",
+      "start": 677,
+      "end": 695
+    },
+    {
+      "text": "hemorragias intraparenquimatosas mayores",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 777,
+      "end": 817
+    },
+    {
+      "text": "hematomas expansivos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 821,
+      "end": 841
+    },
+    {
+      "text": "ventrículos encefálicos",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 847,
+      "end": 870
+    },
+    {
+      "text": "tamaño normal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 880,
+      "end": 893
+    },
+    {
+      "text": "estructuras de la línea media centradas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 898,
+      "end": 937
+    },
+    {
+      "text": "Cisternas basales y surcos corticales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 939,
+      "end": 976
+    },
+    {
+      "text": "obliterados en región afectada",
+      "type": "PATOLOGIA",
+      "start": 989,
+      "end": 1019
+    },
+    {
+      "text": "efecto masa significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1025,
+      "end": 1050
+    },
+    {
+      "text": "Mapa de tiempo de tránsito (TTP) prolongado",
+      "type": "PATOLOGIA",
+      "start": 1067,
+      "end": 1110
+    },
+    {
+      "text": "territorio de la arteria cerebral media derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1114,
+      "end": 1161
+    },
+    {
+      "text": "disminución leve del flujo cerebral",
+      "type": "PATOLOGIA",
+      "start": 1167,
+      "end": 1202
+    },
+    {
+      "text": "volumen cerebral (CBV) conservado",
+      "type": "PATOLOGIA",
+      "start": 1211,
+      "end": 1244
+    },
+    {
+      "text": "área isquémica en fase subaguda",
+      "type": "PATOLOGIA",
+      "start": 1261,
+      "end": 1292
+    },
+    {
+      "text": "Oclusión parcial segmentaria",
+      "type": "PATOLOGIA",
+      "start": 1326,
+      "end": 1354
+    },
+    {
+      "text": "M2 de la arteria cerebral media derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1358,
+      "end": 1397
+    },
+    {
+      "text": "sin formación de aneurismas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1399,
+      "end": 1426
+    },
+    {
+      "text": "malformaciones arteriovenosas visibles",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1430,
+      "end": 1468
+    },
+    {
+      "text": "Sistema arterial restante permeable",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1470,
+      "end": 1505
+    },
+    {
+      "text": "sin estenosis relevantes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1507,
+      "end": 1531
+    },
+    {
+      "text": "signos de trombosis venosa cerebral",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1548,
+      "end": 1583
+    },
+    {
+      "text": "Infarto isquémico subagudo",
+      "type": "PATOLOGIA",
+      "start": 1610,
+      "end": 1636
+    },
+    {
+      "text": "territorio de arteria cerebral media derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1640,
+      "end": 1684
+    },
+    {
+      "text": "transformación hemorrágica tipo HI1",
+      "type": "PATOLOGIA",
+      "start": 725,
+      "end": 760
+    },
+    {
+      "text": "focos petequiales hemorrágicos menores de 10 mm",
+      "type": "PATOLOGIA",
+      "start": 1726,
+      "end": 1773
+    },
+    {
+      "text": "Oclusión parcial en segmento M2 de ACM derecha",
+      "type": "PATOLOGIA",
+      "start": 1778,
+      "end": 1824
+    },
+    {
+      "text": "Sin hematomas expansivos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1828,
+      "end": 1852
+    },
+    {
+      "text": "efecto masa significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1025,
+      "end": 1050
+    },
+    {
+      "text": "Perfusión cerebral compatible con área isquémica subaguda",
+      "type": "PATOLOGIA",
+      "start": 1885,
+      "end": 1942
+    }
+  ]
+}

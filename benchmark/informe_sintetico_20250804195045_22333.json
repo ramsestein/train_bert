@@ -1,0 +1,53 @@
+{
+  "document_id": "informe_sintetico_20250804195045_22333",
+  "entities": [
+    {
+      "text": "hematoma intraparenquimatoso lobar",
+      "type": "PATOLOGIA",
+      "start": 415,
+      "end": 449
+    },
+    {
+      "text": "región parietal derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 453,
+      "end": 476
+    },
+    {
+      "text": "12 cc",
+      "type": "MEDIDA",
+      "start": 496,
+      "end": 501
+    },
+    {
+      "text": "ASPECTS 8",
+      "type": "PUNTUACION_CLINICA",
+      "start": 679,
+      "end": 688
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "ARTERIA",
+      "start": 1155,
+      "end": 1185
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 469,
+      "end": 476
+    },
+    {
+      "text": "sin signos de estenosis ni trombosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1186,
+      "end": 1222
+    },
+    {
+      "text": "sin dilatación ni desviación evidente",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 757,
+      "end": 794
+    }
+  ]
+}

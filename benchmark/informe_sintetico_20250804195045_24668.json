@@ -1,0 +1,89 @@
+{
+  "document_id": "informe_sintetico_20250804195045_24668",
+  "entities": [
+    {
+      "text": "infarto agudo",
+      "type": "PATOLOGIA",
+      "start": 614,
+      "end": 627
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 656,
+      "end": 679
+    },
+    {
+      "text": "hemorragia subaracnoidea",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 683,
+      "end": 707
+    },
+    {
+      "text": "ASPECTS 7",
+      "type": "PUNTUACION_CLINICA",
+      "start": 709,
+      "end": 718
+    },
+    {
+      "text": "penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1183,
+      "end": 1201
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 565,
+      "end": 597
+    },
+    {
+      "text": "arteria carótida interna izquierda",
+      "type": "ARTERIA",
+      "start": 1345,
+      "end": 1379
+    },
+    {
+      "text": "estenosis del 70%",
+      "type": "MEDIDA",
+      "start": 1487,
+      "end": 1504
+    },
+    {
+      "text": "disección arterial",
+      "type": "PATOLOGIA",
+      "start": 259,
+      "end": 277
+    },
+    {
+      "text": "infarto territorial isquémico",
+      "type": "PATOLOGIA",
+      "start": 2397,
+      "end": 2426
+    },
+    {
+      "text": "hemisferio cerebral izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 2430,
+      "end": 2459
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 336,
+      "end": 352
+    },
+    {
+      "text": "angiografía TC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 400,
+      "end": 436
+    },
+    {
+      "text": "TC PERFUSIÓN",
+      "type": "TECNICA_IMAGEN",
+      "start": 903,
+      "end": 915
+    }
+  ]
+}

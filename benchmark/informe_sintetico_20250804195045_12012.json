@@ -1,0 +1,101 @@
+{
+  "document_id": "informe_sintetico_20250804195045_12012",
+  "entities": [
+    {
+      "text": "isquemia cerebral aguda",
+      "type": "PATOLOGIA",
+      "start": 237,
+      "end": 260
+    },
+    {
+      "text": "M1",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 487,
+      "end": 489
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "ARTERIA",
+      "start": 496,
+      "end": 526
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 519,
+      "end": 526
+    },
+    {
+      "text": "ASPECTS de 6",
+      "type": "PUNTUACION_CLINICA",
+      "start": 1608,
+      "end": 1620
+    },
+    {
+      "text": "6",
+      "type": "MEDIDA",
+      "start": 759,
+      "end": 760
+    },
+    {
+      "text": "aguda",
+      "type": "TEMPORALIDAD",
+      "start": 255,
+      "end": 260
+    },
+    {
+      "text": "Oclusión completa",
+      "type": "PATOLOGIA",
+      "start": 1215,
+      "end": 1232
+    },
+    {
+      "text": "M1",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 487,
+      "end": 489
+    },
+    {
+      "text": "arteria hiperdensa",
+      "type": "PATOLOGIA",
+      "start": 583,
+      "end": 601
+    },
+    {
+      "text": "M1 derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1657,
+      "end": 1667
+    },
+    {
+      "text": "penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1163,
+      "end": 1181
+    },
+    {
+      "text": "No signos de hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1719,
+      "end": 1755
+    },
+    {
+      "text": "TC craneal sin contraste inicial",
+      "type": "TECNICA_IMAGEN",
+      "start": 281,
+      "end": 313
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 315,
+      "end": 336
+    },
+    {
+      "text": "angioTC de arterias intracraneales y supraaórticas",
+      "type": "TECNICA_IMAGEN",
+      "start": 339,
+      "end": 389
+    }
+  ]
+}

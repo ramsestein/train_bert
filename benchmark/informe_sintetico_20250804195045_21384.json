@@ -1,0 +1,65 @@
+{
+  "document_id": "informe_sintetico_20250804195045_21384",
+  "entities": [
+    {
+      "text": "hematoma lobar agudo",
+      "type": "PATOLOGIA",
+      "start": 533,
+      "end": 553
+    },
+    {
+      "text": "región frontal derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 560,
+      "end": 582
+    },
+    {
+      "text": "45 x 38 x 35 mm",
+      "type": "MEDIDA",
+      "start": 608,
+      "end": 623
+    },
+    {
+      "text": "6 mm",
+      "type": "MEDIDA",
+      "start": 862,
+      "end": 866
+    },
+    {
+      "text": "ventrículo lateral derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 953,
+      "end": 979
+    },
+    {
+      "text": "Cisternas perimesencefálicas",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 981,
+      "end": 1009
+    },
+    {
+      "text": "Angio-TC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 1307,
+      "end": 1337
+    },
+    {
+      "text": "sin evidencias de malformaciones vasculares ni estenosis significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1338,
+      "end": 1409
+    },
+    {
+      "text": "sin estrechamientos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1484,
+      "end": 1503
+    },
+    {
+      "text": "Perfusión cerebral preservada fuera del área hematómica",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1723,
+      "end": 1778
+    }
+  ]
+}

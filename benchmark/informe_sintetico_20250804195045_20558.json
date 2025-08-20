@@ -1,0 +1,107 @@
+{
+  "document_id": "informe_sintetico_20250804195045_20558",
+  "entities": [
+    {
+      "text": "hematoma subdural agudo",
+      "type": "PATOLOGIA",
+      "start": 691,
+      "end": 714
+    },
+    {
+      "text": "región frontoparietal derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 567,
+      "end": 596
+    },
+    {
+      "text": "12 mm",
+      "type": "MEDIDA",
+      "start": 651,
+      "end": 656
+    },
+    {
+      "text": "5 mm",
+      "type": "MEDIDA",
+      "start": 812,
+      "end": 816
+    },
+    {
+      "text": "disminución del flujo cerebral (CBF)",
+      "type": "PATOLOGIA",
+      "start": 1195,
+      "end": 1231
+    },
+    {
+      "text": "hemisferio derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1238,
+      "end": 1256
+    },
+    {
+      "text": "hipoperfusión focal",
+      "type": "PATOLOGIA",
+      "start": 1396,
+      "end": 1415
+    },
+    {
+      "text": "bilaterales",
+      "type": "LATERALIDAD",
+      "start": 1617,
+      "end": 1628
+    },
+    {
+      "text": "No se detectan defectos de repleción ni signos de disección",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1630,
+      "end": 1689
+    },
+    {
+      "text": "No hay evidencia de vasospasmo o trombosis arterial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1691,
+      "end": 1742
+    },
+    {
+      "text": "No evidencia de lesión parenquimatosa hemorrágica ni compromiso vascular significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1947,
+      "end": 2033
+    },
+    {
+      "text": "agudo",
+      "type": "TEMPORALIDAD",
+      "start": 709,
+      "end": 714
+    },
+    {
+      "text": "efecto de masa",
+      "type": "PATOLOGIA",
+      "start": 727,
+      "end": 741
+    },
+    {
+      "text": "efecto compresivo",
+      "type": "PATOLOGIA",
+      "start": 1928,
+      "end": 1945
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 304,
+      "end": 320
+    },
+    {
+      "text": "perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 322,
+      "end": 340
+    },
+    {
+      "text": "angio-TC arterial intra y extracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 343,
+      "end": 381
+    }
+  ]
+}

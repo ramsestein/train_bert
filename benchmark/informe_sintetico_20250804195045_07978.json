@@ -1,0 +1,95 @@
+{
+  "document_id": "informe_sintetico_20250804195045_07978",
+  "entities": [
+    {
+      "text": "isquemia",
+      "type": "PATOLOGIA",
+      "start": 258,
+      "end": 266
+    },
+    {
+      "text": "arteria cerebral anterior",
+      "type": "ARTERIA",
+      "start": 284,
+      "end": 309
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 944,
+      "end": 953
+    },
+    {
+      "text": "No se evidencian hemorragias agudas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 451,
+      "end": 486
+    },
+    {
+      "text": "No se observan signos tempranos claros de isquemia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 711,
+      "end": 761
+    },
+    {
+      "text": "isquemia aguda establecida",
+      "type": "PATOLOGIA",
+      "start": 1069,
+      "end": 1095
+    },
+    {
+      "text": "penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1123,
+      "end": 1141
+    },
+    {
+      "text": "Oclusión proximal segmentaria",
+      "type": "PATOLOGIA",
+      "start": 1274,
+      "end": 1303
+    },
+    {
+      "text": "arteria cerebral anterior izquierda",
+      "type": "ARTERIA",
+      "start": 918,
+      "end": 953
+    },
+    {
+      "text": "A2",
+      "type": "ARTERIA",
+      "start": 1344,
+      "end": 1346
+    },
+    {
+      "text": "sin estenosis significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1399,
+      "end": 1426
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 699,
+      "end": 709
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 336,
+      "end": 352
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 355,
+      "end": 376
+    },
+    {
+      "text": "AngioTC intra y extracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 379,
+      "end": 407
+    }
+  ]
+}

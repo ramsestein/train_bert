@@ -1,0 +1,101 @@
+{
+  "document_id": "informe_sintetico_20250804195045_11977",
+  "entities": [
+    {
+      "text": "infarto agudo",
+      "type": "PATOLOGIA",
+      "start": 569,
+      "end": 582
+    },
+    {
+      "text": "región frontoinsular derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 499,
+      "end": 527
+    },
+    {
+      "text": "cápsula interna derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 530,
+      "end": 553
+    },
+    {
+      "text": "arteria cerebral media (ACM)",
+      "type": "ARTERIA",
+      "start": 600,
+      "end": 628
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 670,
+      "end": 693
+    },
+    {
+      "text": "edema de masa significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 697,
+      "end": 724
+    },
+    {
+      "text": "ASPECTS 7",
+      "type": "PUNTUACION_CLINICA",
+      "start": 797,
+      "end": 806
+    },
+    {
+      "text": "infarto establecido",
+      "type": "PATOLOGIA",
+      "start": 1025,
+      "end": 1044
+    },
+    {
+      "text": "penumbra isquémica circundante",
+      "type": "PATOLOGIA",
+      "start": 1049,
+      "end": 1079
+    },
+    {
+      "text": "arteria carótida interna derecha",
+      "type": "ARTERIA",
+      "start": 1209,
+      "end": 1241
+    },
+    {
+      "text": "estenosis severa (>70%)",
+      "type": "PATOLOGIA",
+      "start": 1351,
+      "end": 1374
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "ARTERIA",
+      "start": 1381,
+      "end": 1411
+    },
+    {
+      "text": "No hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1944,
+      "end": 1970
+    },
+    {
+      "text": "No se objetivan signos de trombosis venosa cerebral",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1531,
+      "end": 1582
+    },
+    {
+      "text": "disección carotídea derecha",
+      "type": "PATOLOGIA",
+      "start": 2245,
+      "end": 2272
+    },
+    {
+      "text": "estenosis arterial secundaria",
+      "type": "PATOLOGIA",
+      "start": 2277,
+      "end": 2306
+    }
+  ]
+}

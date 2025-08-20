@@ -1,0 +1,83 @@
+{
+  "document_id": "informe_sintetico_20250804195045_03814",
+  "entities": [
+    {
+      "text": "isquemia",
+      "type": "PATOLOGIA",
+      "start": 708,
+      "end": 716
+    },
+    {
+      "text": "parietal izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 568,
+      "end": 586
+    },
+    {
+      "text": "arteria cerebral media",
+      "type": "ARTERIA",
+      "start": 277,
+      "end": 299
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 577,
+      "end": 586
+    },
+    {
+      "text": "ASPECTS 9",
+      "type": "PUNTUACION_CLINICA",
+      "start": 727,
+      "end": 736
+    },
+    {
+      "text": "3 horas",
+      "type": "TEMPORALIDAD",
+      "start": 210,
+      "end": 217
+    },
+    {
+      "text": "hemorragia intra o extraaxial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 444,
+      "end": 473
+    },
+    {
+      "text": "TC CRANEAL BASAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 414,
+      "end": 430
+    },
+    {
+      "text": "TC PERFUSIÓN",
+      "type": "TECNICA_IMAGEN",
+      "start": 906,
+      "end": 918
+    },
+    {
+      "text": "ANGIO-TC INTRACRANEAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 1236,
+      "end": 1257
+    },
+    {
+      "text": "oclusión trombótica o embólica",
+      "type": "PATOLOGIA",
+      "start": 1363,
+      "end": 1393
+    },
+    {
+      "text": "territorio parietal izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1015,
+      "end": 1044
+    },
+    {
+      "text": "sin áreas de infarto establecido claro",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1195,
+      "end": 1233
+    }
+  ]
+}

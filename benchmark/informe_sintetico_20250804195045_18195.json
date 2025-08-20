@@ -1,0 +1,71 @@
+{
+  "document_id": "informe_sintetico_20250804195045_18195",
+  "entities": [
+    {
+      "text": "infarto lacunar agudo",
+      "type": "PATOLOGIA",
+      "start": 531,
+      "end": 552
+    },
+    {
+      "text": "cápsula interna derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 491,
+      "end": 514
+    },
+    {
+      "text": "8 mm",
+      "type": "MEDIDA",
+      "start": 468,
+      "end": 472
+    },
+    {
+      "text": "agudo",
+      "type": "TEMPORALIDAD",
+      "start": 547,
+      "end": 552
+    },
+    {
+      "text": "ASPECTS 9",
+      "type": "PUNTUACION_CLINICA",
+      "start": 693,
+      "end": 702
+    },
+    {
+      "text": "isquemia focal restringida",
+      "type": "PATOLOGIA",
+      "start": 1123,
+      "end": 1149
+    },
+    {
+      "text": "arterias cerebrales anterior, media y posterior",
+      "type": "ARTERIA",
+      "start": 1347,
+      "end": 1394
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 507,
+      "end": 514
+    },
+    {
+      "text": "No se evidencian áreas de hemorragia intra o extraaxial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 554,
+      "end": 609
+    },
+    {
+      "text": "No se evidencian alteraciones significativas en otras áreas cerebrales ni signos de compromiso hemodinámico mayor",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1151,
+      "end": 1264
+    },
+    {
+      "text": "No evidencias de hemorragia ni compromiso arterial mayor",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1763,
+      "end": 1819
+    }
+  ]
+}

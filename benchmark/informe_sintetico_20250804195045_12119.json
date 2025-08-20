@@ -1,0 +1,59 @@
+{
+  "document_id": "informe_sintetico_20250804195045_12119",
+  "entities": [
+    {
+      "text": "infarto lacunar agudo",
+      "type": "PATOLOGIA",
+      "start": 228,
+      "end": 249
+    },
+    {
+      "text": "6 mm",
+      "type": "MEDIDA",
+      "start": 479,
+      "end": 483
+    },
+    {
+      "text": "región capsular posterior izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 488,
+      "end": 523
+    },
+    {
+      "text": "No se observan signos de hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 618,
+      "end": 666
+    },
+    {
+      "text": "No se evidencian estenosis ni oclusiones en los vasos intracraneales principales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1150,
+      "end": 1230
+    },
+    {
+      "text": "arterias cerebrales anterior, media y posterior",
+      "type": "ARTERIA",
+      "start": 1232,
+      "end": 1279
+    },
+    {
+      "text": "carótida común izquierda",
+      "type": "ARTERIA",
+      "start": 1363,
+      "end": 1387
+    },
+    {
+      "text": "sin evidencia de oclusión arterial mayor",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1620,
+      "end": 1660
+    },
+    {
+      "text": "sin evidencia de penumbra significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1075,
+      "end": 1114
+    }
+  ]
+}

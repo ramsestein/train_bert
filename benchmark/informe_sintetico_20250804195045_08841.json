@@ -1,0 +1,239 @@
+{
+  "document_id": "informe_sintetico_20250804195045_08841",
+  "entities": [
+    {
+      "text": "hemiparesia izquierda",
+      "type": "PATOLOGIA",
+      "start": 196,
+      "end": 217
+    },
+    {
+      "text": "afasia",
+      "type": "PATOLOGIA",
+      "start": 220,
+      "end": 226
+    },
+    {
+      "text": "disección carotídea",
+      "type": "PATOLOGIA",
+      "start": 248,
+      "end": 267
+    },
+    {
+      "text": "ictus isquémico",
+      "type": "PATOLOGIA",
+      "start": 272,
+      "end": 287
+    },
+    {
+      "text": "hipodensidad",
+      "type": "PATOLOGIA",
+      "start": 510,
+      "end": 522
+    },
+    {
+      "text": "edema citotóxico",
+      "type": "PATOLOGIA",
+      "start": 646,
+      "end": 662
+    },
+    {
+      "text": "infarto isquémico subagudo",
+      "type": "PATOLOGIA",
+      "start": 679,
+      "end": 705
+    },
+    {
+      "text": "arteria cerebral media",
+      "type": "ARTERIA",
+      "start": 726,
+      "end": 748
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 554,
+      "end": 561
+    },
+    {
+      "text": "hemorragia parenquimatosa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 791,
+      "end": 816
+    },
+    {
+      "text": "ASPECTS 7",
+      "type": "PUNTUACION_CLINICA",
+      "start": 832,
+      "end": 841
+    },
+    {
+      "text": "volumen cerebral sanguíneo",
+      "type": "PATOLOGIA",
+      "start": 1019,
+      "end": 1045
+    },
+    {
+      "text": "aumento del tiempo de tránsito medio",
+      "type": "PATOLOGIA",
+      "start": 1083,
+      "end": 1119
+    },
+    {
+      "text": "tiempo hasta el pico",
+      "type": "PATOLOGIA",
+      "start": 1128,
+      "end": 1148
+    },
+    {
+      "text": "territorio ACM derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1222,
+      "end": 1244
+    },
+    {
+      "text": "irregularidad de la pared arterial",
+      "type": "PATOLOGIA",
+      "start": 1358,
+      "end": 1392
+    },
+    {
+      "text": "estrechamiento focal",
+      "type": "PATOLOGIA",
+      "start": 1405,
+      "end": 1425
+    },
+    {
+      "text": "engrosamiento parietal",
+      "type": "PATOLOGIA",
+      "start": 1428,
+      "end": 1450
+    },
+    {
+      "text": "disección",
+      "type": "PATOLOGIA",
+      "start": 248,
+      "end": 257
+    },
+    {
+      "text": "pseudoaneurisma",
+      "type": "PATOLOGIA",
+      "start": 1488,
+      "end": 1503
+    },
+    {
+      "text": "arteria carótida interna derecha",
+      "type": "ARTERIA",
+      "start": 1314,
+      "end": 1346
+    },
+    {
+      "text": "flujo colateral preservado",
+      "type": "PATOLOGIA",
+      "start": 1622,
+      "end": 1648
+    },
+    {
+      "text": "sistema vertebrobasilar",
+      "type": "ARTERIA",
+      "start": 1724,
+      "end": 1747
+    },
+    {
+      "text": "sin otras alteraciones",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1759,
+      "end": 1781
+    },
+    {
+      "text": "estenosis significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1808,
+      "end": 1832
+    },
+    {
+      "text": "ateromatosis prominente",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1836,
+      "end": 1859
+    },
+    {
+      "text": "infarto isquémico subagudo",
+      "type": "PATOLOGIA",
+      "start": 679,
+      "end": 705
+    },
+    {
+      "text": "territorio de la arteria cerebral media derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1918,
+      "end": 1965
+    },
+    {
+      "text": "ASPECTS 7",
+      "type": "PUNTUACION_CLINICA",
+      "start": 832,
+      "end": 841
+    },
+    {
+      "text": "penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1186,
+      "end": 1204
+    },
+    {
+      "text": "compromiso hemodinámico significativo",
+      "type": "PATOLOGIA",
+      "start": 2015,
+      "end": 2052
+    },
+    {
+      "text": "disección arterial de la arteria carótida interna derecha",
+      "type": "PATOLOGIA",
+      "start": 2125,
+      "end": 2182
+    },
+    {
+      "text": "pseudoaneurisma asociado",
+      "type": "PATOLOGIA",
+      "start": 2212,
+      "end": 2236
+    },
+    {
+      "text": "oclusión parcial del segmento intracavernoso",
+      "type": "PATOLOGIA",
+      "start": 2239,
+      "end": 2283
+    },
+    {
+      "text": "RMN cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 2481,
+      "end": 2493
+    },
+    {
+      "text": "angio-RMN",
+      "type": "TECNICA_IMAGEN",
+      "start": 2496,
+      "end": 2505
+    },
+    {
+      "text": "monitorización neurológica estricta",
+      "type": "PATOLOGIA",
+      "start": 2576,
+      "end": 2611
+    },
+    {
+      "text": "infarto isquémico en territorio ACM derecho",
+      "type": "PATOLOGIA",
+      "start": 2793,
+      "end": 2836
+    },
+    {
+      "text": "sin evidencia de hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2838,
+      "end": 2878
+    }
+  ]
+}

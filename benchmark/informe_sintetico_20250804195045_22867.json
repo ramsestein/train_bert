@@ -1,0 +1,59 @@
+{
+  "document_id": "informe_sintetico_20250804195045_22867",
+  "entities": [
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 724,
+      "end": 738
+    },
+    {
+      "text": "tronco encefálico",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 256,
+      "end": 273
+    },
+    {
+      "text": "arteria basilar",
+      "type": "ARTERIA",
+      "start": 1228,
+      "end": 1243
+    },
+    {
+      "text": "completa",
+      "type": "LATERALIDAD",
+      "start": 1213,
+      "end": 1221
+    },
+    {
+      "text": "aguda",
+      "type": "TEMPORALIDAD",
+      "start": 733,
+      "end": 738
+    },
+    {
+      "text": "infarto isquémico",
+      "type": "PATOLOGIA",
+      "start": 1678,
+      "end": 1695
+    },
+    {
+      "text": "No se identifican hemorragias intracraneales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 465,
+      "end": 509
+    },
+    {
+      "text": "No hay desplazamiento de línea media ni signos de herniación",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 761,
+      "end": 821
+    },
+    {
+      "text": "No se observan aneurismas ni malformaciones vasculares asociadas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1473,
+      "end": 1537
+    }
+  ]
+}

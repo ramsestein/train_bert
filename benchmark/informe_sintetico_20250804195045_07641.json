@@ -1,0 +1,233 @@
+{
+  "document_id": "informe_sintetico_20250804195045_07641",
+  "entities": [
+    {
+      "text": "accidente cerebrovascular isquémico reciente",
+      "type": "PATOLOGIA",
+      "start": 194,
+      "end": 238
+    },
+    {
+      "text": "deterioro neurológico agudo",
+      "type": "PATOLOGIA",
+      "start": 249,
+      "end": 276
+    },
+    {
+      "text": "baja densidad",
+      "type": "PATOLOGIA",
+      "start": 444,
+      "end": 457
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "ARTERIA",
+      "start": 478,
+      "end": 508
+    },
+    {
+      "text": "infarto isquémico subagudo",
+      "type": "PATOLOGIA",
+      "start": 524,
+      "end": 550
+    },
+    {
+      "text": "hiperdensidad heterogénea",
+      "type": "PATOLOGIA",
+      "start": 565,
+      "end": 590
+    },
+    {
+      "text": "transformación hemorrágica tipo HI2",
+      "type": "PATOLOGIA",
+      "start": 623,
+      "end": 658
+    },
+    {
+      "text": "sangrado intraparenquimatoso",
+      "type": "PATOLOGIA",
+      "start": 664,
+      "end": 692
+    },
+    {
+      "text": "más del 30% del área infartada",
+      "type": "MEDIDA",
+      "start": 709,
+      "end": 739
+    },
+    {
+      "text": "hemorragia subaracnoidea",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 768,
+      "end": 792
+    },
+    {
+      "text": "hematoma extraaxial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 796,
+      "end": 815
+    },
+    {
+      "text": "edema perilesional",
+      "type": "PATOLOGIA",
+      "start": 835,
+      "end": 853
+    },
+    {
+      "text": "efecto de masa",
+      "type": "PATOLOGIA",
+      "start": 863,
+      "end": 877
+    },
+    {
+      "text": "desviación mínima de la línea media",
+      "type": "PATOLOGIA",
+      "start": 880,
+      "end": 915
+    },
+    {
+      "text": "Sistema ventricular en situación normal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 917,
+      "end": 956
+    },
+    {
+      "text": "Cisternas basales libres",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 958,
+      "end": 982
+    },
+    {
+      "text": "Disminución marcada de CBF",
+      "type": "PATOLOGIA",
+      "start": 1001,
+      "end": 1027
+    },
+    {
+      "text": "aumento de TTP",
+      "type": "PATOLOGIA",
+      "start": 1057,
+      "end": 1071
+    },
+    {
+      "text": "territorio derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1105,
+      "end": 1123
+    },
+    {
+      "text": "tejido infartado",
+      "type": "PATOLOGIA",
+      "start": 1140,
+      "end": 1156
+    },
+    {
+      "text": "reducción de CBV",
+      "type": "PATOLOGIA",
+      "start": 1167,
+      "end": 1183
+    },
+    {
+      "text": "volumen sanguíneo cerebral",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1185,
+      "end": 1211
+    },
+    {
+      "text": "núcleo del infarto",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1232,
+      "end": 1250
+    },
+    {
+      "text": "regiones de penumbra significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1267,
+      "end": 1302
+    },
+    {
+      "text": "Oclusión distal de la arteria cerebral media derecha",
+      "type": "PATOLOGIA",
+      "start": 1402,
+      "end": 1454
+    },
+    {
+      "text": "segmento M2",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1458,
+      "end": 1469
+    },
+    {
+      "text": "Resto de vasos permeables",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1471,
+      "end": 1496
+    },
+    {
+      "text": "estenosis ni aneurismas aparentes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1501,
+      "end": 1534
+    },
+    {
+      "text": "signos de vasculitis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1551,
+      "end": 1571
+    },
+    {
+      "text": "malformaciones vasculares",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1575,
+      "end": 1600
+    },
+    {
+      "text": "Transformación hemorrágica tipo HI2",
+      "type": "PATOLOGIA",
+      "start": 1627,
+      "end": 1662
+    },
+    {
+      "text": "territorio de arteria cerebral media derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1666,
+      "end": 1710
+    },
+    {
+      "text": "infarto isquémico subagudo",
+      "type": "PATOLOGIA",
+      "start": 524,
+      "end": 550
+    },
+    {
+      "text": "Efecto de masa leve",
+      "type": "PATOLOGIA",
+      "start": 1745,
+      "end": 1764
+    },
+    {
+      "text": "desviación mínima de línea media",
+      "type": "PATOLOGIA",
+      "start": 1769,
+      "end": 1801
+    },
+    {
+      "text": "Oclusión distal de ACM derecha",
+      "type": "PATOLOGIA",
+      "start": 1803,
+      "end": 1833
+    },
+    {
+      "text": "Oclusión segmentaria de ACM derecha",
+      "type": "PATOLOGIA",
+      "start": 2278,
+      "end": 2313
+    },
+    {
+      "text": "estenosis significativa en otros vasos intracraneales evaluados",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2319,
+      "end": 2382
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "document_id": "informe_sintetico_20250804195045_24887",
+  "entities": [
+    {
+      "text": "isquemia cerebral aguda",
+      "type": "PATOLOGIA",
+      "start": 326,
+      "end": 349
+    },
+    {
+      "text": "hemiparesia derecha",
+      "type": "PATOLOGIA",
+      "start": 250,
+      "end": 269
+    },
+    {
+      "text": "disartria",
+      "type": "PATOLOGIA",
+      "start": 272,
+      "end": 281
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 1225,
+      "end": 1239
+    },
+    {
+      "text": "territorio multiterritorial",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1243,
+      "end": 1270
+    },
+    {
+      "text": "región frontoparietal izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1067,
+      "end": 1098
+    },
+    {
+      "text": "segmentos temporo-occipitales derechos",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1104,
+      "end": 1142
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "ARTERIA",
+      "start": 1447,
+      "end": 1479
+    },
+    {
+      "text": "arteria cerebral posterior derecha",
+      "type": "ARTERIA",
+      "start": 1555,
+      "end": 1589
+    },
+    {
+      "text": "TTP",
+      "type": "MEDIDA",
+      "start": 493,
+      "end": 496
+    },
+    {
+      "text": "CBF",
+      "type": "MEDIDA",
+      "start": 503,
+      "end": 506
+    },
+    {
+      "text": "CBV",
+      "type": "MEDIDA",
+      "start": 498,
+      "end": 501
+    },
+    {
+      "text": "reducción del volumen cerebral",
+      "type": "PATOLOGIA",
+      "start": 1157,
+      "end": 1187
+    },
+    {
+      "text": "penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1343,
+      "end": 1361
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 412,
+      "end": 428
+    },
+    {
+      "text": "TC PERFUSIÓN",
+      "type": "TECNICA_IMAGEN",
+      "start": 899,
+      "end": 911
+    },
+    {
+      "text": "ANGIO-TC INTRA/EXTRACRANEAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 1366,
+      "end": 1393
+    },
+    {
+      "text": "TC CEREBRAL CON PERFUSIÓN Y ANGIO-TC",
+      "type": "TECNICA_IMAGEN",
+      "start": 2191,
+      "end": 2227
+    }
+  ]
+}

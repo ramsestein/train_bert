@@ -1,0 +1,119 @@
+{
+  "document_id": "informe_sintetico_20250804195045_10205",
+  "entities": [
+    {
+      "text": "hematoma intraparenquimatoso",
+      "type": "PATOLOGIA",
+      "start": 430,
+      "end": 458
+    },
+    {
+      "text": "territorio putaminal izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 462,
+      "end": 492
+    },
+    {
+      "text": "cápsula interna",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 521,
+      "end": 536
+    },
+    {
+      "text": "32 x 28 x 30 mm",
+      "type": "MEDIDA",
+      "start": 569,
+      "end": 584
+    },
+    {
+      "text": "14 cc",
+      "type": "MEDIDA",
+      "start": 625,
+      "end": 630
+    },
+    {
+      "text": "desviación de la línea media",
+      "type": "PATOLOGIA",
+      "start": 692,
+      "end": 720
+    },
+    {
+      "text": "4 mm",
+      "type": "MEDIDA",
+      "start": 757,
+      "end": 761
+    },
+    {
+      "text": "hemorragia subaracnoidea",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 788,
+      "end": 812
+    },
+    {
+      "text": "hematoma en otras localizaciones",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 816,
+      "end": 848
+    },
+    {
+      "text": "leve compresión del ventrículo lateral izquierdo",
+      "type": "PATOLOGIA",
+      "start": 882,
+      "end": 930
+    },
+    {
+      "text": "edema vasogénico",
+      "type": "PATOLOGIA",
+      "start": 1063,
+      "end": 1079
+    },
+    {
+      "text": "hipoperfusión en territorios arteriales mayores",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1098,
+      "end": 1145
+    },
+    {
+      "text": "ACM, ACA, ACP",
+      "type": "ARTERIA",
+      "start": 1215,
+      "end": 1228
+    },
+    {
+      "text": "sin signos de estenosis ni oclusiones",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1242,
+      "end": 1279
+    },
+    {
+      "text": "malformaciones vasculares ni aneurismas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1299,
+      "end": 1338
+    },
+    {
+      "text": "sin alteraciones significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1400,
+      "end": 1431
+    },
+    {
+      "text": "hemorragia de probable origen hipertensivo",
+      "type": "PATOLOGIA",
+      "start": 1750,
+      "end": 1792
+    },
+    {
+      "text": "TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANG IOTC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 72,
+      "end": 140
+    },
+    {
+      "text": "TC craneal basal sin contraste + TC perfusión cerebral + Angio-TC arterial intracraneal post contraste",
+      "type": "TECNICA_IMAGEN",
+      "start": 274,
+      "end": 376
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "document_id": "informe_sintetico_20250804195045_04064",
+  "entities": [
+    {
+      "text": "ictus isquémico",
+      "type": "PATOLOGIA",
+      "start": 207,
+      "end": 222
+    },
+    {
+      "text": "infarto isquémico establecido",
+      "type": "PATOLOGIA",
+      "start": 574,
+      "end": 603
+    },
+    {
+      "text": "transformación hemorrágica tipo HI2",
+      "type": "PATOLOGIA",
+      "start": 697,
+      "end": 732
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 528,
+      "end": 558
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 551,
+      "end": 558
+    },
+    {
+      "text": "3 mm",
+      "type": "MEDIDA",
+      "start": 900,
+      "end": 904
+    },
+    {
+      "text": "disminución marcada de flujo cerebral",
+      "type": "PATOLOGIA",
+      "start": 1034,
+      "end": 1071
+    },
+    {
+      "text": "infarto consolidado",
+      "type": "PATOLOGIA",
+      "start": 1235,
+      "end": 1254
+    },
+    {
+      "text": "Oclusión completa del segmento M1 de la arteria cerebral media derecha",
+      "type": "PATOLOGIA",
+      "start": 1350,
+      "end": 1420
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 528,
+      "end": 558
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 551,
+      "end": 558
+    },
+    {
+      "text": "sin efecto masa importante",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1742,
+      "end": 1768
+    },
+    {
+      "text": "TC CÓDIGO ICTUS",
+      "type": "TECNICA_IMAGEN",
+      "start": 328,
+      "end": 343
+    },
+    {
+      "text": "PERFUSIÓN CEREBRAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 353,
+      "end": 371
+    },
+    {
+      "text": "ANGIO-TC TSA E INTRACRANEAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 374,
+      "end": 401
+    },
+    {
+      "text": "TC CÓDIGO ICTUS",
+      "type": "TECNICA_IMAGEN",
+      "start": 328,
+      "end": 343
+    },
+    {
+      "text": "BASAL + PERFUSIÓN CEREBRAL + ANGIO-TC TSA E INTRACRANEAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 345,
+      "end": 401
+    }
+  ]
+}

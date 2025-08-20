@@ -1,0 +1,101 @@
+{
+  "document_id": "informe_sintetico_20250804195045_15898",
+  "entities": [
+    {
+      "text": "fibrinólisis intravenosa",
+      "type": "PATOLOGIA",
+      "start": 204,
+      "end": 228
+    },
+    {
+      "text": "transformación hemorrágica",
+      "type": "PATOLOGIA",
+      "start": 242,
+      "end": 268
+    },
+    {
+      "text": "hemorragia petequial mínima",
+      "type": "PATOLOGIA",
+      "start": 665,
+      "end": 692
+    },
+    {
+      "text": "isquémica subaguda",
+      "type": "PATOLOGIA",
+      "start": 859,
+      "end": 877
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 571,
+      "end": 603
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 594,
+      "end": 603
+    },
+    {
+      "text": "zona isquémica izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1082,
+      "end": 1106
+    },
+    {
+      "text": "territorio afectado",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1211,
+      "end": 1230
+    },
+    {
+      "text": "volumen cerebral (CBV)",
+      "type": "MEDIDA",
+      "start": 1236,
+      "end": 1258
+    },
+    {
+      "text": "sin evidencia de oclusiones de gran vaso",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1379,
+      "end": 1419
+    },
+    {
+      "text": "sin hematoma significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1649,
+      "end": 1675
+    },
+    {
+      "text": "sin evidencia de oclusión o estenosis residual",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1807,
+      "end": 1853
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 370,
+      "end": 386
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 388,
+      "end": 409
+    },
+    {
+      "text": "AngioTC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 412,
+      "end": 441
+    },
+    {
+      "text": "HI1",
+      "type": "PUNTUACION_CLINICA",
+      "start": 660,
+      "end": 663
+    }
+  ]
+}

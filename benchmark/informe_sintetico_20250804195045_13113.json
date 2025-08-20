@@ -1,0 +1,113 @@
+{
+  "document_id": "informe_sintetico_20250804195045_13113",
+  "entities": [
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 269,
+      "end": 283
+    },
+    {
+      "text": "arteria cerebral posterior derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 301,
+      "end": 335
+    },
+    {
+      "text": "isquemia precoz",
+      "type": "PATOLOGIA",
+      "start": 775,
+      "end": 790
+    },
+    {
+      "text": "ASPECTS modificada para ACP: 9/10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 792,
+      "end": 825
+    },
+    {
+      "text": "territorio de ACP derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 985,
+      "end": 1010
+    },
+    {
+      "text": "flujo cerebral (CBF)",
+      "type": "MEDIDA",
+      "start": 1042,
+      "end": 1062
+    },
+    {
+      "text": "volumen cerebral (CBV)",
+      "type": "MEDIDA",
+      "start": 1065,
+      "end": 1087
+    },
+    {
+      "text": "isquemia en penumbra",
+      "type": "PATOLOGIA",
+      "start": 1154,
+      "end": 1174
+    },
+    {
+      "text": "núcleo isquémico limitado",
+      "type": "PATOLOGIA",
+      "start": 1177,
+      "end": 1202
+    },
+    {
+      "text": "Oclusión subtotal en segmento P2 de arteria cerebral posterior derecha",
+      "type": "PATOLOGIA",
+      "start": 1238,
+      "end": 1308
+    },
+    {
+      "text": "Sistema vertebro-basilar",
+      "type": "ARTERIA",
+      "start": 1396,
+      "end": 1420
+    },
+    {
+      "text": "No se identifican hemorragias intracraneales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 562,
+      "end": 606
+    },
+    {
+      "text": "No evidencia de hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1762,
+      "end": 1801
+    },
+    {
+      "text": "ASPECTS 9/10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 1803,
+      "end": 1815
+    },
+    {
+      "text": "aguda",
+      "type": "TEMPORALIDAD",
+      "start": 278,
+      "end": 283
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 328,
+      "end": 335
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 328,
+      "end": 335
+    },
+    {
+      "text": "izquierdas",
+      "type": "LATERALIDAD",
+      "start": 1370,
+      "end": 1380
+    }
+  ]
+}

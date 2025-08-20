@@ -1,0 +1,89 @@
+{
+  "document_id": "informe_sintetico_20250804195045_17630",
+  "entities": [
+    {
+      "text": "contusión hemorrágica",
+      "type": "PATOLOGIA",
+      "start": 449,
+      "end": 470
+    },
+    {
+      "text": "región frontotemporal derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 485,
+      "end": 514
+    },
+    {
+      "text": "2 cm",
+      "type": "MEDIDA",
+      "start": 565,
+      "end": 569
+    },
+    {
+      "text": "sin efecto de masa significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 621,
+      "end": 653
+    },
+    {
+      "text": "sin signos de hidrocefalia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 749,
+      "end": 775
+    },
+    {
+      "text": "sin signos de isquemia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2032,
+      "end": 2054
+    },
+    {
+      "text": "sin evidencia de estenosis o disección",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1247,
+      "end": 1285
+    },
+    {
+      "text": "sin alteraciones morfológicas relevantes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1390,
+      "end": 1430
+    },
+    {
+      "text": "sin evidencia de efecto de masa importante",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1524,
+      "end": 1566
+    },
+    {
+      "text": "sin infartos isquémicos asociados",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1650,
+      "end": 1683
+    },
+    {
+      "text": "sin alteraciones estructurales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1720,
+      "end": 1750
+    },
+    {
+      "text": "TC Basal craneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 317,
+      "end": 333
+    },
+    {
+      "text": "TC Perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 336,
+      "end": 357
+    },
+    {
+      "text": "AngioTC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 360,
+      "end": 389
+    }
+  ]
+}

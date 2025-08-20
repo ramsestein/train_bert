@@ -1,0 +1,239 @@
+{
+  "document_id": "informe_sintetico_20250804195045_22595",
+  "entities": [
+    {
+      "text": "hemiparesia contralateral",
+      "type": "PATOLOGIA",
+      "start": 195,
+      "end": 220
+    },
+    {
+      "text": "accidente isquémico agudo",
+      "type": "PATOLOGIA",
+      "start": 270,
+      "end": 295
+    },
+    {
+      "text": "hipodensidad",
+      "type": "PATOLOGIA",
+      "start": 503,
+      "end": 515
+    },
+    {
+      "text": "pérdida de diferenciación cortico-subcortical",
+      "type": "PATOLOGIA",
+      "start": 520,
+      "end": 565
+    },
+    {
+      "text": "territorio parasagital izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 572,
+      "end": 604
+    },
+    {
+      "text": "arteria cerebral anterior",
+      "type": "ARTERIA",
+      "start": 626,
+      "end": 651
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 676,
+      "end": 699
+    },
+    {
+      "text": "lesiones crónicas hemorrágicas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 703,
+      "end": 733
+    },
+    {
+      "text": "edema masivo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 760,
+      "end": 772
+    },
+    {
+      "text": "efecto de masa significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 776,
+      "end": 804
+    },
+    {
+      "text": "microangiopatía crónica",
+      "type": "PATOLOGIA",
+      "start": 895,
+      "end": 918
+    },
+    {
+      "text": "territorio vascular de la ACA izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 958,
+      "end": 997
+    },
+    {
+      "text": "tiempo medio de tránsito",
+      "type": "MEDIDA",
+      "start": 1021,
+      "end": 1045
+    },
+    {
+      "text": "tiempo hasta el pico",
+      "type": "MEDIDA",
+      "start": 1058,
+      "end": 1078
+    },
+    {
+      "text": "reducción moderada del flujo sanguíneo cerebral",
+      "type": "PATOLOGIA",
+      "start": 1090,
+      "end": 1137
+    },
+    {
+      "text": "volumen cerebral sanguíneo",
+      "type": "MEDIDA",
+      "start": 1148,
+      "end": 1174
+    },
+    {
+      "text": "zona de penumbra isquémica significativa",
+      "type": "PATOLOGIA",
+      "start": 1222,
+      "end": 1262
+    },
+    {
+      "text": "Oclusión en el segmento A2 de la ACA izquierda",
+      "type": "PATOLOGIA",
+      "start": 1299,
+      "end": 1345
+    },
+    {
+      "text": "resto del árbol arterial intracraneal",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1350,
+      "end": 1387
+    },
+    {
+      "text": "ACA derecha",
+      "type": "ARTERIA",
+      "start": 1389,
+      "end": 1400
+    },
+    {
+      "text": "arterias cerebrales medias y posteriores",
+      "type": "ARTERIA",
+      "start": 1402,
+      "end": 1442
+    },
+    {
+      "text": "permeable",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1457,
+      "end": 1466
+    },
+    {
+      "text": "signos de estenosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1471,
+      "end": 1490
+    },
+    {
+      "text": "placas ateromatosas significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1494,
+      "end": 1528
+    },
+    {
+      "text": "sistema vertebrobasilar",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1533,
+      "end": 1556
+    },
+    {
+      "text": "alteraciones evidentes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1561,
+      "end": 1583
+    },
+    {
+      "text": "Isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 1610,
+      "end": 1624
+    },
+    {
+      "text": "territorio de la arteria cerebral anterior izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1628,
+      "end": 1680
+    },
+    {
+      "text": "oclusión del segmento A2",
+      "type": "PATOLOGIA",
+      "start": 1685,
+      "end": 1709
+    },
+    {
+      "text": "mismatch perfusional",
+      "type": "PATOLOGIA",
+      "start": 1724,
+      "end": 1744
+    },
+    {
+      "text": "área de penumbra significativa",
+      "type": "PATOLOGIA",
+      "start": 1749,
+      "end": 1779
+    },
+    {
+      "text": "hemorragia concomitante",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1797,
+      "end": 1820
+    },
+    {
+      "text": "edema cerebral grave",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1824,
+      "end": 1844
+    },
+    {
+      "text": "permeables",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1872,
+      "end": 1882
+    },
+    {
+      "text": "alteraciones mayores",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1889,
+      "end": 1909
+    },
+    {
+      "text": "TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANG IOTC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 72,
+      "end": 140
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 348,
+      "end": 364
+    },
+    {
+      "text": "perfusión cerebral dinámica",
+      "type": "TECNICA_IMAGEN",
+      "start": 366,
+      "end": 393
+    },
+    {
+      "text": "angiografía por TC intracraneal con contraste",
+      "type": "TECNICA_IMAGEN",
+      "start": 396,
+      "end": 441
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "document_id": "informe_sintetico_20250804195045_10218",
+  "entities": [
+    {
+      "text": "infarto cerebral",
+      "type": "PATOLOGIA",
+      "start": 229,
+      "end": 245
+    },
+    {
+      "text": "estenosis carotídea bilateral",
+      "type": "PATOLOGIA",
+      "start": 263,
+      "end": 292
+    },
+    {
+      "text": "déficit neurológico súbito",
+      "type": "PATOLOGIA",
+      "start": 189,
+      "end": 215
+    },
+    {
+      "text": "infartos tipo watershed",
+      "type": "PATOLOGIA",
+      "start": 847,
+      "end": 870
+    },
+    {
+      "text": "parietal",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 613,
+      "end": 621
+    },
+    {
+      "text": "parieto-occipital",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 759,
+      "end": 776
+    },
+    {
+      "text": "arterias cerebrales",
+      "type": "ARTERIA",
+      "start": 698,
+      "end": 717
+    },
+    {
+      "text": "ACM",
+      "type": "ARTERIA",
+      "start": 1721,
+      "end": 1724
+    },
+    {
+      "text": "ACP",
+      "type": "ARTERIA",
+      "start": 1727,
+      "end": 1730
+    },
+    {
+      "text": "bilaterales",
+      "type": "LATERALIDAD",
+      "start": 624,
+      "end": 635
+    },
+    {
+      "text": "bilateral",
+      "type": "LATERALIDAD",
+      "start": 283,
+      "end": 292
+    },
+    {
+      "text": ">70%",
+      "type": "MEDIDA",
+      "start": 1446,
+      "end": 1450
+    },
+    {
+      "text": "marcada",
+      "type": "TEMPORALIDAD",
+      "start": 1087,
+      "end": 1094
+    },
+    {
+      "text": "sin evidencia de oclusión completa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1515,
+      "end": 1549
+    },
+    {
+      "text": "sin otros hallazgos patológicos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1590,
+      "end": 1621
+    },
+    {
+      "text": "hipoperfusión",
+      "type": "PATOLOGIA",
+      "start": 1353,
+      "end": 1366
+    },
+    {
+      "text": "hipoperfusión crónica-agravada",
+      "type": "PATOLOGIA",
+      "start": 2168,
+      "end": 2198
+    },
+    {
+      "text": "TC craneal sin contraste basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 357,
+      "end": 387
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 390,
+      "end": 411
+    },
+    {
+      "text": "angio-TC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 414,
+      "end": 444
+    }
+  ]
+}

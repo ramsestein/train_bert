@@ -1,0 +1,83 @@
+{
+  "document_id": "informe_sintetico_20250804195045_08106",
+  "entities": [
+    {
+      "text": "infarto isquémico",
+      "type": "PATOLOGIA",
+      "start": 572,
+      "end": 589
+    },
+    {
+      "text": "aguda",
+      "type": "TEMPORALIDAD",
+      "start": 598,
+      "end": 603
+    },
+    {
+      "text": "parietal",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 537,
+      "end": 545
+    },
+    {
+      "text": "izquierdo",
+      "type": "LATERALIDAD",
+      "start": 546,
+      "end": 555
+    },
+    {
+      "text": "discreto edema cerebral",
+      "type": "PATOLOGIA",
+      "start": 621,
+      "end": 644
+    },
+    {
+      "text": "arteria carótida interna",
+      "type": "ARTERIA",
+      "start": 1022,
+      "end": 1046
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 1047,
+      "end": 1056
+    },
+    {
+      "text": "reducción significativa del flujo cerebral",
+      "type": "PATOLOGIA",
+      "start": 1079,
+      "end": 1121
+    },
+    {
+      "text": "infarto establecido",
+      "type": "PATOLOGIA",
+      "start": 1176,
+      "end": 1195
+    },
+    {
+      "text": "disección arterial",
+      "type": "PATOLOGIA",
+      "start": 255,
+      "end": 273
+    },
+    {
+      "text": "carótida interna izquierda",
+      "type": "ARTERIA",
+      "start": 1030,
+      "end": 1056
+    },
+    {
+      "text": "segmento cervical-petroso",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 2022,
+      "end": 2047
+    },
+    {
+      "text": "signos de efecto masa significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2120,
+      "end": 2155
+    }
+  ]
+}

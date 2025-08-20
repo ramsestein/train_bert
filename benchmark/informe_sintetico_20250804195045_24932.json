@@ -1,0 +1,71 @@
+{
+  "document_id": "informe_sintetico_20250804195045_24932",
+  "entities": [
+    {
+      "text": "isquemia",
+      "type": "PATOLOGIA",
+      "start": 262,
+      "end": 270
+    },
+    {
+      "text": "arteria cerebral anterior",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 964,
+      "end": 989
+    },
+    {
+      "text": "ACA",
+      "type": "ARTERIA",
+      "start": 991,
+      "end": 994
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 996,
+      "end": 1005
+    },
+    {
+      "text": "aguda",
+      "type": "TEMPORALIDAD",
+      "start": 368,
+      "end": 373
+    },
+    {
+      "text": "Oclusión completa",
+      "type": "PATOLOGIA",
+      "start": 1269,
+      "end": 1286
+    },
+    {
+      "text": "arteria cerebral anterior izquierda",
+      "type": "ARTERIA",
+      "start": 1293,
+      "end": 1328
+    },
+    {
+      "text": "No se evidencian signos de hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 608,
+      "end": 658
+    },
+    {
+      "text": "No derrames ni malformaciones visibles",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 719,
+      "end": 757
+    },
+    {
+      "text": "No se aprecian áreas con volumen cerebral reducido que indiquen infarto establecido",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1150,
+      "end": 1233
+    },
+    {
+      "text": "No signos de hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1764,
+      "end": 1800
+    }
+  ]
+}

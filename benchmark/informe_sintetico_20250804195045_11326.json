@@ -1,0 +1,101 @@
+{
+  "document_id": "informe_sintetico_20250804195045_11326",
+  "entities": [
+    {
+      "text": "ictus isquémico",
+      "type": "PATOLOGIA",
+      "start": 246,
+      "end": 261
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 279,
+      "end": 311
+    },
+    {
+      "text": "arteria cerebral media",
+      "type": "ARTERIA",
+      "start": 279,
+      "end": 301
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 302,
+      "end": 311
+    },
+    {
+      "text": "aguda",
+      "type": "TEMPORALIDAD",
+      "start": 632,
+      "end": 637
+    },
+    {
+      "text": "ASPECTS 7/10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 829,
+      "end": 841
+    },
+    {
+      "text": "signo de arteria hiperdensa",
+      "type": "PATOLOGIA",
+      "start": 512,
+      "end": 539
+    },
+    {
+      "text": "M1 izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1678,
+      "end": 1690
+    },
+    {
+      "text": "Oclusión proximal de ACM izquierda",
+      "type": "PATOLOGIA",
+      "start": 1692,
+      "end": 1726
+    },
+    {
+      "text": "AngioTC",
+      "type": "TECNICA_IMAGEN",
+      "start": 396,
+      "end": 403
+    },
+    {
+      "text": "área de penumbra significativa",
+      "type": "PATOLOGIA",
+      "start": 1802,
+      "end": 1832
+    },
+    {
+      "text": "No hay evidencia de hemorragia aguda intra ni extraaxial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 601,
+      "end": 657
+    },
+    {
+      "text": "No evidencia de hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1834,
+      "end": 1873
+    },
+    {
+      "text": "M1",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 561,
+      "end": 563
+    },
+    {
+      "text": "CBF",
+      "type": "MEDIDA",
+      "start": 1095,
+      "end": 1098
+    },
+    {
+      "text": "CBV",
+      "type": "MEDIDA",
+      "start": 1131,
+      "end": 1134
+    }
+  ]
+}

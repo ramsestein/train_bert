@@ -1,0 +1,233 @@
+{
+  "document_id": "informe_sintetico_20250804195045_17741",
+  "entities": [
+    {
+      "text": "hematoma hiperdenso",
+      "type": "PATOLOGIA",
+      "start": 408,
+      "end": 427
+    },
+    {
+      "text": "núcleo caudado izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 442,
+      "end": 466
+    },
+    {
+      "text": "cápsula interna",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 491,
+      "end": 506
+    },
+    {
+      "text": "3.5 cm",
+      "type": "MEDIDA",
+      "start": 541,
+      "end": 547
+    },
+    {
+      "text": "edema perilesional",
+      "type": "PATOLOGIA",
+      "start": 575,
+      "end": 593
+    },
+    {
+      "text": "efecto masa",
+      "type": "PATOLOGIA",
+      "start": 603,
+      "end": 614
+    },
+    {
+      "text": "línea media",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 645,
+      "end": 656
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 191,
+      "end": 198
+    },
+    {
+      "text": "hemorragias subaracnoideas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 715,
+      "end": 741
+    },
+    {
+      "text": "compresión del ventrículo lateral izquierdo",
+      "type": "PATOLOGIA",
+      "start": 794,
+      "end": 837
+    },
+    {
+      "text": "hipoperfusión circundante al hematoma",
+      "type": "PATOLOGIA",
+      "start": 968,
+      "end": 1005
+    },
+    {
+      "text": "tiempo de tránsito medio (TTM)",
+      "type": "MEDIDA",
+      "start": 1023,
+      "end": 1053
+    },
+    {
+      "text": "flujo sanguíneo cerebral (CBF)",
+      "type": "MEDIDA",
+      "start": 1072,
+      "end": 1102
+    },
+    {
+      "text": "efecto edematoso",
+      "type": "PATOLOGIA",
+      "start": 1143,
+      "end": 1159
+    },
+    {
+      "text": "penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1170,
+      "end": 1188
+    },
+    {
+      "text": "Volumen cerebral (CBV)",
+      "type": "MEDIDA",
+      "start": 1190,
+      "end": 1212
+    },
+    {
+      "text": "alteraciones vascular focales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1271,
+      "end": 1300
+    },
+    {
+      "text": "aneurismas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1304,
+      "end": 1314
+    },
+    {
+      "text": "Arterias cerebrales principales",
+      "type": "ARTERIA",
+      "start": 1316,
+      "end": 1347
+    },
+    {
+      "text": "signos de malformaciones arteriovenosas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1375,
+      "end": 1414
+    },
+    {
+      "text": "trombosis venosa cerebral",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1418,
+      "end": 1443
+    },
+    {
+      "text": "Hematoma intracerebral",
+      "type": "PATOLOGIA",
+      "start": 1472,
+      "end": 1494
+    },
+    {
+      "text": "núcleo caudado izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 442,
+      "end": 466
+    },
+    {
+      "text": "cápsula interna",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 491,
+      "end": 506
+    },
+    {
+      "text": "edema perilesional",
+      "type": "PATOLOGIA",
+      "start": 575,
+      "end": 593
+    },
+    {
+      "text": "efecto masa",
+      "type": "PATOLOGIA",
+      "start": 603,
+      "end": 614
+    },
+    {
+      "text": "línea media",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 645,
+      "end": 656
+    },
+    {
+      "text": "hemorragias adicionales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1643,
+      "end": 1666
+    },
+    {
+      "text": "alteraciones hemodinámicas regionales",
+      "type": "PATOLOGIA",
+      "start": 1695,
+      "end": 1732
+    },
+    {
+      "text": "edema",
+      "type": "PATOLOGIA",
+      "start": 575,
+      "end": 580
+    },
+    {
+      "text": "área en riesgo",
+      "type": "PATOLOGIA",
+      "start": 1765,
+      "end": 1779
+    },
+    {
+      "text": "Angio-TC",
+      "type": "TECNICA_IMAGEN",
+      "start": 1781,
+      "end": 1789
+    },
+    {
+      "text": "evidencia de causa vascular subyacente",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1794,
+      "end": 1832
+    },
+    {
+      "text": "Hematoma intracerebral",
+      "type": "PATOLOGIA",
+      "start": 1472,
+      "end": 1494
+    },
+    {
+      "text": "edema perihematomal",
+      "type": "PATOLOGIA",
+      "start": 2047,
+      "end": 2066
+    },
+    {
+      "text": "sangrado subaracnoideo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2094,
+      "end": 2116
+    },
+    {
+      "text": "Arterias intracraneales",
+      "type": "ARTERIA",
+      "start": 2132,
+      "end": 2155
+    },
+    {
+      "text": "malformaciones",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1385,
+      "end": 1399
+    }
+  ]
+}

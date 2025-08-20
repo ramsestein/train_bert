@@ -1,0 +1,113 @@
+{
+  "document_id": "informe_sintetico_20250804195045_08138",
+  "entities": [
+    {
+      "text": "focos hemorrágicos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 397,
+      "end": 415
+    },
+    {
+      "text": "colecciones extraaxiales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 419,
+      "end": 443
+    },
+    {
+      "text": "edema",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 506,
+      "end": 511
+    },
+    {
+      "text": "lesiones isquémicas agudas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 515,
+      "end": 541
+    },
+    {
+      "text": "calcificaciones fisiológicas",
+      "type": "PATOLOGIA",
+      "start": 779,
+      "end": 807
+    },
+    {
+      "text": "calcificaciones puntiformes",
+      "type": "PATOLOGIA",
+      "start": 918,
+      "end": 945
+    },
+    {
+      "text": "patología aguda",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1571,
+      "end": 1586
+    },
+    {
+      "text": "isquemia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1622,
+      "end": 1630
+    },
+    {
+      "text": "hemorragia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1634,
+      "end": 1644
+    },
+    {
+      "text": "Perfusión cerebral normal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1646,
+      "end": 1671
+    },
+    {
+      "text": "circulación arterial intracraneal sin evidencias de obstrucción o estenosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1674,
+      "end": 1749
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 1751,
+      "end": 1761
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 269,
+      "end": 285
+    },
+    {
+      "text": "angio-TC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 287,
+      "end": 317
+    },
+    {
+      "text": "perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 320,
+      "end": 338
+    },
+    {
+      "text": "TTP",
+      "type": "MEDIDA",
+      "start": 1046,
+      "end": 1049
+    },
+    {
+      "text": "CBV",
+      "type": "MEDIDA",
+      "start": 1070,
+      "end": 1073
+    },
+    {
+      "text": "CBF",
+      "type": "MEDIDA",
+      "start": 1093,
+      "end": 1096
+    }
+  ]
+}

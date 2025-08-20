@@ -1,0 +1,277 @@
+{
+  "document_id": "informe_sintetico_20250804195045_00004",
+  "entities": [
+    {
+      "text": "Cefalea tensional",
+      "type": "PATOLOGIA",
+      "start": 166,
+      "end": 183
+    },
+    {
+      "text": "sin focalidad neurológica",
+      "type": "PATOLOGIA",
+      "start": 184,
+      "end": 209
+    },
+    {
+      "text": "hemorragia intra ni extraaxial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 383,
+      "end": 413
+    },
+    {
+      "text": "parénquima cerebral",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 418,
+      "end": 437
+    },
+    {
+      "text": "densidad homogénea",
+      "type": "PATOLOGIA",
+      "start": 449,
+      "end": 467
+    },
+    {
+      "text": "áreas de hipodensidad o hiperdensidad",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 472,
+      "end": 509
+    },
+    {
+      "text": "diferenciación cortico-subcortical",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 520,
+      "end": 554
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 565,
+      "end": 575
+    },
+    {
+      "text": "línea media",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 599,
+      "end": 610
+    },
+    {
+      "text": "sistema ventricular",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 631,
+      "end": 650
+    },
+    {
+      "text": "morfología y tamaño dentro de límites normales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 660,
+      "end": 706
+    },
+    {
+      "text": "cisternas basales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 712,
+      "end": 729
+    },
+    {
+      "text": "sin desplazamientos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 753,
+      "end": 772
+    },
+    {
+      "text": "edema cerebral",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 803,
+      "end": 817
+    },
+    {
+      "text": "lesiones ocupantes de espacio",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 821,
+      "end": 850
+    },
+    {
+      "text": "mapas de tiempo al pico (TTP)",
+      "type": "TECNICA_IMAGEN",
+      "start": 874,
+      "end": 903
+    },
+    {
+      "text": "volumen cerebral sanguíneo (CBV)",
+      "type": "TECNICA_IMAGEN",
+      "start": 905,
+      "end": 937
+    },
+    {
+      "text": "flujo cerebral sanguíneo (CBF)",
+      "type": "TECNICA_IMAGEN",
+      "start": 940,
+      "end": 970
+    },
+    {
+      "text": "áreas de hipoperfusión o isquemia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1009,
+      "end": 1042
+    },
+    {
+      "text": "discrepancia significativa entre parámetros",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1071,
+      "end": 1114
+    },
+    {
+      "text": "arco aórtico",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1154,
+      "end": 1166
+    },
+    {
+      "text": "troncos supraaórticos",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1173,
+      "end": 1194
+    },
+    {
+      "text": "calibre y morfología normales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1205,
+      "end": 1234
+    },
+    {
+      "text": "placas ateromatosas ni estenosis significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1240,
+      "end": 1287
+    },
+    {
+      "text": "arterias carótidas internas",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1293,
+      "end": 1320
+    },
+    {
+      "text": "segmentos cervical, cavernoso y supraclinoideo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1328,
+      "end": 1374
+    },
+    {
+      "text": "permeables y libres de estenosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1379,
+      "end": 1411
+    },
+    {
+      "text": "arterias vertebrales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1417,
+      "end": 1437
+    },
+    {
+      "text": "flujo adecuado",
+      "type": "PATOLOGIA",
+      "start": 1447,
+      "end": 1461
+    },
+    {
+      "text": "alteraciones",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 983,
+      "end": 995
+    },
+    {
+      "text": "principales arterias cerebrales intracraneales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1498,
+      "end": 1544
+    },
+    {
+      "text": "ACAs, ACMs, ACPs",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1546,
+      "end": 1562
+    },
+    {
+      "text": "permeables y sin estenosis ni irregularidades luminales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1576,
+      "end": 1631
+    },
+    {
+      "text": "sistema vertebrobasilar",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1636,
+      "end": 1659
+    },
+    {
+      "text": "aspecto normal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1673,
+      "end": 1687
+    },
+    {
+      "text": "hemitorax superior",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1711,
+      "end": 1729
+    },
+    {
+      "text": "sin hallazgos relevantes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1730,
+      "end": 1754
+    },
+    {
+      "text": "sin hallazgos agudos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1789,
+      "end": 1809
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 565,
+      "end": 575
+    },
+    {
+      "text": "parénquima cerebral",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 418,
+      "end": 437
+    },
+    {
+      "text": "sistema vascular intracraneal y extracraneal",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1845,
+      "end": 1889
+    },
+    {
+      "text": "sin alteraciones significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1890,
+      "end": 1921
+    },
+    {
+      "text": "isquemia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1034,
+      "end": 1042
+    },
+    {
+      "text": "hemorragia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 383,
+      "end": 393
+    },
+    {
+      "text": "estenosis vascular relevante",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1964,
+      "end": 1992
+    }
+  ],
+  "regenerado": true,
+  "fecha_regeneracion": "2025-08-06T12:41:56.249193"
+}

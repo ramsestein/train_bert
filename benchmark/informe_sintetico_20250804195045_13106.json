@@ -1,0 +1,137 @@
+{
+  "document_id": "informe_sintetico_20250804195045_13106",
+  "entities": [
+    {
+      "text": "hemiparesia izquierda",
+      "type": "PATOLOGIA",
+      "start": 217,
+      "end": 238
+    },
+    {
+      "text": "ictus isquémico agudo",
+      "type": "PATOLOGIA",
+      "start": 353,
+      "end": 374
+    },
+    {
+      "text": "área hipodensa",
+      "type": "PATOLOGIA",
+      "start": 556,
+      "end": 570
+    },
+    {
+      "text": "infarto cerebral subagudo",
+      "type": "PATOLOGIA",
+      "start": 753,
+      "end": 778
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 808,
+      "end": 831
+    },
+    {
+      "text": "trombosis venosa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 835,
+      "end": 851
+    },
+    {
+      "text": "ASPECTS",
+      "type": "PUNTUACION_CLINICA",
+      "start": 863,
+      "end": 870
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "ARTERIA",
+      "start": 600,
+      "end": 630
+    },
+    {
+      "text": "arteria carótida interna derecha",
+      "type": "ARTERIA",
+      "start": 1444,
+      "end": 1476
+    },
+    {
+      "text": "segmento cervical proximal",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1483,
+      "end": 1509
+    },
+    {
+      "text": "penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1338,
+      "end": 1356
+    },
+    {
+      "text": "Oclusión completa",
+      "type": "PATOLOGIA",
+      "start": 1420,
+      "end": 1437
+    },
+    {
+      "text": "ASPECTS 7",
+      "type": "PUNTUACION_CLINICA",
+      "start": 2083,
+      "end": 2092
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 808,
+      "end": 831
+    },
+    {
+      "text": "circulación leptomeníngea preservada",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1678,
+      "end": 1714
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 395,
+      "end": 411
+    },
+    {
+      "text": "Angio-TC extra e intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 422,
+      "end": 451
+    },
+    {
+      "text": "TC Perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 454,
+      "end": 475
+    },
+    {
+      "text": "aumento del tiempo de tránsito medio (MTT)",
+      "type": "MEDIDA",
+      "start": 1077,
+      "end": 1119
+    },
+    {
+      "text": "tiempo de llegada del contraste (TTP)",
+      "type": "MEDIDA",
+      "start": 1126,
+      "end": 1163
+    },
+    {
+      "text": "disminución marcada del flujo cerebral sanguíneo (CBF)",
+      "type": "MEDIDA",
+      "start": 1223,
+      "end": 1277
+    },
+    {
+      "text": "volumen cerebral sanguíneo (CBV)",
+      "type": "MEDIDA",
+      "start": 1280,
+      "end": 1312
+    }
+  ]
+}

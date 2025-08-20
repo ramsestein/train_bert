@@ -1,0 +1,95 @@
+{
+  "document_id": "informe_sintetico_20250804195045_20566",
+  "entities": [
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 500,
+      "end": 523
+    },
+    {
+      "text": "hematomas subdurales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 527,
+      "end": 547
+    },
+    {
+      "text": "infarto establecido",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 582,
+      "end": 601
+    },
+    {
+      "text": "ASPECTS 9",
+      "type": "PUNTUACION_CLINICA",
+      "start": 672,
+      "end": 681
+    },
+    {
+      "text": "tiempo de tránsito medio (MTT)",
+      "type": "MEDIDA",
+      "start": 881,
+      "end": 911
+    },
+    {
+      "text": "tiempo hasta el pico (TTP)",
+      "type": "MEDIDA",
+      "start": 914,
+      "end": 940
+    },
+    {
+      "text": "flujo cerebral (CBF)",
+      "type": "MEDIDA",
+      "start": 998,
+      "end": 1018
+    },
+    {
+      "text": "volumen sanguíneo cerebral (CBV)",
+      "type": "MEDIDA",
+      "start": 1021,
+      "end": 1053
+    },
+    {
+      "text": "zona de penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1080,
+      "end": 1106
+    },
+    {
+      "text": "arteria cerebral media (M2-M3)",
+      "type": "ARTERIA",
+      "start": 1131,
+      "end": 1161
+    },
+    {
+      "text": "Oclusión segmentaria",
+      "type": "PATOLOGIA",
+      "start": 1198,
+      "end": 1218
+    },
+    {
+      "text": "arteria cerebral media izquierda (segmentos M2-M3)",
+      "type": "ARTERIA",
+      "start": 1237,
+      "end": 1287
+    },
+    {
+      "text": "ASPECTS 9",
+      "type": "PUNTUACION_CLINICA",
+      "start": 672,
+      "end": 681
+    },
+    {
+      "text": "Isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 1447,
+      "end": 1461
+    },
+    {
+      "text": "segmento distal de ACM izquierda",
+      "type": "ARTERIA",
+      "start": 1645,
+      "end": 1677
+    }
+  ]
+}

@@ -1,0 +1,215 @@
+{
+  "document_id": "informe_sintetico_20250804195045_24227",
+  "entities": [
+    {
+      "text": "hemiparesia derecha",
+      "type": "PATOLOGIA",
+      "start": 218,
+      "end": 237
+    },
+    {
+      "text": "afasia",
+      "type": "PATOLOGIA",
+      "start": 240,
+      "end": 246
+    },
+    {
+      "text": "traumatismo cervical leve reciente",
+      "type": "PATOLOGIA",
+      "start": 263,
+      "end": 297
+    },
+    {
+      "text": "hemorragia intra o extraaxial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 555,
+      "end": 584
+    },
+    {
+      "text": "hipodensidad difusa",
+      "type": "PATOLOGIA",
+      "start": 597,
+      "end": 616
+    },
+    {
+      "text": "sustancia blanca profunda y cortical",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 634,
+      "end": 670
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "ARTERIA",
+      "start": 692,
+      "end": 724
+    },
+    {
+      "text": "territorios insular y opercular",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 726,
+      "end": 757
+    },
+    {
+      "text": "infarto cerebral en fase aguda",
+      "type": "PATOLOGIA",
+      "start": 840,
+      "end": 870
+    },
+    {
+      "text": "ASPECTS 6/10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 872,
+      "end": 884
+    },
+    {
+      "text": "desviación significativa de la línea media",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 895,
+      "end": 937
+    },
+    {
+      "text": "cisternas basales libres",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 971,
+      "end": 995
+    },
+    {
+      "text": "aumento significativo del tiempo de tránsito medio (MTT)",
+      "type": "PATOLOGIA",
+      "start": 1031,
+      "end": 1087
+    },
+    {
+      "text": "tiempo hasta el pico (TTP)",
+      "type": "PATOLOGIA",
+      "start": 1090,
+      "end": 1116
+    },
+    {
+      "text": "territorio superficial y profundo de la ACM izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1123,
+      "end": 1176
+    },
+    {
+      "text": "reducción marcada del flujo cerebral (CBF)",
+      "type": "PATOLOGIA",
+      "start": 1182,
+      "end": 1224
+    },
+    {
+      "text": "volumen cerebral (CBV)",
+      "type": "PATOLOGIA",
+      "start": 1227,
+      "end": 1249
+    },
+    {
+      "text": "región infartada",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1256,
+      "end": 1272
+    },
+    {
+      "text": "sin áreas viables de penumbra evidentes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1274,
+      "end": 1313
+    },
+    {
+      "text": "zona extensa de isquemia establecida",
+      "type": "PATOLOGIA",
+      "start": 1327,
+      "end": 1363
+    },
+    {
+      "text": "engrosamiento focal asociado a doble luz y signo de “flap”",
+      "type": "PATOLOGIA",
+      "start": 1413,
+      "end": 1471
+    },
+    {
+      "text": "arteria carótida interna izquierda",
+      "type": "ARTERIA",
+      "start": 1478,
+      "end": 1512
+    },
+    {
+      "text": "nivel cervical distal",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1515,
+      "end": 1536
+    },
+    {
+      "text": "estenosis significativa (>70%)",
+      "type": "PATOLOGIA",
+      "start": 1595,
+      "end": 1625
+    },
+    {
+      "text": "daño mural",
+      "type": "PATOLOGIA",
+      "start": 1648,
+      "end": 1658
+    },
+    {
+      "text": "segmento M1 proximal",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1720,
+      "end": 1740
+    },
+    {
+      "text": "sin visualización clara de trombo distal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1742,
+      "end": 1782
+    },
+    {
+      "text": "infarto cerebral agudo en territorio de la arteria cerebral media izquierda",
+      "type": "PATOLOGIA",
+      "start": 1890,
+      "end": 1965
+    },
+    {
+      "text": "Alteraciones hemodinámicas compatibles con isquemia establecida",
+      "type": "PATOLOGIA",
+      "start": 1986,
+      "end": 2049
+    },
+    {
+      "text": "sin área de penumbra relevante en TC perfusión",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2050,
+      "end": 2096
+    },
+    {
+      "text": "estenosis grave",
+      "type": "PATOLOGIA",
+      "start": 2175,
+      "end": 2190
+    },
+    {
+      "text": "oclusión parcial secundaria en ACM izquierda",
+      "type": "PATOLOGIA",
+      "start": 2193,
+      "end": 2237
+    },
+    {
+      "text": "No evidencia de hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2271,
+      "end": 2310
+    },
+    {
+      "text": "Disección de arteria carótida interna cervical izquierda",
+      "type": "PATOLOGIA",
+      "start": 2553,
+      "end": 2609
+    },
+    {
+      "text": "infarto cerebral en territorio de arteria cerebral media izquierda",
+      "type": "PATOLOGIA",
+      "start": 2614,
+      "end": 2680
+    }
+  ]
+}

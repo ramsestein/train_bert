@@ -1,0 +1,119 @@
+{
+  "document_id": "informe_sintetico_20250804195045_19230",
+  "entities": [
+    {
+      "text": "infarto cerebral",
+      "type": "PATOLOGIA",
+      "start": 194,
+      "end": 210
+    },
+    {
+      "text": "deterioro neurológico súbito",
+      "type": "PATOLOGIA",
+      "start": 222,
+      "end": 250
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "ARTERIA",
+      "start": 413,
+      "end": 443
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 436,
+      "end": 443
+    },
+    {
+      "text": "pequeña hiperdensidad puntiforme",
+      "type": "PATOLOGIA",
+      "start": 448,
+      "end": 480
+    },
+    {
+      "text": "foco hemorrágico puntual",
+      "type": "PATOLOGIA",
+      "start": 513,
+      "end": 537
+    },
+    {
+      "text": "transformación hemorrágica tipo HI1",
+      "type": "PATOLOGIA",
+      "start": 557,
+      "end": 592
+    },
+    {
+      "text": "No se observan hematomas significativos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 594,
+      "end": 633
+    },
+    {
+      "text": "hemorragias subaracnoideas asociadas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 637,
+      "end": 673
+    },
+    {
+      "text": "hipodensidad sugestiva de lesión isquémica reciente",
+      "type": "PATOLOGIA",
+      "start": 743,
+      "end": 794
+    },
+    {
+      "text": "No se evidencia desplazamiento de la línea media",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 796,
+      "end": 844
+    },
+    {
+      "text": "efecto de masa relevante",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 848,
+      "end": 872
+    },
+    {
+      "text": "aumento focal del volumen sanguíneo (CBV)",
+      "type": "PATOLOGIA",
+      "start": 906,
+      "end": 947
+    },
+    {
+      "text": "discreto retraso en el tiempo de tránsito (TMax)",
+      "type": "PATOLOGIA",
+      "start": 985,
+      "end": 1033
+    },
+    {
+      "text": "Angio-TC intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 1035,
+      "end": 1056
+    },
+    {
+      "text": "sin signos de oclusión ni estenosis significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1057,
+      "end": 1106
+    },
+    {
+      "text": "Transformación hemorrágica focal tipo HI1",
+      "type": "PATOLOGIA",
+      "start": 1167,
+      "end": 1208
+    },
+    {
+      "text": "sin hematomas de consideración",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1258,
+      "end": 1288
+    },
+    {
+      "text": "Sin signos de compromiso vascular arterial significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1367,
+      "end": 1423
+    }
+  ]
+}

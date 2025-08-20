@@ -1,0 +1,131 @@
+{
+  "document_id": "informe_sintetico_20250804195045_18445",
+  "entities": [
+    {
+      "text": "hemiparesia derecha",
+      "type": "PATOLOGIA",
+      "start": 202,
+      "end": 221
+    },
+    {
+      "text": "disfasia",
+      "type": "PATOLOGIA",
+      "start": 224,
+      "end": 232
+    },
+    {
+      "text": "infarto isquémico temprano",
+      "type": "PATOLOGIA",
+      "start": 687,
+      "end": 713
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "ARTERIA",
+      "start": 734,
+      "end": 766
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 609,
+      "end": 618
+    },
+    {
+      "text": "prolongación del tiempo de tránsito medio (TTP)",
+      "type": "MEDIDA",
+      "start": 891,
+      "end": 938
+    },
+    {
+      "text": "reducción significativa del flujo cerebral sanguíneo (CBF)",
+      "type": "MEDIDA",
+      "start": 941,
+      "end": 999
+    },
+    {
+      "text": "disminución moderada del volumen cerebral sanguíneo (CBV)",
+      "type": "MEDIDA",
+      "start": 1040,
+      "end": 1097
+    },
+    {
+      "text": "penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1120,
+      "end": 1138
+    },
+    {
+      "text": "región frontoparietal izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 587,
+      "end": 618
+    },
+    {
+      "text": "irregularidad con doble luz y defecto de repleción",
+      "type": "PATOLOGIA",
+      "start": 1276,
+      "end": 1326
+    },
+    {
+      "text": "arteria carótida interna izquierda",
+      "type": "ARTERIA",
+      "start": 1382,
+      "end": 1416
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 609,
+      "end": 618
+    },
+    {
+      "text": "estenosis subtotal secundaria a la disección",
+      "type": "PATOLOGIA",
+      "start": 1476,
+      "end": 1520
+    },
+    {
+      "text": "sin alteraciones significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1631,
+      "end": 1662
+    },
+    {
+      "text": "disección de la arteria carótida interna izquierda",
+      "type": "PATOLOGIA",
+      "start": 1780,
+      "end": 1830
+    },
+    {
+      "text": "estenosis significativa",
+      "type": "PATOLOGIA",
+      "start": 1835,
+      "end": 1858
+    },
+    {
+      "text": "infarto isquémico en territorio de la arteria cerebral media izquierda",
+      "type": "PATOLOGIA",
+      "start": 1871,
+      "end": 1941
+    },
+    {
+      "text": "área de penumbra",
+      "type": "PATOLOGIA",
+      "start": 1964,
+      "end": 1980
+    },
+    {
+      "text": "mismatch significativo",
+      "type": "PATOLOGIA",
+      "start": 1985,
+      "end": 2007
+    },
+    {
+      "text": "TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANGIOTC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 2519,
+      "end": 2586
+    }
+  ]
+}

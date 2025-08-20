@@ -1,0 +1,89 @@
+{
+  "document_id": "informe_sintetico_20250804195045_19998",
+  "entities": [
+    {
+      "text": "isquemia",
+      "type": "PATOLOGIA",
+      "start": 237,
+      "end": 245
+    },
+    {
+      "text": "arteria cerebral anterior",
+      "type": "ARTERIA",
+      "start": 263,
+      "end": 288
+    },
+    {
+      "text": "derecho",
+      "type": "LATERALIDAD",
+      "start": 192,
+      "end": 199
+    },
+    {
+      "text": "izquierdo",
+      "type": "LATERALIDAD",
+      "start": 663,
+      "end": 672
+    },
+    {
+      "text": "aguda",
+      "type": "TEMPORALIDAD",
+      "start": 726,
+      "end": 731
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 511,
+      "end": 534
+    },
+    {
+      "text": "hipodensidad",
+      "type": "PATOLOGIA",
+      "start": 593,
+      "end": 605
+    },
+    {
+      "text": "segmento A2",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1090,
+      "end": 1101
+    },
+    {
+      "text": "segmento A2 de la arteria cerebral anterior izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1090,
+      "end": 1143
+    },
+    {
+      "text": "TC craneal urgente basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 315,
+      "end": 339
+    },
+    {
+      "text": "mapas de perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 342,
+      "end": 369
+    },
+    {
+      "text": "Oclusión completa",
+      "type": "PATOLOGIA",
+      "start": 1068,
+      "end": 1085
+    },
+    {
+      "text": "sin estenosis significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1187,
+      "end": 1215
+    },
+    {
+      "text": "sin lesiones ateromatosas de consideración",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1239,
+      "end": 1281
+    }
+  ]
+}

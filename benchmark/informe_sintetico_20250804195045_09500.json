@@ -1,0 +1,241 @@
+{
+  "document_id": "informe_sintetico_20250804195045_09500",
+  "entities": [
+    {
+      "text": "Cefalea intensa",
+      "type": "PATOLOGIA",
+      "start": 166,
+      "end": 181
+    },
+    {
+      "text": "alteración visual",
+      "type": "PATOLOGIA",
+      "start": 183,
+      "end": 200
+    },
+    {
+      "text": "crisis convulsiva",
+      "type": "PATOLOGIA",
+      "start": 203,
+      "end": 220
+    },
+    {
+      "text": "hipertensión arterial mal controlada",
+      "type": "PATOLOGIA",
+      "start": 269,
+      "end": 305
+    },
+    {
+      "text": "hemorragias intracraneales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 494,
+      "end": 520
+    },
+    {
+      "text": "signos de sangrado intra o extraaxial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 524,
+      "end": 561
+    },
+    {
+      "text": "Diferenciación cortico-subcortical",
+      "type": "PATOLOGIA",
+      "start": 564,
+      "end": 598
+    },
+    {
+      "text": "regiones parieto-occipitales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 623,
+      "end": 651
+    },
+    {
+      "text": "bilaterales",
+      "type": "LATERALIDAD",
+      "start": 652,
+      "end": 663
+    },
+    {
+      "text": "áreas de hipodensidad parcheadas",
+      "type": "PATOLOGIA",
+      "start": 669,
+      "end": 701
+    },
+    {
+      "text": "sustancia blanca subcortical",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 708,
+      "end": 736
+    },
+    {
+      "text": "corteza adyacente",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 739,
+      "end": 756
+    },
+    {
+      "text": "bilateral",
+      "type": "LATERALIDAD",
+      "start": 652,
+      "end": 661
+    },
+    {
+      "text": "signos de edema citotóxico",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 807,
+      "end": 833
+    },
+    {
+      "text": "efecto de masa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 837,
+      "end": 851
+    },
+    {
+      "text": "Sistema ventricular conservado",
+      "type": "PATOLOGIA",
+      "start": 853,
+      "end": 883
+    },
+    {
+      "text": "desviación de línea media",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 889,
+      "end": 914
+    },
+    {
+      "text": "alteraciones en las cisternas basales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 918,
+      "end": 955
+    },
+    {
+      "text": "Aumento difuso del tiempo de tránsito medio (TTP)",
+      "type": "PATOLOGIA",
+      "start": 972,
+      "end": 1021
+    },
+    {
+      "text": "tiempo de retraso (Tmax)",
+      "type": "PATOLOGIA",
+      "start": 1024,
+      "end": 1048
+    },
+    {
+      "text": "territorios parieto-occipitales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1052,
+      "end": 1083
+    },
+    {
+      "text": "bilaterales",
+      "type": "LATERALIDAD",
+      "start": 652,
+      "end": 663
+    },
+    {
+      "text": "disminución significativa del volumen cerebral (CBV)",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1100,
+      "end": 1152
+    },
+    {
+      "text": "flujo cerebral (CBF)",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1156,
+      "end": 1176
+    },
+    {
+      "text": "patrón compatible con edema vasogénico reversible",
+      "type": "PATOLOGIA",
+      "start": 1178,
+      "end": 1227
+    },
+    {
+      "text": "Árbol vascular de morfología y permeabilidad conservadas",
+      "type": "PATOLOGIA",
+      "start": 1259,
+      "end": 1315
+    },
+    {
+      "text": "estenosis ni oclusiones arteriales significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1332,
+      "end": 1381
+    },
+    {
+      "text": "arterias carotídeas internas",
+      "type": "ARTERIA",
+      "start": 1385,
+      "end": 1413
+    },
+    {
+      "text": "cerebrales anteriores",
+      "type": "ARTERIA",
+      "start": 1415,
+      "end": 1436
+    },
+    {
+      "text": "medias",
+      "type": "ARTERIA",
+      "start": 1438,
+      "end": 1444
+    },
+    {
+      "text": "posteriores",
+      "type": "ARTERIA",
+      "start": 1447,
+      "end": 1458
+    },
+    {
+      "text": "sistema vertebrobasilar",
+      "type": "ARTERIA",
+      "start": 1468,
+      "end": 1491
+    },
+    {
+      "text": "hemorragias",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 494,
+      "end": 505
+    },
+    {
+      "text": "infartos isquémicos agudos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1552,
+      "end": 1578
+    },
+    {
+      "text": "leucoencefalopatía posterior reversible (PRES)",
+      "type": "PATOLOGIA",
+      "start": 1608,
+      "end": 1654
+    },
+    {
+      "text": "edema vasogénico bilateral parieto-occipital",
+      "type": "PATOLOGIA",
+      "start": 1673,
+      "end": 1717
+    },
+    {
+      "text": "alteraciones vasculares obstructivas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1722,
+      "end": 1758
+    },
+    {
+      "text": "edema vasogénico con preservación del volumen y flujo cerebral",
+      "type": "PATOLOGIA",
+      "start": 1790,
+      "end": 1852
+    },
+    {
+      "text": "signos de oclusión arterial intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1871,
+      "end": 1911
+    }
+  ],
+  "regenerado": true,
+  "fecha_regeneracion": "2025-08-06T05:22:02.637373"
+}

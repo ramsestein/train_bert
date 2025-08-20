@@ -1,0 +1,53 @@
+{
+  "document_id": "informe_sintetico_20250804195045_02144",
+  "entities": [
+    {
+      "text": "microhemorragias",
+      "type": "PATOLOGIA",
+      "start": 659,
+      "end": 675
+    },
+    {
+      "text": "bilaterales",
+      "type": "LATERALIDAD",
+      "start": 632,
+      "end": 643
+    },
+    {
+      "text": "cortical y subcortical",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1522,
+      "end": 1544
+    },
+    {
+      "text": "vasculopatía cerebral crónica",
+      "type": "PATOLOGIA",
+      "start": 1562,
+      "end": 1591
+    },
+    {
+      "text": "sin signos de infarto",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2048,
+      "end": 2069
+    },
+    {
+      "text": "sin alteraciones focales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 901,
+      "end": 925
+    },
+    {
+      "text": "sin signos de estenosis ni ateromatosis significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1111,
+      "end": 1164
+    },
+    {
+      "text": "sin evidencias de estenosis o malformaciones vascular",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1385,
+      "end": 1438
+    }
+  ]
+}

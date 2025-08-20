@@ -1,0 +1,107 @@
+{
+  "document_id": "informe_sintetico_20250804195045_14191",
+  "entities": [
+    {
+      "text": "isquemia",
+      "type": "PATOLOGIA",
+      "start": 247,
+      "end": 255
+    },
+    {
+      "text": "arteria cerebral posterior",
+      "type": "ARTERIA",
+      "start": 273,
+      "end": 299
+    },
+    {
+      "text": "izquierdo",
+      "type": "LATERALIDAD",
+      "start": 200,
+      "end": 209
+    },
+    {
+      "text": "agudo",
+      "type": "TEMPORALIDAD",
+      "start": 180,
+      "end": 185
+    },
+    {
+      "text": "hipodensidad difusa",
+      "type": "PATOLOGIA",
+      "start": 634,
+      "end": 653
+    },
+    {
+      "text": "arteria cerebral posterior derecha",
+      "type": "ARTERIA",
+      "start": 677,
+      "end": 711
+    },
+    {
+      "text": "edema isquémico precoz",
+      "type": "PATOLOGIA",
+      "start": 728,
+      "end": 750
+    },
+    {
+      "text": "ASPECTS 8",
+      "type": "PUNTUACION_CLINICA",
+      "start": 837,
+      "end": 846
+    },
+    {
+      "text": "ACP derecha",
+      "type": "ARTERIA",
+      "start": 981,
+      "end": 992
+    },
+    {
+      "text": "tiempo de tránsito medio (TTM)",
+      "type": "MEDIDA",
+      "start": 1025,
+      "end": 1055
+    },
+    {
+      "text": "tiempo hasta el pico (TTP)",
+      "type": "MEDIDA",
+      "start": 1058,
+      "end": 1084
+    },
+    {
+      "text": "flujo cerebral (CBF)",
+      "type": "MEDIDA",
+      "start": 1102,
+      "end": 1122
+    },
+    {
+      "text": "volumen cerebral (CBV)",
+      "type": "MEDIDA",
+      "start": 1129,
+      "end": 1151
+    },
+    {
+      "text": "trombo intraluminal",
+      "type": "PATOLOGIA",
+      "start": 1513,
+      "end": 1532
+    },
+    {
+      "text": "arteria cerebral posterior derecha",
+      "type": "ARTERIA",
+      "start": 677,
+      "end": 711
+    },
+    {
+      "text": "segmento P2 de ACP derecha",
+      "type": "ARTERIA",
+      "start": 1947,
+      "end": 1973
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 568,
+      "end": 591
+    }
+  ]
+}

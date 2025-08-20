@@ -1,0 +1,95 @@
+{
+  "document_id": "informe_sintetico_20250804195045_22263",
+  "entities": [
+    {
+      "text": "infarto cerebral reciente",
+      "type": "PATOLOGIA",
+      "start": 179,
+      "end": 204
+    },
+    {
+      "text": "ACM derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 222,
+      "end": 233
+    },
+    {
+      "text": "15 cc",
+      "type": "MEDIDA",
+      "start": 561,
+      "end": 566
+    },
+    {
+      "text": "PH2",
+      "type": "PATOLOGIA",
+      "start": 615,
+      "end": 618
+    },
+    {
+      "text": "4 mm",
+      "type": "MEDIDA",
+      "start": 828,
+      "end": 832
+    },
+    {
+      "text": "disminución significativa del flujo sanguíneo cerebral",
+      "type": "PATOLOGIA",
+      "start": 1081,
+      "end": 1135
+    },
+    {
+      "text": "hematoma",
+      "type": "PATOLOGIA",
+      "start": 1283,
+      "end": 1291
+    },
+    {
+      "text": "sin signos de estenosis o trombosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1439,
+      "end": 1474
+    },
+    {
+      "text": "sin hidrocefalia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 972,
+      "end": 988
+    },
+    {
+      "text": "efecto de masa",
+      "type": "PATOLOGIA",
+      "start": 713,
+      "end": 727
+    },
+    {
+      "text": "desviación leve de línea media",
+      "type": "PATOLOGIA",
+      "start": 1851,
+      "end": 1881
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "ARTERIA",
+      "start": 510,
+      "end": 540
+    },
+    {
+      "text": "TC CRANEAL BASAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 304,
+      "end": 320
+    },
+    {
+      "text": "TC PERFUSIÓN CEREBRAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 323,
+      "end": 344
+    },
+    {
+      "text": "ANGIO-TC EXTRA E INTRACRANEAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 347,
+      "end": 376
+    }
+  ]
+}

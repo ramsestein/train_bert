@@ -1,0 +1,77 @@
+{
+  "document_id": "informe_sintetico_20250804195045_02588",
+  "entities": [
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 233,
+      "end": 247
+    },
+    {
+      "text": "arteria cerebral anterior izquierda",
+      "type": "ARTERIA",
+      "start": 265,
+      "end": 300
+    },
+    {
+      "text": "hemicuerpo derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 201,
+      "end": 219
+    },
+    {
+      "text": "izquierdo",
+      "type": "LATERALIDAD",
+      "start": 668,
+      "end": 677
+    },
+    {
+      "text": "8",
+      "type": "MEDIDA",
+      "start": 750,
+      "end": 751
+    },
+    {
+      "text": "agudo",
+      "type": "TEMPORALIDAD",
+      "start": 192,
+      "end": 197
+    },
+    {
+      "text": "ASPECTS modificado para ACA: 8",
+      "type": "PUNTUACION_CLINICA",
+      "start": 721,
+      "end": 751
+    },
+    {
+      "text": "TC craneal basal sin contraste",
+      "type": "TECNICA_IMAGEN",
+      "start": 321,
+      "end": 351
+    },
+    {
+      "text": "No se evidencian signos de hemorragia aguda intraparenquimatosa, subaracnoidea ni extraaxial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 460,
+      "end": 552
+    },
+    {
+      "text": "No se observan zonas de infarto establecido extensas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1288,
+      "end": 1340
+    },
+    {
+      "text": "Oclusión segmentaria en la arteria cerebral anterior (segmento A2) izquierda",
+      "type": "PATOLOGIA",
+      "start": 1377,
+      "end": 1453
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 291,
+      "end": 300
+    }
+  ]
+}

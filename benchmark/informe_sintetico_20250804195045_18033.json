@@ -1,0 +1,53 @@
+{
+  "document_id": "informe_sintetico_20250804195045_18033",
+  "entities": [
+    {
+      "text": "infarto lacunar agudo",
+      "type": "PATOLOGIA",
+      "start": 562,
+      "end": 583
+    },
+    {
+      "text": "región lenticular derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 520,
+      "end": 545
+    },
+    {
+      "text": "7 mm",
+      "type": "MEDIDA",
+      "start": 497,
+      "end": 501
+    },
+    {
+      "text": "agudo",
+      "type": "TEMPORALIDAD",
+      "start": 578,
+      "end": 583
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 730,
+      "end": 740
+    },
+    {
+      "text": "sin evidencia de áreas de hipoperfusión extensa ni mismatch significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1130,
+      "end": 1203
+    },
+    {
+      "text": "sin evidencias de oclusión o estenosis de vasos mayores",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1303,
+      "end": 1358
+    },
+    {
+      "text": "sin hallazgos de estenosis oclusiva",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1721,
+      "end": 1756
+    }
+  ]
+}

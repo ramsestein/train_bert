@@ -1,0 +1,77 @@
+{
+  "document_id": "informe_sintetico_20250804195045_21183",
+  "entities": [
+    {
+      "text": "hemorragia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 450,
+      "end": 460
+    },
+    {
+      "text": "infartos agudos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 551,
+      "end": 566
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 615,
+      "end": 625
+    },
+    {
+      "text": "enfermedad crónica de pequeño vaso",
+      "type": "PATOLOGIA",
+      "start": 667,
+      "end": 701
+    },
+    {
+      "text": "hipodensidades periventriculares bilaterales",
+      "type": "PATOLOGIA",
+      "start": 717,
+      "end": 761
+    },
+    {
+      "text": "estenosis",
+      "type": "PATOLOGIA",
+      "start": 1150,
+      "end": 1159
+    },
+    {
+      "text": "oclusiones",
+      "type": "PATOLOGIA",
+      "start": 1163,
+      "end": 1173
+    },
+    {
+      "text": "ateromatosis calcificada leve",
+      "type": "PATOLOGIA",
+      "start": 1186,
+      "end": 1215
+    },
+    {
+      "text": "sin impacto hemodinámico significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1288,
+      "end": 1326
+    },
+    {
+      "text": "evento agudo",
+      "type": "TEMPORALIDAD",
+      "start": 1406,
+      "end": 1418
+    },
+    {
+      "text": "sin signos de hemorragia ni isquemia cerebral reciente",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1420,
+      "end": 1474
+    },
+    {
+      "text": "enfermedad de pequeño vaso",
+      "type": "PATOLOGIA",
+      "start": 1515,
+      "end": 1541
+    }
+  ]
+}

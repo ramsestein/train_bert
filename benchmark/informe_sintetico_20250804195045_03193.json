@@ -1,0 +1,131 @@
+{
+  "document_id": "informe_sintetico_20250804195045_03193",
+  "entities": [
+    {
+      "text": "ictus isquémico agudo",
+      "type": "PATOLOGIA",
+      "start": 266,
+      "end": 287
+    },
+    {
+      "text": "signo de arteria hiperdensa",
+      "type": "PATOLOGIA",
+      "start": 542,
+      "end": 569
+    },
+    {
+      "text": "pérdida parcial de la diferenciación cortico-subcortical",
+      "type": "PATOLOGIA",
+      "start": 696,
+      "end": 752
+    },
+    {
+      "text": "infarto establecido",
+      "type": "PATOLOGIA",
+      "start": 1257,
+      "end": 1276
+    },
+    {
+      "text": "penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1428,
+      "end": 1446
+    },
+    {
+      "text": "segmento M1 de la arteria cerebral media derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 573,
+      "end": 621
+    },
+    {
+      "text": "territorio frontal y parietal derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 653,
+      "end": 690
+    },
+    {
+      "text": "núcleo lenticular",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 768,
+      "end": 785
+    },
+    {
+      "text": "regiones corticales frontoparietales y operculares",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1319,
+      "end": 1369
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "ARTERIA",
+      "start": 591,
+      "end": 621
+    },
+    {
+      "text": "ACM derecha",
+      "type": "ARTERIA",
+      "start": 1097,
+      "end": 1108
+    },
+    {
+      "text": "segmento M1",
+      "type": "ARTERIA",
+      "start": 573,
+      "end": 584
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 614,
+      "end": 621
+    },
+    {
+      "text": "izquierdo",
+      "type": "LATERALIDAD",
+      "start": 198,
+      "end": 207
+    },
+    {
+      "text": "ASPECTS 6",
+      "type": "PUNTUACION_CLINICA",
+      "start": 810,
+      "end": 819
+    },
+    {
+      "text": "ASPECTS 6",
+      "type": "PUNTUACION_CLINICA",
+      "start": 810,
+      "end": 819
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 308,
+      "end": 324
+    },
+    {
+      "text": "estudio de perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 340,
+      "end": 369
+    },
+    {
+      "text": "angioTC arterial intra y extracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 407,
+      "end": 444
+    },
+    {
+      "text": "No se observan hemorragias intra o extraaxiales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 821,
+      "end": 868
+    },
+    {
+      "text": "No evidencias de hemorragia asociada",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2171,
+      "end": 2207
+    }
+  ]
+}

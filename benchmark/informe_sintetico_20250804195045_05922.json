@@ -1,0 +1,89 @@
+{
+  "document_id": "informe_sintetico_20250804195045_05922",
+  "entities": [
+    {
+      "text": "infarto isquémico subagudo",
+      "type": "PATOLOGIA",
+      "start": 545,
+      "end": 571
+    },
+    {
+      "text": "transformación hemorrágica tipo PH1 (microhemorragias petequiales)",
+      "type": "PATOLOGIA",
+      "start": 703,
+      "end": 769
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 499,
+      "end": 529
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 522,
+      "end": 529
+    },
+    {
+      "text": "foco hiperdenso puntual",
+      "type": "PATOLOGIA",
+      "start": 586,
+      "end": 609
+    },
+    {
+      "text": "infarto establecido",
+      "type": "PATOLOGIA",
+      "start": 1121,
+      "end": 1140
+    },
+    {
+      "text": "Oclusión parcial o trombo residual en rama M2 derecha de arteria cerebral media",
+      "type": "PATOLOGIA",
+      "start": 1324,
+      "end": 1403
+    },
+    {
+      "text": "M2 derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1367,
+      "end": 1377
+    },
+    {
+      "text": "ASPECTS 7",
+      "type": "PUNTUACION_CLINICA",
+      "start": 1804,
+      "end": 1813
+    },
+    {
+      "text": "No se aprecian hemorragias intraaxiales extensas ni hematomas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 771,
+      "end": 832
+    },
+    {
+      "text": "No hemorragia parenquimatosa extensa ni hematoma",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1682,
+      "end": 1730
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 308,
+      "end": 324
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 343,
+      "end": 364
+    },
+    {
+      "text": "angio-TC arterial intra/extracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 367,
+      "end": 403
+    }
+  ]
+}

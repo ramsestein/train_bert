@@ -1,0 +1,71 @@
+{
+  "document_id": "informe_sintetico_20250804195045_08362",
+  "entities": [
+    {
+      "text": "hemorragia intra o extraaxial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 485,
+      "end": 514
+    },
+    {
+      "text": "áreas hipodensas o hiperdensas que sugieran proceso agudo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 570,
+      "end": 627
+    },
+    {
+      "text": "edema cerebral",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 701,
+      "end": 715
+    },
+    {
+      "text": "cambios crónicos mínimos compatibles con microangiopatía leucoaraiosis incipiente",
+      "type": "PATOLOGIA",
+      "start": 906,
+      "end": 987
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1205,
+      "end": 1219
+    },
+    {
+      "text": "estenosis, oclusión ni malformaciones",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1312,
+      "end": 1349
+    },
+    {
+      "text": "trombosis o vasospasmo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1461,
+      "end": 1483
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 1551,
+      "end": 1561
+    },
+    {
+      "text": "TC CRANEAL BASAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 451,
+      "end": 467
+    },
+    {
+      "text": "TC PERFUSIÓN",
+      "type": "TECNICA_IMAGEN",
+      "start": 1021,
+      "end": 1033
+    },
+    {
+      "text": "ANGIO-TC EXTRA E INTRACRANEAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 1222,
+      "end": 1251
+    }
+  ]
+}

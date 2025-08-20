@@ -1,0 +1,83 @@
+{
+  "document_id": "informe_sintetico_20250804195045_23482",
+  "entities": [
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 268,
+      "end": 282
+    },
+    {
+      "text": "arteria cerebral posterior derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 300,
+      "end": 334
+    },
+    {
+      "text": "ACP",
+      "type": "ARTERIA",
+      "start": 800,
+      "end": 803
+    },
+    {
+      "text": "agudo",
+      "type": "TEMPORALIDAD",
+      "start": 829,
+      "end": 834
+    },
+    {
+      "text": "ASPECTS posterior 6/10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 846,
+      "end": 868
+    },
+    {
+      "text": "territorio de ACP derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1036,
+      "end": 1061
+    },
+    {
+      "text": "Oclusión distal en segmento P2 de arteria cerebral posterior derecha",
+      "type": "PATOLOGIA",
+      "start": 1380,
+      "end": 1448
+    },
+    {
+      "text": "ACP contralateral",
+      "type": "ARTERIA",
+      "start": 1507,
+      "end": 1524
+    },
+    {
+      "text": "No se observa hemorragia intra ni extraaxial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 578,
+      "end": 622
+    },
+    {
+      "text": "No desplazamiento de línea media",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 872,
+      "end": 904
+    },
+    {
+      "text": "Sistema ventricular sin alteraciones",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 906,
+      "end": 942
+    },
+    {
+      "text": "No se observan aneurismas ni malformaciones vasculares",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1615,
+      "end": 1669
+    },
+    {
+      "text": "No evidencia de hemorragia intracraneal ni masas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2008,
+      "end": 2056
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "document_id": "informe_sintetico_20250804195045_15535",
+  "entities": [
+    {
+      "text": "hemorragia intra o extraaxial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 440,
+      "end": 469
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 568,
+      "end": 582
+    },
+    {
+      "text": "microangiopatía encefálica leve",
+      "type": "PATOLOGIA",
+      "start": 645,
+      "end": 676
+    },
+    {
+      "text": "hipodensidad en sustancia blanca periventricular y cápsula interna",
+      "type": "PATOLOGIA",
+      "start": 700,
+      "end": 766
+    },
+    {
+      "text": "lesiones cavitadas ni infartos lacunares recientes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 775,
+      "end": 825
+    },
+    {
+      "text": "arterias cerebrales (ACAs, ACMs y ACPs)",
+      "type": "ARTERIA",
+      "start": 1505,
+      "end": 1544
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 1705,
+      "end": 1715
+    },
+    {
+      "text": "cerebrales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1198,
+      "end": 1208
+    },
+    {
+      "text": "cerebelo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1211,
+      "end": 1219
+    },
+    {
+      "text": "permeables",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1273,
+      "end": 1283
+    },
+    {
+      "text": "estenosis significativas ni oclusiones",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1289,
+      "end": 1327
+    },
+    {
+      "text": "alteraciones hemodinámicas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1927,
+      "end": 1953
+    }
+  ]
+}

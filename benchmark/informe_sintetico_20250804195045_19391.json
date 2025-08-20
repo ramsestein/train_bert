@@ -1,0 +1,107 @@
+{
+  "document_id": "informe_sintetico_20250804195045_19391",
+  "entities": [
+    {
+      "text": "ictus isquémico",
+      "type": "PATOLOGIA",
+      "start": 215,
+      "end": 230
+    },
+    {
+      "text": "isquemia",
+      "type": "PATOLOGIA",
+      "start": 637,
+      "end": 645
+    },
+    {
+      "text": "arteria cerebral media",
+      "type": "ARTERIA",
+      "start": 673,
+      "end": 695
+    },
+    {
+      "text": "izquierdo",
+      "type": "LATERALIDAD",
+      "start": 611,
+      "end": 620
+    },
+    {
+      "text": "ASPECTS 9",
+      "type": "PUNTUACION_CLINICA",
+      "start": 715,
+      "end": 724
+    },
+    {
+      "text": "hemorragia intra ni extraaxial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 432,
+      "end": 462
+    },
+    {
+      "text": "No se evidencian otras lesiones crónicas isquémicas relevantes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 726,
+      "end": 788
+    },
+    {
+      "text": "No se identifican zonas de infarto establecido de gran extensión",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1180,
+      "end": 1244
+    },
+    {
+      "text": "No se observan hemorragias ni otras complicaciones",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1912,
+      "end": 1962
+    },
+    {
+      "text": "agudo",
+      "type": "TEMPORALIDAD",
+      "start": 180,
+      "end": 185
+    },
+    {
+      "text": "Tmax",
+      "type": "MEDIDA",
+      "start": 980,
+      "end": 984
+    },
+    {
+      "text": "CBF",
+      "type": "MEDIDA",
+      "start": 1025,
+      "end": 1028
+    },
+    {
+      "text": "CBV",
+      "type": "MEDIDA",
+      "start": 1115,
+      "end": 1118
+    },
+    {
+      "text": "oclusión trombótica",
+      "type": "PATOLOGIA",
+      "start": 1334,
+      "end": 1353
+    },
+    {
+      "text": "ACM distal izquierda",
+      "type": "ARTERIA",
+      "start": 1071,
+      "end": 1091
+    },
+    {
+      "text": "segmentos M2/M3",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 697,
+      "end": 712
+    },
+    {
+      "text": "segmentos M2",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 697,
+      "end": 709
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "document_id": "informe_sintetico_20250804195045_01151",
+  "entities": [
+    {
+      "text": "hemorragia subaracnoidea focal",
+      "type": "PATOLOGIA",
+      "start": 601,
+      "end": 631
+    },
+    {
+      "text": "cisterna silviana",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 568,
+      "end": 585
+    },
+    {
+      "text": "7 mm",
+      "type": "MEDIDA",
+      "start": 545,
+      "end": 549
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 484,
+      "end": 493
+    },
+    {
+      "text": "arteria comunicante anterior",
+      "type": "ARTERIA",
+      "start": 1214,
+      "end": 1242
+    },
+    {
+      "text": "3 mm",
+      "type": "MEDIDA",
+      "start": 1203,
+      "end": 1207
+    },
+    {
+      "text": "sin signos de trombosis ni vasoespasmo arterial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1254,
+      "end": 1301
+    },
+    {
+      "text": "sin evidencia de hipoperfusión en territorios arteriales adyacentes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1067,
+      "end": 1134
+    }
+  ]
+}

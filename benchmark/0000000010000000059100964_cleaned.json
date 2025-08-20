@@ -1,0 +1,247 @@
+{
+  "document_id": "0000000010000000059100964_cleaned",
+  "entities": [
+    {
+      "text": "TC CODIGO ICTUS",
+      "type": "TECNICA_IMAGEN",
+      "start": 27,
+      "end": 42
+    },
+    {
+      "text": "PERFUSION CEREBRAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 44,
+      "end": 62
+    },
+    {
+      "text": "ANG IOTC ARTERIAL INTRACRANEAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 64,
+      "end": 94
+    },
+    {
+      "text": "TC CODIGO ICTUS",
+      "type": "TECNICA_IMAGEN",
+      "start": 27,
+      "end": 42
+    },
+    {
+      "text": "BASAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 132,
+      "end": 137
+    },
+    {
+      "text": "PERFUSION CEREBRAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 44,
+      "end": 62
+    },
+    {
+      "text": "ANGIOTC TSA E INTRACRANEAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 161,
+      "end": 187
+    },
+    {
+      "text": "TC CRANEAL BASAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 209,
+      "end": 225
+    },
+    {
+      "text": "hemorragia intra ni extraaxial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 241,
+      "end": 271
+    },
+    {
+      "text": "Diferenciación cortico-subcortical conservada",
+      "type": "PATOLOGIA",
+      "start": 273,
+      "end": 318
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 320,
+      "end": 330
+    },
+    {
+      "text": "Atrofia cerebral de predominio perisilviano",
+      "type": "PATOLOGIA",
+      "start": 333,
+      "end": 376
+    },
+    {
+      "text": "lesiones isquémicas parenquimatosas subagudas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 393,
+      "end": 438
+    },
+    {
+      "text": "lesiones isquemicas crónicas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 448,
+      "end": 476
+    },
+    {
+      "text": "Estructuras de la línea media centradas",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 478,
+      "end": 517
+    },
+    {
+      "text": "Sistema ventricular de tamaño y morfología normal",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 519,
+      "end": 568
+    },
+    {
+      "text": "cavum septum vergae",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 570,
+      "end": 589
+    },
+    {
+      "text": "Cisternas basales libres",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 591,
+      "end": 615
+    },
+    {
+      "text": "TC PERFUSIÓN",
+      "type": "TECNICA_IMAGEN",
+      "start": 617,
+      "end": 629
+    },
+    {
+      "text": "Aumento de volumen y flujo",
+      "type": "PATOLOGIA",
+      "start": 631,
+      "end": 657
+    },
+    {
+      "text": "disminución del tiempo",
+      "type": "PATOLOGIA",
+      "start": 662,
+      "end": 684
+    },
+    {
+      "text": "territorio parieto-temporo-occipital izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 688,
+      "end": 734
+    },
+    {
+      "text": "sin respetar un territorio vascular",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 736,
+      "end": 771
+    },
+    {
+      "text": "hiperperfusión de dicha región",
+      "type": "PATOLOGIA",
+      "start": 797,
+      "end": 827
+    },
+    {
+      "text": "crisis",
+      "type": "PATOLOGIA",
+      "start": 881,
+      "end": 887
+    },
+    {
+      "text": "ANGIO-TC EXTRA E INTRACRANEAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 889,
+      "end": 918
+    },
+    {
+      "text": "Principales arterias cerebrales intracraneales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 920,
+      "end": 966
+    },
+    {
+      "text": "ACAs",
+      "type": "ARTERIA",
+      "start": 979,
+      "end": 983
+    },
+    {
+      "text": "ACMs",
+      "type": "ARTERIA",
+      "start": 985,
+      "end": 989
+    },
+    {
+      "text": "ACPs",
+      "type": "ARTERIA",
+      "start": 992,
+      "end": 996
+    },
+    {
+      "text": "Sistema vertebrobasilar",
+      "type": "ARTERIA",
+      "start": 999,
+      "end": 1022
+    },
+    {
+      "text": "Ateromatosis cálcica en arco aórtico",
+      "type": "PATOLOGIA",
+      "start": 1034,
+      "end": 1070
+    },
+    {
+      "text": "bifurcaciones carotídeas",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1072,
+      "end": 1096
+    },
+    {
+      "text": "segmentos intracraneales de carotidas",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1099,
+      "end": 1136
+    },
+    {
+      "text": "sin estenosis significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1138,
+      "end": 1166
+    },
+    {
+      "text": "Severo enfisema centrolobulillar",
+      "type": "PATOLOGIA",
+      "start": 1168,
+      "end": 1200
+    },
+    {
+      "text": "No se observan signos de isquemia ni hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1225,
+      "end": 1285
+    },
+    {
+      "text": "Perfusión con signos de hiperperfusión temporo-parieto-occipital izquierda",
+      "type": "PATOLOGIA",
+      "start": 1287,
+      "end": 1361
+    },
+    {
+      "text": "que en contexto del paciente sugiere crisis",
+      "type": "PATOLOGIA",
+      "start": 1363,
+      "end": 1406
+    },
+    {
+      "text": "ECOGRAFIA ABDOMINAL Y DOPPLER",
+      "type": "TECNICA_IMAGEN",
+      "start": 1465,
+      "end": 1494
+    }
+  ],
+  "regenerado": true,
+  "fecha_regeneracion": "2025-08-06T04:06:49.288905"
+}

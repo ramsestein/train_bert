@@ -1,0 +1,119 @@
+{
+  "document_id": "informe_sintetico_20250804195045_08815",
+  "entities": [
+    {
+      "text": "infartos isquémicos agudos recientes",
+      "type": "PATOLOGIA",
+      "start": 693,
+      "end": 729
+    },
+    {
+      "text": "hemorragias intra ni extraaxiales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 746,
+      "end": 779
+    },
+    {
+      "text": "ASPECTS 6 en hemisferio izquierdo",
+      "type": "PUNTUACION_CLINICA",
+      "start": 781,
+      "end": 814
+    },
+    {
+      "text": "ASPECTS 8 en derecho",
+      "type": "PUNTUACION_CLINICA",
+      "start": 817,
+      "end": 837
+    },
+    {
+      "text": "reducción de flujo cerebral",
+      "type": "PATOLOGIA",
+      "start": 1067,
+      "end": 1094
+    },
+    {
+      "text": "penumbra isquémica activa",
+      "type": "PATOLOGIA",
+      "start": 1300,
+      "end": 1325
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "ARTERIA",
+      "start": 1407,
+      "end": 1439
+    },
+    {
+      "text": "arteria cerebral posterior derecha",
+      "type": "ARTERIA",
+      "start": 1730,
+      "end": 1764
+    },
+    {
+      "text": "Oclusión segmentaria",
+      "type": "PATOLOGIA",
+      "start": 1547,
+      "end": 1567
+    },
+    {
+      "text": "ausencia de flujo en ramas distales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1625,
+      "end": 1660
+    },
+    {
+      "text": "estenosis crítica (>70%)",
+      "type": "PATOLOGIA",
+      "start": 1683,
+      "end": 1707
+    },
+    {
+      "text": "Circulación vertebrobasilar permeable",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1905,
+      "end": 1942
+    },
+    {
+      "text": "sin estenosis significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1945,
+      "end": 1972
+    },
+    {
+      "text": "isquemia aguda multiterritorial",
+      "type": "PATOLOGIA",
+      "start": 2100,
+      "end": 2131
+    },
+    {
+      "text": "circulación bilateral",
+      "type": "LATERALIDAD",
+      "start": 2294,
+      "end": 2315
+    },
+    {
+      "text": "No signos de hemorragia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2406,
+      "end": 2429
+    },
+    {
+      "text": "efecto masa significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 895,
+      "end": 920
+    },
+    {
+      "text": "ultrasonido Doppler carotídeo e intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 2607,
+      "end": 2651
+    },
+    {
+      "text": "resonancia magnética",
+      "type": "TECNICA_IMAGEN",
+      "start": 2675,
+      "end": 2695
+    }
+  ]
+}

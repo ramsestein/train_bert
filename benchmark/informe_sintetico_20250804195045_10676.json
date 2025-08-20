@@ -1,0 +1,83 @@
+{
+  "document_id": "informe_sintetico_20250804195045_10676",
+  "entities": [
+    {
+      "text": "hemorragias intra ni extraaxiales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 488,
+      "end": 521
+    },
+    {
+      "text": "lesiones ocupantes de espacio",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 530,
+      "end": 559
+    },
+    {
+      "text": "edema vasogénico severo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 563,
+      "end": 586
+    },
+    {
+      "text": "hipodensidad bilateral simétrica en regiones parieto-occipitales posteriores de la sustancia blanca",
+      "type": "PATOLOGIA",
+      "start": 599,
+      "end": 698
+    },
+    {
+      "text": "edema vasogénico",
+      "type": "PATOLOGIA",
+      "start": 563,
+      "end": 579
+    },
+    {
+      "text": "isquemia establecida",
+      "type": "PATOLOGIA",
+      "start": 1179,
+      "end": 1199
+    },
+    {
+      "text": "Arterias intracraneales principales",
+      "type": "ARTERIA",
+      "start": 1233,
+      "end": 1268
+    },
+    {
+      "text": "sin estenosis ni oclusiones",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1281,
+      "end": 1308
+    },
+    {
+      "text": "sin evidencia de estenosis arterial relevante ni vasculopatía",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1664,
+      "end": 1725
+    },
+    {
+      "text": "edema vasogénico bilateral en territorios parieto-occipitales",
+      "type": "PATOLOGIA",
+      "start": 1536,
+      "end": 1597
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 335,
+      "end": 351
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 354,
+      "end": 375
+    },
+    {
+      "text": "angioTC arterial intracraneal urgente",
+      "type": "TECNICA_IMAGEN",
+      "start": 378,
+      "end": 415
+    }
+  ]
+}

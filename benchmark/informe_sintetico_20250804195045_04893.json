@@ -1,0 +1,65 @@
+{
+  "document_id": "informe_sintetico_20250804195045_04893",
+  "entities": [
+    {
+      "text": "infarto cerebral establecido",
+      "type": "PATOLOGIA",
+      "start": 657,
+      "end": 685
+    },
+    {
+      "text": "sangrado intraparenquimatoso limitado",
+      "type": "PATOLOGIA",
+      "start": 777,
+      "end": 814
+    },
+    {
+      "text": "clasificación PH1",
+      "type": "PUNTUACION_CLINICA",
+      "start": 816,
+      "end": 833
+    },
+    {
+      "text": "hemorragias extraaxiales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 886,
+      "end": 910
+    },
+    {
+      "text": "volumen sanguíneo cerebral",
+      "type": "PATOLOGIA",
+      "start": 1140,
+      "end": 1166
+    },
+    {
+      "text": "ACM derecha",
+      "type": "ARTERIA",
+      "start": 1190,
+      "end": 1201
+    },
+    {
+      "text": "mismatch significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1300,
+      "end": 1322
+    },
+    {
+      "text": "transformación hemorrágica tipo PH1",
+      "type": "PATOLOGIA",
+      "start": 1686,
+      "end": 1721
+    },
+    {
+      "text": "alteraciones hemorrágicas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1861,
+      "end": 1886
+    },
+    {
+      "text": "edema cerebral significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1890,
+      "end": 1918
+    }
+  ]
+}

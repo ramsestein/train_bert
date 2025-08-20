@@ -1,0 +1,53 @@
+{
+  "document_id": "informe_sintetico_20250804195045_22952",
+  "entities": [
+    {
+      "text": "hematoma lobar de localización frontal derecha",
+      "type": "PATOLOGIA",
+      "start": 403,
+      "end": 449
+    },
+    {
+      "text": "frontal derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 434,
+      "end": 449
+    },
+    {
+      "text": "38 mL",
+      "type": "MEDIDA",
+      "start": 591,
+      "end": 596
+    },
+    {
+      "text": "agudo",
+      "type": "TEMPORALIDAD",
+      "start": 186,
+      "end": 191
+    },
+    {
+      "text": "ACAs, ACMs y ACPs",
+      "type": "ARTERIA",
+      "start": 1279,
+      "end": 1296
+    },
+    {
+      "text": "sin evidencia de estenosis significativa ni aneurismas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1299,
+      "end": 1353
+    },
+    {
+      "text": "sin áreas de hipoperfusión significativa ni penumbra isquémica",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1598,
+      "end": 1660
+    },
+    {
+      "text": "sin herniación ni desplazamiento importante de la línea media",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1795,
+      "end": 1856
+    }
+  ]
+}

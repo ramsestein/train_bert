@@ -1,0 +1,125 @@
+{
+  "document_id": "informe_sintetico_20250804195045_15098",
+  "entities": [
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 312,
+      "end": 326
+    },
+    {
+      "text": "arteria cerebral anterior",
+      "type": "ARTERIA",
+      "start": 347,
+      "end": 372
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 1127,
+      "end": 1136
+    },
+    {
+      "text": "discreta hipodensidad cortical",
+      "type": "PATOLOGIA",
+      "start": 656,
+      "end": 686
+    },
+    {
+      "text": "edema citotóxico incipiente",
+      "type": "PATOLOGIA",
+      "start": 744,
+      "end": 771
+    },
+    {
+      "text": "aumento marcado del tiempo hasta el pico (TTP)",
+      "type": "PATOLOGIA",
+      "start": 969,
+      "end": 1015
+    },
+    {
+      "text": "reducción significativa del flujo sanguíneo cerebral (CBF)",
+      "type": "PATOLOGIA",
+      "start": 1018,
+      "end": 1076
+    },
+    {
+      "text": "territorio superficial y profundo de la ACA izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1083,
+      "end": 1136
+    },
+    {
+      "text": "corteza medial frontal",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1148,
+      "end": 1170
+    },
+    {
+      "text": "cuerpo calloso",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1183,
+      "end": 1197
+    },
+    {
+      "text": "volumen cerebral (CBV)",
+      "type": "MEDIDA",
+      "start": 1202,
+      "end": 1224
+    },
+    {
+      "text": "penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1302,
+      "end": 1320
+    },
+    {
+      "text": "Oclusión segmentaria proximal",
+      "type": "PATOLOGIA",
+      "start": 1406,
+      "end": 1435
+    },
+    {
+      "text": "arteria cerebral anterior izquierda (segmento A2)",
+      "type": "ARTERIA",
+      "start": 1442,
+      "end": 1491
+    },
+    {
+      "text": "ausencia de opacificación distal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1497,
+      "end": 1529
+    },
+    {
+      "text": "sin evidencia de placas ateromatosas significativas o estenosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1632,
+      "end": 1695
+    },
+    {
+      "text": "sin alteraciones",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1733,
+      "end": 1749
+    },
+    {
+      "text": "Isquemia aguda en territorio de la arteria cerebral anterior izquierda",
+      "type": "PATOLOGIA",
+      "start": 1778,
+      "end": 1848
+    },
+    {
+      "text": "oclusión en segmento proximal A2",
+      "type": "PATOLOGIA",
+      "start": 1867,
+      "end": 1899
+    },
+    {
+      "text": "TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANGIOTC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 2267,
+      "end": 2334
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "document_id": "informe_sintetico_20250804195045_21746",
+  "entities": [
+    {
+      "text": "contusión hemorrágica traumática",
+      "type": "PATOLOGIA",
+      "start": 532,
+      "end": 564
+    },
+    {
+      "text": "región frontotemporal derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 461,
+      "end": 490
+    },
+    {
+      "text": "12 ml",
+      "type": "MEDIDA",
+      "start": 595,
+      "end": 600
+    },
+    {
+      "text": "3 mm",
+      "type": "MEDIDA",
+      "start": 694,
+      "end": 698
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 708,
+      "end": 717
+    },
+    {
+      "text": "No se observan colecciones subdurales ni epidurales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 719,
+      "end": 770
+    },
+    {
+      "text": "AngioTC intracraneal sin evidencias de lesiones vasculares ni estenosis oclusivas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1039,
+      "end": 1120
+    },
+    {
+      "text": "edema cerebral difuso",
+      "type": "PATOLOGIA",
+      "start": 1154,
+      "end": 1175
+    },
+    {
+      "text": "edema cerebral asociado",
+      "type": "PATOLOGIA",
+      "start": 1270,
+      "end": 1293
+    },
+    {
+      "text": "TC craneal basal con cortes axiales finos, perfusión cerebral y angiografía TC de vasos intracraneales",
+      "type": "TECNICA_IMAGEN",
+      "start": 303,
+      "end": 405
+    }
+  ]
+}

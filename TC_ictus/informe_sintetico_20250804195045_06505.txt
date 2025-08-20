@@ -1,0 +1,23 @@
+UO_PACN (Unidad Organizativa Médica): RADIO
+
+PRUEB (Prueba solicitada): TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANG IOTC ARTERIAL INTRACRANEAL)
+
+CLIN (Resumen clínico): Paciente masculino de 67 años, con antecedentes de hipertensión arterial y tratamiento anticoagulante, acude por cuadro de deterioro cognitivo progresivo y episodios de cefalea recurrente. Se solicita estudio para descartar lesiones hemorrágicas intracraneales.
+
+OBSR (Protocolo): TC craneal basal con cortes finos para detección de hemorragias y estudio angio TC intracraneal con perfusión cerebral.
+
+RESL (Resultados): En el estudio basal se identifican múltiples focos puntiformes hiperdensos dispersos en la sustancia blanca periventricular y en la sustancia gris cortical, compatibles con microhemorragias. No se evidencian hematomas lobares ni hemorragias subaracnoideas extensas. No se observan signos de edema vasogénico ni infartos agudos. El sistema ventricular se encuentra de tamaño y morfología normal, sin desvíos de la línea media. Las cisternas basales se conservan libres. El estudio de perfusión cerebral muestra distribución simétrica del flujo sanguíneo cerebral sin áreas de hipoperfusión significativa. En la angiografía TC no se detectan estenosis, aneurismas ni malformaciones vasculares. Se observa arteriosclerosis leve en las arterias carótidas internas proximales sin estenosis significativa.
+
+CONCL (Conclusiones): Microhemorragias múltiples de distribución lobar y periventricular, hallazgos compatibles con angiopatía amiloide cerebral o enfermedad crónica de pequeño vaso. Sin evidencias de hemorragia aguda ni infartos isquémicos recientes. Angiografía normal sin vascularizaciones alteradas.
+
+ACTI_ADICI (Actividad adicional):
+
+DKTXT (Descripció): Evaluación complementaria con resonancia magnética con secuencias sensibles a sangre podría ser útil para caracterización detallada de microhemorragias y detección de lesiones asociadas.
+
+ICON (Estudio): @RADIO_TC@ 
+
+X00DIATXT (Texto del diagnóstico ACR): TC craneal que demuestra múltiples microhemorragias lobares bilaterales sin presencia de hematomas mayores ni sangrado activo. Perfusión cerebral sin alteraciones. AngioTC sin estenosis de gran vaso ni malformaciones.
+
+EST_T_DES (Descripción): TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANGIOTC ARTERIAL INTRACRANEAL)
+
+ZVASOS_D (Der.): Evaluación angiográfica sin hallazgos de oclusión ni estenosis significativas en arterias intracraneales o extracraneales.

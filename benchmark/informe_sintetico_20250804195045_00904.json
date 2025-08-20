@@ -1,0 +1,107 @@
+{
+  "document_id": "informe_sintetico_20250804195045_00904",
+  "entities": [
+    {
+      "text": "infarto cerebral agudo",
+      "type": "PATOLOGIA",
+      "start": 555,
+      "end": 577
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "ARTERIA",
+      "start": 509,
+      "end": 539
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 532,
+      "end": 539
+    },
+    {
+      "text": "pequeña colección hiperdensa focalizada",
+      "type": "PATOLOGIA",
+      "start": 603,
+      "end": 642
+    },
+    {
+      "text": "transformación hemorrágica grado HI1",
+      "type": "PATOLOGIA",
+      "start": 680,
+      "end": 716
+    },
+    {
+      "text": "hemorragia petequial leve",
+      "type": "PATOLOGIA",
+      "start": 718,
+      "end": 743
+    },
+    {
+      "text": "Oclusión parcial en segmento proximal M1",
+      "type": "PATOLOGIA",
+      "start": 1359,
+      "end": 1399
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "ARTERIA",
+      "start": 509,
+      "end": 539
+    },
+    {
+      "text": "ASPECTS 6-7",
+      "type": "PUNTUACION_CLINICA",
+      "start": 1876,
+      "end": 1887
+    },
+    {
+      "text": "retraso moderado del tiempo de tránsito (TTP)",
+      "type": "PATOLOGIA",
+      "start": 1057,
+      "end": 1102
+    },
+    {
+      "text": "reducción del flujo cerebral (CBF)",
+      "type": "PATOLOGIA",
+      "start": 1141,
+      "end": 1175
+    },
+    {
+      "text": "volumen cerebral (CBV)",
+      "type": "PATOLOGIA",
+      "start": 1178,
+      "end": 1200
+    },
+    {
+      "text": "penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1228,
+      "end": 1246
+    },
+    {
+      "text": "código ictus",
+      "type": "TECNICA_IMAGEN",
+      "start": 403,
+      "end": 415
+    },
+    {
+      "text": "TC craneal basal con y sin contraste",
+      "type": "TECNICA_IMAGEN",
+      "start": 310,
+      "end": 346
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 349,
+      "end": 370
+    },
+    {
+      "text": "angioTC intracraneal urgente",
+      "type": "TECNICA_IMAGEN",
+      "start": 373,
+      "end": 401
+    }
+  ]
+}

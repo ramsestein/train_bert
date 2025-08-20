@@ -1,0 +1,113 @@
+{
+  "document_id": "informe_sintetico_20250804195045_22612",
+  "entities": [
+    {
+      "text": "infarto isquémico",
+      "type": "PATOLOGIA",
+      "start": 668,
+      "end": 685
+    },
+    {
+      "text": "territorio de la arteria cerebral media izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 488,
+      "end": 537
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "ARTERIA",
+      "start": 505,
+      "end": 537
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 528,
+      "end": 537
+    },
+    {
+      "text": "edema cerebral",
+      "type": "PATOLOGIA",
+      "start": 710,
+      "end": 724
+    },
+    {
+      "text": "hemorragia intraparenquimatosa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 810,
+      "end": 840
+    },
+    {
+      "text": "signos de sangrado subaracnoideo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 844,
+      "end": 876
+    },
+    {
+      "text": "oclusión completa del segmento cervical de la arteria carótida interna izquierda",
+      "type": "PATOLOGIA",
+      "start": 1185,
+      "end": 1265
+    },
+    {
+      "text": "arteria carótida interna izquierda",
+      "type": "ARTERIA",
+      "start": 1231,
+      "end": 1265
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 528,
+      "end": 537
+    },
+    {
+      "text": "ictus isquémico agudo",
+      "type": "PATOLOGIA",
+      "start": 1803,
+      "end": 1824
+    },
+    {
+      "text": "penumbra significativa",
+      "type": "PATOLOGIA",
+      "start": 1837,
+      "end": 1859
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 285,
+      "end": 301
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 328,
+      "end": 349
+    },
+    {
+      "text": "angiografía por TC de arterias intracraneales y cuello",
+      "type": "TECNICA_IMAGEN",
+      "start": 352,
+      "end": 406
+    },
+    {
+      "text": "aumento significativo en los tiempos de tránsito medio y tiempo hasta el pico",
+      "type": "MEDIDA",
+      "start": 911,
+      "end": 988
+    },
+    {
+      "text": "reducción marcada del flujo sanguíneo cerebral y volumen sanguíneo cerebral",
+      "type": "MEDIDA",
+      "start": 994,
+      "end": 1069
+    },
+    {
+      "text": "sin estenosis significativa en arterias vertebrales ni en el sistema vertebrobasilar",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1424,
+      "end": 1508
+    }
+  ]
+}

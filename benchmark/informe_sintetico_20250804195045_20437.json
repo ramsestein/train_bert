@@ -1,0 +1,101 @@
+{
+  "document_id": "informe_sintetico_20250804195045_20437",
+  "entities": [
+    {
+      "text": "hemiparesia derecha",
+      "type": "PATOLOGIA",
+      "start": 190,
+      "end": 209
+    },
+    {
+      "text": "hemorragia intra ni extraaxial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 411,
+      "end": 441
+    },
+    {
+      "text": "ASPECTS 10/10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 538,
+      "end": 551
+    },
+    {
+      "text": "lesiones isquémicas agudas ni crónicas significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 557,
+      "end": 610
+    },
+    {
+      "text": "Línea media centrada",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 612,
+      "end": 632
+    },
+    {
+      "text": "fracturas óseas ni colecciones extracraneales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 725,
+      "end": 770
+    },
+    {
+      "text": "hipoperfusión ni mismatch",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 930,
+      "end": 955
+    },
+    {
+      "text": "estenosis significativas ni defectos de repleción",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1061,
+      "end": 1110
+    },
+    {
+      "text": "ateromatosis calcificada leve en bifurcaciones carotídeas",
+      "type": "PATOLOGIA",
+      "start": 1125,
+      "end": 1182
+    },
+    {
+      "text": "hemorragias ni lesiones isquémicas agudas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1305,
+      "end": 1346
+    },
+    {
+      "text": "ASPECTS 10/10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 538,
+      "end": 551
+    },
+    {
+      "text": "TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANG IOTC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 72,
+      "end": 140
+    },
+    {
+      "text": "TC craneal urgente basal seguido de perfusión cerebral y Angio-TC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 255,
+      "end": 342
+    },
+    {
+      "text": "TC CRANEAL BASAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 365,
+      "end": 381
+    },
+    {
+      "text": "TC PERFUSIÓN",
+      "type": "TECNICA_IMAGEN",
+      "start": 773,
+      "end": 785
+    },
+    {
+      "text": "ANGIO-TC EXTRA E INTRACRANEAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 958,
+      "end": 987
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+UO_PACN (Unidad Organizativa Médica): RADIO
+
+PRUEB (Prueba solicitada): TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANG IOTC ARTERIAL INTRACRANEAL)
+
+CLIN (Resumen clínico): Déficit neurológico agudo con sospecha de isquemia en territorio de arteria cerebral posterior derecha.
+
+OBSR (Protocolo): TC craneal basal sin contraste, seguido de TC perfusión cerebral dinámica y AngioTC arterial intra y extracraneal. Protocolo urgente CODE ICTUS.
+
+RESL (Resultados):  
+TC CRANEAL BASAL:  
+No evidencias de hemorragias intracraneales ni hematomas subdurales o epidurales. Se observa discreta hipodensidad difusa en el núcleo pulvinar del tálamo derecho, sin pérdida clara de diferenciación córtico-subcortical. Estructuras de línea media en posición centrada. Sistema ventricular y cisternas basales sin alteraciones morfológicas ni signos de hipertensión intracraneal.
+
+TC PERFUSIÓN:  
+Mapas de tiempo de tránsito prolongado (TTP) y tiempo medio de tránsito (MTT) incrementados en el territorio vascular de la arteria cerebral posterior derecha, principalmente en la región occipital y el tálamo ipsilateral. Flujo cerebral (CBF) y volumen cerebral (CBV) disminuidos en la misma área, compatible con hipoperfusión isquémica aguda. No se identifican áreas de infarcto establecido con CBV irreversiblemente disminuida.
+
+ANGIO-TC EXTRA E INTRACRANEAL:  
+Oclusión completa de la arteria cerebral posterior derecha (segmento P2) sin flujo distal visualizado. Arterias cerebrales anteriores y medias permeables bilateralmente, sin evidencias de estenosis relevantes. Tracto vertebrobasilar permeable con flujo conservado. Troncos supraaórticos sin estenosis significativas ni placas ulceradas.
+
+CONCL (Conclusiones):  
+Oclusión aguda de la arteria cerebral posterior derecha en segmento P2 con área de hipoperfusión en territorio correspondiente, sin infarto establecido. Ausencia de hemorragia intracraneal. Condiciones favorables para intervención endovascular.
+
+ACTI_ADICI (Actividad adicional): Seguimiento clínico y reevaluación con resonancia magnética para valoración evolutiva.
+
+ICON (Estudio): DICOM_TC_CODE_ICP_001
+
+X00DIATXT (Texto del diagnóstico ACR): Oclusión arterial aguda en arteria cerebral posterior derecha con hipoperfusión cerebral en territorio afectado sin infarto establecido.
+
+EST_T_DES (Descripción): TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANGIOTC ARTERIAL INTRACRANEAL)
+
+ZVASOS_D (Der.): Estudio realizado con protocolo CODE ICTUS para evaluación urgente de isquemia cerebral aguda en territorio ACP derecho.

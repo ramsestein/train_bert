@@ -1,0 +1,223 @@
+{
+  "document_id": "informe_sintetico_20250804194428_0005",
+  "entities": [
+    {
+      "text": "evento isquémico agudo",
+      "type": "PATOLOGIA",
+      "start": 266,
+      "end": 288
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 309,
+      "end": 325
+    },
+    {
+      "text": "perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 363,
+      "end": 381
+    },
+    {
+      "text": "angioTC arterial intra y extracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 384,
+      "end": 421
+    },
+    {
+      "text": "hipodensidad",
+      "type": "PATOLOGIA",
+      "start": 487,
+      "end": 499
+    },
+    {
+      "text": "hemorragia intra o extraaxial",
+      "type": "PATOLOGIA",
+      "start": 513,
+      "end": 542
+    },
+    {
+      "text": "diferenciación cortico-subcortical",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 547,
+      "end": 581
+    },
+    {
+      "text": "lesiones focales",
+      "type": "PATOLOGIA",
+      "start": 622,
+      "end": 638
+    },
+    {
+      "text": "edema cerebral",
+      "type": "PATOLOGIA",
+      "start": 642,
+      "end": 656
+    },
+    {
+      "text": "línea media",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 680,
+      "end": 691
+    },
+    {
+      "text": "sistema ventricular",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 731,
+      "end": 750
+    },
+    {
+      "text": "cisternas basales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 757,
+      "end": 774
+    },
+    {
+      "text": "tamaño y morfología normales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 785,
+      "end": 813
+    },
+    {
+      "text": "signos inespecíficos de envejecimiento cerebral",
+      "type": "PATOLOGIA",
+      "start": 830,
+      "end": 877
+    },
+    {
+      "text": "fracturas óseas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 945,
+      "end": 960
+    },
+    {
+      "text": "anomalías óseas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 964,
+      "end": 979
+    },
+    {
+      "text": "Mapas de tiempo de tránsito (TTP)",
+      "type": "TECNICA_IMAGEN",
+      "start": 996,
+      "end": 1029
+    },
+    {
+      "text": "volumen cerebral sanguíneo (CBV)",
+      "type": "TECNICA_IMAGEN",
+      "start": 1031,
+      "end": 1063
+    },
+    {
+      "text": "flujo cerebral sanguíneo (CBF)",
+      "type": "TECNICA_IMAGEN",
+      "start": 1066,
+      "end": 1096
+    },
+    {
+      "text": "hipoperfusión",
+      "type": "PATOLOGIA",
+      "start": 1141,
+      "end": 1154
+    },
+    {
+      "text": "hiperperfusión",
+      "type": "PATOLOGIA",
+      "start": 1157,
+      "end": 1171
+    },
+    {
+      "text": "zonas de isquemia en evolución",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1191,
+      "end": 1221
+    },
+    {
+      "text": "penumbra viable",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1225,
+      "end": 1240
+    },
+    {
+      "text": "arterias intracraneales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1305,
+      "end": 1328
+    },
+    {
+      "text": "calibre normal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1356,
+      "end": 1370
+    },
+    {
+      "text": "permeabilidad conservada",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1373,
+      "end": 1397
+    },
+    {
+      "text": "estenosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1417,
+      "end": 1426
+    },
+    {
+      "text": "malformaciones vasculares",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1442,
+      "end": 1467
+    },
+    {
+      "text": "vasoespasmo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1497,
+      "end": 1508
+    },
+    {
+      "text": "trombosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1512,
+      "end": 1521
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 1608,
+      "end": 1618
+    },
+    {
+      "text": "infarto cerebral agudo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1636,
+      "end": 1658
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1662,
+      "end": 1685
+    },
+    {
+      "text": "permeables",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1704,
+      "end": 1714
+    },
+    {
+      "text": "calibre conservado",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1720,
+      "end": 1738
+    },
+    {
+      "text": "alteraciones en la perfusión cerebral",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1755,
+      "end": 1792
+    }
+  ],
+  "regenerado": true,
+  "fecha_regeneracion": "2025-08-06T11:00:07.349052"
+}

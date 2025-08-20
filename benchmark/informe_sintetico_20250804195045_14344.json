@@ -1,0 +1,137 @@
+{
+  "document_id": "informe_sintetico_20250804195045_14344",
+  "entities": [
+    {
+      "text": "hemiparesia izquierda",
+      "type": "PATOLOGIA",
+      "start": 196,
+      "end": 217
+    },
+    {
+      "text": "afasia",
+      "type": "PATOLOGIA",
+      "start": 220,
+      "end": 226
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 504,
+      "end": 527
+    },
+    {
+      "text": "ASPECTS: 9",
+      "type": "PUNTUACION_CLINICA",
+      "start": 600,
+      "end": 610
+    },
+    {
+      "text": "hipodensidad parietal derecha",
+      "type": "PATOLOGIA",
+      "start": 617,
+      "end": 646
+    },
+    {
+      "text": "Aumento localizado en el tiempo medio de tránsito (TMT)",
+      "type": "PATOLOGIA",
+      "start": 777,
+      "end": 832
+    },
+    {
+      "text": "tiempo hasta el pico (TTP)",
+      "type": "PATOLOGIA",
+      "start": 835,
+      "end": 861
+    },
+    {
+      "text": "flujo sanguíneo cerebral (CBF)",
+      "type": "PATOLOGIA",
+      "start": 921,
+      "end": 951
+    },
+    {
+      "text": "volumen cerebral sanguíneo (CBV)",
+      "type": "PATOLOGIA",
+      "start": 954,
+      "end": 986
+    },
+    {
+      "text": "zona isquémica aguda",
+      "type": "PATOLOGIA",
+      "start": 1030,
+      "end": 1050
+    },
+    {
+      "text": "penumbra",
+      "type": "PATOLOGIA",
+      "start": 1078,
+      "end": 1086
+    },
+    {
+      "text": "defecto de repleción",
+      "type": "PATOLOGIA",
+      "start": 1137,
+      "end": 1157
+    },
+    {
+      "text": "segmento M2 derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1164,
+      "end": 1183
+    },
+    {
+      "text": "arteria cerebral media",
+      "type": "ARTERIA",
+      "start": 1190,
+      "end": 1212
+    },
+    {
+      "text": "distal derecho",
+      "type": "LATERALIDAD",
+      "start": 1452,
+      "end": 1466
+    },
+    {
+      "text": "signos de hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1645,
+      "end": 1678
+    },
+    {
+      "text": "ASPECTS 9",
+      "type": "PUNTUACION_CLINICA",
+      "start": 1680,
+      "end": 1689
+    },
+    {
+      "text": "Oclusión arterial distal",
+      "type": "PATOLOGIA",
+      "start": 1691,
+      "end": 1715
+    },
+    {
+      "text": "Angio TC",
+      "type": "TECNICA_IMAGEN",
+      "start": 376,
+      "end": 384
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 301,
+      "end": 317
+    },
+    {
+      "text": "TC Perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 754,
+      "end": 775
+    },
+    {
+      "text": "Angio TC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 376,
+      "end": 406
+    }
+  ]
+}

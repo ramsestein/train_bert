@@ -1,0 +1,89 @@
+{
+  "document_id": "informe_sintetico_20250804195045_21400",
+  "entities": [
+    {
+      "text": "isquemia cerebral aguda",
+      "type": "PATOLOGIA",
+      "start": 240,
+      "end": 263
+    },
+    {
+      "text": "ASPECTS 9/10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 685,
+      "end": 697
+    },
+    {
+      "text": "hipodensidad en región opercular izquierda",
+      "type": "PATOLOGIA",
+      "start": 712,
+      "end": 754
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "ARTERIA",
+      "start": 951,
+      "end": 983
+    },
+    {
+      "text": "segmentos M2/M3",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 992,
+      "end": 1007
+    },
+    {
+      "text": "Oclusión focal del segmento M2 inferior izquierdo de la arteria cerebral media",
+      "type": "PATOLOGIA",
+      "start": 1237,
+      "end": 1315
+    },
+    {
+      "text": "sin estenosis significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1415,
+      "end": 1442
+    },
+    {
+      "text": "No signos de hemorragia ni edema significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1841,
+      "end": 1887
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 1699,
+      "end": 1713
+    },
+    {
+      "text": "mismatch significativo",
+      "type": "PATOLOGIA",
+      "start": 1180,
+      "end": 1202
+    },
+    {
+      "text": "técnica multidetector",
+      "type": "TECNICA_IMAGEN",
+      "start": 484,
+      "end": 505
+    },
+    {
+      "text": "TC craneal basal urgente sin contraste",
+      "type": "TECNICA_IMAGEN",
+      "start": 283,
+      "end": 321
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 334,
+      "end": 355
+    },
+    {
+      "text": "Angio-TC arterial intracraneal con contraste intravenoso",
+      "type": "TECNICA_IMAGEN",
+      "start": 358,
+      "end": 414
+    }
+  ]
+}

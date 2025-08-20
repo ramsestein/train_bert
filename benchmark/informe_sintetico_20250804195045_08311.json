@@ -1,0 +1,101 @@
+{
+  "document_id": "informe_sintetico_20250804195045_08311",
+  "entities": [
+    {
+      "text": "accidente isquémico agudo",
+      "type": "PATOLOGIA",
+      "start": 275,
+      "end": 300
+    },
+    {
+      "text": "arteria cerebral posterior derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 318,
+      "end": 352
+    },
+    {
+      "text": "arteria cerebral posterior derecha",
+      "type": "ARTERIA",
+      "start": 318,
+      "end": 352
+    },
+    {
+      "text": "izquierdo",
+      "type": "LATERALIDAD",
+      "start": 211,
+      "end": 220
+    },
+    {
+      "text": "2 horas",
+      "type": "MEDIDA",
+      "start": 233,
+      "end": 240
+    },
+    {
+      "text": "agudo",
+      "type": "TEMPORALIDAD",
+      "start": 295,
+      "end": 300
+    },
+    {
+      "text": "ASPECTS posterior (modificado) 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 862,
+      "end": 895
+    },
+    {
+      "text": "TC craneal basal sin contraste",
+      "type": "TECNICA_IMAGEN",
+      "start": 419,
+      "end": 449
+    },
+    {
+      "text": "No se evidencian hemorragias intraparenquimatosas ni extraaxiales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 653,
+      "end": 718
+    },
+    {
+      "text": "No se evidencian estenosis significativas ni placas inestables en los troncos supraórticos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1509,
+      "end": 1599
+    },
+    {
+      "text": "Oclusión proximal en segmento P1 de la arteria cerebral posterior derecha",
+      "type": "PATOLOGIA",
+      "start": 1355,
+      "end": 1428
+    },
+    {
+      "text": "Oclusión proximal de la arteria cerebral posterior derecha",
+      "type": "PATOLOGIA",
+      "start": 1624,
+      "end": 1682
+    },
+    {
+      "text": "segmento P1",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1376,
+      "end": 1387
+    },
+    {
+      "text": "arteria cerebral posterior derecha",
+      "type": "ARTERIA",
+      "start": 318,
+      "end": 352
+    },
+    {
+      "text": "sin infarto establecido observable en TC basal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1776,
+      "end": 1822
+    },
+    {
+      "text": "no hemorrhage",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2354,
+      "end": 2367
+    }
+  ]
+}

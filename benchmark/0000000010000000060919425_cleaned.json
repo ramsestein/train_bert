@@ -1,0 +1,59 @@
+{
+  "document_id": "0000000010000000060919425_cleaned",
+  "entities": [
+    {
+      "text": "Infart cerebral causat per oclusió o estenosi no especificades d'artèria cerebral no especificada",
+      "type": "PATOLOGIA",
+      "start": 166,
+      "end": 263
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 488,
+      "end": 498
+    },
+    {
+      "text": "microangiopatía crónica",
+      "type": "PATOLOGIA",
+      "start": 562,
+      "end": 585
+    },
+    {
+      "text": "ACAs",
+      "type": "ARTERIA",
+      "start": 902,
+      "end": 906
+    },
+    {
+      "text": "ACMs",
+      "type": "ARTERIA",
+      "start": 908,
+      "end": 912
+    },
+    {
+      "text": "ACPs",
+      "type": "ARTERIA",
+      "start": 915,
+      "end": 919
+    },
+    {
+      "text": "No se observa hemorragia intra ni extraaxial.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 395,
+      "end": 440
+    },
+    {
+      "text": "No se observan alteraciones valorables en el TTP, CBV y CBF.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 719,
+      "end": 779
+    },
+    {
+      "text": "No se observan signos de patología hemrrágica ni isquémica aguda intracraneal.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1431,
+      "end": 1509
+    }
+  ]
+}

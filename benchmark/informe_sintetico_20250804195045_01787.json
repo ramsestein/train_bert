@@ -1,0 +1,59 @@
+{
+  "document_id": "informe_sintetico_20250804195045_01787",
+  "entities": [
+    {
+      "text": "infarto isquémico temprano",
+      "type": "PATOLOGIA",
+      "start": 723,
+      "end": 749
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 526,
+      "end": 558
+    },
+    {
+      "text": "ACM",
+      "type": "ARTERIA",
+      "start": 963,
+      "end": 966
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 549,
+      "end": 558
+    },
+    {
+      "text": "agudo",
+      "type": "TEMPORALIDAD",
+      "start": 1569,
+      "end": 1574
+    },
+    {
+      "text": "arteria carótida interna izquierda",
+      "type": "ARTERIA",
+      "start": 1198,
+      "end": 1232
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 549,
+      "end": 558
+    },
+    {
+      "text": "sin estenosis significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1404,
+      "end": 1431
+    },
+    {
+      "text": "No se observan signos de hemorragia aguda",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 751,
+      "end": 792
+    }
+  ]
+}

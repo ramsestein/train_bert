@@ -1,0 +1,65 @@
+{
+  "document_id": "informe_sintetico_20250804195045_00558",
+  "entities": [
+    {
+      "text": "hematoma intracerebral lobar frontal",
+      "type": "PATOLOGIA",
+      "start": 275,
+      "end": 311
+    },
+    {
+      "text": "hematoma lobar en lóbulo frontal derecho",
+      "type": "PATOLOGIA",
+      "start": 511,
+      "end": 551
+    },
+    {
+      "text": "18 ml",
+      "type": "MEDIDA",
+      "start": 579,
+      "end": 584
+    },
+    {
+      "text": "4 mm",
+      "type": "MEDIDA",
+      "start": 823,
+      "end": 827
+    },
+    {
+      "text": "TC CRANEAL BASAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 479,
+      "end": 495
+    },
+    {
+      "text": "TC PERFUSIÓN",
+      "type": "TECNICA_IMAGEN",
+      "start": 1119,
+      "end": 1131
+    },
+    {
+      "text": "ANGIO-TC EXTRA E INTRACRANEAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 1421,
+      "end": 1450
+    },
+    {
+      "text": "bilateralmente",
+      "type": "LATERALIDAD",
+      "start": 1503,
+      "end": 1517
+    },
+    {
+      "text": "sin signos de isquemia extensa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1949,
+      "end": 1979
+    },
+    {
+      "text": "sin alteraciones hemodinámicas importantes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2013,
+      "end": 2055
+    }
+  ]
+}

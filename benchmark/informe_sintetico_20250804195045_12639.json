@@ -1,0 +1,257 @@
+{
+  "document_id": "informe_sintetico_20250804195045_12639",
+  "entities": [
+    {
+      "text": "infarto cerebral isquémico",
+      "type": "PATOLOGIA",
+      "start": 179,
+      "end": 205
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "ARTERIA",
+      "start": 235,
+      "end": 265
+    },
+    {
+      "text": "transformación hemorrágica",
+      "type": "PATOLOGIA",
+      "start": 301,
+      "end": 327
+    },
+    {
+      "text": "TC CRANEAL BASAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 557,
+      "end": 573
+    },
+    {
+      "text": "extensa hipodensidad",
+      "type": "PATOLOGIA",
+      "start": 642,
+      "end": 662
+    },
+    {
+      "text": "infarto isquémico establecido",
+      "type": "PATOLOGIA",
+      "start": 728,
+      "end": 757
+    },
+    {
+      "text": "ASPECTS 4/10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 759,
+      "end": 771
+    },
+    {
+      "text": "imagen hiperdensa heterogénea",
+      "type": "PATOLOGIA",
+      "start": 792,
+      "end": 821
+    },
+    {
+      "text": "30%",
+      "type": "MEDIDA",
+      "start": 883,
+      "end": 886
+    },
+    {
+      "text": "núcleo lenticular",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 956,
+      "end": 973
+    },
+    {
+      "text": "cápsula interna derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 976,
+      "end": 999
+    },
+    {
+      "text": "transformación hemorrágica de tipo HI2",
+      "type": "PATOLOGIA",
+      "start": 1014,
+      "end": 1052
+    },
+    {
+      "text": "hemorragias extraaxiales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1071,
+      "end": 1095
+    },
+    {
+      "text": "signos de hipertensión endocraneana",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1099,
+      "end": 1134
+    },
+    {
+      "text": "edema vasogénico perilesional",
+      "type": "PATOLOGIA",
+      "start": 1154,
+      "end": 1183
+    },
+    {
+      "text": "Sistema ventricular de tamaño conservado",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1271,
+      "end": 1311
+    },
+    {
+      "text": "Cisternas basales libres",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1313,
+      "end": 1337
+    },
+    {
+      "text": "Mapa de volumen cerebral (CBV)",
+      "type": "TECNICA_IMAGEN",
+      "start": 1356,
+      "end": 1386
+    },
+    {
+      "text": "disminución marcada",
+      "type": "PATOLOGIA",
+      "start": 1395,
+      "end": 1414
+    },
+    {
+      "text": "flujo cerebral (CBF)",
+      "type": "PATOLOGIA",
+      "start": 1474,
+      "end": 1494
+    },
+    {
+      "text": "tiempo de tránsito (TTP)",
+      "type": "PATOLOGIA",
+      "start": 1514,
+      "end": 1538
+    },
+    {
+      "text": "zona de penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1586,
+      "end": 1612
+    },
+    {
+      "text": "núcleo infartado",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1618,
+      "end": 1634
+    },
+    {
+      "text": "oclusión completa",
+      "type": "PATOLOGIA",
+      "start": 1765,
+      "end": 1782
+    },
+    {
+      "text": "segmento proximal M1",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1786,
+      "end": 1806
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "ARTERIA",
+      "start": 235,
+      "end": 265
+    },
+    {
+      "text": "estenosis ni oclusiones",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1855,
+      "end": 1878
+    },
+    {
+      "text": "signos de disección arterial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2023,
+      "end": 2051
+    },
+    {
+      "text": "trombosis de senos venosos durales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2055,
+      "end": 2089
+    },
+    {
+      "text": "arterias cerebrales principales",
+      "type": "ARTERIA",
+      "start": 2107,
+      "end": 2138
+    },
+    {
+      "text": "vasos del sistema vertebrobasilar",
+      "type": "ARTERIA",
+      "start": 2141,
+      "end": 2174
+    },
+    {
+      "text": "permeables",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2189,
+      "end": 2199
+    },
+    {
+      "text": "infarto isquémico establecido",
+      "type": "PATOLOGIA",
+      "start": 728,
+      "end": 757
+    },
+    {
+      "text": "transformación hemorrágica tipo HI2",
+      "type": "PATOLOGIA",
+      "start": 2358,
+      "end": 2393
+    },
+    {
+      "text": "30%",
+      "type": "MEDIDA",
+      "start": 883,
+      "end": 886
+    },
+    {
+      "text": "hemorragias extraaxiales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1071,
+      "end": 1095
+    },
+    {
+      "text": "desplazamiento de línea media significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2488,
+      "end": 2531
+    },
+    {
+      "text": "patrón compatible con extensa lesión isquémica",
+      "type": "PATOLOGIA",
+      "start": 2554,
+      "end": 2600
+    },
+    {
+      "text": "zona de penumbra",
+      "type": "PATOLOGIA",
+      "start": 1586,
+      "end": 1602
+    },
+    {
+      "text": "oclusión proximal de ACM derecha (M1)",
+      "type": "PATOLOGIA",
+      "start": 2639,
+      "end": 2676
+    },
+    {
+      "text": "evolución tórpida",
+      "type": "TEMPORALIDAD",
+      "start": 267,
+      "end": 284
+    },
+    {
+      "text": "transformación hemorrágica",
+      "type": "PATOLOGIA",
+      "start": 301,
+      "end": 327
+    }
+  ]
+}

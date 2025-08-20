@@ -1,0 +1,179 @@
+{
+  "document_id": "informe_sintetico_20250804195045_16742",
+  "entities": [
+    {
+      "text": "hipodensidad",
+      "type": "PATOLOGIA",
+      "start": 640,
+      "end": 652
+    },
+    {
+      "text": "edema vasogénico",
+      "type": "PATOLOGIA",
+      "start": 749,
+      "end": 765
+    },
+    {
+      "text": "isquémico agudo",
+      "type": "TEMPORALIDAD",
+      "start": 778,
+      "end": 793
+    },
+    {
+      "text": "hemorragia intraparenquimatosa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 811,
+      "end": 841
+    },
+    {
+      "text": "hematomas extraaxiales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 845,
+      "end": 867
+    },
+    {
+      "text": "tronco encefálico",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 258,
+      "end": 275
+    },
+    {
+      "text": "puente",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 709,
+      "end": 715
+    },
+    {
+      "text": "médula oblonga",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 718,
+      "end": 732
+    },
+    {
+      "text": "territorio del tronco encefálico posterior",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1121,
+      "end": 1163
+    },
+    {
+      "text": "flujo sanguíneo cerebral",
+      "type": "PATOLOGIA",
+      "start": 1197,
+      "end": 1221
+    },
+    {
+      "text": "volumen sanguíneo cerebral",
+      "type": "PATOLOGIA",
+      "start": 1242,
+      "end": 1268
+    },
+    {
+      "text": "penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1307,
+      "end": 1325
+    },
+    {
+      "text": "núcleo isquémico",
+      "type": "PATOLOGIA",
+      "start": 1408,
+      "end": 1424
+    },
+    {
+      "text": "Oclusión completa",
+      "type": "PATOLOGIA",
+      "start": 1491,
+      "end": 1508
+    },
+    {
+      "text": "arteria basilar",
+      "type": "ARTERIA",
+      "start": 1515,
+      "end": 1530
+    },
+    {
+      "text": "bifurcación en arterias cerebrales posteriores",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1557,
+      "end": 1603
+    },
+    {
+      "text": "circulación vertebrobasilar distal",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1654,
+      "end": 1688
+    },
+    {
+      "text": "arteria basilar",
+      "type": "ARTERIA",
+      "start": 1515,
+      "end": 1530
+    },
+    {
+      "text": "Arterias vertebrales",
+      "type": "ARTERIA",
+      "start": 1755,
+      "end": 1775
+    },
+    {
+      "text": "calibre conservado",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1792,
+      "end": 1810
+    },
+    {
+      "text": "estenosis a nivel proximal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1816,
+      "end": 1842
+    },
+    {
+      "text": "signos de estenosis significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1944,
+      "end": 1977
+    },
+    {
+      "text": "Oclusión aguda",
+      "type": "PATOLOGIA",
+      "start": 2034,
+      "end": 2048
+    },
+    {
+      "text": "arteria basilar proximal",
+      "type": "ARTERIA",
+      "start": 2055,
+      "end": 2079
+    },
+    {
+      "text": "isquemia en el tronco encefálico",
+      "type": "PATOLOGIA",
+      "start": 2097,
+      "end": 2129
+    },
+    {
+      "text": "área de penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 2208,
+      "end": 2234
+    },
+    {
+      "text": "ictus vertebrobasilar agudo",
+      "type": "PATOLOGIA",
+      "start": 2352,
+      "end": 2379
+    },
+    {
+      "text": "alto riesgo neurológico",
+      "type": "PATOLOGIA",
+      "start": 2384,
+      "end": 2407
+    },
+    {
+      "text": "TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANG IOTC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 72,
+      "end": 140
+    }
+  ]
+}

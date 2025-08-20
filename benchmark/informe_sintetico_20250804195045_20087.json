@@ -1,0 +1,125 @@
+{
+  "document_id": "informe_sintetico_20250804195045_20087",
+  "entities": [
+    {
+      "text": "infarto cerebral agudo",
+      "type": "PATOLOGIA",
+      "start": 215,
+      "end": 237
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 255,
+      "end": 287
+    },
+    {
+      "text": "infarto subagudo",
+      "type": "PATOLOGIA",
+      "start": 774,
+      "end": 790
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 255,
+      "end": 287
+    },
+    {
+      "text": "transformación hemorrágica tipo HI2",
+      "type": "PATOLOGIA",
+      "start": 1027,
+      "end": 1062
+    },
+    {
+      "text": "ECASS",
+      "type": "PUNTUACION_CLINICA",
+      "start": 1083,
+      "end": 1088
+    },
+    {
+      "text": "lado izquierdo",
+      "type": "LATERALIDAD",
+      "start": 1299,
+      "end": 1313
+    },
+    {
+      "text": "TTP",
+      "type": "MEDIDA",
+      "start": 1447,
+      "end": 1450
+    },
+    {
+      "text": "CBF",
+      "type": "MEDIDA",
+      "start": 1524,
+      "end": 1527
+    },
+    {
+      "text": "CBV",
+      "type": "MEDIDA",
+      "start": 1549,
+      "end": 1552
+    },
+    {
+      "text": "oclusión tardía",
+      "type": "PATOLOGIA",
+      "start": 1728,
+      "end": 1743
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 255,
+      "end": 287
+    },
+    {
+      "text": "M2-M3",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1757,
+      "end": 1762
+    },
+    {
+      "text": "sin estenosis significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1801,
+      "end": 1829
+    },
+    {
+      "text": "sin signos de vasoespasmo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1915,
+      "end": 1940
+    },
+    {
+      "text": "sin desplazamiento midline significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2064,
+      "end": 2104
+    },
+    {
+      "text": "TC craneal urgente basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 498,
+      "end": 522
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 524,
+      "end": 545
+    },
+    {
+      "text": "angiografía por angioTC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 548,
+      "end": 593
+    },
+    {
+      "text": "TC Multimodal cerebrovascular",
+      "type": "TECNICA_IMAGEN",
+      "start": 2552,
+      "end": 2581
+    }
+  ]
+}

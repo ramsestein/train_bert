@@ -1,0 +1,253 @@
+{
+  "document_id": "informe_sintetico_20250804195045_16532",
+  "entities": [
+    {
+      "text": "hematoma lobar",
+      "type": "PATOLOGIA",
+      "start": 513,
+      "end": 527
+    },
+    {
+      "text": "región frontal izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 534,
+      "end": 558
+    },
+    {
+      "text": "25 x 18 mm",
+      "type": "MEDIDA",
+      "start": 617,
+      "end": 627
+    },
+    {
+      "text": "efecto de masa",
+      "type": "PATOLOGIA",
+      "start": 646,
+      "end": 660
+    },
+    {
+      "text": "línea media",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 686,
+      "end": 697
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 707,
+      "end": 714
+    },
+    {
+      "text": "3 mm",
+      "type": "MEDIDA",
+      "start": 718,
+      "end": 722
+    },
+    {
+      "text": "fractura ósea",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 749,
+      "end": 762
+    },
+    {
+      "text": "sistema ventricular",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 776,
+      "end": 795
+    },
+    {
+      "text": "ventrículo lateral izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 825,
+      "end": 853
+    },
+    {
+      "text": "sin colapso significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 855,
+      "end": 880
+    },
+    {
+      "text": "Cisternas basales libres",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 882,
+      "end": 906
+    },
+    {
+      "text": "áreas hemorrágicas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 930,
+      "end": 948
+    },
+    {
+      "text": "signos de isquemia aguda",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 952,
+      "end": 976
+    },
+    {
+      "text": "CBF",
+      "type": "PATOLOGIA",
+      "start": 1037,
+      "end": 1040
+    },
+    {
+      "text": "aumento del tiempo de tránsito",
+      "type": "PATOLOGIA",
+      "start": 1044,
+      "end": 1074
+    },
+    {
+      "text": "MTT",
+      "type": "PATOLOGIA",
+      "start": 1076,
+      "end": 1079
+    },
+    {
+      "text": "zona adyacente al hematoma frontal",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1087,
+      "end": 1121
+    },
+    {
+      "text": "efecto isquémico secundario",
+      "type": "PATOLOGIA",
+      "start": 1138,
+      "end": 1165
+    },
+    {
+      "text": "compresión",
+      "type": "PATOLOGIA",
+      "start": 810,
+      "end": 820
+    },
+    {
+      "text": "áreas de penumbra significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1199,
+      "end": 1231
+    },
+    {
+      "text": "Arterias principales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1283,
+      "end": 1303
+    },
+    {
+      "text": "sin evidencia de estenosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1315,
+      "end": 1341
+    },
+    {
+      "text": "compromiso vascular directo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1345,
+      "end": 1372
+    },
+    {
+      "text": "lesión",
+      "type": "PATOLOGIA",
+      "start": 426,
+      "end": 432
+    },
+    {
+      "text": "signos de angiopatía",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1418,
+      "end": 1438
+    },
+    {
+      "text": "malformaciones vasculares",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1442,
+      "end": 1467
+    },
+    {
+      "text": "Hematoma lobar frontal izquierdo",
+      "type": "PATOLOGIA",
+      "start": 1492,
+      "end": 1524
+    },
+    {
+      "text": "tamaño moderado",
+      "type": "MEDIDA",
+      "start": 1528,
+      "end": 1543
+    },
+    {
+      "text": "efecto de masa",
+      "type": "PATOLOGIA",
+      "start": 646,
+      "end": 660
+    },
+    {
+      "text": "desplazamiento de línea media leve",
+      "type": "PATOLOGIA",
+      "start": 1565,
+      "end": 1599
+    },
+    {
+      "text": "sin colapso",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 855,
+      "end": 866
+    },
+    {
+      "text": "sin extenso territorio isquémico",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1689,
+      "end": 1721
+    },
+    {
+      "text": "AngioTC sin alteraciones vasculares relevantes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1723,
+      "end": 1769
+    },
+    {
+      "text": "seguimiento clínico y radiológico",
+      "type": "TEMPORALIDAD",
+      "start": 1820,
+      "end": 1853
+    },
+    {
+      "text": "evaluar evolución del hematoma",
+      "type": "TEMPORALIDAD",
+      "start": 1859,
+      "end": 1889
+    },
+    {
+      "text": "manejo neuroquirúrgico",
+      "type": "PATOLOGIA",
+      "start": 1892,
+      "end": 1914
+    },
+    {
+      "text": "Hematoma intracerebral lobar frontal izquierdo",
+      "type": "PATOLOGIA",
+      "start": 1985,
+      "end": 2031
+    },
+    {
+      "text": "efecto de masa leve",
+      "type": "PATOLOGIA",
+      "start": 2036,
+      "end": 2055
+    },
+    {
+      "text": "sin evidencia de compromiso vascular obstructivo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2057,
+      "end": 2105
+    },
+    {
+      "text": "TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANGIOTC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 2133,
+      "end": 2200
+    }
+  ],
+  "regenerado": true,
+  "fecha_regeneracion": "2025-08-06T05:11:18.636036"
+}

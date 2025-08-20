@@ -1,0 +1,137 @@
+{
+  "document_id": "informe_sintetico_20250804195045_23399",
+  "entities": [
+    {
+      "text": "infarto cerebral",
+      "type": "PATOLOGIA",
+      "start": 209,
+      "end": 225
+    },
+    {
+      "text": "hipodensidad cortical",
+      "type": "PATOLOGIA",
+      "start": 582,
+      "end": 603
+    },
+    {
+      "text": "isquemia",
+      "type": "PATOLOGIA",
+      "start": 1338,
+      "end": 1346
+    },
+    {
+      "text": "ateromatosis leve",
+      "type": "PATOLOGIA",
+      "start": 1767,
+      "end": 1784
+    },
+    {
+      "text": "regiones frontoparietales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 607,
+      "end": 632
+    },
+    {
+      "text": "región occipital bilateral",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 764,
+      "end": 790
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 1755,
+      "end": 1762
+    },
+    {
+      "text": "bilaterales",
+      "type": "LATERALIDAD",
+      "start": 633,
+      "end": 644
+    },
+    {
+      "text": "bilateral",
+      "type": "LATERALIDAD",
+      "start": 633,
+      "end": 642
+    },
+    {
+      "text": "prolongación bilateral",
+      "type": "MEDIDA",
+      "start": 1122,
+      "end": 1144
+    },
+    {
+      "text": "moderada",
+      "type": "MEDIDA",
+      "start": 1227,
+      "end": 1235
+    },
+    {
+      "text": "levemente disminuido",
+      "type": "MEDIDA",
+      "start": 1299,
+      "end": 1319
+    },
+    {
+      "text": "signos de edema significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 912,
+      "end": 941
+    },
+    {
+      "text": "No se evidencian hemorragias intra ni extraaxiales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 519,
+      "end": 569
+    },
+    {
+      "text": "No se identifican signos de oclusión o estenosis severa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1509,
+      "end": 1564
+    },
+    {
+      "text": "No evidencia de oclusión arterial focal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2023,
+      "end": 2062
+    },
+    {
+      "text": "ausencia de hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2382,
+      "end": 2417
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 319,
+      "end": 335
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 337,
+      "end": 358
+    },
+    {
+      "text": "Angio-TC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 361,
+      "end": 391
+    },
+    {
+      "text": "Tmax",
+      "type": "MEDIDA",
+      "start": 1106,
+      "end": 1110
+    },
+    {
+      "text": "episodio hipotensivo previo",
+      "type": "TEMPORALIDAD",
+      "start": 2145,
+      "end": 2172
+    }
+  ]
+}

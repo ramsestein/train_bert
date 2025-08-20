@@ -1,0 +1,83 @@
+{
+  "document_id": "informe_sintetico_20250804195045_03416",
+  "entities": [
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 458,
+      "end": 481
+    },
+    {
+      "text": "hemorragia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 458,
+      "end": 468
+    },
+    {
+      "text": "edema",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 504,
+      "end": 509
+    },
+    {
+      "text": "ASPECTS 9",
+      "type": "PUNTUACION_CLINICA",
+      "start": 600,
+      "end": 609
+    },
+    {
+      "text": "TTP",
+      "type": "MEDIDA",
+      "start": 751,
+      "end": 754
+    },
+    {
+      "text": "CBF",
+      "type": "MEDIDA",
+      "start": 782,
+      "end": 785
+    },
+    {
+      "text": "arteria cerebral media",
+      "type": "ARTERIA",
+      "start": 806,
+      "end": 828
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 854,
+      "end": 863
+    },
+    {
+      "text": "M2/M3",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 847,
+      "end": 852
+    },
+    {
+      "text": "Oclusión focal",
+      "type": "PATOLOGIA",
+      "start": 1015,
+      "end": 1029
+    },
+    {
+      "text": "oclusión",
+      "type": "PATOLOGIA",
+      "start": 1402,
+      "end": 1410
+    },
+    {
+      "text": "Isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 1305,
+      "end": 1319
+    },
+    {
+      "text": "ASPECTS de 9",
+      "type": "PUNTUACION_CLINICA",
+      "start": 1441,
+      "end": 1453
+    }
+  ]
+}

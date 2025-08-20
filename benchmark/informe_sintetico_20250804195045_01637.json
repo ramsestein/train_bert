@@ -1,0 +1,53 @@
+{
+  "document_id": "informe_sintetico_20250804195045_01637",
+  "entities": [
+    {
+      "text": "hematoma lobar frontal izquierdo",
+      "type": "PATOLOGIA",
+      "start": 533,
+      "end": 565
+    },
+    {
+      "text": "frontal izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 548,
+      "end": 565
+    },
+    {
+      "text": "25 x 18 mm",
+      "type": "MEDIDA",
+      "start": 644,
+      "end": 654
+    },
+    {
+      "text": "agudo",
+      "type": "TEMPORALIDAD",
+      "start": 186,
+      "end": 191
+    },
+    {
+      "text": "No se observan otras hemorragias intra ni extraaxiales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 809,
+      "end": 863
+    },
+    {
+      "text": "No se observan malformaciones vasculares asociadas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1394,
+      "end": 1444
+    },
+    {
+      "text": "sin signos de estenosis o aneurismas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1356,
+      "end": 1392
+    },
+    {
+      "text": "Perfusión cerebral alterada en región adyacente al hematoma",
+      "type": "PATOLOGIA",
+      "start": 1798,
+      "end": 1857
+    }
+  ]
+}

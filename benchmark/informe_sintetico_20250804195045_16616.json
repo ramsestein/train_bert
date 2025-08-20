@@ -1,0 +1,149 @@
+{
+  "document_id": "informe_sintetico_20250804195045_16616",
+  "entities": [
+    {
+      "text": "isquemia vertebrobasilar",
+      "type": "PATOLOGIA",
+      "start": 258,
+      "end": 282
+    },
+    {
+      "text": "No se identifican hemorragias intra ni extraaxiales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 529,
+      "end": 580
+    },
+    {
+      "text": "No se observan signos evidentes de infarto hipodenso en territorio vertebrobasilar",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 582,
+      "end": 664
+    },
+    {
+      "text": "territorio cerebeloso bilateral",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 914,
+      "end": 945
+    },
+    {
+      "text": "tronco encefálico",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 948,
+      "end": 965
+    },
+    {
+      "text": "hipoperfusión en territorio vertebrobasilar",
+      "type": "PATOLOGIA",
+      "start": 982,
+      "end": 1025
+    },
+    {
+      "text": "Volumen cerebral (CBV)",
+      "type": "MEDIDA",
+      "start": 1027,
+      "end": 1049
+    },
+    {
+      "text": "flujo cerebral (CBF)",
+      "type": "MEDIDA",
+      "start": 1052,
+      "end": 1072
+    },
+    {
+      "text": "disminución moderada",
+      "type": "MEDIDA",
+      "start": 1083,
+      "end": 1103
+    },
+    {
+      "text": "penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1185,
+      "end": 1203
+    },
+    {
+      "text": "Oclusión subtotal proximal de la arteria basilar",
+      "type": "PATOLOGIA",
+      "start": 1239,
+      "end": 1287
+    },
+    {
+      "text": "arteria basilar proximal",
+      "type": "ARTERIA",
+      "start": 1717,
+      "end": 1741
+    },
+    {
+      "text": "La arteria vertebral derecha es dominante",
+      "type": "ARTERIA",
+      "start": 1347,
+      "end": 1388
+    },
+    {
+      "text": "la izquierda hipoplásica",
+      "type": "ARTERIA",
+      "start": 1390,
+      "end": 1414
+    },
+    {
+      "text": "No se observan estenosis significativas ni placas calcificadas relevantes a nivel de las carótidas ni troncos supraaórticos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1416,
+      "end": 1539
+    },
+    {
+      "text": "No se identifican aneurismas ni malformaciones vasculares",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1541,
+      "end": 1598
+    },
+    {
+      "text": "isquemia aguda en territorio vertebrobasilar",
+      "type": "PATOLOGIA",
+      "start": 1650,
+      "end": 1694
+    },
+    {
+      "text": "arteria basilar proximal",
+      "type": "ARTERIA",
+      "start": 1717,
+      "end": 1741
+    },
+    {
+      "text": "penumbra isquémica en tronco encefálico y cerebelo bilateral",
+      "type": "PATOLOGIA",
+      "start": 1807,
+      "end": 1867
+    },
+    {
+      "text": "sin evidencia de lesión establecida (core)",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1869,
+      "end": 1911
+    },
+    {
+      "text": "No hemorragias ni otras complicaciones visibles",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1913,
+      "end": 1960
+    },
+    {
+      "text": "TC craneal basal sin contraste",
+      "type": "TECNICA_IMAGEN",
+      "start": 303,
+      "end": 333
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 346,
+      "end": 367
+    },
+    {
+      "text": "AngioTC de vasos intracraneales y extra-craneales con contraste intravenoso",
+      "type": "TECNICA_IMAGEN",
+      "start": 370,
+      "end": 445
+    }
+  ]
+}

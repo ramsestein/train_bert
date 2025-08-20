@@ -1,0 +1,95 @@
+{
+  "document_id": "informe_sintetico_20250804195045_08642",
+  "entities": [
+    {
+      "text": "trombosis venosa cerebral",
+      "type": "PATOLOGIA",
+      "start": 271,
+      "end": 296
+    },
+    {
+      "text": "seno longitudinal superior",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 523,
+      "end": 549
+    },
+    {
+      "text": "senos transversos",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 555,
+      "end": 572
+    },
+    {
+      "text": "seno longitudinal superior",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 523,
+      "end": 549
+    },
+    {
+      "text": "seno transverso derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1385,
+      "end": 1408
+    },
+    {
+      "text": "seno transverso izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1431,
+      "end": 1456
+    },
+    {
+      "text": "edema vasogénico",
+      "type": "PATOLOGIA",
+      "start": 641,
+      "end": 657
+    },
+    {
+      "text": "sin hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1730,
+      "end": 1757
+    },
+    {
+      "text": "sin evidencia de estenosis ni oclusión",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1247,
+      "end": 1285
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 317,
+      "end": 333
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 370,
+      "end": 391
+    },
+    {
+      "text": "angio-TC venosa",
+      "type": "TECNICA_IMAGEN",
+      "start": 393,
+      "end": 408
+    },
+    {
+      "text": "prolongación del tiempo de tránsito (TTP)",
+      "type": "PATOLOGIA",
+      "start": 866,
+      "end": 907
+    },
+    {
+      "text": "reducción del flujo sanguíneo cerebral (CBF)",
+      "type": "PATOLOGIA",
+      "start": 910,
+      "end": 954
+    },
+    {
+      "text": "aumento discreto del volumen sanguíneo cerebral (CBV)",
+      "type": "PATOLOGIA",
+      "start": 1030,
+      "end": 1083
+    }
+  ]
+}

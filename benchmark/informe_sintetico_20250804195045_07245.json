@@ -1,0 +1,227 @@
+{
+  "document_id": "informe_sintetico_20250804195045_07245",
+  "entities": [
+    {
+      "text": "accidente cerebrovascular isquémico",
+      "type": "PATOLOGIA",
+      "start": 189,
+      "end": 224
+    },
+    {
+      "text": "48 horas",
+      "type": "TEMPORALIDAD",
+      "start": 247,
+      "end": 255
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 319,
+      "end": 335
+    },
+    {
+      "text": "contraste",
+      "type": "TECNICA_IMAGEN",
+      "start": 346,
+      "end": 355
+    },
+    {
+      "text": "TC de perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 357,
+      "end": 381
+    },
+    {
+      "text": "Angio-TC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 384,
+      "end": 414
+    },
+    {
+      "text": "área hipodensa",
+      "type": "PATOLOGIA",
+      "start": 502,
+      "end": 516
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "ARTERIA",
+      "start": 537,
+      "end": 567
+    },
+    {
+      "text": "infarto cerebral subagudo",
+      "type": "PATOLOGIA",
+      "start": 584,
+      "end": 609
+    },
+    {
+      "text": "múltiples focos hiperdensos puntiformes y lineales",
+      "type": "PATOLOGIA",
+      "start": 627,
+      "end": 677
+    },
+    {
+      "text": "sangrado petequial",
+      "type": "PATOLOGIA",
+      "start": 694,
+      "end": 712
+    },
+    {
+      "text": "transformación hemorrágica tipo PH1",
+      "type": "PATOLOGIA",
+      "start": 733,
+      "end": 768
+    },
+    {
+      "text": "No se observan colecciones hemáticas voluminosas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 770,
+      "end": 818
+    },
+    {
+      "text": "ni masas expansivas significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 819,
+      "end": 853
+    },
+    {
+      "text": "leve edema perilesional",
+      "type": "PATOLOGIA",
+      "start": 866,
+      "end": 889
+    },
+    {
+      "text": "mínimo efecto de masa local",
+      "type": "PATOLOGIA",
+      "start": 894,
+      "end": 921
+    },
+    {
+      "text": "sin desplazamiento de la línea media",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 923,
+      "end": 959
+    },
+    {
+      "text": "No hay evidencia de hemorragia subaracnoidea",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 961,
+      "end": 1005
+    },
+    {
+      "text": "ni intraventricular",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1006,
+      "end": 1025
+    },
+    {
+      "text": "disminución significativa del flujo sanguíneo cerebral",
+      "type": "PATOLOGIA",
+      "start": 1066,
+      "end": 1120
+    },
+    {
+      "text": "aumento del tiempo de tránsito medio",
+      "type": "PATOLOGIA",
+      "start": 1129,
+      "end": 1165
+    },
+    {
+      "text": "sin zonas de penumbra significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1199,
+      "end": 1235
+    },
+    {
+      "text": "permeabilidad de los grandes vasos cerebrales",
+      "type": "PATOLOGIA",
+      "start": 1279,
+      "end": 1324
+    },
+    {
+      "text": "sin obstrucciones ni estenosis severas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1326,
+      "end": 1364
+    },
+    {
+      "text": "en la circulación anterior o posterior",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1365,
+      "end": 1403
+    },
+    {
+      "text": "No se identifican aneurismas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1405,
+      "end": 1433
+    },
+    {
+      "text": "ni malformaciones vasculares",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1434,
+      "end": 1462
+    },
+    {
+      "text": "Infarto cerebral en territorio de la ACM derecha",
+      "type": "PATOLOGIA",
+      "start": 1487,
+      "end": 1535
+    },
+    {
+      "text": "transformación hemorrágica petequial tipo PH1",
+      "type": "PATOLOGIA",
+      "start": 1540,
+      "end": 1585
+    },
+    {
+      "text": "sin complicaciones hemorrágicas mayores",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1587,
+      "end": 1626
+    },
+    {
+      "text": "ni efecto de masa relevante",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1627,
+      "end": 1654
+    },
+    {
+      "text": "Perfusión cerebral compatible con área isquémica establecida",
+      "type": "PATOLOGIA",
+      "start": 1656,
+      "end": 1716
+    },
+    {
+      "text": "sin penumbra",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1717,
+      "end": 1729
+    },
+    {
+      "text": "Vascularización intracraneal conservada",
+      "type": "PATOLOGIA",
+      "start": 1731,
+      "end": 1770
+    },
+    {
+      "text": "Transformación hemorrágica PH1 en infarto cerebral hemisférico derecho",
+      "type": "PATOLOGIA",
+      "start": 2002,
+      "end": 2072
+    },
+    {
+      "text": "sin hematoma expansivo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2073,
+      "end": 2095
+    },
+    {
+      "text": "ni complicaciones hemorrágicas intracraneales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2096,
+      "end": 2141
+    }
+  ]
+}

@@ -1,0 +1,179 @@
+{
+  "document_id": "informe_sintetico_20250804195045_02095",
+  "entities": [
+    {
+      "text": "microhemorragias puntiformes",
+      "type": "PATOLOGIA",
+      "start": 627,
+      "end": 655
+    },
+    {
+      "text": "sangrado intraparenquimatoso mayor",
+      "type": "PATOLOGIA",
+      "start": 684,
+      "end": 718
+    },
+    {
+      "text": "hematomas",
+      "type": "PATOLOGIA",
+      "start": 722,
+      "end": 731
+    },
+    {
+      "text": "infarto agudo",
+      "type": "PATOLOGIA",
+      "start": 776,
+      "end": 789
+    },
+    {
+      "text": "lesiones expansivas",
+      "type": "PATOLOGIA",
+      "start": 806,
+      "end": 825
+    },
+    {
+      "text": "masas",
+      "type": "PATOLOGIA",
+      "start": 829,
+      "end": 834
+    },
+    {
+      "text": "sustancia blanca profunda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 565,
+      "end": 590
+    },
+    {
+      "text": "ganglios basales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 593,
+      "end": 609
+    },
+    {
+      "text": "sistema ventricular",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 839,
+      "end": 858
+    },
+    {
+      "text": "línea media",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 919,
+      "end": 930
+    },
+    {
+      "text": "Cisternas basales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 932,
+      "end": 949
+    },
+    {
+      "text": "TTP",
+      "type": "MEDIDA",
+      "start": 1015,
+      "end": 1018
+    },
+    {
+      "text": "CBV",
+      "type": "MEDIDA",
+      "start": 1049,
+      "end": 1052
+    },
+    {
+      "text": "CBF",
+      "type": "MEDIDA",
+      "start": 1082,
+      "end": 1085
+    },
+    {
+      "text": "hemorragia mayor",
+      "type": "PATOLOGIA",
+      "start": 1599,
+      "end": 1615
+    },
+    {
+      "text": "infarto agudo asociado",
+      "type": "PATOLOGIA",
+      "start": 1619,
+      "end": 1641
+    },
+    {
+      "text": "alteraciones hemodinámicas significativas",
+      "type": "PATOLOGIA",
+      "start": 1691,
+      "end": 1732
+    },
+    {
+      "text": "estenosis arteriales relevantes",
+      "type": "PATOLOGIA",
+      "start": 1736,
+      "end": 1767
+    },
+    {
+      "text": "principales arterias cerebrales",
+      "type": "ARTERIA",
+      "start": 1353,
+      "end": 1384
+    },
+    {
+      "text": "ACAs",
+      "type": "ARTERIA",
+      "start": 1386,
+      "end": 1390
+    },
+    {
+      "text": "ACMs",
+      "type": "ARTERIA",
+      "start": 1392,
+      "end": 1396
+    },
+    {
+      "text": "ACPs",
+      "type": "ARTERIA",
+      "start": 1398,
+      "end": 1402
+    },
+    {
+      "text": "sin signos de estenosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1247,
+      "end": 1270
+    },
+    {
+      "text": "sin áreas con alteración de la perfusión cerebral significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1114,
+      "end": 1177
+    },
+    {
+      "text": "sin hemorragia mayor",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1595,
+      "end": 1615
+    },
+    {
+      "text": "sin alteraciones hemodinámicas significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1687,
+      "end": 1732
+    },
+    {
+      "text": "TC craneal basal no contrastada",
+      "type": "TECNICA_IMAGEN",
+      "start": 348,
+      "end": 379
+    },
+    {
+      "text": "estudio de perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 381,
+      "end": 410
+    },
+    {
+      "text": "angio-TC arterial extra e intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 413,
+      "end": 451
+    }
+  ]
+}

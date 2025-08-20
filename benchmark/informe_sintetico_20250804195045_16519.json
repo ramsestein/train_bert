@@ -1,0 +1,107 @@
+{
+  "document_id": "informe_sintetico_20250804195045_16519",
+  "entities": [
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 260,
+      "end": 274
+    },
+    {
+      "text": "arteria cerebral anterior",
+      "type": "ARTERIA",
+      "start": 292,
+      "end": 317
+    },
+    {
+      "text": "izquierdo",
+      "type": "LATERALIDAD",
+      "start": 206,
+      "end": 215
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 673,
+      "end": 680
+    },
+    {
+      "text": "8/10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 856,
+      "end": 860
+    },
+    {
+      "text": "leve hipodensidad",
+      "type": "PATOLOGIA",
+      "start": 606,
+      "end": 623
+    },
+    {
+      "text": "arteria cerebral anterior derecha",
+      "type": "ARTERIA",
+      "start": 647,
+      "end": 680
+    },
+    {
+      "text": "core",
+      "type": "PATOLOGIA",
+      "start": 1334,
+      "end": 1338
+    },
+    {
+      "text": "penumbra",
+      "type": "PATOLOGIA",
+      "start": 1180,
+      "end": 1188
+    },
+    {
+      "text": "Oclusión parcial",
+      "type": "PATOLOGIA",
+      "start": 1422,
+      "end": 1438
+    },
+    {
+      "text": "segmento proximal de arteria cerebral anterior derecha (A2)",
+      "type": "ARTERIA",
+      "start": 1442,
+      "end": 1501
+    },
+    {
+      "text": "sin visualización clara del ramo pericalloso",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1533,
+      "end": 1577
+    },
+    {
+      "text": "No se observan hemorragias agudas intra o extraaxiales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 539,
+      "end": 593
+    },
+    {
+      "text": "No se identifican signos hemorrágicos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2047,
+      "end": 2084
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 368,
+      "end": 384
+    },
+    {
+      "text": "TC perfusión",
+      "type": "TECNICA_IMAGEN",
+      "start": 411,
+      "end": 423
+    },
+    {
+      "text": "AngioTC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 435,
+      "end": 464
+    }
+  ]
+}

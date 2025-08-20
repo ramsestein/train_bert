@@ -1,0 +1,83 @@
+{
+  "document_id": "informe_sintetico_20250804195045_10263",
+  "entities": [
+    {
+      "text": "hemorragia petequial",
+      "type": "PATOLOGIA",
+      "start": 654,
+      "end": 674
+    },
+    {
+      "text": "transformación hemorrágica tipo HI1",
+      "type": "PATOLOGIA",
+      "start": 691,
+      "end": 726
+    },
+    {
+      "text": "área isquémica subaguda",
+      "type": "PATOLOGIA",
+      "start": 869,
+      "end": 892
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 240,
+      "end": 270
+    },
+    {
+      "text": "ACM",
+      "type": "ARTERIA",
+      "start": 1233,
+      "end": 1236
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 263,
+      "end": 270
+    },
+    {
+      "text": "subaguda",
+      "type": "TEMPORALIDAD",
+      "start": 884,
+      "end": 892
+    },
+    {
+      "text": "sin oclusiones ni estenosis significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1546,
+      "end": 1588
+    },
+    {
+      "text": "sin hallazgos de trombosis o estenosis intracraneales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1982,
+      "end": 2035
+    },
+    {
+      "text": "sin signos de hiperemia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2095,
+      "end": 2118
+    },
+    {
+      "text": "TC craneal basal urgente + perfusión cerebral + angioTC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 346,
+      "end": 423
+    },
+    {
+      "text": "TC PERFUSIÓN",
+      "type": "TECNICA_IMAGEN",
+      "start": 1097,
+      "end": 1109
+    },
+    {
+      "text": "ANGIO-TC INTRACRANEAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 1482,
+      "end": 1503
+    }
+  ]
+}

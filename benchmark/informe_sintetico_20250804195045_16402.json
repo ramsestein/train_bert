@@ -1,0 +1,263 @@
+{
+  "document_id": "informe_sintetico_20250804195045_16402",
+  "entities": [
+    {
+      "text": "ictus isquémico",
+      "type": "PATOLOGIA",
+      "start": 257,
+      "end": 272
+    },
+    {
+      "text": "arteria cerebral media",
+      "type": "ARTERIA",
+      "start": 290,
+      "end": 312
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 732,
+      "end": 741
+    },
+    {
+      "text": "hemorragias intra ni extraaxiales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 539,
+      "end": 572
+    },
+    {
+      "text": "hipodensidad leve",
+      "type": "PATOLOGIA",
+      "start": 585,
+      "end": 602
+    },
+    {
+      "text": "desdiferenciación cortico-subcortical",
+      "type": "PATOLOGIA",
+      "start": 605,
+      "end": 642
+    },
+    {
+      "text": "segmentos M2/M3",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 687,
+      "end": 702
+    },
+    {
+      "text": "arteria cerebral media",
+      "type": "ARTERIA",
+      "start": 290,
+      "end": 312
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 732,
+      "end": 741
+    },
+    {
+      "text": "ASPECTS 9",
+      "type": "PUNTUACION_CLINICA",
+      "start": 747,
+      "end": 756
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 773,
+      "end": 787
+    },
+    {
+      "text": "Sistema ventricular en posición central",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 811,
+      "end": 850
+    },
+    {
+      "text": "sin signos de efecto de masa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 852,
+      "end": 880
+    },
+    {
+      "text": "Cisternas basales libres",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 882,
+      "end": 906
+    },
+    {
+      "text": "retraso focalizado",
+      "type": "PATOLOGIA",
+      "start": 995,
+      "end": 1013
+    },
+    {
+      "text": "región fronto-parietal izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1017,
+      "end": 1049
+    },
+    {
+      "text": "disminución de perfusión",
+      "type": "PATOLOGIA",
+      "start": 1065,
+      "end": 1089
+    },
+    {
+      "text": "Flujo cerebral (CBF) reducido",
+      "type": "PATOLOGIA",
+      "start": 1091,
+      "end": 1120
+    },
+    {
+      "text": "volumen cerebral (CBV) preservado",
+      "type": "PATOLOGIA",
+      "start": 1143,
+      "end": 1176
+    },
+    {
+      "text": "mismatch perfusión-volumen",
+      "type": "PATOLOGIA",
+      "start": 1191,
+      "end": 1217
+    },
+    {
+      "text": "Ateromatosis leve",
+      "type": "PATOLOGIA",
+      "start": 1310,
+      "end": 1327
+    },
+    {
+      "text": "sin estenosis significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1328,
+      "end": 1355
+    },
+    {
+      "text": "Arterias carótidas internas permeables",
+      "type": "PATOLOGIA",
+      "start": 1399,
+      "end": 1437
+    },
+    {
+      "text": "sin estenosis significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1328,
+      "end": 1355
+    },
+    {
+      "text": "Oclusión trombótica focal",
+      "type": "PATOLOGIA",
+      "start": 1467,
+      "end": 1492
+    },
+    {
+      "text": "segmento distal M2",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1496,
+      "end": 1514
+    },
+    {
+      "text": "arteria cerebral media",
+      "type": "ARTERIA",
+      "start": 290,
+      "end": 312
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 732,
+      "end": 741
+    },
+    {
+      "text": "ausencia de contraste",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1556,
+      "end": 1577
+    },
+    {
+      "text": "Resto de vasos intracraneales permeables",
+      "type": "PATOLOGIA",
+      "start": 1597,
+      "end": 1637
+    },
+    {
+      "text": "sin otras áreas de estenosis u oclusión",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1639,
+      "end": 1678
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1717,
+      "end": 1740
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 773,
+      "end": 787
+    },
+    {
+      "text": "territorio distal de arteria cerebral media izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1772,
+      "end": 1825
+    },
+    {
+      "text": "segmentos M2/M3",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 687,
+      "end": 702
+    },
+    {
+      "text": "ASPECTS 9",
+      "type": "PUNTUACION_CLINICA",
+      "start": 747,
+      "end": 756
+    },
+    {
+      "text": "extensión limitada",
+      "type": "PATOLOGIA",
+      "start": 791,
+      "end": 809
+    },
+    {
+      "text": "área de penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1921,
+      "end": 1947
+    },
+    {
+      "text": "volumen cerebral preservado",
+      "type": "PATOLOGIA",
+      "start": 1952,
+      "end": 1979
+    },
+    {
+      "text": "Oclusión trombótica",
+      "type": "PATOLOGIA",
+      "start": 1467,
+      "end": 1486
+    },
+    {
+      "text": "segmento distal M2",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1496,
+      "end": 1514
+    },
+    {
+      "text": "ACM izquierda",
+      "type": "ARTERIA",
+      "start": 2028,
+      "end": 2041
+    },
+    {
+      "text": "confirmada en estudio angiográfico",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2042,
+      "end": 2076
+    }
+  ]
+}

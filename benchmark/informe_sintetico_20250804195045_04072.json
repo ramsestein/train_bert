@@ -1,0 +1,131 @@
+{
+  "document_id": "informe_sintetico_20250804195045_04072",
+  "entities": [
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 274,
+      "end": 288
+    },
+    {
+      "text": "isquemia incipiente",
+      "type": "PATOLOGIA",
+      "start": 687,
+      "end": 706
+    },
+    {
+      "text": "penumbra isquémica activa",
+      "type": "PATOLOGIA",
+      "start": 1093,
+      "end": 1118
+    },
+    {
+      "text": "infarto establecido",
+      "type": "PATOLOGIA",
+      "start": 1189,
+      "end": 1208
+    },
+    {
+      "text": "estenosis significativa",
+      "type": "PATOLOGIA",
+      "start": 2228,
+      "end": 2251
+    },
+    {
+      "text": "arteria vertebral derecha",
+      "type": "ARTERIA",
+      "start": 1299,
+      "end": 1324
+    },
+    {
+      "text": "bulbo derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 657,
+      "end": 670
+    },
+    {
+      "text": "protuberancia derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 925,
+      "end": 946
+    },
+    {
+      "text": "arteria basilar proximal",
+      "type": "ARTERIA",
+      "start": 1358,
+      "end": 1382
+    },
+    {
+      "text": "arteria vertebral izquierda",
+      "type": "ARTERIA",
+      "start": 1387,
+      "end": 1414
+    },
+    {
+      "text": "70%",
+      "type": "MEDIDA",
+      "start": 1269,
+      "end": 1272
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 939,
+      "end": 946
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 939,
+      "end": 946
+    },
+    {
+      "text": "sin infarto establecido",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1870,
+      "end": 1893
+    },
+    {
+      "text": "No se evidencian hemorragias intra ni extraaxiales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 552,
+      "end": 602
+    },
+    {
+      "text": "No se observan áreas con reducción significativa de CBV",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1120,
+      "end": 1175
+    },
+    {
+      "text": "No hay hemorragias",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1895,
+      "end": 1913
+    },
+    {
+      "text": "TC CÓDIGO ICTUS",
+      "type": "TECNICA_IMAGEN",
+      "start": 339,
+      "end": 354
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 367,
+      "end": 383
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 385,
+      "end": 406
+    },
+    {
+      "text": "AngioTC de troncos supraórticos e intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 409,
+      "end": 455
+    }
+  ]
+}

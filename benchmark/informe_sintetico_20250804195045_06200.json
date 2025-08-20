@@ -1,0 +1,71 @@
+{
+  "document_id": "informe_sintetico_20250804195045_06200",
+  "entities": [
+    {
+      "text": "isquemia cerebral",
+      "type": "PATOLOGIA",
+      "start": 353,
+      "end": 370
+    },
+    {
+      "text": "infarto isquémico",
+      "type": "PATOLOGIA",
+      "start": 734,
+      "end": 751
+    },
+    {
+      "text": "regiones parietoccipitales bilaterales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 616,
+      "end": 654
+    },
+    {
+      "text": "territorios de watershed corticales y subcorticales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 755,
+      "end": 806
+    },
+    {
+      "text": "arterias cerebrales anterior y media",
+      "type": "ARTERIA",
+      "start": 1341,
+      "end": 1377
+    },
+    {
+      "text": "arteria cerebral anterior derecha",
+      "type": "ARTERIA",
+      "start": 1725,
+      "end": 1758
+    },
+    {
+      "text": "bilaterales",
+      "type": "LATERALIDAD",
+      "start": 643,
+      "end": 654
+    },
+    {
+      "text": "moderada",
+      "type": "MEDIDA",
+      "start": 1688,
+      "end": 1696
+    },
+    {
+      "text": "sin hemorragia ni edema masivo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2754,
+      "end": 2784
+    },
+    {
+      "text": "sin oclusión completa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2304,
+      "end": 2325
+    },
+    {
+      "text": "TC craneal basal sin contraste + TC perfusión cerebral + Angio-TC arterial intracraneal urgente",
+      "type": "TECNICA_IMAGEN",
+      "start": 415,
+      "end": 510
+    }
+  ]
+}

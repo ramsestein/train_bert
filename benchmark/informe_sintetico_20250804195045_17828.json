@@ -1,0 +1,131 @@
+{
+  "document_id": "informe_sintetico_20250804195045_17828",
+  "entities": [
+    {
+      "text": "hemiparesia izquierda",
+      "type": "PATOLOGIA",
+      "start": 207,
+      "end": 228
+    },
+    {
+      "text": "accidente isquémico agudo",
+      "type": "PATOLOGIA",
+      "start": 279,
+      "end": 304
+    },
+    {
+      "text": "arteria cerebral media",
+      "type": "ARTERIA",
+      "start": 322,
+      "end": 344
+    },
+    {
+      "text": "3 horas",
+      "type": "TEMPORALIDAD",
+      "start": 258,
+      "end": 265
+    },
+    {
+      "text": "No se identifica hemorragia intra ni extraaxial.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 503,
+      "end": 551
+    },
+    {
+      "text": "ASPECTS 9",
+      "type": "PUNTUACION_CLINICA",
+      "start": 604,
+      "end": 613
+    },
+    {
+      "text": "No se observan áreas evidentes de infarto establecido.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 617,
+      "end": 671
+    },
+    {
+      "text": "aumento en los mapas de tiempo de tránsito (TTP y TTD) en región parietal derecha",
+      "type": "PATOLOGIA",
+      "start": 781,
+      "end": 862
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "ARTERIA",
+      "start": 927,
+      "end": 957
+    },
+    {
+      "text": "disminución del flujo cerebral (CBF)",
+      "type": "PATOLOGIA",
+      "start": 970,
+      "end": 1006
+    },
+    {
+      "text": "aumento del volumen cerebral (CBV)",
+      "type": "PATOLOGIA",
+      "start": 1009,
+      "end": 1043
+    },
+    {
+      "text": "mismatch isquémico significativo",
+      "type": "PATOLOGIA",
+      "start": 1083,
+      "end": 1115
+    },
+    {
+      "text": "penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1139,
+      "end": 1157
+    },
+    {
+      "text": "Oclusión focal en segmentación distal M2/M3 de arteria cerebral media derecha",
+      "type": "PATOLOGIA",
+      "start": 1195,
+      "end": 1272
+    },
+    {
+      "text": "ausencia de llenado del contraste en dicha zona",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1278,
+      "end": 1325
+    },
+    {
+      "text": "No se evidencian placas ateromatosas significativas ni estenosis en los troncos supraórticos.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1393,
+      "end": 1486
+    },
+    {
+      "text": "Sistema vertebrobasilar sin alteraciones.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1487,
+      "end": 1528
+    },
+    {
+      "text": "TC basal sin hemorragias ni infartos establecidos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1556,
+      "end": 1605
+    },
+    {
+      "text": "ASPECTS 9",
+      "type": "PUNTUACION_CLINICA",
+      "start": 604,
+      "end": 613
+    },
+    {
+      "text": "Alteraciones de perfusión compatibles con penumbra isquémica en territorio cortical derecho de arteria cerebral media distal (M2/M3)",
+      "type": "PATOLOGIA",
+      "start": 1621,
+      "end": 1753
+    },
+    {
+      "text": "Oclusión focal en segmento distal M2/M3 de ACM derecha confirmada en AngioTC.",
+      "type": "PATOLOGIA",
+      "start": 1757,
+      "end": 1834
+    }
+  ]
+}

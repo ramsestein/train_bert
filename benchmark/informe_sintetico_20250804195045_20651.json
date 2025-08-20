@@ -1,0 +1,83 @@
+{
+  "document_id": "informe_sintetico_20250804195045_20651",
+  "entities": [
+    {
+      "text": "hemorragia petequial mínima",
+      "type": "PATOLOGIA",
+      "start": 689,
+      "end": 716
+    },
+    {
+      "text": "menor de 10 mm",
+      "type": "MEDIDA",
+      "start": 718,
+      "end": 732
+    },
+    {
+      "text": "infarto isquémico reciente",
+      "type": "PATOLOGIA",
+      "start": 827,
+      "end": 853
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 644,
+      "end": 651
+    },
+    {
+      "text": "arteria cerebral media",
+      "type": "ARTERIA",
+      "start": 621,
+      "end": 643
+    },
+    {
+      "text": "disminución del flujo cerebral (CBF)",
+      "type": "PATOLOGIA",
+      "start": 1139,
+      "end": 1175
+    },
+    {
+      "text": "volumen cerebral (CBV)",
+      "type": "PATOLOGIA",
+      "start": 1178,
+      "end": 1200
+    },
+    {
+      "text": "zona infartada",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1344,
+      "end": 1358
+    },
+    {
+      "text": "arterias cerebrales principales",
+      "type": "ARTERIA",
+      "start": 1493,
+      "end": 1524
+    },
+    {
+      "text": "sin evidencia de trombosis ni estenosis significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1537,
+      "end": 1590
+    },
+    {
+      "text": "sin estenosis significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1662,
+      "end": 1689
+    },
+    {
+      "text": "Transformación hemorrágica tipo HI1",
+      "type": "PATOLOGIA",
+      "start": 1804,
+      "end": 1839
+    },
+    {
+      "text": "territorio de la arteria cerebral media derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 604,
+      "end": 651
+    }
+  ]
+}

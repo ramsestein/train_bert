@@ -1,0 +1,95 @@
+{
+  "document_id": "informe_sintetico_20250804195045_13921",
+  "entities": [
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 253,
+      "end": 267
+    },
+    {
+      "text": "bulbo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 637,
+      "end": 642
+    },
+    {
+      "text": "protuberancia inferior derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 645,
+      "end": 675
+    },
+    {
+      "text": "arteria vertebral derecha",
+      "type": "ARTERIA",
+      "start": 1186,
+      "end": 1211
+    },
+    {
+      "text": "arteria basilar",
+      "type": "ARTERIA",
+      "start": 1722,
+      "end": 1737
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 668,
+      "end": 675
+    },
+    {
+      "text": "estenosis significativa proximal",
+      "type": "PATOLOGIA",
+      "start": 1238,
+      "end": 1270
+    },
+    {
+      "text": "área isquémica en fase subaguda",
+      "type": "PATOLOGIA",
+      "start": 1813,
+      "end": 1844
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 342,
+      "end": 358
+    },
+    {
+      "text": "perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 374,
+      "end": 392
+    },
+    {
+      "text": "angiografía TC arterial extra e intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 395,
+      "end": 439
+    },
+    {
+      "text": "aumento del tiempo de tránsito medio (TTP)",
+      "type": "MEDIDA",
+      "start": 846,
+      "end": 888
+    },
+    {
+      "text": "reducción del flujo sanguíneo cerebral (CBF)",
+      "type": "MEDIDA",
+      "start": 891,
+      "end": 935
+    },
+    {
+      "text": "Volumen cerebral (CBV) ligeramente disminuido",
+      "type": "MEDIDA",
+      "start": 992,
+      "end": 1037
+    },
+    {
+      "text": "circulación colateral insuficiente",
+      "type": "PATOLOGIA",
+      "start": 1392,
+      "end": 1426
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "document_id": "informe_sintetico_20250804195045_13742",
+  "entities": [
+    {
+      "text": "infarto cerebral agudo",
+      "type": "PATOLOGIA",
+      "start": 727,
+      "end": 749
+    },
+    {
+      "text": "foco hemorrágico pequeño de tipo petequial",
+      "type": "PATOLOGIA",
+      "start": 765,
+      "end": 807
+    },
+    {
+      "text": "menos de 10 mm",
+      "type": "MEDIDA",
+      "start": 809,
+      "end": 823
+    },
+    {
+      "text": "región cortical izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 828,
+      "end": 853
+    },
+    {
+      "text": "transformación hemorrágica tipo HI1",
+      "type": "PATOLOGIA",
+      "start": 870,
+      "end": 905
+    },
+    {
+      "text": "No se observan hemorragias intraparenquimatosas extensas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 907,
+      "end": 963
+    },
+    {
+      "text": "No se observa oclusión ni estenosis significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1385,
+      "end": 1434
+    },
+    {
+      "text": "territorio de ACM izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1253,
+      "end": 1280
+    },
+    {
+      "text": "penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1355,
+      "end": 1373
+    },
+    {
+      "text": "No hay evidencias de hemorragia parenquimatosa extensa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1739,
+      "end": 1793
+    }
+  ]
+}

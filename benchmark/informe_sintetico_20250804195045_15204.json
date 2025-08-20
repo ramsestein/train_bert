@@ -1,0 +1,203 @@
+{
+  "document_id": "informe_sintetico_20250804195045_15204",
+  "entities": [
+    {
+      "text": "pérdida de diferenciación cortico-subcortical difusa",
+      "type": "PATOLOGIA",
+      "start": 593,
+      "end": 645
+    },
+    {
+      "text": "lóbulos frontales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 668,
+      "end": 685
+    },
+    {
+      "text": "región basal de los ganglios de la base",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 735,
+      "end": 774
+    },
+    {
+      "text": "sustancia blanca periventricular",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 780,
+      "end": 812
+    },
+    {
+      "text": "edema cerebral",
+      "type": "PATOLOGIA",
+      "start": 820,
+      "end": 834
+    },
+    {
+      "text": "hematomas",
+      "type": "PATOLOGIA",
+      "start": 896,
+      "end": 905
+    },
+    {
+      "text": "hemorragias intra ni extraaxiales",
+      "type": "PATOLOGIA",
+      "start": 909,
+      "end": 942
+    },
+    {
+      "text": "disminución de tamaño",
+      "type": "PATOLOGIA",
+      "start": 1014,
+      "end": 1035
+    },
+    {
+      "text": "volumen sanguíneo cerebral",
+      "type": "MEDIDA",
+      "start": 1138,
+      "end": 1164
+    },
+    {
+      "text": "flujo sanguíneo cerebral",
+      "type": "MEDIDA",
+      "start": 1177,
+      "end": 1201
+    },
+    {
+      "text": "tiempo de tránsito medio",
+      "type": "MEDIDA",
+      "start": 1242,
+      "end": 1266
+    },
+    {
+      "text": "tiempo hasta el pico",
+      "type": "MEDIDA",
+      "start": 1287,
+      "end": 1307
+    },
+    {
+      "text": "hipoperfusión difusa",
+      "type": "PATOLOGIA",
+      "start": 1329,
+      "end": 1349
+    },
+    {
+      "text": "Arterias intracraneales",
+      "type": "ARTERIA",
+      "start": 1551,
+      "end": 1574
+    },
+    {
+      "text": "oclusión",
+      "type": "PATOLOGIA",
+      "start": 1603,
+      "end": 1611
+    },
+    {
+      "text": "estenosis significativa",
+      "type": "PATOLOGIA",
+      "start": 1615,
+      "end": 1638
+    },
+    {
+      "text": "vasoespasmo",
+      "type": "PATOLOGIA",
+      "start": 1698,
+      "end": 1709
+    },
+    {
+      "text": "trombosis arterial aguda",
+      "type": "PATOLOGIA",
+      "start": 1713,
+      "end": 1737
+    },
+    {
+      "text": "ateromatosis leve",
+      "type": "PATOLOGIA",
+      "start": 1764,
+      "end": 1781
+    },
+    {
+      "text": "estrechamientos relevantes",
+      "type": "PATOLOGIA",
+      "start": 1787,
+      "end": 1813
+    },
+    {
+      "text": "encefalopatía hipóxico-isquémica difusa",
+      "type": "PATOLOGIA",
+      "start": 1866,
+      "end": 1905
+    },
+    {
+      "text": "parada cardiorrespiratoria reciente",
+      "type": "TEMPORALIDAD",
+      "start": 1919,
+      "end": 1954
+    },
+    {
+      "text": "pérdida de diferenciación cortico-subcortical",
+      "type": "PATOLOGIA",
+      "start": 593,
+      "end": 638
+    },
+    {
+      "text": "edema cerebral leve",
+      "type": "PATOLOGIA",
+      "start": 2003,
+      "end": 2022
+    },
+    {
+      "text": "perfusión global disminuida",
+      "type": "PATOLOGIA",
+      "start": 2025,
+      "end": 2052
+    },
+    {
+      "text": "oclusión arterial focal",
+      "type": "PATOLOGIA",
+      "start": 2071,
+      "end": 2094
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "PATOLOGIA",
+      "start": 2098,
+      "end": 2121
+    },
+    {
+      "text": "correlacionar con evolución clínica",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2137,
+      "end": 2172
+    },
+    {
+      "text": "valoración neurológica continua",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2175,
+      "end": 2206
+    },
+    {
+      "text": "TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANG IOTC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 72,
+      "end": 140
+    },
+    {
+      "text": "TC CÓDIGO ICTUS (BASAL + PERFUSIÓN CEREBRAL + ANGIOTC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 380,
+      "end": 456
+    },
+    {
+      "text": "TC PERFUSIÓN",
+      "type": "TECNICA_IMAGEN",
+      "start": 1068,
+      "end": 1080
+    },
+    {
+      "text": "ANGIO-TC EXTRA E INTRACRANEAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 1518,
+      "end": 1547
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "document_id": "informe_sintetico_20250804195045_24541",
+  "entities": [
+    {
+      "text": "accidente isquémico cerebral agudo",
+      "type": "PATOLOGIA",
+      "start": 222,
+      "end": 256
+    },
+    {
+      "text": "No se evidencian hemorragias intra o extraaxiales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 433,
+      "end": 482
+    },
+    {
+      "text": "ASPECTS 9",
+      "type": "PUNTUACION_CLINICA",
+      "start": 555,
+      "end": 564
+    },
+    {
+      "text": "No se observan hipodensidades extensas que sugieran infarto establecido",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 566,
+      "end": 637
+    },
+    {
+      "text": "área focal con aumento del tiempo de tránsito medio (TTP)",
+      "type": "PATOLOGIA",
+      "start": 775,
+      "end": 832
+    },
+    {
+      "text": "retraso del Tmax en la región parietal superior izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 835,
+      "end": 892
+    },
+    {
+      "text": "discreta reducción del flujo cerebral (CBF)",
+      "type": "PATOLOGIA",
+      "start": 898,
+      "end": 941
+    },
+    {
+      "text": "volumen de sangre cerebral (CBV) conservado",
+      "type": "PATOLOGIA",
+      "start": 944,
+      "end": 987
+    },
+    {
+      "text": "Oclusión segmentaria de la arteria cerebral media distal (segmentos M2/M3) izquierda",
+      "type": "PATOLOGIA",
+      "start": 1062,
+      "end": 1146
+    },
+    {
+      "text": "arteria cerebral media distal izquierda (segmentos M2/M3)",
+      "type": "ARTERIA",
+      "start": 1367,
+      "end": 1424
+    },
+    {
+      "text": "sin evidencia de otras oclusiones ni estenosis relevantes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1244,
+      "end": 1301
+    },
+    {
+      "text": "Isquemia cerebral aguda en territorio de arteria cerebral media distal izquierda (segmentos M2/M3)",
+      "type": "PATOLOGIA",
+      "start": 1326,
+      "end": 1424
+    },
+    {
+      "text": "área de penumbra isquémica identificada en perfusión",
+      "type": "PATOLOGIA",
+      "start": 1429,
+      "end": 1481
+    },
+    {
+      "text": "ASPECTS preservado (9)",
+      "type": "PUNTUACION_CLINICA",
+      "start": 1484,
+      "end": 1506
+    },
+    {
+      "text": "No signos de hemorragia intracraneal ni infarto establecido de gran extensión",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1508,
+      "end": 1585
+    },
+    {
+      "text": "Oclusión arterial cerebral media distal con área de penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1807,
+      "end": 1877
+    }
+  ]
+}

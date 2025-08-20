@@ -1,0 +1,157 @@
+{
+  "document_id": "informe_sintetico_20250804195045_08999",
+  "entities": [
+    {
+      "text": "ictus",
+      "type": "PATOLOGIA",
+      "start": 210,
+      "end": 215
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "PATOLOGIA",
+      "start": 406,
+      "end": 429
+    },
+    {
+      "text": "lesión isquémica aguda",
+      "type": "PATOLOGIA",
+      "start": 543,
+      "end": 565
+    },
+    {
+      "text": "alteraciones crónicas mínimas",
+      "type": "PATOLOGIA",
+      "start": 661,
+      "end": 690
+    },
+    {
+      "text": "cambios vasculares de pequeño vaso",
+      "type": "PATOLOGIA",
+      "start": 747,
+      "end": 781
+    },
+    {
+      "text": "sustancia blanca periventricular",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 697,
+      "end": 729
+    },
+    {
+      "text": "tiempo de tránsito (TTP)",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 937,
+      "end": 961
+    },
+    {
+      "text": "volumen cerebral sanguíneo (CBV)",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 963,
+      "end": 995
+    },
+    {
+      "text": "flujo cerebral sanguíneo (CBF)",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 998,
+      "end": 1028
+    },
+    {
+      "text": "troncos supraórticos",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1170,
+      "end": 1190
+    },
+    {
+      "text": "arterias cerebrales principales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1236,
+      "end": 1267
+    },
+    {
+      "text": "ACM",
+      "type": "ARTERIA",
+      "start": 1269,
+      "end": 1272
+    },
+    {
+      "text": "ACA",
+      "type": "ARTERIA",
+      "start": 1274,
+      "end": 1277
+    },
+    {
+      "text": "ACP",
+      "type": "ARTERIA",
+      "start": 1279,
+      "end": 1282
+    },
+    {
+      "text": "malformaciones",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1426,
+      "end": 1440
+    },
+    {
+      "text": "aneurismas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1443,
+      "end": 1453
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 637,
+      "end": 647
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 637,
+      "end": 647
+    },
+    {
+      "text": "sin hallazgos de patología aguda",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1486,
+      "end": 1518
+    },
+    {
+      "text": "TC",
+      "type": "TECNICA_IMAGEN",
+      "start": 72,
+      "end": 74
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 268,
+      "end": 284
+    },
+    {
+      "text": "TC PERFUSIÓN",
+      "type": "TECNICA_IMAGEN",
+      "start": 910,
+      "end": 922
+    },
+    {
+      "text": "ANGIO-TC EXTRA E INTRACRANEAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 1124,
+      "end": 1153
+    },
+    {
+      "text": "permeable",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1290,
+      "end": 1299
+    },
+    {
+      "text": "sin alteraciones significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1702,
+      "end": 1733
+    }
+  ],
+  "regenerado": true,
+  "fecha_regeneracion": "2025-08-06T13:23:09.764549"
+}

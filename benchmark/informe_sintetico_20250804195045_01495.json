@@ -1,0 +1,137 @@
+{
+  "document_id": "informe_sintetico_20250804195045_01495",
+  "entities": [
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 242,
+      "end": 256
+    },
+    {
+      "text": "territorio vertebrobasilar",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 260,
+      "end": 286
+    },
+    {
+      "text": "hemisférico izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 902,
+      "end": 923
+    },
+    {
+      "text": "pedúnculo cerebeloso medio ipsilateral",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 926,
+      "end": 964
+    },
+    {
+      "text": "CBF",
+      "type": "MEDIDA",
+      "start": 366,
+      "end": 369
+    },
+    {
+      "text": "CBV",
+      "type": "MEDIDA",
+      "start": 371,
+      "end": 374
+    },
+    {
+      "text": "Tmax",
+      "type": "MEDIDA",
+      "start": 382,
+      "end": 386
+    },
+    {
+      "text": "TTP",
+      "type": "MEDIDA",
+      "start": 376,
+      "end": 379
+    },
+    {
+      "text": "penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1088,
+      "end": 1106
+    },
+    {
+      "text": "Oclusión completa proximal de la arteria vertebral izquierda",
+      "type": "PATOLOGIA",
+      "start": 1233,
+      "end": 1293
+    },
+    {
+      "text": "arteria vertebral izquierda",
+      "type": "ARTERIA",
+      "start": 1266,
+      "end": 1293
+    },
+    {
+      "text": "arteria basilar",
+      "type": "ARTERIA",
+      "start": 1359,
+      "end": 1374
+    },
+    {
+      "text": "No se observa hemorragia intra ni extraaxial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 510,
+      "end": 554
+    },
+    {
+      "text": "No se identifican lesiones hipodensas claras",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 556,
+      "end": 600
+    },
+    {
+      "text": "No se detecta zona con reducción marcada de CBV",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1109,
+      "end": 1156
+    },
+    {
+      "text": "No hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1724,
+      "end": 1750
+    },
+    {
+      "text": "No infarto establecido evidente en TC basal ni perfusión CBV",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1968,
+      "end": 2028
+    },
+    {
+      "text": "aguda",
+      "type": "TEMPORALIDAD",
+      "start": 251,
+      "end": 256
+    },
+    {
+      "text": "izquierdo",
+      "type": "LATERALIDAD",
+      "start": 914,
+      "end": 923
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 1284,
+      "end": 1293
+    },
+    {
+      "text": "izquierdo",
+      "type": "LATERALIDAD",
+      "start": 914,
+      "end": 923
+    },
+    {
+      "text": "V2-V3",
+      "type": "MEDIDA",
+      "start": 1302,
+      "end": 1307
+    }
+  ]
+}

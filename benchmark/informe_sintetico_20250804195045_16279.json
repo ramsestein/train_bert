@@ -1,0 +1,119 @@
+{
+  "document_id": "informe_sintetico_20250804195045_16279",
+  "entities": [
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 209,
+      "end": 223
+    },
+    {
+      "text": "arteria cerebral posterior derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 241,
+      "end": 275
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 296,
+      "end": 312
+    },
+    {
+      "text": "hemorragias intra ni extraaxiales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 445,
+      "end": 478
+    },
+    {
+      "text": "área hipodensa cortical y subcortical en región occipital derecha",
+      "type": "PATOLOGIA",
+      "start": 491,
+      "end": 556
+    },
+    {
+      "text": "infarto isquémico agudo",
+      "type": "PATOLOGIA",
+      "start": 572,
+      "end": 595
+    },
+    {
+      "text": "territorio de ACP derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 599,
+      "end": 624
+    },
+    {
+      "text": "ASPECTS parcial (pc-ASPECTS) 8",
+      "type": "PUNTUACION_CLINICA",
+      "start": 709,
+      "end": 739
+    },
+    {
+      "text": "hemisferio derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1092,
+      "end": 1110
+    },
+    {
+      "text": "ACP",
+      "type": "ARTERIA",
+      "start": 613,
+      "end": 616
+    },
+    {
+      "text": "flujo sanguíneo cerebral (CBF)",
+      "type": "MEDIDA",
+      "start": 1171,
+      "end": 1201
+    },
+    {
+      "text": "volumen cerebral (CBV)",
+      "type": "MEDIDA",
+      "start": 1230,
+      "end": 1252
+    },
+    {
+      "text": "Oclusión completa del segmento P2 de la arteria cerebral posterior derecha",
+      "type": "PATOLOGIA",
+      "start": 1408,
+      "end": 1482
+    },
+    {
+      "text": "ausencia de flujo distal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1487,
+      "end": 1511
+    },
+    {
+      "text": "signos de vasculopatía o vasoconstricción",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1600,
+      "end": 1641
+    },
+    {
+      "text": "Ausencia de hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1668,
+      "end": 1703
+    },
+    {
+      "text": "área de penumbra viable",
+      "type": "PATOLOGIA",
+      "start": 1787,
+      "end": 1810
+    },
+    {
+      "text": "Oclusión trombótica del segmento P2 de ACP derecha",
+      "type": "PATOLOGIA",
+      "start": 1836,
+      "end": 1886
+    },
+    {
+      "text": "signos de edema masivo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1941,
+      "end": 1963
+    }
+  ]
+}

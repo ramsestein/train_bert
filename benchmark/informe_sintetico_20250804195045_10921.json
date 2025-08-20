@@ -1,0 +1,95 @@
+{
+  "document_id": "informe_sintetico_20250804195045_10921",
+  "entities": [
+    {
+      "text": "leucoencefalopatía posterior reversible (PRES)",
+      "type": "PATOLOGIA",
+      "start": 256,
+      "end": 302
+    },
+    {
+      "text": "parietal",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 572,
+      "end": 580
+    },
+    {
+      "text": "occipital",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 583,
+      "end": 592
+    },
+    {
+      "text": "bilateral",
+      "type": "LATERALIDAD",
+      "start": 593,
+      "end": 602
+    },
+    {
+      "text": "aguda",
+      "type": "TEMPORALIDAD",
+      "start": 1653,
+      "end": 1658
+    },
+    {
+      "text": "edema vasogénico",
+      "type": "PATOLOGIA",
+      "start": 891,
+      "end": 907
+    },
+    {
+      "text": "sin signos de infarto o hemorragia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1712,
+      "end": 1746
+    },
+    {
+      "text": "sin signos de estenosis ni oclusión",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1324,
+      "end": 1359
+    },
+    {
+      "text": "sin evidencia de hipoperfusión focal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1225,
+      "end": 1261
+    },
+    {
+      "text": "sin compromiso significativo de flujo arterial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1767,
+      "end": 1813
+    },
+    {
+      "text": "sustancia blanca subcortical",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 625,
+      "end": 653
+    },
+    {
+      "text": "ventrículos",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 792,
+      "end": 803
+    },
+    {
+      "text": "TC craneal sin contraste",
+      "type": "TECNICA_IMAGEN",
+      "start": 323,
+      "end": 347
+    },
+    {
+      "text": "perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 360,
+      "end": 378
+    },
+    {
+      "text": "angioTC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 381,
+      "end": 410
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "document_id": "informe_sintetico_20250804195045_22060",
+  "entities": [
+    {
+      "text": "hematoma intracerebeloso",
+      "type": "PATOLOGIA",
+      "start": 633,
+      "end": 657
+    },
+    {
+      "text": "región cerebelosa derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 591,
+      "end": 616
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 609,
+      "end": 616
+    },
+    {
+      "text": "3 x 2,5 cm",
+      "type": "MEDIDA",
+      "start": 563,
+      "end": 573
+    },
+    {
+      "text": "aguda",
+      "type": "TEMPORALIDAD",
+      "start": 1070,
+      "end": 1075
+    },
+    {
+      "text": "No se evidencian fracturas óseas en la calota craneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 851,
+      "end": 904
+    },
+    {
+      "text": "No se identifican áreas de alteración significativa en el resto del encéfalo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1272,
+      "end": 1348
+    },
+    {
+      "text": "Sin signos de estenosis, oclusión o malformaciones vasculares en territorio cerebeloso ni en los principales vasos intracraneales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1425,
+      "end": 1554
+    },
+    {
+      "text": "Sin evidencia de compromiso isquémico supratentorial asociado ni alteraciones vasculares intracraneales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1788,
+      "end": 1891
+    }
+  ]
+}

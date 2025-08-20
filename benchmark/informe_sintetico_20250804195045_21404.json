@@ -1,0 +1,179 @@
+{
+  "document_id": "informe_sintetico_20250804195045_21404",
+  "entities": [
+    {
+      "text": "hemiparesia contralateral derecha",
+      "type": "PATOLOGIA",
+      "start": 195,
+      "end": 228
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 268,
+      "end": 282
+    },
+    {
+      "text": "arteria cerebral anterior",
+      "type": "ARTERIA",
+      "start": 300,
+      "end": 325
+    },
+    {
+      "text": "izquierdo",
+      "type": "LATERALIDAD",
+      "start": 650,
+      "end": 659
+    },
+    {
+      "text": "hemorragias intracraneales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 534,
+      "end": 560
+    },
+    {
+      "text": "colecciones",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 564,
+      "end": 575
+    },
+    {
+      "text": "hipodensidad inicial",
+      "type": "PATOLOGIA",
+      "start": 588,
+      "end": 608
+    },
+    {
+      "text": "infarto agudo",
+      "type": "PATOLOGIA",
+      "start": 760,
+      "end": 773
+    },
+    {
+      "text": "arteria cerebral anterior (ACA)",
+      "type": "ARTERIA",
+      "start": 791,
+      "end": 822
+    },
+    {
+      "text": "ASPECTS para ACA 8/10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 894,
+      "end": 915
+    },
+    {
+      "text": "retraso en el tiempo de tránsito medio (MTT)",
+      "type": "PATOLOGIA",
+      "start": 947,
+      "end": 991
+    },
+    {
+      "text": "tiempo hasta el máximo (Tmax)",
+      "type": "PATOLOGIA",
+      "start": 994,
+      "end": 1023
+    },
+    {
+      "text": "flujo sanguíneo cerebral (CBF)",
+      "type": "PATOLOGIA",
+      "start": 1107,
+      "end": 1137
+    },
+    {
+      "text": "volumen cerebral (CBV)",
+      "type": "PATOLOGIA",
+      "start": 1140,
+      "end": 1162
+    },
+    {
+      "text": "zona de infarto establecida moderada",
+      "type": "PATOLOGIA",
+      "start": 1228,
+      "end": 1264
+    },
+    {
+      "text": "oclusión en el segmento proximal A2",
+      "type": "PATOLOGIA",
+      "start": 1304,
+      "end": 1339
+    },
+    {
+      "text": "arteria cerebral anterior izquierda",
+      "type": "ARTERIA",
+      "start": 1346,
+      "end": 1381
+    },
+    {
+      "text": "sin estenosis significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1422,
+      "end": 1449
+    },
+    {
+      "text": "sin alteraciones",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1492,
+      "end": 1508
+    },
+    {
+      "text": "signos de disección",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1527,
+      "end": 1546
+    },
+    {
+      "text": "malformaciones",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1550,
+      "end": 1564
+    },
+    {
+      "text": "arteria cerebral anterior",
+      "type": "ARTERIA",
+      "start": 300,
+      "end": 325
+    },
+    {
+      "text": "isquemia en fase aguda",
+      "type": "PATOLOGIA",
+      "start": 1726,
+      "end": 1748
+    },
+    {
+      "text": "área de penumbra identificada",
+      "type": "PATOLOGIA",
+      "start": 1751,
+      "end": 1780
+    },
+    {
+      "text": "complicaciones hemorrágicas visualizadas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1852,
+      "end": 1892
+    },
+    {
+      "text": "TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANG IOTC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 72,
+      "end": 140
+    },
+    {
+      "text": "TC craneal basal sin contraste",
+      "type": "TECNICA_IMAGEN",
+      "start": 346,
+      "end": 376
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 389,
+      "end": 410
+    },
+    {
+      "text": "Angio-TC arterial intracraneal urgente",
+      "type": "TECNICA_IMAGEN",
+      "start": 413,
+      "end": 451
+    }
+  ]
+}

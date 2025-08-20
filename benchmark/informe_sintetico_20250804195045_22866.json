@@ -1,0 +1,223 @@
+{
+  "document_id": "informe_sintetico_20250804195045_22866",
+  "entities": [
+    {
+      "text": "episodio transitorio de déficit neurológico sin focalidad clara",
+      "type": "PATOLOGIA",
+      "start": 181,
+      "end": 244
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 264,
+      "end": 280
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 298,
+      "end": 319
+    },
+    {
+      "text": "Angio-TC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 322,
+      "end": 352
+    },
+    {
+      "text": "hemorragia intra o extraaxial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 446,
+      "end": 475
+    },
+    {
+      "text": "Corteza",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 477,
+      "end": 484
+    },
+    {
+      "text": "sustancia blanca",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 487,
+      "end": 503
+    },
+    {
+      "text": "áreas de hipodensidad",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 550,
+      "end": 571
+    },
+    {
+      "text": "cisternas basales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 624,
+      "end": 641
+    },
+    {
+      "text": "masas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 693,
+      "end": 698
+    },
+    {
+      "text": "lesiones focales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 702,
+      "end": 718
+    },
+    {
+      "text": "Línea media",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 720,
+      "end": 731
+    },
+    {
+      "text": "desplazamientos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 758,
+      "end": 773
+    },
+    {
+      "text": "calcificaciones puntiformes subcorticales",
+      "type": "PATOLOGIA",
+      "start": 797,
+      "end": 838
+    },
+    {
+      "text": "origen vascular crónico",
+      "type": "PATOLOGIA",
+      "start": 851,
+      "end": 874
+    },
+    {
+      "text": "Parámetros de tiempo de tránsito medio (MTT)",
+      "type": "MEDIDA",
+      "start": 925,
+      "end": 969
+    },
+    {
+      "text": "volumen cerebral de sangre (CBV)",
+      "type": "MEDIDA",
+      "start": 971,
+      "end": 1003
+    },
+    {
+      "text": "flujo cerebral de sangre (CBF)",
+      "type": "MEDIDA",
+      "start": 1006,
+      "end": 1036
+    },
+    {
+      "text": "áreas de perfusión alterada",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1069,
+      "end": 1096
+    },
+    {
+      "text": "mismatch significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1100,
+      "end": 1122
+    },
+    {
+      "text": "Angio-TC arterial extracraneal e intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 1126,
+      "end": 1171
+    },
+    {
+      "text": "Arco aórtico",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1173,
+      "end": 1185
+    },
+    {
+      "text": "troncos supraórticos",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 358,
+      "end": 378
+    },
+    {
+      "text": "arterias intracraneales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1210,
+      "end": 1233
+    },
+    {
+      "text": "estenosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1251,
+      "end": 1260
+    },
+    {
+      "text": "placas ateromatosas significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1294,
+      "end": 1328
+    },
+    {
+      "text": "aneurismas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1332,
+      "end": 1342
+    },
+    {
+      "text": "flujo simétrico",
+      "type": "PATOLOGIA",
+      "start": 1383,
+      "end": 1398
+    },
+    {
+      "text": "ambas hemisferios",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1402,
+      "end": 1419
+    },
+    {
+      "text": "sin hallazgos agudos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1468,
+      "end": 1488
+    },
+    {
+      "text": "hemorragia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 446,
+      "end": 456
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 586,
+      "end": 600
+    },
+    {
+      "text": "alteraciones perfusionales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1537,
+      "end": 1563
+    },
+    {
+      "text": "estenosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1251,
+      "end": 1260
+    },
+    {
+      "text": "lesiones relevantes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1611,
+      "end": 1630
+    },
+    {
+      "text": "sin significación clínica",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 876,
+      "end": 901
+    }
+  ],
+  "regenerado": true,
+  "fecha_regeneracion": "2025-08-06T15:39:46.185569"
+}

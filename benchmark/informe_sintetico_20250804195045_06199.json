@@ -1,0 +1,131 @@
+{
+  "document_id": "informe_sintetico_20250804195045_06199",
+  "entities": [
+    {
+      "text": "hemorragia aguda",
+      "type": "PATOLOGIA",
+      "start": 570,
+      "end": 586
+    },
+    {
+      "text": "edema citotóxico",
+      "type": "PATOLOGIA",
+      "start": 729,
+      "end": 745
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 1500,
+      "end": 1514
+    },
+    {
+      "text": "arteria vertebral derecha",
+      "type": "ARTERIA",
+      "start": 1239,
+      "end": 1264
+    },
+    {
+      "text": "arteria basilar proximal",
+      "type": "ARTERIA",
+      "start": 1302,
+      "end": 1326
+    },
+    {
+      "text": "territorio vertebrobasilar",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 936,
+      "end": 962
+    },
+    {
+      "text": "tronco cerebral",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 995,
+      "end": 1010
+    },
+    {
+      "text": "cerebelo izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1013,
+      "end": 1031
+    },
+    {
+      "text": "penumbra",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1160,
+      "end": 1168
+    },
+    {
+      "text": "segmentaria",
+      "type": "TEMPORALIDAD",
+      "start": 1221,
+      "end": 1232
+    },
+    {
+      "text": "aumento significativo en el tiempo de tránsito medio (MTT)",
+      "type": "MEDIDA",
+      "start": 787,
+      "end": 845
+    },
+    {
+      "text": "tiempo hasta el pico (TTP)",
+      "type": "MEDIDA",
+      "start": 848,
+      "end": 874
+    },
+    {
+      "text": "marcada reducción del flujo sanguíneo cerebral (CBF)",
+      "type": "MEDIDA",
+      "start": 880,
+      "end": 932
+    },
+    {
+      "text": "volumen cerebral (CBV)",
+      "type": "MEDIDA",
+      "start": 1073,
+      "end": 1095
+    },
+    {
+      "text": "posible tejido penumbra",
+      "type": "PATOLOGIA",
+      "start": 1145,
+      "end": 1168
+    },
+    {
+      "text": "compromiso hemodinámico",
+      "type": "PATOLOGIA",
+      "start": 1329,
+      "end": 1352
+    },
+    {
+      "text": "cerebelo izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1013,
+      "end": 1031
+    },
+    {
+      "text": "tronco cerebral",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 995,
+      "end": 1010
+    },
+    {
+      "text": "código ictus urgente",
+      "type": "TECNICA_IMAGEN",
+      "start": 494,
+      "end": 514
+    },
+    {
+      "text": "Angio-TC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 450,
+      "end": 480
+    },
+    {
+      "text": "TC craneal basal sin contraste",
+      "type": "TECNICA_IMAGEN",
+      "start": 375,
+      "end": 405
+    }
+  ]
+}

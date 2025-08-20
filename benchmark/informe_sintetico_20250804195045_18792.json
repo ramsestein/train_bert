@@ -1,0 +1,95 @@
+{
+  "document_id": "informe_sintetico_20250804195045_18792",
+  "entities": [
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 247,
+      "end": 261
+    },
+    {
+      "text": "infarto isquémico temprano",
+      "type": "PATOLOGIA",
+      "start": 690,
+      "end": 716
+    },
+    {
+      "text": "cambios isquémicos crónicos leves",
+      "type": "PATOLOGIA",
+      "start": 755,
+      "end": 788
+    },
+    {
+      "text": "arteria basilar distal",
+      "type": "ARTERIA",
+      "start": 1036,
+      "end": 1058
+    },
+    {
+      "text": "cerebelo derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1061,
+      "end": 1077
+    },
+    {
+      "text": "volumen cerebral sanguíneo (CBV)",
+      "type": "MEDIDA",
+      "start": 1106,
+      "end": 1138
+    },
+    {
+      "text": "penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1166,
+      "end": 1184
+    },
+    {
+      "text": "arteria vertebral derecha",
+      "type": "ARTERIA",
+      "start": 1388,
+      "end": 1413
+    },
+    {
+      "text": "estenosis significativa",
+      "type": "PATOLOGIA",
+      "start": 1272,
+      "end": 1295
+    },
+    {
+      "text": "segmento distal de arteria basilar",
+      "type": "ARTERIA",
+      "start": 1876,
+      "end": 1910
+    },
+    {
+      "text": "No se observan hemorragias intra ni extraaxiales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 534,
+      "end": 582
+    },
+    {
+      "text": "No hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1912,
+      "end": 1938
+    },
+    {
+      "text": "TC craneal basal urgente",
+      "type": "TECNICA_IMAGEN",
+      "start": 312,
+      "end": 336
+    },
+    {
+      "text": "estudio de perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 338,
+      "end": 367
+    },
+    {
+      "text": "angio-TC de troncos supraórticos e intracraneales",
+      "type": "TECNICA_IMAGEN",
+      "start": 407,
+      "end": 456
+    }
+  ]
+}

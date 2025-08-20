@@ -1,0 +1,107 @@
+{
+  "document_id": "informe_sintetico_20250804195045_22497",
+  "entities": [
+    {
+      "text": "isquemia",
+      "type": "PATOLOGIA",
+      "start": 244,
+      "end": 252
+    },
+    {
+      "text": "arteria cerebral anterior",
+      "type": "ARTERIA",
+      "start": 270,
+      "end": 295
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 223,
+      "end": 230
+    },
+    {
+      "text": "izquierdo",
+      "type": "LATERALIDAD",
+      "start": 648,
+      "end": 657
+    },
+    {
+      "text": "ASPECTS 8/10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 723,
+      "end": 735
+    },
+    {
+      "text": "aguda",
+      "type": "TEMPORALIDAD",
+      "start": 1174,
+      "end": 1179
+    },
+    {
+      "text": "prolongación significativa",
+      "type": "PATOLOGIA",
+      "start": 977,
+      "end": 1003
+    },
+    {
+      "text": "isquemia",
+      "type": "PATOLOGIA",
+      "start": 244,
+      "end": 252
+    },
+    {
+      "text": "A2",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1318,
+      "end": 1320
+    },
+    {
+      "text": "arteria cerebral anterior izquierda",
+      "type": "ARTERIA",
+      "start": 1324,
+      "end": 1359
+    },
+    {
+      "text": "Oclusión proximal",
+      "type": "PATOLOGIA",
+      "start": 1287,
+      "end": 1304
+    },
+    {
+      "text": "hemorragia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 492,
+      "end": 502
+    },
+    {
+      "text": "hemorragia aguda",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1823,
+      "end": 1839
+    },
+    {
+      "text": "sin alteraciones significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1616,
+      "end": 1647
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 316,
+      "end": 332
+    },
+    {
+      "text": "TC PERFUSIÓN",
+      "type": "TECNICA_IMAGEN",
+      "start": 933,
+      "end": 945
+    },
+    {
+      "text": "ANGIO-TC EXTRA E INTRACRANEAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 1254,
+      "end": 1283
+    }
+  ]
+}

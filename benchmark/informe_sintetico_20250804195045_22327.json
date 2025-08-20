@@ -1,0 +1,95 @@
+{
+  "document_id": "informe_sintetico_20250804195045_22327",
+  "entities": [
+    {
+      "text": "hemorragia aguda",
+      "type": "PATOLOGIA",
+      "start": 442,
+      "end": 458
+    },
+    {
+      "text": "infartos recientes",
+      "type": "PATOLOGIA",
+      "start": 462,
+      "end": 480
+    },
+    {
+      "text": "ASPECTS de 10/10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 552,
+      "end": 568
+    },
+    {
+      "text": "lesiones isquémicas crónicas",
+      "type": "PATOLOGIA",
+      "start": 893,
+      "end": 921
+    },
+    {
+      "text": "TC PERFUSIÓN",
+      "type": "TECNICA_IMAGEN",
+      "start": 991,
+      "end": 1003
+    },
+    {
+      "text": "hipoperfusión",
+      "type": "PATOLOGIA",
+      "start": 1183,
+      "end": 1196
+    },
+    {
+      "text": "ACAs",
+      "type": "ARTERIA",
+      "start": 1343,
+      "end": 1347
+    },
+    {
+      "text": "ACMs",
+      "type": "ARTERIA",
+      "start": 1358,
+      "end": 1362
+    },
+    {
+      "text": "ACPs",
+      "type": "ARTERIA",
+      "start": 1379,
+      "end": 1383
+    },
+    {
+      "text": "sustancia blanca",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 925,
+      "end": 941
+    },
+    {
+      "text": "cerebral",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 330,
+      "end": 338
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 1743,
+      "end": 1753
+    },
+    {
+      "text": "isquemia",
+      "type": "PATOLOGIA",
+      "start": 1837,
+      "end": 1845
+    },
+    {
+      "text": "sin hallazgos agudos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1667,
+      "end": 1687
+    },
+    {
+      "text": "sin repercusión aguda",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1799,
+      "end": 1820
+    }
+  ]
+}

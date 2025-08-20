@@ -1,0 +1,71 @@
+{
+  "document_id": "informe_sintetico_20250804195045_02121",
+  "entities": [
+    {
+      "text": "encefalopatía hipóxico-isquémica",
+      "type": "PATOLOGIA",
+      "start": 232,
+      "end": 264
+    },
+    {
+      "text": "lóbulos frontales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 596,
+      "end": 613
+    },
+    {
+      "text": "núcleos profundos",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 632,
+      "end": 649
+    },
+    {
+      "text": "bilateral",
+      "type": "LATERALIDAD",
+      "start": 679,
+      "end": 688
+    },
+    {
+      "text": "edema cerebral difuso",
+      "type": "PATOLOGIA",
+      "start": 909,
+      "end": 930
+    },
+    {
+      "text": "tiempo de tránsito medio (TTP)",
+      "type": "MEDIDA",
+      "start": 983,
+      "end": 1013
+    },
+    {
+      "text": "volumen sanguíneo cerebral (CBV)",
+      "type": "MEDIDA",
+      "start": 1038,
+      "end": 1070
+    },
+    {
+      "text": "ambos hemisferios",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1074,
+      "end": 1091
+    },
+    {
+      "text": "arterias principales (ACAs, ACMs, ACPs, así como sistema vertebrobasilar)",
+      "type": "ARTERIA",
+      "start": 1331,
+      "end": 1404
+    },
+    {
+      "text": "sin hemorragia ni oclusión vascular",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2184,
+      "end": 2219
+    },
+    {
+      "text": "sin signos de hemorragia intracraneal ni oclusión arterial demostrable",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1731,
+      "end": 1801
+    }
+  ]
+}

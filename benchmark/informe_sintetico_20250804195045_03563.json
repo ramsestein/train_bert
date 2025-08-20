@@ -1,0 +1,143 @@
+{
+  "document_id": "informe_sintetico_20250804195045_03563",
+  "entities": [
+    {
+      "text": "hemiparesia derecha",
+      "type": "PATOLOGIA",
+      "start": 200,
+      "end": 219
+    },
+    {
+      "text": "afasia",
+      "type": "PATOLOGIA",
+      "start": 222,
+      "end": 228
+    },
+    {
+      "text": "2 horas",
+      "type": "TEMPORALIDAD",
+      "start": 250,
+      "end": 257
+    },
+    {
+      "text": "No se observan hipodensidades parciales ni signos de hemorragia intracraneal.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 560,
+      "end": 637
+    },
+    {
+      "text": "ASPECTS 9",
+      "type": "PUNTUACION_CLINICA",
+      "start": 696,
+      "end": 705
+    },
+    {
+      "text": "disminución localizada del CBF",
+      "type": "PATOLOGIA",
+      "start": 734,
+      "end": 764
+    },
+    {
+      "text": "aumento del MTT",
+      "type": "PATOLOGIA",
+      "start": 767,
+      "end": 782
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "ARTERIA",
+      "start": 853,
+      "end": 885
+    },
+    {
+      "text": "segmentos M2/M3",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 906,
+      "end": 921
+    },
+    {
+      "text": "preservación relativa del CBV",
+      "type": "PATOLOGIA",
+      "start": 927,
+      "end": 956
+    },
+    {
+      "text": "isquémica",
+      "type": "PATOLOGIA",
+      "start": 986,
+      "end": 995
+    },
+    {
+      "text": "Oclusión focal en segmento M2 izquierdo de la arteria cerebral media distal",
+      "type": "PATOLOGIA",
+      "start": 1021,
+      "end": 1096
+    },
+    {
+      "text": "sin evidencia de trombo en segmentos proximales ni en otras arterias intracraneales mayores.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1098,
+      "end": 1190
+    },
+    {
+      "text": "Sistema arterial contralateral permeable.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1191,
+      "end": 1232
+    },
+    {
+      "text": "No se observan placas ateromatosas significativas ni estenosis relevantes en el origen de las arterias carótidas.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1303,
+      "end": 1416
+    },
+    {
+      "text": "Sistema vertebrobasilar permeable con flujo adecuado.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1418,
+      "end": 1471
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 1517,
+      "end": 1531
+    },
+    {
+      "text": "territorio distal de la arteria cerebral media izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1535,
+      "end": 1591
+    },
+    {
+      "text": "oclusión trombótica detectada en M2 izquierdo",
+      "type": "PATOLOGIA",
+      "start": 1614,
+      "end": 1659
+    },
+    {
+      "text": "ASPECTS 9",
+      "type": "PUNTUACION_CLINICA",
+      "start": 696,
+      "end": 705
+    },
+    {
+      "text": "sin signos de infarto establecido en TC basal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1671,
+      "end": 1716
+    },
+    {
+      "text": "área de penumbra isquémica evidenciada en perfusión.",
+      "type": "PATOLOGIA",
+      "start": 1719,
+      "end": 1771
+    },
+    {
+      "text": "sin hemorragia intracraneal asociada",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2181,
+      "end": 2217
+    }
+  ]
+}

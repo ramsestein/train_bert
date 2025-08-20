@@ -1,0 +1,221 @@
+{
+  "document_id": "informe_sintetico_20250804195045_22718",
+  "entities": [
+    {
+      "text": "ictus isquémico agudo",
+      "type": "PATOLOGIA",
+      "start": 224,
+      "end": 245
+    },
+    {
+      "text": "área hipodensa",
+      "type": "PATOLOGIA",
+      "start": 420,
+      "end": 434
+    },
+    {
+      "text": "pérdida parcial de diferenciación cortico-subcortical",
+      "type": "PATOLOGIA",
+      "start": 439,
+      "end": 492
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 536,
+      "end": 566
+    },
+    {
+      "text": "ASPECTS",
+      "type": "PUNTUACION_CLINICA",
+      "start": 572,
+      "end": 579
+    },
+    {
+      "text": "6",
+      "type": "MEDIDA",
+      "start": 592,
+      "end": 593
+    },
+    {
+      "text": "signo de arteria hiperdensa",
+      "type": "PATOLOGIA",
+      "start": 609,
+      "end": 636
+    },
+    {
+      "text": "segmento proximal M1 de la ACM derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 643,
+      "end": 681
+    },
+    {
+      "text": "trombo",
+      "type": "PATOLOGIA",
+      "start": 696,
+      "end": 702
+    },
+    {
+      "text": "hemorragias intraparenquimatosas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 719,
+      "end": 751
+    },
+    {
+      "text": "desplazamientos de línea media",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 776,
+      "end": 806
+    },
+    {
+      "text": "signos de efecto masa significativos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 810,
+      "end": 846
+    },
+    {
+      "text": "Cisternas basales y surcos corticales preservados",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 848,
+      "end": 897
+    },
+    {
+      "text": "aumento del tiempo de tránsito medio (TTM)",
+      "type": "PATOLOGIA",
+      "start": 932,
+      "end": 974
+    },
+    {
+      "text": "tiempo hasta el pico (TTP)",
+      "type": "PATOLOGIA",
+      "start": 977,
+      "end": 1003
+    },
+    {
+      "text": "ACM derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 670,
+      "end": 681
+    },
+    {
+      "text": "disminución del flujo sanguíneo cerebral (FSC)",
+      "type": "PATOLOGIA",
+      "start": 1049,
+      "end": 1095
+    },
+    {
+      "text": "flujo sanguíneo cerebral volumétrico (FSCv)",
+      "type": "PATOLOGIA",
+      "start": 1098,
+      "end": 1141
+    },
+    {
+      "text": "área en riesgo isquémico",
+      "type": "PATOLOGIA",
+      "start": 1173,
+      "end": 1197
+    },
+    {
+      "text": "Volumen cerebral afectado con flujo reducido",
+      "type": "PATOLOGIA",
+      "start": 1199,
+      "end": 1243
+    },
+    {
+      "text": "25%",
+      "type": "MEDIDA",
+      "start": 1275,
+      "end": 1278
+    },
+    {
+      "text": "mismatch compatible con tejido potencialmente salvable",
+      "type": "PATOLOGIA",
+      "start": 1306,
+      "end": 1360
+    },
+    {
+      "text": "Oclusión completa del segmento proximal M1 derecho",
+      "type": "PATOLOGIA",
+      "start": 1395,
+      "end": 1445
+    },
+    {
+      "text": "arteria cerebral media",
+      "type": "ARTERIA",
+      "start": 536,
+      "end": 558
+    },
+    {
+      "text": "Arterias intracraneales restantes permeables",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1476,
+      "end": 1520
+    },
+    {
+      "text": "estenosis o irregularidades significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1525,
+      "end": 1567
+    },
+    {
+      "text": "Sistema vertebrobasilar sin alteraciones relevantes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1569,
+      "end": 1620
+    },
+    {
+      "text": "Troncos supraórticos sin placas de ateroma significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1622,
+      "end": 1679
+    },
+    {
+      "text": "isquemia aguda en territorio de ACM derecha",
+      "type": "PATOLOGIA",
+      "start": 1727,
+      "end": 1770
+    },
+    {
+      "text": "ASPECTS 6",
+      "type": "PUNTUACION_CLINICA",
+      "start": 1775,
+      "end": 1784
+    },
+    {
+      "text": "Oclusión del segmento proximal M1 derecho",
+      "type": "PATOLOGIA",
+      "start": 1786,
+      "end": 1827
+    },
+    {
+      "text": "arteria hiperdensa",
+      "type": "PATOLOGIA",
+      "start": 618,
+      "end": 636
+    },
+    {
+      "text": "angio-TC",
+      "type": "TECNICA_IMAGEN",
+      "start": 345,
+      "end": 353
+    },
+    {
+      "text": "Área extensa de hipoperfusión con mismatch",
+      "type": "PATOLOGIA",
+      "start": 1875,
+      "end": 1917
+    },
+    {
+      "text": "tejido viable en riesgo",
+      "type": "PATOLOGIA",
+      "start": 1930,
+      "end": 1953
+    },
+    {
+      "text": "complicaciones hemorrágicas detectadas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1958,
+      "end": 1996
+    }
+  ]
+}

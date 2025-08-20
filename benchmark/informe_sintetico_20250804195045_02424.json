@@ -1,0 +1,65 @@
+{
+  "document_id": "informe_sintetico_20250804195045_02424",
+  "entities": [
+    {
+      "text": "infarto isquémico subagudo",
+      "type": "PATOLOGIA",
+      "start": 596,
+      "end": 622
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "ARTERIA",
+      "start": 509,
+      "end": 541
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 532,
+      "end": 541
+    },
+    {
+      "text": "3 mm",
+      "type": "MEDIDA",
+      "start": 778,
+      "end": 782
+    },
+    {
+      "text": "agudo",
+      "type": "TEMPORALIDAD",
+      "start": 617,
+      "end": 622
+    },
+    {
+      "text": "arteria carótida interna izquierda",
+      "type": "ARTERIA",
+      "start": 1242,
+      "end": 1276
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 532,
+      "end": 541
+    },
+    {
+      "text": "arterias cerebrales anteriores (ACA) y posteriores (ACP) bilaterales",
+      "type": "ARTERIA",
+      "start": 1499,
+      "end": 1567
+    },
+    {
+      "text": "bilaterales",
+      "type": "LATERALIDAD",
+      "start": 1556,
+      "end": 1567
+    },
+    {
+      "text": "No se observa hemorragia asociada ni colecciones",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1870,
+      "end": 1918
+    }
+  ]
+}

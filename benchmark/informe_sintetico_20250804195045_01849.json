@@ -1,0 +1,125 @@
+{
+  "document_id": "informe_sintetico_20250804195045_01849",
+  "entities": [
+    {
+      "text": "isquemia cerebral",
+      "type": "PATOLOGIA",
+      "start": 261,
+      "end": 278
+    },
+    {
+      "text": "arteria cerebral media",
+      "type": "ARTERIA",
+      "start": 296,
+      "end": 318
+    },
+    {
+      "text": "distal",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 319,
+      "end": 325
+    },
+    {
+      "text": "derecho",
+      "type": "LATERALIDAD",
+      "start": 870,
+      "end": 877
+    },
+    {
+      "text": "ASPECTS 9",
+      "type": "PUNTUACION_CLINICA",
+      "start": 765,
+      "end": 774
+    },
+    {
+      "text": "No se evidencian hemorragias intra o extraaxiales.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 519,
+      "end": 569
+    },
+    {
+      "text": "No se observan signos evidentes de infarto establecido.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 641,
+      "end": 696
+    },
+    {
+      "text": "No hay desviación de línea media ni edema vasogénico significativo.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 697,
+      "end": 764
+    },
+    {
+      "text": "Oclusión de rama distal de la arteria cerebral media",
+      "type": "PATOLOGIA",
+      "start": 1154,
+      "end": 1206
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 1458,
+      "end": 1465
+    },
+    {
+      "text": "segmentos M2/M3",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 854,
+      "end": 869
+    },
+    {
+      "text": "penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1093,
+      "end": 1111
+    },
+    {
+      "text": "preservación del volumen sanguíneo",
+      "type": "PATOLOGIA",
+      "start": 1517,
+      "end": 1551
+    },
+    {
+      "text": "ASPECTS 9",
+      "type": "PUNTUACION_CLINICA",
+      "start": 765,
+      "end": 774
+    },
+    {
+      "text": "No se identifican hemorragias ni signos de infarto consolidado.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1564,
+      "end": 1627
+    },
+    {
+      "text": "Oclusión aguda distal de arteria cerebral media (M2/M3) derecha",
+      "type": "PATOLOGIA",
+      "start": 1812,
+      "end": 1875
+    },
+    {
+      "text": "penumbra isquémica detectable en TC perfusión",
+      "type": "PATOLOGIA",
+      "start": 1888,
+      "end": 1933
+    },
+    {
+      "text": "sin infarto consolidado ni hemorragia.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1934,
+      "end": 1972
+    },
+    {
+      "text": "Oclusión de rama distal derecha de arteria cerebral media (M2/M3)",
+      "type": "PATOLOGIA",
+      "start": 2085,
+      "end": 2150
+    },
+    {
+      "text": "sin estenosis en otros segmentos vasculares.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2151,
+      "end": 2195
+    }
+  ]
+}

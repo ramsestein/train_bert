@@ -1,0 +1,32 @@
+UO_PACN (Unidad Organizativa Médica): RADIO
+
+PRUEB (Prueba solicitada): TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANG IOTC ARTERIAL INTRACRANEAL)
+
+CLIN (Resumen clínico): Paciente con déficit motor contralateral y afasia, sospecha clínica de isquemia aguda en territorio de arteria cerebral anterior
+
+OBSR (Protocolo): TC craneal basal no contrastado + TC perfusión cerebral + Angio-TC arterial intracraneal en fase arterial
+
+RESL (Resultados): 
+TC CRANEAL BASAL:
+No se evidencian hemorragias intra ni extraaxiales. Se observa hipodensidad cortical y subcortical en la región medial frontal izquierda, incluyendo el sector prefrontal y el cuerpo calloso anterior, sin efecto de masa significativo ni desplazamiento de las estructuras de la línea media. Diferenciación córtico-subcortical disminuida en dicha zona, indicativa de lesión isquémica precoz. No signos de edema vasogénico avanzado ni hidrocefalia.
+
+TC PERFUSIÓN:
+Se identifica aumento relevante del tiempo de tránsito medio (TTP) y del tiempo de retraso (DT) en el territorio vascular irrigado por la arteria cerebral anterior izquierda, con disminución moderada del flujo cerebral (CBF) y volumen cerebral (CBV) conservado, hallazgos compatibles con isquemia en área de penumbra. Discordancia significativa entre mapas perfusionales, sin evidencia de infarto establecido extenso.
+
+ANGIO-TC ARTERIAL INTRACRANEAL:
+Se evidencia estenosis severa (>90%) en el segmento proximal A2 de la arteria cerebral anterior izquierda, con ausencia de flujo distal en dicha rama, compatible con oclusión subaguda. El resto del sistema arterial intracraneal presenta calibre y permeabilidad conservados, sin estenosis relevantes en arterias carótidas internas ni circulares. Sistema vertebrobasilar sin alteraciones.
+
+CONCL (Conclusiones): 
+Signos tempranos de isquemia aguda en el territorio de la arteria cerebral anterior izquierda, con hipodensidad cortical y subcortical medial frontal y alteración perfusional sugestiva de área de penumbra. Oclusión severa del segmento A2 de la ACA izquierda confirmada en Angio-TC. Ausencia de hemorragia intracraneal.
+
+ACTI_ADICI (Actividad adicional): 
+
+DKTXT (Descripció): Monitorización neurológica continua y valoración por neurología para tratamiento reperfusivo.
+
+ICON (Estudio): @RADIO_TC_ICTUS@
+
+X00DIATXT (Texto del diagnóstico ACR): Isquemia cerebral aguda en territorio de arteria cerebral anterior izquierda debido a oclusión severa en segmento A2, con área de penumbra identificada en perfusión.
+
+EST_T_DES (Descripción): TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANGIOTC ARTERIAL INTRACRANEAL)
+
+ZVASOS_D (Der.): Caso identificado con afectación vascular izquierda en territorio ACA, mantener seguimiento clínico y radiológico.

@@ -1,0 +1,30 @@
+UO_PACN (Unidad Organizativa Médica): RADIO
+
+PRUEB (Prueba solicitada): TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANG IOTC ARTERIAL INTRACRANEAL)
+
+CLIN (Resumen clínico): Déficit motor focal súbito y alteración del nivel de conciencia.
+
+OBSR (Protocolo): TC craneal basal no contrastada complementada con perfusión cerebral y angiografía TC arterial intracraneal. Estudio urgente.
+
+RESL (Resultados):  
+TC CRANEAL BASAL:  
+Se identifica una lesión hiperdensa en región talámica derecha, compatible con hematoma intraparenquimatoso, de aproximadamente 25 x 20 mm, con hipodensidad perifocal sugestiva de edema vasogénico. Se observa leve extensión del sangrado hacia el sistema ventricular adyacente, sin generar hidrocefalia obstructiva. El sistema ventricular está de tamaño conservado. No hay desplazamiento significativo de la línea media. Parénquima cerebral circundante sin evidencia de infarto isquémico agudo. Cisternas basales libres.  
+
+TC PERFUSIÓN:  
+Disminución del flujo sanguíneo cerebral (FSC) en el territorio talámico derecho correspondiente al hematoma y área circundante. Tiempo de tránsito aumentado en dicha zona, sin alteraciones significativas en el resto del hemisferio cerebral.  
+
+ANGIO TC INTRACRANEAL:  
+No se evidencian signos de malformaciones vasculares ni aneurismas en territorio cerebral. Vasos principales permeables, sin estenosis ni oclusiones.
+
+CONCL (Conclusiones):  
+Hematoma intraparenquimatoso derecho a nivel talámico con extensión ventricular leve y edema perilesional. No se objetiva hidrocefalia obstructiva ni desplazamiento de línea media. Perfusión cerebral alterada localmente sin signos isquémicos añadidos. Angiografía sin anomalías vasculares detectables. Recomendable seguimiento clínico y control imagenológico.
+
+ACTI_ADICI (Actividad adicional):  
+
+ICON (Estudio): @RADIO_TC_CODIGOICTUS@
+
+X00DIATXT (Texto del diagnóstico ACR): Hematoma intracerebral talámico con extensión ventricular leve, sin hidrocefalia. Perfusión local alterada. Angiotc intracraneal sin hallazgos anómalos.
+
+EST_T_DES (Descripción): TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANGIOTC ARTERIAL INTRACRANEAL)
+
+ZVASOS_D (Der.):

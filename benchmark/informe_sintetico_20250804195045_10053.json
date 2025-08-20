@@ -1,0 +1,227 @@
+{
+  "document_id": "informe_sintetico_20250804195045_10053",
+  "entities": [
+    {
+      "text": "hemiparesia derecha",
+      "type": "PATOLOGIA",
+      "start": 196,
+      "end": 215
+    },
+    {
+      "text": "afasia",
+      "type": "PATOLOGIA",
+      "start": 218,
+      "end": 224
+    },
+    {
+      "text": "accidente isquémico cerebral",
+      "type": "PATOLOGIA",
+      "start": 246,
+      "end": 274
+    },
+    {
+      "text": "signo de arteria hiperdensa",
+      "type": "PATOLOGIA",
+      "start": 485,
+      "end": 512
+    },
+    {
+      "text": "segmento M1 de arteria cerebral media izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 516,
+      "end": 563
+    },
+    {
+      "text": "Hipodensidad parenquimatosa en territorio de ACM izquierda",
+      "type": "PATOLOGIA",
+      "start": 565,
+      "end": 623
+    },
+    {
+      "text": "ASPECTS estimado de 6",
+      "type": "PUNTUACION_CLINICA",
+      "start": 629,
+      "end": 650
+    },
+    {
+      "text": "núcleo lenticular",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 663,
+      "end": 680
+    },
+    {
+      "text": "cápsula interna",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 682,
+      "end": 697
+    },
+    {
+      "text": "corteza insular",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 700,
+      "end": 715
+    },
+    {
+      "text": "hemorragias agudas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 734,
+      "end": 752
+    },
+    {
+      "text": "edema significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 756,
+      "end": 775
+    },
+    {
+      "text": "volumen cerebral (CBV)",
+      "type": "PATOLOGIA",
+      "start": 982,
+      "end": 1004
+    },
+    {
+      "text": "territorio vascular de la ACM izquierda proximal",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1008,
+      "end": 1056
+    },
+    {
+      "text": "aumento del tiempo de tránsito medio (MTT)",
+      "type": "PATOLOGIA",
+      "start": 1062,
+      "end": 1104
+    },
+    {
+      "text": "retraso en el tiempo al pico (TTP)",
+      "type": "PATOLOGIA",
+      "start": 1107,
+      "end": 1141
+    },
+    {
+      "text": "área de penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1156,
+      "end": 1182
+    },
+    {
+      "text": "Oclusión completa de la arteria cerebral media izquierda",
+      "type": "PATOLOGIA",
+      "start": 1219,
+      "end": 1275
+    },
+    {
+      "text": "segmento M1 proximal",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1282,
+      "end": 1302
+    },
+    {
+      "text": "ACAs y ACPs",
+      "type": "ARTERIA",
+      "start": 1357,
+      "end": 1368
+    },
+    {
+      "text": "permeabilidad conservada",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1380,
+      "end": 1404
+    },
+    {
+      "text": "signos de estenosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1423,
+      "end": 1442
+    },
+    {
+      "text": "malformaciones vasculares",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1446,
+      "end": 1471
+    },
+    {
+      "text": "Circulación colateral pobre en territorio afectado",
+      "type": "PATOLOGIA",
+      "start": 1473,
+      "end": 1523
+    },
+    {
+      "text": "Signo de arteria hiperdensa",
+      "type": "PATOLOGIA",
+      "start": 1550,
+      "end": 1577
+    },
+    {
+      "text": "oclusión proximal de arteria cerebral media izquierda (M1)",
+      "type": "PATOLOGIA",
+      "start": 1580,
+      "end": 1638
+    },
+    {
+      "text": "área isquémica extensa",
+      "type": "PATOLOGIA",
+      "start": 1643,
+      "end": 1665
+    },
+    {
+      "text": "ASPECTS 6",
+      "type": "PUNTUACION_CLINICA",
+      "start": 1668,
+      "end": 1677
+    },
+    {
+      "text": "infarto cerebral agudo",
+      "type": "PATOLOGIA",
+      "start": 1693,
+      "end": 1715
+    },
+    {
+      "text": "área de penumbra significativa",
+      "type": "PATOLOGIA",
+      "start": 1746,
+      "end": 1776
+    },
+    {
+      "text": "evidencia de infarto establecido",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1781,
+      "end": 1813
+    },
+    {
+      "text": "No hemorragia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1838,
+      "end": 1851
+    },
+    {
+      "text": "efecto de masa asociado",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1855,
+      "end": 1878
+    },
+    {
+      "text": "ACV isquémico agudo por oclusión proximal de ACM izquierda",
+      "type": "PATOLOGIA",
+      "start": 2085,
+      "end": 2143
+    },
+    {
+      "text": "área de penumbra",
+      "type": "PATOLOGIA",
+      "start": 1156,
+      "end": 1172
+    },
+    {
+      "text": "tejido potencialmente viable",
+      "type": "PATOLOGIA",
+      "start": 2168,
+      "end": 2196
+    },
+    {
+      "text": "TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANGIOTC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 2224,
+      "end": 2291
+    }
+  ]
+}

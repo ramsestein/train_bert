@@ -1,0 +1,77 @@
+{
+  "document_id": "informe_sintetico_20250804195045_06338",
+  "entities": [
+    {
+      "text": "infarto agudo",
+      "type": "PATOLOGIA",
+      "start": 788,
+      "end": 801
+    },
+    {
+      "text": "infarto establecido",
+      "type": "PATOLOGIA",
+      "start": 1389,
+      "end": 1408
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 671,
+      "end": 703
+    },
+    {
+      "text": "ACM",
+      "type": "ARTERIA",
+      "start": 1717,
+      "end": 1720
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 694,
+      "end": 703
+    },
+    {
+      "text": "30 mm",
+      "type": "MEDIDA",
+      "start": 934,
+      "end": 939
+    },
+    {
+      "text": "5 mm",
+      "type": "MEDIDA",
+      "start": 1128,
+      "end": 1132
+    },
+    {
+      "text": "agudo",
+      "type": "TEMPORALIDAD",
+      "start": 796,
+      "end": 801
+    },
+    {
+      "text": "PH2",
+      "type": "PUNTUACION_CLINICA",
+      "start": 999,
+      "end": 1002
+    },
+    {
+      "text": "TC craneal basal + perfusión cerebral + angioTC arterial y venosa intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 458,
+      "end": 536
+    },
+    {
+      "text": "No se identifican signos de hemorragia intraventricular",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1151,
+      "end": 1206
+    },
+    {
+      "text": "No se observan estenosis significativas en vasos intracraneales o extracraneales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1527,
+      "end": 1607
+    }
+  ]
+}

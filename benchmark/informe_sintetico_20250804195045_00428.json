@@ -1,0 +1,239 @@
+{
+  "document_id": "informe_sintetico_20250804195045_00428",
+  "entities": [
+    {
+      "text": "hemiparesia derecha",
+      "type": "PATOLOGIA",
+      "start": 216,
+      "end": 235
+    },
+    {
+      "text": "afasia",
+      "type": "PATOLOGIA",
+      "start": 238,
+      "end": 244
+    },
+    {
+      "text": "ictus isquémico",
+      "type": "PATOLOGIA",
+      "start": 266,
+      "end": 281
+    },
+    {
+      "text": "territorio cerebral izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 285,
+      "end": 314
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 547,
+      "end": 570
+    },
+    {
+      "text": "hipodensidad focal",
+      "type": "PATOLOGIA",
+      "start": 590,
+      "end": 608
+    },
+    {
+      "text": "territorio cortical parietal izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 612,
+      "end": 650
+    },
+    {
+      "text": "diferenciación cortico-subcortical",
+      "type": "PATOLOGIA",
+      "start": 678,
+      "end": 712
+    },
+    {
+      "text": "ASPECTS 9",
+      "type": "PUNTUACION_CLINICA",
+      "start": 714,
+      "end": 723
+    },
+    {
+      "text": "edema significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 751,
+      "end": 770
+    },
+    {
+      "text": "efecto de masa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 774,
+      "end": 788
+    },
+    {
+      "text": "línea media",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 808,
+      "end": 819
+    },
+    {
+      "text": "flujo sanguíneo cerebral",
+      "type": "PATOLOGIA",
+      "start": 924,
+      "end": 948
+    },
+    {
+      "text": "volumen cerebral",
+      "type": "PATOLOGIA",
+      "start": 957,
+      "end": 973
+    },
+    {
+      "text": "territorio parietal y opercular izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 983,
+      "end": 1024
+    },
+    {
+      "text": "división distal (M2/M3)",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1046,
+      "end": 1069
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "ARTERIA",
+      "start": 1076,
+      "end": 1108
+    },
+    {
+      "text": "prolongación en tiempo hasta el pico (TTP)",
+      "type": "PATOLOGIA",
+      "start": 1124,
+      "end": 1166
+    },
+    {
+      "text": "retraso en tiempo de tránsito medio (MTT)",
+      "type": "PATOLOGIA",
+      "start": 1169,
+      "end": 1210
+    },
+    {
+      "text": "zona de penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1227,
+      "end": 1253
+    },
+    {
+      "text": "mismatch",
+      "type": "PATOLOGIA",
+      "start": 1268,
+      "end": 1276
+    },
+    {
+      "text": "área viable",
+      "type": "PATOLOGIA",
+      "start": 1290,
+      "end": 1301
+    },
+    {
+      "text": "segmento distal M2",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1360,
+      "end": 1378
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "ARTERIA",
+      "start": 1076,
+      "end": 1108
+    },
+    {
+      "text": "permeabilidad conservada",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1469,
+      "end": 1493
+    },
+    {
+      "text": "estenosis significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1511,
+      "end": 1534
+    },
+    {
+      "text": "placas ateromatosas relevantes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1576,
+      "end": 1606
+    },
+    {
+      "text": "signos de disección",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1611,
+      "end": 1630
+    },
+    {
+      "text": "malformaciones vasculares",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1633,
+      "end": 1658
+    },
+    {
+      "text": "territorio distal de arteria cerebral media izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1703,
+      "end": 1756
+    },
+    {
+      "text": "segmentos M2/M3",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1758,
+      "end": 1773
+    },
+    {
+      "text": "oclusión confirmada",
+      "type": "PATOLOGIA",
+      "start": 1779,
+      "end": 1798
+    },
+    {
+      "text": "angiografía TC",
+      "type": "TECNICA_IMAGEN",
+      "start": 1802,
+      "end": 1816
+    },
+    {
+      "text": "ASPECTS 9",
+      "type": "PUNTUACION_CLINICA",
+      "start": 714,
+      "end": 723
+    },
+    {
+      "text": "mismatch en perfusión cerebral",
+      "type": "PATOLOGIA",
+      "start": 1869,
+      "end": 1899
+    },
+    {
+      "text": "área de penumbra",
+      "type": "PATOLOGIA",
+      "start": 1908,
+      "end": 1924
+    },
+    {
+      "text": "tejido potencialmente recuperable",
+      "type": "PATOLOGIA",
+      "start": 1929,
+      "end": 1962
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 547,
+      "end": 570
+    },
+    {
+      "text": "complicaciones asociadas visibles",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2006,
+      "end": 2039
+    }
+  ]
+}

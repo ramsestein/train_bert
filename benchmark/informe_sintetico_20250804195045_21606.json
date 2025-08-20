@@ -1,0 +1,235 @@
+{
+  "document_id": "informe_sintetico_20250804195045_21606",
+  "entities": [
+    {
+      "text": "infarto cerebral isquémico",
+      "type": "PATOLOGIA",
+      "start": 215,
+      "end": 241
+    },
+    {
+      "text": "deterioro neurológico súbito",
+      "type": "PATOLOGIA",
+      "start": 283,
+      "end": 311
+    },
+    {
+      "text": "TC craneal simple urgente",
+      "type": "TECNICA_IMAGEN",
+      "start": 362,
+      "end": 387
+    },
+    {
+      "text": "estudio de perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 406,
+      "end": 435
+    },
+    {
+      "text": "Angio-TC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 438,
+      "end": 468
+    },
+    {
+      "text": "focos heterogéneos hiperdensos",
+      "type": "PATOLOGIA",
+      "start": 517,
+      "end": 547
+    },
+    {
+      "text": "transformación hemorrágica tipo HI2",
+      "type": "PATOLOGIA",
+      "start": 564,
+      "end": 599
+    },
+    {
+      "text": "territorio de la arteria cerebral media izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 645,
+      "end": 694
+    },
+    {
+      "text": "extensión petequial confluyente",
+      "type": "PATOLOGIA",
+      "start": 700,
+      "end": 731
+    },
+    {
+      "text": "más del 30%",
+      "type": "MEDIDA",
+      "start": 761,
+      "end": 772
+    },
+    {
+      "text": "edema perilesional",
+      "type": "PATOLOGIA",
+      "start": 815,
+      "end": 833
+    },
+    {
+      "text": "efecto de masa",
+      "type": "PATOLOGIA",
+      "start": 843,
+      "end": 857
+    },
+    {
+      "text": "línea media",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 874,
+      "end": 885
+    },
+    {
+      "text": "3 mm",
+      "type": "MEDIDA",
+      "start": 905,
+      "end": 909
+    },
+    {
+      "text": "colecciones subdurales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 946,
+      "end": 968
+    },
+    {
+      "text": "Sistema ventricular",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1003,
+      "end": 1022
+    },
+    {
+      "text": "hidrocefalia obstructiva",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1064,
+      "end": 1088
+    },
+    {
+      "text": "disminución del flujo sanguíneo cerebral",
+      "type": "PATOLOGIA",
+      "start": 1141,
+      "end": 1181
+    },
+    {
+      "text": "aumento del tiempo de tránsito",
+      "type": "PATOLOGIA",
+      "start": 1190,
+      "end": 1220
+    },
+    {
+      "text": "territorio afectado",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1233,
+      "end": 1252
+    },
+    {
+      "text": "áreas infartadas en evolución",
+      "type": "PATOLOGIA",
+      "start": 1321,
+      "end": 1350
+    },
+    {
+      "text": "permeabilidad del segmento proximal de la ACM izquierda",
+      "type": "PATOLOGIA",
+      "start": 1392,
+      "end": 1447
+    },
+    {
+      "text": "disminución de calibre en ramas distales del M2",
+      "type": "PATOLOGIA",
+      "start": 1452,
+      "end": 1499
+    },
+    {
+      "text": "signos de trombosis aguda",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1544,
+      "end": 1569
+    },
+    {
+      "text": "aneurismas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1573,
+      "end": 1583
+    },
+    {
+      "text": "Transformación hemorrágica tipo HI2",
+      "type": "PATOLOGIA",
+      "start": 1608,
+      "end": 1643
+    },
+    {
+      "text": "territorio de ACM izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 245,
+      "end": 272
+    },
+    {
+      "text": "extensión petequial confluyente",
+      "type": "PATOLOGIA",
+      "start": 700,
+      "end": 731
+    },
+    {
+      "text": "área infartada",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1721,
+      "end": 1735
+    },
+    {
+      "text": "efecto de masa",
+      "type": "PATOLOGIA",
+      "start": 843,
+      "end": 857
+    },
+    {
+      "text": "desplazamiento leve de línea media",
+      "type": "PATOLOGIA",
+      "start": 1782,
+      "end": 1816
+    },
+    {
+      "text": "Perfusión disminuida en territorio afectado",
+      "type": "PATOLOGIA",
+      "start": 1818,
+      "end": 1861
+    },
+    {
+      "text": "vigilancia neurológica estricta",
+      "type": "PATOLOGIA",
+      "start": 1923,
+      "end": 1954
+    },
+    {
+      "text": "evaluación neuroquirúrgica",
+      "type": "PATOLOGIA",
+      "start": 1957,
+      "end": 1983
+    },
+    {
+      "text": "Control radiológico evolutivo",
+      "type": "PATOLOGIA",
+      "start": 2044,
+      "end": 2073
+    },
+    {
+      "text": "24-48 horas",
+      "type": "TEMPORALIDAD",
+      "start": 2080,
+      "end": 2091
+    },
+    {
+      "text": "progresión hemorrágica",
+      "type": "PATOLOGIA",
+      "start": 2114,
+      "end": 2136
+    },
+    {
+      "text": "edema cerebral",
+      "type": "PATOLOGIA",
+      "start": 2139,
+      "end": 2153
+    }
+  ],
+  "regenerado": true,
+  "fecha_regeneracion": "2025-08-06T05:46:22.885066"
+}

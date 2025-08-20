@@ -1,0 +1,77 @@
+{
+  "document_id": "0000000010000000058000571_cleaned",
+  "entities": [
+    {
+      "text": "ASPECTS 9",
+      "type": "PUNTUACION_CLINICA",
+      "start": 486,
+      "end": 495
+    },
+    {
+      "text": "brazo posterior de la cápsula interna izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 535,
+      "end": 582
+    },
+    {
+      "text": "cápsula interna izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 557,
+      "end": 582
+    },
+    {
+      "text": "microangiopatía crónica",
+      "type": "PATOLOGIA",
+      "start": 687,
+      "end": 710
+    },
+    {
+      "text": "TC PERFUSIÓN",
+      "type": "TECNICA_IMAGEN",
+      "start": 848,
+      "end": 860
+    },
+    {
+      "text": "TTP",
+      "type": "MEDIDA",
+      "start": 872,
+      "end": 875
+    },
+    {
+      "text": "CBV",
+      "type": "MEDIDA",
+      "start": 926,
+      "end": 929
+    },
+    {
+      "text": "Leve teromatosis calcificada en el arco aórtico y los segmentos supraclinoideos de las arterias carótidas internas",
+      "type": "PATOLOGIA",
+      "start": 985,
+      "end": 1099
+    },
+    {
+      "text": "ACAs, ACMs y ACPs",
+      "type": "ARTERIA",
+      "start": 1261,
+      "end": 1278
+    },
+    {
+      "text": "sangrado agudo intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 424,
+      "end": 451
+    },
+    {
+      "text": "No se observan imágenes de sangrado agudo intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1496,
+      "end": 1550
+    },
+    {
+      "text": "Principales arterias intracraneales permeables",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1593,
+      "end": 1639
+    }
+  ]
+}

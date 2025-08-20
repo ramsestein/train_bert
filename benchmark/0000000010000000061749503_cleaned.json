@@ -1,0 +1,89 @@
+{
+  "document_id": "0000000010000000061749503_cleaned",
+  "entities": [
+    {
+      "text": "TC CRANIAL BASAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 283,
+      "end": 299
+    },
+    {
+      "text": "No s'observen signes d'hemorràgia aguda intra o extraaxial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 435,
+      "end": 493
+    },
+    {
+      "text": "sense signes evidents d'isquèmia cerebral establerta",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 553,
+      "end": 605
+    },
+    {
+      "text": "Canvis involutius",
+      "type": "PATOLOGIA",
+      "start": 648,
+      "end": 665
+    },
+    {
+      "text": "Cisternes basals lliures",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 746,
+      "end": 770
+    },
+    {
+      "text": "TC PERFUSIÓ",
+      "type": "TECNICA_IMAGEN",
+      "start": 302,
+      "end": 313
+    },
+    {
+      "text": "No s'observen alteracions valorables evidents en els mapes de TTP, CBV i CBF",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 785,
+      "end": 861
+    },
+    {
+      "text": "ANGIO-TC EXTRA I INTRACRANIAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 863,
+      "end": 892
+    },
+    {
+      "text": "Segments proximals de les principals artèries cerebrals intracranials permeables (ACAs, ACMs i ACPs)",
+      "type": "ARTERIA",
+      "start": 894,
+      "end": 994
+    },
+    {
+      "text": "Circulació carotídia i sistema vertebrobasilar permeables, sense estenosis evidents",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1040,
+      "end": 1123
+    },
+    {
+      "text": "vessament pleural bilateral",
+      "type": "PATOLOGIA",
+      "start": 1154,
+      "end": 1181
+    },
+    {
+      "text": "l'esquerre d'aspecte loculat i associat a engruiximent de la fulla pleural",
+      "type": "PATOLOGIA",
+      "start": 1183,
+      "end": 1257
+    },
+    {
+      "text": "Sense signes evidents d'isquèmia cerebral ni alteracions significatives a l'estudi de perfusió ni angio-tc",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1282,
+      "end": 1388
+    },
+    {
+      "text": "exploració molt limitada per l'artefacte de moviment",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1390,
+      "end": 1442
+    }
+  ]
+}

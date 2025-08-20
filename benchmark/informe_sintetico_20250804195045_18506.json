@@ -1,0 +1,313 @@
+{
+  "document_id": "informe_sintetico_20250804195045_18506",
+  "entities": [
+    {
+      "text": "alteración en el nivel de conciencia",
+      "type": "PATOLOGIA",
+      "start": 196,
+      "end": 232
+    },
+    {
+      "text": "signos de afectación bulbar",
+      "type": "PATOLOGIA",
+      "start": 235,
+      "end": 262
+    },
+    {
+      "text": "ictus vertebrobasilar",
+      "type": "PATOLOGIA",
+      "start": 276,
+      "end": 297
+    },
+    {
+      "text": "hemorragias intracraneales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 550,
+      "end": 576
+    },
+    {
+      "text": "colecciones extraaxiales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 580,
+      "end": 604
+    },
+    {
+      "text": "hipodensidad",
+      "type": "PATOLOGIA",
+      "start": 617,
+      "end": 629
+    },
+    {
+      "text": "protuberancia",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 636,
+      "end": 649
+    },
+    {
+      "text": "parte inferior del mesencéfalo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 652,
+      "end": 682
+    },
+    {
+      "text": "infarto isquémico",
+      "type": "PATOLOGIA",
+      "start": 698,
+      "end": 715
+    },
+    {
+      "text": "territorio del tronco basilar",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 719,
+      "end": 748
+    },
+    {
+      "text": "diferenciación córtico-subcortical",
+      "type": "PATOLOGIA",
+      "start": 753,
+      "end": 787
+    },
+    {
+      "text": "masas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 835,
+      "end": 840
+    },
+    {
+      "text": "edema cerebral significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 844,
+      "end": 872
+    },
+    {
+      "text": "estructuras de la línea media",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 878,
+      "end": 907
+    },
+    {
+      "text": "sistema ventricular",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 928,
+      "end": 947
+    },
+    {
+      "text": "tamaño y morfología dentro de límites normales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 956,
+      "end": 1002
+    },
+    {
+      "text": "cisternas basales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1008,
+      "end": 1025
+    },
+    {
+      "text": "discreta reducción de su amplitud",
+      "type": "PATOLOGIA",
+      "start": 1035,
+      "end": 1068
+    },
+    {
+      "text": "probablemente reactiva",
+      "type": "PATOLOGIA",
+      "start": 1070,
+      "end": 1092
+    },
+    {
+      "text": "tiempo hasta el pico (Tmax)",
+      "type": "TECNICA_IMAGEN",
+      "start": 1147,
+      "end": 1174
+    },
+    {
+      "text": "prolongación marcada",
+      "type": "PATOLOGIA",
+      "start": 1184,
+      "end": 1204
+    },
+    {
+      "text": "territorio correspondiente al tronco basilar",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1211,
+      "end": 1255
+    },
+    {
+      "text": "caída significativa del flujo cerebral (CBF)",
+      "type": "PATOLOGIA",
+      "start": 1261,
+      "end": 1305
+    },
+    {
+      "text": "volumen cerebral (CBV)",
+      "type": "PATOLOGIA",
+      "start": 1308,
+      "end": 1330
+    },
+    {
+      "text": "core isquémico",
+      "type": "PATOLOGIA",
+      "start": 1361,
+      "end": 1375
+    },
+    {
+      "text": "mismatch reducido",
+      "type": "PATOLOGIA",
+      "start": 1388,
+      "end": 1405
+    },
+    {
+      "text": "daño isquémico establecido",
+      "type": "PATOLOGIA",
+      "start": 1423,
+      "end": 1449
+    },
+    {
+      "text": "área extensa de penumbra viable",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1454,
+      "end": 1485
+    },
+    {
+      "text": "tronco de la arteria basilar",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1543,
+      "end": 1571
+    },
+    {
+      "text": "segmento medio",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1584,
+      "end": 1598
+    },
+    {
+      "text": "sin visualización distal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1600,
+      "end": 1624
+    },
+    {
+      "text": "arterias vertebrales derecha e izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1630,
+      "end": 1670
+    },
+    {
+      "text": "permeables",
+      "type": "PATOLOGIA",
+      "start": 1675,
+      "end": 1685
+    },
+    {
+      "text": "confluencia en la basilar",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1695,
+      "end": 1720
+    },
+    {
+      "text": "signos de estenosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1737,
+      "end": 1756
+    },
+    {
+      "text": "placa ateromatosa significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1760,
+      "end": 1791
+    },
+    {
+      "text": "vasos supraórticos",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1795,
+      "end": 1813
+    },
+    {
+      "text": "carotídeos intracraneales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1817,
+      "end": 1842
+    },
+    {
+      "text": "arterias cerebrales posteriores",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1848,
+      "end": 1879
+    },
+    {
+      "text": "flujo colateral",
+      "type": "PATOLOGIA",
+      "start": 1889,
+      "end": 1904
+    },
+    {
+      "text": "ramas de circulación anterior",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1917,
+      "end": 1946
+    },
+    {
+      "text": "aneurismas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1966,
+      "end": 1976
+    },
+    {
+      "text": "malformaciones vasculares",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1980,
+      "end": 2005
+    },
+    {
+      "text": "arteria basilar",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1556,
+      "end": 1571
+    },
+    {
+      "text": "infarto isquémico establecido",
+      "type": "PATOLOGIA",
+      "start": 2084,
+      "end": 2113
+    },
+    {
+      "text": "tronco encefálico",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 2117,
+      "end": 2134
+    },
+    {
+      "text": "daño irreversible",
+      "type": "PATOLOGIA",
+      "start": 2179,
+      "end": 2196
+    },
+    {
+      "text": "ausencia de penumbra significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2199,
+      "end": 2233
+    },
+    {
+      "text": "hemorragia asociada",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2238,
+      "end": 2257
+    },
+    {
+      "text": "valoración urgente",
+      "type": "TEMPORALIDAD",
+      "start": 2299,
+      "end": 2317
+    },
+    {
+      "text": "tratamiento endovascular",
+      "type": "PATOLOGIA",
+      "start": 2323,
+      "end": 2347
+    }
+  ],
+  "regenerado": true,
+  "fecha_regeneracion": "2025-08-06T12:57:18.397830"
+}

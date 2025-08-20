@@ -1,0 +1,257 @@
+{
+  "document_id": "informe_sintetico_20250804195045_15783",
+  "entities": [
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 312,
+      "end": 326
+    },
+    {
+      "text": "territorio vertebrobasilar",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 330,
+      "end": 356
+    },
+    {
+      "text": "TC CRANEAL BASAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 558,
+      "end": 574
+    },
+    {
+      "text": "hemorragias intracraneales agudas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 594,
+      "end": 627
+    },
+    {
+      "text": "lesiones ocupantes de espacio",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 631,
+      "end": 660
+    },
+    {
+      "text": "cambios crónicos microangiopáticos inespecíficos",
+      "type": "PATOLOGIA",
+      "start": 674,
+      "end": 722
+    },
+    {
+      "text": "sustancia blanca periventricular",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 726,
+      "end": 758
+    },
+    {
+      "text": "Sistema ventricular simétrico",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 760,
+      "end": 789
+    },
+    {
+      "text": "signos de hidrocefalia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 796,
+      "end": 818
+    },
+    {
+      "text": "Líneas medias conservadas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 820,
+      "end": 845
+    },
+    {
+      "text": "Cisternas basales libres",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 847,
+      "end": 871
+    },
+    {
+      "text": "Mapas de tiempo al pico (TTP)",
+      "type": "TECNICA_IMAGEN",
+      "start": 888,
+      "end": 917
+    },
+    {
+      "text": "tiempo de tránsito medio (MTT)",
+      "type": "TECNICA_IMAGEN",
+      "start": 920,
+      "end": 950
+    },
+    {
+      "text": "prolongación temporal",
+      "type": "PATOLOGIA",
+      "start": 960,
+      "end": 981
+    },
+    {
+      "text": "territorio vertebrobasilar",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 330,
+      "end": 356
+    },
+    {
+      "text": "tronco del encéfalo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1034,
+      "end": 1053
+    },
+    {
+      "text": "cerebelo bilateral",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1056,
+      "end": 1074
+    },
+    {
+      "text": "hipoperfusión crítica",
+      "type": "PATOLOGIA",
+      "start": 1091,
+      "end": 1112
+    },
+    {
+      "text": "flujo cerebral regional (CBF)",
+      "type": "MEDIDA",
+      "start": 1117,
+      "end": 1146
+    },
+    {
+      "text": "volumen cerebral (CBV)",
+      "type": "MEDIDA",
+      "start": 1190,
+      "end": 1212
+    },
+    {
+      "text": "ANGIO-TC EXTRA E INTRACRANEAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 1302,
+      "end": 1331
+    },
+    {
+      "text": "oclusión parcial",
+      "type": "PATOLOGIA",
+      "start": 1346,
+      "end": 1362
+    },
+    {
+      "text": "arteria basilar proximal",
+      "type": "ARTERIA",
+      "start": 1369,
+      "end": 1393
+    },
+    {
+      "text": "estenosis significativa (>70%)",
+      "type": "PATOLOGIA",
+      "start": 1398,
+      "end": 1428
+    },
+    {
+      "text": "segmento V3-V4",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1432,
+      "end": 1446
+    },
+    {
+      "text": "arteria vertebral derecha",
+      "type": "ARTERIA",
+      "start": 1453,
+      "end": 1478
+    },
+    {
+      "text": "flujo conservado",
+      "type": "PATOLOGIA",
+      "start": 1484,
+      "end": 1500
+    },
+    {
+      "text": "arteria vertebral izquierda",
+      "type": "ARTERIA",
+      "start": 1507,
+      "end": 1534
+    },
+    {
+      "text": "morfología normal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1549,
+      "end": 1566
+    },
+    {
+      "text": "aneurismas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1586,
+      "end": 1596
+    },
+    {
+      "text": "disecciones",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1600,
+      "end": 1611
+    },
+    {
+      "text": "estenosis significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1628,
+      "end": 1652
+    },
+    {
+      "text": "troncos supraaórticos",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1660,
+      "end": 1681
+    },
+    {
+      "text": "arterias carotídeas",
+      "type": "ARTERIA",
+      "start": 1692,
+      "end": 1711
+    },
+    {
+      "text": "Ausencia de hemorragia intracraneal o infarto establecido",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1740,
+      "end": 1797
+    },
+    {
+      "text": "ASPECTS posterior 10/10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 1821,
+      "end": 1844
+    },
+    {
+      "text": "Alteración hemodinámica compatible con isquemia aguda vertebrobasilar",
+      "type": "PATOLOGIA",
+      "start": 1849,
+      "end": 1918
+    },
+    {
+      "text": "hipoperfusión en tronco encefálico y cerebelo bilateral",
+      "type": "PATOLOGIA",
+      "start": 1923,
+      "end": 1978
+    },
+    {
+      "text": "probable tejido penumbra",
+      "type": "PATOLOGIA",
+      "start": 1984,
+      "end": 2008
+    },
+    {
+      "text": "Oclusión parcial de arteria basilar proximal",
+      "type": "PATOLOGIA",
+      "start": 2012,
+      "end": 2056
+    },
+    {
+      "text": "estenosis significativa en arteria vertebral derecha",
+      "type": "PATOLOGIA",
+      "start": 2059,
+      "end": 2111
+    },
+    {
+      "text": "sin otras alteraciones vasculares significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2113,
+      "end": 2161
+    }
+  ]
+}

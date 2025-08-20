@@ -1,0 +1,65 @@
+{
+  "document_id": "informe_sintetico_20250804195045_13779",
+  "entities": [
+    {
+      "text": "hematoma hiperdenso",
+      "type": "PATOLOGIA",
+      "start": 455,
+      "end": 474
+    },
+    {
+      "text": "3 cm",
+      "type": "MEDIDA",
+      "start": 494,
+      "end": 498
+    },
+    {
+      "text": "hemisferio cerebeloso derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 517,
+      "end": 546
+    },
+    {
+      "text": "derecho",
+      "type": "LATERALIDAD",
+      "start": 539,
+      "end": 546
+    },
+    {
+      "text": "cuarto ventrículo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 591,
+      "end": 608
+    },
+    {
+      "text": "hidrocefalia obstructiva",
+      "type": "PATOLOGIA",
+      "start": 621,
+      "end": 645
+    },
+    {
+      "text": "No se visualizan otras hemorragias intraparenquimatosas ni sangrado subaracnoideo ni en espacios extraaxiales.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 658,
+      "end": 768
+    },
+    {
+      "text": "No se observa desplazamiento significativo de la línea media.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 769,
+      "end": 830
+    },
+    {
+      "text": "No se evidencian signos de malformación vascular o aneurisma asociado.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1091,
+      "end": 1161
+    },
+    {
+      "text": "No se identifican otras lesiones vasculares ni isquemia cerebral asociada.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1283,
+      "end": 1357
+    }
+  ]
+}

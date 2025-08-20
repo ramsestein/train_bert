@@ -1,0 +1,233 @@
+{
+  "document_id": "informe_sintetico_20250804195045_05020",
+  "entities": [
+    {
+      "text": "ictus isquémico",
+      "type": "PATOLOGIA",
+      "start": 215,
+      "end": 230
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 248,
+      "end": 280
+    },
+    {
+      "text": "transformación hemorrágica",
+      "type": "PATOLOGIA",
+      "start": 306,
+      "end": 332
+    },
+    {
+      "text": "tratamiento trombolítico",
+      "type": "PATOLOGIA",
+      "start": 338,
+      "end": 362
+    },
+    {
+      "text": "área hiperdensa punctiforme",
+      "type": "PATOLOGIA",
+      "start": 555,
+      "end": 582
+    },
+    {
+      "text": "núcleo caudado",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 589,
+      "end": 603
+    },
+    {
+      "text": "cápsula interna izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 606,
+      "end": 631
+    },
+    {
+      "text": "colección hemática parenquimatosa",
+      "type": "PATOLOGIA",
+      "start": 656,
+      "end": 689
+    },
+    {
+      "text": "transformación hemorrágica de infarto isquémico",
+      "type": "PATOLOGIA",
+      "start": 706,
+      "end": 753
+    },
+    {
+      "text": "HI1",
+      "type": "PUNTUACION_CLINICA",
+      "start": 772,
+      "end": 775
+    },
+    {
+      "text": "hemorragias intraventriculares",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 793,
+      "end": 823
+    },
+    {
+      "text": "espacios subaracnoideos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 827,
+      "end": 850
+    },
+    {
+      "text": "efecto de masa",
+      "type": "PATOLOGIA",
+      "start": 890,
+      "end": 904
+    },
+    {
+      "text": "desplazamiento de línea media",
+      "type": "PATOLOGIA",
+      "start": 908,
+      "end": 937
+    },
+    {
+      "text": "CBF",
+      "type": "MEDIDA",
+      "start": 1000,
+      "end": 1003
+    },
+    {
+      "text": "volumen cerebral",
+      "type": "MEDIDA",
+      "start": 1011,
+      "end": 1027
+    },
+    {
+      "text": "CBV",
+      "type": "MEDIDA",
+      "start": 1029,
+      "end": 1032
+    },
+    {
+      "text": "territorio media izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1037,
+      "end": 1063
+    },
+    {
+      "text": "zona isquémica",
+      "type": "PATOLOGIA",
+      "start": 1079,
+      "end": 1093
+    },
+    {
+      "text": "aumento leve en maps de tiempo",
+      "type": "PATOLOGIA",
+      "start": 1099,
+      "end": 1129
+    },
+    {
+      "text": "TTP",
+      "type": "MEDIDA",
+      "start": 1131,
+      "end": 1134
+    },
+    {
+      "text": "MTT",
+      "type": "MEDIDA",
+      "start": 1137,
+      "end": 1140
+    },
+    {
+      "text": "penumbra amplia",
+      "type": "PATOLOGIA",
+      "start": 1168,
+      "end": 1183
+    },
+    {
+      "text": "Oclusión residual parcial",
+      "type": "PATOLOGIA",
+      "start": 1222,
+      "end": 1247
+    },
+    {
+      "text": "segmento proximal de arteria cerebral media izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1251,
+      "end": 1304
+    },
+    {
+      "text": "Vasos intracraneales contralaterales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1306,
+      "end": 1342
+    },
+    {
+      "text": "estenosis",
+      "type": "PATOLOGIA",
+      "start": 1347,
+      "end": 1356
+    },
+    {
+      "text": "malformaciones",
+      "type": "PATOLOGIA",
+      "start": 1360,
+      "end": 1374
+    },
+    {
+      "text": "signos de disección",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1379,
+      "end": 1398
+    },
+    {
+      "text": "Ateromatosis carotídea leve",
+      "type": "PATOLOGIA",
+      "start": 1400,
+      "end": 1427
+    },
+    {
+      "text": "estenosis significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1432,
+      "end": 1455
+    },
+    {
+      "text": "transformación hemorrágica tipo HI1",
+      "type": "PATOLOGIA",
+      "start": 1495,
+      "end": 1530
+    },
+    {
+      "text": "territorio de arteria cerebral media izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 234,
+      "end": 280
+    },
+    {
+      "text": "infarto isquémico reciente",
+      "type": "PATOLOGIA",
+      "start": 1587,
+      "end": 1613
+    },
+    {
+      "text": "Oclusión residual parcial en ACM izquierda",
+      "type": "PATOLOGIA",
+      "start": 1615,
+      "end": 1657
+    },
+    {
+      "text": "hemorragia masiva",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1672,
+      "end": 1689
+    },
+    {
+      "text": "complicaciones asociadas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1693,
+      "end": 1717
+    },
+    {
+      "text": "efecto de masa significativo",
+      "type": "PATOLOGIA",
+      "start": 1747,
+      "end": 1775
+    }
+  ]
+}

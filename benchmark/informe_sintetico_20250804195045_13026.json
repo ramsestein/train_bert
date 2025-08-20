@@ -1,0 +1,131 @@
+{
+  "document_id": "informe_sintetico_20250804195045_13026",
+  "entities": [
+    {
+      "text": "ictus isquémico",
+      "type": "PATOLOGIA",
+      "start": 246,
+      "end": 261
+    },
+    {
+      "text": "arteria cerebral media",
+      "type": "ARTERIA",
+      "start": 279,
+      "end": 301
+    },
+    {
+      "text": "izquierdo",
+      "type": "LATERALIDAD",
+      "start": 206,
+      "end": 215
+    },
+    {
+      "text": "ASPECTS 9/10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 627,
+      "end": 639
+    },
+    {
+      "text": "No se detecta hemorragia intracraneal ni hematomas subyacentes.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 513,
+      "end": 576
+    },
+    {
+      "text": "No se evidencian lesiones antiguas significativas ni edema cerebral importante.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 641,
+      "end": 720
+    },
+    {
+      "text": "Línea media centrada.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 721,
+      "end": 742
+    },
+    {
+      "text": "Sistema ventricular de tamaño y morfología normales.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 743,
+      "end": 795
+    },
+    {
+      "text": "aumento del tiempo de tránsito medio (TTP)",
+      "type": "PATOLOGIA",
+      "start": 830,
+      "end": 872
+    },
+    {
+      "text": "reducción del flujo cerebral (CBF)",
+      "type": "PATOLOGIA",
+      "start": 875,
+      "end": 909
+    },
+    {
+      "text": "territorio parietal y opercular derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 913,
+      "end": 952
+    },
+    {
+      "text": "ACM",
+      "type": "ARTERIA",
+      "start": 1000,
+      "end": 1003
+    },
+    {
+      "text": "volumen cerebral (CBV) conservado",
+      "type": "PATOLOGIA",
+      "start": 1009,
+      "end": 1042
+    },
+    {
+      "text": "Oclusión segmentaria en la rama M2 de la ACM derecha",
+      "type": "PATOLOGIA",
+      "start": 1139,
+      "end": 1191
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 1184,
+      "end": 1191
+    },
+    {
+      "text": "sin evidencia de oclusiones adicionales en arterias principales intracraneales.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1228,
+      "end": 1307
+    },
+    {
+      "text": "sin estenosis hemodinámicamente significativas.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1366,
+      "end": 1413
+    },
+    {
+      "text": "Oclusión aguda distal en segmento M2 de la ACM derecha",
+      "type": "PATOLOGIA",
+      "start": 1481,
+      "end": 1535
+    },
+    {
+      "text": "lesión isquémica limitada",
+      "type": "PATOLOGIA",
+      "start": 1540,
+      "end": 1565
+    },
+    {
+      "text": "ASPECTS global 9/10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 1600,
+      "end": 1619
+    },
+    {
+      "text": "No se observan signos de hemorragia intracraneal ni edema cerebral grave.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1621,
+      "end": 1694
+    }
+  ]
+}

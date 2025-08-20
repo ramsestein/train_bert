@@ -1,0 +1,101 @@
+{
+  "document_id": "informe_sintetico_20250804195045_01202",
+  "entities": [
+    {
+      "text": "infarto",
+      "type": "PATOLOGIA",
+      "start": 299,
+      "end": 306
+    },
+    {
+      "text": "región de frontera vascular",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 310,
+      "end": 337
+    },
+    {
+      "text": "watershed",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 339,
+      "end": 348
+    },
+    {
+      "text": "hemorragias intra ni extraaxiales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 534,
+      "end": 567
+    },
+    {
+      "text": "áreas hipodensas bilaterales",
+      "type": "PATOLOGIA",
+      "start": 584,
+      "end": 612
+    },
+    {
+      "text": "regiones subcorticales frontoparietales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 620,
+      "end": 659
+    },
+    {
+      "text": "arterias cerebrales anterior y media",
+      "type": "ARTERIA",
+      "start": 713,
+      "end": 749
+    },
+    {
+      "text": "zonas watershed",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 751,
+      "end": 766
+    },
+    {
+      "text": "aumento del tiempo medio de tránsito (MTT)",
+      "type": "MEDIDA",
+      "start": 1026,
+      "end": 1068
+    },
+    {
+      "text": "reducción leve a moderada del volumen de flujo cerebral (CBV)",
+      "type": "MEDIDA",
+      "start": 1071,
+      "end": 1132
+    },
+    {
+      "text": "discreta disminución del flujo cerebral (CBF)",
+      "type": "MEDIDA",
+      "start": 1190,
+      "end": 1235
+    },
+    {
+      "text": "calibre conservado",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1515,
+      "end": 1533
+    },
+    {
+      "text": "infarto tipo watershed bilateral frontoparietal",
+      "type": "PATOLOGIA",
+      "start": 1662,
+      "end": 1709
+    },
+    {
+      "text": "sin signos de hemorragia ni desplazamiento",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1711,
+      "end": 1753
+    },
+    {
+      "text": "zonas de frontera vascular",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1799,
+      "end": 1825
+    },
+    {
+      "text": "insuficiencia hemodinámica crónica",
+      "type": "PATOLOGIA",
+      "start": 1855,
+      "end": 1889
+    }
+  ]
+}

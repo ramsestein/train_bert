@@ -1,0 +1,131 @@
+{
+  "document_id": "informe_sintetico_20250804195045_15440",
+  "entities": [
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 309,
+      "end": 323
+    },
+    {
+      "text": "territorio vertebrobasilar",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 327,
+      "end": 353
+    },
+    {
+      "text": "Tmax",
+      "type": "MEDIDA",
+      "start": 857,
+      "end": 861
+    },
+    {
+      "text": "TTP",
+      "type": "MEDIDA",
+      "start": 864,
+      "end": 867
+    },
+    {
+      "text": "cerebeloso derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 882,
+      "end": 900
+    },
+    {
+      "text": "flujo sanguíneo cerebral (CBF)",
+      "type": "PATOLOGIA",
+      "start": 945,
+      "end": 975
+    },
+    {
+      "text": "volumen sanguíneo cerebral (CBV)",
+      "type": "PATOLOGIA",
+      "start": 978,
+      "end": 1010
+    },
+    {
+      "text": "penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1063,
+      "end": 1081
+    },
+    {
+      "text": "Oclusión completa",
+      "type": "PATOLOGIA",
+      "start": 1145,
+      "end": 1162
+    },
+    {
+      "text": "arteria vertebral derecha (V4)",
+      "type": "ARTERIA",
+      "start": 1185,
+      "end": 1215
+    },
+    {
+      "text": "Las arterias vertebrales izquierda y basilar proximal",
+      "type": "ARTERIA",
+      "start": 1250,
+      "end": 1303
+    },
+    {
+      "text": "arterias cerebrales anteriores, medias y posteriores",
+      "type": "ARTERIA",
+      "start": 1365,
+      "end": 1417
+    },
+    {
+      "text": "No se evidencian hemorragias intra ni extraaxiales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 550,
+      "end": 600
+    },
+    {
+      "text": "No se identifican aneurismas ni malformaciones vasculares",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1471,
+      "end": 1528
+    },
+    {
+      "text": "sin estenosis significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1331,
+      "end": 1359
+    },
+    {
+      "text": "sin signos de estenosis ni disección",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1433,
+      "end": 1469
+    },
+    {
+      "text": "sin estenosis relevantes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1641,
+      "end": 1665
+    },
+    {
+      "text": "3 horas de evolución",
+      "type": "TEMPORALIDAD",
+      "start": 267,
+      "end": 287
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 398,
+      "end": 414
+    },
+    {
+      "text": "angiografía TC extra e intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 448,
+      "end": 483
+    },
+    {
+      "text": "TC PERFUSIÓN",
+      "type": "TECNICA_IMAGEN",
+      "start": 801,
+      "end": 813
+    }
+  ]
+}

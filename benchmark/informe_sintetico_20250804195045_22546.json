@@ -1,0 +1,71 @@
+{
+  "document_id": "informe_sintetico_20250804195045_22546",
+  "entities": [
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 595,
+      "end": 609
+    },
+    {
+      "text": "territorio de ACA izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1329,
+      "end": 1356
+    },
+    {
+      "text": "arteria cerebral anterior",
+      "type": "ARTERIA",
+      "start": 631,
+      "end": 656
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 799,
+      "end": 808
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 729,
+      "end": 739
+    },
+    {
+      "text": "Oclusión completa",
+      "type": "PATOLOGIA",
+      "start": 1064,
+      "end": 1081
+    },
+    {
+      "text": "segmento A2",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1086,
+      "end": 1097
+    },
+    {
+      "text": "arteria cerebral anterior izquierda",
+      "type": "ARTERIA",
+      "start": 1104,
+      "end": 1139
+    },
+    {
+      "text": "sin alteraciones significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1527,
+      "end": 1558
+    },
+    {
+      "text": "No se observan signos de hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 416,
+      "end": 464
+    },
+    {
+      "text": "sin estenosis significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1215,
+      "end": 1243
+    }
+  ]
+}

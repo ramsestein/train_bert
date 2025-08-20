@@ -1,0 +1,25 @@
+UO_PACN (Unidad Organizativa Médica): RADIO
+
+PRUEB (Prueba solicitada): TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANG IOTC ARTERIAL INTRACRANEAL)
+
+CLIN (Resumen clínico): Paciente con déficit neurológico súbito y sospecha de ictus isquémico agudo
+
+OBSR (Protocolo): TC craneal basal urgente, TC perfusión cerebral y Angio-TC intra y extracraneal en protocolo código ictus
+
+RESL (Resultados): TC CRANEAL BASAL: Se identifica signo de arteria hiperdensa en segmento M1 de la arteria cerebral media derecha, compatible con trombo intraluminal. Hipodensidad incipiente en el territorio de la ACM derecha que afecta a la cápsula interna y la corona radiada, con ASPECTS 6. No se observan hemorragias intracraneales ni masas expansivas. Diferenciación cortico-subcortical alterada en zona afectada. Línea media centrada. Sistema ventricular sin alteraciones significativas. Cisternas basales libres.
+
+TC PERFUSIÓN: Mapas de perfusión evidencian aumento del tiempo de tránsito medio (TTP) y tiempo máximo (Tmax) en territorio de ACM derecha, con reducción de flujo cerebral (CBF) y volumen cerebral (CBV) en áreas correspondientes, patrón compatible con isquemia aguda sin infarto establecido completo.
+
+ANGIO-TC INTRA Y EXTRACRANEAL: Oclusión completa del segmento M1 de la arteria cerebral media derecha. Sistema carotídeo y vertebrobasilar permeable, sin estenosis significativas en vasos extracraneales. No se observa evidencia de otras estenosis ni malformaciones vasculares.
+
+CONCL (Conclusiones): Ictus isquémico agudo por oclusión trombótica del segmento proximal M1 de la ACM derecha con signos tempranos de isquemia (ASPECTS 6) y áreas de penumbra identificadas en mapas de perfusión. No complicaciones hemorrágicas detectadas.
+
+ACTI_ADICI (Actividad adicional): Notificación urgente a neurología para valoración y posible trombectomía mecánica.
+
+ICON (Estudio): @RADIO@TCICTUS_M1@
+
+X00DIATXT (Texto del diagnóstico ACR): Oclusión aguda del segmento M1 de la arteria cerebral media derecha con isquemia cortical y subcortical temprana en territorio afectado. ASPECTS 6. No hemorragia intracraneal.
+
+EST_T_DES (Descripción): TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANGIOTC ARTERIAL INTRACRANEAL)
+
+ZVASOS_D (Der.): Oclusión M1 ACM derecha con arteria hiperdensa evidente.

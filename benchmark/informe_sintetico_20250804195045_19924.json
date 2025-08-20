@@ -1,0 +1,89 @@
+{
+  "document_id": "informe_sintetico_20250804195045_19924",
+  "entities": [
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 250,
+      "end": 264
+    },
+    {
+      "text": "arteria cerebral posterior",
+      "type": "ARTERIA",
+      "start": 282,
+      "end": 308
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 600,
+      "end": 609
+    },
+    {
+      "text": "región occipital izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 583,
+      "end": 609
+    },
+    {
+      "text": "hipodensidad parenquimatosa sutil",
+      "type": "PATOLOGIA",
+      "start": 611,
+      "end": 644
+    },
+    {
+      "text": "ASPECTS 9/10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 788,
+      "end": 800
+    },
+    {
+      "text": "prolongación del tiempo hasta el pico (TTP)",
+      "type": "MEDIDA",
+      "start": 831,
+      "end": 874
+    },
+    {
+      "text": "tiempo de tránsito medio aumentado",
+      "type": "MEDIDA",
+      "start": 877,
+      "end": 911
+    },
+    {
+      "text": "volumen sanguíneo cerebral (CBV) mantenido",
+      "type": "MEDIDA",
+      "start": 1033,
+      "end": 1075
+    },
+    {
+      "text": "penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1103,
+      "end": 1121
+    },
+    {
+      "text": "Oclusión distal de la arteria cerebral posterior izquierda (segmento P2-P3)",
+      "type": "PATOLOGIA",
+      "start": 1154,
+      "end": 1229
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 600,
+      "end": 609
+    },
+    {
+      "text": "No evidencia de hemorragia intracraneal ni colecciones extraaxiales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 511,
+      "end": 578
+    },
+    {
+      "text": "No se observan hallazgos hemorrágicos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1554,
+      "end": 1591
+    }
+  ]
+}

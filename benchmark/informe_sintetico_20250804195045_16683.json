@@ -1,0 +1,89 @@
+{
+  "document_id": "informe_sintetico_20250804195045_16683",
+  "entities": [
+    {
+      "text": "infarto cerebral agudo",
+      "type": "PATOLOGIA",
+      "start": 742,
+      "end": 764
+    },
+    {
+      "text": "territorio carotídeo izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 556,
+      "end": 586
+    },
+    {
+      "text": "arteria carótida interna izquierda",
+      "type": "ARTERIA",
+      "start": 1470,
+      "end": 1504
+    },
+    {
+      "text": "izquierdo",
+      "type": "LATERALIDAD",
+      "start": 577,
+      "end": 586
+    },
+    {
+      "text": "ASPECTS 5/10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 766,
+      "end": 778
+    },
+    {
+      "text": "agudo",
+      "type": "TEMPORALIDAD",
+      "start": 759,
+      "end": 764
+    },
+    {
+      "text": "Oclusión completa de la arteria carótida interna izquierda",
+      "type": "PATOLOGIA",
+      "start": 1446,
+      "end": 1504
+    },
+    {
+      "text": "necrosis",
+      "type": "PATOLOGIA",
+      "start": 1289,
+      "end": 1297
+    },
+    {
+      "text": "penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1394,
+      "end": 1412
+    },
+    {
+      "text": "No se observan hemorragias intracraneales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2180,
+      "end": 2221
+    },
+    {
+      "text": "No evidencia de hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2760,
+      "end": 2799
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 319,
+      "end": 335
+    },
+    {
+      "text": "perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 362,
+      "end": 380
+    },
+    {
+      "text": "AngioTC arterial intra y extracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 383,
+      "end": 420
+    }
+  ]
+}

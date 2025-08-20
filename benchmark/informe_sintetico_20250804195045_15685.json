@@ -1,0 +1,137 @@
+{
+  "document_id": "informe_sintetico_20250804195045_15685",
+  "entities": [
+    {
+      "text": "isquemia vertebrobasilar aguda",
+      "type": "PATOLOGIA",
+      "start": 275,
+      "end": 305
+    },
+    {
+      "text": "hipodensidad",
+      "type": "PATOLOGIA",
+      "start": 626,
+      "end": 638
+    },
+    {
+      "text": "lesión isquémica",
+      "type": "PATOLOGIA",
+      "start": 761,
+      "end": 777
+    },
+    {
+      "text": "aumento del TTD",
+      "type": "PATOLOGIA",
+      "start": 951,
+      "end": 966
+    },
+    {
+      "text": "flujo sanguíneo cerebral (CBF)",
+      "type": "PATOLOGIA",
+      "start": 1099,
+      "end": 1129
+    },
+    {
+      "text": "volumen cerebral (CBV)",
+      "type": "PATOLOGIA",
+      "start": 1134,
+      "end": 1156
+    },
+    {
+      "text": "mismatch relevante",
+      "type": "PATOLOGIA",
+      "start": 1233,
+      "end": 1251
+    },
+    {
+      "text": "ateromatosis calcificada moderada",
+      "type": "PATOLOGIA",
+      "start": 1304,
+      "end": 1337
+    },
+    {
+      "text": "estrechamiento crítico (>80%)",
+      "type": "PATOLOGIA",
+      "start": 1350,
+      "end": 1379
+    },
+    {
+      "text": "ausencia de flujo distal",
+      "type": "PATOLOGIA",
+      "start": 1432,
+      "end": 1456
+    },
+    {
+      "text": "arteria vertebral derecha",
+      "type": "ARTERIA",
+      "start": 1401,
+      "end": 1426
+    },
+    {
+      "text": "arteria basilar proximal",
+      "type": "ARTERIA",
+      "start": 1463,
+      "end": 1487
+    },
+    {
+      "text": "tronco basilar proximal",
+      "type": "ARTERIA",
+      "start": 1594,
+      "end": 1617
+    },
+    {
+      "text": "derecho",
+      "type": "LATERALIDAD",
+      "start": 675,
+      "end": 682
+    },
+    {
+      "text": "derecho",
+      "type": "LATERALIDAD",
+      "start": 675,
+      "end": 682
+    },
+    {
+      "text": "derecho",
+      "type": "LATERALIDAD",
+      "start": 675,
+      "end": 682
+    },
+    {
+      "text": "derecho",
+      "type": "LATERALIDAD",
+      "start": 675,
+      "end": 682
+    },
+    {
+      "text": "80%",
+      "type": "MEDIDA",
+      "start": 1375,
+      "end": 1378
+    },
+    {
+      "text": "aguda",
+      "type": "TEMPORALIDAD",
+      "start": 300,
+      "end": 305
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 350,
+      "end": 366
+    },
+    {
+      "text": "perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 368,
+      "end": 386
+    },
+    {
+      "text": "angio-TC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 418,
+      "end": 448
+    }
+  ]
+}

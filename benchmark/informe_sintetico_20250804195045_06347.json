@@ -1,0 +1,83 @@
+{
+  "document_id": "informe_sintetico_20250804195045_06347",
+  "entities": [
+    {
+      "text": "ictus isquémico",
+      "type": "PATOLOGIA",
+      "start": 346,
+      "end": 361
+    },
+    {
+      "text": "área hipodensa difusa",
+      "type": "PATOLOGIA",
+      "start": 556,
+      "end": 577
+    },
+    {
+      "text": "infarto tipo watershed",
+      "type": "PATOLOGIA",
+      "start": 833,
+      "end": 855
+    },
+    {
+      "text": "sangrado intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 885,
+      "end": 906
+    },
+    {
+      "text": "hematomas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 910,
+      "end": 919
+    },
+    {
+      "text": "disminución significativa en el volumen cerebral sanguíneo (CBV)",
+      "type": "MEDIDA",
+      "start": 953,
+      "end": 1017
+    },
+    {
+      "text": "aumento del tiempo de tránsito medio (MTT)",
+      "type": "MEDIDA",
+      "start": 1020,
+      "end": 1062
+    },
+    {
+      "text": "reducción ligera del flujo cerebral sanguíneo (CBF)",
+      "type": "MEDIDA",
+      "start": 1084,
+      "end": 1135
+    },
+    {
+      "text": "estenosis moderada",
+      "type": "PATOLOGIA",
+      "start": 1265,
+      "end": 1283
+    },
+    {
+      "text": "carótida interna derecha",
+      "type": "ARTERIA",
+      "start": 1290,
+      "end": 1314
+    },
+    {
+      "text": "hipoperfusión crónica o aguda",
+      "type": "PATOLOGIA",
+      "start": 1521,
+      "end": 1550
+    },
+    {
+      "text": "sin evidencia de oclusión arterial proximal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1589,
+      "end": 1632
+    },
+    {
+      "text": "territorios arteriales cerebrales anterior-media y media-posterior",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 2079,
+      "end": 2145
+    }
+  ]
+}

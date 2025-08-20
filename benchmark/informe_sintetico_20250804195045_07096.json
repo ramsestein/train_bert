@@ -1,0 +1,161 @@
+{
+  "document_id": "informe_sintetico_20250804195045_07096",
+  "entities": [
+    {
+      "text": "hipodensidad",
+      "type": "PATOLOGIA",
+      "start": 449,
+      "end": 461
+    },
+    {
+      "text": "arteria cerebral anterior (ACA) izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 508,
+      "end": 549
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 540,
+      "end": 549
+    },
+    {
+      "text": "hemorragia intraparenquimatosa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 605,
+      "end": 635
+    },
+    {
+      "text": "edema significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 639,
+      "end": 658
+    },
+    {
+      "text": "lesiones expansivas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 675,
+      "end": 694
+    },
+    {
+      "text": "calcificaciones intracraneales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 698,
+      "end": 728
+    },
+    {
+      "text": "disminución focal del flujo sanguíneo cerebral (FSC)",
+      "type": "PATOLOGIA",
+      "start": 890,
+      "end": 942
+    },
+    {
+      "text": "volumen sanguíneo cerebral (VSC)",
+      "type": "PATOLOGIA",
+      "start": 949,
+      "end": 981
+    },
+    {
+      "text": "ACA izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1005,
+      "end": 1018
+    },
+    {
+      "text": "tiempo de tránsito medio (TTM)",
+      "type": "MEDIDA",
+      "start": 1047,
+      "end": 1077
+    },
+    {
+      "text": "tiempo de llegada (TTP)",
+      "type": "MEDIDA",
+      "start": 1080,
+      "end": 1103
+    },
+    {
+      "text": "isquemia cerebral aguda",
+      "type": "PATOLOGIA",
+      "start": 1118,
+      "end": 1141
+    },
+    {
+      "text": "estenosis crítica (aproximadamente 85%)",
+      "type": "PATOLOGIA",
+      "start": 1275,
+      "end": 1314
+    },
+    {
+      "text": "arteria cerebral anterior izquierda (A2)",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1342,
+      "end": 1382
+    },
+    {
+      "text": "trombosis parcial",
+      "type": "PATOLOGIA",
+      "start": 1399,
+      "end": 1416
+    },
+    {
+      "text": "trombo completo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1528,
+      "end": 1543
+    },
+    {
+      "text": "arteria en “cortocircuito”",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1547,
+      "end": 1573
+    },
+    {
+      "text": "estenosis significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1634,
+      "end": 1658
+    },
+    {
+      "text": "isquemia cerebral aguda",
+      "type": "PATOLOGIA",
+      "start": 1118,
+      "end": 1141
+    },
+    {
+      "text": "arteria cerebral anterior izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1342,
+      "end": 1377
+    },
+    {
+      "text": "estenosis crítica a nivel proximal de A2",
+      "type": "PATOLOGIA",
+      "start": 1839,
+      "end": 1879
+    },
+    {
+      "text": "infarto establecido",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1206,
+      "end": 1225
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1921,
+      "end": 1944
+    },
+    {
+      "text": "compromiso hemodinámico proximal",
+      "type": "PATOLOGIA",
+      "start": 2398,
+      "end": 2430
+    },
+    {
+      "text": "TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANG IOTC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 72,
+      "end": 140
+    }
+  ]
+}

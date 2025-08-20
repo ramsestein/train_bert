@@ -1,0 +1,113 @@
+{
+  "document_id": "informe_sintetico_20250804195045_18019",
+  "entities": [
+    {
+      "text": "hemorragia intra ni extraaxial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 441,
+      "end": 471
+    },
+    {
+      "text": "ASPECTS 9",
+      "type": "PUNTUACION_CLINICA",
+      "start": 526,
+      "end": 535
+    },
+    {
+      "text": "discreta hipodensidad en región fronto-temporal derecha",
+      "type": "PATOLOGIA",
+      "start": 541,
+      "end": 596
+    },
+    {
+      "text": "edema isquémico",
+      "type": "PATOLOGIA",
+      "start": 622,
+      "end": 637
+    },
+    {
+      "text": "aumento de los tiempos de tránsito (TTP y Tmax) en territorio M2/M3 derecho",
+      "type": "PATOLOGIA",
+      "start": 770,
+      "end": 845
+    },
+    {
+      "text": "reducción moderada del flujo cerebral (CBF) y volumen cerebral (CBV)",
+      "type": "PATOLOGIA",
+      "start": 851,
+      "end": 919
+    },
+    {
+      "text": "hipoperfusión en territorio distal de la arteria cerebral media derecha",
+      "type": "PATOLOGIA",
+      "start": 950,
+      "end": 1021
+    },
+    {
+      "text": "Oclusión focal en segmento M2 de arteria cerebral media derecha",
+      "type": "PATOLOGIA",
+      "start": 1047,
+      "end": 1110
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "ARTERIA",
+      "start": 991,
+      "end": 1021
+    },
+    {
+      "text": "permeabilidad normal de los vasos proximales y distales en circulación colateral",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1116,
+      "end": 1196
+    },
+    {
+      "text": "estenosis ni placas ateromatosas significativas en los vasos visualizados",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1215,
+      "end": 1288
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "TEMPORALIDAD",
+      "start": 1453,
+      "end": 1467
+    },
+    {
+      "text": "territorio distal de ACM derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1471,
+      "end": 1503
+    },
+    {
+      "text": "ASPECTS 9",
+      "type": "PUNTUACION_CLINICA",
+      "start": 526,
+      "end": 535
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1536,
+      "end": 1559
+    },
+    {
+      "text": "TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANG IOTC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 72,
+      "end": 140
+    },
+    {
+      "text": "TC craneal basal urgente",
+      "type": "TECNICA_IMAGEN",
+      "start": 272,
+      "end": 296
+    },
+    {
+      "text": "AngioTC arterial intracraneal con contraste intravenoso",
+      "type": "TECNICA_IMAGEN",
+      "start": 330,
+      "end": 385
+    }
+  ]
+}

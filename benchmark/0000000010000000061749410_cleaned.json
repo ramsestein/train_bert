@@ -1,0 +1,121 @@
+{
+  "document_id": "0000000010000000061749410_cleaned",
+  "entities": [
+    {
+      "text": "hemorràgia aguda intra o extraaxial",
+      "type": "PATOLOGIA",
+      "start": 326,
+      "end": 361
+    },
+    {
+      "text": "córtico-subcortical",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 377,
+      "end": 396
+    },
+    {
+      "text": "subcortical insular-sublenticular esquerra",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 434,
+      "end": 476
+    },
+    {
+      "text": "parènquima encefàlic",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 722,
+      "end": 742
+    },
+    {
+      "text": "Sistema ventricular",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 744,
+      "end": 763
+    },
+    {
+      "text": "línia mitja",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 826,
+      "end": 837
+    },
+    {
+      "text": "mapes de TTP, CBV i CBF",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 932,
+      "end": 955
+    },
+    {
+      "text": "artèries cerebrals intracranials",
+      "type": "ARTERIA",
+      "start": 999,
+      "end": 1031
+    },
+    {
+      "text": "Sistema vertebrobasilar",
+      "type": "ARTERIA",
+      "start": 1064,
+      "end": 1087
+    },
+    {
+      "text": "vertebrobasilar",
+      "type": "ARTERIA",
+      "start": 1072,
+      "end": 1087
+    },
+    {
+      "text": "esquerra",
+      "type": "LATERALIDAD",
+      "start": 468,
+      "end": 476
+    },
+    {
+      "text": "sense estenosis ni alteracions destacables",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1149,
+      "end": 1191
+    },
+    {
+      "text": "sense efecte de massa ni captació associats",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 478,
+      "end": 521
+    },
+    {
+      "text": "TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANG IOTC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 72,
+      "end": 140
+    },
+    {
+      "text": "TC CRANIAL basal i amb contrast ev. en fase parenquimatosa",
+      "type": "TECNICA_IMAGEN",
+      "start": 160,
+      "end": 218
+    },
+    {
+      "text": "TC PERFUSIÓ",
+      "type": "TECNICA_IMAGEN",
+      "start": 221,
+      "end": 232
+    },
+    {
+      "text": "ANGIO-TC INTRA I EXTRACRANIAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 235,
+      "end": 264
+    },
+    {
+      "text": "TC CRANIAL BASAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 285,
+      "end": 301
+    },
+    {
+      "text": "RM",
+      "type": "TECNICA_IMAGEN",
+      "start": 569,
+      "end": 571
+    }
+  ],
+  "regenerado": true,
+  "fecha_regeneracion": "2025-08-06T06:39:20.428359"
+}

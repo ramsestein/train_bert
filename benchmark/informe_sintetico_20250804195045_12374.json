@@ -1,0 +1,131 @@
+{
+  "document_id": "informe_sintetico_20250804195045_12374",
+  "entities": [
+    {
+      "text": "infarto",
+      "type": "PATOLOGIA",
+      "start": 274,
+      "end": 281
+    },
+    {
+      "text": "bilaterales",
+      "type": "LATERALIDAD",
+      "start": 636,
+      "end": 647
+    },
+    {
+      "text": "zonas corticales y subcorticales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 680,
+      "end": 712
+    },
+    {
+      "text": "frontera entre las arterias cerebrales media y anterior",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 751,
+      "end": 806
+    },
+    {
+      "text": "infartos tipo watershed",
+      "type": "PATOLOGIA",
+      "start": 880,
+      "end": 903
+    },
+    {
+      "text": "disminución difusa del flujo sanguíneo cerebral",
+      "type": "PATOLOGIA",
+      "start": 1099,
+      "end": 1146
+    },
+    {
+      "text": "aumento del tiempo de tránsito medio",
+      "type": "PATOLOGIA",
+      "start": 1155,
+      "end": 1191
+    },
+    {
+      "text": "regiones frontoparietales bilaterales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1205,
+      "end": 1242
+    },
+    {
+      "text": "territorios corticales de frontera",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1264,
+      "end": 1298
+    },
+    {
+      "text": "volumen sanguíneo cerebral",
+      "type": "PATOLOGIA",
+      "start": 1303,
+      "end": 1329
+    },
+    {
+      "text": "penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1407,
+      "end": 1425
+    },
+    {
+      "text": "infarto watershed subagudo",
+      "type": "PATOLOGIA",
+      "start": 1441,
+      "end": 1467
+    },
+    {
+      "text": "estenosis ni oclusiones significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1520,
+      "end": 1558
+    },
+    {
+      "text": "ateromatosis moderada sin estenosis crítica",
+      "type": "PATOLOGIA",
+      "start": 1653,
+      "end": 1696
+    },
+    {
+      "text": "Arterias vertebrales y basilar permeables",
+      "type": "PATOLOGIA",
+      "start": 1698,
+      "end": 1739
+    },
+    {
+      "text": "episodio hipotensivo",
+      "type": "PATOLOGIA",
+      "start": 1934,
+      "end": 1954
+    },
+    {
+      "text": "hemorragia intracraneal ni estenosis arterial significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1969,
+      "end": 2028
+    },
+    {
+      "text": "evidencia de embolismo oclusivo agudo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2051,
+      "end": 2088
+    },
+    {
+      "text": "alteraciones hemodinámicas compatibles en estudio de perfusión",
+      "type": "PATOLOGIA",
+      "start": 2342,
+      "end": 2404
+    },
+    {
+      "text": "hemorragia oclusión arterial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2418,
+      "end": 2446
+    },
+    {
+      "text": "TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANGIOTC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 2474,
+      "end": 2541
+    }
+  ]
+}

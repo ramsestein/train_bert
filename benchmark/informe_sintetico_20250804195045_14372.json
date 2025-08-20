@@ -1,0 +1,113 @@
+{
+  "document_id": "informe_sintetico_20250804195045_14372",
+  "entities": [
+    {
+      "text": "hemorragia aguda",
+      "type": "PATOLOGIA",
+      "start": 482,
+      "end": 498
+    },
+    {
+      "text": "infarto cerebral reciente",
+      "type": "PATOLOGIA",
+      "start": 502,
+      "end": 527
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 600,
+      "end": 610
+    },
+    {
+      "text": "cambios crónicos pequeños",
+      "type": "PATOLOGIA",
+      "start": 624,
+      "end": 649
+    },
+    {
+      "text": "hipodensidades periventriculares",
+      "type": "PATOLOGIA",
+      "start": 651,
+      "end": 683
+    },
+    {
+      "text": "en cápsulas externas",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 686,
+      "end": 706
+    },
+    {
+      "text": "enfermedad de pequeño vaso",
+      "type": "PATOLOGIA",
+      "start": 724,
+      "end": 750
+    },
+    {
+      "text": "Sistema ventricular de tamaño y morfología normales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 777,
+      "end": 828
+    },
+    {
+      "text": "sin signos de hipertensión intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 830,
+      "end": 869
+    },
+    {
+      "text": "sin áreas de hipoperfusión o penumbra",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1037,
+      "end": 1074
+    },
+    {
+      "text": "sin signos de estenosis ni defectos de repleción",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1166,
+      "end": 1214
+    },
+    {
+      "text": "sin alteraciones visibles",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1240,
+      "end": 1265
+    },
+    {
+      "text": "sin hallazgos patológicos significativos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1301,
+      "end": 1341
+    },
+    {
+      "text": "patología aguda isquémica o hemorrágica",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1392,
+      "end": 1431
+    },
+    {
+      "text": "Perfusión y circulación arterial intracraneal normales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1509,
+      "end": 1563
+    },
+    {
+      "text": "TC craneal sin contraste",
+      "type": "TECNICA_IMAGEN",
+      "start": 268,
+      "end": 292
+    },
+    {
+      "text": "perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 324,
+      "end": 342
+    },
+    {
+      "text": "Angio-TC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 345,
+      "end": 375
+    }
+  ]
+}

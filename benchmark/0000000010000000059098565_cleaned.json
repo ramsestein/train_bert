@@ -1,0 +1,41 @@
+{
+  "document_id": "0000000010000000059098565_cleaned",
+  "entities": [
+    {
+      "text": "Ictus ACMI",
+      "type": "PATOLOGIA",
+      "start": 166,
+      "end": 176
+    },
+    {
+      "text": "ACMI",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 172,
+      "end": 176
+    },
+    {
+      "text": "TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANG IOTC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 72,
+      "end": 140
+    },
+    {
+      "text": "TC dual",
+      "type": "TECNICA_IMAGEN",
+      "start": 239,
+      "end": 246
+    },
+    {
+      "text": "TC perfusión",
+      "type": "TECNICA_IMAGEN",
+      "start": 249,
+      "end": 261
+    },
+    {
+      "text": "Informe duplicado.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 355,
+      "end": 373
+    }
+  ]
+}

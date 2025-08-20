@@ -1,0 +1,65 @@
+{
+  "document_id": "0000000010000000060169784_cleaned",
+  "entities": [
+    {
+      "text": "No se observan signos de hemorragia aguda intra o extraaxial.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 337,
+      "end": 398
+    },
+    {
+      "text": "No se observan lesiones isquémicas parenquimatosas subagudas ni otras lesiones isquemicas crónicas.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 399,
+      "end": 498
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 546,
+      "end": 556
+    },
+    {
+      "text": "infarto lacunar agudo",
+      "type": "PATOLOGIA",
+      "start": 1051,
+      "end": 1072
+    },
+    {
+      "text": "brazo posterior de la cápsula interna derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 863,
+      "end": 908
+    },
+    {
+      "text": "ACAs, ACMs y ACPs",
+      "type": "ARTERIA",
+      "start": 1164,
+      "end": 1181
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 901,
+      "end": 908
+    },
+    {
+      "text": "leve ateromatosis calcificada",
+      "type": "PATOLOGIA",
+      "start": 1318,
+      "end": 1347
+    },
+    {
+      "text": "sin signos de estenosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1184,
+      "end": 1207
+    },
+    {
+      "text": "sin ateromatosis ni signos de estenosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1502,
+      "end": 1541
+    }
+  ]
+}

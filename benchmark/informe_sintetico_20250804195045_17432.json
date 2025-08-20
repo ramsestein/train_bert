@@ -1,0 +1,59 @@
+{
+  "document_id": "informe_sintetico_20250804195045_17432",
+  "entities": [
+    {
+      "text": "microhemorragias",
+      "type": "PATOLOGIA",
+      "start": 626,
+      "end": 642
+    },
+    {
+      "text": "sustancia blanca",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 573,
+      "end": 589
+    },
+    {
+      "text": "ganglios basales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 592,
+      "end": 608
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 800,
+      "end": 810
+    },
+    {
+      "text": "hemorragia intra o extraaxial de magnitud significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 904,
+      "end": 959
+    },
+    {
+      "text": "isquemia o hipoperfusión",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1086,
+      "end": 1110
+    },
+    {
+      "text": "estenosis ni oclusiones",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1169,
+      "end": 1192
+    },
+    {
+      "text": "hemorragia parenquimatosa mayor",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1479,
+      "end": 1510
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1514,
+      "end": 1528
+    }
+  ]
+}

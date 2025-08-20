@@ -1,0 +1,89 @@
+{
+  "document_id": "informe_sintetico_20250804195045_04234",
+  "entities": [
+    {
+      "text": "hematoma lobar de localización frontal derecha",
+      "type": "PATOLOGIA",
+      "start": 417,
+      "end": 463
+    },
+    {
+      "text": "frontal derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 448,
+      "end": 463
+    },
+    {
+      "text": "25 x 20 x 15 mm",
+      "type": "MEDIDA",
+      "start": 522,
+      "end": 537
+    },
+    {
+      "text": "3 mm",
+      "type": "MEDIDA",
+      "start": 629,
+      "end": 633
+    },
+    {
+      "text": "edema vasogénico significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 660,
+      "end": 690
+    },
+    {
+      "text": "sin evidencia de hipoperfusión",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1028,
+      "end": 1058
+    },
+    {
+      "text": "sin signos de vasoespasmo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1322,
+      "end": 1347
+    },
+    {
+      "text": "sin hallazgos vasculares relevantes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1715,
+      "end": 1750
+    },
+    {
+      "text": "Arterias intracraneales",
+      "type": "ARTERIA",
+      "start": 1657,
+      "end": 1680
+    },
+    {
+      "text": "Arco aórtico y troncos supraórticos",
+      "type": "ARTERIA",
+      "start": 1189,
+      "end": 1224
+    },
+    {
+      "text": "sin estenosis ni placas ateromatosas significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1225,
+      "end": 1276
+    },
+    {
+      "text": "sin complicaciones asociadas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2093,
+      "end": 2121
+    },
+    {
+      "text": "TC craneal simple basal + perfusión cerebral + AngioTC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 279,
+      "end": 355
+    },
+    {
+      "text": "Imagen axial, coronales y sagitales en TC craneal simple, mapas de perfusión y reconstrucción 3D AngioTC",
+      "type": "TECNICA_IMAGEN",
+      "start": 1916,
+      "end": 2020
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "document_id": "informe_sintetico_20250804195045_12265",
+  "entities": [
+    {
+      "text": "hemorragia aguda",
+      "type": "PATOLOGIA",
+      "start": 515,
+      "end": 531
+    },
+    {
+      "text": "cambios crónicos isquémicos leukoaraiosis",
+      "type": "PATOLOGIA",
+      "start": 708,
+      "end": 749
+    },
+    {
+      "text": "isquémicas agudas",
+      "type": "PATOLOGIA",
+      "start": 800,
+      "end": 817
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 624,
+      "end": 634
+    },
+    {
+      "text": "perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 384,
+      "end": 402
+    },
+    {
+      "text": "TTP",
+      "type": "MEDIDA",
+      "start": 1030,
+      "end": 1033
+    },
+    {
+      "text": "CBV",
+      "type": "MEDIDA",
+      "start": 1064,
+      "end": 1067
+    },
+    {
+      "text": "CBF",
+      "type": "MEDIDA",
+      "start": 1098,
+      "end": 1101
+    },
+    {
+      "text": "estenosis significativas",
+      "type": "PATOLOGIA",
+      "start": 1220,
+      "end": 1244
+    },
+    {
+      "text": "sin compromiso hemodinámico",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1305,
+      "end": 1332
+    },
+    {
+      "text": "sin signos de oclusión ni estenosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1381,
+      "end": 1416
+    },
+    {
+      "text": "sin alteraciones",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 981,
+      "end": 997
+    },
+    {
+      "text": "signos de patología aguda",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1549,
+      "end": 1574
+    },
+    {
+      "text": "microangiopatía isquémica leve",
+      "type": "PATOLOGIA",
+      "start": 1609,
+      "end": 1639
+    }
+  ]
+}

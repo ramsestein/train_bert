@@ -1,0 +1,83 @@
+{
+  "document_id": "informe_sintetico_20250804195045_03168",
+  "entities": [
+    {
+      "text": "hipodensidad",
+      "type": "PATOLOGIA",
+      "start": 433,
+      "end": 445
+    },
+    {
+      "text": "hemorragias intra o extraaxiales",
+      "type": "PATOLOGIA",
+      "start": 449,
+      "end": 481
+    },
+    {
+      "text": "edema",
+      "type": "PATOLOGIA",
+      "start": 555,
+      "end": 560
+    },
+    {
+      "text": "infarto agudo",
+      "type": "PATOLOGIA",
+      "start": 563,
+      "end": 576
+    },
+    {
+      "text": "puntuación ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 628,
+      "end": 649
+    },
+    {
+      "text": "cambios crónicos mínimos compatibles con microangiopatía leve",
+      "type": "PATOLOGIA",
+      "start": 797,
+      "end": 858
+    },
+    {
+      "text": "sin áreas de hipoperfusión, penumbra o mismatch significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 997,
+      "end": 1058
+    },
+    {
+      "text": "sin hallazgos patológicos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1367,
+      "end": 1392
+    },
+    {
+      "text": "sin hallazgos agudos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1464,
+      "end": 1484
+    },
+    {
+      "text": "sin evidencia de déficit isquémico",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1524,
+      "end": 1558
+    },
+    {
+      "text": "sin alteraciones vasculares",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1584,
+      "end": 1611
+    },
+    {
+      "text": "sin relevancia clínica",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1638,
+      "end": 1660
+    },
+    {
+      "text": "No se observan signos de hemorragia ni infarto reciente",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1662,
+      "end": 1717
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "document_id": "informe_sintetico_20250804195045_24652",
+  "entities": [
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 253,
+      "end": 267
+    },
+    {
+      "text": "infarto isquémico temprano",
+      "type": "PATOLOGIA",
+      "start": 824,
+      "end": 850
+    },
+    {
+      "text": "ASPECTS Brainstem 9/10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 852,
+      "end": 874
+    },
+    {
+      "text": "penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1226,
+      "end": 1244
+    },
+    {
+      "text": "Oclusión completa",
+      "type": "PATOLOGIA",
+      "start": 1367,
+      "end": 1384
+    },
+    {
+      "text": "arteria basilar",
+      "type": "ARTERIA",
+      "start": 1415,
+      "end": 1430
+    },
+    {
+      "text": "Arteria vertebral derecha",
+      "type": "ARTERIA",
+      "start": 1434,
+      "end": 1459
+    },
+    {
+      "text": "Arteria vertebral izquierda",
+      "type": "ARTERIA",
+      "start": 1491,
+      "end": 1518
+    },
+    {
+      "text": "Sistema arterial vertebrobasilar",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1658,
+      "end": 1690
+    },
+    {
+      "text": "territorio vertebrobasilar",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 271,
+      "end": 297
+    },
+    {
+      "text": "No se evidencian hemorragias intra ni extraaxiales.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 539,
+      "end": 590
+    },
+    {
+      "text": "No se observan lesiones hipodensas recientes en hemisferios cerebrales supratentoriales.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 593,
+      "end": 681
+    },
+    {
+      "text": "No se evidencian signos de edema ni herniación.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 878,
+      "end": 925
+    },
+    {
+      "text": "No se evidencian zonas de núcleo de infarto extenso.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1278,
+      "end": 1330
+    },
+    {
+      "text": "No se identifican estenosis significativas en segmentos carotídeos o arterias cerebrales anteriores.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1555,
+      "end": 1655
+    },
+    {
+      "text": "No se observan complicaciones hemorrágicas.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2108,
+      "end": 2151
+    }
+  ]
+}

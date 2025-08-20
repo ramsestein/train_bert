@@ -1,0 +1,149 @@
+{
+  "document_id": "informe_sintetico_20250804195045_00743",
+  "entities": [
+    {
+      "text": "accidente vascular cerebral isquémico agudo",
+      "type": "PATOLOGIA",
+      "start": 260,
+      "end": 303
+    },
+    {
+      "text": "área hiperdensa",
+      "type": "PATOLOGIA",
+      "start": 487,
+      "end": 502
+    },
+    {
+      "text": "trombo intraluminal",
+      "type": "PATOLOGIA",
+      "start": 583,
+      "end": 602
+    },
+    {
+      "text": "daño isquémico temprano",
+      "type": "PATOLOGIA",
+      "start": 853,
+      "end": 876
+    },
+    {
+      "text": "ASPECTS",
+      "type": "PUNTUACION_CLINICA",
+      "start": 878,
+      "end": 885
+    },
+    {
+      "text": "hemorragias agudas intra ni extraaxiales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 925,
+      "end": 965
+    },
+    {
+      "text": "marcada reducción del volumen cerebral cerebral (CBV)",
+      "type": "PATOLOGIA",
+      "start": 1078,
+      "end": 1131
+    },
+    {
+      "text": "flujo cerebral (CBF)",
+      "type": "PATOLOGIA",
+      "start": 1134,
+      "end": 1154
+    },
+    {
+      "text": "isquemia establecida",
+      "type": "PATOLOGIA",
+      "start": 1269,
+      "end": 1289
+    },
+    {
+      "text": "penumbra viable",
+      "type": "PATOLOGIA",
+      "start": 1292,
+      "end": 1307
+    },
+    {
+      "text": "Oclusión total del segmento proximal M1 de la arteria cerebral media derecha",
+      "type": "PATOLOGIA",
+      "start": 1366,
+      "end": 1442
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "ARTERIA",
+      "start": 536,
+      "end": 566
+    },
+    {
+      "text": "Sistema vertebrobasilar",
+      "type": "ARTERIA",
+      "start": 1501,
+      "end": 1524
+    },
+    {
+      "text": "Oclusión aguda del segmento proximal M1 de la arteria cerebral media derecha",
+      "type": "PATOLOGIA",
+      "start": 1621,
+      "end": 1697
+    },
+    {
+      "text": "ASPECTS 6",
+      "type": "PUNTUACION_CLINICA",
+      "start": 1782,
+      "end": 1791
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1921,
+      "end": 1944
+    },
+    {
+      "text": "2 horas",
+      "type": "TEMPORALIDAD",
+      "start": 239,
+      "end": 246
+    },
+    {
+      "text": "segmento proximal M1",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 509,
+      "end": 529
+    },
+    {
+      "text": "territorio de ACM derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 678,
+      "end": 703
+    },
+    {
+      "text": "región insular y circunvoluciones opercular y frontal anterior",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 774,
+      "end": 836
+    },
+    {
+      "text": "territorio de ACM derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 678,
+      "end": 703
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 341,
+      "end": 357
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 359,
+      "end": 380
+    },
+    {
+      "text": "Angio TC de arterias supraórticas e intracraneales",
+      "type": "TECNICA_IMAGEN",
+      "start": 382,
+      "end": 432
+    }
+  ]
+}

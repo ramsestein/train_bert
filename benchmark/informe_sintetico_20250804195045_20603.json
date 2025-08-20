@@ -1,0 +1,83 @@
+{
+  "document_id": "informe_sintetico_20250804195045_20603",
+  "entities": [
+    {
+      "text": "infarto cerebral agudo",
+      "type": "PATOLOGIA",
+      "start": 638,
+      "end": 660
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 541,
+      "end": 573
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "ARTERIA",
+      "start": 541,
+      "end": 573
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 564,
+      "end": 573
+    },
+    {
+      "text": "oclusión",
+      "type": "PATOLOGIA",
+      "start": 1263,
+      "end": 1271
+    },
+    {
+      "text": "arteria carótida interna izquierda",
+      "type": "ARTERIA",
+      "start": 1279,
+      "end": 1313
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 564,
+      "end": 573
+    },
+    {
+      "text": "área de penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1139,
+      "end": 1165
+    },
+    {
+      "text": "agudo",
+      "type": "TEMPORALIDAD",
+      "start": 655,
+      "end": 660
+    },
+    {
+      "text": "sin signos de hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 703,
+      "end": 740
+    },
+    {
+      "text": "sin desplazamientos ni compresiones",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 794,
+      "end": 829
+    },
+    {
+      "text": "sin estenosis significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1520,
+      "end": 1548
+    },
+    {
+      "text": "sin alteraciones",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1586,
+      "end": 1602
+    }
+  ]
+}

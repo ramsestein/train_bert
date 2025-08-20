@@ -1,0 +1,95 @@
+{
+  "document_id": "informe_sintetico_20250804195045_03995",
+  "entities": [
+    {
+      "text": "infarto cerebral",
+      "type": "PATOLOGIA",
+      "start": 266,
+      "end": 282
+    },
+    {
+      "text": "isquemia",
+      "type": "PATOLOGIA",
+      "start": 1244,
+      "end": 1252
+    },
+    {
+      "text": "watershed",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 638,
+      "end": 647
+    },
+    {
+      "text": "frontoparietales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 557,
+      "end": 573
+    },
+    {
+      "text": "parieto-occipitales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 576,
+      "end": 595
+    },
+    {
+      "text": "arterias cerebrales anterior",
+      "type": "ARTERIA",
+      "start": 659,
+      "end": 687
+    },
+    {
+      "text": "arterias cerebral media y posterior",
+      "type": "ARTERIA",
+      "start": 716,
+      "end": 751
+    },
+    {
+      "text": "bilaterales",
+      "type": "LATERALIDAD",
+      "start": 505,
+      "end": 516
+    },
+    {
+      "text": "moderada",
+      "type": "MEDIDA",
+      "start": 1127,
+      "end": 1135
+    },
+    {
+      "text": "moderada",
+      "type": "MEDIDA",
+      "start": 1127,
+      "end": 1135
+    },
+    {
+      "text": "subaguda",
+      "type": "TEMPORALIDAD",
+      "start": 1941,
+      "end": 1949
+    },
+    {
+      "text": "sin oclusiones completas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1419,
+      "end": 1443
+    },
+    {
+      "text": "sin evidencias de trombosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1540,
+      "end": 1567
+    },
+    {
+      "text": "sin desviación de la línea media",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 884,
+      "end": 916
+    },
+    {
+      "text": "sin oclusión permanente",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1992,
+      "end": 2015
+    }
+  ]
+}

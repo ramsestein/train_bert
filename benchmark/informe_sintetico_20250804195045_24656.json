@@ -1,0 +1,131 @@
+{
+  "document_id": "informe_sintetico_20250804195045_24656",
+  "entities": [
+    {
+      "text": "hemorragia intra o extraaxial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 457,
+      "end": 486
+    },
+    {
+      "text": "infarto agudo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 555,
+      "end": 568
+    },
+    {
+      "text": "ASPECTS de 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 637,
+      "end": 650
+    },
+    {
+      "text": "lesiones isquémicas recientes ni crónicas significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 669,
+      "end": 725
+    },
+    {
+      "text": "sin alteraciones significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 936,
+      "end": 967
+    },
+    {
+      "text": "tiempo de tránsito medio (TTP)",
+      "type": "MEDIDA",
+      "start": 987,
+      "end": 1017
+    },
+    {
+      "text": "volumen cerebral de sangre (CBV)",
+      "type": "MEDIDA",
+      "start": 1019,
+      "end": 1051
+    },
+    {
+      "text": "flujo cerebral de sangre (CBF)",
+      "type": "MEDIDA",
+      "start": 1054,
+      "end": 1084
+    },
+    {
+      "text": "sin áreas de hipoperfusión o hiperperfusión",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1130,
+      "end": 1173
+    },
+    {
+      "text": "sin estenosis ni placas ateromatosas importantes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1243,
+      "end": 1291
+    },
+    {
+      "text": "arterias carótidas internas, cerebrales anterior, media y posterior",
+      "type": "ARTERIA",
+      "start": 1297,
+      "end": 1364
+    },
+    {
+      "text": "sistema vertebrobasilar",
+      "type": "ARTERIA",
+      "start": 1407,
+      "end": 1430
+    },
+    {
+      "text": "sin evidencias de estenosis, oclusión ni malformaciones vasculares",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1455,
+      "end": 1521
+    },
+    {
+      "text": "sin hallazgos patológicos agudos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1570,
+      "end": 1602
+    },
+    {
+      "text": "sin signos de infarto, hemorragia o masas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1624,
+      "end": 1665
+    },
+    {
+      "text": "normal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 831,
+      "end": 837
+    },
+    {
+      "text": "sin estenosis ni alteraciones vasculares relevantes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1744,
+      "end": 1795
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 1797,
+      "end": 1807
+    },
+    {
+      "text": "TC craneal basal sin contraste intravenoso",
+      "type": "TECNICA_IMAGEN",
+      "start": 254,
+      "end": 296
+    },
+    {
+      "text": "estudio de perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 298,
+      "end": 327
+    },
+    {
+      "text": "angiografía TC arterial intracraneal y de vasos supraórticos",
+      "type": "TECNICA_IMAGEN",
+      "start": 330,
+      "end": 390
+    }
+  ]
+}

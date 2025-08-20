@@ -1,0 +1,95 @@
+{
+  "document_id": "informe_sintetico_20250804195045_08586",
+  "entities": [
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 240,
+      "end": 254
+    },
+    {
+      "text": "arteria cerebral posterior izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 272,
+      "end": 308
+    },
+    {
+      "text": "ACP",
+      "type": "ARTERIA",
+      "start": 699,
+      "end": 702
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 299,
+      "end": 308
+    },
+    {
+      "text": "ASPECTS 9",
+      "type": "PUNTUACION_CLINICA",
+      "start": 705,
+      "end": 714
+    },
+    {
+      "text": "hemorragia intraparenquimatosa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 520,
+      "end": 550
+    },
+    {
+      "text": "Oclusión completa",
+      "type": "PATOLOGIA",
+      "start": 1377,
+      "end": 1394
+    },
+    {
+      "text": "segmento P2 de la arteria cerebral posterior izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1399,
+      "end": 1453
+    },
+    {
+      "text": "izquierdo",
+      "type": "LATERALIDAD",
+      "start": 1765,
+      "end": 1774
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1799,
+      "end": 1822
+    },
+    {
+      "text": "ASPECTS 9",
+      "type": "PUNTUACION_CLINICA",
+      "start": 705,
+      "end": 714
+    },
+    {
+      "text": "TC craneal basal sin contraste",
+      "type": "TECNICA_IMAGEN",
+      "start": 329,
+      "end": 359
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 362,
+      "end": 383
+    },
+    {
+      "text": "angio-TC extracraneal e intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 386,
+      "end": 422
+    },
+    {
+      "text": "tiempo hasta el pico (TTP)",
+      "type": "MEDIDA",
+      "start": 952,
+      "end": 978
+    }
+  ]
+}

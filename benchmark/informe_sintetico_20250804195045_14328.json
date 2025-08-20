@@ -1,0 +1,83 @@
+{
+  "document_id": "informe_sintetico_20250804195045_14328",
+  "entities": [
+    {
+      "text": "hematoma lobar",
+      "type": "PATOLOGIA",
+      "start": 585,
+      "end": 599
+    },
+    {
+      "text": "frontal izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 419,
+      "end": 436
+    },
+    {
+      "text": "35 x 28 mm",
+      "type": "MEDIDA",
+      "start": 543,
+      "end": 553
+    },
+    {
+      "text": "3 mm",
+      "type": "MEDIDA",
+      "start": 700,
+      "end": 704
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 714,
+      "end": 721
+    },
+    {
+      "text": "permeabilidad normal de las arterias intracraneales principales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1143,
+      "end": 1206
+    },
+    {
+      "text": "sin evidencia de estenosis ni oclusiones",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1207,
+      "end": 1247
+    },
+    {
+      "text": "3.5 cm",
+      "type": "MEDIDA",
+      "start": 1366,
+      "end": 1372
+    },
+    {
+      "text": "sin compromiso significativo de las estructuras vasculares intracraneales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1420,
+      "end": 1493
+    },
+    {
+      "text": "24-48 horas",
+      "type": "TEMPORALIDAD",
+      "start": 1598,
+      "end": 1609
+    },
+    {
+      "text": "TC craneal basal sin contraste",
+      "type": "TECNICA_IMAGEN",
+      "start": 277,
+      "end": 307
+    },
+    {
+      "text": "estudio de perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 309,
+      "end": 338
+    },
+    {
+      "text": "Angio TC intra y extra craneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 341,
+      "end": 371
+    }
+  ]
+}

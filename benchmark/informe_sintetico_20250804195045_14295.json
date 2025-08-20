@@ -1,0 +1,119 @@
+{
+  "document_id": "informe_sintetico_20250804195045_14295",
+  "entities": [
+    {
+      "text": "hematomas",
+      "type": "PATOLOGIA",
+      "start": 451,
+      "end": 460
+    },
+    {
+      "text": "sangrados intracraneales",
+      "type": "PATOLOGIA",
+      "start": 464,
+      "end": 488
+    },
+    {
+      "text": "ASPECTS: 9",
+      "type": "PUNTUACION_CLINICA",
+      "start": 553,
+      "end": 563
+    },
+    {
+      "text": "infarto establecido extenso",
+      "type": "PATOLOGIA",
+      "start": 590,
+      "end": 617
+    },
+    {
+      "text": "tiempo medio de tránsito (TMT)",
+      "type": "MEDIDA",
+      "start": 772,
+      "end": 802
+    },
+    {
+      "text": "tiempo de retraso (TD)",
+      "type": "MEDIDA",
+      "start": 805,
+      "end": 827
+    },
+    {
+      "text": "arteria cerebral media distal izquierda",
+      "type": "ARTERIA",
+      "start": 851,
+      "end": 890
+    },
+    {
+      "text": "segmentos M2/M3",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 892,
+      "end": 907
+    },
+    {
+      "text": "penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1043,
+      "end": 1061
+    },
+    {
+      "text": "oclusión trombótica",
+      "type": "PATOLOGIA",
+      "start": 1202,
+      "end": 1221
+    },
+    {
+      "text": "arteria cerebral media distal izquierda",
+      "type": "ARTERIA",
+      "start": 851,
+      "end": 890
+    },
+    {
+      "text": "segmentos M2/M3",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 892,
+      "end": 907
+    },
+    {
+      "text": "ASPECTS 9",
+      "type": "PUNTUACION_CLINICA",
+      "start": 1618,
+      "end": 1627
+    },
+    {
+      "text": "infarto establecido",
+      "type": "PATOLOGIA",
+      "start": 590,
+      "end": 609
+    },
+    {
+      "text": "hemorragia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1679,
+      "end": 1689
+    },
+    {
+      "text": "complicaciones asociadas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1693,
+      "end": 1717
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 277,
+      "end": 293
+    },
+    {
+      "text": "estudio de perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 309,
+      "end": 338
+    },
+    {
+      "text": "AngioTC intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 341,
+      "end": 361
+    }
+  ]
+}

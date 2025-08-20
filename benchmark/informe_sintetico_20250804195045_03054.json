@@ -1,0 +1,77 @@
+{
+  "document_id": "informe_sintetico_20250804195045_03054",
+  "entities": [
+    {
+      "text": "infarto lacunar agudo",
+      "type": "PATOLOGIA",
+      "start": 551,
+      "end": 572
+    },
+    {
+      "text": "cápsula interna derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 511,
+      "end": 534
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 740,
+      "end": 750
+    },
+    {
+      "text": "microangiopatía crónica leve",
+      "type": "PATOLOGIA",
+      "start": 888,
+      "end": 916
+    },
+    {
+      "text": "lesión isquémica pequeña",
+      "type": "PATOLOGIA",
+      "start": 1192,
+      "end": 1216
+    },
+    {
+      "text": "aguda",
+      "type": "TEMPORALIDAD",
+      "start": 1227,
+      "end": 1232
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "ARTERIA",
+      "start": 1415,
+      "end": 1445
+    },
+    {
+      "text": "cápsula interna derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 511,
+      "end": 534
+    },
+    {
+      "text": "microangiopatía crónica",
+      "type": "PATOLOGIA",
+      "start": 888,
+      "end": 911
+    },
+    {
+      "text": "No se observan signos de hemorragia intraparenquimatosa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 574,
+      "end": 629
+    },
+    {
+      "text": "No se identifican oclusiones en arterias principales ni grandes vasos intracraneales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1774,
+      "end": 1858
+    },
+    {
+      "text": "No hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1901,
+      "end": 1927
+    }
+  ]
+}

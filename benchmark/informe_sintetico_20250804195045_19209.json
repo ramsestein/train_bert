@@ -1,0 +1,53 @@
+{
+  "document_id": "informe_sintetico_20250804195045_19209",
+  "entities": [
+    {
+      "text": "infarto lacunar agudo",
+      "type": "PATOLOGIA",
+      "start": 600,
+      "end": 621
+    },
+    {
+      "text": "cápsula interna derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 560,
+      "end": 583
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 576,
+      "end": 583
+    },
+    {
+      "text": "agudo",
+      "type": "TEMPORALIDAD",
+      "start": 616,
+      "end": 621
+    },
+    {
+      "text": "sin estenosis ni trombosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 953,
+      "end": 979
+    },
+    {
+      "text": "sin desplazamiento de líneas medias",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1086,
+      "end": 1121
+    },
+    {
+      "text": "isquemia focal limitada",
+      "type": "PATOLOGIA",
+      "start": 1378,
+      "end": 1401
+    },
+    {
+      "text": "angiografía TC de arterias intracraneales",
+      "type": "TECNICA_IMAGEN",
+      "start": 890,
+      "end": 931
+    }
+  ]
+}

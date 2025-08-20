@@ -1,0 +1,107 @@
+{
+  "document_id": "informe_sintetico_20250804195045_15446",
+  "entities": [
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 279,
+      "end": 293
+    },
+    {
+      "text": "arteria cerebral posterior izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 311,
+      "end": 347
+    },
+    {
+      "text": "ACP",
+      "type": "ARTERIA",
+      "start": 799,
+      "end": 802
+    },
+    {
+      "text": "izquierdo",
+      "type": "LATERALIDAD",
+      "start": 740,
+      "end": 749
+    },
+    {
+      "text": "3 horas",
+      "type": "TEMPORALIDAD",
+      "start": 258,
+      "end": 265
+    },
+    {
+      "text": "No se evidencia hemorragia intra ni extraaxial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 582,
+      "end": 628
+    },
+    {
+      "text": "No se observan áreas de hipodensidad establecida",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 804,
+      "end": 852
+    },
+    {
+      "text": "No evidencia de hemorragia ni infarto establecido",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1866,
+      "end": 1915
+    },
+    {
+      "text": "trombo en segmento P2 de arteria cerebral posterior izquierda",
+      "type": "PATOLOGIA",
+      "start": 1321,
+      "end": 1382
+    },
+    {
+      "text": "segmento P2",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1331,
+      "end": 1342
+    },
+    {
+      "text": "penumbra isquémica significativa",
+      "type": "PATOLOGIA",
+      "start": 1203,
+      "end": 1235
+    },
+    {
+      "text": "prolongación de Tmax y TTD",
+      "type": "PATOLOGIA",
+      "start": 990,
+      "end": 1016
+    },
+    {
+      "text": "caída moderada del flujo cerebral (CBF)",
+      "type": "PATOLOGIA",
+      "start": 1079,
+      "end": 1118
+    },
+    {
+      "text": "aumento compensatorio del volumen cerebral (CBV)",
+      "type": "PATOLOGIA",
+      "start": 1121,
+      "end": 1169
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 415,
+      "end": 431
+    },
+    {
+      "text": "estudio de perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 447,
+      "end": 476
+    },
+    {
+      "text": "angiografía por Angio-TC de arterias extra e intracraneales",
+      "type": "TECNICA_IMAGEN",
+      "start": 479,
+      "end": 538
+    }
+  ]
+}

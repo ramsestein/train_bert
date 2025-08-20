@@ -1,0 +1,125 @@
+{
+  "document_id": "informe_sintetico_20250804195045_09760",
+  "entities": [
+    {
+      "text": "isquémica",
+      "type": "PATOLOGIA",
+      "start": 255,
+      "end": 264
+    },
+    {
+      "text": "hemorrágica",
+      "type": "PATOLOGIA",
+      "start": 267,
+      "end": 278
+    },
+    {
+      "text": "hemorragia intra o extraaxial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 524,
+      "end": 553
+    },
+    {
+      "text": "hipodensidad sugestivas de lesión isquémica aguda",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 671,
+      "end": 720
+    },
+    {
+      "text": "gliosis crónica",
+      "type": "PATOLOGIA",
+      "start": 874,
+      "end": 889
+    },
+    {
+      "text": "bilateral",
+      "type": "LATERALIDAD",
+      "start": 920,
+      "end": 929
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 992,
+      "end": 1002
+    },
+    {
+      "text": "hipoperfusión",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1180,
+      "end": 1193
+    },
+    {
+      "text": "mismatch significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1197,
+      "end": 1219
+    },
+    {
+      "text": "ateromatosas",
+      "type": "PATOLOGIA",
+      "start": 1317,
+      "end": 1329
+    },
+    {
+      "text": "estenosis",
+      "type": "PATOLOGIA",
+      "start": 1333,
+      "end": 1342
+    },
+    {
+      "text": "arterias carótidas internas",
+      "type": "ARTERIA",
+      "start": 1389,
+      "end": 1416
+    },
+    {
+      "text": "ACAs, ACMs, ACPs",
+      "type": "ARTERIA",
+      "start": 1487,
+      "end": 1503
+    },
+    {
+      "text": "Sistema vertebrobasilar",
+      "type": "ARTERIA",
+      "start": 1564,
+      "end": 1587
+    },
+    {
+      "text": "sin signos de ateromatosis ni anomalías vasculares",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1609,
+      "end": 1659
+    },
+    {
+      "text": "sin hallazgos patológicos agudos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1710,
+      "end": 1742
+    },
+    {
+      "text": "sin evidencia de lesión isquémica ni hemorragia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1764,
+      "end": 1811
+    },
+    {
+      "text": "normal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 588,
+      "end": 594
+    },
+    {
+      "text": "sin estenosis significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1894,
+      "end": 1922
+    },
+    {
+      "text": "aguda",
+      "type": "TEMPORALIDAD",
+      "start": 279,
+      "end": 284
+    }
+  ]
+}

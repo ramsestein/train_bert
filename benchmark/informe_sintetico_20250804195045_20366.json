@@ -1,0 +1,203 @@
+{
+  "document_id": "informe_sintetico_20250804195045_20366",
+  "entities": [
+    {
+      "text": "hemiparesia derecha",
+      "type": "PATOLOGIA",
+      "start": 217,
+      "end": 236
+    },
+    {
+      "text": "afasia",
+      "type": "PATOLOGIA",
+      "start": 239,
+      "end": 245
+    },
+    {
+      "text": "2 horas",
+      "type": "TEMPORALIDAD",
+      "start": 278,
+      "end": 285
+    },
+    {
+      "text": "TC craneal basal urgente",
+      "type": "TECNICA_IMAGEN",
+      "start": 306,
+      "end": 330
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 332,
+      "end": 353
+    },
+    {
+      "text": "angio-TC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 356,
+      "end": 386
+    },
+    {
+      "text": "signo de arteria hiperdensa",
+      "type": "PATOLOGIA",
+      "start": 473,
+      "end": 500
+    },
+    {
+      "text": "segmento M1 izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 507,
+      "end": 528
+    },
+    {
+      "text": "pérdida moderada de la diferenciación cortico-subcortical",
+      "type": "PATOLOGIA",
+      "start": 572,
+      "end": 629
+    },
+    {
+      "text": "territorio fronto-parietal izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 633,
+      "end": 669
+    },
+    {
+      "text": "ASPECTS de 6/10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 677,
+      "end": 692
+    },
+    {
+      "text": "hemorragia intra ni extraaxial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 722,
+      "end": 752
+    },
+    {
+      "text": "línea media conservadas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 772,
+      "end": 795
+    },
+    {
+      "text": "sistema ventricular de tamaño y morfología normales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 797,
+      "end": 848
+    },
+    {
+      "text": "Cisternas basales libres",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 850,
+      "end": 874
+    },
+    {
+      "text": "Mapas de tiempo de tránsito (TTP) prolongados",
+      "type": "PATOLOGIA",
+      "start": 891,
+      "end": 936
+    },
+    {
+      "text": "reducción significativa de flujo cerebral (CBF)",
+      "type": "PATOLOGIA",
+      "start": 939,
+      "end": 986
+    },
+    {
+      "text": "territorio superficial y profundo de la ACM izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 990,
+      "end": 1043
+    },
+    {
+      "text": "descenso del volumen cerebral (CBV)",
+      "type": "PATOLOGIA",
+      "start": 1049,
+      "end": 1084
+    },
+    {
+      "text": "penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1108,
+      "end": 1126
+    },
+    {
+      "text": "núcleo isquémico limitado",
+      "type": "PATOLOGIA",
+      "start": 1129,
+      "end": 1154
+    },
+    {
+      "text": "Oclusión completa del segmento proximal M1 izquierdo",
+      "type": "PATOLOGIA",
+      "start": 1189,
+      "end": 1241
+    },
+    {
+      "text": "ausencia de repleción distal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1246,
+      "end": 1274
+    },
+    {
+      "text": "Arterias cerebrales contralaterales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1276,
+      "end": 1311
+    },
+    {
+      "text": "sistema vertebrobasilar permeables",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1314,
+      "end": 1348
+    },
+    {
+      "text": "estenosis significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1355,
+      "end": 1379
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 1533,
+      "end": 1547
+    },
+    {
+      "text": "territorio de ACM izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1551,
+      "end": 1578
+    },
+    {
+      "text": "ASPECTS 6",
+      "type": "PUNTUACION_CLINICA",
+      "start": 1583,
+      "end": 1592
+    },
+    {
+      "text": "hemorragia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 722,
+      "end": 732
+    },
+    {
+      "text": "Oclusión arterial M1 izquierda",
+      "type": "PATOLOGIA",
+      "start": 1950,
+      "end": 1980
+    },
+    {
+      "text": "área de isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 1985,
+      "end": 2007
+    },
+    {
+      "text": "penumbra significativa",
+      "type": "PATOLOGIA",
+      "start": 2010,
+      "end": 2032
+    }
+  ]
+}

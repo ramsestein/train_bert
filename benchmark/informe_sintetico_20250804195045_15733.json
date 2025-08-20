@@ -1,0 +1,101 @@
+{
+  "document_id": "informe_sintetico_20250804195045_15733",
+  "entities": [
+    {
+      "text": "hemorragia intra ni extraaxial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 380,
+      "end": 410
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 529,
+      "end": 543
+    },
+    {
+      "text": "edema cerebral",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 593,
+      "end": 607
+    },
+    {
+      "text": "calcificaciones puntiformes",
+      "type": "PATOLOGIA",
+      "start": 743,
+      "end": 770
+    },
+    {
+      "text": "cambios crónicos",
+      "type": "PATOLOGIA",
+      "start": 812,
+      "end": 828
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 853,
+      "end": 863
+    },
+    {
+      "text": "TTP",
+      "type": "TECNICA_IMAGEN",
+      "start": 909,
+      "end": 912
+    },
+    {
+      "text": "CBF",
+      "type": "TECNICA_IMAGEN",
+      "start": 941,
+      "end": 944
+    },
+    {
+      "text": "CBV",
+      "type": "TECNICA_IMAGEN",
+      "start": 976,
+      "end": 979
+    },
+    {
+      "text": "ateromatosis calcificada",
+      "type": "PATOLOGIA",
+      "start": 1143,
+      "end": 1167
+    },
+    {
+      "text": "estenosis significativa",
+      "type": "PATOLOGIA",
+      "start": 1172,
+      "end": 1195
+    },
+    {
+      "text": "estenosis relevantes",
+      "type": "PATOLOGIA",
+      "start": 1242,
+      "end": 1262
+    },
+    {
+      "text": "ACAs, ACMs y ACPs",
+      "type": "ARTERIA",
+      "start": 1375,
+      "end": 1392
+    },
+    {
+      "text": "Estudio de código ictus normal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1479,
+      "end": 1509
+    },
+    {
+      "text": "hemorragia ni isquemia aguda",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1562,
+      "end": 1590
+    },
+    {
+      "text": "parámetros normales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1638,
+      "end": 1657
+    }
+  ]
+}

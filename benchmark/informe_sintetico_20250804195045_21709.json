@@ -1,0 +1,89 @@
+{
+  "document_id": "informe_sintetico_20250804195045_21709",
+  "entities": [
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 404,
+      "end": 427
+    },
+    {
+      "text": "edema cerebral",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 431,
+      "end": 445
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 505,
+      "end": 519
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 521,
+      "end": 531
+    },
+    {
+      "text": "región fronto-parietal izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 599,
+      "end": 631
+    },
+    {
+      "text": "gliosis",
+      "type": "PATOLOGIA",
+      "start": 657,
+      "end": 664
+    },
+    {
+      "text": "microangiopatía crónica",
+      "type": "PATOLOGIA",
+      "start": 667,
+      "end": 690
+    },
+    {
+      "text": "atrofia cerebral leve",
+      "type": "PATOLOGIA",
+      "start": 843,
+      "end": 864
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 505,
+      "end": 519
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 521,
+      "end": 531
+    },
+    {
+      "text": "microangiopatía",
+      "type": "PATOLOGIA",
+      "start": 667,
+      "end": 682
+    },
+    {
+      "text": "atrofia cerebral leve",
+      "type": "PATOLOGIA",
+      "start": 843,
+      "end": 864
+    },
+    {
+      "text": "perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 288,
+      "end": 306
+    },
+    {
+      "text": "estudio angioTC arterial",
+      "type": "TECNICA_IMAGEN",
+      "start": 1680,
+      "end": 1704
+    }
+  ]
+}

@@ -1,0 +1,215 @@
+{
+  "document_id": "informe_sintetico_20250804195045_05946",
+  "entities": [
+    {
+      "text": "infarto cerebral reciente",
+      "type": "PATOLOGIA",
+      "start": 194,
+      "end": 219
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 237,
+      "end": 267
+    },
+    {
+      "text": "deterioro neurológico agudo",
+      "type": "PATOLOGIA",
+      "start": 278,
+      "end": 305
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 326,
+      "end": 342
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 359,
+      "end": 380
+    },
+    {
+      "text": "Angio-TC arterial intra/extracraneal urgente",
+      "type": "TECNICA_IMAGEN",
+      "start": 383,
+      "end": 427
+    },
+    {
+      "text": "extensa área hipodensa",
+      "type": "PATOLOGIA",
+      "start": 485,
+      "end": 507
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 237,
+      "end": 267
+    },
+    {
+      "text": "infarto isquémico establecido",
+      "type": "PATOLOGIA",
+      "start": 629,
+      "end": 658
+    },
+    {
+      "text": "transformación hemorrágica parenquimatosa",
+      "type": "PATOLOGIA",
+      "start": 673,
+      "end": 714
+    },
+    {
+      "text": "PH2",
+      "type": "PUNTUACION_CLINICA",
+      "start": 732,
+      "end": 735
+    },
+    {
+      "text": "hemorragia intraparenquimatosa extensa",
+      "type": "PATOLOGIA",
+      "start": 755,
+      "end": 793
+    },
+    {
+      "text": ">30% del área del infarto",
+      "type": "MEDIDA",
+      "start": 795,
+      "end": 820
+    },
+    {
+      "text": "efecto masa significativo",
+      "type": "PATOLOGIA",
+      "start": 826,
+      "end": 851
+    },
+    {
+      "text": "desviación de la línea media",
+      "type": "PATOLOGIA",
+      "start": 859,
+      "end": 887
+    },
+    {
+      "text": "No se identifican hemorragias subaracnoideas ni extraaxiales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 889,
+      "end": 949
+    },
+    {
+      "text": "Estructuras de la línea media desplazadas hacia la izquierda aproximadamente 5 mm",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 951,
+      "end": 1032
+    },
+    {
+      "text": "Sistema ventricular con leve compresión del ventrículo lateral derecho",
+      "type": "PATOLOGIA",
+      "start": 1034,
+      "end": 1104
+    },
+    {
+      "text": "Cisternas basales parcialmente obliteradas",
+      "type": "PATOLOGIA",
+      "start": 1106,
+      "end": 1148
+    },
+    {
+      "text": "disminución marcada del flujo cerebral",
+      "type": "PATOLOGIA",
+      "start": 1197,
+      "end": 1235
+    },
+    {
+      "text": "volumen cerebral cerebral",
+      "type": "PATOLOGIA",
+      "start": 1244,
+      "end": 1269
+    },
+    {
+      "text": "región derecha fronto-parietotemporal",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1279,
+      "end": 1316
+    },
+    {
+      "text": "área infartada",
+      "type": "PATOLOGIA",
+      "start": 1334,
+      "end": 1348
+    },
+    {
+      "text": "Tiempo de tránsito medio (MTT) prolongado",
+      "type": "PATOLOGIA",
+      "start": 1350,
+      "end": 1391
+    },
+    {
+      "text": "sin evidencia de penumbra viable significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1414,
+      "end": 1460
+    },
+    {
+      "text": "Obstrucción completa en segmento M1 de la arteria cerebral media derecha",
+      "type": "PATOLOGIA",
+      "start": 1498,
+      "end": 1570
+    },
+    {
+      "text": "No se observan otras estenosis significativas en el resto de la circulación intra o extracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1572,
+      "end": 1668
+    },
+    {
+      "text": "Transformación hemorrágica parenquimatosa PH2 en territorio de arteria cerebral media derecha sobre infarto isquémico establecido",
+      "type": "PATOLOGIA",
+      "start": 1697,
+      "end": 1826
+    },
+    {
+      "text": "Hemorragia extensa con efecto de masa y desviación de línea media",
+      "type": "PATOLOGIA",
+      "start": 1828,
+      "end": 1893
+    },
+    {
+      "text": "Obstrucción persistente en segmento M1 de ACM derecha",
+      "type": "PATOLOGIA",
+      "start": 1895,
+      "end": 1948
+    },
+    {
+      "text": "No se identifican otras lesiones hemorrágicas ni compromiso vascular adicional",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1950,
+      "end": 2028
+    },
+    {
+      "text": "Seguimiento clínico e imagenológico estrecho",
+      "type": "PATOLOGIA",
+      "start": 2159,
+      "end": 2203
+    },
+    {
+      "text": "Considerar neurocirugía",
+      "type": "PATOLOGIA",
+      "start": 2205,
+      "end": 2228
+    },
+    {
+      "text": "Transformación hemorrágica parenquimatosa PH2 post-infarto isquémico en ACM derecha",
+      "type": "PATOLOGIA",
+      "start": 2289,
+      "end": 2372
+    },
+    {
+      "text": "efecto masa y desviación de línea media",
+      "type": "PATOLOGIA",
+      "start": 2378,
+      "end": 2417
+    }
+  ]
+}

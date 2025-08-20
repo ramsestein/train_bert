@@ -1,0 +1,95 @@
+{
+  "document_id": "informe_sintetico_20250804195045_01182",
+  "entities": [
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 760,
+      "end": 774
+    },
+    {
+      "text": "arteria cerebral anterior izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 631,
+      "end": 666
+    },
+    {
+      "text": "A2",
+      "type": "ARTERIA",
+      "start": 1361,
+      "end": 1363
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 657,
+      "end": 666
+    },
+    {
+      "text": "oclusión incompleta",
+      "type": "PATOLOGIA",
+      "start": 1277,
+      "end": 1296
+    },
+    {
+      "text": "segmento proximal",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1300,
+      "end": 1317
+    },
+    {
+      "text": "sin evidencia de hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2374,
+      "end": 2414
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 362,
+      "end": 378
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 395,
+      "end": 416
+    },
+    {
+      "text": "angioTC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 419,
+      "end": 448
+    },
+    {
+      "text": "aumento del tiempo de tránsito medio (MTT)",
+      "type": "MEDIDA",
+      "start": 954,
+      "end": 996
+    },
+    {
+      "text": "tiempo a pico (TTP)",
+      "type": "MEDIDA",
+      "start": 999,
+      "end": 1018
+    },
+    {
+      "text": "disminución leve a moderada del volumen de sangre cerebral (CBV)",
+      "type": "MEDIDA",
+      "start": 1062,
+      "end": 1126
+    },
+    {
+      "text": "flujo sanguíneo cerebral (CBF)",
+      "type": "MEDIDA",
+      "start": 1129,
+      "end": 1159
+    },
+    {
+      "text": "sin otras lesiones concomitantes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1974,
+      "end": 2006
+    }
+  ]
+}

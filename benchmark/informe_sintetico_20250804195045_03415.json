@@ -1,0 +1,131 @@
+{
+  "document_id": "informe_sintetico_20250804195045_03415",
+  "entities": [
+    {
+      "text": "hemorragia subaracnoidea",
+      "type": "PATOLOGIA",
+      "start": 238,
+      "end": 262
+    },
+    {
+      "text": "hemorragia subaracnoidea difusa",
+      "type": "PATOLOGIA",
+      "start": 624,
+      "end": 655
+    },
+    {
+      "text": "hematomas intracerebrales focalizados",
+      "type": "PATOLOGIA",
+      "start": 675,
+      "end": 712
+    },
+    {
+      "text": "hemorragias intraventriculares",
+      "type": "PATOLOGIA",
+      "start": 716,
+      "end": 746
+    },
+    {
+      "text": "edema cerebral agudo",
+      "type": "PATOLOGIA",
+      "start": 887,
+      "end": 907
+    },
+    {
+      "text": "isquemia",
+      "type": "PATOLOGIA",
+      "start": 1035,
+      "end": 1043
+    },
+    {
+      "text": "aneurisma sacular",
+      "type": "PATOLOGIA",
+      "start": 1136,
+      "end": 1153
+    },
+    {
+      "text": "arteria cerebral anterior derecha",
+      "type": "ARTERIA",
+      "start": 1207,
+      "end": 1240
+    },
+    {
+      "text": "6 mm",
+      "type": "MEDIDA",
+      "start": 1173,
+      "end": 1177
+    },
+    {
+      "text": "sin áreas de isquemia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1022,
+      "end": 1043
+    },
+    {
+      "text": "sin estenosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1336,
+      "end": 1349
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 283,
+      "end": 299
+    },
+    {
+      "text": "TC PERFUSIÓN",
+      "type": "TECNICA_IMAGEN",
+      "start": 912,
+      "end": 924
+    },
+    {
+      "text": "ANGIO-TC EXTRA E INTRACRANEAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 1086,
+      "end": 1115
+    },
+    {
+      "text": "aguda",
+      "type": "TEMPORALIDAD",
+      "start": 346,
+      "end": 351
+    },
+    {
+      "text": "difusa",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 518,
+      "end": 524
+    },
+    {
+      "text": "cisternas basales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 532,
+      "end": 549
+    },
+    {
+      "text": "espacio subaracnoideo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 571,
+      "end": 592
+    },
+    {
+      "text": "espacios subaracnoideos",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1524,
+      "end": 1547
+    },
+    {
+      "text": "sistema ventricular",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 824,
+      "end": 843
+    },
+    {
+      "text": "sistema vertebrobasilar",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1295,
+      "end": 1318
+    }
+  ]
+}

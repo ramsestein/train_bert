@@ -1,0 +1,173 @@
+{
+  "document_id": "informe_sintetico_20250804195045_11759",
+  "entities": [
+    {
+      "text": "hemorragia intraventricular",
+      "type": "PATOLOGIA",
+      "start": 267,
+      "end": 294
+    },
+    {
+      "text": "ventrículos laterales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 612,
+      "end": 633
+    },
+    {
+      "text": "tercer ventrículo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 650,
+      "end": 667
+    },
+    {
+      "text": "cuarto ventrículo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 698,
+      "end": 715
+    },
+    {
+      "text": "hemorragia parenquimatosa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1824,
+      "end": 1849
+    },
+    {
+      "text": "focos hemorrágicos intraaxiales o extraaxiales adicionales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 781,
+      "end": 839
+    },
+    {
+      "text": "calcificaciones vascularizadas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 866,
+      "end": 896
+    },
+    {
+      "text": "malformaciones evidentes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 900,
+      "end": 924
+    },
+    {
+      "text": "hidrocefalia obstructiva",
+      "type": "PATOLOGIA",
+      "start": 1033,
+      "end": 1057
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1094,
+      "end": 1108
+    },
+    {
+      "text": "edema cerebral significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1112,
+      "end": 1140
+    },
+    {
+      "text": "alteraciones focales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1204,
+      "end": 1224
+    },
+    {
+      "text": "área isquémica aguda",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1300,
+      "end": 1320
+    },
+    {
+      "text": "compromiso hemodinámico significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1323,
+      "end": 1360
+    },
+    {
+      "text": "carótidas internas",
+      "type": "ARTERIA",
+      "start": 1449,
+      "end": 1467
+    },
+    {
+      "text": "arterias cerebrales medias",
+      "type": "ARTERIA",
+      "start": 1469,
+      "end": 1495
+    },
+    {
+      "text": "calibre adecuado",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1533,
+      "end": 1549
+    },
+    {
+      "text": "signos de estenosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1554,
+      "end": 1573
+    },
+    {
+      "text": "ruptura vascular",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1576,
+      "end": 1592
+    },
+    {
+      "text": "malformaciones arteriovenosas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1612,
+      "end": 1641
+    },
+    {
+      "text": "aneurismas evidentes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1645,
+      "end": 1665
+    },
+    {
+      "text": "hemorragia parenquimatosa asociada",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1824,
+      "end": 1858
+    },
+    {
+      "text": "lesiones isquémicas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1921,
+      "end": 1940
+    },
+    {
+      "text": "malformaciones vasculares aparentes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1944,
+      "end": 1979
+    },
+    {
+      "text": "TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANGIOTC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 2394,
+      "end": 2461
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 324,
+      "end": 340
+    },
+    {
+      "text": "TC PERFUSIÓN",
+      "type": "TECNICA_IMAGEN",
+      "start": 1173,
+      "end": 1185
+    },
+    {
+      "text": "ANGIOTC ARTERIAL INTRACRANEAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 1362,
+      "end": 1391
+    }
+  ]
+}

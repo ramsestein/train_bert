@@ -1,0 +1,24 @@
+UO_PACN (Unidad Organizativa Médica): RADIO
+
+PRUEB (Prueba solicitada): TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANG IOTC ARTERIAL INTRACRANEAL)
+
+CLIN (Resumen clínico): Paciente con déficit motor hemicorporal derecho súbito y disfasia sugestiva de evento isquémico cerebral agudo.
+
+OBSR (Protocolo): TC craneal basal sin contraste + TC perfusión cerebral + Angio-TC arterial intracraneal.
+
+RESL (Resultados): 
+- TC craneal basal: No se observan signos de hemorragia intracraneal. Se identifica pérdida leve de diferenciación córtico-subcortical en la región insular y opercular izquierda, sin efecto de masa apreciable. ASPECTS 9/10.
+- TC perfusión: Se evidencia aumento del tiempo de tránsito medio (TTP) y reducción leve del flujo sanguíneo cerebral (CBF) en territorio correspondiente a ramas distales de la arteria cerebral media izquierda (segmentos M2/M3), con mantenimiento del volumen cerebral sanguíneo (CBV), indicando área de penumbra isquémica.
+- Angio-TC arterial intracraneal: Oclusión parcial en rama distal M2 de la ACM izquierda. Resto de la circulación arterial intracraneal sin estenosis ni oclusiones significativas. No se observan anomalías en el sistema vertebrobasilar.
+
+CONCL (Conclusiones): Isquemia cerebral aguda en territorio de ramas distales (M2/M3) de la arteria cerebral media izquierda con ASPECTS 9/10, compatible con oclusión arterial distal parcial. Área de penumbra evidente en perfusión sin signo de infarto establecido en estudio basal.
+
+ACTI_ADICI (Actividad adicional):
+
+ICON (Estudio): @RADIO_TC@
+
+X00DIATXT (Texto del diagnóstico ACR): Infarto cerebral agudo en territorio distal de la arteria cerebral media izquierda (M2/M3) con oclusión arterial parcial y área de penumbra confirmada en perfusión.
+
+EST_T_DES (Descripción): TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANGIOTC ARTERIAL INTRACRANEAL)
+
+ZVASOS_D (Der.): Oclusión parcial segmento M2 ACM izquierda. Resto arterial sin alteraciones.

@@ -1,0 +1,59 @@
+{
+  "document_id": "informe_sintetico_20250804195045_00439",
+  "entities": [
+    {
+      "text": "hemorragia intracerebral lobar",
+      "type": "PATOLOGIA",
+      "start": 723,
+      "end": 753
+    },
+    {
+      "text": "12 mm",
+      "type": "MEDIDA",
+      "start": 773,
+      "end": 778
+    },
+    {
+      "text": "microhemorragias",
+      "type": "PATOLOGIA",
+      "start": 983,
+      "end": 999
+    },
+    {
+      "text": "angiopatía amiloide",
+      "type": "PATOLOGIA",
+      "start": 363,
+      "end": 382
+    },
+    {
+      "text": "sin zonas de hipoperfusión",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1315,
+      "end": 1341
+    },
+    {
+      "text": "estenosis arterial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2493,
+      "end": 2511
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 403,
+      "end": 419
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 421,
+      "end": 442
+    },
+    {
+      "text": "angiografía por TC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 445,
+      "end": 485
+    }
+  ]
+}

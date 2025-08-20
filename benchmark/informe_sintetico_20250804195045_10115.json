@@ -1,0 +1,101 @@
+{
+  "document_id": "informe_sintetico_20250804195045_10115",
+  "entities": [
+    {
+      "text": "infarto agudo isquémico",
+      "type": "PATOLOGIA",
+      "start": 626,
+      "end": 649
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "ARTERIA",
+      "start": 518,
+      "end": 550
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 541,
+      "end": 550
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 676,
+      "end": 699
+    },
+    {
+      "text": "disminución del flujo cerebral (CBF)",
+      "type": "PATOLOGIA",
+      "start": 985,
+      "end": 1021
+    },
+    {
+      "text": "tiempo de tránsito medio (MTT)",
+      "type": "MEDIDA",
+      "start": 1096,
+      "end": 1126
+    },
+    {
+      "text": "tiempo hasta el pico (TTP)",
+      "type": "MEDIDA",
+      "start": 1129,
+      "end": 1155
+    },
+    {
+      "text": "disección arterial",
+      "type": "PATOLOGIA",
+      "start": 1502,
+      "end": 1520
+    },
+    {
+      "text": "arteria carótida interna izquierda",
+      "type": "ARTERIA",
+      "start": 1386,
+      "end": 1420
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 541,
+      "end": 550
+    },
+    {
+      "text": "arteria cerebral media proximal",
+      "type": "ARTERIA",
+      "start": 1445,
+      "end": 1476
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 676,
+      "end": 699
+    },
+    {
+      "text": "territorio ACM izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 2238,
+      "end": 2262
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 541,
+      "end": 550
+    },
+    {
+      "text": "compromiso segmentario",
+      "type": "PATOLOGIA",
+      "start": 2316,
+      "end": 2338
+    },
+    {
+      "text": "complicaciones hemorrágicas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2343,
+      "end": 2370
+    }
+  ]
+}

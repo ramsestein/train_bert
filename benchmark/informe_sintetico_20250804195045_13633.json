@@ -1,0 +1,113 @@
+{
+  "document_id": "informe_sintetico_20250804195045_13633",
+  "entities": [
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 338,
+      "end": 352
+    },
+    {
+      "text": "arteria cerebral posterior derecha",
+      "type": "ARTERIA",
+      "start": 370,
+      "end": 404
+    },
+    {
+      "text": "hemorragia intracraneal aguda",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 649,
+      "end": 678
+    },
+    {
+      "text": "infarto establecido",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 754,
+      "end": 773
+    },
+    {
+      "text": "Índice ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 775,
+      "end": 792
+    },
+    {
+      "text": "área hipoperfundida",
+      "type": "PATOLOGIA",
+      "start": 915,
+      "end": 934
+    },
+    {
+      "text": "región occipital y parietal derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 938,
+      "end": 973
+    },
+    {
+      "text": "territorio de ACP derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 989,
+      "end": 1014
+    },
+    {
+      "text": "tiempo de tránsito medio (TTP)",
+      "type": "MEDIDA",
+      "start": 1032,
+      "end": 1062
+    },
+    {
+      "text": "reducción del flujo cerebral (CBF)",
+      "type": "MEDIDA",
+      "start": 1065,
+      "end": 1099
+    },
+    {
+      "text": "volumen cerebral sanguíneo (CBV)",
+      "type": "MEDIDA",
+      "start": 1104,
+      "end": 1136
+    },
+    {
+      "text": "penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1165,
+      "end": 1183
+    },
+    {
+      "text": "Oclusión proximal de arteria cerebral posterior derecha",
+      "type": "PATOLOGIA",
+      "start": 1217,
+      "end": 1272
+    },
+    {
+      "text": "Oclusión proximal de ACP derecha",
+      "type": "PATOLOGIA",
+      "start": 2056,
+      "end": 2088
+    },
+    {
+      "text": "territorio de arteria cerebral posterior derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 356,
+      "end": 404
+    },
+    {
+      "text": "penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1165,
+      "end": 1183
+    },
+    {
+      "text": "Oclusión proximal de ACP derecha",
+      "type": "PATOLOGIA",
+      "start": 2056,
+      "end": 2088
+    },
+    {
+      "text": "resto vasos sin alteraciones de calibre ni flujo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2236,
+      "end": 2284
+    }
+  ]
+}

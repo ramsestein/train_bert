@@ -1,0 +1,101 @@
+{
+  "document_id": "informe_sintetico_20250804195045_20546",
+  "entities": [
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 504,
+      "end": 527
+    },
+    {
+      "text": "lesiones isquémicas agudas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 531,
+      "end": 557
+    },
+    {
+      "text": "cambios crónicos de involución",
+      "type": "PATOLOGIA",
+      "start": 826,
+      "end": 856
+    },
+    {
+      "text": "atrofia cortical difusa",
+      "type": "PATOLOGIA",
+      "start": 735,
+      "end": 758
+    },
+    {
+      "text": "enfermedad crónica de pequeño vaso",
+      "type": "PATOLOGIA",
+      "start": 919,
+      "end": 953
+    },
+    {
+      "text": "arterias carótidas internas cervicales e intracraneales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1358,
+      "end": 1413
+    },
+    {
+      "text": "ACAs, ACMs, ACPs y sistema vertebrobasilar",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1493,
+      "end": 1535
+    },
+    {
+      "text": "sin estenosis significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1281,
+      "end": 1309
+    },
+    {
+      "text": "sin estenosis hemodinámicamente relevantes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1415,
+      "end": 1457
+    },
+    {
+      "text": "sin defectos de repleción ni signos de disección",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1550,
+      "end": 1598
+    },
+    {
+      "text": "sin evidencia de patología isquémica o hemorrágica aguda",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1640,
+      "end": 1696
+    },
+    {
+      "text": "sin zonas de hipoperfusión o alteraciones que sugieran daño isquémico agudo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1133,
+      "end": 1208
+    },
+    {
+      "text": "TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANG IOTC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 72,
+      "end": 140
+    },
+    {
+      "text": "TC CRANEAL BASAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 457,
+      "end": 473
+    },
+    {
+      "text": "TC PERFUSIÓN",
+      "type": "TECNICA_IMAGEN",
+      "start": 1045,
+      "end": 1057
+    },
+    {
+      "text": "ANGIO-TC EXTRA E INTRACRANEAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 1211,
+      "end": 1240
+    }
+  ]
+}

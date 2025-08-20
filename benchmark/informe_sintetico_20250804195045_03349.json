@@ -1,0 +1,239 @@
+{
+  "document_id": "informe_sintetico_20250804195045_03349",
+  "entities": [
+    {
+      "text": "accidente cerebrovascular isquémico reciente",
+      "type": "PATOLOGIA",
+      "start": 194,
+      "end": 238
+    },
+    {
+      "text": "deterioro neurológico progresivo",
+      "type": "PATOLOGIA",
+      "start": 249,
+      "end": 281
+    },
+    {
+      "text": "complicación hemorrágica",
+      "type": "PATOLOGIA",
+      "start": 296,
+      "end": 320
+    },
+    {
+      "text": "zona heterogénea hiperdensa",
+      "type": "PATOLOGIA",
+      "start": 517,
+      "end": 544
+    },
+    {
+      "text": "ganglios basales izquierdos",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 548,
+      "end": 575
+    },
+    {
+      "text": "región frontoparietal adyacente",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 578,
+      "end": 609
+    },
+    {
+      "text": "transformación hemorrágica tipo PH2",
+      "type": "PATOLOGIA",
+      "start": 626,
+      "end": 661
+    },
+    {
+      "text": "hematoma intracerebral",
+      "type": "PATOLOGIA",
+      "start": 693,
+      "end": 715
+    },
+    {
+      "text": "35 ml",
+      "type": "MEDIDA",
+      "start": 751,
+      "end": 756
+    },
+    {
+      "text": "edema perilesional moderado",
+      "type": "PATOLOGIA",
+      "start": 769,
+      "end": 796
+    },
+    {
+      "text": "desplaza la línea media hacia la derecha",
+      "type": "PATOLOGIA",
+      "start": 801,
+      "end": 841
+    },
+    {
+      "text": "5 mm",
+      "type": "MEDIDA",
+      "start": 861,
+      "end": 865
+    },
+    {
+      "text": "signos de hemorragia subaracnoidea",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 885,
+      "end": 919
+    },
+    {
+      "text": "sistema ventricular",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 943,
+      "end": 962
+    },
+    {
+      "text": "lado afectado",
+      "type": "LATERALIDAD",
+      "start": 1006,
+      "end": 1019
+    },
+    {
+      "text": "signos de fracturas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1036,
+      "end": 1055
+    },
+    {
+      "text": "lesiones óseas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1059,
+      "end": 1073
+    },
+    {
+      "text": "reducción marcada del volumen cerebral",
+      "type": "PATOLOGIA",
+      "start": 1098,
+      "end": 1136
+    },
+    {
+      "text": "territorio de la arteria cerebral media izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1146,
+      "end": 1195
+    },
+    {
+      "text": "tiempo de tránsito medio",
+      "type": "PATOLOGIA",
+      "start": 1213,
+      "end": 1237
+    },
+    {
+      "text": "tiempo hasta el pico",
+      "type": "PATOLOGIA",
+      "start": 1250,
+      "end": 1270
+    },
+    {
+      "text": "área de lesión isquémica",
+      "type": "PATOLOGIA",
+      "start": 1293,
+      "end": 1317
+    },
+    {
+      "text": "zona hemorrágica",
+      "type": "PATOLOGIA",
+      "start": 1352,
+      "end": 1368
+    },
+    {
+      "text": "ausencia de perfusión",
+      "type": "PATOLOGIA",
+      "start": 1389,
+      "end": 1410
+    },
+    {
+      "text": "Arco aórtico",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1459,
+      "end": 1471
+    },
+    {
+      "text": "troncos supraaórticos",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1474,
+      "end": 1495
+    },
+    {
+      "text": "estenosis significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1500,
+      "end": 1524
+    },
+    {
+      "text": "placas ateromatosas inestables",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1528,
+      "end": 1558
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "ARTERIA",
+      "start": 1163,
+      "end": 1195
+    },
+    {
+      "text": "arterias intracraneales",
+      "type": "ARTERIA",
+      "start": 423,
+      "end": 446
+    },
+    {
+      "text": "ACAs, ACPs y circulación vertebrobasilar",
+      "type": "ARTERIA",
+      "start": 1668,
+      "end": 1708
+    },
+    {
+      "text": "permeables sin signos de estenosis ni disección",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1724,
+      "end": 1771
+    },
+    {
+      "text": "Transformación hemorrágica tipo PH2",
+      "type": "PATOLOGIA",
+      "start": 1797,
+      "end": 1832
+    },
+    {
+      "text": "infarto cerebral extenso",
+      "type": "PATOLOGIA",
+      "start": 2300,
+      "end": 2324
+    },
+    {
+      "text": "territorio de la arteria cerebral media izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1146,
+      "end": 1195
+    },
+    {
+      "text": "edema asociado",
+      "type": "PATOLOGIA",
+      "start": 1899,
+      "end": 1913
+    },
+    {
+      "text": "desplazamiento de línea media",
+      "type": "PATOLOGIA",
+      "start": 1916,
+      "end": 1945
+    },
+    {
+      "text": "No hemorragia subaracnoidea",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2040,
+      "end": 2067
+    },
+    {
+      "text": "hemoventricular",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 923,
+      "end": 938
+    }
+  ]
+}

@@ -1,0 +1,245 @@
+{
+  "document_id": "informe_sintetico_20250804195045_17711",
+  "entities": [
+    {
+      "text": "infarto cerebral reciente",
+      "type": "PATOLOGIA",
+      "start": 179,
+      "end": 204
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 225,
+      "end": 257
+    },
+    {
+      "text": "deterioro neurológico",
+      "type": "PATOLOGIA",
+      "start": 273,
+      "end": 294
+    },
+    {
+      "text": "transformación hemorrágica",
+      "type": "PATOLOGIA",
+      "start": 305,
+      "end": 331
+    },
+    {
+      "text": "TC Basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 352,
+      "end": 360
+    },
+    {
+      "text": "TC Perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 363,
+      "end": 384
+    },
+    {
+      "text": "AngioTC Arterial Intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 387,
+      "end": 416
+    },
+    {
+      "text": "área hipodensa",
+      "type": "PATOLOGIA",
+      "start": 515,
+      "end": 529
+    },
+    {
+      "text": "territorio de la arteria cerebral media izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 208,
+      "end": 257
+    },
+    {
+      "text": "infarto isquémico subagudo",
+      "type": "PATOLOGIA",
+      "start": 599,
+      "end": 625
+    },
+    {
+      "text": "foco hiperdenso punctiforme",
+      "type": "PATOLOGIA",
+      "start": 641,
+      "end": 668
+    },
+    {
+      "text": "transformación hemorrágica tipo HI1",
+      "type": "PATOLOGIA",
+      "start": 712,
+      "end": 747
+    },
+    {
+      "text": "sin efecto masa significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 749,
+      "end": 778
+    },
+    {
+      "text": "No se evidencian hemorragias extraaxiales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 816,
+      "end": 857
+    },
+    {
+      "text": "ni hidrocefalia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 858,
+      "end": 873
+    },
+    {
+      "text": "Diferenciación cortico-subcortical levemente alterada",
+      "type": "PATOLOGIA",
+      "start": 875,
+      "end": 928
+    },
+    {
+      "text": "Sistema ventricular de tamaño y morfología conservados",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 950,
+      "end": 1004
+    },
+    {
+      "text": "Cisternas basales libres",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1006,
+      "end": 1030
+    },
+    {
+      "text": "Disminución del flujo cerebral (CBF)",
+      "type": "PATOLOGIA",
+      "start": 1058,
+      "end": 1094
+    },
+    {
+      "text": "del volumen cerebral (CBV)",
+      "type": "PATOLOGIA",
+      "start": 1097,
+      "end": 1123
+    },
+    {
+      "text": "territorio afectado de la ACM izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1130,
+      "end": 1169
+    },
+    {
+      "text": "prolongación moderada del tiempo hasta el pico (TTP)",
+      "type": "PATOLOGIA",
+      "start": 1175,
+      "end": 1227
+    },
+    {
+      "text": "lesión isquémica subaguda",
+      "type": "PATOLOGIA",
+      "start": 1243,
+      "end": 1268
+    },
+    {
+      "text": "No se identifican zonas con discordancia significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1270,
+      "end": 1324
+    },
+    {
+      "text": "que sugieran penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1325,
+      "end": 1356
+    },
+    {
+      "text": "Las arterias cerebrales principales (ACAs, ACMs y ACPs)",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1392,
+      "end": 1447
+    },
+    {
+      "text": "permeabilidad adecuada",
+      "type": "PATOLOGIA",
+      "start": 1459,
+      "end": 1481
+    },
+    {
+      "text": "Oclusión segmentaria distal de la ACM izquierda",
+      "type": "PATOLOGIA",
+      "start": 1483,
+      "end": 1530
+    },
+    {
+      "text": "No se identifican estenosis significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1559,
+      "end": 1601
+    },
+    {
+      "text": "ni trombos adicionales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1602,
+      "end": 1624
+    },
+    {
+      "text": "Sistema vertebrobasilar permeable",
+      "type": "PATOLOGIA",
+      "start": 1626,
+      "end": 1659
+    },
+    {
+      "text": "transformación hemorrágica tipo HI1",
+      "type": "PATOLOGIA",
+      "start": 712,
+      "end": 747
+    },
+    {
+      "text": "territorio isquémico de la arteria cerebral media izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1742,
+      "end": 1801
+    },
+    {
+      "text": "sin complicaciones asociadas significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1802,
+      "end": 1845
+    },
+    {
+      "text": "Hallazgos compatibles con evolución subaguda de infarto cerebral",
+      "type": "PATOLOGIA",
+      "start": 1847,
+      "end": 1911
+    },
+    {
+      "text": "con pequeña hemorragia petequial",
+      "type": "PATOLOGIA",
+      "start": 1912,
+      "end": 1944
+    },
+    {
+      "text": "AngioTC sin estenosis relevantes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1946,
+      "end": 1978
+    },
+    {
+      "text": "oclusión distal de ACM izquierda",
+      "type": "PATOLOGIA",
+      "start": 1984,
+      "end": 2016
+    },
+    {
+      "text": "Perfusión cerebral muestra área de infarto consolidado",
+      "type": "PATOLOGIA",
+      "start": 2018,
+      "end": 2072
+    },
+    {
+      "text": "sin penumbra significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2073,
+      "end": 2099
+    }
+  ]
+}

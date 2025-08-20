@@ -1,0 +1,59 @@
+{
+  "document_id": "informe_sintetico_20250804195045_10649",
+  "entities": [
+    {
+      "text": "infarto lacunar",
+      "type": "PATOLOGIA",
+      "start": 300,
+      "end": 315
+    },
+    {
+      "text": "cápsula interna derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 720,
+      "end": 743
+    },
+    {
+      "text": "1 cm",
+      "type": "MEDIDA",
+      "start": 685,
+      "end": 689
+    },
+    {
+      "text": "agudo",
+      "type": "TEMPORALIDAD",
+      "start": 774,
+      "end": 779
+    },
+    {
+      "text": "isquémica",
+      "type": "PATOLOGIA",
+      "start": 1245,
+      "end": 1254
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 605,
+      "end": 615
+    },
+    {
+      "text": "sin estenosis significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1387,
+      "end": 1414
+    },
+    {
+      "text": "sin signos de oclusión ni estenosis relevantes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1574,
+      "end": 1620
+    },
+    {
+      "text": "sin estenosis >50%",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1490,
+      "end": 1508
+    }
+  ]
+}

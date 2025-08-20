@@ -1,0 +1,65 @@
+{
+  "document_id": "informe_sintetico_20250804195045_15569",
+  "entities": [
+    {
+      "text": "ictus isquémico agudo",
+      "type": "PATOLOGIA",
+      "start": 231,
+      "end": 252
+    },
+    {
+      "text": "isquemia",
+      "type": "PATOLOGIA",
+      "start": 674,
+      "end": 682
+    },
+    {
+      "text": "ASPECTS 9/10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 704,
+      "end": 716
+    },
+    {
+      "text": "hipoperfusión regional",
+      "type": "PATOLOGIA",
+      "start": 910,
+      "end": 932
+    },
+    {
+      "text": "Oclusión segmentaria en rama distal de arteria cerebral media izquierda",
+      "type": "PATOLOGIA",
+      "start": 1098,
+      "end": 1169
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "ARTERIA",
+      "start": 1137,
+      "end": 1169
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 884,
+      "end": 893
+    },
+    {
+      "text": "segmento M2 proximal",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1189,
+      "end": 1209
+    },
+    {
+      "text": "No se evidencian hemorragias agudas ni colecciones extraaxiales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 417,
+      "end": 480
+    },
+    {
+      "text": "No se observan otras alteraciones vasculares intracraneales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1358,
+      "end": 1417
+    }
+  ]
+}

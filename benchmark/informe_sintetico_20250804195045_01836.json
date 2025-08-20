@@ -1,0 +1,101 @@
+{
+  "document_id": "informe_sintetico_20250804195045_01836",
+  "entities": [
+    {
+      "text": "ictus isquémico",
+      "type": "PATOLOGIA",
+      "start": 241,
+      "end": 256
+    },
+    {
+      "text": "hipodensidad cortical extensa",
+      "type": "PATOLOGIA",
+      "start": 447,
+      "end": 476
+    },
+    {
+      "text": "arteria carótida interna izquierda",
+      "type": "ARTERIA",
+      "start": 497,
+      "end": 531
+    },
+    {
+      "text": "ASPECTS 5",
+      "type": "PUNTUACION_CLINICA",
+      "start": 712,
+      "end": 721
+    },
+    {
+      "text": "4 mm",
+      "type": "MEDIDA",
+      "start": 819,
+      "end": 823
+    },
+    {
+      "text": "izquierdo",
+      "type": "LATERALIDAD",
+      "start": 905,
+      "end": 914
+    },
+    {
+      "text": "carótida interna izquierda",
+      "type": "ARTERIA",
+      "start": 505,
+      "end": 531
+    },
+    {
+      "text": "Oclusión completa de la arteria carótida interna izquierda",
+      "type": "PATOLOGIA",
+      "start": 1210,
+      "end": 1268
+    },
+    {
+      "text": "segmento cervical proximal",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1272,
+      "end": 1298
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 522,
+      "end": 531
+    },
+    {
+      "text": "ausencia de opacificación del segmento M1 de la arteria cerebral media izquierda",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1396,
+      "end": 1476
+    },
+    {
+      "text": "No se detectan otras estenosis significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1512,
+      "end": 1557
+    },
+    {
+      "text": "Oclusión aguda de arteria carótida interna izquierda",
+      "type": "PATOLOGIA",
+      "start": 1633,
+      "end": 1685
+    },
+    {
+      "text": "infarto extenso en territorio carotídeo",
+      "type": "PATOLOGIA",
+      "start": 1690,
+      "end": 1729
+    },
+    {
+      "text": "No evidencia de hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1836,
+      "end": 1875
+    },
+    {
+      "text": "TC",
+      "type": "TECNICA_IMAGEN",
+      "start": 72,
+      "end": 74
+    }
+  ]
+}

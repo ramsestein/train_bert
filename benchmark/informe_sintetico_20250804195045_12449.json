@@ -1,0 +1,83 @@
+{
+  "document_id": "informe_sintetico_20250804195045_12449",
+  "entities": [
+    {
+      "text": "hematoma intraparenquimatoso",
+      "type": "PATOLOGIA",
+      "start": 584,
+      "end": 612
+    },
+    {
+      "text": "núcleo caudado derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 652,
+      "end": 674
+    },
+    {
+      "text": "cápsula interna",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 704,
+      "end": 719
+    },
+    {
+      "text": "15 ml",
+      "type": "MEDIDA",
+      "start": 772,
+      "end": 777
+    },
+    {
+      "text": "3 mm",
+      "type": "MEDIDA",
+      "start": 911,
+      "end": 915
+    },
+    {
+      "text": "hipoperfusión",
+      "type": "PATOLOGIA",
+      "start": 1276,
+      "end": 1289
+    },
+    {
+      "text": "tiempo de tránsito medio (MTT)",
+      "type": "MEDIDA",
+      "start": 1342,
+      "end": 1372
+    },
+    {
+      "text": "volumen sanguíneo cerebral (CBV)",
+      "type": "MEDIDA",
+      "start": 1391,
+      "end": 1423
+    },
+    {
+      "text": "sin evidencia clara de área isquémica extensa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1425,
+      "end": 1470
+    },
+    {
+      "text": "sin evidencias de malformaciones vasculares ni aneurismas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1540,
+      "end": 1597
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 425,
+      "end": 441
+    },
+    {
+      "text": "estudio de perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 468,
+      "end": 497
+    },
+    {
+      "text": "angio-TC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 500,
+      "end": 530
+    }
+  ]
+}

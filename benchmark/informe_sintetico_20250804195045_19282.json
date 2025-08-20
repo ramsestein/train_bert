@@ -1,0 +1,119 @@
+{
+  "document_id": "informe_sintetico_20250804195045_19282",
+  "entities": [
+    {
+      "text": "isquemia",
+      "type": "PATOLOGIA",
+      "start": 263,
+      "end": 271
+    },
+    {
+      "text": "edema citotóxico incipiente",
+      "type": "PATOLOGIA",
+      "start": 706,
+      "end": 733
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 1224,
+      "end": 1238
+    },
+    {
+      "text": "arteria vertebral izquierda",
+      "type": "ARTERIA",
+      "start": 1415,
+      "end": 1442
+    },
+    {
+      "text": "arteria basilar proximal",
+      "type": "ARTERIA",
+      "start": 1487,
+      "end": 1511
+    },
+    {
+      "text": "territorio vertebrobasilar",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 275,
+      "end": 301
+    },
+    {
+      "text": "cerebeloso izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1044,
+      "end": 1064
+    },
+    {
+      "text": "protuberancia",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1067,
+      "end": 1080
+    },
+    {
+      "text": "cerebelo izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 2042,
+      "end": 2060
+    },
+    {
+      "text": "No se evidencian hemorragias intra ni extraaxiales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 524,
+      "end": 574
+    },
+    {
+      "text": "No se observan otras lesiones parenquimatosas agudas ni crónicas relevantes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 735,
+      "end": 810
+    },
+    {
+      "text": "No evidencia de hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2062,
+      "end": 2101
+    },
+    {
+      "text": "TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANG IOTC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 72,
+      "end": 140
+    },
+    {
+      "text": "TC basal de cráneo",
+      "type": "TECNICA_IMAGEN",
+      "start": 346,
+      "end": 364
+    },
+    {
+      "text": "estudio de perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 366,
+      "end": 395
+    },
+    {
+      "text": "angioTC de arterias extra e intracraneales",
+      "type": "TECNICA_IMAGEN",
+      "start": 398,
+      "end": 440
+    },
+    {
+      "text": "disminución significativa del flujo cerebral (CBF)",
+      "type": "MEDIDA",
+      "start": 1086,
+      "end": 1136
+    },
+    {
+      "text": "leve reducción del volumen cerebral (CBV)",
+      "type": "MEDIDA",
+      "start": 1139,
+      "end": 1180
+    },
+    {
+      "text": "hipoperfusión",
+      "type": "PATOLOGIA",
+      "start": 1981,
+      "end": 1994
+    }
+  ]
+}

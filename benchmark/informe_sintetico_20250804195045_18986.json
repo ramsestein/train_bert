@@ -1,0 +1,59 @@
+{
+  "document_id": "informe_sintetico_20250804195045_18986",
+  "entities": [
+    {
+      "text": "infarto cerebral agudo",
+      "type": "PATOLOGIA",
+      "start": 561,
+      "end": 583
+    },
+    {
+      "text": "territorio carotídeo izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 463,
+      "end": 493
+    },
+    {
+      "text": "arteria carótida interna izquierda",
+      "type": "ARTERIA",
+      "start": 1244,
+      "end": 1278
+    },
+    {
+      "text": "izquierdo",
+      "type": "LATERALIDAD",
+      "start": 484,
+      "end": 493
+    },
+    {
+      "text": "agudo",
+      "type": "TEMPORALIDAD",
+      "start": 186,
+      "end": 191
+    },
+    {
+      "text": "ausencia de flujo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1475,
+      "end": 1492
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 245,
+      "end": 261
+    },
+    {
+      "text": "TC PERFUSIÓN",
+      "type": "TECNICA_IMAGEN",
+      "start": 850,
+      "end": 862
+    },
+    {
+      "text": "ANGIO-TC EXTRA E INTRACRANEAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 1187,
+      "end": 1216
+    }
+  ]
+}

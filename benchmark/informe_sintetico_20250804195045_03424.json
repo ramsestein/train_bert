@@ -1,0 +1,193 @@
+{
+  "document_id": "informe_sintetico_20250804195045_03424",
+  "entities": [
+    {
+      "text": "hipertensión arterial severa",
+      "type": "PATOLOGIA",
+      "start": 200,
+      "end": 228
+    },
+    {
+      "text": "cefalea intensa",
+      "type": "PATOLOGIA",
+      "start": 231,
+      "end": 246
+    },
+    {
+      "text": "alteración visual progresiva",
+      "type": "PATOLOGIA",
+      "start": 257,
+      "end": 285
+    },
+    {
+      "text": "confusión",
+      "type": "PATOLOGIA",
+      "start": 288,
+      "end": 297
+    },
+    {
+      "text": "hemorragia",
+      "type": "PATOLOGIA",
+      "start": 364,
+      "end": 374
+    },
+    {
+      "text": "áreas bilaterales de hipodensidad",
+      "type": "PATOLOGIA",
+      "start": 617,
+      "end": 650
+    },
+    {
+      "text": "edema vasogénico",
+      "type": "PATOLOGIA",
+      "start": 774,
+      "end": 790
+    },
+    {
+      "text": "infarto establecido",
+      "type": "PATOLOGIA",
+      "start": 805,
+      "end": 824
+    },
+    {
+      "text": "efecto de masa",
+      "type": "PATOLOGIA",
+      "start": 828,
+      "end": 842
+    },
+    {
+      "text": "leucoencefalopatía posterior reversible",
+      "type": "PATOLOGIA",
+      "start": 1584,
+      "end": 1623
+    },
+    {
+      "text": "edema vasogénico",
+      "type": "PATOLOGIA",
+      "start": 774,
+      "end": 790
+    },
+    {
+      "text": "territorios parieto-occipitales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1670,
+      "end": 1701
+    },
+    {
+      "text": "sustancia blanca parieto-occipital",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 657,
+      "end": 691
+    },
+    {
+      "text": "cortical",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 714,
+      "end": 722
+    },
+    {
+      "text": "línea media",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 847,
+      "end": 858
+    },
+    {
+      "text": "sistema ventricular",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 878,
+      "end": 897
+    },
+    {
+      "text": "parieto-occipital",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 674,
+      "end": 691
+    },
+    {
+      "text": "bilateral",
+      "type": "LATERALIDAD",
+      "start": 623,
+      "end": 632
+    },
+    {
+      "text": "MTT",
+      "type": "MEDIDA",
+      "start": 1126,
+      "end": 1129
+    },
+    {
+      "text": "TTP",
+      "type": "MEDIDA",
+      "start": 1155,
+      "end": 1158
+    },
+    {
+      "text": "CBV",
+      "type": "MEDIDA",
+      "start": 1209,
+      "end": 1212
+    },
+    {
+      "text": "CBF",
+      "type": "MEDIDA",
+      "start": 1232,
+      "end": 1235
+    },
+    {
+      "text": "sin compromiso isquémico",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1269,
+      "end": 1293
+    },
+    {
+      "text": "sin signos de estenosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1363,
+      "end": 1386
+    },
+    {
+      "text": "sin hallazgos patológicos relevantes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1433,
+      "end": 1469
+    },
+    {
+      "text": "TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANG IOTC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 72,
+      "end": 140
+    },
+    {
+      "text": "TC craneal basal sin contraste",
+      "type": "TECNICA_IMAGEN",
+      "start": 318,
+      "end": 348
+    },
+    {
+      "text": "estudio de perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 387,
+      "end": 416
+    },
+    {
+      "text": "angiografía por TC arterial intracraneal y extracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 419,
+      "end": 474
+    },
+    {
+      "text": "control clínico",
+      "type": "TEMPORALIDAD",
+      "start": 1921,
+      "end": 1936
+    },
+    {
+      "text": "seguimiento radiológico",
+      "type": "TEMPORALIDAD",
+      "start": 1939,
+      "end": 1962
+    }
+  ],
+  "regenerado": true,
+  "fecha_regeneracion": "2025-08-06T18:43:23.484147"
+}

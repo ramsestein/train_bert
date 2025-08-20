@@ -1,0 +1,77 @@
+{
+  "document_id": "0000000010000000057874131_cleaned",
+  "entities": [
+    {
+      "text": "hemorragia aguda intra o extraaxial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 358,
+      "end": 393
+    },
+    {
+      "text": "lesiones isquémicas parenquimatosas subagudas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 410,
+      "end": 455
+    },
+    {
+      "text": "lesiones isquémicas crónicas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 465,
+      "end": 493
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 596,
+      "end": 606
+    },
+    {
+      "text": "alteraciones valorables en el TTP, CBV y CBF",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 809,
+      "end": 853
+    },
+    {
+      "text": "ACAs, ACMs, ACPs",
+      "type": "ARTERIA",
+      "start": 945,
+      "end": 961
+    },
+    {
+      "text": "Sistema vertebrobasilar",
+      "type": "ARTERIA",
+      "start": 998,
+      "end": 1021
+    },
+    {
+      "text": "arteria carótida interna",
+      "type": "ARTERIA",
+      "start": 1183,
+      "end": 1207
+    },
+    {
+      "text": "arterias vertebrales",
+      "type": "ARTERIA",
+      "start": 1263,
+      "end": 1283
+    },
+    {
+      "text": "TAC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 1348,
+      "end": 1365
+    },
+    {
+      "text": "estudio de perfusión",
+      "type": "TECNICA_IMAGEN",
+      "start": 1367,
+      "end": 1387
+    },
+    {
+      "text": "Angio-TC",
+      "type": "TECNICA_IMAGEN",
+      "start": 1390,
+      "end": 1398
+    }
+  ]
+}

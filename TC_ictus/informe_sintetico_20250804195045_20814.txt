@@ -1,0 +1,31 @@
+UO_PACN (Unidad Organizativa Médica): RADIO
+
+PRUEB (Prueba solicitada): TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANG IOTC ARTERIAL INTRACRANEAL)
+
+CLIN (Resumen clínico): Paciente con cuadro de cefalea súbita, déficit motor contralateral y alteración del nivel de conciencia.
+
+OBSR (Protocolo): TC craneal basal urgente sin contraste, seguido de TC perfusión cerebral y AngioTC arterial intracraneal para valoración de ictus y hemorragia. Protocolo estándar de código ictus.
+
+RESL (Resultados):  
+TC CRANEAL BASAL:  
+Se evidencia hematoma lobar hiperdenso en región parietal derecha, con un volumen aproximado de 15 ml. El hematoma produce efecto masa leve, con ligera desviación de la línea media hacia la izquierda (aproximadamente 3 mm). Presencia de edema vasogénico circundante que afecta la sustancia blanca adyacente. No se identifican signos de fractura ósea ni hemorragia subaracnoidea asociada. Los ventrículos se encuentran levemente comprimidos en el lado derecho, sin evidencia de hidrocefalia obstructiva. Cisternas basales normales y libres.
+
+TC PERFUSIÓN:  
+Área adyacente al hematoma con perfusión reducida en el mapa de flujo cerebral (CBF) y aumento del tiempo medio de tránsito (MTT), compatible con hipoperfusión secundaria al efecto de masa local. Volumen cerebral relativo (CBV) levemente disminuido, sin zonas de isquemia extensa ni penumbra significativa.
+
+ANGIOTC INTRACRANEAL:  
+No se observan signos de malformaciones arteriovenosas ni aneurismas responsables. Vasos principales permeables sin estenosis intra o extracraneal relevante. No se detectan defectos de llenado ni trombosis intracraneales. Presencia de ateromatosis calcificada leve en segmentos carotídeos, sin repercusión hemodinámica.
+
+CONCL (Conclusiones):  
+Hematoma lobar parietal derecho de volumen moderado con efecto de masa leve y edema circundante. Sin signos de isquemia asociada ni hemorragia adicional. Vasculatura intracraneal permeable y sin alteraciones significativas. Se recomienda seguimiento clínico y neuroquirúrgico.
+
+ACTI_ADICI (Actividad adicional):  
+
+ICON (Estudio): @RADIO_TC_202406@
+
+X00DIATXT (Texto del diagnóstico ACR):  
+Hemorragia intracerebral lobar en región parietal derecha con efecto de masa leve. Vasculatura intracraneal sin alteraciones significativas.
+
+EST_T_DES (Descripción): TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANGIOTC ARTERIAL INTRACRANEAL)
+
+ZVASOS_D (Der.): Se recomienda correlación clínica y evaluación neurológica urgente para manejo integral.

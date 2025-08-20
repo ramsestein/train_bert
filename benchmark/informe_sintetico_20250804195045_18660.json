@@ -1,0 +1,59 @@
+{
+  "document_id": "informe_sintetico_20250804195045_18660",
+  "entities": [
+    {
+      "text": "isquemia",
+      "type": "PATOLOGIA",
+      "start": 593,
+      "end": 601
+    },
+    {
+      "text": "arteria cerebral anterior",
+      "type": "ARTERIA",
+      "start": 261,
+      "end": 286
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 287,
+      "end": 296
+    },
+    {
+      "text": "ASPECTS 8",
+      "type": "PUNTUACION_CLINICA",
+      "start": 708,
+      "end": 717
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "TEMPORALIDAD",
+      "start": 1090,
+      "end": 1104
+    },
+    {
+      "text": "Oclusión segmentaria proximal de la arteria cerebral anterior izquierda (segmento A2)",
+      "type": "PATOLOGIA",
+      "start": 1142,
+      "end": 1227
+    },
+    {
+      "text": "No se evidencian hemorragias intra ni extraaxiales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 438,
+      "end": 488
+    },
+    {
+      "text": "No se detecta hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1606,
+      "end": 1643
+    },
+    {
+      "text": "TC CRANEAL BASAL + PERFUSIÓN CEREBRAL + ANGIO-TC ARTERIAL INTRACRANEAL URGENTE",
+      "type": "TECNICA_IMAGEN",
+      "start": 317,
+      "end": 395
+    }
+  ]
+}

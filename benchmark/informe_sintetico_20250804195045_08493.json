@@ -1,0 +1,89 @@
+{
+  "document_id": "informe_sintetico_20250804195045_08493",
+  "entities": [
+    {
+      "text": "infarto lacunar",
+      "type": "PATOLOGIA",
+      "start": 286,
+      "end": 301
+    },
+    {
+      "text": "isquémica",
+      "type": "PATOLOGIA",
+      "start": 459,
+      "end": 468
+    },
+    {
+      "text": "7 mm",
+      "type": "MEDIDA",
+      "start": 750,
+      "end": 754
+    },
+    {
+      "text": "cápsula posterior izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 803,
+      "end": 830
+    },
+    {
+      "text": "aguda",
+      "type": "TEMPORALIDAD",
+      "start": 864,
+      "end": 869
+    },
+    {
+      "text": "infarto lacunar agudo",
+      "type": "PATOLOGIA",
+      "start": 1297,
+      "end": 1318
+    },
+    {
+      "text": "TTP",
+      "type": "TECNICA_IMAGEN",
+      "start": 1124,
+      "end": 1127
+    },
+    {
+      "text": "CBF",
+      "type": "TECNICA_IMAGEN",
+      "start": 1166,
+      "end": 1169
+    },
+    {
+      "text": "CBV",
+      "type": "TECNICA_IMAGEN",
+      "start": 1265,
+      "end": 1268
+    },
+    {
+      "text": "ACAs, ACMs, ACPs",
+      "type": "ARTERIA",
+      "start": 1618,
+      "end": 1634
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 821,
+      "end": 830
+    },
+    {
+      "text": "sin evidencia de hemorragia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2333,
+      "end": 2360
+    },
+    {
+      "text": "sin signos de oclusión ni estenosis significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1981,
+      "end": 2031
+    },
+    {
+      "text": "sin complicaciones hemorrágicas ni edema asociado",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1840,
+      "end": 1889
+    }
+  ]
+}

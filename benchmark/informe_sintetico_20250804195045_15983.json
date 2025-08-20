@@ -1,0 +1,83 @@
+{
+  "document_id": "informe_sintetico_20250804195045_15983",
+  "entities": [
+    {
+      "text": "hemorragia aguda intracraneal",
+      "type": "PATOLOGIA",
+      "start": 450,
+      "end": 479
+    },
+    {
+      "text": "infarto cerebral",
+      "type": "PATOLOGIA",
+      "start": 493,
+      "end": 509
+    },
+    {
+      "text": "ASPECTS 10/10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 601,
+      "end": 614
+    },
+    {
+      "text": "isquemia crónica",
+      "type": "PATOLOGIA",
+      "start": 918,
+      "end": 934
+    },
+    {
+      "text": "leucoaraiosis",
+      "type": "PATOLOGIA",
+      "start": 988,
+      "end": 1001
+    },
+    {
+      "text": "ACAs",
+      "type": "ARTERIA",
+      "start": 1320,
+      "end": 1324
+    },
+    {
+      "text": "ACMs",
+      "type": "ARTERIA",
+      "start": 1326,
+      "end": 1330
+    },
+    {
+      "text": "ACPs",
+      "type": "ARTERIA",
+      "start": 1332,
+      "end": 1336
+    },
+    {
+      "text": "sin hallazgos agudos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1621,
+      "end": 1641
+    },
+    {
+      "text": "hemorragias ni infartos cerebrales recientes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1661,
+      "end": 1705
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 601,
+      "end": 611
+    },
+    {
+      "text": "sin áreas de hipoperfusión",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1819,
+      "end": 1845
+    },
+    {
+      "text": "sin signos de estenosis ni oclusión",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1859,
+      "end": 1894
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "document_id": "0000000010000000061067442_cleaned",
+  "entities": [
+    {
+      "text": "hemorragia aguda",
+      "type": "PATOLOGIA",
+      "start": 381,
+      "end": 397
+    },
+    {
+      "text": "lesiones focales intra ni extraaxial",
+      "type": "PATOLOGIA",
+      "start": 401,
+      "end": 437
+    },
+    {
+      "text": "isquemia",
+      "type": "PATOLOGIA",
+      "start": 596,
+      "end": 604
+    },
+    {
+      "text": "atrofia",
+      "type": "PATOLOGIA",
+      "start": 690,
+      "end": 697
+    },
+    {
+      "text": "ACMi",
+      "type": "ARTERIA",
+      "start": 997,
+      "end": 1001
+    },
+    {
+      "text": "izquierdo",
+      "type": "LATERALIDAD",
+      "start": 967,
+      "end": 976
+    },
+    {
+      "text": "ACMi",
+      "type": "ARTERIA",
+      "start": 997,
+      "end": 1001
+    },
+    {
+      "text": "M3-M4",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1196,
+      "end": 1201
+    },
+    {
+      "text": "ateromatosis",
+      "type": "PATOLOGIA",
+      "start": 1306,
+      "end": 1318
+    },
+    {
+      "text": "estenosis significativas",
+      "type": "PATOLOGIA",
+      "start": 1322,
+      "end": 1346
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 1549,
+      "end": 1558
+    },
+    {
+      "text": "ACM izquierda",
+      "type": "ARTERIA",
+      "start": 1853,
+      "end": 1866
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 486,
+      "end": 496
+    },
+    {
+      "text": "TC de cráneo basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 240,
+      "end": 258
+    },
+    {
+      "text": "TC PERFUSIÓN",
+      "type": "TECNICA_IMAGEN",
+      "start": 855,
+      "end": 867
+    },
+    {
+      "text": "ANGIO-TC EXTRA E INTRACRANEAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 1120,
+      "end": 1149
+    },
+    {
+      "text": "No se observa hemorragia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 367,
+      "end": 391
+    },
+    {
+      "text": "No se observan hipodensidades con pérdida de la diferenciación cortico subcortical",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 499,
+      "end": 581
+    },
+    {
+      "text": "Resto de principales arterias cerebrales permeables",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1228,
+      "end": 1279
+    },
+    {
+      "text": "No se observan placas de ateromatosis ni estenosis significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1281,
+      "end": 1346
+    },
+    {
+      "text": "Origen de las arterias vertebrales sin ateromatosis ni signos de estenosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1413,
+      "end": 1487
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "document_id": "informe_sintetico_20250804195045_23060",
+  "entities": [
+    {
+      "text": "isquemia",
+      "type": "PATOLOGIA",
+      "start": 230,
+      "end": 238
+    },
+    {
+      "text": "arteria cerebral posterior",
+      "type": "ARTERIA",
+      "start": 256,
+      "end": 282
+    },
+    {
+      "text": "agudo",
+      "type": "TEMPORALIDAD",
+      "start": 209,
+      "end": 214
+    },
+    {
+      "text": "No se identifican signos de hemorragia intracraneal ni masa ocupante de espacio.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 509,
+      "end": 589
+    },
+    {
+      "text": "Áreas hipodensas sutiles en región occipital derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 590,
+      "end": 642
+    },
+    {
+      "text": "infarto isquémico",
+      "type": "PATOLOGIA",
+      "start": 679,
+      "end": 696
+    },
+    {
+      "text": "ASPECTS",
+      "type": "PUNTUACION_CLINICA",
+      "start": 698,
+      "end": 705
+    },
+    {
+      "text": "territorio occipital derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 957,
+      "end": 985
+    },
+    {
+      "text": "retraso en perfusión arterial",
+      "type": "PATOLOGIA",
+      "start": 1001,
+      "end": 1030
+    },
+    {
+      "text": "penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1166,
+      "end": 1184
+    },
+    {
+      "text": "No se evidencia área establecida de infarto completo (necrosis).",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1218,
+      "end": 1282
+    },
+    {
+      "text": "oclusión segmentaria aguda",
+      "type": "PATOLOGIA",
+      "start": 1327,
+      "end": 1353
+    },
+    {
+      "text": "segmento P2",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1360,
+      "end": 1371
+    },
+    {
+      "text": "arteria cerebral posterior derecha",
+      "type": "ARTERIA",
+      "start": 1378,
+      "end": 1412
+    },
+    {
+      "text": "No signos de hemorragia intracraneal ni infarto establecido masivo.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1823,
+      "end": 1890
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 1634,
+      "end": 1648
+    },
+    {
+      "text": "arteria cerebral posterior derecha",
+      "type": "ARTERIA",
+      "start": 1378,
+      "end": 1412
+    },
+    {
+      "text": "oclusión arteria segmentaria P2",
+      "type": "PATOLOGIA",
+      "start": 2241,
+      "end": 2272
+    },
+    {
+      "text": "penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1166,
+      "end": 1184
+    },
+    {
+      "text": "Oclusión segmentaria en arteria cerebral posterior derecha (P2).",
+      "type": "PATOLOGIA",
+      "start": 2407,
+      "end": 2471
+    }
+  ]
+}

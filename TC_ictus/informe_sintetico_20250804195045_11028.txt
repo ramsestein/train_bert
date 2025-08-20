@@ -1,0 +1,30 @@
+UO_PACN (Unidad Organizativa Médica): RADIO
+
+PRUEB (Prueba solicitada): TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANG IOTC ARTERIAL INTRACRANEAL)
+
+CLIN (Resumen clínico): Paciente con inicio súbito de hemiparesia izquierda y alteración del nivel de conciencia. Sospecha de hematoma intracerebral.
+
+OBSR (Protocolo): TC craneal sin contraste basal, seguido de angiografía por TC intra y extracraneal y perfusión cerebral para valoración de lesiones hemorrágicas y isquémicas.
+
+RESL (Resultados): TC CRANEAL BASAL:
+Se identifica hematoma hiperdenso espontáneo en región del núcleo caudado derecho, que mide aproximadamente 3,5 x 2,8 x 3,0 cm, con efecto masa que desplaza estructuras de la línea media hacia la izquierda 4 mm y leve compresión del sistema ventricular lateral derecho, sin evidencia de sangrado subaracnoideo ni hemorragia intraventricular. Edema perilesional vasogénico moderado presente. No se observan fracturas óseas.
+
+TC PERFUSIÓN:
+Área adyacente al hematoma muestra hipoperfusión secundaria con prolongación del tiempo de tránsito medio (TTP) y reducción leve del flujo cerebral (CBF), compatible con efecto masa local. El resto del parénquima cerebral mantiene parámetros perfusionales normales.
+
+ANGIO-TC EXTRA E INTRACRANEAL:
+No se identifican malformaciones vasculares ni aneurismas. Arterias cerebrales principales permeables. No hay evidencia de estenosis significativa ni trombosis.
+
+CONCL (Conclusiones): Hematoma intracerebral en núcleo caudado derecho con efecto masa y edema perilesional. No complicaciones hemorrágicas adicionales ni signos de vascularización anómala. Se mantiene permeabilidad arterial. Recomendable seguimiento neurológico y valoración neuroquirúrgica urgente.
+
+ACTI_ADICI (Actividad adicional): Control imagenológico a las 24-48 horas para valorar evolución del hematoma y edema.
+
+DKTXT (Descripció): TC NEURO S/CONTRASTE + PERFUSIÓN + ANGIO-TC
+
+ICON (Estudio): @RADIO_TC_202406@
+
+X00DIATXT (Texto del diagnóstico ACR): Hematoma intracerebral espontáneo en región del núcleo caudado derecho con masa y edema asociados.
+
+EST_T_DES (Descripción): TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANGIOTC ARTERIAL INTRACRANEAL)
+
+ZVASOS_D (Der.): TC angiografía arterial intra y extracraneal sin alteraciones significativas.

@@ -1,0 +1,59 @@
+{
+  "document_id": "informe_sintetico_20250804195045_03545",
+  "entities": [
+    {
+      "text": "infarto isquémico agudo",
+      "type": "PATOLOGIA",
+      "start": 662,
+      "end": 685
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 614,
+      "end": 646
+    },
+    {
+      "text": "M1",
+      "type": "ARTERIA",
+      "start": 1673,
+      "end": 1675
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 637,
+      "end": 646
+    },
+    {
+      "text": "0,6 cm",
+      "type": "MEDIDA",
+      "start": 998,
+      "end": 1004
+    },
+    {
+      "text": "agudo",
+      "type": "TEMPORALIDAD",
+      "start": 680,
+      "end": 685
+    },
+    {
+      "text": "PH2",
+      "type": "PUNTUACION_CLINICA",
+      "start": 889,
+      "end": 892
+    },
+    {
+      "text": "TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANG IOTC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 72,
+      "end": 140
+    },
+    {
+      "text": "No se observan hemorragias intraventriculares ni subaracnoideas ni sangrado extracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1007,
+      "end": 1095
+    }
+  ]
+}

@@ -1,0 +1,155 @@
+{
+  "document_id": "informe_sintetico_20250804195045_07861",
+  "entities": [
+    {
+      "text": "hemiparesia izquierda",
+      "type": "PATOLOGIA",
+      "start": 196,
+      "end": 217
+    },
+    {
+      "text": "dificultad para el lenguaje",
+      "type": "PATOLOGIA",
+      "start": 220,
+      "end": 247
+    },
+    {
+      "text": "infarto cerebral",
+      "type": "PATOLOGIA",
+      "start": 309,
+      "end": 325
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 346,
+      "end": 362
+    },
+    {
+      "text": "perfusión cerebral dinámica",
+      "type": "TECNICA_IMAGEN",
+      "start": 378,
+      "end": 405
+    },
+    {
+      "text": "AngioTC de vasos extra e intracraneales",
+      "type": "TECNICA_IMAGEN",
+      "start": 408,
+      "end": 447
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "ARTERIA",
+      "start": 580,
+      "end": 610
+    },
+    {
+      "text": "infarto isquémico subagudo",
+      "type": "PATOLOGIA",
+      "start": 687,
+      "end": 713
+    },
+    {
+      "text": "focos hemorrágicos intraparenquimatosos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 733,
+      "end": 772
+    },
+    {
+      "text": "hemorragia subaracnoidea",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 776,
+      "end": 800
+    },
+    {
+      "text": "ASPECTS 7",
+      "type": "PUNTUACION_CLINICA",
+      "start": 872,
+      "end": 881
+    },
+    {
+      "text": "tiempo de tránsito medio (TTM)",
+      "type": "MEDIDA",
+      "start": 999,
+      "end": 1029
+    },
+    {
+      "text": "Tmax",
+      "type": "MEDIDA",
+      "start": 1051,
+      "end": 1055
+    },
+    {
+      "text": "flujo sanguíneo cerebral (CBF)",
+      "type": "MEDIDA",
+      "start": 1124,
+      "end": 1154
+    },
+    {
+      "text": "volumen cerebral (CBV)",
+      "type": "MEDIDA",
+      "start": 1157,
+      "end": 1179
+    },
+    {
+      "text": "60%",
+      "type": "MEDIDA",
+      "start": 1768,
+      "end": 1771
+    },
+    {
+      "text": "arteria carótida interna cervical derecha",
+      "type": "ARTERIA",
+      "start": 1548,
+      "end": 1589
+    },
+    {
+      "text": "segmento proximal intracraneal",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1623,
+      "end": 1653
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "ARTERIA",
+      "start": 580,
+      "end": 610
+    },
+    {
+      "text": "sistema arterial cerebral",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 2428,
+      "end": 2453
+    },
+    {
+      "text": "infarto isquémico subagudo",
+      "type": "PATOLOGIA",
+      "start": 687,
+      "end": 713
+    },
+    {
+      "text": "penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1420,
+      "end": 1438
+    },
+    {
+      "text": "disección arterial",
+      "type": "PATOLOGIA",
+      "start": 269,
+      "end": 287
+    },
+    {
+      "text": "estenosis moderada",
+      "type": "PATOLOGIA",
+      "start": 2398,
+      "end": 2416
+    },
+    {
+      "text": "sin alteraciones significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2454,
+      "end": 2485
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "document_id": "informe_sintetico_20250804195045_24065",
+  "entities": [
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 249,
+      "end": 263
+    },
+    {
+      "text": "arteria cerebral anterior izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 281,
+      "end": 316
+    },
+    {
+      "text": "arteria cerebral anterior (ACA)",
+      "type": "ARTERIA",
+      "start": 726,
+      "end": 757
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 307,
+      "end": 316
+    },
+    {
+      "text": "30%",
+      "type": "MEDIDA",
+      "start": 1570,
+      "end": 1573
+    },
+    {
+      "text": "aguda",
+      "type": "TEMPORALIDAD",
+      "start": 258,
+      "end": 263
+    },
+    {
+      "text": "sin hemorragia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1983,
+      "end": 1997
+    },
+    {
+      "text": "sin infarto establecido",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2195,
+      "end": 2218
+    },
+    {
+      "text": "sin alteraciones ni estenosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1916,
+      "end": 1945
+    },
+    {
+      "text": "sin signos de estenosis significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1851,
+      "end": 1888
+    }
+  ]
+}

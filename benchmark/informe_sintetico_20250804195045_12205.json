@@ -1,0 +1,125 @@
+{
+  "document_id": "informe_sintetico_20250804195045_12205",
+  "entities": [
+    {
+      "text": "infarto agudo",
+      "type": "PATOLOGIA",
+      "start": 504,
+      "end": 517
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "PATOLOGIA",
+      "start": 520,
+      "end": 543
+    },
+    {
+      "text": "microangiopatía pequeña vasculatura",
+      "type": "PATOLOGIA",
+      "start": 788,
+      "end": 823
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 848,
+      "end": 858
+    },
+    {
+      "text": "mismatch de perfusión",
+      "type": "PATOLOGIA",
+      "start": 985,
+      "end": 1006
+    },
+    {
+      "text": "estenosis",
+      "type": "PATOLOGIA",
+      "start": 1233,
+      "end": 1242
+    },
+    {
+      "text": "trombosis",
+      "type": "PATOLOGIA",
+      "start": 1246,
+      "end": 1255
+    },
+    {
+      "text": "patología isquémica",
+      "type": "PATOLOGIA",
+      "start": 1380,
+      "end": 1399
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 848,
+      "end": 858
+    },
+    {
+      "text": "TC craneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 288,
+      "end": 298
+    },
+    {
+      "text": "perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 315,
+      "end": 333
+    },
+    {
+      "text": "angio-TC de arterias intracraneales y supraaórticas",
+      "type": "TECNICA_IMAGEN",
+      "start": 336,
+      "end": 387
+    },
+    {
+      "text": "Sistema ventricular",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 615,
+      "end": 634
+    },
+    {
+      "text": "Cisternas basales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 694,
+      "end": 711
+    },
+    {
+      "text": "Sistema vertebrobasilar",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1257,
+      "end": 1280
+    },
+    {
+      "text": "Vasos intracraneales y supraaórticos",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1433,
+      "end": 1469
+    },
+    {
+      "text": "sin signos de hidrocefalia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 666,
+      "end": 692
+    },
+    {
+      "text": "sin alteraciones significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 938,
+      "end": 969
+    },
+    {
+      "text": "sin evidencia de estenosis ni trombosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1216,
+      "end": 1255
+    },
+    {
+      "text": "sin hallazgos compatibles con patología isquémica o hemorrágica aguda",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1350,
+      "end": 1419
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "document_id": "informe_sintetico_20250804195045_03803",
+  "entities": [
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 228,
+      "end": 242
+    },
+    {
+      "text": "arteria cerebral posterior izquierda",
+      "type": "ARTERIA",
+      "start": 260,
+      "end": 296
+    },
+    {
+      "text": "hemicuerpo derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 187,
+      "end": 205
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 287,
+      "end": 296
+    },
+    {
+      "text": "ASPECTS 8",
+      "type": "PUNTUACION_CLINICA",
+      "start": 810,
+      "end": 819
+    },
+    {
+      "text": "isquemia aguda temprana",
+      "type": "PATOLOGIA",
+      "start": 785,
+      "end": 808
+    },
+    {
+      "text": "tiempo hasta el pico (TTP)",
+      "type": "MEDIDA",
+      "start": 1047,
+      "end": 1073
+    },
+    {
+      "text": "flujo cerebral sanguíneo (CBF)",
+      "type": "MEDIDA",
+      "start": 1167,
+      "end": 1197
+    },
+    {
+      "text": "volumen cerebral sanguíneo (CBV)",
+      "type": "MEDIDA",
+      "start": 1200,
+      "end": 1232
+    },
+    {
+      "text": "zona infartada",
+      "type": "PATOLOGIA",
+      "start": 1819,
+      "end": 1833
+    },
+    {
+      "text": "penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1374,
+      "end": 1392
+    },
+    {
+      "text": "Oclusión completa",
+      "type": "PATOLOGIA",
+      "start": 1458,
+      "end": 1475
+    },
+    {
+      "text": "segmento P2",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1482,
+      "end": 1493
+    },
+    {
+      "text": "arteria cerebral posterior izquierda",
+      "type": "ARTERIA",
+      "start": 260,
+      "end": 296
+    },
+    {
+      "text": "Circulación extracraneal sin estenosis significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1537,
+      "end": 1589
+    },
+    {
+      "text": "Ausencia de ateromatosis severa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1672,
+      "end": 1703
+    },
+    {
+      "text": "No hay evidencia de hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1926,
+      "end": 1969
+    },
+    {
+      "text": "TC CRANEAL BASAL + PERFUSIÓN CEREBRAL + ANGIO-TC INTRA Y EXTRACRANEAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 317,
+      "end": 386
+    }
+  ]
+}

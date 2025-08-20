@@ -1,0 +1,95 @@
+{
+  "document_id": "informe_sintetico_20250804195045_21026",
+  "entities": [
+    {
+      "text": "isquemia",
+      "type": "PATOLOGIA",
+      "start": 271,
+      "end": 279
+    },
+    {
+      "text": "territorio vertebrobasilar",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 283,
+      "end": 309
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 330,
+      "end": 346
+    },
+    {
+      "text": "No se evidencian colecciones hemáticas intra ni extraaxiales.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 506,
+      "end": 567
+    },
+    {
+      "text": "No se observan signos de infarto establecido en territorio vertebrobasilar.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 568,
+      "end": 643
+    },
+    {
+      "text": "TC PERFUSIÓN",
+      "type": "TECNICA_IMAGEN",
+      "start": 841,
+      "end": 853
+    },
+    {
+      "text": "hipoperfusión isquémica incipiente",
+      "type": "PATOLOGIA",
+      "start": 1061,
+      "end": 1095
+    },
+    {
+      "text": "arteria vertebral derecha",
+      "type": "ARTERIA",
+      "start": 1311,
+      "end": 1336
+    },
+    {
+      "text": "oclusión subtotal del segmento basilar proximal",
+      "type": "PATOLOGIA",
+      "start": 1339,
+      "end": 1386
+    },
+    {
+      "text": "No se visualizan malformaciones arterio-venosas ni trombos evidentes en otras arterias intracraneales.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1453,
+      "end": 1555
+    },
+    {
+      "text": "estenosis crítica (>90%)",
+      "type": "PATOLOGIA",
+      "start": 1262,
+      "end": 1286
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 1664,
+      "end": 1678
+    },
+    {
+      "text": "territorio vertebrobasilar",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 283,
+      "end": 309
+    },
+    {
+      "text": "sin infarto establecido",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1725,
+      "end": 1748
+    },
+    {
+      "text": "penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1198,
+      "end": 1216
+    }
+  ]
+}

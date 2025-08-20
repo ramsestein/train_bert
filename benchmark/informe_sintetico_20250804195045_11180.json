@@ -1,0 +1,131 @@
+{
+  "document_id": "informe_sintetico_20250804195045_11180",
+  "entities": [
+    {
+      "text": "accidente cerebrovascular isquémico agudo",
+      "type": "PATOLOGIA",
+      "start": 251,
+      "end": 292
+    },
+    {
+      "text": "arteria hiperdensa",
+      "type": "PATOLOGIA",
+      "start": 507,
+      "end": 525
+    },
+    {
+      "text": "trombo intraluminal",
+      "type": "PATOLOGIA",
+      "start": 592,
+      "end": 611
+    },
+    {
+      "text": "isquemia temprana",
+      "type": "PATOLOGIA",
+      "start": 738,
+      "end": 755
+    },
+    {
+      "text": "ASPECTS 6",
+      "type": "PUNTUACION_CLINICA",
+      "start": 757,
+      "end": 766
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 788,
+      "end": 811
+    },
+    {
+      "text": "arteria cerebral media",
+      "type": "ARTERIA",
+      "start": 555,
+      "end": 577
+    },
+    {
+      "text": "M1 derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 538,
+      "end": 548
+    },
+    {
+      "text": "zona de penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1117,
+      "end": 1143
+    },
+    {
+      "text": "infarto",
+      "type": "PATOLOGIA",
+      "start": 1162,
+      "end": 1169
+    },
+    {
+      "text": "segmento proximal M1 derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1223,
+      "end": 1251
+    },
+    {
+      "text": "ASPECTS 6",
+      "type": "PUNTUACION_CLINICA",
+      "start": 757,
+      "end": 766
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 788,
+      "end": 811
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 313,
+      "end": 329
+    },
+    {
+      "text": "angio-TC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 355,
+      "end": 385
+    },
+    {
+      "text": "estudio de perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 388,
+      "end": 417
+    },
+    {
+      "text": "TC PERFUSIÓN",
+      "type": "TECNICA_IMAGEN",
+      "start": 903,
+      "end": 915
+    },
+    {
+      "text": "aumento del tiempo de tránsito medio (TTP)",
+      "type": "PATOLOGIA",
+      "start": 927,
+      "end": 969
+    },
+    {
+      "text": "tiempo de retraso (Tmax)",
+      "type": "PATOLOGIA",
+      "start": 972,
+      "end": 996
+    },
+    {
+      "text": "reducción del volumen cerebral (CBV)",
+      "type": "PATOLOGIA",
+      "start": 1050,
+      "end": 1086
+    },
+    {
+      "text": "porción proximal (M1)",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1497,
+      "end": 1518
+    }
+  ]
+}

@@ -1,0 +1,227 @@
+{
+  "document_id": "informe_sintetico_20250804195045_06266",
+  "entities": [
+    {
+      "text": "hipertensión arterial",
+      "type": "PATOLOGIA",
+      "start": 203,
+      "end": 224
+    },
+    {
+      "text": "crisis hipertensiva",
+      "type": "PATOLOGIA",
+      "start": 246,
+      "end": 265
+    },
+    {
+      "text": "cefalea intensa",
+      "type": "PATOLOGIA",
+      "start": 276,
+      "end": 291
+    },
+    {
+      "text": "alteración visual transitoria",
+      "type": "PATOLOGIA",
+      "start": 293,
+      "end": 322
+    },
+    {
+      "text": "episodios de desorientación",
+      "type": "PATOLOGIA",
+      "start": 325,
+      "end": 352
+    },
+    {
+      "text": "leucoencefalopatía reversible",
+      "type": "PATOLOGIA",
+      "start": 433,
+      "end": 462
+    },
+    {
+      "text": "bilaterales",
+      "type": "LATERALIDAD",
+      "start": 644,
+      "end": 655
+    },
+    {
+      "text": "simétricas",
+      "type": "LATERALIDAD",
+      "start": 658,
+      "end": 668
+    },
+    {
+      "text": "sustancia blanca parietooccipital",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 691,
+      "end": 724
+    },
+    {
+      "text": "subcortical",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 741,
+      "end": 752
+    },
+    {
+      "text": "efecto masa",
+      "type": "PATOLOGIA",
+      "start": 759,
+      "end": 770
+    },
+    {
+      "text": "desplazamiento de estructuras de la línea media",
+      "type": "PATOLOGIA",
+      "start": 774,
+      "end": 821
+    },
+    {
+      "text": "hemorragias",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 838,
+      "end": 849
+    },
+    {
+      "text": "lesiones focales ocupantes de espacio",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 853,
+      "end": 890
+    },
+    {
+      "text": "Cisternas de la base libres",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 892,
+      "end": 919
+    },
+    {
+      "text": "sistema ventricular de tamaño normal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 922,
+      "end": 958
+    },
+    {
+      "text": "discreto aumento de la capacidad de difusión aparente (ADC)",
+      "type": "PATOLOGIA",
+      "start": 1007,
+      "end": 1066
+    },
+    {
+      "text": "regiones parietooccipitales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1074,
+      "end": 1101
+    },
+    {
+      "text": "hipoperfusión",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1133,
+      "end": 1146
+    },
+    {
+      "text": "déficit significativo de la circulación cerebral",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1150,
+      "end": 1198
+    },
+    {
+      "text": "Arterias intracraneales sin signos de estenosis u oclusión",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1225,
+      "end": 1283
+    },
+    {
+      "text": "aneurismas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1302,
+      "end": 1312
+    },
+    {
+      "text": "malformaciones vasculares",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1316,
+      "end": 1341
+    },
+    {
+      "text": "Circulación arterial intracraneal conservada",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1343,
+      "end": 1387
+    },
+    {
+      "text": "edema vasogénico bilateral",
+      "type": "PATOLOGIA",
+      "start": 1504,
+      "end": 1530
+    },
+    {
+      "text": "regiones parietooccipitales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1074,
+      "end": 1101
+    },
+    {
+      "text": "isquemia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1579,
+      "end": 1587
+    },
+    {
+      "text": "hemorragia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 838,
+      "end": 848
+    },
+    {
+      "text": "alteraciones vasculares significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1620,
+      "end": 1658
+    },
+    {
+      "text": "monitorización de la presión arterial",
+      "type": "PATOLOGIA",
+      "start": 1789,
+      "end": 1826
+    },
+    {
+      "text": "evaluación neurológica",
+      "type": "PATOLOGIA",
+      "start": 1829,
+      "end": 1851
+    },
+    {
+      "text": "TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANGIOTC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 2094,
+      "end": 2161
+    },
+    {
+      "text": "Leucoencefalopatía posterior reversible",
+      "type": "PATOLOGIA",
+      "start": 1947,
+      "end": 1986
+    },
+    {
+      "text": "edema vasogénico bilateral parietooccipital",
+      "type": "PATOLOGIA",
+      "start": 1988,
+      "end": 2031
+    },
+    {
+      "text": "signos de infarto",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2036,
+      "end": 2053
+    },
+    {
+      "text": "hemorragia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 838,
+      "end": 848
+    },
+    {
+      "text": "Sin alteraciones relevantes en el árbol vascular intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2180,
+      "end": 2241
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "document_id": "0000000010000000062222807_cleaned",
+  "entities": [
+    {
+      "text": "hematoma agudo",
+      "type": "PATOLOGIA",
+      "start": 414,
+      "end": 428
+    },
+    {
+      "text": "lobar",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 429,
+      "end": 434
+    },
+    {
+      "text": "giro precentral derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 438,
+      "end": 461
+    },
+    {
+      "text": "15x10x18 mm",
+      "type": "MEDIDA",
+      "start": 472,
+      "end": 483
+    },
+    {
+      "text": "1.2 cc",
+      "type": "MEDIDA",
+      "start": 508,
+      "end": 514
+    },
+    {
+      "text": "agudo",
+      "type": "TEMPORALIDAD",
+      "start": 423,
+      "end": 428
+    },
+    {
+      "text": "ACAs, ACMs, ACPs",
+      "type": "ARTERIA",
+      "start": 1023,
+      "end": 1039
+    },
+    {
+      "text": "5 x 8 x 9 mm",
+      "type": "MEDIDA",
+      "start": 1129,
+      "end": 1141
+    },
+    {
+      "text": "3 mm",
+      "type": "MEDIDA",
+      "start": 1158,
+      "end": 1162
+    },
+    {
+      "text": "arteria comunicante anterior",
+      "type": "ARTERIA",
+      "start": 1074,
+      "end": 1102
+    },
+    {
+      "text": "No se observan lesiones vasculares subyacentes a la lesión visible por TC",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1640,
+      "end": 1713
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "document_id": "informe_sintetico_20250804195045_13619",
+  "entities": [
+    {
+      "text": "hemorragia parenquimatosa",
+      "type": "PATOLOGIA",
+      "start": 748,
+      "end": 773
+    },
+    {
+      "text": "transformación hemorrágica",
+      "type": "PATOLOGIA",
+      "start": 787,
+      "end": 813
+    },
+    {
+      "text": "HI2",
+      "type": "PUNTUACION_CLINICA",
+      "start": 828,
+      "end": 831
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 701,
+      "end": 731
+    },
+    {
+      "text": "infarto isquémico reciente",
+      "type": "PATOLOGIA",
+      "start": 1868,
+      "end": 1894
+    },
+    {
+      "text": "edema perilesional",
+      "type": "PATOLOGIA",
+      "start": 863,
+      "end": 881
+    },
+    {
+      "text": "desviación leve <3 mm",
+      "type": "MEDIDA",
+      "start": 1049,
+      "end": 1070
+    },
+    {
+      "text": "aumento acusado del TTP",
+      "type": "PATOLOGIA",
+      "start": 1255,
+      "end": 1278
+    },
+    {
+      "text": "reducción significativa de CBF y CBV",
+      "type": "PATOLOGIA",
+      "start": 1281,
+      "end": 1317
+    },
+    {
+      "text": "sin perfusion mismatch evidente",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1438,
+      "end": 1469
+    },
+    {
+      "text": "sin oclusiones ni estenosis significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1574,
+      "end": 1616
+    },
+    {
+      "text": "sin alteraciones relevantes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1725,
+      "end": 1752
+    },
+    {
+      "text": "TC CRANEAL MULTIMODAL + ANGIO-TC CERVICAL E INTRACRANEAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 2239,
+      "end": 2295
+    }
+  ]
+}

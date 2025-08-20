@@ -1,0 +1,65 @@
+{
+  "document_id": "informe_sintetico_20250804195045_00985",
+  "entities": [
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 271,
+      "end": 285
+    },
+    {
+      "text": "protuberancia pontina paramedial derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 635,
+      "end": 675
+    },
+    {
+      "text": "arteria basilar proximal",
+      "type": "ARTERIA",
+      "start": 1237,
+      "end": 1261
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 668,
+      "end": 675
+    },
+    {
+      "text": "incremento del tiempo de tránsito medio (MTT)",
+      "type": "MEDIDA",
+      "start": 874,
+      "end": 919
+    },
+    {
+      "text": "tiempo hasta el pico (TTP)",
+      "type": "MEDIDA",
+      "start": 926,
+      "end": 952
+    },
+    {
+      "text": "descenso moderado del flujo cerebral (CBF)",
+      "type": "MEDIDA",
+      "start": 1052,
+      "end": 1094
+    },
+    {
+      "text": "volumen cerebral (CBV)",
+      "type": "MEDIDA",
+      "start": 1097,
+      "end": 1119
+    },
+    {
+      "text": "hemorragias intra ni extraaxiales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 561,
+      "end": 594
+    },
+    {
+      "text": "No hay hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1733,
+      "end": 1763
+    }
+  ]
+}

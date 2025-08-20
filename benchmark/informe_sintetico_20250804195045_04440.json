@@ -1,0 +1,125 @@
+{
+  "document_id": "informe_sintetico_20250804195045_04440",
+  "entities": [
+    {
+      "text": "isquemia",
+      "type": "PATOLOGIA",
+      "start": 208,
+      "end": 216
+    },
+    {
+      "text": "arteria cerebral posterior derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 234,
+      "end": 268
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 289,
+      "end": 305
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 321,
+      "end": 342
+    },
+    {
+      "text": "Angio-TC arterial intracraneal urgente",
+      "type": "TECNICA_IMAGEN",
+      "start": 369,
+      "end": 407
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 479,
+      "end": 502
+    },
+    {
+      "text": "hipodensidad cortical en región occipital derecha",
+      "type": "PATOLOGIA",
+      "start": 538,
+      "end": 587
+    },
+    {
+      "text": "isquemia",
+      "type": "PATOLOGIA",
+      "start": 208,
+      "end": 216
+    },
+    {
+      "text": "ASPECTS 9",
+      "type": "PUNTUACION_CLINICA",
+      "start": 688,
+      "end": 697
+    },
+    {
+      "text": "arteria cerebral posterior derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 234,
+      "end": 268
+    },
+    {
+      "text": "flujo cerebral (CBF)",
+      "type": "PATOLOGIA",
+      "start": 900,
+      "end": 920
+    },
+    {
+      "text": "corteza occipital",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 998,
+      "end": 1015
+    },
+    {
+      "text": "lóbulo temporal posterior",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1028,
+      "end": 1053
+    },
+    {
+      "text": "tiempo de tránsito medio (MTT)",
+      "type": "MEDIDA",
+      "start": 1070,
+      "end": 1100
+    },
+    {
+      "text": "tiempo hasta el pico (TTP)",
+      "type": "MEDIDA",
+      "start": 1103,
+      "end": 1129
+    },
+    {
+      "text": "penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1149,
+      "end": 1167
+    },
+    {
+      "text": "ACAs, ACMs, ACPi y sistema vertebrobasilar",
+      "type": "ARTERIA",
+      "start": 1368,
+      "end": 1410
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 479,
+      "end": 502
+    },
+    {
+      "text": "ASPECTS 9",
+      "type": "PUNTUACION_CLINICA",
+      "start": 688,
+      "end": 697
+    },
+    {
+      "text": "TC craneal urgente",
+      "type": "TECNICA_IMAGEN",
+      "start": 1904,
+      "end": 1922
+    }
+  ]
+}

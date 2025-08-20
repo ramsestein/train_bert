@@ -1,0 +1,77 @@
+{
+  "document_id": "informe_sintetico_20250804195045_02165",
+  "entities": [
+    {
+      "text": "isquemia",
+      "type": "PATOLOGIA",
+      "start": 661,
+      "end": 669
+    },
+    {
+      "text": "hemorragia",
+      "type": "PATOLOGIA",
+      "start": 671,
+      "end": 681
+    },
+    {
+      "text": "masas intracraneales",
+      "type": "PATOLOGIA",
+      "start": 684,
+      "end": 704
+    },
+    {
+      "text": "bilaterales",
+      "type": "LATERALIDAD",
+      "start": 832,
+      "end": 843
+    },
+    {
+      "text": "ASPECTS: 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 1096,
+      "end": 1107
+    },
+    {
+      "text": "TC de cráneo basal urgente",
+      "type": "TECNICA_IMAGEN",
+      "start": 242,
+      "end": 268
+    },
+    {
+      "text": "perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 284,
+      "end": 302
+    },
+    {
+      "text": "angio-TC de troncos supraórticos e intracraneales",
+      "type": "TECNICA_IMAGEN",
+      "start": 305,
+      "end": 354
+    },
+    {
+      "text": "sin hallazgos agudos ni crónicos relevantes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1574,
+      "end": 1617
+    },
+    {
+      "text": "sin signos de sangrado ni colecciones",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 553,
+      "end": 590
+    },
+    {
+      "text": "sin estenosis ni oclusiones",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1357,
+      "end": 1384
+    },
+    {
+      "text": "sin placas ateromatosas relevantes ni calcificaciones significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1262,
+      "end": 1330
+    }
+  ]
+}

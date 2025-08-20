@@ -1,0 +1,107 @@
+{
+  "document_id": "informe_sintetico_20250804195045_00040",
+  "entities": [
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 230,
+      "end": 244
+    },
+    {
+      "text": "territorio anterior cerebral",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 248,
+      "end": 276
+    },
+    {
+      "text": "hipodensidad cortical y subcortical",
+      "type": "PATOLOGIA",
+      "start": 465,
+      "end": 500
+    },
+    {
+      "text": "territorio craneal izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 507,
+      "end": 535
+    },
+    {
+      "text": "arteria cerebral anterior (ACA)",
+      "type": "ARTERIA",
+      "start": 542,
+      "end": 573
+    },
+    {
+      "text": "región medial frontal y paracentral",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 599,
+      "end": 634
+    },
+    {
+      "text": "ASPECTS modificada para ACA: 7/10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 786,
+      "end": 819
+    },
+    {
+      "text": "tiempo de tránsito medio (MTT)",
+      "type": "MEDIDA",
+      "start": 931,
+      "end": 961
+    },
+    {
+      "text": "tiempo hasta el pico (TTP)",
+      "type": "MEDIDA",
+      "start": 964,
+      "end": 990
+    },
+    {
+      "text": "reducción del flujo cerebral (CBF)",
+      "type": "MEDIDA",
+      "start": 995,
+      "end": 1029
+    },
+    {
+      "text": "volumen de sangre cerebral (CBV)",
+      "type": "MEDIDA",
+      "start": 1102,
+      "end": 1134
+    },
+    {
+      "text": "mismatch significativo compatible con área de penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1163,
+      "end": 1227
+    },
+    {
+      "text": "defecto de opacificación en el segmento A2 izquierdo de la ACA",
+      "type": "PATOLOGIA",
+      "start": 1373,
+      "end": 1435
+    },
+    {
+      "text": "oclusión trombótica",
+      "type": "PATOLOGIA",
+      "start": 1452,
+      "end": 1471
+    },
+    {
+      "text": "No se detectan estenosis relevantes en arterias carótidas internas ni vertebrales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1475,
+      "end": 1556
+    },
+    {
+      "text": "No hay hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1926,
+      "end": 1956
+    },
+    {
+      "text": "Circulación colateral parcial preservada",
+      "type": "PATOLOGIA",
+      "start": 1992,
+      "end": 2032
+    }
+  ]
+}

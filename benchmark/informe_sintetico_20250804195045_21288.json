@@ -1,0 +1,107 @@
+{
+  "document_id": "informe_sintetico_20250804195045_21288",
+  "entities": [
+    {
+      "text": "ictus isquémico",
+      "type": "PATOLOGIA",
+      "start": 251,
+      "end": 266
+    },
+    {
+      "text": "infarto cerebral agudo",
+      "type": "PATOLOGIA",
+      "start": 652,
+      "end": 674
+    },
+    {
+      "text": "transformación hemorrágica tipo HI1",
+      "type": "PATOLOGIA",
+      "start": 787,
+      "end": 822
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 605,
+      "end": 635
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 628,
+      "end": 635
+    },
+    {
+      "text": "focos hiperdensos puntiformes y en parches",
+      "type": "PATOLOGIA",
+      "start": 702,
+      "end": 744
+    },
+    {
+      "text": "hematoma parenquimatoso significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 841,
+      "end": 878
+    },
+    {
+      "text": "signos de hemorragia subaracnoidea ni subdural",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 895,
+      "end": 941
+    },
+    {
+      "text": "no produce desplazamiento significativo de estructuras ni efecto masivo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 971,
+      "end": 1042
+    },
+    {
+      "text": "aumento del tiempo de tránsito medio (MTT)",
+      "type": "MEDIDA",
+      "start": 1177,
+      "end": 1219
+    },
+    {
+      "text": "reducción concomitante del flujo cerebral (CBF)",
+      "type": "MEDIDA",
+      "start": 1224,
+      "end": 1271
+    },
+    {
+      "text": "volumen cerebral (CBV) conservado",
+      "type": "MEDIDA",
+      "start": 1303,
+      "end": 1336
+    },
+    {
+      "text": "oclusión parcial en segmento proximal de la arteria cerebral media derecha",
+      "type": "PATOLOGIA",
+      "start": 1425,
+      "end": 1499
+    },
+    {
+      "text": "permeabilidad distal parcial",
+      "type": "PATOLOGIA",
+      "start": 1504,
+      "end": 1532
+    },
+    {
+      "text": "TC craneal basal urgente sin y con contraste",
+      "type": "TECNICA_IMAGEN",
+      "start": 325,
+      "end": 369
+    },
+    {
+      "text": "estudio de perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 389,
+      "end": 418
+    },
+    {
+      "text": "angiografía por angio-TC intracraneal y extra craneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 421,
+      "end": 474
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "document_id": "informe_sintetico_20250804195045_00942",
+  "entities": [
+    {
+      "text": "isquemia",
+      "type": "PATOLOGIA",
+      "start": 249,
+      "end": 257
+    },
+    {
+      "text": "arteria cerebral posterior",
+      "type": "ARTERIA",
+      "start": 278,
+      "end": 304
+    },
+    {
+      "text": "agudo",
+      "type": "TEMPORALIDAD",
+      "start": 199,
+      "end": 204
+    },
+    {
+      "text": "ASPECTS 9",
+      "type": "PUNTUACION_CLINICA",
+      "start": 691,
+      "end": 700
+    },
+    {
+      "text": "hipodensidad",
+      "type": "PATOLOGIA",
+      "start": 591,
+      "end": 603
+    },
+    {
+      "text": "izquierdo",
+      "type": "LATERALIDAD",
+      "start": 642,
+      "end": 651
+    },
+    {
+      "text": "infarto",
+      "type": "PATOLOGIA",
+      "start": 1237,
+      "end": 1244
+    },
+    {
+      "text": "Oclusión subtotal en segmento P2 de la arteria cerebral posterior izquierda",
+      "type": "PATOLOGIA",
+      "start": 1294,
+      "end": 1369
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 980,
+      "end": 989
+    },
+    {
+      "text": "Oclusión subtotal en segmento P2 de ACP izquierda",
+      "type": "PATOLOGIA",
+      "start": 1808,
+      "end": 1857
+    },
+    {
+      "text": "ACP",
+      "type": "ARTERIA",
+      "start": 1844,
+      "end": 1847
+    },
+    {
+      "text": "No se observan hemorragias intra ni extraaxiales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 517,
+      "end": 565
+    },
+    {
+      "text": "No se identifican aneurismas ni malformaciones vasculares",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1557,
+      "end": 1614
+    },
+    {
+      "text": "No hay hemorragia intracraneal ni efecto masa asociado",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1859,
+      "end": 1913
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 325,
+      "end": 341
+    },
+    {
+      "text": "TC PERFUSIÓN",
+      "type": "TECNICA_IMAGEN",
+      "start": 864,
+      "end": 876
+    },
+    {
+      "text": "ANGIO-TC EXTRA E INTRACRANEAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 1261,
+      "end": 1290
+    }
+  ]
+}

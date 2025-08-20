@@ -1,0 +1,107 @@
+{
+  "document_id": "informe_sintetico_20250804195045_22506",
+  "entities": [
+    {
+      "text": "hemorragia aguda",
+      "type": "PATOLOGIA",
+      "start": 458,
+      "end": 474
+    },
+    {
+      "text": "lesiones isquémicas recientes",
+      "type": "PATOLOGIA",
+      "start": 478,
+      "end": 507
+    },
+    {
+      "text": "ASPECTS 10/10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 595,
+      "end": 608
+    },
+    {
+      "text": "microangiopatía",
+      "type": "PATOLOGIA",
+      "start": 665,
+      "end": 680
+    },
+    {
+      "text": "bilateral",
+      "type": "LATERALIDAD",
+      "start": 749,
+      "end": 758
+    },
+    {
+      "text": "TTP",
+      "type": "TECNICA_IMAGEN",
+      "start": 960,
+      "end": 963
+    },
+    {
+      "text": "CBV",
+      "type": "TECNICA_IMAGEN",
+      "start": 984,
+      "end": 987
+    },
+    {
+      "text": "CBF",
+      "type": "TECNICA_IMAGEN",
+      "start": 1017,
+      "end": 1020
+    },
+    {
+      "text": "estenosis",
+      "type": "PATOLOGIA",
+      "start": 1248,
+      "end": 1257
+    },
+    {
+      "text": "oclusión",
+      "type": "PATOLOGIA",
+      "start": 1261,
+      "end": 1269
+    },
+    {
+      "text": "calcificaciones arteriales moderadas",
+      "type": "PATOLOGIA",
+      "start": 1283,
+      "end": 1319
+    },
+    {
+      "text": "sin compromiso significativo del lumen",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1349,
+      "end": 1387
+    },
+    {
+      "text": "sin alteraciones estenóticas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1425,
+      "end": 1453
+    },
+    {
+      "text": "patología isquémica o hemorrágica aguda",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1551,
+      "end": 1590
+    },
+    {
+      "text": "microangiopatía crónica leve",
+      "type": "PATOLOGIA",
+      "start": 1602,
+      "end": 1630
+    },
+    {
+      "text": "cambios leucoencefálicos periventriculares",
+      "type": "PATOLOGIA",
+      "start": 1635,
+      "end": 1677
+    },
+    {
+      "text": "estenosis significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1742,
+      "end": 1766
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "document_id": "informe_sintetico_20250804195045_01583",
+  "entities": [
+    {
+      "text": "isquémico",
+      "type": "PATOLOGIA",
+      "start": 218,
+      "end": 227
+    },
+    {
+      "text": "hemorragias agudas",
+      "type": "PATOLOGIA",
+      "start": 439,
+      "end": 457
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 549,
+      "end": 559
+    },
+    {
+      "text": "hipodensidad periventricular y subcortical de la sustancia blanca",
+      "type": "PATOLOGIA",
+      "start": 591,
+      "end": 656
+    },
+    {
+      "text": "enfermedad crónica de pequeño vaso",
+      "type": "PATOLOGIA",
+      "start": 673,
+      "end": 707
+    },
+    {
+      "text": "TTP",
+      "type": "MEDIDA",
+      "start": 960,
+      "end": 963
+    },
+    {
+      "text": "CBV",
+      "type": "MEDIDA",
+      "start": 965,
+      "end": 968
+    },
+    {
+      "text": "CBF",
+      "type": "MEDIDA",
+      "start": 972,
+      "end": 975
+    },
+    {
+      "text": "penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1025,
+      "end": 1043
+    },
+    {
+      "text": "oclusión",
+      "type": "PATOLOGIA",
+      "start": 1143,
+      "end": 1151
+    },
+    {
+      "text": "estenosis significativa",
+      "type": "PATOLOGIA",
+      "start": 1155,
+      "end": 1178
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 549,
+      "end": 559
+    },
+    {
+      "text": "microangiopatía",
+      "type": "PATOLOGIA",
+      "start": 1551,
+      "end": 1566
+    },
+    {
+      "text": "arterias intra y extracraneales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1580,
+      "end": 1611
+    },
+    {
+      "text": "estenosis relevante",
+      "type": "PATOLOGIA",
+      "start": 1627,
+      "end": 1646
+    },
+    {
+      "text": "No se identifican hematomas ni hemorragias agudas intra o extraaxiales.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 408,
+      "end": 479
+    },
+    {
+      "text": "No se aprecian signos de edema o lesión aguda.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 851,
+      "end": 897
+    },
+    {
+      "text": "No se evidencian alteraciones significativas en TTP, CBV ni CBF.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 912,
+      "end": 976
+    },
+    {
+      "text": "sin evidencia de oclusión ni estenosis significativa.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1126,
+      "end": 1179
+    },
+    {
+      "text": "sin evidencias de enfermedad aterosclerótica significativa.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1295,
+      "end": 1354
+    },
+    {
+      "text": "sin hallazgos de patología isquémica o hemorrágica aguda.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1442,
+      "end": 1499
+    }
+  ]
+}

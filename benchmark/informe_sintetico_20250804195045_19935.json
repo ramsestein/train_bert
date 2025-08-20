@@ -1,0 +1,131 @@
+{
+  "document_id": "informe_sintetico_20250804195045_19935",
+  "entities": [
+    {
+      "text": "ictus isquémico",
+      "type": "PATOLOGIA",
+      "start": 237,
+      "end": 252
+    },
+    {
+      "text": "arteria cerebral media",
+      "type": "ARTERIA",
+      "start": 270,
+      "end": 292
+    },
+    {
+      "text": "derecho",
+      "type": "LATERALIDAD",
+      "start": 193,
+      "end": 200
+    },
+    {
+      "text": "ASPECTS 9/10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 613,
+      "end": 625
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 670,
+      "end": 679
+    },
+    {
+      "text": "edema citotóxico inicial",
+      "type": "PATOLOGIA",
+      "start": 696,
+      "end": 720
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 1080,
+      "end": 1094
+    },
+    {
+      "text": "izquierdo",
+      "type": "LATERALIDAD",
+      "start": 1566,
+      "end": 1575
+    },
+    {
+      "text": "arteria cerebral media",
+      "type": "ARTERIA",
+      "start": 270,
+      "end": 292
+    },
+    {
+      "text": "M2/M3",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1002,
+      "end": 1007
+    },
+    {
+      "text": "ASPECTS 9",
+      "type": "PUNTUACION_CLINICA",
+      "start": 613,
+      "end": 622
+    },
+    {
+      "text": "No se identifican hemorragias intra o extraaxiales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 490,
+      "end": 540
+    },
+    {
+      "text": "No hay áreas significativas de penumbra extensa ni infarto establecido extenso",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1133,
+      "end": 1211
+    },
+    {
+      "text": "Oclusión parcial",
+      "type": "PATOLOGIA",
+      "start": 1237,
+      "end": 1253
+    },
+    {
+      "text": "segmento M2 de la arteria cerebral media izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1257,
+      "end": 1307
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 670,
+      "end": 679
+    },
+    {
+      "text": "sin estenosis ni oclusiones",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1421,
+      "end": 1448
+    },
+    {
+      "text": "TC craneal basal urgente",
+      "type": "TECNICA_IMAGEN",
+      "start": 313,
+      "end": 337
+    },
+    {
+      "text": "angiografía por TC de vasos intracraneales",
+      "type": "TECNICA_IMAGEN",
+      "start": 407,
+      "end": 449
+    },
+    {
+      "text": "TC PERFUSIÓN",
+      "type": "TECNICA_IMAGEN",
+      "start": 829,
+      "end": 841
+    },
+    {
+      "text": "mapas de perfusión",
+      "type": "TECNICA_IMAGEN",
+      "start": 377,
+      "end": 395
+    }
+  ]
+}

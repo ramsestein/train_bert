@@ -1,0 +1,33 @@
+UO_PACN (Unidad Organizativa Médica): RADIO
+
+PRUEB (Prueba solicitada): TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANG IOTC ARTERIAL INTRACRANEAL)
+
+CLIN (Resumen clínico): Paciente con cuadro clínico compatible con ictus isquémico, en tratamiento anticoagulante, presenta deterioro neurológico brusco.
+
+OBSR (Protocolo): Protocolo Código Ictus: TC craneal basal, estudio de perfusión cerebral y angiografía por TC de arterias extra e intracraneales.
+
+RESL (Resultados):  
+TC CRANEAL BASAL:  
+Se observa área hipodensa en territorio de la arteria cerebral media izquierda, afectando principalmente la corona radiada y región insular, con pérdida de la diferenciación córtico-subcortical sugestiva de infarto cerebral en evolución. En la región periventricular y núcleo lenticular ipsilateral se identifica focos puntiformes de hiperdensidad en su interior, sin efecto de masa significativo, compatibles con hemorragia petequial o transformación hemorrágica tipo PH1. No se evidencian hematomas intraparenquimatosos de gran tamaño ni sangrado extraaxial. La línea media se mantiene centrada. El sistema ventricular presenta morfología y tamaño normales.  
+
+TC PERFUSIÓN:  
+Se identifica reducción moderada en el flujo cerebral (CBF) y volumen cerebral (CBV) en territorio afectado, con aumento del tiempo de tránsito medio (MTT), compatible con área de penumbra isquémica. No se detectan zonas de hiperperfusión.  
+
+ANGIO-TC EXTRA E INTRACRANEAL:  
+Troncos supraórticos sin estenosis significativa ni placas ateromatosas relevantes. Arteria cerebral media izquierda presenta estenosis severa en segmento M2 proximal, con flujo disminuido. Arterias intracraneales principales (ACA, ACM y ACP) permeables, sin evidencia de trombosis ni embolia. Sistema vertebrobasilar sin alteraciones.  
+
+CONCL (Conclusiones):  
+Signos compatibles con infarto cerebral izquierdo en territorio de la arteria cerebral media con transformación hemorrágica parenquimatosa tipo PH1 (hemorragia petequial focal intrainfarto). Estenosis severa en segmento M2 de ACM izquierda. Ausencia de hemorragia masiva ni desplazamiento de línea media.  
+
+ACTI_ADICI (Actividad adicional):  
+Se recomienda valoración neurológica urgente y seguimiento con neuroimagen para monitorización de la transformación hemorrágica. Considerar ajuste del tratamiento anticoagulante según evolución clínica.  
+
+ICON (Estudio): @TC_CODIGO_ICTUS@
+
+X00DIATXT (Texto del diagnóstico ACR):  
+Transformación hemorrágica tipo PH1 en infarto cerebral de territorio ACM izquierdo. Estenosis severa en segmento M2 de ACM izquierda. Sin hemorragia masiva ni efecto de masa.  
+
+EST_T_DES (Descripción): TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANGIOTC ARTERIAL INTRACRANEAL)
+
+ZVASOS_D (Der.):  
+Estudio angiográfico sin evidencia de trombosis proximal, con estenosis significativa de arteria cerebral media izquierda.

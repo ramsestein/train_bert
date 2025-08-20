@@ -1,0 +1,47 @@
+{
+  "document_id": "0000000010000000059142364_cleaned",
+  "entities": [
+    {
+      "text": "hiperdensidad capsuloganglionar izquierda",
+      "type": "PATOLOGIA",
+      "start": 409,
+      "end": 450
+    },
+    {
+      "text": "capsuloganglionar",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 423,
+      "end": 440
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 441,
+      "end": 450
+    },
+    {
+      "text": "extravasación de contraste",
+      "type": "PATOLOGIA",
+      "start": 524,
+      "end": 550
+    },
+    {
+      "text": "sin cambios significativos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 558,
+      "end": 584
+    },
+    {
+      "text": "TC dual",
+      "type": "TECNICA_IMAGEN",
+      "start": 166,
+      "end": 173
+    },
+    {
+      "text": "TC previo de hace unas horas",
+      "type": "TEMPORALIDAD",
+      "start": 364,
+      "end": 392
+    }
+  ]
+}

@@ -1,0 +1,233 @@
+{
+  "document_id": "informe_sintetico_20250804195045_11066",
+  "entities": [
+    {
+      "text": "ictus isquémico",
+      "type": "PATOLOGIA",
+      "start": 241,
+      "end": 256
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 484,
+      "end": 507
+    },
+    {
+      "text": "lesiones estructurales agudas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 511,
+      "end": 540
+    },
+    {
+      "text": "discreta hipodensidad",
+      "type": "PATOLOGIA",
+      "start": 557,
+      "end": 578
+    },
+    {
+      "text": "región insular y corona radiada derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 582,
+      "end": 621
+    },
+    {
+      "text": "edema citotóxico incipiente",
+      "type": "PATOLOGIA",
+      "start": 638,
+      "end": 665
+    },
+    {
+      "text": "ASPECTS 9",
+      "type": "PUNTUACION_CLINICA",
+      "start": 667,
+      "end": 676
+    },
+    {
+      "text": "arteria cerebral media distal derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 750,
+      "end": 787
+    },
+    {
+      "text": "segmentos M2-M3",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 789,
+      "end": 804
+    },
+    {
+      "text": "Sistema ventricular y estructuras de la línea media conservadas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 807,
+      "end": 870
+    },
+    {
+      "text": "Cisternas basales libres",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 872,
+      "end": 896
+    },
+    {
+      "text": "territorio cerebral derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 919,
+      "end": 946
+    },
+    {
+      "text": "bifurcación distal de ACM (M2/M3)",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 965,
+      "end": 998
+    },
+    {
+      "text": "prolongación del tiempo de tránsito medio (TTP)",
+      "type": "PATOLOGIA",
+      "start": 1014,
+      "end": 1061
+    },
+    {
+      "text": "aumento del tiempo hasta el pico (TTP)",
+      "type": "PATOLOGIA",
+      "start": 1064,
+      "end": 1102
+    },
+    {
+      "text": "reducción moderada del flujo sanguíneo cerebral (CBF)",
+      "type": "PATOLOGIA",
+      "start": 1108,
+      "end": 1161
+    },
+    {
+      "text": "volumen cerebral (CBV)",
+      "type": "MEDIDA",
+      "start": 1166,
+      "end": 1188
+    },
+    {
+      "text": "Oclusión filiforme",
+      "type": "PATOLOGIA",
+      "start": 1300,
+      "end": 1318
+    },
+    {
+      "text": "segmento M2 derecho de la arteria cerebral media",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1322,
+      "end": 1370
+    },
+    {
+      "text": "Vasos principales permeables",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1372,
+      "end": 1400
+    },
+    {
+      "text": "signos de embolias múltiples",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1453,
+      "end": 1481
+    },
+    {
+      "text": "disecciones",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1485,
+      "end": 1496
+    },
+    {
+      "text": "Oclusión aguda de la arteria cerebral media distal derecha",
+      "type": "PATOLOGIA",
+      "start": 1521,
+      "end": 1579
+    },
+    {
+      "text": "segmentos M2-M3",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 789,
+      "end": 804
+    },
+    {
+      "text": "hallazgos compatibles con isquemia aguda limitada",
+      "type": "PATOLOGIA",
+      "start": 1602,
+      "end": 1651
+    },
+    {
+      "text": "ASPECTS 9",
+      "type": "PUNTUACION_CLINICA",
+      "start": 667,
+      "end": 676
+    },
+    {
+      "text": "perfusión sugestiva de penumbra viable",
+      "type": "PATOLOGIA",
+      "start": 1665,
+      "end": 1703
+    },
+    {
+      "text": "evidencia de hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1750,
+      "end": 1786
+    },
+    {
+      "text": "TC CRANEAL SIN CONTRASTE",
+      "type": "TECNICA_IMAGEN",
+      "start": 1928,
+      "end": 1952
+    },
+    {
+      "text": "ANGIO-TC",
+      "type": "TECNICA_IMAGEN",
+      "start": 1277,
+      "end": 1285
+    },
+    {
+      "text": "PERFUSIÓN CEREBRAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 1966,
+      "end": 1984
+    },
+    {
+      "text": "ICTUS",
+      "type": "PATOLOGIA",
+      "start": 82,
+      "end": 87
+    },
+    {
+      "text": "Infarto cerebral agudo",
+      "type": "PATOLOGIA",
+      "start": 2064,
+      "end": 2086
+    },
+    {
+      "text": "territorio distal de arteria cerebral media derecha (M2-M3)",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 2090,
+      "end": 2149
+    },
+    {
+      "text": "marcada alteración en la perfusión cerebral",
+      "type": "PATOLOGIA",
+      "start": 2154,
+      "end": 2197
+    },
+    {
+      "text": "oclusión vascular demostrada por angio-TC",
+      "type": "PATOLOGIA",
+      "start": 2200,
+      "end": 2241
+    },
+    {
+      "text": "Oclusión en rama M2 distal derecha de ACM",
+      "type": "PATOLOGIA",
+      "start": 2355,
+      "end": 2396
+    },
+    {
+      "text": "vasos principales permeables",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2398,
+      "end": 2426
+    }
+  ]
+}

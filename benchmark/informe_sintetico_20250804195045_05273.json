@@ -1,0 +1,143 @@
+{
+  "document_id": "informe_sintetico_20250804195045_05273",
+  "entities": [
+    {
+      "text": "accidente cerebrovascular isquémico",
+      "type": "PATOLOGIA",
+      "start": 250,
+      "end": 285
+    },
+    {
+      "text": "arteria cerebral posterior izquierda",
+      "type": "ARTERIA",
+      "start": 303,
+      "end": 339
+    },
+    {
+      "text": "hemicuerpo derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 195,
+      "end": 213
+    },
+    {
+      "text": "No se evidencia hemorragia aguda intra ni extraaxial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 653,
+      "end": 705
+    },
+    {
+      "text": "No se identifican lesiones hipodensas sugestivas de infarto establecido",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 762,
+      "end": 833
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 835,
+      "end": 845
+    },
+    {
+      "text": "prolongación del tiempo máximo (Tmax)",
+      "type": "MEDIDA",
+      "start": 977,
+      "end": 1014
+    },
+    {
+      "text": "tiempo de tránsito (TTD)",
+      "type": "MEDIDA",
+      "start": 1017,
+      "end": 1041
+    },
+    {
+      "text": "hipoperfusión tisular",
+      "type": "PATOLOGIA",
+      "start": 1097,
+      "end": 1118
+    },
+    {
+      "text": "territorio vascular de ACP izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1122,
+      "end": 1158
+    },
+    {
+      "text": "Flujo cerebral (CBF) reducido",
+      "type": "MEDIDA",
+      "start": 1160,
+      "end": 1189
+    },
+    {
+      "text": "volumen cerebral (CBV) preservado",
+      "type": "MEDIDA",
+      "start": 1194,
+      "end": 1227
+    },
+    {
+      "text": "área de penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1242,
+      "end": 1268
+    },
+    {
+      "text": "mismatch significativo",
+      "type": "PATOLOGIA",
+      "start": 1273,
+      "end": 1295
+    },
+    {
+      "text": "oclusión en segmento P2 de arteria cerebral posterior izquierda",
+      "type": "PATOLOGIA",
+      "start": 1344,
+      "end": 1407
+    },
+    {
+      "text": "ACAs y ACMs",
+      "type": "ARTERIA",
+      "start": 1473,
+      "end": 1484
+    },
+    {
+      "text": "sin estenosis significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1511,
+      "end": 1539
+    },
+    {
+      "text": "sin alteraciones significativas ni placas ateromatosas relevantes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1617,
+      "end": 1682
+    },
+    {
+      "text": "sin hemorragia ni infarto establecido",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1719,
+      "end": 1756
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 1833,
+      "end": 1847
+    },
+    {
+      "text": "territorio de arteria cerebral posterior izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 289,
+      "end": 339
+    },
+    {
+      "text": "segmento P2 de ACP izquierda",
+      "type": "ARTERIA",
+      "start": 2002,
+      "end": 2030
+    },
+    {
+      "text": "sin estenosis relevantes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2084,
+      "end": 2108
+    }
+  ]
+}

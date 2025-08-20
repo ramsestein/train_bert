@@ -1,0 +1,127 @@
+{
+  "document_id": "informe_sintetico_20250804195045_00121",
+  "entities": [
+    {
+      "text": "infarto agudo establecido",
+      "type": "PATOLOGIA",
+      "start": 611,
+      "end": 636
+    },
+    {
+      "text": "edema cerebral",
+      "type": "PATOLOGIA",
+      "start": 649,
+      "end": 663
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 791,
+      "end": 814
+    },
+    {
+      "text": "signos de transformación hemorrágica",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 818,
+      "end": 854
+    },
+    {
+      "text": "territorio de la arteria carótida interna izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 483,
+      "end": 534
+    },
+    {
+      "text": "temporal",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 566,
+      "end": 574
+    },
+    {
+      "text": "núcleo lenticular",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 577,
+      "end": 594
+    },
+    {
+      "text": "arteria carótida interna izquierda",
+      "type": "ARTERIA",
+      "start": 500,
+      "end": 534
+    },
+    {
+      "text": "segmento cervical de la arteria carótida interna izquierda",
+      "type": "ARTERIA",
+      "start": 1341,
+      "end": 1399
+    },
+    {
+      "text": "sistema vertebrobasilar",
+      "type": "ARTERIA",
+      "start": 1742,
+      "end": 1765
+    },
+    {
+      "text": "derecho",
+      "type": "LATERALIDAD",
+      "start": 201,
+      "end": 208
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 525,
+      "end": 534
+    },
+    {
+      "text": "izquierdo",
+      "type": "LATERALIDAD",
+      "start": 1048,
+      "end": 1057
+    },
+    {
+      "text": "4 mm",
+      "type": "MEDIDA",
+      "start": 764,
+      "end": 768
+    },
+    {
+      "text": "severa",
+      "type": "PUNTUACION_CLINICA",
+      "start": 943,
+      "end": 949
+    },
+    {
+      "text": "ASPECTS 5/10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 900,
+      "end": 912
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 295,
+      "end": 311
+    },
+    {
+      "text": "angio-TC arterial intra y extracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 334,
+      "end": 372
+    },
+    {
+      "text": "mismatch significativa",
+      "type": "PATOLOGIA",
+      "start": 1182,
+      "end": 1204
+    },
+    {
+      "text": "sin estenosis significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1653,
+      "end": 1680
+    }
+  ],
+  "regenerado": true,
+  "fecha_regeneracion": "2025-08-06T15:02:35.676551"
+}

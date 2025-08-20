@@ -1,0 +1,203 @@
+{
+  "document_id": "informe_sintetico_20250804195045_02585",
+  "entities": [
+    {
+      "text": "microhemorragias",
+      "type": "PATOLOGIA",
+      "start": 545,
+      "end": 561
+    },
+    {
+      "text": "hematomas mayores",
+      "type": "PATOLOGIA",
+      "start": 580,
+      "end": 597
+    },
+    {
+      "text": "hemorragias subaracnoideas",
+      "type": "PATOLOGIA",
+      "start": 601,
+      "end": 627
+    },
+    {
+      "text": "enfermedad microvascular crónica",
+      "type": "PATOLOGIA",
+      "start": 663,
+      "end": 695
+    },
+    {
+      "text": "leucoaraiosis",
+      "type": "PATOLOGIA",
+      "start": 709,
+      "end": 722
+    },
+    {
+      "text": "Sistema ventricular y cisternas basales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 724,
+      "end": 763
+    },
+    {
+      "text": "Línea media",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 782,
+      "end": 793
+    },
+    {
+      "text": "edema",
+      "type": "PATOLOGIA",
+      "start": 841,
+      "end": 846
+    },
+    {
+      "text": "efecto de masa",
+      "type": "PATOLOGIA",
+      "start": 850,
+      "end": 864
+    },
+    {
+      "text": "Mapas perfusionales",
+      "type": "TECNICA_IMAGEN",
+      "start": 882,
+      "end": 901
+    },
+    {
+      "text": "volumen cerebral",
+      "type": "MEDIDA",
+      "start": 944,
+      "end": 960
+    },
+    {
+      "text": "tiempos de tránsito",
+      "type": "MEDIDA",
+      "start": 964,
+      "end": 983
+    },
+    {
+      "text": "territorios carotídeos y vertebrobasilares",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 987,
+      "end": 1029
+    },
+    {
+      "text": "estenosis",
+      "type": "PATOLOGIA",
+      "start": 1081,
+      "end": 1090
+    },
+    {
+      "text": "oclusiones",
+      "type": "PATOLOGIA",
+      "start": 1094,
+      "end": 1104
+    },
+    {
+      "text": "arterias cerebrales intracraneales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1124,
+      "end": 1158
+    },
+    {
+      "text": "ACAs, ACMs, y ACPs",
+      "type": "ARTERIA",
+      "start": 1160,
+      "end": 1178
+    },
+    {
+      "text": "aneurismas",
+      "type": "PATOLOGIA",
+      "start": 1193,
+      "end": 1203
+    },
+    {
+      "text": "malformaciones vasculares",
+      "type": "PATOLOGIA",
+      "start": 1206,
+      "end": 1231
+    },
+    {
+      "text": "hallazgos patológicos",
+      "type": "PATOLOGIA",
+      "start": 1266,
+      "end": 1287
+    },
+    {
+      "text": "microhemorragias cerebrales",
+      "type": "PATOLOGIA",
+      "start": 1336,
+      "end": 1363
+    },
+    {
+      "text": "enfermedad microvascular crónica",
+      "type": "PATOLOGIA",
+      "start": 663,
+      "end": 695
+    },
+    {
+      "text": "hemorragia aguda",
+      "type": "PATOLOGIA",
+      "start": 1427,
+      "end": 1443
+    },
+    {
+      "text": "infarto isquémico activo",
+      "type": "PATOLOGIA",
+      "start": 1447,
+      "end": 1471
+    },
+    {
+      "text": "Estudio perfusional y angiográfico",
+      "type": "TECNICA_IMAGEN",
+      "start": 1473,
+      "end": 1507
+    },
+    {
+      "text": "alteraciones",
+      "type": "PATOLOGIA",
+      "start": 768,
+      "end": 780
+    },
+    {
+      "text": "seguimiento neurológico",
+      "type": "PATOLOGIA",
+      "start": 1540,
+      "end": 1563
+    },
+    {
+      "text": "control de factores de riesgo vascular",
+      "type": "PATOLOGIA",
+      "start": 1566,
+      "end": 1604
+    },
+    {
+      "text": "No se visualizan hematomas mayores",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 563,
+      "end": 597
+    },
+    {
+      "text": "No se evidencian estenosis ni oclusiones",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1064,
+      "end": 1104
+    },
+    {
+      "text": "Ausencia de aneurismas o malformaciones vasculares",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1181,
+      "end": 1231
+    },
+    {
+      "text": "Vascularización extracraneal sin hallazgos patológicos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1233,
+      "end": 1287
+    },
+    {
+      "text": "No signos de hemorragia aguda ni infarto isquémico activo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1414,
+      "end": 1471
+    }
+  ]
+}

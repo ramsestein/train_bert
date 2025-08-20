@@ -1,0 +1,131 @@
+{
+  "document_id": "informe_sintetico_20250804195045_18223",
+  "entities": [
+    {
+      "text": "infartos recientes",
+      "type": "PATOLOGIA",
+      "start": 588,
+      "end": 606
+    },
+    {
+      "text": "No se evidencian focos hemorrágicos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 608,
+      "end": 643
+    },
+    {
+      "text": "No se observan calcificaciones extensas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 752,
+      "end": 791
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 1362,
+      "end": 1376
+    },
+    {
+      "text": "oclusión completa",
+      "type": "PATOLOGIA",
+      "start": 1516,
+      "end": 1533
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "ARTERIA",
+      "start": 1562,
+      "end": 1592
+    },
+    {
+      "text": "arteria cerebral posterior izquierda",
+      "type": "ARTERIA",
+      "start": 1601,
+      "end": 1637
+    },
+    {
+      "text": "arteria cerebral anterior",
+      "type": "ARTERIA",
+      "start": 1681,
+      "end": 1706
+    },
+    {
+      "text": "estenosis severa bilateral",
+      "type": "PATOLOGIA",
+      "start": 1716,
+      "end": 1742
+    },
+    {
+      "text": "No hay evidencia de hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2279,
+      "end": 2322
+    },
+    {
+      "text": "isquémicos múltiples",
+      "type": "PATOLOGIA",
+      "start": 2354,
+      "end": 2374
+    },
+    {
+      "text": "bilateral",
+      "type": "LATERALIDAD",
+      "start": 180,
+      "end": 189
+    },
+    {
+      "text": "bilaterales",
+      "type": "LATERALIDAD",
+      "start": 509,
+      "end": 520
+    },
+    {
+      "text": "territorios frontales, parietales y temporales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 524,
+      "end": 570
+    },
+    {
+      "text": "territorios irrigados por las arterias cerebrales anteriores y medias bilaterales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1077,
+      "end": 1158
+    },
+    {
+      "text": "extensa penumbra",
+      "type": "PATOLOGIA",
+      "start": 2117,
+      "end": 2133
+    },
+    {
+      "text": "penumbra isquémica significativa",
+      "type": "PATOLOGIA",
+      "start": 1392,
+      "end": 1424
+    },
+    {
+      "text": "sistema ventricular",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 698,
+      "end": 717
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 307,
+      "end": 323
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 339,
+      "end": 360
+    },
+    {
+      "text": "AngioTC de troncos supraórticos e intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 377,
+      "end": 423
+    }
+  ]
+}

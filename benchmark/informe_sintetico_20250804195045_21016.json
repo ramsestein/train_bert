@@ -1,0 +1,143 @@
+{
+  "document_id": "informe_sintetico_20250804195045_21016",
+  "entities": [
+    {
+      "text": "hemiparesia derecha",
+      "type": "PATOLOGIA",
+      "start": 197,
+      "end": 216
+    },
+    {
+      "text": "afasia",
+      "type": "PATOLOGIA",
+      "start": 219,
+      "end": 225
+    },
+    {
+      "text": "ictus isquémico",
+      "type": "PATOLOGIA",
+      "start": 247,
+      "end": 262
+    },
+    {
+      "text": "hipodensidad difusas",
+      "type": "PATOLOGIA",
+      "start": 604,
+      "end": 624
+    },
+    {
+      "text": "lesión isquémica en evolución",
+      "type": "PATOLOGIA",
+      "start": 765,
+      "end": 794
+    },
+    {
+      "text": "infarto establecido",
+      "type": "PATOLOGIA",
+      "start": 1370,
+      "end": 1389
+    },
+    {
+      "text": "infarto cerebral temprano",
+      "type": "PATOLOGIA",
+      "start": 2211,
+      "end": 2236
+    },
+    {
+      "text": "oclusión arterial múltiple",
+      "type": "PATOLOGIA",
+      "start": 2170,
+      "end": 2196
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "ARTERIA",
+      "start": 1599,
+      "end": 1631
+    },
+    {
+      "text": "arteria cerebral posterior derecha",
+      "type": "ARTERIA",
+      "start": 1672,
+      "end": 1706
+    },
+    {
+      "text": "arteria carótida interna",
+      "type": "ARTERIA",
+      "start": 1768,
+      "end": 1792
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 209,
+      "end": 216
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 646,
+      "end": 655
+    },
+    {
+      "text": "izquierdos",
+      "type": "LATERALIDAD",
+      "start": 1139,
+      "end": 1149
+    },
+    {
+      "text": "derechos",
+      "type": "LATERALIDAD",
+      "start": 1176,
+      "end": 1184
+    },
+    {
+      "text": "70%",
+      "type": "MEDIDA",
+      "start": 1728,
+      "end": 1731
+    },
+    {
+      "text": "aguda",
+      "type": "TEMPORALIDAD",
+      "start": 1573,
+      "end": 1578
+    },
+    {
+      "text": "aguda",
+      "type": "TEMPORALIDAD",
+      "start": 1573,
+      "end": 1578
+    },
+    {
+      "text": "sin evidencia de infarto establecido",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1353,
+      "end": 1389
+    },
+    {
+      "text": "No se evidencian hemorragias",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2421,
+      "end": 2449
+    },
+    {
+      "text": "TC craneal basal sin contraste",
+      "type": "TECNICA_IMAGEN",
+      "start": 328,
+      "end": 358
+    },
+    {
+      "text": "estudio de perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 360,
+      "end": 389
+    },
+    {
+      "text": "AngioTC de troncos supraórticos y circulación intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 417,
+      "end": 475
+    }
+  ]
+}

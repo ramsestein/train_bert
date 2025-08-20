@@ -1,0 +1,83 @@
+{
+  "document_id": "informe_sintetico_20250804195045_21763",
+  "entities": [
+    {
+      "text": "ictus isquémico agudo",
+      "type": "PATOLOGIA",
+      "start": 272,
+      "end": 293
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "ARTERIA",
+      "start": 522,
+      "end": 554
+    },
+    {
+      "text": "M1",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 565,
+      "end": 567
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 545,
+      "end": 554
+    },
+    {
+      "text": "ASPECTS 7",
+      "type": "PUNTUACION_CLINICA",
+      "start": 794,
+      "end": 803
+    },
+    {
+      "text": "60 ml",
+      "type": "MEDIDA",
+      "start": 1285,
+      "end": 1290
+    },
+    {
+      "text": "oclusión aguda",
+      "type": "PATOLOGIA",
+      "start": 1725,
+      "end": 1739
+    },
+    {
+      "text": "ASPECTS 7",
+      "type": "PUNTUACION_CLINICA",
+      "start": 794,
+      "end": 803
+    },
+    {
+      "text": "No se evidencian hemorragias intracraneales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 805,
+      "end": 848
+    },
+    {
+      "text": "No se observan signos de hemorragia ni isquemia establecida extensa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1900,
+      "end": 1967
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 349,
+      "end": 365
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 381,
+      "end": 402
+    },
+    {
+      "text": "AngioTC arterial intra y extracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 405,
+      "end": 442
+    }
+  ]
+}

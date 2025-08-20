@@ -1,0 +1,89 @@
+{
+  "document_id": "informe_sintetico_20250804195045_05881",
+  "entities": [
+    {
+      "text": "infarto lacunar agudo",
+      "type": "PATOLOGIA",
+      "start": 620,
+      "end": 641
+    },
+    {
+      "text": "núcleo lenticular derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 578,
+      "end": 603
+    },
+    {
+      "text": "isquemia aguda lacunar",
+      "type": "PATOLOGIA",
+      "start": 1144,
+      "end": 1166
+    },
+    {
+      "text": "núcleo lenticular derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 578,
+      "end": 603
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 1659,
+      "end": 1669
+    },
+    {
+      "text": "TC craneal sin contraste",
+      "type": "TECNICA_IMAGEN",
+      "start": 255,
+      "end": 279
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 281,
+      "end": 302
+    },
+    {
+      "text": "angiografía TC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 325,
+      "end": 361
+    },
+    {
+      "text": "No se identifican colecciones hemáticas ni signos de sangrado intra ni extraaxial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 418,
+      "end": 499
+    },
+    {
+      "text": "No se evidencian otras lesiones isquémicas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 717,
+      "end": 759
+    },
+    {
+      "text": "sin evidencia de mismatch significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1077,
+      "end": 1116
+    },
+    {
+      "text": "sin signos de estenosis ni trombosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1266,
+      "end": 1302
+    },
+    {
+      "text": "No se observan defectos de repleción ni alteraciones vasculares significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1304,
+      "end": 1382
+    },
+    {
+      "text": "No evidencia de hemorragia intracraneal ni estenosis arterial significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1487,
+      "end": 1562
+    }
+  ]
+}

@@ -1,0 +1,167 @@
+{
+  "document_id": "informe_sintetico_20250804195045_21495",
+  "entities": [
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 639,
+      "end": 662
+    },
+    {
+      "text": "infarto",
+      "type": "PATOLOGIA",
+      "start": 686,
+      "end": 693
+    },
+    {
+      "text": "pérdida de la diferenciación corticosubcortical",
+      "type": "PATOLOGIA",
+      "start": 706,
+      "end": 753
+    },
+    {
+      "text": "discreto hipodensidad",
+      "type": "PATOLOGIA",
+      "start": 756,
+      "end": 777
+    },
+    {
+      "text": "isquemia precoz",
+      "type": "PATOLOGIA",
+      "start": 832,
+      "end": 847
+    },
+    {
+      "text": "tronco encefálico",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 799,
+      "end": 816
+    },
+    {
+      "text": "cerebelo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1027,
+      "end": 1035
+    },
+    {
+      "text": "flujo cerebral sanguíneo (FSC)",
+      "type": "MEDIDA",
+      "start": 914,
+      "end": 944
+    },
+    {
+      "text": "tiempo de tránsito medio (MTT)",
+      "type": "MEDIDA",
+      "start": 959,
+      "end": 989
+    },
+    {
+      "text": "volumen cerebral sanguíneo (VSC)",
+      "type": "MEDIDA",
+      "start": 1055,
+      "end": 1087
+    },
+    {
+      "text": "penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1121,
+      "end": 1139
+    },
+    {
+      "text": "oclusión completa de la arteria basilar",
+      "type": "PATOLOGIA",
+      "start": 1182,
+      "end": 1221
+    },
+    {
+      "text": "arteria basilar",
+      "type": "ARTERIA",
+      "start": 1206,
+      "end": 1221
+    },
+    {
+      "text": "tercio proximal",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1228,
+      "end": 1243
+    },
+    {
+      "text": "ausencia del flujo arterial adecuado",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1273,
+      "end": 1309
+    },
+    {
+      "text": "arterias cerebelosas superiores",
+      "type": "ARTERIA",
+      "start": 1317,
+      "end": 1348
+    },
+    {
+      "text": "arterias cerebrales posteriores",
+      "type": "ARTERIA",
+      "start": 1351,
+      "end": 1382
+    },
+    {
+      "text": "calibre reducido",
+      "type": "PATOLOGIA",
+      "start": 1428,
+      "end": 1444
+    },
+    {
+      "text": "porción proximal izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1451,
+      "end": 1477
+    },
+    {
+      "text": "signos de estenosis ni oclusión",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1523,
+      "end": 1554
+    },
+    {
+      "text": "malformaciones vasculares",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1587,
+      "end": 1612
+    },
+    {
+      "text": "aneurismas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1616,
+      "end": 1626
+    },
+    {
+      "text": "ictus isquémico vertebrobasilar agudo",
+      "type": "PATOLOGIA",
+      "start": 1950,
+      "end": 1987
+    },
+    {
+      "text": "alto riesgo neurológico",
+      "type": "PATOLOGIA",
+      "start": 1990,
+      "end": 2013
+    },
+    {
+      "text": "TC craneal basal urgente sin contraste",
+      "type": "TECNICA_IMAGEN",
+      "start": 334,
+      "end": 372
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 385,
+      "end": 406
+    },
+    {
+      "text": "Angio-TC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 409,
+      "end": 439
+    }
+  ]
+}

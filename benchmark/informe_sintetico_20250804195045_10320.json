@@ -1,0 +1,59 @@
+{
+  "document_id": "informe_sintetico_20250804195045_10320",
+  "entities": [
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 239,
+      "end": 253
+    },
+    {
+      "text": "arteria cerebral posterior izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 271,
+      "end": 307
+    },
+    {
+      "text": "arteria cerebral posterior",
+      "type": "ARTERIA",
+      "start": 271,
+      "end": 297
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 298,
+      "end": 307
+    },
+    {
+      "text": "aguda",
+      "type": "TEMPORALIDAD",
+      "start": 248,
+      "end": 253
+    },
+    {
+      "text": "repleción",
+      "type": "MEDIDA",
+      "start": 1320,
+      "end": 1329
+    },
+    {
+      "text": "TC craneal basal urgente",
+      "type": "TECNICA_IMAGEN",
+      "start": 328,
+      "end": 352
+    },
+    {
+      "text": "No se observan signos de hemorragia aguda intra o extraaxial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 614,
+      "end": 674
+    },
+    {
+      "text": "No se aprecian focos hemorrágicos asociados ni signos de hipertensión intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1813,
+      "end": 1895
+    }
+  ]
+}

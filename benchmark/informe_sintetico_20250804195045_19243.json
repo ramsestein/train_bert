@@ -1,0 +1,119 @@
+{
+  "document_id": "informe_sintetico_20250804195045_19243",
+  "entities": [
+    {
+      "text": "ictus isquémico",
+      "type": "PATOLOGIA",
+      "start": 281,
+      "end": 296
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 466,
+      "end": 489
+    },
+    {
+      "text": "lesiones expansivas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 493,
+      "end": 512
+    },
+    {
+      "text": "hipodensidad parcheada",
+      "type": "PATOLOGIA",
+      "start": 603,
+      "end": 625
+    },
+    {
+      "text": "región temporal izquierda subcortical",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 632,
+      "end": 669
+    },
+    {
+      "text": "prolongación de los tiempos de tránsito (TMax y TTD)",
+      "type": "PATOLOGIA",
+      "start": 755,
+      "end": 807
+    },
+    {
+      "text": "segmentos M2 y M3",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 844,
+      "end": 861
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "ARTERIA",
+      "start": 868,
+      "end": 900
+    },
+    {
+      "text": "reducción moderada del flujo cerebral (CBF)",
+      "type": "PATOLOGIA",
+      "start": 949,
+      "end": 992
+    },
+    {
+      "text": "aumento del volumen cerebral (CBV) preservado",
+      "type": "PATOLOGIA",
+      "start": 995,
+      "end": 1040
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 1470,
+      "end": 1484
+    },
+    {
+      "text": "ASPECTS de 9",
+      "type": "PUNTUACION_CLINICA",
+      "start": 1507,
+      "end": 1519
+    },
+    {
+      "text": "hemorragia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 466,
+      "end": 476
+    },
+    {
+      "text": "edema significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1548,
+      "end": 1567
+    },
+    {
+      "text": "isquemia aguda en territorio de ACM distal",
+      "type": "PATOLOGIA",
+      "start": 1584,
+      "end": 1626
+    },
+    {
+      "text": "arteria cerebral media distal (M2/M3)",
+      "type": "ARTERIA",
+      "start": 1913,
+      "end": 1950
+    },
+    {
+      "text": "penumbra tisular en perfusión cerebral",
+      "type": "PATOLOGIA",
+      "start": 1963,
+      "end": 2001
+    },
+    {
+      "text": "oclusión arterial",
+      "type": "PATOLOGIA",
+      "start": 2016,
+      "end": 2033
+    },
+    {
+      "text": "TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANG IOTC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 72,
+      "end": 140
+    }
+  ]
+}

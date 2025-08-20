@@ -1,0 +1,95 @@
+{
+  "document_id": "informe_sintetico_20250804195045_01300",
+  "entities": [
+    {
+      "text": "infarto cerebral",
+      "type": "PATOLOGIA",
+      "start": 240,
+      "end": 256
+    },
+    {
+      "text": "áreas irregulares de hipodensidad cortical bilateral",
+      "type": "PATOLOGIA",
+      "start": 443,
+      "end": 495
+    },
+    {
+      "text": "territorios fronterizos (watershed)",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 512,
+      "end": 547
+    },
+    {
+      "text": "arterias cerebrales medias",
+      "type": "ARTERIA",
+      "start": 558,
+      "end": 584
+    },
+    {
+      "text": "convexidad parietal y frontal",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 684,
+      "end": 713
+    },
+    {
+      "text": "ASPECTS 7",
+      "type": "PUNTUACION_CLINICA",
+      "start": 791,
+      "end": 800
+    },
+    {
+      "text": "reducción moderada del volumen sanguíneo cerebral (CBV)",
+      "type": "PATOLOGIA",
+      "start": 988,
+      "end": 1043
+    },
+    {
+      "text": "zonas corticales frontoparietales bilaterales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1047,
+      "end": 1092
+    },
+    {
+      "text": "flujo sanguíneo cerebral (CBF)",
+      "type": "PATOLOGIA",
+      "start": 1143,
+      "end": 1173
+    },
+    {
+      "text": "hipoperfusión global",
+      "type": "PATOLOGIA",
+      "start": 1268,
+      "end": 1288
+    },
+    {
+      "text": "sin estenosis significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1474,
+      "end": 1502
+    },
+    {
+      "text": "sin evidencia de trombosis o estenosis severa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1540,
+      "end": 1585
+    },
+    {
+      "text": "sin área viable para reperfusión urgente",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1987,
+      "end": 2027
+    },
+    {
+      "text": "infarto watershed bilateral en territorios frontoparietales",
+      "type": "PATOLOGIA",
+      "start": 1754,
+      "end": 1813
+    },
+    {
+      "text": "estado de hipoperfusión global",
+      "type": "PATOLOGIA",
+      "start": 1828,
+      "end": 1858
+    }
+  ]
+}

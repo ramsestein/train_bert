@@ -1,0 +1,53 @@
+{
+  "document_id": "informe_sintetico_20250804195045_00069",
+  "entities": [
+    {
+      "text": "hematoma lobar frontal izquierdo",
+      "type": "PATOLOGIA",
+      "start": 565,
+      "end": 597
+    },
+    {
+      "text": "frontal izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 580,
+      "end": 597
+    },
+    {
+      "text": "3.5 x 2.8 cm",
+      "type": "MEDIDA",
+      "start": 618,
+      "end": 630
+    },
+    {
+      "text": "3 mm",
+      "type": "MEDIDA",
+      "start": 752,
+      "end": 756
+    },
+    {
+      "text": "isquemia focal adicional",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1309,
+      "end": 1333
+    },
+    {
+      "text": "ACAs, ACMs y ACPs",
+      "type": "ARTERIA",
+      "start": 1497,
+      "end": 1514
+    },
+    {
+      "text": "sin defectos de opacificación ni aneurismas evidentes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1528,
+      "end": 1581
+    },
+    {
+      "text": "sin hallazgos patológicos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1916,
+      "end": 1941
+    }
+  ]
+}

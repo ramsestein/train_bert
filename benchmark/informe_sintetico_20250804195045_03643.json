@@ -1,0 +1,155 @@
+{
+  "document_id": "informe_sintetico_20250804195045_03643",
+  "entities": [
+    {
+      "text": "accidente cerebrovascular isquémico",
+      "type": "PATOLOGIA",
+      "start": 317,
+      "end": 352
+    },
+    {
+      "text": "hipodensidad",
+      "type": "PATOLOGIA",
+      "start": 576,
+      "end": 588
+    },
+    {
+      "text": "hemorragia intraparenquimatosa",
+      "type": "PATOLOGIA",
+      "start": 835,
+      "end": 865
+    },
+    {
+      "text": "transformación hemorrágica tipo PH2",
+      "type": "PATOLOGIA",
+      "start": 880,
+      "end": 915
+    },
+    {
+      "text": "desviación de línea media",
+      "type": "PATOLOGIA",
+      "start": 1034,
+      "end": 1059
+    },
+    {
+      "text": "hemorragias en otras localizaciones",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1156,
+      "end": 1191
+    },
+    {
+      "text": "hemorragia subaracnoidea",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1195,
+      "end": 1219
+    },
+    {
+      "text": "disminución severa en flujo cerebral (CBF)",
+      "type": "PATOLOGIA",
+      "start": 1408,
+      "end": 1450
+    },
+    {
+      "text": "volumen cerebral (CBV)",
+      "type": "PATOLOGIA",
+      "start": 1453,
+      "end": 1475
+    },
+    {
+      "text": "tiempo de tránsito medio (MTT)",
+      "type": "PATOLOGIA",
+      "start": 1527,
+      "end": 1557
+    },
+    {
+      "text": "tiempo hasta el pico (TTP)",
+      "type": "PATOLOGIA",
+      "start": 1564,
+      "end": 1590
+    },
+    {
+      "text": "oclusión completa en segmento M1 izquierdo",
+      "type": "PATOLOGIA",
+      "start": 1796,
+      "end": 1838
+    },
+    {
+      "text": "arteria cerebral media",
+      "type": "ARTERIA",
+      "start": 609,
+      "end": 631
+    },
+    {
+      "text": "segmento M1",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1817,
+      "end": 1828
+    },
+    {
+      "text": "izquierdo",
+      "type": "LATERALIDAD",
+      "start": 1130,
+      "end": 1139
+    },
+    {
+      "text": "6 horas",
+      "type": "TEMPORALIDAD",
+      "start": 229,
+      "end": 236
+    },
+    {
+      "text": "12 ml",
+      "type": "MEDIDA",
+      "start": 957,
+      "end": 962
+    },
+    {
+      "text": "6 mm",
+      "type": "MEDIDA",
+      "start": 1063,
+      "end": 1067
+    },
+    {
+      "text": "TC CÓDIGO ICTUS",
+      "type": "TECNICA_IMAGEN",
+      "start": 373,
+      "end": 388
+    },
+    {
+      "text": "TC craneal basal sin contraste",
+      "type": "TECNICA_IMAGEN",
+      "start": 411,
+      "end": 441
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 443,
+      "end": 464
+    },
+    {
+      "text": "angiografía TC de vasos intra y extracraneales",
+      "type": "TECNICA_IMAGEN",
+      "start": 467,
+      "end": 513
+    },
+    {
+      "text": "transformación hemorrágica tipo PH2",
+      "type": "PATOLOGIA",
+      "start": 880,
+      "end": 915
+    },
+    {
+      "text": "infarto isquémico extenso",
+      "type": "PATOLOGIA",
+      "start": 2172,
+      "end": 2197
+    },
+    {
+      "text": "desviación de línea media",
+      "type": "PATOLOGIA",
+      "start": 1034,
+      "end": 1059
+    }
+  ]
+}

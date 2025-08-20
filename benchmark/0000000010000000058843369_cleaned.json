@@ -1,0 +1,53 @@
+{
+  "document_id": "0000000010000000058843369_cleaned",
+  "entities": [
+    {
+      "text": "hematoma intraaxial profundo",
+      "type": "PATOLOGIA",
+      "start": 344,
+      "end": 372
+    },
+    {
+      "text": "0,6 ml",
+      "type": "MEDIDA",
+      "start": 382,
+      "end": 388
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 319,
+      "end": 328
+    },
+    {
+      "text": "arteria carótida interna",
+      "type": "ARTERIA",
+      "start": 818,
+      "end": 842
+    },
+    {
+      "text": "ACAs, ACMs y ACPs",
+      "type": "ARTERIA",
+      "start": 1133,
+      "end": 1150
+    },
+    {
+      "text": "Dominancia vertebral izquierda",
+      "type": "LATERALIDAD",
+      "start": 1188,
+      "end": 1218
+    },
+    {
+      "text": "No se observan imágenes de adición que sugieran aneurismas ni otros signos que sugieran malformaciones vasculares.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1220,
+      "end": 1334
+    },
+    {
+      "text": "No presenta edema perilesional significativo ni asocia efecto masa.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 390,
+      "end": 457
+    }
+  ]
+}

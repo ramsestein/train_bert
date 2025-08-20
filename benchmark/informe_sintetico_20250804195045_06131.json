@@ -1,0 +1,125 @@
+{
+  "document_id": "informe_sintetico_20250804195045_06131",
+  "entities": [
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 336,
+      "end": 350
+    },
+    {
+      "text": "arteria cerebral anterior",
+      "type": "ARTERIA",
+      "start": 368,
+      "end": 393
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 665,
+      "end": 672
+    },
+    {
+      "text": "tenue hipodensidad",
+      "type": "PATOLOGIA",
+      "start": 624,
+      "end": 642
+    },
+    {
+      "text": "región parasagital derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 646,
+      "end": 672
+    },
+    {
+      "text": "arteria cerebral anterior",
+      "type": "ARTERIA",
+      "start": 368,
+      "end": 393
+    },
+    {
+      "text": "derecho",
+      "type": "LATERALIDAD",
+      "start": 1064,
+      "end": 1071
+    },
+    {
+      "text": "penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1148,
+      "end": 1166
+    },
+    {
+      "text": "estenosis severa (>90%)",
+      "type": "PATOLOGIA",
+      "start": 1210,
+      "end": 1233
+    },
+    {
+      "text": "segmento A2 derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1240,
+      "end": 1259
+    },
+    {
+      "text": "arteria cerebral anterior",
+      "type": "ARTERIA",
+      "start": 368,
+      "end": 393
+    },
+    {
+      "text": "sin oclusión completa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1271,
+      "end": 1292
+    },
+    {
+      "text": "aumento significativo del tiempo de tránsito medio (TTM)",
+      "type": "MEDIDA",
+      "start": 953,
+      "end": 1009
+    },
+    {
+      "text": "reducción del flujo cerebral (CBF)",
+      "type": "MEDIDA",
+      "start": 1012,
+      "end": 1046
+    },
+    {
+      "text": "mantenimiento del volumen cerebral (CBV)",
+      "type": "MEDIDA",
+      "start": 1087,
+      "end": 1127
+    },
+    {
+      "text": "sin oclusión completa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1271,
+      "end": 1292
+    },
+    {
+      "text": "sin alteraciones destacables",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2323,
+      "end": 2351
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 420,
+      "end": 436
+    },
+    {
+      "text": "TC de perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 452,
+      "end": 476
+    },
+    {
+      "text": "Angio-TC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 478,
+      "end": 508
+    }
+  ]
+}

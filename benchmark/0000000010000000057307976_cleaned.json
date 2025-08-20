@@ -1,0 +1,41 @@
+{
+  "document_id": "0000000010000000057307976_cleaned",
+  "entities": [
+    {
+      "text": "Infart cerebral causat per oclusió o estenosi no especificades d'artèria cerebral no especificada",
+      "type": "PATOLOGIA",
+      "start": 166,
+      "end": 263
+    },
+    {
+      "text": "artèria cerebral no especificada",
+      "type": "ARTERIA",
+      "start": 231,
+      "end": 263
+    },
+    {
+      "text": "No se observan imágenes de sangrado agudo intracraneal.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 328,
+      "end": 383
+    },
+    {
+      "text": "No hay signos de patología aguda intracraneal.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 605,
+      "end": 651
+    },
+    {
+      "text": "TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANG IOTC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 72,
+      "end": 140
+    },
+    {
+      "text": "TC craneal basal URGENTE",
+      "type": "TECNICA_IMAGEN",
+      "start": 283,
+      "end": 307
+    }
+  ]
+}

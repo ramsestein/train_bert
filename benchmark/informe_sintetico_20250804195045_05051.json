@@ -1,0 +1,53 @@
+{
+  "document_id": "informe_sintetico_20250804195045_05051",
+  "entities": [
+    {
+      "text": "hemorragia intra ni extraaxial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 448,
+      "end": 478
+    },
+    {
+      "text": "edema cerebral agudo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 482,
+      "end": 502
+    },
+    {
+      "text": "isquemia reciente",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 547,
+      "end": 564
+    },
+    {
+      "text": "cambios mínimos compatibles con envejecimiento",
+      "type": "PATOLOGIA",
+      "start": 587,
+      "end": 633
+    },
+    {
+      "text": "sistema ventricular con morfología y tamaño conservados",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 660,
+      "end": 715
+    },
+    {
+      "text": "signos de hipoperfusión o retrasos focales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 844,
+      "end": 886
+    },
+    {
+      "text": "Arterias cerebrales principales (ACAs, ACMs, ACPs)",
+      "type": "ARTERIA",
+      "start": 912,
+      "end": 962
+    },
+    {
+      "text": "hemorragia o isquemia cerebral reciente",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1201,
+      "end": 1240
+    }
+  ]
+}

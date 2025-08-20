@@ -1,0 +1,32 @@
+UO_PACN (Unidad Organizativa Médica): RADIO
+
+PRUEB (Prueba solicitada): TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANG IOTC ARTERIAL INTRACRANEAL)
+
+CLIN (Resumen clínico): Paciente con anoxia cerebral tras parada cardiorrespiratoria. Sospecha de encefalopatía hipóxico-isquémica.
+
+OBSR (Protocolo): TC craneal basal sin contraste, seguido de estudio de perfusión cerebral y AngioTC arterial intracraneal urgente según protocolo de código ictus.
+
+RESL (Resultados):  
+TC CRANEAL BASAL:  
+Se observa edema cerebral difuso con pérdida de la diferenciación cortico-subcortical, especialmente en los territorios fronto-parietales y occipitales bilaterales. Se identifican hipodensidades generalizadas en la sustancia gris y blanca, con leve borramiento de surcos corticales y atenuación difusa del parénquima cerebral. El sistema ventricular está ligeramente colapsado, sin desplazamiento de la línea media ni herniaciones evidentes. No se visualizan hemorragias ni lesiones focales ocupantes de espacio. Las cisternas basales están comprimidas.
+
+TC PERFUSIÓN:  
+Se evidencia reducción global del flujo cerebral (CBF) y del volumen cerebral (CBV), con prolongación del tiempo de tránsito medio (MTT) y tiempo hasta el pico (TTP), compatible con hipoperfusión cerebral grave y global, sin áreas focales de perfusión conservada. Los hallazgos son consistentes con disfunción global isquémica.
+
+ANGIO-TC INTRACRANEAL:  
+Los principales vasos intracraneales (ACAs, ACMs, ACPs y sistema vertebrobasilar) son permeables, sin estenosis ni defectos de repleción evidentes. No se identifican signos de trombosis vascular ni embolismos arteriales agudos.
+
+CONCL (Conclusiones):  
+Cambios difusos compatibles con encefalopatía hipóxico-isquémica secundaria a parada cardiorrespiratoria reciente. Edema cerebral global con pérdida de diferenciación cortico-subcortical y patrón de hipoperfusión cerebral grave en el estudio de perfusión. Sin evidencia de hemorragia ni compromiso vascular agudo obstructivo. Pronóstico neurológico reservado.
+
+ACTI_ADICI (Actividad adicional):
+
+DKTXT (Descripción): Seguimiento neurológico y valoración con resonancia magnética cerebral recomendada para valoración evolutiva.
+
+ICON (Estudio): @RAD_CRAN_ENF_HIPX@
+
+X00DIATXT (Texto del diagnóstico ACR): Encephalopathy, hypoxic-ischemic, CT; cerebral perfusion imaging; intracranial arterial angiography, CT.
+
+EST_T_DES (Descripción): TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANGIOTC ARTERIAL INTRACRANEAL)
+
+ZVASOS_D (Der.): Vasos intracraneales permeables sin estenosis o trombosis visibles.

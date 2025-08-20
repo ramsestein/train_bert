@@ -1,0 +1,29 @@
+UO_PACN (Unidad Organizativa Médica): RADIO
+
+PRUEB (Prueba solicitada): TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANG IOTC ARTERIAL INTRACRANEAL)
+
+CLIN (Resumen clínico): Hombre de 67 años con cuadro súbito de diplopía, disfagia y debilidad bilateral de extremidades, sospecha clínica de ictus en territorio vertebrobasilar. Hipertenso y diabético.
+
+OBSR (Protocolo): TC craneal basal sin contraste, estudio de perfusión cerebral y angio TC arterial intracraneal urgente bajo protocolo Código Ictus.
+
+RESL (Resultados): 
+
+- TC basal: No se identifican hemorragias intracraneales ni signos de infarto establecido en estructuras supratentoriales. Se observa leve pérdida de diferenciación cortico-subcortical en el tronco del encéfalo en región pontina, sugestiva de isquemia temprana.
+
+- Perfusión cerebral: Mapa de flujo sanguíneo cerebral muestra área extensa de hipoperfusión en territorio pontino, mesencefálico y cerebelo medio, con aumento del tiempo de tránsito medio (TTM) y reducción del volumen y flujo cerebral, compatible con isquemia crítica.
+
+- Angio TC arterial intracraneal: Oclusión completa de la arteria basilar en su segmento proximal, sin flujo distal. Las arterias vertebrales son permeables con dominancia derecha. No se identifican estenosis significativas en otras arterias cerebrales.
+
+CONCL (Conclusiones): 
+
+Estudio compatible con oclusión aguda de arteria basilar proximal con afectación isquémica en región troncoencefálica y cerebelosa. No se identifican complicaciones hemorrágicas. Urgente valoración neurointervencionista para posible trombectomía.
+
+ACTI_ADICI (Actividad adicional): Seguimiento clínico y control neuroimagen en 24-48 horas para valorar evolución de la isquemia.
+
+ICON (Estudio): @RADIO@TC_BASILAR_OCL
+
+X00DIATXT (Texto del diagnóstico ACR): Oclusión proximal de arteria basilar con signos de isquemia en tronco encefálico.
+
+EST_T_DES (Descripción): TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANGIOTC ARTERIAL INTRACRANEAL)
+
+ZVASOS_D (Der.): Radiología Diagnóstica - Servicio de Neuroimagen

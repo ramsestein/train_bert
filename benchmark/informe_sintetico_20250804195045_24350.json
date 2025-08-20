@@ -1,0 +1,113 @@
+{
+  "document_id": "informe_sintetico_20250804195045_24350",
+  "entities": [
+    {
+      "text": "infarto isquémico",
+      "type": "PATOLOGIA",
+      "start": 566,
+      "end": 583
+    },
+    {
+      "text": "transformación hemorrágica grado HI2",
+      "type": "PATOLOGIA",
+      "start": 795,
+      "end": 831
+    },
+    {
+      "text": "hematomas concentrados",
+      "type": "PATOLOGIA",
+      "start": 850,
+      "end": 872
+    },
+    {
+      "text": "edema perilesional",
+      "type": "PATOLOGIA",
+      "start": 929,
+      "end": 947
+    },
+    {
+      "text": "sangrados extraaxiales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 964,
+      "end": 986
+    },
+    {
+      "text": "hemorragias en otras localizaciones",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 990,
+      "end": 1025
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 518,
+      "end": 550
+    },
+    {
+      "text": "segmento M1",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1638,
+      "end": 1649
+    },
+    {
+      "text": "ACM",
+      "type": "ARTERIA",
+      "start": 2162,
+      "end": 2165
+    },
+    {
+      "text": "3 mm",
+      "type": "MEDIDA",
+      "start": 1126,
+      "end": 1130
+    },
+    {
+      "text": "tiempo de tránsito medio (MTT)",
+      "type": "MEDIDA",
+      "start": 1378,
+      "end": 1408
+    },
+    {
+      "text": "tiempo hasta el pico (TTP)",
+      "type": "MEDIDA",
+      "start": 1411,
+      "end": 1437
+    },
+    {
+      "text": "permeables sin estenosis de relevancia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1794,
+      "end": 1832
+    },
+    {
+      "text": "hemorragia parenquimatosa difusa",
+      "type": "PATOLOGIA",
+      "start": 2019,
+      "end": 2051
+    },
+    {
+      "text": "sin hematoma encapsulado",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2070,
+      "end": 2094
+    },
+    {
+      "text": "TC craneal basal urgente sin contraste",
+      "type": "TECNICA_IMAGEN",
+      "start": 296,
+      "end": 334
+    },
+    {
+      "text": "perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 347,
+      "end": 365
+    },
+    {
+      "text": "angio-TC intracraneal con contraste endovenoso",
+      "type": "TECNICA_IMAGEN",
+      "start": 368,
+      "end": 414
+    }
+  ]
+}

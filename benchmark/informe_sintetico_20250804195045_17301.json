@@ -1,0 +1,125 @@
+{
+  "document_id": "informe_sintetico_20250804195045_17301",
+  "entities": [
+    {
+      "text": "hipodensidad",
+      "type": "PATOLOGIA",
+      "start": 470,
+      "end": 482
+    },
+    {
+      "text": "hemorragia",
+      "type": "PATOLOGIA",
+      "start": 486,
+      "end": 496
+    },
+    {
+      "text": "ASPECTS 10/10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 545,
+      "end": 558
+    },
+    {
+      "text": "lesiones ocupantes de espacio",
+      "type": "PATOLOGIA",
+      "start": 575,
+      "end": 604
+    },
+    {
+      "text": "edema cerebral",
+      "type": "PATOLOGIA",
+      "start": 608,
+      "end": 622
+    },
+    {
+      "text": "hipoperfusión",
+      "type": "PATOLOGIA",
+      "start": 872,
+      "end": 885
+    },
+    {
+      "text": "isquemia",
+      "type": "PATOLOGIA",
+      "start": 898,
+      "end": 906
+    },
+    {
+      "text": "estenosis",
+      "type": "PATOLOGIA",
+      "start": 992,
+      "end": 1001
+    },
+    {
+      "text": "oclusiones",
+      "type": "PATOLOGIA",
+      "start": 1101,
+      "end": 1111
+    },
+    {
+      "text": "aneurismas",
+      "type": "PATOLOGIA",
+      "start": 1115,
+      "end": 1125
+    },
+    {
+      "text": "hemorragia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 486,
+      "end": 496
+    },
+    {
+      "text": "infarto agudo cerebral",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1244,
+      "end": 1266
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 545,
+      "end": 555
+    },
+    {
+      "text": "hipoperfusión",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 872,
+      "end": 885
+    },
+    {
+      "text": "estenosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 992,
+      "end": 1001
+    },
+    {
+      "text": "enfermedad significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1396,
+      "end": 1420
+    },
+    {
+      "text": "hallazgos agudos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1425,
+      "end": 1441
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 254,
+      "end": 270
+    },
+    {
+      "text": "TC perfusión",
+      "type": "TECNICA_IMAGEN",
+      "start": 273,
+      "end": 285
+    },
+    {
+      "text": "AngioTC intra y extracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 288,
+      "end": 316
+    }
+  ]
+}

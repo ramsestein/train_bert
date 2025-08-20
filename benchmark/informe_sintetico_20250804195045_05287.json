@@ -1,0 +1,239 @@
+{
+  "document_id": "informe_sintetico_20250804195045_05287",
+  "entities": [
+    {
+      "text": "hemiparesia derecha",
+      "type": "PATOLOGIA",
+      "start": 196,
+      "end": 215
+    },
+    {
+      "text": "afasia",
+      "type": "PATOLOGIA",
+      "start": 227,
+      "end": 233
+    },
+    {
+      "text": "alteración del nivel de conciencia",
+      "type": "PATOLOGIA",
+      "start": 236,
+      "end": 270
+    },
+    {
+      "text": "evento isquémico agudo multifocal",
+      "type": "PATOLOGIA",
+      "start": 292,
+      "end": 325
+    },
+    {
+      "text": "hemorragias agudas intra ni extraaxiales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 617,
+      "end": 657
+    },
+    {
+      "text": "áreas hipodensas bilaterales",
+      "type": "PATOLOGIA",
+      "start": 674,
+      "end": 702
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "ARTERIA",
+      "start": 735,
+      "end": 765
+    },
+    {
+      "text": "territorio frontal y parietal",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 767,
+      "end": 796
+    },
+    {
+      "text": "arteria cerebral posterior izquierda",
+      "type": "ARTERIA",
+      "start": 817,
+      "end": 853
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 869,
+      "end": 883
+    },
+    {
+      "text": "ASPECTS 6",
+      "type": "PUNTUACION_CLINICA",
+      "start": 948,
+      "end": 957
+    },
+    {
+      "text": "Línea media centrada",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 981,
+      "end": 1001
+    },
+    {
+      "text": "Sistema ventricular con configuración normal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1003,
+      "end": 1047
+    },
+    {
+      "text": "Cisternas basales libres",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1049,
+      "end": 1073
+    },
+    {
+      "text": "perfusión disminuida",
+      "type": "PATOLOGIA",
+      "start": 1103,
+      "end": 1123
+    },
+    {
+      "text": "tiempo hasta el pico (TTP)",
+      "type": "MEDIDA",
+      "start": 1145,
+      "end": 1171
+    },
+    {
+      "text": "disminución del flujo cerebral sanguíneo (CBF)",
+      "type": "PATOLOGIA",
+      "start": 1174,
+      "end": 1220
+    },
+    {
+      "text": "territorios MCA derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1224,
+      "end": 1247
+    },
+    {
+      "text": "PCA izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1250,
+      "end": 1263
+    },
+    {
+      "text": "preservación parcial del volumen cerebral sanguíneo (CBV)",
+      "type": "PATOLOGIA",
+      "start": 1268,
+      "end": 1325
+    },
+    {
+      "text": "mismatch compatible con tejido en riesgo",
+      "type": "PATOLOGIA",
+      "start": 1340,
+      "end": 1380
+    },
+    {
+      "text": "Arco aórtico",
+      "type": "ARTERIA",
+      "start": 1462,
+      "end": 1474
+    },
+    {
+      "text": "troncos supraórticos",
+      "type": "ARTERIA",
+      "start": 1477,
+      "end": 1497
+    },
+    {
+      "text": "estenosis significativa",
+      "type": "PATOLOGIA",
+      "start": 1512,
+      "end": 1535
+    },
+    {
+      "text": "placas ateromatosas calcificadas de relevancia",
+      "type": "PATOLOGIA",
+      "start": 1539,
+      "end": 1585
+    },
+    {
+      "text": "Oclusión completa del segmento M1 de arteria cerebral media derecha",
+      "type": "PATOLOGIA",
+      "start": 1589,
+      "end": 1656
+    },
+    {
+      "text": "Estrechamiento severo en segmento P2 izquierda de arteria cerebral posterior",
+      "type": "PATOLOGIA",
+      "start": 1660,
+      "end": 1736
+    },
+    {
+      "text": "Arterias cerebrales anteriores bilaterales",
+      "type": "ARTERIA",
+      "start": 1740,
+      "end": 1782
+    },
+    {
+      "text": "permeables sin estenosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1783,
+      "end": 1807
+    },
+    {
+      "text": "Sistema vertebrobasilar permeable",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1811,
+      "end": 1844
+    },
+    {
+      "text": "Segmentos extracraneales de arterias carótidas internas sin ateromatosis significativa ni estenosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1848,
+      "end": 1947
+    },
+    {
+      "text": "No se identifican embolias pulmonares o masas mediastínicas en cortes torácicos incluidos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1951,
+      "end": 2040
+    },
+    {
+      "text": "lesiones hipodensas isquémicas multifocales en territorios MCA derecha y PCA izquierda",
+      "type": "PATOLOGIA",
+      "start": 2088,
+      "end": 2174
+    },
+    {
+      "text": "ASPECTS 6 en hemisferio derecho",
+      "type": "PUNTUACION_CLINICA",
+      "start": 948,
+      "end": 979
+    },
+    {
+      "text": "áreas de penumbra con mismatch significativo multiterritorial",
+      "type": "PATOLOGIA",
+      "start": 2241,
+      "end": 2302
+    },
+    {
+      "text": "oclusión en segmento M1 MCA derecha",
+      "type": "PATOLOGIA",
+      "start": 2326,
+      "end": 2361
+    },
+    {
+      "text": "estenosis severa en segmento P2 PCA izquierda",
+      "type": "PATOLOGIA",
+      "start": 2364,
+      "end": 2409
+    },
+    {
+      "text": "sin afectación significativa de arterias extracraneales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2411,
+      "end": 2466
+    },
+    {
+      "text": "isquemia aguda multiterritorial",
+      "type": "PATOLOGIA",
+      "start": 2498,
+      "end": 2529
+    }
+  ]
+}

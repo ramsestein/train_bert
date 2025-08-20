@@ -1,0 +1,227 @@
+{
+  "document_id": "informe_sintetico_20250804195045_05089",
+  "entities": [
+    {
+      "text": "infarto cerebral",
+      "type": "PATOLOGIA",
+      "start": 200,
+      "end": 216
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 234,
+      "end": 264
+    },
+    {
+      "text": "subagudo",
+      "type": "TEMPORALIDAD",
+      "start": 297,
+      "end": 305
+    },
+    {
+      "text": "TC Basal urgente",
+      "type": "TECNICA_IMAGEN",
+      "start": 356,
+      "end": 372
+    },
+    {
+      "text": "Perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 375,
+      "end": 393
+    },
+    {
+      "text": "AngioTC intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 396,
+      "end": 416
+    },
+    {
+      "text": "área hipodensa extensa",
+      "type": "PATOLOGIA",
+      "start": 480,
+      "end": 502
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 234,
+      "end": 264
+    },
+    {
+      "text": "infarto isquémico reciente",
+      "type": "PATOLOGIA",
+      "start": 566,
+      "end": 592
+    },
+    {
+      "text": "focos de hiperdensidad puntiformes y lineales",
+      "type": "PATOLOGIA",
+      "start": 621,
+      "end": 666
+    },
+    {
+      "text": "transformación hemorrágica tipo PH1",
+      "type": "PATOLOGIA",
+      "start": 696,
+      "end": 731
+    },
+    {
+      "text": "hemorragias macroscópicas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 810,
+      "end": 835
+    },
+    {
+      "text": "masas expansivas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 839,
+      "end": 855
+    },
+    {
+      "text": "desplazamiento significativo de líneas medias",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 864,
+      "end": 909
+    },
+    {
+      "text": "Sistema ventricular en límites normales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 911,
+      "end": 950
+    },
+    {
+      "text": "hidrocefalia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 955,
+      "end": 967
+    },
+    {
+      "text": "Cisternas basales libres",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 969,
+      "end": 993
+    },
+    {
+      "text": "Disminución marcada del flujo cerebral",
+      "type": "PATOLOGIA",
+      "start": 1010,
+      "end": 1048
+    },
+    {
+      "text": "volumen cerebral",
+      "type": "PATOLOGIA",
+      "start": 1061,
+      "end": 1077
+    },
+    {
+      "text": "territorio afectado",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1087,
+      "end": 1106
+    },
+    {
+      "text": "Aumento en mapas de tiempo",
+      "type": "PATOLOGIA",
+      "start": 1108,
+      "end": 1134
+    },
+    {
+      "text": "TTP y MTT",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1136,
+      "end": 1145
+    },
+    {
+      "text": "zona isquémica adyacente",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1153,
+      "end": 1177
+    },
+    {
+      "text": "áreas de perfusión conservada",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1194,
+      "end": 1223
+    },
+    {
+      "text": "Oclusión subtotal proximal de arteria cerebral media derecha",
+      "type": "PATOLOGIA",
+      "start": 1293,
+      "end": 1353
+    },
+    {
+      "text": "Sistema vertebrobasilar y vasos intracraneales izquierdos",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1355,
+      "end": 1412
+    },
+    {
+      "text": "estenosis significativas en vasos cervicales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1443,
+      "end": 1487
+    },
+    {
+      "text": "Presencia de ateromatosis calcificada leve en bifurcación carotídea derecha",
+      "type": "PATOLOGIA",
+      "start": 1489,
+      "end": 1564
+    },
+    {
+      "text": "Infarto cerebral extenso en territorio de ACM derecha",
+      "type": "PATOLOGIA",
+      "start": 1589,
+      "end": 1642
+    },
+    {
+      "text": "transformación hemorrágica tipo PH1",
+      "type": "PATOLOGIA",
+      "start": 696,
+      "end": 731
+    },
+    {
+      "text": "Oclusión subtotal proximal de ACM derecha",
+      "type": "PATOLOGIA",
+      "start": 1726,
+      "end": 1767
+    },
+    {
+      "text": "grandes hemorragias",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1785,
+      "end": 1804
+    },
+    {
+      "text": "hipertensión intracraneal significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1808,
+      "end": 1847
+    },
+    {
+      "text": "Perfusión cerebral alterada",
+      "type": "PATOLOGIA",
+      "start": 1849,
+      "end": 1876
+    },
+    {
+      "text": "compromiso hemodinámico severo en región afectada",
+      "type": "PATOLOGIA",
+      "start": 1881,
+      "end": 1930
+    },
+    {
+      "text": "Infarto cerebral con transformación hemorrágica parenquimatosa tipo PH1 en territorio ACM derecha",
+      "type": "PATOLOGIA",
+      "start": 2216,
+      "end": 2313
+    },
+    {
+      "text": "Oclusión subtotal de arteria cerebral media derecha",
+      "type": "PATOLOGIA",
+      "start": 2427,
+      "end": 2478
+    }
+  ]
+}

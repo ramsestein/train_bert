@@ -1,0 +1,125 @@
+{
+  "document_id": "informe_sintetico_20250804195045_22937",
+  "entities": [
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 271,
+      "end": 285
+    },
+    {
+      "text": "bulbo raquídeo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 707,
+      "end": 721
+    },
+    {
+      "text": "puente",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 748,
+      "end": 754
+    },
+    {
+      "text": "edema vasogénico/ischemico precoz",
+      "type": "PATOLOGIA",
+      "start": 769,
+      "end": 802
+    },
+    {
+      "text": "territorio vertebrobasilar",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 289,
+      "end": 315
+    },
+    {
+      "text": "tiempo de tránsito medio (MTT)",
+      "type": "MEDIDA",
+      "start": 1040,
+      "end": 1070
+    },
+    {
+      "text": "flujo cerebral (CBF)",
+      "type": "MEDIDA",
+      "start": 1087,
+      "end": 1107
+    },
+    {
+      "text": "volumen cerebral (CBV)",
+      "type": "MEDIDA",
+      "start": 1134,
+      "end": 1156
+    },
+    {
+      "text": "zona de penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1184,
+      "end": 1210
+    },
+    {
+      "text": "infarto establecido",
+      "type": "PATOLOGIA",
+      "start": 1232,
+      "end": 1251
+    },
+    {
+      "text": "Oclusión distal de la arteria vertebral derecha",
+      "type": "PATOLOGIA",
+      "start": 1306,
+      "end": 1353
+    },
+    {
+      "text": "arteria vertebral derecha",
+      "type": "ARTERIA",
+      "start": 1328,
+      "end": 1353
+    },
+    {
+      "text": "arteria basilar",
+      "type": "ARTERIA",
+      "start": 1398,
+      "end": 1413
+    },
+    {
+      "text": "flujo disminuido",
+      "type": "PATOLOGIA",
+      "start": 1422,
+      "end": 1438
+    },
+    {
+      "text": "estenosis significativas",
+      "type": "PATOLOGIA",
+      "start": 1480,
+      "end": 1504
+    },
+    {
+      "text": "estenosis de grado relevante",
+      "type": "PATOLOGIA",
+      "start": 1679,
+      "end": 1707
+    },
+    {
+      "text": "aneurismas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1724,
+      "end": 1734
+    },
+    {
+      "text": "malformaciones vasculares",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1738,
+      "end": 1763
+    },
+    {
+      "text": "No se observan hemorragias intra ni extraaxiales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 480,
+      "end": 528
+    },
+    {
+      "text": "No signos de hemorragia ni efecto de masa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2035,
+      "end": 2076
+    }
+  ]
+}

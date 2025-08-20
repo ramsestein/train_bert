@@ -1,0 +1,131 @@
+{
+  "document_id": "informe_sintetico_20250804195045_09769",
+  "entities": [
+    {
+      "text": "hipodensidad",
+      "type": "PATOLOGIA",
+      "start": 510,
+      "end": 522
+    },
+    {
+      "text": "edema adyacente",
+      "type": "PATOLOGIA",
+      "start": 589,
+      "end": 604
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 623,
+      "end": 646
+    },
+    {
+      "text": "infarto isquémico arterial clásico",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 676,
+      "end": 710
+    },
+    {
+      "text": "seno longitudinal superior",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 904,
+      "end": 930
+    },
+    {
+      "text": "seno transverso derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1019,
+      "end": 1042
+    },
+    {
+      "text": "hipoperfusión",
+      "type": "PATOLOGIA",
+      "start": 1055,
+      "end": 1068
+    },
+    {
+      "text": "venas corticales dilatadas",
+      "type": "PATOLOGIA",
+      "start": 1109,
+      "end": 1135
+    },
+    {
+      "text": "drenaje venoso normal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1147,
+      "end": 1168
+    },
+    {
+      "text": "infarto arterial agudo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1909,
+      "end": 1931
+    },
+    {
+      "text": "hemorragia secundaria",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1935,
+      "end": 1956
+    },
+    {
+      "text": "congestión venosa",
+      "type": "PATOLOGIA",
+      "start": 1556,
+      "end": 1573
+    },
+    {
+      "text": "edema vasogénico",
+      "type": "PATOLOGIA",
+      "start": 1576,
+      "end": 1592
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 336,
+      "end": 352
+    },
+    {
+      "text": "angiografía por TC venosa cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 369,
+      "end": 403
+    },
+    {
+      "text": "perfusión cerebral con contraste intravenoso",
+      "type": "TECNICA_IMAGEN",
+      "start": 406,
+      "end": 450
+    },
+    {
+      "text": "TC PERFUSIÓN",
+      "type": "TECNICA_IMAGEN",
+      "start": 1304,
+      "end": 1316
+    },
+    {
+      "text": "tiempo de tránsito medio (MTT)",
+      "type": "MEDIDA",
+      "start": 1332,
+      "end": 1362
+    },
+    {
+      "text": "tiempo de retraso (TTP)",
+      "type": "MEDIDA",
+      "start": 1365,
+      "end": 1388
+    },
+    {
+      "text": "volumen sanguíneo cerebral (CBV)",
+      "type": "MEDIDA",
+      "start": 1487,
+      "end": 1519
+    },
+    {
+      "text": "ipsilateral",
+      "type": "LATERALIDAD",
+      "start": 1755,
+      "end": 1766
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "document_id": "informe_sintetico_20250804195045_19147",
+  "entities": [
+    {
+      "text": "microhemorragias",
+      "type": "PATOLOGIA",
+      "start": 491,
+      "end": 507
+    },
+    {
+      "text": "sustancia blanca",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 521,
+      "end": 537
+    },
+    {
+      "text": "ganglios basales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 540,
+      "end": 556
+    },
+    {
+      "text": "bilateralmente",
+      "type": "LATERALIDAD",
+      "start": 557,
+      "end": 571
+    },
+    {
+      "text": "No se evidencian signos de sangrado subaracnoideo ni hematomas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 620,
+      "end": 682
+    },
+    {
+      "text": "Angio-TC sin evidencia de estenosis ni lesiones vasculares aneurismáticas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 817,
+      "end": 890
+    },
+    {
+      "text": "microhemorragias múltiples supratentoriales",
+      "type": "PATOLOGIA",
+      "start": 1005,
+      "end": 1048
+    },
+    {
+      "text": "infarto agudo",
+      "type": "PATOLOGIA",
+      "start": 1140,
+      "end": 1153
+    },
+    {
+      "text": "TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANGIOTC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 1573,
+      "end": 1640
+    }
+  ]
+}

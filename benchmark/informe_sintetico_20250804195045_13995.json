@@ -1,0 +1,71 @@
+{
+  "document_id": "informe_sintetico_20250804195045_13995",
+  "entities": [
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 244,
+      "end": 258
+    },
+    {
+      "text": "arteria cerebral posterior",
+      "type": "ARTERIA",
+      "start": 279,
+      "end": 305
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 582,
+      "end": 589
+    },
+    {
+      "text": "ASPECTS modificado",
+      "type": "PUNTUACION_CLINICA",
+      "start": 718,
+      "end": 736
+    },
+    {
+      "text": "disminución del flujo cerebral de sangre (CBF)",
+      "type": "MEDIDA",
+      "start": 931,
+      "end": 977
+    },
+    {
+      "text": "volumen cerebral de sangre (CBV) relativamente conservado",
+      "type": "MEDIDA",
+      "start": 1018,
+      "end": 1075
+    },
+    {
+      "text": "oclusión segmentaria proximal de la arteria cerebral posterior derecha (P1)",
+      "type": "PATOLOGIA",
+      "start": 1174,
+      "end": 1249
+    },
+    {
+      "text": "sin repermeabilización distal evidente",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1301,
+      "end": 1339
+    },
+    {
+      "text": "oclusión proximal (P1)",
+      "type": "PATOLOGIA",
+      "start": 2073,
+      "end": 2095
+    },
+    {
+      "text": "penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1107,
+      "end": 1125
+    },
+    {
+      "text": "sin repermeabilización distal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1301,
+      "end": 1330
+    }
+  ]
+}

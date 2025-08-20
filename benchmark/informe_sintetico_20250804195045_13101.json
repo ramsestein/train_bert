@@ -1,0 +1,77 @@
+{
+  "document_id": "informe_sintetico_20250804195045_13101",
+  "entities": [
+    {
+      "text": "edema cortical leve",
+      "type": "PATOLOGIA",
+      "start": 580,
+      "end": 599
+    },
+    {
+      "text": "región frontoparietal izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 603,
+      "end": 634
+    },
+    {
+      "text": "seno longitudinal superior",
+      "type": "ARTERIA",
+      "start": 836,
+      "end": 862
+    },
+    {
+      "text": "vena cortical izquierda",
+      "type": "ARTERIA",
+      "start": 1628,
+      "end": 1651
+    },
+    {
+      "text": "izquierdo",
+      "type": "LATERALIDAD",
+      "start": 1060,
+      "end": 1069
+    },
+    {
+      "text": "incremento en el tiempo de tránsito medio (TTM)",
+      "type": "MEDIDA",
+      "start": 1238,
+      "end": 1285
+    },
+    {
+      "text": "disminución del flujo cerebral sanguíneo (CBF)",
+      "type": "MEDIDA",
+      "start": 1288,
+      "end": 1334
+    },
+    {
+      "text": "sin infarto establecido",
+      "type": "TEMPORALIDAD",
+      "start": 1522,
+      "end": 1545
+    },
+    {
+      "text": "No se identifican hemorragias intraaxiales ni extraaxiales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 507,
+      "end": 565
+    },
+    {
+      "text": "No se observan infartos parenquimatosos establecidos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 636,
+      "end": 688
+    },
+    {
+      "text": "No se evidencian trombos en senos laterales ni en venas profundas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1143,
+      "end": 1208
+    },
+    {
+      "text": "sin lesión isquémica definitiva",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1853,
+      "end": 1884
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "document_id": "informe_sintetico_20250804195045_15265",
+  "entities": [
+    {
+      "text": "infarto",
+      "type": "PATOLOGIA",
+      "start": 331,
+      "end": 338
+    },
+    {
+      "text": "zonas límite (watershed)",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 342,
+      "end": 366
+    },
+    {
+      "text": "3 horas",
+      "type": "TEMPORALIDAD",
+      "start": 302,
+      "end": 309
+    },
+    {
+      "text": "isquémico agudo",
+      "type": "PATOLOGIA",
+      "start": 875,
+      "end": 890
+    },
+    {
+      "text": "bilaterales",
+      "type": "LATERALIDAD",
+      "start": 1314,
+      "end": 1325
+    },
+    {
+      "text": "hemisferio izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 823,
+      "end": 843
+    },
+    {
+      "text": "hipoperfusión",
+      "type": "PATOLOGIA",
+      "start": 1440,
+      "end": 1453
+    },
+    {
+      "text": "arterias principales",
+      "type": "ARTERIA",
+      "start": 2150,
+      "end": 2170
+    },
+    {
+      "text": "sin estenosis significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1574,
+      "end": 1601
+    },
+    {
+      "text": "No se identifican signos de hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 586,
+      "end": 637
+    },
+    {
+      "text": "No se observan signos de edema significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 920,
+      "end": 964
+    },
+    {
+      "text": "No se detectan hemorragias ni trombosis arterial intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2001,
+      "end": 2062
+    },
+    {
+      "text": "prolongación de los tiempos de perfusión",
+      "type": "PATOLOGIA",
+      "start": 1175,
+      "end": 1215
+    },
+    {
+      "text": "reducción del flujo sanguíneo cerebral (CBF)",
+      "type": "PATOLOGIA",
+      "start": 1218,
+      "end": 1262
+    },
+    {
+      "text": "sin defectos de repleción",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1706,
+      "end": 1731
+    },
+    {
+      "text": "sin estenosis ni oclusiones",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1782,
+      "end": 1809
+    }
+  ]
+}

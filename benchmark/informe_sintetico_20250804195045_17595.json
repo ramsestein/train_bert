@@ -1,0 +1,71 @@
+{
+  "document_id": "informe_sintetico_20250804195045_17595",
+  "entities": [
+    {
+      "text": "hemorragia aguda",
+      "type": "PATOLOGIA",
+      "start": 425,
+      "end": 441
+    },
+    {
+      "text": "hemorragia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 425,
+      "end": 435
+    },
+    {
+      "text": "isquémicas agudas",
+      "type": "PATOLOGIA",
+      "start": 642,
+      "end": 659
+    },
+    {
+      "text": "ASPECTS 10/10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 598,
+      "end": 611
+    },
+    {
+      "text": "cambios crónicos microangiopáticos",
+      "type": "PATOLOGIA",
+      "start": 736,
+      "end": 770
+    },
+    {
+      "text": "sin repercusión aguda",
+      "type": "PATOLOGIA",
+      "start": 771,
+      "end": 792
+    },
+    {
+      "text": "TTP, CBV, CBF",
+      "type": "TECNICA_IMAGEN",
+      "start": 943,
+      "end": 956
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 1017,
+      "end": 1031
+    },
+    {
+      "text": "ACAs, ACMs y ACPs",
+      "type": "ARTERIA",
+      "start": 1147,
+      "end": 1164
+    },
+    {
+      "text": "sin estenosis ni oclusiones evidentes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1178,
+      "end": 1215
+    },
+    {
+      "text": "sin estenosis significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1626,
+      "end": 1654
+    }
+  ]
+}

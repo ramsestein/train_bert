@@ -1,0 +1,239 @@
+{
+  "document_id": "informe_sintetico_20250804195045_22300",
+  "entities": [
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 189,
+      "end": 203
+    },
+    {
+      "text": "territorio vertebrobasilar",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 207,
+      "end": 233
+    },
+    {
+      "text": "diplopía",
+      "type": "PATOLOGIA",
+      "start": 245,
+      "end": 253
+    },
+    {
+      "text": "ataxia",
+      "type": "PATOLOGIA",
+      "start": 256,
+      "end": 262
+    },
+    {
+      "text": "hemorragia aguda intra o extraaxial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 476,
+      "end": 511
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 589,
+      "end": 599
+    },
+    {
+      "text": "infartos establecidos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 622,
+      "end": 643
+    },
+    {
+      "text": "territorio vertebrobasilar",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 207,
+      "end": 233
+    },
+    {
+      "text": "tronco cerebral",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 950,
+      "end": 965
+    },
+    {
+      "text": "cerebelo hemisférico izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 968,
+      "end": 998
+    },
+    {
+      "text": "hipoperfusión",
+      "type": "PATOLOGIA",
+      "start": 1015,
+      "end": 1028
+    },
+    {
+      "text": "CBF",
+      "type": "MEDIDA",
+      "start": 1030,
+      "end": 1033
+    },
+    {
+      "text": "CBV",
+      "type": "MEDIDA",
+      "start": 1063,
+      "end": 1066
+    },
+    {
+      "text": "flujo sanguíneo cerebral",
+      "type": "MEDIDA",
+      "start": 1035,
+      "end": 1059
+    },
+    {
+      "text": "volumen sanguíneo cerebral",
+      "type": "MEDIDA",
+      "start": 1068,
+      "end": 1094
+    },
+    {
+      "text": "tejido en riesgo",
+      "type": "PATOLOGIA",
+      "start": 1137,
+      "end": 1153
+    },
+    {
+      "text": "penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1164,
+      "end": 1182
+    },
+    {
+      "text": "segmento intradural de la arteria vertebral izquierda (V4)",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1238,
+      "end": 1296
+    },
+    {
+      "text": "colaterales compensatorias",
+      "type": "PATOLOGIA",
+      "start": 1301,
+      "end": 1327
+    },
+    {
+      "text": "Arteria basilar",
+      "type": "ARTERIA",
+      "start": 1329,
+      "end": 1344
+    },
+    {
+      "text": "flujo reducido proximalmente",
+      "type": "PATOLOGIA",
+      "start": 1349,
+      "end": 1377
+    },
+    {
+      "text": "permeable distalmente",
+      "type": "PATOLOGIA",
+      "start": 1384,
+      "end": 1405
+    },
+    {
+      "text": "estenosis significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1419,
+      "end": 1442
+    },
+    {
+      "text": "arterias carótidas internas",
+      "type": "ARTERIA",
+      "start": 1446,
+      "end": 1473
+    },
+    {
+      "text": "principales ramas intracraneales (ACAs, ACMs y ACPs)",
+      "type": "ARTERIA",
+      "start": 1476,
+      "end": 1528
+    },
+    {
+      "text": "Arteria vertebral derecha",
+      "type": "ARTERIA",
+      "start": 1530,
+      "end": 1555
+    },
+    {
+      "text": "dominante",
+      "type": "LATERALIDAD",
+      "start": 1556,
+      "end": 1565
+    },
+    {
+      "text": "permeable",
+      "type": "PATOLOGIA",
+      "start": 1384,
+      "end": 1393
+    },
+    {
+      "text": "sin placas ateromatosas significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1578,
+      "end": 1616
+    },
+    {
+      "text": "aneurismas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1635,
+      "end": 1645
+    },
+    {
+      "text": "malformaciones vasculares",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1649,
+      "end": 1674
+    },
+    {
+      "text": "Isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 1700,
+      "end": 1714
+    },
+    {
+      "text": "territorio vertebrobasilar",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 207,
+      "end": 233
+    },
+    {
+      "text": "hipoperfusión en región troncoencefálica y cerebelosa izquierda",
+      "type": "PATOLOGIA",
+      "start": 1750,
+      "end": 1813
+    },
+    {
+      "text": "oclusión de arteria vertebral izquierda intradural",
+      "type": "PATOLOGIA",
+      "start": 1827,
+      "end": 1877
+    },
+    {
+      "text": "hemorragia aguda",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 476,
+      "end": 492
+    },
+    {
+      "text": "infartos establecidos en cortes iniciales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1902,
+      "end": 1943
+    },
+    {
+      "text": "oclusión de arteria vertebral izquierda",
+      "type": "PATOLOGIA",
+      "start": 1827,
+      "end": 1866
+    },
+    {
+      "text": "permeabilidad del resto del sistema arterial intracraneal",
+      "type": "PATOLOGIA",
+      "start": 2004,
+      "end": 2061
+    }
+  ]
+}

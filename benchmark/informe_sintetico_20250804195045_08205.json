@@ -1,0 +1,71 @@
+{
+  "document_id": "informe_sintetico_20250804195045_08205",
+  "entities": [
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 504,
+      "end": 518
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 458,
+      "end": 488
+    },
+    {
+      "text": "ACM",
+      "type": "ARTERIA",
+      "start": 1085,
+      "end": 1088
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 481,
+      "end": 488
+    },
+    {
+      "text": "10 mm",
+      "type": "MEDIDA",
+      "start": 690,
+      "end": 695
+    },
+    {
+      "text": "aguda",
+      "type": "TEMPORALIDAD",
+      "start": 513,
+      "end": 518
+    },
+    {
+      "text": "ASPECTS 7",
+      "type": "PUNTUACION_CLINICA",
+      "start": 586,
+      "end": 595
+    },
+    {
+      "text": "TC craneal sin contraste + TC perfusión cerebral + angiografía por angio-TC intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 276,
+      "end": 364
+    },
+    {
+      "text": "No se visualizan hemorragias extraaxiales ni hematomas parenquimatosos mayores",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 792,
+      "end": 870
+    },
+    {
+      "text": "No se observan estenosis significativas ni aneurismas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1371,
+      "end": 1424
+    },
+    {
+      "text": "No hemorragia extraaxial ni complicaciones intracraneales adicionales evidentes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1681,
+      "end": 1760
+    }
+  ]
+}

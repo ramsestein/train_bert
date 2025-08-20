@@ -1,0 +1,71 @@
+{
+  "document_id": "informe_sintetico_20250804195045_20411",
+  "entities": [
+    {
+      "text": "hematoma subdural agudo",
+      "type": "PATOLOGIA",
+      "start": 603,
+      "end": 626
+    },
+    {
+      "text": "región convexital hemisférica derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 507,
+      "end": 544
+    },
+    {
+      "text": "12 mm",
+      "type": "MEDIDA",
+      "start": 581,
+      "end": 586
+    },
+    {
+      "text": "5 mm",
+      "type": "MEDIDA",
+      "start": 738,
+      "end": 742
+    },
+    {
+      "text": "agudo",
+      "type": "TEMPORALIDAD",
+      "start": 621,
+      "end": 626
+    },
+    {
+      "text": "discreto desplazamiento de la línea media hacia la izquierda",
+      "type": "PATOLOGIA",
+      "start": 664,
+      "end": 724
+    },
+    {
+      "text": "hipoperfusión",
+      "type": "PATOLOGIA",
+      "start": 1302,
+      "end": 1315
+    },
+    {
+      "text": "sin evidencias de estenosis ni trombosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1446,
+      "end": 1486
+    },
+    {
+      "text": "sin signos de hidrocefalia obstructiva",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1002,
+      "end": 1040
+    },
+    {
+      "text": "TC craneal basal urgente",
+      "type": "TECNICA_IMAGEN",
+      "start": 273,
+      "end": 297
+    },
+    {
+      "text": "angio-TC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 384,
+      "end": 414
+    }
+  ]
+}

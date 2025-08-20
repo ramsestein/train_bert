@@ -1,0 +1,65 @@
+{
+  "document_id": "informe_sintetico_20250804195045_07770",
+  "entities": [
+    {
+      "text": "hematoma intraparenquimatoso",
+      "type": "PATOLOGIA",
+      "start": 427,
+      "end": 455
+    },
+    {
+      "text": "putaminal derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 472,
+      "end": 489
+    },
+    {
+      "text": "35 mm",
+      "type": "MEDIDA",
+      "start": 510,
+      "end": 515
+    },
+    {
+      "text": "cápsula interna",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 559,
+      "end": 574
+    },
+    {
+      "text": "6 mm",
+      "type": "MEDIDA",
+      "start": 712,
+      "end": 716
+    },
+    {
+      "text": "6 mm",
+      "type": "MEDIDA",
+      "start": 712,
+      "end": 716
+    },
+    {
+      "text": "hemorragia subaracnoidea o extraaxial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1819,
+      "end": 1856
+    },
+    {
+      "text": "TC craneal basal inmediato",
+      "type": "TECNICA_IMAGEN",
+      "start": 278,
+      "end": 304
+    },
+    {
+      "text": "perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 307,
+      "end": 325
+    },
+    {
+      "text": "angio-TC arterial intra y extracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 328,
+      "end": 366
+    }
+  ]
+}

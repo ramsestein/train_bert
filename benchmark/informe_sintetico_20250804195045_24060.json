@@ -1,0 +1,65 @@
+{
+  "document_id": "informe_sintetico_20250804195045_24060",
+  "entities": [
+    {
+      "text": "infarto lacunar",
+      "type": "PATOLOGIA",
+      "start": 263,
+      "end": 278
+    },
+    {
+      "text": "núcleo lenticular izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 542,
+      "end": 569
+    },
+    {
+      "text": "8 mm",
+      "type": "MEDIDA",
+      "start": 590,
+      "end": 594
+    },
+    {
+      "text": "agudo",
+      "type": "TEMPORALIDAD",
+      "start": 627,
+      "end": 632
+    },
+    {
+      "text": "infarto lacunar",
+      "type": "PATOLOGIA",
+      "start": 263,
+      "end": 278
+    },
+    {
+      "text": "aguda",
+      "type": "TEMPORALIDAD",
+      "start": 1024,
+      "end": 1029
+    },
+    {
+      "text": "Arterias cerebrales principales",
+      "type": "ARTERIA",
+      "start": 1057,
+      "end": 1088
+    },
+    {
+      "text": "sin estenosis ni oclusiones visibles",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1101,
+      "end": 1137
+    },
+    {
+      "text": "sin hemorragia asociada",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1381,
+      "end": 1404
+    },
+    {
+      "text": "sin signos de estenosis ni trombosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1513,
+      "end": 1549
+    }
+  ]
+}

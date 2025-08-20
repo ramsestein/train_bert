@@ -1,0 +1,89 @@
+{
+  "document_id": "informe_sintetico_20250804195045_14256",
+  "entities": [
+    {
+      "text": "accidente cerebrovascular isquémico agudo",
+      "type": "PATOLOGIA",
+      "start": 189,
+      "end": 230
+    },
+    {
+      "text": "infarto isquémico en evolución",
+      "type": "PATOLOGIA",
+      "start": 530,
+      "end": 560
+    },
+    {
+      "text": "transformación hemorrágica tipo HI2",
+      "type": "PATOLOGIA",
+      "start": 667,
+      "end": 702
+    },
+    {
+      "text": "hemorragia subaracnoidea",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 731,
+      "end": 755
+    },
+    {
+      "text": "hematomas extraaxiales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 759,
+      "end": 781
+    },
+    {
+      "text": "ASPECTS 7",
+      "type": "PUNTUACION_CLINICA",
+      "start": 859,
+      "end": 868
+    },
+    {
+      "text": "3 mm",
+      "type": "MEDIDA",
+      "start": 895,
+      "end": 899
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "ARTERIA",
+      "start": 482,
+      "end": 514
+    },
+    {
+      "text": "M1",
+      "type": "ARTERIA",
+      "start": 1359,
+      "end": 1361
+    },
+    {
+      "text": "zona de penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1249,
+      "end": 1275
+    },
+    {
+      "text": "Oclusión proximal de ACM izquierda",
+      "type": "PATOLOGIA",
+      "start": 1724,
+      "end": 1758
+    },
+    {
+      "text": "TC craneal basal sin contraste",
+      "type": "TECNICA_IMAGEN",
+      "start": 295,
+      "end": 325
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 328,
+      "end": 349
+    },
+    {
+      "text": "Angio-TC arterial intracraneal urgente",
+      "type": "TECNICA_IMAGEN",
+      "start": 352,
+      "end": 390
+    }
+  ]
+}

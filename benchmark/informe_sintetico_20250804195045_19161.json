@@ -1,0 +1,101 @@
+{
+  "document_id": "informe_sintetico_20250804195045_19161",
+  "entities": [
+    {
+      "text": "lesiones isquémicas agudas",
+      "type": "PATOLOGIA",
+      "start": 506,
+      "end": 532
+    },
+    {
+      "text": "hemorragias",
+      "type": "PATOLOGIA",
+      "start": 536,
+      "end": 547
+    },
+    {
+      "text": "cambios atróficos crónicos",
+      "type": "PATOLOGIA",
+      "start": 753,
+      "end": 779
+    },
+    {
+      "text": "cambios isquémicos crónicos de pequeña vaso",
+      "type": "PATOLOGIA",
+      "start": 935,
+      "end": 978
+    },
+    {
+      "text": "focos de sangrado",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 998,
+      "end": 1015
+    },
+    {
+      "text": "edema cerebral",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1019,
+      "end": 1033
+    },
+    {
+      "text": "ACM",
+      "type": "ARTERIA",
+      "start": 1204,
+      "end": 1207
+    },
+    {
+      "text": "ACA",
+      "type": "ARTERIA",
+      "start": 1209,
+      "end": 1212
+    },
+    {
+      "text": "ACP",
+      "type": "ARTERIA",
+      "start": 1214,
+      "end": 1217
+    },
+    {
+      "text": "sistema vertebrobasilar",
+      "type": "ARTERIA",
+      "start": 1220,
+      "end": 1243
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 1383,
+      "end": 1393
+    },
+    {
+      "text": "TC craneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 342,
+      "end": 352
+    },
+    {
+      "text": "angiografía intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 403,
+      "end": 427
+    },
+    {
+      "text": "angiografía intracraneal por angio-TC",
+      "type": "TECNICA_IMAGEN",
+      "start": 403,
+      "end": 440
+    },
+    {
+      "text": "ventriculos laterales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 715,
+      "end": 736
+    },
+    {
+      "text": "sustancia blanca periventricular",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 888,
+      "end": 920
+    }
+  ]
+}

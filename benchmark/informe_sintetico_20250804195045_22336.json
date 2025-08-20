@@ -1,0 +1,125 @@
+{
+  "document_id": "informe_sintetico_20250804195045_22336",
+  "entities": [
+    {
+      "text": "ictus isquémico",
+      "type": "PATOLOGIA",
+      "start": 236,
+      "end": 251
+    },
+    {
+      "text": "hemorragias agudas",
+      "type": "PATOLOGIA",
+      "start": 434,
+      "end": 452
+    },
+    {
+      "text": "sangrado subaracnoideo",
+      "type": "PATOLOGIA",
+      "start": 466,
+      "end": 488
+    },
+    {
+      "text": "ASPECTS 9/10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 540,
+      "end": 552
+    },
+    {
+      "text": "edema significativo",
+      "type": "PATOLOGIA",
+      "start": 664,
+      "end": 683
+    },
+    {
+      "text": "prolongación del tiempo de tránsito medio (TTM)",
+      "type": "PATOLOGIA",
+      "start": 715,
+      "end": 762
+    },
+    {
+      "text": "aumento del tiempo hasta el pico (TTP)",
+      "type": "PATOLOGIA",
+      "start": 765,
+      "end": 803
+    },
+    {
+      "text": "disminución leve a moderada del flujo sanguíneo cerebral (CBF)",
+      "type": "PATOLOGIA",
+      "start": 896,
+      "end": 958
+    },
+    {
+      "text": "volumen sanguíneo cerebral (CBV) preservado",
+      "type": "PATOLOGIA",
+      "start": 961,
+      "end": 1004
+    },
+    {
+      "text": "penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1029,
+      "end": 1047
+    },
+    {
+      "text": "Oclusión segmentaria",
+      "type": "PATOLOGIA",
+      "start": 1086,
+      "end": 1106
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "ARTERIA",
+      "start": 1133,
+      "end": 1165
+    },
+    {
+      "text": "M2",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 884,
+      "end": 886
+    },
+    {
+      "text": "ACM M1",
+      "type": "ARTERIA",
+      "start": 1188,
+      "end": 1194
+    },
+    {
+      "text": "ACA",
+      "type": "ARTERIA",
+      "start": 1196,
+      "end": 1199
+    },
+    {
+      "text": "ACP",
+      "type": "ARTERIA",
+      "start": 1202,
+      "end": 1205
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 863,
+      "end": 872
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 863,
+      "end": 872
+    },
+    {
+      "text": "aguda",
+      "type": "TEMPORALIDAD",
+      "start": 446,
+      "end": 451
+    },
+    {
+      "text": "No hemorragia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1640,
+      "end": 1653
+    }
+  ]
+}

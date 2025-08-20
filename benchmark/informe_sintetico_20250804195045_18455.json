@@ -1,0 +1,83 @@
+{
+  "document_id": "informe_sintetico_20250804195045_18455",
+  "entities": [
+    {
+      "text": "ictus isquémico agudo",
+      "type": "PATOLOGIA",
+      "start": 267,
+      "end": 288
+    },
+    {
+      "text": "segmento proximal M1",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 526,
+      "end": 546
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "ARTERIA",
+      "start": 553,
+      "end": 585
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 576,
+      "end": 585
+    },
+    {
+      "text": "ASPECTS 6",
+      "type": "PUNTUACION_CLINICA",
+      "start": 1715,
+      "end": 1724
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 788,
+      "end": 811
+    },
+    {
+      "text": "disminución significativa del flujo cerebral",
+      "type": "PATOLOGIA",
+      "start": 1012,
+      "end": 1056
+    },
+    {
+      "text": "ACM izquierda",
+      "type": "ARTERIA",
+      "start": 1141,
+      "end": 1154
+    },
+    {
+      "text": "mismatch sugestivo de área en penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1276,
+      "end": 1324
+    },
+    {
+      "text": "sin estenosis ni oclusiones",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1467,
+      "end": 1494
+    },
+    {
+      "text": "área de penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 2155,
+      "end": 2181
+    },
+    {
+      "text": "ausencia de sangrado intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2184,
+      "end": 2217
+    },
+    {
+      "text": "Oclusión arterial proximal izquierda (M1) de la ACM",
+      "type": "PATOLOGIA",
+      "start": 2331,
+      "end": 2382
+    }
+  ]
+}

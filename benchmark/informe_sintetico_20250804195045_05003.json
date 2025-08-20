@@ -1,0 +1,113 @@
+{
+  "document_id": "informe_sintetico_20250804195045_05003",
+  "entities": [
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 271,
+      "end": 285
+    },
+    {
+      "text": "protuberancia",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 720,
+      "end": 733
+    },
+    {
+      "text": "mesencéfalo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 742,
+      "end": 753
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 271,
+      "end": 285
+    },
+    {
+      "text": "territorio vertebrobasilar",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 289,
+      "end": 315
+    },
+    {
+      "text": "Oclusión subtotal o estenosis crítica (>90%)",
+      "type": "PATOLOGIA",
+      "start": 1526,
+      "end": 1570
+    },
+    {
+      "text": "arteria basilar proximal",
+      "type": "ARTERIA",
+      "start": 1577,
+      "end": 1601
+    },
+    {
+      "text": "Sistema vertebral dominante derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1605,
+      "end": 1640
+    },
+    {
+      "text": "estenosis significativa (>70%)",
+      "type": "PATOLOGIA",
+      "start": 1645,
+      "end": 1675
+    },
+    {
+      "text": "arteria vertebral derecha",
+      "type": "ARTERIA",
+      "start": 2440,
+      "end": 2465
+    },
+    {
+      "text": "No se observa hemorragia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 535,
+      "end": 559
+    },
+    {
+      "text": "No hay edema masivo ni efecto de masa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 855,
+      "end": 892
+    },
+    {
+      "text": "No se identifican grandes defectos de repleción",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1747,
+      "end": 1794
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 667,
+      "end": 677
+    },
+    {
+      "text": "volumen cerebral (CBV)",
+      "type": "MEDIDA",
+      "start": 1260,
+      "end": 1282
+    },
+    {
+      "text": "estenosis crítica en arteria basilar proximal",
+      "type": "PATOLOGIA",
+      "start": 2365,
+      "end": 2410
+    },
+    {
+      "text": "estenosis significativa en arteria vertebral derecha",
+      "type": "PATOLOGIA",
+      "start": 2413,
+      "end": 2465
+    },
+    {
+      "text": "TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANG IOTC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 72,
+      "end": 140
+    }
+  ]
+}

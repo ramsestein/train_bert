@@ -1,0 +1,131 @@
+{
+  "document_id": "informe_sintetico_20250804195045_07050",
+  "entities": [
+    {
+      "text": "hipertensión arterial mal controlada",
+      "type": "PATOLOGIA",
+      "start": 179,
+      "end": 215
+    },
+    {
+      "text": "cefalea intensa",
+      "type": "PATOLOGIA",
+      "start": 228,
+      "end": 243
+    },
+    {
+      "text": "visión borrosa",
+      "type": "PATOLOGIA",
+      "start": 245,
+      "end": 259
+    },
+    {
+      "text": "crisis hipertensiva",
+      "type": "PATOLOGIA",
+      "start": 262,
+      "end": 281
+    },
+    {
+      "text": "áreas bilaterales, simétricas, de hipodensidad",
+      "type": "PATOLOGIA",
+      "start": 479,
+      "end": 525
+    },
+    {
+      "text": "regiones occipitales y parietales posteriores",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 529,
+      "end": 574
+    },
+    {
+      "text": "sustancia blanca subcortical",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 597,
+      "end": 625
+    },
+    {
+      "text": "infarto isquémico agudo",
+      "type": "PATOLOGIA",
+      "start": 712,
+      "end": 735
+    },
+    {
+      "text": "signos de hemorragia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 755,
+      "end": 775
+    },
+    {
+      "text": "edema vasogénico marcado",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 779,
+      "end": 803
+    },
+    {
+      "text": "aumento en el tiempo de tránsito medio (MTT)",
+      "type": "MEDIDA",
+      "start": 847,
+      "end": 891
+    },
+    {
+      "text": "caída significativa del flujo cerebral regional",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 896,
+      "end": 943
+    },
+    {
+      "text": "estenosis ni oclusiones en los principales vasos cerebrales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1039,
+      "end": 1098
+    },
+    {
+      "text": "vasos del polígono de Willis",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1104,
+      "end": 1132
+    },
+    {
+      "text": "sin signos de vasculitis ni vasoespasmo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1160,
+      "end": 1199
+    },
+    {
+      "text": "leucoencefalopatía posterior reversible (PRES)",
+      "type": "PATOLOGIA",
+      "start": 1250,
+      "end": 1296
+    },
+    {
+      "text": "edema vasogénico en regiones parieto-occipitales bilaterales",
+      "type": "PATOLOGIA",
+      "start": 1316,
+      "end": 1376
+    },
+    {
+      "text": "infarto isquémico ni hemorragia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1394,
+      "end": 1425
+    },
+    {
+      "text": "RM cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 1548,
+      "end": 1559
+    },
+    {
+      "text": "Vasos intracraneales permeables",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1949,
+      "end": 1980
+    },
+    {
+      "text": "sin estenosis ni signos de vasculopatía",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1982,
+      "end": 2021
+    }
+  ]
+}

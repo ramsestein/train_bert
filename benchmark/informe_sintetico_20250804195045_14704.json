@@ -1,0 +1,101 @@
+{
+  "document_id": "informe_sintetico_20250804195045_14704",
+  "entities": [
+    {
+      "text": "hemorragia aguda",
+      "type": "PATOLOGIA",
+      "start": 381,
+      "end": 397
+    },
+    {
+      "text": "infarto reciente",
+      "type": "PATOLOGIA",
+      "start": 401,
+      "end": 417
+    },
+    {
+      "text": "isquemia",
+      "type": "PATOLOGIA",
+      "start": 551,
+      "end": 559
+    },
+    {
+      "text": "ASPECTS 10/10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 694,
+      "end": 707
+    },
+    {
+      "text": "leucoaraiosis incipiente",
+      "type": "PATOLOGIA",
+      "start": 748,
+      "end": 772
+    },
+    {
+      "text": "hipoperfusión",
+      "type": "PATOLOGIA",
+      "start": 845,
+      "end": 858
+    },
+    {
+      "text": "retraso en el tiempo de tránsito",
+      "type": "PATOLOGIA",
+      "start": 861,
+      "end": 893
+    },
+    {
+      "text": "ACA",
+      "type": "ARTERIA",
+      "start": 1268,
+      "end": 1271
+    },
+    {
+      "text": "ACM",
+      "type": "ARTERIA",
+      "start": 1273,
+      "end": 1276
+    },
+    {
+      "text": "ACP",
+      "type": "ARTERIA",
+      "start": 1279,
+      "end": 1282
+    },
+    {
+      "text": "sistema vertebrobasilar",
+      "type": "ARTERIA",
+      "start": 1286,
+      "end": 1309
+    },
+    {
+      "text": "placas ateromatosas significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1329,
+      "end": 1363
+    },
+    {
+      "text": "calibre arterial alterados",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1378,
+      "end": 1404
+    },
+    {
+      "text": "imagen cerebral normal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1454,
+      "end": 1476
+    },
+    {
+      "text": "signos de patología aguda",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1481,
+      "end": 1506
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 694,
+      "end": 704
+    }
+  ]
+}

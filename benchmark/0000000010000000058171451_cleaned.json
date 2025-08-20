@@ -1,0 +1,59 @@
+{
+  "document_id": "0000000010000000058171451_cleaned",
+  "entities": [
+    {
+      "text": "alteraciones en los mapas de perfusión",
+      "type": "PATOLOGIA",
+      "start": 234,
+      "end": 272
+    },
+    {
+      "text": "retraso en el tiempo",
+      "type": "PATOLOGIA",
+      "start": 277,
+      "end": 297
+    },
+    {
+      "text": "caída de flujo y volumen",
+      "type": "PATOLOGIA",
+      "start": 300,
+      "end": 324
+    },
+    {
+      "text": "hemisferio derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 342,
+      "end": 360
+    },
+    {
+      "text": "hematoma",
+      "type": "PATOLOGIA",
+      "start": 410,
+      "end": 418
+    },
+    {
+      "text": "isquemia",
+      "type": "PATOLOGIA",
+      "start": 454,
+      "end": 462
+    },
+    {
+      "text": "vasoespasmo",
+      "type": "PATOLOGIA",
+      "start": 463,
+      "end": 474
+    },
+    {
+      "text": "Sin signos evidentes de alteración de perfusión correspondiente a vasoespasmo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 534,
+      "end": 611
+    },
+    {
+      "text": "TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANG IOTC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 72,
+      "end": 140
+    }
+  ]
+}

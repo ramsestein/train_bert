@@ -1,0 +1,35 @@
+{
+  "document_id": "0000000010000000061265748_cleaned",
+  "entities": [
+    {
+      "text": "ACMI-M1d",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 205,
+      "end": 213
+    },
+    {
+      "text": "TC",
+      "type": "TECNICA_IMAGEN",
+      "start": 72,
+      "end": 74
+    },
+    {
+      "text": "12 horas",
+      "type": "TEMPORALIDAD",
+      "start": 436,
+      "end": 444
+    },
+    {
+      "text": "hemorragia aguda intra o extraaxial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 466,
+      "end": 501
+    },
+    {
+      "text": "no transformación hemorrágica",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 503,
+      "end": 532
+    }
+  ]
+}

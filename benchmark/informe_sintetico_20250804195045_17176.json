@@ -1,0 +1,125 @@
+{
+  "document_id": "informe_sintetico_20250804195045_17176",
+  "entities": [
+    {
+      "text": "infarto cerebral",
+      "type": "PATOLOGIA",
+      "start": 321,
+      "end": 337
+    },
+    {
+      "text": "zonas límite",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 341,
+      "end": 353
+    },
+    {
+      "text": "watershed",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 356,
+      "end": 365
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 583,
+      "end": 606
+    },
+    {
+      "text": "hipodensidad subcortical",
+      "type": "PATOLOGIA",
+      "start": 632,
+      "end": 656
+    },
+    {
+      "text": "regiones corticales frontoparietales bilaterales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 660,
+      "end": 708
+    },
+    {
+      "text": "zonas de watershed",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 731,
+      "end": 749
+    },
+    {
+      "text": "arterias cerebrales anterior y media",
+      "type": "ARTERIA",
+      "start": 775,
+      "end": 811
+    },
+    {
+      "text": "bilaterales",
+      "type": "LATERALIDAD",
+      "start": 697,
+      "end": 708
+    },
+    {
+      "text": "tiempo de tránsito medio (TTM)",
+      "type": "MEDIDA",
+      "start": 977,
+      "end": 1007
+    },
+    {
+      "text": "tiempo hasta el pico (TTP)",
+      "type": "MEDIDA",
+      "start": 1010,
+      "end": 1036
+    },
+    {
+      "text": "disminución moderada del flujo cerebral (CBF)",
+      "type": "PATOLOGIA",
+      "start": 1096,
+      "end": 1141
+    },
+    {
+      "text": "volumen cerebral (CBV) relativamente conservado",
+      "type": "MEDIDA",
+      "start": 1144,
+      "end": 1191
+    },
+    {
+      "text": "hipoperfusión",
+      "type": "PATOLOGIA",
+      "start": 1212,
+      "end": 1225
+    },
+    {
+      "text": "sin oclusiones ni estenosis hemodinámicamente significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1340,
+      "end": 1400
+    },
+    {
+      "text": "sin alteraciones",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1503,
+      "end": 1519
+    },
+    {
+      "text": "sin evidencia de hemorragia ni oclusión arterial mayor",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1734,
+      "end": 1788
+    },
+    {
+      "text": "infarto cerebral en zonas watershed frontoparietales bilaterales",
+      "type": "PATOLOGIA",
+      "start": 1640,
+      "end": 1704
+    },
+    {
+      "text": "hipoperfusión",
+      "type": "PATOLOGIA",
+      "start": 1212,
+      "end": 1225
+    },
+    {
+      "text": "sin oclusión arterial mayor identificada",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2336,
+      "end": 2376
+    }
+  ]
+}

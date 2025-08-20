@@ -1,0 +1,239 @@
+{
+  "document_id": "informe_sintetico_20250804195045_22968",
+  "entities": [
+    {
+      "text": "hemiparesia izquierda",
+      "type": "PATOLOGIA",
+      "start": 183,
+      "end": 204
+    },
+    {
+      "text": "aphasia",
+      "type": "PATOLOGIA",
+      "start": 207,
+      "end": 214
+    },
+    {
+      "text": "ictus isquémico",
+      "type": "PATOLOGIA",
+      "start": 236,
+      "end": 251
+    },
+    {
+      "text": "arteria cerebral media",
+      "type": "ARTERIA",
+      "start": 269,
+      "end": 291
+    },
+    {
+      "text": "TC craneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 312,
+      "end": 322
+    },
+    {
+      "text": "perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 344,
+      "end": 362
+    },
+    {
+      "text": "angioTC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 391,
+      "end": 420
+    },
+    {
+      "text": "hemorragias intra o extraaxiales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 509,
+      "end": 541
+    },
+    {
+      "text": "hipoatenuación cortical",
+      "type": "PATOLOGIA",
+      "start": 650,
+      "end": 673
+    },
+    {
+      "text": "edema cerebral temprano",
+      "type": "PATOLOGIA",
+      "start": 760,
+      "end": 783
+    },
+    {
+      "text": "lesión isquémica establecida extensa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 810,
+      "end": 846
+    },
+    {
+      "text": "ASPECTS 9",
+      "type": "PUNTUACION_CLINICA",
+      "start": 848,
+      "end": 857
+    },
+    {
+      "text": "oclusión en segmento distal de la arteria cerebral media derecha",
+      "type": "PATOLOGIA",
+      "start": 900,
+      "end": 964
+    },
+    {
+      "text": "rama M2 superior",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 966,
+      "end": 982
+    },
+    {
+      "text": "ausencia de opacificación del territorio cortical correspondiente",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 988,
+      "end": 1053
+    },
+    {
+      "text": "vasos adyacentes",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1059,
+      "end": 1075
+    },
+    {
+      "text": "signos de estenosis significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1102,
+      "end": 1136
+    },
+    {
+      "text": "aneurismas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1156,
+      "end": 1166
+    },
+    {
+      "text": "malformaciones arterio-venosas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1170,
+      "end": 1200
+    },
+    {
+      "text": "aumento del tiempo de tránsito medio (MTT)",
+      "type": "PATOLOGIA",
+      "start": 1240,
+      "end": 1282
+    },
+    {
+      "text": "disminución del flujo cerebral (CBF)",
+      "type": "PATOLOGIA",
+      "start": 1285,
+      "end": 1321
+    },
+    {
+      "text": "territorio distal derecho de la ACM en territorio M2/M3",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1339,
+      "end": 1394
+    },
+    {
+      "text": "volumen cerebral (CBV) preservado",
+      "type": "PATOLOGIA",
+      "start": 1400,
+      "end": 1433
+    },
+    {
+      "text": "penumbra isquémica importante",
+      "type": "PATOLOGIA",
+      "start": 1453,
+      "end": 1482
+    },
+    {
+      "text": "tejido potencialmente salvable",
+      "type": "PATOLOGIA",
+      "start": 1485,
+      "end": 1515
+    },
+    {
+      "text": "Isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 1542,
+      "end": 1556
+    },
+    {
+      "text": "territorio de la arteria cerebral media derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1560,
+      "end": 1607
+    },
+    {
+      "text": "rama distal M2/M3",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1609,
+      "end": 1626
+    },
+    {
+      "text": "oclusión vascular activa",
+      "type": "PATOLOGIA",
+      "start": 1645,
+      "end": 1669
+    },
+    {
+      "text": "área de penumbra isquémica significativa",
+      "type": "PATOLOGIA",
+      "start": 1685,
+      "end": 1725
+    },
+    {
+      "text": "ASPECTS 9",
+      "type": "PUNTUACION_CLINICA",
+      "start": 848,
+      "end": 857
+    },
+    {
+      "text": "infarto establecido amplio",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1743,
+      "end": 1769
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1773,
+      "end": 1796
+    },
+    {
+      "text": "Oclusión arterial distal M2 derecha",
+      "type": "PATOLOGIA",
+      "start": 2072,
+      "end": 2107
+    },
+    {
+      "text": "área de penumbra isquémica en territorio cortical",
+      "type": "PATOLOGIA",
+      "start": 2112,
+      "end": 2161
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1773,
+      "end": 1796
+    },
+    {
+      "text": "infarto establecido extenso",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2194,
+      "end": 2221
+    },
+    {
+      "text": "Oclusión distal de ACM M2 derecha",
+      "type": "PATOLOGIA",
+      "start": 2335,
+      "end": 2368
+    },
+    {
+      "text": "afectación cortical limitada",
+      "type": "PATOLOGIA",
+      "start": 2373,
+      "end": 2401
+    }
+  ]
+}

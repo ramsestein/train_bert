@@ -1,0 +1,235 @@
+{
+  "document_id": "informe_sintetico_20250804195045_04572",
+  "entities": [
+    {
+      "text": "episodios transitorios de debilidad fascial",
+      "type": "PATOLOGIA",
+      "start": 179,
+      "end": 222
+    },
+    {
+      "text": "alteración de la sensibilidad",
+      "type": "PATOLOGIA",
+      "start": 225,
+      "end": 254
+    },
+    {
+      "text": "déficit neurológico persistente",
+      "type": "PATOLOGIA",
+      "start": 259,
+      "end": 290
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 310,
+      "end": 326
+    },
+    {
+      "text": "perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 336,
+      "end": 354
+    },
+    {
+      "text": "angio-TC intra e intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 357,
+      "end": 386
+    },
+    {
+      "text": "hipodensidades agudas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 467,
+      "end": 488
+    },
+    {
+      "text": "signos de infarto cerebral",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 492,
+      "end": 518
+    },
+    {
+      "text": "córtico-subcortical",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 535,
+      "end": 554
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 567,
+      "end": 577
+    },
+    {
+      "text": "corteza cerebral",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 619,
+      "end": 635
+    },
+    {
+      "text": "surcos corticales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 666,
+      "end": 683
+    },
+    {
+      "text": "cambios crónicos",
+      "type": "PATOLOGIA",
+      "start": 701,
+      "end": 717
+    },
+    {
+      "text": "colecciones",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 734,
+      "end": 745
+    },
+    {
+      "text": "hemorragias intracraneales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 749,
+      "end": 775
+    },
+    {
+      "text": "Cisternas basales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 777,
+      "end": 794
+    },
+    {
+      "text": "simétrico",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 835,
+      "end": 844
+    },
+    {
+      "text": "morfología conservada",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 850,
+      "end": 871
+    },
+    {
+      "text": "dilatación",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 877,
+      "end": 887
+    },
+    {
+      "text": "Mapas de flujo cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 905,
+      "end": 928
+    },
+    {
+      "text": "volumen",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 930,
+      "end": 937
+    },
+    {
+      "text": "tiempo de tránsito",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 940,
+      "end": 958
+    },
+    {
+      "text": "áreas de perfusión alterada",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 991,
+      "end": 1018
+    },
+    {
+      "text": "mismatch significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1022,
+      "end": 1044
+    },
+    {
+      "text": "Arterias intracraneales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1078,
+      "end": 1101
+    },
+    {
+      "text": "signos de estenosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1106,
+      "end": 1125
+    },
+    {
+      "text": "placas ateromatosas significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1190,
+      "end": 1224
+    },
+    {
+      "text": "aneurismas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1244,
+      "end": 1254
+    },
+    {
+      "text": "malformaciones vasculares",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1258,
+      "end": 1283
+    },
+    {
+      "text": "Estudio normal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1309,
+      "end": 1323
+    },
+    {
+      "text": "patología isquémica aguda",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1341,
+      "end": 1366
+    },
+    {
+      "text": "hemorragia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 749,
+      "end": 759
+    },
+    {
+      "text": "cambios atróficos leves",
+      "type": "PATOLOGIA",
+      "start": 589,
+      "end": 612
+    },
+    {
+      "text": "prominencia de surcos corticales",
+      "type": "PATOLOGIA",
+      "start": 1408,
+      "end": 1440
+    },
+    {
+      "text": "alteraciones crónicas",
+      "type": "PATOLOGIA",
+      "start": 1457,
+      "end": 1478
+    },
+    {
+      "text": "repercusión actual",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1483,
+      "end": 1501
+    },
+    {
+      "text": "Perfusión cerebral normal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1503,
+      "end": 1528
+    },
+    {
+      "text": "estudio angiográfico sin hallazgos patológicos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1531,
+      "end": 1577
+    }
+  ],
+  "regenerado": true,
+  "fecha_regeneracion": "2025-08-06T03:44:15.539473"
+}

@@ -1,0 +1,30 @@
+UO_PACN (Unidad Organizativa Médica): RADIO
+
+PRUEB (Prueba solicitada): TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANG IOTC ARTERIAL INTRACRANEAL)
+
+CLIN (Resumen clínico): Mujer de 45 años con cefalea súbita intensa y rigidez de nuca. Sospecha clínica de hemorragia subaracnoidea. Se solicita estudio urgente para evaluación vascular y presencia de sangrado.
+
+OBSR (Protocolo): TC craneal sin contraste basal inmediatamente seguido de perfusión cerebral y angio TC arterial intracraneal, protocolo urgente (código ictus).
+
+RESL (Resultados):
+TC basal:
+Se evidencia en las cisternas basales, surcos de la convexidad y espacios silvianos una densa hiperdensidad heterogénea compatible con hemorragia subaracnoidea difusa. Se observan focos de sangrado en la cisterna supraselar, interpeduncular, y a lo largo de las cisternas perimesencefálicas, con extensión hacia los surcos corticales frontales y temporales. No se identifican hematomas intracerebrales ocupantes de espacio ni sangrado intraventricular. Las estructuras de la línea media permanecen centradas sin desplazamiento. No signos de herniación ni efecto masa significativo. Sistema ventricular de tamaño y forma normales.
+
+TC perfusión cerebral:
+Hipoperfusión leve y difusa sin áreas definidas de isquemia aguda. Índices de perfusión global sin alteraciones sugestivas de infarto agudo.
+
+Angio TC arterial intracraneal:
+Se identifica un aneurisma sacular de aproximadamente 6 mm en la porción comunicante posterior de la arteria carótida interna derecha, con ligera irregularidad en la pared sugestiva de posible punto de sangrado. No se evidencian estenosis significativas ni oclusiones arteriales. Vasos permeables sin signos de vasoespasmo.
+
+CONCL (Conclusiones):
+Hemorragia subaracnoidea difusa con localización predominante en cisternas basales y surcos corticales. Aneurisma sacular en segmento comunicante posterior de arteria carótida interna derecha, probable origen del sangrado. No se observan complicaciones isquémicas ni hematomas intraparenquimatosos asociados. Recomendación de valoración neuroquirúrgica urgente y seguimiento para manejo del aneurisma y control de hemorragia subaracnoidea.
+
+ACTI_ADICI (Actividad adicional): Informe para neurocirugía. Se sugiere angiografía digital selectiva para planificación terapéutica.
+
+ICON (Estudio): @RADIO_TC_12345@
+
+X00DIATXT (Texto del diagnóstico ACR): Hemorragia subaracnoidea difusa con aneurisma comunicante posterior ICA derecha detectable en angio TC intracraneal.
+
+EST_T_DES (Descripción): TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANGIOTC ARTERIAL INTRACRANEAL)
+
+ZVASOS_D (Der.): Aneurisma sacular carcinoma interna derecha segmento comunicante posterior, sin otras alteraciones vasculares significativas.

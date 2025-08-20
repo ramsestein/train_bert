@@ -1,0 +1,89 @@
+{
+  "document_id": "informe_sintetico_20250804195045_22729",
+  "entities": [
+    {
+      "text": "infarto cerebral isquémico",
+      "type": "PATOLOGIA",
+      "start": 270,
+      "end": 296
+    },
+    {
+      "text": "transformación hemorrágica",
+      "type": "PATOLOGIA",
+      "start": 334,
+      "end": 360
+    },
+    {
+      "text": "hipodensidad",
+      "type": "PATOLOGIA",
+      "start": 545,
+      "end": 557
+    },
+    {
+      "text": "infarto isquémico subagudo",
+      "type": "PATOLOGIA",
+      "start": 626,
+      "end": 652
+    },
+    {
+      "text": "sangrado petequial",
+      "type": "PATOLOGIA",
+      "start": 794,
+      "end": 812
+    },
+    {
+      "text": "6 mm",
+      "type": "MEDIDA",
+      "start": 759,
+      "end": 763
+    },
+    {
+      "text": "permeabilidad del tronco principal de la ACM izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1464,
+      "end": 1518
+    },
+    {
+      "text": "territorio de la arteria cerebral media izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 561,
+      "end": 610
+    },
+    {
+      "text": "MCA izquierda",
+      "type": "ARTERIA",
+      "start": 1274,
+      "end": 1287
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 601,
+      "end": 610
+    },
+    {
+      "text": "aguda",
+      "type": "TEMPORALIDAD",
+      "start": 1436,
+      "end": 1441
+    },
+    {
+      "text": "PH1",
+      "type": "PUNTUACION_CLINICA",
+      "start": 828,
+      "end": 831
+    },
+    {
+      "text": "TC craneal basal urgente",
+      "type": "TECNICA_IMAGEN",
+      "start": 381,
+      "end": 405
+    },
+    {
+      "text": "angio-TC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 461,
+      "end": 491
+    }
+  ]
+}

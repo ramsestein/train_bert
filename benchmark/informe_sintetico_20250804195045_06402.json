@@ -1,0 +1,95 @@
+{
+  "document_id": "informe_sintetico_20250804195045_06402",
+  "entities": [
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 640,
+      "end": 654
+    },
+    {
+      "text": "lesiones hipodensas",
+      "type": "PATOLOGIA",
+      "start": 607,
+      "end": 626
+    },
+    {
+      "text": "edema",
+      "type": "PATOLOGIA",
+      "start": 853,
+      "end": 858
+    },
+    {
+      "text": "masa",
+      "type": "PATOLOGIA",
+      "start": 861,
+      "end": 865
+    },
+    {
+      "text": "hemorragia intraparenquimatosa",
+      "type": "PATOLOGIA",
+      "start": 946,
+      "end": 976
+    },
+    {
+      "text": "isquemia cerebral aguda",
+      "type": "PATOLOGIA",
+      "start": 1651,
+      "end": 1674
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 1733,
+      "end": 1743
+    },
+    {
+      "text": "arterias vertebrales",
+      "type": "ARTERIA",
+      "start": 1419,
+      "end": 1439
+    },
+    {
+      "text": "sin evidencia de lesiones hipodensas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 590,
+      "end": 626
+    },
+    {
+      "text": "sin signos de edema o masa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 839,
+      "end": 865
+    },
+    {
+      "text": "sin alteraciones significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1079,
+      "end": 1110
+    },
+    {
+      "text": "sin estenosis significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1797,
+      "end": 1825
+    },
+    {
+      "text": "TC craneal basal sin contraste",
+      "type": "TECNICA_IMAGEN",
+      "start": 343,
+      "end": 373
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 376,
+      "end": 397
+    },
+    {
+      "text": "AngioTC arterias intracraneales y troncos supraórticos",
+      "type": "TECNICA_IMAGEN",
+      "start": 400,
+      "end": 454
+    }
+  ]
+}

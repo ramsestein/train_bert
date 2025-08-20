@@ -1,0 +1,89 @@
+{
+  "document_id": "informe_sintetico_20250804195045_24016",
+  "entities": [
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 638,
+      "end": 652
+    },
+    {
+      "text": "arteria cerebral anterior",
+      "type": "ARTERIA",
+      "start": 233,
+      "end": 258
+    },
+    {
+      "text": "derecho",
+      "type": "LATERALIDAD",
+      "start": 614,
+      "end": 621
+    },
+    {
+      "text": "hipodensidad leve",
+      "type": "PATOLOGIA",
+      "start": 477,
+      "end": 494
+    },
+    {
+      "text": "territorio cortical medial y paracentral",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 558,
+      "end": 598
+    },
+    {
+      "text": "disminución moderada del flujo de sangre cerebral",
+      "type": "PATOLOGIA",
+      "start": 1063,
+      "end": 1112
+    },
+    {
+      "text": "área de penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1166,
+      "end": 1192
+    },
+    {
+      "text": "estenosis crítica",
+      "type": "PATOLOGIA",
+      "start": 1401,
+      "end": 1418
+    },
+    {
+      "text": "segmento A2 proximal",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1422,
+      "end": 1442
+    },
+    {
+      "text": "sin evidencia de sangrado",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1801,
+      "end": 1826
+    },
+    {
+      "text": "sin placas ateromatosas significativas ni estenosis relevante",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1298,
+      "end": 1359
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 278,
+      "end": 294
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 305,
+      "end": 326
+    },
+    {
+      "text": "Angio-TC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 329,
+      "end": 359
+    }
+  ]
+}

@@ -1,0 +1,149 @@
+{
+  "document_id": "0000000010000000062595163_cleaned",
+  "entities": [
+    {
+      "text": "hemorragia aguda",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 397,
+      "end": 413
+    },
+    {
+      "text": "lesiones focales intra ni extraaxial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 417,
+      "end": 453
+    },
+    {
+      "text": "Hipodensidad con pérdida de la diferenciación cortico subcortical occipital izquierda",
+      "type": "PATOLOGIA",
+      "start": 455,
+      "end": 540
+    },
+    {
+      "text": "isquemia establecida",
+      "type": "PATOLOGIA",
+      "start": 566,
+      "end": 586
+    },
+    {
+      "text": "territorio ACPi",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 590,
+      "end": 605
+    },
+    {
+      "text": "Aumento del tiempo y disminución del flujo en territorio occipital izquierdo",
+      "type": "PATOLOGIA",
+      "start": 785,
+      "end": 861
+    },
+    {
+      "text": "disminución significativa del volumen en mapa CBV",
+      "type": "PATOLOGIA",
+      "start": 884,
+      "end": 933
+    },
+    {
+      "text": "Missmatch negativo",
+      "type": "PATOLOGIA",
+      "start": 935,
+      "end": 953
+    },
+    {
+      "text": "Defecto brusco de repleción en ACPi distal",
+      "type": "PATOLOGIA",
+      "start": 1053,
+      "end": 1095
+    },
+    {
+      "text": "defecto de repleción focal en segmento V3 izquierdo",
+      "type": "PATOLOGIA",
+      "start": 1259,
+      "end": 1310
+    },
+    {
+      "text": "en probable relación a trombo",
+      "type": "PATOLOGIA",
+      "start": 1097,
+      "end": 1126
+    },
+    {
+      "text": "sin poder descartar disección",
+      "type": "PATOLOGIA",
+      "start": 1364,
+      "end": 1393
+    },
+    {
+      "text": "ACPi",
+      "type": "ARTERIA",
+      "start": 601,
+      "end": 605
+    },
+    {
+      "text": "ACPi",
+      "type": "ARTERIA",
+      "start": 601,
+      "end": 605
+    },
+    {
+      "text": "ACAs",
+      "type": "ARTERIA",
+      "start": 1181,
+      "end": 1185
+    },
+    {
+      "text": "ACMs",
+      "type": "ARTERIA",
+      "start": 1187,
+      "end": 1191
+    },
+    {
+      "text": "ACPs",
+      "type": "ARTERIA",
+      "start": 1194,
+      "end": 1198
+    },
+    {
+      "text": "izquierdo",
+      "type": "LATERALIDAD",
+      "start": 852,
+      "end": 861
+    },
+    {
+      "text": "izquierdo",
+      "type": "LATERALIDAD",
+      "start": 852,
+      "end": 861
+    },
+    {
+      "text": "bilateral",
+      "type": "LATERALIDAD",
+      "start": 1458,
+      "end": 1467
+    },
+    {
+      "text": "aguda",
+      "type": "TEMPORALIDAD",
+      "start": 408,
+      "end": 413
+    },
+    {
+      "text": "TC CRANEAL BASAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 300,
+      "end": 316
+    },
+    {
+      "text": "TC PERFUSIÓN",
+      "type": "TECNICA_IMAGEN",
+      "start": 771,
+      "end": 783
+    },
+    {
+      "text": "ANGIO-TC EXTRA E INTRACRANEAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 1022,
+      "end": 1051
+    }
+  ]
+}

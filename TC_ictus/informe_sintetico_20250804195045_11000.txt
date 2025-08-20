@@ -1,0 +1,29 @@
+UO_PACN (Unidad Organizativa Médica): RADIO
+
+PRUEB (Prueba solicitada): TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANG IOTC ARTERIAL INTRACRANEAL)
+
+CLIN (Resumen clínico): Paciente con cefalea súbita intensa y rigidez de nuca, sospecha clínica de hemorragia subaracnoidea.
+
+OBSR (Protocolo): TC craneal sin contraste para detección de hemorragia aguda, seguida de perfusión cerebral y angioTC arterial intracraneal para evaluación vascular urgente.
+
+RESL (Resultados): 
+TC CRANEAL BASAL:
+Se observa foco hiperdenso localizado en la cisterna silviana derecha, compatible con hemorragia subaracnoidea focal. No evidencia de sangrado intraparenquimatoso ni hematomas subdurales o epidurales. Las estructuras de la línea media están centradas, sin desplazamientos ni signos de efecto masa. Sistema ventricular de tamaño y morfología normales, sin hidrocefalia. Cisternas basales parcialmente ocupadas por sangre focal.
+
+TC PERFUSIÓN:
+No se identifican áreas de hipoperfusión ni alteraciones significativas en el volumen o flujo sanguíneo cerebral en los territorios arteriales evaluados.
+
+ANGIO-TC EXTRA E INTRACRANEAL:
+Se evidencia un pequeño aneurisma sacular de aproximadamente 4 mm en la arteria cerebral media derecha, punto probable de origen de la hemorragia subaracnoidea. No se observan otras malformaciones vasculares ni estenosis significativas en las principales arterias intracraneales ni en los troncos supraaórticos.
+
+CONCL (Conclusiones): Hemorragia subaracnoidea focal localizada en la cisterna silviana derecha asociada a aneurisma sacular de la arteria cerebral media derecha. Ausencia de complicaciones isquémicas o hematomas intracraneales. Recomendación de valoración neuroquirúrgica urgente.
+
+ACTI_ADICI (Actividad adicional): Notificación urgente al equipo de neurocirugía para manejo y planificación terapéutica.
+
+ICON (Estudio): @TC_CRANEAL@ @ANGIOTC@ @PERFUSION@
+
+X00DIATXT (Texto del diagnóstico ACR): Hemorragia subaracnoidea focal derecha por aneurisma sacular de arteria cerebral media.
+
+EST_T_DES (Descripción): TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANGIOTC ARTERIAL INTRACRANEAL)
+
+ZVASOS_D (Der.): Aneurisma sacular en ACM derecha con sangrado subaracnoideo focal derecho.

@@ -1,0 +1,101 @@
+{
+  "document_id": "informe_sintetico_20250804195045_23365",
+  "entities": [
+    {
+      "text": "ictus isquémico",
+      "type": "PATOLOGIA",
+      "start": 232,
+      "end": 247
+    },
+    {
+      "text": "hemorragia aguda",
+      "type": "PATOLOGIA",
+      "start": 498,
+      "end": 514
+    },
+    {
+      "text": "borramiento de surcos",
+      "type": "PATOLOGIA",
+      "start": 611,
+      "end": 632
+    },
+    {
+      "text": "ASPECTS 9/10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 681,
+      "end": 693
+    },
+    {
+      "text": "prolongación moderada del tiempo máximo (Tmax)",
+      "type": "PATOLOGIA",
+      "start": 844,
+      "end": 890
+    },
+    {
+      "text": "caída significativa del flujo cerebral (CBF)",
+      "type": "PATOLOGIA",
+      "start": 977,
+      "end": 1021
+    },
+    {
+      "text": "aumento del tiempo de tránsito (MTT)",
+      "type": "PATOLOGIA",
+      "start": 1024,
+      "end": 1060
+    },
+    {
+      "text": "Oclusión focal en segmento distal (M2/M3) derecho de la arteria cerebral media",
+      "type": "PATOLOGIA",
+      "start": 1281,
+      "end": 1359
+    },
+    {
+      "text": "arteria cerebral media",
+      "type": "ARTERIA",
+      "start": 949,
+      "end": 971
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1832,
+      "end": 1855
+    },
+    {
+      "text": "estenosis extracraneal significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1878,
+      "end": 1914
+    },
+    {
+      "text": "Oclusión arterial distal (M2/M3) derecha",
+      "type": "PATOLOGIA",
+      "start": 2170,
+      "end": 2210
+    },
+    {
+      "text": "isquemia cerebral aguda",
+      "type": "PATOLOGIA",
+      "start": 2215,
+      "end": 2238
+    },
+    {
+      "text": "penumbra significativa",
+      "type": "PATOLOGIA",
+      "start": 1677,
+      "end": 1699
+    },
+    {
+      "text": "No evidencia de sangrado intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2270,
+      "end": 2307
+    },
+    {
+      "text": "TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANGIOTC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 2335,
+      "end": 2402
+    }
+  ]
+}

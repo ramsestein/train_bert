@@ -1,0 +1,209 @@
+{
+  "document_id": "informe_sintetico_20250804195045_03429",
+  "entities": [
+    {
+      "text": "hemorragia intraventricular primaria",
+      "type": "PATOLOGIA",
+      "start": 566,
+      "end": 602
+    },
+    {
+      "text": "ventrículos laterales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 638,
+      "end": 659
+    },
+    {
+      "text": "tercer ventrículo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 664,
+      "end": 681
+    },
+    {
+      "text": "acueducto",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 687,
+      "end": 696
+    },
+    {
+      "text": "hematoma parenquimatoso",
+      "type": "PATOLOGIA",
+      "start": 715,
+      "end": 738
+    },
+    {
+      "text": "edema cerebral significativo",
+      "type": "PATOLOGIA",
+      "start": 814,
+      "end": 842
+    },
+    {
+      "text": "hidrocefalia obstructiva",
+      "type": "PATOLOGIA",
+      "start": 846,
+      "end": 870
+    },
+    {
+      "text": "hemorragia activa o reciente",
+      "type": "PATOLOGIA",
+      "start": 950,
+      "end": 978
+    },
+    {
+      "text": "áreas de perfusión cerebral preservada",
+      "type": "PATOLOGIA",
+      "start": 1027,
+      "end": 1065
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 1156,
+      "end": 1170
+    },
+    {
+      "text": "CBV",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1202,
+      "end": 1205
+    },
+    {
+      "text": "CBF",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1207,
+      "end": 1210
+    },
+    {
+      "text": "TTP",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1214,
+      "end": 1217
+    },
+    {
+      "text": "malformaciones arteriovenosas",
+      "type": "PATOLOGIA",
+      "start": 1268,
+      "end": 1297
+    },
+    {
+      "text": "aneurismas",
+      "type": "PATOLOGIA",
+      "start": 1301,
+      "end": 1311
+    },
+    {
+      "text": "arterias cerebrales principales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1370,
+      "end": 1401
+    },
+    {
+      "text": "ACAs",
+      "type": "ARTERIA",
+      "start": 1403,
+      "end": 1407
+    },
+    {
+      "text": "ACMs",
+      "type": "ARTERIA",
+      "start": 1409,
+      "end": 1413
+    },
+    {
+      "text": "ACPs",
+      "type": "ARTERIA",
+      "start": 1415,
+      "end": 1419
+    },
+    {
+      "text": "estenosis",
+      "type": "PATOLOGIA",
+      "start": 1442,
+      "end": 1451
+    },
+    {
+      "text": "trombosis",
+      "type": "PATOLOGIA",
+      "start": 1465,
+      "end": 1474
+    },
+    {
+      "text": "arterioesclerosis grave",
+      "type": "PATOLOGIA",
+      "start": 1496,
+      "end": 1519
+    },
+    {
+      "text": "disección arterial",
+      "type": "PATOLOGIA",
+      "start": 1523,
+      "end": 1541
+    },
+    {
+      "text": "hemorragia intraventricular primaria",
+      "type": "PATOLOGIA",
+      "start": 566,
+      "end": 602
+    },
+    {
+      "text": "hidrocefalia obstructiva",
+      "type": "PATOLOGIA",
+      "start": 846,
+      "end": 870
+    },
+    {
+      "text": "áreas isquémicas",
+      "type": "PATOLOGIA",
+      "start": 1707,
+      "end": 1723
+    },
+    {
+      "text": "lesiones vasculares evidentes",
+      "type": "PATOLOGIA",
+      "start": 1738,
+      "end": 1767
+    },
+    {
+      "text": "TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANGIOTC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 2150,
+      "end": 2217
+    },
+    {
+      "text": "TC craneal sin contraste",
+      "type": "TECNICA_IMAGEN",
+      "start": 346,
+      "end": 370
+    },
+    {
+      "text": "angiografía por TC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 447,
+      "end": 487
+    },
+    {
+      "text": "No se observa desplazamiento de la línea media",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 749,
+      "end": 795
+    },
+    {
+      "text": "No hay signos de edema cerebral significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 797,
+      "end": 842
+    },
+    {
+      "text": "No se identifican zonas de isquemia aguda",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1129,
+      "end": 1170
+    },
+    {
+      "text": "No hay hallazgos de arterioesclerosis grave ni disección arterial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1476,
+      "end": 1541
+    }
+  ]
+}

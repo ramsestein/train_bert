@@ -1,0 +1,125 @@
+{
+  "document_id": "informe_sintetico_20250804195045_00956",
+  "entities": [
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 290,
+      "end": 304
+    },
+    {
+      "text": "bulbo raquídeo derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 634,
+      "end": 656
+    },
+    {
+      "text": "arteria basilar",
+      "type": "ARTERIA",
+      "start": 1392,
+      "end": 1407
+    },
+    {
+      "text": "derecho",
+      "type": "LATERALIDAD",
+      "start": 649,
+      "end": 656
+    },
+    {
+      "text": "casi completa",
+      "type": "MEDIDA",
+      "start": 1372,
+      "end": 1385
+    },
+    {
+      "text": "aguda",
+      "type": "TEMPORALIDAD",
+      "start": 299,
+      "end": 304
+    },
+    {
+      "text": "penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1304,
+      "end": 1322
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 355,
+      "end": 371
+    },
+    {
+      "text": "No se identifican signos de hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 532,
+      "end": 583
+    },
+    {
+      "text": "No se observan desplazamientos de línea media ni hemorragias asociadas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 701,
+      "end": 771
+    },
+    {
+      "text": "No hay evidencia de calcificaciones vasculares relevantes en esta sección",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 885,
+      "end": 958
+    },
+    {
+      "text": "No se observan estenosis significativas en los troncos supraórticos ni en los segmentos extra e intracraneales de las carótidas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1547,
+      "end": 1674
+    },
+    {
+      "text": "No se visualizan aneurismas ni malformaciones vasculares",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1676,
+      "end": 1732
+    },
+    {
+      "text": "No se identifican signos de disección arterial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1734,
+      "end": 1780
+    },
+    {
+      "text": "Oclusión casi completa de la arteria basilar en su porción media",
+      "type": "PATOLOGIA",
+      "start": 1363,
+      "end": 1427
+    },
+    {
+      "text": "disminución del flujo cerebral",
+      "type": "PATOLOGIA",
+      "start": 1175,
+      "end": 1205
+    },
+    {
+      "text": "aumento del tiempo de tránsito medio (MTT)",
+      "type": "MEDIDA",
+      "start": 1063,
+      "end": 1105
+    },
+    {
+      "text": "tiempo hasta el pico (TTP)",
+      "type": "MEDIDA",
+      "start": 1108,
+      "end": 1134
+    },
+    {
+      "text": "mantenimiento relativo del volumen cerebral (CBV)",
+      "type": "MEDIDA",
+      "start": 1217,
+      "end": 1266
+    },
+    {
+      "text": "alteraciones de perfusión sugestivas de penumbra isquémica en bulbo y protuberancia",
+      "type": "PATOLOGIA",
+      "start": 1933,
+      "end": 2016
+    }
+  ]
+}

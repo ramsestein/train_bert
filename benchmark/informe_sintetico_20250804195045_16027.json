@@ -1,0 +1,101 @@
+{
+  "document_id": "informe_sintetico_20250804195045_16027",
+  "entities": [
+    {
+      "text": "hemorragia aguda",
+      "type": "PATOLOGIA",
+      "start": 454,
+      "end": 470
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 490,
+      "end": 504
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 560,
+      "end": 570
+    },
+    {
+      "text": "lesiones focales",
+      "type": "PATOLOGIA",
+      "start": 590,
+      "end": 606
+    },
+    {
+      "text": "edema cerebral",
+      "type": "PATOLOGIA",
+      "start": 610,
+      "end": 624
+    },
+    {
+      "text": "sistema ventricular",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 629,
+      "end": 648
+    },
+    {
+      "text": "estructuras de línea media",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 690,
+      "end": 716
+    },
+    {
+      "text": "Cisternas basales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 734,
+      "end": 751
+    },
+    {
+      "text": "cambios atróficos corticales",
+      "type": "PATOLOGIA",
+      "start": 804,
+      "end": 832
+    },
+    {
+      "text": "CBV, CBF, MTT y TTP",
+      "type": "MEDIDA",
+      "start": 936,
+      "end": 955
+    },
+    {
+      "text": "hipoperfusión",
+      "type": "PATOLOGIA",
+      "start": 996,
+      "end": 1009
+    },
+    {
+      "text": "ACAs, ACMs y ACPs",
+      "type": "ARTERIA",
+      "start": 1308,
+      "end": 1325
+    },
+    {
+      "text": "sin estenosis ni placas relevantes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1247,
+      "end": 1281
+    },
+    {
+      "text": "sin signos de oclusión ni estenosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1376,
+      "end": 1411
+    },
+    {
+      "text": "sin hallazgos agudos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1549,
+      "end": 1569
+    },
+    {
+      "text": "sin estenosis significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1672,
+      "end": 1700
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "document_id": "informe_sintetico_20250804195045_07071",
+  "entities": [
+    {
+      "text": "hemorragia aguda",
+      "type": "PATOLOGIA",
+      "start": 436,
+      "end": 452
+    },
+    {
+      "text": "cerebral",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 277,
+      "end": 285
+    },
+    {
+      "text": "hipodensidad periventricular bilateral",
+      "type": "PATOLOGIA",
+      "start": 628,
+      "end": 666
+    },
+    {
+      "text": "enfermedad microangiopática de pequeño vaso",
+      "type": "PATOLOGIA",
+      "start": 682,
+      "end": 725
+    },
+    {
+      "text": "infartos recientes",
+      "type": "PATOLOGIA",
+      "start": 744,
+      "end": 762
+    },
+    {
+      "text": "cerebrales principales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1071,
+      "end": 1093
+    },
+    {
+      "text": "ACAs",
+      "type": "ARTERIA",
+      "start": 1095,
+      "end": 1099
+    },
+    {
+      "text": "ACMs",
+      "type": "ARTERIA",
+      "start": 1101,
+      "end": 1105
+    },
+    {
+      "text": "ACPs",
+      "type": "ARTERIA",
+      "start": 1107,
+      "end": 1111
+    },
+    {
+      "text": "sin hallazgos de patología aguda",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1343,
+      "end": 1375
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 1506,
+      "end": 1516
+    },
+    {
+      "text": "sin estenosis significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1560,
+      "end": 1588
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 243,
+      "end": 259
+    },
+    {
+      "text": "TC de perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 261,
+      "end": 285
+    },
+    {
+      "text": "Angio-TC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 288,
+      "end": 318
+    }
+  ]
+}

@@ -1,0 +1,137 @@
+{
+  "document_id": "informe_sintetico_20250804195045_06001",
+  "entities": [
+    {
+      "text": "infarto cerebral",
+      "type": "PATOLOGIA",
+      "start": 239,
+      "end": 255
+    },
+    {
+      "text": "oclusión carotídea izquierda",
+      "type": "PATOLOGIA",
+      "start": 260,
+      "end": 288
+    },
+    {
+      "text": "extensa hipodensidad",
+      "type": "PATOLOGIA",
+      "start": 466,
+      "end": 486
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 507,
+      "end": 539
+    },
+    {
+      "text": "corteza frontal",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 552,
+      "end": 567
+    },
+    {
+      "text": "parietal",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 569,
+      "end": 577
+    },
+    {
+      "text": "región insular",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 583,
+      "end": 597
+    },
+    {
+      "text": "arteria carótida interna izquierda",
+      "type": "ARTERIA",
+      "start": 1339,
+      "end": 1373
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "ARTERIA",
+      "start": 507,
+      "end": 539
+    },
+    {
+      "text": "4 mm",
+      "type": "MEDIDA",
+      "start": 816,
+      "end": 820
+    },
+    {
+      "text": "marcada",
+      "type": "TEMPORALIDAD",
+      "start": 986,
+      "end": 993
+    },
+    {
+      "text": "infarto establecido",
+      "type": "PATOLOGIA",
+      "start": 1186,
+      "end": 1205
+    },
+    {
+      "text": "sin estenosis significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1542,
+      "end": 1570
+    },
+    {
+      "text": "sin reperfusión distal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1408,
+      "end": 1430
+    },
+    {
+      "text": "No se evidencian hemorragias intra ni extraaxiales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 725,
+      "end": 775
+    },
+    {
+      "text": "discreta tumefacción cerebral",
+      "type": "PATOLOGIA",
+      "start": 654,
+      "end": 683
+    },
+    {
+      "text": "zona penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1245,
+      "end": 1268
+    },
+    {
+      "text": "mismatch significativo",
+      "type": "PATOLOGIA",
+      "start": 1218,
+      "end": 1240
+    },
+    {
+      "text": "edema asociado",
+      "type": "PATOLOGIA",
+      "start": 1803,
+      "end": 1817
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 309,
+      "end": 325
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 341,
+      "end": 362
+    },
+    {
+      "text": "angio-TC de arterias intra y extracraneales",
+      "type": "TECNICA_IMAGEN",
+      "start": 365,
+      "end": 408
+    }
+  ]
+}

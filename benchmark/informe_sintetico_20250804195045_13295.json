@@ -1,0 +1,95 @@
+{
+  "document_id": "informe_sintetico_20250804195045_13295",
+  "entities": [
+    {
+      "text": "hemiparesia derecha",
+      "type": "PATOLOGIA",
+      "start": 195,
+      "end": 214
+    },
+    {
+      "text": "disartria",
+      "type": "PATOLOGIA",
+      "start": 217,
+      "end": 226
+    },
+    {
+      "text": "ictus isquémico agudo",
+      "type": "PATOLOGIA",
+      "start": 248,
+      "end": 269
+    },
+    {
+      "text": "lesión hipodensa",
+      "type": "PATOLOGIA",
+      "start": 574,
+      "end": 590
+    },
+    {
+      "text": "infarto lacunar agudo",
+      "type": "PATOLOGIA",
+      "start": 705,
+      "end": 726
+    },
+    {
+      "text": "8 mm",
+      "type": "MEDIDA",
+      "start": 649,
+      "end": 653
+    },
+    {
+      "text": "región capsuloganglionar izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 594,
+      "end": 628
+    },
+    {
+      "text": "isquemia aguda focal",
+      "type": "PATOLOGIA",
+      "start": 1253,
+      "end": 1273
+    },
+    {
+      "text": "arterias cerebrales anteriores, medias y posteriores",
+      "type": "ARTERIA",
+      "start": 1472,
+      "end": 1524
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 619,
+      "end": 628
+    },
+    {
+      "text": "sin hemorragia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2252,
+      "end": 2266
+    },
+    {
+      "text": "sin estenosis significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1360,
+      "end": 1388
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 290,
+      "end": 306
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 333,
+      "end": 354
+    },
+    {
+      "text": "angio-TC arterial intra y extracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 357,
+      "end": 395
+    }
+  ]
+}

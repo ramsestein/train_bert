@@ -1,0 +1,191 @@
+{
+  "document_id": "informe_sintetico_20250804195045_02949",
+  "entities": [
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 450,
+      "end": 473
+    },
+    {
+      "text": "infarto agudo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 487,
+      "end": 500
+    },
+    {
+      "text": "Parénquima cerebral homogéneo",
+      "type": "PATOLOGIA",
+      "start": 502,
+      "end": 531
+    },
+    {
+      "text": "zonas de hipodensidad",
+      "type": "PATOLOGIA",
+      "start": 537,
+      "end": 558
+    },
+    {
+      "text": "pérdida de diferenciación cortico-subcortical",
+      "type": "PATOLOGIA",
+      "start": 562,
+      "end": 607
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 609,
+      "end": 619
+    },
+    {
+      "text": "Línea media centrada",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 622,
+      "end": 642
+    },
+    {
+      "text": "Sistema ventricular y cisternas basales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 644,
+      "end": 683
+    },
+    {
+      "text": "cambios de tipo microangiopático",
+      "type": "PATOLOGIA",
+      "start": 727,
+      "end": 759
+    },
+    {
+      "text": "sustancia blanca periventricular",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 763,
+      "end": 795
+    },
+    {
+      "text": "cronicidad",
+      "type": "TEMPORALIDAD",
+      "start": 813,
+      "end": 823
+    },
+    {
+      "text": "sin repercusión aguda",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 825,
+      "end": 846
+    },
+    {
+      "text": "Mapas de tiempo de tránsito (TTP)",
+      "type": "TECNICA_IMAGEN",
+      "start": 863,
+      "end": 896
+    },
+    {
+      "text": "volumen cerebral de sangre (CBV)",
+      "type": "TECNICA_IMAGEN",
+      "start": 898,
+      "end": 930
+    },
+    {
+      "text": "flujo cerebral de sangre (CBF)",
+      "type": "TECNICA_IMAGEN",
+      "start": 933,
+      "end": 963
+    },
+    {
+      "text": "sin alteraciones focales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 977,
+      "end": 1001
+    },
+    {
+      "text": "zonas de penumbra",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1018,
+      "end": 1035
+    },
+    {
+      "text": "mismatch significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1039,
+      "end": 1061
+    },
+    {
+      "text": "Arco aórtico y troncos supraórticos",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1095,
+      "end": 1130
+    },
+    {
+      "text": "placas ateromatosas relevantes",
+      "type": "PATOLOGIA",
+      "start": 1135,
+      "end": 1165
+    },
+    {
+      "text": "estenosis",
+      "type": "PATOLOGIA",
+      "start": 1169,
+      "end": 1178
+    },
+    {
+      "text": "Segmentos cervicales e intracraneales de arterias carotidas internas",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1180,
+      "end": 1248
+    },
+    {
+      "text": "vertebrales y principales ramas intracraneales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1250,
+      "end": 1296
+    },
+    {
+      "text": "permeables y sin signos de estenosis o irregularidad mural",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1297,
+      "end": 1355
+    },
+    {
+      "text": "Sistema vertebrobasilar",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1357,
+      "end": 1380
+    },
+    {
+      "text": "sin alteraciones",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 977,
+      "end": 993
+    },
+    {
+      "text": "Estudio sin evidencias de patología aguda isquémica o hemorrágica",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1422,
+      "end": 1487
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 609,
+      "end": 619
+    },
+    {
+      "text": "Vasos intracraneales y extracraneales permeables",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1501,
+      "end": 1549
+    },
+    {
+      "text": "sin signos de estenosis significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1550,
+      "end": 1587
+    },
+    {
+      "text": "sin repercusión clínica aguda",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1644,
+      "end": 1673
+    }
+  ]
+}

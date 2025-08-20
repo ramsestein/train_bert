@@ -1,0 +1,89 @@
+{
+  "document_id": "0000000010000000061839429_cleaned",
+  "entities": [
+    {
+      "text": "hemorragia intra ni extraaxial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 350,
+      "end": 380
+    },
+    {
+      "text": "Parénquima cerebral sin alteraciones densitométricas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 382,
+      "end": 434
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 483,
+      "end": 493
+    },
+    {
+      "text": "Hipodensidad en sustancia blanca",
+      "type": "PATOLOGIA",
+      "start": 495,
+      "end": 527
+    },
+    {
+      "text": "cerebrales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 641,
+      "end": 651
+    },
+    {
+      "text": "cerebral",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 393,
+      "end": 401
+    },
+    {
+      "text": "ACMd",
+      "type": "ARTERIA",
+      "start": 965,
+      "end": 969
+    },
+    {
+      "text": "100%",
+      "type": "MEDIDA",
+      "start": 989,
+      "end": 993
+    },
+    {
+      "text": "Oclusión postbifurcación de la ACMd en segmento proximal M2",
+      "type": "PATOLOGIA",
+      "start": 1026,
+      "end": 1085
+    },
+    {
+      "text": "arterias inatra/extracraneales",
+      "type": "ARTERIA",
+      "start": 1150,
+      "end": 1180
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 483,
+      "end": 493
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1304,
+      "end": 1327
+    },
+    {
+      "text": "100% de discordancia en los mapas de perfusión",
+      "type": "MEDIDA",
+      "start": 1329,
+      "end": 1375
+    },
+    {
+      "text": "Oclusión de ACMd en segmento M2 proximal",
+      "type": "PATOLOGIA",
+      "start": 1377,
+      "end": 1417
+    }
+  ]
+}

@@ -1,0 +1,149 @@
+{
+  "document_id": "informe_sintetico_20250804195045_08167",
+  "entities": [
+    {
+      "text": "hemiparesia bilateral",
+      "type": "PATOLOGIA",
+      "start": 246,
+      "end": 267
+    },
+    {
+      "text": "ictus",
+      "type": "PATOLOGIA",
+      "start": 289,
+      "end": 294
+    },
+    {
+      "text": "hemorragias",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 521,
+      "end": 532
+    },
+    {
+      "text": "colecciones extraaxiales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 536,
+      "end": 560
+    },
+    {
+      "text": "edema citotóxico",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 657,
+      "end": 673
+    },
+    {
+      "text": "ASPECTS",
+      "type": "PUNTUACION_CLINICA",
+      "start": 687,
+      "end": 694
+    },
+    {
+      "text": "tiempo de tránsito medio (TTP)",
+      "type": "MEDIDA",
+      "start": 872,
+      "end": 902
+    },
+    {
+      "text": "tiempo de llegada (Tmax)",
+      "type": "MEDIDA",
+      "start": 905,
+      "end": 929
+    },
+    {
+      "text": "flujo cerebral (CBF)",
+      "type": "MEDIDA",
+      "start": 1038,
+      "end": 1058
+    },
+    {
+      "text": "volumen cerebral (CBV)",
+      "type": "MEDIDA",
+      "start": 1061,
+      "end": 1083
+    },
+    {
+      "text": "isquemia",
+      "type": "PATOLOGIA",
+      "start": 1151,
+      "end": 1159
+    },
+    {
+      "text": "Oclusión completa de la arteria basilar",
+      "type": "PATOLOGIA",
+      "start": 1305,
+      "end": 1344
+    },
+    {
+      "text": "arteria basilar",
+      "type": "ARTERIA",
+      "start": 972,
+      "end": 987
+    },
+    {
+      "text": "territorio troncoencefálico",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1816,
+      "end": 1843
+    },
+    {
+      "text": "cerebeloso",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1846,
+      "end": 1856
+    },
+    {
+      "text": "mismatch de perfusión",
+      "type": "PATOLOGIA",
+      "start": 1876,
+      "end": 1897
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1945,
+      "end": 1968
+    },
+    {
+      "text": "edema significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1972,
+      "end": 1991
+    },
+    {
+      "text": "circulación intracraneal carotídea",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1435,
+      "end": 1469
+    },
+    {
+      "text": "arterias vertebrales",
+      "type": "ARTERIA",
+      "start": 1401,
+      "end": 1421
+    },
+    {
+      "text": "confluencia",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1570,
+      "end": 1581
+    },
+    {
+      "text": "aneurismas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1601,
+      "end": 1611
+    },
+    {
+      "text": "malformaciones vasculares",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1615,
+      "end": 1640
+    },
+    {
+      "text": "colaterales poco desarrolladas",
+      "type": "PATOLOGIA",
+      "start": 1654,
+      "end": 1684
+    }
+  ]
+}

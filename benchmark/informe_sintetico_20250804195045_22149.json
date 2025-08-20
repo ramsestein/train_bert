@@ -1,0 +1,89 @@
+{
+  "document_id": "informe_sintetico_20250804195045_22149",
+  "entities": [
+    {
+      "text": "ictus lacunar",
+      "type": "PATOLOGIA",
+      "start": 257,
+      "end": 270
+    },
+    {
+      "text": "hemicuerpo derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 190,
+      "end": 208
+    },
+    {
+      "text": "8 mm",
+      "type": "MEDIDA",
+      "start": 705,
+      "end": 709
+    },
+    {
+      "text": "núcleo lenticular izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 760,
+      "end": 787
+    },
+    {
+      "text": "isquémica reciente",
+      "type": "PATOLOGIA",
+      "start": 1170,
+      "end": 1188
+    },
+    {
+      "text": "arterias perforantes lenticuloestriadas",
+      "type": "ARTERIA",
+      "start": 1683,
+      "end": 1722
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1736,
+      "end": 1759
+    },
+    {
+      "text": "sin alteraciones hemodinámicas significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1762,
+      "end": 1807
+    },
+    {
+      "text": "sin signos de oclusiones ni estenosis de ramas principales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1842,
+      "end": 1900
+    },
+    {
+      "text": "territorio perforante lenticuloestriado izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 2162,
+      "end": 2211
+    },
+    {
+      "text": "sin hemorragia asociada",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2212,
+      "end": 2235
+    },
+    {
+      "text": "TC de cráneo basal sin contraste",
+      "type": "TECNICA_IMAGEN",
+      "start": 291,
+      "end": 323
+    },
+    {
+      "text": "estudio de perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 325,
+      "end": 354
+    },
+    {
+      "text": "angiografía TC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 391,
+      "end": 427
+    }
+  ]
+}

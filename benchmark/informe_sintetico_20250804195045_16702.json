@@ -1,0 +1,95 @@
+{
+  "document_id": "informe_sintetico_20250804195045_16702",
+  "entities": [
+    {
+      "text": "infarto cerebral isquémico reciente",
+      "type": "PATOLOGIA",
+      "start": 179,
+      "end": 214
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "ARTERIA",
+      "start": 232,
+      "end": 262
+    },
+    {
+      "text": "subagudo",
+      "type": "TEMPORALIDAD",
+      "start": 670,
+      "end": 678
+    },
+    {
+      "text": "menos del 30%",
+      "type": "MEDIDA",
+      "start": 800,
+      "end": 813
+    },
+    {
+      "text": "disminución del flujo cerebral (CBF)",
+      "type": "PATOLOGIA",
+      "start": 1083,
+      "end": 1119
+    },
+    {
+      "text": "aumento del tiempo de tránsito (TTP)",
+      "type": "PATOLOGIA",
+      "start": 1188,
+      "end": 1224
+    },
+    {
+      "text": "zona de penumbra isquémica residual",
+      "type": "PATOLOGIA",
+      "start": 1270,
+      "end": 1305
+    },
+    {
+      "text": "Oclusión subtotal del segmento M2 superior de arteria cerebral media derecha",
+      "type": "PATOLOGIA",
+      "start": 1343,
+      "end": 1419
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "ARTERIA",
+      "start": 232,
+      "end": 262
+    },
+    {
+      "text": "sin estenosis significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1509,
+      "end": 1537
+    },
+    {
+      "text": "Transformación hemorrágica tipo PH1",
+      "type": "PATOLOGIA",
+      "start": 1680,
+      "end": 1715
+    },
+    {
+      "text": "infarto agudo de arteria cerebral media derecha",
+      "type": "PATOLOGIA",
+      "start": 1719,
+      "end": 1766
+    },
+    {
+      "text": "menor del 30%",
+      "type": "MEDIDA",
+      "start": 1783,
+      "end": 1796
+    },
+    {
+      "text": "sin efecto en masa significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1818,
+      "end": 1850
+    },
+    {
+      "text": "Oclusión parcial de rama M2 derecha",
+      "type": "PATOLOGIA",
+      "start": 1896,
+      "end": 1931
+    }
+  ]
+}

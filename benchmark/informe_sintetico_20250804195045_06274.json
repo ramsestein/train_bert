@@ -1,0 +1,185 @@
+{
+  "document_id": "informe_sintetico_20250804195045_06274",
+  "entities": [
+    {
+      "text": "isquémicas agudas",
+      "type": "PATOLOGIA",
+      "start": 544,
+      "end": 561
+    },
+    {
+      "text": "hemorragias intracraneales",
+      "type": "PATOLOGIA",
+      "start": 565,
+      "end": 591
+    },
+    {
+      "text": "enfermedad crónica de la sustancia blanca",
+      "type": "PATOLOGIA",
+      "start": 724,
+      "end": 765
+    },
+    {
+      "text": "cambios isquémicos crónicos de pequeño vaso",
+      "type": "PATOLOGIA",
+      "start": 839,
+      "end": 882
+    },
+    {
+      "text": "edema",
+      "type": "PATOLOGIA",
+      "start": 894,
+      "end": 899
+    },
+    {
+      "text": "masa",
+      "type": "PATOLOGIA",
+      "start": 902,
+      "end": 906
+    },
+    {
+      "text": "Sistema ventricular y cisternas basales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 944,
+      "end": 983
+    },
+    {
+      "text": "línea media",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1021,
+      "end": 1032
+    },
+    {
+      "text": "hipoperfusión",
+      "type": "PATOLOGIA",
+      "start": 1119,
+      "end": 1132
+    },
+    {
+      "text": "circulación cerebral",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1155,
+      "end": 1175
+    },
+    {
+      "text": "calibre y trayecto normales",
+      "type": "PATOLOGIA",
+      "start": 1220,
+      "end": 1247
+    },
+    {
+      "text": "estenosis",
+      "type": "PATOLOGIA",
+      "start": 1263,
+      "end": 1272
+    },
+    {
+      "text": "oclusión",
+      "type": "PATOLOGIA",
+      "start": 1274,
+      "end": 1282
+    },
+    {
+      "text": "aneurisma",
+      "type": "PATOLOGIA",
+      "start": 1285,
+      "end": 1294
+    },
+    {
+      "text": "placas ateromatosas significativas",
+      "type": "PATOLOGIA",
+      "start": 1314,
+      "end": 1348
+    },
+    {
+      "text": "isquemia",
+      "type": "PATOLOGIA",
+      "start": 1414,
+      "end": 1422
+    },
+    {
+      "text": "hemorragia aguda",
+      "type": "PATOLOGIA",
+      "start": 1425,
+      "end": 1441
+    },
+    {
+      "text": "cambios crónicos leves de la sustancia blanca",
+      "type": "PATOLOGIA",
+      "start": 1456,
+      "end": 1501
+    },
+    {
+      "text": "microangiopática crónica",
+      "type": "PATOLOGIA",
+      "start": 1529,
+      "end": 1553
+    },
+    {
+      "text": "Circulación arterial intracraneal",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1555,
+      "end": 1588
+    },
+    {
+      "text": "alteraciones significativas",
+      "type": "PATOLOGIA",
+      "start": 1593,
+      "end": 1620
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 1622,
+      "end": 1632
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 375,
+      "end": 391
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 403,
+      "end": 424
+    },
+    {
+      "text": "angio TC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 427,
+      "end": 457
+    },
+    {
+      "text": "No se evidencian lesiones isquémicas agudas ni hemorragias intracraneales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 518,
+      "end": 591
+    },
+    {
+      "text": "No existe edema o masa que modifique estructuras vecinas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 884,
+      "end": 940
+    },
+    {
+      "text": "sin áreas de hipoperfusión ni alteraciones de la circulación cerebral",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1106,
+      "end": 1175
+    },
+    {
+      "text": "sin signos de estenosis, oclusión o aneurisma",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1249,
+      "end": 1294
+    },
+    {
+      "text": "No se identifican placas ateromatosas significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1296,
+      "end": 1348
+    }
+  ]
+}

@@ -1,0 +1,119 @@
+{
+  "document_id": "informe_sintetico_20250804195045_15902",
+  "entities": [
+    {
+      "text": "infarto",
+      "type": "PATOLOGIA",
+      "start": 228,
+      "end": 235
+    },
+    {
+      "text": "hemicuerpo izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 194,
+      "end": 214
+    },
+    {
+      "text": "watershed frontoparietales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 882,
+      "end": 908
+    },
+    {
+      "text": "parieto-occipitales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 923,
+      "end": 942
+    },
+    {
+      "text": "isquémico",
+      "type": "PATOLOGIA",
+      "start": 1066,
+      "end": 1075
+    },
+    {
+      "text": "infarto watershed",
+      "type": "PATOLOGIA",
+      "start": 1133,
+      "end": 1150
+    },
+    {
+      "text": "arterias carótidas internas",
+      "type": "ARTERIA",
+      "start": 1213,
+      "end": 1240
+    },
+    {
+      "text": "cerebrales medias",
+      "type": "ARTERIA",
+      "start": 1242,
+      "end": 1259
+    },
+    {
+      "text": "anteriores",
+      "type": "ARTERIA",
+      "start": 1261,
+      "end": 1271
+    },
+    {
+      "text": "posteriores",
+      "type": "ARTERIA",
+      "start": 1275,
+      "end": 1286
+    },
+    {
+      "text": "bilateral",
+      "type": "LATERALIDAD",
+      "start": 909,
+      "end": 918
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 703,
+      "end": 713
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 703,
+      "end": 713
+    },
+    {
+      "text": "TC Basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 288,
+      "end": 296
+    },
+    {
+      "text": "TC Perfusión",
+      "type": "TECNICA_IMAGEN",
+      "start": 298,
+      "end": 310
+    },
+    {
+      "text": "Angio-TC",
+      "type": "TECNICA_IMAGEN",
+      "start": 414,
+      "end": 422
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1403,
+      "end": 1426
+    },
+    {
+      "text": "sin infartos establecidos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1428,
+      "end": 1453
+    },
+    {
+      "text": "sin evidencia de oclusión o estenosis significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1664,
+      "end": 1715
+    }
+  ]
+}

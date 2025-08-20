@@ -1,0 +1,89 @@
+{
+  "document_id": "informe_sintetico_20250804195045_01229",
+  "entities": [
+    {
+      "text": "evento isquémico agudo",
+      "type": "PATOLOGIA",
+      "start": 201,
+      "end": 223
+    },
+    {
+      "text": "hemorragias intra ni extraaxiales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 466,
+      "end": 499
+    },
+    {
+      "text": "hipodensidad sugestiva de infarto agudo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 603,
+      "end": 642
+    },
+    {
+      "text": "cambios isquémicos crónicos leves bilaterales",
+      "type": "PATOLOGIA",
+      "start": 823,
+      "end": 868
+    },
+    {
+      "text": "enfermedad de pequeño vaso",
+      "type": "PATOLOGIA",
+      "start": 922,
+      "end": 948
+    },
+    {
+      "text": "alteraciones en el volumen sanguíneo cerebral (CBV), volumen de sangre cerebral (CBF), tiempo medio de tránsito (MTT) ni en el tiempo hasta el pico (TTP)",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1088,
+      "end": 1241
+    },
+    {
+      "text": "estenosis, oclusiones ni malformaciones vasculares",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1484,
+      "end": 1534
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 1797,
+      "end": 1807
+    },
+    {
+      "text": "infarto agudo, hemorragia ni alteraciones vasculares significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2128,
+      "end": 2195
+    },
+    {
+      "text": "estenosis ni signos de trombosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2390,
+      "end": 2422
+    },
+    {
+      "text": "TC craneal basal sin contraste",
+      "type": "TECNICA_IMAGEN",
+      "start": 278,
+      "end": 308
+    },
+    {
+      "text": "protocolo perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 310,
+      "end": 338
+    },
+    {
+      "text": "angiografía por TC arterial intracraneal con contraste intravenoso",
+      "type": "TECNICA_IMAGEN",
+      "start": 342,
+      "end": 408
+    },
+    {
+      "text": "segmentos intracraneales de ACM, ACA, ACP",
+      "type": "ARTERIA",
+      "start": 1373,
+      "end": 1414
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "document_id": "informe_sintetico_20250804195045_06792",
+  "entities": [
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 235,
+      "end": 249
+    },
+    {
+      "text": "arteria cerebral posterior",
+      "type": "ARTERIA",
+      "start": 267,
+      "end": 293
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 314,
+      "end": 330
+    },
+    {
+      "text": "No se evidencian signos de hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 524,
+      "end": 574
+    },
+    {
+      "text": "No se identifican lesiones hipodensas agudas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 608,
+      "end": 652
+    },
+    {
+      "text": "No se observan signos de infarto establecido",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 789,
+      "end": 833
+    },
+    {
+      "text": "pcASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 835,
+      "end": 847
+    },
+    {
+      "text": "prolongación del tiempo de tránsito medio (TTP)",
+      "type": "PATOLOGIA",
+      "start": 880,
+      "end": 927
+    },
+    {
+      "text": "aumento del Tmax",
+      "type": "PATOLOGIA",
+      "start": 930,
+      "end": 946
+    },
+    {
+      "text": "disminución moderada del flujo sanguíneo cerebral (CBF)",
+      "type": "PATOLOGIA",
+      "start": 1018,
+      "end": 1073
+    },
+    {
+      "text": "isquemia en penumbra",
+      "type": "PATOLOGIA",
+      "start": 1172,
+      "end": 1192
+    },
+    {
+      "text": "mismatch significativa entre permeabilidad y volumen cerebral preservado",
+      "type": "PATOLOGIA",
+      "start": 1202,
+      "end": 1274
+    },
+    {
+      "text": "Ausencia de flujo en segmento P2 derecho de arteria cerebral posterior",
+      "type": "PATOLOGIA",
+      "start": 1357,
+      "end": 1427
+    },
+    {
+      "text": "oclusión aguda",
+      "type": "PATOLOGIA",
+      "start": 1443,
+      "end": 1457
+    },
+    {
+      "text": "No se observan aneurismas ni malformaciones vasculares",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1532,
+      "end": 1586
+    },
+    {
+      "text": "Vascularización vertebrobasilar conservada",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1588,
+      "end": 1630
+    },
+    {
+      "text": "No se identifican signos de hemorragia ni infarto establecido",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1659,
+      "end": 1720
+    },
+    {
+      "text": "isquemia en penumbra en territorio derecho de ACP",
+      "type": "PATOLOGIA",
+      "start": 1794,
+      "end": 1843
+    },
+    {
+      "text": "oclusión confirmada en segmento P2",
+      "type": "PATOLOGIA",
+      "start": 1849,
+      "end": 1883
+    },
+    {
+      "text": "sin hallazgos significativos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1918,
+      "end": 1946
+    }
+  ]
+}

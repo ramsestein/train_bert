@@ -1,0 +1,95 @@
+{
+  "document_id": "informe_sintetico_20250804195045_14236",
+  "entities": [
+    {
+      "text": "infarto cerebral de tipo watershed",
+      "type": "PATOLOGIA",
+      "start": 243,
+      "end": 277
+    },
+    {
+      "text": "hipodensidad cortical y subcortical",
+      "type": "PATOLOGIA",
+      "start": 528,
+      "end": 563
+    },
+    {
+      "text": "isquemia en estado temprano o penumbra",
+      "type": "PATOLOGIA",
+      "start": 1242,
+      "end": 1280
+    },
+    {
+      "text": "infarto de tipo watershed bilateral",
+      "type": "PATOLOGIA",
+      "start": 1642,
+      "end": 1677
+    },
+    {
+      "text": "parietal",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 608,
+      "end": 616
+    },
+    {
+      "text": "parietooccipitales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1709,
+      "end": 1727
+    },
+    {
+      "text": "ACAs, ACMs y ACPs",
+      "type": "ARTERIA",
+      "start": 1488,
+      "end": 1505
+    },
+    {
+      "text": "bilateral",
+      "type": "LATERALIDAD",
+      "start": 187,
+      "end": 196
+    },
+    {
+      "text": "ASPECTS 8",
+      "type": "PUNTUACION_CLINICA",
+      "start": 832,
+      "end": 841
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 298,
+      "end": 314
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 317,
+      "end": 338
+    },
+    {
+      "text": "Angio-TC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 341,
+      "end": 371
+    },
+    {
+      "text": "No se identifican focos hemorrágicos intra ni extraaxiales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 447,
+      "end": 505
+    },
+    {
+      "text": "No zonas con déficit completo de perfusión",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1282,
+      "end": 1324
+    },
+    {
+      "text": "sin evidencia de trombosis arterial o estenosis significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1729,
+      "end": 1790
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+UO_PACN (Unidad Organizativa Médica): RADIO
+
+PRUEB (Prueba solicitada): TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANG IOTC ARTERIAL INTRACRANEAL)
+
+CLIN (Resumen clínico): Paciente con inicio súbito de cefalea intensa, náuseas y disminución del nivel de conciencia. Sospecha clínica de hemorragia intracraneal.
+
+OBSR (Protocolo): TC craneal basal sin contraste, seguido de TC perfusión cerebrales y Angio-TC arterial intracraneal para valoración vascular urgente.
+
+RESL (Resultados): 
+TC CRANEAL BASAL:
+Se identifica hemorragia intraventricular primaria, con sangre densa que ocupa los ventrículos laterales, tercer y cuarto ventrículo, sin evidencia de sangrado parenquimatoso adyacente. No se observan imágenes de hemorragia subaracnoidea ni extraaxial. No se evidencian signos de edema periventricular ni desplazamiento de la línea media. Sistema ventricular levemente dilatado debido a la presencia de sangre intraventricular. No hay signos de masa o lesiones expansivas asociadas.
+TC PERFUSIÓN:
+Los mapas de perfusión muestran preservación global del flujo cerebral, sin focos de hipoperfusión ni alteraciones significativas en el volumen capilar cerebral (CBV) ni en el flujo cerebral (CBF). Tiempo de tránsito prolongado en algunas áreas periventriculares, presumiblemente secundario a la hemorragia.
+ANGIO-TC INTRACRANEAL:
+No se identifican aneurismas, malformaciones arteriovenosas ni signos de malformación vascular que expliquen la hemorragia. Vasos intracraneales permeables, sin evidencia de estenosis ni trombosis en los principales troncos arteriales (ACAs, ACMs, ACPs y sistema vertebrobasilar).
+
+CONCL (Conclusiones): Hemorragia intraventricular primaria sin compromiso parenquimatoso adyacente. No se visualizan malformaciones arteriales ni aneurismas que justifiquen el sangrado en la angio-TC. Perfusión cerebral global preservada. Se recomienda evaluación neurológica urgente y manejo neuroquirúrgico para prevenir complicaciones neurológicas secundarias.
+
+ACTI_ADICI (Actividad adicional): Vigilancia clínica y seguimiento con neuroimagen para evaluación de evolución y posibles complicaciones obstructivas o hidrocefálicas.
+
+ICON (Estudio): @RADIO_TC@
+
+X00DIATXT (Texto del diagnóstico ACR): Hemorragia intraventricular primaria sin evidencia de lesión vascular causal. Perfusión cerebral sin alteraciones significativas.
+
+EST_T_DES (Descripción): TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANGIOTC ARTERIAL INTRACRANEAL)
+
+ZVASOS_D (Der.): Informe elaborado por Dr. Radiología Intervencionista.

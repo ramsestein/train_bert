@@ -1,0 +1,83 @@
+{
+  "document_id": "informe_sintetico_20250804195045_01993",
+  "entities": [
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 545,
+      "end": 568
+    },
+    {
+      "text": "alteraciones densitométricas isquémicas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 572,
+      "end": 611
+    },
+    {
+      "text": "isquemia",
+      "type": "PATOLOGIA",
+      "start": 1122,
+      "end": 1130
+    },
+    {
+      "text": "arteria basilar",
+      "type": "ARTERIA",
+      "start": 1151,
+      "end": 1166
+    },
+    {
+      "text": "Oclusión completa de la arteria basilar en su segmento proximal",
+      "type": "PATOLOGIA",
+      "start": 1301,
+      "end": 1364
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 1800,
+      "end": 1814
+    },
+    {
+      "text": "infarto cerebral",
+      "type": "PATOLOGIA",
+      "start": 1898,
+      "end": 1914
+    },
+    {
+      "text": "territorio del tronco encefálico y cerebelo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 889,
+      "end": 932
+    },
+    {
+      "text": "territorio vertebrobasilar",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1918,
+      "end": 1944
+    },
+    {
+      "text": "marcada prolongación del tiempo de tránsito medio (MTT)",
+      "type": "MEDIDA",
+      "start": 789,
+      "end": 844
+    },
+    {
+      "text": "aumento del tiempo hasta el pico (TTP)",
+      "type": "MEDIDA",
+      "start": 847,
+      "end": 885
+    },
+    {
+      "text": "reducción significativa del flujo cerebral (CBF)",
+      "type": "MEDIDA",
+      "start": 948,
+      "end": 996
+    },
+    {
+      "text": "volumen cerebral de sangre (CBV)",
+      "type": "MEDIDA",
+      "start": 999,
+      "end": 1031
+    }
+  ]
+}

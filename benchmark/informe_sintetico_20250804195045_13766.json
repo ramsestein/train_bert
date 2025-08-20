@@ -1,0 +1,95 @@
+{
+  "document_id": "informe_sintetico_20250804195045_13766",
+  "entities": [
+    {
+      "text": "infarto cerebral hemisférico izquierdo reciente",
+      "type": "PATOLOGIA",
+      "start": 179,
+      "end": 226
+    },
+    {
+      "text": "infarto isquémico establecido",
+      "type": "PATOLOGIA",
+      "start": 603,
+      "end": 632
+    },
+    {
+      "text": "transformación hemorrágica grado HI2",
+      "type": "PATOLOGIA",
+      "start": 832,
+      "end": 868
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 555,
+      "end": 587
+    },
+    {
+      "text": "ACM",
+      "type": "ARTERIA",
+      "start": 1567,
+      "end": 1570
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 578,
+      "end": 587
+    },
+    {
+      "text": "HI2",
+      "type": "PUNTUACION_CLINICA",
+      "start": 865,
+      "end": 868
+    },
+    {
+      "text": "disminución del volumen sanguíneo cerebral (CBV)",
+      "type": "PATOLOGIA",
+      "start": 1165,
+      "end": 1213
+    },
+    {
+      "text": "oclusión segmentaria en M1 de ACM izquierda",
+      "type": "PATOLOGIA",
+      "start": 1537,
+      "end": 1580
+    },
+    {
+      "text": "ACMi",
+      "type": "ARTERIA",
+      "start": 1856,
+      "end": 1860
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 353,
+      "end": 369
+    },
+    {
+      "text": "TC PERFUSIÓN",
+      "type": "TECNICA_IMAGEN",
+      "start": 1138,
+      "end": 1150
+    },
+    {
+      "text": "ANGIO-TC EXTRA E INTRACRANEAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 1399,
+      "end": 1428
+    },
+    {
+      "text": "sin estenosis significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1495,
+      "end": 1522
+    },
+    {
+      "text": "sin alteraciones hemodinámicas relevantes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1663,
+      "end": 1704
+    }
+  ]
+}

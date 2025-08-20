@@ -1,0 +1,113 @@
+{
+  "document_id": "informe_sintetico_20250804195045_15965",
+  "entities": [
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 262,
+      "end": 276
+    },
+    {
+      "text": "arteria cerebral anterior (ACA) izquierda",
+      "type": "ARTERIA",
+      "start": 294,
+      "end": 335
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 326,
+      "end": 335
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 750,
+      "end": 760
+    },
+    {
+      "text": "TTP",
+      "type": "MEDIDA",
+      "start": 506,
+      "end": 509
+    },
+    {
+      "text": "CBF",
+      "type": "MEDIDA",
+      "start": 455,
+      "end": 458
+    },
+    {
+      "text": "CBV",
+      "type": "MEDIDA",
+      "start": 479,
+      "end": 482
+    },
+    {
+      "text": "zona de penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1147,
+      "end": 1173
+    },
+    {
+      "text": "infarto establecido",
+      "type": "PATOLOGIA",
+      "start": 1246,
+      "end": 1265
+    },
+    {
+      "text": "defecto de opacificación en segmento A2 izquierdo de la arteria cerebral anterior",
+      "type": "PATOLOGIA",
+      "start": 1312,
+      "end": 1393
+    },
+    {
+      "text": "oclusión arterial aguda",
+      "type": "PATOLOGIA",
+      "start": 1410,
+      "end": 1433
+    },
+    {
+      "text": "izquierdo",
+      "type": "LATERALIDAD",
+      "start": 1352,
+      "end": 1361
+    },
+    {
+      "text": "sin estenosis significativas ni placas ateromatosas relevantes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1519,
+      "end": 1581
+    },
+    {
+      "text": "No se observan malformaciones vasculares ni signos de disección arterial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1583,
+      "end": 1655
+    },
+    {
+      "text": "Ausencia de hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1682,
+      "end": 1717
+    },
+    {
+      "text": "TTP aumentado",
+      "type": "MEDIDA",
+      "start": 1845,
+      "end": 1858
+    },
+    {
+      "text": "CBF disminuido",
+      "type": "MEDIDA",
+      "start": 1860,
+      "end": 1874
+    },
+    {
+      "text": "CBV conservado",
+      "type": "MEDIDA",
+      "start": 1877,
+      "end": 1891
+    }
+  ]
+}

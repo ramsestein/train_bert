@@ -1,0 +1,101 @@
+{
+  "document_id": "informe_sintetico_20250804195045_02418",
+  "entities": [
+    {
+      "text": "infarto subagudo",
+      "type": "PATOLOGIA",
+      "start": 608,
+      "end": 624
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 523,
+      "end": 553
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 523,
+      "end": 553
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 523,
+      "end": 553
+    },
+    {
+      "text": "ACM",
+      "type": "ARTERIA",
+      "start": 2095,
+      "end": 2098
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 546,
+      "end": 553
+    },
+    {
+      "text": "más del 30%",
+      "type": "MEDIDA",
+      "start": 2028,
+      "end": 2039
+    },
+    {
+      "text": "subaguda",
+      "type": "TEMPORALIDAD",
+      "start": 1910,
+      "end": 1918
+    },
+    {
+      "text": "transformación hemorrágica tipo PH2",
+      "type": "PATOLOGIA",
+      "start": 727,
+      "end": 762
+    },
+    {
+      "text": "hemorragia intraparenquimatosa extensa",
+      "type": "PATOLOGIA",
+      "start": 1978,
+      "end": 2016
+    },
+    {
+      "text": "No se observan hemorragias extraaxiales ni hematomas subdurales o epidurales.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 939,
+      "end": 1016
+    },
+    {
+      "text": "No desplazamiento de línea media ni efecto masa significativo.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2108,
+      "end": 2170
+    },
+    {
+      "text": "TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANG IOTC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 72,
+      "end": 140
+    },
+    {
+      "text": "TC CRANEAL BASAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 454,
+      "end": 470
+    },
+    {
+      "text": "TC PERFUSIÓN",
+      "type": "TECNICA_IMAGEN",
+      "start": 1195,
+      "end": 1207
+    },
+    {
+      "text": "ANGIO-TC EXTRA E INTRACRANEAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 1519,
+      "end": 1548
+    }
+  ]
+}

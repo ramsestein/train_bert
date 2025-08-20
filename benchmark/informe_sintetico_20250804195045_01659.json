@@ -1,0 +1,119 @@
+{
+  "document_id": "informe_sintetico_20250804195045_01659",
+  "entities": [
+    {
+      "text": "infarto cerebral isquémico",
+      "type": "PATOLOGIA",
+      "start": 241,
+      "end": 267
+    },
+    {
+      "text": "hipodensidad extensa",
+      "type": "PATOLOGIA",
+      "start": 485,
+      "end": 505
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 526,
+      "end": 556
+    },
+    {
+      "text": "infarto isquémico en evolución",
+      "type": "PATOLOGIA",
+      "start": 573,
+      "end": 603
+    },
+    {
+      "text": "ASPECTS 6",
+      "type": "PUNTUACION_CLINICA",
+      "start": 605,
+      "end": 614
+    },
+    {
+      "text": "área hiperdensa parietal derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 628,
+      "end": 660
+    },
+    {
+      "text": "transformación hemorrágica tipo PH1",
+      "type": "PATOLOGIA",
+      "start": 805,
+      "end": 840
+    },
+    {
+      "text": "sangrado petequial sin efecto de masa significativo",
+      "type": "PATOLOGIA",
+      "start": 842,
+      "end": 893
+    },
+    {
+      "text": "No hemorragia intraventricular",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 896,
+      "end": 926
+    },
+    {
+      "text": "No desplazamiento de estructuras de la línea media",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2015,
+      "end": 2065
+    },
+    {
+      "text": "Oclusión parcial del segmento proximal M2 de la arteria cerebral media derecha",
+      "type": "PATOLOGIA",
+      "start": 1373,
+      "end": 1451
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 526,
+      "end": 556
+    },
+    {
+      "text": "segmento proximal M2 derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1892,
+      "end": 1920
+    },
+    {
+      "text": "sin estenosis significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1546,
+      "end": 1573
+    },
+    {
+      "text": "Sistema vertebrobasilar permeable",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1575,
+      "end": 1608
+    },
+    {
+      "text": "penumbra isquémica residual",
+      "type": "PATOLOGIA",
+      "start": 1315,
+      "end": 1342
+    },
+    {
+      "text": "TC craneal basal sin contraste",
+      "type": "TECNICA_IMAGEN",
+      "start": 288,
+      "end": 318
+    },
+    {
+      "text": "perfusión cerebral con contraste intravenoso",
+      "type": "TECNICA_IMAGEN",
+      "start": 331,
+      "end": 375
+    },
+    {
+      "text": "AngioTC arterial intracraneal y extracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 378,
+      "end": 422
+    }
+  ]
+}

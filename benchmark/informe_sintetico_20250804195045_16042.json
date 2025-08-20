@@ -1,0 +1,71 @@
+{
+  "document_id": "informe_sintetico_20250804195045_16042",
+  "entities": [
+    {
+      "text": "hematoma lobar frontoparietal izquierdo",
+      "type": "PATOLOGIA",
+      "start": 439,
+      "end": 478
+    },
+    {
+      "text": "región frontal superior",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 497,
+      "end": 520
+    },
+    {
+      "text": "4,5 x 3,2 x 3,8 cm",
+      "type": "MEDIDA",
+      "start": 553,
+      "end": 571
+    },
+    {
+      "text": "28 cc",
+      "type": "MEDIDA",
+      "start": 612,
+      "end": 617
+    },
+    {
+      "text": "agudo",
+      "type": "TEMPORALIDAD",
+      "start": 680,
+      "end": 685
+    },
+    {
+      "text": "4 mm",
+      "type": "MEDIDA",
+      "start": 874,
+      "end": 878
+    },
+    {
+      "text": "sin alteración significativa en el volumen cerebral de sangre",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1333,
+      "end": 1394
+    },
+    {
+      "text": "sin signos de disección ni malformaciones vascular",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1588,
+      "end": 1638
+    },
+    {
+      "text": "sin hallazgos patológicos vasculares",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1954,
+      "end": 1990
+    },
+    {
+      "text": "TC craneal basal urgente con contraste y estudio de perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 258,
+      "end": 328
+    },
+    {
+      "text": "angio-TC de arterias supra e intracraneales",
+      "type": "TECNICA_IMAGEN",
+      "start": 340,
+      "end": 383
+    }
+  ]
+}

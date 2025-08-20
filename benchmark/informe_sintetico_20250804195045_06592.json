@@ -1,0 +1,157 @@
+{
+  "document_id": "informe_sintetico_20250804195045_06592",
+  "entities": [
+    {
+      "text": "infarto",
+      "type": "PATOLOGIA",
+      "start": 209,
+      "end": 216
+    },
+    {
+      "text": "isquemia",
+      "type": "PATOLOGIA",
+      "start": 656,
+      "end": 664
+    },
+    {
+      "text": "hemorragia intra o extraaxial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 446,
+      "end": 475
+    },
+    {
+      "text": "pequeñas áreas hipodensas",
+      "type": "PATOLOGIA",
+      "start": 489,
+      "end": 514
+    },
+    {
+      "text": "regiones corticales frontoparietal derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 518,
+      "end": 560
+    },
+    {
+      "text": "parietooccipital izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 563,
+      "end": 589
+    },
+    {
+      "text": "línea media",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 706,
+      "end": 717
+    },
+    {
+      "text": "tiempo de tránsito medio (MTT)",
+      "type": "MEDIDA",
+      "start": 855,
+      "end": 885
+    },
+    {
+      "text": "tiempo hasta el pico (TTP)",
+      "type": "MEDIDA",
+      "start": 900,
+      "end": 926
+    },
+    {
+      "text": "disminución moderada del flujo cerebral (CBF)",
+      "type": "MEDIDA",
+      "start": 1008,
+      "end": 1053
+    },
+    {
+      "text": "caída significativa del volumen cerebral (CBV)",
+      "type": "MEDIDA",
+      "start": 1058,
+      "end": 1104
+    },
+    {
+      "text": "infartos en zonas de watershed corticales frontoparietal derecha",
+      "type": "PATOLOGIA",
+      "start": 1539,
+      "end": 1603
+    },
+    {
+      "text": "parietooccipital izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 563,
+      "end": 589
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1654,
+      "end": 1677
+    },
+    {
+      "text": "isquemia en territorio de irrigación límite",
+      "type": "PATOLOGIA",
+      "start": 1768,
+      "end": 1811
+    },
+    {
+      "text": "estenosis ni oclusiones significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1838,
+      "end": 1876
+    },
+    {
+      "text": "Arco aórtico",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1202,
+      "end": 1214
+    },
+    {
+      "text": "sin estenosis significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1344,
+      "end": 1371
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 265,
+      "end": 281
+    },
+    {
+      "text": "perfusión cerebral dinámica",
+      "type": "TECNICA_IMAGEN",
+      "start": 293,
+      "end": 320
+    },
+    {
+      "text": "angiografía por AngioTC",
+      "type": "TECNICA_IMAGEN",
+      "start": 323,
+      "end": 346
+    },
+    {
+      "text": "AngioTC",
+      "type": "TECNICA_IMAGEN",
+      "start": 339,
+      "end": 346
+    },
+    {
+      "text": "TC CODIGO ICTUS",
+      "type": "TECNICA_IMAGEN",
+      "start": 72,
+      "end": 87
+    },
+    {
+      "text": "PERFUSION CEREBRAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 89,
+      "end": 107
+    },
+    {
+      "text": "ANGIOTC ARTERIAL INTRACRANEAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 2300,
+      "end": 2329
+    }
+  ],
+  "regenerado": true,
+  "fecha_regeneracion": "2025-08-06T12:37:19.995035"
+}

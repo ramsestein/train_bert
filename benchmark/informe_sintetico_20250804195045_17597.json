@@ -1,0 +1,71 @@
+{
+  "document_id": "informe_sintetico_20250804195045_17597",
+  "entities": [
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 230,
+      "end": 244
+    },
+    {
+      "text": "región parietal y frontal medial izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 550,
+      "end": 592
+    },
+    {
+      "text": "ASPECTS 8/10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 696,
+      "end": 708
+    },
+    {
+      "text": "territorio arterial anterior izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 928,
+      "end": 966
+    },
+    {
+      "text": "tiempo medio de tránsito (MTT)",
+      "type": "MEDIDA",
+      "start": 894,
+      "end": 924
+    },
+    {
+      "text": "flujo cerebral sanguíneo (CBF)",
+      "type": "MEDIDA",
+      "start": 1000,
+      "end": 1030
+    },
+    {
+      "text": "volumen sanguíneo cerebral (CBV)",
+      "type": "MEDIDA",
+      "start": 1033,
+      "end": 1065
+    },
+    {
+      "text": "arteria cerebral media (ACM) izquierda",
+      "type": "ARTERIA",
+      "start": 1309,
+      "end": 1347
+    },
+    {
+      "text": "sin hallazgos patológicos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1423,
+      "end": 1448
+    },
+    {
+      "text": "No se observan placas ateromatosas de gran significación",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1450,
+      "end": 1506
+    },
+    {
+      "text": "No hay signos de hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1776,
+      "end": 1816
+    }
+  ]
+}

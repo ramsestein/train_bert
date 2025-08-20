@@ -1,0 +1,83 @@
+{
+  "document_id": "informe_sintetico_20250804195045_19944",
+  "entities": [
+    {
+      "text": "infarto cerebral lacunar",
+      "type": "PATOLOGIA",
+      "start": 215,
+      "end": 239
+    },
+    {
+      "text": "cápsula interna izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 514,
+      "end": 539
+    },
+    {
+      "text": "6 mm",
+      "type": "MEDIDA",
+      "start": 491,
+      "end": 495
+    },
+    {
+      "text": "agudo",
+      "type": "TEMPORALIDAD",
+      "start": 1047,
+      "end": 1052
+    },
+    {
+      "text": "infarto lacunar agudo",
+      "type": "PATOLOGIA",
+      "start": 1031,
+      "end": 1052
+    },
+    {
+      "text": "cápsula interna izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 514,
+      "end": 539
+    },
+    {
+      "text": "sin evidencia de hemorragia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 541,
+      "end": 568
+    },
+    {
+      "text": "sin evidencia de oclusiones ni estenosis relevantes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1153,
+      "end": 1204
+    },
+    {
+      "text": "permeabilidad conservada de la circulación intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1096,
+      "end": 1151
+    },
+    {
+      "text": "isquemia",
+      "type": "PATOLOGIA",
+      "start": 1542,
+      "end": 1550
+    },
+    {
+      "text": "sustancia blanca",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1574,
+      "end": 1590
+    },
+    {
+      "text": "Angio-TC",
+      "type": "TECNICA_IMAGEN",
+      "start": 380,
+      "end": 388
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 259,
+      "end": 275
+    }
+  ]
+}

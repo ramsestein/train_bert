@@ -1,0 +1,95 @@
+{
+  "document_id": "0000000010000000059172466_cleaned",
+  "entities": [
+    {
+      "text": "Infart cerebral causat per oclusió o estenosi no especificades d'artèria cerebral no especificada",
+      "type": "PATOLOGIA",
+      "start": 192,
+      "end": 289
+    },
+    {
+      "text": "No se observan signos de hemorragia intra ni extraaxial.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 413,
+      "end": 469
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 470,
+      "end": 480
+    },
+    {
+      "text": "No se observan lesiones de isquemia establecida.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 528,
+      "end": 576
+    },
+    {
+      "text": "Estructuras de la línea media centradas.",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 577,
+      "end": 617
+    },
+    {
+      "text": "Sistema ventricular de tamaño y morfología normal.",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 618,
+      "end": 668
+    },
+    {
+      "text": "Cisternas basales libres de ocupación.",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 669,
+      "end": 707
+    },
+    {
+      "text": "No se observan alteraciones valorables en el TTP, CBV y CBF (No hay discordancia significativa).",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 722,
+      "end": 818
+    },
+    {
+      "text": "Principales arterias cerebrales intracraneales permeables (ACAs, ACMs y ACPs).",
+      "type": "ARTERIA",
+      "start": 850,
+      "end": 928
+    },
+    {
+      "text": "Sistema vertebrobasilar permeable.",
+      "type": "ARTERIA",
+      "start": 929,
+      "end": 963
+    },
+    {
+      "text": "Circulación carotídea-cervical y arco aórtico sin signos de estenosis significativa.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 964,
+      "end": 1048
+    },
+    {
+      "text": "No hay signos de oclusión vascular intracraneal.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1072,
+      "end": 1120
+    },
+    {
+      "text": "ASPECTS 10.",
+      "type": "PUNTUACION_CLINICA",
+      "start": 1121,
+      "end": 1132
+    },
+    {
+      "text": "AngioTC sin alteraciones significativas.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1133,
+      "end": 1173
+    },
+    {
+      "text": "TC CRANEAL BASAL + PERFUSION + ANGIOTC INTRA-EXTRACRANEAL URGENTE",
+      "type": "TECNICA_IMAGEN",
+      "start": 309,
+      "end": 374
+    }
+  ]
+}

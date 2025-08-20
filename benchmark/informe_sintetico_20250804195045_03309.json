@@ -1,0 +1,65 @@
+{
+  "document_id": "informe_sintetico_20250804195045_03309",
+  "entities": [
+    {
+      "text": "infartos tipo watershed",
+      "type": "PATOLOGIA",
+      "start": 658,
+      "end": 681
+    },
+    {
+      "text": "región subcortical bilateral",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 546,
+      "end": 574
+    },
+    {
+      "text": "parieto-occipitales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 621,
+      "end": 640
+    },
+    {
+      "text": "bilateral",
+      "type": "LATERALIDAD",
+      "start": 565,
+      "end": 574
+    },
+    {
+      "text": "volumen cerebral (CBV)",
+      "type": "MEDIDA",
+      "start": 1086,
+      "end": 1108
+    },
+    {
+      "text": "sin desplazamientos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 783,
+      "end": 802
+    },
+    {
+      "text": "sin estenosis ni placas ateromatosas relevantes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1332,
+      "end": 1379
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 285,
+      "end": 301
+    },
+    {
+      "text": "TC PERFUSIÓN",
+      "type": "TECNICA_IMAGEN",
+      "start": 887,
+      "end": 899
+    },
+    {
+      "text": "ANGIO-TC EXTRA E INTRACRANEAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 1221,
+      "end": 1250
+    }
+  ]
+}

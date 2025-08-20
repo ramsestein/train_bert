@@ -1,0 +1,223 @@
+{
+  "document_id": "informe_sintetico_20250804195045_05422",
+  "entities": [
+    {
+      "text": "cefalea brusca",
+      "type": "PATOLOGIA",
+      "start": 194,
+      "end": 208
+    },
+    {
+      "text": "déficits neurológicos focales",
+      "type": "PATOLOGIA",
+      "start": 223,
+      "end": 252
+    },
+    {
+      "text": "hemorragias agudas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 474,
+      "end": 492
+    },
+    {
+      "text": "colecciones extraaxiales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 496,
+      "end": 520
+    },
+    {
+      "text": "diferenciación cortico-subcortical",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 525,
+      "end": 559
+    },
+    {
+      "text": "focos de hipodensidad",
+      "type": "PATOLOGIA",
+      "start": 601,
+      "end": 622
+    },
+    {
+      "text": "sustancia blanca periventricular",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 626,
+      "end": 658
+    },
+    {
+      "text": "cambios microangiopáticos crónicos",
+      "type": "PATOLOGIA",
+      "start": 675,
+      "end": 709
+    },
+    {
+      "text": "ASPECTS",
+      "type": "PUNTUACION_CLINICA",
+      "start": 733,
+      "end": 740
+    },
+    {
+      "text": "10/10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 742,
+      "end": 747
+    },
+    {
+      "text": "línea media",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 753,
+      "end": 764
+    },
+    {
+      "text": "cisternas basales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 815,
+      "end": 832
+    },
+    {
+      "text": "morfología y tamaño normales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 836,
+      "end": 864
+    },
+    {
+      "text": "Parámetros de perfusión cerebral",
+      "type": "PATOLOGIA",
+      "start": 883,
+      "end": 915
+    },
+    {
+      "text": "TTP",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 917,
+      "end": 920
+    },
+    {
+      "text": "CBV",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 922,
+      "end": 925
+    },
+    {
+      "text": "CBF",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 927,
+      "end": 930
+    },
+    {
+      "text": "estenosis significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1060,
+      "end": 1084
+    },
+    {
+      "text": "placas ateromatosas relevantes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1087,
+      "end": 1117
+    },
+    {
+      "text": "Carótidas internas",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1119,
+      "end": 1137
+    },
+    {
+      "text": "vertebrales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1140,
+      "end": 1151
+    },
+    {
+      "text": "oclusión",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1259,
+      "end": 1267
+    },
+    {
+      "text": "estenosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1060,
+      "end": 1069
+    },
+    {
+      "text": "flujo adecuado",
+      "type": "PATOLOGIA",
+      "start": 1285,
+      "end": 1299
+    },
+    {
+      "text": "arterias cerebrales anteriores",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1303,
+      "end": 1333
+    },
+    {
+      "text": "medias",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1335,
+      "end": 1341
+    },
+    {
+      "text": "posteriores",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1344,
+      "end": 1355
+    },
+    {
+      "text": "TC código ictus",
+      "type": "TECNICA_IMAGEN",
+      "start": 1417,
+      "end": 1432
+    },
+    {
+      "text": "hallazgos agudos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1437,
+      "end": 1453
+    },
+    {
+      "text": "ASPECTS 10/10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 1455,
+      "end": 1468
+    },
+    {
+      "text": "cambios microangiopáticos crónicos",
+      "type": "PATOLOGIA",
+      "start": 675,
+      "end": 709
+    },
+    {
+      "text": "implicación clínica aguda",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1518,
+      "end": 1543
+    },
+    {
+      "text": "Perfusión cerebral",
+      "type": "PATOLOGIA",
+      "start": 1545,
+      "end": 1563
+    },
+    {
+      "text": "AngioTC arterial normativos",
+      "type": "PATOLOGIA",
+      "start": 1566,
+      "end": 1593
+    },
+    {
+      "text": "signos de isquemia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1599,
+      "end": 1617
+    },
+    {
+      "text": "hemorragia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 474,
+      "end": 484
+    }
+  ],
+  "regenerado": true,
+  "fecha_regeneracion": "2025-08-06T03:31:33.672605"
+}

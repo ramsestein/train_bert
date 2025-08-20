@@ -1,0 +1,59 @@
+{
+  "document_id": "0000000010000000060842764_cleaned",
+  "entities": [
+    {
+      "text": "Hemorràgia subaracnoidal no traumàtica",
+      "type": "PATOLOGIA",
+      "start": 168,
+      "end": 206
+    },
+    {
+      "text": "localització no especificada",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 210,
+      "end": 238
+    },
+    {
+      "text": "TC CRANEAL basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 258,
+      "end": 274
+    },
+    {
+      "text": "TC perfusión",
+      "type": "TECNICA_IMAGEN",
+      "start": 277,
+      "end": 289
+    },
+    {
+      "text": "contaminación hemática en asta occipital del VLd",
+      "type": "PATOLOGIA",
+      "start": 606,
+      "end": 654
+    },
+    {
+      "text": "catéter DVE con extremo intraparenquimatoso en caudado derecho",
+      "type": "PATOLOGIA",
+      "start": 690,
+      "end": 752
+    },
+    {
+      "text": "sin signos de hidrocefalia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 828,
+      "end": 854
+    },
+    {
+      "text": "sin cambios",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 754,
+      "end": 765
+    },
+    {
+      "text": "no se observan signos de vasoespasmo en TC perfusión",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1213,
+      "end": 1265
+    }
+  ]
+}

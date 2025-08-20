@@ -1,0 +1,89 @@
+{
+  "document_id": "informe_sintetico_20250804195045_11394",
+  "entities": [
+    {
+      "text": "infarto watershed",
+      "type": "PATOLOGIA",
+      "start": 240,
+      "end": 257
+    },
+    {
+      "text": "infarto isquémico temprano",
+      "type": "PATOLOGIA",
+      "start": 735,
+      "end": 761
+    },
+    {
+      "text": "zonas frontoparietales bilaterales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 644,
+      "end": 678
+    },
+    {
+      "text": "territorios de irrigación fronteriza entre las arterias cerebrales media y anterior",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1076,
+      "end": 1159
+    },
+    {
+      "text": "arterias cerebrales media",
+      "type": "ARTERIA",
+      "start": 1123,
+      "end": 1148
+    },
+    {
+      "text": "bilateral",
+      "type": "LATERALIDAD",
+      "start": 667,
+      "end": 676
+    },
+    {
+      "text": "moderada",
+      "type": "MEDIDA",
+      "start": 1182,
+      "end": 1190
+    },
+    {
+      "text": "leves",
+      "type": "MEDIDA",
+      "start": 714,
+      "end": 719
+    },
+    {
+      "text": "sin estenosis crítica",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1442,
+      "end": 1463
+    },
+    {
+      "text": "sin alteraciones hemodinámicas graves",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1593,
+      "end": 1630
+    },
+    {
+      "text": "sin evidencias de estenosis significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1502,
+      "end": 1543
+    },
+    {
+      "text": "TC craneal sin contraste",
+      "type": "TECNICA_IMAGEN",
+      "start": 310,
+      "end": 334
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 336,
+      "end": 357
+    },
+    {
+      "text": "angioTC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 388,
+      "end": 417
+    }
+  ]
+}

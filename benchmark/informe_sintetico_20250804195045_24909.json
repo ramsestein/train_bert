@@ -1,0 +1,233 @@
+{
+  "document_id": "informe_sintetico_20250804195045_24909",
+  "entities": [
+    {
+      "text": "ictus isquémico",
+      "type": "PATOLOGIA",
+      "start": 215,
+      "end": 230
+    },
+    {
+      "text": "hemiparesia derecha",
+      "type": "PATOLOGIA",
+      "start": 319,
+      "end": 338
+    },
+    {
+      "text": "transformación hemorrágica",
+      "type": "PATOLOGIA",
+      "start": 423,
+      "end": 449
+    },
+    {
+      "text": "TC craneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 481,
+      "end": 491
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "ARTERIA",
+      "start": 764,
+      "end": 796
+    },
+    {
+      "text": "transformación hemorrágica tipo PH2",
+      "type": "PATOLOGIA",
+      "start": 816,
+      "end": 851
+    },
+    {
+      "text": "25 ml",
+      "type": "MEDIDA",
+      "start": 880,
+      "end": 885
+    },
+    {
+      "text": "4 mm",
+      "type": "MEDIDA",
+      "start": 1025,
+      "end": 1029
+    },
+    {
+      "text": "hemorragia subaracnoidea",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1059,
+      "end": 1083
+    },
+    {
+      "text": "hematomas extraaxiales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1087,
+      "end": 1109
+    },
+    {
+      "text": "volumen cerebral (CBV)",
+      "type": "PATOLOGIA",
+      "start": 1361,
+      "end": 1383
+    },
+    {
+      "text": "tiempo de tránsito medio (MTT)",
+      "type": "PATOLOGIA",
+      "start": 1451,
+      "end": 1481
+    },
+    {
+      "text": "daño tisular severo",
+      "type": "PATOLOGIA",
+      "start": 1498,
+      "end": 1517
+    },
+    {
+      "text": "reperfusión tardía",
+      "type": "PATOLOGIA",
+      "start": 1520,
+      "end": 1538
+    },
+    {
+      "text": "oclusión completa",
+      "type": "PATOLOGIA",
+      "start": 1626,
+      "end": 1643
+    },
+    {
+      "text": "arteria cerebral media izquierda (M1)",
+      "type": "ARTERIA",
+      "start": 1672,
+      "end": 1709
+    },
+    {
+      "text": "signos de recanalización",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1728,
+      "end": 1752
+    },
+    {
+      "text": "malformaciones vasculares",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1814,
+      "end": 1839
+    },
+    {
+      "text": "aneurismas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1843,
+      "end": 1853
+    },
+    {
+      "text": "transformación hemorrágica parenquimatosa tipo PH2",
+      "type": "PATOLOGIA",
+      "start": 1895,
+      "end": 1945
+    },
+    {
+      "text": "gran volumen",
+      "type": "PATOLOGIA",
+      "start": 1949,
+      "end": 1961
+    },
+    {
+      "text": "edema perilesional",
+      "type": "PATOLOGIA",
+      "start": 898,
+      "end": 916
+    },
+    {
+      "text": "desplazamiento de línea media leve a moderado",
+      "type": "PATOLOGIA",
+      "start": 2040,
+      "end": 2085
+    },
+    {
+      "text": "reperfusión tardía",
+      "type": "PATOLOGIA",
+      "start": 1520,
+      "end": 1538
+    },
+    {
+      "text": "daño tisular severo en perfusión cerebral",
+      "type": "PATOLOGIA",
+      "start": 2138,
+      "end": 2179
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "ARTERIA",
+      "start": 764,
+      "end": 796
+    },
+    {
+      "text": "sin recanalización",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2240,
+      "end": 2258
+    },
+    {
+      "text": "hemorragia subaracnoidea",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1059,
+      "end": 1083
+    },
+    {
+      "text": "lesiones vasculares adicionales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2303,
+      "end": 2334
+    },
+    {
+      "text": "transformación hemorrágica tipo PH2",
+      "type": "PATOLOGIA",
+      "start": 816,
+      "end": 851
+    },
+    {
+      "text": "infarto cerebral",
+      "type": "PATOLOGIA",
+      "start": 2737,
+      "end": 2753
+    },
+    {
+      "text": "territorio MCA izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 2757,
+      "end": 2781
+    },
+    {
+      "text": "edema perilesional",
+      "type": "PATOLOGIA",
+      "start": 898,
+      "end": 916
+    },
+    {
+      "text": "desplazamiento de línea media",
+      "type": "PATOLOGIA",
+      "start": 2040,
+      "end": 2069
+    },
+    {
+      "text": "TC Cod. Ictus",
+      "type": "TECNICA_IMAGEN",
+      "start": 2571,
+      "end": 2584
+    },
+    {
+      "text": "perfusión",
+      "type": "TECNICA_IMAGEN",
+      "start": 549,
+      "end": 558
+    },
+    {
+      "text": "angioTC",
+      "type": "TECNICA_IMAGEN",
+      "start": 2601,
+      "end": 2608
+    },
+    {
+      "text": "arterial",
+      "type": "TECNICA_IMAGEN",
+      "start": 579,
+      "end": 587
+    }
+  ]
+}

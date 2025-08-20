@@ -1,0 +1,95 @@
+{
+  "document_id": "informe_sintetico_20250804195045_22472",
+  "entities": [
+    {
+      "text": "isquemia cerebral",
+      "type": "PATOLOGIA",
+      "start": 238,
+      "end": 255
+    },
+    {
+      "text": "arteria cerebral posterior izquierda",
+      "type": "ARTERIA",
+      "start": 273,
+      "end": 309
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 208,
+      "end": 215
+    },
+    {
+      "text": "agudo",
+      "type": "TEMPORALIDAD",
+      "start": 186,
+      "end": 191
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 606,
+      "end": 616
+    },
+    {
+      "text": "No se evidencian signos de hemorragia intraparenquimatosa ni extraaxial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 483,
+      "end": 554
+    },
+    {
+      "text": "No se identifican áreas hipodensas sugestivas de infarto establecido",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 618,
+      "end": 686
+    },
+    {
+      "text": "No se observan signos de edema cerebral significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 782,
+      "end": 835
+    },
+    {
+      "text": "Oclusión en segmento proximal de la arteria cerebral posterior izquierda (P1-P2)",
+      "type": "PATOLOGIA",
+      "start": 1213,
+      "end": 1293
+    },
+    {
+      "text": "sin estenosis significativa ni placa ateromatosa relevante",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1402,
+      "end": 1460
+    },
+    {
+      "text": "sin evidencia de sangrado ni infarto establecido",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1543,
+      "end": 1591
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 1639,
+      "end": 1653
+    },
+    {
+      "text": "arteria cerebral posterior izquierda",
+      "type": "ARTERIA",
+      "start": 273,
+      "end": 309
+    },
+    {
+      "text": "penumbra significativa",
+      "type": "PATOLOGIA",
+      "start": 1720,
+      "end": 1742
+    },
+    {
+      "text": "oclusión proximal de ACP izquierda",
+      "type": "PATOLOGIA",
+      "start": 1760,
+      "end": 1794
+    }
+  ]
+}

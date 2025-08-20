@@ -1,0 +1,119 @@
+{
+  "document_id": "informe_sintetico_20250804195045_21880",
+  "entities": [
+    {
+      "text": "infartos",
+      "type": "PATOLOGIA",
+      "start": 982,
+      "end": 990
+    },
+    {
+      "text": "watershed",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1003,
+      "end": 1012
+    },
+    {
+      "text": "parietal",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 764,
+      "end": 772
+    },
+    {
+      "text": "parietooccipital",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 887,
+      "end": 903
+    },
+    {
+      "text": "arterias cerebrales anterior",
+      "type": "ARTERIA",
+      "start": 826,
+      "end": 854
+    },
+    {
+      "text": "media",
+      "type": "ARTERIA",
+      "start": 857,
+      "end": 862
+    },
+    {
+      "text": "posterior",
+      "type": "ARTERIA",
+      "start": 949,
+      "end": 958
+    },
+    {
+      "text": "bilaterales",
+      "type": "LATERALIDAD",
+      "start": 1259,
+      "end": 1270
+    },
+    {
+      "text": "discreta hipodensidad cortical y subcortical bilateral",
+      "type": "PATOLOGIA",
+      "start": 664,
+      "end": 718
+    },
+    {
+      "text": "No se identifican hemorragias intracraneales ni colecciones extraaxiales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 579,
+      "end": 651
+    },
+    {
+      "text": "No se aprecian desplazamientos de la línea media ni signos de hidrocefalia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1014,
+      "end": 1088
+    },
+    {
+      "text": "Evidente disminución del flujo sanguíneo cerebral (CBF) y volumen sanguíneo cerebral (CBV)",
+      "type": "PATOLOGIA",
+      "start": 1114,
+      "end": 1204
+    },
+    {
+      "text": "aumento significativo del tiempo hasta el pico (Tmax)",
+      "type": "PATOLOGIA",
+      "start": 1288,
+      "end": 1341
+    },
+    {
+      "text": "infarto watershed",
+      "type": "PATOLOGIA",
+      "start": 1409,
+      "end": 1426
+    },
+    {
+      "text": "sin estenosis significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1527,
+      "end": 1554
+    },
+    {
+      "text": "No se identifican oclusiones ni estenosis mayores en arterias cerebrales anteriores, medias o posteriores",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1606,
+      "end": 1711
+    },
+    {
+      "text": "No se observan signos de vasoespasmo ni trombosis arterial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1713,
+      "end": 1771
+    },
+    {
+      "text": "infartos por hipoperfusión en territorio limítrofe",
+      "type": "PATOLOGIA",
+      "start": 2238,
+      "end": 2288
+    },
+    {
+      "text": "TC con perfusión cerebral y AngioTC arterial",
+      "type": "TECNICA_IMAGEN",
+      "start": 2523,
+      "end": 2567
+    }
+  ]
+}

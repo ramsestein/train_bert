@@ -1,0 +1,71 @@
+{
+  "document_id": "informe_sintetico_20250804195045_23343",
+  "entities": [
+    {
+      "text": "hematoma lobar",
+      "type": "PATOLOGIA",
+      "start": 511,
+      "end": 525
+    },
+    {
+      "text": "frontal izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 478,
+      "end": 495
+    },
+    {
+      "text": "3.5 x 2.2 cm",
+      "type": "MEDIDA",
+      "start": 548,
+      "end": 560
+    },
+    {
+      "text": "agudas",
+      "type": "TEMPORALIDAD",
+      "start": 1327,
+      "end": 1333
+    },
+    {
+      "text": "isquémicas",
+      "type": "PATOLOGIA",
+      "start": 1024,
+      "end": 1034
+    },
+    {
+      "text": "TC craneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 307,
+      "end": 317
+    },
+    {
+      "text": "24-48 horas",
+      "type": "MEDIDA",
+      "start": 1599,
+      "end": 1610
+    },
+    {
+      "text": "No se observan signos de fractura ósea asociada.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 679,
+      "end": 727
+    },
+    {
+      "text": "sin evidencia de hidrocefalia.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 851,
+      "end": 881
+    },
+    {
+      "text": "sin signos de estenosis ni oclusión.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1116,
+      "end": 1152
+    },
+    {
+      "text": "Sistema vertebrobasilar normoperfundido.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1211,
+      "end": 1251
+    }
+  ]
+}

@@ -1,0 +1,245 @@
+{
+  "document_id": "informe_sintetico_20250804195045_03192",
+  "entities": [
+    {
+      "text": "hemiparesia izquierda",
+      "type": "PATOLOGIA",
+      "start": 196,
+      "end": 217
+    },
+    {
+      "text": "afasia",
+      "type": "PATOLOGIA",
+      "start": 220,
+      "end": 226
+    },
+    {
+      "text": "ictus isquémico",
+      "type": "PATOLOGIA",
+      "start": 248,
+      "end": 263
+    },
+    {
+      "text": "territorio de ACM derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 267,
+      "end": 292
+    },
+    {
+      "text": "arteria hiperdensa",
+      "type": "PATOLOGIA",
+      "start": 484,
+      "end": 502
+    },
+    {
+      "text": "segmento M1 de la arteria cerebral media derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 506,
+      "end": 554
+    },
+    {
+      "text": "hipodensidad",
+      "type": "PATOLOGIA",
+      "start": 567,
+      "end": 579
+    },
+    {
+      "text": "pérdida parcial de la diferenciación cortico-subcortical",
+      "type": "PATOLOGIA",
+      "start": 584,
+      "end": 640
+    },
+    {
+      "text": "ACM derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 281,
+      "end": 292
+    },
+    {
+      "text": "núcleo lenticular",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 685,
+      "end": 702
+    },
+    {
+      "text": "corona radiada",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 717,
+      "end": 731
+    },
+    {
+      "text": "ASPECTS 6",
+      "type": "PUNTUACION_CLINICA",
+      "start": 737,
+      "end": 746
+    },
+    {
+      "text": "hemorragia intra ni extraaxial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 769,
+      "end": 799
+    },
+    {
+      "text": "lesiones crónicas de relevancia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 913,
+      "end": 944
+    },
+    {
+      "text": "parámetros alterados",
+      "type": "PATOLOGIA",
+      "start": 978,
+      "end": 998
+    },
+    {
+      "text": "territorio vascular derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1002,
+      "end": 1029
+    },
+    {
+      "text": "Tiempo de tránsito medio (TTP)",
+      "type": "MEDIDA",
+      "start": 1031,
+      "end": 1061
+    },
+    {
+      "text": "Tmax aumentados",
+      "type": "MEDIDA",
+      "start": 1064,
+      "end": 1079
+    },
+    {
+      "text": "flujo cerebral (CBF)",
+      "type": "MEDIDA",
+      "start": 1107,
+      "end": 1127
+    },
+    {
+      "text": "volumen cerebral (CBV) disminuido",
+      "type": "MEDIDA",
+      "start": 1130,
+      "end": 1163
+    },
+    {
+      "text": "núcleo lenticular",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 685,
+      "end": 702
+    },
+    {
+      "text": "segmento anterior del territorio M1 derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1187,
+      "end": 1230
+    },
+    {
+      "text": "discordancia de perfusión",
+      "type": "PATOLOGIA",
+      "start": 1239,
+      "end": 1264
+    },
+    {
+      "text": "área de isquemia crítica",
+      "type": "PATOLOGIA",
+      "start": 1281,
+      "end": 1305
+    },
+    {
+      "text": "tejido en penumbra",
+      "type": "PATOLOGIA",
+      "start": 1310,
+      "end": 1328
+    },
+    {
+      "text": "región cortical frontoparietal derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1332,
+      "end": 1370
+    },
+    {
+      "text": "segmento proximal M1 de la arteria cerebral media derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1428,
+      "end": 1485
+    },
+    {
+      "text": "estenosis significativa",
+      "type": "PATOLOGIA",
+      "start": 1531,
+      "end": 1554
+    },
+    {
+      "text": "Ateromatosis calcificada a nivel del bulbo carotídeo derecho",
+      "type": "PATOLOGIA",
+      "start": 1556,
+      "end": 1616
+    },
+    {
+      "text": "estenosis relevante",
+      "type": "PATOLOGIA",
+      "start": 1621,
+      "end": 1640
+    },
+    {
+      "text": "sistema vertebrobasilar",
+      "type": "ARTERIA",
+      "start": 1665,
+      "end": 1688
+    },
+    {
+      "text": "alteraciones significativas",
+      "type": "PATOLOGIA",
+      "start": 1693,
+      "end": 1720
+    },
+    {
+      "text": "territorio afectado",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1760,
+      "end": 1779
+    },
+    {
+      "text": "oclusión aguda",
+      "type": "PATOLOGIA",
+      "start": 1832,
+      "end": 1846
+    },
+    {
+      "text": "segmento proximal M1 de ACM derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1851,
+      "end": 1886
+    },
+    {
+      "text": "ASPECTS 6",
+      "type": "PUNTUACION_CLINICA",
+      "start": 737,
+      "end": 746
+    },
+    {
+      "text": "área de infarto incipiente",
+      "type": "PATOLOGIA",
+      "start": 1903,
+      "end": 1929
+    },
+    {
+      "text": "tejido en penumbra",
+      "type": "PATOLOGIA",
+      "start": 1310,
+      "end": 1328
+    },
+    {
+      "text": "hemorragia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 769,
+      "end": 779
+    },
+    {
+      "text": "oclusión arterial",
+      "type": "PATOLOGIA",
+      "start": 2019,
+      "end": 2036
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "document_id": "informe_sintetico_20250804195045_21379",
+  "entities": [
+    {
+      "text": "hemorragia aguda",
+      "type": "PATOLOGIA",
+      "start": 484,
+      "end": 500
+    },
+    {
+      "text": "infarto reciente",
+      "type": "PATOLOGIA",
+      "start": 502,
+      "end": 518
+    },
+    {
+      "text": "colecciones intracraneales",
+      "type": "PATOLOGIA",
+      "start": 522,
+      "end": 548
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 608,
+      "end": 618
+    },
+    {
+      "text": "cambios crónicos leves",
+      "type": "PATOLOGIA",
+      "start": 635,
+      "end": 657
+    },
+    {
+      "text": "microangiopatía crónica",
+      "type": "PATOLOGIA",
+      "start": 761,
+      "end": 784
+    },
+    {
+      "text": "sin desviación de la línea media",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 839,
+      "end": 871
+    },
+    {
+      "text": "atrofia cerebral leve de distribución difusa",
+      "type": "PATOLOGIA",
+      "start": 956,
+      "end": 1000
+    },
+    {
+      "text": "sin alteraciones",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1099,
+      "end": 1115
+    },
+    {
+      "text": "sin evidencia de áreas de hipoperfusión",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1117,
+      "end": 1156
+    },
+    {
+      "text": "sin estenosis ni trombosis visibles",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1299,
+      "end": 1334
+    },
+    {
+      "text": "sin hallazgos de patología aguda",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1448,
+      "end": 1480
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 608,
+      "end": 618
+    },
+    {
+      "text": "sin alteraciones significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1630,
+      "end": 1661
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 255,
+      "end": 271
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 330,
+      "end": 351
+    },
+    {
+      "text": "Angio-TC intra y extracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 354,
+      "end": 383
+    }
+  ]
+}

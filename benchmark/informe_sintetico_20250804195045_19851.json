@@ -1,0 +1,83 @@
+{
+  "document_id": "informe_sintetico_20250804195045_19851",
+  "entities": [
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 219,
+      "end": 233
+    },
+    {
+      "text": "arteria cerebral anterior",
+      "type": "ARTERIA",
+      "start": 254,
+      "end": 279
+    },
+    {
+      "text": "izquierdo",
+      "type": "LATERALIDAD",
+      "start": 669,
+      "end": 678
+    },
+    {
+      "text": "ASPECTS basal 8/10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 738,
+      "end": 756
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 219,
+      "end": 233
+    },
+    {
+      "text": "arteria cerebral anterior izquierda",
+      "type": "ARTERIA",
+      "start": 1513,
+      "end": 1548
+    },
+    {
+      "text": "oclusión segmentaria",
+      "type": "PATOLOGIA",
+      "start": 1181,
+      "end": 1201
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 1125,
+      "end": 1134
+    },
+    {
+      "text": "No se visualizan hemorragias intra o extraaxiales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 524,
+      "end": 573
+    },
+    {
+      "text": "No hemorragias detectadas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1675,
+      "end": 1700
+    },
+    {
+      "text": "TC craneal basal urgente",
+      "type": "TECNICA_IMAGEN",
+      "start": 306,
+      "end": 330
+    },
+    {
+      "text": "TC PERFUSIÓN",
+      "type": "TECNICA_IMAGEN",
+      "start": 797,
+      "end": 809
+    },
+    {
+      "text": "ANGIO-TC EXTRA E INTRACRANEAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 1137,
+      "end": 1166
+    }
+  ]
+}

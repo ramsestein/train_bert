@@ -1,0 +1,53 @@
+{
+  "document_id": "informe_sintetico_20250804195045_04769",
+  "entities": [
+    {
+      "text": "infarto lacunar agudo",
+      "type": "PATOLOGIA",
+      "start": 728,
+      "end": 749
+    },
+    {
+      "text": "región ganglio lenticular derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 678,
+      "end": 711
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 704,
+      "end": 711
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 612,
+      "end": 622
+    },
+    {
+      "text": "disminución significativa del volumen cerebral (CBV)",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1026,
+      "end": 1078
+    },
+    {
+      "text": "sin estenosis significativa (<30%)",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1363,
+      "end": 1397
+    },
+    {
+      "text": "sin evidencia de edema ni complicaciones",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1570,
+      "end": 1610
+    },
+    {
+      "text": "sin estenosis ni oclusiones arteriales relevantes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1765,
+      "end": 1814
+    }
+  ]
+}

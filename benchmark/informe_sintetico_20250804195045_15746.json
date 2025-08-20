@@ -1,0 +1,203 @@
+{
+  "document_id": "informe_sintetico_20250804195045_15746",
+  "entities": [
+    {
+      "text": "infarto cerebral izquierdo",
+      "type": "PATOLOGIA",
+      "start": 194,
+      "end": 220
+    },
+    {
+      "text": "deterioro neurológico agudo",
+      "type": "PATOLOGIA",
+      "start": 222,
+      "end": 249
+    },
+    {
+      "text": "complicación hemorrágica post-trombolisis",
+      "type": "PATOLOGIA",
+      "start": 264,
+      "end": 305
+    },
+    {
+      "text": "área de alta densidad heterogénea",
+      "type": "PATOLOGIA",
+      "start": 518,
+      "end": 551
+    },
+    {
+      "text": "núcleo lenticular",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 555,
+      "end": 572
+    },
+    {
+      "text": "región insular izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 575,
+      "end": 599
+    },
+    {
+      "text": "35 ml",
+      "type": "MEDIDA",
+      "start": 620,
+      "end": 625
+    },
+    {
+      "text": "transformación hemorrágica tipo PH2",
+      "type": "PATOLOGIA",
+      "start": 642,
+      "end": 677
+    },
+    {
+      "text": "efecto masa leve",
+      "type": "PATOLOGIA",
+      "start": 702,
+      "end": 718
+    },
+    {
+      "text": "3 mm",
+      "type": "MEDIDA",
+      "start": 747,
+      "end": 751
+    },
+    {
+      "text": "zonas de isquemia reversibles",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 964,
+      "end": 993
+    },
+    {
+      "text": "hemisferio izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1031,
+      "end": 1051
+    },
+    {
+      "text": "flujo sanguíneo cerebral (CBF)",
+      "type": "PATOLOGIA",
+      "start": 1084,
+      "end": 1114
+    },
+    {
+      "text": "tiempo de tránsito medio (MTT)",
+      "type": "PATOLOGIA",
+      "start": 1129,
+      "end": 1159
+    },
+    {
+      "text": "volumen cerebral (CBV)",
+      "type": "PATOLOGIA",
+      "start": 1164,
+      "end": 1186
+    },
+    {
+      "text": "sin zonas viables para reperfusión",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1224,
+      "end": 1258
+    },
+    {
+      "text": "Oclusión parcial del segmento M1",
+      "type": "PATOLOGIA",
+      "start": 1296,
+      "end": 1328
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "ARTERIA",
+      "start": 1335,
+      "end": 1367
+    },
+    {
+      "text": "ateromatosis moderada",
+      "type": "PATOLOGIA",
+      "start": 1421,
+      "end": 1442
+    },
+    {
+      "text": "sin estenosis hemodinámicamente significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1444,
+      "end": 1490
+    },
+    {
+      "text": "Arterias carotídeas y vertebrales permeables",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1492,
+      "end": 1536
+    },
+    {
+      "text": "sin evidencia de placas ulceradas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1538,
+      "end": 1571
+    },
+    {
+      "text": "Sistema vertebrobasilar sin alteraciones",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1573,
+      "end": 1613
+    },
+    {
+      "text": "transformación hemorrágica tipo PH2",
+      "type": "PATOLOGIA",
+      "start": 642,
+      "end": 677
+    },
+    {
+      "text": "territorio de la arteria cerebral media izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1683,
+      "end": 1732
+    },
+    {
+      "text": "efecto masa",
+      "type": "PATOLOGIA",
+      "start": 702,
+      "end": 713
+    },
+    {
+      "text": "desplazamiento leve de línea media",
+      "type": "PATOLOGIA",
+      "start": 1751,
+      "end": 1785
+    },
+    {
+      "text": "sin territorio viable para reperfusión",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1836,
+      "end": 1874
+    },
+    {
+      "text": "Oclusión parcial de segmento M1 ACM izquierda",
+      "type": "PATOLOGIA",
+      "start": 1880,
+      "end": 1925
+    },
+    {
+      "text": "arco aórtico",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1984,
+      "end": 1996
+    },
+    {
+      "text": "grandes vasos cervicales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1999,
+      "end": 2023
+    },
+    {
+      "text": "Hemisferio cerebral izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 2489,
+      "end": 2518
+    },
+    {
+      "text": "alteraciones vasculares y perfusión compatibles con transformación hemorrágica postinfarto",
+      "type": "PATOLOGIA",
+      "start": 2523,
+      "end": 2613
+    }
+  ]
+}

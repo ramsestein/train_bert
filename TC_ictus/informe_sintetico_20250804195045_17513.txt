@@ -1,0 +1,30 @@
+UO_PACN (Unidad Organizativa Médica): RADIO
+
+PRUEB (Prueba solicitada): TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANG IOTC ARTERIAL INTRACRANEAL)
+
+CLIN (Resumen clínico): Paciente con cuadro súbito de cefalea intensa y déficit motor derecho.
+
+OBSR (Protocolo): TC BASAL + PERFUSIÓN CEREBRAL + ANGIO-TC EXTRA E INTRACRANEAL
+
+RESL (Resultados):  
+TC CRANEAL BASAL:  
+Se identifica una colección hiperdensa lobar en el lóbulo frontal izquierdo, con bordes bien definidos, compatible con hematoma lobar. No se evidencian signos de fractura ósea. El hematoma mide aproximadamente 3.5 x 2.8 cm, con leve efecto masa sobre la corona radiada adyacente y desplazamiento mínimo de la línea media (menos de 3 mm). No se observa hematoma subaracnoideo ni hemorragia intraventricular. Estructuras de la línea media centradas en general, con ventrículos de tamaño conservado. Cisternas basales libres. Diferenciación cortico-subcortical ligeramente alterada en la región contigua al hematoma por edema vasogénico.
+
+TC PERFUSIÓN:  
+Se observa disminución moderada del flujo cerebral (CBF) y aumento del tiempo de tránsito medio (MTT) en el área circundante al hematoma, compatible con edema y efecto masa focal. No se identifican áreas concomitantes de isquemia.
+
+ANGIO-TC EXTRA E INTRACRANEAL:  
+Sistema arterial intracraneal permeable, sin evidencias de estenosis o malformaciones vasculares. Arterias cerebrales anteriores, medias y posteriores sin alteraciones significativas. No se detectan aneurismas ni signos de disrupción vascular.
+
+CONCL (Conclusiones):  
+Hematoma lobar frontal izquierdo de moderado tamaño con discreto efecto masa y leve desplazamiento de la línea media. Edema perilesional asociado. No signos de hemorragia intraventricular ni subaracnoidea. Arterias intracraneales permeables sin lesiones vasculares detectables.
+
+ACTI_ADICI (Actividad adicional):
+
+ICON (Estudio): @RADIO_TC_2024@
+
+X00DIATXT (Texto del diagnóstico ACR): Hematoma lobar frontal izquierdo con edema perifocal y sin evidencia de lesión vascular asociada.
+
+EST_T_DES (Descripción): TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANGIOTC ARTERIAL INTRACRANEAL)
+
+ZVASOS_D (Der.): Sistema arterial intracraneal sin estenosis ni malformaciones detectables.

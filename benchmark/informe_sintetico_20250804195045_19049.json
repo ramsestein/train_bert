@@ -1,0 +1,83 @@
+{
+  "document_id": "informe_sintetico_20250804195045_19049",
+  "entities": [
+    {
+      "text": "microhemorragias",
+      "type": "PATOLOGIA",
+      "start": 630,
+      "end": 646
+    },
+    {
+      "text": "5 mm",
+      "type": "MEDIDA",
+      "start": 548,
+      "end": 552
+    },
+    {
+      "text": "regiones corticales y subcorticales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 556,
+      "end": 591
+    },
+    {
+      "text": "bilaterales",
+      "type": "LATERALIDAD",
+      "start": 1191,
+      "end": 1202
+    },
+    {
+      "text": "No se identifican áreas de sangrado voluminoso",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 648,
+      "end": 694
+    },
+    {
+      "text": "No hay signos de infarto agudo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 773,
+      "end": 803
+    },
+    {
+      "text": "sin áreas de hipoperfusión focal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 864,
+      "end": 896
+    },
+    {
+      "text": "sin desplazamientos de líneas medias",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 975,
+      "end": 1011
+    },
+    {
+      "text": "no se observan estenosis, oclusiones ni aneurismas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1036,
+      "end": 1086
+    },
+    {
+      "text": "vasculopatía de pequeños vasos",
+      "type": "PATOLOGIA",
+      "start": 1259,
+      "end": 1289
+    },
+    {
+      "text": "No evidencia de hemorragia mayor",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1291,
+      "end": 1323
+    },
+    {
+      "text": "sin alteraciones angiográficas relevantes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1372,
+      "end": 1413
+    },
+    {
+      "text": "TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANGIOTC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 1747,
+      "end": 1814
+    }
+  ]
+}

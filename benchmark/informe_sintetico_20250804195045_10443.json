@@ -1,0 +1,113 @@
+{
+  "document_id": "informe_sintetico_20250804195045_10443",
+  "entities": [
+    {
+      "text": "ictus isquémico",
+      "type": "PATOLOGIA",
+      "start": 254,
+      "end": 269
+    },
+    {
+      "text": "arteria cerebral anterior",
+      "type": "ARTERIA",
+      "start": 290,
+      "end": 315
+    },
+    {
+      "text": "aguda",
+      "type": "TEMPORALIDAD",
+      "start": 527,
+      "end": 532
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 503,
+      "end": 526
+    },
+    {
+      "text": "lesiones ocupantes de espacio",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 536,
+      "end": 565
+    },
+    {
+      "text": "hipodensidad cortical y subcortical",
+      "type": "PATOLOGIA",
+      "start": 587,
+      "end": 622
+    },
+    {
+      "text": "edema isquémico precoz",
+      "type": "PATOLOGIA",
+      "start": 678,
+      "end": 700
+    },
+    {
+      "text": "territorio mesial frontal izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 626,
+      "end": 661
+    },
+    {
+      "text": "zona de penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1151,
+      "end": 1177
+    },
+    {
+      "text": "Defecto focal de repleción",
+      "type": "PATOLOGIA",
+      "start": 1216,
+      "end": 1242
+    },
+    {
+      "text": "segmento A2-A3",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1246,
+      "end": 1260
+    },
+    {
+      "text": "arteria cerebral anterior izquierda",
+      "type": "ARTERIA",
+      "start": 1267,
+      "end": 1302
+    },
+    {
+      "text": "trombosis aguda",
+      "type": "PATOLOGIA",
+      "start": 1858,
+      "end": 1873
+    },
+    {
+      "text": "hemorragias",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1897,
+      "end": 1908
+    },
+    {
+      "text": "lesiones intracraneales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1918,
+      "end": 1941
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 342,
+      "end": 358
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 368,
+      "end": 389
+    },
+    {
+      "text": "angio-TC de vasos supra e intracraneales",
+      "type": "TECNICA_IMAGEN",
+      "start": 392,
+      "end": 432
+    }
+  ]
+}

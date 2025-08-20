@@ -1,0 +1,289 @@
+{
+  "document_id": "informe_sintetico_20250804195045_01297",
+  "entities": [
+    {
+      "text": "accidente cerebrovascular isquémico",
+      "type": "PATOLOGIA",
+      "start": 209,
+      "end": 244
+    },
+    {
+      "text": "territorio carotídeo derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 248,
+      "end": 276
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 297,
+      "end": 313
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 323,
+      "end": 344
+    },
+    {
+      "text": "angioTC extracraneal e intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 347,
+      "end": 382
+    },
+    {
+      "text": "arterias supra-aórticas",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 386,
+      "end": 409
+    },
+    {
+      "text": "hipodensidad",
+      "type": "PATOLOGIA",
+      "start": 464,
+      "end": 476
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 497,
+      "end": 527
+    },
+    {
+      "text": "corona radiada",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 543,
+      "end": 557
+    },
+    {
+      "text": "corteza frontoparietal",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 563,
+      "end": 585
+    },
+    {
+      "text": "infarto isquémico subagudo",
+      "type": "PATOLOGIA",
+      "start": 612,
+      "end": 638
+    },
+    {
+      "text": "ASPECTS 6",
+      "type": "PUNTUACION_CLINICA",
+      "start": 640,
+      "end": 649
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 665,
+      "end": 688
+    },
+    {
+      "text": "efecto de masa significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 692,
+      "end": 720
+    },
+    {
+      "text": "Cisternas basales libres",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 808,
+      "end": 832
+    },
+    {
+      "text": "aumento marcado del Tmax",
+      "type": "PATOLOGIA",
+      "start": 877,
+      "end": 901
+    },
+    {
+      "text": "tiempo de tránsito medio (MTT)",
+      "type": "PATOLOGIA",
+      "start": 908,
+      "end": 938
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 497,
+      "end": 527
+    },
+    {
+      "text": "disminución del volumen sanguíneo cerebral (CBV)",
+      "type": "PATOLOGIA",
+      "start": 994,
+      "end": 1042
+    },
+    {
+      "text": "isquemia tisular",
+      "type": "PATOLOGIA",
+      "start": 1107,
+      "end": 1123
+    },
+    {
+      "text": "área extensa",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1127,
+      "end": 1139
+    },
+    {
+      "text": "zona de penumbra",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1142,
+      "end": 1158
+    },
+    {
+      "text": "Oclusión completa",
+      "type": "PATOLOGIA",
+      "start": 1192,
+      "end": 1209
+    },
+    {
+      "text": "segmento cervical y petroso derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1214,
+      "end": 1249
+    },
+    {
+      "text": "arteria carótida interna",
+      "type": "ARTERIA",
+      "start": 1256,
+      "end": 1280
+    },
+    {
+      "text": "ausencia de flujo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1286,
+      "end": 1303
+    },
+    {
+      "text": "Placas ateromatosas calcificadas y no calcificadas",
+      "type": "PATOLOGIA",
+      "start": 1323,
+      "end": 1373
+    },
+    {
+      "text": "segmento carotídeo contralateral",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1377,
+      "end": 1409
+    },
+    {
+      "text": "estenosis significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1414,
+      "end": 1437
+    },
+    {
+      "text": "Arterias vertebrales",
+      "type": "ARTERIA",
+      "start": 1439,
+      "end": 1459
+    },
+    {
+      "text": "sistema vertebrobasilar",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1462,
+      "end": 1485
+    },
+    {
+      "text": "permeables sin estenosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1486,
+      "end": 1510
+    },
+    {
+      "text": "Circulación colateral",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1512,
+      "end": 1533
+    },
+    {
+      "text": "arteria comunicante anterior",
+      "type": "ARTERIA",
+      "start": 1543,
+      "end": 1571
+    },
+    {
+      "text": "Oclusión completa de la arteria carótida interna derecha",
+      "type": "PATOLOGIA",
+      "start": 1597,
+      "end": 1653
+    },
+    {
+      "text": "segmento cervical y petroso",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1214,
+      "end": 1241
+    },
+    {
+      "text": "infarto isquémico subagudo",
+      "type": "PATOLOGIA",
+      "start": 612,
+      "end": 638
+    },
+    {
+      "text": "territorio de la arteria cerebral media derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 480,
+      "end": 527
+    },
+    {
+      "text": "ASPECTS 6",
+      "type": "PUNTUACION_CLINICA",
+      "start": 640,
+      "end": 649
+    },
+    {
+      "text": "Área extensa de penumbra",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1779,
+      "end": 1803
+    },
+    {
+      "text": "afectación hemodinámica significativa",
+      "type": "PATOLOGIA",
+      "start": 1808,
+      "end": 1845
+    },
+    {
+      "text": "No complicaciones hemorrágicas asociadas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1847,
+      "end": 1887
+    },
+    {
+      "text": "Circulación colateral preservada",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1889,
+      "end": 1921
+    },
+    {
+      "text": "valoración para tratamiento trombectomía endovascular",
+      "type": "PATOLOGIA",
+      "start": 1991,
+      "end": 2044
+    },
+    {
+      "text": "Oclusión carotídea interna derecha",
+      "type": "PATOLOGIA",
+      "start": 2104,
+      "end": 2138
+    },
+    {
+      "text": "infarto isquémico en territorio de arteria cerebral media derecha",
+      "type": "PATOLOGIA",
+      "start": 2143,
+      "end": 2208
+    },
+    {
+      "text": "TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANGIOTC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 2236,
+      "end": 2303
+    }
+  ],
+  "regenerado": true,
+  "fecha_regeneracion": "2025-08-06T15:54:32.781531"
+}

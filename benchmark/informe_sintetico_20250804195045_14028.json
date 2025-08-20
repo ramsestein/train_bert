@@ -1,0 +1,125 @@
+{
+  "document_id": "informe_sintetico_20250804195045_14028",
+  "entities": [
+    {
+      "text": "hipodensidad",
+      "type": "PATOLOGIA",
+      "start": 466,
+      "end": 478
+    },
+    {
+      "text": "sustancia gris cortical",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 485,
+      "end": 508
+    },
+    {
+      "text": "regiones frontales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 526,
+      "end": 544
+    },
+    {
+      "text": "bilaterales",
+      "type": "LATERALIDAD",
+      "start": 571,
+      "end": 582
+    },
+    {
+      "text": "edema cerebral difuso",
+      "type": "PATOLOGIA",
+      "start": 1148,
+      "end": 1169
+    },
+    {
+      "text": "disminución del tamaño de los espacios subaracnoideos",
+      "type": "PATOLOGIA",
+      "start": 700,
+      "end": 753
+    },
+    {
+      "text": "disminución del volumen ventricular",
+      "type": "PATOLOGIA",
+      "start": 761,
+      "end": 796
+    },
+    {
+      "text": "sin desplazamiento de la línea media",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 798,
+      "end": 834
+    },
+    {
+      "text": "No se observan hemorragias intra o extraaxiales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 836,
+      "end": 883
+    },
+    {
+      "text": "No se identifican signos de trombosis ni estenosis significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1345,
+      "end": 1409
+    },
+    {
+      "text": "arterias carótidas internas",
+      "type": "ARTERIA",
+      "start": 1270,
+      "end": 1297
+    },
+    {
+      "text": "cerebrales anteriores",
+      "type": "ARTERIA",
+      "start": 1299,
+      "end": 1320
+    },
+    {
+      "text": "sistema vertebrobasilar",
+      "type": "ARTERIA",
+      "start": 1421,
+      "end": 1444
+    },
+    {
+      "text": "encefalopatía hipóxico-isquémica bilateral severa",
+      "type": "PATOLOGIA",
+      "start": 1519,
+      "end": 1568
+    },
+    {
+      "text": "edema cerebral difuso",
+      "type": "PATOLOGIA",
+      "start": 1148,
+      "end": 1169
+    },
+    {
+      "text": "compromiso global de la perfusión cerebral",
+      "type": "PATOLOGIA",
+      "start": 1598,
+      "end": 1640
+    },
+    {
+      "text": "No se evidencian lesiones hemorrágicas ni trombosis arterial intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1642,
+      "end": 1715
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 281,
+      "end": 297
+    },
+    {
+      "text": "perfusión cerebral dinámica",
+      "type": "TECNICA_IMAGEN",
+      "start": 313,
+      "end": 340
+    },
+    {
+      "text": "angio-TC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 343,
+      "end": 373
+    }
+  ]
+}

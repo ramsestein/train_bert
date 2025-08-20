@@ -1,0 +1,59 @@
+{
+  "document_id": "0000000010000000060045712_cleaned",
+  "entities": [
+    {
+      "text": "Infart cerebral causat per oclusió o estenosi no especificades d'artèria cerebral no especificada",
+      "type": "PATOLOGIA",
+      "start": 166,
+      "end": 263
+    },
+    {
+      "text": "No se observa hemorragia intra ni extraaxial.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 395,
+      "end": 440
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 488,
+      "end": 498
+    },
+    {
+      "text": "No se observan lesiones isquémicas parenquimatosas agudas ni subagudas.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 501,
+      "end": 572
+    },
+    {
+      "text": "Principales arterias cerebrales intracraneales permeables (ACAs, ACMs y ACPs).",
+      "type": "ARTERIA",
+      "start": 829,
+      "end": 907
+    },
+    {
+      "text": "Dominancia vertebral izquierda.",
+      "type": "LATERALIDAD",
+      "start": 1147,
+      "end": 1178
+    },
+    {
+      "text": "No se observan signos de patología intracraneal aguda.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1245,
+      "end": 1299
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 488,
+      "end": 498
+    },
+    {
+      "text": "No hay hemorragia aguda intracraneal.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1349,
+      "end": 1386
+    }
+  ]
+}

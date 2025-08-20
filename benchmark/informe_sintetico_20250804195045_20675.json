@@ -1,0 +1,101 @@
+{
+  "document_id": "informe_sintetico_20250804195045_20675",
+  "entities": [
+    {
+      "text": "accidente cerebrovascular isquémico agudo",
+      "type": "PATOLOGIA",
+      "start": 287,
+      "end": 328
+    },
+    {
+      "text": "transformación hemorrágica tipo HI2",
+      "type": "PATOLOGIA",
+      "start": 778,
+      "end": 813
+    },
+    {
+      "text": "sangrado intraparenquimatoso extenso",
+      "type": "PATOLOGIA",
+      "start": 825,
+      "end": 861
+    },
+    {
+      "text": "zona isquémica extensa",
+      "type": "PATOLOGIA",
+      "start": 1476,
+      "end": 1498
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "ARTERIA",
+      "start": 732,
+      "end": 762
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "ARTERIA",
+      "start": 732,
+      "end": 762
+    },
+    {
+      "text": "segmento M1 distal",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1597,
+      "end": 1615
+    },
+    {
+      "text": "ventrículo lateral derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1133,
+      "end": 1159
+    },
+    {
+      "text": "bifurcación carotídea bilateral",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1856,
+      "end": 1887
+    },
+    {
+      "text": "24-48 horas",
+      "type": "TEMPORALIDAD",
+      "start": 2491,
+      "end": 2502
+    },
+    {
+      "text": "No se observan hemorragias subaracnoideas ni intraventriculares",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 956,
+      "end": 1019
+    },
+    {
+      "text": "No signos de disección vascular",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1802,
+      "end": 1833
+    },
+    {
+      "text": "No se identifican estenosis significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1655,
+      "end": 1697
+    },
+    {
+      "text": "TC CRANEAL BASAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 647,
+      "end": 663
+    },
+    {
+      "text": "TC PERFUSIÓN",
+      "type": "TECNICA_IMAGEN",
+      "start": 1206,
+      "end": 1218
+    },
+    {
+      "text": "ANGIO-TC EXTRA E INTRACRANEAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 1501,
+      "end": 1530
+    }
+  ]
+}

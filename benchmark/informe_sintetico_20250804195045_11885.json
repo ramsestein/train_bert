@@ -1,0 +1,89 @@
+{
+  "document_id": "informe_sintetico_20250804195045_11885",
+  "entities": [
+    {
+      "text": "hematoma subdural agudo frontotemporal izquierdo",
+      "type": "PATOLOGIA",
+      "start": 445,
+      "end": 493
+    },
+    {
+      "text": "temporal",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 475,
+      "end": 483
+    },
+    {
+      "text": "izquierdo",
+      "type": "LATERALIDAD",
+      "start": 484,
+      "end": 493
+    },
+    {
+      "text": "12 mm",
+      "type": "MEDIDA",
+      "start": 555,
+      "end": 560
+    },
+    {
+      "text": "6 mm",
+      "type": "MEDIDA",
+      "start": 659,
+      "end": 663
+    },
+    {
+      "text": "agudo",
+      "type": "TEMPORALIDAD",
+      "start": 463,
+      "end": 468
+    },
+    {
+      "text": "isquemia secundaria",
+      "type": "PATOLOGIA",
+      "start": 1289,
+      "end": 1308
+    },
+    {
+      "text": "ACAs",
+      "type": "ARTERIA",
+      "start": 1407,
+      "end": 1411
+    },
+    {
+      "text": "ACMs",
+      "type": "ARTERIA",
+      "start": 1413,
+      "end": 1417
+    },
+    {
+      "text": "ACPs",
+      "type": "ARTERIA",
+      "start": 1420,
+      "end": 1424
+    },
+    {
+      "text": "sin signos de estenosis ni trombosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1468,
+      "end": 1504
+    },
+    {
+      "text": "TC CRANEAL BASAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 414,
+      "end": 430
+    },
+    {
+      "text": "TC PERFUSIÓN",
+      "type": "TECNICA_IMAGEN",
+      "start": 1036,
+      "end": 1048
+    },
+    {
+      "text": "ANGIO-TC EXTRA E INTRACRANEAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 1311,
+      "end": 1340
+    }
+  ]
+}

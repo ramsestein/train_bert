@@ -1,0 +1,77 @@
+{
+  "document_id": "informe_sintetico_20250804195045_16536",
+  "entities": [
+    {
+      "text": "infarto isquémico agudo",
+      "type": "PATOLOGIA",
+      "start": 793,
+      "end": 816
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "ARTERIA",
+      "start": 583,
+      "end": 613
+    },
+    {
+      "text": "corteza insular",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 628,
+      "end": 643
+    },
+    {
+      "text": "región fronto-parietal",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 645,
+      "end": 667
+    },
+    {
+      "text": "cápsula interna",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 682,
+      "end": 697
+    },
+    {
+      "text": "5 horas",
+      "type": "MEDIDA",
+      "start": 836,
+      "end": 843
+    },
+    {
+      "text": "oclusión completa de la arteria carótida interna derecha",
+      "type": "PATOLOGIA",
+      "start": 1979,
+      "end": 2035
+    },
+    {
+      "text": "circulación colateral insuficiente",
+      "type": "PATOLOGIA",
+      "start": 1648,
+      "end": 1682
+    },
+    {
+      "text": "desviación contralateral",
+      "type": "PATOLOGIA",
+      "start": 933,
+      "end": 957
+    },
+    {
+      "text": "TC craneal sin contraste",
+      "type": "TECNICA_IMAGEN",
+      "start": 345,
+      "end": 369
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 371,
+      "end": 392
+    },
+    {
+      "text": "AngioTC de vasos extra e intracraneales",
+      "type": "TECNICA_IMAGEN",
+      "start": 395,
+      "end": 434
+    }
+  ]
+}

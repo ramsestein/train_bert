@@ -1,0 +1,113 @@
+{
+  "document_id": "informe_sintetico_20250804195045_10365",
+  "entities": [
+    {
+      "text": "infartos tipo watershed",
+      "type": "PATOLOGIA",
+      "start": 735,
+      "end": 758
+    },
+    {
+      "text": "zonas de distribución frontoparietales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 596,
+      "end": 634
+    },
+    {
+      "text": "arterias cerebrales medias",
+      "type": "ARTERIA",
+      "start": 678,
+      "end": 704
+    },
+    {
+      "text": "bilaterales",
+      "type": "LATERALIDAD",
+      "start": 529,
+      "end": 540
+    },
+    {
+      "text": "prolongación",
+      "type": "MEDIDA",
+      "start": 1007,
+      "end": 1019
+    },
+    {
+      "text": "moderada",
+      "type": "MEDIDA",
+      "start": 1090,
+      "end": 1098
+    },
+    {
+      "text": "severa",
+      "type": "MEDIDA",
+      "start": 1798,
+      "end": 1804
+    },
+    {
+      "text": "hipoperfusión crítica",
+      "type": "PATOLOGIA",
+      "start": 1219,
+      "end": 1240
+    },
+    {
+      "text": "penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1243,
+      "end": 1261
+    },
+    {
+      "text": "ateromatosis leve",
+      "type": "PATOLOGIA",
+      "start": 1349,
+      "end": 1366
+    },
+    {
+      "text": "sin obstrucción",
+      "type": "PATOLOGIA",
+      "start": 1484,
+      "end": 1499
+    },
+    {
+      "text": "No se detectan hemorragias intra ni extraaxiales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 449,
+      "end": 497
+    },
+    {
+      "text": "No se observan signos de masa ni efecto de presión significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 760,
+      "end": 824
+    },
+    {
+      "text": "No se aprecian defectos de repleción ni trombosis arterial intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1563,
+      "end": 1634
+    },
+    {
+      "text": "No hemorragias ni defectos obstructivos arteriales significativos",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1861,
+      "end": 1926
+    },
+    {
+      "text": "TC craneal basal urgente",
+      "type": "TECNICA_IMAGEN",
+      "start": 307,
+      "end": 331
+    },
+    {
+      "text": "perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 334,
+      "end": 352
+    },
+    {
+      "text": "angiografía TC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 355,
+      "end": 391
+    }
+  ]
+}

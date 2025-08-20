@@ -1,0 +1,83 @@
+{
+  "document_id": "informe_sintetico_20250804195045_21043",
+  "entities": [
+    {
+      "text": "accidente cerebrovascular isquémico agudo",
+      "type": "PATOLOGIA",
+      "start": 189,
+      "end": 230
+    },
+    {
+      "text": "microhemorragia parenquimatosa subaguda",
+      "type": "PATOLOGIA",
+      "start": 684,
+      "end": 723
+    },
+    {
+      "text": "10 mm",
+      "type": "MEDIDA",
+      "start": 601,
+      "end": 606
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "ARTERIA",
+      "start": 637,
+      "end": 667
+    },
+    {
+      "text": "sin disminución significativa en el flujo sanguíneo cerebral",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1227,
+      "end": 1287
+    },
+    {
+      "text": "sin estenosis ni trombosis evidentes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1511,
+      "end": 1547
+    },
+    {
+      "text": "sin estenosis significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1805,
+      "end": 1832
+    },
+    {
+      "text": "sin hematoma parenquimatoso significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1949,
+      "end": 1990
+    },
+    {
+      "text": "sin hallazgos que sugieran deterioro hemodinámico mayor",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2068,
+      "end": 2123
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "ARTERIA",
+      "start": 637,
+      "end": 667
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 345,
+      "end": 361
+    },
+    {
+      "text": "estudio de perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 377,
+      "end": 406
+    },
+    {
+      "text": "AngioTC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 409,
+      "end": 438
+    }
+  ]
+}

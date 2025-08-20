@@ -1,0 +1,113 @@
+{
+  "document_id": "informe_sintetico_20250804195045_19478",
+  "entities": [
+    {
+      "text": "isquemia vertebrobasilar aguda",
+      "type": "PATOLOGIA",
+      "start": 303,
+      "end": 333
+    },
+    {
+      "text": "isquemia incipiente",
+      "type": "PATOLOGIA",
+      "start": 671,
+      "end": 690
+    },
+    {
+      "text": "prolongación del tiempo de tránsito medio (MTT)",
+      "type": "MEDIDA",
+      "start": 854,
+      "end": 901
+    },
+    {
+      "text": "retraso en Tmax",
+      "type": "MEDIDA",
+      "start": 904,
+      "end": 919
+    },
+    {
+      "text": "reducción moderada del flujo sanguíneo cerebral (CBF)",
+      "type": "PATOLOGIA",
+      "start": 981,
+      "end": 1034
+    },
+    {
+      "text": "volumen cerebral (CBV) preservado",
+      "type": "PATOLOGIA",
+      "start": 1037,
+      "end": 1070
+    },
+    {
+      "text": "Oclusión subtotal en segmento V4 de arteria vertebral derecha",
+      "type": "PATOLOGIA",
+      "start": 1160,
+      "end": 1221
+    },
+    {
+      "text": "estenosis crítica en segmento proximal de arteria basilar",
+      "type": "PATOLOGIA",
+      "start": 1226,
+      "end": 1283
+    },
+    {
+      "text": "isquemia aguda en territorio vertebrobasilar",
+      "type": "PATOLOGIA",
+      "start": 1545,
+      "end": 1589
+    },
+    {
+      "text": "estenosis significativa en arteria basilar proximal",
+      "type": "PATOLOGIA",
+      "start": 1686,
+      "end": 1737
+    },
+    {
+      "text": "No se evidencia hemorragia intra ni extraaxial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 534,
+      "end": 580
+    },
+    {
+      "text": "sin estenosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1324,
+      "end": 1337
+    },
+    {
+      "text": "sin placas significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1352,
+      "end": 1377
+    },
+    {
+      "text": "No se identifican trombos en vasos extracraneales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1443,
+      "end": 1492
+    },
+    {
+      "text": "TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANG IOTC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 72,
+      "end": 140
+    },
+    {
+      "text": "TC CRANEAL BASAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 514,
+      "end": 530
+    },
+    {
+      "text": "TC PERFUSIÓN",
+      "type": "TECNICA_IMAGEN",
+      "start": 810,
+      "end": 822
+    },
+    {
+      "text": "ANGIO-TC EXTRA E INTRACRANEAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 1127,
+      "end": 1156
+    }
+  ]
+}

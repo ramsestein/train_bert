@@ -1,0 +1,125 @@
+{
+  "document_id": "informe_sintetico_20250804195045_20367",
+  "entities": [
+    {
+      "text": "hemorragia intraparenquimatosa",
+      "type": "PATOLOGIA",
+      "start": 420,
+      "end": 450
+    },
+    {
+      "text": "lesiones isquémicas",
+      "type": "PATOLOGIA",
+      "start": 572,
+      "end": 591
+    },
+    {
+      "text": "áreas de infarto reciente",
+      "type": "PATOLOGIA",
+      "start": 595,
+      "end": 620
+    },
+    {
+      "text": "ASPECTS 10/10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 541,
+      "end": 554
+    },
+    {
+      "text": "TTP",
+      "type": "TECNICA_IMAGEN",
+      "start": 932,
+      "end": 935
+    },
+    {
+      "text": "CBV",
+      "type": "TECNICA_IMAGEN",
+      "start": 966,
+      "end": 969
+    },
+    {
+      "text": "CBF",
+      "type": "TECNICA_IMAGEN",
+      "start": 1000,
+      "end": 1003
+    },
+    {
+      "text": "mismatch",
+      "type": "PATOLOGIA",
+      "start": 1023,
+      "end": 1031
+    },
+    {
+      "text": "hipoperfusión",
+      "type": "PATOLOGIA",
+      "start": 1070,
+      "end": 1083
+    },
+    {
+      "text": "isquemia",
+      "type": "PATOLOGIA",
+      "start": 1086,
+      "end": 1094
+    },
+    {
+      "text": "ACAs",
+      "type": "ARTERIA",
+      "start": 1169,
+      "end": 1173
+    },
+    {
+      "text": "ACMs",
+      "type": "ARTERIA",
+      "start": 1175,
+      "end": 1179
+    },
+    {
+      "text": "ACPs",
+      "type": "ARTERIA",
+      "start": 1181,
+      "end": 1185
+    },
+    {
+      "text": "sistema vertebrobasilar",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1302,
+      "end": 1325
+    },
+    {
+      "text": "ASPECTS 10/10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 541,
+      "end": 554
+    },
+    {
+      "text": "hemorragia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 420,
+      "end": 430
+    },
+    {
+      "text": "infarto",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 604,
+      "end": 611
+    },
+    {
+      "text": "hipoperfusión",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1070,
+      "end": 1083
+    },
+    {
+      "text": "arterias intracraneales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1144,
+      "end": 1167
+    },
+    {
+      "text": "estenosis significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1662,
+      "end": 1686
+    }
+  ]
+}

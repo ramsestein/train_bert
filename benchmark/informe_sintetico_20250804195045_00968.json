@@ -1,0 +1,107 @@
+{
+  "document_id": "informe_sintetico_20250804195045_00968",
+  "entities": [
+    {
+      "text": "microhemorragias",
+      "type": "PATOLOGIA",
+      "start": 276,
+      "end": 292
+    },
+    {
+      "text": "hematoma intracerebral",
+      "type": "PATOLOGIA",
+      "start": 663,
+      "end": 685
+    },
+    {
+      "text": "hemorragia subaracnoidea",
+      "type": "PATOLOGIA",
+      "start": 689,
+      "end": 713
+    },
+    {
+      "text": "cambios crónicos vasculares",
+      "type": "PATOLOGIA",
+      "start": 805,
+      "end": 832
+    },
+    {
+      "text": "sustancia blanca periventricular",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 560,
+      "end": 592
+    },
+    {
+      "text": "núcleos profundos",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 598,
+      "end": 615
+    },
+    {
+      "text": "arterias intracraneales",
+      "type": "ARTERIA",
+      "start": 1182,
+      "end": 1205
+    },
+    {
+      "text": "arterias carótidas internas",
+      "type": "ARTERIA",
+      "start": 1261,
+      "end": 1288
+    },
+    {
+      "text": "bilateral",
+      "type": "LATERALIDAD",
+      "start": 1078,
+      "end": 1087
+    },
+    {
+      "text": "sin dilatación",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 901,
+      "end": 915
+    },
+    {
+      "text": "sin estenosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1569,
+      "end": 1582
+    },
+    {
+      "text": "sin hemorragia macroscópica",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1455,
+      "end": 1482
+    },
+    {
+      "text": "normal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 873,
+      "end": 879
+    },
+    {
+      "text": "TC craneal sin contraste",
+      "type": "TECNICA_IMAGEN",
+      "start": 334,
+      "end": 358
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 361,
+      "end": 382
+    },
+    {
+      "text": "angioTC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 385,
+      "end": 414
+    },
+    {
+      "text": "resonancia magnética",
+      "type": "TECNICA_IMAGEN",
+      "start": 1700,
+      "end": 1720
+    }
+  ]
+}

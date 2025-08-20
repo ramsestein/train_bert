@@ -1,0 +1,71 @@
+{
+  "document_id": "informe_sintetico_20250804195045_18734",
+  "entities": [
+    {
+      "text": "infarto lacunar",
+      "type": "PATOLOGIA",
+      "start": 222,
+      "end": 237
+    },
+    {
+      "text": "núcleo lenticular izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 466,
+      "end": 493
+    },
+    {
+      "text": "8 mm",
+      "type": "MEDIDA",
+      "start": 431,
+      "end": 435
+    },
+    {
+      "text": "agudo",
+      "type": "TEMPORALIDAD",
+      "start": 526,
+      "end": 531
+    },
+    {
+      "text": "ASPECTS 9",
+      "type": "PUNTUACION_CLINICA",
+      "start": 688,
+      "end": 697
+    },
+    {
+      "text": "No se observan signos de hemorragia intra ni extraaxial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 533,
+      "end": 588
+    },
+    {
+      "text": "No se evidencian estenosis ni oclusiones en las principales arterias intracraneales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1064,
+      "end": 1147
+    },
+    {
+      "text": "Leve ateromatosis no estenosante en las carótidas internas cavernosas",
+      "type": "PATOLOGIA",
+      "start": 1149,
+      "end": 1218
+    },
+    {
+      "text": "sin evidencia de hemorragia intracraneal ni compromiso vascular mayor",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1354,
+      "end": 1423
+    },
+    {
+      "text": "Perfusión cerebral localizada compatible con lesión isquémica focal restringida",
+      "type": "PATOLOGIA",
+      "start": 1425,
+      "end": 1504
+    },
+    {
+      "text": "sin complicaciones hemorrágicas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1813,
+      "end": 1844
+    }
+  ]
+}

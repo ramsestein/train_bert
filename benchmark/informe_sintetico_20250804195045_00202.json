@@ -1,0 +1,119 @@
+{
+  "document_id": "informe_sintetico_20250804195045_00202",
+  "entities": [
+    {
+      "text": "isquemia",
+      "type": "PATOLOGIA",
+      "start": 234,
+      "end": 242
+    },
+    {
+      "text": "arteria cerebral anterior (ACA)",
+      "type": "ARTERIA",
+      "start": 521,
+      "end": 552
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 553,
+      "end": 560
+    },
+    {
+      "text": "regiones frontales medias y paramediales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 592,
+      "end": 632
+    },
+    {
+      "text": "hemorragia intra o extraaxial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 651,
+      "end": 680
+    },
+    {
+      "text": "ASPECTS modificado: 8/10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 755,
+      "end": 779
+    },
+    {
+      "text": "Tmax y TTP",
+      "type": "TECNICA_IMAGEN",
+      "start": 937,
+      "end": 947
+    },
+    {
+      "text": "disminución significativa del flujo cerebral (CBF)",
+      "type": "PATOLOGIA",
+      "start": 951,
+      "end": 1001
+    },
+    {
+      "text": "volumen cerebral (CBV) relativamente conservado",
+      "type": "PATOLOGIA",
+      "start": 1065,
+      "end": 1112
+    },
+    {
+      "text": "penumbra",
+      "type": "PATOLOGIA",
+      "start": 1133,
+      "end": 1141
+    },
+    {
+      "text": "arteria cerebral anterior derecha",
+      "type": "ARTERIA",
+      "start": 1228,
+      "end": 1261
+    },
+    {
+      "text": "oclusión trombótica subaguda",
+      "type": "PATOLOGIA",
+      "start": 1332,
+      "end": 1360
+    },
+    {
+      "text": "A2 y A3",
+      "type": "ARTERIA",
+      "start": 1308,
+      "end": 1315
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 553,
+      "end": 560
+    },
+    {
+      "text": "hemorragia intracraneal asociada",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1858,
+      "end": 1890
+    },
+    {
+      "text": "ASPECTS 8/10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 1892,
+      "end": 1904
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 1640,
+      "end": 1654
+    },
+    {
+      "text": "área hipodensa",
+      "type": "PATOLOGIA",
+      "start": 1713,
+      "end": 1727
+    },
+    {
+      "text": "zona de penumbra significativa",
+      "type": "PATOLOGIA",
+      "start": 1765,
+      "end": 1795
+    }
+  ]
+}

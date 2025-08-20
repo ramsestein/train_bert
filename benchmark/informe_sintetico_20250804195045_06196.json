@@ -1,0 +1,83 @@
+{
+  "document_id": "informe_sintetico_20250804195045_06196",
+  "entities": [
+    {
+      "text": "infarto cerebral",
+      "type": "PATOLOGIA",
+      "start": 214,
+      "end": 230
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "ARTERIA",
+      "start": 251,
+      "end": 281
+    },
+    {
+      "text": "hemiparesia izquierda grado moderado",
+      "type": "PATOLOGIA",
+      "start": 335,
+      "end": 371
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 392,
+      "end": 408
+    },
+    {
+      "text": "infarto isquémico subagudo",
+      "type": "PATOLOGIA",
+      "start": 648,
+      "end": 674
+    },
+    {
+      "text": "sangrado intraparenquimatoso",
+      "type": "PATOLOGIA",
+      "start": 784,
+      "end": 812
+    },
+    {
+      "text": "5 mm",
+      "type": "MEDIDA",
+      "start": 763,
+      "end": 767
+    },
+    {
+      "text": "lesión isquémica subaguda con reperfusión",
+      "type": "PATOLOGIA",
+      "start": 1314,
+      "end": 1355
+    },
+    {
+      "text": "arteria cerebral media derecha",
+      "type": "ARTERIA",
+      "start": 251,
+      "end": 281
+    },
+    {
+      "text": "sin estenosis significativa ni trombosis residual",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1510,
+      "end": 1559
+    },
+    {
+      "text": "sin hematoma significativo ni efecto de masa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1800,
+      "end": 1844
+    },
+    {
+      "text": "signos de reperfusión",
+      "type": "PATOLOGIA",
+      "start": 1868,
+      "end": 1889
+    },
+    {
+      "text": "sin evidencias de oclusión arterial residual ni estenosis crítica",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1900,
+      "end": 1965
+    }
+  ]
+}

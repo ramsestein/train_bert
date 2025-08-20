@@ -1,0 +1,71 @@
+{
+  "document_id": "informe_sintetico_20250804195045_02160",
+  "entities": [
+    {
+      "text": "hemorragias",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 540,
+      "end": 551
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 622,
+      "end": 636
+    },
+    {
+      "text": "edema cerebral focal o difuso",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 650,
+      "end": 679
+    },
+    {
+      "text": "calcificaciones puntiformes",
+      "type": "PATOLOGIA",
+      "start": 766,
+      "end": 793
+    },
+    {
+      "text": "cerebrales anterior, media y posterior",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1386,
+      "end": 1424
+    },
+    {
+      "text": "sin signos de oclusión ni estenosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1438,
+      "end": 1473
+    },
+    {
+      "text": "10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 1089,
+      "end": 1091
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 252,
+      "end": 268
+    },
+    {
+      "text": "angiografía por TC",
+      "type": "TECNICA_IMAGEN",
+      "start": 310,
+      "end": 328
+    },
+    {
+      "text": "TC PERFUSIÓN",
+      "type": "TECNICA_IMAGEN",
+      "start": 853,
+      "end": 865
+    },
+    {
+      "text": "ANGIO-TC EXTRA E INTRACRANEAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 1094,
+      "end": 1123
+    }
+  ]
+}

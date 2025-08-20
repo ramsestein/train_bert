@@ -1,0 +1,71 @@
+{
+  "document_id": "informe_sintetico_20250804195045_15221",
+  "entities": [
+    {
+      "text": "ictus isquémico",
+      "type": "PATOLOGIA",
+      "start": 300,
+      "end": 315
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 333,
+      "end": 365
+    },
+    {
+      "text": "arteria cerebral media (ACM)",
+      "type": "ARTERIA",
+      "start": 630,
+      "end": 658
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 356,
+      "end": 365
+    },
+    {
+      "text": "3 horas",
+      "type": "MEDIDA",
+      "start": 266,
+      "end": 273
+    },
+    {
+      "text": "aguda",
+      "type": "TEMPORALIDAD",
+      "start": 706,
+      "end": 711
+    },
+    {
+      "text": "ASPECTS 6",
+      "type": "PUNTUACION_CLINICA",
+      "start": 804,
+      "end": 813
+    },
+    {
+      "text": "TC CÓDIGO ICTUS",
+      "type": "TECNICA_IMAGEN",
+      "start": 386,
+      "end": 401
+    },
+    {
+      "text": "Oclusión completa en el segmento proximal M1 de la ACM izquierda",
+      "type": "PATOLOGIA",
+      "start": 1332,
+      "end": 1396
+    },
+    {
+      "text": "Oclusión proximal (M1) de la arteria cerebral media izquierda",
+      "type": "PATOLOGIA",
+      "start": 1669,
+      "end": 1730
+    },
+    {
+      "text": "sin infarcto establecido",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1837,
+      "end": 1861
+    }
+  ]
+}

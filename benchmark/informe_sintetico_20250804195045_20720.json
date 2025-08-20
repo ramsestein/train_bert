@@ -1,0 +1,89 @@
+{
+  "document_id": "informe_sintetico_20250804195045_20720",
+  "entities": [
+    {
+      "text": "infarto cerebral reciente",
+      "type": "PATOLOGIA",
+      "start": 636,
+      "end": 661
+    },
+    {
+      "text": "transformación hemorrágica tipo PH1",
+      "type": "PATOLOGIA",
+      "start": 761,
+      "end": 796
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 587,
+      "end": 619
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 610,
+      "end": 619
+    },
+    {
+      "text": "isquémica",
+      "type": "PATOLOGIA",
+      "start": 691,
+      "end": 700
+    },
+    {
+      "text": "Oclusión de segmento proximal de arteria cerebral media izquierda",
+      "type": "PATOLOGIA",
+      "start": 1403,
+      "end": 1468
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 587,
+      "end": 619
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 610,
+      "end": 619
+    },
+    {
+      "text": "No se observa desplazamiento significativo de la línea media",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 896,
+      "end": 956
+    },
+    {
+      "text": "No hay evidencia de lesiones extracraneales o masa expansiva",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1025,
+      "end": 1085
+    },
+    {
+      "text": "No desplazamientos de línea media ni complicaciones adicionales detectadas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1967,
+      "end": 2041
+    },
+    {
+      "text": "TC CRANEAL BASAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 514,
+      "end": 530
+    },
+    {
+      "text": "TC PERFUSIÓN",
+      "type": "TECNICA_IMAGEN",
+      "start": 1089,
+      "end": 1101
+    },
+    {
+      "text": "ANGIO-TC ARTERIAL INTRACRANEAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 1369,
+      "end": 1399
+    }
+  ]
+}

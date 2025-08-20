@@ -1,0 +1,25 @@
+UO_PACN (Unidad Organizativa Médica): RADIO
+
+PRUEB (Prueba solicitada): TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANG IOTC ARTERIAL INTRACRANEAL)
+
+CLIN (Resumen clínico): Paciente con debut súbito de hemiparesia derecha y cefalea intensa, sospecha de hemorragia intracerebral.
+
+OBSR (Protocolo): Protocolo Código Ictus: TC craneal basal, estudio de perfusión cerebral y angiografía por angioTC extra e intracraneal.
+
+RESL (Resultados):  
+TC CRANEAL BASAL: Se identifica hematoma de localización profunda en el núcleo caudado izquierdo, con un volumen estimado de aproximadamente 12 ml. Área hiperintensa en la región del núcleo caudado, con leve efecto masa que desplaza la línea media 3 mm hacia la derecha. No se observa extensión hemorrágica hacia el sistema ventricular. No hay evidencias de hemorragia subaracnoidea ni extraaxial. Parénquima cerebral circundante con moderado edema vasogénico, sin signos claros de infarto isquémico agudo. Sistema ventricular de tamaño y morfología conservados, sin colapso. Cisternas basales libres.  
+TC PERFUSIÓN: Disminución focal moderada del flujo sanguíneo cerebral (CBF) en la región adyacente al hematoma, con aumento del tiempo de tránsito medio (TTP) y volumen sanguíneo cerebral (CBV) preservado. No se detectan áreas de penumbra extensa.  
+ANGIO-TC EXTRA E INTRACRANEAL: Troncos supraaórticos y arterias intracraneales sin signos de estenosis significativa ni trombosis. Sistema vertebrobasilar permeable. No se identifican malformaciones vasculares ni aneurismas. Se observa arteria cerebral media y anterior permeables bilateralmente.
+
+CONCL (Conclusiones):  
+Hematoma intracerebral en núcleo caudado izquierdo con moderado efecto masa y desplazamiento de línea media leve. Ausencia de hemorragia ventricular o subaracnoidea. No se evidencian lesiones isquémicas agudas significativas en el territorio circundante. Angiografía sin alteraciones vasculares relevantes.
+
+ACTI_ADICI (Actividad adicional):  
+
+ICON (Estudio): @RADIO_TCICTUS@
+
+X00DIATXT (Texto del diagnóstico ACR): Hematoma intracerebral en núcleos profundos, sin complicaciones hemorrágicas intraventriculares ni malformaciones vasculares asociadas.
+
+EST_T_DES (Descripción): TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANGIOTC ARTERIAL INTRACRANEAL)
+
+ZVASOS_D (Der.): Informe realizado por Dr. [Nombre], radiólogo especialista.

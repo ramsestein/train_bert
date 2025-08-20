@@ -1,0 +1,209 @@
+{
+  "document_id": "informe_sintetico_20250804195045_12686",
+  "entities": [
+    {
+      "text": "ictus isquémico",
+      "type": "PATOLOGIA",
+      "start": 252,
+      "end": 267
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 952,
+      "end": 966
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 669,
+      "end": 692
+    },
+    {
+      "text": "hematomas extraaxiales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 696,
+      "end": 718
+    },
+    {
+      "text": "territorios frontoparietal derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 833,
+      "end": 867
+    },
+    {
+      "text": "occipitotemporal izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 870,
+      "end": 896
+    },
+    {
+      "text": "región insular izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 910,
+      "end": 934
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 952,
+      "end": 966
+    },
+    {
+      "text": "flujo sanguíneo cerebral (CBF)",
+      "type": "MEDIDA",
+      "start": 1255,
+      "end": 1285
+    },
+    {
+      "text": "volumen cerebral de sangre (CBV)",
+      "type": "MEDIDA",
+      "start": 1288,
+      "end": 1320
+    },
+    {
+      "text": "tiempos de tránsito medio (MTT)",
+      "type": "MEDIDA",
+      "start": 1378,
+      "end": 1409
+    },
+    {
+      "text": "tiempo hasta el pico (TTP)",
+      "type": "MEDIDA",
+      "start": 1412,
+      "end": 1438
+    },
+    {
+      "text": "penumbra",
+      "type": "PATOLOGIA",
+      "start": 1585,
+      "end": 1593
+    },
+    {
+      "text": "oclusión completa",
+      "type": "PATOLOGIA",
+      "start": 1672,
+      "end": 1689
+    },
+    {
+      "text": "arteria cerebral media (ACM)",
+      "type": "ARTERIA",
+      "start": 1696,
+      "end": 1724
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 1725,
+      "end": 1732
+    },
+    {
+      "text": "segmento M1",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1736,
+      "end": 1747
+    },
+    {
+      "text": "defecto de relleno",
+      "type": "PATOLOGIA",
+      "start": 1771,
+      "end": 1789
+    },
+    {
+      "text": "arteria cerebral posterior (ACP)",
+      "type": "ARTERIA",
+      "start": 1820,
+      "end": 1852
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 925,
+      "end": 934
+    },
+    {
+      "text": "estenosis severa",
+      "type": "PATOLOGIA",
+      "start": 1868,
+      "end": 1884
+    },
+    {
+      "text": "arteria cerebral anterior (ACA)",
+      "type": "ARTERIA",
+      "start": 1891,
+      "end": 1922
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 1725,
+      "end": 1732
+    },
+    {
+      "text": "arteria carótida interna derecha",
+      "type": "ARTERIA",
+      "start": 1946,
+      "end": 1978
+    },
+    {
+      "text": "irregular",
+      "type": "PATOLOGIA",
+      "start": 2001,
+      "end": 2010
+    },
+    {
+      "text": "signos sugestivos de trombosis mural",
+      "type": "PATOLOGIA",
+      "start": 2015,
+      "end": 2051
+    },
+    {
+      "text": "sin lesiones estenóticas significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2110,
+      "end": 2149
+    },
+    {
+      "text": "ictus isquémico agudo multiterritorial",
+      "type": "PATOLOGIA",
+      "start": 2554,
+      "end": 2592
+    },
+    {
+      "text": "origen tromboembólico multifocal",
+      "type": "PATOLOGIA",
+      "start": 2605,
+      "end": 2637
+    },
+    {
+      "text": "TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANG IOTC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 72,
+      "end": 140
+    },
+    {
+      "text": "TC craneal basal sin contraste",
+      "type": "TECNICA_IMAGEN",
+      "start": 377,
+      "end": 407
+    },
+    {
+      "text": "perfusión cerebral dinámica",
+      "type": "TECNICA_IMAGEN",
+      "start": 409,
+      "end": 436
+    },
+    {
+      "text": "angio-TC de troncos supraórticos y vasos intracraneales",
+      "type": "TECNICA_IMAGEN",
+      "start": 439,
+      "end": 494
+    },
+    {
+      "text": "Técnica multidetector 128 cortes",
+      "type": "TECNICA_IMAGEN",
+      "start": 496,
+      "end": 528
+    }
+  ]
+}

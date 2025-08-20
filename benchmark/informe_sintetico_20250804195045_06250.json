@@ -1,0 +1,95 @@
+{
+  "document_id": "informe_sintetico_20250804195045_06250",
+  "entities": [
+    {
+      "text": "hematoma subdural agudo",
+      "type": "PATOLOGIA",
+      "start": 720,
+      "end": 743
+    },
+    {
+      "text": "hemitórax cerebral izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 593,
+      "end": 621
+    },
+    {
+      "text": "40-50 UH",
+      "type": "MEDIDA",
+      "start": 694,
+      "end": 702
+    },
+    {
+      "text": "18 mm",
+      "type": "MEDIDA",
+      "start": 770,
+      "end": 775
+    },
+    {
+      "text": "7 mm",
+      "type": "MEDIDA",
+      "start": 952,
+      "end": 956
+    },
+    {
+      "text": "agudo",
+      "type": "TEMPORALIDAD",
+      "start": 738,
+      "end": 743
+    },
+    {
+      "text": "sin hemorragia intraparenquimatosa asociada",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2264,
+      "end": 2307
+    },
+    {
+      "text": "sistema carotídeo",
+      "type": "ARTERIA",
+      "start": 1479,
+      "end": 1496
+    },
+    {
+      "text": "cerebral anterior",
+      "type": "ARTERIA",
+      "start": 1498,
+      "end": 1515
+    },
+    {
+      "text": "media",
+      "type": "ARTERIA",
+      "start": 910,
+      "end": 915
+    },
+    {
+      "text": "posterior",
+      "type": "ARTERIA",
+      "start": 1525,
+      "end": 1534
+    },
+    {
+      "text": "sin signos de estenosis ni trombosis",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1430,
+      "end": 1466
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 392,
+      "end": 408
+    },
+    {
+      "text": "Angio-TC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 425,
+      "end": 455
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 458,
+      "end": 479
+    }
+  ]
+}

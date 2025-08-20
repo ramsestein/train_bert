@@ -1,0 +1,179 @@
+{
+  "document_id": "informe_sintetico_20250804195045_19773",
+  "entities": [
+    {
+      "text": "infarto cerebral",
+      "type": "PATOLOGIA",
+      "start": 215,
+      "end": 231
+    },
+    {
+      "text": "hipoperfusión",
+      "type": "PATOLOGIA",
+      "start": 236,
+      "end": 249
+    },
+    {
+      "text": "hemorragia subaracnoidea",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 435,
+      "end": 459
+    },
+    {
+      "text": "hemorragia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 435,
+      "end": 445
+    },
+    {
+      "text": "áreas hipodensas simétricas",
+      "type": "PATOLOGIA",
+      "start": 510,
+      "end": 537
+    },
+    {
+      "text": "regiones de frontera cortical",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 545,
+      "end": 574
+    },
+    {
+      "text": "territorios arteriales frontoparietal y parietooccipital",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 581,
+      "end": 637
+    },
+    {
+      "text": "infartos watershed",
+      "type": "PATOLOGIA",
+      "start": 667,
+      "end": 685
+    },
+    {
+      "text": "edema cerebral significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 707,
+      "end": 735
+    },
+    {
+      "text": "efecto masa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 739,
+      "end": 750
+    },
+    {
+      "text": "ASPECTS 8/10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 827,
+      "end": 839
+    },
+    {
+      "text": "aumento del tiempo de tránsito medio (TTP)",
+      "type": "PATOLOGIA",
+      "start": 912,
+      "end": 954
+    },
+    {
+      "text": "Tmax prolongado",
+      "type": "PATOLOGIA",
+      "start": 957,
+      "end": 972
+    },
+    {
+      "text": "disminución moderada del flujo cerebral (CBF)",
+      "type": "PATOLOGIA",
+      "start": 1038,
+      "end": 1083
+    },
+    {
+      "text": "volumen cerebral (CBV)",
+      "type": "PATOLOGIA",
+      "start": 1086,
+      "end": 1108
+    },
+    {
+      "text": "signos de reperfusión",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1147,
+      "end": 1168
+    },
+    {
+      "text": "áreas de penumbra significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1172,
+      "end": 1203
+    },
+    {
+      "text": "estenosis significativa (~70%)",
+      "type": "PATOLOGIA",
+      "start": 1248,
+      "end": 1278
+    },
+    {
+      "text": "arteria carótida interna izquierda",
+      "type": "ARTERIA",
+      "start": 1308,
+      "end": 1342
+    },
+    {
+      "text": "oclusión completa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1348,
+      "end": 1365
+    },
+    {
+      "text": "vasos intracraneales principales (ACAs, ACMs y ACPs)",
+      "type": "ARTERIA",
+      "start": 1371,
+      "end": 1423
+    },
+    {
+      "text": "sistema vertebrobasilar",
+      "type": "ARTERIA",
+      "start": 1484,
+      "end": 1507
+    },
+    {
+      "text": "zonas watershed corticales frontoparietales y parietooccipitales",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1597,
+      "end": 1661
+    },
+    {
+      "text": "estenosis significativa de arteria carótida interna izquierda",
+      "type": "PATOLOGIA",
+      "start": 1719,
+      "end": 1780
+    },
+    {
+      "text": "signos de hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1800,
+      "end": 1833
+    },
+    {
+      "text": "efecto masa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 739,
+      "end": 750
+    },
+    {
+      "text": "isquemia por insuficiente perfusión",
+      "type": "PATOLOGIA",
+      "start": 1884,
+      "end": 1919
+    },
+    {
+      "text": "estenosis carotídea",
+      "type": "PATOLOGIA",
+      "start": 2079,
+      "end": 2098
+    },
+    {
+      "text": "estenosis carotídea ipsilateral",
+      "type": "PATOLOGIA",
+      "start": 2205,
+      "end": 2236
+    }
+  ]
+}

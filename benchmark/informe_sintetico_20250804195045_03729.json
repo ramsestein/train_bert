@@ -1,0 +1,149 @@
+{
+  "document_id": "informe_sintetico_20250804195045_03729",
+  "entities": [
+    {
+      "text": "isquemia vertebrobasilar aguda",
+      "type": "PATOLOGIA",
+      "start": 277,
+      "end": 307
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 568,
+      "end": 591
+    },
+    {
+      "text": "hematomas extraaxiales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 595,
+      "end": 617
+    },
+    {
+      "text": "lesiones isquémicas parenquimatosas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 683,
+      "end": 718
+    },
+    {
+      "text": "edema cerebral significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 793,
+      "end": 821
+    },
+    {
+      "text": "tiempo de tránsito medio (MTT)",
+      "type": "MEDIDA",
+      "start": 1013,
+      "end": 1043
+    },
+    {
+      "text": "tiempo hasta el pico (TTP)",
+      "type": "MEDIDA",
+      "start": 1046,
+      "end": 1072
+    },
+    {
+      "text": "territorio cerebeloso derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1076,
+      "end": 1105
+    },
+    {
+      "text": "pedúnculo cerebeloso medio",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1126,
+      "end": 1152
+    },
+    {
+      "text": "arteria basilar",
+      "type": "ARTERIA",
+      "start": 1179,
+      "end": 1194
+    },
+    {
+      "text": "arteria vertebral derecha",
+      "type": "ARTERIA",
+      "start": 1197,
+      "end": 1222
+    },
+    {
+      "text": "volumen cerebral (CBV)",
+      "type": "MEDIDA",
+      "start": 1227,
+      "end": 1249
+    },
+    {
+      "text": "estenosis severa (>70%)",
+      "type": "PATOLOGIA",
+      "start": 1444,
+      "end": 1467
+    },
+    {
+      "text": "arteria vertebral derecha",
+      "type": "ARTERIA",
+      "start": 1197,
+      "end": 1222
+    },
+    {
+      "text": "irregularidad mural sugestiva de trombosis parcial",
+      "type": "PATOLOGIA",
+      "start": 1519,
+      "end": 1569
+    },
+    {
+      "text": "defectos de relleno focales en tercio proximal",
+      "type": "PATOLOGIA",
+      "start": 1591,
+      "end": 1637
+    },
+    {
+      "text": "sin estenosis significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1718,
+      "end": 1745
+    },
+    {
+      "text": "sin trombosis evidentes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1847,
+      "end": 1870
+    },
+    {
+      "text": "isquemia aguda en territorio vertebrobasilar",
+      "type": "PATOLOGIA",
+      "start": 1990,
+      "end": 2034
+    },
+    {
+      "text": "predominante derecho",
+      "type": "LATERALIDAD",
+      "start": 2036,
+      "end": 2056
+    },
+    {
+      "text": "penumbra en cerebelo y tronco cerebral",
+      "type": "PATOLOGIA",
+      "start": 2070,
+      "end": 2108
+    },
+    {
+      "text": "trombosis parcial en arteria basilar proximal",
+      "type": "PATOLOGIA",
+      "start": 2167,
+      "end": 2212
+    },
+    {
+      "text": "desplazamiento de línea media",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2300,
+      "end": 2329
+    },
+    {
+      "text": "resonancia magnética con difusión en fase aguda",
+      "type": "TECNICA_IMAGEN",
+      "start": 2513,
+      "end": 2560
+    }
+  ]
+}

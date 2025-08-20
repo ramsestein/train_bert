@@ -1,0 +1,89 @@
+{
+  "document_id": "informe_sintetico_20250804195045_07951",
+  "entities": [
+    {
+      "text": "Hematoma intraparenquimatoso de 35 x 28 x 30 mm aproximadamente",
+      "type": "PATOLOGIA",
+      "start": 437,
+      "end": 500
+    },
+    {
+      "text": "putamen izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 519,
+      "end": 536
+    },
+    {
+      "text": "cápsula interna adyacente",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 560,
+      "end": 585
+    },
+    {
+      "text": "7 mm",
+      "type": "MEDIDA",
+      "start": 698,
+      "end": 702
+    },
+    {
+      "text": "izquierdo",
+      "type": "LATERALIDAD",
+      "start": 527,
+      "end": 536
+    },
+    {
+      "text": "isquemia secundaria",
+      "type": "PATOLOGIA",
+      "start": 1168,
+      "end": 1187
+    },
+    {
+      "text": "bilaterales",
+      "type": "LATERALIDAD",
+      "start": 1552,
+      "end": 1563
+    },
+    {
+      "text": "Hematoma intraparenquimatoso putaminal izquierdo",
+      "type": "PATOLOGIA",
+      "start": 1588,
+      "end": 1636
+    },
+    {
+      "text": "isquemia perilesional",
+      "type": "PATOLOGIA",
+      "start": 2249,
+      "end": 2270
+    },
+    {
+      "text": "TC CRANEAL URGENTE",
+      "type": "TECNICA_IMAGEN",
+      "start": 2077,
+      "end": 2095
+    },
+    {
+      "text": "No se identifican signos de hemorragia subaracnoidea ni hemoventrículo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 878,
+      "end": 948
+    },
+    {
+      "text": "No se evidencian áreas de penumbra isquémica definida más allá del edema",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1223,
+      "end": 1295
+    },
+    {
+      "text": "No se identifican malformaciones vasculares ni aneurismas en territorio intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1398,
+      "end": 1482
+    },
+    {
+      "text": "No se identifican lesiones vasculares activas en angio-TC",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1791,
+      "end": 1848
+    }
+  ]
+}

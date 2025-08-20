@@ -1,0 +1,77 @@
+{
+  "document_id": "informe_sintetico_20250804195045_03241",
+  "entities": [
+    {
+      "text": "trombo intraluminal",
+      "type": "PATOLOGIA",
+      "start": 542,
+      "end": 561
+    },
+    {
+      "text": "isquemia",
+      "type": "PATOLOGIA",
+      "start": 1132,
+      "end": 1140
+    },
+    {
+      "text": "oclusión",
+      "type": "PATOLOGIA",
+      "start": 1402,
+      "end": 1410
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 461,
+      "end": 493
+    },
+    {
+      "text": "segmento M1",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 495,
+      "end": 506
+    },
+    {
+      "text": "ACM",
+      "type": "ARTERIA",
+      "start": 1085,
+      "end": 1088
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 484,
+      "end": 493
+    },
+    {
+      "text": "ASPECTS 7",
+      "type": "PUNTUACION_CLINICA",
+      "start": 703,
+      "end": 712
+    },
+    {
+      "text": "aguda",
+      "type": "TEMPORALIDAD",
+      "start": 1658,
+      "end": 1663
+    },
+    {
+      "text": "prolongación marcada del tiempo de tránsito promedio (TTP)",
+      "type": "MEDIDA",
+      "start": 922,
+      "end": 980
+    },
+    {
+      "text": "caída significativa del flujo cerebral (CBF)",
+      "type": "MEDIDA",
+      "start": 992,
+      "end": 1036
+    },
+    {
+      "text": "volumen cerebral (CBV)",
+      "type": "MEDIDA",
+      "start": 1039,
+      "end": 1061
+    }
+  ]
+}

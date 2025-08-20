@@ -1,0 +1,65 @@
+{
+  "document_id": "informe_sintetico_20250804195045_06288",
+  "entities": [
+    {
+      "text": "infarto lacunar",
+      "type": "PATOLOGIA",
+      "start": 349,
+      "end": 364
+    },
+    {
+      "text": "cápsula interna",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 611,
+      "end": 626
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 627,
+      "end": 636
+    },
+    {
+      "text": "8 mm",
+      "type": "MEDIDA",
+      "start": 654,
+      "end": 658
+    },
+    {
+      "text": "agudo",
+      "type": "TEMPORALIDAD",
+      "start": 703,
+      "end": 708
+    },
+    {
+      "text": "No se identifican signos de sangrado intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 710,
+      "end": 759
+    },
+    {
+      "text": "sin estenosis ni oclusiones evidentes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1250,
+      "end": 1287
+    },
+    {
+      "text": "arterias lenticuloestriadas",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1300,
+      "end": 1327
+    },
+    {
+      "text": "sin alteraciones significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1328,
+      "end": 1359
+    },
+    {
+      "text": "sin evidencia de sangrado ni oclusión de vasos mayores",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1823,
+      "end": 1877
+    }
+  ]
+}

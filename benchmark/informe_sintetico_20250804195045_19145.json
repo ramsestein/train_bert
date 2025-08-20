@@ -1,0 +1,179 @@
+{
+  "document_id": "informe_sintetico_20250804195045_19145",
+  "entities": [
+    {
+      "text": "hemiparesia derecha",
+      "type": "PATOLOGIA",
+      "start": 195,
+      "end": 214
+    },
+    {
+      "text": "afasia",
+      "type": "PATOLOGIA",
+      "start": 217,
+      "end": 223
+    },
+    {
+      "text": "ictus isquémico",
+      "type": "PATOLOGIA",
+      "start": 245,
+      "end": 260
+    },
+    {
+      "text": "arteria cerebral media",
+      "type": "ARTERIA",
+      "start": 278,
+      "end": 300
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 321,
+      "end": 337
+    },
+    {
+      "text": "hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 566,
+      "end": 589
+    },
+    {
+      "text": "signos de infarto establecido",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 593,
+      "end": 622
+    },
+    {
+      "text": "izquierdo",
+      "type": "LATERALIDAD",
+      "start": 890,
+      "end": 899
+    },
+    {
+      "text": "M2-M3",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 929,
+      "end": 934
+    },
+    {
+      "text": "arteria cerebral media",
+      "type": "ARTERIA",
+      "start": 278,
+      "end": 300
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 1033,
+      "end": 1047
+    },
+    {
+      "text": "penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1051,
+      "end": 1069
+    },
+    {
+      "text": "oclusión",
+      "type": "PATOLOGIA",
+      "start": 1106,
+      "end": 1114
+    },
+    {
+      "text": "M2/M3",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1131,
+      "end": 1136
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "ARTERIA",
+      "start": 1144,
+      "end": 1176
+    },
+    {
+      "text": "buena permeabilidad",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1182,
+      "end": 1201
+    },
+    {
+      "text": "ausencia de estenosis significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1228,
+      "end": 1264
+    },
+    {
+      "text": "signos de trombo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1329,
+      "end": 1345
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 1033,
+      "end": 1047
+    },
+    {
+      "text": "territorio de arteria cerebral media distal izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1410,
+      "end": 1463
+    },
+    {
+      "text": "M2/M3",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1131,
+      "end": 1136
+    },
+    {
+      "text": "oclusión vascular",
+      "type": "PATOLOGIA",
+      "start": 1486,
+      "end": 1503
+    },
+    {
+      "text": "penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1051,
+      "end": 1069
+    },
+    {
+      "text": "infarto establecido",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 603,
+      "end": 622
+    },
+    {
+      "text": "ASPECTS 9",
+      "type": "PUNTUACION_CLINICA",
+      "start": 1620,
+      "end": 1629
+    },
+    {
+      "text": "fase aguda",
+      "type": "TEMPORALIDAD",
+      "start": 1647,
+      "end": 1657
+    },
+    {
+      "text": "TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANGIOTC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 2094,
+      "end": 2161
+    },
+    {
+      "text": "angioTC",
+      "type": "TECNICA_IMAGEN",
+      "start": 411,
+      "end": 418
+    },
+    {
+      "text": "estenosis ni alteraciones significativas en vasos proximales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2256,
+      "end": 2316
+    }
+  ]
+}

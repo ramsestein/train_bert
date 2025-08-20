@@ -1,0 +1,101 @@
+{
+  "document_id": "informe_sintetico_20250804195045_11755",
+  "entities": [
+    {
+      "text": "infartos agudos",
+      "type": "PATOLOGIA",
+      "start": 695,
+      "end": 710
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 1123,
+      "end": 1137
+    },
+    {
+      "text": "Oclusión segmentaria",
+      "type": "PATOLOGIA",
+      "start": 1198,
+      "end": 1218
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "ARTERIA",
+      "start": 1225,
+      "end": 1257
+    },
+    {
+      "text": "arteria cerebral anterior derecha",
+      "type": "ARTERIA",
+      "start": 1306,
+      "end": 1339
+    },
+    {
+      "text": "ACM izquierda",
+      "type": "ARTERIA",
+      "start": 1716,
+      "end": 1729
+    },
+    {
+      "text": "ACA derecha",
+      "type": "ARTERIA",
+      "start": 1759,
+      "end": 1770
+    },
+    {
+      "text": "bilateral",
+      "type": "LATERALIDAD",
+      "start": 668,
+      "end": 677
+    },
+    {
+      "text": "significativa",
+      "type": "MEDIDA",
+      "start": 1006,
+      "end": 1019
+    },
+    {
+      "text": "prolongados",
+      "type": "MEDIDA",
+      "start": 950,
+      "end": 961
+    },
+    {
+      "text": "aguda",
+      "type": "TEMPORALIDAD",
+      "start": 1132,
+      "end": 1137
+    },
+    {
+      "text": "No se evidencian signos de hemorragia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 712,
+      "end": 749
+    },
+    {
+      "text": "No signos de hemorragia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1772,
+      "end": 1795
+    },
+    {
+      "text": "TC craneal no contrastada basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 321,
+      "end": 352
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 354,
+      "end": 375
+    },
+    {
+      "text": "angio-TC intra y extracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 378,
+      "end": 407
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "document_id": "informe_sintetico_20250804195045_12797",
+  "entities": [
+    {
+      "text": "infarto agudo",
+      "type": "PATOLOGIA",
+      "start": 617,
+      "end": 630
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 511,
+      "end": 543
+    },
+    {
+      "text": "ACM",
+      "type": "ARTERIA",
+      "start": 740,
+      "end": 743
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 534,
+      "end": 543
+    },
+    {
+      "text": "ASPECTS 6",
+      "type": "PUNTUACION_CLINICA",
+      "start": 645,
+      "end": 654
+    },
+    {
+      "text": "hemorragia intra o extraaxial",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 775,
+      "end": 804
+    },
+    {
+      "text": "penumbra isquémica",
+      "type": "PATOLOGIA",
+      "start": 1157,
+      "end": 1175
+    },
+    {
+      "text": "Oclusión completa",
+      "type": "PATOLOGIA",
+      "start": 1226,
+      "end": 1243
+    },
+    {
+      "text": "segmento proximal M1 de arteria cerebral media izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1248,
+      "end": 1304
+    },
+    {
+      "text": "ACM",
+      "type": "ARTERIA",
+      "start": 740,
+      "end": 743
+    },
+    {
+      "text": "sin estenosis significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1336,
+      "end": 1363
+    },
+    {
+      "text": "sin alteraciones",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1389,
+      "end": 1405
+    },
+    {
+      "text": "No hemorragias ni desplazamientos de línea media",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1778,
+      "end": 1826
+    },
+    {
+      "text": "Oclusión aguda de ACM proximal izquierda",
+      "type": "PATOLOGIA",
+      "start": 2028,
+      "end": 2068
+    },
+    {
+      "text": "infarto isquémico",
+      "type": "PATOLOGIA",
+      "start": 2073,
+      "end": 2090
+    },
+    {
+      "text": "No evidencia de hemorragia intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2122,
+      "end": 2161
+    },
+    {
+      "text": "TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANG IOTC ARTERIAL INTRACRANEAL)",
+      "type": "TECNICA_IMAGEN",
+      "start": 72,
+      "end": 140
+    }
+  ]
+}

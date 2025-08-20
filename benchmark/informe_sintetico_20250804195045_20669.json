@@ -1,0 +1,101 @@
+{
+  "document_id": "informe_sintetico_20250804195045_20669",
+  "entities": [
+    {
+      "text": "isquemia vascular aguda",
+      "type": "PATOLOGIA",
+      "start": 275,
+      "end": 298
+    },
+    {
+      "text": "arteria cerebral anterior derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 736,
+      "end": 769
+    },
+    {
+      "text": "arteria cerebral anterior derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 736,
+      "end": 769
+    },
+    {
+      "text": "A2",
+      "type": "ARTERIA",
+      "start": 1406,
+      "end": 1408
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 762,
+      "end": 769
+    },
+    {
+      "text": "70%",
+      "type": "MEDIDA",
+      "start": 1386,
+      "end": 1389
+    },
+    {
+      "text": "aguda",
+      "type": "TEMPORALIDAD",
+      "start": 293,
+      "end": 298
+    },
+    {
+      "text": "isquemia aguda",
+      "type": "PATOLOGIA",
+      "start": 1274,
+      "end": 1288
+    },
+    {
+      "text": "segmento A2",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1397,
+      "end": 1408
+    },
+    {
+      "text": "arteria cerebral anterior derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 736,
+      "end": 769
+    },
+    {
+      "text": "No se identifican hemorragias intracraneales ni lesiones hiperdensas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 544,
+      "end": 612
+    },
+    {
+      "text": "sin estenosis significativas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1556,
+      "end": 1584
+    },
+    {
+      "text": "sin alteraciones",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1610,
+      "end": 1626
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 337,
+      "end": 353
+    },
+    {
+      "text": "TC perfusión cerebral",
+      "type": "TECNICA_IMAGEN",
+      "start": 355,
+      "end": 376
+    },
+    {
+      "text": "angio TC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 413,
+      "end": 443
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "document_id": "informe_sintetico_20250804195045_01063",
+  "entities": [
+    {
+      "text": "hemorragia subaracnoidea difusa",
+      "type": "PATOLOGIA",
+      "start": 600,
+      "end": 631
+    },
+    {
+      "text": "hemorragia subaracnoidea",
+      "type": "PATOLOGIA",
+      "start": 251,
+      "end": 275
+    },
+    {
+      "text": "5 mm",
+      "type": "MEDIDA",
+      "start": 1267,
+      "end": 1271
+    },
+    {
+      "text": "arteria comunicante anterior",
+      "type": "ARTERIA",
+      "start": 1278,
+      "end": 1306
+    },
+    {
+      "text": "sin estenosis significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2331,
+      "end": 2358
+    },
+    {
+      "text": "TC craneal sin contraste basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 302,
+      "end": 332
+    },
+    {
+      "text": "angio-TC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 345,
+      "end": 375
+    },
+    {
+      "text": "estudio de perfusión cerebral urgente",
+      "type": "TECNICA_IMAGEN",
+      "start": 378,
+      "end": 415
+    }
+  ]
+}

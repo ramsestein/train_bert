@@ -1,0 +1,53 @@
+{
+  "document_id": "informe_sintetico_20250804195045_20748",
+  "entities": [
+    {
+      "text": "infarto agudo",
+      "type": "PATOLOGIA",
+      "start": 605,
+      "end": 618
+    },
+    {
+      "text": "región subcortical y cortical de la ínsula y opercular izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 475,
+      "end": 539
+    },
+    {
+      "text": "arteria cerebral media (ACM) izquierda",
+      "type": "ARTERIA",
+      "start": 636,
+      "end": 674
+    },
+    {
+      "text": "izquierdo",
+      "type": "LATERALIDAD",
+      "start": 530,
+      "end": 539
+    },
+    {
+      "text": "70%",
+      "type": "MEDIDA",
+      "start": 1497,
+      "end": 1500
+    },
+    {
+      "text": "agudo",
+      "type": "TEMPORALIDAD",
+      "start": 613,
+      "end": 618
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 292,
+      "end": 308
+    },
+    {
+      "text": "No hay signos de hemorragia intraparenquimatosa ni hematoma intracraneal",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 676,
+      "end": 748
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "document_id": "informe_sintetico_20250804195045_19198",
+  "entities": [
+    {
+      "text": "contusión hemorrágica",
+      "type": "PATOLOGIA",
+      "start": 457,
+      "end": 478
+    },
+    {
+      "text": "lóbulo temporal derecho",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 482,
+      "end": 505
+    },
+    {
+      "text": "2.2 x 1.8 x 1.5 cm",
+      "type": "MEDIDA",
+      "start": 526,
+      "end": 544
+    },
+    {
+      "text": "edema cerebral",
+      "type": "PATOLOGIA",
+      "start": 607,
+      "end": 621
+    },
+    {
+      "text": "efecto de masa",
+      "type": "PATOLOGIA",
+      "start": 650,
+      "end": 664
+    },
+    {
+      "text": "derecha",
+      "type": "LATERALIDAD",
+      "start": 1157,
+      "end": 1164
+    },
+    {
+      "text": "disminución del flujo sanguíneo",
+      "type": "PATOLOGIA",
+      "start": 901,
+      "end": 932
+    },
+    {
+      "text": "isquemia franca",
+      "type": "PATOLOGIA",
+      "start": 966,
+      "end": 981
+    },
+    {
+      "text": "AngioTC arterial intracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 983,
+      "end": 1012
+    },
+    {
+      "text": "sin evidencia de estenosis, oclusiones ni malformaciones vasculares",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1013,
+      "end": 1080
+    },
+    {
+      "text": "sin compromiso hemodinámico arterial significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1198,
+      "end": 1248
+    }
+  ]
+}

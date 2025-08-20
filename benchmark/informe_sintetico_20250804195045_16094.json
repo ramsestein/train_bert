@@ -1,0 +1,119 @@
+{
+  "document_id": "informe_sintetico_20250804195045_16094",
+  "entities": [
+    {
+      "text": "infarto cerebral reciente",
+      "type": "PATOLOGIA",
+      "start": 220,
+      "end": 245
+    },
+    {
+      "text": "transformación hemorrágica",
+      "type": "PATOLOGIA",
+      "start": 259,
+      "end": 285
+    },
+    {
+      "text": "focos hiperdensos puntiformes y lineales",
+      "type": "PATOLOGIA",
+      "start": 504,
+      "end": 544
+    },
+    {
+      "text": "lesión isquémica previa",
+      "type": "PATOLOGIA",
+      "start": 579,
+      "end": 602
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "ARTERIA",
+      "start": 626,
+      "end": 658
+    },
+    {
+      "text": "transformación hemorrágica grado HI1",
+      "type": "PUNTUACION_CLINICA",
+      "start": 676,
+      "end": 712
+    },
+    {
+      "text": "aumento del tiempo de tránsito",
+      "type": "PATOLOGIA",
+      "start": 1144,
+      "end": 1174
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "ARTERIA",
+      "start": 626,
+      "end": 658
+    },
+    {
+      "text": "segmento M2",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1442,
+      "end": 1453
+    },
+    {
+      "text": "sin oclusión completa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1455,
+      "end": 1476
+    },
+    {
+      "text": "sin áreas de hipoperfusión crítica",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1208,
+      "end": 1242
+    },
+    {
+      "text": "sin estenosis significativa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1351,
+      "end": 1378
+    },
+    {
+      "text": "sin alteraciones hemodinámicas relevantes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1547,
+      "end": 1588
+    },
+    {
+      "text": "sin hematoma significativo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1757,
+      "end": 1783
+    },
+    {
+      "text": "sin evidencia de isquemia crítica activa",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1860,
+      "end": 1900
+    },
+    {
+      "text": "TC craneal basal",
+      "type": "TECNICA_IMAGEN",
+      "start": 306,
+      "end": 322
+    },
+    {
+      "text": "TC PERFUSIÓN",
+      "type": "TECNICA_IMAGEN",
+      "start": 1081,
+      "end": 1093
+    },
+    {
+      "text": "ANGIO-TC EXTRA E INTRACRANEAL",
+      "type": "TECNICA_IMAGEN",
+      "start": 1261,
+      "end": 1290
+    },
+    {
+      "text": "infarto agudo",
+      "type": "TEMPORALIDAD",
+      "start": 1653,
+      "end": 1666
+    }
+  ]
+}

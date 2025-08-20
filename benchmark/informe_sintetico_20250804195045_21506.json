@@ -1,0 +1,233 @@
+{
+  "document_id": "informe_sintetico_20250804195045_21506",
+  "entities": [
+    {
+      "text": "hemiparesia derecha",
+      "type": "PATOLOGIA",
+      "start": 196,
+      "end": 215
+    },
+    {
+      "text": "afasia",
+      "type": "PATOLOGIA",
+      "start": 218,
+      "end": 224
+    },
+    {
+      "text": "ictus isquémico múltiple",
+      "type": "PATOLOGIA",
+      "start": 246,
+      "end": 270
+    },
+    {
+      "text": "hemorragias intracraneales",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 551,
+      "end": 577
+    },
+    {
+      "text": "transformación hemorrágica",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 591,
+      "end": 617
+    },
+    {
+      "text": "hipodensidad temprana",
+      "type": "PATOLOGIA",
+      "start": 643,
+      "end": 664
+    },
+    {
+      "text": "arteria cerebral media izquierda",
+      "type": "ARTERIA",
+      "start": 700,
+      "end": 732
+    },
+    {
+      "text": "región parietal derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 749,
+      "end": 772
+    },
+    {
+      "text": "lóbulo occipital izquierdo",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 781,
+      "end": 807
+    },
+    {
+      "text": "infartos isquémicos agudos",
+      "type": "PATOLOGIA",
+      "start": 825,
+      "end": 851
+    },
+    {
+      "text": "edema cerebral severo",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 999,
+      "end": 1020
+    },
+    {
+      "text": "desplazamiento significativo de la línea media",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1024,
+      "end": 1070
+    },
+    {
+      "text": "desviación menor a 3 mm",
+      "type": "MEDIDA",
+      "start": 1072,
+      "end": 1095
+    },
+    {
+      "text": "hidrocefalia",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1168,
+      "end": 1180
+    },
+    {
+      "text": "Cisternas basales libres",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1182,
+      "end": 1206
+    },
+    {
+      "text": "aumento del tiempo de tránsito medio (TTP)",
+      "type": "PATOLOGIA",
+      "start": 1242,
+      "end": 1284
+    },
+    {
+      "text": "disminución del flujo sanguíneo cerebral (CBF)",
+      "type": "PATOLOGIA",
+      "start": 1287,
+      "end": 1333
+    },
+    {
+      "text": "hemisferio izquierdo frontoparietal",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1377,
+      "end": 1412
+    },
+    {
+      "text": "derecha occipital",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 1415,
+      "end": 1432
+    },
+    {
+      "text": "conservación parcial del volumen cerebral (CBV)",
+      "type": "PATOLOGIA",
+      "start": 1438,
+      "end": 1485
+    },
+    {
+      "text": "mismatch significativo",
+      "type": "PATOLOGIA",
+      "start": 1500,
+      "end": 1522
+    },
+    {
+      "text": "penumbra isquémica activa",
+      "type": "PATOLOGIA",
+      "start": 1553,
+      "end": 1578
+    },
+    {
+      "text": "segmento M1 de la arteria cerebral media izquierda",
+      "type": "ARTERIA",
+      "start": 1645,
+      "end": 1695
+    },
+    {
+      "text": "oclusión segmentaria en la arteria cerebral posterior derecha",
+      "type": "ARTERIA",
+      "start": 1698,
+      "end": 1759
+    },
+    {
+      "text": "placas ateromatosas ulceradas",
+      "type": "PATOLOGIA",
+      "start": 1773,
+      "end": 1802
+    },
+    {
+      "text": "segmentos cervicales de las arterias carótidas internas",
+      "type": "ARTERIA",
+      "start": 1812,
+      "end": 1867
+    },
+    {
+      "text": "estenosis moderadas bilaterales (45-60%)",
+      "type": "PATOLOGIA",
+      "start": 1873,
+      "end": 1913
+    },
+    {
+      "text": "estenosis ni oclusiones",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1953,
+      "end": 1976
+    },
+    {
+      "text": "aneurismas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1996,
+      "end": 2006
+    },
+    {
+      "text": "malformaciones arteriovenosas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2010,
+      "end": 2039
+    },
+    {
+      "text": "isquemia aguda multiterritorial",
+      "type": "PATOLOGIA",
+      "start": 2087,
+      "end": 2118
+    },
+    {
+      "text": "territorios superficiales de arteria cerebral media izquierda",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 2129,
+      "end": 2190
+    },
+    {
+      "text": "arteria cerebral posterior derecha",
+      "type": "ARTERIA",
+      "start": 1725,
+      "end": 1759
+    },
+    {
+      "text": "lóbulo parietal contralateral",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 2229,
+      "end": 2258
+    },
+    {
+      "text": "evidencia de penumbra en fase activa",
+      "type": "PATOLOGIA",
+      "start": 2264,
+      "end": 2300
+    },
+    {
+      "text": "oclusión segmentaria de ACP derecha",
+      "type": "PATOLOGIA",
+      "start": 2372,
+      "end": 2407
+    },
+    {
+      "text": "estenosis moderadas",
+      "type": "PATOLOGIA",
+      "start": 1873,
+      "end": 1892
+    },
+    {
+      "text": "complicaciones hemorrágicas evidentes",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 2495,
+      "end": 2532
+    }
+  ]
+}

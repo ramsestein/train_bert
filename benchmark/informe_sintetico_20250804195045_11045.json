@@ -1,0 +1,83 @@
+{
+  "document_id": "informe_sintetico_20250804195045_11045",
+  "entities": [
+    {
+      "text": "hematoma lobar de localización frontal derecha",
+      "type": "PATOLOGIA",
+      "start": 453,
+      "end": 499
+    },
+    {
+      "text": "frontal derecha",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 484,
+      "end": 499
+    },
+    {
+      "text": "25 ml",
+      "type": "MEDIDA",
+      "start": 527,
+      "end": 532
+    },
+    {
+      "text": "edema cerebral circundante moderado",
+      "type": "PATOLOGIA",
+      "start": 620,
+      "end": 655
+    },
+    {
+      "text": "efecto masa",
+      "type": "PATOLOGIA",
+      "start": 671,
+      "end": 682
+    },
+    {
+      "text": "desplazamiento de la línea media de aproximadamente 4 mm hacia la izquierda",
+      "type": "PATOLOGIA",
+      "start": 687,
+      "end": 762
+    },
+    {
+      "text": "izquierda",
+      "type": "LATERALIDAD",
+      "start": 753,
+      "end": 762
+    },
+    {
+      "text": "No se identifican signos de fractura ósea ni hemorragia intraventricular",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 764,
+      "end": 836
+    },
+    {
+      "text": "No se visualizan signos de isquemia aguda en perfusión cerebral",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1033,
+      "end": 1096
+    },
+    {
+      "text": "sin estenosis ni oclusiones",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1298,
+      "end": 1325
+    },
+    {
+      "text": "sin lesiones focales obstructivas",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1374,
+      "end": 1407
+    },
+    {
+      "text": "TC craneal basal sin contraste inicial seguido de perfusión cerebral y Angio-TC arterial intra y extracraneal",
+      "type": "TECNICA_IMAGEN",
+      "start": 290,
+      "end": 399
+    },
+    {
+      "text": "TC NEURO S/CONTRASTE + PERFUSIÓN + ANGIO-TC",
+      "type": "TECNICA_IMAGEN",
+      "start": 1916,
+      "end": 1959
+    }
+  ]
+}

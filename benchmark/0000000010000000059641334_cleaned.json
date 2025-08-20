@@ -1,0 +1,77 @@
+{
+  "document_id": "0000000010000000059641334_cleaned",
+  "entities": [
+    {
+      "text": "Infart cerebral causat per oclusió o estenosi no especificades d'artèria cerebral no especificada",
+      "type": "PATOLOGIA",
+      "start": 166,
+      "end": 263
+    },
+    {
+      "text": "No se observa hemorragia intra ni extraaxial.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 395,
+      "end": 440
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 488,
+      "end": 498
+    },
+    {
+      "text": "Estructuras de la línea media centradas.",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 501,
+      "end": 541
+    },
+    {
+      "text": "Sistema ventricular de tamaño y morfología normal.",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 542,
+      "end": 592
+    },
+    {
+      "text": "Cisternas basales libres.",
+      "type": "LOCALIZACION_ANATOMICA",
+      "start": 593,
+      "end": 618
+    },
+    {
+      "text": "No se observan alteraciones valorables en el TTP, CBV y CBF.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 633,
+      "end": 693
+    },
+    {
+      "text": "ACAs, ACMs y ACPs",
+      "type": "ARTERIA",
+      "start": 816,
+      "end": 833
+    },
+    {
+      "text": "Sistema vertebrobasilar permeable.",
+      "type": "ARTERIA",
+      "start": 836,
+      "end": 870
+    },
+    {
+      "text": "No se observan signos de patología intracraneal aguda.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1109,
+      "end": 1163
+    },
+    {
+      "text": "ASPECTS 10",
+      "type": "PUNTUACION_CLINICA",
+      "start": 488,
+      "end": 498
+    },
+    {
+      "text": "No hay hemorragia aguda intracraneal.",
+      "type": "HALLAZGO_NEGATIVO",
+      "start": 1213,
+      "end": 1250
+    }
+  ]
+}
