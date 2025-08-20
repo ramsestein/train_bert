@@ -414,7 +414,9 @@ class ModelEvaluator:
         
         for txt_file in txt_files:
             counter += 1
-            if counter > EVALUATION_CONFIG['num_documents'] + 1 :
+            print(counter)
+            if counter > EVALUATION_CONFIG['num_documents'] + 1:
+                print(f"  Procesados {counter} documentos")
                 break
             
             # Construir nombre del archivo de anotaciones correspondiente
