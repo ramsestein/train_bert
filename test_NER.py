@@ -45,19 +45,19 @@ SEMANTIC_THRESHOLDS = {
     'ARTERIA': 0.85
 }
 
-# Umbrales de confianza para predicciones
+# Umbrales de confianza para predicciones (bajados para ser más permisivos)
 CONFIDENCE_THRESHOLDS = {
-    'global': 0.3,  # <-- AJUSTA ESTE VALOR (prueba 0.3, 0.4, 0.5, 0.6)
-    'B-PATOLOGIA': 0.4,
-    'I-PATOLOGIA': 0.4,
-    'B-LOCALIZACION_ANATOMICA': 0.4,
-    'I-LOCALIZACION_ANATOMICA': 0.4,
-    'B-ARTERIA': 0.4,
-    'I-ARTERIA': 0.4,
-    'B-MEDIDA': 0.3,  # Más bajo para medidas que son importantes
-    'I-MEDIDA': 0.3,
-    'B-HALLAZGO_NEGATIVO': 0.5,
-    'I-HALLAZGO_NEGATIVO': 0.5,
+    'global': 0.1,  # Muy bajo para detectar más entidades inicialmente
+    'B-PATOLOGIA': 0.2,
+    'I-PATOLOGIA': 0.2,
+    'B-LOCALIZACION_ANATOMICA': 0.2,
+    'I-LOCALIZACION_ANATOMICA': 0.2,
+    'B-ARTERIA': 0.2,
+    'I-ARTERIA': 0.2,
+    'B-MEDIDA': 0.1,  # Más bajo para medidas que son importantes
+    'I-MEDIDA': 0.1,
+    'B-HALLAZGO_NEGATIVO': 0.2,
+    'I-HALLAZGO_NEGATIVO': 0.2,
 }
 
 
@@ -465,8 +465,34 @@ class ModelEvaluator:
         # Obtener predicciones SIN agregación para controlar el umbral
         ner_results_raw = ner_pipeline(text, aggregation_strategy="none")
         
+        # Debug: analizar predicciones brutas en primer documento
+        if not hasattr(self, '_debug_done_predictions'):
+            self._debug_done_predictions = True
+            print(f"\n  DEBUG - Predicciones brutas para doc {doc_id[:20]}...")
+            
+            # Contar predicciones por tipo
+            prediction_counts = {}
+            high_confidence_preds = []
+            
+            for pred in ner_results_raw[:50]:  # Solo los primeros 50 tokens
+                entity_type = pred['entity']
+                score = pred['score']
+                word = pred['word']
+                
+                prediction_counts[entity_type] = prediction_counts.get(entity_type, 0) + 1
+                
+                if score > 0.2 and entity_type not in ['O', 'LABEL_0']:
+                    high_confidence_preds.append((word, entity_type, score))
+            
+            print(f"    Total predicciones: {len(ner_results_raw)}")
+            print(f"    Tipos predichos: {dict(list(prediction_counts.items())[:10])}")
+            print(f"    Predicciones confianza > 0.2:")
+            for word, etype, score in high_confidence_preds[:10]:
+                print(f"      '{word}' -> {etype} ({score:.3f})")
+        
         entities = []
         current_entity = None
+        processed_entities = 0
         
         for pred in ner_results_raw:
             entity_type = pred['entity']
@@ -478,6 +504,7 @@ class ModelEvaluator:
             
             # FILTRAR: Solo procesar si supera el umbral Y no es O
             if entity_type not in ['O', 'LABEL_0'] and score >= threshold:
+                processed_entities += 1
                 
                 if entity_type.startswith('B-'):
                     # Si había una entidad en proceso, guardarla
@@ -564,10 +591,16 @@ class ModelEvaluator:
         if not hasattr(self, '_debug_done'):
             self._debug_done = True
             print(f"\n  DEBUG - Umbral global: {CONFIDENCE_THRESHOLDS['global']}")
+            print(f"  DEBUG - Tokens que superaron umbral: {processed_entities}")
+            print(f"  DEBUG - Entidades antes de fusión: {len(entities)}")
             print(f"  DEBUG - Entidades detectadas (después de fusión): {len(merged_entities)}")
-            if merged_entities[:5]:
+            if merged_entities[:3]:
                 print(f"  Primeras entidades:")
-                for e in merged_entities[:5]:
+                for e in merged_entities[:3]:
+                    print(f"    {e}")
+            elif entities[:3]:
+                print(f"  Entidades antes de fusión:")
+                for e in entities[:3]:
                     print(f"    {e}")
         
         return merged_entities
